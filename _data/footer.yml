@@ -1,0 +1,41 @@
+# Footer content is organized in columns.
+# You can also add a small print license statement at the bottom.
+
+# Columns (the more you add, the narrower they will be)
+columns:
+  - name: Partners
+    links:
+    - text: Name of project partner 1
+      href: http://example.com
+    - text: Name of project partner 2
+      href: http://example.com
+
+  - name: Code
+    description: | # Can be Markdown
+      This project is open source. See `_data/footer.yml` to customize the footer.
+  
+  - name: Contact
+    description: | # Can be Markdown
+      Social icons links defined in `_config.yml`
+      * Street name
+      * 1234 postal code
+      * Country
+    connectIcons: true
+
+  # EXAMPLE
+  #- name: Group name
+  #  description: |
+  #    An optional description. Can be markdown
+  #  links: # optional as well
+  #  - text: link title
+  #    href: http://example.com
+  #  - text: link title 2
+  #    href: http://example2.com
+  #  connectIcons: true # optional - show social icons (defined in _config.yml)
+
+
+# Small print license statement to add at the bottom of the footer. Can be Markdown
+# Will be prefixed by "© {{ site.author }}" if defined in _config.yml
+# Will be postfixed by "Powered by GBIF"
+license: >
+  Content on this site is licensed under an [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).

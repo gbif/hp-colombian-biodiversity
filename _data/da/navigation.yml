@@ -1,0 +1,20 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Om
+  href: /da/om
+- text: Data
+  href: /da/data
+- text: Links
+  menu: # Dropdown menu (one level deep only)
+  - text: Base tema demo
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: "Docs" # Title for block of menu items
+  - text: Jekyll dokumentation
+    href: https://jekyllrb.com/docs/pages/
+  - text: Lær Markdown
+    href: https://guides.github.com/features/mastering-markdown/
+  - text: Lær YAML
+    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
+- text: Nyheder
+  href: /da/nyheder/
