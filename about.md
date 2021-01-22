@@ -10,15 +10,9 @@ height: 70vh
 
 ## Acerca de BIODIVERSIDAD.CO
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+Es el ecosistema digital del [SiB Colombia](https://sibcolombia.net/) que permite a cualquier persona acceder, compartir y utilizar datos e información sobre las especies de nuestro país.
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+A través de diferentes servicios de información disponibles en esta plataforma en línea, se facilita la construcción, uso y democratización del conocimiento sobre la diversidad biológica de Colombia.
 
 ## Quam ex te videt
 
