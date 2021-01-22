@@ -13,7 +13,7 @@ columns:
   - name: Code
     description: | # Can be Markdown
       This project is open source. See `_data/footer.yml` to customize the footer.
-  
+
   - name: Contact
     description: | # Can be Markdown
       Social icons links defined in `_config.yml`
@@ -37,5 +37,6 @@ columns:
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 # Will be postfixed by "Powered by GBIF"
-license: >
-  Content on this site is licensed under an [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+# (Disabled by default, remove the '#' lines on the following two lines to enable.)
+#license: >
+#  Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
