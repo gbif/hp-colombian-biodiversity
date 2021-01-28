@@ -23,5 +23,6 @@
   menu: # Dropdown menu (one level deep only)
   - text: Tipos de Datos
   - text: Estándares
+  href: https://hp-colombian-biodiversity.gbif-staging.org/hellocp
   - text: Guía de publicación
   - text: Regístrate 
