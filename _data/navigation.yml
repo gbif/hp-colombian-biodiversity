@@ -18,3 +18,10 @@
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
 - text: News
   href: /news/
+  
+- text: Publica
+  menu: # Dropdown menu (one level deep only)
+  - text: Tipos de Datos
+  - text: Estándares
+  - text: Guía de publicación
+  - text: Regístrate 
