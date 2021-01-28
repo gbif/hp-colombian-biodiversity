@@ -5,10 +5,10 @@
 columns:
   - name: Partners
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+    - text: GBIF
+      href: https://www.gbif.org/
+    - text: Instituto Alexander von Humboldt
+      href: http://www.humboldt.org.co/es/contactenos
 
   - name: Code
     description: | # Can be Markdown
@@ -17,9 +17,9 @@ columns:
   - name: Contact
     description: | # Can be Markdown
       Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+      * Calle 28 A # 15 - 09, Bogotá D.C.
+      * PBX: (+571) 320 2767
+      * Colombia
     connectIcons: true
 
   # EXAMPLE
