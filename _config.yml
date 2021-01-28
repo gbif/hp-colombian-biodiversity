@@ -19,15 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: BIODIVERSIDAD.CO # the title of your site should go here
-email: your-email@example.com
+email: sib@humboldt.org.co
 description: >- # this means to ignore newlines (until baseurl:)
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: sibcolombia
+github_username:  SiBColombia
 
 # Build settings
 theme: minima
@@ -39,7 +39,7 @@ remote_theme: gbif/jekyll-hp-base-theme
 
 algae:
   rootLang: en
-  # latestPostLimit: 2
+  # latestPostLimit: 2 
   logo: /assets/images/Logo-Horizontal.png  # Logo in navbar, will be displayed with 28px height
   logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
