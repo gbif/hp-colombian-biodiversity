@@ -40,14 +40,14 @@ remote_theme: gbif/jekyll-hp-base-theme
 algae:
   rootLang: en
   # latestPostLimit: 2
-  # logo: /assets/images/fungi.svg  # Logo in navbar, will be displayed with 28px height
+  logo: /assets/images/BIOdiversidadCO.svg  # Logo in navbar, will be displayed with 28px height
   # logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
   style:
     # square: false               # Should corners be square or rounded
     colors:
-      primary: "#5FFAC1"          # Primary color of your brand. Use HEX code. Used for buttons and links
-      # links: "#fa5e97"          # What color should links have. Use a HEX code. DEfault is primary color. 
+      primary: "#54A4DB"          # Primary color of your brand. Use HEX code. Used for buttons and links
+      # links: "#F9B408"          # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
     # brandBackground: yellow     # Define a custom background for the logo/title in the top navigation bar
