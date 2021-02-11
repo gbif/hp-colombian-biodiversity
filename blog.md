@@ -45,3 +45,9 @@ title: Blog
     </li>
   {% endfor %}
 </ul>
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Blog
+  link: /blog.html
