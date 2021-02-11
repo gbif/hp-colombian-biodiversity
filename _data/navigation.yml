@@ -28,5 +28,6 @@
   - text: Regístrate
   - text: Comité Directivo
     href: https://hp-colombian-biodiversity.gbif-staging.org/AboutSiBColombia
-  - text: Blog
-    href: /hello
+    
+- text: Blog
+  href: /hello
