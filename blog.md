@@ -1,9 +1,4 @@
 ---
-layout: default
----
-# My page
-This is my first page jojo
----
 layout: post
 title: Welcome
 background: https://via.placeholder.com/1000x400
