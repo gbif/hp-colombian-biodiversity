@@ -44,6 +44,7 @@ title: Blog
       {{ post.excerpt }}
     </li>
   {% endfor %}
+  
 </ul>
 - name: Home
   link: /
