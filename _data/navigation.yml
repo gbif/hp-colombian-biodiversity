@@ -1,10 +1,10 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About
+- text: Buscar
   href: /about
-- text: Data
+- text: Compartir
   href: /data
-- text: Links
+- text: Recursos
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
     href: https://hp-base-theme.gbif-staging.org/
@@ -16,11 +16,9 @@
     href: https://guides.github.com/features/mastering-markdown/
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-
-- text: News
+- text: Comunidad
   href: /news/
-  
-- text: Publica
+- text: Noticias y Eventos
   menu: # Dropdown menu (one level deep only)
   - text: Tipos de Datos
   - text: Estándares
@@ -29,6 +27,5 @@
   - text: Regístrate
   - text: Comité Directivo
     href: https://hp-colombian-biodiversity.gbif-staging.org/AboutSiBColombia
-    
-- text: Blog
+- text: Acerca de
   href: /blog
