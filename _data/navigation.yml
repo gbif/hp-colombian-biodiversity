@@ -16,6 +16,21 @@
     href: https://guides.github.com/features/mastering-markdown/
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
+
+- text: Comunidad
+  href: https://hp-colombian-biodiversity.gbif-staging.org/hellocp
+  menu:
+ - text: Actividad de publicación
+ - text: Socios publicadores
+ - text: Proyectos
+   submenu: Formación
+   - text: Alumni
+   - label: Talleres
+   - label: Webinars
+ - text: Formación
+ - text: Grupos de Trabajo
+ - text: Uso de datos
+
 - text: News
   href: /news/
   
