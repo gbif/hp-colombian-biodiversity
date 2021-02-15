@@ -17,22 +17,37 @@
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
 
-- text: Comunidad
-  href: https://hp-colombian-biodiversity.gbif-staging.org/hellocp
-  menu:
- - text: Actividad de publicación
- - text: Socios publicadores
- - text: Proyectos
- - text: Formación
-   submenu: 
-  - text: Alumni
-    href: https://jekyllrb.com/docs/pages/
-  - label: Talleres
-    href: https://jekyllrb.com/docs/pages/
-  - label: Webinars
-    href: https://jekyllrb.com/docs/pages/
- - text: Grupos de Trabajo
- - text: Uso de datos
+#- text: Comunidad
+#  href: https://hp-colombian-biodiversity.gbif-staging.org/hellocp
+#  menu:
+# - text: Actividad de publicación
+# - text: Socios publicadores
+# - text: Proyectos
+# - text: Formación
+#   submenu: 
+#  - text: Alumni
+#    href: https://jekyllrb.com/docs/pages/
+#  - label: Talleres
+#    href: https://jekyllrb.com/docs/pages/
+#  - label: Webinars
+#    href: https://jekyllrb.com/docs/pages/
+# - text: Grupos de Trabajo
+# - text: Uso de datos
+
+
+- title: Group 1
+  subfolderitems:
+    - page: Thing 1
+      url: /thing1.html
+    - page: Thing 2
+      url: /thing2.html
+      subsubfolderitems:
+        - page: Subthing 1
+          url: /subthing1.html
+        - page: Subthing 2
+          url: /subthing2.html
+    - page: Thing 3
+      url: /thing3.html
 
 - text: News
   href: /news/
