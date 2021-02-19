@@ -39,7 +39,12 @@ remote_theme: gbif/jekyll-hp-base-theme
 
 algae:
   rootLang: en
-  # latestPostLimit: 2 
+  # latestPostLimit: 2
+  didweb_resize:
+    img_ancho_p: 240
+    img_alto_p: 196
+    img_ancho_g: 1024
+    img_alto_g: 768
   logo: /assets/images/Logo-Horizontal.png  # Logo in navbar, will be displayed with 28px height
   logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
