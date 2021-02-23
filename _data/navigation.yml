@@ -42,7 +42,9 @@
 - text: Noticias y Eventos
   menu: # Dropdown menu (one level deep only)
   - text: Boletín
+    href: /noticiasEventos/Boletin.md
   - text: Convocatorias
+    href: /noticiasEventos/Convocatorias.md
   - text: Oportunidades
 - text: Acerca De
   menu: # Dropdown menu (one level deep only)
