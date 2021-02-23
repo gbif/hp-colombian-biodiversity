@@ -11,7 +11,6 @@ columns:
 
   - name: Contacto
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
       * sib@humboldt.org.co
       * Calle 28 A # 15 - 09, Bogotá D.C.
       * PBX: (+571) 320 2767
