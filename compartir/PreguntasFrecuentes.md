@@ -1,12 +1,7 @@
 ---
-layout: heroImage
-lang-ref: Estandares
+layout: default
 title: Preguntas Frecuentes
 description: Estas son  algunas de las preguntas mas frecuentes que respondemos desde el SiB Colombia. 
-# background: /assets/images/Baudouinia_fluggeiformis.jpeg
-# imageLicense: |
-# Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
-height: 70vh
 ---
 
 # Preguntas Frecuentes sobre el proceso de publicación
@@ -33,7 +28,7 @@ Envíe un correo a sib@humboldt.org.co indicando la intención de actualizar la 
 
 ## Tipos de datos
 
-Según el tipo de datos..
+Según el tipo de datos, hay varias opciones
 
  <details>
   <summary markdown="span">¿Qué tipo de datos se publican a través del SiB Colombia?</summary>
@@ -68,7 +63,7 @@ La última versión de las plantillas  de publicación para registros biológico
     
 ## Extensiones
 
-<details>
+- <details>
  <summary markdown="span">¿Puedo publicar datos moleculares a través del SiB Colombia?</summary>
     
 Puede publicar datos basados en secuencias a través del SiB Colombia, ya sea como registros biológicos, listas de especies o eventos de muestreo.
@@ -80,16 +75,15 @@ En primer lugar debe determinar el tipo de publicación para sus datos molecular
 - Si sus datos contienen un inventario de evidencia de organismos identificados (por taxones) en un contexto dado (por ejemplo, geográfico o temático), puede elegir un conjunto de datos de lista de especies.
 
 Tenga en cuenta que para relacionar los datos con las secuencias en sí, debe compartir el enlace a la secuencia en Genbank u otra base de datos de secuencia de nucleótidos relevante, para esto puede usar el elemento Darwin Core [associatedSequences](https://dwc.tdwg.org/terms/#dwc:associatedSequences) o a través de la extensión de Amplificación [GGBN](http://rs.gbif.org/extension/ggbn/amplification.xml).
-
     </details>
     
 ## Ciencia participativa
 
- <details>
+- <details>
   <summary markdown="span">¿Pregunta 1?</summary>
-Respuesta 1
+ente [formulario](https://sibcolombia.net/registrate-como-publicador/)
     </details>
-<details>
+- <details>
   <summary markdown="span">¿Pregunta 2?</summary>
 Respuesta2
 </details>
