@@ -1,7 +1,16 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: Buscar
-  href: /about
+  - text: Registros Biológicos
+    href: /data
+  - text: Listas de Especies
+    href: https://listas.biodiversidad.co/
+  - text: Catálogo de la Biodiversidad
+    href: https://catalogo.biodiversidad.co/
+  - text: Biodiversidad en Cifras
+    href: https://cifras.biodiversidad.co/
+  - text: Gacetero de Localidades
+    href: https://sibcolombia.net/gacetero/
 - text: Compartir
   href: /data
 - text: Recursos
