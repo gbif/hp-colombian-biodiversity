@@ -12,7 +12,6 @@
   - text: Gacetero de Localidades
     href: https://sibcolombia.net/gacetero/
 - text: Compartir
-  href: /data
 - text: Recursos
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
