@@ -7,6 +7,7 @@ description: Estas son  algunas de las preguntas mas frecuentes que respondemos 
 # Preguntas Frecuentes sobre el proceso de publicación
 
 ## Red de socios
+despliega
 
 <details>
   <summary markdown="span">¿Cómo registrar  una organización para publicar datos en el SiB Colombia?</summary>
@@ -83,7 +84,7 @@ Tenga en cuenta que para relacionar los datos con las secuencias en sí, debe co
     
 ## Ciencia participativa
 
-- <details>
+<details>
   <summary markdown="span">¿Pregunta 1?</summary>
 Prueba de html5
  <a href="https://sibcolombia.net/registrate-como-publicador/">
@@ -113,18 +114,16 @@ Para registrar su organización en el SiB Colombia y comenzar un proceso de publ
 
 ## Metadatos
 
- <details>
-  <summary markdown="span">¿Pregunta 1?</summary>
-Respuesta 1
-    </details>
 <details>
-  <summary markdown="span">¿Pregunta 2?</summary>
-Respuesta2
+<summary>To make sure markdown is rendered correctly in the collapsed section...</summary>
+
+ 1. Put an **empty line** after the `<summary>` block.
+ 2. *Insert your markdown syntax*
+ 3. Put an **empty line** before the `</details>` tag
+<a href="https://sibcolombia.net/registrate-como-publicador/">
+formulario</a>
+ 
 </details>
- <details>
-  <summary markdown="span">¿Pregunta 3?</summary>
-Respuesta 3
-    </details>
 
 ## Licencia y atribución
 
