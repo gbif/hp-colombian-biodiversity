@@ -6,10 +6,6 @@ height: 70vh
 ---
 
 
-*El SiB Colombia facilita la publicación de diferentes tipos de conjuntos de datos e información sobre biodiversidad, haciendo uso de estándares ampliamente aceptados. Conoce cuáles son y cómo puedes estructurarlos.*
-
----
-
 En el contexto del SiB Colombia los términos datos e información no son sinónimos, sino elementos secuenciales dentro de la cadena de generación del conocimiento. Para poderlos publicar es necesario hacerlo de una manera estandarizada y con la mayor completitud posible, para que puedan ser utilizados de distintas maneras y así contribuir a resolver diferentes preguntas.
 
 Compartir a través del SiB Colombia tantos datos e información como sea posible es valioso, incluso aquella que pueda considerarse incompleta, aportará al conocimiento de nuestra biodiversidad y servirá para dar respuesta a preguntas fundamentales.
