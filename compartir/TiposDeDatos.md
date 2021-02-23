@@ -1,16 +1,9 @@
 ---
 lang-ref: TiposDeDatos
 title: Tipos de datos e Información
-description: Tipos de datos e inforfación que se pueden compartir a través del SiB Colombia
-# background: /assets/images/moss.jpg
-# imageLicense: |
-# Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
-height: 70vh
+description: *El SiB Colombia facilita la publicación de diferentes tipos de conjuntos de datos e información sobre biodiversidad, haciendo uso de estándares ampliamente aceptados. Conoce cuáles son y cómo puedes estructurarlos.*
+
 ---
-
-
-
-# Tipos de datos e información
 
 
 *El SiB Colombia facilita la publicación de diferentes tipos de conjuntos de datos e información sobre biodiversidad, haciendo uso de estándares ampliamente aceptados. Conoce cuáles son y cómo puedes estructurarlos.*
@@ -34,22 +27,21 @@ Los registros biológicos representan la mayoría de los datos publicados a trav
 
 Adicionalmente, los registros biológicos son el tipo de datos que generalmente se derivan de un permiso de recolección, de acuerdo en lo establecido en los decretos 1376 y 3016 de 2013 -hoy compilados en el decreto 1076 de 2015 de la normativa colombiana-. En este contexto son la evidencia de la recolección definitiva o temporal de un organismo en un evento de colecta determinado.
 
+* [Consulta el Perfil DwC para registros biológicos.]( https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0)
+* [Explora registros biológicos en el Portal de Datos.](https://hp-colombian-biodiversity.gbif-staging.org/data)
 
->* [Consulta el Perfil DwC para registros biológicos.]( https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0)
->* [Explora registros biológicos en el Portal de Datos.](https://hp-colombian-biodiversity.gbif-staging.org/data)
-
-
+---
 
 ### Eventos de muestreo
 Algunos conjuntos de datos pueden brindar un detalle mayor a la evidencia de la presencia de una especie en un lugar y fecha determinados, permitiendo evaluar la composición de las comunidades de grupos taxonómicos más amplios, o incluso la abundancia de especies en diferentes lugares y tiempos. Los eventos de muestreo normalmente se generan a través de protocolos estandarizados de medición y monitoreo de la biodiversidad como parcelas de vegetación, censos de aves, muestreos marinos o de agua dulce, entre otros.
 
 Al indicar los métodos, número de eventos, y la abundancia relativa de las especies registradas en un muestreo, se pueden comparar los datos recolectados usando los mismos protocolos en diferentes épocas y lugares (monitoreo). En algunos casos, estos procesos permiten inferir la ausencia de ciertas especies en lugares determinados.
 
->* [Conoce más sobre los eventos de muestreo.](https://www.gbif.org/es/sampling-event-data)
->* [Consulta el perfil DwC para eventos de muestreo.](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0)
->* [Explora eventos de muestreo en el Portal de Datos.](https://hp-colombian-biodiversity.gbif-staging.org/data)
+* [Conoce más sobre los eventos de muestreo.](https://www.gbif.org/es/sampling-event-data)
+* [Consulta el perfil DwC para eventos de muestreo.](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0)
+* [Explora eventos de muestreo en el Portal de Datos.](https://hp-colombian-biodiversity.gbif-staging.org/data)
 
-
+---
 
 ### Listas de especies
 
@@ -57,10 +49,10 @@ Los conjuntos de datos sobre biodiversidad también pueden ser listas o catálog
 
 Las listas de especies funcionan como un resumen rápido o línea base de especies (u otros taxones) en un contexto determinado.
 
->* [Consulta el perfil DwC para listas de especies.](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0)
->* [Explora listas de especies en el Portal Listas de Especies.](https://listas.biodiversidad.co/)
+* [Consulta el perfil DwC para listas de especies.](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0)
+* [Explora listas de especies en el Portal Listas de Especies.](https://listas.biodiversidad.co/)
 
-
+---
 
 
 ## Información
@@ -79,9 +71,10 @@ La fichas de especies generalmente incluyen información sobre historia natural,
 * **Uso y conservación**: Información sobre la manera en que la especie es utilizada (servicios ecosistémicos), incluyendo folclore, gestión y conservación. Incluye también iniciativas de intervención destinadas a la preservación de las especies.
 * **Mapas, fotografías y videos**: Cualquier contenido multimedia sobre nuestras especies puede ser integrado y visible para el conocimiento de todos.
 
->* [Consulta el perfil PliC para fichas de especies.](https://github.com/tdwg/PlinianCore/wiki)
->* [Explorar fichas de especies en el Catálogo de la Biodiversidad.](https://catalogo.biodiversidad.co/)
+* [Consulta el perfil PliC para fichas de especies.](https://github.com/tdwg/PlinianCore/wiki)
+* [Explorar fichas de especies en el Catálogo de la Biodiversidad.](https://catalogo.biodiversidad.co/)
 
+---
 
 ### Metadatos
 Los metadatos comparten información descriptiva y estandarizada sobre aspectos como el “quién, qué, dónde, cuándo, por qué y cómo” de los conjuntos de datos e información que son publicados a través del SiB Colombia. En términos prácticos es el contexto de los datos e información.
