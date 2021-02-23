@@ -1,4 +1,5 @@
 
+
 # Tipos de datos e información
 
 
@@ -60,13 +61,13 @@ Cientos de instituciones y personas han invertido esfuerzos para generar conocim
 
 La fichas de especies generalmente incluyen información sobre historia natural, distribución, hábitat, usos, taxonomía, nombres comunes, bibliografía relacionada, entre otros. La información proviene generalmente de observaciones, trabajo de campo, investigaciones, informes técnicos, reportes de autoridades ambientales, libros rojos, información de colecciones, literatura científica, entre otras fuentes. Las fichas de especies, muestran la información estructurada, así como la integración de recursos asociados:
 
-* **_Taxonomía_**: La descripción completa de la especie (u otro taxón), sus caracteres diagnósticos y enlaces a claves de identificación.
-* **_Nombres comunes_**: Todos los nombres que comúnmente usamos para referirnos a una especie, con la posibilidad de especificar el idioma, dialecto y región donde se utiliza.
-* **_Hábitat y distribución_**: La descripción general de los ambientes donde se encuentra  la especie: paisaje, ecosistema, macro o micro hábitat. Información sobre su distribución basada en datos primarios.
-* **_Historial natural_**: Las descripciones más relevantes acerca de características de la especie: forma de vida, ciclo de vida, reproducción, alimentación, dispersión, comportamiento, interacciones, datos moleculares. datos migratorios, importancia ecológica, condiciones ambientales y otros datos auxiliares.
-* **_Amenazas_**: La descripción de las amenazas existentes e información IUCN sobre su categoría de amenaza, el lugar en el aplica esta categorización y el número de apéndice CITES, en los casos en que aplique.
-* **_Uso y conservación_**: Información sobre la manera en que la especie es utilizada (servicios ecosistémicos), incluyendo folclore, gestión y conservación. Incluye también iniciativas de intervención destinadas a la preservación de las especies.
-* **_Mapas, fotografías y videos_**: Cualquier contenido multimedia sobre nuestras especies puede ser integrado y visible para el conocimiento de todos.
+* **Taxonomía**: La descripción completa de la especie (u otro taxón), sus caracteres diagnósticos y enlaces a claves de identificación.
+* **Nombres comunes**: Todos los nombres que comúnmente usamos para referirnos a una especie, con la posibilidad de especificar el idioma, dialecto y región donde se utiliza.
+* **Hábitat y distribución**: La descripción general de los ambientes donde se encuentra  la especie: paisaje, ecosistema, macro o micro hábitat. Información sobre su distribución basada en datos primarios.
+* **Historial natural**: Las descripciones más relevantes acerca de características de la especie: forma de vida, ciclo de vida, reproducción, alimentación, dispersión, comportamiento, interacciones, datos moleculares. datos migratorios, importancia ecológica, condiciones ambientales y otros datos auxiliares.
+* **Amenazas**: La descripción de las amenazas existentes e información IUCN sobre su categoría de amenaza, el lugar en el aplica esta categorización y el número de apéndice CITES, en los casos en que aplique.
+* **Uso y conservación**: Información sobre la manera en que la especie es utilizada (servicios ecosistémicos), incluyendo folclore, gestión y conservación. Incluye también iniciativas de intervención destinadas a la preservación de las especies.
+* **Mapas, fotografías y videos**: Cualquier contenido multimedia sobre nuestras especies puede ser integrado y visible para el conocimiento de todos.
 
 >* [Consulta el perfil PliC para fichas de especies.](https://github.com/tdwg/PlinianCore/wiki)
 >* [Explorar fichas de especies en el Catálogo de la Biodiversidad.](https://catalogo.biodiversidad.co/)
