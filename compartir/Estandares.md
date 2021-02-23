@@ -1,3 +1,13 @@
+---
+lang-ref: Estandares
+title: Estándares
+description: Estándares para la publicación de datos a tráves del SiB Colombia
+# background: /assets/images/moss.jpg
+# imageLicense: |
+# Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+height: 70vh
+---
+
 # Estándares 
 *Los estándares para compartir datos e información son un elemento principal para integrar en el SiB Colombia millones de registros primarios sobre biodiversidad.*
 ____
