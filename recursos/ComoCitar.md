@@ -1,6 +1,5 @@
 ---
 layout: heroImage
-
 title: Cómo citar datos e información
 description: Esta guía ofrece los ejemplos más comunes de citación utilizados por usuarios del SiB Colombia.
 background: /assets/images/moss.jpg
@@ -118,61 +117,61 @@ Si necesitas asistencia con una exportación personalizada de datos, por favor c
 ## Cuando se trate del sitio web sibcolombia.net
 Aquellos usuarios que deseen citar la página web completa del SiB Colombia, pueden usar el siguiente ejemplo:
 
-SiB Colombia (2020, abril 10) Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: https://sibcolombia.net/
+* SiB Colombia (2020, abril 10) _Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://sibcolombia.net/
  
 
 ## Cuando se trate del Portal de Datos
 Aquellos usuarios que deseen citar el Portal de Datos completo, pueden usar el siguiente ejemplo:
 
-SiB Colombia (2020, abril 10) Portal de Datos, Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: https://datos.biodiversidad.co/
+* SiB Colombia (2020, abril 10) Portal de Datos, _Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://datos.biodiversidad.co/
  
 
 ## Cuando se trate del portal Listas de Especies
 Aquellos usuarios que deseen citar el portal Listas de Especies completo, pueden usar el siguiente ejemplo:
 
-SiB Colombia (2020, abril 10) Portal Listas de Especies, Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: https://listas.biodiversidad.co/
+* SiB Colombia (2020, abril 10) Portal Listas de Especies, _Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://listas.biodiversidad.co/
  
 
 ## Cuando se trate del portal Colecciones en Línea
 Aquellos usuarios que deseen citar el portal Colecciones en Línea completo, pueden usar el siguiente ejemplo:
 
-SiB Colombia (2020, abril 10) Portal Colecciones en Línea, Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: https://colecciones.biodiversidad.co/
+* SiB Colombia (2020, abril 10) Portal Colecciones en Línea, _Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://colecciones.biodiversidad.co/
  
 
 ## Cuando se trate del Catálogo de la Biodiversidad de Colombia
 Aquellos usuarios que deseen citar el Catálogo de la Biodiversidad de Colombia completo, pueden usar el siguiente ejemplo:
 
-SiB Colombia (2020, abril 10) Catálogo de la Biodiversidad de Colombia, Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: https://colecciones.biodiversidad.co/
+* SiB Colombia (2020, abril 10) _Catálogo de la Biodiversidad de Colombia, Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://colecciones.biodiversidad.co/
  
 
 ## Cuando se trate del portal Biodiversidad en Cifras
 Aquellos usuarios que deseen citar el portal Biodiversidad en Cifras completo, pueden usar el siguiente ejemplo:
 
-SiB Colombia (2020, abril 10) Biodiversidad en Cifras, Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: https://cifras.biodiversidad.co/
+* SiB Colombia (2020, abril 10) _Biodiversidad en Cifras, Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://cifras.biodiversidad.co/
  
 
 ## Cuando se trate del portal Biodiversidad en Cifras · Santander
 Aquellos usuarios que deseen citar el portal Biodiversidad en Cifras · Santander completo, pueden usar el siguiente ejemplo:
 
-SiB Colombia (2020, abril 10) Biodiversidad en Cifras · Santander, Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: https://santander.biodiversidad.co/
+* SiB Colombia (2020, abril 10) _Biodiversidad en Cifras · Santander, Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://santander.biodiversidad.co/
  
 
 ## Cuando se trate del portal Biodiversidad en Cifras · Boyacá
 Aquellos usuarios que deseen citar el portal Biodiversidad en Cifras · Boyacá completo, pueden usar el siguiente ejemplo:
 
-SiB Colombia (2020, abril 10) Biodiversidad en Cifras · Boyacá, Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: https://boyaca.biodiversidad.co/
+* SiB Colombia (2020, abril 10) _Biodiversidad en Cifras · Boyacá, Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://boyaca.biodiversidad.co/
  
 
 ## Cuando se trate del Reporte Mensual de Actividad de Publicación
 Aquellos usuarios que deseen citar el Reporte Mensual de Actividad de Publicación completo, pueden usar el siguiente ejemplo:
 
-SiB Colombia (2020, abril 10) Reporte Mensual de Actividad de Publicación – Febrero 2020, Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: https://sibcolombia.net/actualidad/reportes/
+* SiB Colombia (2020, abril 10) _Reporte Mensual de Actividad de Publicación – Febrero 2020, Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://sibcolombia.net/actualidad/reportes/
  
 
 ## Cuando se trate del Reporte Trimestral de Datos
 Aquellos usuarios que deseen citar el Reporte Trimestral de datos, pueden usar el siguiente ejemplo:
 
-SiB Colombia (2020, abril 10) Reporte Trimestral de Datos – Marzo 2020, Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: https://gitlab.com/sib-colombia/administracion-contenidos/-/tree/master/Datos%20trimestrales
+* SiB Colombia (2020, abril 10) _Reporte Trimestral de Datos – Marzo 2020, Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://gitlab.com/sib-colombia/administracion-contenidos/-/tree/master/Datos%20trimestrales
 
 
 
