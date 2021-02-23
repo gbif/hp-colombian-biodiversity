@@ -30,16 +30,21 @@ Envíe un correo a sib@humboldt.org.co indicando la intención de actualizar la 
 
 Según el tipo de datos, hay varias opciones
 
- <details>
-  <summary markdown="span">¿Qué tipo de datos se publican a través del SiB Colombia?</summary>
-    
-Conoce más sobre los tipos de datos que se pueden publicar a través del SiB Colombia en el siguiente [enlace](https://sibcolombia.net/tipos-de-datos/).</details>
+<details>
+<summary markdown="span">¿Qué tipo de datos se publican a través del SiB Colombia?</summary>
+
+Conoce más sobre los tipos de datos que se pueden publicar a través del SiB Colombia en el siguiente [enlace](https://sibcolombia.net/tipos-de-datos/).
+
+</details>
+
 <details>
   <summary markdown="span">¿Cómo publicar eventos de muestreo a través del SiB Colombia?</summary>
     
 Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la [Guía para la publicación de datos e información](https://sibcolombia.net/guia-de-publicacion/). Encuentra información adicional sobre la publicación de los eventos de muestreo en el siguiente [enlace](https://sites.google.com/humboldt.org.co/wikisib/publicar/eventos-de-muestreo?authuser=0).
+
 </details>
- <details>
+
+<details>
   <summary markdown="span">¿Cómo publicar listas de especies  a través del SiB Colombia?</summary>
     
 Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la [Guía para la publicación de datos e información](https://sibcolombia.net/guia-de-publicacion/). Encuentra información adicional sobre la publicación de listas de especie en el siguiente [enlace](https://sites.google.com/humboldt.org.co/wikisib/publicar/listas-de-especies?authuser=0). 
@@ -63,8 +68,7 @@ La última versión de las plantillas  de publicación para registros biológico
     
 ## Extensiones
 
-- <details>
- <summary markdown="span">¿Puedo publicar datos moleculares a través del SiB Colombia?</summary>
+<details> <summary markdown="span">¿Puedo publicar datos moleculares a través del SiB Colombia?</summary>
     
 Puede publicar datos basados en secuencias a través del SiB Colombia, ya sea como registros biológicos, listas de especies o eventos de muestreo.
 
@@ -81,7 +85,11 @@ Tenga en cuenta que para relacionar los datos con las secuencias en sí, debe co
 
 - <details>
   <summary markdown="span">¿Pregunta 1?</summary>
-ente [formulario](https://sibcolombia.net/registrate-como-publicador/)
+Prueba de html5
+ <a href="https://sibcolombia.net/registrate-como-publicador/">
+formulario</a> 
+ 
+ente
     </details>
 - <details>
   <summary markdown="span">¿Pregunta 2?</summary>
