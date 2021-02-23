@@ -15,14 +15,18 @@ despliega
 Para registrar su organización en el SiB Colombia y comenzar un proceso de publicación diligencie el siguiente [formulario](https://sibcolombia.net/registrate-como-publicador/) . La información registrada aquí nos permitirá contar con información básica sobre su organización y el tipo de datos a publicar. Una vez validemos la información consignada, enviaremos las credenciales para ingresar a la plataforma de publicación. Si tiene dudas sobre el proceso comuníquese directamente a sib@humboldt.org.co.
 </details>
 
+___
+
 <details>
-  <summary markdown="span">¿Se pueden publicar datos a través del SiB Colombia sin pertenecer a una organización?</summary>
+  <summary markdown="span"><b>¿Se pueden publicar datos a través del SiB Colombia sin pertenecer a una organización?</b></summary>
     
 El SiB Colombia es una red de organizaciones, si desea publicar datos sobre biodiversidad y no pertenece a una organización, puede contactar un grupo de investigación en una universidad, red o asociación de especialistas, para que respalden su publicación como organización. También puede hacer uso de plataformas de ciencia ciudadana como [eBird](https://play.google.com/store/apps/details?id=edu.cornell.birds.ebird&hl=es_419) o [iNaturalist](https://play.google.com/store/apps/details?id=org.inaturalist.android&hl=es_419), los datos que se publican a través de estas plataformas eventualmente serán visibles en el [SiB Colombia](https://sibcolombia.net/) y [GBIF](https://www.gbif.org/). 
 </details>
 
+___
+
 <details> 
-  <summary markdown="span">¿Cómo actualizar la información de la organización?</summary>
+  <summary markdown="span">**¿Cómo actualizar la información de la organización?**</summary>
     
 Envíe un correo a sib@humboldt.org.co indicando la intención de actualizar la información de la organización e indicando los campos que desea actualizar.
 </details>
@@ -37,7 +41,7 @@ Según el tipo de datos, hay varias opciones
 Conoce más sobre los tipos de datos que se pueden publicar a través del SiB Colombia en el siguiente [enlace](https://sibcolombia.net/tipos-de-datos/).
 
 </details>
-
+<br>
 <details>
   <summary markdown="span">¿Cómo publicar eventos de muestreo a través del SiB Colombia?</summary>
     
