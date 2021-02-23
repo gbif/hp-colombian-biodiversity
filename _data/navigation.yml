@@ -1,6 +1,7 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: Buscar
+  menu: # Dropdown menu (one level deep only)
   - text: Registros Biológicos
     href: /data
   - text: Listas de Especies
