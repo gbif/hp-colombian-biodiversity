@@ -15,7 +15,9 @@
 - text: Compartir
   menu: # Dropdown menu (one level deep only)
   - text: Tipos de Datos
+    href: /compartir/TiposDeDatos
   - text: Estándares
+    href: /compartir/Estandares
   - text: Guía de publicación
   - text: Regístrate
   - text: Preguntas Frecuentes
