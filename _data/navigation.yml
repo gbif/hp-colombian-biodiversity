@@ -19,8 +19,10 @@
   - text: Estándares
     href: /compartir/Estandares
   - text: Guía de publicación
+    href: /compartir/GuiaPublicacion
   - text: Regístrate
   - text: Preguntas Frecuentes
+    href: /compartir/PreguntasFrecuentes
 - text: Recursos
   menu: # Dropdown menu (one level deep only)
   - text: IPT Herramienta de Publicación
