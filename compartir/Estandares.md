@@ -1,8 +1,9 @@
 ---
+layout: heroImage
 lang-ref: Estandares
 title: Estándares 
 description: Los estándares para compartir datos e información son un elemento principal para integrar en el SiB Colombia millones de registros primarios sobre biodiversidad.
-background: /assets/images/Logo-Horizontal.png
+background: /assets/images/Baudouinia_fluggeiformis.jpeg
 imageLicense: |
   Photo by SiB Colombia via [https://sibcolombia.net/](https://statics.sibcolombia.net/IPT/img/logos/sib.png)
 height: 70vh
