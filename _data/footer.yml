@@ -3,24 +3,35 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partners
+  - name: SiB Colombia
     links:
-    - text: GBIF
-      href: https://www.gbif.org/
-    - text: Instituto Alexander von Humboldt
-      href: http://www.humboldt.org.co/es/contactenos
+    - text: Acerca de
+    - text: Términos de Uso
+    - text: Preguntas Frecuentes
 
-  - name: Code
-    description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
-
-  - name: Contact
+  - name: Contacto
     description: | # Can be Markdown
       Social icons links defined in `_config.yml`
+      * sib@humboldt.org.co
       * Calle 28 A # 15 - 09, Bogotá D.C.
       * PBX: (+571) 320 2767
       * Colombia
+    links:
+     - text:¿Cómo podemos ayudarte?
+     
     connectIcons: true
+
+ # - name: Partners
+ #   links:
+ #  - text: GBIF
+ #    href: https://www.gbif.org/
+ #   - text: Instituto Alexander von Humboldt
+ #    href: http://www.humboldt.org.co/es/contactenos
+
+ # - name: Code
+ #   description: | # Can be Markdown
+ #     This project is open source. See `_data/footer.yml` to customize the footer.
+
 
   # EXAMPLE
   #- name: Group name
