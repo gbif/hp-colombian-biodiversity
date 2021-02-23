@@ -52,7 +52,7 @@ Las listas de especies funcionan como un resumen rápido o línea base de especi
 
 
 
-# Información
+## Información
 La información sobre biodiversidad es el resultado de un conjunto de datos procesado, que constituyen un mensaje. La información puede consistir en cifras, indicadores, textos narrativos, mapas, contenidos multimedia, videos, archivos de sonido, fotos, anotaciones, foros, blogs, entre otros, que inclusive pueden estar asociados a los datos para enriquecerlos.
 
 ### Fichas de especies
