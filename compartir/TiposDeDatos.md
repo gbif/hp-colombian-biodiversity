@@ -1,3 +1,13 @@
+---
+lang-ref: TiposDeDatos
+title: Tipos de datos e Información
+description: Tipos de datos e inforfación que se pueden compartir a través del SiB Colombia
+# background: /assets/images/moss.jpg
+# imageLicense: |
+# Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+height: 70vh
+---
+
 
 
 # Tipos de datos e información
