@@ -56,7 +56,11 @@ Conoce el modelo, procesos, herramientas y mejores prácticas para publicar dato
 Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la [Guía para la publicación de datos e información](https://sibcolombia.net/guia-de-publicacion/). En la guía conocerás las rutas para la publicación de los datos (Ruta A. Publicación de datos voluntaria y Ruta B. Publicación de datos por permiso de recolección). 
     
 Para la publicación de registros biológicos debes tener en cuenta lo siguiente que pueden corresponder a observaciones o registros asociados a colecciones biológicas.  
-    
+ <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 - Son  **observaciones** si los datos corresponden a avistamientos directos de especímenes o  colectas temporales donde el individuo se libera en el mismo lugar que se encontró, y adicionalmente el registro no es soportado por un espécimen preservado. En ocasiones la observación es soportada con una fotografía, un sonido u otro soporte digital. Para publicar información de observaciones diríjase al siguiente [enlace](https://sites.google.com/humboldt.org.co/wikisib/publicar/observaciones?authuser=0).
 - Son **colecciones** si los datos corresponden  a registros que tienen un voucher o soporte de referencia físico que es evidencia de la captura in situ (en su hábitat natural) del ejemplar biológico, como los especímenes que  se encuentran preservados en colecciones biológicas o museos de historia natural. Para publicar información de Colecciones diríjase al siguiente [enlace](https://sites.google.com/humboldt.org.co/wikisib/publicar/colecciones?authuser=0). 
 
