@@ -1,7 +1,11 @@
 ---
-lang-ref: TiposDeDatos
+layout: heroImage
 title: Tipos de datos e Información
 description: El SiB Colombia facilita la publicación de diferentes tipos de conjuntos de datos e información sobre biodiversidad, haciendo uso de estándares ampliamente aceptados. Conoce cuáles son y cómo puedes estructurarlos.
+background: /assets/images/moss.jpg
+imageLicense: |
+  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+
 height: 70vh
 ---
 
@@ -79,4 +83,4 @@ Los metadatos son el nivel más básico ofrecido por el SiB Colombia, permitiend
 
 También pueden ayudar a evaluar la importancia relativa y el valor de las colecciones biológicas sin digitalizar y establecer prioridades para futuros esfuerzos de digitalización. Al igual que el resto de los conjuntos de datos, el SiB Colombia asegura que cada conjunto de metadatos estará asociado con un único identificador de objetos digitales (DOI, por sus siglas en inglés),  para facilitar que los usuarios de estos recursos hagan una correcta citación.
 
->* [Consulta el perfil GMP para metadatos.](https://github.com/gbif/ipt/wiki/IPT2ManualManageResources.wiki#metadata)
+* [Consulta el perfil GMP para metadatos.](https://github.com/gbif/ipt/wiki/IPT2ManualManageResources.wiki#metadata)
