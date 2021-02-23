@@ -87,7 +87,14 @@ Tenga en cuenta que para relacionar los datos con las secuencias en sí, debe co
   <summary markdown="span">¿Pregunta 1?</summary>
 Prueba de html5
  <a href="https://sibcolombia.net/registrate-como-publicador/">
-formulario</a> 
+formulario</a>  funciona, **pero duncionara más**?
+Necesito *probar* si sirven las otras
+- fgfgfg
+- dffdf
+dsdsf
+  
+1 fdfdfg
+2 sdfdsfsdf
  
 ente
     </details>
@@ -98,27 +105,12 @@ Respuesta2
 
 ## Estándar Darwin Core
 
- <details>
-  <summary markdown="span">¿Pregunta 1?</summary>
-Respuesta 1
-    </details>
 <details>
-  <summary markdown="span">¿Pregunta 2?</summary>
-Respuesta2
-</details>
- <details>
-  <summary markdown="span">¿Pregunta 3?</summary>
-Respuesta 3
-    </details>
-<details>
-  <summary markdown="span">¿Pregunta 4?</summary>
-Respuesta4
-</details>
-<details>
-  <summary markdown="span">¿Pregunta 5?</summary>
-Respuesta 5
-    </details>
+  <summary markdown="span">¿Cómo registrar  una organización para publicar datos en el SiB Colombia?</summary>
     
+Para registrar su organización en el SiB Colombia y comenzar un proceso de publicación diligencie el siguiente [formulario](https://sibcolombia.net/registrate-como-publicador/) . La información registrada aquí nos permitirá contar con información básica sobre su organización y el tipo de datos a publicar. Una vez validemos la información consignada, enviaremos las credenciales para ingresar a la plataforma de publicación. Si tiene dudas sobre el proceso comuníquese directamente a sib@humboldt.org.co.
+</details>
+
 ## Metadatos
 
  <details>
