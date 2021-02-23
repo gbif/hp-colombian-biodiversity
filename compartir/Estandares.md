@@ -1,16 +1,12 @@
 ---
 lang-ref: Estandares
-title: Estándares
-description: Estándares para la publicación de datos a tráves del SiB Colombia
-# background: /assets/images/moss.jpg
-# imageLicense: |
-# Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+title: Estándares 
+description: Los estándares para compartir datos e información son un elemento principal para integrar en el SiB Colombia millones de registros primarios sobre biodiversidad.
+background: /assets/images/Logo-Horizontal.png
+imageLicense: |
+  Photo by SiB Colombia via [https://sibcolombia.net/](https://statics.sibcolombia.net/IPT/img/logos/sib.png)
 height: 70vh
 ---
-
-# Estándares 
-*Los estándares para compartir datos e información son un elemento principal para integrar en el SiB Colombia millones de registros primarios sobre biodiversidad.*
-____
 
 Los datos e información disponible a través del SiB Colombia y sus servicios asociados son una realidad gracias al aporte de cientos de organizaciones y personas que utilizan un lenguaje común para describir, registrar y estructurar miles de conjuntos de datos muy diversos. El uso de estándares comunes y globalmente aceptados, son el mecanismo principal para integrar y publicar a través del SiB Colombia los millones de registros primarios sobre biodiversidad disponibles actualmente.
 
@@ -19,6 +15,7 @@ Los **estándares** funcionan como un modelo o patrón de referencia para vincul
 La lista de estándares sobre biodiversidad que ha desarrollado TDWG es amplia. Algunos se encuentran bajo evaluación y adopción por parte de los países y grupos participantes; otros han perdido vigencia y han sido reemplazados por nuevos, o simplemente mejorados a través del tiempo para contar con lineamientos claros y robustos para cada uno. En ciertos casos se realiza la incorporación o eliminación de conceptos que permiten que cada estándar llene las expectativas de los actores que hacen uso de ellos, siendo consensuados por las comunidades de expertos de TDWG en temas de informática de la biodiversidad y muchas otras disciplinas.
 
 El SiB Colombia adopta y promueve el uso de algunos de los estándares respaldados por TDWG, para la estructuración, integración, intercambio y publicación a través de sus plataformas en línea.
+
 ___
 
 ## Darwin Core
@@ -30,6 +27,7 @@ El estándar **Darwin Core** (DwC) ofrece un marco estable, sencillo y flexible 
 - [Conoce los diferentes perfiles Darwin Core](https://sites.google.com/humboldt.org.co/wikisib/publicar/est%C3%A1ndares/darwin-core?authuser=0).
 
 ___
+
 ## Plinian Core
 El estándar **Plinian Core** (PliC) es un estándar para compartir información principalmente a nivel de especie. Fue concebido como una forma de publicar información sobre especies y hacerla interoperable. Por “información de especies” nos referimos a todo tipo de propiedades y rasgos relacionados con los taxones (de cualquier rango), incluidas descripciones, nomenclatura, estado de conservación, manejo, historia natural, etc. Por lo tanto, el alcance de Plinian Core va más allá de las descripciones taxonómicas. Todas las fichas de especies compartidas a través del SiB Colombia se publican utilizando este estándar.
 
