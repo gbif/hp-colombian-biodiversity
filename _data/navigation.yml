@@ -13,7 +13,43 @@
   - text: Gacetero de Localidades
     href: https://sibcolombia.net/gacetero/
 - text: Compartir
+  menu: # Dropdown menu (one level deep only)
+  - text: Tipos de Datos
+  - text: Estándares
+  - text: Guía de publicación
+  - text: Regístrate
+  - text: Preguntas Frecuentes
 - text: Recursos
+  menu: # Dropdown menu (one level deep only)
+  - text: IPT Herramienta de Publicación
+  - text: Acceso Abierto
+  - text: Cómo Citar
+  - text: Repositorios
+  - text: Estandarización
+  - text: Calidad de Datos
+  - text: Plantillas Darwin Core
+  - text: Permisos de Recolección 
+- text: Comunidad
+  menu: # Dropdown menu (one level deep only)
+  - text: Actividad de Publicación
+    href: https://sibcolombia.net/actualidad/reportes/
+  - text: Socios Publicadores
+  - text: Proyectos
+  - text: Formación
+    href: https://sib-colombia.github.io/Formacion/
+  - text: Grupos de Interés
+  - text: Uso de Datos
+- text: Noticias y Eventos
+  menu: # Dropdown menu (one level deep only)
+  - text: Boletín
+  - text: Convocatorias
+  - text: Oportunidades
+- text: Acerca De
+  menu: # Dropdown menu (one level deep only)
+  - text: SiB Colombia
+  - text: Aliados
+  - text: Términos y Condiciones 
+- text: Demo
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
     href: https://hp-base-theme.gbif-staging.org/
@@ -25,16 +61,9 @@
     href: https://guides.github.com/features/mastering-markdown/
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-- text: Comunidad
-  href: /news/
-- text: Noticias y Eventos
-  menu: # Dropdown menu (one level deep only)
-  - text: Tipos de Datos
-  - text: Estándares
-    href: https://hp-colombian-biodiversity.gbif-staging.org/hellocp
-  - text: Guía de publicación
-  - text: Regístrate
-  - text: Comité Directivo
+  - text: News
+    href: /news/
+  - text: about
     href: https://hp-colombian-biodiversity.gbif-staging.org/AboutSiBColombia
-- text: Acerca de
-  href: /blog
+  - text: blog
+    href: /blog
