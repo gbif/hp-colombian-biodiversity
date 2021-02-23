@@ -13,29 +13,33 @@ height: 70vh
 
 ## Red de socios
 
- <details>
+<details>
   <summary markdown="span">¿Cómo registrar  una organización para publicar datos en el SiB Colombia?</summary>
     
 Para registrar su organización en el SiB Colombia y comenzar un proceso de publicación diligencie el siguiente [formulario](https://sibcolombia.net/registrate-como-publicador/) . La información registrada aquí nos permitirá contar con información básica sobre su organización y el tipo de datos a publicar. Una vez validemos la información consignada, enviaremos las credenciales para ingresar a la plataforma de publicación. Si tiene dudas sobre el proceso comuníquese directamente a sib@humboldt.org.co.
-    </details>
+</details>
+
 <details>
   <summary markdown="span">¿Se pueden publicar datos a través del SiB Colombia sin pertenecer a una organización?</summary>
     
-El SiB Colombia es una red de organizaciones, si desea publicar datos sobre biodiversidad y no pertenece a una organización, puede contactar un grupo de investigación en una universidad, red o asociación de especialistas, para que respalden su publicación como organización. También puede hacer uso de plataformas de ciencia ciudadana como [eBird](https://play.google.com/store/apps/details?id=edu.cornell.birds.ebird&hl=es_419) o [iNaturalist](https://play.google.com/store/apps/details?id=org.inaturalist.android&hl=es_419), los datos que se publican a través de estas plataformas eventualmente serán visibles en el [SiB Colombia](https://sibcolombia.net/) y [GBIF](https://www.gbif.org/). </details>
-<details>
-    
+El SiB Colombia es una red de organizaciones, si desea publicar datos sobre biodiversidad y no pertenece a una organización, puede contactar un grupo de investigación en una universidad, red o asociación de especialistas, para que respalden su publicación como organización. También puede hacer uso de plataformas de ciencia ciudadana como [eBird](https://play.google.com/store/apps/details?id=edu.cornell.birds.ebird&hl=es_419) o [iNaturalist](https://play.google.com/store/apps/details?id=org.inaturalist.android&hl=es_419), los datos que se publican a través de estas plataformas eventualmente serán visibles en el [SiB Colombia](https://sibcolombia.net/) y [GBIF](https://www.gbif.org/). 
+</details>
+
+<details> 
   <summary markdown="span">¿Cómo actualizar la información de la organización?</summary>
     
-Envíe un correo a sib@humboldt.org.co indicando la intención de actualizar la información de la organización e indicando los campos que desea actualizar.</details>
+Envíe un correo a sib@humboldt.org.co indicando la intención de actualizar la información de la organización e indicando los campos que desea actualizar.
+</details>
 
 ## Tipos de datos
+
+Según el tipo de datos..
 
  <details>
   <summary markdown="span">¿Qué tipo de datos se publican a través del SiB Colombia?</summary>
     
 Conoce más sobre los tipos de datos que se pueden publicar a través del SiB Colombia en el siguiente [enlace](https://sibcolombia.net/tipos-de-datos/).</details>
 <details>
-
   <summary markdown="span">¿Cómo publicar eventos de muestreo a través del SiB Colombia?</summary>
     
 Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la [Guía para la publicación de datos e información](https://sibcolombia.net/guia-de-publicacion/). Encuentra información adicional sobre la publicación de los eventos de muestreo en el siguiente [enlace](https://sites.google.com/humboldt.org.co/wikisib/publicar/eventos-de-muestreo?authuser=0).
@@ -64,8 +68,8 @@ La última versión de las plantillas  de publicación para registros biológico
     
 ## Extensiones
 
- <details>
-  <summary markdown="span">¿Puedo publicar datos moleculares a través del SiB Colombia?</summary>
+<details>
+ <summary markdown="span">¿Puedo publicar datos moleculares a través del SiB Colombia?</summary>
     
 Puede publicar datos basados en secuencias a través del SiB Colombia, ya sea como registros biológicos, listas de especies o eventos de muestreo.
 
@@ -76,22 +80,7 @@ En primer lugar debe determinar el tipo de publicación para sus datos molecular
 - Si sus datos contienen un inventario de evidencia de organismos identificados (por taxones) en un contexto dado (por ejemplo, geográfico o temático), puede elegir un conjunto de datos de lista de especies.
 
 Tenga en cuenta que para relacionar los datos con las secuencias en sí, debe compartir el enlace a la secuencia en Genbank u otra base de datos de secuencia de nucleótidos relevante, para esto puede usar el elemento Darwin Core [associatedSequences](https://dwc.tdwg.org/terms/#dwc:associatedSequences) o a través de la extensión de Amplificación [GGBN](http://rs.gbif.org/extension/ggbn/amplification.xml).
-    </details>
-<details>
-  <summary markdown="span">¿Pregunta 2?</summary>
-Respuesta2
-</details>
- <details>
-  <summary markdown="span">¿Pregunta 3?</summary>
-Respuesta 3
-    </details>
-<details>
-  <summary markdown="span">¿Pregunta 4?</summary>
-Respuesta4
-</details>
-<details>
-  <summary markdown="span">¿Pregunta 5?</summary>
-Respuesta 5
+
     </details>
     
 ## Ciencia participativa
