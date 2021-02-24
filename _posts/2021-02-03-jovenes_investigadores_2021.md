@@ -6,19 +6,21 @@ lang-ref: for authors
 background: /assets/images/Jovenes-Investigadores-08-min-1024x1024.jpg
 ---
 
-### Propósito
+Participa en la convocatoria anual de Jóvenes Investigadores para financiar tu investigación
 
-La Infraestructura Mundial de Información en Biodiversidad (GBIF, por sus siglas en inglés) se complace en anunciar la apertura de la convocatoria al Premio Jóvenes Investigadores 2021 (Young Researchers Award). Este programa tiene como objetivo promover y reconocer  investigaciones innovadoras, realizadas por estudiantes de maestría y/o doctorado en el campo de la informática de la biodiversidad, que se basen en el uso de datos disponibles a través de GBIF.
+# Propósito 
 
-Como en años anteriores, en el 2020 el programa otorgará un par de premios de € 5,000 como reconocimiento al trabajo de dos estudiantes graduados – preferiblemente un estudiante de  maestría y uno de doctorado – nominados por los países que participan en GBIF.
+La Infraestructura Mundial de Información en Biodiversidad (GBIF, por sus siglas en inglés) se complace en anunciar la apertura de la convocatoria al [Premio Jóvenes Investigadores 2021 (Young Researchers Award)](https://www.gbif.org/news/6SrTuANNJyRweO9c6lSx85/call-for-nominations-to-the-2021-gbif-young-researchers-award). Este programa tiene como objetivo promover y reconocer  investigaciones innovadoras, realizadas por estudiantes de maestría y/o doctorado en el campo de la informática de la biodiversidad, que se basen en el uso de datos disponibles a través de GBIF.
 
-Un jurado organizado por el Comité Científico de GBIF seleccionará dos ganadores del grupo de nominados cuyos nombres serán recibidos por la Secretaría de GBIF hasta el 21 de Junio de 2021. Los ganadores serán anunciados a fines del verano o principios del otoño de 2021.
+Como en años anteriores, en el 2020 el programa otorgará un par de premios de € 5,000 como reconocimiento al trabajo de dos estudiantes graduados – preferiblemente un estudiante de  maestría y uno de doctorado – nominados por los [países que participan en GBIF](https://www.gbif.org/the-gbif-network).
+
+Un jurado organizado por el [Comité Científico de GBIF](https://www.gbif.org/contact-us/directory?group=scienceCommittee) seleccionará dos ganadores del grupo de nominados cuyos nombres serán recibidos por la Secretaría de GBIF hasta el 21 de Junio de 2021. Los ganadores serán anunciados a fines del verano o principios del otoño de 2021.
 
 Fechas límite nacionales para 2021
 
 Si bien la fecha límite para la recepción de nominados en la Secretaría de GBIF es el 21 de Junio, cada país establece sus propias fechas límite En el caso de Colombia la fecha límite es el 31 de Mayo.  
 
-Las fechas límites nacionales de los otros países se publicarán a través de la cuenta de Twitter de GBIF utilizando el hashtag #YoungResearchers.
+Las fechas límites nacionales de los otros países se publicarán a través de la cuenta de Twitter de[GBIF](https://twitter.com/gbif?lang=es) utilizando el hashtag #YoungResearchers.
 
 ### Elegibilidad (Colombia)
 
@@ -26,7 +28,7 @@ Los candidatos deben estar matriculados en un programa de posgrado universitario
 
 # Proceso de aplicación y fechas límites (Colombia)
 
-Los estudiantes que deseen ser nominados deben aplicar a través del SiB Colombia. El SiB Colombia, a través de su Equipo Coordinador, es el responsable de la recepción y verificación de las aplicaciones. De esta manera, deben consultar el sitio web https://sibcolombia.net/ o ponerse en contacto con el Equipo Coordinador a través del correo electrónico sib@humboldt.org.co
+Los estudiantes que deseen ser nominados deben aplicar a través del SiB Colombia. El SiB Colombia, a través de su Equipo Coordinador, es el responsable de la recepción y verificación de las aplicaciones. De esta manera, deben consultar el sitio web [https://sibcolombia.net/](https://sibcolombia.net/) o ponerse en contacto con el Equipo Coordinador a través del correo electrónico [sib@humboldt.org.co](sib@humboldt.org.co).
 
 Las aplicaciones son primero revisadas y priorizadas a nivel nacional. Una vez definidos los candidatos por Colombia, estos son nominados por el SiB Colombia a la convocatoria global.
 
@@ -50,7 +52,7 @@ Los estudiantes que deseen ser nominados deben construir su propuesta en inglés
 ## Proceso y criterios de selección (Colombia)
 
 ### Primera etapa
-Un Comité de Evaluación  conformado por el SiB Colombia revisará las aplicaciones que sean enviadas al correo sib@humboldt.org.co y priorizará dos propuestas para ser nominadas a GBIF. Se recibirán aplicaciones hasta el 31 de Mayo de 2020.
+Un Comité de Evaluación  conformado por el SiB Colombia revisará las aplicaciones que sean enviadas al correo [sib@humboldt.org.co](sib@humboldt.org.co) y priorizará dos propuestas para ser nominadas a GBIF. Se recibirán aplicaciones hasta el 31 de Mayo de 2020.
 
 Los criterios de selección incluyen:
 
@@ -65,6 +67,34 @@ El Comité Científico de GBIF revisará las nominaciones hechas por Colombia y 
 Los criterios de selección son los mismos aplicados en la primera etapa.
 
 Se espera que los ganadores reconozcan el apoyo de GBIF cuando divulguen los resultados de la investigación a través de publicaciones revisadas por pares, presentaciones en reuniones académicas y otros medios.
+
+**Propuestas ganadoras en ediciones anteriores**
+
+| Año       | Ganador         | País de afiliación  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| 2020 | Vaughn Shirey | United States |
+| 2020 | Ángel Luis Robles Fernández | México |
+| 2019 | Nicky Nicolson | United Kingdom |
+| 2019 | Marcos Daniel Zárate | Argentina |
+| 2018 | Kate Ingenloff | United States |
+| 2018 | Raquel Gaião Silva | Portugal |
+| 2017 | Nora Escribano Compains | Spain |
+| 2017 | Itanna Oliveira Fernandes | Brazil |
+| 2016 | Juan M. Escamilla Mólgora | Mexico |
+| 2016 | Bruno Umbelino da Silva Santos | Brazil |
+| 2015 | Fatima Parker-Allie | South Africa |
+| 2015 | Gonzalo Enrique Pinilla Buitrago | Colombia, Venezuela & Mexico |
+| 2014 | Vijay Barve | India |
+| 2014 | Caoimhe Marshall | Ireland |
+| 2013 | Emma Gomez-Ruiz | Mexico |
+| 2013 | Nathan Ranc | France |
+| 2012 | Salvador Arias | Argentina |
+| 2012 | Elkin Tenorio Moreno | Colombia |
+| 2011 | César Antonio Ríos-Muñoz | Mexico |
+| 2011 | Conor Ryan | Ireland
+| 2010 | Amy McDougall | United Kingdom |
+| 2010 | Andrés Lira-Noriega | United States |
 
  
  
