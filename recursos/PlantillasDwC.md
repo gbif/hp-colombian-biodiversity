@@ -95,21 +95,20 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
       <li>El elemento <i>preparations</i> pasa a ser recomendado.</li>
       <li>El elemento <i>taxonRank</i> pasa a ser obligatorio.</li>
     </ul>
- </li>
-      
+ </li>  
  <li>Cambios en las instrucciones
     <ul>
       <li>Actualización enlaces.</li>
       <li>Se incluye una tabla describiendo los elementos obligatorios según el origen de los registros biológicos.</li>
       <li>Creación de una nueva categoría de obligatoriedad: 'Elemento obligatorio para al menos un tipo de registro biológico y recomendado en al documentación de un buen registro biológico'.</li>
       <li>Actualización menor en los textos.</li>
-      <li>Cambios menores en el diseño para mejor visibilidad de la tabla. 
+      <li>Cambios menores en el diseño para mejor visibilidad de la tabla.</li> 
       <li>Actualización citación</li>
     </ul>
  </li>      
     
 </ul>
-</details> 
+</details>  
 
 ---
 
