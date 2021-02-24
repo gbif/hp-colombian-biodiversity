@@ -14,9 +14,9 @@ columns:
     - text: Guía de Acceso Abierto
       href: https://sibcolombia.net/acceso-abierto/
     - text: Política para la Publicación 
-      href: /terminosCondiciones/PoliticaPublicacion
+      href: footer/terminosCondiciones/PoliticaPublicacion
     - text: Política para el Uso
-      href: /terminosCondiciones/PoliticaUso
+      href: footer/terminosCondiciones/PoliticaUso
     - text: Política de Datos Personales
 
   - name: Contacto
