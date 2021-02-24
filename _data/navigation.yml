@@ -12,6 +12,7 @@
     href: https://cifras.biodiversidad.co/
   - text: Gacetero de Localidades
     href: https://sibcolombia.net/gacetero/
+    
 - text: Compartir
   menu: # Dropdown menu (one level deep only)
   - text: Tipos de Datos
@@ -23,6 +24,7 @@
   - text: Regístrate
   - text: Preguntas Frecuentes
     href: /compartir/PreguntasFrecuentes
+    
 - text: Recursos
   menu: # Dropdown menu (one level deep only)
   - href: /recursos/ComoCitar
@@ -36,6 +38,7 @@
   - text: Plantillas Darwin Core
     href: /recursos/PlantillasDwC
   - text: Permisos de Recolección 
+  
 - text: Comunidad
   menu: # Dropdown menu (one level deep only)
   - text: Actividad de Publicación
@@ -46,19 +49,17 @@
     href: https://sib-colombia.github.io/Formacion/
   - text: Grupos de Interés
   - text: Uso de Datos
+  
 - text: Noticias y Eventos
-  menu: # Dropdown menu (one level deep only)
-  - text: Boletín
-    href: /news/
-  - text: Convocatorias
-    href: /noticiasEventos/Convocatorias
-  - text: Oportunidades
+  href: /news/
+  
 - text: Acerca De
   menu: # Dropdown menu (one level deep only)
   - text: SiB Colombia
     href: /acercade/SiB_Colombia.md
   - text: Aliados
   - text: Términos y Condiciones 
+  
 - text: Demo
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
