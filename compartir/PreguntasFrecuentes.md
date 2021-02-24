@@ -119,27 +119,31 @@ Si lo que deseas es publicar imágenes asociadas a un registro biológico debes 
 <li>Limitado a 1000 fotografías</li>
 <li>Ejemplo:<a href="https://www.flickr.com/photos/98788120@N02/">https://www.flickr.com/photos/98788120@N02/</a></li>
         </ul>
+  </li>
 <li><a href="https://commons.wikimedia.org/wiki/Portada?uselang=es">Wikimedia Commons</a> 
     <ul>
 <li>fotografías ilimitadas</li>
 <li>Sobre las galerías:<a href="https://commons.wikimedia.org/wiki/Commons:Galleries">https://commons.wikimedia.org/wiki/Commons:Galleries</a></li>
 <li>Ejemplo galería:<a href="https://commons.wikimedia.org/wiki/London">https://commons.wikimedia.org/wiki/London</a></li>
 </ul>
+  </li>
     <li><a href=" https://archive.org/about/ ">Internet Archive</a>
         <ul>
 <li>fotografías ilimitadas</li>
 <li>Sobre las colecciones:<a href="https://help.archive.org/hc/en-us/articles/360017502272-How-to-request-a-collection-">https://help.archive.org/hc/en-us/articles/360017502272-How-to-request-a-collection-</a> </li>
 <li>Ejemplo colecciones:<a href="https://archive.org/details/cmpuj">https://archive.org/details/cmpuj</a> </li>
 </ul>
+  </li>
     <li><a href="https://www.smugmug.com/">SmugMug</a>
         <ul>
 <li>El almacenamiento está sujeto a pago, puede consultar <a href="https://www.smugmug.com/plans">aquí</a> los planes disponibles</li>
 <li>Almacenamiento ilimitado en cualquier plan</li>
     </ul>
+      </li>
 
 Ten en cuenta que para poder visualizar tus fotos en Portales de datos Nacionales e internacionales es necesario que al compartir la imagen, la URL estática cuente con el formato de la imagen.
     Ejemplo Imagen: ("<a href="https://farm1.staticflickr.com/966/41777088842_ae24e9bb55_h.jpg">https://farm1.staticflickr.com/966/41777088842_ae24e9bb55_h.</a><b>jpg</b>").
-    </li></ul></li>
+   </ul></li>
       <li>Documenta la extensión <a href="https://rs.gbif.org/extension/gbif/1.0/multimedia.xml">Simple Multimedia</a> del estándar Darwin Core para la publicación de imágenes, videos y sonidos. <a href="https://ipt.biodiversidad.co/sibm/archive.do?r=anadarko_colombia_002&v=1.1">Aquí</a> encontrarás un ejemplo del uso de la extensión de Simple Multimedia en una publicación.</li>
       <li>Cuando te comuniques con el <a href="mailto:sib@humboldt.org.co">SiB Colombia</a> para comenzar tu proceso de publicación no olvides mencionar que deseas compartir imágenes, te daremos las indicaciones que haga falta para la publicación.</li>
 </ol>
