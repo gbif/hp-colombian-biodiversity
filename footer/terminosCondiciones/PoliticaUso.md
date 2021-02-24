@@ -73,7 +73,7 @@ Cuando un usuario consulta y descarga cualquiera de estos contenidos contenidos,
 * **OBIS**: Sistema de Información Biogeográfica de los Océanos, es el centro mundial de intercambio de datos e información sobre la biodiversidad marina para la ciencia, la conservación y el desarrollo sostenible.
 
 # Cómo citar datos e información
-El SiB Colombia ha sido muy cuidadoso para desarrollar las recomendaciones de citaciones en sus plataformas para darle crédito a las personas y entidades involucradas en todo el proceso. El usuario debe ser cuidadoso en la citación y reconocer ese trabajo. Conoce más en la guía sobre Cómo citar los diferentes contenidos disponibles a través de las plataformas del SiB Colombia.
+El SiB Colombia ha sido muy cuidadoso para desarrollar las recomendaciones de citaciones en sus plataformas para darle crédito a las personas y entidades involucradas en todo el proceso. El usuario debe ser cuidadoso en la citación y reconocer ese trabajo. Conoce más en la guía sobre [Cómo citar](recursos/ComoCitar) los diferentes contenidos disponibles a través de las plataformas del SiB Colombia.
 
 # Responsabilidad
 Los canales de participación del SiB Colombia;  otras plataformas, sitios web referenciados y el contenido que se comparte tienen el propósito de proveer información para uso general, científico, secundar investigación y conocimiento público, con la finalidad de aportar para el debate y desarrollo de políticas para la gestión del territorio. 
