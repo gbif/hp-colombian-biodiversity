@@ -3,11 +3,21 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: SiB Colombia
+
+  - name: SiB Colombia 
     links:
     - text: Acerca de
-    - text: Términos de Uso
     - text: Preguntas Frecuentes
+    
+  - name: Términos y Condiciones
+    links:
+    - text: Guía de Acceso Abierto
+      href: https://sibcolombia.net/acceso-abierto/
+    - text: Política para la Publicación de Datos e Información
+      href: /terminosCondiciones/PoliticaPublicacion
+    - text: Política para el Uso de Datos e Información
+      href: /terminosCondiciones/PoliticaUso
+    - text: Política de Privacidad y Tratamiento de Datos personales
 
   - name: Contacto
     description: | # Can be Markdown
