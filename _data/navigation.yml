@@ -24,8 +24,8 @@
   - text: Preguntas Frecuentes
     href: /compartir/PreguntasFrecuentes
 - text: Recursos
-  href: /recursos/ComoCitar
   menu: # Dropdown menu (one level deep only)
+  href: /recursos/ComoCitar
   - text: IPT Herramienta de Publicación
   - text: Acceso Abierto
   - text: Cómo Citar
