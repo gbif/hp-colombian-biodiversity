@@ -13,11 +13,11 @@ columns:
     links:
     - text: Guía de Acceso Abierto
       href: https://sibcolombia.net/acceso-abierto/
-    - text: Política para la Publicación de Datos e Información
+    - text: Política para la Publicación 
       href: /terminosCondiciones/PoliticaPublicacion
-    - text: Política para el Uso de Datos e Información
+    - text: Política para el Uso
       href: /terminosCondiciones/PoliticaUso
-    - text: Política de Privacidad y Tratamiento de Datos personales
+    - text: Política de Datos personales
 
   - name: Contacto
     description: | # Can be Markdown
