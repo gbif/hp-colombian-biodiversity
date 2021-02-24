@@ -35,9 +35,9 @@ url: "https://hp-colombian-biodiversity.gbif-staging.org" # the base hostname & 
   # github: SiBColombia
 
 twitter_username: sibcolombia
-facebook_username:: SibColombia
+facebook_username: SibColombia
 github_username:  SiBColombia
-youtube_username:: sibcolombia
+youtube_username: sibcolombia
 
 # Build settings
 theme: minima
