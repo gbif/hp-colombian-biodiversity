@@ -63,7 +63,7 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
 
 </ul>
   
-</details>details>  
+</details>  
 
 <details>
     <summary markdown="span"><B>Historial de versiones</B></summary>
@@ -109,7 +109,7 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
  </li>      
     
 </ul>
-</details>details>  
+</details> 
 
 ---
 
