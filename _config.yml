@@ -28,16 +28,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hp-colombian-biodiversity.gbif-staging.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 
-social-network-links:
-  twitter: sibcolombia
-  youtube: sibcolombia
-  facebook: SibColombia
-  github: SiBColombia
+# social-network-links:
+  # twitter: sibcolombia
+  #youtube: sibcolombia
+  # facebook: SibColombia
+  # github: SiBColombia
 
-# twitter_username: sibcolombia
-# facebook: SibColombia
-# github_username:  SiBColombia
-# youtube: sibcolombia
+twitter_username: sibcolombia
+facebook_username:: SibColombia
+github_username:  SiBColombia
+youtube_username:: sibcolombia
 
 # Build settings
 theme: minima
