@@ -15,7 +15,6 @@ cta:
 permalink: /
 ---
 
-Edit `/home.md` to change the text.
 
 
 
