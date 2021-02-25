@@ -110,23 +110,23 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
 </ul>
     
 <a href="https://drive.google.com/uc?export=download&id=1ik_etAy1SAGplzanh5D9OA7-1IVDAQsq"><b>Plantilla de Registros Biológicos v3.3</b></a> 
-<i>Revisada y editada 2017-11</i>
+    <p><i>Revisada y editada 2017-11</i></p>
     
 <a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=1NwpYvbragT62gS5Pa6bE4YWGSIE6jxao&export=download"><b>Plantilla de Registros Biológicos v3.1</b></a> 
-<i>Revisada y editada 2017-04</i>   
+ <p><i>Revisada y editada 2017-04</i></p>   
     
 <a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=197GjqdIAVXppnc798nW656UDPiAn28xx&export=download"><b>Plantilla de Registros Biológicos v3.0</b></a> 
-<i>Revisada y editada 2013-11</i>    
+ <p><i>Revisada y editada 2013-11</i></p>    
     
 <a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=1qE-1rCfFklxyUR9xvim9tqoGAj-iU3U4&export=download"><b>Plantilla de Registros Biológicos v2.0</b></a> 
-<i>Revisada y editada 2013-05</i>   
+ <p><i>Revisada y editada 2013-05</i></p>   
 
 <a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=1bEfdcGc31NLjLlWMZ62keHRLicSWn37M&export=download"><b>Plantilla de Registros Biológicos v1.0</b></a> 
-<i>Revisada y editada 2012</i> 
+ <p><i>Revisada y editada 2012</i></p> 
     
 <a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=1bEfdcGc31NLjLlWMZ62keHRLicSWn37M&export=download"><b>Plantilla CR-SiB v1.0</b></a>
-    <i>Revisada y editada 2014-05</i>
-    <i>A partir de 2019-09 se unificaron las plantillas de publicación de registros biológicos.</i> 
+     <p><i>Revisada y editada 2014-05</i></p>
+     <p><i>A partir de 2019-09 se unificaron las plantillas de publicación de registros biológicos.</i></p> 
     
 </details>  
 
