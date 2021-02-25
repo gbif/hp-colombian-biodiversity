@@ -125,8 +125,7 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
  <p><i>Revisada y editada 2012</i></p> 
     
 <a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=1bEfdcGc31NLjLlWMZ62keHRLicSWn37M&export=download"><b>Plantilla CR-SiB v1.0</b></a>
-     <p><i>Revisada y editada 2014-05</i></p>
-     <p><i>A partir de 2019-09 se unificaron las plantillas de publicación de registros biológicos.</i></p> 
+     <p><i>Creada en 2014-05. A partir de 2019-09 se unifica con las plantillas de publicación de registros biológicos v3.5.</i></p> 
     
 </details>  
 
