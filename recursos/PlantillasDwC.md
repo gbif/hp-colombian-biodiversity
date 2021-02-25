@@ -158,7 +158,7 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
 ### Eventos de muestreo
 
 <details>
-    <summary markdown="span"><b><a href="https://goo.gl/EAZbqL">Última versión v3.2</b></a></summary>
+    <summary markdown="span"><b><a href="https://goo.gl/EAZbqL">Última versión v1.1</b></a></summary>
     <p><i>Revisada y editada 2014-05</i></p>
     
 </details>
