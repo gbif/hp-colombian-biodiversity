@@ -152,6 +152,7 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
     <i>Revisada y editada 2012</i>
 
 </details>
+
 ---
 
 ### Eventos de muestreo
