@@ -5,7 +5,7 @@ title: Sistema de Información sobre Biodiversidad - SiB Colombia
 description: publicación, acceso y uso a datos e información sobre la biodiversidad de Colombia
 background: https://static.inaturalist.org/photos/24650130/original.jpg?1536592770
 imageLicense: |
-  *Hyloscirtus antioquia* Photo by Andrés Mauricio Forero Cano via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
+  *Hyloscirtus antioquia* Photo by Andrés Mauricio Forero Cano via [iNaturalist](https://colombia.inaturalist.org/observations/16391377)
 cta:
   - text: Comenzar a explorar
     href: /data
