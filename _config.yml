@@ -93,15 +93,23 @@ exclude:
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: ""
     values:
-      layout: "page"
       lang: es
   -
     scope:
-      path: "_posts" # an empty string here means all files in the project
+      path: "en"
     values:
-      layout: "post"
-      permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+      lang: en
   -
-
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+      layout: "post"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"                 # Only required for the theme website, implied for sites using a theme
