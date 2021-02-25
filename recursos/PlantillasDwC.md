@@ -31,7 +31,7 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
 ### Registros biológicos
 
 <details>
-    <summary markdown="span"><b><a href="https://drive.google.com/u/0/uc?id=16oIiR09yAbm8B63CpR0h2phY7tqsFXSk&export=download">Última versión v3.5</b></a></summary>
+    <summary markdown="span"><b><a href="https://drive.google.com/u/0/uc?id=16oIiR09yAbm8B63CpR0h2phY7tqsFXSk&export=download">Última versión v3.5</a></b></summary>
 <p>
     <i>Cambios realizados respecto a la versión 3.4:</i>
 </p>
@@ -130,13 +130,12 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
     
 </details>  
 
-
 ---
 
 ### Listas de especies
 
 <details>
-    <summary markdown="span"><b><a href="https://drive.google.com/uc?export=download&id=1p2j1KYHsNPyt50LopUkdhdaMlI6SZd4Q">Última versión v3.2</b></a></summary>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?export=download&id=1p2j1KYHsNPyt50LopUkdhdaMlI6SZd4Q">Última versión v3.2</a></b></summary>
     <p><i>Revisada y editada 2017-11</i></p>
     
 </details>
@@ -146,10 +145,10 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
     <p><i>Revisada y editada  2013-11</i></p>
     
 <a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=1YaQewpHUEo7br_OjaEH5_mum60KxV8bh&export=download"><b>Plantilla de Listas v2.0</b></a>
-    <i>Revisada y editada 2013-05</i>
+    <p><i>Revisada y editada 2013-05</i></p>
 
 <a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=1ZJwCYee7w_XF2RglSwhpv2VFI-cVdt1k&export=download"><b>Plantilla de Listas v1.0</b></a>
-    <i>Revisada y editada 2012</i>
+   <p><i>Revisada y editada 2012</i></p>
 
 </details>
 
@@ -158,7 +157,7 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
 ### Eventos de muestreo
 
 <details>
-    <summary markdown="span"><b><a href="https://goo.gl/EAZbqL">Última versión v1.1</b></a></summary>
+    <summary markdown="span"><b><a href="https://goo.gl/EAZbqL">Última versión v1.1</a></b></summary>
     <p><i>Revisada y editada 2014-05</i></p>
     
 </details>
