@@ -25,7 +25,7 @@ columns:
       * Calle 28 A # 15 - 09, Bogotá D.C.
       * PBX: (+571) 320 2767
       * Colombia
-      * /assets/images/logos/72logoSiBfullB.png
+    logo: /assets/images/logos/72logoSiBfullB.png
      
     connectIcons: true
 
