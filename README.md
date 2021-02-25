@@ -8,4 +8,4 @@ This Jekyll website, **[hp-colombian-biodiversity](https://hp-colombian-biodiver
 
 You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals)
 
-> Powered by [GBIF](https://www.gbif.org/)
+> Powered by SiB Colombia and [GBIF](https://www.gbif.org/)
