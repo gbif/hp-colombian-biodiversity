@@ -2,5 +2,7 @@ es:
   label: Español
   icon:  # optional
 # En caso de que se quiera tener una versión en otro idioma  
-# da:
-#label: Dansk
+
+en:
+  label: English
+  icon:
