@@ -1,9 +1,12 @@
 
 ---
-layout: post
-title: Comité directivo SiB Colombia
-background: https://via.placeholder.com/1000x400
-description: Most layout assume the fields `background`, `title` and an optional `description`
+layout: heroImage
+title: Sobre el SiB Colombia
+description: Conoce la red nacional de datos abiertos
+background: /assets/images/moss.jpg
+imageLicense: |
+ Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+height: 70vh
 ---
 
 
