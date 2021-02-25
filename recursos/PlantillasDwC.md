@@ -2,7 +2,7 @@
 layout: heroImage
 title: Plantillas de publicación de datos
 description: Las siguientes son plantillas pre-diseñadas para publicar datos  sobre biodiversidad. 
-background: /assets/images/moss.jpg
+background: /assets/images/pavaAndina_cp.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 
