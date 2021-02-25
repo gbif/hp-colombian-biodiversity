@@ -42,7 +42,7 @@ plugins:
 remote_theme: gbif/jekyll-hp-base-theme
 
 algae:
-  rootLang: en
+  rootLang: es
   # latestPostLimit: 2
   logo: /assets/images/11Recurso 13.png  # Logo in navbar, will be displayed with 28px height
   logoAndTitle: false # include the title next to the logo
