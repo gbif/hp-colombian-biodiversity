@@ -27,13 +27,6 @@ description: >- # this means to ignore newlines (until baseurl:)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hp-colombian-biodiversity.gbif-staging.org" # the base hostname & protocol for your site, e.g. http://example.com
 
-
-# social-network-links:
-  # twitter: sibcolombia
-  #youtube: sibcolombia
-  # facebook: SibColombia
-  # github: SiBColombia
-
 youtube_username: sibcolombia
 twitter_username: sibcolombia
 facebook_username: SibColombia
@@ -93,23 +86,23 @@ exclude:
 defaults:
   -
     scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "page"
+      lang: es
+  -
+    scope:
+      path: "_posts" # an empty string here means all files in the project
+    values:
+      layout: "post"
+      permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
       path: ""
     values:
       lang: es
   -
     scope:
-      path: "en"
+      path: "en/"
     values:
       lang: en
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
-      layout: "post"
-  -
-    scope:
-      path: ""
-    values:
-      layout: "page"                 # Only required for the theme website, implied for sites using a theme
