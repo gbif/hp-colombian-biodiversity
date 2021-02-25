@@ -5,7 +5,6 @@
 columns:
 
   - name: SiB Colombia
-    href: /assets/images/logos/72logoSiBfullB.png
     links:
     - text: Acerca de
     - text: Preguntas Frecuentes
@@ -26,7 +25,7 @@ columns:
       * Calle 28 A # 15 - 09, Bogotá D.C.
       * PBX: (+571) 320 2767
       * Colombia
-/assets/images/logos/72logoSiBfullB.png
+      * /assets/images/logos/72logoSiBfullB.png
      
     connectIcons: true
 
