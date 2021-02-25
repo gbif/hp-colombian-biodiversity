@@ -1,16 +1,13 @@
-
 ---
 layout: heroImage
-title: Gacetero de localidades
-description: Este gacetero constituye una importante referencia sobre lugares y sus nombres dentro y fuera del país donde se realizó una observación de especímenes o una captura. 
+title: Gacetero
+description: Las siguientes son plantillas pre-diseñadas para publicar datos  sobre biodiversidad. 
 background: /assets/images/moss.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 
 height: 70vh
 ---
-
-
 
 # Gacetero de localidades
 
