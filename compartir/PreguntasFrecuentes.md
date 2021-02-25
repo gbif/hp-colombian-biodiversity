@@ -3,7 +3,7 @@ layout: heroImage
 lang-ref: Estandares
 title: Preguntas Frecuentes sobre el proceso de publicación
 description: Estas son  algunas de las preguntas mas frecuentes que respondemos desde el SiB Colombia.
-background: /assets/images/Baudouinia_fluggeiformis.jpeg
+background: /assets/images/tetragoniscaNido_cp.jpg
 imageLicense: |
   Photo by SiB Colombia via [https://sibcolombia.net/](https://statics.sibcolombia.net/IPT/img/logos/sib.png)
 height: 70vh
