@@ -31,9 +31,10 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
 ### Registros biológicos
 
 <details>
-    <summary markdown="span"><B><a href="https://drive.google.com/u/0/uc?id=16oIiR09yAbm8B63CpR0h2phY7tqsFXSk&export=download">Última versión v3.5</a></B></summary>
-
-<p>Cambios realizados respecto a la versión 3.4:</p>
+    <summary markdown="span"><b><a href="https://drive.google.com/u/0/uc?id=16oIiR09yAbm8B63CpR0h2phY7tqsFXSk&export=download">Última versión v3.5</b></a></summary>
+<p>
+    <i>Cambios realizados respecto a la versión 3.4:</i>
+</p>
 
 <ul>
   <li>Definiciones actualizadas
@@ -67,9 +68,8 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
 
 <details>
     <summary markdown="span"><B>Historial de versiones</B></summary>
-<a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=18QECbc_8aobmpxsLLKU8QFsRJIm-QBF6&export=download">Plantilla de Registros Biológicos v3.4</a> 
-<p>Cambios realizados respecto a la versión 3.3:</p>
-
+    <a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=18QECbc_8aobmpxsLLKU8QFsRJIm-QBF6&export=download"><b>Plantilla de Registros Biológicos v3.4</b></a>
+<p><i>Cambios realizados respecto a la versión 3.3:</i></p>
 <ul>
   <li>Definiciones actualizadas
     <ul>
@@ -108,20 +108,56 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
  </li>      
     
 </ul>
+    
+<a href="https://drive.google.com/uc?export=download&id=1ik_etAy1SAGplzanh5D9OA7-1IVDAQsq"><b>Plantilla de Registros Biológicos v3.3</b></a> 
+<i>Revisada y editada 2017-11</i>
+    
+<a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=1NwpYvbragT62gS5Pa6bE4YWGSIE6jxao&export=download"><b>Plantilla de Registros Biológicos v3.1</b></a> 
+<i>Revisada y editada 2017-04</i>   
+    
+<a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=197GjqdIAVXppnc798nW656UDPiAn28xx&export=download"><b>Plantilla de Registros Biológicos v3.0</b></a> 
+<i>Revisada y editada 2013-11</i>    
+    
+<a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=1qE-1rCfFklxyUR9xvim9tqoGAj-iU3U4&export=download"><b>Plantilla de Registros Biológicos v2.0</b></a> 
+<i>Revisada y editada 2013-05</i>   
+
+<a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=1bEfdcGc31NLjLlWMZ62keHRLicSWn37M&export=download"><b>Plantilla de Registros Biológicos v1.0</b></a> 
+<i>Revisada y editada 2012</i> 
+    
+<a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=1bEfdcGc31NLjLlWMZ62keHRLicSWn37M&export=download"><b>Plantilla CR-SiB v1.0</b></a>
+    <i>Revisada y editada 2014-05</i>
+    <i>A partir de 2019-09 se unificaron las plantillas de publicación de registros biológicos.</i> 
+    
 </details>  
+
 
 ---
 
 ### Listas de especies
 
-* ¡[Última versión v3.5](https://drive.google.com/u/0/uc?id=16oIiR09yAbm8B63CpR0h2phY7tqsFXSk&export=download)!
+<details>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?export=download&id=1p2j1KYHsNPyt50LopUkdhdaMlI6SZd4Q">Última versión v3.2</b></a></summary>
+    <p><i>Revisada y editada 2017-11</i></p>
+    
+</details>
+<details>
+    <summary markdown="span"><B>Historial de versiones</B></summary>
+    <a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=11rXim-K9OvEX3icT10sA5FE67NNvPIdd&export=download"><b>Plantilla de Listas v3.0</b></a>
+    <p><i>Revisada y editada  2013-11</i></p>
+    
+<a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=1YaQewpHUEo7br_OjaEH5_mum60KxV8bh&export=download"><b>Plantilla de Listas v2.0</b></a>
+    <i>Revisada y editada 2013-05</i>
 
-* [Historial de versiones](recuros/plantillas/HistorialPlantillas)
+<a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=1ZJwCYee7w_XF2RglSwhpv2VFI-cVdt1k&export=download"><b>Plantilla de Listas v1.0</b></a>
+    <i>Revisada y editada 2012</i>
 
+</details>
 ---
 
 ### Eventos de muestreo
 
-* ¡[Última versión v3.5](https://drive.google.com/u/0/uc?id=16oIiR09yAbm8B63CpR0h2phY7tqsFXSk&export=download)!
-
-* [Historial de versiones](recuros/plantillas/HistorialPlantillas)
+<details>
+    <summary markdown="span"><b><a href="https://goo.gl/EAZbqL">Última versión v3.2</b></a></summary>
+    <p><i>Revisada y editada 2014-05</i></p>
+    
+</details>
