@@ -7,10 +7,10 @@ background: https://static.inaturalist.org/photos/24650130/original.jpg?15365927
 imageLicense: |
   *Hyloscirtus antioquia* Photo by Andrés Mauricio Forero Cano via [iNaturalist](https://colombia.inaturalist.org/observations/16391377)
 cta:
-  - text: Comenzar a explorar
+  - text: Explorar datos
     href: /data
     isPrimary: true
-  - text: Acerca de
+  - text: SiB Colombia
     href: /acercade/SiB_Colombia
 permalink: /
 ---
