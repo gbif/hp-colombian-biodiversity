@@ -13,16 +13,6 @@ columns:
     - text: Términos y Condiciones
       href: /footer/terminosCondiciones/TerminosCondiciones
     
-  - name: Términos y Condiciones
-    links:
-    - text: Guía de Acceso Abierto
-      href: https://sibcolombia.net/acceso-abierto/
-    - text: Política para la Publicación 
-      href: footer/terminosCondiciones/PoliticaPublicacion
-    - text: Política para el Uso
-      href: footer/terminosCondiciones/PoliticaUso
-    - text: Política de Datos Personales
-
   - name: Contacto
     description: | # Can be Markdown
       * sib@humboldt.org.co
@@ -55,6 +45,17 @@ columns:
   #  - text: link title 2
   #    href: http://example2.com
   #  connectIcons: true # optional - show social icons (defined in _config.yml)
+  
+  
+  #  - name: Términos y Condiciones
+  #  links:
+  #  - text: Guía de Acceso Abierto
+  #    href: https://sibcolombia.net/acceso-abierto/
+  #  - text: Política para la Publicación 
+  #    href: footer/terminosCondiciones/PoliticaPublicacion
+  #  - text: Política para el Uso
+  #    href: footer/terminosCondiciones/PoliticaUso
+  #  - text: Política de Datos Personales
 
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
