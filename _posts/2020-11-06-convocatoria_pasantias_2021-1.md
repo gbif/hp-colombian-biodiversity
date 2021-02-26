@@ -1,6 +1,6 @@
 ---
 title:  "Convocatorias"
-date:   2021-01-29
+date:   2020-11-06
 categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
 lang-ref: for authors
 background: /assets/images/noticias_eventos/Ebbe-Nielsen-01-1000x1000.jpg
