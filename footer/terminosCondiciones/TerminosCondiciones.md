@@ -18,7 +18,7 @@ Acá encontrarás tres (3) políticas que debes conocer para la publicacción, a
 3. Política para el uso de datos e información
 
 
-# {% include_relative PoliticaPublicacion.md %}
+[//]: # {% include_relative PoliticaPublicacion.md %}
 
 
 # Política para la publicación de datos e información
