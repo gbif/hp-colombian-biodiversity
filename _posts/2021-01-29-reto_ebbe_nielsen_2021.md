@@ -6,6 +6,8 @@ lang-ref: for authors
 background: /assets/images/noticias_eventos/Ebbe-Nielsen-01-1000x1000.jpg
 ---
 
+Haz parte del reconocimiento a las propuestas innovadoras que aprovechen los datos sobre biodiversidad y las herramientas disponibles en la red GBIF.
+
 # Reto Ebbe Nielsen 2021
 
 Innovaciones de datos abiertos para la biodiversidad
