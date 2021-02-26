@@ -1,0 +1,15 @@
+terms:
+- grouptitle: Group name
+  content:
+  - title: Some page
+    path: /some/location
+- grouptitle: New group
+  content:
+  - title: A page goes here
+    path: /examples/test
+  - title: Something
+    path: /examples/something
+  - sectiontitle: Deep
+    section:
+    - title: Nested page
+      path: /examples/nester
