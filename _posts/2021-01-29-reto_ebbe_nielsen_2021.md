@@ -1,6 +1,6 @@
 ---
-title:  "Premio GBIF Jóvenes Investigadores 2021"
-date:   2021-02-03
+title:  "Reto Ebbe Nielsen 2021"
+date:   2021-01-29
 categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
 lang-ref: for authors
 background: /assets/images/noticias_eventos/Ebbe-Nielsen-01-1000x1000.jpg
