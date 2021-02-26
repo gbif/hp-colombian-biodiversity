@@ -35,6 +35,8 @@ En la medida que se sigan refinando los procesos de validación y limpieza de da
 
 Histórico de la cifra de especies registradas (con al menos un dato para Colombia publicado a través del SiB Colombia o GBIF).
 
+**Propuestas ganadoras en ediciones anteriores**
+
 | Año       | SiB Colombia        | GBIF  | Corte de datos |
 | ------------- |:-------------:| -----:|
 | 2020 | 58.312 | 69.876 | 2019-12-31 |
