@@ -18,6 +18,10 @@ Acá encontrarás tres (3) políticas que debes conocer para la publicacción, a
 3. Política para el uso de datos e información
 
 
+{% include_relative /footer/terminosCondiciones/PoliticaPublicacion.md %}
+{% include_relative footer/terminosCondiciones/PoliticaUso.md %}
+
+
 # Política para la publicación de datos e información
 
 *En el SiB Colombia creemos en la construcción colectiva y participativa del conocimiento. Por eso, consideramos que el modelo de acceso abierto es el mejor camino para que la sociedad pueda acceder de manera libre y responsable a la información sobre diversidad biológica del país*.
