@@ -1,11 +1,11 @@
 ---
 layout: heroImage
 title: "Términos y Condiciones"
-description: "Conoce los términos y condiciones para la publicacción, acceso y uso de los datos abiertos disponibles a través del SiB Colombia"
+description: "Conoce los términos y condiciones para la publicacción, acceso y uso de los datos abeirtos disponibles a través del SiB Colombia"
 sideNavigation: sideNavigation.guides
 background: /assets/images/fondos_layout/flor_paramo_cp.jpg
-imageLicense: https://creativecommons.org/licenses/by-nc-nd/2.0/
-  Fotografía de Camila Plata vía [Flickr](https://www.flickr.com/photos/camisilver/8263350701/)
+imageLicense: |
+    Fotografía de: Camila Plata vía [Flickr](https://www.flickr.com/photos/camisilver/8263350701/) [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/) 
 height: 70vh
 toc: true
 ---
