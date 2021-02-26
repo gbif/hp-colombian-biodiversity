@@ -37,28 +37,42 @@ Si tienes dudas, por favor escríbenos a sib@humboldt.org.co con el asunto: “P
 
 # Perfiles para pasantías
 
-El reto rinde homenaje a la memoria del Dr. Ebbe Schmidt Nielsen, un líder inspirador en los campos de la biosistemática y la informática de la biodiversidad, y uno de los principales fundadores de GBIF, quien murió inesperadamente justo antes de que se creara.
+## PS01 - Creación y edición de contenidos en plataformas Digitales
 
-El Reto Ebbe Nielsen 2021 tiene el objetivo de reconocer propuestas innovadoras que aprovechen los datos sobre biodiversidad y las herramientas  disponibles en la red GBIF. Un jurado experto evaluará las propuestas en función de su apertura y reproducibilidad, relevancia e innovación, y entregará a un grupo seleccionado de ganadores un total de hasta €20,000 en premios.
+- Carreras: Diseño Gráfico, Diseño Industrial, Diseño interactivo, Artes visuales, Animación.
+- Temática: Divulgación científica, Datos Abiertos, Visualización de Datos.
+- Objetivo: Diseñar e implementar estrategias de divulgación que apoyen la publicación, acceso y uso de datos abiertos sobre biodiversidad.
+- Actividades: Crear, maquetar, preparar, editar y optimizar publicaciones en distintos canales digitales (web y redes sociales) para el Sistema de Información sobre Biodiversidad de Colombia (SiB Colombia).
 
-Entre el 20 de Enero y el 2 de Agosto de 2021, personas y equipos pueden presentar a este reto herramientas y técnicas que mejoren el acceso, usabilidad y calidad de los datos abiertos sobre biodiversidad.
+## PS02 - Creador de contenidos y Corrector de Estilo
 
-Las propuestas para el reto pueden tener varios enfoques. Los participantes pueden optar por el desarrollo de nuevas aplicaciones, visualizaciones, métodos, flujos de trabajo o análisis, a menudo (pero no siempre) haciendo uso de la API de GBIF para acceder a los datos. También pueden mejorar las herramientas ya disponibles a través de GBIF o ampliar sus funcionalidades. Alentamos a los participantes a inspirarse en los ganadores y propuestas de años anteriores, para conocer más ideas, problemas y enfoques que deseen aplicar.
+- Carreras: Literatura, comunicador social o áreas afines.
+- Temática: Divulgación científica, Datos Abiertos, Visualización de Datos.
+- Objetivo: Fortalecer los contenidos del SiB Colombia para la publicación, acceso y uso de datos abiertos sobre biodiversidad.
+- Actividades: Construir, revisar y actualizar los contenidos asociados al modelo de publicación de datos del SiB Colombia y su uso por diferentes actores.
 
-Las propuestas deben beneficiar a múltiples actores, incluidos usuarios, propietarios y administradores de datos. Los participantes pueden revisar la Estrategia de comunicación de GBIF para conocer la audiencia de GBIF.
+## GC01 - Gestión de procesos
 
-# Un colombiano gana el reto Ebbe Nielsen 2019 de GBIF
+- Carreras: Ingeniería Industrial o Administración de Empresas.
+- Temática: DGestión de procesos, Flujos de datos e información, Datos abiertos.
+- Objetivo: Consolidar los procedimientos y flujos de trabajo internos del Equipo Coordinador del SiB Colombia.
+- Actividades: Documentar y diagramar los procedimientos de gestión y flujos de trabajo internos del Equipo Coordinador del SiB Colombia.
 
-## Jorge Velásquez-Tibatá
+# Proceso de vinculación:
+
+Informar oportunamente a la oficina de la universidad encargada de las pasantías que la legalización de la misma se realizará por medio del acuerdo tripartita generado por el Instituto Humboldt.
+
+Recopilar los siguientes documentos, esto puede tardar un tiempo, así que se recomienda hacerlo con anticipación:
+
+1. Carta de presentación o respaldo, expedida y firmada por la Universidad, o profesor de la facultad o departamento. En esta carta la universidad debe debe indicar que el estudiante está activo (matriculado) y que cuenta con los requisitos académicos necesarios para realizar la pasantía.
+2. Carta de expresión de interés donde el estudiante ratifica su disponibilidad y compromiso para la ejecución de la pasantía, debe ir firmada por el estudiante.
+3. Fotocopia legible del carné estudiantil.
+4. Fotocopia del recibo de matrícula del semestre en curso 2021-1.
+5. Constancia de afiliación del estudiante al Sistema de Riesgos Laborales (ARL), la afiliación la debe realizar la universidad.
+6. Nombre, cédula, cargo y datos de contacto (teléfono y correo electrónico) del tutor dentro de la universidad.
+7.  RUT de la Universidad.
+8.  Certificado de existencia y representación legal de la Universidad con fecha no mayor a 30 días.
+9.  Copia de la cédula de ciudadanía del representante legal de la universidad, o los documentos de la eventual persona que vaya a ser designada para firmar el acuerdo tripartito (poder, autorización o su equivalente en la Universidad, junto con copia de la cédula). 
 
 
-desarrolló un sistema de código abierto que optimiza la selección de sitios de muestreo para llenar vacíos en datos sobre biodiversidad.
-
-Se trata de WhereNext, un sistema de recomendaciones para identificar prioridades en los sitios de muestreo basado en el modelamiento generalizado de disimilitud. Con su proyecto ganó la primera plaza del reto 2019.
-
-Conoce más de su proyecto aquí.
-
-# Reglas y criterios de elegibilidad
-
-Para conocer más sobre las reglas del reto, los criterios de elegibilidad de esta edición  y las propuestas ganadoras en versiones anteriores, haz clic aquí 2021 Ebbe Nielsen Challenge.
 
