@@ -1,23 +1,14 @@
 ---
 layout: heroImage
 lang-ref: Estandares
-title: Estándares 
-description: Los estándares para compartir datos e información son un elemento principal para integrar en el SiB Colombia millones de registros primarios sobre biodiversidad.
-background: /assets/images/Baudouinia_fluggeiformis.jpeg
+title: Regístrate como publicador
+description: Las entidades, redes o iniciativas que deseen compartir datos e información a través del SiB Colombia, pueden registrarse aquí para solicitar el aval como socio publicador.
+background: /assets/images/araña_chicaque_cp.jpg
 imageLicense: |
-  Photo by SiB Colombia via [https://sibcolombia.net/](https://statics.sibcolombia.net/IPT/img/logos/sib.png)
+  Photo by Camila Plata via [Flickr](https://www.flickr.com/photos/camisilver/6792589953/)
 height: 70vh
 ---
-  
-  
-  
-  <div class="fluid-bar section">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-12"><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" data-vc-parallax="1" class="vc_row wpb_row vc_row-fluid vc_custom_1470004923833 vc_row-has-fill vc_row-no-padding vc_row-o-full-height vc_row-o-columns-top vc_row-flex vc_general vc_parallax vc_parallax-content-moving"><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="sombra-cajas wpb_column vc_column_container vc_col-sm-8 vc_col-has-fill"><div class="vc_column-inner vc_custom_1470244754207"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 30px"><span class="vc_empty_space_inner"></span></div><h2 style="font-size: 48px;color: #203541;text-align: center;font-family:Oswald;font-weight:400;font-style:normal" class="vc_custom_heading" >Regístrate como publicador</h2>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p style="text-align: center;"><em>Las entidades, redes o iniciativas que deseen compartir datos e información a través del SiB Colombia, pueden registrarse aquí para solicitar el aval como socio publicador.</em></p>
+
 
 		</div>
 	</div>
@@ -25,7 +16,7 @@ height: 70vh
 	<div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_top-to-bottom top-to-bottom">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="33" src="https://sibcolombia.net/wp-content/uploads/2016/02/linea-sib-net.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="700" height="33" src="https://sibcolombia.net/wp-content/uploads/2016/02/linea-sib-net.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
 		</figure>
 	</div>
 <div class="vc_empty_space"   style="height: 30px"><span class="vc_empty_space_inner"></span></div>
@@ -94,7 +85,7 @@ height: 70vh
 <p><label><br />
 <span class="wpcf7-form-control-wrap check-organizacion-2"><span class="wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required"><span class="wpcf7-list-item first last"><input type="checkbox" name="check-organizacion-2[]" value="Entiendo que la información de mi organización, incluyendo los detalles de contacto proporcionados, estarán disponibles públicamente en las instancias del SiB Colombia y GBIF." /><span class="wpcf7-list-item-label">Entiendo que la información de mi organización, incluyendo los detalles de contacto proporcionados, estarán disponibles públicamente en las instancias del SiB Colombia y GBIF.</span></span></span></span><br />
 </label></p>
-<p><img src="https://sibcolombia.net/wp-content/uploads/2016/02/linea-sib-net.png" class="vc_single_image-img attachment-full" alt="" width="300" height="33"></p>
+<p><img src="https://sibcolombia.net/wp-content/uploads/2016/02/linea-sib-net.png" class="vc_single_image-img attachment-full" alt="" width="700" height="33"></p>
 <p><!--complete--></p>
 <div data-id="complete-form" data-orig_data_id="complete-form"  data-class="wpcf7cf_group">
 <h3> Detalles de la Organización </h3>
