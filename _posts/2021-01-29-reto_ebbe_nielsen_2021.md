@@ -25,7 +25,7 @@ Las propuestas deben beneficiar a múltiples actores, incluidos usuarios, propie
 # Un colombiano gana el reto Ebbe Nielsen 2019 de GBIF
 
 ## Jorge Velásquez-Tibatá
-
+![My helpful screenshot](/assets/screenshot.jpg)
 
 desarrolló un sistema de código abierto que optimiza la selección de sitios de muestreo para llenar vacíos en datos sobre biodiversidad.
 
