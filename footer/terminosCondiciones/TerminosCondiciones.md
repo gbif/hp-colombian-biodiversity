@@ -19,7 +19,7 @@ Acá encontrarás tres (3) políticas que debes conocer para la publicacción, a
 
 
 {% include_relative /footer/terminosCondiciones/PoliticaPublicacion.md %}
-{% include_relative footer/terminosCondiciones/PoliticaUso.md %}
+
 
 
 # Política para la publicación de datos e información
