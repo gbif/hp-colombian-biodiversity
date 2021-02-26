@@ -1,6 +1,5 @@
 ---
-layout: documentation
-permalink: /footer/terminosCondiciones/TerminosCondiciones.md
+layout: heroImage
 title: "Términos y Condiciones"
 description: "Conoce los términos y condiciones para la publicacción, acceso y uso de los datos abeirtos disponibles a través del SiB Colombia"
 sideNavigation: sideNavigation.guides
