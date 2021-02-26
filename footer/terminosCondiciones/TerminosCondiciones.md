@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 title: "Términos y Condiciones"
-description: "Conoce los términos y condiciones para la publicacción, acceso y uso de los datos abeirtos disponibles a través del SiB Colombia"
+description: "Conoce los términos y condiciones para la publicacción, acceso y uso de los datos abiertos disponibles a través del SiB Colombia"
 sideNavigation: sideNavigation.guides
 background: /assets/images/fondos_layout/flor_paramo_cp.jpg
 imageLicense: |
@@ -9,6 +9,13 @@ imageLicense: |
 height: 70vh
 toc: true
 ---
+
+Acá encontrarás tres (3) políticas que debes conocer para la publicacción, acceso y uso de los datos abiertos disponibles a través del SiB Colombia. utiliza la barra lateral para navegar entre ellas.
+
+1. Política para la publicación de datos e información
+2. Política de privacidad y tratamiento de datos personales
+3. Política para el uso de datos e información
+
 
 # Política para la publicación de datos e información
 
@@ -282,6 +289,3 @@ Los canales de participación del SiB Colombia;  otras plataformas, sitios web r
 El SiB Colombia, únicamente pone a disposición sus plataformas y contenido. El usuario utilizará esta información bajo su propio riesgo, que se proporciona “tal cual y como está disponible”. El usuario, evaluará bajo sus propias habilidades, juicio y cuidado la confianza y uso del contenido. 
 
 El SiB Colombia y los publicadores no se hacen responsables de la calidad, exactitud, integridad, pertinencia o idoneidad del contenido que pueda encontrar con cualquier propósito que usted pretenda.
-
-
-#
