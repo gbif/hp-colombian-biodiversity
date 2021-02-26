@@ -2,9 +2,9 @@
 layout: heroImage
 title: Cómo citar datos e información
 description: Esta guía ofrece los ejemplos más comunes de citación utilizados por usuarios del SiB Colombia.
-background: /assets/images/moss.jpg
+background: /assets/images/fondos_layout/_O7A3708_Villegas-Velez-Felipe.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  Photo by Felipe Villegas-Velez
 
 height: 70vh
 ---
