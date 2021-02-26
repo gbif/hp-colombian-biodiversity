@@ -7,6 +7,7 @@ imageLicense: |
   Fotografía de Felipe Villegas-Velez
 
 height: 70vh
+toc: true
 ---
 
 
