@@ -9,20 +9,7 @@ imageLicense: |
 height: 70vh
 ---
 
-
-		</div>
-	</div>
-
-	<div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_top-to-bottom top-to-bottom">
-		
-		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="700" height="33" src="https://sibcolombia.net/wp-content/uploads/2016/02/linea-sib-net.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
-		</figure>
-	</div>
-<div class="vc_empty_space"   style="height: 30px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p>El SiB Colombia, como red nacional de datos abiertos sobre biodiversidad, busca que este tipo de contenidos estén disponibles de forma abierta y universal bajo los principios de libre acceso, cooperación, transparencia, reconocimiento y responsabilidad compartida, aportando a la construcción de una sociedad sostenible.</p>
+El SiB Colombia, como red nacional de datos abiertos sobre biodiversidad, busca que este tipo de contenidos estén disponibles de forma abierta y universal bajo los principios de libre acceso, cooperación, transparencia, reconocimiento y responsabilidad compartida, aportando a la construcción de una sociedad sostenible.</p>
 <p>La publicación de datos a través del SiB Colombia inicia con el registro de la entidad, red o iniciativa a través de este formulario en línea, denominada de aquí en adelante como organización.</p>
 <p>Al completar este formulario con la información solicitada, la organización:</p>
 <ol>
