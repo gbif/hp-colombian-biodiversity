@@ -4,7 +4,7 @@ title: Cómo citar datos e información
 description: Esta guía ofrece los ejemplos más comunes de citación utilizados por usuarios del SiB Colombia.
 background: /assets/images/fondos_layout/O7A3708_Villegas-Velez-Felipe.jpg
 imageLicense: |
-  Photo by Felipe Villegas-Velez
+  Fotografía de Felipe Villegas-Velez
 
 height: 70vh
 ---
