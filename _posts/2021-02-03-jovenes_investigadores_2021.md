@@ -3,7 +3,7 @@ title:  "Premio GBIF Jóvenes Investigadores 2021"
 date:   2021-02-03
 categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
 lang-ref: for authors
-background: /assets/images/Jovenes-Investigadores-08-min-1024x1024.jpg
+background: /assets/images/noticias_eventos/Jovenes-Investigadores-08-min-1024x1024 (1).jpg
 ---
 
 Participa en la convocatoria anual de Jóvenes Investigadores para financiar tu investigación
@@ -72,7 +72,6 @@ Se espera que los ganadores reconozcan el apoyo de GBIF cuando divulguen los res
 
 | Año       | Ganador         | País de afiliación  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
 | 2020 | Vaughn Shirey | United States |
 | 2020 | Ángel Luis Robles Fernández | México |
 | 2019 | Nicky Nicolson | United Kingdom |
