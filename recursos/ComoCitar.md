@@ -20,14 +20,14 @@ Los ejemplos de citas presentados aquí siguen el formato de estilo Harvard. Por
 # Cuando se trate de un conjunto de datos
 La mayoría de descargas desde el SiB Colombia contienen datos de múltiples conjuntos de datos (como se explica en el siguiente apartado), pero en algunos casos, como un reporte interno o el avance de publicación de un conjunto de datos, los usuarios pueden necesitar los  conjuntos de datos por separado. 
 
-* Ejemplo cuando se trate de una organización:
-    Instituto Humboldt (2017) Colección Herbario Federico Medem Bogotá – FMB. Versión 32.0. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Conjunto de datos: Registros biológicos. https://doi.org/10.15472/ighftu (Consultado a través del SiB Colombia el 2020-04-10).
+* **Ejemplo cuando se trate de una organización**:
+    <p>Instituto Humboldt (2017) Colección Herbario Federico Medem Bogotá – FMB. Versión 32.0. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Conjunto de datos: Registros biológicos. https://doi.org/10.15472/ighftu (Consultado a través del SiB Colombia el 2020-04-10).</p>
 
-* Ejemplo cuando se trate de varias organizaciones:
-    Instituto Humboldt, Cormacarena (2020) Reptiles y anfibios registrados en las cuencas bajas del Guayabero, Duda y Losada, Meta. Versión 1.0. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Conjunto de datos: Registros biológicos. https://doi.org/10.15472/klubuj (Consultado a través del SiB Colombia el 2020-04-10).
+* **Ejemplo cuando se trate de varias organizaciones**:
+    <p>Instituto Humboldt, Cormacarena (2020) Reptiles y anfibios registrados en las cuencas bajas del Guayabero, Duda y Losada, Meta. Versión 1.0. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Conjunto de datos: Registros biológicos. https://doi.org/10.15472/klubuj (Consultado a través del SiB Colombia el 2020-04-10).</p>
 
-* Ejemplo cuando se trate de varias personas de una organización:
-    Sandoval Hernández J, Vergara D I, Estupiñan D L (2016) Monitoreo biológicos en la cuenca Frayle, ARA – RARE – CVC – Asociación Calidris. v2.2. Asociación para el estudio y conservación de las aves acuáticas en Colombia. Conjunto de datos: Registros biológicos. https://doi.org/10.15472/e1oice (Consultado a través del SiB Colombia el 2020-04-10).
+* **Ejemplo cuando se trate de varias personas de una organización**:
+    <p>Sandoval Hernández J, Vergara D I, Estupiñan D L (2016) Monitoreo biológicos en la cuenca Frayle, ARA – RARE – CVC – Asociación Calidris. v2.2. Asociación para el estudio y conservación de las aves acuáticas en Colombia. Conjunto de datos: Registros biológicos. https://doi.org/10.15472/e1oice (Consultado a través del SiB Colombia el 2020-04-10).</p>
 
  
 # Cuando se trate de la descarga de una consulta de datos
