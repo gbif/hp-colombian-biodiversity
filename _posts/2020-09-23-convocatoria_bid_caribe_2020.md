@@ -9,7 +9,18 @@ background: /assets/images/noticias_eventos/BID-Caribe-2020-29-min-1000x1000.jpg
 El programa Información sobre Biodiversidad para el Desarrollo (BID) tiene como objetivo mejorar las capacidades para la publicación y uso de datos para el desarrollo sostenible.
 
 ## FECHA LÍMITE: 26 DE NOVIEMBRE DE 2020
-![My helpful screenshot](/assets/screenshot.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/BID-full-RGB-fullspan-300x66.png)
+
+GBIF invita a presentar propuestas para el financiamiento de proyectos en la región del Caribe a través del programa Información sobre Biodiversidad para el Desarrollo (BID), financiado por la Dirección General para la Cooperación Internacional de la Unión Europea.
+
+El programa BID busca mejorar las capacidades para la publicación y el uso efectivo de los datos sobre biodiversidad para apoyar la toma de decisiones y políticas para el desarrollo sostenible. El presupuesto total asignado para esta convocatoria es de aproximadamente  €450.000 euros.
+
+Esta convocatoria busca apoyar proyectos en la región del Caribe que:
+
+- Publiquen datos sobre biodiversidad relevantes para la toma de decisiones y políticas para el desarrollo sostenible.
+- Usen buenas prácticas y las amplíen en procesos de digitalización de colecciones biológicas y publicación de otros datos sobre biodiversidad.
+- Hagan uso de datos sobre biodiversidad en procesos de apoyo a la toma de decisiones e investigación.
+- Desarrollen redes nacionales, regionales o temáticas estables, que apoyen activamente la publicación y uso de datos sobre biodiversidad.
 
 # Proceso de selección
 
