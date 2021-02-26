@@ -60,35 +60,35 @@ Los proyectos seleccionados deberán enviar a un miembro del equipo a un taller 
 
 ## Criterios de elegibilidad
 
-1.Las propuestas iniciales y las propuestas completas deben ser presentadas en inglés a través del Portal de Becas de GBIF en los plazos establecidos.
+1. Las propuestas iniciales y las propuestas completas deben ser presentadas en inglés a través del Portal de Becas de GBIF en los plazos establecidos.
 
-2.Los candidatos deben ser organizaciones legales ubicadas en uno de los países elegibles del Caribe. Dichas organizaciones incluyen agencias gubernamentales nacionales, nodos Participantes de GBIF y sus organizaciones anfitrionas, museos de historia natural y colecciones biológicas, centros de investigación, universidades y ONGs.
+2. Los candidatos deben ser organizaciones legales ubicadas en uno de los países elegibles del Caribe. Dichas organizaciones incluyen agencias gubernamentales nacionales, nodos Participantes de GBIF y sus organizaciones anfitrionas, museos de historia natural y colecciones biológicas, centros de investigación, universidades y ONGs.
 
-3.Las aplicaciones que involucren a socios de países de la región Caribe que ya participan en GBIF, deben solicitar en la etapa inicial de presentación de propuestas, una carta de apoyo al Jefe de Delegación o Coordinador del Nodo de GBIF. La información de contacto de los representantes de países y organizaciones participantes en GBIF puedes encontrarla en la sección “Participante” de las páginas de países, que a su vez pueden ser encontradas en el Listado de Participantes.
+3. Las aplicaciones que involucren a socios de países de la región Caribe que ya participan en GBIF, deben solicitar en la etapa inicial de presentación de propuestas, una carta de apoyo al Jefe de Delegación o Coordinador del Nodo de GBIF. La información de contacto de los representantes de países y organizaciones participantes en GBIF puedes encontrarla en la sección “Participante” de las páginas de países, que a su vez pueden ser encontradas en el Listado de Participantes.
 
-4.Todas las actividades financiadas por el programa BID deben ser sin ánimo de lucro. Los fondos del programa BID pueden ser utilizados para apoyar el tiempo de trabajo del personal, viajes y costos asociados a la organización de reuniones y talleres, así como costos limitados para servicios y equipamiento TI.
+4. Todas las actividades financiadas por el programa BID deben ser sin ánimo de lucro. Los fondos del programa BID pueden ser utilizados para apoyar el tiempo de trabajo del personal, viajes y costos asociados a la organización de reuniones y talleres, así como costos limitados para servicios y equipamiento TI.
 
-5.Todos los datos publicados desde los proyectos financiados deben proceder principalmente de los países objetivo.
+5. Todos los datos publicados desde los proyectos financiados deben proceder principalmente de los países objetivo.
 
-6.El trabajo de campo, la colecta de nuevos datos en campo, o investigaciones de laboratorio para la captura de nuevos datos, no serán elegibles para ser financiados bajo el programa BID – aunque tales actividades pueden ser incluidas en el plan de proyecto si son financiadas por fuentes diferentes.
+6. El trabajo de campo, la colecta de nuevos datos en campo, o investigaciones de laboratorio para la captura de nuevos datos, no serán elegibles para ser financiados bajo el programa BID – aunque tales actividades pueden ser incluidas en el plan de proyecto si son financiadas por fuentes diferentes.
 
-7.Los costos de overheads no se pueden cargar al presupuesto del BID.
+7. Los costos de overheads no se pueden cargar al presupuesto del BID.
 
-8.Los candidatos deben asegurar una cofinanciación (en especie o en dinero) para sus proyectos. La cofinanciación se refiere a costos reales que son incurridos por los candidatos mientras se ejecutan las actividades de los proyectos financiados. Éstas pueden ser contribuciones en especie que aporten directamente a las actividades del proyecto (como salarios, gastos de viaje, etc.) o cualquier contribución en dinero a las actividades BID procedentes de otras fuentes de financiamiento. El nivel de cofinanciación será tenido en cuenta cuando se evalúe el costo-efectividad del proyecto.
+8. Los candidatos deben asegurar una cofinanciación (en especie o en dinero) para sus proyectos. La cofinanciación se refiere a costos reales que son incurridos por los candidatos mientras se ejecutan las actividades de los proyectos financiados. Éstas pueden ser contribuciones en especie que aporten directamente a las actividades del proyecto (como salarios, gastos de viaje, etc.) o cualquier contribución en dinero a las actividades BID procedentes de otras fuentes de financiamiento. El nivel de cofinanciación será tenido en cuenta cuando se evalúe el costo-efectividad del proyecto.
 
-9.Las actividades y los entregables no deben depender de la cofinanciación procedente de fuentes adicionales no confirmadas.
+9. Las actividades y los entregables no deben depender de la cofinanciación procedente de fuentes adicionales no confirmadas.
 
-10.Todas las actividades del proyecto propuestas deben realizarse en los períodos de ejecución establecidos para cada tipo de beca.
+10. Todas las actividades del proyecto propuestas deben realizarse en los períodos de ejecución establecidos para cada tipo de beca.
 
-11.Si eres invitado a presentar una propuesta completa, los candidatos deben preparar un presupuesto detallado. Ten en cuenta que los fondos BID no pueden ser utilizados para pagar tasas de transferencia bancaria, tasas de cambio de moneda y los costos de mensajería derivados de la entrega a GBIF del contrato y los informes del proyecto.
+11. Si eres invitado a presentar una propuesta completa, los candidatos deben preparar un presupuesto detallado. Ten en cuenta que los fondos BID no pueden ser utilizados para pagar tasas de transferencia bancaria, tasas de cambio de moneda y los costos de mensajería derivados de la entrega a GBIF del contrato y los informes del proyecto.
 
-12.Si eres invitado a presentar una propuesta completa, los candidatos deben proporcionar planes que aseguren la sostenibilidad de las actividades una vez que concluya el apoyo del BID al proyecto.
+12. Si eres invitado a presentar una propuesta completa, los candidatos deben proporcionar planes que aseguren la sostenibilidad de las actividades una vez que concluya el apoyo del BID al proyecto.
 
-13.Si eres invitado a presentar una propuesta completa, junto con la solicitud deben presentarse confirmaciones escritas de todos los socios del proyecto, estableciendo su implicación en el proyecto.
+13. Si eres invitado a presentar una propuesta completa, junto con la solicitud deben presentarse confirmaciones escritas de todos los socios del proyecto, estableciendo su implicación en el proyecto.
 
-14.Las cartas de apoyo de los socios del proyecto confirmados deberían ser enviadas a través del Portal de Becas de GBIF.
+14. Las cartas de apoyo de los socios del proyecto confirmados deberían ser enviadas a través del Portal de Becas de GBIF.
 
-15.Todos los datos publicados a través de las becas BID, así como cualquier otro producto derivado de los proyectos, tales como materiales de formación, deben estar disponibles bajo licencias CC0 1.0 o CC-BY 4.0.
+15. Todos los datos publicados a través de las becas BID, así como cualquier otro producto derivado de los proyectos, tales como materiales de formación, deben estar disponibles bajo licencias CC0 1.0 o CC-BY 4.0.
 
 ## Sobre el Portal de Becas de GBIF
 
