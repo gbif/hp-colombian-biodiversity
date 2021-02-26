@@ -7,7 +7,7 @@ description: "Conoce los términos y condiciones para la publicacción, acceso y
 sideNavigation: sideNavigation.guides
 # background: /assets/images/fondos_layout/flor_paramo_cp.jpg
 # imageLicense: |
-    [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/) Fotografía de: Camila Plata vía [Flickr](https://www.flickr.com/photos/camisilver/8263350701/)
+#   [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/) Fotografía de: Camila Plata vía [Flickr](https://www.flickr.com/photos/camisilver/8263350701/)
 # height: 70vh
 toc: true
 ---
