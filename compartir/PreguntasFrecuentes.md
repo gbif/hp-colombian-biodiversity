@@ -434,12 +434,10 @@ Recuerda que si cuentas con credenciales del SiB Colombia en el IPT, puedes acce
  <details>
   <summary markdown="span"><B>¿Cómo puedo aportar a la construcción de fichas de especies para el CBC?</B></summary>
     
-Para aportar a la construcción de una ficha, debe enviar un correo a sib@humboldt.org.co indicando su intención y la especie(s) a la que quiere hacer ficha.  Después de esto, el equipo coordinador lo guiará en los siguientes pasos:
+Para aportar a la construcción de una ficha, debe enviar un correo a sib@humboldt.org.co indicando su intención y una lista en excel de las especie(s) para las cuales desea aportar ficha. Después de esto, el equipo coordinador lo guiará en los siguientes pasos:
 <ol>
-        <li>Documentación fichas en plantilla</li>
+        <li>Documentación de fichas en la plantilla</li>
         <li>Acceso a editor y capacitación en el uso de la herramienta</li>
-        <li>Verificación especies en catálogo nueva/actualizada</li>
-    <li>Documentación de las fichas en el editor</li>
       </ol>
     </details>
 
