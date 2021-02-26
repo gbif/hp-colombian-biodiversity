@@ -130,6 +130,10 @@ Los candidatos recomendados por el Panel de Selección serán invitados a presen
 
 Las propuestas completas serán sometidas al mismo proceso de las propuestas iniciales: revisiones independientes por tres asesores y evaluación por el Panel de Selección. Como en la primera fase del BID, las recomendaciones finales para la financiación pueden tener en cuenta el equilibrio geográfico y temático, el balance entre tipos de subsidios y el equilibrio entre equipos de proyectos experimentados y nuevos, para asegurar el mejor impacto general de la ronda anual de financiación.
 
-![My helpful screenshot](/assets/images/noticias_eventos/BID-full-RGB-fullspan-300x66.png)
+![My helpful screenshot](/assets/images/noticias_eventos/7995_union_europea-300x200.jpg)
+
+Este programa es financiado por la Unión Europea. 
+Nota original en GBIF.org
+
 
 
