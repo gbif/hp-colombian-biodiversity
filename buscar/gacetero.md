@@ -2,7 +2,7 @@
 layout: heroImage
 title: Gacetero
 description: Las siguientes son plantillas pre-diseñadas para publicar datos  sobre biodiversidad. 
-background: /assets/images/fondos_layout/OCET1815_Villegas-Vélez, Felipe.jpg
+background: /assets/images/fondos_layout/QUI01259_Villegas-Velez_layout.jpg
 imageLicense: |
   Photo by Villegas-Vélez, Felipe
 
