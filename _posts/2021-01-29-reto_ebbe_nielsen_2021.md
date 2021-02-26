@@ -6,64 +6,30 @@ lang-ref: for authors
 background: /assets/images/noticias_eventos/Ebbe-Nielsen-01-1000x1000.jpg
 ---
 
-Participa en la convocatoria anual de Jóvenes Investigadores para financiar tu investigación
+# Reto Ebbe Nielsen 2021
 
-# Propósito 
+Innovaciones de datos abiertos para la biodiversidad
 
-La Infraestructura Mundial de Información en Biodiversidad (GBIF, por sus siglas en inglés) se complace en anunciar la apertura de la convocatoria al [Premio Jóvenes Investigadores 2021 (Young Researchers Award)](https://www.gbif.org/news/6SrTuANNJyRweO9c6lSx85/call-for-nominations-to-the-2021-gbif-young-researchers-award). Este programa tiene como objetivo promover y reconocer  investigaciones innovadoras, realizadas por estudiantes de maestría y/o doctorado en el campo de la informática de la biodiversidad, que se basen en el uso de datos disponibles a través de GBIF.
+El reto rinde homenaje a la memoria del Dr. Ebbe Schmidt Nielsen, un líder inspirador en los campos de la biosistemática y la informática de la biodiversidad, y uno de los principales fundadores de GBIF, quien murió inesperadamente justo antes de que se creara.
 
-Como en años anteriores, en el 2020 el programa otorgará un par de premios de € 5,000 como reconocimiento al trabajo de dos estudiantes graduados – preferiblemente un estudiante de  maestría y uno de doctorado – nominados por los [países que participan en GBIF](https://www.gbif.org/the-gbif-network).
+El Reto Ebbe Nielsen 2021 tiene el objetivo de reconocer propuestas innovadoras que aprovechen los datos sobre biodiversidad y las herramientas  disponibles en la red GBIF. Un jurado experto evaluará las propuestas en función de su apertura y reproducibilidad, relevancia e innovación, y entregará a un grupo seleccionado de ganadores un total de hasta €20,000 en premios.
 
-Un jurado organizado por el [Comité Científico de GBIF](https://www.gbif.org/contact-us/directory?group=scienceCommittee) seleccionará dos ganadores del grupo de nominados cuyos nombres serán recibidos por la Secretaría de GBIF hasta el 21 de Junio de 2021. Los ganadores serán anunciados a fines del verano o principios del otoño de 2021.
+Entre el 20 de Enero y el 2 de Agosto de 2021, personas y equipos pueden presentar a este reto herramientas y técnicas que mejoren el acceso, usabilidad y calidad de los datos abiertos sobre biodiversidad.
 
-Fechas límite nacionales para 2021
+Las propuestas para el reto pueden tener varios enfoques. Los participantes pueden optar por el desarrollo de nuevas aplicaciones, visualizaciones, métodos, flujos de trabajo o análisis, a menudo (pero no siempre) haciendo uso de la API de GBIF para acceder a los datos. También pueden mejorar las herramientas ya disponibles a través de GBIF o ampliar sus funcionalidades. Alentamos a los participantes a inspirarse en los ganadores y propuestas de años anteriores, para conocer más ideas, problemas y enfoques que deseen aplicar.
 
-Si bien la fecha límite para la recepción de nominados en la Secretaría de GBIF es el 21 de Junio, cada país establece sus propias fechas límite En el caso de Colombia la fecha límite es el 31 de Mayo.  
+Las propuestas deben beneficiar a múltiples actores, incluidos usuarios, propietarios y administradores de datos. Los participantes pueden revisar la Estrategia de comunicación de GBIF para conocer la audiencia de GBIF.
 
-Las fechas límites nacionales de los otros países se publicarán a través de la cuenta de Twitter de[GBIF](https://twitter.com/gbif?lang=es) utilizando el hashtag #YoungResearchers.
+# Un colombiano gana el reto Ebbe Nielsen 2019 de GBIF
 
-### Elegibilidad (Colombia)
+## Jorge Velásquez-Tibatá
 
-Los candidatos deben estar matriculados en un programa de posgrado universitario para ser elegibles. Así mismo, deben ser ciudadanos colombianos o ser estudiantes de una universidad que esté ubicada en Colombia. La selección de los elegibles nacionales y su nominación solo puede ser realizada por el SiB Colombia como nodo nacional ante GBIF.
+Desarrolló un sistema de código abierto que optimiza la selección de sitios de muestreo para llenar vacíos en datos sobre biodiversidad.
 
-# Proceso de aplicación y fechas límites (Colombia)
+Se trata de WhereNext, un sistema de recomendaciones para identificar prioridades en los sitios de muestreo basado en el modelamiento generalizado de disimilitud. Con su proyecto ganó la primera plaza del reto 2019.
 
-Los estudiantes que deseen ser nominados deben aplicar a través del SiB Colombia. El SiB Colombia, a través de su Equipo Coordinador, es el responsable de la recepción y verificación de las aplicaciones. De esta manera, deben consultar el sitio web [https://sibcolombia.net/](https://sibcolombia.net/) o ponerse en contacto con el Equipo Coordinador a través del correo electrónico [sib@humboldt.org.co](sib@humboldt.org.co).
+Conoce más de su proyecto aquí.
 
-Las aplicaciones son primero revisadas y priorizadas a nivel nacional. Una vez definidos los candidatos por Colombia, estos son nominados por el SiB Colombia a la convocatoria global.
+# Reglas y criterios de elegibilidad
 
-El SiB Colombia solo puede nominar al Secretariado de GBIF máximo de dos aplicaciones. Su Equipo Coordinador se asegurará que las nominaciones estén completas e incluyan todos los requisitos. Aplicaciones incompletas no serán consideradas.
-
-## Requisitos para la nominación al premio
-
-Los estudiantes que deseen ser nominados deben construir su propuesta en inglés de acuerdo a estos lineamientos y adjuntar los siguientes documentos:
-
-1. Resumen de investigación (Research summary) (200 palabras)
-2. Descripción del proyecto (Project description) (máximo de 5 páginas, letra Arial -12 puntos) que describa:
-   - La necesidad de la investigación y la(s) pregunta(s) que busca responder.
-   - La función de los datos obtenidos a través de GBIF para responder esta(s) pregunta(s). Las propuestas de investigación deben demostrar claramente cómo el estudio incorpora los datos que son publicados a través de GBIF. Los estudiantes con preguntas sobre los datos obtenidos de GBIF, deben trabajar con sus asesores académicos, el SiB Colombia, la Secretaría GBIF o miembros del Comité Científico para mejorar su comprensión.
-   - El alcance de la investigación, el plan, la metodología, las citas de literatura relevante y el cronograma.
-   - Si corresponde, una descripción de un plan de gestión de datos que indique cómo se publicarán los datos relacionados con la investigación, o cómo serán preparados para su publicación a través de la red de GBIF.
-3. Curriculum vitae del estudiante que aplica, que debe incluir la información de contacto institucional.
-4. Documentos de soporte
-   - Una carta oficial de la facultad (asesor/supervisor) que certifique que el aspirante es estudiante y se encuentra matriculado en el programa de posgrado de la universidad.
-   - Al menos una y no más de tres cartas de apoyo de investigadores establecidos y activos en un campo que comprenda e incorpore la informática de la biodiversidad (por ejemplo: genética, composición y rasgos de especies, biogeografía, ecología, sistemática, entre otros).
-
-## Proceso y criterios de selección (Colombia)
-
-### Primera etapa
-Un Comité de Evaluación  conformado por el SiB Colombia revisará las aplicaciones que sean enviadas al correo [sib@humboldt.org.co](sib@humboldt.org.co) y priorizará dos propuestas para ser nominadas a GBIF. Se recibirán aplicaciones hasta el 31 de Mayo de 2020.
-
-Los criterios de selección incluyen:
-
-- Originalidad e innovación.
-- Uso e importancia estratégica de los datos obtenidos a través de GBIF.
-- Efectividad medible  e impacto en el avance de la informática de la biodiversidad y/o de la conservación de la biodiversidad.
-- Las propuestas que no sean seleccionadas pueden ser actualizadas y reenviadas para su consideración en el siguiente año.
-
-### Segunda etapa
-El Comité Científico de GBIF revisará las nominaciones hechas por Colombia y otros países de la red de GBIF y seleccionará los dos ganadores del Premio a Jóvenes Investigadores. Los premiados serán anunciados en el 26ª encuentro de la Reunión de Gobierno de GBIF.
-
-Los criterios de selección son los mismos aplicados en la primera etapa.
-
-Se espera que los ganadores reconozcan el apoyo de GBIF cuando divulguen los resultados de la investigación a través de publicaciones revisadas por pares, presentaciones en reuniones académicas y otros medios.
+Para conocer más sobre las reglas del reto, los criterios de elegibilidad de esta edición  y las propuestas ganadoras en versiones anteriores, haz clic aquí 2021 Ebbe Nielsen Challenge.
