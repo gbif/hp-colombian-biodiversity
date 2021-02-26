@@ -1,13 +1,15 @@
 ---
 layout: heroImage
-title: Gacetero
-description: Las siguientes son plantillas pre-diseñadas para publicar datos  sobre biodiversidad. 
+title: Gacetero de localidades
+description: Este gacetero constituye una importante referencia sobre lugares y sus nombres dentro y fuera del país donde se realizó una observación de especímenes o una captura. 
 background: /assets/images/fondos_layout/QUI01259_Villegas-Velez_layout.jpg
 imageLicense: |
-  Photo by Villegas-Vélez, Felipe
+  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 
 height: 70vh
 ---
+
+
 
 # Gacetero de localidades
 
@@ -18,4 +20,4 @@ Descarga las localidades, filtra por departamento y municipio mientras visualiza
 
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Gacetero_0/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '750' height = '770' scrolling='yes' ></iframe>    
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Gacetero_0/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '770' scrolling='yes' ></iframe>    
