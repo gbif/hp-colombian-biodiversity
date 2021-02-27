@@ -17,11 +17,11 @@ La publicación de datos a través del SiB Colombia inicia con el registro de la
 
 Al completar este formulario con la información solicitada, la organización:
 
-    1. Iniciará el proceso formal para publicar sus datos.
-    2. Recibirá apoyo en el proceso de publicación por parte del Equipo Coordinador del SiB Colombia.
-    3. Asegurará que sus conjuntos de datos sean publicados formalmente a su nombre con la información exacta que aquí se consigna.
-    4. Ayudará a los usuarios a comprender más sobre la procedencia de los datos compartidos a través del SiB Colombia.
-    5. Establecerá los contactos oficiales entre la organización y el SiB Colombia.
+  1. Iniciará el proceso formal para publicar sus datos.
+  2. Recibirá apoyo en el proceso de publicación por parte del Equipo Coordinador del SiB Colombia.
+  3. Asegurará que sus conjuntos de datos sean publicados formalmente a su nombre con la información exacta que aquí se consigna.
+  4. Ayudará a los usuarios a comprender más sobre la procedencia de los datos compartidos a través del SiB Colombia.
+  5. Establecerá los contactos oficiales entre la organización y el SiB Colombia.
 
 A la fecha, el SiB Colombia únicamente publica datos desde organizaciones y no de personas naturales. Las personas que deseen publicar sus datos, deben trabajar a través de sus organizaciones afiliadas para obtener el respaldo como publicador.
 
@@ -77,21 +77,21 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 <p> Esta es la oportunidad para contarle a los usuarios del SiB Colombia acerca de tu organización. ¿quién es y qué hace? </p>
 
 ------
-**Nombre**
+<p><label><br />Nombre<br />
 
 <div class="control">
   <input class="input is-focused" type="text" placeholder="Nombre de la organización, de preferencia el registrado en la personería jurídica">
 </div>
 
-**Nombre corto - Acrónimo**
+<p><label><br />Nombre corto - Acrónimo<br />
 
 <div class="control">
   <input class="input is-focused" type="text" placeholder="En caso de contar con uno de estos. Este aparecerá asociado a los datos en la plataforma de publicación">
 </div>
 
 
-**Descripción**
-*Describe brevemente la trayectoria de tu organización en relación a la misión del SiB Colombia (ej.: colecciones biológicas custodiadas, enfoque de investigación, gestión de información sobre biodiversidad, etc.) Esta descripción aparecerá en el perfil de la organización como socio publicador*
+<p><label><br />Descripción<br />
+ <span>Describe brevemente la trayectoria de tu organización en relación a la misión del SiB Colombia (ej.: colecciones biológicas custodiadas, enfoque de investigación, gestión de información sobre biodiversidad, etc.) Esta descripción aparecerá en el perfil de la organización como socio publicador*
 
 
 <div class="control">
@@ -103,6 +103,7 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 <p><label><br />
  Descripción<br />
  <span>Describe brevemente la trayectoria de tu organización en relación a la misión del SiB Colombia (ej.: colecciones biológicas custodiadas, enfoque de investigación, gestión de información sobre biodiversidad, etc.) Esta descripción aparecerá en el perfil de la organización como socio publicador.</span><br />
+	
  <span class="wpcf7-form-control-wrap descripcion-organizacion"><input type="text" name="descripcion-organizacion" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span><br />
 </label></p>
 <p><label><br />
