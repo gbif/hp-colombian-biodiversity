@@ -9,32 +9,30 @@ imageLicense: |
 height: 70vh
 ---
 
-El SiB Colombia, como red nacional de datos abiertos sobre biodiversidad, busca que este tipo de contenidos estén disponibles de forma abierta y universal bajo los principios de libre acceso, cooperación, transparencia, reconocimiento y responsabilidad compartida, aportando a la construcción de una sociedad sostenible.</p>
-<p>La publicación de datos a través del SiB Colombia inicia con el registro de la entidad, red o iniciativa a través de este formulario en línea, denominada de aquí en adelante como organización.</p>
-<p>Al completar este formulario con la información solicitada, la organización:</p>
-<ol>
-<li>Iniciará el proceso formal para publicar sus datos.</li>
-<li>Recibirá apoyo en el proceso de publicación por parte del Equipo Coordinador del SiB Colombia.</li>
-<li>Asegurará que sus conjuntos de datos sean publicados formalmente a su nombre con la información exacta que aquí se consigna.</li>
-<li>Ayudará a los usuarios a comprender más sobre la procedencia de los datos compartidos a través del SiB Colombia.</li>
-<li>Establecerá los contactos oficiales entre la organización y el SiB Colombia.</li>
-</ol>
-<p>A la fecha, el SiB Colombia únicamente publica datos desde organizaciones y no de personas naturales. Las personas que deseen publicar sus datos, deben trabajar a través de sus organizaciones afiliadas para obtener el respaldo como publicador.</p>
-<p>Si eres una persona natural titular de un permiso de recolección de especímenes, por favor ponte en contacto con el Equipo Coordinador del SiB Colombia a través del correo electrónico <span style="color: #00a8b4;"><a style="color: #00a8b4;" href="mailto:sib@humboldt.org.co" target="_blank" rel="noopener noreferrer">sib@humboldt.org.co</a></span> o al teléfono (1) 3202767 ext. 7152.</p>
-<p>Antes de llenar el formulario, asegúrate que tu organización aún no se encuentra registrada como publicador de datos a través del SiB Colombia. Consulta el listado de organizaciones publicadoras <span style="color: #00a8b4;"><a style="color: #00a8b4;" href="https://sibcolombia.net/el-sib-colombia/publicadores-sib-colombia/" target="_blank" rel="noopener noreferrer">aquí</a></span>. Si tu organización ya está registrada, debes acercarte a uno de los contactos allí registrados para obtener información sobre la publicación de datos.</p>
 
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 30px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<ul>
+
+El SiB Colombia, como red nacional de datos abiertos sobre biodiversidad, busca que este tipo de contenidos estén disponibles de forma abierta y universal bajo los principios de libre acceso, cooperación, transparencia, reconocimiento y responsabilidad compartida, aportando a la construcción de una sociedad sostenible.
+
+La publicación de datos a través del SiB Colombia inicia con el registro de la entidad, red o iniciativa a través de este formulario en línea, denominada de aquí en adelante como organización.
+
+Al completar este formulario con la información solicitada, la organización:
+
+    1. Iniciará el proceso formal para publicar sus datos.
+    2. Recibirá apoyo en el proceso de publicación por parte del Equipo Coordinador del SiB Colombia.
+    3. Asegurará que sus conjuntos de datos sean publicados formalmente a su nombre con la información exacta que aquí se consigna.
+    4. Ayudará a los usuarios a comprender más sobre la procedencia de los datos compartidos a través del SiB Colombia.
+    5. Establecerá los contactos oficiales entre la organización y el SiB Colombia.
+
+A la fecha, el SiB Colombia únicamente publica datos desde organizaciones y no de personas naturales. Las personas que deseen publicar sus datos, deben trabajar a través de sus organizaciones afiliadas para obtener el respaldo como publicador.
+
+Si eres una persona natural titular de un permiso de recolección de especímenes, por favor ponte en contacto con el Equipo Coordinador del SiB Colombia a través del correo electrónico sib@humboldt.org.co o al teléfono (1) 3202767 ext. 7152.
+
+Antes de llenar el formulario, asegúrate que tu organización aún no se encuentra registrada como publicador de datos a través del SiB Colombia. Consulta el listado de organizaciones publicadoras aquí. Si tu organización ya está registrada, debes acercarte a uno de los contactos allí registrados para obtener información sobre la publicación de datos.
+
 <li>Consulta la <span style="color: #00a8b4;"><a style="color: #00a8b4;" href="https://sibcolombia.net/politica-de-publicacion/" target="_blank" rel="noopener noreferrer"><u>Política para </u><u>para la publicación de datos e información</u>.</a></span></li>
 <li>Consulta la <span style="color: #00a8b4;"><a style="color: #00a8b4;" href="https://sibcolombia.net/politica-de-datos-personales/" target="_blank" rel="noopener noreferrer"><u>Política de privacidad y tratamiento de datos personales</u><u>.</u></a></span></li>
 </ul>
 
-		</div>
-	</div>
 <div class="vc_empty_space"   style="height: 30px"><span class="vc_empty_space_inner"></span></div><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey" ><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
 </div><div class="vc_empty_space"   style="height: 30px"><span class="vc_empty_space_inner"></span></div>
 	<div class="wpb_text_column wpb_content_element " >
@@ -77,6 +75,21 @@ El SiB Colombia, como red nacional de datos abiertos sobre biodiversidad, busca 
 <div data-id="complete-form" data-orig_data_id="complete-form"  data-class="wpcf7cf_group">
 <h3> Detalles de la Organización </h3>
 <p> Esta es la oportunidad para contarle a los usuarios del SiB Colombia acerca de tu organización. ¿quién es y qué hace? </p>
+
+------
+Solo focused
+
+<div class="control">
+  <input class="input is-focused" type="text" placeholder="Nombre de la organización, de preferencia el registrado en la personería jurídica">
+</div>
+
+Focused medium
+
+<div class="control">
+  <input class="input is-focused" class="input is-medium" type="text" placeholder="Nombre de la organización, de preferencia el registrado en la personería jurídica">
+</div>
+
+
 <p><label><br />
  Nombre<br />
  <span>Nombre de la organización, de preferencia el registrado en la personería jurídica.</span><br />
