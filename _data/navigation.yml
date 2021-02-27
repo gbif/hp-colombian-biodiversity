@@ -48,7 +48,7 @@
   - text: Socios Publicadores
   - text: Proyectos
   - text: Formación
-    href: /comunidad/formacion.md
+    href: /comunidad/formacion
     # href: https://sib-colombia.github.io/Formacion/
   - text: Grupos de Interés
   - text: Uso de Datos
@@ -59,7 +59,7 @@
 - text: Acerca De
   menu: # Dropdown menu (one level deep only)
   - text: SiB Colombia
-    href: /acercade/SiB_Colombia.md
+    href: /acercade/SiB_Colombia
   - text: Aliados
   - text: Términos y Condiciones 
   
