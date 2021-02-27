@@ -31,7 +31,7 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 
 <li>Consulta la <span style="color: #00a8b4;"><a style="color: #00a8b4;" href="https://sibcolombia.net/politica-de-publicacion/" target="_blank" rel="noopener noreferrer"><u>Política para </u><u>para la publicación de datos e información</u>.</a></span></li>
 <li>Consulta la <span style="color: #00a8b4;"><a style="color: #00a8b4;" href="https://sibcolombia.net/politica-de-datos-personales/" target="_blank" rel="noopener noreferrer"><u>Política de privacidad y tratamiento de datos personales</u><u>.</u></a></span></li>
-</ul>
+
 
 <div class="vc_empty_space"   style="height: 30px"><span class="vc_empty_space_inner"></span></div><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey" ><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
 </div><div class="vc_empty_space"   style="height: 30px"><span class="vc_empty_space_inner"></span></div>
@@ -77,29 +77,29 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 <p> Esta es la oportunidad para contarle a los usuarios del SiB Colombia acerca de tu organización. ¿quién es y qué hace? </p>
 
 ------
-Solo focused
+**Nombre**
 
 <div class="control">
   <input class="input is-focused" type="text" placeholder="Nombre de la organización, de preferencia el registrado en la personería jurídica">
 </div>
 
-Focused medium
+**Nombre corto - Acrónimo**
 
 <div class="control">
-  <input class="input is-focused" class="input is-medium" type="text" placeholder="Nombre de la organización, de preferencia el registrado en la personería jurídica">
+  <input class="input is-focused" type="text" placeholder="En caso de contar con uno de estos. Este aparecerá asociado a los datos en la plataforma de publicación">
 </div>
 
 
-<p><label><br />
- Nombre<br />
- <span>Nombre de la organización, de preferencia el registrado en la personería jurídica.</span><br />
- <span class="wpcf7-form-control-wrap nombre-organizacion"><input type="text" name="nombre-organizacion" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span><br />
-</label></p>
-<p><label><br />
- Nombre corto - Acrónimo<br />
- <span>En caso de contar con uno de estos. Este aparecerá asociado a los datos en la plataforma de publicación.</span><br />
- <span class="wpcf7-form-control-wrap nombre-acronimo"><input type="text" name="nombre-acronimo" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
-</label></p>
+**Descripción**
+*Describe brevemente la trayectoria de tu organización en relación a la misión del SiB Colombia (ej.: colecciones biológicas custodiadas, enfoque de investigación, gestión de información sobre biodiversidad, etc.) Esta descripción aparecerá en el perfil de la organización como socio publicador*
+
+
+<div class="control">
+  <textarea class="textarea is-focused" placeholder="Focused textarea"></textarea>
+</div>
+
+
+
 <p><label><br />
  Descripción<br />
  <span>Describe brevemente la trayectoria de tu organización en relación a la misión del SiB Colombia (ej.: colecciones biológicas custodiadas, enfoque de investigación, gestión de información sobre biodiversidad, etc.) Esta descripción aparecerá en el perfil de la organización como socio publicador.</span><br />
