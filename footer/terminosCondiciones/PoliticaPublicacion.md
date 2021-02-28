@@ -1,11 +1,9 @@
 ---
-lang-ref: PoliticaPublicacion
-title: Política de publicación
-description: Politica para la publicación de datos a través del SiB Colombia
-# background: /assets/images/moss.jpg
-# imageLicense: |
-# Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
-height: 70vh
+layout: documentation
+title: "Política de publicación"
+description: Política para la publicación de datos a través del SiB Colombia
+sideNavigation: sidenav_terminoscondiciones.terms
+toc: true
 ---
 
 # Política para la publicación de datos e información
