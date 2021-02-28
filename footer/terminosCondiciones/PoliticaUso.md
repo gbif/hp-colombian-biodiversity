@@ -2,10 +2,11 @@
 layout: heroImage
 title: Política para el uso de datos e información
 description: El SiB Colombia cree en la construcción colectiva y participativa del conocimiento. Por eso, considera que el modelo de acceso abierto es el mejor camino para que la sociedad pueda acceder de manera libre y responsable a la información sobre diversidad biológica del país.
+sideNavigation: sidenav_terminoscondiciones.terms
 background: /assets/images/moss.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
-
+toc: true
 height: 70vh
 ---
 
