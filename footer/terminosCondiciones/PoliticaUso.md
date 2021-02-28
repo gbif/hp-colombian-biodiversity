@@ -6,6 +6,8 @@ sideNavigation: sidenav_terminoscondiciones.terms
 toc: true
 ---
 
+# Política para el uso de datos e información
+
 *El SiB Colombia cree en la construcción colectiva y participativa del conocimiento. Por eso, considera que el modelo de acceso abierto es el mejor camino para que la sociedad pueda acceder de manera libre y responsable a la información sobre diversidad biológica del país.*
 
 ---
