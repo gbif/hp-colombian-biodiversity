@@ -73,9 +73,25 @@ https://docs.google.com/forms/d/e/1FAIpQLScYNJM4TJqY64Q_qhRB2s3F02VH2aSX5-aiQAXt
 - Objetivo: mejorar la calidad de los datos abiertos sobre la Biodiversidad del país, para apoyar procesos de investigación, educación y la toma de decisiones.
 - Actividades: Administrar e integrar de datos e información sobre biodiversidad a través de diferentes herramientas de publicación en línea, para su difusión en biodiversidad.co. Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. Participar en los procesos de publicación y el acceso libre a datos e información sobre biodiversidad.
 
+## AC02 - Informática de la Biodiversidad - Gestión Ambiental
 
+- Carreras: Biología, Ingeniería ambiental y afines.
+- Temática: Informática de la Biodiversidad, Legislación Ambiental, Datos abiertos, Ciencia Abierta, Ciencia de Datos.
+- Objetivo:  facilitar que los datos sobre biodiversidad publicados bajo la normativa ambiental del país (decretos 1376 y 3016 de 2013) se transformen en una herramienta de conocimiento.
+- Actividades: mejorar los procesos de gestión de datos sobre biodiversidad derivados de los titulares de permisos de acuerdo a lo establecido en los decretos 1376 y 3016 de 2013. Apoyar a diferentes entidades Colombianas en la incorporación de la normativa y facilitar los procesos de cumplimiento legal de la misma. Hacer un diagnóstico de la calidad de los datos publicados a través del mecanismo de reporte CR-SiB. Validar y mejorar la calidad de los datos haciendo uso de herramientas de la informática de la biodiversidad.
 
+## AC03 - Catálogo de la Biodiversidad de Colombia
 
+- Carreras: Biología, Ingeniería ambiental y afines.
+- Temática: Datos abiertos, Ciencia abierta, Ciencia de Datos.
+- Objetivo: Administrar información sobre biodiversidad a través del catálogo de la biodiversidad de Colombia facilitando así toma de decisiones, investigación y divulgación científica.
+- Actividades: Elaborar y curar las fichas de especies publicadas a través del catálogo de la biodiversidad de Colombia.
 
+## GC01 - Gestión de procesos
+
+- Carreras: Ingeniería Industrial o Administración de Empresas.
+- Temática: Gestión de procesos, Flujos de datos e información,  Datos abiertos
+- Objetivo: documentación y diagramación de los procedimientos y flujos de trabajo internos del Equipo Coordinador del SiB Colombia.
+- Actividades: Apoyar el levantamiento  de información y diagramación de los procedimientos de gestión y flujos de trabajo internos del Equipo Coordinador del SiB Colombia.
 
 
