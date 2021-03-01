@@ -54,6 +54,32 @@ GBIF Spain | GBIF Argentina | VertNet | GBIF Colombia | GBIF Peru
 
 GBIF Chile
 
-## Instructores
+## Instructores:
+
+| ------------- |:-------------:| -----:|
+| Town Peterson | Instituto de Biodiversidad
+Departamento de Ecología y Biología Evolutiva
+Universidad de Kansas – USA | 
+| Marlon Cobos | Instituto de Biodiversidad
+Departamento de Ecología y Biología Evolutiva
+Universidad de Kansas – USA | 
+| Cristian Echeverría | Laboratorio de Ecología de Paisaje
+Facultad de Ciencias Forestales
+Universidad de Concepción – Chile | 
+| Paula Zermoglio | VertNet Project
+Biodiversity Information Standards (TDWG) | 
+| Katia Cezón | Especialista en publicación de datos y formación
+GBIF España
+Real Jardín Botánico – CSIC | 
+| Anabela Plos | Administradora Nodo Argentino de GBIF
+Representante Regional por Latinoamérica y Caribe GBIF
+Experta Informática SNDB-MinCyT
+Museo Argentino de Ciencias Naturales – CONICET | 
+| Javier Fajardo | Especialista en modelamiento
+World Conservation Monitoring Centre (UNEP-WCMC), Cambridge, Reino Unido | 
+| Leisy Amaya | Administradora Nodo GBIF Chile.
+Representante Adjunto Regional por Latinoamérica y Caribe GBIF
+Ministerio del Medio Ambiente de Chile| 
+
 
 
