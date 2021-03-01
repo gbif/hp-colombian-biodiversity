@@ -1,9 +1,9 @@
 ---
-title:  "Convocatoria para pasantías en el SiB Colombia 2020–2"
+title:  "CCurso iberoamericano de uso de datos sobre biodiversidad para la toma de decisiones"
 date:   2020-04-10
 categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
 lang-ref: for authors
-background: /assets/images/noticias_eventos/Mesa-de-trabajo-2-80-1000x1000.jpg
+background: /assets/images/noticias_eventos/curso-datos-chile-1000x1000.jpg
 ---
 
 ¡Abrimos la oportunidad para que estudiantes de pregrado desarrollen su práctica laboral en el SiB Colombia!
