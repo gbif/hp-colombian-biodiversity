@@ -28,4 +28,54 @@ Presencial (Bogotá) con una temporada virtual de acuerdo a las disposiciones de
 Del 9 de Abril al 4 de Mayo.
 
 # Proceso de selección 
+## Estapa 1: Revisión de aplicaciones  
+Se revisará el cumplimiento de los requisitos y la idoneidad de los candidatos. Los candidatos serán informados sobre los resultados el  8  de mayo.
+
+## Estapa 2: Invitación a prueba técnica 
+Los candidatos pre-seleccionados en la etapa 1 serán invitados a presentar una prueba técnica  entre el 11 y el 15 de mayo. Los candidatos serán informados sobre los resultados el  22 de mayo.
+
+## Estapa 3: Invitación a entrevista 
+Los candidatos pre-seleccionados en la etapa 2 serán invitados a una entrevista entre el 25 y el 26 de mayo. Los resultados finales se darán el  28 de mayo.
+
+Si tienes dudas, por favor escríbenos a sib@humboldt.org.co con el asunto: “Pasantías 2020-II”.
+
+## Formulario de inscripción
+https://docs.google.com/forms/d/e/1FAIpQLScYNJM4TJqY64Q_qhRB2s3F02VH2aSX5-aiQAXtOV1fq8lfdA/closedform
+
+# Perfiles para pasantías
+
+## PS01 - Redes sociales y divulgación
+
+- Carreras: Comunicación Social, Diseño Gráfico, Arte, Literatura u otras carreras afines.
+- Temática: Divulgación científica, Datos Abiertos, Ciencia Abierta.
+- Objetivo: diseñar e implementar estrategias de divulgación que apoyen la gestión de datos abiertos sobre biodiversidad.
+- Actividades: elaborar contenidos para redes,  informes, reportes y material divulgativo del SiB Colombia. Participar en la administración de las redes sociales y canales informativos del SiB Colombia.
+
+## PS02 - Visualización y analítica de datos abiertos
+
+- Carreras: Ingeniería de Sistemas, Ciencias de la computación, Ingeniería Mecatrónica, Ingeniería Electrónica o Eléctrica
+- Temática: Desarrollo de software, Datos Abiertos, Ciencia Abierta.
+- Objetivo: explorar y evaluar el Portal ALA (Atlas of Living Australia) para la administración y visualización de los datos abiertos sobre biodiversidad 
+- Actividades: Investigar acerca las tecnologías sobre las que se encuentra el Portal ALA, participar en el desarrollo de pruebas concepto con dichas tecnologías, y elaborar pruebas concepto de visualización de datos empleando librerías como D3.
+
+## IN01 - Arquitectura TI
+
+- Carreras: Ingeniería de Sistemas, Ciencias de la computación, Ingeniería Mecatrónica, Ingeniería Electrónica o Eléctrica
+- Temática: Documentación de arquitectura de TI , Datos Abiertos, Ciencia Abierta.
+- Objetivo: Consolidar la documentación de arquitectura a nivel de procesos, mapas de servicios de TI y arquitectura de software del SiB Colombia.  
+- Actividades: Generar la documentación de arquitectura a nivel de procesos, mapas de servicios de TI y arquitectura de software del SiB Colombia, según los estándares suministrados por el equipo coordinador del SiB Colombia. Deseable conocimiento en el estándar Togaf.
+
+
+## AC01 - Informática de la Biodiversidad - Énfasis en limpieza de datos
+
+- Carreras: Biología, Ingeniería ambiental y afines.
+- Temática: Informática de la Biodiversidad, Datos abiertos, Ciencia Abierta, Ciencia de Datos.
+- Objetivo: mejorar la calidad de los datos abiertos sobre la Biodiversidad del país, para apoyar procesos de investigación, educación y la toma de decisiones.
+- Actividades: Administrar e integrar de datos e información sobre biodiversidad a través de diferentes herramientas de publicación en línea, para su difusión en biodiversidad.co. Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. Participar en los procesos de publicación y el acceso libre a datos e información sobre biodiversidad.
+
+
+
+
+
+
 
