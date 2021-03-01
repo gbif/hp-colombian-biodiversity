@@ -1,3 +1,12 @@
 @import "theme/_main";
 
 // You can add additional styling here
+.iframe-box {
+  padding: 24px;
+  iframe {
+    @extend .box;
+    width: 100%;
+    max-height: 80vh;
+    border: 1px solid #00000011;
+  }
+}
