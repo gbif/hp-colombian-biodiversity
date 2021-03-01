@@ -1,0 +1,4 @@
+gacetero:
+  klass: iframe-box
+  markdownContent: |
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/Gacetero_0/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" height = '770' scrolling='yes' ></iframe>    
