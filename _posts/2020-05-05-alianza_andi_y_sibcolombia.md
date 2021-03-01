@@ -1,5 +1,5 @@
 ---
-title:  "Biodiversidad en Cifras"
+title:  "ANDI y SiB Colombia consolidan alianza para robustecer información del país sobre biodiversidad desde las empresas"
 date:   2020-05-05
 categories: ["ANDI y SiB Colombia consolidan alianza para robustecer información del país sobre biodiversidad desde las empresas"]
 lang-ref: for authors
