@@ -43,10 +43,16 @@ Líder – Administración de contenidos – SiB Colombia
 - Camila Plata
 Administración de contenidos – SiB Colombia
 
-## Instructores:
-- Leonardo Buitrago
-Líder – Administración de contenidos – SiB Colombia
-- Camila Plata
-Administración de contenidos – SiB Colombia
-
-- Sociedad Colombiana de Mastozoología (2019) Lista de referencia de especies de mamíferos de Colombia. Versión 1.6. Conjunto de datos/Lista de especies. http://doi.org/10.15472/kl1whs
+## Asistentes:
+- Heidi Perez
+- Daniel Avella
+- Luisa Rojas
+- Shirley Rojas
+- Juan José Bedoya
+- Cesar Rojano
+- Christian Romero
+- Isabella Beltrán
+- Mariluz Fernández
+- Diana Yanory
+- Caterin Gantiva
+- Beatriz Ramirez
