@@ -81,5 +81,16 @@ World Conservation Monitoring Centre (UNEP-WCMC), Cambridge, Reino Unido |
 Representante Adjunto Regional por Latinoamérica y Caribe GBIF
 Ministerio del Medio Ambiente de Chile| 
 
+## Formulación de inscripción:
+https://docs.google.com/forms/d/1r5BI8lVCtm4MQSdhhyQnNZXCGQiHdttyEc1N9Gq3LBs/prefill+
 
+## Selección del participante:
+Una vez el formulario de aplicación sea revisado por el Equipo de Coordinador del SiB Colombia, se informará el seleccionado para continuar con el proceso, si hay dudas, por favor escríbenos a sib@humboldt.org.co con el asunto: “Curso Uso de Datos”.
+
+## Perfil del participante:
+Para aprovechar al máximo las actividades de este taller, se espera que los participantes cuenten con competencias o conocimientos en las siguientes áreas:
+
+- Conocimientos del modelo de publicación del SiB Colombia.
+- Conocimientos en herramientas informáticas de análisis estadísticos y geográficos, p. ej., SIG y R.
+- Conocimientos de la normativa nacional o internacional en materia de biodiversidad, p. ej., el Convenio sobre la Diversidad Biológica, las Metas de Aichi, los Objetivos de Desarrollo Sostenible, la CITES, UICN, entre otros.
 
