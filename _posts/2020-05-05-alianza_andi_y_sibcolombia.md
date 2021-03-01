@@ -1,7 +1,7 @@
 ---
 title:  "Biodiversidad en Cifras"
-date:   2020-06-04
-categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
+date:   2020-05-05
+categories: ["ANDI y SiB Colombia consolidan alianza para robustecer información del país sobre biodiversidad desde las empresas"]
 lang-ref: for authors
 background: /assets/images/noticias_eventos/PiezaBlog_Alianza_SiB_ANDI_Mesa-de-trabajo-1-copia-1000x1000.png
 ---
