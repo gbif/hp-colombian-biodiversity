@@ -2,7 +2,7 @@
 title:  "“OpenPSD”: publicación y uso de datos sobre biodiversidad del sector privado"
 date:   2019-09-13
 categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
-background: /assets/images/noticias_eventos/pieza-cesp-38-b.png
+background: /assets/images/noticias_eventos/blog-panama-1000x1000.jpg
 ---
 
 El Portal GBIF (Global Biodiversity Information Facility) es el repositorio de información sobre biodiversidad más grande a nivel mundial, pero las contribuciones en GBIF desde Panamá se deben solamente a los esfuerzos de conservadores de colecciones extranjeras quienes digitalizaron la información de sus muestras provenientes de Panamá. Ninguna institución panameña ha contribuido hasta el momento a la red internacional GBIFm, aún cuando se tiene una masa crítica de información disponible en la región occidental del país; incluyendo las colecciones científicas en las universidades y los datos obtenidos por investigadores (observaciones en campo, eventos de muestreos, listas de especies, metadatos). El presente taller facilitó a los participantes las herramientas necesarias para aumentar la visibilidad de sus datos de biodiversidad a través de la red GBIF y mediante artículos de datos, y de esta manera contribuirá a la creación de un repositorio nacional de la biodiversidad de Panamá.
