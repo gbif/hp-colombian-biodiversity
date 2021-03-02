@@ -1,0 +1,20 @@
+---
+title:  "Taller de uso de datos para la toma de decisiones: llamado a la comunidad iberoamericana"
+date:   2019-09-13
+categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
+background: /assets/images/noticias_eventos/pieza-cesp-38-b.png
+---
+
+Las empresas privadas registran una cantidad significativa de datos sobre biodiversidad cada año. Recopilados como parte de los estudios de Evaluación de Impacto Ambiental y los programas nacionales de monitoreo, estos datos a menudo permanecen encerrados en informes, que no están disponibles para la sociedad en general.
+
+Con base en experiencias pasadas de los nodos GBIF en Noruega y Portugal, países donde varias empresas privadas ya publican datos abiertos sobre biodiversidad bajo los principios FAIR, este proyecto desarrollará actividades de tutoría, talleres y documentación para involucrar y promover la publicación y uso de datos sobre biodiversidad por parte del sector privado. Los nodos de Colombia, Francia y España utilizarán estas enseñanzas para desarrollar sus estrategias e involucrar a empresas privadas en sus países, produciendo resultados y entregables que otros puedan reutilizar.
+
+La participación de socios del sector privado y la academia es esencial para el éxito del proyecto. EDP – Energias de Portugal y Asplan Viak AS de Noruega son compañías privadas que publican datos activamente en GBIF. EDP ha recibido asistencia de CiBIO / InBIO, un laboratorio de investigación académica que brinda servicios de gestión científica y de datos. Ambas compañías participarán en talleres nacionales para compartir sus motivaciones y experiencia con la publicación de datos.
+
+Los miembros del equipo del proyecto también harán un seguimiento de los contactos iniciales entre GBIF France y el TOTAL con respecto a los datos de Uganda y Angola.
+
+## Enlace a la página del proyecto GBIF:
+https://www.gbif.org/project/2Zik1tfJoh3C92ZslvhDIr/openpsd-promoting-publication-and-use-of-private-sector-data-on-biodiversity
+
+## Más información sobre los proyectos CESP:
+https://www.gbif.org/programme/82219/capacity-enhancement-support-programme
