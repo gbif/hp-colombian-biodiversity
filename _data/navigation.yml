@@ -61,7 +61,8 @@
   - text: SiB Colombia
     href: /acercade/SiB_Colombia
   - text: Aliados
-  - text: Términos y Condiciones 
+  - text: Términos y Condiciones
+    href: /terminosCondiciones/PoliticaPublicacion
   
 - text: Demo
   menu: # Dropdown menu (one level deep only)
