@@ -2,20 +2,20 @@
 
 - text: Buscar
   menu: # Dropdown menu (one level deep only)
-  - text: Registros Biológicos
+  - text: Registros biológicos
     href: /data
-  - text: Listas de Especies
+  - text: Listas de especies
     href: https://listas.biodiversidad.co/
-  - text: Catálogo de la Biodiversidad
+  - text: Catálogo de la biodiversidad
     href: https://catalogo.biodiversidad.co/
-  - text: Biodiversidad en Cifras
+  - text: Biodiversidad en cifras
     href: https://cifras.biodiversidad.co/
-  - text: Gacetero de Localidades
+  - text: Gacetero de localidades
     href: /buscar/gacetero
     
 - text: Compartir
   menu: # Dropdown menu (one level deep only)
-  - text: Tipos de Datos
+  - text: Tipos de datos
     href: /compartir/TiposDeDatos
   - text: Estándares
     href: /compartir/Estandares
@@ -23,37 +23,37 @@
     href: /compartir/GuiaPublicacion
   - text: Regístrate
     href: /compartir/registrate
-  - text: Preguntas Frecuentes
+  - text: Preguntas frecuentes
     href: /compartir/PreguntasFrecuentes
     
 - text: Recursos
   menu: # Dropdown menu (one level deep only)
   - href: /recursos/ComoCitar
-  - text: IPT Herramienta de Publicación
-  - text: Acceso Abierto
+  - text: IPT herramienta de publicación
+  - text: Acceso abierto
   - text: Cómo Citar
     href: /recursos/ComoCitar
   - text: Repositorios
   - text: Estandarización
-  - text: Calidad de Datos
+  - text: Calidad de datos
     href: /recursos/CalidadDeDatos
   - text: Plantillas Darwin Core
     href: /recursos/PlantillasDwC
-  - text: Permisos de Recolección 
+  - text: Permisos de recolección 
   
 - text: Comunidad
   menu: # Dropdown menu (one level deep only)
-  - text: Actividad de Publicación
+  - text: Actividad de publicación
     href: https://sibcolombia.net/actualidad/reportes/
-  - text: Socios Publicadores
+  - text: Socios publicadores
   - text: Proyectos
   - text: Formación
     href: /comunidad/formacion
     # href: https://sib-colombia.github.io/Formacion/
-  - text: Grupos de Interés
-  - text: Uso de Datos
+  - text: Grupos de interés
+  - text: Uso de datos
   
-- text: Noticias y Eventos
+- text: Noticias y eventos
   href: /news/
   
 - text: Acerca De
@@ -61,7 +61,7 @@
   - text: SiB Colombia
     href: /acercade/SiB_Colombia
   - text: Aliados
-  - text: Términos y Condiciones
+  - text: Términos y condiciones
     href: /terminosCondiciones/PoliticaPublicacion
   
 - text: Demo
