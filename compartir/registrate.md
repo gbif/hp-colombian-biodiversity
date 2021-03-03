@@ -29,12 +29,11 @@ Si eres una persona natural titular de un permiso de recolección de especímene
 
 Antes de llenar el formulario, asegúrate que tu organización aún no se encuentra registrada como publicador de datos a través del SiB Colombia. Consulta el listado de organizaciones publicadoras aquí. Si tu organización ya está registrada, debes acercarte a uno de los contactos allí registrados para obtener información sobre la publicación de datos.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdpel_UbTXz-40_8wtdsgpRriQypeKE6L-WGDw4-dpNczImoQ/viewform?embedded=true" width="640" height="3000" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
-
-
-
 <li>Consulta la <span style="color: #00a8b4;"><a style="color: #00a8b4;" href="https://sibcolombia.net/politica-de-publicacion/" target="_blank" rel="noopener noreferrer"><u>Política para </u><u>para la publicación de datos e información</u>.</a></span></li>
 <li>Consulta la <span style="color: #00a8b4;"><a style="color: #00a8b4;" href="https://sibcolombia.net/politica-de-datos-personales/" target="_blank" rel="noopener noreferrer"><u>Política de privacidad y tratamiento de datos personales</u><u>.</u></a></span></li>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdpel_UbTXz-40_8wtdsgpRriQypeKE6L-WGDw4-dpNczImoQ/viewform?embedded=true" width="770" height="3600" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+
 
 
 <div class="vc_empty_space"   style="height: 30px"><span class="vc_empty_space_inner"></span></div><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey" ><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
