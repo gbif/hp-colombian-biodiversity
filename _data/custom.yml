@@ -1,4 +1,9 @@
 gacetero:
   klass: iframe-box
   markdownContent: |
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/Gacetero_0/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" height = '770' scrolling='yes' ></iframe>    
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/Gacetero_0/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" height = '770' scrolling='yes' ></iframe> 
+    
+formularioRegistro:
+  klass: iframe-box
+  markdownContent: |
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdpel_UbTXz-40_8wtdsgpRriQypeKE6L-WGDw4-dpNczImoQ/viewform?embedded=true" width="750" height="4165" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>    
