@@ -452,48 +452,7 @@ Plinian Core es el estándar que tiene por objeto facilitar el intercambio de in
 Consulte más acerca del estándar en el nodo de <a href="https://www.gbif.es/proyecto/plinian-core/">España para GBIF</a> y en el <a href="https://github.com/tdwg/PlinianCore/wiki/About">repositorio de GitHub de TDWG</a> para el estándar.
 </details>
 
-## Otras Preguntas Frecuentes 
-
- <details>
-  <summary markdown="span"><B>¿Qué es el estándar Darwin Core?</B></summary>
-    
-Es uno de los estándares más consolidados y conocidos a nivel global y ofrece una estructura estable, directa y flexible para consolidar y compartir datos de biodiversidad de distintas fuentes. El Darwin Core fue desarrollado originalmente por la comunidad de Biodiversity Information Standards (antes TDWG: Taxonomic Data Working Group), como  un estándar de datos de biodiversidad desarrollado por una comunidad en evolución. 
-
-Desempeña un papel fundamental al compartir, usar y reusar los datos de biodiversidad de libre acceso y en la actualidad representa cientos de millones de registros de presencia de especies disponibles. El Sistema de Información sobre Biodiversidad de Colombia - SiB Colombia, adopta principalmente el estándar Darwin Core para publicar datos primarios de biodiversidad. 
-El Darwin Core consta de un glosario de 169 elementos que intenta facilitar la forma como se documentan y comparten los datos sobre biodiversidad. Para conocer con más detalle los elementos del estándar puedes revisar la Guía de referencia rápida del estándar Darwin Core, donde encontrarás la definición de los elementos y ejemplos de su documentación adaptados al marco nacional. 
-    </details>
-    
-___
-
-
-<details>
-  <summary markdown="span"><B>¿Qué es un archivo DwC-A y que contiene?</B></summary>
-
-Este es el formato de archivo de intercambio de datos más utilizado en la red GBIF, y consiste en un archivo comprimido que contiene:
-
- <ul>
-    <li><B>Un archivo de datos de ocurrencia:</B> un archivo de datos separado por tabulaciones que contiene según el tipo de publicación, los registros (occurrence.txt), especies (taxon.txt) o eventos (event.txt), asociados a la publicación.</li>
-    <li><B>Un archivo de metadatos, "eml.xml":</B> este archivo xml almacena toda la información que describe el contenido del conjunto de datos descargado.</li>
-    <li><B>Un archivo de metadatos de descriptor, "meta.xml":</B> este archivo xml describe la estructura del archivo Darwin Core para que el software pueda procesar todo el archivo automáticamente.</li>
-    <li><B>Archivos de extensiones:</B> Si la publicación contaba con extensiones Darwin Core, estas también se incluyen dentro del archivo DwC-A. El nombre del archivo varía según la extensión, algunos ejemplos son <B>multimedia.txt</B>, <B>measurementorfact.txt</B>, <B>description.txt</B>, <B>resourcerelationship.txt</B>, <B>distribution.txt.</B></li>
-</ul>
-</details>
-
-___
-
-
- <details>
-  <summary markdown="span"><B>¿Cómo puedo abrir un archivo DwC-A en excel?</B></summary>
-    
-Para abrir archivos de datos separados por tabuladores "<B>.txt</B>" mediante cualquier procesador de hoja de cálculo (por ejemplo, MS Excel, OpenOffice Calc) o software de base de datos de escritorio (por ejemplo, MS Access), importe los datos seleccionando las opciones "delimitado por tabulaciones", CSV, "archivo de texto" o cualquier opción similar. Si se le pide que seleccione un "estándar de codificación" o un "conjunto de caracteres", elija "Unicode, UTF-8". 
-
-<B>NOTA:</B> No intente hacer doble clic en los archivos, ya que .txt es una extensión muy genérica y probablemente tendrá asociado un visor de texto genérico.
-
-Si tiene curiosidad sobre el contenido de los archivos "<B>.xml</B>", normalmente pueden ser interpretados por los navegadores web: simplemente arrastre y suelte el archivo en una ventana del navegador web. Necesitará un software especial si, por algún motivo, desea editar estos archivos manualmente, aunque esto no es recomendado.
-    </details>
-
-
-## Preguntas frecuentes sobre el certificado de reporte
+## Certificado de reporte
 
  <details>
   <summary markdown="span"><B>¿Qué es el modelo de publicación CR.SiB?</B></summary>
@@ -607,3 +566,44 @@ Si por el contrario, perteneces a una colección biológica sigue estas indicaci
       </ul>
 </ol>
 </details>
+
+
+## Otras
+
+ <details>
+  <summary markdown="span"><B>¿Qué es el estándar Darwin Core?</B></summary>
+    
+Es uno de los estándares más consolidados y conocidos a nivel global y ofrece una estructura estable, directa y flexible para consolidar y compartir datos de biodiversidad de distintas fuentes. El Darwin Core fue desarrollado originalmente por la comunidad de Biodiversity Information Standards (antes TDWG: Taxonomic Data Working Group), como  un estándar de datos de biodiversidad desarrollado por una comunidad en evolución. 
+
+Desempeña un papel fundamental al compartir, usar y reusar los datos de biodiversidad de libre acceso y en la actualidad representa cientos de millones de registros de presencia de especies disponibles. El Sistema de Información sobre Biodiversidad de Colombia - SiB Colombia, adopta principalmente el estándar Darwin Core para publicar datos primarios de biodiversidad. 
+El Darwin Core consta de un glosario de 169 elementos que intenta facilitar la forma como se documentan y comparten los datos sobre biodiversidad. Para conocer con más detalle los elementos del estándar puedes revisar la Guía de referencia rápida del estándar Darwin Core, donde encontrarás la definición de los elementos y ejemplos de su documentación adaptados al marco nacional. 
+    </details>
+    
+___
+
+
+<details>
+  <summary markdown="span"><B>¿Qué es un archivo DwC-A y que contiene?</B></summary>
+
+Este es el formato de archivo de intercambio de datos más utilizado en la red GBIF, y consiste en un archivo comprimido que contiene:
+
+ <ul>
+    <li><B>Un archivo de datos de ocurrencia:</B> un archivo de datos separado por tabulaciones que contiene según el tipo de publicación, los registros (occurrence.txt), especies (taxon.txt) o eventos (event.txt), asociados a la publicación.</li>
+    <li><B>Un archivo de metadatos, "eml.xml":</B> este archivo xml almacena toda la información que describe el contenido del conjunto de datos descargado.</li>
+    <li><B>Un archivo de metadatos de descriptor, "meta.xml":</B> este archivo xml describe la estructura del archivo Darwin Core para que el software pueda procesar todo el archivo automáticamente.</li>
+    <li><B>Archivos de extensiones:</B> Si la publicación contaba con extensiones Darwin Core, estas también se incluyen dentro del archivo DwC-A. El nombre del archivo varía según la extensión, algunos ejemplos son <B>multimedia.txt</B>, <B>measurementorfact.txt</B>, <B>description.txt</B>, <B>resourcerelationship.txt</B>, <B>distribution.txt.</B></li>
+</ul>
+</details>
+
+___
+
+
+ <details>
+  <summary markdown="span"><B>¿Cómo puedo abrir un archivo DwC-A en excel?</B></summary>
+    
+Para abrir archivos de datos separados por tabuladores "<B>.txt</B>" mediante cualquier procesador de hoja de cálculo (por ejemplo, MS Excel, OpenOffice Calc) o software de base de datos de escritorio (por ejemplo, MS Access), importe los datos seleccionando las opciones "delimitado por tabulaciones", CSV, "archivo de texto" o cualquier opción similar. Si se le pide que seleccione un "estándar de codificación" o un "conjunto de caracteres", elija "Unicode, UTF-8". 
+
+<B>NOTA:</B> No intente hacer doble clic en los archivos, ya que .txt es una extensión muy genérica y probablemente tendrá asociado un visor de texto genérico.
+
+Si tiene curiosidad sobre el contenido de los archivos "<B>.xml</B>", normalmente pueden ser interpretados por los navegadores web: simplemente arrastre y suelte el archivo en una ventana del navegador web. Necesitará un software especial si, por algún motivo, desea editar estos archivos manualmente, aunque esto no es recomendado.
+    </details>
