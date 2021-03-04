@@ -29,6 +29,7 @@ Debido a la diversidad de datos e información sobre biodiversidad que se genera
 Esta es la ruta de publicación más frecuente, usada para compartir [registros biológicos, eventos de muestreo y listas de especies](/compartir/TiposDeDatos). Al ser una ruta voluntaria, el Equipo Coordinador del SiB Colombia ofrece un acompañamiento para la publicación exitosa de los datos, asegurando que los conjuntos de datos cuentan con la mayor calidad posible.
 
 [IMAGEN]
+<img src="/compartir/Imagenes/RutasDePublicacio%CC%81n_A.png" width=1000>
 
 
 ### 1. Registra tu organización
