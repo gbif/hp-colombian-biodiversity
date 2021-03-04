@@ -48,8 +48,8 @@
   - text: Socios publicadores
   - text: Proyectos
   - text: Formación
-    href: /comunidad/formacion
-    # href: https://sib-colombia.github.io/Formacion/
+    #href: /comunidad/formacion
+    href: https://sib-colombia.github.io/Formacion/
   - text: Grupos de interés
   - text: Uso de datos
   
