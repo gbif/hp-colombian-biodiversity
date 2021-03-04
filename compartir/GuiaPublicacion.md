@@ -22,6 +22,7 @@ Debido a la diversidad de datos e información sobre biodiversidad que se genera
  
 - [¿Qué tipo de datos o información deseo publicar?](/compartir/TiposDeDatos)
 - ¿Cuál es el motivo de mi publicación?
+
 ---
 # Por qué publicar datos abiertos sobre biodiversidad
 
@@ -43,7 +44,8 @@ Una parte importante de la misión del SiB Colombia es promover una cultura en e
 
 Esta es la ruta de publicación más frecuente, usada para compartir [registros biológicos, eventos de muestreo y listas de especies](/compartir/TiposDeDatos). Al ser una ruta voluntaria, el Equipo Coordinador del SiB Colombia ofrece un acompañamiento para la publicación exitosa de los datos, asegurando que los conjuntos de datos cuentan con la mayor calidad posible.
 
-<img src="/compartir/Imagenes/RutasDePublicacion_A.png" width=1000>
+` `
+<img src="/compartir/Imagenes/RutasDePublicacion_A.png">
 
 
 ### 1. Registra tu organización
