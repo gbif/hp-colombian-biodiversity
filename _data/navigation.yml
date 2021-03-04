@@ -44,7 +44,7 @@
 - text: Comunidad
   menu: # Dropdown menu (one level deep only)
   - text: Actividad de publicación
-    href: https://sibcolombia.net/actualidad/reportes/
+    href: /comunidad/ActividadPublicacion
   - text: Socios publicadores
   - text: Proyectos
   - text: Formación
