@@ -11,7 +11,7 @@ columns:
     - text: Preguntas Frecuentes
       href: /compartir/PreguntasFrecuentes
     - text: Términos y Condiciones
-      href: /footer/terminosCondiciones/PoliticaPublicacion
+      href: /terminosCondiciones/PoliticaPublicacion
     
   - name: Contacto
     description: | # Can be Markdown
