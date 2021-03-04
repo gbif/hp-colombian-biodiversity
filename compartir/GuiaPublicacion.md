@@ -44,9 +44,9 @@ Una parte importante de la misión del SiB Colombia es promover una cultura en e
 
 Esta es la ruta de publicación más frecuente, usada para compartir [registros biológicos, eventos de muestreo y listas de especies](/compartir/TiposDeDatos). Al ser una ruta voluntaria, el Equipo Coordinador del SiB Colombia ofrece un acompañamiento para la publicación exitosa de los datos, asegurando que los conjuntos de datos cuentan con la mayor calidad posible.
 
-` `
+<br />
 <img src="/compartir/Imagenes/RutasDePublicacion_A.png">
-
+<br />
 
 ### 1. Registra tu organización
 
@@ -133,8 +133,9 @@ Si eres titular de un permiso de recolección y usas esta ruta de publicación, 
 - 
 Si deseas estos beneficios en la publicación de tus conjuntos de datos, usa la **Ruta A** y el Equipo Coordinador te garantizará el certificado de publicación al final del proceso.
 
-<img src="/compartir/Imagenes/RutasDePublicacion_B.png" width=1000>
-
+<br />
+<img src="/compartir/Imagenes/RutasDePublicacion_B.png">
+<br />
  
 ### 1. Registra al titular del permiso
 
@@ -196,8 +197,9 @@ Esta es la ruta de publicación usada para compartir información sintetizada co
 
 El Equipo Coordinador realiza un acompañamiento a los publicadores para seleccionar las especies o taxa, verificar la información ya existente en el SiB Colombia y definir los elementos a documentar en una ficha.
 
-<img src="/compartir/Imagenes/RutasDePublicacion_C.png" width=1000>
-
+<br />
+<img src="/compartir/Imagenes/RutasDePublicacion_C.png">
+<br />
 
 ### 1. Registra tu organización
 Para llegar a ser un publicador de información a través del SiB Colombia, tu organización debe solicitar un aval y registro a través del Equipo Coordinador del SiB Colombia. Una vez hayas revisado la [política de publicación](/terminosCondiciones/PoliticaPublicacion), y estés de acuerdo en compartir, debes informar a las directivas de tu organización sobre la importancia de ser un publicador del SiB Colombia y los beneficios para la organización. Es desde esa instancia que una organización toma la decisión de ser publicadora.
