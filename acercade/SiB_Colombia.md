@@ -52,7 +52,7 @@ El SiB Colombia es liderado por un Comité Directivo (**CD-SiB**), el cual se de
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <th><img src="/assets/images/logosEntidades/IDEAM.png" alt="Avatar" class="profile-pic" style="width:200px"></th>
+    <th><img src="/assets/images/logosEntidades/IDEAM.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th>
     <th><img src="/assets/images/logosEntidades/IIAP.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th>
     <th><img src="/assets/images/logosEntidades/UN.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th>
      <th><img src="/assets/images/logosEntidades/PNN.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th> 
@@ -71,15 +71,14 @@ El SiB Colombia es liderado por un Comité Directivo (**CD-SiB**), el cual se de
 
 Entidad  | Contacto
 ------------ | ------------- 
-Instituto de Hidrología, Meteorología y Estudios Ambientales, Ideam | Liz Johanna Diaz
-Subdirección de Ecosistemas e Información AmbientalInstituto de Investigaciones Ambientales del Pacífico, IIAP | Zulmary Valoyes
-Componente Ecosistémico Instituto de Investigaciones Marinas y Costeras,  Invemar | Erika Montoya
-Programa de Biodiversidad y Ecosistemas MarinosInstituto Amazónico de Investigaciones Científicas, Sinchi| Sonia Sua
-Programa de Ecosistemas y Recursos Naturales Instituto de Investigación de Recursos Biológicos Alexander von Humboldt | Daniel López
-Programa de Evaluación y Monitoreo de la BiodiversidadParques Nacionales Naturales de Colombia, PNN | Margarita Rozo
-Subdirección Gestión y Manejo de Áreas ProtegidasUniversidad Nacional de Colombia | Johanna Castiblanco
-Director ICN | Gonzalo Andrade
-Equipo Coordinador SIAC  | Pilar Galindo - invitada
+Instituto de Hidrología, Meteorología y Estudios Ambientales IDEAM | Liz Johanna Diaz
+Instituto de Investigaciones Ambientales del Pacífico | Zulmary Valoyes
+Instituto de Investigaciones Marinas y Costeras "José Benito Vives de Andreis| Erika Montoya
+Instituto Amazónico de Investigaciones Científicas Sinchi| Sonia Sua
+Instituto de Investigación de Recursos Biológicos Alexander von Humboldt | Daniel López
+Parques Nacionales Naturales de Colombia | Margarita Rozo
+Universidad Nacional de Colombia | Johanna Castiblanco
+Universidad Nacional de Colombia | Gonzalo Andrade
 
 
 ## Grupos de trabajo / interés
