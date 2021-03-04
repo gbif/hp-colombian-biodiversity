@@ -24,7 +24,7 @@ Debido a la diversidad de datos e información sobre biodiversidad que se genera
 - ¿Cuál es el motivo de mi publicación?
 
 ---
-# Por qué publicar datos abiertos sobre biodiversidad
+## Por qué publicar datos abiertos sobre biodiversidad
 
 Una parte importante de la misión del SiB Colombia es promover una cultura en el que todas las personas reconozcan los beneficios de publicar datos abiertos sobre biodiversidad, tanto para quien los publica, como para la sociedad en general.
 
@@ -262,18 +262,3 @@ Cuando el conjunto de fichas se encuentra listo, se procede a su publicación. E
 Cuando hayas completado el proceso, ponte en contacto con el profesional del Equipo Coordinador que te está acompañando, indicando que has finalizado la carga de las fichas de especies.
 
 Luego de un proceso de verificación, recibirás un correo electrónico con la notificación de la publicación exitosa y los enlaces donde pueden ser consultadas.
-
-
-# Por qué publicar datos abiertos sobre biodiversidad
-
-Una parte importante de la misión del SiB Colombia es promover una cultura en el que todas las personas reconozcan los beneficios de publicar datos abiertos sobre biodiversidad, tanto para quien los publica, como para la sociedad en general.
-
-* Al hacer que tus datos sean visibles y accesibles a través del SiB Colombia y otras infraestructuras de información como GBIF y OBIS, contribuyes al conocimiento global sobre la biodiversidad y, por tanto, a las soluciones que promueven su conservación y uso sostenible.
-* Facilita la integración de conjuntos de datos en todo el mundo y descubrir nuevas oportunidades de colaboración entre los propietarios de los datos y otros investigadores.
-* Permite a las personas y organizaciones obtener visibilidad y reconocimiento apropiado por su trabajo como generadores y curadores de datos sobre biodiversidad. El reconocimiento será mayor si eres autor de un artículo de datos revisado por pares, obteniendo el reconocimiento académico tradicional por la publicación de conjuntos de datos sobre biodiversidad.
-* Facilita rastrear el uso y las citas de los conjuntos de datos publicados y a los que se accede a través del SiB Colombia e infraestructuras similares (GBIF, OBIS).
-* Algunas agencias financiadoras ahora exigen que los investigadores y organizaciones que reciben sus fondos, cuenten con un plan de gestión de datos que incluya su publicación abierta al final de un proyecto, a través de plataformas como el SiB Colombia.
-* Contribuye a las Metas Aichi 2010-2020 del CDB, en especial las metas 9 (especies invasoras), 11 (áreas protegidas), 12 (especies amenazadas) y 19 (gestión del conocimiento).
-* Aporta a la evaluación de los ODS 14 (vida submarina) y 15 (vida de ecosistemas terrestres).
-* Permite que instancias intergubernamentales como GEO-BON e IPBES puedan construir modelos y evaluaciones de la biodiversidad respectivamente, a diferentes escalas.
-
