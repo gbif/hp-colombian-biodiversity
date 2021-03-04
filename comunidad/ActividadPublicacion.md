@@ -1,4 +1,3 @@
-
 ---
 layout: heroImage
 title: Actividad de publicación
