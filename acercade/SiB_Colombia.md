@@ -15,14 +15,15 @@ Dentro de los procesos de consolidación del SiB Colombia, el Equipo Coordinador
 
 <details>
   <summary markdown="span"><B>Planes de trabajo históricos del SiB Colomba</B></summary>
-    
- <ul>
+ 
+<ul>
      <li>2014</li>
-        <li>2016</li>
-        <li><a href="http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35500/PlanEstrategico_SiBColombia_versionfinal.pdf?sequence=4&isAllowed=y">Plan de trabajo 2018</a>
-        <li>2020</li>
-  </ul>    
+     <li>2016</li>
+     <li><a href="http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35500/PlanEstrategico_SiBColombia_versionfinal.pdf?sequence=4&isAllowed=y">Plan de trabajo 2018</a></li>
+     <li>2020</li>
+</ul>    
 </details>
+
 
 ___
 
