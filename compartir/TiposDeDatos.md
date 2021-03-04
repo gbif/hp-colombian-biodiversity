@@ -1,8 +1,8 @@
 ---
 layout: heroImage
-title: Tipos de datos e Información
+title: Tipos de datos e información
 description: El SiB Colombia facilita la publicación de diferentes tipos de conjuntos de datos e información sobre biodiversidad, haciendo uso de estándares ampliamente aceptados. Conoce cuáles son y cómo puedes estructurarlos.
-background: /assets/images/luciernaga_cp.jpg
+background: /assets/images/moss.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 
@@ -13,6 +13,10 @@ height: 70vh
 En el contexto del SiB Colombia los términos datos e información no son sinónimos, sino elementos secuenciales dentro de la cadena de generación del conocimiento. Para poderlos publicar es necesario hacerlo de una manera estandarizada y con la mayor completitud posible, para que puedan ser utilizados de distintas maneras y así contribuir a resolver diferentes preguntas.
 
 Compartir a través del SiB Colombia tantos datos e información como sea posible es valioso, incluso aquella que pueda considerarse incompleta, aportará al conocimiento de nuestra biodiversidad y servirá para dar respuesta a preguntas fundamentales.
+
+
+_Para conocer más acerca de los datos e información que se publican a través del SiB Colombia, te invitamos a ver el video [¿Qué datos sobre nuestra biodiversidad se pueden publicar a través del SiB Colombia?](https://www.youtube.com/watch?v=_f4gGfIBN3U&t=2s) del Ciclo de Formación Virtual del SiB Colombia._
+
 
 
 ## Datos
@@ -27,8 +31,8 @@ Los registros biológicos representan la mayoría de los datos publicados a trav
 
 Adicionalmente, los registros biológicos son el tipo de datos que generalmente se derivan de un permiso de recolección, de acuerdo en lo establecido en los decretos 1376 y 3016 de 2013 -hoy compilados en el decreto 1076 de 2015 de la normativa colombiana-. En este contexto son la evidencia de la recolección definitiva o temporal de un organismo en un evento de colecta determinado.
 
-* [Consulta el Perfil DwC para registros biológicos.]( https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0)
-* [Explora registros biológicos en el Portal de Datos.](https://hp-colombian-biodiversity.gbif-staging.org/data)
+* [Consulta el Perfil DwC para registros biológicos.](/recursos/PlantillasDwC.md#registros-biológicos)
+* [Explora registros biológicos en el Portal de Datos.](/data)
 
 ---
 
@@ -38,8 +42,8 @@ Algunos conjuntos de datos pueden brindar un detalle mayor a la evidencia de la 
 Al indicar los métodos, número de eventos, y la abundancia relativa de las especies registradas en un muestreo, se pueden comparar los datos recolectados usando los mismos protocolos en diferentes épocas y lugares (monitoreo). En algunos casos, estos procesos permiten inferir la ausencia de ciertas especies en lugares determinados.
 
 * [Conoce más sobre los eventos de muestreo.](https://www.gbif.org/es/sampling-event-data)
-* [Consulta el perfil DwC para eventos de muestreo.](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0)
-* [Explora eventos de muestreo en el Portal de Datos.](https://hp-colombian-biodiversity.gbif-staging.org/data)
+* [Consulta el perfil DwC para eventos de muestreo.](/recursos/PlantillasDwC.md#eventos-de-muestreo)
+* [Explora eventos de muestreo en el Portal de Datos.](/data)
 
 ---
 
@@ -49,7 +53,7 @@ Los conjuntos de datos sobre biodiversidad también pueden ser listas o catálog
 
 Las listas de especies funcionan como un resumen rápido o línea base de especies (u otros taxones) en un contexto determinado.
 
-* [Consulta el perfil DwC para listas de especies.](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0)
+* [Consulta el perfil DwC para listas de especies.](/recursos/PlantillasDwC.md#registros-biológicos#listas-de-especies)
 * [Explora listas de especies en el Portal Listas de Especies.](https://listas.biodiversidad.co/)
 
 ---
@@ -84,3 +88,5 @@ Los metadatos son el nivel más básico ofrecido por el SiB Colombia, permitiend
 También pueden ayudar a evaluar la importancia relativa y el valor de las colecciones biológicas sin digitalizar y establecer prioridades para futuros esfuerzos de digitalización. Al igual que el resto de los conjuntos de datos, el SiB Colombia asegura que cada conjunto de metadatos estará asociado con un único identificador de objetos digitales (DOI, por sus siglas en inglés),  para facilitar que los usuarios de estos recursos hagan una correcta citación.
 
 * [Consulta el perfil GMP para metadatos.](https://github.com/gbif/ipt/wiki/IPT2ManualManageResources.wiki#metadata)
+
+
