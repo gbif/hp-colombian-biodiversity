@@ -2,7 +2,7 @@
 layout: heroImage
 title: Plantillas de publicación de datos
 description: Las siguientes son plantillas pre-diseñadas para publicar datos  sobre biodiversidad. 
-background: /assets/images/pavaAndina_cp.jpg
+background: /assets/images/moss.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 
@@ -13,7 +13,7 @@ height: 70vh
 
 Para la publicación de datos sobre biodiversidad se han creado tres plantillas de acuerdo a los [tipo de datos](compartir/TiposDeDatos) que se pueden compartir a través del SiB Colombia. Estas plantilla están estructuradas bajo el estándar [Darwin Core](compartir/Estandares) y cuenta con los elementos necesarios del _Core_ del estándar para la publicación. 
 
-Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, referencias bibliográficas, secuencias genéticas, imágenes, vídeo, sonidos, entre otros, y deseas que hagan parte de la publicación, recuerda mencionarlo en el correo que envíes para inciar el [proceso de acompañamiento a la publicación]() y se te apoyará en la estructuración y ajuste de estos datos adicionales, posiblemente con el uso de las [extensiones](https://tools.gbif.org/dwca-validator/extensions.do) del estándar Darwin Core.
+Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, referencias bibliográficas, secuencias genéticas, imágenes, vídeo, sonidos, entre otros, y deseas que hagan parte de la publicación, recuerda mencionarlo en el correo que envíes para inciar el [proceso de acompañamiento a la publicación](/compartir/GuiaPublicacion) y se te apoyará en la estructuración y ajuste de estos datos adicionales, posiblemente con el uso de las [extensiones](https://tools.gbif.org/dwca-validator/extensions.do) del estándar Darwin Core.
 
 
 ## Recomendaciones
@@ -30,8 +30,15 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
 
 ### Registros biológicos
 
+Use esta plantilla si sus datos:
+
+* Corresponden a avistamientos directos de especímenes, colectas temporales  o capturas _in situ_ (en su hábitat natural) que estarán asociadas a un voucher o soporte de referencia físico.
+* Documentan atributos como: nombre científico, fecha de colecta, ubicación, sexo, edad, comportamiento, etc., de un organismo o grupo de organismos dentro de un contexto específico.
+* Estan soportados por una fotografía, un sonido u otro tipo de soporte digital, o por el espécimen en físico do en una colección biológica, museo de historia natural, herbario, etc.
+
+
 <details>
-    <summary markdown="span"><b><a href="https://drive.google.com/u/0/uc?id=16oIiR09yAbm8B63CpR0h2phY7tqsFXSk&export=download">Última versión v3.5</a></b></summary>
+    <summary markdown="span"><b><a href="https://drive.google.com/u/0/uc?id=16oIiR09yAbm8B63CpR0h2phY7tqsFXSk&export=download">Descargar última versión v3.5</a></b></summary>
 <p>
     <i>Cambios realizados respecto a la versión 3.4:</i>
 </p>
@@ -133,8 +140,15 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
 
 ### Listas de especies
 
+Use esta plantilla si sus datos:
+
+* Describen principalmente los atributos taxonómicos (nombre científico, taxonomía superior, nombre común, etc.) válidos para una especie o taxón.
+* Se les puede dar un alcance temático, filogenético o geográfico común a todos los taxones en la lista. Por ejemplo: "Lista de animales amenazados"; o un alcance espacial que establece límites geográficos a todos los taxones en la lista , por ejemplo "Plantas de Chocó".
+* Tienen idealmente un soporte que permite confirmar su alcance: registro biológico, información secundaria (literatura), etc.
+
+
 <details>
-    <summary markdown="span"><b><a href="https://drive.google.com/uc?export=download&id=1p2j1KYHsNPyt50LopUkdhdaMlI6SZd4Q">Última versión v3.2</a></b></summary>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?export=download&id=1p2j1KYHsNPyt50LopUkdhdaMlI6SZd4Q">Descargar última versión v3.2</a></b></summary>
     <p><i>Revisada y editada 2017-11</i></p>
     
 </details>
@@ -155,8 +169,56 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
 
 ### Eventos de muestreo
 
+Use esta plantilla si sus datos:
+
+* Provienen de protocolos estandarizados para medir y observar la biodiversidad, con una medida de la abundancia de especies en la muestra.
+* Corresponden a muestreos realizados a lo largo del tiempo en parcelas permanentes, censos estandarizados, muestras de suelos para análisis metagenómicos, caracterizaciones de fitoplancton, etc., con un identificador del evento claramente establecido.
+* No solo documentan atributos de un registro biológico, sino también el detalle suficiente para determinar la composición de una comunidad o abundancia relativa de las especies en diferentes momentos del tiempo.
+
 <details>
-    <summary markdown="span"><b><a href="https://goo.gl/EAZbqL">Última versión v1.1</a></b></summary>
+    <summary markdown="span"><b><a href="https://goo.gl/EAZbqL">Descargar última versión v1.1</a></b></summary>
     <p><i>Revisada y editada 2014-05</i></p>
     
 </details>
+
+
+# Información
+
+Para la publicación de fichas de especies se ha dispuesto la siguiente plantilla que le permitirá documentar la información asociada a una especie o taxón de acuerdo a las secciones del estándar [Plinian Core](https://github.com/tdwg/PlinianCore/wiki).
+
+### Fichas de especies
+<details>
+    <summary markdown="span"><b><a href="https://drive.google.com/u/0/uc?id=16oIiR09yAbm8B63CpR0h2phY7tqsFXSk&export=download">Descargar última versión v1.0</a></b></summary>
+<p>
+    <i>Cambios realizados respecto a la versión 3.4:</i>
+</p>
+
+<ul>
+  <li>Definiciones actualizadas
+    <ul>
+      <li>basisOfrecord</li>
+      <li>disposition</li>
+      <li>preparations</li>
+      <li>organismQuantity</li>
+      <li>organismQuantityType</li>
+    </ul>
+  </li>
+  <li>Cambio de obligatoriedad
+    <ul>
+      <li>El elemento individualCount deja de ser obligatorio y pasa a ser recomendado.</li>
+      <li>El elemento <i>organismQuantity</i> deja de ser opcional y pasa a ser obligatorio para registros biológicos colectados bajo un permiso de recolección de especímenes o acceso a recursos genéticos.</li>
+      <li>El elemento <i>organismQuantityType</i> deja de ser opcional y pasa a ser obligatorio para registros biológicos colectados bajo un permiso de recolección de especímenes o acceso a recursos genéticos.</li>
+      <li>El elemento <i>disposition</i> deja de ser opcional y pasa a ser obligatorio para registros biológicos colectados bajo un permiso de recolección de especímenes o acceso a recursos genéticos.</li>
+      <li>El elemento <i>preparations</i> deja  de ser recomendado y pasa a ser obligatorio para registros biológicos colectados bajo un permiso de recolección de especímenes o acceso a recursos genéticos.</li>
+    </ul>   
+  </li> 
+      <li>Cambios en las instrucciones
+    <ul>
+      <li>Se añaden elementos obligatorios a la tabla de instrucciones</li>
+      <li>Actualización citación</li>
+    </ul>
+  </li>      
+
+</ul>
+  
+</details>  
