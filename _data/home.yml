@@ -1,6 +1,20 @@
 # The home landing page
 
 # Feature cards
+bannerExample2:
+  preTitle: Customization  # optional
+  title: Gathered under above give female
+  description: |      # required
+    Place. Heaven, deep without called, female Sixth thing Wherein. Fly together living moving bring spirit place evening life, gathered may fourth saying.
+    You female there moving living all moveth evening beginning, be to days meat our hath creature day, there seasons his don't to called land brought divide brought they're spirit. Living wherein great.
+  background: /assets/theme/img/patterns/wavy-dots.png
+  overlayColor: "#ffffff55"
+  hasWhiteText: false
+  cta:                # optional
+  - text: Learn more
+    href: http://example.com
+  - text: Download
+    href: http://example.com
 cardExample:
   title: Base filter
   description: |
@@ -73,17 +87,4 @@ splitExample:
     isPrimary: true
   - text: Learn more
     href: /about
-bannerExample2:
-  preTitle: Customization  # optional
-  title: Gathered under above give female
-  description: |      # required
-    Place. Heaven, deep without called, female Sixth thing Wherein. Fly together living moving bring spirit place evening life, gathered may fourth saying.
-    You female there moving living all moveth evening beginning, be to days meat our hath creature day, there seasons his don't to called land brought divide brought they're spirit. Living wherein great.
-  background: /assets/theme/img/patterns/wavy-dots.png
-  overlayColor: "#ffffff55"
-  hasWhiteText: false
-  cta:                # optional
-  - text: Learn more
-    href: http://example.com
-  - text: Download
-    href: http://example.com
+
