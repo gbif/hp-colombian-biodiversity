@@ -14,9 +14,9 @@ cta:
     href: /acercade/SiB_Colombia
 permalink: /
 composition:
-  - type: _posts
-  - data: 2021-02-03-jovenes_investigadores_2021
-    type: _posts
+  - type: heroImage # the block type
+  - data: home.cardExample # the _data to use
+    type: features # the block type
   - data: home.bannerExample2
     type: floatingText
   - data: home.splitExample
