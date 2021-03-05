@@ -32,7 +32,7 @@ cardExample:
       - text: Socios
         href: /data
         isPrimary: true
-      - text: Comité
+      - text: Comité directivo
         href: /about
     - preTitle: Registros Biológicos  # optional
       title: 11.124.462
