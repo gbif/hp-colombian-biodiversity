@@ -2,17 +2,16 @@
 
 # Feature cards
 bannerExample2:
-  preTitle: Customization  # optional
-  title: Gathered under above give female
+  preTitle: Reportes  # optional
+  title: Actividad de publicación
   description: |      # required
-    Place. Heaven, deep without called, female Sixth thing Wherein. Fly together living moving bring spirit place evening life, gathered may fourth saying.
-    You female there moving living all moveth evening beginning, be to days meat our hath creature day, there seasons his don't to called land brought divide brought they're spirit. Living wherein great.
+    Encuentra el seguimiento a cifras como el total de registros biológicos que custodia nuestro Portal de Datos, la lista de los mayores publicadores, gráficas de evolución y contrastes entre los datos provenientes de instituciones nacionales e internacionales.
   background: /assets/theme/img/patterns/wavy-dots.png
   overlayColor: "#ffffff55"
   hasWhiteText: false
   cta:                # optional
-  - text: Explorar
-    href: https://sibcolombia.net/acceso-abierto/
+  - text: Consultar
+    href: 
   - text: Download
     href: http://example.com
 cardExample:
