@@ -43,11 +43,9 @@ cardExample:
       href: 2021-02-03-jovenes_investigadores_2021
       categories: [cat, dog]
       cta:
-      - text: Explore
+      - text: Biodiversida en cifras
         href: /data
         isPrimary: true
-      - text: About
-        href: /about
     - preTitle: Eventos de muestreo  # optional
       title: 64   # required
       href: /about
