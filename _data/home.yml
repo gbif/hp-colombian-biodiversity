@@ -29,10 +29,10 @@ cardExample:
       href: 2021-02-03-jovenes_investigadores_2021
       categories: [socios,aliados,empresas]
       cta:
-      - text: Explore
+      - text: Socios
         href: /data
         isPrimary: true
-      - text: About
+      - text: Comité
         href: /about
     - preTitle: Registros Biológicos  # optional
       title: 11.124.462
