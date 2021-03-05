@@ -12,7 +12,7 @@ cardExample:
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
       # img required
       background: https://api.gbif.org/v1/image/unsafe/500x/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F92%2FHaeckel_Caulerpa_racemosa.JPG
-      href: /about
+      href: 2021-02-03-jovenes_investigadores_2021
       categories: [cat, dog]
       cta:
       - text: Explore
