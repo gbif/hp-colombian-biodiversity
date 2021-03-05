@@ -14,9 +14,9 @@ cta:
     href: /acercade/SiB_Colombia
 permalink: /
 composition:
-  - type: heroImage
-  - data: home.cardExample
-    type: features
+  - type: _posts
+  - data: 2021-02-03-jovenes_investigadores_2021
+    type: _posts
   - data: home.bannerExample2
     type: floatingText
   - data: home.splitExample
