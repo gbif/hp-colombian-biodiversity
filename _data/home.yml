@@ -25,7 +25,7 @@ cardExample:
       description: |      # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
       # img required
-      background: /assets/images/landing_page/socios_publicadores-01.jpg
+      background: /assets/images/landing_page/socios_publicadores.jpg
       href: 2021-02-03-jovenes_investigadores_2021
       categories: [socios,aliados,empresas,consultoras,academia, autoridades ambientales,empresas,ong,redes,sistema de información]
       cta:
