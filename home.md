@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Sistema de Información sobre Biodiversidad de Colombia
 description: publicación, acceso y uso a datos e información sobre la biodiversidad del país
-background: https://static.inaturalist.org/photos/24650130/original.jpg?1536592770
+background: /assets/images/fondos_layout/VAL1068_Villegas-Vélez, Felipe.jpg
 imageLicense: |
   *Hyloscirtus antioquia* Fotografía de: Andrés Mauricio Forero Cano vía [iNaturalist](https://colombia.inaturalist.org/observations/16391377)
 cta:
