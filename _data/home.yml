@@ -19,7 +19,6 @@ cardExample:
   title: Cifras de publicación
   description: |
     Cifra calculada a partir de las especies con al menos un registro biológico en el SiB Colombia. Esta cifra es solo una aproximación a la riqueza conocida que tiene nuestro país y está en constante actualización.
-  overlayColor: "#0f1442"
   features:
     - preTitle: Socios publicadores  # optional
       title: 155 # required
