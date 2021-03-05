@@ -20,14 +20,14 @@ cardExample:
   description: |
     Cifra calculada a partir de las especies con al menos un registro biológico en el SiB Colombia. Esta cifra es solo una aproximación a la riqueza conocida que tiene nuestro país y está en constante actualización.
   features:
-    - preTitle: News  # optional
-      title: Cambio de titulo # required
+    - preTitle: 155  # optional
+      title: Socios publicadores # required
       description: |      # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
       # img required
       background: https://api.gbif.org/v1/image/unsafe/500x/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F92%2FHaeckel_Caulerpa_racemosa.JPG
       href: 2021-02-03-jovenes_investigadores_2021
-      categories: [cat, dog]
+      categories: [socios,aliados,empresas,consultoras,academia, autoridades ambientales,empresas,ong,redes,sistema de información]
       cta:
       - text: Explore
         href: /data
