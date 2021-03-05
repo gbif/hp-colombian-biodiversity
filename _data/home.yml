@@ -27,7 +27,7 @@ cardExample:
       # img required
       background: /assets/images/landing_page/socios_publicadores.jpg
       href: 2021-02-03-jovenes_investigadores_2021
-      categories: [socios,aliados,empresas,consultoras,academia, autoridades ambientales,empresas,ong,redes,sistema de información]
+      categories: [socios,aliados,empresas]
       cta:
       - text: Explore
         href: /data
