@@ -16,9 +16,9 @@ bannerExample2:
   - text: Download
     href: http://example.com
 cardExample:
-  title: Base filter
+  title: Cifras de publicación
   description: |
-    The data on this site is filtered to only include everything - including absence data
+    Cifra calculada a partir de las especies con al menos un registro biológico en el SiB Colombia. Esta cifra es solo una aproximación a la riqueza conocida que tiene nuestro país y está en constante actualización.
   features:
     - preTitle: News  # optional
       title: Cambio de titulo # required
