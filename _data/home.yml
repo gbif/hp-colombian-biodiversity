@@ -64,6 +64,8 @@ cardExample:
       title: 4.919    # required
       description: |      # required
         Buscan integrar y disponer información confiable y robusta sobre el conocimiento existente de la biodiversidad de Colombia.
+        
+        La fichas de especies generalmente incluyen información sobre historia natural, distribución, hábitat, usos, taxonomía, nombres comunes, bibliografía relacionada, entre otros. La información proviene generalmente de observaciones, trabajo de campo, investigaciones, informes técnicos, reportes de autoridades ambientales, libros rojos, información de colecciones, literatura científica, entre otras fuentes.
       # img required
       background: /assets/images/landing_page/fichas_de_especies.jpg
       href: /about
