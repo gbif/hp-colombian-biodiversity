@@ -69,7 +69,7 @@ cardExample:
       # img required
       background: https://api.gbif.org/v1/image/unsafe/500x/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc2%2FHaeckel_Caulerpa_paspaloides.JPG%2F1024px-Haeckel_Caulerpa_paspaloides.JPG
       href: /about
-
+      overlayColor: "#0f1442"
 productExample:
   align: right
   preTitle: Publishing  # optional
