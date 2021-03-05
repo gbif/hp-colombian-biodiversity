@@ -30,10 +30,10 @@ cardExample:
       categories: [socios,aliados,empresas]
       cta:
       - text: Socios
-        href: /data
+        href: https://sibcolombia.net/red-de-socios/
         isPrimary: true
       - text: Comité directivo
-        href: /about
+        href: https://sibcolombia.net/red/ct-cd/
     - preTitle: Registros Biológicos  # optional
       title: 11.124.462
       href: /about
