@@ -20,8 +20,8 @@ cardExample:
   description: |
     Cifra calculada a partir de las especies con al menos un registro biológico en el SiB Colombia. Esta cifra es solo una aproximación a la riqueza conocida que tiene nuestro país y está en constante actualización.
   features:
-    - preTitle: 155  # optional
-      title: Socios publicadores # required
+    - preTitle: Socios publicadores  # optional
+      title: 155 # required
       description: |      # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
       # img required
@@ -34,8 +34,8 @@ cardExample:
         isPrimary: true
       - text: About
         href: /about
-    - preTitle: News  # optional
-      title: Fly moving land
+    - preTitle: Registros Biológicos  # optional
+      title: 11.124.462
       href: /about
       description: |      # required
         Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
@@ -48,15 +48,15 @@ cardExample:
         isPrimary: true
       - text: About
         href: /about
-    - preTitle: Publishing  # optional
-      title: Divide good spirit     # required
+    - preTitle: 64  # optional
+      title: Eventos de muestreo    # required
       href: /about
       description: |      # required
         Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
       # img required
       background: https://api.gbif.org/v1/image/unsafe/500x/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc2%2FHaeckel_Caulerpa_paspaloides.JPG%2F1024px-Haeckel_Caulerpa_paspaloides.JPG
-    - preTitle: Publishing  # optional
-      title: Fruitful replenish     # required
+    - preTitle: Listas de especies # optional
+      title: 253    # required
       href: /about
       description: |      # required
         Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
