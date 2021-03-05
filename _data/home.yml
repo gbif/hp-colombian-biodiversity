@@ -59,9 +59,9 @@ cardExample:
       description: |      # required
         Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
       # img required
-      background: https://api.gbif.org/v1/image/unsafe/500x/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc2%2FHaeckel_Caulerpa_paspaloides.JPG%2F1024px-Haeckel_Caulerpa_paspaloides.JPG
-    - preTitle: Call  # optional
-      title: Land man dry     # required
+      background: /assets/images/landing_page/listas_de_especies.jpg
+    - preTitle: Fichas de especies  # optional
+      title: 4.919    # required
       description: |      # required
         Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
       # img required
