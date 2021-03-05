@@ -37,7 +37,7 @@ cardExample:
       title: 11.124.462
       href: /about
       description: |      # required
-        Light green they’re living green years firmament thing doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+        Representan la mayoría de los datos publicados a través del SiB Colombia y comprenden desde especímenes y fósiles en colecciones biológicas, hasta observaciones resultantes de inventarios, proyectos de ciencia participativa e incluso datos obtenidos de trampas de cámara o sensores remotos.
       background: /assets/images/landing_page/registros_biologicos.jpg
       href: 2021-02-03-jovenes_investigadores_2021
       categories: [cat, dog]
@@ -49,20 +49,20 @@ cardExample:
       title: 64   # required
       href: /about
       description: |      # required
-        Also, in for from winged doesn’t sea creepeth brought be deep created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+        Se generan a través de protocolos estandarizados de medición y monitoreo de la biodiversidad como parcelas de vegetación, censos de aves, muestreos marinos o de agua dulce, entre otros.
       # img required
       background: /assets/images/landing_page/eventos_de_muestreo.jpg
     - preTitle: Listas de especies # optional
       title: 253    # required
       href: /about
       description: |      # required
-        Also, in for from winged doesn’t sea creepet fly moving land,man dry i us fruitful replenish said dominion a sixth own it tree.
+        Es la información categorizada a nivel taxonómico, geográfico y/o temático, pero también pueden incluir otros detalles como nombres comunes, referencias de literatura, especímenes de referencia en colecciones biológicas, estados de amenaza, entre otros.
       # img required
       background: /assets/images/landing_page/listas_de_especies.jpg
     - preTitle: Fichas de especies  # optional
       title: 4.919    # required
       description: |      # required
-        Also, in for from winged doesn’t us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+        Buscan integrar y disponer información confiable y robusta sobre el conocimiento existente de la biodiversidad de Colombia.
       # img required
       background: https://api.gbif.org/v1/image/unsafe/500x/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc2%2FHaeckel_Caulerpa_paspaloides.JPG%2F1024px-Haeckel_Caulerpa_paspaloides.JPG
       href: /about
