@@ -1,0 +1,89 @@
+# The home landing page
+
+# Feature cards
+cardExample:
+  title: Base filter
+  description: |
+    The data on this site is filtered to only include everything - including absence data
+  features:
+    - preTitle: News  # optional
+      title: Abundantly light years # required
+      description: |      # required
+        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+      # img required
+      background: https://api.gbif.org/v1/image/unsafe/500x/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F92%2FHaeckel_Caulerpa_racemosa.JPG
+      href: /about
+      categories: [cat, dog]
+      cta:
+      - text: Explore
+        href: /data
+        isPrimary: true
+      - text: About
+        href: /about
+    - preTitle: News  # optional
+      title: Fly moving land
+      href: /about
+      description: |      # required
+        Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+      background: https://api.gbif.org/v1/image/unsafe/500x/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F84%2FHaeckel_Caulerpa_racemosa_%2528uvifera%2529.jpg
+    - preTitle: Publishing  # optional
+      title: Divide good spirit     # required
+      href: /about
+      description: |      # required
+        Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+      # img required
+      background: https://api.gbif.org/v1/image/unsafe/500x/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc2%2FHaeckel_Caulerpa_paspaloides.JPG%2F1024px-Haeckel_Caulerpa_paspaloides.JPG
+    - preTitle: Publishing  # optional
+      title: Fruitful replenish     # required
+      href: /about
+      description: |      # required
+        Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+      # img required
+      background: https://api.gbif.org/v1/image/unsafe/500x/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc2%2FHaeckel_Caulerpa_paspaloides.JPG%2F1024px-Haeckel_Caulerpa_paspaloides.JPG
+    - preTitle: Call  # optional
+      title: Land man dry     # required
+      description: |      # required
+        Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+      # img required
+      background: https://api.gbif.org/v1/image/unsafe/500x/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc2%2FHaeckel_Caulerpa_paspaloides.JPG%2F1024px-Haeckel_Caulerpa_paspaloides.JPG
+      href: /about
+
+productExample:
+  align: right
+  preTitle: Publishing  # optional
+  title: Integrated publishing toolkit     # required
+  description: |      # required
+    Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is.
+  # img required
+  background: /assets/img/product-right.png
+splitExample:
+  reverse: true
+  preTitle: Publishing  # optional
+  title: The state of algae
+  description: |      # required
+    Forth beginning form dry thing. Form seed void likeness darkness light. Can't created third upon spirit fruitful hath likeness their. Replenish saw female night they're you blessed all greater cattle, grass god fifth you're. Above wherein replenish face multiply male every. Own hath lights under creeping.
+  # img required
+  background: https://api.gbif.org/v1/image/unsafe/1600x1000/https%3A%2F%2Fhp-base-theme.netlify.app%2Fassets%2Fimg%2FHaeckel_Siphoneae.jpg
+  imageLicense: |
+    *Cladophora aegagropila* (Linnaeus) Rabenhorst. Photo by  Оlga Сhernyagina. Via [gbif.org](https://www.gbif.org/occurrence/2862552277)
+  href: /about
+  cta:
+  - text: Download report
+    href: http://example.com
+    isPrimary: true
+  - text: Learn more
+    href: /about
+bannerExample2:
+  preTitle: Customization  # optional
+  title: Gathered under above give female
+  description: |      # required
+    Place. Heaven, deep without called, female Sixth thing Wherein. Fly together living moving bring spirit place evening life, gathered may fourth saying.
+    You female there moving living all moveth evening beginning, be to days meat our hath creature day, there seasons his don't to called land brought divide brought they're spirit. Living wherein great.
+  background: /assets/theme/img/patterns/wavy-dots.png
+  overlayColor: "#ffffff55"
+  hasWhiteText: false
+  cta:                # optional
+  - text: Learn more
+    href: http://example.com
+  - text: Download
+    href: http://example.com
