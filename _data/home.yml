@@ -11,7 +11,8 @@ bannerExample2:
   hasWhiteText: false
   cta:                # optional
   - text: Consultar
-    href: /comunidad/ActividadPublicacion.md
+    href: https://hp-colombian-biodiversity.gbif-staging.org/comunidad/ActividadPublicacion
+    isPrimary: true
   - text: Download
     href: http://example.com
 cardExample:
