@@ -39,7 +39,7 @@ cardExample:
       href: /about
       description: |      # required
         Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
-      background: https://api.gbif.org/v1/image/unsafe/500x/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F84%2FHaeckel_Caulerpa_racemosa_%2528uvifera%2529.jpg
+      background: /assets/images/landing_page/registros_biologicos.jpg
       href: 2021-02-03-jovenes_investigadores_2021
       categories: [cat, dog]
       cta:
