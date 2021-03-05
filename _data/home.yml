@@ -38,32 +38,32 @@ cardExample:
       title: 11.124.462
       href: /about
       description: |      # required
-        Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+        Light green they’re living green years firmament thing doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
       background: /assets/images/landing_page/registros_biologicos.jpg
       href: 2021-02-03-jovenes_investigadores_2021
       categories: [cat, dog]
       cta:
-      - text: Biodiversida en cifras
+      - text: Biodiversidad en cifras
         href: /data
         isPrimary: true
     - preTitle: Eventos de muestreo  # optional
       title: 64   # required
       href: /about
       description: |      # required
-        Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+        Also, in for from winged doesn’t sea creepeth brought be deep created made land man dry i us fruitful replenish said dominion a sixth own it tree.
       # img required
       background: /assets/images/landing_page/eventos_de_muestreo.jpg
     - preTitle: Listas de especies # optional
       title: 253    # required
       href: /about
       description: |      # required
-        Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+        Also, in for from winged doesn’t sea creepet fly moving land,man dry i us fruitful replenish said dominion a sixth own it tree.
       # img required
       background: /assets/images/landing_page/listas_de_especies.jpg
     - preTitle: Fichas de especies  # optional
       title: 4.919    # required
       description: |      # required
-        Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+        Also, in for from winged doesn’t us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
       # img required
       background: https://api.gbif.org/v1/image/unsafe/500x/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc2%2FHaeckel_Caulerpa_paspaloides.JPG%2F1024px-Haeckel_Caulerpa_paspaloides.JPG
       href: /about
