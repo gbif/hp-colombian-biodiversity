@@ -13,14 +13,6 @@ cta:
   - text: SiB Colombia
     href: /acercade/SiB_Colombia
 permalink: /
-composition:
-  - type: heroImage
-  - data: home.cardExample
-    type: features
-  - data: home.bannerExample2
-    type: floatingText
-  - data: home.splitExample
-    type: split
 ---
 
 
