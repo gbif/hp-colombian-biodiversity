@@ -65,7 +65,7 @@ cardExample:
       description: |      # required
         Buscan integrar y disponer información confiable y robusta sobre el conocimiento existente de la biodiversidad de Colombia.
       # img required
-      background: https://api.gbif.org/v1/image/unsafe/500x/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc2%2FHaeckel_Caulerpa_paspaloides.JPG%2F1024px-Haeckel_Caulerpa_paspaloides.JPG
+      background: /assets/images/landing_page/fichas_de_especies.jpg
       href: /about
      
 productExample:
