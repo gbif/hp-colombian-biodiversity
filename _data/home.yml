@@ -13,8 +13,8 @@ bannerExample2:
   - text: Consultar
     href: https://hp-colombian-biodiversity.gbif-staging.org/comunidad/ActividadPublicacion
     isPrimary: true
-  - text: Download
-    href: http://example.com
+  - text: Febrero 2021
+    href: https://datastudio.google.com/u/0/reporting/c8f98154-44fb-4839-b03b-a2681d1d26d2/page/Ge2V
 cardExample:
   title: Cifras de publicación
   description: |
