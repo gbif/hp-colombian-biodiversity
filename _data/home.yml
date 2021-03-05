@@ -7,7 +7,7 @@ cardExample:
     The data on this site is filtered to only include everything - including absence data
   features:
     - preTitle: News  # optional
-      title: Abundantly light years # required
+      title: Cambio de titulo # required
       description: |      # required
         Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
       # img required
