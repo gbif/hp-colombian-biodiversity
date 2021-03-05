@@ -48,8 +48,8 @@ cardExample:
         isPrimary: true
       - text: About
         href: /about
-    - preTitle: 64  # optional
-      title: Eventos de muestreo    # required
+    - preTitle: Eventos de muestreo  # optional
+      title: 64   # required
       href: /about
       description: |      # required
         Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
