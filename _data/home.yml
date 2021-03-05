@@ -11,7 +11,7 @@ bannerExample2:
   hasWhiteText: false
   cta:                # optional
   - text: Consultar
-    href: 
+    href: /comunidad/ActividadPublicacion.md
   - text: Download
     href: http://example.com
 cardExample:
