@@ -81,15 +81,15 @@ splitExample:
   preTitle: Guía de acceso abierto del SiB Colombia  # optional
   title: Crear, Compartir, Transformar
   description: |      # required
-    Forth beginning form dry thing. Form seed void likeness darkness light. Can't created third upon spirit fruitful hath likeness their. Replenish saw female night they're you blessed all greater cattle, grass god fifth you're. Above wherein replenish face multiply male every. Own hath lights under creeping.
+    Es una guía con herramientas para comprender y participar en las dinámicas del acceso abierto. Está dirigida a los socios y usuarios del SiB Colombia, así como al público interesado en datos sobre biodiversidad.
   # img required
   background: /assets/images/landing_page/crear_compartir_transformar.jpg
   imageLicense: |
     *Cladophora aegagropila* (Linnaeus) Rabenhorst. Photo by  Оlga Сhernyagina. Via [gbif.org](https://www.gbif.org/occurrence/2862552277)
   href: /about
   cta:
-  - text: Download report
-    href: http://example.com
+  - text: Explorar
+    href: https://sibcolombia.net/acceso-abierto/
     isPrimary: true
   - text: Learn more
     href: /about
