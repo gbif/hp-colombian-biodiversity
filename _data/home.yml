@@ -70,16 +70,16 @@ cardExample:
      
 productExample:
   align: right
-  preTitle: Publishing  # optional
-  title: Integrated publishing toolkit     # required
+  preTitle: Publicar  # optional
+  title: Hola!  # required
   description: |      # required
     Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is.
   # img required
   background: /assets/img/product-right.png
 splitExample:
   reverse: true
-  preTitle: Publishing  # optional
-  title: The state of algae
+  preTitle: Guía de acceso abierto del SiB Colombia  # optional
+  title: Crear, Compartir, Transformar
   description: |      # required
     Forth beginning form dry thing. Form seed void likeness darkness light. Can't created third upon spirit fruitful hath likeness their. Replenish saw female night they're you blessed all greater cattle, grass god fifth you're. Above wherein replenish face multiply male every. Own hath lights under creeping.
   # img required
