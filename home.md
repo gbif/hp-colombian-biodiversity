@@ -4,6 +4,7 @@ layout: home
 title: "Publicación, acceso y uso de datos sobre biodiversidad"
 description: >-
   Sistema de Información sobre Biodiversidad de Colombia - SiB Colombia
+  
   Explorar
 background: /assets/images/fondos_layout/VAL1068_Villegas-Vélez, Felipe.jpg
 imageLicense: |
