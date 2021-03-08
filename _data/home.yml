@@ -22,58 +22,17 @@ cardExample:
   features:
     - preTitle: Socios publicadores  # optional
       title: 155 # required
-      description: |      # required
-        Hacen parte de un equipo conformado por empresas, ONG, autoridades ambientales,centros - instituciones de investigación, redes, iniciativas, sistemas de información y centros educativos.
-      # img required
       background: /assets/images/landing_page/socios_publicadores.jpg
       href: 2021-02-03-jovenes_investigadores_2021
-      categories: [socios,aliados,empresas]
-      cta:
-      - text: Socios
-        href: https://sibcolombia.net/red-de-socios/
-        isPrimary: true
-      - text: Comité directivo
-        href: https://sibcolombia.net/red/ct-cd/
     - preTitle: Registros Biológicos  # optional
       title: 11.124.462
       href: /about
-      description: |      # required
-        Representan la mayoría de los datos publicados a través del SiB Colombia y comprenden desde especímenes y fósiles en colecciones biológicas, hasta observaciones resultantes de inventarios, proyectos de ciencia participativa e incluso datos obtenidos de trampas de cámara o sensores remotos.
       background: /assets/images/landing_page/registros_biologicos.jpg
-      href: 2021-02-03-jovenes_investigadores_2021
-      categories: [cat, dog]
-      cta:
-      - text: Biodiversidad en cifras
-        href: /data
-        isPrimary: true
     - preTitle: Eventos de muestreo  # optional
       title: 64   # required
       href: /about
-      description: |      # required
-        Se generan a través de protocolos estandarizados de medición y monitoreo de la biodiversidad como parcelas de vegetación, censos de aves, muestreos marinos o de agua dulce, entre otros.
-      # img required
       background: /assets/images/landing_page/eventos_de_muestreo.jpg
-    - preTitle: Listas de especies # optional
-      title: 253    # required
-      href: /about
-      description: |      # required
-        Es la información categorizada a nivel taxonómico, geográfico y/o temático, pero también pueden incluir otros detalles como nombres comunes, referencias de literatura, especímenes de referencia en colecciones biológicas, estados de amenaza, entre otros.
-      # img required
-      background: /assets/images/landing_page/listas_de_especies.jpg
-    - preTitle: Fichas de especies  # optional
-      title: 4.919    # required
-      description: |      # required
-        Buscan integrar y disponer información confiable y robusta sobre el conocimiento existente de la biodiversidad de Colombia.
-        
-        La fichas de especies generalmente incluyen información sobre historia natural, distribución, hábitat, usos, taxonomía, nombres comunes, bibliografía relacionada, entre otros.
-      # img required
-      background: /assets/images/landing_page/fichas_de_especies.jpg
-      href: /about
-      categories: [cat, dog]
-      cta:
-      - text: Tipos de especies
-        href: /data
-        isPrimary: true
+
      
 productExample:
   align: right
