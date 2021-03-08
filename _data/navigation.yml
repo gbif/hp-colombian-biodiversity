@@ -14,8 +14,6 @@
     href: https://cifras.biodiversidad.co/
 
     
-    
-    
 - text: Compartir
   menu: # Dropdown menu (one level deep only)
   - text: Tipos de datos
@@ -43,7 +41,7 @@
     href: /recursos/CalidadDeDatos
   - text: Plantillas Darwin Core
     href: /recursos/Plantillas
-  - text: Permisos de recolección 
+
   
 - text: Comunidad
   menu: # Dropdown menu (one level deep only)
