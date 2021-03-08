@@ -19,17 +19,13 @@ cardExample:
   features:
     - preTitle: Socios publicadores  # optional
       title: 155 # required
-      background: /assets/images/landing_page/socios_publicadores.jpg
       href: 2021-02-03-jovenes_investigadores_2021
     - preTitle: Registros Biológicos  # optional
       title: 11.124.462
       href: /about
-      background: /assets/images/landing_page/registros_biologicos.jpg
     - preTitle: Eventos de muestreo  # optional
       title: 64   # required
       href: /about
-      background: /assets/images/landing_page/eventos_de_muestreo.jpg
-
      
 productExample:
   align: right
