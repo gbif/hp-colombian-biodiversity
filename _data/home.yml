@@ -17,7 +17,7 @@ bannerExample2:
     href: https://datastudio.google.com/u/0/reporting/c8f98154-44fb-4839-b03b-a2681d1d26d2/page/Ge2V
 cardExample:
   features:
-    - preTitle: Registros Biológicos  # optional
+    - preTitle: Registros biológicos  # optional
       title: 11.124.462 # required
       href: 2021-02-03-jovenes_investigadores_2021
     - preTitle: Listas de especies # optional
