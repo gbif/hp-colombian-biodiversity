@@ -4,14 +4,16 @@
 # Columns (the more you add, the narrower they will be)
 columns:
 
-  - name: SiB Colombia
+  - name: Acerca de
     links:
-    - text: Acerca de
+    - text: SiB Colombia
       href: /acercade/SiB_Colombia
     - text: Preguntas Frecuentes
       href: /compartir/PreguntasFrecuentes
     - text: Términos y Condiciones
       href: /terminosCondiciones/PoliticaPublicacion
+    - text: Boletín
+     
     
   - name: Contacto
     description: | # Can be Markdown
