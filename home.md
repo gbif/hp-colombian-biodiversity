@@ -10,6 +10,9 @@ cta:
   - text: Explorar datos
     href: /data
     isPrimary: true
+  - text: Explorar cifras
+    href: /data
+    isPrimary: true
   - text: SiB Colombia
     href: /acercade/SiB_Colombia
 permalink: /
