@@ -12,7 +12,7 @@ cta:
   - text: Explorar datos
     href: /data
     isPrimary: true
-  - text: Explorar cifras
+  - text: Consultar cifras
     href: /data
   - text: Publicadores
     href: /acercade/SiB_Colombia
