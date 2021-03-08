@@ -58,7 +58,7 @@
 - text: Noticias y eventos
   href: /news/
   
-- text: Acerca De
+- text: Acerca de
   menu: # Dropdown menu (one level deep only)
   - text: SiB Colombia
     href: /acercade/SiB_Colombia
