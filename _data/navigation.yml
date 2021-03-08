@@ -32,7 +32,7 @@
 - text: Recursos
   menu: # Dropdown menu (one level deep only)
   - href: /recursos/ComoCitar
-  - text: IPT herramienta de publicación
+  - text: Herramienta de publicación
     href: /recursos/IPT
   - text: Acceso abierto
   - text: Cómo citar
