@@ -9,10 +9,12 @@ imageLicense: |
 cta:
   - text: Datos
     href: /data
+    isPrimary: true
   - text: Cifras
     href: /data
   - text: Formación
     href: /acercade/SiB_Colombia
+    isPrimary: true
 permalink: /
 composition:
   - type: heroImage # the block type
