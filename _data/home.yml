@@ -16,9 +16,6 @@ bannerExample2:
   - text: Febrero 2021
     href: https://datastudio.google.com/u/0/reporting/c8f98154-44fb-4839-b03b-a2681d1d26d2/page/Ge2V
 cardExample:
-  title: Cifras de publicación
-  description: |
-    Cifra calculada a partir de las especies con al menos un registro biológico en el SiB Colombia. Esta cifra es solo una aproximación a la riqueza conocida que tiene nuestro país y está en constante actualización.
   features:
     - preTitle: Socios publicadores  # optional
       title: 155 # required
