@@ -13,11 +13,6 @@ columns:
     - text: Términos y Condiciones
       href: /terminosCondiciones/PoliticaPublicacion
     - text: Boletín
-     
-   - name:
-    links:
-    - text: Prueba sin título
-      href: /acercade/SiB_Colombia
 
   - name: Contacto
     description: | # Can be Markdown
