@@ -26,10 +26,10 @@ cardExample:
     - preTitle: Fichas de especies  # optional
       title: 4.919   # required
       href: /about
-     - preTitle: Socios publicadores  # optional
+    - preTitle: Socios publicadores  # optional
       title: 155   # required
       href: /about
-     - preTitle: Citaciones  # optional
+    - preTitle: Citaciones  # optional
       title: 53.919   # required
       href: /about
      
