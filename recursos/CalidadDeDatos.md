@@ -1,8 +1,8 @@
 ---
 layout: heroImage
 title: "¿Qué es calidad de datos?"
-description: Esta guía ofrece los ejemplos más comunes de citación utilizados por usuarios del SiB Colombia.
-background: /assets/images/fondos_layout/CIM14423_Villegas-Velez-Felipe
+description: "Herramientas para validar y mejor la calidad de los datos sobre biodiversidad"
+background: /assets/images/fondos_layout/semilla_cp.jpg
 imageLicense: |
   Fotografía de: Felipe Villegas-Vélez Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
 
