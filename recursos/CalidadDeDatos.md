@@ -1,8 +1,13 @@
 ---
-layout: post
-lang-ref: CalidadDeDatos
+layout: heroImage
 title: "¿Qué es calidad de datos?"
-description: Para validar y mejor la calidad de los datos sobre biodiversidad
+description: Esta guía ofrece los ejemplos más comunes de citación utilizados por usuarios del SiB Colombia.
+background: /assets/images/fondos_layout/CIM14423_Villegas-Velez-Felipe
+imageLicense: |
+  Fotografía de: Felipe Villegas-Vélez Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
+
+height: 70vh
+toc: true
 ---
 
 La **calidad de datos** se puede definir como una característica esencial y necesaria para que los datos sean “adecuados para su uso” o tengan un “uso potencial valioso” [(Chapman, 2005)](https://assets.ctfassets.net/uo17ejk9rkwj/2gupj7dJIw62UeOUYiqSsm/0a4bb732bd7fd8cf28f7703dc20a43ba/Data_Quality_-_ENGLISH.pdf).
@@ -12,19 +17,8 @@ Cuando los datos se utilizan sin tener una visión crítica sobre los posibles e
 Con el fin de que los datos generados en nuestras investigaciones sean influyentes en la toma de decisiones, es importante tener en cuenta el concepto de **calidad de datos** a lo largo de toda la cadena de la información. A continuación se listas varias herramientas útiles para la validación y limpieza de los datos.
 
 
-# Herramientas de calidad para Darwin Core 
 
-Breve descripción de esas herramientas
-
-| Nombre        | Uso          | ¿Qué puede hacer  |
-| ------------- |-------------| -----|
-| [Guía de referencia rápida del estándar Darwin Core](http://repository.humboldt.org.co/handle/20.500.11761/35349)   | Estructuración de datos    |    Este documento está dirigido a aquellos que necesitan una referencia (lista y definiciones) de la información esencial acerca de los elementos actuales recomendados del Darwin Core. |
-| [Data validator - GBIF](https://www.gbif.org/tools/data-validator)      | Estandarización    |   Permite validar un conjunto de datos a partir de una plantilla Darwin Core (en .csv) o un Darwin Core Archive  (.zip) y detecta qué posibles problemas o errores puede presentar el conjunto de datos para su óptima publicación. |
-| [DwCA Assistant ](http://tools.gbif.org/dwca-assistant/?lang=en)      | Estandarización    |   Permite visualizar todos los elementos del estándar Darwin Core y sus extensiones, su principal función es la creación de un XML que puede ser incluido en un archivo DwC. |
-| [Darwin Test ](https://www.gbif.es/software/darwin-test/)      | Estructuración, estandarización y validación    |   Realiza la validación y chequeo de los datos en formato *Darwin Core*. Permite detectar y corregir errores en los campos de los archivos, el chequeo de los nombres científicos, la conversión de coordenadas, entre otros. |
-| [MycenaConverte](https://ferramentas.sibbr.gov.br/mycena/)      | Estructuración de medidas o hechos asociados a registros biológicos    |   Es una herramienta desarrollada por el SiB Brasil para ayudar a estandarizar datos ecológicos o rasgos funcionales asociados a cada registro, de acuerdo al estándar Darwin Core (extensión Medidas o Hechos - *Measurement or Facts*), convirtiendo filas en columnas en el formato Tipo (*measurementType*) - valor (*measurementValue*). |
-
-# Herramientas de calidad para Limpieza de datos
+# Herramientas para Limpieza de datos
 
 Nombre | Uso | ¿Qué puede hacer
 ------------ | ------------- | -------------
@@ -36,14 +30,14 @@ Nombre | Uso | ¿Qué puede hacer
 [R Studio](https://rstudio.com/) | Extensión de software |  Facilita la visualización de la herramienta R project Integra distintas ventanas funcionales.
 [LifeWatch - Data Services](https://www.lifewatch.be/data-services/) | Validación , servicios geográficos y taxonómicos | A través de la conexión con diferentes servicios web la herramienta permite validar formatos, elementos DwC de publicación en OBIS, taxonomía y geografía.:octopus:
 
-# Herramientas de calidad para Limpieza de fechas
+# Herramientas para Limpieza de fechas
 
 
 Nombre | Uso | ¿Qué puede hacer
 ------------ | ------------- | -------------
 [Canadensys - Date parsing](https://data.canadensys.net/tools/dates) | Estandarización de fechas | Realiza la conversión masiva de fechas al formato ISO8601: AAAA-MM-DD.
 
-# Herramientas de calidad para Ubicación y Geografía
+# Herramientas para Ubicación y Geografía
 
 Nombre | Uso | ¿Qué puede hacer
 ------------ | ------------- | -------------
@@ -64,7 +58,7 @@ Nombre | Uso | ¿Qué puede hacer
 [geo:truc ](http://www.geotruc.net/?hl=es_ES) | Visualización geográfica | Permite obtener las coordenadas de un punto seleccionado en el mapa a través de google maps. 
 [CartoDB ](https://carto.com/) | Validación y visualización geográfica | Permite importar y visualizar datos geoespaciales mediante la creación de mapas dinámicos.
 
-# Herramientas de calidad para Nombres y Taxonomía
+# Herramientas para Nombres y Taxonomía
 
 Nombre | Uso | ¿Qué puede hacer
 ------------ | ------------- | -------------
@@ -73,7 +67,6 @@ Nombre | Uso | ¿Qué puede hacer
 [WoRMS Taxon match](http://www.marinespecies.org/aphia.php?p=match) | Validación de nombres científicos de organismos marinos | Contrasta automáticamente una lista de especies o lista de taxones con World Register of Marine Species - WoRMS. Después de la coincidencia, la herramienta devolverá su archivo con los AphiaID, nombres válidos, autoridades, clasificación WoRMS y / o cualquier otra salida que haya seleccionado. Valida máx. 1500 registros.:octopus:
 [GBIF - Name parser](https://www.gbif.org/tools/name-parser) | Estandarización de nombres científicos | Separa los nombres científicos en sus distintos componentes a partir del nombre introducido. Permite interpretar la mayoría de nombres científicos y atomizarlos independientemente de su código nomenclatural. 
 [Global Names Index](http://gni.globalnames.org/) | Validación de nombres científicos | Permite corregir y/o enlazar la información acerca de cualquier taxón por medio de un proceso de "reconciliación" entre los nombres ya que contiene ejemplos de nombres científicos escritos con alguna variación.
-
 
 
 
