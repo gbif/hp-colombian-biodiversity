@@ -20,6 +20,29 @@ cta:
 permalink: /
 composition:
   - type: heroImage # the block type
+  - type: stats
+    data: home.websites
+  - type: stats
+    data: home.cifras
+  - type: markdown
+    inlineData:
+      markdownContent: |
+        <div class="vimeo-container"><iframe src="https://player.vimeo.com/video/473377963" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+  - type: heroImage
+    inlineData:
+      background: /assets/images/landing_page/crear_compartir_transformar.jpg
+      height: 70vh
+      parallax: true
+      title: Crear, Compartir, Transformar
+      description: |      # required
+        Es una guía con herramientas para comprender y participar en las dinámicas del acceso abierto. Está dirigida a los socios y usuarios del SiB Colombia, así como al público interesado en datos sobre biodiversidad.
+      href: /about
+      cta:
+      - text: Explorar
+        href: https://sibcolombia.net/acceso-abierto/
+        isPrimary: true
+      - text: Learn more
+        href: /about
   - data: home.cardExample # the _data to use
     type: features # the block type
   - data: home.bannerExample2

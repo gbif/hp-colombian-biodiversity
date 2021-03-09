@@ -12,3 +12,48 @@ $navbar-item-img-max-height: 3rem;
     border: 1px solid #00000011;
   }
 }
+
+.websiteLinks {
+  background: linear-gradient(140deg, #465252, #002428);
+  box-shadow: inset 0px 1px 20px -2px #111;
+  clip-path: polygon( 0% 0%, 100% 0%, 100% 100%, 0% 80% );
+  padding-bottom: 60px;
+  .feature-img {
+    width: auto;
+    img {
+      width: auto;
+      height: 40px
+    }
+  }
+}
+.websiteLinks + section {
+  margin-top: -100px;
+  padding-top: 150px;
+}
+
+@media screen and (min-width: 1000px) {
+  .websiteLinks {
+    clip-path: polygon( 0% 0%, 100% 0%, 100% 100%, 0% 70% );
+    padding-bottom: 100px;
+    + section {
+      margin-top: -150px;
+      padding-top: 200px;
+    }
+  }
+}
+
+.vimeo-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}

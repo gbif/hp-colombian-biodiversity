@@ -16,6 +16,7 @@ bannerExample2:
   - text: Febrero 2021
     href: https://datastudio.google.com/u/0/reporting/c8f98154-44fb-4839-b03b-a2681d1d26d2/page/Ge2V
 cardExample:
+  klass: cards
   features:
     - preTitle: Registros biológicos  # optional
       title: 11.124.462 # required
@@ -81,3 +82,33 @@ blank:
         <p>See <a href="https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml"><code class="language-plaintext highlighter-rouge">_data/compose/markdownBlock.yml</code></a> for the content structure.</p>
       </div>
     </div>
+websites: 
+  klass: websiteLinks
+  features:
+    - background: https://sibcolombia.net/wp-content/uploads/2018/04/logo-listas.svg
+      href: https://catalogo.biodiversidad.co/
+    - background: https://sibcolombia.net/wp-content/uploads/2018/04/logo-colecciones.svg
+      href: https://catalogo.biodiversidad.co/
+    - background: https://sibcolombia.net/wp-content/uploads/2018/04/logo-datos.svg
+      href: https://catalogo.biodiversidad.co/
+    - background: https://sibcolombia.net/wp-content/uploads/2018/04/logo-catalogo.svg
+      href: https://catalogo.biodiversidad.co/
+cifras:
+  klass: cifras
+  title: Cifras de publicación
+  features: 
+    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20equals%2C%20key%3A%20%22countryCode%22%2C%20value%3A%20%22CO%22%7D%2C%20%7Btype%3A%20equals%2C%20key%3A%20%22notIssues%22%2C%20value%3A%20%22COUNTRY_COORDINATE_MISMATCH%22%7D%5D%7D%2C%20size%3A%2010%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">100,000</span>
+      description: SOCIOS PUBLICADORES
+      background: https://sibcolombia.net/wp-content/uploads/2018/06/socios@3x-150x150.png
+    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20equals%2C%20key%3A%20%22countryCode%22%2C%20value%3A%20%22CO%22%7D%2C%20%7Btype%3A%20equals%2C%20key%3A%20%22notIssues%22%2C%20value%3A%20%22COUNTRY_COORDINATE_MISMATCH%22%7D%5D%7D%2C%20size%3A%2010%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">100,000</span>
+      description: REGISTROS BIOLÓGICOS
+      background: https://sibcolombia.net/wp-content/uploads/2018/06/registros@3x-297x300.png
+    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20equals%2C%20key%3A%20%22countryCode%22%2C%20value%3A%20%22CO%22%7D%2C%20%7Btype%3A%20equals%2C%20key%3A%20%22notIssues%22%2C%20value%3A%20%22COUNTRY_COORDINATE_MISMATCH%22%7D%5D%7D%2C%20size%3A%2010%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">100,000</span>
+      description: EVENTOS DE MUESTREO
+      background: https://sibcolombia.net/wp-content/uploads/2020/02/eventos-de-muestreo-300x300.png
+    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20equals%2C%20key%3A%20%22countryCode%22%2C%20value%3A%20%22CO%22%7D%2C%20%7Btype%3A%20equals%2C%20key%3A%20%22notIssues%22%2C%20value%3A%20%22COUNTRY_COORDINATE_MISMATCH%22%7D%5D%7D%2C%20size%3A%2010%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">100,000</span>
+      description: LISTAS DE ESPECIES
+      background: https://sibcolombia.net/wp-content/uploads/2018/06/listas@3x-300x294.png
+    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20equals%2C%20key%3A%20%22countryCode%22%2C%20value%3A%20%22CO%22%7D%2C%20%7Btype%3A%20equals%2C%20key%3A%20%22notIssues%22%2C%20value%3A%20%22COUNTRY_COORDINATE_MISMATCH%22%7D%5D%7D%2C%20size%3A%2010%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">100,000</span>
+      description: FICHAS DE ESPECIES
+      background: https://sibcolombia.net/wp-content/uploads/2018/06/fichas@3x-300x300.png
