@@ -4,7 +4,7 @@ title: Plantillas de publicación de datos
 description: Las siguientes son plantillas pre-diseñadas para publicar datos  sobre biodiversidad. 
 background: /assets/images/moss.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  _Crotophaga ani_ Fotografía de: patriciass [by-nc](https://creativecommons.org/licenses/by-nc/4.0/) vía [iNaturalist](https://www.inaturalist.org/observations/53069927)
 
 height: 70vh
 ---
