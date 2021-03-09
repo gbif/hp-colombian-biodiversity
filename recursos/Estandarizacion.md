@@ -2,9 +2,9 @@
 layout: heroImage
 title: "Estandarización de datos en Darwin Core"
 description: Herramientas para aplicar el estándar internacional Darwin Core
-background: /assets/images/fondos_layout/CIM14423_Villegas-Velez-Felipe
+background: https://live.staticflickr.com/7067/6867332517_47252e06d7_h.jpg
 imageLicense: |
-  Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/7028209699/)
+  _Harpactor sp._ Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/6867332517/)
 
 
 height: 70vh
