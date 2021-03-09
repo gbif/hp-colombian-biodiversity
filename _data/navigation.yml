@@ -8,10 +8,10 @@
     href: https://listas.biodiversidad.co/
   - text: Catálogo de la biodiversidad
     href: https://catalogo.biodiversidad.co/
-  - text: Gacetero de localidades
-    href: /buscar/gacetero
   - text: Biodiversidad en cifras
     href: https://cifras.biodiversidad.co/
+  - text: Gacetero de localidades
+    href: /buscar/gacetero
 
     
 - text: Compartir
@@ -37,6 +37,7 @@
     href: /recursos/ComoCitar
   - text: Repositorios
   - text: Estandarización
+    href: /recursos/Estandarizacion
   - text: Calidad de datos
     href: /recursos/CalidadDeDatos
   - text: Plantillas Darwin Core
