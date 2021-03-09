@@ -2,7 +2,7 @@
 layout: heroImage
 title: "¿Qué es calidad de datos?"
 description: "Herramientas para validar y mejor la calidad de los datos sobre biodiversidad"
-background: /assets/images/fondos_layout/semilla_cp.jpg
+background: /assets/images/fondos_layout/CIM14423_Villegas-Velez-Felipe
 imageLicense: |
   Fotografía de: Felipe Villegas-Vélez Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
 
