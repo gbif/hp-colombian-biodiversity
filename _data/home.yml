@@ -29,20 +29,19 @@ stats:
       description: Listas de especies
       background: /assets/img/icons/visualization.png
       # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?taxonKey=3&taxonKey=1">100,000</span>
-      description: Celsoque trabes
-      background: /assets/img/icons/cloud-computing.png
-      
-    - title: <span data-ajax-url="https://www.gbif.org/publisher/search?country=CO">1,000</span>
-      description: socios prueba
-      background: /assets/img/icons/music.png
-      # Hard coded value
     - title: 4.919
       description: Fichas de especies
       background: /assets/img/icons/validity.png
       href: https://catalogo.biodiversidad.co/
-
+    - title: <span data-ajax-url="https://www.gbif.org/publisher/search?country=CO">1,000</span>
+      description: socios prueba
+      background: /assets/img/icons/music.png
+      # Hard coded value     
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?taxonKey=3&taxonKey=1">100,000</span>
+      description: Celsoque trabes
+      background: /assets/img/icons/cloud-computing.png
       
+     
 cardExample:
   features:
     - preTitle: Registros biológicos  # optional
