@@ -3,7 +3,7 @@ layout: documentation
 permalink: /formacion/laboratorios 
 title: "Laboratorios de datos"
 description: "Este repositorio contiene la página de los laboratorios para el ciclo de formación virtual del SiB Colombia para  la gestión y publicación de datos sobre biodiversidad."
-sideNavigation: sidenav_terminoscondiciones.terms
+sideNavigation: sidenav_laboratorios.terms
 toc: true
 ---
 
