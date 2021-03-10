@@ -4,7 +4,7 @@ terms:
   - title: Intro
     path: https://sib-colombia.github.io/Formacion/ 
 #- grouptitle: "Laboratorio de estructuración y calidad"
-  content:
+  #content:
   - title: Estandarización de datos en Darwin Core
     path: /examples/test
   - title: Estandarización extensiones Darwin Core
@@ -37,3 +37,4 @@ terms:
 #- grouptitle: "Laboratorio datos en contexto"
   - title: Documentación de Metadatos
     path: /examples/something
+
