@@ -27,7 +27,7 @@ composition:
   - type: markdown
     inlineData:
       markdownContent: |
-        <div class="vimeo-container"><iframe src="https://player.vimeo.com/video/473377963" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+        <div class="video-container"><iframe src="https://player.vimeo.com/video/473377963" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
   - type: heroImage
     inlineData:
       background: /assets/images/landing_page/crear_compartir_transformar.jpg
