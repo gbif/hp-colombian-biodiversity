@@ -13,9 +13,9 @@ cta:
     href: /data
     isPrimary: true
   - text: Consultar cifras
-    href: /data
+    href: https://cifras.biodiversidad.co/
   - text: Publicadores
-    href: /acercade/SiB_Colombia
+    href: https://www.gbif.org/publisher/search?country=CO
     isPrimary: true
 permalink: /
 composition:
