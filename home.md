@@ -20,6 +20,8 @@ cta:
 permalink: /
 composition:
   - type: heroImage # the block type
+  - data: home.stats
+    type: stats
   - data: home.cardExample # the _data to use
     type: features # the block type
   - data: home.bannerExample2
