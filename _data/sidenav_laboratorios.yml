@@ -3,8 +3,8 @@ terms:
   content:
   - title: Intro
     path: https://sib-colombia.github.io/Formacion/
-   
-- grouptitle: "Laboratorio de estructuración y calidad"
+    
+#- grouptitle: "Laboratorio de estructuración y calidad"
   content:
   - title: "Estandarización de datos en Darwin Core"
     path: /examples/test
@@ -12,9 +12,7 @@ terms:
     path: /examples/something
   - title: "Validador de datos - GBIF"
     path: /examples/something
-
-      
-- grouptitle: "Laboratorio de validación y limpieza"
+#- grouptitle: "Laboratorio de validación y limpieza"
   - title: Open Refine
     path: /examples/something
   - sectiontitle: "Taxonomía"
@@ -37,7 +35,6 @@ terms:
      path: /examples/something
    - title: "Rutinas OpenRefine"
      path: /examples/something
-
-- grouptitle: "Laboratorio datos en contexto"
+#- grouptitle: "Laboratorio datos en contexto"
   - title: Documentación de Metadatos
     path: /examples/something
