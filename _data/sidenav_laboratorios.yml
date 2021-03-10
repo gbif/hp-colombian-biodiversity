@@ -1,40 +1,16 @@
 terms:
 - grouptitle: Laboratorios de datos
   content:
-  - title: Intro
-    path: https://sib-colombia.github.io/Formacion/ 
-#- grouptitle: "Laboratorio de estructuración y calidad"
-  #content:
-  - title: Estandarización de datos en Darwin Core
+  - title: Some page
+    path: /some/location
+- grouptitle: "Laboratorio de estructuración y calidad"
+  content:
+  - title: "Estandarización de datos en Darwin Core"
     path: /examples/test
-  - title: Estandarización extensiones Darwin Core
+  - title: "Estandarización extensiones Darwin Core"
     path: /examples/something
-  - title: Validador de datos - GBIF
-    path: /examples/something
-#- grouptitle: "Laboratorio de validación y limpieza"
-  - title: Open Refine
-    path: /examples/something
-  - sectiontitle: Taxonomía
-      section:
-      - title: Species Matching
-        path: /examples/nester
-      - title: Worms
-        path: /examples/nester
-      - title: TNRS - plant names
-        path: /examples/nester
-  - sectiontitle: Geografía
-      section:
-      - title: Conversión Coordenadas
-        path: /examples/nester
-      - title: Visualización Coordenadas
-        path: /examples/nester
-      - title: Validación geográfica con QGIS
-        path: /examples/nester
-   - title: Conversión Fechas
-     path: /examples/something
-   - title: Rutinas OpenRefine
-     path: /examples/something
-#- grouptitle: "Laboratorio datos en contexto"
-  - title: Documentación de Metadatos
-    path: /examples/something
+  - sectiontitle: Deep
+    section:
+    - title: Nested page
+      path: /examples/nester
 
