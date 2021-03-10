@@ -37,8 +37,8 @@ stats:
       description: socios prueba
       background: /assets/img/icons/music.png
       # Hard coded value     
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?taxonKey=3&taxonKey=1">100,000</span>
-      description: Celsoque trabes
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=CO">100,000</span>
+      description: Conjuntos de datos
       background: /assets/img/icons/cloud-computing.png
       
      
