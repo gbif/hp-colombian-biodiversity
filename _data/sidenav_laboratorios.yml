@@ -9,8 +9,19 @@ terms:
     path: /examples/test
   - title: "Estandarización extensiones Darwin Core"
     path: /examples/something
+  - title: "Validador de datos - GBIF"
+    path: /examples/something
   - sectiontitle: Deep
     section:
     - title: Nested page
       path: /examples/nester
-
+- grouptitle: "Laboratorio de validación y limpieza"
+  content:
+  - title: "Open Refine"
+    path: /examples/test
+  - sectiontitle: "Taxonomía"
+    section:
+    - title: "Species Matching"
+      path: /examples/nester
+    - title: "Worms"
+      path: /examples/nester
