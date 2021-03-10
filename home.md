@@ -2,9 +2,9 @@
 lang-ref: home
 layout: home
 title: "Publicación, acceso y uso de datos sobre biodiversidad"
-description: >
+description: >-
   Sistema de Información sobre Biodiversidad de Colombia
-  SiB Colombia
+   SiB Colombia
 background: /assets/images/fondos_layout/VAL1068_Villegas-Vélez, Felipe.jpg
 imageLicense: |
   *Hyloscirtus antioquia* Fotografía de: Andrés Mauricio Forero Cano vía [iNaturalist](https://colombia.inaturalist.org/observations/16391377)
