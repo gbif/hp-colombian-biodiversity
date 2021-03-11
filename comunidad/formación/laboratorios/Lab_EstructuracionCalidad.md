@@ -1,6 +1,6 @@
 ---
 layout: documentation
-permalink: /formacion/laboratorios 
+#permalink: /formacion/laboratorios por ajustar
 title: "Laboratorio de estructuración y calidad"
 description: "Estructurar un conjunto de datos bajo el estándar internacional de publicación de datos sobre biodiversidad Darwin Core (DwC)."
 sideNavigation: sidenav_laboratorios.terms
