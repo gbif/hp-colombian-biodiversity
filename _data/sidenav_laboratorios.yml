@@ -1,10 +1,12 @@
 terms:
 - grouptitle: Laboratorios de datos
   content:
-  - title: Some page
+  - title: "Introducción"
     path: /some/location
 - grouptitle: "Laboratorio de estructuración y calidad"
   content:
+  - title: "Introducción"
+    path: /examples/test
   - title: "Estandarización en Darwin Core"
     path: /examples/test
   - title: "Estandarización extensiones Darwin Core"
@@ -13,6 +15,8 @@ terms:
     path: /examples/something
 - grouptitle: "Laboratorio de validación y limpieza"
   content:
+  - title: "Introducción"
+    path: /examples/test
   - title: "Open Refine"
     path: /examples/test
   - sectiontitle: "Taxonomía"
@@ -35,3 +39,11 @@ terms:
     path: /examples/test
   - title: "Rutinas Open Refine"
     path: /examples/test
+- grouptitle: "Laboratorio datos en contexto"
+  content:
+  - title: "Introducción"
+    path: /examples/test
+  - title: "Documentación de Metadatos"
+    path: /some/location
+  - title: "Carga de datos"
+    path: /some/location
