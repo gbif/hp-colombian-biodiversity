@@ -89,3 +89,7 @@ blank:
         <p>See <a href="https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml"><code class="language-plaintext highlighter-rouge">_data/compose/markdownBlock.yml</code></a> for the content structure.</p>
       </div>
     </div>
+    
+latestPostsExample: 
+  title: "type: latestPosts"
+  description: The theme lets you stitch blocks together from the frontmatter. Below is examples of how. See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml) for the content structure.
