@@ -3,7 +3,7 @@
 # Feature cards
 bannerExample2:
   preTitle: Alianza ANDI  # optional
-  - url: /(.*\.(/assets/images/logos/BannerwebAlianzaAZUL_Mesa-de-trabajo-1.png))
+   href: /assets/images/logos/BannerwebAlianzaAZUL_Mesa-de-trabajo-1.png
   title: Un aporte del sector empresarial al conocimiento de la biodiversidad
   description: |      # required
     Esta alianza cree en la construcción, uso y democratización del conocimiento a partir de los datos sobre biodiversidad compartidos por el sector empresarial, mejorando la toma de decisiones y la calidad de vida de las personas.
