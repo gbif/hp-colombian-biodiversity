@@ -3,6 +3,7 @@ terms:
   content:
   - title: "Introducción"
     path: /some/location
+    
 - grouptitle: "Laboratorio de estructuración y calidad"
   content:
   - title: "Introducción"
@@ -13,12 +14,17 @@ terms:
     path: /examples/something
   - title: "Validador de datos - GBIF"
     path: /examples/something
+    
 - grouptitle: "Laboratorio de validación y limpieza"
   content:
   - title: "Introducción"
     path: /examples/test
-  - title: "Open Refine"
-    path: /examples/test
+  - sectiontitle: "Open Refine"
+    section:
+    - title: "Uso básico"
+      path: /examples/test
+    - title: "Rutinas de validación"
+      path: /examples/test
   - sectiontitle: "Taxonomía"
     section:
     - title: "Species Matching"
@@ -37,8 +43,7 @@ terms:
       path: /examples/nester
   - title: "Conversión Fechas"
     path: /examples/test
-  - title: "Rutinas Open Refine"
-    path: /examples/test
+    
 - grouptitle: "Laboratorio datos en contexto"
   content:
   - title: "Introducción"
