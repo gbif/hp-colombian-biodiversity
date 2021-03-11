@@ -1,28 +1,42 @@
 ---
-layout: heroImage
-title: Sobre el SiB Colombia
+layout: compose
+title: ¿Qué es el SiB Colombia?
 description: Conoce la red nacional de datos abierto
 background: /assets/images/fondos_layout/QUI01259_Villegas-Velez-Felipe.jpg
 imageLicense: |
    Fotografía de: Esteban Marentes - SiB Colombia [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
 height: 70vh
 toc: true
+composition:
+- type: pageMarkdown # This will render the markdown in this file
+- type: heroVideo
+  data: compose.video # yaml file
+- type: floatingText
+  data: compose.examples.text
+- type: features
+  data: compose.features
+- type: markdown
+  data: compose.markdownBlock
+- type: markdown
+  data: compose.markdownBlock
 ---
 
-# Plan de trabajo
+<div class="video-container"><iframe src="https://www.youtube.com/watch?v=M8U6BbgDOUg" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 
-Dentro de los procesos de consolidación del SiB Colombia, el Equipo Coordinador ha trabajado en la identificación de cinco ejes de trabajo a partir de los lineamientos generados por los Comités Directivo y Técnico, así como las prioridades que han sido acordadas en iniciativas globales como GBIF, donde el SiB Colombia participa activamente como un nodo de país.
+**El SiB Colombia es la red nacional de datos abiertos sobre biodiversidad.** Esta iniciativa de país nace con el [Decreto 1603 de 1994](http://www.humboldt.org.co/images/documentos/pdf/Normativo/1994-07-17-dec-1603.pdf){:target="_blank"} como parte del proceso de creación del Sistema Nacional Ambiental (Sina), establecido en la [Ley 99 de 1993](http://www.humboldt.org.co/images/documentos/pdf/Normativo/1993-12-22-ley-99-crea-el-sina-y-mma.pdf){:target="_blank"}, y es el nodo oficial del país en la [Infraestructura Mundial de Información en Biodiversidad (GBIF)](https://www.gbif.org/){:target="_blank"}. Su principal propósito es brindar acceso abierto a información sobre la diversidad biológica del país para la construcción de una sociedad sostenible. Además, facilita la publicación en línea de datos e información sobre biodiversidad, y promueve su uso por parte de una amplia variedad de audiencias, apoyando de forma oportuna y eficiente la gestión integral de la biodiversidad.
 
-<details>
-  <summary markdown="span"><B>Planes de trabajo históricos del SiB Colomba</B></summary>
- 
-<ul>
-     <li>2014</li>
-     <li>2016</li>
-     <li><a href="http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35500/PlanEstrategico_SiBColombia_versionfinal.pdf?sequence=4&isAllowed=y">Plan de trabajo 2018</a></li>
-     <li>2020</li>
-</ul>    
-</details>
+El SiB Colombia es una realidad gracias a la participación de cientos de organizaciones y personas que comparten datos e información bajo los principios de libre acceso, transparencia, cooperación, reconocimiento y responsabilidad compartida.
+
+## ¿Para qué?
+Más y mejor información disponible, conectada y consolidada, que se transforma en conocimiento para conservar, aprovechar y conectarse con la biodiversidad.
+
+### Misión
+
+Facilitar la gestión de datos e información sobre biodiversidad acercando usuarios, publicadores y productores de la información para apoyar procesos de investigación, educación o toma de decisiones relacionadas con el conocimiento, la conservación y el uso sostenible de la biodiversidad y los servicios ecosistémicos.
+
+### Visión 
+
+El SiB Colombia espera consolidarse como una plataforma colaborativa que facilita la construcción, uso y democratización del conocimiento sobre la diversidad biológica de Colombia. De esta forma la iniciativa contribuye a la visión de una sociedad que conoce y valora la biodiversidad en la cual está inmersa, y que usa dicho conocimiento para desarrollarse.
 
 
 ___
@@ -101,6 +115,28 @@ Laura Sánchez | Pasante Administración de Contenidos
 
 ___
 
+# Plan de implementación
+
+## Plan de trabajo
+
+Dentro de los procesos de consolidación del SiB Colombia, el Equipo Coordinador ha trabajado en la identificación de cinco ejes de trabajo a partir de los lineamientos generados por los Comités Directivo y Técnico, así como las prioridades que han sido acordadas en iniciativas globales como GBIF, donde el SiB Colombia participa activamente como un nodo de país.
+
+<details>
+  <summary markdown="span"><B>Planes de trabajo históricos del SiB Colomba</B></summary>
+ 
+<ul>
+     <li>2014</li>
+     <li>2016</li>
+     <li><a href="http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35500/PlanEstrategico_SiBColombia_versionfinal.pdf?sequence=4&isAllowed=y">Plan de trabajo 2018</a></li>
+     <li>2020</li>
+</ul>    
+</details>
+
+## Plan estratégico
+
+___
+
+
 # Logo e identidad
 
 Con el fin de fortalecer el trabajo que se desarrolla, particularmente a través de procesos de gestión y coordinación interinstitucional en el marco de esta iniciativa nacional, el SiB Colombia se consolida formalmente como una marca institucional coherente con su misión y visión, y que tiene como único fin cuidar y seguir fortaleciendo la imagen ante los diferentes públicos y escenarios en los que se haga presencia.
@@ -112,6 +148,3 @@ La denominación, las paletas de colores y las tipografías serán de utilizaci�
 Las normas contenidas en este documento se deben respetar y mantener constantes con el fin de facilitar la unidad visual y el reconocimiento de la marca.
 
 Puedes descargar el [Manual de Identidad](https://statics.sibcolombia.net/sib-resources/Docs/manual-identidad-SiB-2016.pdf) completo.
-
-
-
