@@ -52,7 +52,7 @@ algae:
     colors:
       primary: "#fab700"          # Primary color of your brand. Use HEX code. Used for buttons and links
       # links: "#04054f"          # What color should links have. Use a HEX code. DEfault is primary color.
-      Secondary: "#eb4242"        # Secundary color of your brand. Use HEX code. Used for buttons and links
+      secondary: "#eb4242"        # Secundary color of your brand. Use HEX code. Used for buttons and links
       tertiary: "##7729b3"         # Tertiary color of your brand. Use HEX code. Used for buttons and links
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
