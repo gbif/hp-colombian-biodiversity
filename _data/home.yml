@@ -94,5 +94,5 @@ blank:
     </div>
     
 latestPostsExample: 
-  title: "type: latestPosts"
-  description: The theme lets you stitch blocks together from the frontmatter. Below is examples of how. See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml) for the content structure.
+  title: "type: _post"
+  description: The theme lets you stitch blocks together from the frontmatter. Below is examples of how. See [`_data/compose/examples.yml`](https://github.com/gbif/hp-colombian-biodiversity/tree/master/_posts) for the content structure.
