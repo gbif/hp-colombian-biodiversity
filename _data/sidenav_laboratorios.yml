@@ -1,5 +1,6 @@
 terms:
 - grouptitle: Laboratorios de datos
+  path: /some/location
   content:
   - title: "Introducción"
     path: /some/location
