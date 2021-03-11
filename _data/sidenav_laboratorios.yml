@@ -1,11 +1,11 @@
 terms:
 - grouptitle: Laboratorios de datos
-  path: /some/location
   content:
   - title: "Introducción"
     path: /some/location
     
-- grouptitle: "Laboratorio de estructuración y calidad"
+#"Laboratorio de estructuración y calidad"
+- grouptitle: 
   content:
   - title: "Introducción"
     path: /examples/test
