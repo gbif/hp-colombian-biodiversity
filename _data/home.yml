@@ -2,10 +2,10 @@
 
 # Feature cards
 bannerExample2:
-  preTitle: Reportes  # optional
-  title: Actividad de publicación
+  preTitle: Alianza ANDI  # optional
+  title: Un aporte del sector empresarial al conocimiento de la biodiversidad
   description: |      # required
-    Encuentra el seguimiento a cifras como el total de registros biológicos que custodia nuestro Portal de Datos, la lista de los mayores publicadores, gráficas de evolución y contrastes entre los datos provenientes de instituciones nacionales e internacionales.
+    Esta alianza cree en la construcción, uso y democratización del conocimiento a partir de los datos sobre biodiversidad compartidos por el sector empresarial, mejorando la toma de decisiones y la calidad de vida de las personas.
   background: /assets/theme/img/patterns/wavy-dots.png
   overlayColor: "#ffffff55"
   hasWhiteText: false
@@ -13,8 +13,6 @@ bannerExample2:
   - text: Consultar
     href: https://hp-colombian-biodiversity.gbif-staging.org/comunidad/ActividadPublicacion
     isPrimary: true
-  - text: Febrero 2021
-    href: https://datastudio.google.com/u/0/reporting/c8f98154-44fb-4839-b03b-a2681d1d26d2/page/Ge2V
     
 stats:
   features:
@@ -55,7 +53,7 @@ productExample:
 splitExample:
   reverse: true
   preTitle: Guía de acceso abierto del SiB Colombia  # optional
-  title: Crear, Compartir, Transformar
+  title: Ciclo de formación
   description: |      # required
     Es una guía con herramientas para comprender y participar en las dinámicas del acceso abierto. Está dirigida a los socios y usuarios del SiB Colombia, así como al público interesado en datos sobre biodiversidad.
   # img required
