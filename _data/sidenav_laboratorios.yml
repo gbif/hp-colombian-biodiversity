@@ -5,16 +5,12 @@ terms:
     path: /some/location
 - grouptitle: "Laboratorio de estructuración y calidad"
   content:
-  - title: "Estandarización de datos en Darwin Core"
+  - title: "Estandarización en Darwin Core"
     path: /examples/test
   - title: "Estandarización extensiones Darwin Core"
     path: /examples/something
   - title: "Validador de datos - GBIF"
     path: /examples/something
-  - sectiontitle: Deep
-    section:
-    - title: Nested page
-      path: /examples/nester
 - grouptitle: "Laboratorio de validación y limpieza"
   content:
   - title: "Open Refine"
@@ -25,3 +21,14 @@ terms:
       path: /examples/nester
     - title: "Worms"
       path: /examples/nester
+    - title: "TNRS - Plantas"
+      path: /examples/nester
+  - sectiontitle: "Geografía"
+    section:
+    - title: "Conversión Coordenadas"
+      path: /examples/nester
+    - title: "Visualización Coordenadas"
+      path: /examples/nester
+    - title: "Validación con QGIS"
+      path: /examples/nester
+
