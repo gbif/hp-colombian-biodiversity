@@ -1,12 +1,11 @@
-# The home landing page
+split1:
+  reverse: false
+  title: ¿Qué es el SiB Colombia?
+  description: |      # required
+    Algo super importante para el mundo
+  # img required
+  background: https://www.youtube.com/watch?v=M8U6BbgDOUg
 
-align: right
-title: ¿Qué es el SiB Colombia?
-description: |
-  Algo super importante para el mundo
-# img required
-background: https://www.youtube.com/watch?v=M8U6BbgDOUg
-    
 cardExample:
   title: Gobernanza
   description: |
@@ -54,7 +53,7 @@ bannerExample2:
  
  
 # Feature cards
-bannerExample2:
+bannerExample3:
   title: Visibilidad
   description: |      # required
     Encuentra el manual de marca del SiB bla bla
