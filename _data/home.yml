@@ -40,9 +40,7 @@ stats:
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=CO&limit=0">100,000</span>
       description: Conjuntos de datos
       background: /assets/img/icons/cloud-computing.png
-      
-      
-      https://api.gbif.org/v1/organization?country=CO&limit=0
+
       
 productExample:
   align: right
