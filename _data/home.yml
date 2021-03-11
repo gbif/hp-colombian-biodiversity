@@ -12,7 +12,7 @@ bannerExample2:
   cta:                # optional
   - text: Consultar
     href: https://hp-colombian-biodiversity.gbif-staging.org/comunidad/ActividadPublicacion
-    isPrimary: true
+    isSecondary: true
     
 stats:
   features:
