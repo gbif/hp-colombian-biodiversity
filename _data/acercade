@@ -1,0 +1,69 @@
+# The home landing page
+
+align: right
+title: ¿Qué es el SiB Colombia?
+description: |
+  Algo super importante para el mundo
+# img required
+background: https://www.youtube.com/watch?v=M8U6BbgDOUg
+    
+cardExample:
+  title: Gobernanza
+  description: |
+    la gobernanza del SiB
+  features:
+    - preTitle:  # optional
+      title: Comité directivo # required
+      description: |      # required
+       el comite direci o
+      # img required
+      background: /assets/images/logosEntidades/IDEAM.jpg
+      href: /ComiteDirectivo
+    - preTitle: # optional
+      title: Comité técnico
+      href: /ComiteTecnico
+      description: |      # required
+        el comite tecnico
+      background: /assets/images/logosEntidades/IIAP.jpg
+    - preTitle:   # optional
+      title: Equipo Coordinador    # required
+      href: /EquipoCoordinador
+      description: |      # required
+       El equipo coordinador
+      background: https://sibcolombia.net/wp-content/uploads/2016/08/E-SIB-v2-029.jpg
+ 
+# Feature cards
+bannerExample2:
+  title: El plan de implementación
+  description: |      # required
+   el plan de trabajo es re importante
+  background: /assets/images/logos/72logoSiBhorizontalC.png
+  overlayColor: "#ffffff55"
+  hasWhiteText: false
+  cta:                # optional
+  - text: Plan de trabajo
+    href: https://hp-colombian-biodiversity.gbif-staging.org/comunidad/ActividadPublicacion
+    isPrimary: true
+  - text: Plan estratégico
+    href: https://datastudio.google.com/u/0/reporting/c8f98154-44fb-4839-b03b-a2681d1d26d2/page/Ge2V
+  cta:                # optional
+  - text: 2018
+    href: http://example.com
+  - text: 2020
+    href: http://example.com
+ 
+ 
+# Feature cards
+bannerExample2:
+  title: Visibilidad
+  description: |      # required
+    Encuentra el manual de marca del SiB bla bla
+  background: /assets/images/logos/72logoSiBhorizontalC.png
+  overlayColor: "#ffffff55"
+  hasWhiteText: false
+  cta:                # optional
+  - text: Manual de marca
+    href: https://hp-colombian-biodiversity.gbif-staging.org/comunidad/ActividadPublicacion
+    isPrimary: true
+  - text: Logo
+    href: https://datastudio.google.com/u/0/reporting/c8f98154-44fb-4839-b03b-a2681d1d26d2/page/Ge2V
