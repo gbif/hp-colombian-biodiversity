@@ -1,5 +1,5 @@
 ---
-layout: compose
+layout: acercade
 title: ¿Qué es el SiB Colombia?
 description: Conoce la red nacional de datos abierto
 background: /assets/images/fondos_layout/QUI01259_Villegas-Velez-Felipe.jpg
@@ -9,16 +9,6 @@ height: 70vh
 toc: true
 composition:
 - type: pageMarkdown # This will render the markdown in this file
-- type: heroVideo
-  data: compose.video # yaml file
-- type: floatingText
-  data: compose.examples.text
-- type: features
-  data: compose.features
-- type: markdown
-  data: compose.markdownBlock
-- type: markdown
-  data: compose.markdownBlock
 ---
 
 <div class="video-container"><iframe src="https://www.youtube.com/watch?v=M8U6BbgDOUg" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
