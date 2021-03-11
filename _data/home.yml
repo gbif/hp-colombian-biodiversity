@@ -41,25 +41,6 @@ stats:
       description: Conjuntos de datos
       background: /assets/img/icons/cloud-computing.png
       
-     
-cardExample:
-  features:
-    - preTitle: Registros biológicos  # optional
-      title: 11.124.462 # required
-      href: 2021-02-03-jovenes_investigadores_2021
-    - preTitle: Listas de especies # optional
-      title: 253
-      href: /about
-    - preTitle: Fichas de especies  # optional
-      title: 4.919   # required
-      href: /about
-    - preTitle: Socios publicadores  # optional
-      title: 155   # required
-      href: /about
-    - preTitle: Citaciones  # optional
-      title: 53.919   # required
-      href: /about
-     
 productExample:
   align: right
   preTitle: Publicar  # optional
