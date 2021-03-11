@@ -31,4 +31,7 @@ terms:
       path: /examples/nester
     - title: "Validación con QGIS"
       path: /examples/nester
-
+  - title: "Conversión Fechas"
+    path: /examples/test
+  - title: "Rutinas Open Refine"
+    path: /examples/test
