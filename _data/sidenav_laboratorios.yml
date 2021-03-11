@@ -8,7 +8,7 @@ terms:
 - grouptitle: "Laboratorio de estructuración y calidad"
   content:
   - title: "Contexto del laboratorio"
-    path: /examples/test
+    path: /comunidad/formación/laboratorios/LabEstructuracionCalidad.md
   - title: "Estandarización en Darwin Core"
     path: /examples/test
   - title: "Estandarización extensiones Darwin Core"
