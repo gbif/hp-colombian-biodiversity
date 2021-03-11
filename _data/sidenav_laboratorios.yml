@@ -1,13 +1,13 @@
 terms:
 - grouptitle: Laboratorios de datos
   content:
-  - title: "Introducción"
+  - title: "Contextode la serie de laboratorios"
     path: /some/location
     
-#"Laboratorio de estructuración y calidad"
-- grouptitle: 
+
+- grouptitle: "Laboratorio de estructuración y calidad"
   content:
-  - title: "LABORATORIO DE ESTRUCTURACIÓN Y CALIDAD"
+  - title: "Contexto del laboratorio"
     path: /examples/test
   - title: "Estandarización en Darwin Core"
     path: /examples/test
@@ -18,7 +18,7 @@ terms:
     
 - grouptitle: "Laboratorio de validación y limpieza"
   content:
-  - title: "Introducción"
+  - title: "Contexto del laboratorio"
     path: /examples/test
   - sectiontitle: "Open Refine"
     section:
@@ -36,20 +36,20 @@ terms:
       path: /examples/nester
   - sectiontitle: "Geografía"
     section:
-    - title: "Conversión Coordenadas"
+    - title: "Conversión coordenadas"
       path: /examples/nester
-    - title: "Visualización Coordenadas"
+    - title: "Visualización coordenadas"
       path: /examples/nester
     - title: "Validación con QGIS"
       path: /examples/nester
-  - title: "Conversión Fechas"
+  - title: "Conversión fechas"
     path: /examples/test
     
 - grouptitle: "Laboratorio datos en contexto"
   content:
-  - title: "Introducción"
+  - title: "Contexto del laboratorio"
     path: /examples/test
-  - title: "Documentación de Metadatos"
+  - title: "Documentación de metadatos"
     path: /some/location
   - title: "Carga de datos"
     path: /some/location
