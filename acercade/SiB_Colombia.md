@@ -1,5 +1,5 @@
 ---
-layout: acercade
+layout: compose
 klass: acercade
 title: ¿Qué es el SiB Colombia?
 description: Conoce la red nacional de datos abierto
