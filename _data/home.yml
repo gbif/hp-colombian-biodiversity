@@ -33,13 +33,16 @@ stats:
       description: Fichas de especies
       background: /assets/img/icons/validity.png
       href: https://catalogo.biodiversidad.co/
-    - title: <span data-ajax-url="https://www.gbif.org/publisher/search?country=CO">1,000</span>
-      description: socios prueba
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=CO&limit=0">100,000</span>
+      description: Publicadores
       background: /assets/img/icons/music.png
       # Hard coded value     
-    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=CO">100,000</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=CO&limit=0">100,000</span>
       description: Conjuntos de datos
       background: /assets/img/icons/cloud-computing.png
+      
+      
+      https://api.gbif.org/v1/organization?country=CO&limit=0
       
 productExample:
   align: right
