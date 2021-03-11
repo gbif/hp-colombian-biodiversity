@@ -1,7 +1,7 @@
 gacetero:
   klass: iframe-box
   markdownContent: |
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/Gacetero_0/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" height = '790' width="1370" scrolling='yes' ></iframe> 
+    <iframe seamless frameborder="150" src="https://public.tableau.com/views/Gacetero_0/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" height = '790' width="1370" scrolling='yes' ></iframe> 
     
 formularioRegistro:
   klass: iframe-box
