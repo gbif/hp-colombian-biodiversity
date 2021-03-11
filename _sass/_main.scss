@@ -9,6 +9,7 @@ $navbar-item-img-max-height: 3rem;
     @extend .box;
     width: 80%;
     max-height: 80vh;
+    display:block;
     border: 1px solid #00000011;
   }
 }
