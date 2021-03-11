@@ -23,7 +23,6 @@ Al finalizar este laboratorio habrás aprendido a:
 
 ### Guías
 
-{% include list.liquid %}
 
 
 ### Glosario
