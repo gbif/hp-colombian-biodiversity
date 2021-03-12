@@ -20,12 +20,10 @@ composition:
   data: example.compose.overlay.text
 - type: heroImage
   data: example.compose.overlay.heroHeadlineB
-- type: markdown
-  data: example.compose.overlay.text
+- type: pageMarkdown
 ---
 
 
-## Formación virtual 2020
 Iniciaremos con los conceptos generales sobre la importancia de compartir datos sobre biodiversidad, pasando por los aspectos técnicos del modelo de publicación del SiB Colombia, para finalizar con ejercicios prácticos haciendo uso de diferentes herramientas que nos permitirán contar con datos estandarizados con la mayor calidad posible para su publicación, acceso y uso.
 
 
