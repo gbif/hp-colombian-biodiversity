@@ -32,7 +32,7 @@ stats:
       description: Fichas de especies
       background: /assets/img/icons/validity.png
       href: https://catalogo.biodiversidad.co/
-    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=CO&limit=0">100,000</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=CO&limit=0&isEndorsed=true">100,000</span>
       description: Publicadores
       background: /assets/img/icons/music.png
       href: https://www.gbif.org/publisher/search?country=CO
