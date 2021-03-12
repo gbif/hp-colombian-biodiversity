@@ -1,11 +1,9 @@
----
 layout: compose
 title: Ciclo de Formación Virtual 2020
 description: See [`pages/examples/background-overlay.md`](https://raw.githubusercontent.com/gbif/jekyll-theme-algae/master/pages/examples/background-overlay.md) for source
 background: /assets/images/fondos_layout/QUI01259_Villegas-Velez-Felipe.jpg
 imageLicense: Working from home illustration from [DrawKit](https://www.drawkit.io/product/working-from-home-illustrations) # OPTIONAL
-parallax: false # OPTION - default is false
-toc: false # OPTIONAL - default is false. Should the page have a Table of Contents
+toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
 height: 75vh
 parallax: true
 overlayColor: "#ffffffbb"
@@ -24,7 +22,6 @@ composition:
 ---
 
 
-
 Iniciaremos con los conceptos generales sobre la importancia de compartir datos sobre biodiversidad, pasando por los aspectos técnicos del modelo de publicación del SiB Colombia, para finalizar con ejercicios prácticos haciendo uso de diferentes herramientas que nos permitirán contar con datos estandarizados con la mayor calidad posible para su publicación, acceso y uso.
 
 
@@ -37,22 +34,29 @@ Este ciclo de formación contiene varios capítulos en línea con un énfasis en
 * Prácticas: 3
 
 
-# Objetivos
+## Objetivos
 
-## Conocer
-
+**Conocer**
 * Fundamentos básicos sobre la operación del SiB Colombia y sus oportunidades.
 * Fundamentos sobre calidad de datos sobre biodiversidad.
 * Tipos y subtipos de datos publicables a través del SiB Colombia.
 
-## Aplicar
+**Aplicar**
  
 * Protocolos para la validación y limpieza de datos sobre biodiversidad para su publicación a través del SiB Colombia.
 * Protocolos para la captura de datos con fines de publicación a través del SiB Colombia.
 
-## Usar
+**Usar**
 * Herramientas para la estructuración, validación y limpieza de datos.
 * Las herramientas de publicación de datos facilitadas por el SiB Colombia.
+
+## Requerimientos
+* Manejo intermedio en el uso de tablas en Excel.
+* Computador con al menos 4GB de RAM y micrófono.
+* Computador con acceso estable a internet.
+* Software: Java, OpenRefine 3.3
+* Registro en portales de datos: SiB Colombia, GBIF
+
 
 
 # Estructura
@@ -61,7 +65,8 @@ _Los participantes tendrán la oportunidad de tomar el ciclo de formación en do
 ## Seminarios
 Está dirigido a los participantes que solamente desean conocer o actualizar sus fundamentos sobre el modelo de publicación de datos del SiB Colombia, incluyendo conceptos claves sobre los tipos de datos publicables, su estandarización y validación para asegurar un nivel determinado en calidad.
 
-_Inician: jueves 20 de agosto de 2020 | Finalizan: jueves 8 de octubre de 2020_
+> Inician: jueves 20 de agosto de 2020, 7:30 am - 8:30 am
+Finalizan: jueves 8 de octubre de 2020, 7:30 am - 8:30 am
 
 
 <details>
@@ -91,14 +96,24 @@ _Inician: jueves 20 de agosto de 2020 | Finalizan: jueves 8 de octubre de 2020_
 </details>
 
 
-## Seminarios + Prácticas
+## Prácticas
 Este nivel está dirigido a los participantes que además de los seminarios, desean poner en práctica los conceptos y herramientas compartidas ya sea usando conjuntos de datos construidos por el Equipo Coordiandor para este propósito o con datos propios que esté planeando publicar en un futuro cercano.
 
 
 
-## Requerimientos
-* Manejo intermedio en el uso de tablas en Excel.
-* Computador con al menos 4GB de RAM y micrófono.
-* Computador con acceso estable a internet.
-* Software: Java, OpenRefine 3.3
-* Registro en portales de datos: SiB Colombia, GBIF
+
+## Certificación
+Los participantes que se registren y asistan al 100% de los contenidos del ciclo de formación, recibirán un certificado de participación. El Equipo Coordinador del SiB Colombia se encargará de llevar un registro de la asistencia a cada sesión y el desarrollo adecuado de los ejercicios propuestos.
+
+Recuerde que el ciclo tiene dos niveles de formación que se pueden certificar:
+
+Seminarios: 8 sesiones teóricas equivalentes a una intensidad horaria de 8 horas.
+
+Seminarios + Prácticas: 11 sesiones teórico-prácticas equivalentes a una intensidad horaria de 22 horas.
+
+¿Tienes dudas o inquietudes sobre nuestros ciclo de formación? escríbenos a: sib@humboldt.org.co
+
+
+# Agradecimientos
+
+Los contenidos de este ciclo de formación son posibles gracias a los aportes significativos de otras iniciativas que trabajan colaborativamente con el SiB Colombia en diferentes niveles.
