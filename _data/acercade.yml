@@ -33,7 +33,9 @@ gobernanza:
 # Feature cards
 planImplementacion:
   title: El plan de implementación
-  description: El plan de implementación contiene la descripción de los lineamientos a seguir para cumplir las metas propuestas por el comité
+  description:  |      
+    El plan de implementación contiene la descripción de los lineamientos a seguir para cumplir las metas propuestas por el comité. 
+    Dentro de los procesos de consolidación del SiB Colombia, el Equipo Coordinador ha trabajado en la identificación de cinco ejes de trabajo a partir de los lineamientos generados por los Comités Directivo y Técnico, así como las prioridades que han sido acordadas en iniciativas globales como GBIF, donde el SiB Colombia participa activamente como un nodo de país.
   background: /assets/theme/img/patterns/wavy-dots.png
   overlayColor: "#ffffff55"
   hasWhiteText: false
@@ -43,18 +45,16 @@ planImplementacion:
     isPrimary: true
   - text: Plan estratégico
     href: https://datastudio.google.com/u/0/reporting/c8f98154-44fb-4839-b03b-a2681d1d26d2/page/Ge2V
-  cta:                # optional
-  - text: 2018
-    href: http://example.com
-  - text: 2020
-    href: http://example.com
  
  
 # Feature cards
 ManualMarca:
   title: Visibilidad
   description: |      # required
-    Encuentra el manual de marca del SiB bla bla
+    Con el fin de fortalecer el trabajo que se desarrolla, particularmente a través de procesos de gestión y coordinación interinstitucional en el marco de esta iniciativa nacional, el SiB Colombia se consolida formalmente como una marca institucional coherente con su misión y visión, y que tiene como único fin cuidar y seguir fortaleciendo la imagen ante los diferentes públicos y escenarios en los que se haga presencia. Este Manual de Identidad es la guía para el correcto uso y aplicación de la imagen del SiB Colombia, teniendo en cuenta los diferentes escenarios en los que la presencia de la marca sea requerida. 
+    Lograr una unidad gráfica consistente, eficiente y versátil es el propósito de este documento orientador para las entidades y/o socios publicadores que deseen aplicar la marca. 
+    La denominación, las paletas de colores y las tipografías serán de utilización exclusiva para todos los documentos y/o aplicaciones que se requieran, no estando permitida su utilización en versiones y formatos distintos a los que se especifican en los apartados correspondientes de este Manual. 
+    Las normas contenidas en este documento se deben respetar y mantener constantes con el fin de facilitar la unidad visual y el reconocimiento de la marca.
   background: /assets/theme/img/patterns/wavy-dots.png
   overlayColor: "#ffffff55"
   hasWhiteText: false
