@@ -9,7 +9,8 @@ $navbar-item-img-max-height: 3rem;
     @extend .box;
     width: 80%;
     max-height: 80vh;
-    text-align: center;
+    margin-left: auto;   /* Automatic margin from left */ 
+    margin-right: auto; /* Automatic margin from right */ 
     border: 1px solid #00000011;
   }
 }
