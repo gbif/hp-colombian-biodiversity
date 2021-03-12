@@ -11,13 +11,13 @@ formularioRegistro:
 overlay:
   heroHeadlineA:
     title: Vision
-    background: /assets/img/cactus.webp
+    background: /assets/images/fondos_layout/flor_paramo_cp.jpg
     height: 0
     parallax: true
     overlayColor: "#4787fbb5"
   heroHeadlineB:
     title: Mission
-    background: /assets/img/flowers.webp
+    background: /assets/images/fondos_layout/venado1_cp.jpg
     height: 0
     parallax: true
     overlayColor: "#4787fbb5"
