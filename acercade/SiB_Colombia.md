@@ -10,13 +10,13 @@ height: 70vh
 toc: true
 composition:
   - type: heroImage # the block type
-  - data: acercade.split1
+  - data: acercade.videoSib
     type: split
-  - data: acercade.cardExample # the _data to use
+  - data: acercade.gobernanza
     type: features # the block type
-  - data: acercade.bannerExample2
+  - data: acercade.planImplementacion
     type: floatingText
-  - data: acercade.bannerExample3
+  - data: acercade.ManualMarca
     type: floatingText
 ---
 
@@ -81,37 +81,11 @@ El SiB Colombia es liderado por un Comité Directivo (**CD-SiB**), el cual se de
   </tr>
 </table>
 
-## Comité Técnico
-
-Entidad  | Contacto
------------- | ------------- 
-Instituto de Hidrología, Meteorología y Estudios Ambientales IDEAM | Liz Johanna Diaz
-Instituto de Investigaciones Ambientales del Pacífico | Zulmary Valoyes
-Instituto de Investigaciones Marinas y Costeras "José Benito Vives de Andreis| Erika Montoya
-Instituto Amazónico de Investigaciones Científicas Sinchi| Sonia Sua
-Instituto de Investigación de Recursos Biológicos Alexander von Humboldt | Daniel López
-Parques Nacionales Naturales de Colombia | Margarita Rozo
-Universidad Nacional de Colombia | Johanna Castiblanco
-Universidad Nacional de Colombia | Gonzalo Andrade
-
-
 ## Grupos de trabajo / interés
 
 los grupos de trabajo e interés son:
 
 ## Equipo Coordinador 
-
-Nombre  | Posición
------------- | -------------
-Dairo Escobar | Coordinación
-Jeimmy Díaz | Gestión y Cooperación
-Camila Plata | Administración de Contenidos
-Vanessa Porras | Productos y Servicios
-Ricardo Ortiz | Administración de Contenidos
-Esteban Marentes | Administración de Contenidos
-Lorena Zamora | Pasante Administración de Contenidos
-Miguel Angel Hernández | Pasante Administración de Contenidos
-Laura Sánchez | Pasante Administración de Contenidos
 
 ___
 
