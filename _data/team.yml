@@ -1,0 +1,23 @@
+- name: Ministerio de Ambiente y Desarrollo Sostenible
+  image: /assets/images/logosEntidades/MADS.png
+  role: Miembro del comité
+  description: El ministerio de ambiente...
+  orcid: 0000-0000-0000-0000
+  email: servicioalciudadano@minambiente.gov.co
+  twitter: https://twitter.com/MinAmbienteCo
+  website: https://www.minambiente.gov.co/
+- name: Instituto de Hidrología, Meteorología y Estudios Ambientales IDEAM
+  image: /assets/images/logosEntidades/IDEAM.jpg
+- name: Instituto de Investigaciones Ambientales del Pacífico
+  image: /assets/images/logosEntidades/IIAP.jpg
+- name: Universidad Nacional de Colombia
+  image: /assets/images/logosEntidades/UN.jpg
+- name: Parques Nacionales Naturales de Colombia
+  image: /assets/images/logosEntidades/PNN.jpg
+- name: Instituto de Investigaciones Marinas y Costeras "José Benito Vives de Andreis"
+  image: /assets/images/logosEntidades/Invemar.jpg
+- name: Instituto Amazónico de Investigaciones Científicas Sinchi
+  image: /assets/images/logosEntidades/SINCHI.jpg
+- name: Instituto de Investigación de Recursos Biológicos Alexander von Humboldt
+  image: /assets/images/logosEntidades/InstitutoHumboldt.jpg
+
