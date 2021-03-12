@@ -1,20 +1,20 @@
 terms:
 - grouptitle: Laboratorios de datos
   content:
-  - title: "Contextode la serie de laboratorios"
+  - title: "Contexto de la serie de laboratorios"
     path: /some/location
     
 
 - grouptitle: "Laboratorio de estructuración y calidad"
   content:
   - title: "Contexto del laboratorio"
-    path: /comunidad/formación/laboratorios/LabEstructuracionCalidad.md
+    path: /comunidad/formación/laboratorios/LabEstructuracionCalidad
   - title: "Estandarización en Darwin Core"
-    path: /examples/test
+    path: /formacion/laboratorios/DWC
   - title: "Estandarización extensiones Darwin Core"
-    path: /examples/something
+    path: /formacion/laboratorios/DWCextensiones
   - title: "Validador de datos - GBIF"
-    path: /examples/something
+    path: /formacion/laboratorios/DataValidator
     
 - grouptitle: "Laboratorio de validación y limpieza"
   content:
@@ -23,13 +23,13 @@ terms:
   - sectiontitle: "Open Refine"
     section:
     - title: "Uso básico"
-      path: /examples/test
+      path: /formacion/laboratorios/OpenRefine
     - title: "Rutinas de validación"
-      path: /examples/test
+      path: /formacion/laboratorios/RutinasOpenRefine
   - sectiontitle: "Taxonomía"
     section:
     - title: "Species Matching"
-      path: /examples/nester
+      path: /formacion/laboratorios/SpeciesMatching
     - title: "Worms"
       path: /examples/nester
     - title: "TNRS - Plantas"
