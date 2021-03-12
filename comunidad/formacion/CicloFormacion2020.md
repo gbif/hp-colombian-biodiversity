@@ -1,3 +1,4 @@
+---
 layout: compose
 title: Ciclo de Formación Virtual 2020
 description: See [`pages/examples/background-overlay.md`](https://raw.githubusercontent.com/gbif/jekyll-theme-algae/master/pages/examples/background-overlay.md) for source
