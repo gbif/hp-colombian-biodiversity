@@ -1,6 +1,6 @@
 ---
 layout: documentation
-permalink: /formacion/laboratorios 
+permalink: /formacion/laboratorios/DWC 
 title: "Estandarización de datos en Darwin Core"
 description: "Objetivo: Estructurar un conjunto de datos bajo el estándar Darwin Core (DwC)."
 sideNavigation: sidenav_laboratorios.terms
