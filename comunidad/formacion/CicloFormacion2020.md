@@ -61,8 +61,7 @@ _Los participantes tendrán la oportunidad de tomar el ciclo de formación en do
 ## Seminarios
 Está dirigido a los participantes que solamente desean conocer o actualizar sus fundamentos sobre el modelo de publicación de datos del SiB Colombia, incluyendo conceptos claves sobre los tipos de datos publicables, su estandarización y validación para asegurar un nivel determinado en calidad.
 
-> Inician: jueves 20 de agosto de 2020, 7:30 am - 8:30 am
-Finalizan: jueves 8 de octubre de 2020, 7:30 am - 8:30 am
+_Inician: jueves 20 de agosto de 2020 | Finalizan: jueves 8 de octubre de 2020_
 
 
 <details>
