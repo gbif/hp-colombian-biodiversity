@@ -13,3 +13,9 @@ $navbar-item-img-max-height: 3rem;
     border: 1px solid #00000011;
   }
 }
+
+// for usage on /comunidad/ActividadPublicacion
+.actividad table img {
+  width: 40px;
+  min-width: 40px;
+}
