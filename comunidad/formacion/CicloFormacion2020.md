@@ -1,4 +1,3 @@
-
 ---
 layout: compose
 title: Ciclo de Formación Virtual 2020
@@ -24,7 +23,6 @@ composition:
 - type: markdown
   data: example.compose.overlay.text
 ---
-
 
 
 ## Formación virtual 2020
