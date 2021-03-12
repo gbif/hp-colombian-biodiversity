@@ -31,15 +31,15 @@ terms:
     - title: "Species Matching"
       path: /formacion/laboratorios/SpeciesMatching
     - title: "Worms"
-      path: /examples/nester
+      path: /formacion/laboratorios/Worms
     - title: "TNRS - Plantas"
-      path: /examples/nester
+      path: /formacion/laboratorios/TNRS
   - sectiontitle: "Geografía"
     section:
     - title: "Conversión coordenadas"
-      path: /examples/nester
+      path: /formacion/laboratorios/ConversionCoordenadas
     - title: "Visualización coordenadas"
-      path: /examples/nester
+      path: /formacion/laboratorios/VisualizacionOBIS_Plotter
     - title: "Validación con QGIS"
       path: /examples/nester
   - title: "Conversión fechas"
