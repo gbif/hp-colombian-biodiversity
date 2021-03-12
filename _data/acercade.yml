@@ -1,42 +1,40 @@
-split1:
+videoSib:
   reverse: false
   title: ¿Qué es el SiB Colombia?
-  description: |      # required
-    Algo super importante para el mundo
-  # img required
-  background: https://www.youtube.com/watch?v=M8U6BbgDOUg
+  description: El SiB Colombia es la red nacional de datos abiertos sobre biodiversidad
+  background: /acercade/imagenes/queseslesib.jpg
+  href: https://www.youtube.com/watch?v=M8U6BbgDOUg
 
-cardExample:
+gobernanza:
   title: Gobernanza
   description: |
-    la gobernanza del SiB
+    La gobernanza del SiB
   features:
     - preTitle:  # optional
       title: Comité directivo # required
       description: |      # required
-       el comite direci o
+       El comite directivo esta conformado por las entidades que componen el sistema
       # img required
       background: /assets/images/logosEntidades/IDEAM.jpg
-      href: /ComiteDirectivo
+      href: /acercade/Gobernanza/ComiteDirectivo
     - preTitle: # optional
       title: Comité técnico
-      href: /ComiteTecnico
+      href: /acercade/Gobernanza/ComiteTecnico
       description: |      # required
-        el comite tecnico
+        El comite técnico esta conformado por los delegados del directivo
       background: /assets/images/logosEntidades/IIAP.jpg
     - preTitle:   # optional
       title: Equipo Coordinador    # required
-      href: /EquipoCoordinador
+      href: /acercade/Gobernanza/EquipoCoordinador
       description: |      # required
-       El equipo coordinador
-      background: https://sibcolombia.net/wp-content/uploads/2016/08/E-SIB-v2-029.jpg
+       Miembros actuales del equipo coordinador
+      background: https://sibcolombia.net/wp-content/uploads/2020/07/E-SIB-v2-030.jpg
  
 # Feature cards
-bannerExample2:
+planImplementacion:
   title: El plan de implementación
-  description: |      # required
-   el plan de trabajo es re importante
-  background: /assets/images/logos/72logoSiBhorizontalC.png
+  description: El plan de implementación contiene la descripción de los lineamientos a seguir para cumplir las metas propuestas por el comité
+  background: /assets/images/logos/BannerwebAlianzaAZUL_Mesa-de-trabajo-1.png
   overlayColor: "#ffffff55"
   hasWhiteText: false
   cta:                # optional
@@ -53,11 +51,11 @@ bannerExample2:
  
  
 # Feature cards
-bannerExample3:
+ManualMarca:
   title: Visibilidad
   description: |      # required
     Encuentra el manual de marca del SiB bla bla
-  background: /assets/images/logos/72logoSiBhorizontalC.png
+  background: /assets/images/logos/BannerwebAlianzaAZUL_Mesa-de-trabajo-1.png
   overlayColor: "#ffffff55"
   hasWhiteText: false
   cta:                # optional
