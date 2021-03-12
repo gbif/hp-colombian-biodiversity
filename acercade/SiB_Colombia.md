@@ -7,7 +7,6 @@ background: /assets/images/fondos_layout/QUI01259_Villegas-Velez-Felipe.jpg
 imageLicense: |
    Fotografía de: Esteban Marentes - SiB Colombia [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
 height: 70vh
-toc: true
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
@@ -27,8 +26,15 @@ composition:
 El SiB Colombia es una realidad gracias a la participación de cientos de organizaciones y personas que comparten datos e información bajo los principios de libre acceso, transparencia, cooperación, reconocimiento y responsabilidad compartida.
 ## ¿Para qué?
 Más y mejor información disponible, conectada y consolidada, que se transforma en conocimiento para conservar, aprovechar y conectarse con la biodiversidad.
-### Misión
-Facilitar la gestión de datos e información sobre biodiversidad acercando usuarios, publicadores y productores de la información para apoyar procesos de investigación, educación o toma de decisiones relacionadas con el conocimiento, la conservación y el uso sostenible de la biodiversidad y los servicios ecosistémicos.
-### Visión 
-El SiB Colombia espera consolidarse como una plataforma colaborativa que facilita la construcción, uso y democratización del conocimiento sobre la diversidad biológica de Colombia. De esta forma la iniciativa contribuye a la visión de una sociedad que conoce y valora la biodiversidad en la cual está inmersa, y que usa dicho conocimiento para desarrollarse.
 
+
+<div class="columns">
+  <div class="column">
+    <b>Misión</b> 
+     Facilitar la gestión de datos e información sobre biodiversidad acercando usuarios, publicadores y productores de la información para apoyar procesos de investigación, educación o toma de decisiones relacionadas con el conocimiento, la conservación y el uso sostenible de la biodiversidad y los servicios ecosistémicos.
+  </div>
+  <div class="column">
+    <b>Visión</b>
+     El SiB Colombia espera consolidarse como una plataforma colaborativa que facilita la construcción, uso y democratización del conocimiento sobre la diversidad biológica de Colombia. De esta forma la iniciativa contribuye a la visión de una sociedad que conoce y valora la biodiversidad en la cual está inmersa, y que usa dicho conocimiento para desarrollarse.
+  </div>
+</div>
