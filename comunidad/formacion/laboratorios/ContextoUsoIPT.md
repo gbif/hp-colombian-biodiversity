@@ -2,7 +2,7 @@
 layout: documentation
 permalink: /formacion/laboratorios/ContextoUsoIPT
 title: "Laboratorio datos en contexto"
-description: "Realizar la transformación y estandarización de fechas en distintos formatos, al formato ISO 8601 (AAAA-MM-DD), de manera automática y masiva."
+description: "Objetivo: aprender a utilizar la herramienta de publicación IPT."
 sideNavigation: sidenav_laboratorios.terms
 toc: true
 ---
