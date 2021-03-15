@@ -8,7 +8,7 @@ terms:
 - grouptitle: "Laboratorio de estructuración y calidad"
   content:
   - title: "Contexto del laboratorio"
-    path: /formacion/laboratorios/ContextoEstructuracionCalidad
+    path: /formacion/laboratorios/LabEstructuracionCalidad
   - title: "Estandarización en Darwin Core"
     path: /formacion/laboratorios/DWC
   - title: "Estandarización extensiones Darwin Core"
