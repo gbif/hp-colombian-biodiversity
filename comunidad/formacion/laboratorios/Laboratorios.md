@@ -1,15 +1,15 @@
 ---
 layout: documentation
-permalink: /formacion/laboratorios 
+permalink: /formacion/laboratorios
 title: "Ciclo de formación virtual"
-description: "Este repositorio contiene la página de los laboratorios para el ciclo de formación virtual del SiB Colombia para  la gestión y publicación de datos sobre biodiversidad."
+description: "Laboratorios de datos del ciclo de formación virtual del SiB Colombia para la gestión y publicación de datos sobre biodiversidad."
 sideNavigation: sidenav_laboratorios.terms
 toc: true
 ---
 
 ## Ciclo de formación virtual
 
-Tradicionalmente el Equipo Coordinador del SiB Colombia  facilita talleres presenciales para la **publicación y gestión de los datos sobre biodiversdidad**, la gran demanda de estos talleres y el alto interés de la **comunidad** nos ha motivado a generar un ciclo de formación virtual para llegar a una mayor cantidad de personas y regiones del país.  
+Tradicionalmente el Equipo Coordinador del SiB Colombia facilita talleres presenciales para la **publicación y gestión de los datos sobre biodiversdidad**, la gran demanda de estos talleres, el alto interés de la **comunidad**, y la diversidad de temas a tratar, nos ha motivado a generar un ciclo de formación virtual para llegar a una mayor cantidad de personas y regiones del país.  
 
 **Objetivos específicos**
 
