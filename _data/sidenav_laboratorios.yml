@@ -1,14 +1,14 @@
 terms:
 - grouptitle: Laboratorios de datos
   content:
-  - title: "Contexto de la serie de laboratorios"
-    path: /some/location
+  - title: "Contexto serie de laboratorios"
+    path: /formacion/laboratorios
     
 
 - grouptitle: "Laboratorio de estructuración y calidad"
   content:
   - title: "Contexto del laboratorio"
-    path: /comunidad/formación/laboratorios/LabEstructuracionCalidad
+    path: /formacion/laboratorios/ContextoEstructuracionCalidad
   - title: "Estandarización en Darwin Core"
     path: /formacion/laboratorios/DWC
   - title: "Estandarización extensiones Darwin Core"
@@ -19,7 +19,7 @@ terms:
 - grouptitle: "Laboratorio de validación y limpieza"
   content:
   - title: "Contexto del laboratorio"
-    path: /examples/test
+    path: /formacion/laboratorios/ContextoValidacionLimpieza
   - sectiontitle: "Open Refine"
     section:
     - title: "Uso básico"
@@ -41,15 +41,17 @@ terms:
     - title: "Visualización coordenadas"
       path: /formacion/laboratorios/VisualizacionOBIS_Plotter
     - title: "Validación con QGIS"
-      path: /examples/nester
+      path: /formacion/laboratorios/QGIS
   - title: "Conversión fechas"
-    path: /examples/test
+    path: /formacion/laboratorios/ConversionFechas
     
-- grouptitle: "Laboratorio datos en contexto"
+- grouptitle: "Laboratorio uso IPT"
   content:
   - title: "Contexto del laboratorio"
-    path: /examples/test
+    path: /formacion/laboratorios/ContextoUsoIPT
   - title: "Documentación de metadatos"
-    path: /some/location
-  - title: "Carga de datos"
-    path: /some/location
+    path: /formacion/laboratorios/IPT_Metadatos
+  - title: "Carga de los datos"
+    path: /formacion/laboratorios/IPT_CargaDatos
+  - title: "Mapeo de los datos"
+    path: /formacion/laboratorios/IPT_MapeoDatos
