@@ -33,7 +33,54 @@ Se espera que en los meses posteriores al taller los datos sobre biodiversidad r
 
 ## Instructores
 
-![My helpful screenshot](/assets/images/noticias_eventos/biodiversidad_en_cifras_2019/Captura-de-pantalla-2019-05-10-a-las-4.21.26-PM.png)
+ - Leonardo Buitrago
+   Líder – Administración de contenidos – SiB Colombia
+ - Camila Plata
+   Administración de contenidos – SiB Colombia
+   
+## Asistentes
+
+ - Andres Felipe Ordoñez Casadiego
+ - Angie Lizeth Sanchez Alvarez
+ - Carlos Javier Díaz Acevedo
+ - Carlos Mario Beltran Castaño
+ - Daniel Felipe Rodriguez Rueda
+ - Diana Marcela Sanchez Lobo
+ - Ramiro Andrés Cubides
+ - Jhon Alexander Mantilla Carreño
+ - Vladimir Andres Beltran Tirado
+ - Elson Meneses Pelayo
+ - Lineth Velasquez Quintero
+ - Lissette Karina Liñan Duran
+ - Jhon Alexander Suescun Sepulveda
+ - Jessica Sarmiento
+ - Juan Camilo Manrique Pinto
+ - Angie Nurien Duarte Moreno
+ - Adriana Gómez Reyes
+ - María Fernanda Contreras Guerrero
+ - Daniel Eduardo Badillo Mojica
+ - Mauricio Jerez Guerrero
+ - Sonia Adame
+ - Daniela Pachón Prada
+ - Jerson Jair Gomez
+ 
+## Enlaces de interés:
+
+[Agenda y Asistentes](https://drive.google.com/drive/folders/180hI-X-cYXC-7CGZyvX2ehouiCUjN_vY)
+[Fotografías](https://drive.google.com/drive/folders/1ISb8tgud6h4IWkafg_KlwxaBCY3Pnj--)
+[Presentaciones](https://drive.google.com/drive/folders/1D6WBxuX70knQGxHxKtdUVBRlC5Wa7GUW)
+[Taller práctico](https://drive.google.com/drive/folders/1icKScrp3kb7LM3JqnFBtXo_UxUAR1UFy)
+[Encuesta final](https://drive.google.com/file/d/1fJaLZFmwxZaA1ILI-pXN3QzlmiPr5o1O/view)
+
+
+![My helpful screenshot](/assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/universidad_industrial_de_santander/Taller_UIS_SiB-11-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/universidad_industrial_de_santander/Taller_UIS_SiB-3-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/universidad_industrial_de_santander/Taller_UIS_SiB-4-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/universidad_industrial_de_santander/Taller_UIS_SiB-5-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/universidad_industrial_de_santander/Taller_UIS_SiB-6-751x1024.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/universidad_industrial_de_santander/Taller_UIS_SiB-7-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/universidad_industrial_de_santander/Taller_UIS_SiB-8-1024x768.jpg)
 
 
 
