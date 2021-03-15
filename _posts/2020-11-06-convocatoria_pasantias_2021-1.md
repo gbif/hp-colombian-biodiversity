@@ -2,7 +2,6 @@
 title:  "Convocatorias"
 date:   2020-11-06
 categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
-lang-ref: for authors
 background: /assets/images/noticias_eventos/Convocatoria-Pasantias-2021-1-22-min-1000x1000.jpg
 ---
 
