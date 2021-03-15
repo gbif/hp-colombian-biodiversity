@@ -233,6 +233,7 @@ Recuerda que puedes aplicar la guía práctica sobre tu propio conjunto de datos
 </details>
 
 ---
+
 <details>
   <summary markdown="span">1.1. Q&amp;A Estructuración y calidad de datos sobre biodiversidad</summary>
 <br>
@@ -242,9 +243,9 @@ Recuerda que puedes aplicar la guía práctica sobre tu propio conjunto de datos
 <p>Esta es una oportunidad para responder en línea las preguntas que hayan surgido en el desarrollo del ejercicio práctico, aquí esperamos tener una conversación más amplia sobre los temas tratados y que todos los interesados puedan intervenir.
 <br>
 <br>
-<b>Presenta:</b> Camila Plata & Ricardo Ortiz
-    
+<b>Presenta:</b> Camila Plata & Ricardo Ortiz 
 </details>
+
 
 ---
 
