@@ -42,14 +42,14 @@ tarjetasFormacion:
       href: /acercade/Gobernanza/ComiteTecnico
       description: |      # required
         El SiB Colombia cuenta con un programa de pasantías que busca formar a los futuros profesionales en..
-      background: /assets/images/logos/72logoSiBhorizontalB.png
+      background: /assets/images/noticias_eventos/universidad_industrial_de_santander/Taller_UIS_SiB-5-1024x768.jpg
       cta:
       - text: Programa
         href: /data
         isPrimary: true
-      - text: Oportunidades abiertas
+      - text: Oportunidades 2021
         href: /data
-        isPrimary: true
+        
       
       
     - preTitle: "Histórico"  # optional
@@ -57,6 +57,6 @@ tarjetasFormacion:
       href: /acercade/Gobernanza/EquipoCoordinador
       description: |      # required
        Accede al histórico de lo ciclos de formación y talleres facilitados por el Equipo Coordinador del SiB Colombia.
-      background: /assets/images/logos/72logoSiBfullC.png
+      background: /assets/images/noticias_eventos/universidad_industrial_de_santander/Taller_UIS_SiB-5-1024x768.jpg
  
 
