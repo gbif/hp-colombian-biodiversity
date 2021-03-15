@@ -1,5 +1,6 @@
 ---
 layout: heroImage
+klass: actividad
 title: Herramienta integrada de publicación - IPT
 background: /assets/images/fondos_layout/PAU01047_Villegas-Velez-Felipe.jpg
 imageLicense: |
