@@ -10,8 +10,6 @@ height: 70vh
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
-  - type: blank
-    data: custom.videosib
   - data: acercade.gobernanza
     type: features # the block type
   - data: acercade.planImplementacion
@@ -30,11 +28,11 @@ Más y mejor información disponible, conectada y consolidada, que se transforma
 
 <div class="columns">
   <div class="column">
-    <b>Misión</b> 
+     <h1><b><span style="color:blue">Misióntext</span></b></h1>
      Facilitar la gestión de datos e información sobre biodiversidad acercando usuarios, publicadores y productores de la información para apoyar procesos de investigación, educación o toma de decisiones relacionadas con el conocimiento, la conservación y el uso sostenible de la biodiversidad y los servicios ecosistémicos.
   </div>
   <div class="column">
-    <b>Visión</b>
+    <h1><b><span style="color:blue">Visión</span></b></h1>
      El SiB Colombia espera consolidarse como una plataforma colaborativa que facilita la construcción, uso y democratización del conocimiento sobre la diversidad biológica de Colombia. De esta forma la iniciativa contribuye a la visión de una sociedad que conoce y valora la biodiversidad en la cual está inmersa, y que usa dicho conocimiento para desarrollarse.
   </div>
 </div>
