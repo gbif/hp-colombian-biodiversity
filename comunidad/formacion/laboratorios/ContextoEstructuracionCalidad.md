@@ -7,7 +7,6 @@ sideNavigation: sidenav_laboratorios.terms
 toc: true
 ---
 
-
 # Laboratorio de estructuración y calidad
 
 ### Metas de aprendizaje
