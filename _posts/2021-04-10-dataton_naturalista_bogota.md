@@ -23,3 +23,16 @@ Finalmente, esta actividad evidenció que cada vez es más la ciudadanía que se
 
 ## Imágenes del evento
 
+![My helpful screenshot](/assets/images/noticias_eventos/memorias_dadaton/IMG_8725-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/memorias_dadaton/IMG_8729-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/memorias_dadaton/IMG_8732-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/memorias_dadaton/IMG_8734-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/memorias_dadaton/IMG_8736-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/memorias_dadaton/IMG_8737-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/memorias_dadaton/IMG_8739-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/memorias_dadaton/IMG_8740-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/memorias_dadaton/IMG_8741-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/memorias_dadaton/IMG_8744-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/memorias_dadaton/IMG_8748-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/memorias_dadaton/IVBM4556-1-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/memorias_dadaton/IVBM4556-1024x768.jpg)
