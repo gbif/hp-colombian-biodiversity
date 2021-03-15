@@ -15,6 +15,7 @@ Si desea conocer más sobre el IPT consulte el [manual de usuario](https://githu
 
 Los IPT alojados por el SiB Colombia son:
 
+<div class="overflow-auto" style="white-space: nowrap;" markdown="block">
 
 Nombre  | Enlace  | Descripción
 ------------ | ------------- | -------------
@@ -26,3 +27,17 @@ SINCHI | [https://ipt.biodiversidad.co/sinchi/](https://ipt.biodiversidad.co/sin
 Parques Nacionales | [https://ipt.biodiversidad.co/parquesnacionales/](https://ipt.biodiversidad.co/parquesnacionales/){:target="_blank"} | IPT administrado por Parques Nacionales, miembro del comité técnico y directivo del SiB Colombia.
 Permisos de Recolección | [https://ipt.biodiversidad.co/cr-sib/](https://ipt.biodiversidad.co/cr-sib/){:target="_blank"} | IPT para datos asociados a la [ruta B de publicación](/compartir/GuiaPublicacion#ruta-b-publicación-de-datos-por-permiso-de-recolección){:target="_blank"}.
 
+</div>
+
+# Prueba de tabla número 2
+
+<table>
+  <tr><td>Nombre</td><td>Enlace</td><td>Descripción</td></tr>
+  <tr><td>Albert</td><td>Schweitzer</td><td>X</td></tr>
+  <tr><td>Jane</td><td>Fonda</td><td>X</td></tr>
+  <tr><td>William</td><td>Shakespeare</td><td>X</td></tr>
+  <tr><td>Ed</td><td>Wood</td><td>X</td></tr>
+  <tr><td>Albert</td><td>Schweitzer</td><td>X</td></tr>
+  <tr><td>Jane</td><td>Fonda</td><td>X</td></tr>
+  <tr><td>William</td><td>Shakespeare</td><td>X</td></tr>
+</table>
