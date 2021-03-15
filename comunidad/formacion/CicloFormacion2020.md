@@ -234,7 +234,7 @@ Recuerda que puedes aplicar la guía práctica sobre tu propio conjunto de datos
 
 ---
 <details>
-  <summary markdown="span">1.1. QA Estructuración y calidad de datos sobre biodiversidad</summary>
+  <summary markdown="span">1.1. Q&amp;A Estructuración y calidad de datos sobre biodiversidad</summary>
 <br>
 <i>29 de septiembre de 2020 | Hora: 5:00 pm – 6:00 pm </i>
 <br>
@@ -270,7 +270,7 @@ Recuerda que puedes aplicar la guía práctica sobre tu propio conjunto de datos
 ---
 
 <details>
-  <summary markdown="span">3.1. QA Datos en contexto: ¿Qué son los metadatos, para qué sirven y cómo documentarlos?</summary>
+  <summary markdown="span">3.1. Q& Datos en contexto: ¿Qué son los metadatos, para qué sirven y cómo documentarlos?</summary>
 <br>
 <i>13 de octubre de 2020 | Hora: 5:00 pm – 6:00 pm </i>
 <br>
