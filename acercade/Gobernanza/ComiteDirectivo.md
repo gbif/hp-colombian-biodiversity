@@ -7,13 +7,15 @@ description: El Comité directivo es la instancia máxima de gobernandza del SiB
 
 El SiB Colombia es liderado por un Comité directivo (**CD-SiB**), el cual se desempaña como la instancia de gobernanza del sistema y está conformado por el **Ministerio de Ambiente y Desarrollo Sostenible**, los 5 institutos de investigación del SINA (**IAVH, Invemar, Sinchi, IIAP** e **IDEAM**) la **Universidad Nacional de Colombia** y **Parques Nacionales Naturales de Colombia**. El CD-SiB se apoya a su vez, en un Comité Técnico (**CT-SIB**), grupos de trabajo Ad Hoc para temas específicos y el equipo coordinador del SiB Colombia (**EC-SiB**).
 
+ <th class="from">From</th>
+
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <th><img src="/assets/images/logosEntidades/MADS.png" alt="Avatar" class="profile-pic" style="width:200px"></th>
-    <th><img src="/assets/images/logosEntidades/InstitutoHumboldt.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th>
-    <th><img src="/assets/images/logosEntidades/SINCHI.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th>
-     <th><img src="/assets/images/logosEntidades/Invemar.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th> 
+    <th class="orga1"><img src="/assets/images/logosEntidades/MADS.png" alt="Avatar" class="profile-pic" style="width:200px"></th>
+    <th class="orga2"><img src="/assets/images/logosEntidades/InstitutoHumboldt.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th>
+    <th class="orga3"><img src="/assets/images/logosEntidades/SINCHI.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th>
+    <th class="orga4"><img src="/assets/images/logosEntidades/Invemar.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th> 
   </tr>
   <tr>
     <td><a href="https://www.minambiente.gov.co/">Ministerio de Ambiente y Desarrollo Sostenible</a></td>
@@ -26,10 +28,10 @@ El SiB Colombia es liderado por un Comité directivo (**CD-SiB**), el cual se de
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <th><img src="/assets/images/logosEntidades/IDEAM.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th>
-    <th><img src="/assets/images/logosEntidades/IIAP.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th>
-    <th><img src="/assets/images/logosEntidades/UN.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th>
-     <th><img src="/assets/images/logosEntidades/PNN.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th> 
+    <th class="orga1"><img src="/assets/images/logosEntidades/IDEAM.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th>
+    <th class="orga2"><img src="/assets/images/logosEntidades/IIAP.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th>
+    <th class="orga3"><img src="/assets/images/logosEntidades/UN.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th>
+    <th class="orga4"><img src="/assets/images/logosEntidades/PNN.jpg" alt="Avatar" class="profile-pic" style="width:200px"></th> 
   </tr>
   <tr>
     <td><a href="http://www.ideam.gov.co/">Instituto de Hidrología, Meteorología y Estudios Ambientales IDEAM
