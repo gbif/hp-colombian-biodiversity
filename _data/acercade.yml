@@ -8,20 +8,20 @@ gobernanza:
       description: |      # required
        El comite directivo esta conformado por las entidades que componen el sistema
       # img required
-      background: /assets/images/logos/72logoSiBverticalB.png
+      background: /assets/images/logos/72logoSiBhorizontalB.png
       href: /acercade/Gobernanza/ComiteDirectivo
     - preTitle: # optional
       title: Comité técnico
       href: /acercade/Gobernanza/ComiteTecnico
       description: |      # required
         El comite técnico esta conformado por los delegados del directivo
-      background: /assets/images/logos/72logoSiBverticalB.png
+      background: /assets/images/logos/72logoSiBhorizontalB.png
     - preTitle:   # optional
       title: Equipo Coordinador    # required
       href: /acercade/Gobernanza/EquipoCoordinador
       description: |      # required
        Miembros actuales del equipo coordinador
-      background: /assets/images/logos/72logoSiBverticalB.png
+      background: /assets/images/logos/72logoSiBhorizontalB.png
  
 # Feature cards
 planImplementacion:
