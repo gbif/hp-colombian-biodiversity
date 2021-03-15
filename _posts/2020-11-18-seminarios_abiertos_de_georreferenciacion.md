@@ -2,7 +2,6 @@
 title:  "Seminarios abiertos de Georreferenciación!"
 date:   2020-11-18 21:37:12 +0200
 categories: jekyll update
-lang-ref: welcome to jekyll
 background: /assets/images/noticias_eventos/GEO-1000x1000.jpg
 ---
 Invitamos a toda nuestra comunidad a los seminarios en línea sobre Georreferenciación que se estarán realizando la semana próxima, en el marco del proyecto CESP “Tackling the spatial challenge in the Southern Cone through georeferencing training” una iniciativa liderada por GBIF, Argentina, Chile y VertNET.
