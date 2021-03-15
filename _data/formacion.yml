@@ -9,7 +9,7 @@ cfv2021:
     así como continuar facilitando herramientas para que nuestros publicadores puedan mejorar sus capacidades para organizar y preparar datos sobre biodiversidad para su publicación 
     a través del SiB Colombia.
     El ciclo 2021 se compone de 19 webinars y 7 laboratorios que se pueden tomar de manera independiente.
-  background: /assets/theme/img/patterns/wavy-dots.png
+  background: /assets/images/logos/72logoSiBfullC.png
   overlayColor: "#daf1fc"
   hasWhiteText: false
   cta:
@@ -29,7 +29,7 @@ tarjetasFormacion:
       description: |      # required
        Los laboratorios de datos te ayudarán a afianzar tus habilidades en el manejo y publicación de datos. Puedes acceder a ellos durante todo el año.
       # img required
-      background: /assets/images/noticias_eventos/universidad_industrial_de_santander/Taller_UIS_SiB-11-1024x768.jpg
+      background: /assets/images/logos/72logoSiBfullC.png
       href: /acercade/Gobernanza/ComiteDirectivo
       cta:
       - text: Aprender
@@ -42,7 +42,7 @@ tarjetasFormacion:
       href: /acercade/Gobernanza/ComiteTecnico
       description: |      # required
         El SiB Colombia cuenta con un programa de pasantías que busca formar a los futuros profesionales en..
-      background: /assets/images/noticias_eventos/universidad_industrial_de_santander/Taller_UIS_SiB-11-1024x768.jpg
+      background: /assets/images/logos/72logoSiBfullC.png
       cta:
       - text: Programa
         href: /data
@@ -57,6 +57,6 @@ tarjetasFormacion:
       href: /acercade/Gobernanza/EquipoCoordinador
       description: |      # required
        Accede al histórico de lo ciclos de formación y talleres facilitados por el Equipo Coordinador del SiB Colombia.
-      background: /assets/theme/img/patterns/wavy-dots.png
+      background: /assets/images/logos/72logoSiBfullC.png
  
 
