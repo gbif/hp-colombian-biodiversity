@@ -1,6 +1,6 @@
 ---
 layout: default
-klass: actividad
+klass: directivo
 title: Comité directivo
 description: El Comité directivo es la instancia máxima de gobernandza del SiB Colombia
 ---
