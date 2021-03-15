@@ -29,7 +29,7 @@ tarjetasFormacion:
       description: |      # required
        Los laboratorios de datos te ayudarán a afianzar tus habilidades en el manejo y publicación de datos. Puedes acceder a ellos durante todo el año.
       # img required
-      background: /comunidad/formacion/imagenes/np_Close up of an illustrator working in office_5wM1yb_free.jpg
+      background: /assets/images/noticias_eventos/universidad_industrial_de_santander/Taller_UIS_SiB-11-1024x768.jpg
       href: /acercade/Gobernanza/ComiteDirectivo
       cta:
       - text: Aprender
@@ -42,7 +42,7 @@ tarjetasFormacion:
       href: /acercade/Gobernanza/ComiteTecnico
       description: |      # required
         El SiB Colombia cuenta con un programa de pasantías que busca formar a los futuros profesionales en..
-      background: /comunidad/formacion/imagenes/np_Close up of an illustrator working in office_5wM1yb_free.jpg
+      background: /assets/images/noticias_eventos/universidad_industrial_de_santander/Taller_UIS_SiB-11-1024x768.jpg
       cta:
       - text: Programa
         href: /data
@@ -57,6 +57,6 @@ tarjetasFormacion:
       href: /acercade/Gobernanza/EquipoCoordinador
       description: |      # required
        Accede al histórico de lo ciclos de formación y talleres facilitados por el Equipo Coordinador del SiB Colombia.
-      background:/comunidad/formacion/imagenes/np_Close up of an illustrator working in office_5wM1yb_free.jpg
+      background: /comunidad/formacion/imagenes/np_Close up of an illustrator working in office_5wM1yb_free.jpg
  
 
