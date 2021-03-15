@@ -240,7 +240,7 @@ Recuerda que puedes aplicar la guía práctica sobre tu propio conjunto de datos
 <i>29 de septiembre de 2020 | Hora: 5:00 pm – 6:00 pm </i>
 <br>
 <br>
-<p>Esta es una oportunidad para responder en línea las preguntas que hayan surgido en el desarrollo del ejercicio práctico, aquí esperamos tener una conversación más amplia sobre los temas tratados y que todos los interesados puedan intervenir.
+<p>Esta es una oportunidad para responder en línea las preguntas que hayan surgido en el desarrollo del ejercicio práctico, aquí esperamos tener una conversación más amplia sobre los temas tratados y que todos los interesados puedan intervenir.</p>
 <br>
 <br>
 <b>Presenta:</b> Camila Plata & Ricardo Ortiz
@@ -276,7 +276,7 @@ Recuerda que puedes aplicar la guía práctica sobre tu propio conjunto de datos
 <i>13 de octubre de 2020 | Hora: 5:00 pm – 6:00 pm </i>
 <br>
     <br>
-<p>Esta es una oportunidad para responder en línea las preguntas que hayan surgido en el desarrollo del ejercicio práctico, aquí esperamos tener una conversación más amplia sobre los temas tratados y que todos los interesados puedan intervenir.
+<p>Esta es una oportunidad para responder en línea las preguntas que hayan surgido en el desarrollo del ejercicio práctico, aquí esperamos tener una conversación más amplia sobre los temas tratados y que todos los interesados puedan intervenir.</p>
 <br>
 <br>
 <b>Presenta:</b> Camila Plata & Ricardo Ortiz
