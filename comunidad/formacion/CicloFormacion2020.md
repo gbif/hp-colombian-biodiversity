@@ -19,7 +19,7 @@ composition:
   data: example.compose.overlay.text
 - type: heroImage
   data: example.compose.overlay.heroHeadlineB
-- type: pageMarkdown
+- type: Markdown
 ---
 
 
@@ -213,8 +213,6 @@ _**Inician**: jueves 24 de septiembre de 2020_ | _**Finalizan**: martes 13 de oc
 
 Sección de prácticas: https://sib-colombia.github.io/Formacion/
 
-
-
 <details>
   <summary markdown="span">1. Estructuración y calidad de datos sobre biodiversidad</summary>
 <br>
@@ -223,10 +221,10 @@ Sección de prácticas: https://sib-colombia.github.io/Formacion/
 <br>
 <p>En este capítulo recibirás una introducción a la guía práctica para la estructuración de datos sobre biodiversidad con calidad y la metodología del ejercicio. Durante la realización de la práctica, tendrás la oportunidad de interactuar con el estándar Darwin Core, sus plantillas, herramientas útiles para abordar el estándar, y una herramienta en línea para ayudarte a identificar rápidamente potenciales problemas de estructura y calidad en tu conjunto de datos.
 <br>
-    <br>
+<br>
 Esta práctica está diseñada para que la desarrolles de manera asincrónica en un tiempo máximo de 3 horas que podrás distribuir a tu gusto.
 <br>
-    <br>
+<br>
 Recuerda que puedes aplicar la guía práctica sobre tu propio conjunto de datos.</p>
 <br>
 <br>
@@ -234,12 +232,13 @@ Recuerda que puedes aplicar la guía práctica sobre tu propio conjunto de datos
 
 </details>
 
+---
 <details>
-  <summary markdown="span">1.1. Q&A Estructuración y calidad de datos sobre biodiversidad</summary>
+  <summary markdown="span">1.1. QA Estructuración y calidad de datos sobre biodiversidad</summary>
 <br>
 <i>29 de septiembre de 2020 | Hora: 5:00 pm – 6:00 pm </i>
 <br>
-    <br>
+<br>
 <p>Esta es una oportunidad para responder en línea las preguntas que hayan surgido en el desarrollo del ejercicio práctico, aquí esperamos tener una conversación más amplia sobre los temas tratados y que todos los interesados puedan intervenir.
 <br>
 <br>
@@ -254,13 +253,13 @@ Recuerda que puedes aplicar la guía práctica sobre tu propio conjunto de datos
 <br>
 <i>08 de octubre de 2020 | Hora: 5:00 pm – 6:00 pm </i>
 <br>
-    <br>
+<br>
 <p>En este capítulo recibirás una introducción a la guía práctica para la documentación de los metadatos de un conjunto de datos y la metodología del ejercicio. Nos aseguraremos que todos los participantes tengan las credenciales para ingresar a la herramienta web donde se documentan los metadatos.
 <br>
-    <br>
+<br>
 Esta práctica está diseñada para que la desarrolles de manera asincrónica en un tiempo máximo de 3 horas que podrás distribuir a tu gusto.
 <br>
-    <br>
+<br>
 Recuerda que puedes aplicar la guía práctica sobre tu propio conjunto de datos.</p>
 <br>
 <br>
@@ -271,7 +270,7 @@ Recuerda que puedes aplicar la guía práctica sobre tu propio conjunto de datos
 ---
 
 <details>
-  <summary markdown="span">3.1. Q&A Datos en contexto: ¿Qué son los metadatos, para qué sirven y cómo documentarlos?</summary>
+  <summary markdown="span">3.1. QA Datos en contexto: ¿Qué son los metadatos, para qué sirven y cómo documentarlos?</summary>
 <br>
 <i>13 de octubre de 2020 | Hora: 5:00 pm – 6:00 pm </i>
 <br>
