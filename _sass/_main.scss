@@ -28,10 +28,16 @@ $navbar-item-img-max-height: 3rem;
 .directivo table img {
   width: 40px;
   min-width: 40px;
-  height: 100px;
-  min-height: 100px;
-  border: 0px;
+  height: 120px;
+  min-height: 120px;
+}
+table {
+  width: 100%;
+  border: 0px solid #000;
   column-width: 10px;
+}
+th.orga1, th.orga2, th.orga3, th.orga4 {
+  width: 25%
 }
 
 // for usage on /home cifras de publicación
