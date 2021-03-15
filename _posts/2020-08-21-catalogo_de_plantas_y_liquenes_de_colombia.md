@@ -2,7 +2,6 @@
 title:  "Nueva lista de referencia para plantas y líquenes de Colombia"
 date:   2020-08-21
 categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
-lang-ref: for authors
 background: /assets/images/noticias_eventos/CatalogoPlantas-1000x1000.jpg
 ---
 
