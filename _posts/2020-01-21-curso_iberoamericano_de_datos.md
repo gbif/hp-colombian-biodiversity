@@ -2,7 +2,6 @@
 title:  "Curso iberoamericano de uso de datos sobre biodiversidad para la toma de decisiones"
 date:   2020-01-21
 categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
-lang-ref: for authors
 background: /assets/images/noticias_eventos/curso-datos-chile-1000x1000.jpg
 ---
 
