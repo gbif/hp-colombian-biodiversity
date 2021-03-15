@@ -2,11 +2,10 @@
 layout: heroImage
 title: Estandarización de datos en Darwin Core
 description: Herramientas para aplicar el estándar internacional Darwin Core
-background: /assets/images/fondos_layout/semilla_cp.jpg 
+background: /assets/images/fondos_layout/DSC0928_MarentesEsteban.JPG
 imageLicense: |
-  Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/7028209699/)
+   Fotografía de: Esteban Marentes Herrera- SiB Colombia [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
 height: 70vh
-toc: true
 ---
 
 # Herramientas de calidad para Darwin Core 
