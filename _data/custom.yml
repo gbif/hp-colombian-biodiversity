@@ -38,16 +38,3 @@ videosib:
   klass: iframe-box
   markdownContent: |
     <iframe seamless frameborder="150" src="https://www.youtube.com/watch?v=M8U6BbgDOUg" height = '790' width="1370" scrolling='yes' ></iframe> 
-    
-ipt: 
-  klass: actividad
-  markdownContent: |
-    Nombre  | Enlace  | Descripción
-   ------------ | ------------- | -------------
-   SiB Colombia | [https://ipt.biodiversidad.co/sib/](https://ipt.biodiversidad.co/sib/){:target="_blank"} | IPT general para la publicación de datos continentales.
-   SiB Marino | [https://ipt.biodiversidad.co/sibm/](https://ipt.biodiversidad.co/sibm/){:target="_blank"} | IPT para datos Marino-Costeros, permite también la publicación a través de  [OBIS](https://obis.org/).
-   IIAP | [https://ipt.biodiversidad.co/iiap/](https://ipt.biodiversidad.co/iiap/){:target="_blank"} |  IPT administrado por el  IIAP, miembro del comité técnico y directivo del SiB Colombia.
-   IAvH | [https://ipt.biodiversidad.co/iavh/](https://ipt.biodiversidad.co/iavh/){:target="_blank"} |  IPT aministrado por el Instituto Humboldt, miembro del comité técnico y directivo del SiB Colombia.
-   SINCHI | [https://ipt.biodiversidad.co/sinchi/](https://ipt.biodiversidad.co/sinchi/){:target="_blank"} | IPT administrado por el SINCHI, miembro del comité técnico y directivo del SiB Colombia.
-   Parques Nacionales | [https://ipt.biodiversidad.co/parquesnacionales/](https://ipt.biodiversidad.co/parquesnacionales/){:target="_blank"} | IPT administrado por Parques Nacionales, miembro del comité técnico y directivo del SiB Colombia.
-   Permisos de Recolección | [https://ipt.biodiversidad.co/cr-sib/](https://ipt.biodiversidad.co/cr-sib/){:target="_blank"} | IPT para datos asociados a la [ruta B de publicación](/compartir/GuiaPublicacion#ruta-b-publicación-de-datos-por-permiso-de-recolección){:target="_blank"}.
