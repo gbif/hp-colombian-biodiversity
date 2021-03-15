@@ -8,20 +8,20 @@ gobernanza:
       description: |      # required
        El comite directivo esta conformado por las entidades que componen el sistema
       # img required
-      background: /assets/images/logosEntidades/IDEAM.jpg
+      background: /assets/images/logos/72logoSiBverticalB.png
       href: /acercade/Gobernanza/ComiteDirectivo
     - preTitle: # optional
       title: Comité técnico
       href: /acercade/Gobernanza/ComiteTecnico
       description: |      # required
         El comite técnico esta conformado por los delegados del directivo
-      background: /assets/images/logosEntidades/IIAP.jpg
+      background: /assets/images/logos/72logoSiBverticalB.png
     - preTitle:   # optional
       title: Equipo Coordinador    # required
       href: /acercade/Gobernanza/EquipoCoordinador
       description: |      # required
        Miembros actuales del equipo coordinador
-      background: https://sibcolombia.net/wp-content/uploads/2020/07/E-SIB-v2-030.jpg
+      background: /assets/images/logos/72logoSiBverticalB.png
  
 # Feature cards
 planImplementacion:
