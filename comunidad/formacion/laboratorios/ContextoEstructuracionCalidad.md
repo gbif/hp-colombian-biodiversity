@@ -1,6 +1,6 @@
 ---
 layout: documentation
-#permalink: /formacion/laboratorios 
+#permalink: /formacion/laboratorios/ContextoEstructuracionCalidad
 title: "Laboratorio de estructuración y calidad"
 description: "Estructurar un conjunto de datos bajo el estándar internacional de publicación de datos sobre biodiversidad Darwin Core (DwC)."
 sideNavigation: sidenav_laboratorios.terms
@@ -23,6 +23,9 @@ Al finalizar este laboratorio habrás aprendido a:
 
 ### Guías
 
+1. Estandarización de datos en Darwin Core
+2. Estandarización de datos usando las extensiones del Darwin Core
+3. Validador de datos - GBIF
 
 
 ### Glosario
