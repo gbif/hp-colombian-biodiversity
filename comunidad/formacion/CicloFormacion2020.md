@@ -19,7 +19,7 @@ composition:
   data: example.compose.overlay.text
 - type: heroImage
   data: example.compose.overlay.heroHeadlineB
-- type: Markdown
+- type: markdown
 ---
 
 
