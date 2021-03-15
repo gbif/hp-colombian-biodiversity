@@ -17,11 +17,11 @@ bannerExample2:
     
 stats:
   features:
-klass: cifras
       # we can also use the graphql API to allow richer queries
     - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20equals%2C%20key%3A%20%22countryCode%22%2C%20value%3A%20%22CO%22%7D%2C%20%7Btype%3A%20equals%2C%20key%3A%20%22notIssues%22%2C%20value%3A%20%22COUNTRY_COORDINATE_MISMATCH%22%7D%5D%7D%2C%20size%3A%2010%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">100,000</span>
       description: Registros biológicos
       background: /assets/images/landing_page/registros_biologicos.jpg
+      klass: cifras
       href: /data
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
     - title: <span data-ajax-path="facets.0.counts.0.count" data-ajax-url="https://api.gbif.org/v1/dataset/search?facet=type&type=CHECKLIST&publishing_country=CO&limit=0">100,000</span> # using a dynamic value from some endpoint. You can configure what value it should take using the `data-ajax-path` attribute
