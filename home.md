@@ -7,7 +7,7 @@ description: >-
    SiB Colombia
 background: /assets/images/fondos_layout/VAL1068_Villegas-Vélez, Felipe.jpg
 imageLicense: |
-  *Hyloscirtus antioquia* Fotografía de: Andrés Mauricio Forero Cano vía [iNaturalist](https://colombia.inaturalist.org/observations/16391377)
+  Fotografía de: Felipe Villegas Vélez / Instituto Humboldt
 cta:
   - text: Explorar datos
     href: /data
