@@ -1,7 +1,7 @@
 gobernanza:
   title: Gobernanza
   description: |
-    La gobernanza del SiB se refiere a la estructura en que esta organizado el sistema, se compone de las siguientes tres partes:
+    La gobernanza se refiere a la organzación interna del SiB, se compone de las siguientes tres partes:
   features:
     - preTitle:  # optional
       title: Comité directivo # required
@@ -32,10 +32,9 @@ planImplementacion:
   background: /assets/theme/img/patterns/wavy-dots.png
   overlayColor: "#F1864E"
   hasWhiteText: false
-  cta:                # optional
+  cta:
   - text: Plan de trabajo
     href: /acercade/PlanTrabajo
-    isPrimary: true
   - text: Plan estratégico
     href: http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35500/PlanEstrategico_SiBColombia_versionfinal.pdf?sequence=4&isAllowed=y{:target="_blank"}
  
@@ -48,9 +47,8 @@ ManualMarca:
   background: /assets/theme/img/patterns/wavy-dots.png
   overlayColor: "#ffffff55"
   hasWhiteText: false
-  cta:                # optional
+  cta:
   - text: Manual de identidad
     href: /acercade/ManualIdentidad
-    isPrimary: true
   - text: Logo
-    href: https://sibcolombia.net/wp-content/uploads/2016/12/SiB-Colombia-v2.png{:target="_blank"}
+    href: https://sibcolombia.net/wp-content/uploads/2016/12/SiB-Colombia-v2.png
