@@ -1,0 +1,62 @@
+
+
+#floatingText 
+
+cfv2021:
+  title: Ciclo de formación virtual 2021
+  description: |      # required
+    En este ciclo de formación virtual buscaremos dar a conocer diferentes iniciativas y proyectos de nuestros socios que son de interés para toda la comunidad del SiB Colombia, 
+    así como continuar facilitando herramientas para que nuestros publicadores puedan mejorar sus capacidades para organizar y preparar datos sobre biodiversidad para su publicación 
+    a través del SiB Colombia.
+    El ciclo 2021 se compone de 19 webinars y 7 laboratorios que se pueden tomar de manera independiente.
+  background: /assets/theme/img/patterns/wavy-dots.png
+  overlayColor: "#daf1fc"
+  hasWhiteText: false
+  cta:
+  - text: Inscríbite
+    href: /acercade/ManualIdentidad
+    isPrimary: true
+
+#cards
+tarjetasFormacion:
+  title: Ejes de formación
+  description: |
+    Ejes de formación:
+    
+  features:
+    - preTitle:  Formación # optional
+      title: Laboratorios
+      description: |      # required
+       Los laboratorios de datos te ayudarán a afianzar tus habilidades en el manejo y publicación de datos. Puedes acceder a ellos durante todo el año.
+      # img required
+      background: /assets/images/logos/72logoSiBhorizontalB.png
+      href: /acercade/Gobernanza/ComiteDirectivo
+      cta:
+      - text: Aprender
+        href: /data
+        isPrimary: true
+
+      
+    - preTitle: Formación # optional
+      title: "Programa de pasantías"
+      href: /acercade/Gobernanza/ComiteTecnico
+      description: |      # required
+        El SiB Colombia cuenta con un programa de pasantías que busca formar a los futuros profesionales en..
+      background: /assets/images/logos/72logoSiBhorizontalB.png
+      cta:
+      - text: Programa
+        href: /data
+        isPrimary: true
+      - text: Oportunidades abiertas
+        href: /data
+        isPrimary: true
+      
+      
+    - preTitle: "Histórico"  # optional
+      title: Material histórico  # required
+      href: /acercade/Gobernanza/EquipoCoordinador
+      description: |      # required
+       Accede al histórico de lo ciclos de formación y talleres facilitados por el Equipo Coordinador del SiB Colombia.
+      background: /assets/images/logos/72logoSiBhorizontalB.png
+ 
+
