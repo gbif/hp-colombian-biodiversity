@@ -28,16 +28,3 @@ Parques Nacionales | [https://ipt.biodiversidad.co/parquesnacionales/](https://i
 Permisos de Recolección | [https://ipt.biodiversidad.co/cr-sib/](https://ipt.biodiversidad.co/cr-sib/){:target="_blank"} | IPT para datos asociados a la [ruta B de publicación](/compartir/GuiaPublicacion#ruta-b-publicación-de-datos-por-permiso-de-recolección){:target="_blank"}.
 
 </div>
-
-# Prueba de tabla número 2
-
-<table>
-  <tr><td>Nombre</td><td>Enlace</td><td>Descripción</td></tr>
-  <tr><td>Albert</td><td>Schweitzer</td><td>X</td></tr>
-  <tr><td>Jane</td><td>Fonda</td><td>X</td></tr>
-  <tr><td>William</td><td>Shakespeare</td><td>X</td></tr>
-  <tr><td>Ed</td><td>Wood</td><td>X</td></tr>
-  <tr><td>Albert</td><td>Schweitzer</td><td>X</td></tr>
-  <tr><td>Jane</td><td>Fonda</td><td>X</td></tr>
-  <tr><td>William</td><td>Shakespeare</td><td>X</td></tr>
-</table>
