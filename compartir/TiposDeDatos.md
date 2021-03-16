@@ -5,7 +5,7 @@ description: El SiB Colombia facilita la publicación de diferentes tipos de con
 background: /assets/images/luciernaga_cp.jpg
 imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/13987683828)
-
+toc: true
 height: 50vh
 ---
 
