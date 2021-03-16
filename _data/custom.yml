@@ -10,21 +10,23 @@ formularioRegistro:
 
 overlay:
   heroHeadlineA:
-    title: Seminarios
+    title: Agradecimientos
     background: /assets/images/fondos_layout/flor_paramo_cp.jpg
     height: 0
     parallax: true
     overlayColor: "#ffffffbb"
+  text:
+    markdownContent: |
+      Los contenidos de este ciclo de formación son posibles gracias a los aportes significativos de otras iniciativas que trabajan colaborativamente con el SiB Colombia en diferentes niveles.
+      <img src="/comunidad/formacion/images/Agradecimientos_CFV2020.PNG" width=770>
+    
   heroHeadlineB:
     title: Prácticas
     background: /assets/images/fondos_layout/venado1_cp.jpg
     height: 0
     parallax: true
     overlayColor: "#ffffffbb"
-  text:
-    markdownContent: |
-      Este nivel está dirigido a los participantes que además de los seminarios, desean poner en práctica los conceptos y herramientas compartidas ya sea usando conjuntos de datos construidos por el Equipo Coordiandor para este propósito o con datos propios que esté planeando publicar en un futuro cercano.
-
+  
 videosib:
   klass: iframe-box
   markdownContent: |
