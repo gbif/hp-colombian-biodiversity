@@ -14,11 +14,11 @@ composition:
 - type: heroImage
 - type: pageMarkdown
 - type: heroImage
-  data: _data.custom.overlay.heroHeadlineA
+  data: custom.overlay.heroHeadlineA
 - type: markdown
   data: example.compose.overlay.text
 - type: heroImage
-  data: _data.custom.overlay.heroHeadlineB
+  data: custom.overlay.heroHeadlineB
 - type: markdown
 ---
 
