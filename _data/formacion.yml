@@ -5,7 +5,7 @@
 cfv2021:
   title: Ciclo de formación 2021
   description: |      # required
-    Conoceras diferentes iniciativas y proyectos alrededor de la publicación acceso y uso de datos sobre biodiversidad a través de 19 webinars, 7 laboratorios y mucho más.
+    Conoceras diferentes iniciativas, proyectos y materiales alrededor de la publicación acceso y uso de datos sobre biodiversidad.
   background: /assets/theme/img/patterns/wavy-dots.png
   overlayColor: "#daf1fc"
   hasWhiteText: false
@@ -23,7 +23,7 @@ tarjetasFormacion:
     - preTitle:  Formación # optional
       title: Laboratorios
       description: |      # required
-       Los laboratorios de datos te ayudarán a afianzar tus habilidades en el manejo y publicación de datos a travéz de SiB Colombia.
+       Los laboratorios de datos te ayudarán a afianzar tus habilidades en el manejo y publicación de datos a través de SiB Colombia.
       # img required
       background: /comunidad/formacion/images/working_nounproject.jpg
       cta:
