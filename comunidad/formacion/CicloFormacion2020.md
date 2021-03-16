@@ -60,10 +60,12 @@ Este ciclo de formación contiene varios capítulos en línea con un énfasis en
 # Estructura
 _Los participantes tendrán la oportunidad de tomar el ciclo de formación en dos niveles diferentes según su interés:_
 
+{: .notification .is-info }
 ## Seminarios
+
 Está dirigido a los participantes que solamente desean conocer o actualizar sus fundamentos sobre el modelo de publicación de datos del SiB Colombia, incluyendo conceptos claves sobre los tipos de datos publicables, su estandarización y validación para asegurar un nivel determinado en calidad.
 
-{: .message .is-primary }
+
 _**Inician**: jueves 20 de agosto de 2020_ | _**Finalizan**: jueves 8 de octubre de 2020_
 
 ---
