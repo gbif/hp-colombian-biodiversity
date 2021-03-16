@@ -16,9 +16,8 @@ cfv2021:
 
 #cards
 tarjetasFormacion:
-  title: Ejes de formación
-  description: |
-    Ejes de formación:
+  # title: Ejes de formación
+  # description: Ejes de formación:
     
   features:
     - preTitle:  Formación # optional
