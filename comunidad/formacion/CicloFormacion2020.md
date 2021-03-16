@@ -16,7 +16,7 @@ composition:
 - type: heroImage
   data: custom.overlay.heroHeadlineA
 - type: markdown
-  data: custom.overlay.overlay.text
+  data: custom.overlay.text
 ---
 
 
