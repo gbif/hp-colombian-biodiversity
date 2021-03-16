@@ -5,7 +5,7 @@
 cfv2021:
   title: Ciclo de formación 2021
   description: |      # required
-    Conoceras diferentes iniciativas y proyectos alrededor de la publcación acceso y uso de datos sobre biodiversidad.
+    Conoceras diferentes iniciativas y proyectos alrededor de la publicación acceso y uso de datos sobre biodiversidad a través de 19 webinars, 7 laboratorios y mucho más.
   background: /assets/theme/img/patterns/wavy-dots.png
   overlayColor: "#daf1fc"
   hasWhiteText: false
@@ -30,7 +30,7 @@ tarjetasFormacion:
       href: /formacion/laboratorios
       cta:
       - text: Aprender
-        href: /data
+        href: /comunidad/laboratorios
         isPrimary: true
 
       
@@ -55,5 +55,8 @@ tarjetasFormacion:
       description: |      # required
        Conoce los ciclos de formación y talleres facilitados por el Equipo Coordinador del SiB Colombia desde el 2014.
       background: /assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg
- 
+      - text: LLévame al pasado
+        href:  /comunidad/formacion/CicloFormacion2020
+        isPrimary: true
+
 
