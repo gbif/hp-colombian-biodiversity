@@ -210,7 +210,7 @@ Este nivel está dirigido a los participantes que además de los seminarios, des
 _**Inician**: jueves 24 de septiembre de 2020_ | _**Finalizan**: martes 13 de octubre de 2020_
 
 
-{: .notification .is-link }
+{: .notification .is-link .is-light}
 [Ciclo de Formación Virtual - Laboratorios de datos](https://sib-colombia.github.io/Formacion/)
 
 <details>
@@ -319,7 +319,7 @@ Recuerda que puedes aplicar la guía práctica sobre tu propio conjunto de datos
     
 </details>
 
-
+{: .notification .is-info }
 ## Certificación
 Los participantes que se registren y asistan al 100% de los contenidos del ciclo de formación, recibirán un certificado de participación. El Equipo Coordinador del SiB Colombia se encargará de llevar un registro de la asistencia a cada sesión y el desarrollo adecuado de los ejercicios propuestos.
 
@@ -330,4 +330,3 @@ Recuerde que el ciclo tiene dos niveles de formación que se pueden certificar:
 - **Seminarios + Prácticas**: 11 sesiones teórico-prácticas equivalentes a una intensidad horaria de 22 horas.
 
 ¿Tienes dudas o inquietudes sobre nuestros ciclo de formación? escríbenos a: [sib@humboldt.org.co](sib@humboldt.org.co)
-
