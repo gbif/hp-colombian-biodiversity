@@ -24,7 +24,7 @@ tarjetasFormacion:
     - preTitle:  Formación # optional
       title: Laboratorios
       description: |      # required
-       Los laboratorios de datos te ayudarán a afianzar tus habilidades en el manejo y publicación de datos.
+       Los laboratorios de datos te ayudarán a afianzar tus habilidades en el manejo y publicación de datos a travéz de SiB Colombia.
       # img required
       background: /comunidad/formacion/images/working_nounproject.jpg
       href: /formacion/laboratorios
@@ -53,7 +53,7 @@ tarjetasFormacion:
       title: Material histórico  # required
       href: /acercade/Gobernanza/EquipoCoordinador
       description: |      # required
-       Conoce los ciclos de formación y talleres facilitados por el Equipo Coordinador del SiB Colombia desde el 2014.
+       Conoce los ciclos de formación y talleres históricos facilitados por el Equipo Coordinador del SiB Colombia desde el 2014.
       background: /assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg
       cta:
       - text: LLévame al pasado
