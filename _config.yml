@@ -21,9 +21,8 @@
 title: SiB Colombia # the title of your site should go here
 email: sib@humboldt.org.co
 description: | # >-  this means to ignore newlines (until baseurl:)
-  Sistema de Información sobre Biodiversidad de Colombia
-  Publicación, acceso y uso de datos e información sobre la biodiversidad del país
-  Acceso libre y Gratuito.
+  Sistema de Información sobre Biodiversidad de Colombia. Publicación, acceso y uso de datos e información sobre la biodiversidad del país.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hp-colombian-biodiversity.gbif-staging.org" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -52,8 +51,7 @@ algae:
     colors:
       primary: "#fab700"          # Primary color of your brand. Use HEX code. Used for buttons.
       links: "#008b8b"          # What color should links have. Use a HEX code. DEfault is primary color.
-      # secondary: "#eb4242"        # Secundary color of your brand. Use HEX code. Used for links.
-      # tertiary: "##7729b3"        # Tertiary color of your brand. Use HEX code. Used for buttons and links
+  
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
      # brandBackground: yellow    # Define a custom background for the logo/title in the top navigation bar
