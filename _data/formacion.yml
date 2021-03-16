@@ -37,7 +37,7 @@ tarjetasFormacion:
       href: /acercade/Gobernanza/ComiteTecnico
       description: |      # required
         Este programa busca formar a futuros profesionales en informática de la biodiversidad, visualización y divulgación científica.
-      background: /assets/images/noticias_eventos/universidad_industrial_de_santander/Taller_UIS_SiB-5-1024x768.jpg
+      background: https://www.flickr.com/photos/98987018@N05/50849640831/sizes/c/
       cta:
       - text: Programa
         href: /data
