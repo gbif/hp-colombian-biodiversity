@@ -333,10 +333,3 @@ Recuerde que el ciclo tiene dos niveles de formación que se pueden certificar:
 - **Seminarios + Prácticas**: 11 sesiones teórico-prácticas equivalentes a una intensidad horaria de 22 horas.
 
 ¿Tienes dudas o inquietudes sobre nuestros ciclo de formación? escríbenos a: [sib@humboldt.org.co](sib@humboldt.org.co)
-
-
-# Agradecimientos
-
-Los contenidos de este ciclo de formación son posibles gracias a los aportes significativos de otras iniciativas que trabajan colaborativamente con el SiB Colombia en diferentes niveles.
-
-<img src="/comunidad/formacion/images/Agradecimientos_CFV2020.PNG" width=770>
