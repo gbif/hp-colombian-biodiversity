@@ -1,7 +1,7 @@
 ---
 layout: compose
 title: Ciclo de Formación Virtual 2020
-description: See [`pages/examples/background-overlay.md`](https://raw.githubusercontent.com/gbif/jekyll-theme-algae/master/pages/examples/background-overlay.md) for source
+description: Iniciaremos con los conceptos generales sobre la importancia de compartir datos sobre biodiversidad, pasando por los aspectos técnicos del modelo de publicación del SiB Colombia, para finalizar con ejercicios prácticos haciendo uso de diferentes herramientas que nos permitirán contar con datos estandarizados con la mayor calidad posible para su publicación, acceso y uso.
 background: /assets/images/fondos_layout/QUI01259_Villegas-Velez-Felipe.jpg
 imageLicense: Working from home illustration from [DrawKit](https://www.drawkit.io/product/working-from-home-illustrations) # OPTIONAL
 toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
@@ -14,16 +14,13 @@ composition:
 - type: heroImage
 - type: pageMarkdown
 - type: heroImage
-  data: _data.custom.heroHeadlineA
+  data: _data.custom.overlay.heroHeadlineA
 - type: markdown
   data: example.compose.overlay.text
 - type: heroImage
-  data: _data.custom.heroHeadlineB
+  data: _data.custom.overlay.heroHeadlineB
 - type: markdown
 ---
-
-
-Iniciaremos con los conceptos generales sobre la importancia de compartir datos sobre biodiversidad, pasando por los aspectos técnicos del modelo de publicación del SiB Colombia, para finalizar con ejercicios prácticos haciendo uso de diferentes herramientas que nos permitirán contar con datos estandarizados con la mayor calidad posible para su publicación, acceso y uso.
 
 
 # Información del curso
@@ -340,4 +337,4 @@ Recuerde que el ciclo tiene dos niveles de formación que se pueden certificar:
 
 Los contenidos de este ciclo de formación son posibles gracias a los aportes significativos de otras iniciativas que trabajan colaborativamente con el SiB Colombia en diferentes niveles.
 
-<img src="/comunidad/formacion/images/Agradecimientos_CFV2020.PNG" width=500>
+<img src="/comunidad/formacion/images/Agradecimientos_CFV2020.PNG" width=770>
