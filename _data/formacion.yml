@@ -3,18 +3,15 @@
 #floatingText 
 
 cfv2021:
-  title: Ciclo de formación virtual 2021
+  title: Ciclo de formación 2021
   description: |      # required
-    En este ciclo de formación virtual buscaremos dar a conocer diferentes iniciativas y proyectos de nuestros socios que son de interés para toda la comunidad del SiB Colombia, 
-    así como continuar facilitando herramientas para que nuestros publicadores puedan mejorar sus capacidades para organizar y preparar datos sobre biodiversidad para su publicación 
-    a través del SiB Colombia.
-    El ciclo 2021 se compone de 19 webinars y 7 laboratorios que se pueden tomar de manera independiente.
+    Conoceras diferentes iniciativas y proyectos alrededor de la publcación acceso y uso de datos sobre biodiversidad.
   background: /assets/theme/img/patterns/wavy-dots.png
   overlayColor: "#daf1fc"
   hasWhiteText: false
   cta:
-  - text: Inscríbite
-    href: /acercade/ManualIdentidad
+  - text: Inscríbete
+    href: /comunidad/formacion/CicloFormacion2020
     isPrimary: true
 
 #cards
@@ -27,10 +24,10 @@ tarjetasFormacion:
     - preTitle:  Formación # optional
       title: Laboratorios
       description: |      # required
-       Los laboratorios de datos te ayudarán a afianzar tus habilidades en el manejo y publicación de datos. Puedes acceder a ellos durante todo el año.
+       Los laboratorios de datos te ayudarán a afianzar tus habilidades en el manejo y publicación de datos.
       # img required
       background: /comunidad/formacion/images/working_nounproject.jpg
-      href: /acercade/Gobernanza/ComiteDirectivo
+      href: /formacion/laboratorios
       cta:
       - text: Aprender
         href: /data
@@ -41,7 +38,7 @@ tarjetasFormacion:
       title: "Programa de pasantías"
       href: /acercade/Gobernanza/ComiteTecnico
       description: |      # required
-        El SiB Colombia cuenta con un programa de pasantías que busca formar a los futuros profesionales en..
+        Este programa busca formar a futuros profesionales en informática de la biodiversidad, visualización y divulgación científica.
       background: /assets/images/noticias_eventos/universidad_industrial_de_santander/Taller_UIS_SiB-5-1024x768.jpg
       cta:
       - text: Programa
@@ -56,7 +53,7 @@ tarjetasFormacion:
       title: Material histórico  # required
       href: /acercade/Gobernanza/EquipoCoordinador
       description: |      # required
-       Accede al histórico de lo ciclos de formación y talleres facilitados por el Equipo Coordinador del SiB Colombia.
+       Conoce los ciclos de formación y talleres facilitados por el Equipo Coordinador del SiB Colombia desde el 2014.
       background: /assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg
  
 
