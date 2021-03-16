@@ -14,7 +14,7 @@ hasTextShadow: true # prueba overlay
 hasBlackText: true # prueba overlay
 composition:
   - type: heroImage # the block type
- - type: pageMarkdown
+  - type: pageMarkdown
   - data: formacion.cfv2021
     type: floatingText # the block type
   - data: formacion.tarjetasFormacion
