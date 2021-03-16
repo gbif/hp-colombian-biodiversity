@@ -26,10 +26,9 @@ tarjetasFormacion:
        Los laboratorios de datos te ayudarán a afianzar tus habilidades en el manejo y publicación de datos a travéz de SiB Colombia.
       # img required
       background: /comunidad/formacion/images/working_nounproject.jpg
-      href: /formacion/laboratorios
       cta:
       - text: Aprender
-        href: /comunidad/laboratorios
+        href: /formacion/laboratorios
         isPrimary: true
 
       
