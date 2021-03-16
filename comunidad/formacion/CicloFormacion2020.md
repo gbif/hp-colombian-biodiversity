@@ -205,7 +205,7 @@ _**Inician**: jueves 20 de agosto de 2020_ | _**Finalizan**: jueves 8 de octubre
 </details>
 
 
-
+{: .notification .is-info }
 ## Prácticas
 Este nivel está dirigido a los participantes que además de los seminarios, desean poner en práctica los conceptos y herramientas compartidas ya sea usando conjuntos de datos construidos por el Equipo Coordiandor para este propósito o con datos propios que esté planeando publicar en un futuro cercano.
 
