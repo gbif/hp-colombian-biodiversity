@@ -7,7 +7,7 @@ cfv2021:
   description: |      # required
     Conoceras diferentes iniciativas, proyectos y materiales alrededor de la publicación acceso y uso de datos sobre biodiversidad.
   background: /assets/theme/img/patterns/wavy-dots.png
-  overlayColor: "#daf1fc"
+  overlayColor: "#eef3f3"
   hasWhiteText: false
   cta:
   - text: Inscríbete
