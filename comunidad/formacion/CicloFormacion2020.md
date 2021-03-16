@@ -16,10 +16,7 @@ composition:
 - type: heroImage
   data: custom.overlay.heroHeadlineA
 - type: markdown
-  data: example.compose.overlay.text
-- type: heroImage
-  data: custom.overlay.heroHeadlineB
-- type: markdown
+  data: custom.overlay.overlay.text
 ---
 
 
@@ -333,3 +330,4 @@ Recuerde que el ciclo tiene dos niveles de formación que se pueden certificar:
 - **Seminarios + Prácticas**: 11 sesiones teórico-prácticas equivalentes a una intensidad horaria de 22 horas.
 
 ¿Tienes dudas o inquietudes sobre nuestros ciclo de formación? escríbenos a: [sib@humboldt.org.co](sib@humboldt.org.co)
+
