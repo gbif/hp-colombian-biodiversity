@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: BIODIVERSIDAD.CO # the title of your site should go here
+title: SiB Colombia # the title of your site should go here
 email: sib@humboldt.org.co
-description: >- # this means to ignore newlines (until baseurl:)
+description: | # >-  this means to ignore newlines (until baseurl:)
   Sistema de Información sobre Biodiversidad de Colombia
   Publicación, acceso y uso de datos e información sobre la biodiversidad del país
   Acceso libre y Gratuito.
