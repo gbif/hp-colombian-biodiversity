@@ -66,6 +66,7 @@ _Los participantes tendrán la oportunidad de tomar el ciclo de formación en do
 ## Seminarios
 Está dirigido a los participantes que solamente desean conocer o actualizar sus fundamentos sobre el modelo de publicación de datos del SiB Colombia, incluyendo conceptos claves sobre los tipos de datos publicables, su estandarización y validación para asegurar un nivel determinado en calidad.
 
+{: .notification .is-info }
 _**Inician**: jueves 20 de agosto de 2020_ | _**Finalizan**: jueves 8 de octubre de 2020_
 
 ---
@@ -209,8 +210,10 @@ _**Inician**: jueves 20 de agosto de 2020_ | _**Finalizan**: jueves 8 de octubre
 ## Prácticas
 Este nivel está dirigido a los participantes que además de los seminarios, desean poner en práctica los conceptos y herramientas compartidas ya sea usando conjuntos de datos construidos por el Equipo Coordiandor para este propósito o con datos propios que esté planeando publicar en un futuro cercano.
 
+{: .notification .is-info }
 _**Inician**: jueves 24 de septiembre de 2020_ | _**Finalizan**: martes 13 de octubre de 2020_
 
+{: .notification .is-link }
 Sección de prácticas: https://sib-colombia.github.io/Formacion/
 
 <details>
@@ -240,6 +243,42 @@ Recuerda que puedes aplicar la guía práctica sobre tu propio conjunto de datos
 <i>29 de septiembre de 2020 | Hora: 5:00 pm – 6:00 pm </i>
 <br>
 <br>
+<p>Esta es una oportunidad para responder en línea las preguntas que hayan surgido en el desarrollo del ejercicio práctico, aquí esperamos tener una conversación más amplia sobre los temas tratados y que todos los interesados puedan intervenir.</p>
+<br>
+<br>
+<b>Presenta:</b> Camila Plata & Ricardo Ortiz
+    
+</details>
+
+---
+
+<details>
+  <summary markdown="span">2. Validación y limpieza de datos sobre biodiversidad </summary>
+<br>
+<i>01 de octubre de 2020 | Hora: 5:00 pm – 6:00 pm </i>
+<br>
+<br>
+<p>En este capítulo recibirás una introducción a la guía práctica de validación y limpieza de datos, junto con la metodología del ejercicio. Aquí nos aseguraremos que todos los participantes tengan instalado adecuadamente OpenRefine 3.3 y que puedan acceder a las demás herramientas en línea necesarias para desarrollar el ejercicio. Durante la realización del ejercicio conocerás 5 herramientas gratuitas en línea para la validación y limpieza de los datos, enfatizando la calidad de los datos en los ejes de información taxonómica, geográfica y temporal.
+<br>
+<br>
+Esta práctica está diseñada para que la desarrolles de manera asincrónica en un tiempo máximo de 3 horas que podrás distribuir a tu gusto.
+<br>
+<br>
+Recuerda que puedes aplicar la guía práctica sobre tu propio conjunto de datos.</p>
+<br>
+<br>
+<b>Presenta:</b> Camila Plata & Ricardo Ortiz
+
+</details>
+
+---
+
+<details>
+  <summary markdown="span">2.2. Q&A Validación y limpieza de datos sobre biodiversidad</summary>
+<br>
+<i>06 de octubre de 2020 | Hora: 5:00 pm – 6:00 pm </i>
+<br>
+    <br>
 <p>Esta es una oportunidad para responder en línea las preguntas que hayan surgido en el desarrollo del ejercicio práctico, aquí esperamos tener una conversación más amplia sobre los temas tratados y que todos los interesados puedan intervenir.</p>
 <br>
 <br>
@@ -288,11 +327,9 @@ Recuerda que puedes aplicar la guía práctica sobre tu propio conjunto de datos
 Los participantes que se registren y asistan al 100% de los contenidos del ciclo de formación, recibirán un certificado de participación. El Equipo Coordinador del SiB Colombia se encargará de llevar un registro de la asistencia a cada sesión y el desarrollo adecuado de los ejercicios propuestos.
 
 
-{: .notification .is-info }
+{: .message .is-primary }
 Recuerde que el ciclo tiene dos niveles de formación que se pueden certificar:
-
 - **Seminarios**: 8 sesiones teóricas equivalentes a una intensidad horaria de 8 horas.
-
 - **Seminarios + Prácticas**: 11 sesiones teórico-prácticas equivalentes a una intensidad horaria de 22 horas.
 
 ¿Tienes dudas o inquietudes sobre nuestros ciclo de formación? escríbenos a: [sib@humboldt.org.co](sib@humboldt.org.co)
