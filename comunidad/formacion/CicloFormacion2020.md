@@ -206,11 +206,10 @@ _**Inician**: jueves 20 de agosto de 2020_ | _**Finalizan**: jueves 8 de octubre
 ## Prácticas
 Este nivel está dirigido a los participantes que además de los seminarios, desean poner en práctica los conceptos y herramientas compartidas ya sea usando conjuntos de datos construidos por el Equipo Coordiandor para este propósito o con datos propios que esté planeando publicar en un futuro cercano.
 
-{: .message .is-primary }
 _**Inician**: jueves 24 de septiembre de 2020_ | _**Finalizan**: martes 13 de octubre de 2020_
 
 
-{: .notification .is-link .is-light}
+{: .notification .is-info .is-light}
 [Ciclo de Formación Virtual - Laboratorios de datos](https://sib-colombia.github.io/Formacion/)
 
 <details>
@@ -330,3 +329,4 @@ Recuerde que el ciclo tiene dos niveles de formación que se pueden certificar:
 - **Seminarios + Prácticas**: 11 sesiones teórico-prácticas equivalentes a una intensidad horaria de 22 horas.
 
 ¿Tienes dudas o inquietudes sobre nuestros ciclo de formación? escríbenos a: [sib@humboldt.org.co](sib@humboldt.org.co)
+
