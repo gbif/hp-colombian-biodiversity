@@ -29,7 +29,7 @@ tarjetasFormacion:
       description: |      # required
        Los laboratorios de datos te ayudarán a afianzar tus habilidades en el manejo y publicación de datos. Puedes acceder a ellos durante todo el año.
       # img required
-      background: /assets/images/logos/72logoSiBhorizontalB.png
+      background: /comunidad/formacion/images/working_nounproject.jpg
       href: /acercade/Gobernanza/ComiteDirectivo
       cta:
       - text: Aprender
@@ -57,6 +57,6 @@ tarjetasFormacion:
       href: /acercade/Gobernanza/EquipoCoordinador
       description: |      # required
        Accede al histórico de lo ciclos de formación y talleres facilitados por el Equipo Coordinador del SiB Colombia.
-      background: /assets/images/noticias_eventos/universidad_industrial_de_santander/Taller_UIS_SiB-5-1024x768.jpg
+      background: /assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg
  
 
