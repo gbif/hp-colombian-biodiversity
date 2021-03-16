@@ -55,6 +55,7 @@ tarjetasFormacion:
       description: |      # required
        Conoce los ciclos de formación y talleres facilitados por el Equipo Coordinador del SiB Colombia desde el 2014.
       background: /assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg
+      cta:
       - text: LLévame al pasado
         href:  /comunidad/formacion/CicloFormacion2020
         isPrimary: true
