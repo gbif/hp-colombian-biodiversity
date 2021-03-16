@@ -24,8 +24,6 @@
     href: /compartir/GuiaPublicacion
   - text: Regístrate
     href: /compartir/registrate
-  - text: Preguntas frecuentes
-    href: /compartir/PreguntasFrecuentes
     
 - text: Recursos
   menu: # Dropdown menu (one level deep only)
@@ -54,6 +52,8 @@
     href: /comunidad/formacion
   - text: Grupos de interés
   - text: Uso de datos
+  - text: Preguntas frecuentes
+    href: /compartir/PreguntasFrecuentes
   
 - text: Noticias y eventos
   href: /news/
