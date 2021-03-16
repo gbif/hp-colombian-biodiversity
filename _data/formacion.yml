@@ -37,7 +37,7 @@ tarjetasFormacion:
       href: /acercade/Gobernanza/ComiteTecnico
       description: |      # required
         Este programa busca formar a futuros profesionales en informática de la biodiversidad, visualización y divulgación científica.
-      background: https://www.flickr.com/photos/98987018@N05/50849640831/sizes/c/
+      background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
       cta:
       - text: Programa
         href: /data
