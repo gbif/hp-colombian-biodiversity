@@ -14,11 +14,11 @@ composition:
 - type: heroImage
 - type: pageMarkdown
 - type: heroImage
-  data: example.compose.overlay.heroHeadlineA
+  data: _data.custom.heroHeadlineA
 - type: markdown
   data: example.compose.overlay.text
 - type: heroImage
-  data: example.compose.overlay.heroHeadlineB
+  data: _data.custom.heroHeadlineB
 - type: markdown
 ---
 
@@ -66,7 +66,7 @@ _Los participantes tendrán la oportunidad de tomar el ciclo de formación en do
 ## Seminarios
 Está dirigido a los participantes que solamente desean conocer o actualizar sus fundamentos sobre el modelo de publicación de datos del SiB Colombia, incluyendo conceptos claves sobre los tipos de datos publicables, su estandarización y validación para asegurar un nivel determinado en calidad.
 
-{: .notification .is-info }
+{: .message .is-primary }
 _**Inician**: jueves 20 de agosto de 2020_ | _**Finalizan**: jueves 8 de octubre de 2020_
 
 ---
@@ -210,11 +210,12 @@ _**Inician**: jueves 20 de agosto de 2020_ | _**Finalizan**: jueves 8 de octubre
 ## Prácticas
 Este nivel está dirigido a los participantes que además de los seminarios, desean poner en práctica los conceptos y herramientas compartidas ya sea usando conjuntos de datos construidos por el Equipo Coordiandor para este propósito o con datos propios que esté planeando publicar en un futuro cercano.
 
-{: .notification .is-info }
+{: .message .is-primary }
 _**Inician**: jueves 24 de septiembre de 2020_ | _**Finalizan**: martes 13 de octubre de 2020_
 
+
 {: .notification .is-link }
-Sección de prácticas: https://sib-colombia.github.io/Formacion/
+[Ciclo de Formación Virtual - Laboratorios de datos](https://sib-colombia.github.io/Formacion/)
 
 <details>
   <summary markdown="span">1. Estructuración y calidad de datos sobre biodiversidad</summary>
@@ -339,4 +340,4 @@ Recuerde que el ciclo tiene dos niveles de formación que se pueden certificar:
 
 Los contenidos de este ciclo de formación son posibles gracias a los aportes significativos de otras iniciativas que trabajan colaborativamente con el SiB Colombia en diferentes niveles.
 
-<img src="/assets/images/formacion/CFV2020/Agradecimientos_CFV2020.PNG" width=500>
+<img src="/comunidad/formacion/images/Agradecimientos_CFV2020.PNG" width=500>
