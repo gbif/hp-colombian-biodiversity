@@ -7,6 +7,7 @@ description: >-
 background: /assets/images/fondos_layout/VAL1068_Villegas-Vélez, Felipe.jpg
 imageLicense: |
   Fotografía de: Felipe Villegas Vélez / Instituto Humboldt
+height: 70vh
 cta:
   - text: Explorar datos
     href: /data
@@ -21,8 +22,6 @@ composition:
   - type: heroImage # the block type
   - data: home.stats
     type: stats
-  - data: home.cardExample # the _data to use
-    type: features # the block type
   - data: home.bannerExample2
     type: floatingText
   - data: home.splitExample
