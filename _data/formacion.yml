@@ -34,7 +34,6 @@ tarjetasFormacion:
       
     - preTitle: Formación # optional
       title: "Programa de pasantías"
-      href: /acercade/Gobernanza/ComiteTecnico
       description: |      # required
         Este programa busca formar a futuros profesionales en informática de la biodiversidad, visualización y divulgación científica.
       background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
@@ -49,7 +48,6 @@ tarjetasFormacion:
       
     - preTitle: "Histórico"  # optional
       title: Material histórico  # required
-      href: /acercade/Gobernanza/EquipoCoordinador
       description: |      # required
        Conoce los ciclos de formación y talleres históricos facilitados por el Equipo Coordinador del SiB Colombia desde el 2014.
       background: /assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg
