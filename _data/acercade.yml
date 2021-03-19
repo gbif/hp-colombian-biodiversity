@@ -43,7 +43,7 @@ planImplementacion:
 ManualMarca:
   title: Manual de marca
   description: |      # required
-  El SiB Colombia se consolida formalmente como una marca institucional que tiene como único fin cuidar y seguir fortaleciendo la imagen ante los diferentes públicos y escenarios en los que se haga presencia.  
+    El SiB Colombia se consolida formalmente como una marca institucional que tiene como único fin cuidar y seguir fortaleciendo la imagen ante los diferentes públicos y escenarios en los que se haga presencia.  
   background: /assets/theme/img/patterns/wavy-dots.png
   overlayColor: "#ffffff55"
   hasWhiteText: false
