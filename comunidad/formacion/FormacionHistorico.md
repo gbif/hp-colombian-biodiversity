@@ -1,12 +1,17 @@
 ---
 layout: heroImage
 title: Formación SiB Colombia - Histórico
-description: Este reporte mensual entrega una serie de gráficos, cifras y estadísticas de la actividad de publicación y uso de datos sobre biodiversidad publicados a través del SiB Colombia. Las métricas resaltan las organizaciones publicadoras del mes y el uso de datos en publicaciones indexadas. 
-background: /assets/images/fondos_layout/O7A7140_Villegas-Velez-Felipe.jpg
+description: El SiB Colombia, a través del Equipo Coordinador, ofrece y participa en diversos espacios de capacitación donde se promueve la publicación y uso de los datos abiertos sobre biodiversidad.
+background: /assets/images/fondos_layout/venado1_cp.jpg
 imageLicense: |
-  Fotografía de: Felipe Villegas-Vélez Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
+  Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/14492820304/) 
 height: 70vh
 ---
+
+
+En esta sección puede explorar el histórico de talleres y eventos en los que ha participado el Equipo Coordinador y la red de Socios del SiB Colombia. Ingrese a cada uno para explorar sus contenidos, agenda, presentaciones y fotos. 
+
+
 
 <div class="table-container">
 <table class="table">
