@@ -1,0 +1,53 @@
+
+#floatingText 
+
+bioCifras:
+  title: Colombia
+  description: |      # required
+    Segundo país con mayor biodiversidad en el mundo.....
+  background: /assets/theme/img/patterns/wavy-dots.png
+  overlayColor: "#eef3f3"
+  hasWhiteText: false
+  cta:
+  - text: Ingresa
+    href: https://cifras.biodiversidad.co/
+    isPrimary: true
+
+#cards
+tarjetasBioCifras:
+  # title: Ejes de formación  # No se incluyó título en la sección de tarjetas
+  # description: Ejes de formación:  # No se incluyó una descripción en la sección de tarjetas
+    
+  features:
+     #preTitle:  Formación # optional
+    - title: Santander
+      description: |      # required
+       De hormigas Culonas y muchos más, más de 700 especies de insectos se han registrado en Santander.
+      # img required
+      background: https://live.staticflickr.com/7219/7245219732_bfe058f97f_z.jpg
+      cta:
+      - text: Ingresa
+        href: https://santander.biodiversidad.co
+        isPrimary: true
+
+      
+     #preTitle: Formación # optional
+    - title: Boyacá
+      description: |      # required
+        ¡Y dele con el Sirirí!. El Sirirí común es el ave con mayor número de observaciones en Boyacá.
+      background: https://live.staticflickr.com/8146/7587266882_045dabf2db_z.jpg
+      cta:
+      - text: Ingresa
+        href: https://boyaca.biodiversidad.co/#/
+        isPrimary: true
+        
+      
+     #preTitle: ""  # optional
+    - title: "Próximamente"  # required
+      description: |      # required
+       También podrás conocer las cifras sobre la biodiversidad de Nariño, Huila, Tolima, Bogotá D.C.
+      background: /assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg
+      cta:
+      - text: Conoce como participar
+        href:  /comunidad/formacion/FormacionHistorico
+        isPrimary: true
