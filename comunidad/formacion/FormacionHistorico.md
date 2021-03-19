@@ -19,7 +19,6 @@ height: 70vh
       <th><abbr title="Asistentes">Asistentes</abbr></th>
     </tr>
   </thead>
- 
   <tbody>
     <tr>
       <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Ciclo de Formación Virtual - 2020</a></td>
