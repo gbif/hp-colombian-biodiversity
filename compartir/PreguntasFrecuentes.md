@@ -14,6 +14,7 @@ toc: true
  <details>
     <summary markdown="span"><B>¿Cómo registrar  una organización para publicar datos en el SiB Colombia?</B></summary>
     
+<br>
 Para registrar su organización en el SiB Colombia y comenzar un proceso de publicación diligencie el siguiente <a href="https://sibcolombia.net/registrate-como-publicador/">formulario</a>. La información registrada aquí nos permitirá contar con información básica sobre su organización y el tipo de datos a publicar. Una vez validemos la información consignada, enviaremos las credenciales para ingresar a la plataforma de publicación. Si tiene dudas sobre el proceso comuníquese directamente a sib@humboldt.org.co.
     </details>
 
@@ -22,6 +23,7 @@ ___
 <details>
     <summary markdown="span"><b>¿Se pueden publicar datos a través del SiB Colombia sin pertenecer a una organización?</b></summary>
     
+<br>
 El SiB Colombia es una red de organizaciones, si desea publicar datos sobre biodiversidad y no pertenece a una organización, puede contactar un grupo de investigación en una universidad, red o asociación de especialistas, para que respalden su publicación como organización. También puede hacer uso de plataformas de ciencia ciudadana como <a href= "https://play.google.com/store/apps/details?id=edu.cornell.birds.ebird&hl=es_419">eBird</a> o <a href="https://play.google.com/store/apps/details?id=org.inaturalist.android&hl=es_419">iNaturalist</a>, los datos que se publican a través de estas plataformas eventualmente serán visibles en el
 <a href="https://sibcolombia.net/">SiB Colombia</a> y <a href="https://www.gbif.org/">GBIF</a>. </details>
 
@@ -30,6 +32,7 @@ ___
 <details>
     <summary markdown="span"><b>¿Cómo actualizar la información de la organización?</b></summary>
     
+<br>
 Envíe un correo a sib@humboldt.org.co indicando la intención de actualizar la información de la organización e indicando los campos que desea actualizar.</details>
 
 
@@ -38,6 +41,7 @@ Envíe un correo a sib@humboldt.org.co indicando la intención de actualizar la 
  <details>
     <summary markdown="span"><b>¿Qué tipo de datos se publican a través del SiB Colombia?</b></summary>
     
+<br>
 Conoce más sobre los tipos de datos que se pueden publicar a través del SiB Colombia en el siguiente <a href="https://sibcolombia.net/tipos-de-datos/">enlace</a>.</details>
 
 ___
@@ -46,6 +50,7 @@ ___
 <details>
  <summary markdown="span"><b>¿Cómo publicar eventos de muestreo a través del SiB Colombia?</b></summary>
     
+<br>
 Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la <a href="https://sibcolombia.net/guia-de-publicacion/">Guía para la publicación de datos e información</a>.
 Encuentra información adicional sobre la publicación de los eventos de muestreo en el siguiente <a href="https://sites.google.com/humboldt.org.co/wikisib/publicar/eventos-de-muestreo?authuser=0">enlace</a>.
 </details>
@@ -56,6 +61,7 @@ ___
  <details>
     <summary markdown="span"><b>¿Cómo publicar listas de especies  a través del SiB Colombia?</b></summary>
     
+<br>
 Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la <a href="https://sibcolombia.net/guia-de-publicacion/">Guía para la publicación de datos e información</a>.
 Encuentra información adicional sobre la publicación de listas de especie en el siguiente <a href="https://sites.google.com/humboldt.org.co/wikisib/publicar/listas-de-especies?authuser=0">enlace</a>.
     </details>
@@ -66,6 +72,7 @@ ___
 <details>
   <summary markdown="span"><b>¿Cómo publicar registros biológicos a través del SiB Colombia?</b></summary>
     
+<br>
 Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la [Guía para la publicación de datos e información](https://sibcolombia.net/guia-de-publicacion/). En la guía conocerás las rutas para la publicación de los datos (Ruta A. Publicación de datos voluntaria y Ruta B. Publicación de datos por permiso de recolección). 
     
 Para la publicación de registros biológicos debes tener en cuenta lo siguiente que pueden corresponder a observaciones o registros asociados a colecciones biológicas.  
@@ -81,6 +88,7 @@ ___
 <details>
   <summary markdown="span"><b>¿Cuál es la última versión de la plantilla de publicación?</b></summary>
     
+<br>
 La última versión de las plantillas  de publicación para registros biológicos, listas y eventos de muestreo, se encuentra disponibles en el siguiente <a href="https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas/historial-de-versiones-plantilla-registros-biol%C3%B3gicos#h.p_UVTgawAWfuCH">enlace</a>, donde también puede revisar las versiones anteriores de cada plantilla.
     </details>
     
@@ -89,6 +97,7 @@ La última versión de las plantillas  de publicación para registros biológico
  <details>
   <summary markdown="span"><b>¿Puedo publicar datos moleculares a través del SiB Colombia?</b></summary>
     
+<br>
 Puede publicar datos basados en secuencias a través del SiB Colombia, ya sea como registros biológicos, listas de especies o eventos de muestreo.
 
 En primer lugar debe determinar el tipo de publicación para sus datos moleculares:
@@ -107,6 +116,7 @@ ___
 <details>
     <summary markdown="span"><B>¿Cómo publicar imágenes, videos o sonidos a través del SiB Colombia?</B></summary>
     
+<br>
 Si lo que deseas es publicar imágenes asociadas a un registro biológico debes seguir estos pasos:
 
 
@@ -154,6 +164,7 @@ ___
 <details>
     <summary markdown="span"><B>¿Cómo publicar datos derivados de literatura a través del SiB Colombia?</B></summary>
 
+<br>
 Para publicar datos derivados de información secundaria (libros, tesis de grado, artículos, etc.) en el estándar Darwin Core (DwC) se requiere de unos elementos particulares para que los datos se puedan asociar a las fuentes de información, permitiendo la atribución y rastreo de todas las fuentes. 
 
 En el siguiente documento encontrarás una guía para la publicación de este tipo de datos.
@@ -167,6 +178,7 @@ ___
 <details>
   <summary markdown="span"><B>¿Cómo publicar rasgos funcionales (medidas y hechos)?</B></summary>
 
+<br>
 Para publicar medidas o rasgos funcionales asociados a un registros biológico, debes documentar la extensión <a href="https://tools.gbif.org/dwca-validator/extension.do?id=dwc:MeasurementOrFact">Measurement or Facts</a>  del estándar Darwin Core.  
 
 <ul>
@@ -180,6 +192,7 @@ ___
 <details>
   <summary markdown="span"><B>¿Se puede publicar el estado de amenaza de una especie en el estándar Darwin Core?</B></summary>
     
+<br>
 En las listas de especies la categoría de amenaza se documenta en la extensión <a href="https://rs.gbif.org/extension/gbif/1.0/distribution.xml">Species Distribution</a>  estándar Darwin Core, en el elemento <B>threatStatus</B>, el cual cuenta con un <a href="https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://rs.gbif.org/vocabulary/iucn/threat_status/">vocabulario controlado</a> para su documentación, que corresponde con las categorías de amenaza establecidas por la Unión Internacional para la Conservación de la Naturaleza - IUCN.
     </details>
 
@@ -189,6 +202,7 @@ En las listas de especies la categoría de amenaza se documenta en la extensión
  <details>
   <summary markdown="span"><B>¿Cómo documentar el campo DarwinCore collectionID?</B></summary>
 
+<br>
 Busque su colección en la lista de colecciones biológicas disponible en el Registro Nacional de Coleccciones Biológicas (RNC) y de acuerdo al número asignado documente en este campo “Registro Nacional de Colecciones Biológicas:” + número de la colección. 
     
 Ejemplo:  Para documentar el elemento <i>collectionID</i> del Herbario Federico Meden Bogotá:
@@ -204,6 +218,7 @@ ___
 <details>
   <summary markdown="span"><B>¿Cómo documentar el collectionID en el estándar Darwin Core si la colección no está registrada en el RNC?</B></summary>
     
+<br>
 Puede usar otros identificadores de la colección de la que procede el registro. Para especímenes; la práctica recomendada es utilizar el identificador de un índice de colección tal como el Índice de Colecciones de Biodiversidad disponible en: <a href="https://www.gbif.org/grscicoll">https://www.gbif.org/grscicoll</a>
 
 Ejemplo:
@@ -223,6 +238,7 @@ ___
  <details>
   <summary markdown="span"><B>¿Cómo documentar las coordenadas de un transecto o parcela?</B></summary>
 
+<br>
 Para la documentación de las coordenadas de un transecto hay dos opciones:
     <ol>  
 <li>Documentar en los elementos decimalLatitude y decimalLongitude las coordenadas del punto medio del transecto y el elemento footprintWKT con las coordenadas iniciales y finales del transecto por ejemplo: LINESTRING (2.80151 51.28597, 2.61749 51.53950) donde indicas la geometría (LINESTRING=transecto, POLYGON=parcela) seguido de las coordenadas de cada punto del área de muestreo ( dos pares de coordenadas para transectos; mínimo cuatro pares de coordenadas para parcelas)</li>
@@ -237,6 +253,7 @@ ___
  <details>
   <summary markdown="span"><B>¿Cómo documentar los calificadores de identificación?</B></summary>
 
+<br>
 Los calificadores de una identificación cómo "cf." y "aff." usados para expresar las dudas del determinador sobre la identificación, se documentan en el elemento <b>bidentificationQualifier</b>  del estándar Darwin Core.
     <ul>
 <li><b>Ejemplo 1:</b> Para la determinación "Quercus aff. agrifolia var. oxyadenia", el calificador de la identificación sería: aff. agrifolia var. oxyadenia, con valores acompañantes "Quercus" en Género, "agrifolia" en Epíteto específico. Con  "oxyadenia" en Epíteto infraspecífico, y "Variedad" en Categoría taxonómica.</li>
@@ -249,6 +266,7 @@ ___
 <details>
   <summary markdown="span"><B>¿Los nombres científicos pueden incluir sp o subsp (morfotipos)?</B></summary>
     
+<br>
 No, esto corresponde a la categoría taxonómica original del taxón y en el estándar Darwin Core se destina el elemento verbatimTaxonRank para la documentación de esta información.
 <ul>
 <li><b>Ejemplo:</b> Para la determinación “Carollia sp.”, la categoría original del taxón (verbatimTaxonRank)  sería: “sp.”, con el valor de “Carollia” en Género.</li>
@@ -260,6 +278,7 @@ ___
 <details>
   <summary markdown="span"><B>¿Cómo se documenta un subgénero?</B></summary>
     
+<br>
 El estándar Darwin Core  cuenta con el elemento <i>subgenus</i> para documentar el subgénero como parte de la taxonomía superior de un registro o un taxón, este se documenta incluyendo el género para evitar confusión con homonimias.  
 
  <ul>
@@ -273,6 +292,7 @@ ___
 <details>
   <summary markdown="span"><B>¿Cómo se documentan los registros clasificados hasta Sección?</B></summary>
     
+<br>
 El estándar Darwin Core no cuenta con un campo específico para documentar los registros clasificados hasta la categoría de sección. Para documentarlo correctamente coloque el nombre completo (con el acrónimo sect.) en nombre científico, el género al que pertenece en el campo género y con la categoría “Sección” en Categoría taxonómica.
  <ul>
 <li><b>Ejemplo:</b> Para la determinación "Anthurium sect. Calomystrium", coloque "Anthurium" en Género, "Anthurium sect. Calomystrium" en nombre científico y "Sección" en Categoría taxonómica.</li>
@@ -285,6 +305,8 @@ El estándar Darwin Core no cuenta con un campo específico para documentar los 
 
  <details>
   <summary markdown="span"><B>¿Que son lo metadatos?</B></summary>
+
+<br>
 Los metadatos son información de contexto sobre los datos a publicar, para las publicaciones a través del SiB Colombia se cuenta con 12 secciones para documentar los metadatos, que incluyen:
 <ol>
 <li>Metadatos Básicos</li>
@@ -308,6 +330,8 @@ ___
 
 <details>
   <summary markdown="span"><B>¿Cómo documentar los metadatos de un recurso?</B></summary>
+
+<br>
 En el siguiente enlace encontrarás un  <a href="https://www.youtube.com/watch?v=9WkH9hoHc8wde">video tutorial</a> de cómo documentar los metadatos a través de la <a href="https://ipt.biodiversidad.co/sib/">herramienta de publicación IPT</a>.
 </details>
 
@@ -317,6 +341,7 @@ ___
  <details>
   <summary markdown="span"><B>¿Por qué la citación de GBIF no es la misma que documenté en los metadatos?</B></summary>
 
+<br>
 En los metadatos de la publicación, las instituciones pueden proporcionar un texto recomendado para la citación de los conjuntos de datos publicados a través del SiB Colombia, y algunos optan por proporcionar información de citas en formato de texto libre. 
     
 
@@ -331,6 +356,8 @@ Para más información sobre esta duda diríjase a la sección de preguntas frec
 
  <details>
   <summary markdown="span"><B>¿Cúal es la política de publicación, acceso y uso de datos del SiB Colombia?</B></summary>
+
+<br>
 Para más información consulte el siguiente <a href="http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35130/PoliticaPublicacionAccesoUso_SiBColombia_v1.pdf?sequence=4&isAllowed=y">enlace</a>  donde encontrará un documento detallado sobre el tema.
     </details>
 
@@ -339,6 +366,7 @@ ___
  <details>
   <summary markdown="span"><B>¿Qué licencia debo asignar a mí recurso?</B></summary>
     
+<br>
 Consulte los siguientes enlaces que lo ayudarán a decidir cuál es la mejor licencia para la publicación de sus datos. 
     <ol>
 <li><a href="http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35033/InfografiaCC.pdf?sequence=1&isAllowed=y">Infografía Crear Compartir Transformar - SiB Colombia</a></li>
@@ -353,6 +381,7 @@ ___
 <details>
   <summary markdown="span"><B>¿Cómo construir una referencia bibliográfica para mis datos?</B></summary>
     
+<br>
 La herramienta de publicación en la sección de referencias, cuenta con una opción de generación de cita automática. Esta opción toma la información documentada en los metadatos, como el título, creadores del recurso, organización, etc. para crear la cita. A continuación puedes ver un ejemplo.
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/compartir/Imagenes/PreguntaFrecuente2.jpg" width=800>
 
@@ -372,6 +401,7 @@ ___
 <details>
   <summary markdown="span"><B>¿Cómo citar un recurso publicado a través del SiB Colombia?</B></summary>
     
+<br>
 Si usaste los datos de un recurso publicado a través del SiB Colombia,  puedes citar buscando la sección <b>¿Cómo referenciar?</b> en los metadatos del recurso, ahí encontrarás la cita según lo definió el publicador de los datos.
 
 Recurso: Tití Gris (Saguinus leucopus) en remanentes de bosque de los departamentos de Caldas y Antioquia
@@ -384,6 +414,7 @@ ___
   <details>
   <summary markdown="span"><B>¿Qué es un DOI de publicación?</B></summary>
 
+<br>
 DOI es la sigla para Digital Object Identifier (Objeto de identificación digital), y consiste en un enlace permanente y abreviado que permite identificar un contenido electrónico, en este caso un recurso publicado a través del SiB Colombia. Todos los recursos publicados a través del SiB Colombia tienen asignados un DOI proporcionado por la agencia de registro <a href="https://datacite.org/">Datacite</a>. 
 
 Beneficios de la asignación de un DOI a la publicación.
@@ -399,6 +430,7 @@ Beneficios de la asignación de un DOI a la publicación.
  <details>
   <summary markdown="span"><B>¿Dónde puedo ver los datos publicados a través del SiB Colombia?</B></summary>
 
+<br>
 Los datos dispuestos a través del SiB Colombia son visibles y pueden ser consultados a través de las siguientes instancias. 
 
 <ul>
@@ -421,6 +453,7 @@ Los datos dispuestos a través del SiB Colombia son visibles y pueden ser consul
  <details>
   <summary markdown="span"><B>¿Se pueden hacer modificaciones a los datos una vez sean publicados?</B></summary>
     
+<br>
 Sí, puedes agregar, corregir o eliminar información a nivel de datos y metadatos las veces que sea necesario. El IPT se encargará de versionar los cambios realizados en el recurso. El proceso es similar al de publicación, ya que involucra la carga de un nuevo archivo con la versión más reciente de los datos y la edición de metadatos. 
 
 Recuerda que si cuentas con credenciales del SiB Colombia en el IPT, puedes acceder al recurso y realizar los cambios, al final debes notificar al SiB Colombia sobre la actualización para proceder con la publicación.
@@ -434,6 +467,7 @@ Recuerda que si cuentas con credenciales del SiB Colombia en el IPT, puedes acce
  <details>
   <summary markdown="span"><B>¿Cómo puedo aportar a la construcción de fichas de especies para el CBC?</B></summary>
     
+<br>
 Para aportar a la construcción de una ficha, debe enviar un correo a sib@humboldt.org.co indicando su intención y una lista en excel de las especie(s) para las cuales desea aportar ficha. Después de esto, el equipo coordinador lo guiará en los siguientes pasos:
 <ol>
         <li>Documentación de fichas en la plantilla</li>
@@ -447,6 +481,7 @@ ___
 <details>
   <summary markdown="span"><B>¿Cuál es el estándar usado para la construcción de fichas de especies?</B></summary>
     
+<br>
 Plinian Core es el estándar que tiene por objeto facilitar el intercambio de información sobre especies y taxones superiores. El principal potencial de dicho estándar es la flexibilidad a la hora de representar esta información, pudiendo cada institución tener su propio Perfil de Aplicación, el cual tiene que cumplir las reglas marcadas pro el Modelo Abstracto . De esta forma se puede ajustar a las necesidades específicas de cada organización. Están incluidos todo tipo de términos relacionados con las características y rasgos de un taxón (biológicos o no).
 
 Consulte más acerca del estándar en el nodo de <a href="https://www.gbif.es/proyecto/plinian-core/">España para GBIF</a> y en el <a href="https://github.com/tdwg/PlinianCore/wiki/About">repositorio de GitHub de TDWG</a> para el estándar.
@@ -457,6 +492,7 @@ Consulte más acerca del estándar en el nodo de <a href="https://www.gbif.es/pr
  <details>
   <summary markdown="span"><B>¿Qué es el modelo de publicación CR.SiB?</B></summary>
     
+<br>
 El SiB Colombia facilita la publicación de múltiples datos, entre ellos los datos asociados a permisos de recolección de especímenes de especies silvestre de acuerdo a los Decretos 1376 y 3016 de 2013 hoy compilados en el decreto 1076 de 2015, mediante el modelo transicional se hace posible la publicación de estos datos.
     </details>
     
@@ -465,6 +501,7 @@ ___
 <details>
   <summary markdown="span"><B>¿Cómo puedo obtener el certificado de reporte a través del SiB Colombia de los especímenes derivados de un permiso de colecta?</B></summary>
 
+<br>
 En este <a href="https://hp-colombian-biodiversity.gbif-staging.org/compartir/GuiaPublicacion">enlace</a> podrás encontrar información sobre los pasos a seguir para la publicación de datos asociados a permisos de recolección (ruta B).    
 </details>
 
@@ -474,6 +511,7 @@ ___
  <details>
   <summary markdown="span"><B>¿En cuales casos debo publicar datos a través de CR-SiB?</B></summary>
 
+<br>
 A través de CR-SiB se realiza la publicación de los datos asociados y derivados de salidas de campo amparadas por un permiso de recolección o contrato de acceso a recursos genéticos, como parte de lo establecido en los Decretos 1376 y 3016 de 2013 hoy compilados en el decreto 1076 de 2015 y de acuerdo a lo establecido en los mismos, el titular del permiso deberá realizar la publicación de las colectas temporales y definitivas que hayan tenido lugar en la actividad de campo.
     </details>
 
@@ -482,6 +520,7 @@ ___
 <details>
   <summary markdown="span"><B>¿Puedo publicar datos a través de CR-SiB y SiB Colombia?</B></summary>
 
+<br>
 Sí, el Equipo Coordinador del SiB Colombia brinda el apoyo requerido a los titulares permisos de recolección que deseen publicar sus datos con los beneficios del modelo voluntario, lo anterior garantizando el cumplimiento de la norma y la expedición del certificado de publicación
 </details>
 
@@ -490,6 +529,7 @@ ___
 <details>
   <summary markdown="span"><B>Las colecciones que contacté no están interesadas en recibir los ejemplares ¿Qué debo hacer?</B></summary>
 
+<br>
 Para estos casos es necesario contactarse con el equipo del Registro Único Nacional de Colecciones, quienes le indicarán al titular del permiso la disposición final que deben darle a los especímenes que no fueron recibidos en ninguna colección biológica
     </details>
 
@@ -498,6 +538,7 @@ ___
   <details>
   <summary markdown="span"><B>¿Dónde puedo consultar las colecciones que están registradas para depositar los especímenes?</B></summary>
 
+<br>
 El listado de colección registradas ante el Registro Único Nacional de Colecciones coordinado por el Instituto Humboldt, lo puede encontrar en: <a href="http://rnc.humboldt.org.co/">http://rnc.humboldt.org.co/</a>
     </details>
 
@@ -506,6 +547,7 @@ ___
 <details>
   <summary markdown="span"><B>¿Qué debo hacer para modificar o eliminar un recurso publicado a través de CR-SiB?</B></summary>
     
+<br>
 Las publicaciones realizadas a través de CR.SiB no pueden ser eliminadas ni modificadas con el ánimo de garantizar la trazabilidad de la información ante la autoridad ambiental, sin embargo es posible anularlas. Para este proceso es necesario ponerse en contacto con el Equipo Coordinador del SiB Colombia a través del correo sib@humboldt.org.co suministrando la siguiente información: 
 
  <ul>
@@ -524,6 +566,7 @@ ___
  <details>
   <summary markdown="span"><B>¿Cómo publicar datos de especímenes preservados depositados en una colección biológica?</B></summary>
     
+<br>
 Las colecciones biológicas son quienes custodian y mantienen los especímenes colectados y preservados, por eso solo estas pueden publicarlos como especímenes preservados; mientras que quienes realizan la colecta - y no pertenecen a la colección- deben publicar la colecta como una observación humana y con suficiente información para conocer que el espécimen se depositó en una colección.
 
 Si perteneces a una <B>entidad que colecta pero no posee una colección</B> sigue estas indicaciones: 
@@ -573,6 +616,7 @@ Si por el contrario, perteneces a una colección biológica sigue estas indicaci
  <details>
   <summary markdown="span"><B>¿Qué es el estándar Darwin Core?</B></summary>
     
+<br>
 Es uno de los estándares más consolidados y conocidos a nivel global y ofrece una estructura estable, directa y flexible para consolidar y compartir datos de biodiversidad de distintas fuentes. El Darwin Core fue desarrollado originalmente por la comunidad de Biodiversity Information Standards (antes TDWG: Taxonomic Data Working Group), como  un estándar de datos de biodiversidad desarrollado por una comunidad en evolución. 
 
 Desempeña un papel fundamental al compartir, usar y reusar los datos de biodiversidad de libre acceso y en la actualidad representa cientos de millones de registros de presencia de especies disponibles. El Sistema de Información sobre Biodiversidad de Colombia - SiB Colombia, adopta principalmente el estándar Darwin Core para publicar datos primarios de biodiversidad. 
@@ -585,6 +629,7 @@ ___
 <details>
   <summary markdown="span"><B>¿Qué es un archivo DwC-A y que contiene?</B></summary>
 
+<br>
 Este es el formato de archivo de intercambio de datos más utilizado en la red GBIF, y consiste en un archivo comprimido que contiene:
 
  <ul>
@@ -601,6 +646,7 @@ ___
  <details>
   <summary markdown="span"><B>¿Cómo puedo abrir un archivo DwC-A en excel?</B></summary>
     
+<br>
 Para abrir archivos de datos separados por tabuladores "<B>.txt</B>" mediante cualquier procesador de hoja de cálculo (por ejemplo, MS Excel, OpenOffice Calc) o software de base de datos de escritorio (por ejemplo, MS Access), importe los datos seleccionando las opciones "delimitado por tabulaciones", CSV, "archivo de texto" o cualquier opción similar. Si se le pide que seleccione un "estándar de codificación" o un "conjunto de caracteres", elija "Unicode, UTF-8". 
 
 <B>NOTA:</B> No intente hacer doble clic en los archivos, ya que .txt es una extensión muy genérica y probablemente tendrá asociado un visor de texto genérico.
