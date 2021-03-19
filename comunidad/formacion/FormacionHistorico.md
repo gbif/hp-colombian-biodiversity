@@ -8,6 +8,7 @@ imageLicense: |
 height: 70vh
 ---
 
+<div class="table-container">
 <table class="table">
   <thead>
     <tr>
@@ -171,6 +172,6 @@ height: 70vh
       <td>Presencial</td>
       <td>8</td>
     </tr>
-    <tr>
   </tbody>
 </table>
+</div>
