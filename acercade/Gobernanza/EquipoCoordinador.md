@@ -23,3 +23,7 @@ Esteban Marentes | Administración de Contenidos
 Lorena Zamora | Pasante Administración de Contenidos
 Miguel Angel Hernández | Pasante Administración de Contenidos
 Laura Sánchez | Pasante Administración de Contenidos
+
+<figure class="image is-128x128">
+  <img class="is-rounded" src="/assets/images/fondos_layout/venado1_cp.jpg">
+</figure>
