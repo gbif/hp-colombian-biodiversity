@@ -84,6 +84,7 @@ height: 70vh
       <td>Santa Marta (Magdalena)</td>
       <td>Presencial</td>
       <td>25</td>
+    </tr>
     <tr>
       <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Taller de gestión y publicación de datos de salud pública – INS</a></td>
       <td>2018-09-20</td>
