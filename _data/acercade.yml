@@ -41,9 +41,9 @@ planImplementacion:
  
 # Feature cards
 ManualMarca:
-  title: Visibilidad
+  title: Manual de marca
   description: |      # required
-    Con el fin de fortalecer el trabajo que se desarrolla, particularmente a través de procesos de gestión y coordinación interinstitucional en el marco de esta iniciativa nacional, el SiB Colombia se consolida formalmente como una marca institucional coherente con su misión y visión, y que tiene como único fin cuidar y seguir fortaleciendo la imagen ante los diferentes públicos y escenarios en los que se haga presencia.  
+  El SiB Colombia se consolida formalmente como una marca institucional que tiene como único fin cuidar y seguir fortaleciendo la imagen ante los diferentes públicos y escenarios en los que se haga presencia.  
   background: /assets/theme/img/patterns/wavy-dots.png
   overlayColor: "#ffffff55"
   hasWhiteText: false
