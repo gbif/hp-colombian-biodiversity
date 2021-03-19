@@ -132,12 +132,13 @@ En Colombia, la participación nacional en GBIF es facilitada por el SiB Colombi
 
 Esta alianza cuenta con el respaldo de GBIF y el proyecto CESP OpenPSD: *Promoting publication and use of private-sector data on biodiversity*
 
-Las empresas que ya publican datos a través del SiB Colombia
+# Las empresas que ya publican datos a través del SiB Colombia
 
-IMAGEN
-
+<img src="/acercade/imagenes/Entidades.png">    
+ 
 # Súmate
 
+**Por definiri**
 
 # ¿Te perdiste nuestro webinar? revívelo aquí
 
@@ -343,5 +344,6 @@ ___
     
 <br>
 Para dar respuesta a esta pregunta es importante primero hacer una diferenciación entre “datos públicos” y “datos abiertos”. No todos los datos públicos son datos abiertos, aunque todos los datos abiertos están publicados. Es decir, un dato publicado es cualquier dato que podemos ver, incluso si no lo podemos reutilizar. Un dato abierto está disponible al público y, además, tiene una licencia y un formato que facilitan su utilización. Los datos abiertos son puestos a disposición de forma libre, con una licencia y un formato que permite su reutilización y la creación de obras derivadas de los mismos sin que esto genere cobro alguno. Un dato abierto es información disponible y lista para reusar sin restricciones técnicas, económicas y legales. Dicho esto, la alianza puede ser una plataforma útil de conversación con ANLA para identificar los retos y oportunidades asociadas a la publicación desde esta agencia de los datos sobre biodiversidad de una EIA radicada.</details>
+
 
 <img src="/acercade/imagenes/FooterAlianzaANDI.png">    
