@@ -2,9 +2,9 @@
 layout: heroImage
 title: Datos abiertos sobre biodiversidad desde el sector empresarial
 description: Datos abiertos sobre biodiversidad desde el sector empresarial
-background: /assets/images/luciernaga_cp.jpg
+background: /acercade/imagenes/BannerAlianzaANDI.png
 imageLicense: |
-  Banner de: SiB [by-nc-nd](/acercade/imagenes/BannerAlianzaANDI.png)
+  Banner de: SiB [by-nc-nd](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 height: 50vh
 ---
 
@@ -235,8 +235,8 @@ Si. La plataforma puede integrar imágenes, audios y videos que estén asociadas
 <li><a href= "https://www.gbif.org/es/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5" target="_blank">Colección de Microorganismos-Pontificia Universidad Javeriana</a>.</li>
 <li><a href= "https://www.gbif.org/es/dataset/aac672c4-0109-4e0c-aa6e-36c790db9030" target="_blank">Colección de insectos de importancia médica del Instituto Nacional de Salud - Psychodidae</a>.</li>
 <li><a href= "https://www.gbif.org/es/dataset/e61455a4-352d-4c55-83ea-dbca254e3b29" target="_blank">Camera trap database of Tiger from Rajaji National Park, Uttarakhand</a>.</li>
-    <li><a href= "https://www.gbif.org/es/occurrence/2609675370" target="_blank"><I>Rupornis magnirostris</I> (Gmelin, 1788)</a>.</li>
-<ul></details>
+<li><a href= "https://www.gbif.org/es/occurrence/2609675370" target="_blank"><I>Rupornis magnirostris</I> (Gmelin, 1788)</a>.</li>
+</ul></details>
     
 ___
 
@@ -250,7 +250,7 @@ No toda la información es apropiada para integrar al SiB Colombia, pero si la m
 <ul>    
 <li><a href= "https://www.gbif.org/es/dataset/e8e716a0-201a-49af-85a1-c21101c6b9d3" target="_blank">Cbosques húmedos tropicales de Bahía Málaga, municipio de Buenaventura, Valle del Cauca</a>.</li>
     <li><a href= "https://www.gbif.org/project/82753/publishing-metadata-for-biodiversity-data-generated-from-redd-projects-in-tanzania#datasets" target="_blank">Publishing metadata for biodiversity data generated from REDD+ projects in Tanzania</a>.</li>
-<ul></details>
+</ul></details>
     
 ___
 
