@@ -28,7 +28,7 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
   <tbody>
     <tr>
       <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Ciclo de Formación Virtual - 2020</a></td>
-      <td>Ago-Oct 2020</td>
+      <td>Ago/Oct 2020</td>
       <td>-</td>
       <td>-</td>
     </tr>
@@ -48,7 +48,7 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
       <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Observatorio de Bosques de Antioquia</a></td>
       <td>Jul 2019</td>
       <td>CO</td>
-      <td>David (Antioquia)</td>
+      <td>Medellín (Antioquia)</td>
     </tr>
     <tr>
       <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Universidad Industrial de Santander</a></td>
