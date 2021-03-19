@@ -4,8 +4,7 @@ title: Datos abiertos sobre biodiversidad desde el sector empresarial
 description: Datos abiertos sobre biodiversidad desde el sector empresarial
 background: /assets/images/luciernaga_cp.jpg
 imageLicense: |
-  Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/13987683828)
-toc: true
+  Banner de: SiB [by-nc-nd](/acercade/imagenes/BannerAlianzaANDI.png)
 height: 50vh
 ---
 
@@ -22,7 +21,9 @@ Solamente el sector empresarial representado por la ANDI, agrupa cerca de 1200 e
 
 Esta alianza surge como una gran oportunidad para garantizar la participación del sector empresarial a nivel nacional e internacional, acelerando la generación de conocimiento de nuestra biodiversidad a partir de la publicación de datos a través del SiB Colombia de una manera organizada y sistemática.
 
-# Conoce la guía para compartir datos a través de SiB Colombia y GBIF
+**Conoce la guía para compartir datos a través de SiB Colombia y GBIF**
+
+<div class="video-container"><iframe src="/acercade/imagenes/libro-andi.pdf" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 
 
 # ¿Qué se busca con la alianza?
@@ -44,7 +45,7 @@ En este sentido, la alianza busca:
 
 La alianza cuenta con la siguiente arquitectura:
 
-IMAGEN
+<img src="/acercade/imagenes/ArquitecturaANDI.png">
 
 El SiB Colombia como iniciativa nacional formaliza una agenda 2020-2022 con la ANDI como representante del sector productivo; pacto que a su vez, crea escenarios de trabajo a través de la agenda agenda ANDI-ANLA de 2019-2022.
 
@@ -159,6 +160,7 @@ ___
 <details>
     <summary markdown="span"><b>¿Las muestras biológicas colectadas por las empresas deben ingresar a una colección biológica registrada para publicar la información a través del SiB Colombia?</b></summary>
     
+<br>
 No es condicional. Las empresas publican a través del SiB Colombia este tipo de Registros Biológicos como “observaciones” que tienen como evidencia una muestra biológica. La única excepción es cuando la empresa requiere un certificado de publicación para cumplir con un permiso de colecta. Véase <a href= "/compartir/GuiaPublicacion#ruta-b-publicacion-de-datos-por-permiso-de-recoleccion">Ruta B de publicación</a>.</details>
 
 ___
@@ -167,6 +169,7 @@ ___
 <details>
     <summary markdown="span"><b>¿Desde el SiB Colombia se hace una evaluación para determinar si la especie es nativa de Colombia antes de publicarla en el portal?</b></summary>
     
+<br>
 No. El SiB Colombia facilita la publicación de datos asociados a todas las especies presentes en el país independiente de su condición: nativa, silvestre, exótica, amenazada, endémica, cites, etc. Sin embargo, si para la empresa esta es una variable relevante en la publicación de un conjunto de datos, el SiB Colombia cuenta con listas de referencia nacional para documentar esta condición en algunos grupos biológicos.</details>
 
 ___
@@ -175,6 +178,7 @@ ___
 <details>
     <summary markdown="span"><b>En el caso de la información pública, ¿existe algún validador o nivel de confianza que se le asigne a los datos?</b></summary>
     
+<br>
 El SiB Colombia cuenta con una <a href= "/recursos/CalidadDeDatos">caja de herramientas</a>  para validaciones externas al Portal de Datos, que los usuarios pueden usar luego de descargar el resultado de una búsqueda. A nivel de GBIF se cuenta con métricas que dan un nivel de confianza a nivel taxonómico y geográfico. Ejemplo: <a href= "https://www.gbif.org/es/dataset/db191f3a-48ed-4b94-93ef-5c0517fb1b58/metrics" target="_blank">Estudio de Biodiversidad Mina Calenturitas, Temporada de Lluvias</a>.</details>
 
 ___
@@ -183,6 +187,7 @@ ___
 <details>
     <summary markdown="span"><b>¿Hay alguna limitante en términos de temporalidad de la información?, es decir, ¿se podrían aportar resultados de monitoreo de años anteriores?</b></summary>
     
+<br>
 No existen limitaciones en la cobertura temporal de la información. Los datos de monitoreos históricos o de años anteriores son también bienvenidos. El dato más antiguo publicado corresponde a una planta colectada en 1640 por José Cuatrecasas en el departamento de Caldas y publicado por la Universidad Nacional de Colombia en el año 2016:<a href= "https://www.gbif.org/es/occurrence/1844950902" target="_blank">Calceolaria perfoliata L.f</a>.</details>
 
 ___
@@ -191,6 +196,7 @@ ___
 <details>
     <summary markdown="span"><b>¿Al considerar datos y registros de más de 5 años, la actualización taxonómica estaría a cargo del Equipo Coordinador del SiB Colombia?</b></summary>
     
+<br>
 Al momento de realizar la validación taxonómica de aquellos datos, el Equipo Coordinador recomienda una taxonomía actualizada a la fecha que puede ser aceptada no por el publicador. Si el publicador está de acuerdo, el Equipo Coordinador puede proceder con dicha actualización previo a la publicación.</details>
 
 ___
@@ -199,6 +205,7 @@ ___
 <details>
     <summary markdown="span"><b>¿Puede llegar a haber duplicidad de la información si la consultora quien realiza el EIA pública la información y la empresa quiere reportar la información ahora con esta alianza?</b></summary>
     
+<br>
 Si. Sin embargo, esta duplicidad potencial no es una limitante para la publicación. De llegarse a presentar es posible identificarla con identificadores únicos. Otra opción es realizar una actualización del conjunto de datos publicado por la consultora donde se incluya como coautor de la publicación a la empresa para asegurar su visibilidad y atribución.</details>
 
 
@@ -208,6 +215,7 @@ ___
 <details>
     <summary markdown="span"><b>¿La publicación de información incluye comunidades hidrobiológicas e información relacionada con insectos de importancia en salud pública?</b></summary>
     
+<br>
 Si, todos los datos de las diferentes especies son bienvenidos, en especial los de estos grupos biológicos que tienen una baja representatividad en el SiB Colombia.</details>
 
 ___
@@ -216,6 +224,7 @@ ___
 <details>
     <summary markdown="span"><b>¿La plataforma puede adicionar también imágenes de las cámaras trampa? es decir, la plataforma soporta imágenes y video para también enviar esta información?</b></summary>
     
+<br>
 Si. La plataforma puede integrar imágenes, audios y videos que estén asociadas a los datos publicados. Es importante precisar que estos contenidos multimedia deben estar en un repositorio de la organización porque el SiB Colombia no funciona como repositorio de estos contenidos. Algunos ejemplos:
 
 <ul>    
@@ -227,8 +236,7 @@ Si. La plataforma puede integrar imágenes, audios y videos que estén asociadas
 <li><a href= "https://www.gbif.org/es/dataset/aac672c4-0109-4e0c-aa6e-36c790db9030" target="_blank">Colección de insectos de importancia médica del Instituto Nacional de Salud - Psychodidae</a>.</li>
 <li><a href= "https://www.gbif.org/es/dataset/e61455a4-352d-4c55-83ea-dbca254e3b29" target="_blank">Camera trap database of Tiger from Rajaji National Park, Uttarakhand</a>.</li>
     <li><a href= "https://www.gbif.org/es/occurrence/2609675370" target="_blank"><I>Rupornis magnirostris</I> (Gmelin, 1788)</a>.</li>
-<ul>
-</details>
+<ul></details>
     
 ___
 
@@ -236,19 +244,21 @@ ___
 <details>
     <summary markdown="span"><b>¿Podemos incluir toda la información de monitoreo asociada a los proyectos de reducción de emisiones tipo REDD+ y restauración de ecosistemas? Ellos arrojan indicadores específicos basados en estándares como CCB y FSC.</b></summary>
     
+<br>
 No toda la información es apropiada para integrar al SiB Colombia, pero si la mayoría. Aquí hay algunos ejemplos de información generada en proyectos REDD+:
 
 <ul>    
 <li><a href= "https://www.gbif.org/es/dataset/e8e716a0-201a-49af-85a1-c21101c6b9d3" target="_blank">Cbosques húmedos tropicales de Bahía Málaga, municipio de Buenaventura, Valle del Cauca</a>.</li>
     <li><a href= "https://www.gbif.org/project/82753/publishing-metadata-for-biodiversity-data-generated-from-redd-projects-in-tanzania#datasets" target="_blank">Publishing metadata for biodiversity data generated from REDD+ projects in Tanzania</a>.</li>
-<ul>
-</details>
+<ul></details>
+    
 ___
 
 
 <details>
     <summary markdown="span"><b>¿Cuáles son los niveles y componentes de la biodiversidad que está sistematizando el SiB Colombia? ¿Hay perspectivas de incrementar la información, incluyendo datos de estructura y función? ¿Algo más que listados de especies?</b></summary>
     
+<br>
 El SiB Colombia facilita la publicación de datos sobre la biodiversidad a nivel de poblaciones, especies y genes. Algunas variables de estructura y función pueden ser hoy publicados teniendo como eje central la presencia o ausencia de individuos de una especie particular. A pesar que son variables de interés, este tipo de datos presentan una gran variabilidad generando grandes retos a nivel informático. Además de listas de especies se facilita la publicación de dos tipos más de datos, Registros Biológicos y Eventos de Muestreo. Véase <a href= "/compartir/TiposDeDatos#registros-biologicos">Tipos de Datos</a>.</details>
 
 ___
@@ -257,6 +267,7 @@ ___
 <details>
     <summary markdown="span"><b>¿Cómo se hace parte de la alianza? tenemos datos del Bajo Cauca desde el 2010.</b></summary>
     
+<br>
 Es muy fácil, súmate a través de este 
 <a href= "/compartir/registrate">formulario</a> y nos pondremos en contacto contigo para iniciar el proceso.</details>
 
@@ -266,6 +277,7 @@ ___
 <details>
     <summary markdown="span"><b>¿Si ya estamos publicando los datos es importante que hagamos parte de la alianza?</b></summary>
     
+<br>
 ¡Totalmente! Esto nos ayudará a identificar los actores pioneros y con experiencia previa para otras empresas que apenas iniciarán su participación.</details>
 
 ___
@@ -274,6 +286,7 @@ ___
 <details>
     <summary markdown="span"><b>¿Cómo sería el acompañamiento técnico para estandarizar, publicar y visibilizar los datos a nivel regional de los esquemas colectivos como la iniciativa Biodiversidad y Desarrollo por el Putumayo?</b></summary>
     
+<br>
 El modelo es el mismo y durante el proceso nos aseguraremos que aquellos datos publicados por las organizaciones de la iniciativa lleven un tag que los diferencie como datos generados en el marco de la iniciativa. Aquí un ejemplo de la iniciativa Colombia BIO en el <a href= "https://datos.biodiversidad.co/search?projectSib=COLOMBIA%20BIO" target="_blank">SiB Colombia</a> y en <a href= "https://www.gbif.org/dataset/search?q=Proyecto%20Colombia%20BIO" target="_blank">GBIF</a>.</details>
 
 ___
@@ -282,6 +295,7 @@ ___
 <details>
     <summary markdown="span"><b>¿La información se considera propiedad del propietario del proyecto o del propietario del permiso de recolección (consultora ambiental) que amparó las colectas de especímenes?</b></summary>
     
+<br>
 El permiso de recolección no te convierte automáticamente en el propietario de los datos. La propiedad sobre los datos depende del acuerdo previo que haya realizado la empresa del proyecto con la consultora contratada. Es frecuente que los datos sobre biodiversidad de una empresa hayan sido obtenidos a través de la contratación de otras empresas u organizaciones que llevaron a cabo el trabajo de muestreo. Es deseable, y en la medida de lo posible, que haya una participación compartida de las partes independiente de quien tenga la propiedad sobre los datos. El modelo de publicación de datos del SiB Colombia permite la coautoría y el reconocimiento de todas las partes asociadas involucradas en la toma de los datos y su publicación.</details>
 
 ___
@@ -290,6 +304,7 @@ ___
 <details>
     <summary markdown="span"><b>¿Existe la posibilidad de capacitaciones para las empresas que se encuentran interesadas en participar?</b></summary>
     
+<br>
 Si. Justamente es parte de los objetivos de la alianza, generar espacios de creación y transferencia de capacidades para los equipos de trabajo de las empresas.</details>
 
 ___
@@ -298,6 +313,7 @@ ___
 <details>
     <summary markdown="span"><b>¿La información se considera propiedad del propietario del proyecto o del propietario del permiso de recolección (consultora ambiental) que amparó las colectas de especímenes?</b></summary>
     
+<br>
 El permiso de recolección no te convierte automáticamente en el propietario de los datos. La propiedad sobre los datos depende del acuerdo previo que haya realizado la empresa del proyecto con la consultora contratada. Es frecuente que los datos sobre biodiversidad de una empresa hayan sido obtenidos a través de la contratación de otras empresas u organizaciones que llevaron a cabo el trabajo de muestreo. Es deseable, y en la medida de lo posible, que haya una participación compartida de las partes independiente de quien tenga la propiedad sobre los datos. El modelo de publicación de datos del SiB Colombia permite la coautoría y el reconocimiento de todas las partes asociadas involucradas en la toma de los datos y su publicación.</details>
 
 ___
@@ -306,6 +322,7 @@ ___
 <details>
     <summary markdown="span"><b>¿Se pueden generar restricciones de uso a la información que se publique? ¿Los "publicadores" tendrán acceso preferencial a la información del SiB Colombia?</b></summary>
     
+<br>
 Si, siempre y cuando estas restricciones permitan su reúso el algún nivel. El SiB Colombia cuenta con una política de datos abiertos y unas opciones de licenciamiento preestablecidas, a partir de las cuales el publicador determina la forma como los comparten y las condiciones que imponen a los usuarios que los reutilicen. Cualquier usuario tiene el mismo acceso preferencial a los datos una vez hayan sido publicados a través del SiB Colombia.</details>
 
 ___
@@ -314,6 +331,7 @@ ___
 <details>
     <summary markdown="span"><b>¿Es posible hacer publicaciones en revistas científicas con los datos publicados a través del SiB Colombia y en esta tarea qué apoyo podría prestar el Equipo Coordinador?</b></summary>
     
+<br>
 Si. Los <a href= "https://www.gbif.org/es/data-papers" target="_blank">Artículos de Datos o Data Papers</a>son una opción para este tipo de publicaciones. El Equipo Coordinador puede orientar al publicador interesado durante el proceso de publicación a través del SiB Colombia que comprende el 90% de una publicación de un artículo de datos. Aquí un ejemplo de una de las publicaciones más recientes: <a href= "https://bdj.pensoft.net/article/33091/" target="_blank">First visual occurrence data for deep-sea cnidarians in the South-western Colombian Caribbean</a>.</details>
 
     
@@ -323,4 +341,7 @@ ___
 <details>
     <summary markdown="span"><b>¿La ANLA no puede publicar todos los EIA que se han radicado? ¿esa información es pública?</b></summary>
     
+<br>
 Para dar respuesta a esta pregunta es importante primero hacer una diferenciación entre “datos públicos” y “datos abiertos”. No todos los datos públicos son datos abiertos, aunque todos los datos abiertos están publicados. Es decir, un dato publicado es cualquier dato que podemos ver, incluso si no lo podemos reutilizar. Un dato abierto está disponible al público y, además, tiene una licencia y un formato que facilitan su utilización. Los datos abiertos son puestos a disposición de forma libre, con una licencia y un formato que permite su reutilización y la creación de obras derivadas de los mismos sin que esto genere cobro alguno. Un dato abierto es información disponible y lista para reusar sin restricciones técnicas, económicas y legales. Dicho esto, la alianza puede ser una plataforma útil de conversación con ANLA para identificar los retos y oportunidades asociadas a la publicación desde esta agencia de los datos sobre biodiversidad de una EIA radicada.</details>
+
+<img src="/acercade/imagenes/FooterAlianzaANDI.png">    
