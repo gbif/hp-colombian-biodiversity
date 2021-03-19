@@ -9,10 +9,8 @@ height: 70vh
 ---
 
 
-En esta sección puede explorar el histórico de talleres y eventos en los que ha participado el Equipo Coordinador y la red de Socios del SiB Colombia. Ingrese a cada uno para explorar sus contenidos, agenda, presentaciones y fotos. 
+_En esta sección puede explorar el histórico de talleres y eventos en los que ha participado el Equipo Coordinador y la red de Socios del SiB Colombia. Ingrese a cada uno para explorar sus contenidos, agenda, presentaciones y fotos._
 
-<br>
-<br>
 <br>
 
 <div class="table-container">
