@@ -8,6 +8,7 @@ imageLicense: |
 height: 70vh
 ---
 
+
 El Programa Riqueza Natural de USAID apoya al Gobierno de Colombia en la realización de avances importantes para la preservación de la biodiversidad del país: en el bosque seco tropical de la región Caribe y en los ecosistemas de las sabanas y humedales de los llanos orientales en la región de la Orinoquía. 
 
 En este sentido el Programa busca proveer acceso a mejor información sobre amenazas en ecosistemas y pérdidas de biodiversidad, con el fin de establecer prioridades de conservación y evaluar el desarrollo de opciones de compensación.
@@ -61,8 +62,8 @@ Administración de contenidos – SiB Colombia
 
 ## Enlaces de interés:
 
-[Agenda y asistentes](https://drive.google.com/drive/folders/1zUdvzFFygZAsKKd_FwgafE-a2lb3hZDF?usp=sharing)
-[Fotografías](https://drive.google.com/drive/folders/1yRkdTnjrz9P53-gN-vx2Vfunn7g_glw9?usp=sharing)
-[Presentaciones](https://drive.google.com/drive/folders/1ZRWe0a4H-tcBvK90ux8RzoaYVnLSo9m8?usp=sharing)
-[Taller práctico](https://drive.google.com/drive/folders/1PQHC9mZ5iEpSU9hRoqt-oJcxVxRKoTDI?usp=sharing)
-[Encuesta final](https://drive.google.com/open?id=1Otg1lNBPc50ycjBSzFyWjvCAHVbz8Alf)
+- [Agenda y asistentes](https://drive.google.com/drive/folders/1zUdvzFFygZAsKKd_FwgafE-a2lb3hZDF?usp=sharing)
+- [Fotografías](https://drive.google.com/drive/folders/1yRkdTnjrz9P53-gN-vx2Vfunn7g_glw9?usp=sharing)
+- [Presentaciones](https://drive.google.com/drive/folders/1ZRWe0a4H-tcBvK90ux8RzoaYVnLSo9m8?usp=sharing)
+- [Taller práctico](https://drive.google.com/drive/folders/1PQHC9mZ5iEpSU9hRoqt-oJcxVxRKoTDI?usp=sharing)
+- [Encuesta final](https://drive.google.com/open?id=1Otg1lNBPc50ycjBSzFyWjvCAHVbz8Alf)
