@@ -14,7 +14,7 @@ cta:
     isPrimary: true
   - text: Cifras
     href: https://cifras.biodiversidad.co/
-    isPrimary: true
+    isPrimary: false
 permalink: /
 composition:
   - type: heroImage # the block type
