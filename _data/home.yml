@@ -57,7 +57,7 @@ splitExample:
   preTitle: Reporte  # optional
   title: Actividad de publicación
   description: |      # required
-    Este reporte mensual entrega una serie de gráficos, cifras y estadísticas de la actividad de publicación y uso de datos sobre biodiversidad publicados a través del SiB Colombia. Las métricas resaltan las organizaciones publicadoras del mes y el uso de datos en publicaciones indexadas.
+    Este reporte mensual entrega una serie de gráficos, cifras y estadísticas de la actividad de publicación y uso de datos sobre biodiversidad publicados a través del SiB Colombia.
   # img required
   background: /assets/images/landing_page/pieza_cf.jpg
   overlayColor: "#000033"
