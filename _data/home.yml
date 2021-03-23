@@ -60,7 +60,7 @@ splitExample:
   description: |      # required
     Es una guía con herramientas para comprender y participar en las dinámicas del acceso abierto. Está dirigida a los socios y usuarios del SiB Colombia, así como al público interesado en datos sobre biodiversidad.
   # img required
-  background: /assets/images/landing_page/ciclo_de_formacion.jpg
+  background: /assets/images/landing_page/ciclo_de_formacion_2-20.jpg
   href: https://sibcolombia.net/formacion/
   cta:
   - text: Explorar
