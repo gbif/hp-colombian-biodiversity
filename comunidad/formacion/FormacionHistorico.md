@@ -30,13 +30,13 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="hp-colombian-biodiversity/comunidad/formacion/historico/Taller-Usaid-201907" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Programa Riqueza Natural – USAID</a></td>
+      <td><a href="/comunidad/formacion/historico/Taller-Usaid-201907" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Programa Riqueza Natural – USAID</a></td>
         <td>Ago 2019</td>
       <td>CO</td>
       <td>Yopal (Casanare)</td>
     </tr>
     <tr>
-      <td><a href="/comunidad/formacion/historico/Taller-panama-201907.md" title="Ver">Taller de manejo y publicación de datos de biodiversidad en GBIF – Universidad Autónoma de Chiriquí, Panamá</a></td>
+      <td><a href="/comunidad/formacion/historico/Taller-panama-201907" title="Ver">Taller de manejo y publicación de datos de biodiversidad en GBIF – Universidad Autónoma de Chiriquí, Panamá</a></td>
       <td>Jul 2019</td>
       <td>PA</td>
       <td>David (Chiriquí)</td>
