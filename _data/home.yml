@@ -42,7 +42,6 @@ stats:
       description: Conjuntos de datos
       background: /assets/images/landing_page/iconos_cifras/conjuntos_de_datos.png
       href: https://www.gbif.org/dataset/search?publishing_country=CO
-  overlayColor: "#000033"
       
 productExample:
   align: right
