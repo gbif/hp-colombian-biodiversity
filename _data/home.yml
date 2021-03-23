@@ -12,7 +12,7 @@ bannerExample2:
   hasWhiteText: false
   cta:                # optional
   - text: Consultar
-    href: https://hp-colombian-biodiversity.gbif-staging.org/comunidad/ActividadPublicacion
+    href: https://hp-colombian-biodiversity.gbif-staging.org/acercade/Aliados/ANDI
     isSecondary: true
     
 stats:
