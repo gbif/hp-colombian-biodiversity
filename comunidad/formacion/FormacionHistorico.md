@@ -24,7 +24,7 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Ciclo de Formación Virtual - 2020</a></td>
+      <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020" title="Ver">Ciclo de Formación Virtual - 2020</a></td>
       <td>Ago/Oct 2020</td>
       <td>-</td>
       <td>-</td>
@@ -36,7 +36,7 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
       <td>Yopal (Casanare)</td>
     </tr>
     <tr>
-      <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Taller de manejo y publicación de datos de biodiversidad en GBIF – Universidad Autónoma de Chiriquí, Panamá</a></td>
+      <td><a href="/comunidad/formacion/historico/Taller-panama-201907.md" title="Ver">Taller de manejo y publicación de datos de biodiversidad en GBIF – Universidad Autónoma de Chiriquí, Panamá</a></td>
       <td>Jul 2019</td>
       <td>PA</td>
       <td>David (Chiriquí)</td>
