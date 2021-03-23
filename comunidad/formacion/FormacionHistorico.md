@@ -48,7 +48,7 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
       <td>Medellín (Antioquia)</td>
     </tr>
     <tr>
-      <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Universidad Industrial de Santander</a></td>
+      <td><a href="/comunidad/formacion/historico/Taller-santander-201904" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Universidad Industrial de Santander</a></td>
       <td>Abr 2019</td>
       <td>CO</td>
       <td>Bucaramanga (Santander)</td>
