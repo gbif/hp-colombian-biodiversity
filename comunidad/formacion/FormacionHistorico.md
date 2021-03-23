@@ -30,7 +30,7 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Programa Riqueza Natural – USAID</a></td>
+      <td><a href="hp-colombian-biodiversity/comunidad/formacion/historico/Taller-Usaid-201907" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Programa Riqueza Natural – USAID</a></td>
         <td>Ago 2019</td>
       <td>CO</td>
       <td>Yopal (Casanare)</td>
