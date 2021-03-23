@@ -4,7 +4,7 @@ layout: home
 title: "Publicación, acceso y uso de datos sobre biodiversidad"
 description: >-
   Sistema de Información sobre Biodiversidad de Colombia - SiB Colombia
-background: /assets/images/landing_page/villegas_velez_felipe.jpg
+background: /assets/images/landing_page/montañas.jpg
 imageLicense: |
   Fotografía de: Felipe Villegas Vélez / Instituto Humboldt
 height: 70vh
