@@ -13,7 +13,7 @@ bannerExample2:
   cta:                # optional
   - text: Consultar
     href: https://hp-colombian-biodiversity.gbif-staging.org/acercade/Aliados/ANDI
-    isSecondary: true
+    isPrimary: true
     
 stats:
   features:
