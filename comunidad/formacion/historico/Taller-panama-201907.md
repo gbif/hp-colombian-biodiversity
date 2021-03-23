@@ -1,12 +1,14 @@
 ---
 layout: heroImage
-title: Cómo citar datos e información
-description: Esta guía ofrece los ejemplos más comunes de citación utilizados por usuarios del SiB Colombia.
+title: Universidad Autónoma de Chiriquí, Panamá
+description: Taller de manejo y publicación de datos de biodiversidad en GBIF
 background: /comunidad/formacion/images/historico/TallerPanama-201907.jpeg
 imageLicense: |
    Fotografía de: SiB Colombia [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
 height: 70vh
 ---
+
+
 
 El Portal GBIF (Global Biodiversity Information Facility) es el repositorio de información sobre biodiversidad más grande a nivel mundial, pero las contribuciones en GBIF desde Panamá se deben solamente a los esfuerzos de conservadores de colecciones extranjeras quienes digitalizaron la información de sus muestras provenientes de Panamá. Ninguna institución panameña ha contribuido hasta el momento a la red internacional GBIFm, aún cuando se tiene una masa crítica de información disponible en la región occidental del país; incluyendo las colecciones científicas en las universidades y los datos obtenidos por investigadores (observaciones en campo, eventos de muestreos, listas de especies, metadatos). El presente taller facilitó a los participantes las herramientas necesarias para aumentar la visibilidad de sus datos de biodiversidad a través de la red GBIF y mediante artículos de datos, y de esta manera contribuirá a la creación de un repositorio nacional de la biodiversidad de Panamá.
 
@@ -77,8 +79,8 @@ A corto plazo se espera obtener publicaciones de conjuntos de datos de biodivers
 
 ## Enlaces de interés:
 
-[Agenda y asistentes](https://drive.google.com/drive/folders/1mcr3mJsJUemnmxR8whVV6fp4M_0BPHV2?usp=sharing)
-[Fotografías](https://drive.google.com/drive/folders/1kQxoUhxoKBBGPOX6yoLnmwvbsonvtLTO?usp=sharing)
-[Presentaciones](https://drive.google.com/drive/folders/1IqRGTnTzC1diOEDwMOb4c15k6sANsEhA?usp=sharing)
-[Taller práctico](https://drive.google.com/drive/folders/1hOFU7ufChhEYKmWwHPUQlfPmtSn8maNl?usp=sharing)
-[Encuesta final](https://drive.google.com/file/d/1GZbFJXUhW-GGfEhq5gl_-vqauVM8OnEZ/view?usp=sharing)
+- [Agenda y asistentes](https://drive.google.com/drive/folders/1mcr3mJsJUemnmxR8whVV6fp4M_0BPHV2?usp=sharing)
+- [Fotografías](https://drive.google.com/drive/folders/1kQxoUhxoKBBGPOX6yoLnmwvbsonvtLTO?usp=sharing)
+- [Presentaciones](https://drive.google.com/drive/folders/1IqRGTnTzC1diOEDwMOb4c15k6sANsEhA?usp=sharing)
+- [Taller práctico](https://drive.google.com/drive/folders/1hOFU7ufChhEYKmWwHPUQlfPmtSn8maNl?usp=sharing)
+- [Encuesta final](https://drive.google.com/file/d/1GZbFJXUhW-GGfEhq5gl_-vqauVM8OnEZ/view?usp=sharing)
