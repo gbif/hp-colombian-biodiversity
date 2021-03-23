@@ -9,13 +9,11 @@ imageLicense: |
   Fotografía de: Felipe Villegas Vélez / Instituto Humboldt
 height: 70vh
 cta:
-  - text: Explorar datos
+  - text: Datos
     href: /data
     isPrimary: true
-  - text: Consultar cifras
+  - text: Cifras
     href: https://cifras.biodiversidad.co/
-  - text: Publicadores
-    href: https://www.gbif.org/publisher/search?country=CO
     isPrimary: true
 permalink: /
 composition:
