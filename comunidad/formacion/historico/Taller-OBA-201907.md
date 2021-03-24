@@ -1,0 +1,79 @@
+---
+layout: heroImage
+title: Observatorio de Bosques de Antioquia
+description: Taller en gestión y publicación de datos de biodiversidad
+background: /comunidad/formacion/images/historico/TallerOBA-201907.jpg
+imageLicense: |
+   Fotografía de: SiB Colombia [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
+height: 70vh
+---
+
+## Fecha
+
+2 de julio de 2019
+
+## Lugar
+
+Instituto Tecnológico Metropolitano (ITM) – Medellín, Antioquia
+
+# Descripción
+
+
+El Observatorio de Bosques de Antioquia  (OBA) compila la información ambiental disponible de más de 30 fuentes nacionales e internacionales y da cuenta del estado actual de los bosques de Antioquia, Colombia. Esta información facilita la toma de decisiones relacionadas con la gestión y manejo de los bosques, sus servicios ecosistémicos y el rol que juegan en la mitigación y adaptación al cambio climático. Por ello, dentro de las actividades misionales del observatorio se encuentra la publicación de datos sobre la biodiversidad antioqueña a través del SiB Colombia. Este taller busca apoyar las actividades misionales del OBA asociadas a la publicación de datos a través del SiB Colombia por parte de los diferentes actores del departamento de Antioquia, vinculados a esta iniciativa.
+
+En el taller se contó con la participación de estudiantes e investigadores de diferentes Universidades de la región, principalmente asociados a colecciones biológicas: Universidad de Antioquia, Universidad Nacional, EAFIT, Universidad CES; al igual que investigadores del Jardín Botánico de Medellín, la aplicación “Especies Invasoras”, el Museo de Ciencias Naturales de la Salle y por supuesto del mismo Observatorio de Bosques de Antioquia.
+
+## Logros
+
+Los 27 participantes del taller aprendieron sobre estandarización, manejo y calidad de datos sobre Biodiversidad. Las habilidades adquiridas durante el taller les permitirán mejorar sus prácticas internas de planeación, recolección y manejo de datos.
+
+Los participantes tuvieron la oportunidad de conocer algunas herramientas de calidad de datos vistas en el taller y resolver las guías.
+
+Se espera que, posterior a este taller, se pueda incrementar la publicación de datos sobre biodiversidad del departamento a través del SiB Colombia, recopilados por las diferentes organizaciones participantes, vinculadas a los objetivos del Observatorio de Bosques de Antioquia.
+
+# Participantes
+
+En la geolocalización de registros biológicos hay dos herramientas que se utilizan ampliamente: Google Maps y Google Earth. Dichas herramientas constituyen excelentes recursos para identificar localidades, determinar sus extensiones, e incluso ver variaciones temporales. Integrando el uso de estas herramientas se puede llevar a cabo el proceso de georreferenciación de registros de manera relativamente sencilla. Sin embargo, para sacar mayor provecho de las capacidades de las herramientas, debe conocerse a fondo lo que se puede y lo que no se puede hacer con ellas. En este seminario en línea mostraremos las características y funciones básicas, y no tan básicas, de Google Maps y Google Earth que se pueden aplicar a la georreferenciación de registros biológicos, y exploraremos las distintas consideraciones que deben tenerse en cuenta en cuanto a su utilización.
+
+## Facilitadores
+
+Leonardo Buitrago – Líder de línea Administración de contenidos – SiB Colombia
+
+## Asistentes
+
+ - Lucía Roldán
+ - Sara María Mayor
+ - Valeria Herrera
+ - Catalina Álvarez
+ - Maria Alejandra Guerra
+ - Mariana Agudelo
+ - Diego Alejandro Escobar
+ - Valentina Rodríguez
+ - Maria Alejandra Viasus
+ - Carlos Cáceres
+ - John Freddy Benjumea
+ - Samuel Peláez
+ - Sebastián Gómez
+ - Maria Camila Castellanos
+ - Oscar Alzate
+ - Danny Urrego
+ - José Soto
+ - Gabriel Moncada
+ - Carolina Carmona
+ - Estefanía Narváez
+ - Diana García
+ - Ana María Trujillo
+ - Claudia Hoyos
+ - Jennifer Calderón
+ - Mateo Sanchez
+ - Carolina Rivera
+ - Ana María Gutiérrez
+
+
+# Enlaces de interés:
+
+- [Agenda y Asistentes](https://drive.google.com/drive/folders/1Ag4-oZr5AaNCdEr4z6FyYW_mG0d7Yrb7?usp=sharing)
+- [Fotografías](https://drive.google.com/drive/folders/13odN3NXr3PYL5xAuL4gMFH1-_nyggjst?usp=sharing)
+- [Presentaciones](https://drive.google.com/drive/folders/1D6WBxuX70knQGxHxKtdUVBRlC5Wa7GUW?usp=sharing)
+- [Taller práctico](https://drive.google.com/drive/folders/1gsai8-r6jSs3mfssUSWHOB0iCHorQ2OR?usp=sharing)
+- [Encuesta](https://drive.google.com/file/d/12t0f9ECcnD0IycOZHMLE-wNe619syQgh/view?usp=sharing)
