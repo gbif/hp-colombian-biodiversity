@@ -40,20 +40,20 @@ El SiB Colombia es liderado por un Comité directivo (**CD-SiB**), el cual se de
 </table>
 
 
+|     |      |
+|-----|------|
+|<figure class="image is-320x320"><img src="/assets/images/logosEntidades/Invemar.jpg"></figure>|[**Instituto de Investigaciones Marinas y Costeras "José Benito Vives de Andreis"**](http://www.humboldt.org.co/es/)<br><br>_Delegados Comité Directivo_<br> - Francisco A. Arias Isaza (_principal_)<br> - David Alonso Carvajal (_suplente_)<br><br>_Delegados Comité Técnico_<br>- Erika Montoya Cadavid<br>- Julián Pizarro<br>- Julio Bohorquez<br>|
+
+
 
 |     |      |
 |-----|------|
-|<figure class="image is-320x320"><img src="/assets/images/logosEntidades/InstitutoHumboldt.jpg"></figure>|[**Instituto de Investigaciones Marinas y Costeras "José Benito Vives de Andreis"**](http://www.humboldt.org.co/es/)<br><br>_Delegados Comité Directivo_<br> - Francisco A. Arias Isaza (_principal_)<br> - David Alonso Carvajal (_suplente_)<br><br>_Delegados Comité Técnico_<br>- Erika Montoya Cadavid<br>- Julián Pizarro<br>- Julio Bohorquez<br>|
-
-
-
-|     |      |
-|-----|------|
-|<figure class="image is-320x320"><img src="/assets/images/logosEntidades/InstitutoHumboldt.jpg"></figure>|[**Instituto de Investigaciones Ambientales del Pacífico**](http://www.humboldt.org.co/es/)<br><br>_Delegados Comité Directivo_<br> - William Klinger Brahan (Principal) (_principal_)<br> - Jimmy Geovanny Lloreda (_suplente_)<br><br>_Delegados Comité Técnico_<br>- Zulmary Valoyes <br>- Luis Eladio Rentería<br>|
+|<figure class="image is-320x320"><img src="/assets/images/logosEntidades/IIAP.jpg"></figure>|[**Instituto de Investigaciones Ambientales del Pacífico**](http://www.humboldt.org.co/es/)<br><br>_Delegados Comité Directivo_<br> - William Klinger Brahan (Principal) (_principal_)<br> - Jimmy Geovanny Lloreda (_suplente_)<br><br>_Delegados Comité Técnico_<br>- Zulmary Valoyes <br>- Luis Eladio Rentería<br>|
 
 
 |     |      |
 |-----|------|
 |<figure class="image is-320x320"><img src="/assets/images/logosEntidades/InstitutoHumboldt.jpg"></figure>|[**Instituto de Investigación de Recursos Biológicos Alexander von Humboldt**](http://www.humboldt.org.co/es/)<br><br>_Delegados Comité Directivo_<br> - Hernando Garcia (_principal_)<br> - José Manuel Ochoa (_suplente_)<br><br>_Delegados Comité Técnico_<br>- José Manuel Ochoa (_principal_)<br>- Daniel Lopez (_suplente_)<br>|
+
 
 
