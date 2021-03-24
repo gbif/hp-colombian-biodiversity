@@ -39,4 +39,5 @@ Más y mejor información disponible, conectada y consolidada, que se transforma
   </div>
 </div>
 
+{:standalone .has-text-centered}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M8U6BbgDOUg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
