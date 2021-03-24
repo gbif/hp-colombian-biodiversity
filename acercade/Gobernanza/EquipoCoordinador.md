@@ -12,18 +12,11 @@ Equipo Coordinador (EC-SiB), cual cumple las funciones de secretaría técnica, 
 En la actualidad, esta conformado por:
 
 
-Nombre | Posición
------------- | -------------
-Dairo Escobar | Coordinación
-Jeimmy Díaz | Gestión y Cooperación
-Camila Plata | Administración de Contenidos
-Vanessa Porras | Productos y Servicios
-Ricardo Ortiz | Administración de Contenidos
-Esteban Marentes | Administración de Contenidos
-Lorena Zamora | Pasante Administración de Contenidos
-Miguel Angel Hernández | Pasante Administración de Contenidos
-Laura Sánchez | Pasante Administración de Contenidos
-
-<figure class="image is-128x128">
-  <img class="is-rounded" src="/assets/images/fondos_layout/venado1_cp.jpg">
-</figure>
+|           |            |              |
+|-----------|------------| -------------|
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-DairoEscobar.jpg"></figure> |Dairo Escobar| Coordinación |
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-DairoEscobar.jpg"></figure> |Jeimmy Díaz | Gestión y Cooperación |
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-DairoEscobar.jpg"></figure> |Camila Plata | Administración de Contenidos |
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-DairoEscobar.jpg"></figure> |Vanessa Porras | Productos y Servicios |
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-DairoEscobar.jpg"></figure> |Ricardo Ortiz | Administración de Contenidos |
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-DairoEscobar.jpg"></figure> |Esteban Marentes | Administración de Contenidos |
