@@ -8,17 +8,17 @@ imageLicense: |
 height: 70vh
 ---
 
+# Fecha:
+22-26 de julio de 2019
 
+# Lugar:
+Facultad de Ciencias Naturales y Exactas, Universidad Autónoma de Chiriquí, David, Chiriquí-Panamá.
+
+# Descripción
 
 El Portal GBIF (Global Biodiversity Information Facility) es el repositorio de información sobre biodiversidad más grande a nivel mundial, pero las contribuciones en GBIF desde Panamá se deben solamente a los esfuerzos de conservadores de colecciones extranjeras quienes digitalizaron la información de sus muestras provenientes de Panamá. Ninguna institución panameña ha contribuido hasta el momento a la red internacional GBIFm, aún cuando se tiene una masa crítica de información disponible en la región occidental del país; incluyendo las colecciones científicas en las universidades y los datos obtenidos por investigadores (observaciones en campo, eventos de muestreos, listas de especies, metadatos). El presente taller facilitó a los participantes las herramientas necesarias para aumentar la visibilidad de sus datos de biodiversidad a través de la red GBIF y mediante artículos de datos, y de esta manera contribuirá a la creación de un repositorio nacional de la biodiversidad de Panamá.
 
-## Fecha:
-22-26 de julio de 2019
-
-## Lugar:
-Facultad de Ciencias Naturales y Exactas, Universidad Autónoma de Chiriquí, David, Chiriquí-Panamá.
-
-Logros:
+## Logros:
 
 Los 33 participantes del taller aprendieron sobre estandarización, manejo y calidad de datos sobre Biodiversidad. Las habilidades adquiridas durante el taller les permitirán mejorar sus prácticas internas de planeación, recolección y manejo de datos.
 
@@ -77,7 +77,7 @@ A corto plazo se espera obtener publicaciones de conjuntos de datos de biodivers
 - GBIF
 - SiB Colombia
 
-## Enlaces de interés:
+# Enlaces de interés:
 
 - [Agenda y asistentes](https://drive.google.com/drive/folders/1mcr3mJsJUemnmxR8whVV6fp4M_0BPHV2?usp=sharing)
 - [Fotografías](https://drive.google.com/drive/folders/1kQxoUhxoKBBGPOX6yoLnmwvbsonvtLTO?usp=sharing)
