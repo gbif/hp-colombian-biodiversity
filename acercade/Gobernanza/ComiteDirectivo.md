@@ -48,7 +48,7 @@ El SiB Colombia es liderado por un Comité directivo (**CD-SiB**), el cual se de
 
 |     |      |
 |-----|------|
-|<figure class="image is-320x320"><img src="/assets/images/logosEntidades/IIAP.jpg"></figure>|[**Instituto de Investigaciones Ambientales del Pacífico**](http://www.humboldt.org.co/es/)<br><br>_Delegados Comité Directivo_<br> - William Klinger Brahan (Principal) (_principal_)<br> - Jimmy Geovanny Lloreda (_suplente_)<br><br>_Delegados Comité Técnico_<br>- Zulmary Valoyes <br>- Luis Eladio Rentería<br>|
+|<figure class="image is-320x320"><img src="/assets/images/logosEntidades/IIAP.jpg"></figure>|[**Instituto de Investigaciones Ambientales del Pacífico**](http://www.humboldt.org.co/es/)<br><br>_Delegados Comité Directivo_<br> - William Klinger Brahan (_principal_)<br> - Jimmy Geovanny Lloreda (_suplente_)<br><br>_Delegados Comité Técnico_<br>- Zulmary Valoyes <br>- Luis Eladio Rentería<br>|
 
 
 |     |      |
