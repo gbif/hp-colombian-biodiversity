@@ -1,26 +1,20 @@
 gobernanza:
   title: Gobernanza
   description: |
-    La gobernanza se refiere a la organzación interna del SiB, se compone de las siguientes tres partes:
+    El SiB Colombia es liderado por un Comité Directivo (CD-SiB) que se desempaña como la instancia de gobernanza del sistema y se apoya a su vez en un Comité Técnico (CT-SIB), grupos de trabajo Ad Hoc para temas específicos y el equipo coordinador del SiB Colombia (EC-SiB).
   features:
     - preTitle:  # optional
-      title: Comité directivo # required
+      title: Comité técnico y directivo # required
       description: |      # required
-       El comite directivo esta conformado por las entidades que componen el sistema
+       Entidades que conforman el CD-SiB y sus delegados al CT-SiB.
       # img required
       background: /assets/images/logos/72logoSiBhorizontalB.png
       href: /acercade/Gobernanza/ComiteDirectivo
-    - preTitle: # optional
-      title: Comité técnico
-      href: /acercade/Gobernanza/ComiteTecnico
-      description: |      # required
-        El comite técnico esta conformado por los delegados del directivo
-      background: /assets/images/logos/72logoSiBhorizontalB.png
     - preTitle:   # optional
       title: Equipo Coordinador    # required
       href: /acercade/Gobernanza/EquipoCoordinador
       description: |      # required
-       Miembros actuales del equipo coordinador
+       Actuales participantes del Equipo Coordinador
       background: /assets/images/logos/72logoSiBhorizontalB.png
  
 # Feature cards
