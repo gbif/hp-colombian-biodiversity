@@ -43,7 +43,7 @@ El SiB Colombia es liderado por un Comité directivo (**CD-SiB**), el cual se de
 
 <figure class="image is-128x128">
   <img src="https://bulma.io/images/placeholders/128x128.png">
-</figure>{: .inline-left }**Instituto de Investigación de Recursos Biológicos Alexander von Humboldt**
+</figure>{: .inline-left } **Instituto de Investigación de Recursos Biológicos Alexander von Humboldt**
 
 _Delegados:_
 
