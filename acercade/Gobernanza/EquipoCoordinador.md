@@ -1,17 +1,14 @@
 ---
 layout: heroImage
 title: Equipo Coordinador
-description: Equipo Coordinador y miembros actuales
-background: /assets/images/fondos_layout/O7A3708_Villegas-Velez-Felipe.jpg
+description: El Equipo Coordinador del SiB Colombia (EC-SiB), cumple las funciones de secretaría técnica, acogiendo e implementando las recomendaciones del Comité Directivo del SiB Colombia (CD-SiB).
+background: /assets/images/fondos_layout/tetragoniscaNido_cp.jpg
 imageLicense: |
-  Fotografía de: Felipe Villegas-Vélez Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
+  Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/) 
 height: 70vh
 ---
 
-El Equipo Coordinador del SiB Colombia (EC-SiB), cumple las funciones de secretaría técnica, acogiendo e implementando las recomendaciones del Comité Directivo del SiB Colombia (CD-SiB).
-
-En la actualidad, esta conformado por:
-
+En la actualidad el EC-SiB está conformado por:
 
 |           |            |              |
 |-----------|------------| -------------|
