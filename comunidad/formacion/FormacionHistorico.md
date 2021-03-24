@@ -42,7 +42,7 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
       <td>David (Chiriquí)</td>
     </tr>
     <tr>
-      <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Observatorio de Bosques de Antioquia</a></td>
+      <td><a href="/comunidad/formacion/historico/Taller-OBA-201907" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Observatorio de Bosques de Antioquia</a></td>
       <td>Jul 2019</td>
       <td>CO</td>
       <td>Medellín (Antioquia)</td>
