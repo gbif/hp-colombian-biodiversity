@@ -15,8 +15,8 @@ En la actualidad, esta conformado por:
 |           |            |              |
 |-----------|------------| -------------|
 |<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-DairoEscobar.jpg"></figure> |Dairo Escobar| Coordinación |
-|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-DairoEscobar.jpg"></figure> |Jeimmy Díaz | Gestión y Cooperación |
-|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-DairoEscobar.jpg"></figure> |Camila Plata | Administración de Contenidos |
-|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-DairoEscobar.jpg"></figure> |Vanessa Porras | Productos y Servicios |
-|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-DairoEscobar.jpg"></figure> |Ricardo Ortiz | Administración de Contenidos |
-|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-DairoEscobar.jpg"></figure> |Esteban Marentes | Administración de Contenidos |
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-JeimmyDiaz.jpg"></figure> |Jeimmy Díaz | Gestión y Cooperación |
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-CamilaPlata.jpg"></figure> |Camila Plata | Administración de Contenidos |
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/VanessaPorras.jpg"></figure> |Vanessa Porras | Productos y Servicios |
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/RicardoOrtiz.jpg"></figure> |Ricardo Ortiz | Administración de Contenidos |
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-EstebanMarentes.jpg"></figure> |Esteban Marentes | Administración de Contenidos |
