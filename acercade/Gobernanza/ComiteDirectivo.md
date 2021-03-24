@@ -42,9 +42,7 @@ El SiB Colombia es liderado por un Comité directivo (**CD-SiB**), el cual se de
 
 
 ![alt text](https://via.placeholder.com/200x200){: .inline-left } **Instituto de Investigación de Recursos Biológicos Alexander von Humboldt**
-_Delegados:_
-
-Comité Directivo | Comité técnico
+<br>_Delegados:_<br> Comité Directivo | Comité técnico
 -----------------|---------------
 Hernando Garcia (_principal_) | José Manuel Ochoa (_principal_)
 José Manuel Ochoa (_suplente_)| Daniel Lopez (_suplente_)
