@@ -1,6 +1,5 @@
 ---
 layout: default
-klass: directivo
 title: Comité directivo
 description: El Comité directivo es la instancia máxima de gobernandza del SiB Colombia
 ---
@@ -40,26 +39,6 @@ El SiB Colombia es liderado por un Comité directivo (**CD-SiB**), el cual se de
   </tr>
 </table>
 
-![alt text](/assets/images/logosEntidades/InstitutoHumboldt.jpg){: .inline-left } **Instituto de Investigación de Recursos Biológicos Alexander von Humboldt**
-<br>
-_Delegados Comité Directivo_
-* Hernando Garcia (_principal_)
-* José Manuel Ochoa (_suplente_)<br>
-
-_Delegados Comité Técnico_
-* José Manuel Ochoa (_principal_)
-* Daniel Lopez (_suplente_)|
- 
-
-<figure class="image is-128x128"><img src="/assets/images/logosEntidades/InstitutoHumboldt.jpg"></figure>{: .inline-left } **Instituto de Investigación de Recursos Biológicos Alexander von Humboldt**
-<br>
-_Delegados Comité Directivo_
-* Hernando Garcia (_principal_)
-* José Manuel Ochoa (_suplente_)<br>
-
-_Delegados Comité Técnico_
-* José Manuel Ochoa (_principal_)
-* Daniel Lopez (_suplente_)|
 
 
 |     |      |
