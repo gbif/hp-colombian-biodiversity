@@ -60,3 +60,8 @@ _Delegados Comité Directivo_
 _Delegados Comité Técnico_
 * José Manuel Ochoa (_principal_)
 * Daniel Lopez (_suplente_)|
+
+
+|     |      |
+|-----|------|
+|<figure class="image is-128x128"><img src="/assets/images/logosEntidades/InstitutoHumboldt.jpg"></figure>|[**Instituto de Investigación de Recursos Biológicos Alexander von Humboldt**](http://www.humboldt.org.co/es/)<br>_Delegados Comité Directivo_<br> - Hernando Garcia (_principal_)<br> - José Manuel Ochoa (_suplente_)<br>_Delegados Comité Técnico_<br>- José Manuel Ochoa (_principal_)<br>- Daniel Lopez (_suplente_<br>|
