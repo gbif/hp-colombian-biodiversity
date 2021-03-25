@@ -23,7 +23,7 @@ planImplementacion:
   description:  |      
     El plan de implementación contiene la descripción de los lineamientos a seguir para cumplir las metas propuestas por el comité. 
     Dentro de los procesos de consolidación del SiB Colombia, el Equipo Coordinador ha trabajado en la identificación de cinco ejes de trabajo a partir de los lineamientos generados por los Comités Directivo y Técnico, así como las prioridades que han sido acordadas en iniciativas globales como GBIF, donde el SiB Colombia participa activamente como un nodo de país.
-  background: /assets/theme/img/patterns/wavy-dots.png
+  background: /assets/images/fondos_layout/PAU01047_Villegas-Velez-Felipe.jpg
   overlayColor: "#F1864E"
   hasWhiteText: false
   cta:
@@ -35,14 +35,14 @@ planImplementacion:
  
 # Feature cards
 ManualMarca:
-  title: Manual de marca
+  title: Manual de identidad
   description: |      # required
     El SiB Colombia se consolida formalmente como una marca institucional que tiene como único fin cuidar y seguir fortaleciendo la imagen ante los diferentes públicos y escenarios en los que se haga presencia.  
   background: /assets/theme/img/patterns/wavy-dots.png
-  overlayColor: "#ffffff55"
+  overlayColor: "#ffffffbb"
   hasWhiteText: false
   cta:
-  - text: Manual de identidad
+  - text: Accede al manual
     href: /acercade/ManualIdentidad
   - text: Logo
     href: https://sibcolombia.net/wp-content/uploads/2016/12/SiB-Colombia-v2.png
