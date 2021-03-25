@@ -226,10 +226,8 @@ Puede usar otros identificadores de la colección de la que procede el registro.
   <ul>
    <li><a href="http://grscicoll.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology" target="_blank">http://grscicoll.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology</a> </li>
    <li><a href="http://grbio.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology" target="_blank">http://grbio.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology</a> </li>
-  </ul>
- </li>  
-</ul>
-</details>
+  </ul></li>  
+</ul></details>
 
 ___
 
