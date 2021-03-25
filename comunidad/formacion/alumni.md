@@ -9,7 +9,6 @@ height: 70vh
 ---
 
 
-
 |           |Pasante     | Periodo      | Carrera  |Experiencia|
 |-----------|------------| -------------|----------|-----------|
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/alumni/no_profilePicture.png"></figure> |_Nicolás Mejía_| 2015-II|Comunicador Social | _"Cambia vidas"_|
@@ -26,4 +25,4 @@ height: 70vh
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/alumni/Alumni-NataliaMedina.jpg"></figure> |_Natalia Medina_ | 2020-I | Ingeniería Ambiental y Sanitaria |_"Mi experiencia en el SiB Colombia fue retadora, así como muy gratificante y enriquecedora en mi labor profesional."_|
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/alumni/no_profilePicture.png"></figure> |_Valentina Villota_ | 2020-I | Lingüística |_"Si bien tuve que enfrentar bastantes retos, me sentí muy cómoda gracias al apoyo del equipo y a la articulación que hice entre mi conocimiento académico y su apliación en un ámbito laboral."_|
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/alumni/Alumni-SantiagoPaz.jpg"></figure> |_Santiago Paz_ | 2020-II | Administración de Empresas |_"Enriquecedora e innovadora."_|
-___
+
