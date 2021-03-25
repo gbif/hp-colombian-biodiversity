@@ -1,6 +1,6 @@
 ---
 layout: heroImage
-title: Datos abiertos sobre biodiversidad desde el sector empresarial
+title: Alianza ANDI-SiB Colombia
 description: Datos abiertos sobre biodiversidad desde el sector empresarial
 background: /acercade/imagenes/Empresas.png
 imageLicense: |
