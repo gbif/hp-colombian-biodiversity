@@ -35,6 +35,7 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
   min-width: 100px;
   height: 100px;
   min-height: 100px;
+  background: white;
 }
 
 // for usage on /formacion/formacionhistorico
@@ -73,15 +74,4 @@ th.city {
   // background-size: cover;
   background-attachment: fixed; // Imagen fija, que no se duplique para ocupar el espacio
   background-color: #FFFFFF // Fondo blanco
-}
-
-
-// Prueba Ajuste de color para stats
-
-.stats {
-   // background-color: #FFFFFF;
-  background: white;
-   // background-image: url('/assets/images/carlo_test_2a1.png');
-  background-size: cover;
-   // background-attachment: fixed;
 }
