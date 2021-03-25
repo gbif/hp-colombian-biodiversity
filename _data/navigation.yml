@@ -29,15 +29,15 @@
   menu: # Dropdown menu (one level deep only)
   - href: /recursos/ComoCitar
   - text: Herramienta de publicación
-    href: /recursos/IPT
+    href: /recursos/ipt
   - text: Acceso abierto
   - text: Cómo citar
     href: /recursos/ComoCitar
   - text: Repositorios
   - text: Estandarización
-    href: /recursos/Estandarizacion
+    href: /recursos/estandarizacion
   - text: Calidad de datos
-    href: /recursos/CalidadDeDatos
+    href: /recursos/calidaddedatos
   - text: Plantillas Darwin Core
     href: /recursos/Plantillas
 
@@ -61,9 +61,9 @@
 - text: Acerca de
   menu: # Dropdown menu (one level deep only)
   - text: SiB Colombia
-    href: /acercade/SiB_Colombia
+    href: /acercade/sib_colombia
   - text: Aliados
-    href: /acercade/Aliados/ANDI
+    href: /acercade/aliados/andi
   - text: Términos y condiciones
     href: /terminosCondiciones/PoliticaPublicacion
   
