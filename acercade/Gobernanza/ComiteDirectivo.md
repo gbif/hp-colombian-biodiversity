@@ -6,9 +6,10 @@ description: El Comité directivo es la instancia máxima de gobernandza del SiB
 
 El SiB Colombia es liderado por un Comité directivo (**CD-SiB**), el cual se desempaña como la instancia de gobernanza del sistema y está conformado por el **Ministerio de Ambiente y Desarrollo Sostenible**, los 5 institutos de investigación del SINA (**IAVH, Invemar, Sinchi, IIAP** e **IDEAM**) la **Universidad Nacional de Colombia** y **Parques Nacionales Naturales de Colombia**. El CD-SiB se apoya a su vez, en un Comité Técnico (**CT-SIB**), grupos de trabajo Ad Hoc para temas específicos y el equipo coordinador del SiB Colombia (**EC-SiB**).
 
+
 |     |      |
 |-----|------|
-|<figure class="image is-256x256"><img src="/assets/images/logosEntidades/MADS.jpg"></figure>|[**Ministerio de Ambiente y Desarrollo Sostenible**](http://www.minambiente.gov.co/)<br><br>_Delegados Comité Directivo_<br> - Yenny Paola Devia  (_principal_)<br><br>_Delegados Comité Técnico_<br>- Por confirmar <br>|
+|<figure class="image is-256x256"><img src="/assets/images/logosEntidades/MADS.png"></figure>|[**Ministerio de Ambiente y Desarrollo Sostenible**](http://www.minambiente.gov.co/)<br><br>_Delegados Comité Directivo_<br> - Yenny Paola Devia  (_principal_)<br><br>_Delegados Comité Técnico_<br>- Por confirmar <br>|
 
 
 |     |      |
@@ -31,9 +32,6 @@ El SiB Colombia es liderado por un Comité directivo (**CD-SiB**), el cual se de
 |-----|------|
 |<figure class="image is-256x256"><img src="/assets/images/logosEntidades/SINCHI.jpg"></figure>|[**Instituto Amazónico de Investigaciones Científicas Sinchi**](http://www.sinchi.org.co/)<br><br>_Delegados Comité Directivo_<br> - Luz Marina Mantilla Cárdenas (Principal) <br> - Marco Ehrlich (_suplente_)<br><br>_Delegados Comité Técnico_<br>- Dairon Cardenas <br>- Sonia Sua <br>- Nicolás Castaño <br>|
 
-|     |      |
-|-----|------|
-|<figure class="image is-256x256"><img src="/assets/images/logosEntidades/SINCHI.jpg"></figure>|[**Parques Nacionales Naturales de Colombia**](http://www.sinchi.org.co/)<br><br>_Delegados Comité Directivo_<br> - Pedro Orlando Molano Pérez (Principal) <br> - Carolina Jarro (_suplente_)<br><br>_Delegados Comité Técnico_<br>- Margarita Rozo <br>|
 
 |     |      |
 |-----|------|
@@ -46,5 +44,4 @@ El SiB Colombia es liderado por un Comité directivo (**CD-SiB**), el cual se de
 
 |     |      |
 |-----|------|
-|<figure class="image is-256x256"><img src="/assets/images/logosEntidades/IDEAM.jpg"></figure>|[**Instituto de Hidrología, Meteorología y Estudios Ambientales IDEAM**](http://www.ideam.gov.co/)<br><br>_Delegados Comité Directivo_<br> - Yolanda González (Principal) <br> - Ana Celia Salinas Martín (_suplente_)<br><br>_Delegados Comité Técnico_<br>- Natalia Córdoba <br>- Liz Johana Díaz<br
-
+|<figure class="image is-256x256"><img src="/assets/images/logosEntidades/IDEAM.jpg"></figure>|[**Instituto de Hidrología, Meteorología y Estudios Ambientales IDEAM**](http://www.ideam.gov.co/)<br><br>_Delegados Comité Directivo_<br> - Yolanda González (Principal) <br> - Ana Celia Salinas Martín (_suplente_)<br><br>_Delegados Comité Técnico_<br>- Natalia Córdoba <br>- Liz Johana Díaz<br>|
