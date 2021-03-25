@@ -16,6 +16,8 @@ bioCifras:
 #cards
 tarjetasBioCifras:
   title: Ventanas regionales
+  background: https://live.staticflickr.com/65535/51066160306_ffa141f9bd_k.jpg
+  overlayColor: "#ffffffbb"
   # description: Ejes de formación:  # No se incluyó una descripción en la sección de tarjetas
     
   features:
