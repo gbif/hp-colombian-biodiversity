@@ -10,11 +10,10 @@ height: 70vh
 
 
 
-
 |           |Pasante     | Periodo      | Carrera  |Experiencia|
 |-----------|------------| -------------|----------|-----------|
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/alumni/no_profilePicture.png"></figure> |_Nicolás Mejía_| 2015-II|Comunicador Social | _"Cambia vidas"_|
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/alumni/no_profilePicture.png"></figure> |_Santiago Llano_ |2016-I|Comunicación social |_"Muy enriquecedora, una formación más seria y real que la de la universidad, en especial por el equipo, el trabajo colaborativo y el volley."_"|
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/alumni/Alumni-SantiagoLlano.jpg"></figure> |_Santiago Llano_ |2016-I|Comunicación social |_"Muy enriquecedora, una formación más seria y real que la de la universidad, en especial por el equipo, el trabajo colaborativo y el volley."_"|
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/alumni/no_profilePicture.png"></figure> |_Laura Cabrera_ |2017-II | Comunicación social |_"Fue una oportunidad gratificante para descubrir nuevas maneras de aplicar la comunicación social en un contexto científico."_ |
 |<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-EstebanMarentes.jpg"></figure> |_Esteban Marentes_ | 2018-I| Biología Ambiental|_"Una magnífica oportunidad para aplicar y adquirir nuevos conocimientos, en el mejor ambiente posible."_|
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/alumni/no_profilePicture.png"></figure> |_Diana Gaviria_ | 2018-I | Biología |_"Una experiencia enriquecedora y muy bonita. Ha permitido acercarme a mí profesión desde un enfoque que no había contemplado, y aprender mucho sobre colecciones biológicas."_|
@@ -27,5 +26,4 @@ height: 70vh
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/alumni/Alumni-NataliaMedina.jpg"></figure> |_Natalia Medina_ | 2020-I | Ingeniería Ambiental y Sanitaria |_"Mi experiencia en el SiB Colombia fue retadora, así como muy gratificante y enriquecedora en mi labor profesional."_|
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/alumni/no_profilePicture.png"></figure> |_Valentina Villota_ | 2020-I | Lingüística |_"Si bien tuve que enfrentar bastantes retos, me sentí muy cómoda gracias al apoyo del equipo y a la articulación que hice entre mi conocimiento académico y su apliación en un ámbito laboral."_|
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/alumni/Alumni-SantiagoPaz.jpg"></figure> |_Santiago Paz_ | 2020-II | Administración de Empresas |_"Enriquecedora e innovadora."_|
-
 
