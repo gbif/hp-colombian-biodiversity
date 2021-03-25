@@ -4,11 +4,11 @@ layout: compose
 title: Biodiversidad en Cifras
 description: |
    Cifras de grupos biológicos y temáticos
-background: https://live.staticflickr.com/8483/8205952042_c840217645_h.jpg
+background: https://live.staticflickr.com/65535/51066160306_ffa141f9bd_k.jpg
 imageLicense: |
    _Florae Columbiae_ Archivo de: Biodiversity Heritage Library vía [Flickr](https://www.flickr.com/photos/biodivlibrary/8205952042/in/album-72157632062538373/)
 height: 50vh
-# parallax: true # prueba overlay
+parallax: true # prueba overlay
 # overlayColor: "#ffffffbb" # prueba overlay
 # hasTextShadow: true # prueba overlay
 # hasBlackText: true # prueba overlay
@@ -22,4 +22,6 @@ composition:
 
 ---
 
-Tradicionalmente el Equipo Coordinador del SiB Colombia ha facilitado talleres presenciales para la publicación y gestión de los datos sobre biodiversdidad, la gran demanda de estos talleres y el alto interés de la comunidad nos ha motivado a generar una estrategía de formación con un fuerte componente virtual para llegar a una mayor cantidad de personas y regiones del país. Así mismo, se han ampliado las temáticas de formación para cubrir los temas de interes de nuestra red.
+Biodiversidad en Cifras presenta de manera sintetizada el estado del conocimiento de la biodiversidad del país, a partir de los datos disponibles a través del SiB Colombia y fuentes secundarias. Este canal cuenta con tres ejes principales de síntesis: cifras por grupos biológicos, cifras por áreas geográficas, y temáticas de conservación, uso y manejo, siendo este último un eje transversal a los dos anteriores. 
+
+Biodiversidad en Cifras, además de permitir consultar el estado de conservación y amenaza de la biodiversidad a nivel nacional, representa el proceso de regionalización del SiB Colombia, convirtiéndose también en la ventana a la biodiversidad regional, con cifras más detalladas para algunas regiones, como es el caso para los departamentos de Santander y Boyacá.
