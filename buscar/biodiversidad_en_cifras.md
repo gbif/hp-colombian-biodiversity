@@ -10,8 +10,8 @@ imageLicense: |
 height: 50vh
 parallax: true # prueba overlay
 overlayColor: "#2A1846" # prueba overlay
-# hasTextShadow: true # prueba overlay
-# hasBlackText: true # prueba overlay
+hasTextShadow: true # prueba overlay
+hasBlackText: true # prueba overlay
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
