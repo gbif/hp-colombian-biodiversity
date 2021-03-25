@@ -5,7 +5,7 @@ description: Herramientas para aplicar el estándar internacional Darwin Core
 background: /assets/images/fondos_layout/DSC0928_MarentesEsteban.JPG
 imageLicense: |
    Fotografía de: Esteban Marentes Herrera- SiB Colombia [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
-height: 70vh
+height: 50vh
 ---
 
 # Herramientas de calidad para Darwin Core 
