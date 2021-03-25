@@ -5,8 +5,8 @@ bioCifras:
   title: Colombia
   description: |      # required
     Segundo país con mayor biodiversidad en el mundo.....
-  background: /assets/theme/img/patterns/wavy-dots.png
-  overlayColor: "#eef3f3"
+  background: https://live.staticflickr.com/65535/51066160306_ffa141f9bd_k.jpg
+  overlayColor: "#ffffffbb"
   hasWhiteText: false
   cta:
   - text: Ingresa
