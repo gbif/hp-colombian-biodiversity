@@ -38,10 +38,10 @@ tarjetasFormacion:
         Este programa busca formar a futuros profesionales en informática de la biodiversidad, visualización y divulgación científica.
       background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
       cta:
-      - text: Programa
+      - text: Nuestros pasantes
         href: /data
         isPrimary: true
-      - text: Oportunidades 2021
+      - text: Oportunidades
         href: /data
         
       
