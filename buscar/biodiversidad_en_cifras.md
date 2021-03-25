@@ -9,7 +9,7 @@ imageLicense: |
    _Florae Columbiae_ Archivo de: Biodiversity Heritage Library vía [Flickr](https://www.flickr.com/photos/biodivlibrary/8205952042/in/album-72157632062538373/)
 height: 50vh
 parallax: true # prueba overlay
-overlayColor: "#F3EDFD" # prueba overlay
+overlayColor: "#ffffffbb" # prueba overlay
 hasTextShadow: true # prueba overlay
 hasBlackText: true # prueba overlay
 composition:
