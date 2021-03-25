@@ -66,10 +66,12 @@ th.city {
   border: 0px;
 }
 
+// Ajuste de color para el features = cards de post y otros card incluidos via yml
+
 .features {
   // background-image: url('/assets/images/carlo_test_2a1.png');
   // background-size: cover;
-  // background-attachment: fixed;
-  background-color: #FFFFFF
+  background-attachment: fixed; // Imagen fija, que no se duplique para ocupar el espacio
+  background-color: #FFFFFF // Fondo blanco
 }
 
