@@ -6,43 +6,13 @@ description: El Comité directivo es la instancia máxima de gobernandza del SiB
 
 El SiB Colombia es liderado por un Comité directivo (**CD-SiB**), el cual se desempaña como la instancia de gobernanza del sistema y está conformado por el **Ministerio de Ambiente y Desarrollo Sostenible**, los 5 institutos de investigación del SINA (**IAVH, Invemar, Sinchi, IIAP** e **IDEAM**) la **Universidad Nacional de Colombia** y **Parques Nacionales Naturales de Colombia**. El CD-SiB se apoya a su vez, en un Comité Técnico (**CT-SIB**), grupos de trabajo Ad Hoc para temas específicos y el equipo coordinador del SiB Colombia (**EC-SiB**).
 
-
-
 |     |      |
 |-----|------|
 |<figure class="image is-128x128"><img style="padding-left: 0px; padding-bottom: 0px; padding-right: 0px; padding-top: 0px; float: right; text-align: center;" src="/assets/images/logosEntidades/MADS.png"></figure>|[**Ministerio de Ambiente y Desarrollo Sostenible**](http://www.minambiente.gov.co/)<br><br>_Delegados Comité Directivo_<br> - Yenny Paola Devia  (_principal_)<br><br>_Delegados Comité Técnico_<br>- Por confirmar <br>|
-
-
-|     |      |
-|-----|------|
 |<figure class="image is-128x128"><img style="padding-left: 0px; padding-bottom: 0px; padding-right: 0px; padding-top: 0px; float: right; text-align: center;" src="/assets/images/logosEntidades/Invemar.jpg"></figure>|[**Instituto de Investigaciones Marinas y Costeras "José Benito Vives de Andreis"**](http://www.invemar.org.co/)<br><br>_Delegados Comité Directivo_<br> - Francisco A. Arias Isaza (_principal_)<br> - David Alonso Carvajal (_suplente_)<br><br>_Delegados Comité Técnico_<br>- Erika Montoya Cadavid<br>- Julián Pizarro<br>- Julio Bohorquez<br>|
-
-
-
-|     |      |
-|-----|------|
 |<figure class="image is-128x128"><img src="/assets/images/logosEntidades/IIAP.jpg"></figure>|[**Instituto de Investigaciones Ambientales del Pacífico**](https://iiap.org.co/)<br><br>_Delegados Comité Directivo_<br> - William Klinger Brahan (Principal) (_principal_)<br> - Jimmy Geovanny Lloreda (_suplente_)<br><br>_Delegados Comité Técnico_<br>- Zulmary Valoyes <br>- Luis Eladio Rentería<br>|
-
-
-|     |      |
-|-----|------|
 |<figure class="image is-128x128"><img src="/assets/images/logosEntidades/InstitutoHumboldt.jpg"></figure>|[**Instituto de Investigación de Recursos Biológicos Alexander von Humboldt**](http://www.humboldt.org.co/es/)<br><br>_Delegados Comité Directivo_<br> - Hernando Garcia (_principal_)<br> - José Manuel Ochoa (_suplente_)<br><br>_Delegados Comité Técnico_<br>- José Manuel Ochoa (_principal_)<br>- Daniel Lopez (_suplente_)<br>|
-
-
-|     |      |
-|-----|------|
 |<figure class="image is-128x128"><img src="/assets/images/logosEntidades/SINCHI.jpg"></figure>|[**Instituto Amazónico de Investigaciones Científicas Sinchi**](http://www.sinchi.org.co/)<br><br>_Delegados Comité Directivo_<br> - Luz Marina Mantilla Cárdenas (Principal) <br> - Marco Ehrlich (_suplente_)<br><br>_Delegados Comité Técnico_<br>- Dairon Cardenas <br>- Sonia Sua <br>- Nicolás Castaño <br>|
-
-
-|     |      |
-|-----|------|
 |<figure class="image is-128x128"><img src="/assets/images/logosEntidades/PNN.jpg"></figure>|[**Parques Nacionales Naturales de Colombia**](http://www.parquesnacionales.gov.co/portal/es/)<br><br>_Delegados Comité Directivo_<br> - Pedro Orlando Molano Pérez (Principal) <br> - Carolina Jarro (_suplente_)<br><br>_Delegados Comité Técnico_<br>- Margarita Rozo <br>|
-
-|     |      |
-|-----|------|
 |<figure class="image is-128x128"><img src="/assets/images/logosEntidades/UN.jpg"></figure>|[**Parques Nacionales Naturales de Colombia**](http://unal.edu.co/)<br><br>_Delegados Comité Directivo_<br> - Gonzalo Andrade (Principal) <br> - Johanna Castiblanco (_suplente_)<br><br>_Delegados Comité Técnico_<br>- Gonzalo Andrade <br>- Johanna Castiblanco<br>|
-
-
-|     |      |
-|-----|------|
 |<figure class="image is-128x128"><img src="/assets/images/logosEntidades/IDEAM.jpg"></figure>|[**Instituto de Hidrología, Meteorología y Estudios Ambientales IDEAM**](http://www.ideam.gov.co/)<br><br>_Delegados Comité Directivo_<br> - Yolanda González (Principal) <br> - Ana Celia Salinas Martín (_suplente_)<br><br>_Delegados Comité Técnico_<br>- Natalia Córdoba <br>- Liz Johana Díaz<br>|
