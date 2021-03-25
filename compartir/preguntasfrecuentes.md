@@ -222,12 +222,13 @@ ___
 Puede usar otros identificadores de la colección de la que procede el registro. Para especímenes; la práctica recomendada es utilizar el identificador de un índice de colección tal como el Índice de Colecciones de Biodiversidad disponible en: <a href="https://www.gbif.org/grscicoll" target="_blank">https://www.gbif.org/grscicoll</a>
 
 <ul>
- <il><b>Ejemplo:</b> Para documentar el elemento collectionID de las “Colecciones Biológicas Universidad CES”, hay dos opciones:
-  <ul>
-   <li><a href="http://grscicoll.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology" target="_blank">http://grscicoll.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology</a> </li>
-   <li><a href="http://grbio.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology" target="_blank">http://grbio.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology</a> </li>
-  </ul></li>  
-</ul></details>
+    <li><B>Ejemplo: </B>Para documentar el elemento collectionID de las “Colecciones Biológicas Universidad CES”, hay dos opciones:</li>
+    <ul>
+    <li><a href="http://grscicoll.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology" target="_blank">http://grscicoll.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology</a></li>
+    <li><a href="http://grbio.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology" target="_blank">http://grbio.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology</a></li>
+    </ul>   
+    </ul>     
+    </details>
 
 ___
 
