@@ -25,7 +25,7 @@ ___
     
 <br>
 El SiB Colombia es una red de organizaciones, si desea publicar datos sobre biodiversidad y no pertenece a una organización, puede contactar un grupo de investigación en una universidad, red o asociación de especialistas, para que respalden su publicación como organización. También puede hacer uso de plataformas de ciencia ciudadana como <a href= "https://play.google.com/store/apps/details?id=edu.cornell.birds.ebird&hl=es_419" target="_blank">eBird</a> o <a href="https://play.google.com/store/apps/details?id=org.inaturalist.android&hl=es_419" target="_blank">iNaturalist</a>, los datos que se publican a través de estas plataformas eventualmente serán visibles en el
-<a href="/home">SiB Colombia</a> y <a href="https://www.gbif.org/" target="_blank">GBIF</a>. </details>
+<a href="/">SiB Colombia</a> y <a href="https://www.gbif.org/" target="_blank">GBIF</a>. </details>
 
 ___
 
@@ -33,7 +33,7 @@ ___
     <summary markdown="span"><b>¿Cómo actualizar la información de la organización?</b></summary>
     
 <br>
-Envíe un correo a sib@humboldt.org.co indicando la intención de actualizar la información de la organización e indicando los campos que desea actualizar.</details>
+Envíe un correo a <a href="mailto:sib@humboldt.org.co">sib@humboldt.org.co</a> indicando la intención de actualizar la información de la organización e indicando los campos que desea actualizar.</details>
 
 
 ## Tipos de datos
@@ -182,7 +182,7 @@ ___
 Para publicar medidas o rasgos funcionales asociados a un registros biológico, debes documentar la extensión <a href="https://tools.gbif.org/dwca-validator/extension.do?id=dwc:MeasurementOrFact" target="_blank">Measurement or Facts</a>  del estándar Darwin Core.  
 
 <ul>
-        <li> <a href="https://ipt.biodiversidad.co/sib/archive.do?r=herpetofauna-y-avifauna-de-villeta-guaduas-cundinamarca&v=2.2encontrarás" target="_blank">Aquí</a> un ejemplo del uso de la extensión de Medidas y Hechos en una  <a href="https://ipt.biodiversidad.co/sib/manage/resource.do?r=herpetofauna-y-avifauna-de-villeta-guaduas-cundinamarca" target="_blank">publicación</a>.</li>  
+        <li> <a href="https://ipt.biodiversidad.co/sib/archive.do?r=herpetofauna-y-avifauna-de-villeta-guaduas-cundinamarca&v=2.2" target="_blank">Aquí encontrarás</a> un ejemplo del uso de la extensión de Medidas y Hechos en una <a href="https://doi.org/10.15472/uqcsnp" target="_blank">publicación</a>.</li>  
       </ul>
 </details>
 
@@ -204,11 +204,11 @@ En las listas de especies la categoría de amenaza se documenta en la extensión
 
 <br>
 Busque su colección en la lista de colecciones biológicas disponible en el Registro Nacional de Coleccciones Biológicas (RNC) y de acuerdo al número asignado documente en este campo “Registro Nacional de Colecciones Biológicas:” + número de la colección. 
-    
-Ejemplo:  Para documentar el elemento <i>collectionID</i> del Herbario Federico Meden Bogotá:
+
 <ul>
-    <li>RNC:004 
-      <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/compartir/Imagenes/PreguntaFrecuente1.PNG" width=400></li>
+ <li><b>Ejemplo: </b>Para documentar el elemento <i>collectionID</i> del Herbario Federico Meden Bogotá: RNC:004 
+<br>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/compartir/Imagenes/PreguntaFrecuente1.PNG" width=400></li>
 </ul>
 </details>
 
@@ -221,15 +221,14 @@ ___
 <br>
 Puede usar otros identificadores de la colección de la que procede el registro. Para especímenes; la práctica recomendada es utilizar el identificador de un índice de colección tal como el Índice de Colecciones de Biodiversidad disponible en: <a href="https://www.gbif.org/grscicoll" target="_blank">https://www.gbif.org/grscicoll</a>
 
-Ejemplo:
-Para documentar el elemento collectionID de las “Colecciones Biológicas Universidad CES”, hay dos opciones:
-    <ul>
-        
-    
-
-<li><a href="http://grscicoll.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology" target="_blank">http://grscicoll.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology</a> </li>
-<li><a href="http://grbio.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology" target="_blank">http://grbio.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology</a> </li>
-        </ul>
+<ul>
+ <il><b>Ejemplo:</b> Para documentar el elemento collectionID de las “Colecciones Biológicas Universidad CES”, hay dos opciones:
+  <ul>
+   <li><a href="http://grscicoll.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology" target="_blank">http://grscicoll.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology</a> </li>
+   <li><a href="http://grbio.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology" target="_blank">http://grbio.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology</a> </li>
+  </ul>
+ </li>  
+</ul>
 </details>
 
 ___
@@ -586,7 +585,7 @@ Si perteneces a una <B>entidad que colecta pero no posee una colección</B> sigu
         <li>Metadatos básicos: Documentar <i>Subtipo</i> como “Observación”.</li>
         <li>Palabras clave: “PERMISO_COLECTA”</li>
         <li>Métodos de muestreo: Incluir los pasos para la preservación de los especímenes y su disposición en la colección biológica.</li>
-        <li>Datos de la colección: Documentar todas las colecciones donde haya depositado los especímenes, de acuerdo al<a href="http://rnc.humboldt.org.co/admin/index.php/registros/colecciones" target="_blank">Registro Nacional de Colecciones</a>.</li>
+        <li>Datos de la colección: Documentar todas las colecciones donde haya depositado los especímenes, de acuerdo al <a href="http://rnc.humboldt.org.co/admin/index.php/registros/colecciones" target="_blank">Registro Nacional de Colecciones</a>.</li>
       </ul>
 </ol>
 
