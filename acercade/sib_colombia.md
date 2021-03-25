@@ -6,7 +6,7 @@ description: Conoce la red nacional de datos abiertos sobre biodiversidad
 background: /assets/images/fondos_layout/DSC0048_MarentesEsteban.JPG
 imageLicense: |
    Fotografía de: Esteban Marentes Herrera- SiB Colombia [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
-height: 70vh
+height: 50vh
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
