@@ -8,7 +8,7 @@ gobernanza:
       description: |      # required
        Entidades que conforman el CD-SiB y sus delegados al CT-SiB.
       # img required
-      background: /assets/images/logos/72logoSiBhorizontalB.png
+      background: /acercade/imagenes/ComiteDirectivoSiB.jpg
       href: /acercade/Gobernanza/ComiteDirectivo
     - preTitle:   # optional
       title: Equipo Coordinador    # required
