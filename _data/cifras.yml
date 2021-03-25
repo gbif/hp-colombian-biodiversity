@@ -4,7 +4,7 @@
 bioCifras:
   title: Colombia
   description: |      # required
-    Segundo país con mayor biodiversidad en el mundo.....
+    País con la mayor biodiversidad de Aves y orquídes y segundo con la mayor biodiversidad total en el mundo después de Brasil.
   background: https://live.staticflickr.com/65535/51066160306_ffa141f9bd_k.jpg
   overlayColor: "#ffffffbb"
   hasWhiteText: false
