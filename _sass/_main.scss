@@ -16,27 +16,14 @@ $navbar-item-img-max-height: 3rem;
 }
 
 
-// for usage on /comunidad/ActividadPublicacion
-.actividad table img {
-  width: 40px;
-  min-width: 40px;
-  height: 20px;
-  min-height: 20px;
-}
-
-// for usage on /Gobernanza/ComiteDirectivo
+// for usage on /Gobernanza/ComiteDirectivo # Tabla para las entidades del comité directivo
 .directivo table img {
   width: 60px;
-  min-width: 60px;
-  height: 180px;
-  min-height: 180px;
+  min-width: 60px; /* Selección del ancho y alto de las celdas*/
+  height: 150px;
+  min-height: 150px;
 }
-table {
-  width: 100%;
-  border: 0px;
-  column-width: 15px;
-}
-th.orga1, th.orga2, th.orga3, th.orga4 {
+th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se puede fijar por individual cada una con un % diferente o en grupo*/
   width: 25%;
   border: 0px;
 }
