@@ -5,12 +5,12 @@ permalink: /comunidad/formacion
 title: Formación
 description: |
    Para la publicación acceso y uso de datos sobre Biodiversidad.
-background: https://live.staticflickr.com/8483/8205952042_c840217645_h.jpg
+background: https://live.staticflickr.com/65535/50917723763_90a8b6f081_b.jpg # https://live.staticflickr.com/8483/8205952042_c840217645_h.jpg
 imageLicense: |
    _Florae Columbiae_ Archivo de: Biodiversity Heritage Library vía [Flickr](https://www.flickr.com/photos/biodivlibrary/8205952042/in/album-72157632062538373/)
 height: 50vh
 parallax: true # prueba overlay
-# overlayColor: "#ffffffbb" # prueba overlay
+overlayColor: "#ffffffbb" # prueba overlay
 # hasTextShadow: true # prueba overlay
 # hasBlackText: true # prueba overlay
 composition:
