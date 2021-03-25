@@ -9,10 +9,10 @@ gobernanza:
        Entidades que conforman el CD-SiB y sus delegados al CT-SiB.
       # img required
       background: /acercade/imagenes/ComiteDirectivoSiB.jpg
-      href: /acercade/Gobernanza/ComiteDirectivo
+      href: /acercade/gobernanza/comitedirectivo
     - preTitle:   # optional
       title: Equipo Coordinador    # required
-      href: /acercade/Gobernanza/EquipoCoordinador
+      href: /acercade/gobernanza/equipocoordinador
       description: |      # required
        Actuales participantes del Equipo Coordinador
       background: /acercade/imagenes/equipocoordinador/EquipoCoordinador2020_villa.jpg
@@ -27,7 +27,7 @@ planImplementacion:
   hasWhiteText: true
   cta:
   - text: Plan de trabajo
-    href: /acercade/PlanTrabajo
+    href: /acercade/plantrabajo
   - text: Plan estratégico
     href: http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35500/PlanEstrategico_SiBColombia_versionfinal.pdf?sequence=4&isAllowed=y{:target="_blank"}
  
