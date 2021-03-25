@@ -60,7 +60,7 @@ splitExample:
   description: |      # required
     Este reporte mensual entrega una serie de gráficos, cifras y estadísticas de la actividad de publicación y uso de datos sobre biodiversidad publicados a través del SiB Colombia.
   # img required
-  background: /assets/images/landing_page/pieza_cf.jpg
+  background: /assets/images/landing_page/pieza_ciclo_de_formacion.jpg
   overlayColor: "#000033"
   href: https://sibcolombia.net/formacion/
   cta:
