@@ -5,7 +5,7 @@ description: El Comité técnico es la instancia de representación
 background: /assets/images/fondos_layout/O7A3708_Villegas-Velez-Felipe.jpg
 imageLicense: |
   Fotografía de: Felipe Villegas-Vélez Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
-height: 70vh
+height: 50vh
 ---
 
 El comité directivo esta conformado por los delegados de las entidades del comité directivo. Su principal propósito es hacer y evaluar propuestas junto al equipo coordinador.
