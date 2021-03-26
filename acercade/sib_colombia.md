@@ -26,7 +26,7 @@ El SiB Colombia es una realidad gracias a la participación de cientos de organi
 
 <h3><b>¿Para qué?</b></h3>
 
-{: .notification .is-info }
+is-info is-light
 Más y mejor información disponible, conectada y consolidada, que se transforma en conocimiento para conservar, aprovechar y conectarse con la biodiversidad.
 
 <div class="columns">
