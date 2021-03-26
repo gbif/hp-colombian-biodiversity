@@ -5,7 +5,7 @@ description: Iniciaremos con los conceptos generales sobre la importancia de com
 background: /assets/images/fondos_layout/QUI01259_Villegas-Velez-Felipe.jpg
 imageLicense: Working from home illustration from [DrawKit](https://www.drawkit.io/product/working-from-home-illustrations) # OPTIONAL
 toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
-height: 75vh
+height: 55vh
 parallax: true
 overlayColor: "#ffffffbb"
 hasTextShadow: true
