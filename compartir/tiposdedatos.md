@@ -32,7 +32,7 @@ Los registros biológicos representan la mayoría de los datos publicados a trav
 
 Adicionalmente, los registros biológicos son el tipo de datos que generalmente se derivan de un permiso de recolección, de acuerdo en lo establecido en los decretos 1376 y 3016 de 2013 -hoy compilados en el decreto 1076 de 2015 de la normativa colombiana-. En este contexto son la evidencia de la recolección definitiva o temporal de un organismo en un evento de colecta determinado.
 
-* [Consulta el Perfil DwC para registros biológicos.](/recursos/plantillas#eventos-de-muestreo)
+* [Consulta el Perfil DwC para registros biológicos.](/recursos/plantillas#registros-biologicos)
 * [Explora registros biológicos en el Portal de Datos.](/data)
 
 ---
@@ -43,7 +43,7 @@ Algunos conjuntos de datos pueden brindar un detalle mayor a la evidencia de la 
 Al indicar los métodos, número de eventos, y la abundancia relativa de las especies registradas en un muestreo, se pueden comparar los datos recolectados usando los mismos protocolos en diferentes épocas y lugares (monitoreo). En algunos casos, estos procesos permiten inferir la ausencia de ciertas especies en lugares determinados.
 
 * [Conoce más sobre los eventos de muestreo.](https://www.gbif.org/es/sampling-event-data)
-* [Consulta el perfil DwC para eventos de muestreo.](/recursos/plantillas#registros-biologicos)
+* [Consulta el perfil DwC para eventos de muestreo.](/recursos/plantillas#eventos-de-muestreo)
 * [Explora eventos de muestreo en el Portal de Datos.](/data)
 
 ---
