@@ -5,7 +5,7 @@ description: Este reporte mensual entrega una serie de gráficos, cifras y estad
 background: /assets/images/fondos_layout/O7A7140_Villegas-Velez-Felipe.jpg
 imageLicense: |
   Fotografía de: Felipe Villegas-Vélez Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
-height: 70vh
+height: 50vh
 ---
 
 
