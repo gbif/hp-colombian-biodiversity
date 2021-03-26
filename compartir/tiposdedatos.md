@@ -16,7 +16,7 @@ En el contexto del SiB Colombia los términos datos e información no son sinón
 Compartir a través del SiB Colombia tantos datos e información como sea posible es valioso, incluso aquella que pueda considerarse incompleta, aportará al conocimiento de nuestra biodiversidad y servirá para dar respuesta a preguntas fundamentales.
 
 
-_Para conocer más acerca de los datos e información que se publican a través del SiB Colombia, te invitamos a ver el video [¿Qué datos sobre nuestra biodiversidad se pueden publicar a través del SiB Colombia?](https://www.youtube.com/watch?v=_f4gGfIBN3U&t=2s) del Ciclo de Formación Virtual del SiB Colombia._
+_Para conocer más acerca de los datos e información que se publican a través del SiB Colombia, te invitamos a ver el video [¿Qué datos sobre nuestra biodiversidad se pueden publicar a través del SiB Colombia?](https://www.youtube.com/watch?v=_f4gGfIBN3U&t=2s){:target="_blank"} del Ciclo de Formación Virtual del SiB Colombia._
 
 
 
@@ -42,7 +42,7 @@ Algunos conjuntos de datos pueden brindar un detalle mayor a la evidencia de la 
 
 Al indicar los métodos, número de eventos, y la abundancia relativa de las especies registradas en un muestreo, se pueden comparar los datos recolectados usando los mismos protocolos en diferentes épocas y lugares (monitoreo). En algunos casos, estos procesos permiten inferir la ausencia de ciertas especies en lugares determinados.
 
-* [Conoce más sobre los eventos de muestreo.](https://www.gbif.org/es/sampling-event-data)
+* [Conoce más sobre los eventos de muestreo.](https://www.gbif.org/es/sampling-event-data){:target="_blank"}
 * [Consulta el perfil DwC para eventos de muestreo.](/recursos/plantillas#eventos-de-muestreo)
 * [Explora eventos de muestreo en el Portal de Datos.](/data)
 
@@ -55,7 +55,7 @@ Los conjuntos de datos sobre biodiversidad también pueden ser listas o catálog
 Las listas de especies funcionan como un resumen rápido o línea base de especies (u otros taxones) en un contexto determinado.
 
 * [Consulta el perfil DwC para listas de especies.](/recursos/plantillas#listas-de-especies)
-* [Explora listas de especies en el Portal Listas de Especies.](https://listas.biodiversidad.co/)
+* [Explora listas de especies en el Portal Listas de Especies.](https://listas.biodiversidad.co/){:target="_blank"}
 
 ---
 
@@ -76,8 +76,8 @@ La fichas de especies generalmente incluyen información sobre historia natural,
 * **Uso y conservación**: Información sobre la manera en que la especie es utilizada (servicios ecosistémicos), incluyendo folclore, gestión y conservación. Incluye también iniciativas de intervención destinadas a la preservación de las especies.
 * **Mapas, fotografías y videos**: Cualquier contenido multimedia sobre nuestras especies puede ser integrado y visible para el conocimiento de todos.
 
-* [Consulta el perfil PliC para fichas de especies.](https://github.com/tdwg/PlinianCore/wiki)
-* [Explorar fichas de especies en el Catálogo de la Biodiversidad.](https://catalogo.biodiversidad.co/)
+* [Consulta el perfil PliC para fichas de especies.](https://github.com/tdwg/PlinianCore/wiki){:target="_blank"}
+* [Explorar fichas de especies en el Catálogo de la Biodiversidad.](https://catalogo.biodiversidad.co/){:target="_blank"}
 
 ---
 
@@ -88,5 +88,5 @@ Los metadatos son el nivel más básico ofrecido por el SiB Colombia, permitiend
 
 También pueden ayudar a evaluar la importancia relativa y el valor de las colecciones biológicas sin digitalizar y establecer prioridades para futuros esfuerzos de digitalización. Al igual que el resto de los conjuntos de datos, el SiB Colombia asegura que cada conjunto de metadatos estará asociado con un único identificador de objetos digitales (DOI, por sus siglas en inglés),  para facilitar que los usuarios de estos recursos hagan una correcta citación.
 
-* [Consulta el perfil GMP para metadatos.](https://github.com/gbif/ipt/wiki/IPT2ManualManageResources.wiki#metadata)
+* [Consulta el perfil GMP para metadatos.](https://github.com/gbif/ipt/wiki/IPT2ManualManageResources.wiki#metadata){:target="_blank"}
 
