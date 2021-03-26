@@ -6,7 +6,7 @@ background: https://inaturalist-open-data.s3.amazonaws.com/photos/84391157/origi
 imageLicense: |
   _Crotophaga ani_ Fotografía de: patriciass [by-nc](https://creativecommons.org/licenses/by-nc/4.0/) vía [iNaturalist](https://www.inaturalist.org/observations/53069927)
 
-height: 750vh
+height: 50vh
 ---
 
 # Datos
