@@ -1,0 +1,54 @@
+
+landinguso:
+  title: Uso de datos
+  description: |      # required
+    Conoce algunos de los usos que tienen los datos e información sobre biodiversidad publicada a través del SiB Colombia.
+  #background: https://live.staticflickr.com/8483/8205952042_c840217645_h.jpg
+  overlayColor: "#E4EEE0" #"#ffffffbb"
+  hasWhiteText: false
+  cta:
+  - text: Inscríbete
+    href: /comunidad/formacion/cicloformacion2020
+    isPrimary: true
+
+#cards
+tarjetasFormacion:
+  # title: Ejes de formación
+  # description: Ejes de formación:
+    
+  features:
+      #preTitle:  Formación # optional
+    - title: Laboratorios
+      description: |      # required
+       Los laboratorios de datos te ayudarán a afianzar tus habilidades en el manejo y publicación de datos a través de SiB Colombia.
+      # img required
+      background: /comunidad/formacion/images/working_nounproject.jpg
+      cta:
+      - text: Aprender
+        href: /formacion/laboratorios
+        isPrimary: true
+
+      
+     #preTitle: Formación # optional
+    - title: "Programa de pasantías"
+      description: |      # required
+        Este programa busca formar a futuros profesionales en informática de la biodiversidad, visualización y divulgación científica.
+      background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
+      cta:
+      - text: Nuestros pasantes
+        href: /comunidad/formacion/alumni
+        isPrimary: true
+      - text: Oportunidades
+        href: https://sibcolombia.net/pasantias-2021-2/#1616608221972-ea592b95-1b13/data
+        
+      
+      
+     #preTitle: "Histórico"  # optional
+    - title: Material histórico  # required
+      description: |      # required
+       Conoce los ciclos de formación y talleres históricos facilitados por el Equipo Coordinador del SiB Colombia desde el 2014.
+      background: /assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg
+      cta:
+      - text: LLévame al pasado
+        href:  /comunidad/formacion/historico
+        isPrimary: true
