@@ -32,26 +32,27 @@
     href: /recursos/ipt
   - text: Acceso abierto
   - text: Cómo citar
-    href: /recursos/ComoCitar
+    href: /recursos/comocitar
   - text: Repositorios
   - text: Estandarización
     href: /recursos/estandarizacion
   - text: Calidad de datos
     href: /recursos/calidaddedatos
   - text: Plantillas Darwin Core
-    href: /recursos/Plantillas
+    href: /recursos/plantillas
 
   
 - text: Comunidad
   menu: # Dropdown menu (one level deep only)
   - text: Actividad de publicación
-    href: /comunidad/ActividadPublicacion
+    href: /comunidad/actividadpublicacion
   - text: Socios publicadores
   - text: Proyectos
   - text: Formación
     href: /comunidad/formacion
   - text: Grupos de interés
   - text: Uso de datos
+    href: /comunidad/usodedatos
   - text: Preguntas frecuentes
     href: /compartir/preguntasfrecuentes
   
