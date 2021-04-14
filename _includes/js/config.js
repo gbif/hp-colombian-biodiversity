@@ -17,5 +17,6 @@ var siteConfig = {
         "value": "COUNTRY_COORDINATE_MISMATCH"
       }
     ]
-  }
+  },
+  highlightedFilters: ['occurrenceStatus', 'taxonKey', 'year', 'gadmGid', 'occurrenceIssue']
 };
