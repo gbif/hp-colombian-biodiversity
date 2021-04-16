@@ -33,3 +33,27 @@ eBird, liderado por el Laboratorio de Ornitología de Cornell, es el proyecto de
 ¿Sabes cuántas especies se registran en Colombia a través de eBird Colombia? ¿En qué departamento se concentra la mayor cantidad de registros?[Descúbrelo en el reporte anual de integración de datos desde repositorios globales 2018.](https://datastudio.google.com/reporting/1bzQiqjuNY8wgdy5qJKP01yrQWjmn67Pr)
 
 Conjunto de datos repatriado disponible en: https://doi.org/10.15472/zso3xd
+
+### GBIF
+
+La [Infraestructura Global de Información sobre Biodiversidad – GBIF](https://www.gbif.org/), es una red de gobiernos y organizaciones que facilita la publicación de datos y pone a disposición de todo el mundo, la información sobre diversidad biológica que investigadores y ciudadanos comparten en línea sin importar su ubicación geográfica. Colombia, considerado un país megadiverso, cuenta con una importante cantidad de datos disponibles a través de GBIF aportados por organizaciones de distintos países, que cuentan con evidencias de la presencia de especies en el territorio nacional.
+
+Este conjunto de datos comprende 502.426 registros biológicos publicados para Colombia a través de la GBIF (a 28 de diciembre de 2018). Más del 70% de los registros corresponden a especímenes depositados en colecciones biológicas fuera de Colombia, entre ellas, el Missouri Botanical Garden es la organización internacional que más registros aporta para Colombia, con 124960 especímenes de plantas depositados en esta colección biológica de Estados Unidos. [Descubre más en el reporte anual de integración de datos desde repositorios globales 2018.](https://datastudio.google.com/reporting/1bzQiqjuNY8wgdy5qJKP01yrQWjmn67Pr/page/Ge2V)
+
+Conjunto de datos repatriado disponible en: https://doi.org/10.15472/xqv1re
+
+### Naturalista Colombia
+
+Es una de las aplicaciones de ciencia participativa más populares del mundo, [iNaturalist](https://www.inaturalist.org/) ayuda a identificar las plantas y los animales que nos rodean. Esta iniciativa permite conectarse con una comunidad de más de 750.000 científicos y naturalistas que pueden ayudar a los usuarios a aprender más sobre la naturaleza. Además, al registrar y compartir las observaciones, se crean datos con calidad de investigación para que los científicos puedan conocer y proteger la naturaleza. iNaturalist es una iniciativa conjunta de la Academia de Ciencias de California y la National Geographic Society. En Colombia, esta apuesta tecnológica que articula ciencia y conocimiento no experto, recibe el nombre de [Naturalista Colombia](https://colombia.inaturalist.org/) y es una herramienta esencial dentro de la estrategia nacional de ciencia participativa que lidera el Instituto Humboldt.
+
+Los datos que reciben confirmación de identificación por parte de tres o más usuarios de la plataforma son elevados a ‘Grado de investigación’ (Research grade), esto permite a iNaturalist mantener un mecanismo permanente para segmentar estos datos. Los registros en esta categoría para Colombia (que son los que hacen parte de la integración) suman 26.967, con corte a 28 de diciembre 2018. Más de 4.000 especies  son aportados a partir de este conjunto de datos, en su gran mayoría evidencia de aves, plantas e insectos. [Descubre más en el reporte anual de integración de datos desde repositorios globales 2018.](https://datastudio.google.com/reporting/1bzQiqjuNY8wgdy5qJKP01yrQWjmn67Pr/page/Ge2V)
+
+Conjunto de datos repatriado disponible en: https://doi.org/10.15472/gsxge8
+
+### Xeno-canto
+
+Xeno-canto es una iniciativa web dedicada a compartir sonidos de aves de todo el mundo. Científicos investigadores, observadores de aves o simplemente usuarios curiosos pueden escuchar, descargar y explorar las grabaciones de los sonidos de aves presentes en toda esta colección. La Fundación Xeno-canto para Sonidos de la Naturaleza (Xeno-canto, XC) tiene como objetivo popularizar la grabación, mejorar la accesibilidad y aumentar el conocimiento de sonidos de aves en todo el mundo. La fundación tiene su sede en Holanda, fue fundada en 2008 y es conocida oficialmente por su nombre holandés “Stichting Xeno-canto voor Natuurgeluiden”. Las grabaciones presentes en Xeno-canto, son compartidas por una creciente comunidad de miles de grabadores de todo el mundo, observadores de aves aficionados y profesionales por igual. El objetivo de Xeno-canto es tener representación de todos los sonidos de las aves del mundo, es decir, de todos los taxones, inclusive a nivel de subespecie, su repertorio completo, toda la variabilidad geográfica, en todas las etapas de desarrollo.
+
+El conjunto de datos de Xeno-canto comprende 4.034 registros sonoros de más de 780 especies de aves de Colombia. Cuenta con datos de 1989 al año 2017, e incluye más de 300 aves identificadas a nivel de subespecie. [Descubre más en el reporte anual de integración de datos desde repositorios globales 2018.](https://datastudio.google.com/reporting/1bzQiqjuNY8wgdy5qJKP01yrQWjmn67Pr/page/Ge2V)
+
+Conjunto de datos repatriado disponible en: https://doi.org/10.15472/lo4iij
