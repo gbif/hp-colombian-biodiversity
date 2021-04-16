@@ -18,5 +18,5 @@ var siteConfig = {
       }
     ]
   },
-  highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince','elevation','year', 'basisOfRecord', 'recordedBy','institutionCode','datasetName','occurrenceIssue']
+  highlightedFilters: ['keyword','taxonKey', 'gadmGid', 'stateProvince','elevation','year', 'basisOfRecord', 'recordedBy','datasetKey','datasetName','occurrenceIssue']
 };
