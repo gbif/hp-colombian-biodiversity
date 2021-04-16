@@ -18,5 +18,5 @@ var siteConfig = {
       }
     ]
   },
-  highlightedFilters: ['occurrenceStatus', 'taxonKey', 'year', 'gadmGid', 'occurrenceIssue', 'basisOfRecord', 'institutionCode','recordedBy','dataset','samplingProtocol','scientificName','waterBody']
+  highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince','elevation','year', 'basisOfRecord', 'recordedBy','institutionCode','datasetName','occurrenceIssue']
 };
