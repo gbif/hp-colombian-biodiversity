@@ -1,17 +1,16 @@
 ---
 layout: heroImage
-title: Alianza ANDI-SiB Colombia
+title: Datos abiertos sobre biodiversidad desde el sector empresarial
 description: Datos abiertos sobre biodiversidad desde el sector empresarial
-background: /acercade/imagenes/Empresas.png
+background: /assets/images/luciernaga_cp.jpg
 imageLicense: |
-  Banner de: SiB [by-nc-nd](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+  Banner de: SiB [by-nc-nd](/acercade/imagenes/BannerAlianzaANDI.png)
 height: 50vh
 ---
 
-<img src="/acercade/imagenes/BannerAlianzaANDI.png">    
-
 # Un aporte del sector empresarial al conocimiento de la biodiversidad
 
+Un aporte del sector empresarial al conocimiento de la biodiversidad
 Los datos sobre biodiversidad son esenciales para planificar, implementar y monitorear estrategias de conservación y uso sostenible. De igual forma son piedra angular para entender los factores que contribuyen a la pérdida de la biodiversidad,  permitiendo identificar patrones y cambios a través del tiempo y el espacio. Sin embargo, estos datos no siempre son fácilmente accesible, o se presentan en formatos que dificultan su interpretación y la interoperabilidad entre distintas fuentes.
 
 Por esta razón, el SiB Colombia y la Asociación Nacional de Empresarios de Colombia (ANDI) a través de su iniciativa “Biodiversidad y Desarrollo”, consolidan esta alianza que busca elevar la contribución del sector empresarial al conocimiento de la biodiversidad, convocando, facilitando e integrando su participación como sector productivo.
@@ -22,9 +21,7 @@ Solamente el sector empresarial representado por la ANDI, agrupa cerca de 1200 e
 
 Esta alianza surge como una gran oportunidad para garantizar la participación del sector empresarial a nivel nacional e internacional, acelerando la generación de conocimiento de nuestra biodiversidad a partir de la publicación de datos a través del SiB Colombia de una manera organizada y sistemática.
 
-**Conoce la guía para compartir datos a través de SiB Colombia y GBIF**
-
-<div class="video-container"><iframe src="/acercade/imagenes/libro-andi.pdf" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+# Conoce la guía para compartir datos a través de SiB Colombia y GBIF
 
 
 # ¿Qué se busca con la alianza?
@@ -113,6 +110,11 @@ Esta fase podría desarrollarse con los siguientes pasos:
 9. Publicar los datos y metadatos para cada conjunto de datos a través del portal  del SiB Colombia y GBIF. Se evaluarán las opciones de publicación de datos, en todos los casos utilizando la plataforma tecnológica desarrollada por GBIF, el IPT (Integrated Publishing Toolkit). El SiB Colombia dispone un IPT para alojar los conjuntos de datos de las organizaciones publicadoras en el país. Es importante precisar que el publicador de los datos es siempre la organización, no el SiB Colombia, y la organización es responsable de administrar los datos de forma autónoma (por ejemplo, cambiar, actualizar, etc.).
 10. Monitorear el uso de los datos publicados a través del SiB Colombia y GBIF, con la generación de estadísticas proporcionadas al publicador. Además, se hará seguimiento al uso que se haga de estos datos en publicaciones científicas, mediante la asignación de un identificador único (DOI) a cada conjuntos de datos publicado y también a cada conjunto de datos descargado.
 
+## Resultados de publicación
+
+En el siguiente [enlace](https://www.gbif.org/project/2Zik1tfJoh3C92ZslvhDIr/openpsd-promoting-publication-and-use-of-private-sector-data-on-biodiversity#datasets) puede encontrar los conjuntos de datos publicados en el marco de la alianza a la fecha.
+
+
 # El costo para las empresas
 
 A parte del tiempo que pueda dedicar el personal de la empresa en la preparación de los datos para su publicación, no hay costos para la empresa. En todo caso, el trabajo necesario puede ser apoyado por el Equipo Coordinador del SiB Colombia, que tiene el conocimiento y la infraestructura necesaria para facilitar esta publicación. Además, este Equipo Coordinador podría crear capacidad sobre la publicación de datos a través del SiB Colombia, contribuyendo al fortalecimiento de capacidades de la empresa en las áreas de gestión de información sobre biodiversidad y calidad de datos.
@@ -133,17 +135,16 @@ En Colombia, la participación nacional en GBIF es facilitada por el SiB Colombi
 
 Esta alianza cuenta con el respaldo de GBIF y el proyecto CESP OpenPSD: *Promoting publication and use of private-sector data on biodiversity*
 
-# Las empresas que ya publican datos a través del SiB Colombia
+Las empresas que ya publican datos a través del SiB Colombia
 
-<img src="/acercade/imagenes/Entidades.png">    
- 
+IMAGEN
+
 # Súmate
 
-**Por definiri**
 
 # ¿Te perdiste nuestro webinar? revívelo aquí
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=UwQLU27jFa4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UwQLU27jFa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Preguntas frecuentes
 
@@ -237,8 +238,8 @@ Si. La plataforma puede integrar imágenes, audios y videos que estén asociadas
 <li><a href= "https://www.gbif.org/es/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5" target="_blank">Colección de Microorganismos-Pontificia Universidad Javeriana</a>.</li>
 <li><a href= "https://www.gbif.org/es/dataset/aac672c4-0109-4e0c-aa6e-36c790db9030" target="_blank">Colección de insectos de importancia médica del Instituto Nacional de Salud - Psychodidae</a>.</li>
 <li><a href= "https://www.gbif.org/es/dataset/e61455a4-352d-4c55-83ea-dbca254e3b29" target="_blank">Camera trap database of Tiger from Rajaji National Park, Uttarakhand</a>.</li>
-<li><a href= "https://www.gbif.org/es/occurrence/2609675370" target="_blank"><I>Rupornis magnirostris</I> (Gmelin, 1788)</a>.</li>
-</ul></details>
+    <li><a href= "https://www.gbif.org/es/occurrence/2609675370" target="_blank"><I>Rupornis magnirostris</I> (Gmelin, 1788)</a>.</li>
+<ul></details>
     
 ___
 
@@ -252,7 +253,7 @@ No toda la información es apropiada para integrar al SiB Colombia, pero si la m
 <ul>    
 <li><a href= "https://www.gbif.org/es/dataset/e8e716a0-201a-49af-85a1-c21101c6b9d3" target="_blank">Cbosques húmedos tropicales de Bahía Málaga, municipio de Buenaventura, Valle del Cauca</a>.</li>
     <li><a href= "https://www.gbif.org/project/82753/publishing-metadata-for-biodiversity-data-generated-from-redd-projects-in-tanzania#datasets" target="_blank">Publishing metadata for biodiversity data generated from REDD+ projects in Tanzania</a>.</li>
-</ul></details>
+<ul></details>
     
 ___
 
@@ -346,5 +347,4 @@ ___
 <br>
 Para dar respuesta a esta pregunta es importante primero hacer una diferenciación entre “datos públicos” y “datos abiertos”. No todos los datos públicos son datos abiertos, aunque todos los datos abiertos están publicados. Es decir, un dato publicado es cualquier dato que podemos ver, incluso si no lo podemos reutilizar. Un dato abierto está disponible al público y, además, tiene una licencia y un formato que facilitan su utilización. Los datos abiertos son puestos a disposición de forma libre, con una licencia y un formato que permite su reutilización y la creación de obras derivadas de los mismos sin que esto genere cobro alguno. Un dato abierto es información disponible y lista para reusar sin restricciones técnicas, económicas y legales. Dicho esto, la alianza puede ser una plataforma útil de conversación con ANLA para identificar los retos y oportunidades asociadas a la publicación desde esta agencia de los datos sobre biodiversidad de una EIA radicada.</details>
 
-
-<img src="/acercade/imagenes/FooterAlianzaANDI.png">    
+<img src="/acercade/imagenes/FooterAlianzaANDI.png">      
