@@ -8,12 +8,10 @@ imageLicense: |
 height: 50vh
 ---
 
-<img src="/acercade/imagenes/BannerAlianzaANDI.png">
-
-
 # Un aporte del sector empresarial al conocimiento de la biodiversidad
 
-Un aporte del sector empresarial al conocimiento de la biodiversidad
+<img src="/acercade/imagenes/FooterAlianzaANDI.png">
+
 Los datos sobre biodiversidad son esenciales para planificar, implementar y monitorear estrategias de conservación y uso sostenible. De igual forma son piedra angular para entender los factores que contribuyen a la pérdida de la biodiversidad,  permitiendo identificar patrones y cambios a través del tiempo y el espacio. Sin embargo, estos datos no siempre son fácilmente accesible, o se presentan en formatos que dificultan su interpretación y la interoperabilidad entre distintas fuentes.
 
 Por esta razón, el SiB Colombia y la Asociación Nacional de Empresarios de Colombia (ANDI) a través de su iniciativa “Biodiversidad y Desarrollo”, consolidan esta alianza que busca elevar la contribución del sector empresarial al conocimiento de la biodiversidad, convocando, facilitando e integrando su participación como sector productivo.
