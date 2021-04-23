@@ -1,12 +1,15 @@
 ---
 layout: heroImage
 title: Datos abiertos sobre biodiversidad desde el sector empresarial
-description: Datos abiertos sobre biodiversidad desde el sector empresarial
-background: /assets/images/luciernaga_cp.jpg
+description: Una contribución al conocimiento de la biodiversidad
+background: /acercade/imagenes/Empresas.png
 imageLicense: |
-  Banner de: SiB [by-nc-nd](/acercade/imagenes/BannerAlianzaANDI.png)
+  Banner de: [by-nc-nd](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 height: 50vh
 ---
+
+<img src="/acercade/imagenes/BannerAlianzaANDI.png">
+
 
 # Un aporte del sector empresarial al conocimiento de la biodiversidad
 
@@ -23,6 +26,7 @@ Esta alianza surge como una gran oportunidad para garantizar la participación d
 
 # Conoce la guía para compartir datos a través de SiB Colombia y GBIF
 
+<div class="video-container"><iframe src="/acercade/imagenes/libro-andi.pdf" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 
 # ¿Qué se busca con la alianza?
 
@@ -135,11 +139,9 @@ En Colombia, la participación nacional en GBIF es facilitada por el SiB Colombi
 
 Esta alianza cuenta con el respaldo de GBIF y el proyecto CESP OpenPSD: *Promoting publication and use of private-sector data on biodiversity*
 
-Las empresas que ya publican datos a través del SiB Colombia
+# Las empresas que ya publican datos a través del SiB Colombia
 
-IMAGEN
 
-# Súmate
 
 
 # ¿Te perdiste nuestro webinar? revívelo aquí
@@ -239,7 +241,7 @@ Si. La plataforma puede integrar imágenes, audios y videos que estén asociadas
 <li><a href= "https://www.gbif.org/es/dataset/aac672c4-0109-4e0c-aa6e-36c790db9030" target="_blank">Colección de insectos de importancia médica del Instituto Nacional de Salud - Psychodidae</a>.</li>
 <li><a href= "https://www.gbif.org/es/dataset/e61455a4-352d-4c55-83ea-dbca254e3b29" target="_blank">Camera trap database of Tiger from Rajaji National Park, Uttarakhand</a>.</li>
     <li><a href= "https://www.gbif.org/es/occurrence/2609675370" target="_blank"><I>Rupornis magnirostris</I> (Gmelin, 1788)</a>.</li>
-<ul></details>
+</ul></details>
     
 ___
 
@@ -253,7 +255,7 @@ No toda la información es apropiada para integrar al SiB Colombia, pero si la m
 <ul>    
 <li><a href= "https://www.gbif.org/es/dataset/e8e716a0-201a-49af-85a1-c21101c6b9d3" target="_blank">Cbosques húmedos tropicales de Bahía Málaga, municipio de Buenaventura, Valle del Cauca</a>.</li>
     <li><a href= "https://www.gbif.org/project/82753/publishing-metadata-for-biodiversity-data-generated-from-redd-projects-in-tanzania#datasets" target="_blank">Publishing metadata for biodiversity data generated from REDD+ projects in Tanzania</a>.</li>
-<ul></details>
+</ul></details>
     
 ___
 
@@ -347,4 +349,3 @@ ___
 <br>
 Para dar respuesta a esta pregunta es importante primero hacer una diferenciación entre “datos públicos” y “datos abiertos”. No todos los datos públicos son datos abiertos, aunque todos los datos abiertos están publicados. Es decir, un dato publicado es cualquier dato que podemos ver, incluso si no lo podemos reutilizar. Un dato abierto está disponible al público y, además, tiene una licencia y un formato que facilitan su utilización. Los datos abiertos son puestos a disposición de forma libre, con una licencia y un formato que permite su reutilización y la creación de obras derivadas de los mismos sin que esto genere cobro alguno. Un dato abierto es información disponible y lista para reusar sin restricciones técnicas, económicas y legales. Dicho esto, la alianza puede ser una plataforma útil de conversación con ANLA para identificar los retos y oportunidades asociadas a la publicación desde esta agencia de los datos sobre biodiversidad de una EIA radicada.</details>
 
-<img src="/acercade/imagenes/FooterAlianzaANDI.png">      
