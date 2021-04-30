@@ -8,10 +8,14 @@ imageLicense: |
 height: 50vh
 ---
 
-prárrafo introductorio
+La red del SiB Colombia facilita la publicación, acceso y uso de los datos e información que son la base para cuantificar, entender y proteger la Biodversidad del país. Para ahcerlo contamos con un equipo interdisciplinario de profesionales. Sin embargo hemos indentificado que aún hay un desconocimeinto enorme dentro de la comunidad sobre temas relevantes como informática de la biodiversidad, datos abiertos, y buenas prácticas para el manejo de datos. Es por eso que dentro de nuestra estrategia de formación las pasantías son un eje importante para....
 
 
 # Objetivos
+
+* Formar a los profesionales del sector ambiental en manejo y gestión de datos abiertos sobre Biodiversidad.
+* Promover que las entidades que generan datos cuenten con profesionales con buenos
+*
 
 # Beneficios
 
