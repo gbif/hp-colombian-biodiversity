@@ -56,6 +56,12 @@ En esta alianza cada actor cumple un rol, así:
 
 Esta alianza por los datos abiertos sobre biodiversidad desde el sector empresarial, inicia colectivamente con ANDI, e invita a otras empresas y sectores a sumarse a esta iniciativa, en pro de una gestión oportuna y eficiente de datos sobre biodiversidad en el país.
 
+
+# ¿Te perdiste nuestro webinar? revívelo aquí
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UwQLU27jFa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 # Ventajas de publicar datos a través del SiB Colombia
 
 La publicación de datos sobre biodiversidad a través del SiB Colombia es una actividad que podría ser altamente visible a nivel nacional e internacional, ayudando a consolidar la reputación de la empresa como referencia en el área de sostenibilidad ambiental. De hecho, la publicación de datos a través del SiB Colombia se considera muy importante dentro del CDB e incluso ha sido elegida como uno de los indicadores de las Metas Aichi 2010-2020 (Meta 19). Los datos publicados a través del SiB Colombia también contribuyen a las Metas Aichi 9 (especies invasoras), 11 (áreas protegidas) y 12 (especies amenazadas). Asimismo, estos datos son relevantes también para la evaluación de los ODS 14 (vida submarina) y 15 (vida de ecosistemas terrestres). Al contribuir a estos objetivos, la empresa también mejorará su perfil ambiental y social al aumentar el retorno de la inversión inicialmente realizada para obtener estos datos. El SiB Colombia está muy interesado en consolidar y difundir nuevos estudios de caso, y la movilización de datos desde el sector empresarial es actualmente un objetivo importante de la iniciativa nacional y para GBIF. Este proceso podría contribuir favorablemente al desempeño de la organización en el Índice de Sostenibilidad Dow Jones y la evaluación de la empresa en el marco de los Principios del Ecuador.
@@ -89,6 +95,7 @@ Para llegar a ser un publicador de datos sobre biodiversidad a través del SiB C
 - Tener conocimiento de la política para el uso de datos, el cual los usuarios de datos del SiB Colombia aceptan previamente;
 - Solicitar el registro de la organización en SiB Colombia y GBIF como publicador de datos. La solicitud de registro y aprobación se realiza en línea diligenciando un formulario.
 
+
 # Participación de diferentes partes en el proceso de publicación
 
 Dependiendo del tamaño de los proyectos en los que se originaron los conjuntos de datos, es posible que los datos sobre biodiversidad de la empresa hayan sido obtenidos a través de la contratación de otras empresas u organizaciones que llevaron a cabo el trabajo de muestreo. Esta es la situación más común en una EIA o estudio de monitoreo, donde los servicios de muestreo son subcontratados. La participación en el proceso de publicación de datos por parte de estos contratistas y técnicos de campo, que han observado o identificado especies, es deseable en la medida de lo posible. Estos técnicos pueden desempeñar un papel relevante, especialmente en la revisión de datos y metadatos, contribuyendo a una mejor descripción y calidad de los conjuntos de datos que se van a publicar. Por otro lado, es igualmente importante para ellos ser reconocidos y acreditados por su trabajo, asociandolos en los conjuntos de datos. Otra forma de asociar a los técnicos y a sus organizaciones con el conjunto de datos, es mediante la identificación de las partes asociadas al preparar los metadatos. Además, deben incluirse como coautores de los conjuntos de datos y en la citación recomendada al momento de su uso.
@@ -113,27 +120,6 @@ Esta fase podría desarrollarse con los siguientes pasos:
 ## Resultados de publicación
 
 En el siguiente [enlace](https://www.gbif.org/project/2Zik1tfJoh3C92ZslvhDIr/openpsd-promoting-publication-and-use-of-private-sector-data-on-biodiversity#datasets){:target="_blank"} puede encontrar los conjuntos de datos publicados en el marco de la alianza a la fecha.
-
-
-# El costo para las empresas
-
-A parte del tiempo que pueda dedicar el personal de la empresa en la preparación de los datos para su publicación, no hay costos para la empresa. En todo caso, el trabajo necesario puede ser apoyado por el Equipo Coordinador del SiB Colombia, que tiene el conocimiento y la infraestructura necesaria para facilitar esta publicación. Además, este Equipo Coordinador podría crear capacidad sobre la publicación de datos a través del SiB Colombia, contribuyendo al fortalecimiento de capacidades de la empresa en las áreas de gestión de información sobre biodiversidad y calidad de datos.
-
-# Acerca de la iniciativa Biodiversidad y Desarrollo de la ANDI
-
-La Iniciativa “Biodiversidad y Desarrollo” nace en el año 2014 en la ANDI como plataforma público-privada para conectar y contribuir desde la gestión empresarial con los planes, políticas y prioridades de la conservación de la biodiversidad del país, a través de acuerdos colectivos de trabajo, inversión, compensación y nuevos negocios, entre instituciones, grupos locales y empresas.
-
-Esta iniciativa con sus socios nacionales, Parques Nacionales Naturales de Colombia – PNN e Instituto de Investigaciones Alexander Von Humboldt – IAvH, y aliados regionales, orienta al sector productivo en la integración de aspectos de la biodiversidad en la actividad empresarial y ofrece escenarios de diálogo intersectorial para la generación de conocimiento, la creación de capacidades, el intercambio de experiencias e impulso a la formulación e implementación de políticas que eleven el desempeño.
-
-Biodiversidad y Desarrollo busca consolidarse como la Plataforma Nacional Biodiversidad y Negocios para Colombia, creando una red de redes de empresas, que contribuyan a los objetivos nacionales e internacionales de gestión de la conservación y uso sostenible de la biodiversidad en los territorios.
-
-# Acerca de GBIF
-
-La Infraestructura Mundial de Información en Biodiversidad es una organización intergubernamental establecida en 2001 para facilitar el intercambio libre y el acceso abierto a datos sobre biodiversidad, donde actualmente hay 59 países signatarios. GBIF proporciona un único punto de acceso ([www.gbif.org](www.gbif.org){:target="_blank"}) a más de mil millones de datos globales y es la red de biodiversidad más grande disponible a través de Internet. Los datos accesibles a través de GBIF se relacionan con registros de más de 1.6 millones de especies recolectadas durante tres siglos de exploración, custodiadas por Museos de Historia Natural, e incluyen observaciones recientes de ciudadanos, investigadores y programas de monitoreo automatizado, entre otros. Los datos descargados a través de GBIF se usaron entre 2018 y 2019 en más de 1.300 artículos científicos en revistas internacionales. A nivel mundial, GBIF tiene acuerdos y presta servicios directamente a iniciativas de formulación de políticas mundiales para la evaluación y conservación de la biodiversidad y el ambiente, como el Convenio sobre la Diversidad Biológica (CDB), la Plataforma Intergubernamental sobre Biodiversidad y Servicios Ecosistémicos (IPBES) y la Red de Observación de la Biodiversidad del Grupo de Observaciones de la Tierra (GEO BON).
-
-En Colombia, la participación nacional en GBIF es facilitada por el SiB Colombia como representante del país desde el año 2003. En este sentido, todos los esfuerzo nacionales de publicación de datos a través del SiB Colombia, son reflejados en esta plataforma internacional.
-
-Esta alianza cuenta con el respaldo de GBIF y el proyecto CESP OpenPSD: *Promoting publication and use of private-sector data on biodiversity*
 
 # Las empresas que ya publican datos a través del SiB Colombia
 
@@ -160,9 +146,26 @@ Esta alianza cuenta con el respaldo de GBIF y el proyecto CESP OpenPSD: *Promoti
 * [Stratos Consultoría Geológica](https://www.gbif.org/publisher/2c542862-b9dd-40fc-8260-fb434997efa7){:target="_blank"}
 * [TERRASOS](https://www.gbif.org/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825){:target="_blank"}
 
-# ¿Te perdiste nuestro webinar? revívelo aquí
+# El costo para las empresas
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UwQLU27jFa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+A parte del tiempo que pueda dedicar el personal de la empresa en la preparación de los datos para su publicación, no hay costos para la empresa. En todo caso, el trabajo necesario puede ser apoyado por el Equipo Coordinador del SiB Colombia, que tiene el conocimiento y la infraestructura necesaria para facilitar esta publicación. Además, este Equipo Coordinador podría crear capacidad sobre la publicación de datos a través del SiB Colombia, contribuyendo al fortalecimiento de capacidades de la empresa en las áreas de gestión de información sobre biodiversidad y calidad de datos.
+
+# Acerca de la iniciativa Biodiversidad y Desarrollo de la ANDI
+
+La Iniciativa “Biodiversidad y Desarrollo” nace en el año 2014 en la ANDI como plataforma público-privada para conectar y contribuir desde la gestión empresarial con los planes, políticas y prioridades de la conservación de la biodiversidad del país, a través de acuerdos colectivos de trabajo, inversión, compensación y nuevos negocios, entre instituciones, grupos locales y empresas.
+
+Esta iniciativa con sus socios nacionales, Parques Nacionales Naturales de Colombia – PNN e Instituto de Investigaciones Alexander Von Humboldt – IAvH, y aliados regionales, orienta al sector productivo en la integración de aspectos de la biodiversidad en la actividad empresarial y ofrece escenarios de diálogo intersectorial para la generación de conocimiento, la creación de capacidades, el intercambio de experiencias e impulso a la formulación e implementación de políticas que eleven el desempeño.
+
+Biodiversidad y Desarrollo busca consolidarse como la Plataforma Nacional Biodiversidad y Negocios para Colombia, creando una red de redes de empresas, que contribuyan a los objetivos nacionales e internacionales de gestión de la conservación y uso sostenible de la biodiversidad en los territorios.
+
+# Acerca de GBIF
+
+La Infraestructura Mundial de Información en Biodiversidad es una organización intergubernamental establecida en 2001 para facilitar el intercambio libre y el acceso abierto a datos sobre biodiversidad, donde actualmente hay 59 países signatarios. GBIF proporciona un único punto de acceso ([www.gbif.org](www.gbif.org){:target="_blank"}) a más de mil millones de datos globales y es la red de biodiversidad más grande disponible a través de Internet. Los datos accesibles a través de GBIF se relacionan con registros de más de 1.6 millones de especies recolectadas durante tres siglos de exploración, custodiadas por Museos de Historia Natural, e incluyen observaciones recientes de ciudadanos, investigadores y programas de monitoreo automatizado, entre otros. Los datos descargados a través de GBIF se usaron entre 2018 y 2019 en más de 1.300 artículos científicos en revistas internacionales. A nivel mundial, GBIF tiene acuerdos y presta servicios directamente a iniciativas de formulación de políticas mundiales para la evaluación y conservación de la biodiversidad y el ambiente, como el Convenio sobre la Diversidad Biológica (CDB), la Plataforma Intergubernamental sobre Biodiversidad y Servicios Ecosistémicos (IPBES) y la Red de Observación de la Biodiversidad del Grupo de Observaciones de la Tierra (GEO BON).
+
+En Colombia, la participación nacional en GBIF es facilitada por el SiB Colombia como representante del país desde el año 2003. En este sentido, todos los esfuerzo nacionales de publicación de datos a través del SiB Colombia, son reflejados en esta plataforma internacional.
+
+Esta alianza cuenta con el respaldo de GBIF y el proyecto CESP OpenPSD: *Promoting publication and use of private-sector data on biodiversity*
+
 
 # Preguntas frecuentes
 
