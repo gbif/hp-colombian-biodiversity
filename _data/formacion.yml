@@ -39,7 +39,7 @@ tarjetasFormacion:
       background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
       cta:
       - text: Programa
-        href: /comunidad/formacion/alumni
+        href: /comunidad/formacion/programapasantias
         isPrimary: true
       - text: Oportunidades
         href: https://sibcolombia.net/pasantias-2021-2/#1616608221972-ea592b95-1b13/data
