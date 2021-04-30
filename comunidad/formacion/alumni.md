@@ -1,7 +1,7 @@
 ---
 layout: heroImage
-title: Programa de pasantías SiB Colombia
-description: Desde el año 2015 el SiB Colombia ha adelantado un programa de pasantías en sus diferentes líneas de trabajo.
+title: Añumni
+description: Desde el año 2015 el SiB Colombia ha adelantado a contado con un excelente grupo de pasantes.
 background: /assets/images/fondos_layout/tetragoniscaNido_cp.jpg
 imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/) 
