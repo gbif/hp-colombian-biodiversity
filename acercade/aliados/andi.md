@@ -2,9 +2,9 @@
 layout: heroImage
 title: Datos abiertos sobre biodiversidad desde el sector empresarial
 description: Una contribución al conocimiento de la biodiversidad
-background: /acercade/imagenes/Empresas.png
+background: https://www.flickr.com/photos/amanclos/15841213477/sizes/h/
 imageLicense: |
-  Banner de: [by-nc-nd](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+  Fotofrafía de: maxime raynal [by-nc-nd](https://creativecommons.org/licenses/by-nc-sa/3.0/) vía [Flickr](https://www.flickr.com/photos/amanclos/)
 height: 50vh
 toc: true
 ---
