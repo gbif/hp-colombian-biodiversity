@@ -2,8 +2,8 @@
 layout: heroImage
 title: Alianza SiB Colombia - ANDI
 description: Un aporte del sector empresarial al conocimiento de la biodiversidad
-background: 
-imageLicense:  |
+background: https://flic.kr/p/q8QmSi
+imageLicense:  | 
 Fotografía de: Maxime Raynal [by](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 height: 50vh
 toc: true
