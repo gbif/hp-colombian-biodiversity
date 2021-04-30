@@ -1,6 +1,6 @@
 ---
 layout: heroImage
-title: Añumni
+title: Alumni
 description: Desde el año 2015 el SiB Colombia ha adelantado a contado con un excelente grupo de pasantes.
 background: /assets/images/fondos_layout/tetragoniscaNido_cp.jpg
 imageLicense: |
