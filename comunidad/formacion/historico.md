@@ -25,7 +25,7 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020" title="Ver">Ciclo de Formación Virtual - 2020</a></td>
+      <td><a href="comunidad/formacion/cicloformacion2020" title="Ver">Ciclo de Formación Virtual - 2020</a></td>
       <td>Ago/Oct 2020</td>
       <td>-</td>
       <td>-</td>
