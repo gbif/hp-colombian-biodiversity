@@ -112,7 +112,7 @@ Esta fase podría desarrollarse con los siguientes pasos:
 
 ## Resultados de publicación
 
-En el siguiente [enlace](https://www.gbif.org/project/2Zik1tfJoh3C92ZslvhDIr/openpsd-promoting-publication-and-use-of-private-sector-data-on-biodiversity#datasets{:target="_blank"}) puede encontrar los conjuntos de datos publicados en el marco de la alianza a la fecha.
+En el siguiente [enlace](https://www.gbif.org/project/2Zik1tfJoh3C92ZslvhDIr/openpsd-promoting-publication-and-use-of-private-sector-data-on-biodiversity#datasets){:target="_blank"} puede encontrar los conjuntos de datos publicados en el marco de la alianza a la fecha.
 
 
 # El costo para las empresas
@@ -137,8 +137,28 @@ Esta alianza cuenta con el respaldo de GBIF y el proyecto CESP OpenPSD: *Promoti
 
 # Las empresas que ya publican datos a través del SiB Colombia
 
-
-
+* [Aguas de Bogotá S.A. E.S.P.](https://www.gbif.org/publisher/6d1beb45-43bc-499a-85a0-f06f67e81591){:target="_blank"}
+* [Aïgos SAS](https://www.gbif.org/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee){:target="_blank"}
+* [Anadarko Colombia Company](https://www.gbif.org/publisher/b5904aaf-02c7-4ff3-85a6-0f528dbb632e){:target="_blank"}
+* [Biotica Consultores Ltda](https://www.gbif.org/publisher/8e6bc843-c1b4-4b10-b546-881f06049004){:target="_blank"}
+* [Carbones del Cerrejón Limited](https://www.gbif.org/publisher/14fb9c57-68a5-4870-b434-5355df7a9c3c){:target="_blank"}
+* [Celsia S.A. E.S.P.](https://www.gbif.org/publisher/0fd86a13-3d0d-4d6e-b809-2811706f35d6){:target="_blank"}
+* [Cerro Matoso S.A](https://www.gbif.org/publisher/1a4f4e64-eb3d-42c3-a359-1be3869b3a20){:target="_blank"}
+* [Compensation International Progress S.A. -Ciprogress Greenlife-](https://www.gbif.org/publisher/03a8bc52-9c2e-4aee-8dd7-9b4d279e4960){:target="_blank"}
+* [Concesión La Pintada S.A.S](https://www.gbif.org/publisher/db41c5c6-d34a-4d27-8ac9-0c8d085393f7){:target="_blank"}
+* [Federación Nacional de Cacaoteros](https://www.gbif.org/publisher/37c1c493-782c-4f53-914d-b1f66cdcf61c){:target="_blank"}
+* [Federación Nacional de Cafeteros de Colombia](https://www.gbif.org/publisher/fe602f47-b553-4291-b6e5-197b9837e167){:target="_blank"}
+* [Grupo Energía Bogotá](https://www.gbif.org/publisher/2977895d-3ce2-4fb9-b62e-a775c8fd9304){:target="_blank"}
+* [Hatovial S.A.S](https://www.gbif.org/publisher/90d2e455-c279-4bf1-ba87-806495641e18){:target="_blank"}
+* [Holcim Colombia S.A.](https://www.gbif.org/publisher/5e08abdd-46a0-45ec-a2e5-93348975b11d){:target="_blank"}
+* [INERCO Consultoría Colombia](https://www.gbif.org/publisher/67c63221-0c74-4c18-97f9-e2b2acb739ce){:target="_blank"}
+* [Isagen S.A.S.](https://www.gbif.org/publisher/04ce62dd-30ec-4d98-8b30-b09cafc3ac38){:target="_blank"}
+* [Moam Monitoreos Ambientales S.A.S](https://www.gbif.org/publisher/9a21807b-b9c5-4071-b393-764f3cd58abc){:target="_blank"}
+* [Museo Entomológico de Comfenalco - Antioquia](https://www.gbif.org/publisher/0c0c7309-6a47-4760-9f5c-a48f6d354f75){:target="_blank"}
+* [Oleoducto Bicentenario](https://www.gbif.org/publisher/c3da1f49-b2c8-4751-b72f-28855546ec4c){:target="_blank"}
+* [Promigas S.A E.S.P](https://www.gbif.org/publisher/dbc2ab56-d499-403c-8db5-c1a49cd0b75f){:target="_blank"}
+* [Stratos Consultoría Geológica](https://www.gbif.org/publisher/2c542862-b9dd-40fc-8260-fb434997efa7){:target="_blank"}
+* [TERRASOS](https://www.gbif.org/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825){:target="_blank"}
 
 # ¿Te perdiste nuestro webinar? revívelo aquí
 
