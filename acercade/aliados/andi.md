@@ -112,7 +112,7 @@ Esta fase podría desarrollarse con los siguientes pasos:
 
 ## Resultados de publicación
 
-En el siguiente [enlace](https://www.gbif.org/project/2Zik1tfJoh3C92ZslvhDIr/openpsd-promoting-publication-and-use-of-private-sector-data-on-biodiversity#datasets) puede encontrar los conjuntos de datos publicados en el marco de la alianza a la fecha.
+En el siguiente [enlace](https://www.gbif.org/project/2Zik1tfJoh3C92ZslvhDIr/openpsd-promoting-publication-and-use-of-private-sector-data-on-biodiversity#datasets{:target="_blank"}) puede encontrar los conjuntos de datos publicados en el marco de la alianza a la fecha.
 
 
 # El costo para las empresas
