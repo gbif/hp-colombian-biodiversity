@@ -15,7 +15,7 @@ prárrafo introductorio
 
 # Beneficios
 
-EL Equipo Coordinador del SiB Colombia (EC-SiB) brinda un espacio para el aprendizaje a través de una tutoria cercana donde los pasantes se integran por completo a las actividades del equipo experimentando así una primera experiencia llena de estímulos para mejorar sus habilidades profesionales y personales.
+EL Equipo Coordinador del SiB Colombia (EC-SiB) brinda un espacio para el aprendizaje a través de una tutoria cercana donde los pasantes se integran por completo a las actividades del equipo experimentando así un ambiente lleno de estímulos para mejorar sus habilidades profesionales y personales.
 
 Nuestros pasantes se benefician de:
 
@@ -24,20 +24,21 @@ Nuestros pasantes se benefician de:
 3. Recomendación de trabajo directa con los socios del SiB Colombia según el desempeño del pasante y la demanda de profesionales.
 4. Entrenamiento intensivo en informática de la biodiversidad (aplica para los perfiles de la línea de Admnistración de Contenidos).
 
-Más de 18 pasantes que han sido parte del EC-SiB, conoce su experencia en la página de Alumni.
+Más de 18 pasantes que han sido parte del EC-SiB, conoce sus experencias:
 
-[_Alumni_](/comunidad/formacion/alumni){: .button}
+[Alumni](/comunidad/formacion/alumni){: .button .is-primary}
 
 # Perfiles de Pasantía
 
-# Fechas Importantes
 
-
-# Proceso de Selección
+# Proceso
 
 **Postulaciones**
 
-  Cada semestre la convocatoria se abré por el periodo de un mes durante el cuál se recibiran aplicaciones unicamente por medio del formualrio dispuesto para ello.
+  Cada semestre la convocatoria se abré por el periodo de un mes durante el cuál se recibiran aplicaciones unicamente por medio del formulario dispuesto para ello.
+  
+  1er Semestre -  Convocatoria de Marzo a Abril para ejecutar la pasantía de Julio a Diciembre del siguiente semestre.
+  2do Semestre -  Convocatoria de Septiembre a Octubre para ejecutar la pasantía de Enero a Junio del siguiente semestre.
 
 **Etapa 1 - Revisión de aplicaciones**
 
