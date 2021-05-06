@@ -1,7 +1,7 @@
 ---
 title:  "Reto Ebbe Nielsen 2021"
 date:   2021-01-29
-categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
+categories: ["Biodiversidad", "Convocatorias", "GBIF", "Reto Ebbe Nielsen","Innovación","Datos" "2021"]
 background: /assets/images/noticias_eventos/Ebbe-Nielsen-01-1000x1000.jpg
 ---
 
