@@ -79,6 +79,13 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 <p><img src="https://sibcolombia.net/wp-content/uploads/2016/02/linea-sib-net.png" class="vc_single_image-img attachment-full" alt="" width="700" height="33"></p>
 <p><!--complete--></p>
 <div data-id="complete-form" data-orig_data_id="complete-form"  data-class="wpcf7cf_group">
+	
+	
+	
+	
+	
+	
+	
 <h3> Detalles de la Organización </h3>
 <p> Esta es la oportunidad para contarle a los usuarios del SiB Colombia acerca de tu organización. ¿quién es y qué hace? </p>
 
@@ -86,8 +93,20 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 <p><label><br />Nombre<br />
 
 <div class="control">
+	
+  <label class="label">Name</label>
   <input class="input is-focused" type="text" placeholder="Nombre de la organización, de preferencia el registrado en la personería jurídica">
 </div>
+
+<div class="field">
+  <label class="label">Nombre de la Organización </label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Nombre de la organización, de preferencia el registrado en la personería jurídica">
+  </div>
+</div>
+
+
+
 
 <p><label><br />Nombre corto - Acrónimo<br />
 
