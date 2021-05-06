@@ -6,10 +6,6 @@ landinguso:
   #background: https://live.staticflickr.com/8483/8205952042_c840217645_h.jpg
   overlayColor: "#E4EEE0" #"#ffffffbb"
   hasWhiteText: false
-  cta:
-  - text: Inscríbete
-    href: /comunidad/formacion/cicloformacion2020
-    isPrimary: true
 
 #cards
 tarjetasUso:
