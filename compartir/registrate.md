@@ -9,7 +9,6 @@ height: 70vh
 composition: 
   - type: heroImage
   - type: blank
-    data: custom.formularioRegistro
   - type: pageMarkdown
 
 ---
