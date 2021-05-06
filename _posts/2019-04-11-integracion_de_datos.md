@@ -1,7 +1,7 @@
 ---
 title:  "Integración de datos provenientes de repositorios globales"
 date:   2019-04-11
-categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
+categories: ["Biodiversidad", "Registros biológicos", "GBIF", "Darwin Core", "IPT", "Datos", "2019"]
 background: /assets/images/noticias_eventos/int-datos-2018-blog-1000x1000.png
 ---
 # ¿En qué consiste esta integración de datos?
