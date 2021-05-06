@@ -273,12 +273,20 @@ Puedes seleccionar una o varias opciones.
     <div class="field">
       <div class="control">
         <label class="checkbox">
-          <input type="checkbox1">
-          Checkbox
+          <input type="checkbo">
+          Registros biológicos
         </label>
         <label class="checkbox">
-          <input type="checkbox2">
-          Checkbox
+          <input type="checkbox">
+          Listas de especies
+        </label>
+        <label class="checkbox">
+          <input type="checkbox">
+          Eventos de muestreo
+        </label>
+        <label class="checkbox">
+          <input type="checkbox">
+          Fichas de especies
         </label>
       </div>
     </div>
