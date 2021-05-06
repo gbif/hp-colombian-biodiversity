@@ -205,14 +205,7 @@ Persona a quién podemos dirigirnos para realizar preguntas acerca de la organiz
 
 <div class="field">
   <label class="label">Correo electrónico</label>
-  <div class="control has-icons-left has-icons-right">
-    <input class="input is-danger" type="email" placeholder="Email input" value="Correo electrónico del contacto administrativo. Considera usar un correo electrónico genérico que siempre llegue a la persona adecuada.">
-    <span class="icon is-small is-left">
-      <i class="fas fa-envelope"></i>
-    </span>
-    <span class="icon is-small is-right">
-      <i class="fas fa-exclamation-triangle"></i>
-    </span>
-  </div>
+    <input class="input is-danger" type="email" placeholder="Email input" value="contactoAdministrativo@.">
+  <p class="orreo electrónico del contacto administrativo. Considera usar un correo electrónico genérico que siempre llegue a la persona adecuada.">This is a help text</p>
   <p class="help is-danger">This email is invalid</p>
 </div>
