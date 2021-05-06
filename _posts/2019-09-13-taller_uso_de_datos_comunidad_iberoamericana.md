@@ -1,7 +1,7 @@
 ---
 title:  "Taller de uso de datos para la toma de decisiones: llamado a la comunidad iberoamericana"
 date:   2019-09-13
-categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
+categories: ["Biodiversidad", "Ciencia Abierta", "GBIF", "Taller", "Uso de datos", "2019"]
 background: /assets/images/noticias_eventos/pieza-cesp-37-1000x1000.png
 ---
 
