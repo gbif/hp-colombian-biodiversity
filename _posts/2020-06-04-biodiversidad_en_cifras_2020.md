@@ -1,7 +1,7 @@
 ---
 title:  "Biodiversidad en Cifras"
 date:   2020-06-04
-categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
+categories: ["Biodiversidad", "Cifras", "Datos Abiertos", "Especies", "Colombia", "2020"]
 background: /assets/images/noticias_eventos/bd-cifras-blog-2020-1000x1000.jpg
 ---
 
