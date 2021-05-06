@@ -1,7 +1,7 @@
 ---
 title:  "Taller de gestión y publicación de datos sobre biodiversidad – Programa Riqueza Natural – USAID"
 date:   2019-09-19
-categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
+categories: ["Biodiversidad", "Natural", "Taller", "Calidad de datos", "Publicación", "Datos", "2019"]
 background: /assets/images/noticias_eventos/blog-riquezanatural-1000x1000.jpg
 ---
 
