@@ -2,7 +2,7 @@
 title:  "¡Participa en el Reto Naturalista Urbano 2019!"
 date:   2019-04-10
 categories: ["Biodiversidad", "Taller", "Colecciones Biológicas", "Calidad de datos", "2019"]
-background: /assets/images/noticias_eventos/t-uis-Blog-SiB-1000x1000.jpg
+background: /assets/images/noticias_eventos/CNC2019-sib-1000x1000.png
 ---
 
 ## ¿Qué es el Reto Naturalista Urbano?
@@ -85,4 +85,130 @@ Algunas personas pueden no querer enseñar el sitio preciso de su hallazgo, para
 - Oscurecida: las coordenadas son un punto al azar dentro de un cuadrado de 0.2° x 0.2°, o aproximadamente 22 km2 alrededor de las coordenadas verdaderas. Estas solamente son visibles al usuario que ingresó la fotografía y a los curadores de los proyectos a los que se añadió la observación.
 - Privadas: las coordenadas están completamente ocultas al público. Solo el usuario que subió la fotografía y los curadores las pueden ver.
 *Información adaptada de [Naturalista México](https://www.naturalista.mx).
+
+## Buenas prácticas
+
+1. La idea del reto es registrar organismos silvestres. Trata de no subir fotos de plantas en materas o de mascotas.
+2. Si no conoces exactamente la especie que registraste en la foto trata de poner como mínimo, planta, animal u hongo.
+3. Recuerda que cuando tomas múltiples fotos del mismo organismo corresponden a la misma observación. Súbelas en el mismo registro.
+4. Si vas a usar cámara no olvides configurar bien la fecha. ¡Sólo hacen parte del reto las fotos tomadas entre el 26 y el 29 de abril!
+5. Si vas a usar la aplicación del celular no se te olvide darle acceso al gps a la aplicación, de lo contrario las fotos quedarán sin ubicación y no serán tenidas en cuenta en los resultados del reto.
+
+## Herramientas
+
+Aquí encontrarás algunos videos y documentos de interés, que te ayudarán a entender mejor el funcionamiento de la aplicación y cómo participar activamente de este reto de ciudad que tendremos en abril.
+
+### ¿Cómo usar la aplicación web de Naturalista?
+https://www.youtube.com/watch?v=CUC2ZGU3J-o
+
+### ¿Cómo usar la aplicación móvil de Naturalista?
+https://www.youtube.com/watch?v=b_tLe49WMRE
+
+## Más video tutoriales
+
+- [Añade una observación en tu celular](https://vimeo.com/162581545)
+- [Añade una observación en el sitio web](https://vimeo.com/167431843)
+- [Cómo tomar buenas fotos para identificar](https://vimeo.com/167341998)
+- [Cómo usar la página web de identificaciones](https://vimeo.com/246153496)
+- [Cómo geolocalizar tus fotos en la plataforma](https://vimeo.com/175298466)
+- [Cómo duplicar una observación](https://vimeo.com/288774706)
+- [Cómo añadir fotos o audios a una identificación](https://vimeo.com/289168727)
+- [Explora otras observaciones en Naturalista](https://vimeo.com/153477640)
+
+### ¿Cómo identificar observaciones en Naturalista?
+https://www.youtube.com/watch?v=2e-Xynk2-C0
+
+[Click aquí para descargar la presentación](https://drive.google.com/file/d/1-05JpAqnua6u36oCueYupmTFhFxFETrD/view)
+
+### Recursos para identificar observaciones
+https://www.youtube.com/watch?v=jh5Ykt4-nDE
+
+[Click aquí para descargar la presentación](https://drive.google.com/file/d/1kUxOqfCkep7cY7pwML9also5h1Z3TDGf/view)
+
+### Guías de identificación
+
+- Guías de identificación rápida de solanáceas en Colombia
+- Avistamiento de aves
+- Guías de identificación rápida de Pasifloras en Colombia
+- Guías de identificación rápida de helechos
+- Guías de identificación rápida de orquídeas en Colombia
+
+### Guías y enlaces de interés para identificación de especies
+
+- Orquídeas, anturios y bromelias en el Parque Arví
+- Catálogo de flora del Valle de Aburrá
+- Aves en el campus de EAFIT
+- Guía ilustrada de aves de Porce
+- Guía ilustrada de anfibios y reptiles de Porce
+- Medellín una ciudad para la biodiversidad
+- Abejas de Antioquia
+
+## Promotores:
+### Bogotá
+#### Organizadores:
+
+- Carolina Soto | csoto@humboldt.org.co
+- Sindy Martínez | smartinez@humboldt.org.co
+
+#### Colaboradores:
+
+- Fundación Humedales de Bogotá.
+- Secretaría Distrital de Ambiente.
+- Instituto Distrital de Protección y Bienestar Animal.
+- Fundación Dodo.
+- Fundación Cerros de Bogotá.
+- Grupo Ecomunitario.
+- Jardín Botánico de Bogotá.
+- Semillero de Investigación Colegio De La Salle.
+- Colegio gran Bretaña.
+- Colegio Femenino.
+- Red de Colegios de los Cerros de Bogotá.
+- Maestría en Uso, manejo y conservación del bosque – Universidad Distrital.
+- Museo de Ciencias – Universidad del Bosque.
+- Instituto Humboldt.
+- SiB Colombia.
+- Fundación Karisma.
+- Pontificia Universidad Javeriana.
+
+#### Naturalistas:
+
+- [Mateo Hernández](https://www.inaturalist.org/people/391471).
+- [Juan Carlos Caicedo](https://colombia.inaturalist.org/people/juan_carlos_caicedo_hernandez).
+- [Simón Santos](https://www.inaturalist.org/people/simons6).
+- [Juan Manuel Rosso](https://colombia.inaturalist.org/users/109812).
+- [Andrés Cuervo](https://colombia.inaturalist.org/people/amcuervo).
+- [Juliana Zuluaga](https://colombia.inaturalist.org/people/julianazuluaga).
+
+### Medellín:
+#### Organizadores:
+
+- Ana María Benavides | anamaria.benavides@jbotanico.org  
+- Juan Camilo Palacio | juan.palacio@jbotanico.org 
+
+#### Colaboradores:
+
+- Mesa de Biodiversidad de Medellín:  Secretaria de Ambiente de Medellín, Parque Zoológico Santa Fe, Metro de Medellín, Parque Explora, Corporación Parque Arví, - - Universidad Ces, Universidad Eafit, Programa de Biología, Universidad de Antioquia, Universidad Nacional sede Medellín, Área Metropolitana del Valle de Aburrá.
+- Instituto Humboldt.
+- Museo de Ciencias Naturales de La Salle – ITM.
+- Universidad EIA.
+- Comfenalco Antioquia.
+- LaSavia-Jardinería & Botánica.
+- Pacto por los Bosques de Antioquia.
+- Programa de Bosques Andinos.
+- Parques Nacionales Naturales de Colombia.
+- Instituto de Ciencias Naturales de la Universidad Nacional de Colombia.
+- Tecnológico de Antioquia y Corantioquia.
+- Museo de Historia Natural -Universidad Nacional de Colombia.
+- Parque Jaime Duque.
+
+#### Naturalistas:
+
+- Gabriel Camilo Jaramillo.
+- Lucia Roldán.
+- Sebastian Julián.
+- David Foster.
+- Sebastián Serna Muñoz.
+- Jose A. Soto.
+- David Morales Ramírez.
+- Julián David Alzate.
 
