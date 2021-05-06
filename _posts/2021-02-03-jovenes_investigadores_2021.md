@@ -1,7 +1,7 @@
 ---
 title:  "Premio GBIF Jóvenes Investigadores 2021"
 date:   2021-02-03
-categories: ["Biodiversidad" "Convocatorias", "GBIF", "Young Researchers Award", "2021"]
+categories: ["Biodiversidad", "Convocatorias", "GBIF", "Young Researchers Award", "2021"]
 #post.excerpt: "Participa en la convocatoria anual de Jóvenes Investigadores para financiar tu investigación."
 background: /assets/images/noticias_eventos/Jovenes-Investigadores-08-min-1024x1024 (1).jpg
 ---
