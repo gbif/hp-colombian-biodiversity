@@ -1,7 +1,7 @@
 ---
 title:  "Javier Maldonado: río arriba, río abajo por las venas de agua dulce del país"
 date:   2019-04-10
-categories: ["Biodiversidad", "Reto Naturalista", "Especies", "Bogotá", "Medellín", "2019"]
+categories: ["Biodiversidad", "Javier Maldonado", "Peces", "Agua Dulce", "Río", "2019"]
 background: /assets/images/noticias_eventos/javiblog-nb-1000x960.jpg
 ---
 
