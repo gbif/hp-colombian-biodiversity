@@ -1,7 +1,7 @@
 ---
 title:  "Taller de gestión y publicación de datos sobre biodiversidad – Universidad Industrial de Santander"
 date:   2019-05-03
-categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
+categories: ["Biodiversidad", "Taller", "Colecciones Biológicas", "Calidad de datos", "2019"]
 background: /assets/images/noticias_eventos/t-uis-Blog-SiB-1000x1000.jpg
 ---
 
