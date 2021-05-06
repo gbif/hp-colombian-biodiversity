@@ -13,38 +13,24 @@ tarjetasUso:
   # description: Ejes de formación:
     
   features:
-      #preTitle:  Formación # optional
-    - title: Contenidos editoriales
+      #preTitle:  Editorial # optional
+    - title: Respositorio
       description: |      # required
-       Los laboratorios de datos te ayudarán a afianzar tus habilidades en el manejo y publicación de datos a través de SiB Colombia.
+       Informes y reportes de la biodiversidad Nacional generados a partir de los datos publicados a través del SiB Colombia.
       # img required
-      background: /comunidad/formacion/images/working_nounproject.jpg
+      background: /comunidad/usodedatos/images/Cifras_plantas2019.PNG
       cta:
-      - text: Aprender
+      - text: Explora
         href: /formacion/laboratorios
-        isPrimary: true
-
+        isPrimary: true    
       
-     #preTitle: Formación # optional
-    - title: "Informes de uso de datos"
+      
+     #preTitle: "Uso en cifras"  # optional
+    - title: Uso en cifras  # required
       description: |      # required
-        Este programa busca formar a futuros profesionales en informática de la biodiversidad, visualización y divulgación científica.
-      background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
-      cta:
-      - text: Nuestros pasantes
-        href: /comunidad/formacion/alumni
-        isPrimary: true
-      - text: Oportunidades
-        href: https://sibcolombia.net/pasantias-2021-2/#1616608221972-ea592b95-1b13/data
-        
-      
-      
-     #preTitle: "Histórico"  # optional
-    - title: Citación  # required
-      description: |      # required
-       Conoce los ciclos de formación y talleres históricos facilitados por el Equipo Coordinador del SiB Colombia desde el 2014.
+       Conoce el uso que de le de a los datos publicados a través del SiB Colombia.
       background: /assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg
       cta:
-      - text: LLévame al pasado
+      - text: Explora
         href:  /comunidad/formacion/historico
         isPrimary: true
