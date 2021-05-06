@@ -1,9 +1,10 @@
 ---
 title:  "Reto Ebbe Nielsen 2021"
 date:   2021-01-29
-categories: ["Biodiversidad", "Convocatorias", "GBIF", "Reto Ebbe Nielsen","Innovación","Datos" "2021"]
+categories: ["Biodiversidad", "Convocatorias", "GBIF", "Reto Ebbe Nielsen","Innovación","Datos","2021"]
 background: /assets/images/noticias_eventos/Ebbe-Nielsen-01-1000x1000.jpg
 ---
+
 
 Haz parte el reconocimiento a las propuestas innovadoras que aprovechen los datos sobre biodiversidad y las herramientas disponibles en la red GBIF.
 
