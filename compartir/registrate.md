@@ -213,7 +213,9 @@ Persona a quién podemos dirigirnos para realizar preguntas acerca de la organiz
 <div class="field">
   <label class="label">Telefono</label>
   <div class="control">
-    <input class="input" type="text" placeholder="Teléfono de contacto del contacto administrativo. Considera usar un teléfono fijo usando el formato [código país + ciudad] [número] [extentensión]. Ej.: (57+1) 320267, ext: 7152.">
+    <input class="input" type="text" placeholder="Teléfono de contacto del contacto administrativo.">
+    <p class="help">Considera usar un teléfono fijo usando el formato [código país + ciudad] [número] [extentensión]. Ej.: (57+1) 320267, ext: 7152..</p>
+
   </div>
 </div>
 
@@ -253,7 +255,8 @@ Persona a quién podemos dirigirnos para intercambiar información técnica. Ej.
 <div class="field">
   <label class="label">Telefono</label>
   <div class="control">
-    <input class="input" type="text" placeholder="Teléfono de contacto del contacto técnico. Considera usar un teléfono fijo usando el formato [código país + ciudad] [número] [extentensión]. Ej.: (57+1) 320267, ext: 7152.">
+    <input class="input" type="text" placeholder="Teléfono de contacto del contacto técnico.">
+    <p class="help">Considera usar un teléfono fijo usando el formato [código país + ciudad] [número] [extentensión]. Ej.: (57+1) 320267, ext: 7152..</p>
   </div>
 </div>
 
@@ -261,3 +264,23 @@ Persona a quién podemos dirigirnos para intercambiar información técnica. Ej.
 Ayudamos a entender que tipo de datos deseas publicar y qué ayuda podrías necesitar. El SiB Colombia facilita la publicación de 4 tipos explicados aquí: https://sibcolombia.net/servicios/datos/ 
 
 Puedes seleccionar una o varias opciones.
+
+<div class="field is-horizontal">
+  <div class="field-label">
+    <label class="label">¿Qué tipo de datos deseas publicar?</label>
+  </div>
+  <div class="field-body">
+    <div class="field">
+      <div class="control">
+        <label class="checkbox">
+          <input type="checkbox1">
+          Checkbox
+        </label>
+        <label class="checkbox">
+          <input type="checkbox2">
+          Checkbox
+        </label>
+      </div>
+    </div>
+  </div>
+</div>
