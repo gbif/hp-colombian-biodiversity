@@ -1,7 +1,7 @@
 ---
 title:  "Convocatorias BID Caribe 2020"
 date:   2020-09-23
-categories: ["Biodiversidad", "GBIF", "BID Caribe","Publicación", "Datos", "Sostenibilidad", "Becas", "2021"]
+categories: ["Biodiversidad", "GBIF", "BID Caribe","Publicación", "Datos", "Sostenibilidad", "Becas", "2020"]
 background: /assets/images/noticias_eventos/BID-Caribe-2020-29-min-1000x1000.jpg
 ---
 
