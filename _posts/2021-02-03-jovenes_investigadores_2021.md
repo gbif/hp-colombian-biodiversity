@@ -6,8 +6,6 @@ categories: ["Biodiversidad", "Convocatorias", "GBIF", "Young Researchers Award"
 background: /assets/images/noticias_eventos/Jovenes-Investigadores-08-min-1024x1024 (1).jpg
 ---
 
-Participa en la convocatoria anual de Jóvenes Investigadores para financiar tu investigación.
-
 # Propósito 
 
 La Infraestructura Mundial de Información en Biodiversidad (GBIF, por sus siglas en inglés) se complace en anunciar la apertura de la convocatoria al [Premio Jóvenes Investigadores 2021 (Young Researchers Award)](https://www.gbif.org/news/6SrTuANNJyRweO9c6lSx85/call-for-nominations-to-the-2021-gbif-young-researchers-award). Este programa tiene como objetivo promover y reconocer  investigaciones innovadoras, realizadas por estudiantes de maestría y/o doctorado en el campo de la informática de la biodiversidad, que se basen en el uso de datos disponibles a través de GBIF.
