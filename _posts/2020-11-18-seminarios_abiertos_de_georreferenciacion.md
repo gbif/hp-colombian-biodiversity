@@ -1,6 +1,6 @@
 ---
 title:  "Seminarios abiertos de Georreferenciación!"
-date:   2020-11-18 21:37:12 +0200
+date:   2020-11-18
 categories: ["Biodiversidad", "Seminario", "GBIF", "Georreferenciación","GBIF CESP","Registros Biológicos", "2021"]
 background: /assets/images/noticias_eventos/GEO-1000x1000.jpg
 ---
