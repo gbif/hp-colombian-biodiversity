@@ -206,6 +206,58 @@ Persona a quién podemos dirigirnos para realizar preguntas acerca de la organiz
 <div class="field">
   <label class="label">Correo electrónico</label>
     <input class="input is-danger" type="email" placeholder="Email input" value="contactoAdministrativo@.">
-  <p class="orreo electrónico del contacto administrativo. Considera usar un correo electrónico genérico que siempre llegue a la persona adecuada.">This is a help text</p>
+  <p class="help">Correo electrónico del contacto administrativo. Considera usar un correo electrónico genérico que siempre llegue a la persona adecuada.</p>
   <p class="help is-danger">This email is invalid</p>
 </div>
+
+<div class="field">
+  <label class="label">Telefono</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Teléfono de contacto del contacto administrativo. Considera usar un teléfono fijo usando el formato [código país + ciudad] [número] [extentensión]. Ej.: (57+1) 320267, ext: 7152.">
+  </div>
+</div>
+
+**Contacto Técnico**
+
+Persona a quién podemos dirigirnos para intercambiar información técnica. Ej.: Envío de contraseñas para la publicación, tipos de datos a publicar, limpieza y calidad de datos, proceso de publicación, entre otros.
+
+
+<div class="field">
+  <label class="label">Posición o Cargo</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Rol o cargo que tiene el contacto técnico en la organización.">
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Nombre</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Nombre del contacto técnico.">
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Apellido</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Apellido del contacto técnico.">
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Correo electrónico</label>
+    <input class="input is-danger" type="email" placeholder="Email input" value="contactotécnico@.">
+  <p class="help">Correo electrónico del contacto técnico. Considera usar un correo electrónico genérico que siempre llegue a la persona adecuada.</p>
+  <p class="help is-danger">This email is invalid</p>
+</div>
+
+<div class="field">
+  <label class="label">Telefono</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Teléfono de contacto del contacto técnico. Considera usar un teléfono fijo usando el formato [código país + ciudad] [número] [extentensión]. Ej.: (57+1) 320267, ext: 7152.">
+  </div>
+</div>
+
+**TIPO DE DATOS A PUBLICAR**
+Ayudamos a entender que tipo de datos deseas publicar y qué ayuda podrías necesitar. El SiB Colombia facilita la publicación de 4 tipos explicados aquí: https://sibcolombia.net/servicios/datos/ 
+
+Puedes seleccionar una o varias opciones.
