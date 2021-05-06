@@ -115,6 +115,52 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 </div>
 
 
+<div class="field">
+  <label class="label">Departamento</label>
+  <div class="control">
+    <div class="select">
+      <select>
+        <option>Departamento sede principal</option>
+        <option>Amazonas</option>
+        <option>Antioquia</option>
+        <option>Arauca</option>
+        <option>Archipiélago de San Andrés, Providencia y Santa Catalina</option>
+        <option>Atlántico</option>
+        <option>Bogotá, D.C.</option>
+        <option>Bolívar</option>
+        <option>Boyacá</option>
+        <option>Caldas</option>
+        <option>Caquetá</option>
+        <option>Casanare</option>
+        <option>Cauca</option>
+        <option>Cesar</option>
+        <option>Chocó</option>
+        <option>Córdoba</option>
+        <option>Cundinamarca</option>
+        <option>Guainía</option>
+        <option>Guaviare</option>
+        <option>Huila</option>
+        <option>La Guajira</option>
+        <option>Magdalena</option>
+        <option>Meta</option>
+        <option>Nariño</option>
+        <option>Norte de Santander</option>
+        <option>Putumayo</option>
+        <option>Quindío</option>
+        <option>Risaralda</option>
+        <option>Santander</option>
+        <option>Sucre</option>
+        <option>Tolima</option>
+        <option>Valle del Cauca</option>
+        <option>Vaupés</option>
+        <option>Vichada</option>
+        <option>No en Colombia</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+
 
 
 
