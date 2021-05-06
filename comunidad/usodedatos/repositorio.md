@@ -15,7 +15,6 @@ Es un producto del Instituto Humboldt de carácter divulgativo, que tiene como p
 
 Publicaciones en las que se ha participado:
 
-## Equipo Coordinador 
 |           |            |              |
 |-----------|------------| -------------|
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/portadaRET-2014.jpg"></figure> |2014| <a href="http://reporte.humboldt.org.co/biodiversidad/2014/" target="_blank">Biodiversidad en cifras</a> |
