@@ -213,7 +213,7 @@ Persona a quién podemos dirigirnos para realizar preguntas acerca de la organiz
 <div class="field">
   <label class="label">Telefono</label>
   <div class="control">
-    <input class="input" type="text" placeholder="Teléfono de contacto del contacto administrativo.">
+    <input class="input" type="tel" placeholder="Teléfono de contacto del contacto administrativo.">
     <p class="help">Considera usar un teléfono fijo usando el formato [código país + ciudad] [número] [extentensión]. Ej.: (57+1) 320267, ext: 7152..</p>
 
   </div>
@@ -273,7 +273,7 @@ Puedes seleccionar una o varias opciones.
     <div class="field">
       <div class="control">
         <label class="checkbox">
-          <input type="checkbo">
+          <input type="checkbox">
           Registros biológicos
         </label>
         <label class="checkbox">
@@ -292,3 +292,16 @@ Puedes seleccionar una o varias opciones.
     </div>
   </div>
 </div>
+
+
+<div class="field">
+  <label class="label">Descripción de los datos</label>
+  <div class="control">
+    <textarea class="textarea" placeholder="¿Qué tipo de datos relevantes tiene tu organización para compartir a través del SiB Colombia? Cuéntanoslo con una breve descripción."></textarea>
+  </div>
+</div>
+
+
+**PUBLICACIÓN DE DATOS ASOCIADOS A UN PERMISO DE RECOLECCIÓN**
+
+
