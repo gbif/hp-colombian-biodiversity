@@ -1,7 +1,7 @@
 ---
 title:  "¡Se busca! – Líder TI"
 date:   2021-03-24
-categories: [ "biodiversidad", "desarrollador", "Frontend", "Se busca", "Datos abierto"]
+categories: [ "Biodiversidad", "desarrollador", "Frontend", "Se busca", "Datos abierto"]
 background: /assets/images/noticias_eventos/buscamos_ti_2021.jpg
 ---
 
