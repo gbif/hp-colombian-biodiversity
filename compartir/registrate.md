@@ -90,34 +90,68 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 <p> Esta es la oportunidad para contarle a los usuarios del SiB Colombia acerca de tu organización. ¿quién es y qué hace? </p>
 
 ------
-<p><label><br />Nombre<br />
-
-<div class="control">
-	
-  <label class="label">Name</label>
-  <input class="input is-focused" type="text" placeholder="Nombre de la organización, de preferencia el registrado en la personería jurídica">
-</div>
 
 <div class="field">
-  <label class="label">Nombre de la Organización </label>
+  <label class="label">Nombre de la Organización</label>
   <div class="control">
     <input class="input" type="text" placeholder="Nombre de la organización, de preferencia el registrado en la personería jurídica">
   </div>
 </div>
 
-
-
-
-<p><label><br />Nombre corto - Acrónimo<br />
-
-<div class="control">
-  <input class="input is-focused" type="text" placeholder="En caso de contar con uno de estos. Este aparecerá asociado a los datos en la plataforma de publicación">
+<div class="field">
+  <label class="label">Nombre corto o acrónimo</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Este aparecerá asociado a los datos en la plataforma de publicación">
+  </div>
 </div>
 
+<div class="field">
+  <label class="label">Descripción</label>
+  <div class="control">
+    <textarea class="textarea" placeholder="Describe brevemente la trayectoria de tu organización en relación a la misión del SiB Colombia (ej.: colecciones biológicas custodiadas, enfoque de investigación, gestión de información sobre biodiversidad, etc.) Esta descripción aparecerá en el perfil de la organización como socio publicador"></textarea>
+  </div>
+</div>
 
-<p><label><br />Descripción<br />
- <span>Describe brevemente la trayectoria de tu organización en relación a la misión del SiB Colombia (ej.: colecciones biológicas custodiadas, enfoque de investigación, gestión de información sobre biodiversidad, etc.) Esta descripción aparecerá en el perfil de la organización como socio publicador*
+<div class="field">
+  <label class="label">Página web</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Sigue el formato: http:// o https:// + direccion_web. Ej.: https://sibcolombia.net/">
+  </div>
+</div>
 
+<div class="field">
+  <label class="label">Página web</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Sigue el formato: http:// o https:// + direccion_web. Ej.: https://sibcolombia.net/">
+  </div>
+</div>
+
+<div class="field is-horizontal">
+  <div class="field-label is-normal">
+    <label class="label">From</label>
+  </div>
+  <div class="field-body">
+    <div class="field">
+      <p class="control is-expanded has-icons-left">
+        <input class="input" type="text" placeholder="Name">
+        <span class="icon is-small is-left">
+          <i class="fas fa-user"></i>
+        </span>
+      </p>
+    </div>
+    <div class="field">
+      <p class="control is-expanded has-icons-left has-icons-right">
+        <input class="input is-success" type="email" placeholder="Email" value="alex@smith.com">
+        <span class="icon is-small is-left">
+          <i class="fas fa-envelope"></i>
+        </span>
+        <span class="icon is-small is-right">
+          <i class="fas fa-check"></i>
+        </span>
+      </p>
+    </div>
+  </div>
+</div>
 
 <div class="control">
   <textarea class="textarea is-focused" placeholder="Focused textarea"></textarea>
