@@ -1,7 +1,7 @@
 ---
 title:  "Biodiversidad en Cifras 2019"
 date:   2019-05-10
-categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
+categories: ["Biodiversidad", "Cifras", "Colombia", "GBIF", "Registros Biológicos", "2019"]
 background: /assets/images/noticias_eventos/bd-cifras-blog-1000x1000.jpg
 ---
 
