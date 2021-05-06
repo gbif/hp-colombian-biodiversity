@@ -1,7 +1,7 @@
 ---
 title:  "Datatón Naturalista: Bogotá"
 date:   2019-04-10
-categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
+categories: ["Biodiversidad", "GBIF", "Ciencia participativa", "Open Data Day", "Naturalistas, "2021"]
 background: /assets/images/noticias_eventos/dataton-blog-memorias.png
 ---
 
