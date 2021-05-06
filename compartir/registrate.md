@@ -175,14 +175,6 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 </div>
 
 
-<div class="field">
-  <label class="label">Dirección</label>
-  <div class="control">
-    <input class="input" type="text" placeholder="La dirección física en donde se encuentra la organización. Ej.: Calle 28A # 15-09">
-  </div>
-</div>
-
-
 **CONTACTOS**
 Necesitamos saber con quién podemos ponernos en contacto. Define un contacto administrativo y un contacto técnico en tu organización.
 
@@ -190,5 +182,37 @@ Necesitamos saber con quién podemos ponernos en contacto. Define un contacto ad
 Persona a quién podemos dirigirnos para realizar preguntas acerca de la organización. Ej.: Asuntos relacionados con la visibilización de la organización en nuestra página web, licencias de atribución y uso de los datos, estrategias y procesos que amplíen la participación de la organización a través del SiB Colombia, entre otros.
 
 
+<div class="field">
+  <label class="label">Posición o Cargo</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Rol o cargo que tiene el contacto administrativo en la organización.">
+  </div>
+</div>
 
- 
+<div class="field">
+  <label class="label">Nombre</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Nombre del contacto administrativo.">
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Apellido</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Apellido del contacto administrativo..">
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Correo electrónico</label>
+  <div class="control has-icons-left has-icons-right">
+    <input class="input is-danger" type="email" placeholder="Email input" value="Correo electrónico del contacto administrativo. Considera usar un correo electrónico genérico que siempre llegue a la persona adecuada.">
+    <span class="icon is-small is-left">
+      <i class="fas fa-envelope"></i>
+    </span>
+    <span class="icon is-small is-right">
+      <i class="fas fa-exclamation-triangle"></i>
+    </span>
+  </div>
+  <p class="help is-danger">This email is invalid</p>
+</div>
