@@ -1,7 +1,7 @@
 ---
 title:  "¡Participa en el Reto Naturalista Urbano 2019!"
 date:   2019-04-10
-categories: ["Biodiversidad", "Taller", "Colecciones Biológicas", "Calidad de datos", "2019"]
+categories: ["Biodiversidad", "Reto Naturalista", "Especies", "Bogotá", "Medellín", "2019"]
 background: /assets/images/noticias_eventos/CNC2019-sib-1000x1000.png
 ---
 
