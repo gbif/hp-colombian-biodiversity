@@ -1,7 +1,7 @@
 ---
 title:  "Convocatoria para pasantías en el SiB Colombia 2020–2"
 date:   2020-04-10
-categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
+categories: ["Biodiversidad", "Pasantías", "Convocatorias","Instituto Humboldt", "2021"]
 background: /assets/images/noticias_eventos/Mesa-de-trabajo-2-80-1000x1000.jpg
 ---
 
