@@ -5,7 +5,7 @@ permalink: /comunidad/usodedatos
 title: Uso de datos
 description: |
    Para la publicación acceso y uso de datos sobre Biodiversidad.
-background: https://live.staticflickr.com/2623/4176305872_44b088a6fc_h.jpg #
+background: /assets/images/landing_page/mapa_home.png #
 imageLicense: |
    _Florae Columbiae_ Archivo de: Biodiversity Heritage Library vía [Flickr](https://www.flickr.com/photos/biodivlibrary/8205952042/in/album-72157632062538373/)
 height: 50vh
