@@ -21,7 +21,7 @@ tarjetasUso:
       background: /comunidad/usodedatos/images/Cifras_plantas2019.PNG
       cta:
       - text: Explora
-        href: /formacion/laboratorios
+        href: /comunidad/usodedatos/repositorio
         isPrimary: true    
       
       
