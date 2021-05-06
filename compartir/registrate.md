@@ -8,9 +8,6 @@ imageLicense: |
 height: 70vh
 composition: 
   - type: heroImage
-  - type: blank
-    data: custom.formularioRegistro
-  - type: pageMarkdown
 
 ---
 
@@ -119,34 +116,25 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
   </div>
 </div>
 
-<div class="field">
-  <label class="label">Página web</label>
-  <div class="control">
-    <input class="input" type="text" placeholder="Sigue el formato: http:// o https:// + direccion_web. Ej.: https://sibcolombia.net/">
-  </div>
-</div>
 
 <div class="field is-horizontal">
   <div class="field-label is-normal">
-    <label class="label">From</label>
-  </div>
-  <div class="field-body">
+    <label class="label">Redes Sociales</label>
+  </div>	
+  <div class="field-body">	
     <div class="field">
       <p class="control is-expanded has-icons-left">
-        <input class="input" type="text" placeholder="Name">
+        <input class="input" type="text" placeholder="Facebook">
         <span class="icon is-small is-left">
           <i class="fas fa-user"></i>
         </span>
       </p>
-    </div>
+    </div>	  
     <div class="field">
-      <p class="control is-expanded has-icons-left has-icons-right">
-        <input class="input is-success" type="email" placeholder="Email" value="alex@smith.com">
+      <p class="control is-expanded has-icons-left">
+        <input class="input" type="text" placeholder="Twitter">
         <span class="icon is-small is-left">
-          <i class="fas fa-envelope"></i>
-        </span>
-        <span class="icon is-small is-right">
-          <i class="fas fa-check"></i>
+          <i class="fas fa-user"></i>
         </span>
       </p>
     </div>
