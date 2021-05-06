@@ -160,9 +160,34 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
   </div>
 </div>
 
+<div class="field">
+  <label class="label">Ciudad</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Ciudad donde se encuentra ubicada la sede principal de la organización. Ej.: Manizales">
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Dirección</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="La dirección física en donde se encuentra la organización. Ej.: Calle 28A # 15-09">
+  </div>
+</div>
 
 
+<div class="field">
+  <label class="label">Dirección</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="La dirección física en donde se encuentra la organización. Ej.: Calle 28A # 15-09">
+  </div>
+</div>
 
+
+**CONTACTOS**
+Necesitamos saber con quién podemos ponernos en contacto. Define un contacto administrativo y un contacto técnico en tu organización.
+
+**Contacto Administrativo**
+Persona a quién podemos dirigirnos para realizar preguntas acerca de la organización. Ej.: Asuntos relacionados con la visibilización de la organización en nuestra página web, licencias de atribución y uso de los datos, estrategias y procesos que amplíen la participación de la organización a través del SiB Colombia, entre otros.
 
 
 
