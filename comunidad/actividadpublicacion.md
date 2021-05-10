@@ -12,7 +12,7 @@ height: 50vh
 # 2021
 
 
-| [![](/assets/images/reportes/rep-mes-1-40x40_rojo.png)](https://datastudio.google.com/u/0/reporting/63dcd1a8-3316-4d50-9053-a93a67aa8dfa/page/Ge2V){:target="_blank"}| [![](/assets/images/reportes/rep-mes-2-40x40_amarillo.png)](https://datastudio.google.com/u/0/reporting/c8f98154-44fb-4839-b03b-a2681d1d26d2/page/Ge2V){:target="_blank"}  |   |   |  |  |  |  |  |  |  |  | 
+| [![](/assets/images/reportes/rep-mes-1-40x40_rojo.png)](https://datastudio.google.com/u/0/reporting/63dcd1a8-3316-4d50-9053-a93a67aa8dfa/page/Ge2V){:target="_blank"}| [![](/assets/images/reportes/rep-mes-2-40x40_amarillo.png)](https://datastudio.google.com/u/0/reporting/c8f98154-44fb-4839-b03b-a2681d1d26d2/page/Ge2V){:target="_blank"}  | [![](/assets/images/reportes/rep-mes-3-40x40_naranja.png)](https://datastudio.google.com/u/0/reporting/1wRyC7mGv3kt4e0x6cAoeEAnTjBIhX6TR/page/Ge2V){:target="_blank"}  | [![](/assets/images/reportes/rep-mes-4-40x40_azul.png)](https://datastudio.google.com/u/0/reporting/6a0964f8-0371-4839-a03d-84854ad028ff/page/Ge2V){:target="_blank"}   |  |  |  |  |  |  |  |  | 
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |Ene|Feb|Mar|Abr|May|Jun|Jul|Ago|Sep|Oct|Nov|Dic|
 
