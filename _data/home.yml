@@ -7,7 +7,7 @@ bannerExample2:
   title: Un aporte del sector empresarial al conocimiento de la biodiversidad
   description: |      # required
     Esta alianza cree en la construcción, uso y democratización del conocimiento a partir de los datos sobre biodiversidad compartidos por el sector empresarial, mejorando la toma de decisiones y la calidad de vida de las personas.
-  background: /assets/theme/img/patterns/wavy-dots.png
+  #background: /assets/theme/img/patterns/wavy-dots.png
   overlayColor: "#ffffff55"
   hasWhiteText: false
   cta:                # optional
