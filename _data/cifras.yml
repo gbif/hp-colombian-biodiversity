@@ -20,7 +20,6 @@ tarjetasBioCifras:
   overlayColor: "#ffffffbb"
   # description: Ejes de formación:  # No se incluyó una descripción en la sección de tarjetas
 
-
   features:
      #preTitle:  Formación # optional
     - title: Colombia
@@ -33,8 +32,6 @@ tarjetasBioCifras:
         href: https://santander.biodiversidad.co
         isPrimary: true
 
-
-  features:
      #preTitle:  Formación # optional
     - title: Santander
       description: |      # required
@@ -46,7 +43,6 @@ tarjetasBioCifras:
         href: https://santander.biodiversidad.co
         isPrimary: true
 
-   features: 
      #preTitle: Formación # optional
     - title: Nariño
       description: |      # required
