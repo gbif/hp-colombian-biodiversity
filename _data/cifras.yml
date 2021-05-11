@@ -42,12 +42,24 @@ tarjetasBioCifras:
       - text: Ingresa
         href: https://santander.biodiversidad.co
         isPrimary: true
+        
+   
+     #preTitle:  Formación # optional
+    - title: Boyacá
+      description: |      # required
+       ¡Y dele con el Sirirí!. El Sirirí común es el ave con mayor número de observaciones en Boyacá.
+      # img required
+      background: https://live.staticflickr.com/7046/6931380311_b2e363eabc_c.jpg # Fuente https://flic.kr/p/c3eDpA
+      cta:
+      - text: Ingresa
+        href: https://boyaca.biodiversidad.co
+        isPrimary: true
 
      #preTitle: Formación # optional
     - title: Nariño
       description: |      # required
         Pronto conocerás más sobre la biodiversidad en el territorio ancestrál Awá.
-      background: https://live.staticflickr.com/7046/6931380311_b2e363eabc_c.jpg # Fuente https://flic.kr/p/byv8T6
+      background: https://live.staticflickr.com/1638/24388557685_0017cb6f98_b.jpg # Fuente https://flic.kr/p/byv8T6
       cta:
       - text: Próximamente
         href: 
