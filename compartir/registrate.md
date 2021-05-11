@@ -306,4 +306,103 @@ Puedes seleccionar una o varias opciones.
 
 **PUBLICACIÓN DE DATOS ASOCIADOS A UN PERMISO DE RECOLECCIÓN**
 
+Si los datos que deseas publicar están asociados a un permiso de recolección de especímenes de especies silvestres de la diversidad biológica de acuerdo a los Decretos 1376 y 3016 de 2013 (hoy compilados en el Decreto 1076 de 2015) es necesario, documentar la siguiente información.
 
+
+<div class="field">
+  <label class="label">Tipo de permiso</label>
+  <div class="control">
+    <div class="select">
+      <select>
+        <option>Permiso Individual</option>
+        <option>Permiso Marco</option>
+        <option>Permiso de Estudios Ambientales</option>
+        <option>Contrato de Acceso a Recurso Genéticos</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Nombre del titular del permiso</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Persona natural o jurídica a la que se le otorgó el permiso de recolección tal cual aparece en la resolución.">
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Número de identificación del titular del permiso</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Número de cédula o NIT del titular del permiso de recolección.">
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Número del permiso</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Número de la resolución y año de expedición. Ej.: Resolución 0185 de 2019.">
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Autoridad Ambiental que expidió el permiso</label>
+  <div class="control">
+    <div class="select">
+      <select>
+        <option>Permiso Individual</option>
+        <option>Permiso Marco</option>
+        <option>Permiso de Estudios Ambientales</option>
+        <option>Contrato de Acceso a Recurso Genéticos</option>
+        <option>Área Metropolitana del Valle de Aburrá - AMVA</option>
+	      <option value="Autoridad Nacional de Licencias Ambientales - ANLA">Autoridad Nacional de Licencias Ambientales - ANLA</option>
+	      <option value="Corporación Autónoma Regional de Boyacá - CORPOBOYACÁ">Corporación Autónoma Regional de Boyacá - CORPOBOYACÁ</option>
+	      <option value="Corporación Autónoma Regional de Caldas - CORPOCALDAS">Corporación Autónoma Regional de Caldas - CORPOCALDAS</option>
+	      <option value="Corporación Autónoma Regional de Chivor - CORPOCHIVOR">Corporación Autónoma Regional de Chivor - CORPOCHIVOR</option>
+	      <option value="Corporación Autónoma Regional de Cundinamarca - CAR">Corporación Autónoma Regional de Cundinamarca - CAR</option>
+	      <option value="Corporación Autónoma Regional de la Frontera Nororiental - CORPONOR">Corporación Autónoma Regional de la Frontera Nororiental - CORPONOR</option>
+	      <option value="Corporación Autónoma Regional de la Guajira - CORPOGUAJIRA">Corporación Autónoma Regional de la Guajira - CORPOGUAJIRA</option>
+	      <option value="Corporación Autónoma Regional de la Orinoquía - CORPORINOQUIA">Corporación Autónoma Regional de la Orinoquía - CORPORINOQUIA</option>
+	      <option value="Corporación Autónoma Regional de las cuencas de los ríos Rionegro y Nare - CORNARE">Corporación Autónoma Regional de las cuencas de los ríos Rionegro y Nare - CORNARE</option>
+	      <option value="Corporación Autónoma Regional de los Valles del Sinú y San Jorge - CVS">Corporación Autónoma Regional de los Valles del Sinú y San Jorge - CVS</option>
+	      <option value="Corporación Autónoma Regional de Nariño - CORPONARIÑO">Corporación Autónoma Regional de Nariño - CORPONARIÑO</option>
+	      <option value="Corporación Autónoma Regional de Risaralda - CARDER">Corporación Autónoma Regional de Risaralda - CARDER</option>
+	      <option value="Corporación Autónoma Regional de Santander - CAS">Corporación Autónoma Regional de Santander - CAS</option>
+	      <option value="Corporación Autónoma Regional de Sucre - CARSUCRE">Corporación Autónoma Regional de Sucre - CARSUCRE</option>
+	      <option value="Corporación Autónoma Regional del Alto Magdalena - CAM">Corporación Autónoma Regional del Alto Magdalena - CAM</option>
+	      <option value="Corporación Autónoma Regional del Atlántico - CRA">Corporación Autónoma Regional del Atlántico - CRA</option>
+	      <option value="Corporación Autónoma Regional del Canal del Dique - CARDIQUE">Corporación Autónoma Regional del Canal del Dique - CARDIQUE</option>
+	      <option value="Corporación Autónoma Regional del Cauca - CRC">Corporación Autónoma Regional del Cauca - CRC</option>
+	      <option value="Corporación Autónoma Regional del Centro de Antioquia - CORANTIOQUIA">Corporación Autónoma Regional del Centro de Antioquia - CORANTIOQUIA</option>
+	     <option value="Corporación Autónoma Regional del Cesar - CORPOCESAR">Corporación Autónoma Regional del Cesar - CORPOCESAR</option>
+	     <option value="Corporación Autónoma Regional del Guavio - CORPOGUAVIO">Corporación Autónoma Regional del Guavio - CORPOGUAVIO</option>
+	     <option value="Corporación Autónoma Regional del Magdalena - CORPAMAG">Corporación Autónoma Regional del Magdalena - CORPAMAG</option>
+	     <option value="Corporación Autónoma Regional del Quindío - CRQ">Corporación Autónoma Regional del Quindío - CRQ</option>
+	     <option value="Corporación Autónoma Regional del Sur de Bolívar - CSB">Corporación Autónoma Regional del Sur de Bolívar - CSB</option>
+	     <option value="Corporación Autónoma Regional del Tolima - CORTOLIMA">Corporación Autónoma Regional del Tolima - CORTOLIMA</option>
+	     <option value="Corporación Autónoma Regional del Valle del Cauca - CVC">Corporación Autónoma Regional del Valle del Cauca - CVC</option>
+	     <option value="Corporación Autónoma Regional para el Desarrollo Sostenible del Chocó - CODECHOCÓ">Corporación Autónoma Regional para el Desarrollo Sostenible del Chocó - CODECHOCÓ</option>
+	     <option value="Corporación Autónoma Regional para la Defensa de la Meseta de Bucaramanga - CDMB">Corporación Autónoma Regional para la Defensa de la Meseta de Bucaramanga - CDMB</option>
+	     <option value="Corporación para el Desarrollo Sostenible de la Mojana y del San Jorge - CORPOMOJANA">Corporación para el Desarrollo Sostenible de la Mojana y del San Jorge - CORPOMOJANA</option>
+	     <option value="Corporación para el Desarrollo Sostenible de Urabá - CORPOURABÁ">Corporación para el Desarrollo Sostenible de Urabá - CORPOURABÁ</option>
+	     <option value="Corporación para el Desarrollo Sostenible del Archipiélago de San Andrés Providencia y Santa Catalina - CORALINA">Corporación para el Desarrollo Sostenible del Archipiélago de San Andrés Providencia y Santa Catalina - CORALINA</option>
+	     <option value="Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena - CORMACARENA">Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena - CORMACARENA</option>
+	     <option value="Corporación para el Desarrollo Sostenible del Norte y Oriente de la Amazonia - CDA">Corporación para el Desarrollo Sostenible del Norte y Oriente de la Amazonia - CDA</option>
+	     <option value="Corporación para el Desarrollo Sostenible del Sur de la Amazonia - CORPOAMAZONIA">Corporación para el Desarrollo Sostenible del Sur de la Amazonia - CORPOAMAZONIA</option>
+	     <option value="Departamento Administrativo de Gestión del Medio Ambiente. (Santiago de Cali) - DAGMA">Departamento Administrativo de Gestión del Medio Ambiente. (Santiago de Cali) - DAGMA</option>
+	     <option value="Departamento Administrativo Distrital del Medio Ambiente. (Santa Marta) - DADMA">Departamento Administrativo Distrital del Medio Ambiente. (Santa Marta) - DADMA</option>
+	     <option value="Departamento Técnico Administrativo del Medio Ambiente Barranquilla - DAMAB">Departamento Técnico Administrativo del Medio Ambiente Barranquilla - DAMAB</option>
+	     <option value="Establecimiento Público Ambiental - EPA">Establecimiento Público Ambiental - EPA</option>
+	     <option value="Ministerio de Ambiente y Desarrollo Sostenible - MADS">Ministerio de Ambiente y Desarrollo Sostenible - MADS</option>
+	     <option value="Parques Nacionales Naturales - PNN">Parques Nacionales Naturales - PNN</option>
+	     <option value="Secretaria Distrital de Ambiente - SDA">Secretaria Distrital de Ambiente - SDA</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Correo Institucional</label>
+    <input class="input is-danger" type="email" placeholder="Email input" value="contactotécnico@.">
+  <p class="help">Correo electrónico de la organización, dependencia encargada o persona encargada de hacer la gestióndel permiso. Evite usar un correo electrónico particular.</p>
+  <p class="help is-danger">This email is invalid</p>
+</div>
