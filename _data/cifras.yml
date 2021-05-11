@@ -15,11 +15,25 @@ bioCifras:
 
 #cards
 tarjetasBioCifras:
-  title: Ventanas regionales
+  title: 
   background: https://live.staticflickr.com/65535/51066160306_ffa141f9bd_k.jpg
   overlayColor: "#ffffffbb"
   # description: Ejes de formación:  # No se incluyó una descripción en la sección de tarjetas
-    
+
+
+  features:
+     #preTitle:  Formación # optional
+    - title: Colombia
+      description: |      # required
+       País con la mayor biodiversidad de Aves y orquídes y segundo con la mayor biodiversidad total en el mundo.
+      # img required
+      background: https://live.staticflickr.com/7219/7245219732_bfe058f97f_z.jpg # Fuente https://flic.kr/p/c3eDpA
+      cta:
+      - text: Ingresa
+        href: https://santander.biodiversidad.co
+        isPrimary: true
+
+
   features:
      #preTitle:  Formación # optional
     - title: Santander
@@ -34,22 +48,13 @@ tarjetasBioCifras:
 
       
      #preTitle: Formación # optional
-    - title: Boyacá
+    - title: Nariño
       description: |      # required
-        ¡Y dele con el Sirirí!. El Sirirí común es el ave con mayor número de observaciones en Boyacá.
+        Pronto conocerás más sobre la biodiversidad en el territorio ancestrál Awá.
       background: https://live.staticflickr.com/7046/6931380311_b2e363eabc_c.jpg # Fuente https://flic.kr/p/byv8T6
       cta:
-      - text: Ingresa
-        href: https://boyaca.biodiversidad.co/#/
+      - text: Próximamente
+        href: 
         isPrimary: true
         
-      
-     #preTitle: ""  # optional
-    - title: "Próximamente"  # required
-      description: |      # required
-       También podrás conocer las cifras sobre la biodiversidad de Nariño, Huila, Tolima, Bogotá D.C.
-      background: https://live.staticflickr.com/2861/34386007535_ebc5c76008_c.jpg # Fuente https://flic.kr/p/Uozh3T
-      cta:
-      - text: Conoce como participar
-        href:  /comunidad/formacion/FormacionHistorico
-        isPrimary: true
+
