@@ -29,7 +29,7 @@ tarjetasBioCifras:
       background: https://live.staticflickr.com/7219/7245219732_bfe058f97f_z.jpg # Fuente https://flic.kr/p/c3eDpA
       cta:
       - text: Ingresa
-        href: https://santander.biodiversidad.co
+        href: https://cifras.biodiversidad.co
         isPrimary: true
 
      #preTitle:  Formación # optional
