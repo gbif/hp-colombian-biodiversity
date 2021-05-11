@@ -4,13 +4,13 @@
   menu: # Dropdown menu (one level deep only)
   - text: Registros biológicos
     href: /data
-  - text: Listas de especies
-    href: https://listas.biodiversidad.co/{:target="_blank"} 
-  - text: Catálogo de la biodiversidad
-    href: https://catalogo.biodiversidad.co/{:target="_blank"} 
-  - text: Biodiversidad en cifras
+  - text: Listas
+    href: https://listas.biodiversidad.co/
+  - text: Fichas
+    href: https://catalogo.biodiversidad.co/
+  - text: Cifras
     href: /buscar/biodiversidad_en_cifras 
-  - text: Gacetero de localidades
+  - text: Localidades
     href: /buscar/gacetero
 
     
