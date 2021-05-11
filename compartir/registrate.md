@@ -32,7 +32,9 @@ Si eres una persona natural titular de un permiso de recolección de especímene
 
 Antes de llenar el formulario, asegúrate que tu organización aún no se encuentra registrada como publicador de datos a través del SiB Colombia. Consulta el listado de organizaciones publicadoras aquí. Si tu organización ya está registrada, debes acercarte a uno de los contactos allí registrados para obtener información sobre la publicación de datos.
 
+#Detalles de la organización
 
+Esta es la oportunidad para contarle a la comunidad del SiB Colombia acerca de tu organización ¿Quién es y qué hace?
 
 <div class="field">
   <label class="label">Nombre de la Organización</label>
