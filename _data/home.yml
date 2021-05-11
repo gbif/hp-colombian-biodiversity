@@ -36,13 +36,13 @@ bannerAndi:
   title: Un aporte del sector empresarial al conocimiento de la biodiversidad
   description: |      # required
     Esta alianza cree en la construcción, uso y democratización del conocimiento a partir de los datos sobre biodiversidad compartidos por el sector empresarial, mejorando la toma de decisiones y la calidad de vida de las personas.
-  background: /assets/theme/img/patterns/wavy-dots.png
-  overlayColor: "#6F86FF"
+  background: /assets/images/PruebaFondoHomeAlianza_Mesa de trabajo 1_Mesa de trabajo 1.png
+  #overlayColor: "#6F86FF"
   hasWhiteText: true
   cta:                # optional
   - text: Consultar
     href: https://hp-colombian-biodiversity.gbif-staging.org/acercade/Aliados/ANDI
-    isPrimary: true
+    isPrimary: false
     
 bannerAndi2:
   preTitle: Alianza ANDI  # optional
@@ -50,8 +50,8 @@ bannerAndi2:
   title: Un aporte del sector empresarial al conocimiento de la biodiversidad
   description: |      # required
     Esta alianza cree en la construcción, uso y democratización del conocimiento a partir de los datos sobre biodiversidad compartidos por el sector empresarial, mejorando la toma de decisiones y la calidad de vida de las personas.
-  background: /assets/theme/img/patterns/wavy-dots.png
-  overlayColor: "#6F86FF"
+  background: /assets/images/PruebaFondoHomeAlianza_Mesa de trabajo 1.png
+  #overlayColor: "#6F86FF"
   hasWhiteText: false
   cta:                # optional
   - text: Consultar
