@@ -46,7 +46,7 @@ tarjetasBioCifras:
         href: https://santander.biodiversidad.co
         isPrimary: true
 
-      
+   features: 
      #preTitle: Formación # optional
     - title: Nariño
       description: |      # required
