@@ -26,7 +26,7 @@ tarjetasBioCifras:
       description: |      # required
        País con la mayor biodiversidad de Aves y orquídes y segundo con la mayor biodiversidad total en el mundo.
       # img required
-      background: https://live.staticflickr.com/7219/7245219732_bfe058f97f_z.jpg # Fuente https://flic.kr/p/c3eDpA
+      background: https://live.staticflickr.com/2861/34386007535_ebc5c76008_c.jpg # Fuente https://flic.kr/p/c3eDpA
       cta:
       - text: Ingresa
         href: https://cifras.biodiversidad.co
