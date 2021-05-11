@@ -1,20 +1,5 @@
 # The home landing page
 
-# Feature cards
-bannerExample2:
-  preTitle: Alianza ANDI  # optional
-  href: /assets/images/logos/BannerwebAlianzaAZUL_Mesa-de-trabajo-1.png
-  title: Un aporte del sector empresarial al conocimiento de la biodiversidad
-  description: |      # required
-    Esta alianza cree en la construcción, uso y democratización del conocimiento a partir de los datos sobre biodiversidad compartidos por el sector empresarial, mejorando la toma de decisiones y la calidad de vida de las personas.
-  #background: /assets/theme/img/patterns/wavy-dots.png
-  overlayColor: "#ffffff55"
-  hasWhiteText: false
-  cta:                # optional
-  - text: Consultar
-    href: https://hp-colombian-biodiversity.gbif-staging.org/acercade/Aliados/ANDI
-    isPrimary: true
-    
 stats:
   background: "#ffffff55"
   features:
@@ -43,7 +28,22 @@ stats:
       description: Conjuntos de datos
       background: /assets/images/landing_page/iconos_cifras/conjuntos_de_datos.png
       href: https://www.gbif.org/dataset/search?publishing_country=CO
-      
+
+# Feature cards
+bannerAndi:
+  preTitle: Alianza ANDI  # optional
+  href: /assets/images/logos/BannerwebAlianzaAZUL_Mesa-de-trabajo-1.png
+  title: Un aporte del sector empresarial al conocimiento de la biodiversidad
+  description: |      # required
+    Esta alianza cree en la construcción, uso y democratización del conocimiento a partir de los datos sobre biodiversidad compartidos por el sector empresarial, mejorando la toma de decisiones y la calidad de vida de las personas.
+  #background: /assets/theme/img/patterns/wavy-dots.png
+  overlayColor: "#6F86FF"
+  hasWhiteText: false
+  cta:                # optional
+  - text: Consultar
+    href: https://hp-colombian-biodiversity.gbif-staging.org/acercade/Aliados/ANDI
+    isPrimary: true
+    
 productExample:
   align: right
   preTitle: Publicar  # optional
@@ -52,8 +52,23 @@ productExample:
     Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is.
   # img required
   background: /assets/img/product-right.png
-  
-splitExample:
+
+splitCicloFormacion:
+  reverse: true
+  preTitle: Reporte  # optional
+  title: Ciclo de Formación 2021
+  description: |      # required
+    Este reporte mensual entrega una serie de gráficos, cifras y estadísticas de la actividad de publicación y uso de datos sobre biodiversidad publicados a través del SiB Colombia.
+  # img required
+  background: /assets/images/landing_page/CF2021-22.jpg
+  overlayColor: "#000033"
+  href: https://sibcolombia.net/formacion/
+  cta:
+  - text: Aprender
+    href: https://sibcolombia.net/formacion/
+    isPrimary: true
+ 
+splitActividadPublicacion:
   reverse: true
   preTitle: Reporte  # optional
   title: Actividad de publicación
@@ -67,7 +82,7 @@ splitExample:
   - text: Explorar
     href: https://hp-colombian-biodiversity.gbif-staging.org/comunidad/ActividadPublicacion
     isPrimary: true
- 
+    
 blank: 
   klass: test
   markdownContent: |
