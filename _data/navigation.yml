@@ -6,13 +6,12 @@
     href: /data
   - text: Listas
     href: https://listas.biodiversidad.co/
-    target: "_blank"
+    target: _blank
   - text: Fichas
     href: https://catalogo.biodiversidad.co/
-    target: "_blank"
+    target: _blank
   - text: Cifras
     href: /buscar/biodiversidad_en_cifras 
-    target: "_blank"
   - text: Localidades
     href: /buscar/gacetero
 
