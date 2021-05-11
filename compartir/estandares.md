@@ -5,6 +5,7 @@ description: Los estándares para compartir datos e información son un elemento
 background: /assets/images/Baudouinia_fluggeiformis.jpeg
 imageLicense: |
   Photo by SiB Colombia via [https://sibcolombia.net/](https://statics.sibcolombia.net/IPT/img/logos/sib.png)
+toc: true
 height: 50vh
 ---
 
