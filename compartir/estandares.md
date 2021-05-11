@@ -23,7 +23,8 @@ ___
 El estándar **Darwin Core** (DwC) ofrece un marco estable, sencillo y flexible para consolidar datos sobre biodiversidad procedentes de diferentes fuentes. La mayoría de los conjuntos de datos compartidos a través del SiB Colombia se publican utilizando el formato *Darwin Core Archive *(DwC-A).
 
 - [Conoce más sobre el Darwin Core](https://www.gbif.org/es/darwin-core){:target="_blank"}.
-- [Explora el Manual Darwin Core de iOBIS](https://obis.org/manual/){:target="_blank"}.
+- [Conoce más en el Ciclo de formación](https://youtu.be/nYGu8KY_K6U){:target="_blank"}.
+- [Explora el Manual Darwin Core de OBIS](https://obis.org/manual/){:target="_blank"}.
 - [Conoce los elementos del Darwin Core (a través de la Wiki de Gcube)](https://gcube.wiki.gcube-system.org/gcube/Darwin_Core_Terms){:target="_blank"}.
 - [Conoce los diferentes perfiles Darwin Core](https://sites.google.com/humboldt.org.co/wikisib/publicar/est%C3%A1ndares/darwin-core?authuser=0){:target="_blank"}.
 
@@ -43,7 +44,6 @@ ___
 **EML** o Ecological Metadata Language, es un estándar para metadatos que consolida información sobre conjuntos de datos ecológicos en una serie de documentos XML modulares y extensibles. Todas las descripciones de los conjuntos de datos disponibles a través del SiB Colombia se basan en ‘metadatos’ —es decir, la información sobre los datos— y utilizan el estándar **EML** de código abierto, que administra y mantiene The Knowledge Network for Biocomplexity.
 
  
-
 Cada *Darwin Core Archive* incluye como uno de sus componentes un archivo **EML** (escrito en formato XML), que contiene un perfil específico para estos conjuntos de datos. Este perfil del EML es conocido como **Perfil de Metadatos de GBIF** o **GMP** (GBIF *Metadata Profile*)
 
 - [Conoce más sobre el EML](https://eml.ecoinformatics.org/){:target="_blank"}.
