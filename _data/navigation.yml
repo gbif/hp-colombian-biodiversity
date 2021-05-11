@@ -5,11 +5,11 @@
   - text: Registros biológicos
     href: /data
   - text: Listas de especies
-    href: https://listas.biodiversidad.co/
+    href: https://listas.biodiversidad.co/{:target="_blank"} 
   - text: Catálogo de la biodiversidad
-    href: https://catalogo.biodiversidad.co/
+    href: https://catalogo.biodiversidad.co/{:target="_blank"} 
   - text: Biodiversidad en cifras
-    href: /buscar/biodiversidad_en_cifras
+    href: /buscar/biodiversidad_en_cifras 
   - text: Gacetero de localidades
     href: /buscar/gacetero
 
