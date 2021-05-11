@@ -15,9 +15,7 @@ En el contexto del SiB Colombia los términos datos e información no son sinón
 
 Compartir a través del SiB Colombia tantos datos e información como sea posible es valioso, incluso aquella que pueda considerarse incompleta, aportará al conocimiento de nuestra biodiversidad y servirá para dar respuesta a preguntas fundamentales.
 
-
-_Para conocer más acerca de los datos e información que se publican a través del SiB Colombia, te invitamos a ver el video [¿Qué datos sobre nuestra biodiversidad se pueden publicar a través del SiB Colombia?](https://www.youtube.com/watch?v=_f4gGfIBN3U&t=2s){:target="_blank"} del Ciclo de Formación Virtual del SiB Colombia._
-
+Conoce más sobre los[datos que se pueden publicar a través del SiB Colombia.](https://www.youtube.com/watch?v=_f4gGfIBN3U&t=2s){:target="_blank"}.
 
 
 ## Datos
