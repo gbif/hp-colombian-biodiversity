@@ -56,7 +56,7 @@ algae:
   navbar:                         # RELATED TO NAVIGATION BAR
      # brandBackground: yellow    # Define a custom background for the logo/title in the top navigation bar
     #color: "#3c225f" 
-    color: "#203541" # What color should the navbar be?
+    color: "#1487A8" # What color should the navbar be?
     hasWhiteText: true            # Should the text color be white?
 
 # Exclude from processing.
