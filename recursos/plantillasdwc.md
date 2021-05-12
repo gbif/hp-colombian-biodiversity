@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 title: Plantillas Darwin Core
-description: Hemos construido una serie de plantillas como punto de partida para facilitar la estandarización de datos haciendo uso del Darwin Core (DwC), donde se resaltan los elementos mas relevantes teniendo en cuenta la fuente y tipos de datos. 
+description: Esta serie de plantillas son punto de partida para facilitar la estandarización de datos haciendo uso del Darwin Core (DwC), donde se resaltan los elementos mas relevantes teniendo en cuenta la fuente y tipos de datos. 
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/84391157/original.jpeg?1594748561
 imageLicense: |
   _Crotophaga ani_ Fotografía de: patriciass [by-nc](https://creativecommons.org/licenses/by-nc/4.0/) vía [iNaturalist](https://www.inaturalist.org/observations/53069927)
