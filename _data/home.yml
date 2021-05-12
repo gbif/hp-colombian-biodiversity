@@ -36,8 +36,8 @@ bannerAndi:
   title: Un aporte del sector empresarial al conocimiento de la biodiversidad
   description: |      # required
     Esta alianza cree en la construcción, uso y democratización del conocimiento a partir de los datos sobre biodiversidad compartidos por el sector empresarial, mejorando la toma de decisiones y la calidad de vida de las personas.
-  background: /assets/images/PruebaFondoHomeAlianza_Mesa de trabajo 1_Mesa de trabajo 1.png
-  overlayColor: "#374955"
+  background: "#374955"
+  #overlayColor: "#374955"
   hasWhiteText: true
   cta:                # optional
   - text: Consultar
