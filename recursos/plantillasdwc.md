@@ -28,7 +28,7 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
 
 ### Registros biológicos
 
-Use esta plantilla si sus datos:
+Usa esta plantilla si tus datos:
 
 * Corresponden a avistamientos directos de especímenes, colectas temporales  o capturas _in situ_ (en su hábitat natural) que estarán asociadas a un voucher o soporte de referencia físico.
 * Documentan atributos como: nombre científico, fecha de colecta, ubicación, sexo, edad, comportamiento, etc., de un organismo o grupo de organismos dentro de un contexto específico.
