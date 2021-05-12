@@ -2,9 +2,9 @@
 layout: heroImage
 klass: actividad
 title: Herramienta de publicación - IPT
-background: /assets/images/fondos_layout/DSC1073_MarentesEsteban.JPG
+background: /assets/images/fondos_layout/O7A7140_Villegas-Velez-Felipe.jpg
 imageLicense: |
-   Fotografía de: Esteban Marentes Herrera- SiB Colombia [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
+  Fotografía de: Felipe Villegas-Vélez Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
 height: 50vh
 ---
 
