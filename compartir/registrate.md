@@ -207,8 +207,8 @@ Persona a quién podemos dirigirnos para realizar preguntas acerca de la organiz
 
 <div class="field">
   <label class="label">Correo electrónico</label>
-    <input class="input is-danger" type="email" placeholder="Email input" value="contactoAdministrativo@.">
   <p class="help">Correo electrónico del contacto administrativo. Considera usar un correo electrónico genérico que siempre llegue a la persona adecuada.</p>
+    <input class="input is-danger" type="email" placeholder="Email input" value="contactoAdministrativo@.">
   <p class="help is-danger">This email is invalid</p>
 </div>
 
