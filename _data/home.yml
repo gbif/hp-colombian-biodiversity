@@ -42,7 +42,7 @@ bannerAndi:
   cta:                # optional
   - text: Consultar
     href: https://hp-colombian-biodiversity.gbif-staging.org/acercade/Aliados/ANDI
-    isPrimary: false
+    isPrimary: true
     
 bannerAndi2:
   preTitle: Alianza ANDI  # optional
