@@ -51,7 +51,7 @@ bannerAndi2:
   description: |      # required
     Esta alianza cree en la construcción, uso y democratización del conocimiento a partir de los datos sobre biodiversidad compartidos por el sector empresarial, mejorando la toma de decisiones y la calidad de vida de las personas.
   background: /assets/images/PruebaFondoHomeAlianza_Mesa de trabajo 1.png
-  #overlayColor: "#6F86FF"
+  overlayColor: "#374955"
   hasWhiteText: false
   cta:                # optional
   - text: Consultar
