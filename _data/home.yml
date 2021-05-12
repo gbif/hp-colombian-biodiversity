@@ -69,7 +69,7 @@ productExample:
 
 splitCicloFormacion:
   reverse: true
-  preTitle: Reporte  # optional
+  #preTitle: Reporte  # optional
   title: Ciclo de Formación 2021
   description: |      # required
     Este reporte mensual entrega una serie de gráficos, cifras y estadísticas de la actividad de publicación y uso de datos sobre biodiversidad publicados a través del SiB Colombia.
