@@ -18,7 +18,7 @@ Unas buenas prácticas para citar aseguran transparencia y reproducibilidad cien
 Los ejemplos de citas presentados aquí siguen el formato de estilo Harvard. Por favor, adáptalas al formato de estilo requerido por tu organización, editor o agencia, asegurandote de incluir cada elemento del contenido, especialmente el DOI, la URL y la fecha.
 
 
-# Cuando se trate de un conjunto de datos
+# Un conjunto de datos
 La mayoría de descargas desde el SiB Colombia contienen datos de múltiples conjuntos de datos (como se explica en el siguiente apartado), pero en algunos casos, como un reporte interno o el avance de publicación de un conjunto de datos, los usuarios pueden necesitar los  conjuntos de datos por separado. 
 
 * **Ejemplo **:
@@ -26,7 +26,7 @@ La mayoría de descargas desde el SiB Colombia contienen datos de múltiples con
  <p>Zamudio Espinosa J A, Ramírez Mosquera D P, Fierro-Calderón E (2021). Avifauna de ocho localidades del corredor de conservación Paraguas – Munchique de Colombia. Version 2.3. Asociación para el estudio y conservación de las aves acuáticas en Colombia - Calidris. Conjunto de datos: Registros biológicos. https://doi.org/10.15472/zlz8ky (Consultado a través del SiB Colombia el 2020-04-10).<p>
 
  
-# Cuando se trate de la descarga de una consulta de datos
+# Descarga de una consulta de datos
 Cuando se descargan datos a través de las plataformas del SiB Colombia, el usuario registrado es notificado inmediatamente que “su descarga será comprimida y enviada a su correo electrónico”.
 
 El correo electrónico incluye la siguiente información:
@@ -54,7 +54,7 @@ Ten en cuenta que la URL enviada a tu correo electrónico es temporal y no puede
 
  
 
-# Cuando se trate de fichas de especies
+# Fichas de especies
 La citación de los contenidos disponibles a través del Catálogo de la Biodiversidad puede variar dependiendo del objeto que se quiera usar.
 
 Si los contenidos de la ficha de especie han sido revisados por uno o varias personas, estos se listan como editores en orden alfabético, ejemplo:
@@ -66,7 +66,7 @@ Si los contenidos de la ficha no han sido revisados, ejemplo:
 * _Zonotrichia capensis_ (P.L.Statius Müller, 1776) (2020, abril 10) Catálogo de la Biodiversidad de Colombia. Ficha de especie consultada a través del SiB Colombia. Disponible en http://catalogo.biodiversidad.co/file/56d064433c16479905cba820
  
 
-# Cuando se trate de un objeto de una ficha de especie
+# Objeto de una ficha de especie
 Se recomienda solo citar información verificada, esto se debe a que algunos objetos pueden ser removidos o cambiados y a que la permanencia de los enlaces a los objetos referidos es responsabilidad de terceros. Se sugieren dos formas de construirlas.
 
 A partir de la información presente en la ficha del objeto. Autor, revisión, año de los derechos, nombre del taxón y título del objeto, fuente original, la fecha en la que se ingresó y la URL, ejemplos:
@@ -79,7 +79,7 @@ A partir de lo que especifique el autor. Para esto debes hacer clic en “Más i
 
  
 
-# Cuando se trate de una cifra o indicador sobre biodiversidad
+# Cifra o indicador sobre biodiversidad
 
 El SiB Colombia realiza periódicamente una síntesis de la gestión del conocimiento desde los datos abiertos publicados, que enriquece con otras fuentes de referencia nacional y que materializa en unas cifras o indicadores a nivel nacional y regional. La citación de las cifras disponibles a través de Biodiversidad en Cifras nacional o regional puede variar dependiendo de aquella que se quiera usar.
 
@@ -110,61 +110,55 @@ En algunas ocasiones, el Equipo Coordinador del SiB Colombia proporciona asisten
 Si necesitas asistencia con una exportación personalizada de datos, por favor contacta al Equipo Coordinador a través del correo electrónico sib@humboldt.org.co
 
  
-## Cuando se trate del sitio web sibcolombia.net
+## Sitio web sibcolombia.net
 Aquellos usuarios que deseen citar la página web completa del SiB Colombia, pueden usar el siguiente ejemplo:
 
 * SiB Colombia (2020, abril 10) _Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://sibcolombia.net/
  
 
-## Cuando se trate del Portal de Datos
+## Portal de Datos
 Aquellos usuarios que deseen citar el Portal de Datos completo, pueden usar el siguiente ejemplo:
 
 * SiB Colombia (2020, abril 10) Portal de Datos, _Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://datos.biodiversidad.co/
  
 
-## Cuando se trate del portal Listas de Especies
+## Portal Listas de Especies
 Aquellos usuarios que deseen citar el portal Listas de Especies completo, pueden usar el siguiente ejemplo:
 
 * SiB Colombia (2020, abril 10) Portal Listas de Especies, _Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://listas.biodiversidad.co/
- 
 
-## Cuando se trate del portal Colecciones en Línea
-Aquellos usuarios que deseen citar el portal Colecciones en Línea completo, pueden usar el siguiente ejemplo:
 
-* SiB Colombia (2020, abril 10) Portal Colecciones en Línea, _Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://colecciones.biodiversidad.co/
- 
-
-## Cuando se trate del Catálogo de la Biodiversidad de Colombia
+## Catálogo de la Biodiversidad de Colombia
 Aquellos usuarios que deseen citar el Catálogo de la Biodiversidad de Colombia completo, pueden usar el siguiente ejemplo:
 
 * SiB Colombia (2020, abril 10) _Catálogo de la Biodiversidad de Colombia, Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://colecciones.biodiversidad.co/
  
 
-## Cuando se trate del portal Biodiversidad en Cifras
+## Portal Biodiversidad en Cifras
 Aquellos usuarios que deseen citar el portal Biodiversidad en Cifras completo, pueden usar el siguiente ejemplo:
 
 * SiB Colombia (2020, abril 10) _Biodiversidad en Cifras, Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://cifras.biodiversidad.co/
  
 
-## Cuando se trate del portal Biodiversidad en Cifras · Santander
+## Portal Biodiversidad en Cifras · Santander
 Aquellos usuarios que deseen citar el portal Biodiversidad en Cifras · Santander completo, pueden usar el siguiente ejemplo:
 
 * SiB Colombia (2020, abril 10) _Biodiversidad en Cifras · Santander, Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://santander.biodiversidad.co/
  
 
-## Cuando se trate del portal Biodiversidad en Cifras · Boyacá
+## Portal Biodiversidad en Cifras · Boyacá
 Aquellos usuarios que deseen citar el portal Biodiversidad en Cifras · Boyacá completo, pueden usar el siguiente ejemplo:
 
 * SiB Colombia (2020, abril 10) _Biodiversidad en Cifras · Boyacá, Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://boyaca.biodiversidad.co/
  
 
-## Cuando se trate del Reporte Mensual de Actividad de Publicación
+## Reporte Mensual de Actividad de Publicación
 Aquellos usuarios que deseen citar el Reporte Mensual de Actividad de Publicación completo, pueden usar el siguiente ejemplo:
 
 * SiB Colombia (2020, abril 10) _Reporte Mensual de Actividad de Publicación – Febrero 2020, Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://sibcolombia.net/actualidad/reportes/
  
 
-## Cuando se trate del Reporte Trimestral de Datos
+## Reporte Trimestral de Datos
 Aquellos usuarios que deseen citar el Reporte Trimestral de datos, pueden usar el siguiente ejemplo:
 
 * SiB Colombia (2020, abril 10) _Reporte Trimestral de Datos – Marzo 2020, Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://gitlab.com/sib-colombia/administracion-contenidos/-/tree/master/Datos%20trimestrales
