@@ -23,7 +23,7 @@ Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
 * Si tienes algún comentario o inquietud acerca de las plantillas por favor realízalo a través del correo [sib@humboldt.org.co](sib@humboldt.org.co).
 
 
-## Descarga las plantillas
+## Plantillas
 
 
 ### Registros biológicos
