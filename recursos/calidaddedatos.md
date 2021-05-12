@@ -1,11 +1,11 @@
 ---
 layout: heroImage
-title: "¿Qué es calidad de datos?"
-description: "Herramientas para validar y mejor la calidad de los datos sobre biodiversidad"
+title: Calidad de datos
+description: "Para asegurar el uso de los datos por parte de una amplia variedad de audiencias, es importante incluir el concepto de calidad de datos a lo largo de toda la cadena de la información. Aquí se comparten varias herramientas útiles para la validación y limpieza de los datos."
 background: /assets/images/fondos_layout/CIM14423_Villegas-Velez-Felipe
 imageLicense: |
   Fotografía de: Felipe Villegas-Vélez Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
-
+toc: true
 height: 50vh
 ---
 
@@ -13,13 +13,13 @@ La **calidad de datos** se puede definir como una característica esencial y nec
 
 Cuando los datos se utilizan sin tener una visión crítica sobre los posibles errores que contienen, los resultados de sus análisis pueden conducir a conclusiones erróneas y decisiones imprudentes basadas en evidencia poco confiable. Los datos tendrán calidad cuando la información derivada de los mismos representa correctamente el mundo real (los hechos). 
 
-Con el fin de que los datos generados en nuestras investigaciones sean influyentes en la toma de decisiones, es importante tener en cuenta el concepto de **calidad de datos** a lo largo de toda la cadena de la información. A continuación se listas varias herramientas útiles para la validación y limpieza de los datos.
+Con el fin de que los datos generados influyan en la toma de decisiones, es importante tener en cuenta el concepto de **calidad de datos** a lo largo de toda la cadena de la información. A continuación se listan varias herramientas útiles para la validación y limpieza de los datos.
 
 
 
-# Herramientas para Limpieza de datos
+# Limpieza de datos
 
-Nombre | Uso | ¿Qué puede hacer
+Nombre | Uso | Descripción
 ------------ | ------------- | -------------
 [OpenRefine](https://openrefine.org/){:target="_blank"} | Estructuración, estandarización y validación | Permite limpiar, transformar y dar formato a los datos, usar servicios web, corrección masiva campos, entre muchas otras.
 [OpenRefine - Guía  básica](http://repository.humboldt.org.co/handle/20.500.11761/35350){:target="_blank"} | Estructuración, estandarización y validación | Guía básica de uso de [OpenRefine](https://openrefine.org/){:target="_blank"} para la validación y limpieza de datos sobre biodiversidad.
@@ -29,16 +29,16 @@ Nombre | Uso | ¿Qué puede hacer
 [R Studio](https://rstudio.com/){:target="_blank"} | Extensión de software |  Facilita la visualización de la herramienta R project Integra distintas ventanas funcionales.
 [LifeWatch - Data Services](https://www.lifewatch.be/data-services/){:target="_blank"} | Validación , servicios geográficos y taxonómicos | A través de la conexión con diferentes servicios web la herramienta permite validar formatos, elementos DwC de publicación en OBIS, taxonomía y geografía.:octopus:
 
-# Herramientas para Limpieza de fechas
+# Limpieza de fechas
 
 
 Nombre | Uso | ¿Qué puede hacer
 ------------ | ------------- | -------------
 [Canadensys - Date parsing](https://data.canadensys.net/tools/dates){:target="_blank"} | Estandarización de fechas | Realiza la conversión masiva de fechas al formato ISO8601: AAAA-MM-DD.
 
-# Herramientas para Ubicación y Geografía
+# Validación de información geográfica
 
-Nombre | Uso | ¿Qué puede hacer
+Nombre | Uso | Descripción
 ------------ | ------------- | -------------
 [Canadensys - Coordinate conversion](https://data.canadensys.net/tools/coordinates){:target="_blank"} | Estandarización de coordenadas | Realiza la conversión masiva de coordenadas geográficas (grados, minutos y segundos) a grados decimales.
 [Divipola](https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-politico-administrativa-de-colombia/){:target="_blank"} | Validación de nombres geográficos  | Permite la consulta de la División Político Administrativa de Colombia para la verificación de nombres y niveles.
@@ -57,9 +57,9 @@ Nombre | Uso | ¿Qué puede hacer
 [geo:truc ](http://www.geotruc.net/?hl=es_ES){:target="_blank"} | Visualización geográfica | Permite obtener las coordenadas de un punto seleccionado en el mapa a través de google maps. 
 [CartoDB ](https://carto.com/){:target="_blank"} | Validación y visualización geográfica | Permite importar y visualizar datos geoespaciales mediante la creación de mapas dinámicos.
 
-# Herramientas para Nombres y Taxonomía
+# Validación de nombres y taxonomía
 
-Nombre | Uso | ¿Qué puede hacer
+Nombre | Uso | Descripción
 ------------ | ------------- | -------------
 [Species Matching](https://www.gbif.org/tools/species-lookup){:target="_blank"} | Validación de nombres científicos | Normaliza nombres de especies a partir de un archivo CSV de acuerdo al árbol taxonómico de GBIF. El archivo a someter debe contener una columna nombrada como 'scientificName' y opcionalmente la columna 'kingdom' (para el Reino) y 'id' (para un identificador).
 [List Matching Service](https://www.catalogueoflife.org/listmatching/){:target="_blank"} | Validación de nombres científicos | Permite comparar y validar los nombres ingresados (incluyendo nombres aceptados y sinónimos) con la lista dinámica del Catálogo de la Vida (Catalogue of Life). 
@@ -69,4 +69,3 @@ Nombre | Uso | ¿Qué puede hacer
 
 
 
-> Herramientas para la limpieza de datos marinos :octopus:
