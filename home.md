@@ -22,8 +22,6 @@ composition:
     type: stats
   - data: home.bannerAndi
     type: floatingText
-  - data: home.bannerAndi2
-    type: floatingText
   - data: home.splitCicloFormacion
     type: split
   - data: home.splitActividadPublicacion
