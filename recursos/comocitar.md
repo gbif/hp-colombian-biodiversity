@@ -110,17 +110,11 @@ En algunas ocasiones, el Equipo Coordinador del SiB Colombia proporciona asisten
 Si necesitas asistencia con una exportación personalizada de datos, por favor contacta al Equipo Coordinador a través del correo electrónico sib@humboldt.org.co
 
  
-## Sitio web sibcolombia.net
+## Sitio web 
 Aquellos usuarios que deseen citar la página web completa del SiB Colombia, pueden usar el siguiente ejemplo:
 
-* SiB Colombia (2020, abril 10) _Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://sibcolombia.net/
- 
+* SiB Colombia (2020, abril 10) _Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://biodiversidad.co/
 
-## Portal de Datos
-Aquellos usuarios que deseen citar el Portal de Datos completo, pueden usar el siguiente ejemplo:
-
-* SiB Colombia (2020, abril 10) Portal de Datos, _Sistema de Información sobre Biodiversidad de Colombia_. Recuperado de: https://datos.biodiversidad.co/
- 
 
 ## Portal Listas de Especies
 Aquellos usuarios que deseen citar el portal Listas de Especies completo, pueden usar el siguiente ejemplo:
