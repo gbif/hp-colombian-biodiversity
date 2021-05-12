@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 title: Estandarización de datos
-description: Aquí se presentan herramientas que facilitan la estandarización y validación de los datos al estándar Darwin Core (DwC). Pueden ser utilizadas por separado o   integradas en un flujo donde se hagan sucesivas validaciones.
+description: Aquí se presentan herramientas que facilitan la estandarización y validación de los datos al estándar Darwin Core (DwC). Pueden ser utilizadas por separado o integradas en un flujo de trabajo donde se hagan sucesivas validaciones.
 background: /assets/images/landing_page/montañas.jpg
 imageLicense: |
    Fotografía de: Felipe Villegas / Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
@@ -10,7 +10,7 @@ height: 50vh
 
 | Nombre        | Uso          | Descripción  |
 | ------------- |-------------| -----|
-| [Guía de referencia rápida del estándar Darwin Core](http://repository.humboldt.org.co/handle/20.500.11761/35349){:target="_blank"}   | Estructuración de datos    |    Permite conocer la lista y definiciones de los elementos que conforman el estándar DwC. |
+| [Guía de referencia rápida del estándar DwC](http://repository.humboldt.org.co/handle/20.500.11761/35349){:target="_blank"}   | Estructuración de datos    |    Permite conocer la lista y definiciones de los elementos que conforman el estándar DwC. |
 | [Data validator - GBIF](https://www.gbif.org/tools/data-validator){:target="_blank"}      | Estandarización    |   Permite validar un conjunto de datos a partir de una plantilla DwC (en .csv) o un DwC Archive  (.zip) y detecta qué posibles problemas o errores puede presentar el conjunto de datos para su óptima publicación. |
 | [DwCA Assistant ](http://tools.gbif.org/dwca-assistant/?lang=en){:target="_blank"}      | Estandarización    |   Permite visualizar todos los elementos del estándar Darwin Core y sus extensiones, su principal función es la creación de un XML que puede ser incluido en un archivo DwC. |
 | [Darwin Test ](https://www.gbif.es/software/darwin-test/){:target="_blank"}      | Estructuración, estandarización y validación    |   Realiza la validación y chequeo de los datos en formato DwC. Permite detectar y corregir errores en los campos de los archivos, el chequeo de los nombres científicos, la conversión de coordenadas, entre otros. |
