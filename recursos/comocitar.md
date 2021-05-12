@@ -21,7 +21,7 @@ Los ejemplos de citas presentados aquí siguen el formato de estilo Harvard. Por
 # Un conjunto de datos
 La mayoría de descargas desde el SiB Colombia contienen datos de múltiples conjuntos de datos (como se explica en el siguiente apartado), pero en algunos casos, como un reporte interno o el avance de publicación de un conjunto de datos, los usuarios pueden necesitar los  conjuntos de datos por separado. 
 
-* **Ejemplo **:
+* **Ejemplo**:
 
 Zamudio Espinosa J A, Ramírez Mosquera D P, Fierro-Calderón E (2021). Avifauna de ocho localidades del corredor de conservación Paraguas – Munchique de Colombia. Version 2.3. Asociación para el estudio y conservación de las aves acuáticas en Colombia - Calidris. Conjunto de datos: Registros biológicos. https://doi.org/10.15472/zlz8ky (Consultado a través del SiB Colombia el 2020-04-10).
 
@@ -104,7 +104,7 @@ Las cifras de fuentes externas cuentan un ícono a la derecha, generalmente una 
 
 # Otros ejemplos de citas
 
-## Cuando se trate de una exportación personalizada de datos
+## Exportación personalizada de datos
 En algunas ocasiones, el Equipo Coordinador del SiB Colombia proporciona asistencia directa a los usuarios que realizan consultas de datos más complejas. Para esto casos se deben seguir los lineamientos del apartado de más arriba: [**“Cuando se trate de la descarga de una consulta de datos”**](#cuando-se-trate-de-la-descarga-de-una-consulta-de-datos).
 
 Si necesitas asistencia con una exportación personalizada de datos, por favor contacta al Equipo Coordinador a través del correo electrónico sib@humboldt.org.co
