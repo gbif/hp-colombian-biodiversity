@@ -4,7 +4,7 @@ layout: home
 title: "Publicación, acceso y uso de datos sobre biodiversidad"
 description: >-
   Sistema de Información sobre Biodiversidad de Colombia - SiB Colombia
-background: /assets/images/landing_page/rio_blanco_y_negro.jpg
+background: https://live.staticflickr.com/7023/6768734063_b6938b3d47_k.jpg
 imageLicense: |
   Fotografía de: Felipe Villegas Vélez / Instituto Humboldt
 height: 70vh
