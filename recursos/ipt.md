@@ -19,7 +19,7 @@ Los IPT alojados por el SiB Colombia son:
 Nombre  | Enlace  | Descripción
 ------------ | ------------- | -------------
 SiB Colombia | [https://ipt.biodiversidad.co/sib/](https://ipt.biodiversidad.co/sib/){:target="_blank"} | Para datos continentales.
-SiB Marino | [https://ipt.biodiversidad.co/sibm/](https://ipt.biodiversidad.co/sibm/){:target="_blank"} | Para datos marino-costeros con conexión [SiB M](https://siam.invemar.org.co/sibm){:target="_blank"} y [OBIS](https://obis.org/){:target="_blank"}.
+SiB Marino | [https://ipt.biodiversidad.co/sibm/](https://ipt.biodiversidad.co/sibm/){:target="_blank"} | Para datos marino-costeros con conexión [SiBM](https://siam.invemar.org.co/sibm){:target="_blank"} y [OBIS](https://obis.org/){:target="_blank"}.
 IIAP | [https://ipt.biodiversidad.co/iiap/](https://ipt.biodiversidad.co/iiap/){:target="_blank"} |  Para datos del IIAP.
 IAvH | [https://ipt.biodiversidad.co/iavh/](https://ipt.biodiversidad.co/iavh/){:target="_blank"} |  Para datos del Instituto Humboldt.
 SINCHI | [https://ipt.biodiversidad.co/sinchi/](https://ipt.biodiversidad.co/sinchi/){:target="_blank"} | Para datos del SINCHI.
