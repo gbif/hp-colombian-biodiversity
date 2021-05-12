@@ -1,16 +1,12 @@
 ---
 layout: heroImage
-title: Estandarización de datos en Darwin Core
-description: Estandarización de los datos sobre Biodiversidad
-background: /assets/images/fondos_layout/DSC0928_MarentesEsteban.JPG
+title: Estandarización de datos
+description: Aquí se presentan herramientas que facilitan la estandarización y validación de los datos al estándar Darwin Core. Pueden ser utilizadas por separado o   integradas en un flujo donde se hagan sucesivas validaciones.
+background: /assets/images/landing_page/montañas.jpg
 imageLicense: |
-   Fotografía de: Esteban Marentes Herrera- SiB Colombia [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
+   Fotografía de: Felipe Villegas / Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
 height: 50vh
 ---
-
-# Herramientas para aplicar el estándar internacional Darwin Core
-
-Estas son algunas herramienta que facilitan la estandarización y validación de los datos al estándar DwC. Pueden ser utilizadas por separado o integradas en un flujo donde se hagan sucesivas validaciones.
 
 | Nombre        | Uso          | ¿Qué puede hacer  |
 | ------------- |-------------| -----|
