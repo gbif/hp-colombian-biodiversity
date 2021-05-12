@@ -97,6 +97,17 @@ splitActividadPublicacion:
     href: https://hp-colombian-biodiversity.gbif-staging.org/comunidad/ActividadPublicacion
     isPrimary: true
     
+espacio:
+  preTitle: Noticias  # optional
+  #href: /assets/images/logos/BannerwebAlianzaAZUL_Mesa-de-trabajo-1.png
+  #title: Un aporte del sector empresarial al conocimiento de la biodiversidad
+  description: |      # required
+    Noticias
+  background: "#374955"
+  #overlayColor: "#374955"
+  hasWhiteText: true
+
+    
 blank: 
   klass: test
   markdownContent: |
