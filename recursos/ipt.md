@@ -18,12 +18,12 @@ Los IPT alojados por el SiB Colombia son:
 
 Nombre  | Enlace  | Descripción
 ------------ | ------------- | -------------
-SiB Colombia | [https://ipt.biodiversidad.co/sib/](https://ipt.biodiversidad.co/sib/){:target="_blank"} | IPT general para la publicación de datos continentales.
-SiB Marino | [https://ipt.biodiversidad.co/sibm/](https://ipt.biodiversidad.co/sibm/){:target="_blank"} | IPT para datos Marino-Costeros, permite también la publicación a través de  [OBIS](https://obis.org/).
-IIAP | [https://ipt.biodiversidad.co/iiap/](https://ipt.biodiversidad.co/iiap/){:target="_blank"} |  IPT para los datos publicados por el  IIAP.
-IAvH | [https://ipt.biodiversidad.co/iavh/](https://ipt.biodiversidad.co/iavh/){:target="_blank"} |  IPT para los datos publicados por el Instituto Humboldt.
-SINCHI | [https://ipt.biodiversidad.co/sinchi/](https://ipt.biodiversidad.co/sinchi/){:target="_blank"} | IPT para los datos publicados por el SINCHI.
-Parques Nacionales | [https://ipt.biodiversidad.co/parquesnacionales/](https://ipt.biodiversidad.co/parquesnacionales/){:target="_blank"} | IPT para los datos publicados por Parques Nacionales.
-Permisos de Recolección | [https://ipt.biodiversidad.co/cr-sib/](https://ipt.biodiversidad.co/cr-sib/){:target="_blank"} | IPT para datos asociados a la [ruta B de publicación](/compartir/GuiaPublicacion#ruta-b-publicación-de-datos-por-permiso-de-recolección){:target="_blank"}.
+SiB Colombia | [https://ipt.biodiversidad.co/sib/](https://ipt.biodiversidad.co/sib/){:target="_blank"} | Para datos continentales.
+SiB Marino | [https://ipt.biodiversidad.co/sibm/](https://ipt.biodiversidad.co/sibm/){:target="_blank"} | Para datos marino-costeros con conexión [SiB M](https://siam.invemar.org.co/sibm){:target="_blank"} y [OBIS](https://obis.org/){:target="_blank"}.
+IIAP | [https://ipt.biodiversidad.co/iiap/](https://ipt.biodiversidad.co/iiap/){:target="_blank"} |  Para datos del IIAP.
+IAvH | [https://ipt.biodiversidad.co/iavh/](https://ipt.biodiversidad.co/iavh/){:target="_blank"} |  Para datos del Instituto Humboldt.
+SINCHI | [https://ipt.biodiversidad.co/sinchi/](https://ipt.biodiversidad.co/sinchi/){:target="_blank"} | Para datos del SINCHI.
+Parques Nacionales | [https://ipt.biodiversidad.co/parquesnacionales/](https://ipt.biodiversidad.co/parquesnacionales/){:target="_blank"} | Para datos de Parques Nacionales.
+Permisos de Recolección | [https://ipt.biodiversidad.co/cr-sib/](https://ipt.biodiversidad.co/cr-sib/){:target="_blank"} | Para datos del [modelo transicional](/compartir/GuiaPublicacion#ruta-b-publicación-de-datos-por-permiso-de-recolección){:target="_blank"}.
 
 
