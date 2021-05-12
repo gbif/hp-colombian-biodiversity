@@ -23,7 +23,7 @@ La mayoría de descargas desde el SiB Colombia contienen datos de múltiples con
 
 * **Ejemplo **:
 
- <p>Zamudio Espinosa J A, Ramírez Mosquera D P, Fierro-Calderón E (2021). Avifauna de ocho localidades del corredor de conservación Paraguas – Munchique de Colombia. Version 2.3. Asociación para el estudio y conservación de las aves acuáticas en Colombia - Calidris. Conjunto de datos: Registros biológicos. https://doi.org/10.15472/zlz8ky (Consultado a través del SiB Colombia el 2020-04-10).<p>
+Zamudio Espinosa J A, Ramírez Mosquera D P, Fierro-Calderón E (2021). Avifauna de ocho localidades del corredor de conservación Paraguas – Munchique de Colombia. Version 2.3. Asociación para el estudio y conservación de las aves acuáticas en Colombia - Calidris. Conjunto de datos: Registros biológicos. https://doi.org/10.15472/zlz8ky (Consultado a través del SiB Colombia el 2020-04-10).
 
  
 # Descarga de una consulta de datos
