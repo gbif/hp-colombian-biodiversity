@@ -17,17 +17,18 @@ Publicaciones en las que se ha participado:
 
 |           |            |              |
 |-----------|------------| -------------|
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/portadaRET-2014.jpg"></figure> |2014| <a href="http://reporte.humboldt.org.co/biodiversidad/2014/" target="_blank">Biodiversidad en cifras</a> |
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/portadaRET-2015.jpg"></figure> |2015| <a href="http://reporte.humboldt.org.co/biodiversidad/2015/" target="_blank">Biodiversidad en cifras</a> |
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/portadaRET-2016.jpg"></figure> |2016| <a href="http://reporte.humboldt.org.co/biodiversidad/2016/" target="_blank">Biodiversidad en cifras</a> |
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/portadaRET-2017.jpg"></figure> |2017| <a href="http://reporte.humboldt.org.co/biodiversidad/2017/" target="_blank">Biodiversidad en cifras</a> |
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/portadaRET-2018.jpg"></figure> |2018| <a href="http://reporte.humboldt.org.co/biodiversidad/2018/" target="_blank">Biodiversidad en cifras</a> |
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/portadaRET-2019.jpg"></figure> |2019| <a href="http://reporte.humboldt.org.co/biodiversidad/2019/" target="_blank">Biodiversidad en cifras</a> |
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/portadaRET-2014.jpg"></figure> |2014| <a href="http://reporte.humboldt.org.co/biodiversidad/2014/cap1/102/#seccion1" target="_blank">- **Ficha102**: Sistema de información sobre biodiversidad de Colombia - SiB Colombia</a> <br> <a href="http://reporte.humboldt.org.co/biodiversidad/2014/cap1/103/#seccion1" target="_blank">- **Ficha103**Registros biológicos en línea y vacíos de información</a>|
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/portadaRET-2015.jpg"></figure> |2015| <a href="http://reporte.humboldt.org.co/biodiversidad/2015/" target="_blank">- **Ficha introductoria**: Biodiversidad en cifras</a> <br> <a href="http://reporte.humboldt.org.co/biodiversidad/2015/cap1/101/#seccion1" target="_blank">- **Ficha 103**:Las colecciones biológicas como patrimonio nacional: Una prioridad del país</a> |
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/portadaRET-2016.jpg"></figure> |2016| <a href="http://reporte.humboldt.org.co/biodiversidad/2016/" target="_blank">- **Ficha introductoria**: Biodiversidad en cifras</a> |
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/portadaRET-2017.jpg"></figure> |2017| <a href="http://reporte.humboldt.org.co/biodiversidad/2017/" target="_blank">- **Ficha introductoria**: Biodiversidad en cifras</a> |
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/portadaRET-2018.jpg"></figure> |2018| <a href="http://reporte.humboldt.org.co/biodiversidad/2018/" target="_blank">- **Ficha introductoria**: Biodiversidad en cifras</a> |
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/portadaRET-2019.jpg"></figure> |2019| <a href="http://reporte.humboldt.org.co/biodiversidad/2019/" target="_blank">- **Ficha introductoria**: Biodiversidad en cifras</a> <br> <a href="http://reporte.humboldt.org.co/biodiversidad/2019/cap3/303/" target="_blank">- **Ficha303** Datos abiertos sobre biodiversidad:de la publicación al uso</a>|
+ 
 
 
 # Informe de Estado del Ambiente y los Recursos Naturales Renovables (IEARNR) 
 
 |           |            |              |
 |-----------|------------| -------------|
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/portadaRET-2014.jpg"></figure> |2014| <a href="http://reporte.humboldt.org.co/biodiversidad/2014/" target="_blank">Biodiversidad en cifras</a> |
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/portadaRET-2015.jpg"></figure> |2015| <a href="http://reporte.humboldt.org.co/biodiversidad/2015/" target="_blank">Biodiversidad en cifras</a> |
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/portadaRET-2014.jpg"></figure> |2017 <br> 2018| <a href="http://reporte.humboldt.org.co/biodiversidad/2014/" target="_blank">Biodiversidad y Autoriddes Ambientales: ¿Qué nos dicen los datos abiertos? _(Pag. 73 -77)_</a> |
+<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/portadaRET-2015.jpg"></figure> |2019| <a href="" target="_blank">Biodiversidad y Autoriddes Ambientales: ¿Qué nos dicen los datos abiertos? _(Pag.)_</a> |
