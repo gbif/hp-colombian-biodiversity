@@ -19,8 +19,8 @@ Participar es muy fácil, sólo se necesita tener un celular o una cámara, toma
 
 ## Descarga la App:
 
- - [Apple store](https://itunes.apple.com/us/app/inaturalist/id421397028?mt=8)
- - [Google play](https://play.google.com/store/apps/details?id=org.inaturalist.android)
+ - [Apple store](https://itunes.apple.com/us/app/inaturalist/id421397028?mt=8){:target="_blank"}
+ - [Google play](https://play.google.com/store/apps/details?id=org.inaturalist.android){:target="_blank"}
 
 ## ¿Quieres formar parte del grupo de identificadores?
 
@@ -141,21 +141,21 @@ Aquí encontrarás algunos videos y documentos de interés, que te ayudarán a e
 
 ### Guías de identificación
 
-- [Guías de identificación rápida de solanáceas en Colombia](https://www.botanicomedellin.org/v2_base/file_downloader.php?id_file=9194-m21-066a1335d7d7aaa6c5a24bd22c26ca39)
-- [Avistamiento de aves](https://www.botanicomedellin.org/v2_base/file_downloader.php?id_file=9195-m21-655a0b3bc052815ea09323e53daa3870)
-- [Guías de identificación rápida de Pasifloras en Colombia](https://www.botanicomedellin.org/v2_base/file_downloader.php?id_file=9193-m21-9964a4ff6c124d453c3899e70d3f4f6b)
-- [Guías de identificación rápida de helechos](https://www.botanicomedellin.org/v2_base/file_downloader.php?id_file=9191-m21-415cabe26ab7d190d4f6a74bd81af08f)
-- [Guías de identificación rápida de orquídeas en Colombia](https://www.botanicomedellin.org/v2_base/file_downloader.php?id_file=9192-m21-4b6381a980fc772b0a8776e3e4d8e83e)
+- [Guías de identificación rápida de solanáceas en Colombia](https://www.botanicomedellin.org/v2_base/file_downloader.php?id_file=9194-m21-066a1335d7d7aaa6c5a24bd22c26ca39){:target="_blank"}
+- [Avistamiento de aves](https://www.botanicomedellin.org/v2_base/file_downloader.php?id_file=9195-m21-655a0b3bc052815ea09323e53daa3870){:target="_blank"}
+- [Guías de identificación rápida de Pasifloras en Colombia](https://www.botanicomedellin.org/v2_base/file_downloader.php?id_file=9193-m21-9964a4ff6c124d453c3899e70d3f4f6b){:target="_blank"}
+- [Guías de identificación rápida de helechos](https://www.botanicomedellin.org/v2_base/file_downloader.php?id_file=9191-m21-415cabe26ab7d190d4f6a74bd81af08f){:target="_blank"}
+- [Guías de identificación rápida de orquídeas en Colombia](https://www.botanicomedellin.org/v2_base/file_downloader.php?id_file=9192-m21-4b6381a980fc772b0a8776e3e4d8e83e){:target="_blank"}
 
 ### Guías y enlaces de interés para identificación de especies
 
-- [Orquídeas, anturios y bromelias en el Parque Arví](https://www.researchgate.net/publication/294891779_Guia_de_campo_del_Parque_Arvi_anturios_bromelias_y_orquideas)
-- [Catálogo de flora del Valle de Aburrá](https://catalogofloravalleaburra.eia.edu.co/)
-- [Aves en el campus de EAFIT](http://www.eafit.edu.co/campus-eafit/universidad-parque/aves)
-- [Guía ilustrada de aves de Porce](https://www.epm.com.co/site/Portals/Descargas/2015/rio_porce/Guia_Ilustrada_canon_del_rio_Porce_Antioquia_Aves.pdf)
-- [Guía ilustrada de anfibios y reptiles de Porce](https://www.epm.com.co/site/Portals/Descargas/2015/rio_porce/Guia_Ilustrada_canon_del_rio_Porce_Antioquia_Anfibios_y_reptiles.pdf)
-- [Medellín una ciudad para la biodiversidad](https://www.medellin.gov.co/biodiversidad/seccion.hyg?seccion=5&submenu=4)
-- [Abejas de Antioquia](https://www.researchgate.net/publication/236856027_Abejas_de_Antioquia-_Guia_de_Campo_Field_guide_to_the_bees_of_Antioquia_Colombia)
+- [Orquídeas, anturios y bromelias en el Parque Arví](https://www.researchgate.net/publication/294891779_Guia_de_campo_del_Parque_Arvi_anturios_bromelias_y_orquideas){:target="_blank"}
+- [Catálogo de flora del Valle de Aburrá](https://catalogofloravalleaburra.eia.edu.co/){:target="_blank"}
+- [Aves en el campus de EAFIT](http://www.eafit.edu.co/campus-eafit/universidad-parque/aves){:target="_blank"}
+- [Guía ilustrada de aves de Porce](https://www.epm.com.co/site/Portals/Descargas/2015/rio_porce/Guia_Ilustrada_canon_del_rio_Porce_Antioquia_Aves.pdf){:target="_blank"}
+- [Guía ilustrada de anfibios y reptiles de Porce](https://www.epm.com.co/site/Portals/Descargas/2015/rio_porce/Guia_Ilustrada_canon_del_rio_Porce_Antioquia_Anfibios_y_reptiles.pdf){:target="_blank"}
+- [Medellín una ciudad para la biodiversidad](https://www.medellin.gov.co/biodiversidad/seccion.hyg?seccion=5&submenu=4){:target="_blank"}
+- [Abejas de Antioquia](https://www.researchgate.net/publication/236856027_Abejas_de_Antioquia-_Guia_de_Campo_Field_guide_to_the_bees_of_Antioquia_Colombia){:target="_blank"}
 
 ## Promotores:
 ### Bogotá
