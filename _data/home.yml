@@ -51,18 +51,18 @@ splitCicloFormacion:
   title: Ciclo de Formación 2021
   description: |      # required
       Conoce diferentes iniciativas, proyectos y materiales alrededor de la publicación acceso y uso de datos sobre biodiversidad.
-# img required
+  # img required
   background: /assets/images/CFhome-1.jpg
   overlayColor: "#000033"
   #href: /comunidad/formacion
   cta:
   - text: Aprender
-    href: /comunidad/formacion
+    href: https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion
     isPrimary: true
  
 splitActividadPublicacion:
   reverse: false
-  preTitle: Reporte  # optional
+  #preTitle: Reporte  # optional
   title: Actividad de publicación
   description: |      # required
     Este reporte mensual entrega una serie de gráficos, cifras y estadísticas de la actividad de publicación y uso de datos sobre biodiversidad publicados a través del SiB Colombia.
@@ -72,7 +72,7 @@ splitActividadPublicacion:
   #href: https://sibcolombia.net/formacion/
   cta:
   - text: Explorar
-    href: /comunidad/actividadpublicacion
+    href: https://hp-colombian-biodiversity.gbif-staging.org/comunidad/actividadpublicacion
     isPrimary: true
     
 espacio:
