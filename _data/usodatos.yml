@@ -58,7 +58,7 @@ tarjetasUso:
     - title: Métricas de uso # required
       description: |      # required
        Cifras destacadas sobre el uso de los datos sobre biodiversidad
-      background: hp-colombian-biodiversity/comunidad/usodedatos/images/CifrasUso.png
+      background: /comunidad/usodedatos/images/CifrasUso.png
       cta:
       - text: ¡Muy Pronto!
         href:  
