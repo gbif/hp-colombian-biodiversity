@@ -7,7 +7,7 @@ landinguso:
   overlayColor: "#E4EEE0" #"#ffffffbb"
   hasWhiteText: false
 
-stats:
+stats1:
   background: "#ffffff55"
   features:
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
@@ -21,6 +21,14 @@ stats:
       background: /comunidad/usodedatos/images/Consulta.png
       href: https://listas.biodiversidad.co/
       # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
+    - title: 19.432
+      description: Citaciones acumuladas
+      background: /comunidad/usodedatos/images/Citacion.png
+      href: /data
+  
+stats2:
+  background: "#ffffff55"
+  features:  
     - title: 49%
       description: Investigación
       background: /comunidad/usodedatos/images/Investigacion.png
@@ -35,10 +43,7 @@ stats:
       background: /comunidad/usodedatos/images/Decisiones.png
       href: https://www.gbif.org/dataset/search?publishing_country=CO
       # we can also use the graphql API to allow richer queries
-    - title: 19.432
-      description: Citaciones acumuladas
-      background: /comunidad/usodedatos/images/Citacion.png
-      href: /data
+
 
 #cards
 tarjetasUso:
