@@ -4,9 +4,9 @@ gobernanza:
     El SiB Colombia es liderado por un Comité Directivo (CD-SiB) que se desempaña como la instancia de gobernanza del sistema y se apoya a su vez en un Comité Técnico (CT-SIB), grupos de trabajo Ad Hoc para temas específicos y el equipo coordinador del SiB Colombia (EC-SiB).
   features:
     - preTitle:  # optional
-      title: Comité técnico y directivo # required
+      title: Comités directivo y técnico # required
       description: |      # required
-       Entidades que conforman el CD-SiB y sus delegados al CT-SiB.
+       Entidades que conforman los conforman y sus delegados.
       # img required
       background: /acercade/imagenes/ComiteDirectivoSiB.jpg
       href: /acercade/gobernanza/comitedirectivo
