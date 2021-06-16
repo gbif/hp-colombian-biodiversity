@@ -9,17 +9,17 @@ background: /assets/images/noticias_eventos/curso-datos-chile-1000x1000.jpg
 
 La autoridad ambiental debe ser publicadora de datos a través del SiB Colombia para participar en esta convocatoria.
 
-¡inscríbete y participa en el proceso de selección!
+¡Inscríbete y participa en el proceso de selección!
 
 ## Fecha límite para aplicar:
 31 de enero de 2020.
 
 ## Plazas disponibles: 
-1(una).
+1 (una).
 
 ## Apoyo económico:
 
-Si. Todos los gastos cubiertos.
+Sí. Todos los gastos cubiertos.
 
 ## Lugar:
 Santiago, Chile.
@@ -48,11 +48,11 @@ Mediremos el éxito del curso basándonos en encuestas de participantes que eval
 
 ### Cofinanciado por:
 
-[GBIF Spain](http://www.gbif.es/){:target="_blank"} \| [GBIF Chile](http://www.gbif.org/country/CL/summary){:target="_blank"} \| [GBIF Argentina](http://www.sndb.mincyt.gob.ar/){:target="_blank"} \| [VertNet](http://vertnet.org/index.html){:target="_blank"} \| [GBIF Colombia](/home) \| [GBIF Peru](https://www.gbif.org/es/country/PE/about){:target="_blank"}
+[GBIF Spain](http://www.gbif.es/){:target="_blank"} \| [GBIF Chile](http://www.gbif.org/country/CL/summary){:target="_blank"} \| [GBIF Argentina](http://www.sndb.mincyt.gob.ar/){:target="_blank"} \| [VertNet](http://vertnet.org/index.html){:target="_blank"} \| [GBIF Colombia](/) \| [GBIF Peru](https://www.gbif.org/es/country/PE/about){:target="_blank"}
 
 ### Socios:
 
-[GBIF Spain](http://www.gbif.es/){:target="_blank"} \| [GBIF Argentina](http://www.sndb.mincyt.gob.ar/){:target="_blank"} \| [VertNet](http://vertnet.org/index.html){:target="_blank"} \| [GBIF Colombia](/home) \| [GBIF Peru](https://www.gbif.org/es/country/PE/about){:target="_blank"}
+[GBIF Spain](http://www.gbif.es/){:target="_blank"} \| [GBIF Argentina](http://www.sndb.mincyt.gob.ar/){:target="_blank"} \| [VertNet](http://vertnet.org/index.html){:target="_blank"} \| [GBIF Colombia](/) \| [GBIF Peru](https://www.gbif.org/es/country/PE/about){:target="_blank"}
 
 ### Líder de proyecto:
 
@@ -85,4 +85,4 @@ Para aprovechar al máximo las actividades de este taller, se espera que los par
 
 ## Enlaces de interés:
 
-[Programa](https://drive.google.com/file/d/1WzpiDDDGix7Lq8lAlD9kOp5EAqmxj5F8/view)
+[Programa](https://drive.google.com/file/d/1WzpiDDDGix7Lq8lAlD9kOp5EAqmxj5F8/view){:target="_blank"}
