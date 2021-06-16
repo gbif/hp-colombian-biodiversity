@@ -16,7 +16,7 @@ hasBlackText: true
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
-  - data: usodatos.landinguso
+  - data: usodatos.stats
     type: floatingText # the block type
   - data: usodatos.tarjetasUso
     type: features # the block type
