@@ -17,7 +17,7 @@ composition:
   - type: heroImage # the block type
   - type: pageMarkdown
   - data: usodatos.stats
-    type: floatingText # the block type
+    type: stats
   - data: usodatos.tarjetasUso
     type: features # the block type
 
