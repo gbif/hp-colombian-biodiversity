@@ -28,13 +28,6 @@ Te recomendamos revisar la nota [‘Sobre el recuento de especies en GBIF’](ht
 ## Y entonces, ¿qué quiere decir que hayan 51.330 especies registradas?
 Esta cifra refleja cómo vamos en el proceso de consolidar el inventario sobre la biodiversidad del país, y al mismo tiempo, nos motiva a seguir trabajando para que la información existente sea accesible para todos. Es también un reconocimiento al aporte de cientos de organizaciones y personas que le apuestan a la construcción colectiva de conocimiento a través de un modelo abierto y participativo.
 
-<div class="box">
-  <b>Especies registradas</b>
-  
-  Es la cantidad de especies únicas con nombre taxonómico válido y aceptado, que tienen por lo menos un dato (observación o espécimen preservado) publicado a través del SiB Colombia. 
-</div>
-
-
 <form class="box">
   <div class="field">
     <label class="label">Especies registradas</label>
