@@ -14,6 +14,11 @@ height: 50vh
 |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/lasalle.jpg)](https://www.gbif.org/publisher/478a9e81-e716-42dc-a68d-03487953a32e){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udenar.jpg)](https://www.gbif.org/publisher/58c7e325-82fc-446d-9406-851b4d357db7){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udea.jpg)](http://www.gbif.org/publisher/cccff716-2694-4209-9f9e-2f7a484465a0){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uniandes.jpg)](https://www.gbif.org/publisher/77c64839-4c99-4a40-beb3-cd16afc23540){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/univalle.jpg)](https://www.gbif.org/publisher/85be57ed-f187-49c9-b7ff-eaa622e06217){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unimagdalena.jpg)](https://www.gbif.org/publisher/30ff48bd-4dd1-429d-a5a5-348c8e5fbfb1){:target="_blank"} |
 |---|---|---|---|---|---|
 |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unal.jpg)](https://www.gbif.org/publisher/eac88d99-9f6c-4031-8fc4-8088f0e0dfe7){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uptc.jpg)](http://www.gbif.org/publisher/ad3f9c5f-5021-45a3-a7c4-3e64895f6f79){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/puj.jpg)](http://www.gbif.org/publisher/0e2f2e28-7790-4c82-b8fb-6ef7b4c764e2){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/utch.jpg)](http://www.gbif.org/publisher/073e52d4-44bd-41d7-bdfa-88c2735c694b){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uis.jpg)](http://www.gbif.org/publisher/6c147991-c3bf-453d-a778-3bea9a534804){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uco.jpg)](http://www.gbif.org/publisher/c8f840a3-4949-4e18-82e9-5771c3e57129){:target="_blank"} |
+|  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/ut.jpg)](http://www.gbif.org/publisher/5a45153b-bdf9-44ae-b7a7-e3261896540b){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/icesi.jpg)](http://www.gbif.org/publisher/7d91f9bd-f6cd-48e3-ba81-3c228cf5e13a){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/itm.jpg)](http://www.gbif.org/publisher/34770310-601a-43e0-84fb-ed81661c2d00){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unicordoba.jpg)](http://www.gbif.org/publisher/dec5e6c9-0156-4fa0-b01c-e642dbff48fc){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/utp.jpg)](http://www.gbif.org/publisher/06f46c98-9794-4d96-a014-aecdf24dbd7e){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uniamazonia.jpg)](http://www.gbif.org/publisher/256035fe-75ff-4a7c-94bc-86af590c9050){:target="_blank"} |
+|  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unbosque.jpg)](http://www.gbif.org/publisher/e0455781-2311-4b5b-8cc0-421d73e04f1b){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udistrital.jpg)](http://www.gbif.org/publisher/b8cd2cdb-ee95-409c-b1b8-e09bab4f9a70){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uniquindio.jpg)](http://www.gbif.org/publisher/bc709e2f-6eb4-4cbe-a295-e12eed0679f2){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/ucaldas.jpg)](http://www.gbif.org/publisher/f7f9717e-9e50-4a00-a30f-7b134390a566){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/itp.jpg)](http://www.gbif.org/publisher/882d4191-4161-4fde-9e94-20fbb44901c8){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unicauca.jpg)](http://www.gbif.org/publisher/695bd197-a0b6-4937-9867-414e84d3a96d){:target="_blank"} |
+|  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unillanos.jpg)](http://www.gbif.org/publisher/2fff5d0c-6bbd-432d-8832-cc4e307a267f){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/ces.jpg)](http://www.gbif.org/publisher/450bdfce-76f7-483e-b4c4-cab6a3daebba){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udca.jpg)](http://www.gbif.org/publisher/814bd44e-34d6-46e1-a143-0c12d03f3eba){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/upb.jpg)](http://www.gbif.org/publisher/9ad34578-87e3-4240-93ac-4b1a5c9347dc){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unipamplona.jpg)](https://www.gbif.org/publisher/96b23685-f195-4131-af29-ea9e160225dd){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unisucre.jpg)](https://www.gbif.org/publisher/341acb6e-2ed2-4c13-af14-5e00173e15f8){:target="_blank"} |
+|  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unisinu.jpg)](https://www.gbif.org/publisher/8d9a1a1c-a563-461e-85ef-002861f87bd7){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/eafit.jpg)](https://www.gbif.org/publisher/57c6cd7f-e50f-441e-849a-3d2e1912cb92){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/tdea.jpg)](https://www.gbif.org/publisher/63da1b44-176a-4e9b-b418-28fcc182c676){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unibague.jpg)](https://www.gbif.org/publisher/ec11396a-66ab-4e57-b9c1-a8aff1cb7a1d){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/corhuila.jpg)](https://www.gbif.org/publisher/57dfb71a-f0aa-47c2-b997-30c6048dc98a){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/utadeo.jpg)](https://www.gbif.org/publisher/81724943-d4d5-4b72-bfd6-3cfc5725c12a){:target="_blank"} |
+|  [![](https://sibcolombia.net/wp-content/uploads/2021/05/usbcali.jpg)](https://www.gbif.org/publisher/0a1fecc6-cc98-47d7-bdd0-42f3c051072f){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/ipt/unilibre.jpg)](https://www.gbif.org/publisher/0b6c758d-aeac-4bea-a8c9-bd1703468b8a){:target="_blank"} | | | | |
 | | | | | | |
 
 # otras peuebas
@@ -22,86 +27,4 @@ height: 50vh
 |---|---|---|---|---|---|
 | | | | | | |
 
-# otros
-
-| [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/fnc.jpg)](https://datastudio.google.com/u/0/reporting/63dcd1a8-3316-4d50-9053-a93a67aa8dfa/page/Ge2V){:target="_blank"}| [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/bicentenario.jpg)](https://datastudio.google.com/u/0/reporting/c8f98154-44fb-4839-b03b-a2681d1d26d2/page/Ge2V){:target="_blank"}  |[![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/bicentenario.jpg)](https://datastudio.google.com/u/0/reporting/1wRyC7mGv3kt4e0x6cAoeEAnTjBIhX6TR/page/Ge2V){:target="_blank"}  | [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/comfenalco.jpg)](https://datastudio.google.com/u/0/reporting/6a0964f8-0371-4839-a03d-84854ad028ff/page/Ge2V){:target="_blank"}   |  
-|---|---|---|---|
-|Cafeteros de Colombia|Isagen|Oleoducto Bicentenario|Comfenalco|
-
-
-
-# Prueba 2
-
-| [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/fnc.jpg)](https://datastudio.google.com/u/0/reporting/63dcd1a8-3316-4d50-9053-a93a67aa8dfa/page/Ge2V){:target="_blank"}| [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/bicentenario.jpg)](https://datastudio.google.com/u/0/reporting/c8f98154-44fb-4839-b03b-a2681d1d26d2/page/Ge2V){:target="_blank"}  |[![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/bicentenario.jpg)](https://datastudio.google.com/u/0/reporting/1wRyC7mGv3kt4e0x6cAoeEAnTjBIhX6TR/page/Ge2V){:target="_blank"}  | [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/comfenalco.jpg)](https://datastudio.google.com/u/0/reporting/6a0964f8-0371-4839-a03d-84854ad028ff/page/Ge2V){:target="_blank"}   |  
-|---|---|---|---|
-| | | | |
-
-# Prueba 3
-
-| [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/iavh.jpg)](http://www.gbif.org/publisher/2a7e3080-28a9-11dd-97cd-b8a03c50a862){:target="_blank"} | [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/abc.jpg)](https://www.gbif.org/publisher/c803f6f5-2c6a-4b41-8c15-768d48ef1c8c){:target="_blank"}|
-|---|---|
-| | |
-
-
-# 2
-
-|  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/lasalle.jpg)](https://www.gbif.org/publisher/478a9e81-e716-42dc-a68d-03487953a32e){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udenar.jpg)](https://www.gbif.org/publisher/58c7e325-82fc-446d-9406-851b4d357db7){:target="_blank"} |
-|---|---|
-| | |
-
-# 4
-
-|  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/lasalle.jpg)](https://www.gbif.org/publisher/478a9e81-e716-42dc-a68d-03487953a32e){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udenar.jpg)](https://www.gbif.org/publisher/58c7e325-82fc-446d-9406-851b4d357db7){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udea.jpg)](http://www.gbif.org/publisher/cccff716-2694-4209-9f9e-2f7a484465a0){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uniandes.jpg)](https://www.gbif.org/publisher/77c64839-4c99-4a40-beb3-cd16afc23540){:target="_blank"} |
-|---|---|---|---|
-| | | | |
-
-# 6
-
-
-
-
-# Prueba 4, espacio al final de cierre tabla luego sin espacio
-| [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/iavh.jpg)](http://www.gbif.org/publisher/2a7e3080-28a9-11dd-97cd-b8a03c50a862){:target="_blank"} | [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/abc.jpg)](https://www.gbif.org/publisher/c803f6f5-2c6a-4b41-8c15-768d48ef1c8c){:target="_blank"}|
-|---|---|
-| | |
-
-#
-
-| [![](/assets/images/reportes/rep-mes-1-40x40_rojo.png)](https://datastudio.google.com/u/0/reporting/1st-Hu7KfBEceCCeCoQ7cmvOpvO8t6sw8/page/Ge2V){:target="_blank"}| [![](/assets/images/reportes/rep-mes-2-40x40_amarillo.png)](https://datastudio.google.com/u/0/reporting/1P34gAnfHMdYa7MPe0tXdsu2CuzGbbkj-){:target="_blank"}  |  [![](/assets/images/reportes/rep-mes-3-40x40_naranja.png)](https://datastudio.google.com/u/0/reporting/1wRyC7mGv3kt4e0x6cAoeEAnTjBIhX6TR/page/Ge2V){:target="_blank"}  | [![](/assets/images/reportes/rep-mes-4-40x40_azul.png)](https://datastudio.google.com/reporting/1U9I-E7MhFpJ0HxoF1YU3fVSRobJK02rH/page/Ge2V){:target="_blank"}   |  [![](/assets/images/reportes/rep-mes-5-40x40_oliva.png)](https://datastudio.google.com/reporting/1S-JNBvBisFquvgEkN6S3h6GiuoixlhTz/page/Ge2V){:target="_blank"}  |  [![](/assets/images/reportes/rep-mes-6-40x40_verde.png)](https://datastudio.google.com/u/2/reporting/5413f332-a29e-44ad-9514-c6bec7d27624/page/Ge2V){:target="_blank"}  | [![](/assets/images/reportes/rep-mes-1-40x40_rojo.png)](https://datastudio.google.com/reporting/d5a594cf-e504-4100-8905-3c9f7cc33f9e/page/Ge2V){:target="_blank"}|  [![](/assets/images/reportes/rep-mes-2-40x40_amarillo.png)](https://datastudio.google.com/reporting/6cbdf8bd-b76d-4413-a307-ca62ac1aa863/page/Ge2V){:target="_blank"}  |  [![](/assets/images/reportes/rep-mes-3-40x40_naranja.png)](https://datastudio.google.com/u/0/reporting/4a1d3e2b-168d-45f0-8fad-d0d6841ecdd5/page/Ge2V){:target="_blank"}  | [![](/assets/images/reportes/rep-mes-4-40x40_azul.png)](https://datastudio.google.com/u/0/reporting/d4305726-37c4-455d-aa03-1f282372c1fc/page/Ge2V){:target="_blank"}   |  [![](/assets/images/reportes/rep-mes-5-40x40_oliva.png)](https://datastudio.google.com/u/0/reporting/c295e068-fb26-429b-a260-93f1079ba93e/page/Ge2V){:target="_blank"}  |  [![](/assets/images/reportes/rep-mes-6-40x40_verde.png)](https://datastudio.google.com/u/0/reporting/82a89129-30a4-408a-80b7-d15475f66479/page/Ge2V){:target="_blank"}  | 
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|Ene|Feb|Mar|Abr|May|Jun|Jul|Ago|Sep|Oct|Nov|Dic|
-
-
-# 2019
-
-
-| [![](/assets/images/reportes/rep-mes-1-40x40_rojo.png)](https://datastudio.google.com/u/0/reporting/1hLMgZXlo-44gynwUF5ulFkyc8lt24pM3/page/Ge2V){:target="_blank"} | [![](/assets/images/reportes/rep-mes-2-40x40_amarillo.png)](https://datastudio.google.com/open/1acv1wqAghmozn80Ci9sqRZ1uL202zQNw){:target="_blank"} | [![](/assets/images/reportes/rep-mes-3-40x40_naranja.png)](https://datastudio.google.com/u/0/reporting/1Sn7UJZ9gZKyfoklf4xepk7X5tskKkH-k/page/Ge2V){:target="_blank"} | [![](/assets/images/reportes/rep-mes-4-40x40_azul.png)](https://datastudio.google.com/open/1CdEsy7owfnEZ4QpvJyzSm3DpJ3Eyb3C6){:target="_blank"} | [![](/assets/images/reportes/rep-mes-5-40x40_oliva.png)](https://datastudio.google.com/open/1dt08swT5c5bQR4vQunSceY_FODTcko3h){:target="_blank"} | [![](/assets/images/reportes/rep-mes-6-40x40_verde.png)](https://datastudio.google.com/open/1yqaSRnp8ANAjZ488CAg1Zlv_sAYQGPiS){:target="_blank"} | [![](/assets/images/reportes/rep-mes-1-40x40_rojo.png)](https://datastudio.google.com/open/1IGzbp2fe-shQLOHxtf18ut9PaxQmfr_N){:target="_blank"} | [![](/assets/images/reportes/rep-mes-2-40x40_amarillo.png)](https://datastudio.google.com/s/mEM3dEQJy70){:target="_blank"}   |  [![](/assets/images/reportes/rep-mes-3-40x40_naranja.png)](https://datastudio.google.com/open/1vLO58cHYwK3eRq-6gtJuwxSPuFDiZ78S){:target="_blank"}  | [![](/assets/images/reportes/rep-mes-4-40x40_azul.png)](https://datastudio.google.com/open/158KCDnFdOjn_-Nwgsk4JoRjlq20W0Mv8){:target="_blank"}   |  [![](/assets/images/reportes/rep-mes-5-40x40_oliva.png)](https://datastudio.google.com/reporting/1SkQS8jYoqphP99fMIKYsEVnjGokhxAkc/page/Ge2V){:target="_blank"}  |  [![](/assets/images/reportes/rep-mes-6-40x40_verde.png)](https://datastudio.google.com/open/1D-aYIBfTx_KZgb71xo0jnL6WCwMcuag9){:target="_blank"}  | 
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|Ene|Feb|Mar|Abr|May|Jun|Jul|Ago|Sep|Oct|Nov|Dic|
-
-
-
-
-
-# 2018
-
-| [![](/assets/images/reportes/rep-mes-1-40x40_rojo.png)](/assets/files/Reportes/reporte-enero-2018.pdf){:target="_blank"} | [![](/assets/images/reportes/rep-mes-2-40x40_amarillo.png)](/assets/files/Reportes/reporte-febrero-2018.pdf){:target="_blank"} | [![](/assets/images/reportes/rep-mes-3-40x40_naranja.png)](/assets/files/Reportes/reporte-marzo-2018.pdf){:target="_blank"} | [![](/assets/images/reportes/rep-mes-4-40x40_azul.png)](/assets/files/Reportes/reporte-abril-2018.pdf){:target="_blank"} | [![](/assets/images/reportes/rep-mes-5-40x40_oliva.png)](/assets/files/Reportes/reporte-mayo-2018.pdf){:target="_blank"} | [![](/assets/images/reportes/rep-mes-6-40x40_verde.png)](/assets/files/Reportes/reporte-junio-2018.pdf){:target="_blank"} | [![](/assets/images/reportes/rep-mes-1-40x40_rojo.png)](https://datastudio.google.com/reporting/1l3kGwFxcN0SGWBXTnjcZsXBU3_BkY-YE/page/Ge2V){:target="_blank"} | [![](/assets/images/reportes/rep-mes-2-40x40_amarillo.png)](https://datastudio.google.com/u/2/reporting/1WFqxDVzvCPLLtw0A-aU_eHT36ArNoIEG/page/Ge2V){:target="_blank"}   |  [![](/assets/images/reportes/rep-mes-3-40x40_naranja.png)](https://datastudio.google.com/u/0/reporting/1bWyo6plZqjUN3XdsEHyHE4gSrUTioGO_/page/Ge2V){:target="_blank"}  | [![](/assets/images/reportes/rep-mes-4-40x40_azul.png)](https://datastudio.google.com/open/1YggehKH_3gcBzGZXlIBO8Ai2XEDtgGVK){:target="_blank"}   |  [![](/assets/images/reportes/rep-mes-5-40x40_oliva.png)](https://datastudio.google.com/open/1PIha_6FhLsbBDngbSWQAtvsySfUkJPh4){:target="_blank"}  |  [![](/assets/images/reportes/rep-mes-6-40x40_verde.png)](https://datastudio.google.com/open/12357ByrfcryKpjmW5H6I19yA0gkDy7Ey){:target="_blank"}  | 
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|Ene|Feb|Mar|Abr|May|Jun|Jul|Ago|Sep|Oct|Nov|Dic|
-
-
-# 2017
-
-
-| [![](/assets/images/reportes/rep-mes-1-40x40_rojo.png)](/assets/files/Reportes/reporte-enero-2017.pdf){:target="_blank"} | [![](/assets/images/reportes/rep-mes-2-40x40_amarillo.png)](/assets/files/Reportes/reporte-febrero-2017.pdf){:target="_blank"} | [![](/assets/images/reportes/rep-mes-3-40x40_naranja.png)](/assets/files/Reportes/reporte-marzo-2017.pdf){:target="_blank"} | [![](/assets/images/reportes/rep-mes-4-40x40_azul.png)](/assets/files/Reportes/reporte-abril-2017.pdf){:target="_blank"} | [![](/assets/images/reportes/rep-mes-5-40x40_oliva.png)](/assets/files/Reportes/reporte-mayo-2017.pdf){:target="_blank"} | [![](/assets/images/reportes/rep-mes-6-40x40_verde.png)](/assets/files/Reportes/reporte-junio-2017.pdf){:target="_blank"} | [![](/assets/images/reportes/rep-mes-1-40x40_rojo.png)](/assets/files/Reportes/reporte-julio-2017.pdf){:target="_blank"} | [![](/assets/images/reportes/rep-mes-2-40x40_amarillo.png)](/assets/files/Reportes/reporte-agosto-2017.pdf){:target="_blank"}   |  [![](/assets/images/reportes/rep-mes-3-40x40_naranja.png)](/assets/files/Reportes/reporte-septiembre-2017.pdf){:target="_blank"}  | [![](/assets/images/reportes/rep-mes-4-40x40_azul.png)](/assets/files/Reportes/reporte-octubre-2017.pdf){:target="_blank"}   |  [![](/assets/images/reportes/rep-mes-5-40x40_oliva.png)](/assets/files/Reportes/reporte-noviembre-2017.pdf){:target="_blank"}  |  [![](/assets/images/reportes/rep-mes-6-40x40_verde.png)](/assets/files/Reportes/reporte-diciembre-2017.pdf){:target="_blank"}  | 
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|Ene|Feb|Mar|Abr|May|Jun|Jul|Ago|Sep|Oct|Nov|Dic|
-
-
-# 2016
-
-
-|  |  |  |  |  | [![](/assets/images/reportes/rep-mes-6-40x40_verde.png)](/assets/files/Reportes/reporte-junio-2016.pdf){:target="_blank"} | [![](/assets/images/reportes/rep-mes-1-40x40_rojo.png)](/assets/files/Reportes/reporte-julio-2016.pdf){:target="_blank"} | [![](/assets/images/reportes/rep-mes-2-40x40_amarillo.png)](/assets/files/Reportes/reporte-agosto-2016.pdf){:target="_blank"}   |  [![](/assets/images/reportes/rep-mes-3-40x40_naranja.png)](/assets/files/Reportes/reporte-septiembre-2016.pdf){:target="_blank"}  | [![](/assets/images/reportes/rep-mes-4-40x40_azul.png)](/assets/files/Reportes/reporte-octubre-2016.pdf){:target="_blank"}   |  [![](/assets/images/reportes/rep-mes-5-40x40_oliva.png)](/assets/files/Reportes/reporte-noviembre-2016.pdf){:target="_blank"}  |  [![](/assets/images/reportes/rep-mes-6-40x40_verde.png)](/assets/files/Reportes/reporte-diciembre-2016.pdf){:target="_blank"}  | 
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|Ene|Feb|Mar|Abr|May|Jun|Jul|Ago|Sep|Oct|Nov|Dic|
 
