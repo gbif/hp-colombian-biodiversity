@@ -31,14 +31,14 @@ Se espera que en los meses posteriores al taller los datos sobre biodiversidad r
 
 # Participantes:
 
-## Instructores
+## Facilitadores:
 
 - Leonardo Buitrago  
   *Líder – Administración de contenidos – SiB Colombia*
 - Camila Plata  
   *Administración de contenidos – SiB Colombia*
    
-## Asistentes
+## Asistentes:
 
  - Andres Felipe Ordoñez Casadiego
  - Angie Lizeth Sanchez Alvarez
