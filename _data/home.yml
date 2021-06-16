@@ -54,10 +54,10 @@ splitCicloFormacion:
 # img required
   background: /assets/images/CFhome-1.jpg
   overlayColor: "#000033"
-  href: https://sibcolombia.net/formacion/
+  #href: /comunidad/formacion
   cta:
   - text: Aprender
-    href: https://sibcolombia.net/formacion/
+    href: /comunidad/formacion
     isPrimary: true
  
 splitActividadPublicacion:
@@ -69,10 +69,10 @@ splitActividadPublicacion:
   # img required
   background: /assets/images/APhome-1.jpg
   overlayColor: "#000033"
-  href: https://sibcolombia.net/formacion/
+  #href: https://sibcolombia.net/formacion/
   cta:
   - text: Explorar
-    href: https://hp-colombian-biodiversity.gbif-staging.org/comunidad/ActividadPublicacion
+    href: /comunidad/actividadpublicacion
     isPrimary: true
     
 espacio:
