@@ -58,7 +58,7 @@ tarjetasUso:
     - title: Métricas de uso # required
       description: |      # required
        Conoce el uso que de le de a los datos publicados a través del SiB Colombia.
-      background: /assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg
+      background: hp-colombian-biodiversity/comunidad/usodedatos/images/CifrasUso.png
       cta:
       - text: ¡Muy Pronto!
         href:  
