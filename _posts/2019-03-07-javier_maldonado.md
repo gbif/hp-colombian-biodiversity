@@ -15,14 +15,14 @@ En medio del caluroso Magdalena-Medio, en la que sería la última de sus salida
 >
 
 ## Amazon Fish Project:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=KicepAW0aiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KicepAW0aiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Desde el SiB Colombia le rendimos un sentido homenaje a Javier y a su legado como persona, docente e investigador y resaltamos precisamente ese esfuerzo por hacer visibles los peces que habitan en los ríos de nuestro país. Hace menos de un año, el trabajo que lideró desde [Acictios](https://acictios.org) en el marco del [proyecto nacional Colombia BIO](https://sibcolombia.net/proyectos/colombiabio/), le permitió al país contar con su primera lista de referencia: [la lista de especies de peces de agua dulce de Colombia](https://ipt.biodiversidad.co/sib/resource?r=ictiofauna_colombiana_dulceacuicola). En este proyecto colaborativo que reunió múltiples entidades e investigadores, se publicó también un [artículo científico](https://zookeys.pensoft.net/articles.php?id=13897) que contó con la revisión más completa a la fecha, tanto de la información bibliográfica disponible, como de los especímenes depositados en colecciones ictiológicas del país. Adicionalmente, se publicaron 370 nuevas fichas de especies endémicas de peces de agua dulce a través del [Catálogo de la Biodiversidad de Colombia](https://catalogo.biodiversidad.co); un aporte invaluable que nos acerca a todos al conocimiento de las especies únicas que habitan en el país.
 
 En todo este proyecto, el liderazgo de Javier fue fundamental no sólo para garantizar la rigurosidad científica y la validez de esta información, sino su disponibilidad para múltiples audiencias, condición indispensable para seguir avanzando en el conocimiento de nuestra inconmensurable riqueza natural.
 
 ## Javier nos cuenta sobre los resultados del proyecto:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-hmhy-O1G7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-hmhy-O1G7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Buscando un valor agregado a este esfuerzo, también lideró la publicación de las siguientes listas de especies sobre la ictiofauna de nuestro país:  
 
