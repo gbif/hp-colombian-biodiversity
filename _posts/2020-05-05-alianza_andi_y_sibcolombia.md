@@ -1,7 +1,7 @@
 ---
 title:  "ANDI y SiB Colombia consolidan alianza para robustecer información del país sobre biodiversidad desde las empresas"
 date:   2020-05-05
-categories: ["Biodiversidad", "ANDI", "GBIF", "OpenPSD", "Desarrollo", "Sector Empresarial", "2020"]
+categories: ["ANDI", "GBIF", "OpenPSD", "Sector empresarial", "Colombia", "2020", "Convocatoria"]
 background: /assets/images/noticias_eventos/PiezaBlog_Alianza_SiB_ANDI_Mesa-de-trabajo-1-copia-1000x1000.png
 ---
 
@@ -11,7 +11,7 @@ background: /assets/images/noticias_eventos/PiezaBlog_Alianza_SiB_ANDI_Mesa-de-t
 
 ## Bogotá, 05 de mayo de 2020.
 
-A través del programa ‘Biodiversidad y Desarrollo’, la Asociación Nacional de Empresarios de Colombia (ANDI) como representante del sector productivo, y el Sistema de Información sobre Biodiversidad de Colombia (SiB Colombia), como iniciativa nacional, anunciaron una alianza estratégica, con una agenda de trabajo 2020-2022, que permitirá robustecer la información y el conocimiento del país sobre Biodiversidad a partir de una mayor contribución del sector empresarial.
+A través del programa **‘Biodiversidad y Desarrollo’**, la Asociación Nacional de Empresarios de Colombia (ANDI) como representante del sector productivo, y el Sistema de Información sobre Biodiversidad de Colombia (SiB Colombia), como iniciativa nacional, anunciaron una alianza estratégica, con una agenda de trabajo 2020-2022, que permitirá robustecer la información y el conocimiento del país sobre Biodiversidad a partir de una mayor contribución del sector empresarial.
 
 Esto significa que los estudios, diagnósticos, planes e informes hechos por el sector productivo en esta materia harán parte del Sistema y estarán disponibles de manera abierta para la consulta de compañías, ciudadanos y entidades gubernamentales, pues además de que los datos hoy no son de fácil acceso o se presentan en formatos que dificultan su interpretación y la interoperabilidad entre distintas fuentes, la información aportada por el sector productivo representa menos del 0,5% del total de datos alojados en el SiB Colombia. Este porcentaje podría ser mucho mayor si se tiene en cuenta que solamente el sector empresarial representado por la ANDI agrupa a 1.460 empresas (alrededor del 50% del PIB).
 
@@ -19,7 +19,7 @@ La consolidación y democratización de estos datos será fundamental para el pa
 
 En ese sentido, la alianza surge como una gran oportunidad para garantizar la participación del sector empresarial a nivel nacional e internacional, acelerando la generación de conocimiento de nuestra biodiversidad a partir de la publicación de datos de una manera organizada y sistemática. Además, se convierte en un escenario para promover y visibilizar la participación del sector privado en la gestión integral de la biodiversidad.
 
-La ANDI a través de su iniciativa ‘Biodiversidad y Desarrollo’, busca ser una plataforma para que colectivos de empresas de diversos sectores de la Asociación se sumen y desde ahí, se promuevan novedosos análisis sectoriales, temáticos y regionales. Por su parte, el SiB Colombia cuenta con el respaldo de GBIF a través del proyecto global “OpenPSD: Promoting publication and use of private-sector data on biodiversity”, donde Colombia es un país pionero, facilitando la participación del sector empresarial en estas instancias.
+La ANDI a través de su iniciativa **‘Biodiversidad y Desarrollo’**, busca ser una plataforma para que colectivos de empresas de diversos sectores de la Asociación se sumen y desde ahí, se promuevan novedosos análisis sectoriales, temáticos y regionales. Por su parte, el SiB Colombia cuenta con el respaldo de GBIF a través del proyecto global “[OpenPSD: Promoting publication and use of private-sector data on biodiversity](https://www.gbif.org/es/project/2Zik1tfJoh3C92ZslvhDIr/openpsd-promoting-publication-and-use-of-private-sector-data-on-biodiversity){:target="_blank"}”, donde Colombia es un país pionero, facilitando la participación del sector empresarial en estas instancias.
 
 Al mismo tiempo, esta alianza tendrá beneficios para las empresas, contribuyendo entre otras a que se conviertan en un referente nacional e internacional de sostenibilidad (índices como Dow Jones e Índice de Desempeño Ambiental de la ANLA), a la vez que se reconoce su apoyo a las metas nacionales Aichi, entre otras.
 
@@ -31,5 +31,5 @@ Muchos de estos datos son recolectados en áreas que carecen de información y s
 
 ## Más información:
 https://sibcolombia.net/empresas/
-Dairo Escobar – SiB Colombia descobar@humboldt.org.co
-Dora Moncada – ANDI dmoncada@andi.com.co
+Dairo Escobar – SiB [Colombia descobar@humboldt.org.co](Colombia descobar@humboldt.org.co)
+Dora Moncada – ANDI [dmoncada@andi.com.co](dmoncada@andi.com.co)
