@@ -80,7 +80,7 @@ espacio:
   #href: /assets/images/logos/BannerwebAlianzaAZUL_Mesa-de-trabajo-1.png
   #title: Un aporte del sector empresarial al conocimiento de la biodiversidad
   description: |      # required
-    NOTICIAS
+
   background: "#374955"
   #overlayColor: "#374955"
   hasWhiteText: true
