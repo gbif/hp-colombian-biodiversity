@@ -13,12 +13,12 @@ stats:
       # we can also use the graphql API to allow richer queries
     - title: 19.432
       description: Citación a recursos publicados
-      background: /assets/images/landing_page/iconos_cifras/registros_biologicos.png
+      background: /comunidad/usodedatos/images/Citacion.png
       href: /data
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
     - title: 143
       description: Consultas de datos (2020)
-      background: /assets/images/landing_page/iconos_cifras/listas_de_especies.png
+      background: /comunidad/usodedatos/images/Consulta.png
       href: https://listas.biodiversidad.co/
       # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
     - title: 49%
