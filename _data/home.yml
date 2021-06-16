@@ -69,10 +69,10 @@ splitActividadPublicacion:
   # img required
   background: /assets/images/APhome-1.jpg
   overlayColor: "#000033"
-  href: https://hp-colombian-biodiversity.gbif-staging.org/comunidad/actividadpublicacion
+  href: /comunidad/actividadpublicacion
   cta:
   - text: Explorar
-    href: https://hp-colombian-biodiversity.gbif-staging.org/comunidad/actividadpublicacion
+    href: /comunidad/actividadpublicacion
     isPrimary: true
     
 espacio:
