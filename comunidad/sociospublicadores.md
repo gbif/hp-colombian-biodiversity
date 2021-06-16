@@ -9,7 +9,20 @@ height: 50vh
 ---
 
 
-# Prueba 1
+# Academia
+
+|  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/lasalle.jpg)](https://www.gbif.org/publisher/478a9e81-e716-42dc-a68d-03487953a32e){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udenar.jpg)](https://www.gbif.org/publisher/58c7e325-82fc-446d-9406-851b4d357db7){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udea.jpg)](http://www.gbif.org/publisher/cccff716-2694-4209-9f9e-2f7a484465a0){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uniandes.jpg)](https://www.gbif.org/publisher/77c64839-4c99-4a40-beb3-cd16afc23540){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/univalle.jpg)](https://www.gbif.org/publisher/85be57ed-f187-49c9-b7ff-eaa622e06217){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unimagdalena.jpg)](https://www.gbif.org/publisher/30ff48bd-4dd1-429d-a5a5-348c8e5fbfb1){:target="_blank"} |
+|---|---|---|---|---|---|
+|  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unal.jpg)](https://www.gbif.org/publisher/eac88d99-9f6c-4031-8fc4-8088f0e0dfe7){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uptc.jpg)](http://www.gbif.org/publisher/ad3f9c5f-5021-45a3-a7c4-3e64895f6f79){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/puj.jpg)](http://www.gbif.org/publisher/0e2f2e28-7790-4c82-b8fb-6ef7b4c764e2){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/utch.jpg)](http://www.gbif.org/publisher/073e52d4-44bd-41d7-bdfa-88c2735c694b){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uis.jpg)](http://www.gbif.org/publisher/6c147991-c3bf-453d-a778-3bea9a534804){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uco.jpg)](http://www.gbif.org/publisher/c8f840a3-4949-4e18-82e9-5771c3e57129){:target="_blank"} |
+| | | | | | |
+
+# otras peuebas
+
+|  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/lasalle.jpg)](https://www.gbif.org/publisher/478a9e81-e716-42dc-a68d-03487953a32e){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udenar.jpg)](https://www.gbif.org/publisher/58c7e325-82fc-446d-9406-851b4d357db7){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udea.jpg)](http://www.gbif.org/publisher/cccff716-2694-4209-9f9e-2f7a484465a0){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uniandes.jpg)](https://www.gbif.org/publisher/77c64839-4c99-4a40-beb3-cd16afc23540){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/univalle.jpg)](https://www.gbif.org/publisher/85be57ed-f187-49c9-b7ff-eaa622e06217){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unimagdalena.jpg)](https://www.gbif.org/publisher/30ff48bd-4dd1-429d-a5a5-348c8e5fbfb1){:target="_blank"} |
+|---|---|---|---|---|---|
+| | | | | | |
+
+# otros
 
 | [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/fnc.jpg)](https://datastudio.google.com/u/0/reporting/63dcd1a8-3316-4d50-9053-a93a67aa8dfa/page/Ge2V){:target="_blank"}| [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/bicentenario.jpg)](https://datastudio.google.com/u/0/reporting/c8f98154-44fb-4839-b03b-a2681d1d26d2/page/Ge2V){:target="_blank"}  |[![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/bicentenario.jpg)](https://datastudio.google.com/u/0/reporting/1wRyC7mGv3kt4e0x6cAoeEAnTjBIhX6TR/page/Ge2V){:target="_blank"}  | [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/comfenalco.jpg)](https://datastudio.google.com/u/0/reporting/6a0964f8-0371-4839-a03d-84854ad028ff/page/Ge2V){:target="_blank"}   |  
 |---|---|---|---|
@@ -44,9 +57,7 @@ height: 50vh
 
 # 6
 
-|  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/lasalle.jpg)](https://www.gbif.org/publisher/478a9e81-e716-42dc-a68d-03487953a32e){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udenar.jpg)](https://www.gbif.org/publisher/58c7e325-82fc-446d-9406-851b4d357db7){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udea.jpg)](http://www.gbif.org/publisher/cccff716-2694-4209-9f9e-2f7a484465a0){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uniandes.jpg)](https://www.gbif.org/publisher/77c64839-4c99-4a40-beb3-cd16afc23540){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/univalle.jpg)](https://www.gbif.org/publisher/85be57ed-f187-49c9-b7ff-eaa622e06217){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unimagdalena.jpg)](https://www.gbif.org/publisher/30ff48bd-4dd1-429d-a5a5-348c8e5fbfb1){:target="_blank"} |
-|---|---|---|---|---|---|
-| | | | | | |
+
 
 
 # Prueba 4, espacio al final de cierre tabla luego sin espacio
