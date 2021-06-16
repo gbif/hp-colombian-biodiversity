@@ -16,6 +16,11 @@ stats:
       background: /comunidad/usodedatos/images/Citacion.png
       href: /data
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
+    - title: 1.358
+      description: Descargas de datos
+      background: /comunidad/usodedatos/images/Citacion.png
+      href: /data
+      # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
     - title: 143
       description: Consultas totales
       background: /comunidad/usodedatos/images/Consulta.png
