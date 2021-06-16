@@ -33,9 +33,9 @@ Se espera que en los meses posteriores al taller los datos sobre biodiversidad r
 
 ## Instructores
 
-- Leonardo Buitrago
+- Leonardo Buitrago  
   *Líder – Administración de contenidos – SiB Colombia*
-- Camila Plata
+- Camila Plata  
   *Administración de contenidos – SiB Colombia*
    
 ## Asistentes
@@ -66,10 +66,10 @@ Se espera que en los meses posteriores al taller los datos sobre biodiversidad r
  
 # Enlaces de interés:
 
-- [Agenda y Asistentes](https://drive.google.com/drive/folders/180hI-X-cYXC-7CGZyvX2ehouiCUjN_vY)
-- [Fotografías](https://drive.google.com/drive/folders/1ISb8tgud6h4IWkafg_KlwxaBCY3Pnj--)
-- [Presentaciones](https://drive.google.com/drive/folders/1D6WBxuX70knQGxHxKtdUVBRlC5Wa7GUW)
-- [Taller práctico](https://drive.google.com/drive/folders/1icKScrp3kb7LM3JqnFBtXo_UxUAR1UFy)
-- [Encuesta final](https://drive.google.com/file/d/1fJaLZFmwxZaA1ILI-pXN3QzlmiPr5o1O/view)
+- [Agenda y Asistentes](https://drive.google.com/drive/folders/180hI-X-cYXC-7CGZyvX2ehouiCUjN_vY){:target="_blank"}
+- [Fotografías](https://drive.google.com/drive/folders/1ISb8tgud6h4IWkafg_KlwxaBCY3Pnj--){:target="_blank"}
+- [Presentaciones](https://drive.google.com/drive/folders/1D6WBxuX70knQGxHxKtdUVBRlC5Wa7GUW){:target="_blank"}
+- [Taller práctico](https://drive.google.com/drive/folders/1icKScrp3kb7LM3JqnFBtXo_UxUAR1UFy){:target="_blank"}
+- [Encuesta final](https://drive.google.com/file/d/1fJaLZFmwxZaA1ILI-pXN3QzlmiPr5o1O/view){:target="_blank"}
 
 ![My helpful screenshot](/assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg)
