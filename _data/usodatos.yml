@@ -7,7 +7,7 @@ landinguso:
   overlayColor: "#E4EEE0" #"#ffffffbb"
   hasWhiteText: false
 
- stats:
+  stats:
   background: "#ffffff55"
   features:
       # we can also use the graphql API to allow richer queries
