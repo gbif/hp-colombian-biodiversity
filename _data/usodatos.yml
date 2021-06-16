@@ -57,7 +57,7 @@ tarjetasUso:
      #preTitle: "Uso en cifras"  # optional
     - title: Métricas de uso # required
       description: |      # required
-       Conoce el uso que de le de a los datos publicados a través del SiB Colombia.
+       Cifras destacadas sobre el uso de los datos sobre biodiversidad
       background: hp-colombian-biodiversity/comunidad/usodedatos/images/CifrasUso.png
       cta:
       - text: ¡Muy Pronto!
