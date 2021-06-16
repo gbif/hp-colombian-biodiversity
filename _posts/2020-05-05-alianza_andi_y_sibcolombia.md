@@ -30,6 +30,6 @@ Las empresas que realizan Estudios de Impacto Ambiental (EIA), Diagnósticos Amb
 Muchos de estos datos son recolectados en áreas que carecen de información y son menos conocidas, o tienen grupos biológicos que están sub representados y, por lo tanto, serían valiosos para la comunidad científica, para agencias del gobierno nacional, y para instancias  intergubernamentales como la Convención de Diversidad Biológica (CDB), Plataforma Intergubernamental Científico-normativa sobre Diversidad Biológica y Servicios de los Ecosistemas (IPBES) o Grupo de Observaciones de la Tierra (GEO BON). Incluso los datos de estudios en áreas más conocidas podrían ser de gran valor, permitiendo llenar los vacíos de información y mejorar las representaciones en el tiempo.
 
 ## Más información:
-https://sibcolombia.net/empresas/
+[https://sibcolombia.net/empresas/](/aliados/andi)
 Dairo Escobar – SiB [Colombia descobar@humboldt.org.co](Colombia descobar@humboldt.org.co)
 Dora Moncada – ANDI [dmoncada@andi.com.co](dmoncada@andi.com.co)
