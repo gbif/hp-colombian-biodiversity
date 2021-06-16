@@ -15,40 +15,38 @@ En el contexto del SiB Colombia los términos datos e información no son sinón
 
 Compartir a través del SiB Colombia tantos datos e información como sea posible es valioso, incluso aquella que pueda considerarse incompleta, aportará al conocimiento de nuestra biodiversidad y servirá para dar respuesta a preguntas fundamentales.
 
-Conoce más sobre los [datos que se pueden publicar a través del SiB Colombia.](https://www.youtube.com/watch?v=_f4gGfIBN3U&t=2s){:target="_blank"}.
-
 
 ## Datos
 
-Los datos sobre biodiversidad provienen de múltiples fuentes: colecciones biológicas, inventarios, monitoreo, EIA, códigos de barra de ADN, cámaras trampa, sensores remotos, ciencia participativa, agrobiodiversidad, tesis de grado, entre otros. Sin embargo, casi todos pueden ser estructurados para su publicación en tres tipos de conjuntos de datos, cada uno con diferentes grados de complejidad.
+Los datos sobre biodiversidad provienen de múltiples fuentes: colecciones biológicas, inventarios, monitoreo, EIA, códigos de barra de ADN, cámaras trampa, sensores remotos, ciencia participativa, agrobiodiversidad, tesis de grado, entre muchos otros. Sin embargo, casi todos pueden ser estructurados para su publicación en tres tipos de conjuntos de datos, cada uno con diferentes grados de complejidad.
 
 
 ### Registros biológicos
-Son conjuntos de datos que tienen un nivel de detalle suficiente acerca de la ubicación de un individuo en el tiempo y el espacio, es decir, ofrecen evidencia de la presencia de una especie (u otro taxón) en un lugar y fecha determinados. Los registros biológicos a veces proveen únicamente  información general sobre su ubicación -identificando solamente el departamento o municipio, por ejemplo-, pero en la mayoría de los casos presentan ubicaciones más precisas con coordenadas geográficas que permiten un análisis y mapeo mucho más detallado de la distribución de las especies.
+Son conjuntos de datos que tienen un nivel de detalle suficiente acerca de la ubicación de un individuo en el tiempo y el espacio, es decir, ofrecen evidencia de la presencia de una especie (u otro taxón) en un lugar y fecha determinados. Los registros biológicos a veces proveen únicamente información general sobre su ubicación -identificando solamente el departamento o municipio, por ejemplo-, pero en la mayoría de los casos presentan ubicaciones más precisas con coordenadas geográficas que permiten un análisis y mapeo mucho más detallado de la distribución de las especies.
 
-Los registros biológicos representan la mayoría de los datos publicados a través del SiB Colombia y comprenden desde especímenes y fósiles en colecciones biológicas, hasta observaciones resultantes de inventarios, proyectos de ciencia participativa e incluso datos obtenidos de trampas de cámara o sensores remotos.
+Los registros biológicos representan la mayoría de los datos publicados a través del SiB Colombia y comprenden desde especímenes y fósiles en colecciones biológicas, hasta observaciones producto de inventarios, proyectos de ciencia participativa e incluso datos obtenidos de trampas de cámara, información genética o sensores remotos.
 
-Adicionalmente, los registros biológicos son el tipo de datos que generalmente se derivan de un permiso de recolección, de acuerdo en lo establecido en los decretos 1376 y 3016 de 2013 -hoy compilados en el decreto 1076 de 2015 de la normativa colombiana-. En este contexto son la evidencia de la recolección definitiva o temporal de un organismo en un evento de colecta determinado.
+Adicionalmente, los registros biológicos son el tipo de datos que generalmente se derivan de un permiso de recolección, de acuerdo con lo establecido en los decretos 1376 y 3016 de 2013 -hoy compilados en el decreto 1076 de 2015 de la normativa colombiana-. En este contexto son la evidencia de la recolección definitiva o temporal de un organismo en un evento de colecta determinado.
 
-* [Consulta el Perfil DwC para registros biológicos.](/recursos/plantillas#registros-biologicos)
-* [Explora registros biológicos en el Portal de Datos.](/data)
+* [Consulta el perfil Darwin Core para registros biológicos.](/recursos/plantillas#registros-biologicos)
+* [Explora los registros biológicos compartidos en el Portal de Datos.](/data)
 
 ---
 
 ### Eventos de muestreo
-Algunos conjuntos de datos pueden brindar un detalle mayor a la evidencia de la presencia de una especie en un lugar y fecha determinados, permitiendo evaluar la composición de las comunidades de grupos taxonómicos más amplios, o incluso la abundancia de especies en diferentes lugares y tiempos. Los eventos de muestreo normalmente se generan a través de protocolos estandarizados de medición y monitoreo de la biodiversidad como parcelas de vegetación, censos de aves, muestreos marinos o de agua dulce, entre otros.
+Algunos conjuntos de datos pueden brindar un detalle mayor a la presencia de una especie en un lugar y fecha determinados, permitiendo evaluar la composición de las comunidades de grupos taxonómicos más amplios, o incluso la abundancia de especies en diferentes lugares y tiempos. Los eventos de muestreo normalmente se generan a partir de protocolos estandarizados de medición y monitoreo de la biodiversidad como parcelas de vegetación, fototrampeo, censos de aves, muestreos marinos o de agua dulce, entre otros.
 
 Al indicar los métodos, número de eventos, y la abundancia relativa de las especies registradas en un muestreo, se pueden comparar los datos recolectados usando los mismos protocolos en diferentes épocas y lugares (monitoreo). En algunos casos, estos procesos permiten inferir la ausencia de ciertas especies en lugares determinados.
 
 * [Conoce más sobre los eventos de muestreo.](https://www.gbif.org/es/sampling-event-data){:target="_blank"}
-* [Consulta el perfil DwC para eventos de muestreo.](/recursos/plantillas#eventos-de-muestreo)
-* [Explora eventos de muestreo en el Portal de Datos.](/data)
+* [Consulta el perfil Darwin Core para eventos de muestreo.](/recursos/plantillas#eventos-de-muestreo)
+* [Explora los eventos de muestreo compartidos en el Portal de Datos.](/data)
 
 ---
 
 ### Listas de especies
 
-Los conjuntos de datos sobre biodiversidad también pueden ser listas o catálogos de nombres científicos. Las listas de especies generalmente tienen información categorizada a nivel taxonómico, geográfico y/o temático, pero también pueden incluir otros detalles como nombres comunes, referencias de literatura, especímenes de referencia en colecciones biológicas, estados de amenaza, entre otros.
+Los conjuntos de datos sobre biodiversidad también pueden ser listas o catálogos de nombres científicos. Las listas de especies generalmente tienen información categorizada a nivel taxonómico, junto con información geográfica o temática. También pueden incluir otros detalles como nombres comunes, referencias de literatura, especímenes de referencia en colecciones biológicas, estados de amenaza, entre otros.
 
 Las listas de especies funcionan como un resumen rápido o línea base de especies (u otros taxones) en un contexto determinado.
 
@@ -88,3 +86,5 @@ También pueden ayudar a evaluar la importancia relativa y el valor de las colec
 
 * [Consulta el perfil GMP para metadatos.](https://github.com/gbif/ipt/wiki/IPT2ManualManageResources.wiki#metadata){:target="_blank"}
 
+
+Conoce más sobre los datos que se pueden publicar a través del SiB Colombia en el [canal de Youtube](https://www.youtube.com/watch?v=_f4gGfIBN3U&t=2s){:target="_blank"}.
