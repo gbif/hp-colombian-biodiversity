@@ -70,7 +70,7 @@ tarjetasBioCifras:
     - title: Tolima
       description: |      # required
         El departamento que fluye con el río Magdalena, pronto conocerás más sobre su biodiversidad.
-      background: https://live.staticflickr.com/4113/5054713502_afaf128703.jpg # Fuente https://flic.kr/p/byv8T6
+      background: https://live.staticflickr.com/5182/5657844895_ac0225de21_z.jpg # Fuente https://flic.kr/p/byv8T6
       cta:
       - text: Próximamente
         href: 
