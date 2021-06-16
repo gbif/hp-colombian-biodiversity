@@ -1,7 +1,7 @@
 ---
 title:  "¡Participa en el Reto Naturalista Urbano 2019!"
 date:   2019-04-10
-categories: ["Biodiversidad", "Reto Naturalista", "Especies", "Bogotá", "Medellín", "2019"]
+categories: ["iNaturalist", "Bogotá", "Medellín", "Ciencia participativa", "2019"]
 background: /assets/images/noticias_eventos/CNC2019-sib-1000x1000.png
 ---
 
@@ -19,8 +19,8 @@ Participar es muy fácil, sólo se necesita tener un celular o una cámara, toma
 
 ## Descarga la App:
 
- - Apple store
- - Google play
+ - [Apple store](https://itunes.apple.com/us/app/inaturalist/id421397028?mt=8)
+ - [Google play](https://play.google.com/store/apps/details?id=org.inaturalist.android)
 
 ## ¿Quieres formar parte del grupo de identificadores?
 
@@ -75,24 +75,30 @@ Si eres usuario de Naturalista Colombia (iNaturalist) y cuentas con experiencia 
 
 # Medellín
 
+<iframe src="https://www.google.com/maps/d/embed?mid=12AInNN9cebuZBSQoZx5Rh9PDEN2sr04u" width="640" height="480" style="pointer-events: none;"></iframe>
+
 [Click para ver en Google maps](https://www.google.com/maps/d/u/0/viewer?mid=12AInNN9cebuZBSQoZx5Rh9PDEN2sr04u&ll=6.2805244414652925%2C-75.65120228613284&z=10){:target="_blank"}
 
 
 ## Tips para las observaciones
 
-### Nombre
-- Puedes poner un nombre general como hongo, planta, caracol, o el nombre que conozcas.
-En Naturalista participan expertos conocedores de muchas especies que proporcionan apoyo en la red para identificar las fotografías.
-### Fecha
-- Muchas cámaras ponen automáticamente en la fotografía la fecha y algunas también el lugar, pero también los puedes poner manualmente en el sitio web. Recuerda: sólo son válidas las observaciones hechas entre el 26 y 29 de abril.
-Puedes subir fotos adicionales de un organismo en otros ángulos pero de la misma fecha. Si tomas una foto en otro día, deberás subirla como nueva observación.
-### Lugar
-- Para encontrar la ubicación del sitio donde tomaste la foto, utiliza Google Maps. Lo puedes hacer manualmente o colocando un nombre de un lugar cercano y haz zoom hasta acercar el mapa al sitio (en la aplicación del celular).
-Algunas personas pueden no querer enseñar el sitio preciso de su hallazgo, para esto hay tres opciones de privacidad:
- - Abierta: todo el mundo puede ver las coordenadas.
- - Oscurecida: las coordenadas son un punto al azar dentro de un cuadrado de 0.2° x 0.2°, o aproximadamente 22 km2 alrededor de las coordenadas            verdaderas. Estas solamente son visibles al usuario que ingresó la fotografía y a los curadores de los proyectos a los que se añadió la observación.
- - Privadas: las coordenadas están completamente ocultas al público. Solo el usuario que subió la fotografía y los curadores las pueden ver.
-   *Información adaptada de [Naturalista México](https://www.naturalista.mx){:target="_blank"}.
+- **Nombre**
+  Puedes poner un nombre general como hongo, planta, caracol, o el nombre que conozcas.
+  En Naturalista participan expertos conocedores de muchas especies que proporcionan apoyo en la red para identificar las fotografías.
+
+- **Fecha**
+  Muchas cámaras ponen automáticamente en la fotografía la fecha y algunas también el lugar, pero también los puedes poner manualmente en el sitio web.   Recuerda: sólo son válidas las observaciones hechas entre el 26 y 29 de abril.
+  Puedes subir fotos adicionales de un organismo en otros ángulos pero de la misma fecha. Si tomas una foto en otro día, deberás subirla como nueva       observación.
+
+- **Lugar**
+  Para encontrar la ubicación del sitio donde tomaste la foto, utiliza Google Maps. Lo puedes hacer manualmente o colocando un nombre de un lugar cercano y haz zoom hasta acercar el mapa al sitio (en la aplicación del celular).
+  Algunas personas pueden no querer enseñar el sitio preciso de su hallazgo, para esto hay tres opciones de privacidad:
+  - **Abierta**: todo el mundo puede ver las coordenadas.
+  - **Oscurecida**: las coordenadas son un punto al azar dentro de un cuadrado de 0.2° x 0.2°, o aproximadamente 22 km2 alrededor de las coordenadas verdaderas.
+    Estas solamente son visibles al usuario que ingresó la fotografía y a los curadores de los proyectos a los que se añadió la observación.
+  - **Privadas**: las coordenadas están completamente ocultas al público. Solo el usuario que subió la fotografía y los curadores las pueden ver.
+    
+    *Información adaptada de [Naturalista México](https://www.naturalista.mx){:target="_blank"}*.
 
 ## Buenas prácticas
 
