@@ -6,6 +6,7 @@ background: /assets/images/fondos_layout/O7A7140_Villegas-Velez-Felipe.jpg
 imageLicense: |
   Fotografía de: Felipe Villegas-Vélez Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
 height: 50vh
+toc: true
 ---
 
 
@@ -31,7 +32,7 @@ height: 50vh
 | | | | | | |
 
 
-# Centros/Institutos de Investigación
+# Centros e institutos de investigación
 
 |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/agrosavia.jpg)](https://www.gbif.org/publisher/488f6b87-5688-4c9a-928c-2d5355054b01){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/bios.jpg)](http://www.gbif.org/publisher/56d218dd-b62e-4ee5-bde6-15f013ad99bb){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/cenicafe.jpg)](https://www.gbif.org/publisher/da583013-8a1b-4570-b0e4-c7cb25b2e7bf){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/cenipalma.jpg)](https://www.gbif.org/publisher/23fe61fe-622d-4523-ae45-8c931f22c534){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/ciat.jpg)](https://www.gbif.org/publisher/fee3882f-5360-4f01-a1ca-767c48fa629c){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/cipav.jpg)](https://www.gbif.org/publisher/2e7ea925-e11c-451c-9841-0a8e85e5c5dc){:target="_blank"} |
 |---|---|---|---|---|---|
@@ -46,17 +47,11 @@ height: 50vh
 |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/cerrejon.jpg)](https://www.gbif.org/publisher/14fb9c57-68a5-4870-b434-5355df7a9c3c){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/cerromatoso.jpg)](https://www.gbif.org/publisher/1a4f4e64-eb3d-42c3-a359-1be3869b3a20){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/ciprogress.jpg)](https://www.gbif.org/publisher/03a8bc52-9c2e-4aee-8dd7-9b4d279e4960){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/comfenalco.jpg)](http://www.gbif.org/publisher/0c0c7309-6a47-4760-9f5c-a48f6d354f75){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/cunaguaro.jpg)](https://www.gbif.org/publisher/c5245889-c63d-48fa-ae4b-90ddd74f1d2d){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/ipt/enel.jpg)](https://www.gbif.org/publisher/f442f96e-2017-4cf5-b19f-1f3320ae7577){:target="_blank"} |
 |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/ipt/epm.jpg)](https://www.gbif.org/publisher/d42b7e5d-a3e5-4fc2-8b3d-105336d70898){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/geb.jpg)](https://www.gbif.org/publisher/2977895d-3ce2-4fb9-b62e-a775c8fd9304){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/hatovial.jpg)](https://www.gbif.org/publisher/90d2e455-c279-4bf1-ba87-806495641e18){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/holcim.jpg)](https://www.gbif.org/publisher/5e08abdd-46a0-45ec-a2e5-93348975b11d){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/inerco.jpg)](https://www.gbif.org/publisher/9a21807b-b9c5-4071-b393-764f3cd58abc){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/isagen.jpg)](https://www.gbif.org/publisher/04ce62dd-30ec-4d98-8b30-b09cafc3ac38){:target="_blank"} |
 |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/lapintada.jpg)](https://www.gbif.org/publisher/db41c5c6-d34a-4d27-8ac9-0c8d085393f7){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/moam.jpg)](https://www.gbif.org/publisher/9a21807b-b9c5-4071-b393-764f3cd58abc){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/bicentenario.jpg)](http://www.gbif.org/publisher/c3da1f49-b2c8-4751-b72f-28855546ec4c){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/promigas.jpg)](https://www.gbif.org/publisher/dbc2ab56-d499-403c-8db5-c1a49cd0b75f){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/stratos.jpg)](https://www.gbif.org/publisher/2c542862-b9dd-40fc-8260-fb434997efa7){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/terrasos.jpg)](https://www.gbif.org/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825){:target="_blank"} |
-| | | | | | |
-
-
-# Gremios Empresariales
-
 |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/fnc.jpg)](https://www.gbif.org/publisher/fe602f47-b553-4291-b6e5-197b9837e167){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/fedecacao.jpg)](https://www.gbif.org/publisher/37c1c493-782c-4f53-914d-b1f66cdcf61c){:target="_blank"}  |  [![](/comunidad/imagenes/W_Logo500x500.jpg)](){:target="_blank"}  |  [![](/comunidad/imagenes/W_Logo500x500.jpg)](){:target="_blank"}  |  [![](/comunidad/imagenes/W_Logo500x500.jpg)](){:target="_blank"}  |  [![](/comunidad/imagenes/W_Logo500x500.jpg)](){:target="_blank"} |
-|---|---|---|---|---|---|
 | | | | | | |
 
 
-# Entidades Administrativas Territoriales
+# Entidades administrativas territoriales
 
 |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/sanandres.jpg)](https://www.gbif.org/publisher/c0fa6fbb-cc9b-423b-b801-c1bb28d6467d){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/jbb.jpg)](http://www.gbif.org/publisher/eace4687-50e8-4f9a-829b-29ff8ff1fa8b){:target="_blank"}  |  [![](/comunidad/imagenes/W_Logo500x500.jpg)](){:target="_blank"}  |  [![](/comunidad/imagenes/W_Logo500x500.jpg)](){:target="_blank"}  |  [![](/comunidad/imagenes/W_Logo500x500.jpg)](){:target="_blank"}  |  [![](/comunidad/imagenes/W_Logo500x500.jpg)](){:target="_blank"} |
 |---|---|---|---|---|---|
@@ -76,7 +71,7 @@ height: 50vh
 |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/selva.jpg)](https://www.gbif.org/publisher/567cdb5e-5bb3-42e1-ae07-ffa6fc60b56e){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/wcs.jpg)](https://www.gbif.org/publisher/0c23482f-89f3-4efa-b6ed-7b25dadde4fc){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/yoluka.jpg)](https://www.gbif.org/publisher/c0252e99-c6d0-449e-8106-508be14c34fa){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/zoobaq.jpg)](http://www.gbif.org/publisher/c3809434-1211-4b43-b20c-bd940780d30e){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/wwf.jpg)](https://www.gbif.org/publisher/feef46fb-6287-41f4-b3db-5f9dff600ab8){:target="_blank"} | |
 | | | | | | |
 
-# Redes/Iniciativas
+# Redes e iniciativas
 
 |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/abo.jpg)](http://www.gbif.org/publisher/8251fe14-04e1-483f-9ae6-46cf83ff76fa){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/acictios.jpg)](http://www.gbif.org/publisher/adaeb73b-8f3b-433c-ab2e-a8ca68a7c7ea){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/aco.jpg)](https://www.gbif.org/publisher/3674c091-7058-4d7f-9b07-6dc163f1accf){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/ipt/acz.jpg)](https://www.gbif.org/publisher/3ecddc17-a081-4e85-92c3-d8e31716342c){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/apc.jpg)](http://www.gbif.org/publisher/76513b28-548d-480a-8859-bd7f45f8724b){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coleoptera.jpg)](https://www.gbif.org/publisher/2c39be5c-c11e-46d0-bcb4-552f2072d19f){:target="_blank"} |
 |---|---|---|---|---|---|
