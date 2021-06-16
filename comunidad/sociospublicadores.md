@@ -24,7 +24,7 @@ toc: true
 
 
 
-# Autoridades Ambientales
+# Autoridades ambientales
 
 |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/cam.jpg)](https://www.gbif.org/publisher/01557d7b-fe92-442a-915c-cc4709eaed23){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/car.jpg)](https://www.gbif.org/publisher/47380c8a-0edd-4036-b1bc-d852cba8232f){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/carder.jpg)](https://www.gbif.org/publisher/530adb60-b968-4804-8571-4e8f74b9539d){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/cdmb.jpg)](https://www.gbif.org/publisher/7a079928-aee9-418a-b083-6152d01c78d6){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/coralina.jpg)](https://www.gbif.org/publisher/73b7431a-7a64-47f6-9c1b-a030e1a67fa4){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/corantioquia.jpg)](https://www.gbif.org/publisher/15b278a8-1356-4f7b-ba32-3c733c3d0aac){:target="_blank"} |
 |---|---|---|---|---|---|
