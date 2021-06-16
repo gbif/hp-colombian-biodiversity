@@ -10,14 +10,14 @@ imageLicense: |
    _Florae Columbiae_ Archivo de: Biodiversity Heritage Library vía [Flickr](https://www.flickr.com/photos/biodivlibrary/8205952042/in/album-72157632062538373/)
 height: 50vh
 parallax: true
-overlayColor: "#ffffffbb" 
+overlayColor: "#ffffff" 
 hasTextShadow: true
 hasBlackText: true
 composition:
   - type: heroImage # the block type
-  - type: pageMarkdown
   - data: usodatos.stats
     type: stats
+  - type: pageMarkdown
   - data: usodatos.tarjetasUso
     type: features # the block type
 
