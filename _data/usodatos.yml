@@ -1,4 +1,4 @@
-
+gas
 landinguso:
   title: Uso de datos
   description: |      # required
@@ -13,7 +13,7 @@ stats:
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
     - title: 1.358
       description: Descargas de datos
-      background: /comunidad/usodedatos/images/Citacion.png
+      background: /comunidad/usodedatos/images/Descargas.png
       href: /data
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
     - title: 143
