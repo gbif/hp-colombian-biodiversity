@@ -14,7 +14,7 @@ tarjetasUso:
     
   features:
       #preTitle:  Editorial # optional
-    - title: Respositorio
+    - title: Informes Nacionales
       description: |      # required
        Informes y reportes de la biodiversidad Nacional generados a partir de los datos publicados a través del SiB Colombia.
       # img required
@@ -26,11 +26,11 @@ tarjetasUso:
       
       
      #preTitle: "Uso en cifras"  # optional
-    - title: Uso en cifras  # required
+    - title: Métricas de uso # required
       description: |      # required
        Conoce el uso que de le de a los datos publicados a través del SiB Colombia.
       background: /assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg
       cta:
-      - text: Explora
-        href:  /comunidad/formacion/historico
+      - text: ¡Muy Pronto!
+        href:  
         isPrimary: true
