@@ -27,4 +27,4 @@ composition:
 
 Anualmente El Equipo Coordinador del SiB Colombia consolida las cifras sobre el uso de los datos. Durante el 2020 se consolidaron las siguientes cifras sobre descarga, consultas y citación a los datos publicados a través del SiB Colombia. 
 
-Las consultas recibidas por el SiB Colombia se pueden clasificar en 3 grupos de acuerdo a su uso, Investigación, Educación y Toma de decisiones. Las siguientes cifras corresponden al porcentaje de consultas respecto al total de consultas(143) resueltas por el EC-SiB durante el 2020.
+Las consultas recibidas por el SiB Colombia se pueden clasificar en 3 grupos de acuerdo a su uso, investigación, educación y toma de decisiones. Las siguientes cifras corresponden al porcentaje de consultas respecto al total de consultas(143) resueltas por el EC-SiB durante el 2020.
