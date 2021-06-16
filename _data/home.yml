@@ -54,10 +54,10 @@ splitCicloFormacion:
   # img required
   background: /assets/images/CFhome-1.jpg
   overlayColor: "#000033"
-  href: https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion
+  href: /comunidad/formacion
   cta:
   - text: Aprender
-    href: https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion
+    href: /comunidad/formacion
     isPrimary: true
  
 splitActividadPublicacion:
