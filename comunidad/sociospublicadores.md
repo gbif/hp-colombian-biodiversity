@@ -31,6 +31,22 @@ height: 50vh
 |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/pnn.jpg)](http://www.gbif.org/publisher/ab13adb9-ce23-444d-87c9-ce41f03ef2b3){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/sda.jpg)](http://www.gbif.org/publisher/e70c4151-0d1a-414d-b70e-e87ac1e812b7){:target="_blank"} | | | | |
 | | | | | | |
 
+
+
+
+# Centros/Institutos de Investigación
+
+|  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/agrosavia.jpg)](https://www.gbif.org/publisher/488f6b87-5688-4c9a-928c-2d5355054b01){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/bios.jpg)](http://www.gbif.org/publisher/56d218dd-b62e-4ee5-bde6-15f013ad99bb){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/cenicafe.jpg)](https://www.gbif.org/publisher/da583013-8a1b-4570-b0e4-c7cb25b2e7bf){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/cenipalma.jpg)](https://www.gbif.org/publisher/23fe61fe-622d-4523-ae45-8c931f22c534){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/ciat.jpg)](https://www.gbif.org/publisher/fee3882f-5360-4f01-a1ca-767c48fa629c){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/cipav.jpg)](https://www.gbif.org/publisher/2e7ea925-e11c-451c-9841-0a8e85e5c5dc){:target="_blank"} |
+|---|---|---|---|---|---|
+|  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/corpogen.jpg)](https://www.gbif.org/publisher/2730ae30-29d6-4aa2-99ee-26f483fa718b){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/iavh.jpg)](http://www.gbif.org/publisher/2a7e3080-28a9-11dd-97cd-b8a03c50a862){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/icmt.jpg)](http://www.gbif.org/publisher/831c8ca0-3806-4796-b8a3-fb5f15813749){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/iiap.jpg)](https://www.gbif.org/publisher/e1050db2-9faf-4d72-b860-295debaf9d2a){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/inciva.jpg)](http://www.gbif.org/publisher/a7e6d0ba-9e3d-4be2-b3ac-2c5e812e0a31){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/ins.jpg)](https://www.gbif.org/publisher/b8b274e0-3216-48b8-afea-5616ec326ce1){:target="_blank"} |
+|  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/invemar.jpg)](https://www.gbif.org/publisher/f072f648-b8a4-47a0-9e1c-89d790645b5a){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/sinchi.jpg)](https://www.gbif.org/publisher/9d77fdeb-100f-4b29-98ad-4effdd824457){:target="_blank"} |
+
+| | | | | | |
+
+
+
+
+
 # otras peuebas
 
 |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/lasalle.jpg)](https://www.gbif.org/publisher/478a9e81-e716-42dc-a68d-03487953a32e){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udenar.jpg)](https://www.gbif.org/publisher/58c7e325-82fc-446d-9406-851b4d357db7){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udea.jpg)](http://www.gbif.org/publisher/cccff716-2694-4209-9f9e-2f7a484465a0){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uniandes.jpg)](https://www.gbif.org/publisher/77c64839-4c99-4a40-beb3-cd16afc23540){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/univalle.jpg)](https://www.gbif.org/publisher/85be57ed-f187-49c9-b7ff-eaa622e06217){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unimagdalena.jpg)](https://www.gbif.org/publisher/30ff48bd-4dd1-429d-a5a5-348c8e5fbfb1){:target="_blank"} |
