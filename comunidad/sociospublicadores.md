@@ -51,6 +51,21 @@ height: 50vh
 | | | | | | |
 
 
+# Gremios Empresariales
+
+|  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/fnc.jpg)](https://www.gbif.org/publisher/fe602f47-b553-4291-b6e5-197b9837e167){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/fedecacao.jpg)](https://www.gbif.org/publisher/37c1c493-782c-4f53-914d-b1f66cdcf61c){:target="_blank"}  |  [![](/comunidad/imagenes/W_Logo500x500.jpg)](){:target="_blank"}  |  [![](/comunidad/imagenes/W_Logo500x500.jpg)](){:target="_blank"}  |  [![](/comunidad/imagenes/W_Logo500x500.jpg)](){:target="_blank"}  |  [![](/comunidad/imagenes/W_Logo500x500.jpg)](){:target="_blank"} |
+|---|---|---|---|---|---|
+| | | | | | |
+
+
+# Entidades Administrativas Territoriales
+
+|  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/sanandres.jpg)](https://www.gbif.org/publisher/c0fa6fbb-cc9b-423b-b801-c1bb28d6467d){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/jbb.jpg)](http://www.gbif.org/publisher/eace4687-50e8-4f9a-829b-29ff8ff1fa8b){:target="_blank"}  |  [![](/comunidad/imagenes/W_Logo500x500.jpg)](){:target="_blank"}  |  [![](/comunidad/imagenes/W_Logo500x500.jpg)](){:target="_blank"}  |  [![](/comunidad/imagenes/W_Logo500x500.jpg)](){:target="_blank"}  |  [![](/comunidad/imagenes/W_Logo500x500.jpg)](){:target="_blank"} |
+|---|---|---|---|---|---|
+| | | | | | |
+
+
+
 # otras peuebas
 
 |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/lasalle.jpg)](https://www.gbif.org/publisher/478a9e81-e716-42dc-a68d-03487953a32e){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udenar.jpg)](https://www.gbif.org/publisher/58c7e325-82fc-446d-9406-851b4d357db7){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udea.jpg)](http://www.gbif.org/publisher/cccff716-2694-4209-9f9e-2f7a484465a0){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uniandes.jpg)](https://www.gbif.org/publisher/77c64839-4c99-4a40-beb3-cd16afc23540){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/univalle.jpg)](https://www.gbif.org/publisher/85be57ed-f187-49c9-b7ff-eaa622e06217){:target="_blank"}  |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unimagdalena.jpg)](https://www.gbif.org/publisher/30ff48bd-4dd1-429d-a5a5-348c8e5fbfb1){:target="_blank"} |
