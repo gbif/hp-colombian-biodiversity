@@ -131,5 +131,5 @@ Las propuestas completas serán sometidas al mismo proceso de las propuestas ini
 
 ![My helpful screenshot](/assets/images/noticias_eventos/7995_union_europea-300x200.jpg)
 
-Este programa es financiado por la Unión Europea. 
-Nota original en [GBIF.org](GBIF.org){:target="_blank"}
+Este programa es financiado por la [Unión Europea](http://www.europa.eu/){:target="_blank"}.
+Nota original en [GBIF.org](https://www.gbif.org/news/1x6rLHzpqkBxSOM1IY7AK5/bid-call-for-proposals-caribbean-2020#eligibility){:target="_blank"}
