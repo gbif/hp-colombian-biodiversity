@@ -31,8 +31,8 @@ height: 50vh
 
 
 
-# Prueba 4, espacio al final de cierre tabla
-| [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/iavh.jpg)](http://www.gbif.org/publisher/2a7e3080-28a9-11dd-97cd-b8a03c50a862){:target="_blank"} | [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/abc.jpg)](https://www.gbif.org/publisher/c803f6f5-2c6a-4b41-8c15-768d48ef1c8c){:target="_blank"} |
+# Prueba 4, espacio al final de cierre tabla luego sin espacio
+| [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/iavh.jpg)](http://www.gbif.org/publisher/2a7e3080-28a9-11dd-97cd-b8a03c50a862){:target="_blank"} | [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/abc.jpg)](https://www.gbif.org/publisher/c803f6f5-2c6a-4b41-8c15-768d48ef1c8c){:target="_blank"}|
 |---|---|
 | | |
 
