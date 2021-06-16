@@ -8,7 +8,7 @@ landinguso:
   hasWhiteText: false
 
 stats1:
-  background: "#f5f3f0"
+  background: "#ffffff55"
   features:
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
     - title: 1.358
