@@ -10,11 +10,6 @@ landinguso:
 stats:
   background: "#ffffff55"
   features:
-      # we can also use the graphql API to allow richer queries
-    - title: 19.432
-      description: Citaciones acumuladas
-      background: /comunidad/usodedatos/images/Citacion.png
-      href: /data
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
     - title: 1.358
       description: Descargas de datos
@@ -39,7 +34,11 @@ stats:
       description: Toma de decisiones
       background: /comunidad/usodedatos/images/Decisiones.png
       href: https://www.gbif.org/dataset/search?publishing_country=CO
-
+      # we can also use the graphql API to allow richer queries
+    - title: 19.432
+      description: Citaciones acumuladas
+      background: /comunidad/usodedatos/images/Citacion.png
+      href: /data
 
 #cards
 tarjetasUso:
