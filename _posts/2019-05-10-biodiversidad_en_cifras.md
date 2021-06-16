@@ -28,14 +28,22 @@ Te recomendamos revisar la nota [‘Sobre el recuento de especies en GBIF’](ht
 ## Y entonces, ¿qué quiere decir que hayan 51.330 especies registradas?
 Esta cifra refleja cómo vamos en el proceso de consolidar el inventario sobre la biodiversidad del país, y al mismo tiempo, nos motiva a seguir trabajando para que la información existente sea accesible para todos. Es también un reconocimiento al aporte de cientos de organizaciones y personas que le apuestan a la construcción colectiva de conocimiento a través de un modelo abierto y participativo.
 
-
 <div class="box">
   <b>Especies registradas</b>
+  
   Es la cantidad de especies únicas con nombre taxonómico válido y aceptado, que tienen por lo menos un dato (observación o espécimen preservado) publicado a través del SiB Colombia. 
 </div>
 
 
- ## ¿Existe una cifra exacta sobre el número de especies estimadas en Colombia?
+<form class="box">
+  <div class="field">
+    <label class="label">Especies registradas</label>
+    <p>Es la cantidad de especies únicas con nombre taxonómico válido y aceptado, que tienen por lo menos un dato (observación o espécimen preservado) publicado a través del SiB Colombia.</p>
+  </div>
+</form>
+
+
+## ¿Existe una cifra exacta sobre el número de especies estimadas en Colombia?
 
 Parece sencillo, pero la respuesta es no. Aunque es de gran interés conocer el número exacto, los avances científicos solo han llegado a estimar un número aproximado de las especies para Colombia. Existen varias limitaciones para realizar semejante tarea con rigurosidad y precisión, entre ellas, quizás la más evidente, que la mayoría de las especies aún no se han descrito; y que los métodos de estimación propuestos a la fecha son métodos indirectos que no han sido ampliamente aceptados por la comunidad científica (Mora *et. al*, 2011, López *et. al*, 2014).
 
@@ -45,25 +53,25 @@ Aunque no se conozca una cifra sobre el número de especies estimadas a nivel na
 
 Para aproximarse con más exactitud al recuento de la biodiversidad del país, estos aportes son fundamentales. Una razón más para apostarle a que la comunidad de expertos continúe publicando nuevas listas de referencia sobre más grupos biológicos de nuestro país.
 
- ## Novedades y cambios en la versión 2019 de Biodiversidad en Cifras
+## Novedades y cambios en la versión 2019 de Biodiversidad en Cifras
  
 En esta nueva versión le hemos dado más protagonismo al número de **especies registradas**, ya que son estas las que nos dan un diagnóstico sobre qué tan bien están representadas las especies en los datos abiertos sobre biodiversidad disponibles en el SiB Colombia.
 
- #### Versión 2018 (Cifras de especies estimadas):
+#### Versión 2018 (Cifras de especies estimadas):
 
 ![My helpful screenshot](/assets/images/noticias_eventos/biodiversidad_en_cifras_2019/Captura-de-pantalla-2019-05-10-a-las-4.18.39-PM.png)
 
- #### Versión 2019 (Cifras de especies estimadas):
+#### Versión 2019 (Cifras de especies estimadas):
 
 ![My helpful screenshot](/assets/images/noticias_eventos/biodiversidad_en_cifras_2019/Captura-de-pantalla-2019-05-10-a-las-4.19.17-PM.png)
 
 Asimismo, en el detalle infográfico para cada grupo biológico, la cifra destacada en la gráfica general ahora es la cifra de especies registradas. Ahora la cifra estimada, para los grupos biológicos que no cuentan con listas de referencia publicadas a través del SiB Colombia, se incluye en la parte inferior de la primera gráfica del detalle de cada grupo biológico.
 
- #### Versión 2018
+#### Versión 2018
 
 ![My helpful screenshot](/assets/images/noticias_eventos/biodiversidad_en_cifras_2019/Captura-de-pantalla-2019-05-10-a-las-4.21.26-PM.png)
 
- #### Versión 2019
+#### Versión 2019
 
 ![My helpful screenshot](/assets/images/noticias_eventos/biodiversidad_en_cifras_2019/Captura-de-pantalla-2019-05-10-a-las-4.21.40-PM.png)
 
