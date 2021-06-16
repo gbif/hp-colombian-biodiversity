@@ -20,7 +20,7 @@ composition:
 
 ---
 
-Estas cifras son una aproximación a la riqueza conocida que tiene nuestro país y está en constante actualización. Aquí se presenta de manera sintetizada el estado del conocimiento de la biodiversidad del país, a partir de los datos disponibles a través del SiB Colombia y fuentes secundarias.
+Aquí se presenta de manera sintetizada el estado del conocimiento de la biodiversidad del país, a partir de los datos disponibles a través del SiB Colombia y fuentes secundarias. Estas cifras son una aproximación a la riqueza conocida que tiene Colombia y están en constante actualización. 
 
-Aquí puedes consultar cifras por grupos biológicos, áreas geográficas, y temáticas de conservación, uso y manejo a nivel nacional, junto con algunas cifras departamentales más detalladas producto de un ejercicio de regionalización que está en construcción.
+Puedes explorar cifras por áreas geográficas, grupos biológicos y temáticas de conservación, uso y manejo a nivel nacional; junto con algunas cifras departamentales más detalladas producto de un ejercicio de regionalización que está en construcción.
 
