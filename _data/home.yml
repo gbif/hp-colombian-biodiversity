@@ -41,7 +41,7 @@ bannerAndi:
   hasWhiteText: true
   cta:                # optional
   - text: Consultar
-    href: https://hp-colombian-biodiversity.gbif-staging.org/acercade/Aliados/ANDI
+    href: /acercade/aliados/andi
     isPrimary: true
     
 
