@@ -1,7 +1,7 @@
 ---
 layout: compose
 klass: formacion # necesario?
-permalink: /comunidad/formacion
+permalink: /comunidad/gruposdeinteres
 title: Grupos de interés y trabajo
 description: |
    Descubre qué están haciendo los Grupos de Interés y Trabajo, y cómo puedes unirte.
@@ -16,11 +16,24 @@ hasBlackText: true
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
-  - data: formacion.cfv2021
+  - data: gruposdeintres.cfv2021
     type: floatingText # the block type
-  - data: formacion.tarjetasFormacion
+  - data: gruposdeinteres.tarjetasFormacion
     type: features # the block type
 
 ---
 
-Tradicionalmente el Equipo Coordinador del SiB Colombia ha facilitado talleres presenciales para la publicación y gestión de los datos sobre biodiversdidad, la gran demanda de estos talleres y el alto interés de la comunidad nos ha motivado a generar una estrategía de formación con un fuerte componente virtual para llegar a una mayor cantidad de personas y regiones del país. Así mismo, se han ampliado las temáticas de formación para cubrir los temas de interes de nuestra red.
+El SiB Colombia es una red colaborativa, y a través de sus Grupos de Interés y Trabajo aborda diferentes desafíos relacionados con la gestión de datos sobre biodiversidad para apoyar la investigación y la toma de decisiones.
+
+Cualquier persona puede proponer o unirse a un Grupo de Interés o Trabajo, manifestando su apoyo a los principios del SiB Colombia.
+
+
+# Grupos de Interés y Grupos de Trabajo: ¿Cuál es la diferencia?
+
+Un Grupo de Interés provee una base para discutir problemas, metas, estrategias, métodos y la aplicación de tecnologías. Se crea un Grupo de Trabajo dentro del Grupo de Interés para desarrollar un producto específico dentro de un período de tiempo determinado. Un Grupo de Interés también es responsable de mantener los productos de sus Grupos de Trabajo.
+
++ Grupos de Interés (GI)
+Los grupos de interés son abiertos en términos de tiempo. Se enfocan en un tema particular de interés para el SiB Colombia. Los grupos de interés pueden identificar trabajos específicos y crear un grupo de trabajo para desarrollarlos.
+
++ Grupos de Trabajo (GT)
+Los grupos de trabajo son a corto plazo y se crean para desarrollar una tarea particular en el marco de los ejes de trabajo del SiB Colombia y las actividades principales de su plan estratégico. Su creación se deriva de la existencia previa de un grupo de interés.
