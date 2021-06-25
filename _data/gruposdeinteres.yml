@@ -22,9 +22,9 @@ tarjetasFormacion:
     
   features:
       #preTitle:  Formación # optional
-    - title: Laboratorios
+    - title: Atribución y reconocimiento
       description: |      # required
-       Los laboratorios de datos te ayudarán a afianzar tus habilidades en el manejo y publicación de datos a través de SiB Colombia.
+       Grupo de interés
       # img required
       background: /comunidad/formacion/images/working_nounproject.jpg
       cta:
@@ -34,9 +34,9 @@ tarjetasFormacion:
 
       
      #preTitle: Formación # optional
-    - title: "Programa de pasantías"
+    - title: Calidad de datos
       description: |      # required
-        Este programa busca formar a futuros profesionales en informática de la biodiversidad, visualización y divulgación científica.
+       Grupo de interés
       background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
       cta:
       - text: Programa
@@ -48,11 +48,47 @@ tarjetasFormacion:
       
       
      #preTitle: "Histórico"  # optional
-    - title: Material histórico  # required
+    - title: Ciencia articipativa  # required
       description: |      # required
-       Conoce los ciclos de formación y talleres históricos facilitados por el Equipo Coordinador del SiB Colombia desde el 2014.
+       Grupo de interés
       background: /assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg
       cta:
       - text: LLévame al pasado
         href:  /comunidad/formacion/historico
         isPrimary: true
+        
+      #preTitle:  Formación # optional
+    - title: Colecciones Biológicas
+      description: |      # required
+       Grupo de interés
+      # img required
+      background: /comunidad/formacion/images/working_nounproject.jpg
+      cta:
+      - text: Aprender
+        href: /formacion/laboratorios
+        isPrimary: true
+
+      
+      #preTitle: Formación # optional
+    - title: Datos de monitoreo
+      description: |      # required
+       Grupo de interés
+      background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
+      cta:
+      - text: Programa
+        href: /comunidad/formacion/programapasantias
+        isPrimary: true
+      - text: Oportunidades
+        href: https://sibcolombia.net/pasantias-2021-2/#1616608221972-ea592b95-1b13/data
+        
+     
+      #preTitle: "Histórico"  # optional
+    - title: Datos moleculares  # required
+      description: |      # required
+       Grupo de interés
+      background: /assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg
+      cta:
+      - text: LLévame al pasado
+        href:  /comunidad/formacion/historico
+        isPrimary: true
+
