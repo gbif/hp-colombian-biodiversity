@@ -2,9 +2,9 @@
 layout: compose
 klass: usodatos # necesario?
 permalink: /comunidad/usodedatos
-title: Uso de datos
+title: Grupos de interés y trabajo
 description: |
-   El SiB Colombia facilita datos e información para satisfacer las necesidades en procesos de investigación, educación y toma de decisiones. En esta sección El Equipo Coordinador da los primeros pasos para consolidar el uso de datos sobre biodiversidad.
+   Descubre qué están haciendo los Grupos de Interés y Trabajo, y cómo puedes unirte.
 background: /assets/images/landing_page/mapa_home.png #
 imageLicense: |
    _Florae Columbiae_ Archivo de: Biodiversity Heritage Library vía [Flickr](https://www.flickr.com/photos/biodivlibrary/8205952042/in/album-72157632062538373/)
