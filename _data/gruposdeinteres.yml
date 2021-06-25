@@ -8,10 +8,10 @@ cfv2021:
   overlayColor: "#E4EEE0" #"#ffffffbb"
   hasWhiteText: false
   cta:
-  - text: ¿Cómo unirse o crear un Grupo de Interés?
+  - text: Grupo de Interés
     href: /comunidad/formacion/cicloformacion2020
     isPrimary: true
-  - text: ¿Cómo unirse o crear un Grupo de Trabajo?
+  - text: Grupo de Trabajo
     href: /comunidad/formacion/cicloformacion2020
     isPrimary: true
 
