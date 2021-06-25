@@ -1,11 +1,11 @@
 ---
 layout: compose
-klass: usodatos # necesario?
-permalink: /comunidad/usodedatos
+klass: formacion # necesario?
+permalink: /comunidad/formacion
 title: Grupos de interés y trabajo
 description: |
    Descubre qué están haciendo los Grupos de Interés y Trabajo, y cómo puedes unirte.
-background: /assets/images/landing_page/mapa_home.png #
+background: https://live.staticflickr.com/8483/8205952042_c840217645_h.jpg #
 imageLicense: |
    _Florae Columbiae_ Archivo de: Biodiversity Heritage Library vía [Flickr](https://www.flickr.com/photos/biodivlibrary/8205952042/in/album-72157632062538373/)
 height: 50vh
@@ -16,15 +16,11 @@ hasBlackText: true
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
-  - data: usodatos.stats1
-    type: stats
-  - data: usodatos.stats2
-    type: stats
-  - data: usodatos.tarjetasUso
+  - data: formacion.cfv2021
+    type: floatingText # the block type
+  - data: formacion.tarjetasFormacion
     type: features # the block type
 
 ---
 
-Anualmente El Equipo Coordinador del SiB Colombia consolida las cifras sobre el uso de los datos. Durante el 2020 se consolidaron las siguientes cifras sobre descarga, consultas y citación a los datos publicados a través del SiB Colombia. 
-
-Las consultas recibidas por el SiB Colombia se pueden clasificar en 3 grupos de acuerdo a su uso, investigación, educación y toma de decisiones. Las siguientes cifras corresponden al porcentaje de consultas respecto al total de consultas(143) resueltas por el EC-SiB durante el 2020.
+Tradicionalmente el Equipo Coordinador del SiB Colombia ha facilitado talleres presenciales para la publicación y gestión de los datos sobre biodiversdidad, la gran demanda de estos talleres y el alto interés de la comunidad nos ha motivado a generar una estrategía de formación con un fuerte componente virtual para llegar a una mayor cantidad de personas y regiones del país. Así mismo, se han ampliado las temáticas de formación para cubrir los temas de interes de nuestra red.
