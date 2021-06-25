@@ -1,14 +1,17 @@
 #floatingText 
 
 cfv2021:
-  title: Ciclo de formación 2021
+  title: ¿Cómo crear o administrar un Grupo?
   description: |      # required
     Conoceras diferentes iniciativas, proyectos y materiales alrededor de la publicación acceso y uso de datos sobre biodiversidad.
   #background: https://live.staticflickr.com/8483/8205952042_c840217645_h.jpg
   overlayColor: "#E4EEE0" #"#ffffffbb"
   hasWhiteText: false
   cta:
-  - text: Inscríbete
+  - text: ¿Cómo unirse o crear un Grupo de Interés?
+    href: /comunidad/formacion/cicloformacion2020
+    isPrimary: true
+  - text: ¿Cómo unirse o crear un Grupo de Trabajo?
     href: /comunidad/formacion/cicloformacion2020
     isPrimary: true
 
