@@ -16,7 +16,7 @@ hasBlackText: true
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
-  - data: gruposdeintres.cfv2021
+  - data: gruposdeinteres.cfv2021
     type: floatingText # the block type
   - data: gruposdeinteres.tarjetasFormacion
     type: features # the block type
