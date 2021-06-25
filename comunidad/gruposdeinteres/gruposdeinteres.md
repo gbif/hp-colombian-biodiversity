@@ -5,7 +5,7 @@ permalink: /comunidad/gruposdeinteres
 title: Grupos de interés y trabajo
 description: |
    Descubre qué están haciendo los Grupos de Interés y Trabajo, y cómo puedes unirte.
-background: https://live.staticflickr.com/8483/8205952042_c840217645_h.jpg #
+background: https://live.staticflickr.com/4112/5214463356_6c09632765_c.jpg #
 imageLicense: |
    _Florae Columbiae_ Archivo de: Biodiversity Heritage Library vía [Flickr](https://www.flickr.com/photos/biodivlibrary/8205952042/in/album-72157632062538373/)
 height: 50vh
@@ -16,10 +16,10 @@ hasBlackText: true
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
-  - data: gruposdeinteres.cfv2021
-    type: floatingText # the block type
   - data: gruposdeinteres.tarjetasFormacion
     type: features # the block type
+  - data: gruposdeinteres.cfv2021
+    type: floatingText # the block type
 
 ---
 
