@@ -91,25 +91,25 @@ tarjetasFormacion:
       description: |      # required
        Grupo de trabajo
       background: /comunidad/gruposdeinteres/images/UsoDatos.jpg
-      href: /comunidad/gruposdeinteres/participagruposinteres
+      href: /comunidad/gruposdeinteres/participagrupostrabajo
       
       #preTitle: "Histórico"  # optional
     - title: Calidad de datos geográficos # required
       description: |      # required
        Grupo de trabajo
       background: /comunidad/gruposdeinteres/images/DatosGeograficos.jpg
-      href: /comunidad/gruposdeinteres/participagruposinteres
+      href: /comunidad/gruposdeinteres/participagrupostrabajo
       
       #preTitle: "Histórico"  # optional
     - title: Datos microbiológicos # required
       description: |      # required
        Grupo de trabajo
       background: /comunidad/gruposdeinteres/images/Microbiologia.jpg
-      href: /comunidad/gruposdeinteres/participagruposinteres
+      href: /comunidad/gruposdeinteres/participagrupostrabajo
       
       #preTitle: "Histórico"  # optional
     - title: Información de evaluación y riesgo de extinción # required
       description: |      # required
        Grupo de trabajo
       background: /comunidad/gruposdeinteres/images/Extinsion.jpg
-      href: /comunidad/gruposdeinteres/participagruposinteres
+      href: /comunidad/gruposdeinteres/participagrupostrabajo
