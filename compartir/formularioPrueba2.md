@@ -13,7 +13,7 @@ height: 70vh
 
 Esta es la oportunidad para contarle a la comunidad del SiB Colombia acerca de tu organización ¿Quién es y qué hace?
 
-<form id="test-form">
+<form name="submit-to-google-sheet">
   
     <div class="field">
       <label class="label">Nombre de la Organización</label>
@@ -37,26 +37,25 @@ Esta es la oportunidad para contarle a la comunidad del SiB Colombia acerca de t
     </div>
   
     <div class="control">
-      <button id="submit-form" class="button is-primary">Submit</button>
+      <button type="submit">Send</button>
     </div>
-  
-    <script> 
-      var $form = $('form#test-form'),
-          url = 'https://script.google.com/macros/s/AKfycbw6Uq8f1j_UC5Oe9cKI8VEX-FHST0igZ-qRWGdGuY1r6yfrQrM/exec'
-
-      $('#submit-form').on('click', function(e) {
-        e.preventDefault();
-        var jqxhr = $.ajax({
-          url: url,
-          method: "GET",
-          dataType: "json",
-          data: $form.serializeObject()
-        }).success(
-          // do something
-        );
-      })
-    </script>
 
 </form>
+
+<script src="https://wzrd.in/standalone/formdata-polyfill"></script>
+<script src="https://wzrd.in/standalone/promise-polyfill@latest"></script>
+<script src="https://wzrd.in/standalone/whatwg-fetch@latest"></script>
+
+<script>
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbwdsbfY4tzsndP0fYqr7Xb_k5CO_F87s8_lLh6wmBPivN0rCe0/exec'
+  const form = document.forms['submit-to-google-sheet']
+
+  form.addEventListener('submit', e => {
+    e.preventDefault()
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      .then(response => console.log('Success!', response))
+      .catch(error => console.error('Error!', error.message))
+  })
+</script>
 
 
