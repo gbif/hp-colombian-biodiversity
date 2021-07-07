@@ -40,4 +40,8 @@ Esta es la oportunidad para contarle a la comunidad del SiB Colombia acerca de t
       </div>
     </div>
   
+    <div>
+    <button type="submit"id="submit-form">Submit</button>
+  </div>
+  
 </form>
