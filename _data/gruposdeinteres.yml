@@ -9,10 +9,10 @@ cfv2021:
   hasWhiteText: false
   cta:
   - text: Grupo de Interés
-    href: /comunidad/formacion/cicloformacion2020
+    href: /comunidad/gruposdeinteres/participagruposinteres
     isPrimary: true
   - text: Grupo de Trabajo
-    href: /comunidad/formacion/cicloformacion2020
+    href: /comunidad/gruposdeinteres/participagrupostrabajo
     isPrimary: true
 
 #cards
@@ -27,24 +27,15 @@ tarjetasFormacion:
        Grupo de interés
       # img required
       background: /comunidad/formacion/images/working_nounproject.jpg
-      cta:
-      - text: Aprender
-        href: /formacion/laboratorios
-        isPrimary: true
-
+      href: /comunidad/gruposdeinteres/participagruposinteres
+      
       
      #preTitle: Formación # optional
     - title: Calidad de datos
       description: |      # required
        Grupo de interés
       background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
-      cta:
-      - text: Programa
-        href: /comunidad/formacion/programapasantias
-        isPrimary: true
-      - text: Oportunidades
-        href: https://sibcolombia.net/pasantias-2021-2/#1616608221972-ea592b95-1b13/data
-        
+      href: /comunidad/gruposdeinteres/participagruposinteres
       
       
      #preTitle: "Histórico"  # optional
