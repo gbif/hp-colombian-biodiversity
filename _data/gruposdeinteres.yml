@@ -26,7 +26,7 @@ tarjetasFormacion:
       description: |      # required
        Grupo de interés
       # img required
-      background: /comunidad/formacion/images/working_nounproject.jpg
+      background: /comunidad/gruposdeinteres/images/AtribucionReconocimiento.jpg
       href: /comunidad/gruposdeinteres/participagruposinteres
       
       
@@ -34,52 +34,82 @@ tarjetasFormacion:
     - title: Calidad de datos
       description: |      # required
        Grupo de interés
-      background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
+      background: /comunidad/gruposdeinteres/images/CalidadDatos.jpg
       href: /comunidad/gruposdeinteres/participagruposinteres
       
       
      #preTitle: "Histórico"  # optional
-    - title: Ciencia articipativa  # required
+    - title: Ciencia participativa  # required
       description: |      # required
        Grupo de interés
-      background: /assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg
-      cta:
-      - text: LLévame al pasado
-        href:  /comunidad/formacion/historico
-        isPrimary: true
+      background: /comunidad/gruposdeinteres/images/CienciaParticipativa.jpg
+      href: /comunidad/gruposdeinteres/participagruposinteres
+     
         
       #preTitle:  Formación # optional
     - title: Colecciones Biológicas
       description: |      # required
        Grupo de interés
       # img required
-      background: /comunidad/formacion/images/working_nounproject.jpg
-      cta:
-      - text: Aprender
-        href: /formacion/laboratorios
-        isPrimary: true
+      background: /comunidad/gruposdeinteres/images/ColeccionesBiologicas.jpg
+      href: /comunidad/gruposdeinteres/participagruposinteres
 
       
       #preTitle: Formación # optional
     - title: Datos de monitoreo
       description: |      # required
        Grupo de interés
-      background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
-      cta:
-      - text: Programa
-        href: /comunidad/formacion/programapasantias
-        isPrimary: true
-      - text: Oportunidades
-        href: https://sibcolombia.net/pasantias-2021-2/#1616608221972-ea592b95-1b13/data
-        
+      background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
+      href: /comunidad/gruposdeinteres/participagruposinteres
      
       #preTitle: "Histórico"  # optional
     - title: Datos moleculares  # required
       description: |      # required
        Grupo de interés
-      background: /assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg
-      cta:
-      - text: LLévame al pasado
-        href:  /comunidad/formacion/historico
-        isPrimary: true
+      background: /comunidad/gruposdeinteres/images/DatosMoleculares.jpg
+      href: /comunidad/gruposdeinteres/participagruposinteres
 
+
+      #preTitle: "Histórico"  # optional
+    - title: Listas de referencia taxonómica  # required
+      description: |      # required
+       Grupo de interés
+      background: /comunidad/gruposdeinteres/images/ListasTaxo.jpg
+      href: /comunidad/gruposdeinteres/participagruposinteres
+      
+      
+      #preTitle: "Histórico"  # optional
+    - title: Entomología  # required
+      description: |      # required
+       Grupo de interés
+      background: /comunidad/gruposdeinteres/images/Entomologia.jpg
+      href: /comunidad/gruposdeinteres/participagruposinteres
+
+
+      #preTitle: "Histórico"  # optional
+    - title: Métricas de uso de datos # required
+      description: |      # required
+       Grupo de trabajo
+      background: /comunidad/gruposdeinteres/images/UsoDatos.jpg
+      href: /comunidad/gruposdeinteres/participagruposinteres
+      
+      #preTitle: "Histórico"  # optional
+    - title: Calidad de datos geográficos # required
+      description: |      # required
+       Grupo de trabajo
+      background: /comunidad/gruposdeinteres/images/DatosGeograficos.jpg
+      href: /comunidad/gruposdeinteres/participagruposinteres
+      
+      #preTitle: "Histórico"  # optional
+    - title: Datos microbiológicos # required
+      description: |      # required
+       Grupo de trabajo
+      background: /comunidad/gruposdeinteres/images/Microbiologia.jpg
+      href: /comunidad/gruposdeinteres/participagruposinteres
+      
+      #preTitle: "Histórico"  # optional
+    - title: Información de evaluación y riesgo de extinción # required
+      description: |      # required
+       Grupo de trabajo
+      background: /comunidad/gruposdeinteres/images/Extinsion.jpg
+      href: /comunidad/gruposdeinteres/participagruposinteres
