@@ -3,10 +3,11 @@ layout: heroImage
 klass: historicoformacion
 title: Crear Compartir Transformar
 description: Crear, Compartir, Transformar es una guía con herramientas para comprender y participar en las dinámicas del acceso abierto. Está dirigida a los socios y usuarios del SiB Colombia, así como al público interesado en datos sobre biodiversidad.
-background: /assets/images/fondos_layout/venado1_cp.jpg
+background: /recursos/images/Portada.png
 imageLicense: |
-  Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/14492820304/) 
+  Ilustración de: SiB Colombia [by](https://creativecommons.org/licenses/by/4.0/deed.es) 
 height: 50vh
+toc: true
 ---
 
 # CREAR
@@ -192,9 +193,10 @@ Por eso, hablamos de “todos los derechos reservados”.
 
 ## Descarga las postales
 
-|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034">      <img src="/recursos/images/reverso-postal-libre-212x300.jpg">   |<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034"><img src="/recursos/images/reverso-postal-datos-212x300.jpg">   |  <a href="http://repository.humboldt.org.co/handle/20.500.11761/35034"><img src="/recursos/images/reverso-postal-publico-212x300.jpg"> | <a href="http://repository.humboldt.org.co/handle/20.500.11761/35034"><img src="/recursos/images/reverso-postal-cc-212x300.jpg">  |
-|---|---|---|---|
-
+|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034">      <img src="/recursos/images/reverso-postal-libre-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034"><img src="/recursos/images/reverso-postal-datos-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034"><img src="/recursos/images/reverso-postal-publico-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034"><img src="/recursos/images/reverso-postal-cc-212x300.jpg">|
+|---|---|---|---| 
+|   |   |   |   |
+ 
     
 
 # TRANSFORMAR
