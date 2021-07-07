@@ -7,6 +7,7 @@ background: /assets/images/fondos_layout/venado1_cp.jpg
 imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/14492820304/) 
 height: 70vh
+toc: true
 ---
 
 
