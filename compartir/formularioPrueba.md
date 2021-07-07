@@ -19,23 +19,6 @@ Esta es la oportunidad para contarle a la comunidad del SiB Colombia acerca de t
 
 <form id="test-form">
   
-    <script>
-     var $form = $('form#test-form'),
-          url = 'https://script.google.com/macros/s/AKfycbw6Uq8f1j_UC5Oe9cKI8VEX-FHST0igZ-qRWGdGuY1r6yfrQrM/exec'
-
-        $('#submit-form').on('click', function(e) {
-          e.preventDefault();
-          var jqxhr = $.ajax({
-            url: url,
-            method: "GET",
-            dataType: "json",
-            data: $form.serializeObject()
-          }).success(
-            // do something
-          );
-        })
-    </script>
-  
     <div class="field">
       <label class="label">Nombre de la Organización</label>
       <div class="control">
@@ -61,6 +44,20 @@ Esta es la oportunidad para contarle a la comunidad del SiB Colombia acerca de t
       <button id="submit-form" class="button is-primary">Submit</button>
     </div>
 
+    <script>
+            const scriptURL = 'https://script.google.com/macros/s/AKfycbw6Uq8f1j_UC5Oe9cKI8VEX-FHST0igZ-qRWGdGuY1r6yfrQrM/exec'
+            const form = document.forms['google-sheet']
+          
+            form.addEventListener('submit', e => {
+              e.preventDefault()
+              fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+                .then(response => alert("Thanks for Contacting us..! We Will Contact You Soon..."))
+                .catch(error => console.error('Error!', error.message))
+            })
+     </script>
+
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   
 </form>
 
