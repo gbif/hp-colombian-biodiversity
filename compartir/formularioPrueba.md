@@ -19,20 +19,22 @@ Esta es la oportunidad para contarle a la comunidad del SiB Colombia acerca de t
 
 <form id="test-form">
   
-    var $form = $('form#test-form'),
-      url = 'https://script.google.com/macros/s/AKfycbw6Uq8f1j_UC5Oe9cKI8VEX-FHST0igZ-qRWGdGuY1r6yfrQrM/exec'
+    <script>
+     var $form = $('form#test-form'),
+          url = 'https://script.google.com/macros/s/AKfycbw6Uq8f1j_UC5Oe9cKI8VEX-FHST0igZ-qRWGdGuY1r6yfrQrM/exec'
 
-    $('#submit-form').on('click', function(e) {
-      e.preventDefault();
-      var jqxhr = $.ajax({
-        url: url,
-        method: "GET",
-        dataType: "json",
-        data: $form.serializeObject()
-      }).success(
-        // do something
-      );
-    })
+        $('#submit-form').on('click', function(e) {
+          e.preventDefault();
+          var jqxhr = $.ajax({
+            url: url,
+            method: "GET",
+            dataType: "json",
+            data: $form.serializeObject()
+          }).success(
+            // do something
+          );
+        })
+    </script>
   
     <div class="field">
       <label class="label">Nombre de la Organización</label>
