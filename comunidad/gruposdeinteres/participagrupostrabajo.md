@@ -3,10 +3,11 @@ layout: heroImage
 klass: historicoformacion
 title: Grupos de trabajo
 description: Descubre qué están haciendo los Grupos de Interés y Trabajo, y cómo puedes unirte.
-background: /assets/images/fondos_layout/venado1_cp.jpg
+background: https://live.staticflickr.com/3936/14976714334_b147ccefd0_h.jpg
 imageLicense: |
-  Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/14492820304/) 
+  Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/14976714334/) 
 height: 70vh
+toc: true
 ---
 
 ## ¿Cómo unirse o crear un Grupo de Trabajo?
