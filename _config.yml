@@ -24,7 +24,7 @@ description: | # >-  this means to ignore newlines (until baseurl:)
   Sistema de Información sobre Biodiversidad de Colombia. Publicación, acceso y uso de datos e información sobre la biodiversidad del país.
   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hp-colombian-biodiversity.gbif-staging.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hp-colombian-biodiversity.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 youtube_username: sibcolombia
 twitter_username: sibcolombia
