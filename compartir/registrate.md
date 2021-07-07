@@ -39,7 +39,7 @@ Esta es la oportunidad para contarle a la comunidad del SiB Colombia acerca de t
 <div class="field">
   <label class="label">Nombre de la Organización</label>
   <div class="control">
-    <input class="input" type="text" placeholder="Nombre de la organización, de preferencia el registrado en la personería jurídica">
+    <input class="input" type="text" placeholder="Nombre de la organización, de preferencia el registrado en la personería jurídica" name="descripcion-organizacion">
   </div>
 </div>
 
