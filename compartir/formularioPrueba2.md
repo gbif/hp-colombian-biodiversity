@@ -18,21 +18,21 @@ Esta es la oportunidad para contarle a la comunidad del SiB Colombia acerca de t
     <div class="field">
       <label class="label">Nombre de la Organización</label>
       <div class="control">
-        <input class="input" type="text" placeholder="Nombre de la organización, de preferencia el registrado en la personería jurídica" name="nombre-organizacion">
+        <input class="input" name="nombre-organizacion" type="text" placeholder="Nombre de la organización, de preferencia el registrado en la personería jurídica" >
       </div>
     </div>
 
     <div class="field">
       <label class="label">Nombre corto o acrónimo</label>
       <div class="control">
-        <input class="input" type="text" placeholder="Este aparecerá asociado a los datos en la plataforma de publicación" name="nombre-acronimo">
+        <input class="input" name="nombre-acronimo" type="text" placeholder="Este aparecerá asociado a los datos en la plataforma de publicación" >
       </div>
     </div>
 
     <div class="field">
       <label class="label">Descripción</label>
       <div class="control">
-        <textarea class="textarea" placeholder="Describe brevemente la trayectoria de tu organización en relación a la misión del SiB Colombia (ej.: colecciones biológicas custodiadas, enfoque de investigación, gestión de información sobre biodiversidad, etc.) Esta descripción aparecerá en el perfil de la organización como socio publicador" name="descripcion-organizacion"></textarea>
+        <textarea class="textarea" name="descripcion-organizacion" placeholder="Describe brevemente la trayectoria de tu organización en relación a la misión del SiB Colombia (ej.: colecciones biológicas custodiadas, enfoque de investigación, gestión de información sobre biodiversidad, etc.) Esta descripción aparecerá en el perfil de la organización como socio publicador" ></textarea>
       </div>
     </div>
   
