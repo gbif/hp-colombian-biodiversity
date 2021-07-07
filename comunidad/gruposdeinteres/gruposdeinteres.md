@@ -37,3 +37,16 @@ Los grupos de interés son abiertos en términos de tiempo. Se enfocan en un tem
 
 + Grupos de Trabajo (GT)
 Los grupos de trabajo son a corto plazo y se crean para desarrollar una tarea particular en el marco de los ejes de trabajo del SiB Colombia y las actividades principales de su plan estratégico. Su creación se deriva de la existencia previa de un grupo de interés.
+
+# ¿Cómo crear o administrar un Grupo?
+
+Los grupos del SiB Colombia son elementos estratégicos en su estructura de gobernanza, que facilitan la participación de todos los socios del SiB Colombia en pro de una gestión oportuna y eficiente de datos e información sobre biodiversidad. Antes de proponer o administrar un grupo, ten en cuenta los siguientes lineamientos generales:
+
+Los grupos son auto-organizados, y generalmente responden a una convocatoria del EC-SiB o son creados como parte de iniciativas interinstitucionales que soportan la actividad del SiB Colombia.
+Los grupos se consolidan a través de dos mecanismos: Grupos de Interés o Grupos de Trabajo.
+Cualquier persona puede crear o unirse a un Grupo de Interés o Trabajo. Las personas deben manifestarlo al Equipo Coordinador del SiB Colombia o a uno de los líderes de un grupo existente.
+Los grupos están conformados por expertos comprometidos de manera directa o indirecta con la consolidación de un SiB Colombia como la instancia nacional que facilita la gestión de datos e información sobre biodiversidad para apoyar procesos de investigación, educación o toma de decisiones relacionadas con el conocimiento, la conservación, y el uso sostenible de la biodiversidad.
+Todos los grupos propuestos son sometidos a un proceso de revisión antes de ser aprobados por el EC-SiB. El respaldo depende de los intereses compartidos a nivel de la misión del SiB Colombia y el aporte al desarrollo de los ejes de trabajo establecidos en su plan estratégico.
+Los grupos deben tener una participación nacional y una comunidad demostrada.
+Los grupos estarán sujetos a evaluaciones periódicas de acuerdo a su actividad y relevancia para los objetivos del SiB Colombia.
+
