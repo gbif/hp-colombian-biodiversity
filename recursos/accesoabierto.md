@@ -11,7 +11,7 @@ height: 50vh
 
 # CREAR
 
-*La creatividad no es magia. Aparece al aplicar herramientas comunes del pensamiento a materiales existentes (Everything is a remix)*
+*"La creatividad no es magia. Aparece al aplicar herramientas comunes del pensamiento a materiales existentes". (Everything is a remix)*
 
 ## Para publicar tus datos
 
@@ -52,57 +52,78 @@ Contenido descriptivo y multimedia sobre una especie en particular (o cualquier 
     <li><p>Dedicación de Dominio Público</p></li>
     <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.es">
         <img src="/recursos/images/public.png"></a><br>  
-    <li><a href="http://reporte.humboldt.org.co/biodiversidad/2019/" target="_blank">Descargar.svg</a> |  
-        <a href="http://reporte.humboldt.org.co/biodiversidad/2019/" target="_blank">Descargar.png</a> </li>
-</ul>    
-    
-    
+    <li><a href="https://github.com/gbif/hp-colombian-biodiversity/raw/master/recursos/images/pd.zip" target="_blank">Descargar.svg</a> |  
+        <a href= "https://github.com/gbif/hp-colombian-biodiversity/blob/master/recursos/images/public.png" target="_blank">Descargar.png</a> </li>
+</ul>      
 </details>
-
 <br>
-
-
-
-* ¿Quieres que otras personas puedan usar y compartir tus contenidos sin restricciones en su uso para fines comerciales?
-
-- Licencia Atribución
-
-* ¿Quieres que otras personas puedan usar y compartir tus contenidos con restricciones en su uso para fines comerciales?
-
-- Licencia Atribución, No comercial
-
-* ¿Quieres que otras personas puedan usar y compartir tus contenidos mientras se compartan bajo la misma licencia sin restringir su uso para fines comerciales?
-
-- Licencia Atribución, Compartir Igual
-
-* ¿Quieres que otras personas puedan usar y compartir tus contenidos mientras se compartan bajo la misma licencia restringiendo su uso para fines comerciales?
-
-- Licencia Atribución, Compartir Igual, No comercial,
-
-* ¿No quieres que otras personas puedan usar y compartir tus contenidos?
-
-- ¿Estás seguro? los contenidos con "todos los derechos reservados" no pueden ser publicados a través del SiB Colombia.
-
 
 <details>
-  <summary markdown="span"><b>¿Puedo publicar datos moleculares a través del SiB Colombia?</b></summary>
-    
+  <summary markdown="span"><b>¿Quieres que otras personas puedan usar y compartir tus contenidos?</b></summary>
 <br>
-Puede publicar datos basados en secuencias a través del SiB Colombia, ya sea como registros biológicos, listas de especies o eventos de muestreo.
-
-En primer lugar debe determinar el tipo de publicación para sus datos moleculares:
-
-<ul>
- <li>Si sus datos contienen evidencia de organismos identificados (por taxones) en un momento y lugar determinados, puede elegir un evento de muestreo o un conjunto de datos de ocurrencia.</li>
-  <li>Si sus datos contienen un inventario de evidencia de organismos identificados (por taxones) en un contexto dado (por ejemplo, geográfico o temático), puede elegir un conjunto de datos de lista de especies.</li>
-</ul>
     
-Tenga en cuenta que para relacionar los datos con las secuencias en sí, debe compartir el enlace a la secuencia en Genbank u otra base de datos de secuencia de nucleótidos relevante, para esto puede usar el elemento Darwin Core <a href="https://dwc.tdwg.org/terms/#dwc:associatedSequences" target="_blank">associatedSequences</a> o a través de la extensión de Amplificación <a href="http://rs.gbif.org/extension/ggbn/amplification.xml" target="_blank">GGBN</a>.
-    </details>
+**Sin restricciones de uso comercial**    
+<ul>
+    <li><p>Licencia Atribución</p></li>
+    <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.es">
+        <img src="/recursos/images/public.png"></a><br>  
+    <li><a href="https://github.com/gbif/hp-colombian-biodiversity/raw/master/recursos/images/by.zip" target="_blank">Descargar.svg</a> |  
+        <a href= "https://github.com/gbif/hp-colombian-biodiversity/blob/master/recursos/images/by-1.png" target="_blank">Descargar.png</a> </li>
+</ul> 
+    
+**Con restricciones de uso comercial**
+<ul>
+    <li><p>Licencia Atribución, No comercial</p></li>
+    <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.es">
+        <img src="/recursos/images/public.png"></a><br>  
+    <li><a href="https://github.com/gbif/hp-colombian-biodiversity/raw/master/recursos/images/by-nc.zip" target="_blank">Descargar.svg</a> |  
+        <a href= "https://github.com/gbif/hp-colombian-biodiversity/blob/master/recursos/images/by-nc-1.png" target="_blank">Descargar.png</a> </li>
+</ul>     
+</details>
+<br>
+
+<details>
+  <summary markdown="span"><b>¿Quieres que otras personas puedan usar y compartir tus contenidos mientras se compartan bajo la misma licencia?</b></summary>
+<br>
+    
+**Sin restricciones de uso comercial**    
+<ul>
+    <li><p>Licencia Atribución, Compartir Igual</p></li>
+    <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.es">
+        <img src="/recursos/images/public.png"></a><br>  
+    <li><a href="https://github.com/gbif/hp-colombian-biodiversity/raw/master/recursos/images/by-sa.zip" target="_blank">Descargar.svg</a> |  
+        <a href= "https://github.com/gbif/hp-colombian-biodiversity/blob/master/recursos/images/by-sa-1.png" target="_blank">Descargar.png</a> </li>
+</ul> 
+    
+**Con restricciones de uso comercial**
+<ul>
+    <li><p>Licencia Atribución, Compartir Igual, No comercial,</p></li>
+    <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.es">
+        <img src="/recursos/images/public.png"></a><br>  
+    <li><a href="https://github.com/gbif/hp-colombian-biodiversity/raw/master/recursos/images/by-nc-sa.zip" target="_blank">Descargar.svg</a> |  
+        <a href= "https://github.com/gbif/hp-colombian-biodiversity/blob/master/recursos/images/by-nc-sa-1.png" target="_blank">Descargar.png</a> </li>
+</ul>     
+</details>
+<br>
+
+<details>
+  <summary markdown="span"><b>¿No quieres que otras personas puedan usar y compartir tus contenidos?</b></summary>
+<br>
+<ul>
+    ¿Estás seguro?, los contenidos con "todos los derechos reservados" no pueden ser publicados a través del SiB Colombia.
+</ul>      
+</details>
+<br>
+
 
 
 # COMPARTIR
 
-*¿Y si trabajamos juntos? Cuando compartes tu creatividad permites a otros usar, aprender e inspirarse en tu trabajo (Creative Commons)*
+*"¿Y si trabajamos juntos? Cuando compartes tu creatividad permites a otros usar, aprender e inspirarse en tu trabajo". (Creative Commons)*
+
+## ¿Libre, Gratis o Abierto?
 
 
+
+# TRANSFORMAR
+*"Si he visto más lejos es porque estoy sentado sobre los hombros de  gigantes". (Isaac Newton parafraseando a Bernardo de Chartres)*
