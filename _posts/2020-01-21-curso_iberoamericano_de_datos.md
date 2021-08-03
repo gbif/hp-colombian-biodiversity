@@ -1,7 +1,7 @@
 ---
 title:  "Curso iberoamericano de uso de datos sobre biodiversidad para la toma de decisiones"
 date:   2020-01-21
-categories: ["Convocatoria", "Calidad de datos", "Datos Abiertos", "Chile", "2020"]
+categories: ["Convocatorias", "Calidad de datos", "Datos Abiertos", "Chile", "2020"]
 background: /assets/images/noticias_eventos/curso-datos-chile-1000x1000.jpg
 ---
 
