@@ -1,7 +1,7 @@
 ---
 title:  "Convocatorias"
 date:   2020-11-06
-categories: ["Biodiversidad", "Pasantías", "Convocatorias","Instituto Humboldt", "2020"]
+categories: ["Pasantías", "Convocatorias", "2020"]
 background: /assets/images/noticias_eventos/Convocatoria-Pasantias-2021-1-22-min-1000x1000.jpg
 ---
 
@@ -32,30 +32,30 @@ Los candidatos pre-seleccionados en la etapa 2 serán invitados a una entrevista
 
 Si tienes dudas, por favor escríbenos a sib@humboldt.org.co con el asunto: “Pasantías 2021-1”.
 
-¡Formulario de Inscripción!
+[¡Formulario de Inscripción!](https://docs.google.com/forms/d/e/1FAIpQLSfk1bSxe0reZ_S5cB32H5MmonJqE-F7G7Z0_P0ZFQveYSNEig/closedform){:target="_blank"}
 
 # Perfiles para pasantías
 
 ## PS01 - Creación y edición de contenidos en plataformas Digitales
 
-- Carreras: Diseño Gráfico, Diseño Industrial, Diseño interactivo, Artes visuales, Animación.
-- Temática: Divulgación científica, Datos Abiertos, Visualización de Datos.
-- Objetivo: Diseñar e implementar estrategias de divulgación que apoyen la publicación, acceso y uso de datos abiertos sobre biodiversidad.
-- Actividades: Crear, maquetar, preparar, editar y optimizar publicaciones en distintos canales digitales (web y redes sociales) para el Sistema de Información sobre Biodiversidad de Colombia (SiB Colombia).
+- **Carreras**: Diseño Gráfico, Diseño Industrial, Diseño interactivo, Artes visuales, Animación.
+- **Temática**: Divulgación científica, Datos Abiertos, Visualización de Datos.
+- **Objetivo**: Diseñar e implementar estrategias de divulgación que apoyen la publicación, acceso y uso de datos abiertos sobre biodiversidad.
+- **Actividades**: Crear, maquetar, preparar, editar y optimizar publicaciones en distintos canales digitales (web y redes sociales) para el Sistema de Información sobre Biodiversidad de Colombia (SiB Colombia).
 
 ## PS02 - Creador de contenidos y Corrector de Estilo
 
-- Carreras: Literatura, comunicador social o áreas afines.
-- Temática: Divulgación científica, Datos Abiertos, Visualización de Datos.
-- Objetivo: Fortalecer los contenidos del SiB Colombia para la publicación, acceso y uso de datos abiertos sobre biodiversidad.
-- Actividades: Construir, revisar y actualizar los contenidos asociados al modelo de publicación de datos del SiB Colombia y su uso por diferentes actores.
+- **Carreras**: Literatura, comunicador social o áreas afines.
+- **Temática**: Divulgación científica, Datos Abiertos, Visualización de Datos.
+- **Objetivo**: Fortalecer los contenidos del SiB Colombia para la publicación, acceso y uso de datos abiertos sobre biodiversidad.
+- **Actividades**: Construir, revisar y actualizar los contenidos asociados al modelo de publicación de datos del SiB Colombia y su uso por diferentes actores.
 
 ## GC01 - Gestión de procesos
 
-- Carreras: Ingeniería Industrial o Administración de Empresas.
-- Temática: DGestión de procesos, Flujos de datos e información, Datos abiertos.
-- Objetivo: Consolidar los procedimientos y flujos de trabajo internos del Equipo Coordinador del SiB Colombia.
-- Actividades: Documentar y diagramar los procedimientos de gestión y flujos de trabajo internos del Equipo Coordinador del SiB Colombia.
+- **Carreras**: Ingeniería Industrial o Administración de Empresas.
+- **Temática**: DGestión de procesos, Flujos de datos e información, Datos abiertos.
+- **VObjetivo**: Consolidar los procedimientos y flujos de trabajo internos del Equipo Coordinador del SiB Colombia.
+- **Actividades**: Documentar y diagramar los procedimientos de gestión y flujos de trabajo internos del Equipo Coordinador del SiB Colombia.
 
 # Proceso de vinculación:
 
@@ -73,5 +73,10 @@ Recopilar los siguientes documentos, esto puede tardar un tiempo, así que se re
 8.  Certificado de existencia y representación legal de la Universidad con fecha no mayor a 30 días.
 9.  Copia de la cédula de ciudadanía del representante legal de la universidad, o los documentos de la eventual persona que vaya a ser designada para firmar el acuerdo tripartito (poder, autorización o su equivalente en la Universidad, junto con copia de la cédula). 
 
+# Más sobre el SiB Colombia::
 
+- [Sitio web del SiB Colombia](/)
+- [Portal de Datos](/data)
+- [Biodiversidad en Cifras](https://cifras.biodiversidad.co/)
+- Redes sociales: [Facebook](https://www.facebook.com/SibColombia){:target="_blank"}, [Twitter](https://twitter.com/sibcolombia){:target="_blank"}, [Youtube](https://www.youtube.com/user/sibcolombia){:target="_blank"}
 
