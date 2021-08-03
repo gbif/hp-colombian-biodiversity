@@ -1,7 +1,7 @@
 ---
 title:  "Reto Ebbe Nielsen 2021"
 date:   2021-01-29
-categories: ["Biodiversidad", "Convocatorias", "GBIF", "Reto Ebbe Nielsen","Innovación","Datos","2021"]
+categories: ["Convocatorias", "GBIF", "Reto Ebbe Nielsen","Innovación","Datos","2021"]
 background: /assets/images/noticias_eventos/Ebbe-Nielsen-01-1000x1000.jpg
 ---
 
@@ -20,19 +20,18 @@ Entre el 20 de Enero y el 2 de Agosto de 2021, personas y equipos pueden present
 
 Las propuestas para el reto pueden tener varios enfoques. Los participantes pueden optar por el desarrollo de nuevas aplicaciones, visualizaciones, métodos, flujos de trabajo o análisis, a menudo (pero no siempre) haciendo uso de la API de GBIF para acceder a los datos. También pueden mejorar las herramientas ya disponibles a través de GBIF o ampliar sus funcionalidades. Alentamos a los participantes a inspirarse en los ganadores y propuestas de años anteriores, para conocer más ideas, problemas y enfoques que deseen aplicar.
 
-Las propuestas deben beneficiar a múltiples actores, incluidos usuarios, propietarios y administradores de datos. Los participantes pueden revisar la Estrategia de comunicación de GBIF para conocer la audiencia de GBIF.
+Las propuestas deben beneficiar a múltiples actores, incluidos usuarios, propietarios y administradores de datos. Los participantes pueden revisar la [Estrategia de comunicación de GBIF](https://www.gbif.org/document/80926/gbif-communications-strategy){:target="_blank"} para conocer la audiencia de GBIF.
 
 # Un colombiano gana el reto Ebbe Nielsen 2019 de GBIF
-
-## Jorge Velásquez-Tibatá
+ 
 ![My helpful screenshot](/assets/images/noticias_eventos/jorge.jpg)
 
-desarrolló un sistema de código abierto que optimiza la selección de sitios de muestreo para llenar vacíos en datos sobre biodiversidad.
+**Jorge Velásquez-Tibatá** desarrolló un sistema de código abierto que optimiza la selección de sitios de muestreo para llenar vacíos en datos sobre biodiversidad.
 
-Se trata de WhereNext, un sistema de recomendaciones para identificar prioridades en los sitios de muestreo basado en el modelamiento generalizado de disimilitud. Con su proyecto ganó la primera plaza del reto 2019.
+Se trata de **WhereNext**, un sistema de recomendaciones para identificar prioridades en los sitios de muestreo basado en el modelamiento generalizado de disimilitud. Con su proyecto ganó la primera plaza del reto 2019.
 
-Conoce más de su proyecto aquí.
+Conoce más de su proyecto [aquí](https://www.gbif.org/es/news/2mixX9oDrJI2W3AqPFOxI3/wherenext-gana-el-reto-ebbe-nielsen-2019-de-gbif){:target="_blank"}.
 
 # Reglas y criterios de elegibilidad
 
-Para conocer más sobre las reglas del reto, los criterios de elegibilidad de esta edición  y las propuestas ganadoras en versiones anteriores, haz clic aquí 2021 Ebbe Nielsen Challenge.
+Para conocer más sobre las reglas del reto, los criterios de elegibilidad de esta edición  y las propuestas ganadoras en versiones anteriores, haz clic aquí [2021 Ebbe Nielsen Challenge](https://www.gbif.org/news/3D4vDeTzJ4UrTuYZ8SiPVY/2021-ebbe-nielsen-challenge-seeks-open-data-innovations-for-biodiversity){:target="_blank"}.
