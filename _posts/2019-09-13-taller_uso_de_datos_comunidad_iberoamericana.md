@@ -1,7 +1,7 @@
 ---
 title:  "Taller de uso de datos para la toma de decisiones: llamado a la comunidad iberoamericana"
 date:   2019-09-13
-categories: ["Ciencia Abierta", "GBIF", "Convocatoria", "Uso de datos", "2019"]
+categories: ["Ciencia Abierta", "GBIF", "Convocatorias", "Uso de datos", "2019"]
 background: /assets/images/noticias_eventos/pieza-cesp-37-1000x1000.png
 ---
 
