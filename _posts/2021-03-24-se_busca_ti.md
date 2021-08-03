@@ -1,7 +1,7 @@
 ---
 title:  "¡Se busca! – Líder TI"
 date:   2021-03-24
-categories: [ "Biodiversidad", "Desarrollador", "Frontend", "Se busca", "Datos abierto"]
+categories: ["Desarrollador", "Convocatorias", "2021"]
 background: /assets/images/noticias_eventos/buscamos_ti_2021.jpg
 ---
 
@@ -21,9 +21,8 @@ Gestión de sistemas operativos linux/unix, despliegue de máquinas virtuales, d
 Dominio de metodologías ágiles, organización, planeación, comunicación asertiva, trabajo con grupos interdisciplinarios, liderazgo, capacidad de autogestión; pensamiento creativo y analítico; empatía, interés por los temas ambientales; dominio de inglés.
 
 ## Correo:
-Quienes consideren tener el perfil señalado por favor aplicar a través del siguiente formulario: [Formulario de aplicación](https://docs.google.com/forms/d/e/1FAIpQLSdoUUYehhmJz6lUBWk5SP2YcexY4-q1IeAPK5E_zuplMClIKA/viewform)
+Quienes consideren tener el perfil señalado por favor aplicar a través del siguiente formulario: [Formulario de aplicación](https://docs.google.com/forms/d/e/1FAIpQLSdoUUYehhmJz6lUBWk5SP2YcexY4-q1IeAPK5E_zuplMClIKA/viewform){:target="_blank"}
 
 ## Fechas:
 Se recibirán hojas de vida hasta el 26 de marzo de 2021 a las 18:00 horas.
 Categorías: Actualidad, Convocatorias, Noticias
-
