@@ -1,13 +1,9 @@
 ---
 title:  "Convocatoria Nacional para el reconocimiento y medición de grupos de investigación, desarrollo tecnológico o de innovación."
 date:   2021-05-14
-categories: ["Convocatorias", "CVLaC","2021"]
+categories: ["Convocatorias", "CvLAC","2021"]
 background: /assets/images/noticias_eventos/convocatoria-cvlac-PM-1000x937.png
 ---
-
-
-
-
 
 Con el objetivo de contar con información actualizada de los Grupos de Investigación. Se abre la convocatoria nacional para el reconocimiento y medición de grupos de investigación, desarrollo tecnológico o de innovación y para el reconocimiento de investigadores del  SNCTI – 2021.
 
@@ -44,7 +40,7 @@ El producto **nuevo registro científico** se ubica en el segundo tipo.
 
 - Productos resultados de actividades de desarrollo tecnológico e innovación.
 
-## 2.2.2.1 Productos tecnológicos certificados o validados
+#### 2.2.2.1 Productos tecnológicos certificados o validados
 
 Diseño industrial, esquema de circuito integrado, software, planta piloto, prototipo industrial, signos distintivos, producto nutracéutico, colección científica y **nuevo registro científico**.
 
