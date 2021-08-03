@@ -9,7 +9,7 @@ toc: true
 
 # Conversión Coordenadas
 
-**Objetivo**
+_Objetivo_  *Objetivo*
 
 Convertir coordenadas geográficas en sistema de Grados, minutos, segundos (GMS) a grados decimales, de manera automática y masiva.
 
