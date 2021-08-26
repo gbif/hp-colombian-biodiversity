@@ -1,5 +1,5 @@
-//$navbar-item-img-max-height: 3rem;
-$navbar-breakpoint: 1700px;
+$navbar-item-img-max-height: 3rem;
+$navbar-breakpoint: 1200px;
 
 @import "theme/_main";
 
@@ -12,7 +12,7 @@ $navbar-breakpoint: 1700px;
   width: 100%;
   .navbar-brand {
     background-size: cover;
-    background-image: linear-gradient(90deg, rgba(54,199,152,0.9) 0%, rgba(0,12,100,0.9) 100%);
+    //background-image: linear-gradient(90deg, rgba(54,199,152,0.9) 0%, rgba(0,12,100,0.9) 100%);
   }
  // .navbar-menu {
  //   opacity: 0.90;// then we can control the opacity for the dropdown alone
@@ -23,7 +23,7 @@ $navbar-breakpoint: 1700px;
   .navbar {
     opacity: 0.90;
     background-size: cover;
-    background-image: linear-gradient(90deg, rgba(54,199,152,100) 0%, rgba(0,12,100,1) 100%);
+    //background-image: linear-gradient(90deg, rgba(54,199,152,100) 0%, rgba(0,12,100,1) 100%);
     .navbar-brand {
       opacity: none;
       background-image: none;
