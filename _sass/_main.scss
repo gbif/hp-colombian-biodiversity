@@ -20,7 +20,7 @@ $navbar-breakpoint: 1200px;
 
 @media screen and (min-width: $navbar-breakpoint) {
   .navbar {
-    opacity: 0.90;
+    //opacity: 0.90;
     background-size: cover;
     .navbar-brand {
       opacity: none;
