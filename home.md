@@ -8,6 +8,10 @@ background: https://images.unsplash.com/photo-1533985062386-ef0837f31bc0?ixid=Mn
 imageLicense: |
   Fotografía de: Felipe Villegas Vélez / Instituto Humboldt
 height: 70vh
+navbar:
+  floating: true
+  color: "#00000088"
+  hasWhiteText: true
 cta:
   - text: Datos
     href: /data
