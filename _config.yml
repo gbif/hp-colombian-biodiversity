@@ -59,11 +59,12 @@ algae:
   logo: /assets/images/logos/logo_blanco.png # Logo in navbar, will be displayed with 28px height
   logoAndTitle: false # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
+  hideHelper: false
   style:
     # square: false               # Should corners be square or rounded
     colors:
       primary: "#FFD833"          # Primary color of your brand. Use HEX code. Used for buttons.
-      links: "#DD2D4A"            # What color should links have. Use a HEX code. DEfault is primary color.
+      links: "#008b8b"            # What color should links have. Use a HEX code. DEfault is primary color.
   
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
