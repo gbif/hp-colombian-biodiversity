@@ -37,9 +37,7 @@ description: Boletín SiB Colombia
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1abaf095958731c6d80db5402_cb9a56db68" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Registrarse" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
-<div class="control">
-  <button class="button is-primary"  type="submit" value="Registrarse" name="subscribe" id="mc-embedded-subscribe">Submit</button>
-</div>
+	
 </form>
 </div>
 
