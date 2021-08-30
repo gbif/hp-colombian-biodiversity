@@ -20,7 +20,7 @@ description: Boletín SiB Colombia
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Correo electrónico:  <span class="asterisk">*</span>
 </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+	<input class="input is-primary" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
 	<label for="mce-FNAME">Nombre </label>
