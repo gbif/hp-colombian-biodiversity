@@ -13,6 +13,7 @@ columns:
     - text: Términos y Condiciones
       href: /terminosCondiciones/PoliticaPublicacion
     - text: Boletín
+      href: /boletin
 
   - name: Contacto
     description: | # Can be Markdown
