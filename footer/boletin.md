@@ -41,3 +41,56 @@ description: Boletín SiB Colombia
 </div>
 
 <!--End mc_embed_signup-->
+
+<html>
+<head>
+    <title>Mailchimp newsletter</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.5.3/css/bulma.min.css" crossorigin="anonymous">
+
+    <style>
+        div.mce_inline_error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="columns is-centered">
+            <div class="column is-half">
+
+                <form action="YOUR_MAILCHIMP_URL" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                        <input type="text" name="b_f7fcffd059cde2df667ed71e0_b59497a580" tabindex="-1" value="">
+                    </div>
+
+                    <div class="mc-field-group">
+                        <div class="field has-addons">
+                            <div class="control is-expanded">
+                                <input type="email" value="" name="EMAIL" class="required email input" id="mce-EMAIL" placeholder="Your email">
+                            </div>
+                            <div class="control">
+                                <button class="button is-primary" type="submit">
+                                    Subscribe
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="mce-responses">
+                        <div class="response has-text-warning" id="mce-error-response" style="display:none"></div>
+                        <div class="response has-text-success" id="mce-success-response" style="display:none"></div>
+                    </div>
+
+                </form>
+
+            </div>
+        </div>
+    </div>
+
+    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+</body>
+</html>
+@camiplata
+
