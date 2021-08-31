@@ -35,13 +35,41 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 
 <form name="submit-to-google-sheet">
 	
-	<h1 class="title is-3">Detalles de la organización</h1>
+	
+	<p> Asegúrate de haber leído y comprendido la política de publicación, acceso y uso de datos del SiB Colombia antes de continuar el proceso de registro.</p> 
+	
+	<label class="checkbox">
+          <input type="checkbox">
+           He leído y entiendo la <a href="https://sibcolombia.net/politica-de-publicacion/">política para la publicación de datos e información</a>, y estoy de
+		acuerdo con sus términos. 
+         </label>
+	 
+	<label class="checkbox">
+          <input type="checkbox">
+           He leído y entiendo la <a href="https://sibcolombia.net/politica-de-publicacion/">política de privacidad y tratamiento de datos personales</a>, y estoy
+		de acuerdo con sus términos. 
+         </label>
+	
+	<label class="checkbox">
+          <input type="checkbox">
+           Entiendo que estoy realizando el registro en nombre de mi organización y confirmo que los representantes de la misma están al tanto de este registro. 
+         </label>
+	
+	<label class="checkbox">
+          <input type="checkbox">
+           Entiendo que la información de mi organización, incluyendo los detalles de contacto proporcionados, estarán disponibles públicamente en las instancias
+		del SiB Colombia, GBIF y OBIS.
+         </label>
+	
+	
+	<h3 class="title is-3">Detalles de la organización</h4>
 	<p> Esta es la oportunidad para contarle a la comunidad del SiB Colombia acerca de tu organización ¿Quién es y qué hace?</p> 
 
 	<div class="field">
-	  <label class="label">Nombre de la Organización</label>
+	  <label class="label">Nombre </label>
 	  <div class="control">
 	    <input class="input" type="text" placeholder="Nombre de la organización, de preferencia el registrado en la personería jurídica" name="descripcion-organizacion">
+ 	    <p class="help">Nombre de la organización, de preferencia el registrado en la personería jurídica" name="descripcion-organizacion.</p>
 	  </div>
 	</div>
 
@@ -49,13 +77,19 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 	  <label class="label">Nombre corto o acrónimo</label>
 	  <div class="control">
 	    <input class="input" type="text" placeholder="Este aparecerá asociado a los datos en la plataforma de publicación">
+	    <p class="help">Este aparecerá asociado a los datos en la plataforma de publicación.</p>
 	  </div>
 	</div>
 
 	<div class="field">
 	  <label class="label">Descripción</label>
 	  <div class="control">
-	    <textarea class="textarea" placeholder="Describe brevemente la trayectoria de tu organización en relación a la misión del SiB Colombia (ej.: colecciones biológicas custodiadas, enfoque de investigación, gestión de información sobre biodiversidad, etc.) Esta descripción aparecerá en el perfil de la organización como socio publicador"></textarea>
+	    <textarea class="textarea" placeholder="Describe brevemente la trayectoria de tu organización en relación a la misión del SiB Colombia (ej.: colecciones
+						    biológicas custodiadas, enfoque de investigación, gestión de información sobre biodiversidad, etc.) Esta
+						    descripción aparecerá en el perfil de la organización como socio publicador"></textarea>
+            <p class="help">Describe brevemente la trayectoria de tu organización en relación a la misión del SiB Colombia (ej.: colecciones biológicas custodiadas,
+		    enfoque de investigación, gestión de información sobre biodiversidad, etc.) Esta descripción aparecerá en el perfil de la organización como
+		    socio publicador.</p>
 	  </div>
 	</div>
 
@@ -63,6 +97,7 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 	  <label class="label">Página web</label>
 	  <div class="control">
 	    <input class="input" type="text" placeholder="Sigue el formato: http:// o https:// + direccion_web. Ej.: https://sibcolombia.net/">
+	    <p class="help">Sigue el formato: http:// o https:// + direccion_web. Ej.: https://biodiversidad.co/.</p>
 	  </div>
 	</div>
 
@@ -94,7 +129,13 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 	<div class="field">
 	  <label class="label">Logo organización</label>
 	  <div class="control">
-	    <input class="input" type="text" placeholder="Comparte a través de un enlace web el logo de tu organización. Puede ser un enlace a una página web o a un repositorio como Google Drive, Dropbox o similar. (Verifique que sea posible ingresar al archivo sin ningún tipo de credencial y que el archivo se encuentre en uno de los siguientes formatos: .png, .pdf, .svg, .eps. .ai) Ej.: http://my.organization.org/images/logo.png">
+	    <input class="input" type="text" placeholder="Comparte a través de un enlace web el logo de tu organización. Puede ser un enlace a una página web o a un
+							  repositorio como Google Drive, Dropbox o similar. (Verifique que sea posible ingresar al archivo sin
+							  ningún tipo de credencial y que el archivo se encuentre en uno de los siguientes formatos: .png, .pdf,
+							  .svg, .eps. .ai) Ej.: http://my.organization.org/images/logo.png">
+            <p class="help">Comparte a través de un enlace web el logo de tu organización. Puede ser un enlace a una página web o a un repositorio como Google
+		    Drive, Dropbox o similar. (Verifique que sea posible ingresar al archivo sin ningún tipo de credencial y que el archivo se encuentre en uno de
+		    los siguientes formatos: .png, .pdf, .svg, .eps. .ai) Ej.: http://my.organization.org/images/logo.png.</p>
 	  </div>
 	</div>
 
@@ -179,7 +220,7 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 	</div>
 
 
-	<h2 class="title is-2">CONTACTOS</h2>
+	<h4 class="title is-2">CONTACTOS</h4>
 	<p>Necesitamos saber con quién podemos ponernos en contacto. Define un contacto administrativo y un contacto técnico en tu organización.</p>
 	
 	<h3 class="title is-3">Contacto Administrativo</h3>
@@ -225,7 +266,7 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 	  </div>
 	</div>
 
-	<h3 class="title is-3">Contacto Técnico</h3>
+	<h4 class="title is-3">Contacto Técnico</h4>
 
 	<p>Persona a quién podemos dirigirnos para intercambiar información técnica. Ej.: Envío de contraseñas para la publicación, tipos de datos a publicar,
 		limpieza y calidad de datos, proceso de publicación, entre otros.</p>
@@ -268,7 +309,7 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 	</div>
 
 
-	<h2 class="title is-2">TIPO DE DATOS A PUBLICAR</h2>
+	<h3 class="title is-2">TIPO DE DATOS A PUBLICAR</h3>
 	<p>Ayudamos a entender que tipo de datos deseas publicar y qué ayuda podrías necesitar. El SiB Colombia facilita la publicación de 4 tipos explicados aquí:
 		https://sibcolombia.net/servicios/datos/. </p>
 
@@ -312,7 +353,7 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 
 
 	
-	<h2 class="title is-2">PUBLICACIÓN DE DATOS ASOCIADOS A UN PERMISO DE RECOLECCIÓN</h2>
+	<h3 class="title is-2">PUBLICACIÓN DE DATOS ASOCIADOS A UN PERMISO DE RECOLECCIÓN</h3>
 
 	<p>Si los datos que deseas publicar están asociados a un permiso de recolección de especímenes de especies silvestres de la diversidad biológica de acuerdo
 		a los Decretos 1376 y 3016 de 2013 (hoy compilados en el Decreto 1076 de 2015) es necesario, documentar la siguiente información.</p>
