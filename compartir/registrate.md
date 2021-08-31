@@ -457,4 +457,5 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 	  <p class="help is-danger">This email is invalid</p>
 	</div>
 	
+	<input class="button is-primary" type="submit" value="Registrarse" >
 </form>
