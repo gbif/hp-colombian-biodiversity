@@ -40,10 +40,11 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 	
 	<label class="checkbox">
           <input type="checkbox">
-           <p>He leído y entiendo la <a href="https://sibcolombia.net/politica-de-publicacion/">política para la publicación de datos e información</a>, y estoy de
-		acuerdo con sus términos.</p> 
+            He leído y entiendo la <a href="https://sibcolombia.net/politica-de-publicacion/">política para la publicación de datos e información</a>, y estoy de
+		acuerdo con sus términos.
          </label>
-	 
+	
+	 <p> </p> 
 	
 	<label class="checkbox">
           <input type="checkbox">
@@ -51,10 +52,14 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 		de acuerdo con sus términos. 
          </label>
 	
+	 <p> </p> 
+	
 	<label class="checkbox">
           <input type="checkbox">
            Entiendo que estoy realizando el registro en nombre de mi organización y confirmo que los representantes de la misma están al tanto de este registro. 
          </label>
+	
+	 <p> </p> 
 	
 	<label class="checkbox">
           <input type="checkbox">
@@ -221,10 +226,10 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 	</div>
 
 
-	<h4 class="title is-2">Contactos</h4>
+	<h4 class="title is-4">Contactos</h4>
 	<p>Necesitamos saber con quién podemos ponernos en contacto. Define un contacto administrativo y un contacto técnico en tu organización.</p>
 	
-	<h3 class="title is-3">Contacto Administrativo</h3>
+	<h5 class="title is-5">Contacto Administrativo</h5>
 	<p>Persona a quién podemos dirigirnos para realizar preguntas acerca de la organización. Ej.: Asuntos relacionados con la visibilización de la organización
 		en nuestra página web, licencias de atribución y uso de los datos, estrategias y procesos que amplíen la participación de la organización a través
 		del SiB Colombia, entre otros.</p>
@@ -254,7 +259,7 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 	<div class="field">
 	  <label class="label">Correo electrónico</label>
 	  <p class="help">Correo electrónico del contacto administrativo. Considera usar un correo electrónico genérico que siempre llegue a la persona adecuada.</p>
-	    <input class="input is-danger" type="email" placeholder="Email input" value="contactoAdministrativo@.">
+	    <input class="input is-danger" type="email" placeholder="Email input">
 	  <p class="help is-danger">This email is invalid</p>
 	</div>
 
@@ -267,7 +272,7 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 	  </div>
 	</div>
 
-	<h4 class="title is-3">Contacto Técnico</h4>
+	<h5 class="title is-5">Contacto Técnico</h5>
 
 	<p>Persona a quién podemos dirigirnos para intercambiar información técnica. Ej.: Envío de contraseñas para la publicación, tipos de datos a publicar,
 		limpieza y calidad de datos, proceso de publicación, entre otros.</p>
@@ -296,7 +301,7 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 
 	<div class="field">
 	  <label class="label">Correo electrónico</label>
-	    <input class="input is-danger" type="email" placeholder="Email input" value="contactotécnico@.">
+	    <input class="input is-danger" type="email" placeholder="Email input" >
 	  <p class="help">Correo electrónico del contacto técnico. Considera usar un correo electrónico genérico que siempre llegue a la persona adecuada.</p>
 	  <p class="help is-danger">This email is invalid</p>
 	</div>
@@ -310,7 +315,7 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 	</div>
 
 
-	<h4 class="title is-2">Tipo de datos a publicar</h4>
+	<h4 class="title is-4">Tipo de datos a publicar</h4>
 	<p>Ayudamos a entender que tipo de datos deseas publicar y qué ayuda podrías necesitar. El SiB Colombia facilita la publicación de 4 tipos explicados aquí:
 		https://sibcolombia.net/servicios/datos/. </p>
 
@@ -354,7 +359,7 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 
 
 	
-	<h4 class="title is-2">Publicación de datos asociados a un permiso de recolección</h4>
+	<h4 class="title is-4">Publicación de datos asociados a un permiso de recolección</h4>
 	<p>Si los datos que deseas publicar están asociados a un permiso de recolección de especímenes de especies silvestres de la diversidad biológica de acuerdo
 		a los Decretos 1376 y 3016 de 2013 (hoy compilados en el Decreto 1076 de 2015) es necesario, documentar la siguiente información.</p>
 
