@@ -314,49 +314,49 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 	  </div>
 	</div>
 
+       <section class="section">
+		<h4 class="title is-4">Tipo de datos a publicar</h4>
+		<p>Ayudamos a entender que tipo de datos deseas publicar y qué ayuda podrías necesitar. El SiB Colombia facilita la publicación de 4 tipos explicados aquí:
+			https://sibcolombia.net/servicios/datos/. </p>
 
-	<h4 class="title is-4">Tipo de datos a publicar</h4>
-	<p>Ayudamos a entender que tipo de datos deseas publicar y qué ayuda podrías necesitar. El SiB Colombia facilita la publicación de 4 tipos explicados aquí:
-		https://sibcolombia.net/servicios/datos/. </p>
+		Puedes seleccionar una o varias opciones.
 
-	Puedes seleccionar una o varias opciones.
-
-	<div class="field is-horizontal">
-	  <div class="field-label">
-	    <label class="label">¿Qué tipo de datos deseas publicar?</label>
-	  </div>
-	  <div class="field-body">
-	    <div class="field">
-	      <div class="control">
-		<label class="checkbox">
-		  <input type="checkbox">
-		  Registros biológicos
-		</label>
-		<label class="checkbox">
-		  <input type="checkbox">
-		  Listas de especies
-		</label>
-		<label class="checkbox">
-		  <input type="checkbox">
-		  Eventos de muestreo
-		</label>
-		<label class="checkbox">
-		  <input type="checkbox">
-		  Fichas de especies
-		</label>
-	      </div>
-	    </div>
-	  </div>
-	</div>
+		<div class="field is-horizontal">
+		  <div class="field-label">
+		    <label class="label">¿Qué tipo de datos deseas publicar?</label>
+		  </div>
+		  <div class="field-body">
+		    <div class="field">
+		      <div class="control">
+			<label class="checkbox">
+			  <input type="checkbox">
+			  Registros biológicos
+			</label>
+			<label class="checkbox">
+			  <input type="checkbox">
+			  Listas de especies
+			</label>
+			<label class="checkbox">
+			  <input type="checkbox">
+			  Eventos de muestreo
+			</label>
+			<label class="checkbox">
+			  <input type="checkbox">
+			  Fichas de especies
+			</label>
+		      </div>
+		    </div>
+		  </div>
+		</div>
 
 
-	<div class="field">
-	  <label class="label">Descripción de los datos</label>
-	  <div class="control">
-	    <textarea class="textarea" placeholder="¿Qué tipo de datos relevantes tiene tu organización para compartir a través del SiB Colombia? Cuéntanoslo con una breve descripción."></textarea>
-	  </div>
-	</div>
-
+		<div class="field">
+		  <label class="label">Descripción de los datos</label>
+		  <div class="control">
+		    <textarea class="textarea" placeholder="¿Qué tipo de datos relevantes tiene tu organización para compartir a través del SiB Colombia? Cuéntanoslo con una breve descripción."></textarea>
+		  </div>
+		</div>
+        </section>
 
 	
 	<h4 class="title is-4">Publicación de datos asociados a un permiso de recolección</h4>
