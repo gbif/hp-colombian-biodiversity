@@ -62,7 +62,7 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
          </label>
 	
 	
-	<h3 class="title is-3">Detalles de la organización</h4>
+	<h3 class="title is-3">Detalles de la organización</h3>
 	<p> Esta es la oportunidad para contarle a la comunidad del SiB Colombia acerca de tu organización ¿Quién es y qué hace?</p> 
 
 	<div class="field">
