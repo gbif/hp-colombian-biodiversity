@@ -22,7 +22,7 @@ description: Boletín SiB Colombia
 <form action="https://sibcolombia.us7.list-manage.com/subscribe/post?u=1abaf095958731c6d80db5402&amp;id=7cb870e990" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Boletín SiB Colombia</h2>
-<div class="indicates-required"><span class="asterisk">*</span> opbligatorio</div>
+<div class="indicates-required"><span class="asterisk">*</span> obligatorio</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Correo electrónico  <span class="asterisk">*</span>
 </label>
