@@ -40,10 +40,11 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 	
 	<label class="checkbox">
           <input type="checkbox">
-           He leído y entiendo la <a href="https://sibcolombia.net/politica-de-publicacion/">política para la publicación de datos e información</a>, y estoy de
-		acuerdo con sus términos. 
+           <p>He leído y entiendo la <a href="https://sibcolombia.net/politica-de-publicacion/">política para la publicación de datos e información</a>, y estoy de
+		acuerdo con sus términos.</p> 
          </label>
 	 
+	
 	<label class="checkbox">
           <input type="checkbox">
            He leído y entiendo la <a href="https://sibcolombia.net/politica-de-publicacion/">política de privacidad y tratamiento de datos personales</a>, y estoy
@@ -220,7 +221,7 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 	</div>
 
 
-	<h4 class="title is-2">CONTACTOS</h4>
+	<h4 class="title is-2">Contactos</h4>
 	<p>Necesitamos saber con quién podemos ponernos en contacto. Define un contacto administrativo y un contacto técnico en tu organización.</p>
 	
 	<h3 class="title is-3">Contacto Administrativo</h3>
@@ -309,7 +310,7 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 	</div>
 
 
-	<h3 class="title is-2">TIPO DE DATOS A PUBLICAR</h3>
+	<h4 class="title is-2">Tipo de datos a publicar</h4>
 	<p>Ayudamos a entender que tipo de datos deseas publicar y qué ayuda podrías necesitar. El SiB Colombia facilita la publicación de 4 tipos explicados aquí:
 		https://sibcolombia.net/servicios/datos/. </p>
 
@@ -353,8 +354,7 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 
 
 	
-	<h3 class="title is-2">PUBLICACIÓN DE DATOS ASOCIADOS A UN PERMISO DE RECOLECCIÓN</h3>
-
+	<h4 class="title is-2">Publicación de datos asociados a un permiso de recolección</h4>
 	<p>Si los datos que deseas publicar están asociados a un permiso de recolección de especímenes de especies silvestres de la diversidad biológica de acuerdo
 		a los Decretos 1376 y 3016 de 2013 (hoy compilados en el Decreto 1076 de 2015) es necesario, documentar la siguiente información.</p>
 
@@ -452,7 +452,7 @@ Antes de llenar el formulario, asegúrate que tu organización aún no se encuen
 
 	<div class="field">
 	  <label class="label">Correo Institucional</label>
-	    <input class="input is-danger" type="email" placeholder="Email input" value="contactotécnico@.">
+	    <input class="input is-danger" type="email" placeholder="Email input" >
 	  <p class="help">Correo electrónico de la organización, dependencia encargada o persona encargada de hacer la gestióndel permiso. Evite usar un correo electrónico particular.</p>
 	  <p class="help is-danger">This email is invalid</p>
 	</div>
