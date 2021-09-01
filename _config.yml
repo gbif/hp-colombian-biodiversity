@@ -38,8 +38,8 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-# remote_theme: gbif/jekyll-hp-base-theme
-remote_theme: gbif/ssg-theme-algae
+remote_theme: gbif/jekyll-hp-base-theme
+# remote_theme: gbif/ssg-theme-algae
 
 # for usage in the standard privacy layout
 privacy:
