@@ -8,14 +8,15 @@ imageLicense: |
 height: 50vh
 ---
 
-La red del SiB Colombia facilita la publicación, acceso y uso de los datos e información que son la base para cuantificar, entender y proteger la Biodversidad del país. Para ahcerlo contamos con un equipo interdisciplinario de profesionales. Sin embargo hemos indentificado que aún hay un desconocimeinto enorme dentro de la comunidad sobre temas relevantes como informática de la biodiversidad, datos abiertos, y buenas prácticas para el manejo de datos. Es por eso que dentro de nuestra estrategia de formación las pasantías son un eje importante para....
+La red del SiB Colombia facilita la publicación, acceso y uso de los datos e información que son la base para cuantificar, entender y proteger la Biodversidad del país. Para hacerlo contamos con un equipo interdisciplinario de profesionalessin embargo, hemos indentificado que aún hay un desconocimeinto enorme dentro de la comunidad sobre temas relevantes como informática de la biodiversidad, datos abiertos, y buenas prácticas para el manejo y uso de los datos. Es por eso que dentro de nuestra estrategia de formación las pasantías son un eje importante para formar profesionales con habilidades específicas en estos frentes y que a su vez se transmitan los conocimientos adquiridos en los distintos sectores donde se desempeñen profesionalmente en el futuro.
 
 
 # Objetivos
 
 * Formar a los profesionales del sector ambiental en manejo y gestión de datos abiertos sobre Biodiversidad.
-* Promover que las entidades que generan datos cuenten con profesionales con buenos
-*
+* Faciliatar que las entidades que generan datos  sobre biodiversidad cuenten con profesionales con una formación robusta en informática de la biodiversidad.
+* Apoyar a los estudiantes en su proyecto profesional y en la transición al mundo laboral en el sector ambiental.
+
 
 # Beneficios
 
@@ -27,12 +28,41 @@ Nuestros pasantes se benefician de:
 2. Participación y autoría en documentos de divulgación y/o técnicos generados en el marco de la pasantía según el desempeño del pasante.
 3. Recomendación de trabajo directa con los socios del SiB Colombia según el desempeño del pasante y la demanda de profesionales.
 4. Entrenamiento intensivo en informática de la biodiversidad (aplica para los perfiles de la línea de Admnistración de Contenidos).
+5. Entrenamiento en diseño y divulgación de la ciencia y datos abiertos (aplica para los perfiles de la línea de Productos y servicios).
 
 Más de 18 pasantes que han sido parte del EC-SiB, conoce sus experencias:
 
 [Alumni](/comunidad/formacion/alumni){: .button .is-primary}
 
-# Perfiles de Pasantía
+# Esquema
+
+# Perfiles de Pasantía*
+<sub>*Algunos perfiles pueden variar entr convocatorias.</sub>
+
+## AC01 - Mejores datos mejores decisiones /Informática de la Biodiversidad - Énfasis en limpieza de datos /poner nombre más llamativo
+
+Carreras: Biología, Ecología y afines.
+Semestre: Séptimo semestre o superior
+Habilidades: Uso de herramientas informáticas, Buena redacción, Interés en datos y ciencia abierta
+Idiomas: Manejo Básico-Intermedio de Inglés
+
+Tématicas de la pasantía:Informática de la Biodiversidad, Datos abiertos, Ciencia Abierta, Ciencia de Datos.
+Objetivo: Mejorar la calidad de los datos abiertos sobre la Biodiversidad del país, para apoyar procesos de investigación, educación y la toma de decisiones.
+Actividades:
+- Administrar e integrar datos e información sobre biodiversidad a través de diferentes herramientas de publicación en línea
+- Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. 
+- Participar en los procesos de publicación y el acceso libre a datos e información sobre biodiversidad.
+
+
+Resultados esperados: Datos estructurados y de calidad que aporten al inventario virtual de la biodiversidad del país
+DURACIÓN
+5-6 meses a partir de la legalización de la pasantía
+CONDICIONES DE LA PASANTÍA
+· Número de plazas disponibles: 1
+· Apoyo de sostenimiento: potencialmente por medio del programa Estado Joven
+· Intensidad horaria : se define con el pasante (mínimo 22 horas semanales)
+· Cómo aplicar: llenar el formulario de aplicación disponible en https://sibcolombia.net/pasantias-2021-2 antes del 25 de abril.
+
 
 
 # Proceso
