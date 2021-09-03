@@ -43,6 +43,7 @@ Más de 18 pasantes que han sido parte del EC-SiB, conoce sus experencias:
 - **Apoyo de sostenimiento**: usualmente no hay apoyo, pero facilitamos que los estudiantes apliquen al[Programa Estado Joven](https://www.mintrabajo.gov.co/empleo-y-pensiones/movilidad-y-formacion/estado-joven){:target="_blank"} en caso de estar abierta la convocatoria.
 - **Intensidad horaria** : se define con cada pasante de acuerdo a la carga académica, como mínimo se esperan 22 horas semanales.
 - **Horario**: se maneja un horario flexible, el desarrollo de la pasantí se enfoca en objetivos y no en cumplimiento de horario. Cada pasante deberá gestionar su tiempo de acuerdo a sus compromisos académicos, laborales y personales.
+- **Formato**: virtual con algunas reuniones presenciales en Bogotá y Villa de Leyva (Boyacá), este formato facilita que estudiantes de todo el país puedan hacer parte de nuestro equipo.
 
 # Perfiles de Pasantía*
 <sub>*Algunos perfiles pueden variar entre convocatorias.</sub>
@@ -124,14 +125,16 @@ Esta pasantía busca el diseño e implementar estrategias de divulgación cient�
   
 </details>
 
-# Proceso 
+# Aplicación
 
 ## Postulacion
 
-  Cada semestre la convocatoria se abré por el periodo de un mes durante el cuál se recibiran aplicaciones unicamente por medio del formulario dispuesto para ello.
+La convocatoria se abré  anualmente o semestralmente por el periodo de un mes durante el cuál se recibiran aplicaciones unicamente por medio del formulario dispuesto para ello.
   
   1er Semestre -  Convocatoria de Marzo a Abril para ejecutar la pasantía de Julio a Diciembre del siguiente semestre.
-  2do Semestre -  Convocatoria de Septiembre a Octubre para ejecutar la pasantía de Enero a Junio del siguiente semestre.
+  2do Semestre -  Convocatoria de Agosto a Septiembre para ejecutar la pasantía de Enero a Junio del siguiente semestre.
+
+La selección de los pasantes se hace basada unicamente en meritos y en los resultados de su prueba técnica y entrevista. En el SiB Colombia promovemos al diversidad cultural, social y de género, e invitamos a todos los estudiantes a aplicar.
 
 **Etapa 1 - Revisión de aplicaciones**
 
@@ -152,11 +155,33 @@ Esta pasantía busca el diseño e implementar estrategias de divulgación cient�
 
 **Etapa 4 -Invitación a entrevista** 
 
-  Los candidatos que obtuvieron los puntajes más altos en la prueba técnica de la Etapa 2 serán invitados a una entrevista para definir a los pasantes que serán vinculados.
+Los candidatos que obtuvieron los puntajes más altos en la prueba técnica de la Etapa 2 serán invitados a una entrevista para definir a los pasantes que serán vinculados, y serán informados de los resultados una semana después de la entrevista.
   
 
 # ¿Qué hacer si eres seleccionado?
 
+La vinculación se realiza por medio de un Acuerdo de Vinculación Tripartita expedido por el Instituto Humboldt según lo estipulado en la resolución 623 del 2020 del Ministerio de Trabajo, los estudiantes deben verificar que esta modalidad de vincualación sea aceptada por su Universidad.
+
+En caso de ser elegido como pasante los estudiantes deberán recopilar los siguientes documentos en un periodo no mayor a 2 semanas:
 
 
-/comunidad/formacion/programapasantias
+1. Carta de presentación o respaldo, expedida y firmada por la Universidad, o profesor de la facultad o departamento. En esta carta la universidad debe debe indicar que el estudiante está activo (matriculado) y que cuenta con los requisitos académicos necesarios para realizar la pasantía.
+
+2. Carta de expresión de interés donde el estudiante ratifica su disponibilidad y compromiso para la ejecución de la pasantía, debe ir firmada por el estudiante e incluir sus datos personales y de contacto.
+
+3. Fotocopia legible del carné estudiantil.
+
+4. Fotocopia del recibo de matrícula del semestre en curso o del semestre en que se ejecutará la pasantía.
+
+5. Constancia de afiliación del estudiante al Sistema de Riesgos Laborales (ARL), **la afiliación la debe realizar la universidad**.
+
+6. Nombre, cédula, cargo y datos de contacto (teléfono y correo electrónico) del tutor dentro de la universidad.
+
+7. RUT de la Universidad.
+
+8. Certificado de existencia y representación legal de la Universidad con fecha no mayor a 90 días
+
+9. Copia de la cédula de ciudadanía del representante legal de la universidad, o los documentos de la eventual persona que vaya a ser designada para firmar el acuerdo tripartito (poder, autorización o su equivalente en la Universidad, junto con copia de la cédula).
+
+Adicionalmente el estudiante debe ponerse en contacto con su universidad para avanzar con el papeleo que esta requeira y debe verificar que la U
+
