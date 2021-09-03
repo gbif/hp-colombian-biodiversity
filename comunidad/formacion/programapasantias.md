@@ -1,11 +1,12 @@
 ---
 layout: heroImage
 title: Programa de pasantías SiB Colombia
-description: Desde el año 2015 el SiB Colombia ha adelantado un programa de pasantías en sus diferentes líneas de trabajo.
+description: Desde el 2015  más de 18 pasantes se han formado con el programa de pasantías en sus diferentes líneas de trabajo.
 background: /assets/images/fondos_layout/tetragoniscaNido_cp.jpg
 imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/) 
 height: 50vh
+toc: true
 ---
 
 La red del SiB Colombia facilita la publicación, acceso y uso de los datos e información que son la base para cuantificar, entender y proteger la Biodversidad del país. Para hacerlo contamos con un equipo interdisciplinario de profesionalessin embargo, hemos indentificado que aún hay un desconocimeinto enorme dentro de la comunidad sobre temas relevantes como informática de la biodiversidad, datos abiertos, y buenas prácticas para el manejo y uso de los datos. Es por eso que dentro de nuestra estrategia de formación las pasantías son un eje importante para formar profesionales con habilidades específicas en estos frentes y que a su vez se transmitan los conocimientos adquiridos en los distintos sectores donde se desempeñen profesionalmente en el futuro.
@@ -27,8 +28,9 @@ Nuestros pasantes se benefician de:
 1. Participar en el seminario de pasantías anual del SiB Colombia.
 2. Participación y autoría en documentos de divulgación y/o técnicos generados en el marco de la pasantía según el desempeño del pasante.
 3. Recomendación de trabajo directa con los socios del SiB Colombia según el desempeño del pasante y la demanda de profesionales.
-4. Entrenamiento intensivo en informática de la biodiversidad (aplica para los perfiles de la línea de Admnistración de Contenidos).
-5. Entrenamiento en diseño y divulgación de la ciencia y datos abiertos (aplica para los perfiles de la línea de Productos y servicios).
+4. Vinculación laboral con el SiB Colombia después de su pasantía según el desempeño del pasante y la demanda de profesionales.
+5. Entrenamiento intensivo en informática de la biodiversidad (aplica para los perfiles de la línea de Admnistración de Contenidos).
+6. Entrenamiento en diseño y divulgación de la ciencia y datos abiertos (aplica para los perfiles de la línea de Productos y servicios).
 
 Más de 18 pasantes que han sido parte del EC-SiB, conoce sus experencias:
 
@@ -36,38 +38,95 @@ Más de 18 pasantes que han sido parte del EC-SiB, conoce sus experencias:
 
 # Esquema
 
+- **Semestre**: estudiantes de séptimo semestre en adelante.
+- **Duración**: 5-6 meses a partir de la legalización de la pasantía coicidendo con los 2 semestres académicos del años.
+- **Apoyo de sostenimiento**: usualmente no hay apoyo, pero facilitamos que los estudiantes apliquen al[Programa Estado Joven](https://www.mintrabajo.gov.co/empleo-y-pensiones/movilidad-y-formacion/estado-joven){:target="_blank"} en caso de estar abierta la convocatoria.
+- **Intensidad horaria** : se define con cada pasante de acuerdo a la carga académica, como mínimo se esperan 22 horas semanales.
+- **Horario**: se maneja un horario flexible, el desarrollo de la pasantí se enfoca en objetivos y no en cumplimiento de horario. Cada pasante deberá gestionar su tiempo de acuerdo a sus compromisos académicos, laborales y personales.
+
 # Perfiles de Pasantía*
-<sub>*Algunos perfiles pueden variar entr convocatorias.</sub>
+<sub>*Algunos perfiles pueden variar entre convocatorias.</sub>
 
-## AC01 - Mejores datos mejores decisiones /Informática de la Biodiversidad - Énfasis en limpieza de datos /poner nombre más llamativo
+<details>
+    <summary markdown="span"><B>AC01 - Mejores datos mejores decisiones</B></summary>
+    
+<br>
+  
+Esta pasantía se enmarca en la temática de **Informática de la Biodiversidad** y busca realizar una **revisión retrospectiva de calidad**  de los datos sobre biodiversidad publicados a través del SiB Colombia con el objetivo de hacer actualizaciones y ajustes que aumenten el potencial de uso de estos datos, permitiendo así que estos sirvan para apoyar procesos de investigación, educación y la toma de decisiones.
 
-Carreras: Biología, Ecología y afines.
-Semestre: Séptimo semestre o superior
-Habilidades: Uso de herramientas informáticas, Buena redacción, Interés en datos y ciencia abierta
-Idiomas: Manejo Básico-Intermedio de Inglés
-
-Tématicas de la pasantía:Informática de la Biodiversidad, Datos abiertos, Ciencia Abierta, Ciencia de Datos.
-Objetivo: Mejorar la calidad de los datos abiertos sobre la Biodiversidad del país, para apoyar procesos de investigación, educación y la toma de decisiones.
-Actividades:
+**Carreras**: Biología, Ecología y afines.
+**Habilidades**: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, creatividad para la resolución de problemas.
+**Idiomas**: manejo básico-intermedio de Inglés.
+  
+**Actividades**:
 - Administrar e integrar datos e información sobre biodiversidad a través de diferentes herramientas de publicación en línea
 - Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. 
 - Participar en los procesos de publicación y el acceso libre a datos e información sobre biodiversidad.
 
+</details>
 
-Resultados esperados: Datos estructurados y de calidad que aporten al inventario virtual de la biodiversidad del país
-DURACIÓN
-5-6 meses a partir de la legalización de la pasantía
-CONDICIONES DE LA PASANTÍA
-· Número de plazas disponibles: 1
-· Apoyo de sostenimiento: potencialmente por medio del programa Estado Joven
-· Intensidad horaria : se define con el pasante (mínimo 22 horas semanales)
-· Cómo aplicar: llenar el formulario de aplicación disponible en https://sibcolombia.net/pasantias-2021-2 antes del 25 de abril.
+___
 
+<details>
+    <summary markdown="span"><B>AC02 - Datos abiertos sobre biodiversidad para la gestión ambiental</B></summary>
+    
+<br>
+  Esta pasantía se enmarca en la normativa ambiental del país (decretos 1376 y 3016 de 2013 -hoy compilados en el[decreto 1076 de 2015](https://www.minambiente.gov.co/images/normativa/app/decretos/4e-DECRETO%201076%20DE%202015%20MINAMBIENTE%20EXPIDE%20DECRETO%20%C3%9ANICO%20REGLAM.%20SECTOR%20AMBIENTE%20Y%20DESARROLLO%20SOSTENIBLE.pdf){:target="_blank"} que regula la recolección de especímenes; y busca facilitar que los datos sobre biodiversidad generados bajo esta normativa se transformen en una herramienta de conocimiento más allá de los obligaciones legales y que a su ves les permita a los publicadores recibir crédito académido y demás beneficios asociados a la publciación a través del SiB Colombia.
 
+**Carreras**: Biología, Ingeniería ambiental y afines
+**Habilidades**: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, conocimientos sobre gestión ambiental,creatividad para la resolución de problemas.
+**Idiomas**: manejo básico-intermedio de Inglés.
+  
+**Actividades**:
+- Administrar e integrar datos e información sobre biodiversidad asociados a diferentes permisos de recolección, facilitando el cumplimiento de la normativa ambiental.
+- Generación de inventarios de los datos asociados a los permisos de recolección usando el lenguaje de programación de python.
+- Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. 
+- Migrar datos sobre biodiversidad asociados a la normativa para que tengan mayor visibilidad y potencial de uso.
 
-# Proceso
+</details>
 
-**Postulaciones**
+___
+
+<details>
+    <summary markdown="span"><B>AC03 - Cerrando vacios de información sobre la biodiversidad colombiana</B></summary>
+    
+<br>
+Esta pasantía busca facilitar la publicación de datos de diferentes grupos biológicos, zonas geográficas  o temáticas para los cuales existe muy poca o ningun tipo de información publciada de manera libre y gratuita. En cada convocatoria identificamos un aliado estratégico para trabajar sobre sus datos y asegurar que estos sean publicados con la mejor calidad posible. A la fecha hemos trabajado de la mano con la [Pontificia Universidad Javeriana](https://www.gbif.org/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5){:target="_blank"} facilitando la publicación de datos de colecciones biológicas de microoganismos y con el[INVEMAR](https://obis.org/node/d2f71b1b-9138-4aba-ad8f-8327ac3d041e){:target="_blank"} para la publicación de datos marino-costeros.
+
+**Carreras**: Biología, Ecología y afines.
+**Habilidades**: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, conocimientos sobre gestión ambiental,creatividad para la resolución de problemas.
+**Idiomas**: manejo básico-intermedio de Inglés.
+  
+**Actividades**:
+- Generación de perfiles para la publicación de un tipo de datos o fuente específica.
+- Administrar e integrar datos e información sobre biodiversidad a través de diferentes herramientas de publicación en línea
+- Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. 
+- Participar en los procesos de publicación y el acceso libre a datos e información sobre biodiversidad.
+
+</details>
+
+___
+
+<details>
+    <summary markdown="span"><B>PS01 - Creación y edición de contenidos en plataformas digitales</B></summary>
+    
+<br>
+Esta pasantía busca el diseño e implementar estrategias de divulgación científica sobre la publicación, acceso y uso de datos abiertos sobre biodiversidad.
+
+**Carreras**: Diseño Gráfico, Diseño Industrial, Diseño interactivo, Artes visuales, Animación.
+**Habilidades**: manejo plataforma adobe, eedes sociales, páginas web y aplicativos móviles.
+**Idiomas**: manejo básico-intermedio de Inglés.
+  
+**Actividades**:
+- Crear, maquetar, preparar, editar y optimizar piezas de divulgación.
+- Gestión de redes sociales.
+- Creación de material fotográfico y/o audiovisual
+  
+</details>
+
+# Proceso 
+
+## Postulacion
 
   Cada semestre la convocatoria se abré por el periodo de un mes durante el cuál se recibiran aplicaciones unicamente por medio del formulario dispuesto para ello.
   
