@@ -12,7 +12,7 @@ height: 50vh
 
 |           |Pasante     | Periodo      | Carrera  |Experiencia|
 |-----------|------------| -------------|----------|-----------|
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/alumni/Alumni-LauraSanchez.jpg"></figure> |_Laura Sanchez_ | 2020-II | Ingeniería Ambiental |_"Aprendizajes día a día"_|
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/alumni/Alumni-LauraSanchez.jpeg"></figure> |_Laura Sanchez_ | 2020-II | Ingeniería Ambiental |_"Aprendizajes día a día"_|
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/alumni/Alumni-MiguelHernandez.jpg"></figure> |_Miguel Hernandez_ | 2020-II | Administración de Empresas |_"Excelente, un espacio de aprendizaje constante en el cual me hicieron sentir un integrante más del EC-SiB."_|
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/alumni/Alumni-AlejandraNeira.jpg"></figure> |_Alejandra Neira_ | 2020-II | Administración de Empresas |_"Considero que todas las herramientas que usé para realizar mis tareas y actividades me serán de utilidad en mi carrera profesional o en otro espacio laboral"_|
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/alumni/Alumni-LorenaZamora.jpg"></figure> |_Lorena Zamora_ | 2020-II | Administración de Empresas |_"Experiencia de aprendizaje y crecimiento profesional"_|
