@@ -164,8 +164,6 @@ Esta pasantía busca el diseño e implementar estrategias de divulgación cient�
 
 # Aplicación
 
-## Postulacion
-
 La convocatoria se abré  anualmente o semestralmente por el periodo de un mes durante el cuál se recibiran aplicaciones unicamente por medio del formulario dispuesto para ello.
   
   1er Semestre -  Convocatoria de Marzo a Abril para ejecutar la pasantía de Julio a Diciembre del siguiente semestre.
