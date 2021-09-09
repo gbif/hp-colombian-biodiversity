@@ -1,6 +1,5 @@
 ---
 layout: heroImage
-klass: historicoformacion
 title: Crear Compartir Transformar
 description: Crear, Compartir, Transformar es una guía con herramientas para comprender y participar en las dinámicas del acceso abierto. Está dirigida a los socios y usuarios del SiB Colombia, así como al público interesado en datos sobre biodiversidad.
 background: /recursos/images/Portada.jpg
@@ -193,7 +192,7 @@ Por eso, hablamos de “todos los derechos reservados”.
 
 ## Descarga las postales
 
-|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034">      <img src="/recursos/images/reverso-postal-libre-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034"><img src="/recursos/images/reverso-postal-datos-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034"><img src="/recursos/images/reverso-postal-publico-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034"><img src="/recursos/images/reverso-postal-cc-212x300.jpg">|
+|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034"><img src="/recursos/images/reverso-postal-libre-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034"><img src="/recursos/images/reverso-postal-datos-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034"><img src="/recursos/images/reverso-postal-publico-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034"><img src="/recursos/images/reverso-postal-cc-212x300.jpg">|
 |---|---|---|---| 
 |   |   |   |   |
  
@@ -206,4 +205,9 @@ Por eso, hablamos de “todos los derechos reservados”.
   
 |   |   |  
 |---|---|
-|<figure class="image is-480x480"><img src="/recursos/images/AccesoAbierto.gif"></figure>|**Acceso Abierto**<br>El acceso abierto es un movimiento que busca:<br>Facilitar el acceso a contenidos educativos, académicos, científicos, ¡o de cualquier tipo! Sin barreras económicas, tecnológicas y legales<br><button class="button is-primary">Descarga</button>| 
+|<figure class="image is-480x480"><img src="/recursos/images/AccesoAbierto.gif"></figure>|**Acceso Abierto**<br>El acceso abierto es un movimiento que busca:<br>Facilitar el acceso a contenidos educativos, académicos, científicos, ¡o de cualquier tipo! Sin barreras económicas, tecnológicas y legales<br><button class="button is-primary">Descarga</button>|    
+| <figure class="image is-480x480"><img src="/recursos/images/DatosAbiertos.gif"></figure>|**Datos Abiertos**<br>Los datos abiertos no solo son datos que cualquiera puede usar, también representan una filosofía y una práctica.<br>Para que un dato sea verdaderamente abierto debe cumplir ciertas características:<br> - **Uno**: se pueden usar para lo que quieras, no tienen restricciones legales, ni técnicas.<br>- **Dos**: El acceso debe ser gratuito<br>- **Tres**: Su formato debe ser accesible, y legible por computadores.<br>- **Cuatro**: Es explícito que cuenta con una licencia que permite su reutilización<br><button class="button is-primary">Descarga</button>|
+|<figure class="image is-480x480"><img src="/recursos/images/CienciaParticipativa.gif"></figure>|**Ciencia Participativa**<br>A través de la ciencia participativa, las personas pueden contribuir en investigación  científica con ideas, saberes, habilidades, datos y otros recursos.<br>Los datos generados en procesos de ciencia participativa permiten:<br>- Mejorar las interacciones ciencia-sociedad-política.<br>- Trabajar por una investigación más democrática.<br>- Ampliar las posibilidades de la cultura científica.<br><button class="button is-primary">Descarga</button>| 
+|<figure class="image is-480x480"><img src="/recursos/images/CienciaAbierta.gif"></figure>|**Ciencia Abierta**<br>La ciencia abierta aumenta y dinamiza la producción del conocimiento científico, Porque:<br>-   Incluye diferentes tipos de conocimiento y saberes<br>- Innova con el uso de tecnologías<br>- Promueve el valor de compartir, reutilizar y colaborar<br>Se acerca a las comunidades<br>- Permite que datos, informes y otras partes del proceso de investigación estén disponibles para todos.<br><button class="button is-primary">Descarga</button>|
+|<figure class="image is-480x480"><img src="/recursos/images/QueHacesConDatosA.gif"></figure>|**¿Qué haces con los Datos Abiertos?**<br>El poder de los datos abiertos es que cualquiera puede utilizarlos.<br>Favorecen la creación de múltiples proyectos usando datos que otros han publicado.<br>El SiB Colombia incentiva y facilita la publicación de datos abiertos sobre biodiversidad en Colombia, esperando que sean útiles para muchas entidades y personas.<br>Educación – Investigación – Toma de decisiones – Cultura<br><button class="button is-primary">Descarga</button>|
+    
