@@ -85,7 +85,6 @@ ___
 Esta pasantía se enmarca en la normativa ambiental del país <a href="https://www.minambiente.gov.co/images/normativa/app/decretos/4e-DECRETO%201076%20DE%202015%20MINAMBIENTE%20EXPIDE%20DECRETO%20%C3%9ANICO%20REGLAM.%20SECTOR%20AMBIENTE%20Y%20DESARROLLO%20SOSTENIBLE.pdf">decretos 1376 y 3016 de 2013 -hoy compilados en el[decreto 1076 de 2015</a> que regula la recolección de especímenes; y busca facilitar que los datos sobre biodiversidad generados bajo esta normativa se transformen en una herramienta de conocimiento más allá de los obligaciones legales y que a su ves les permita a los publicadores recibir crédito académido y demás beneficios asociados a la publciación a través del SiB Colombia.
 </p>
 
-<p>
 <ul>
 <li><b>Carreras</b>: Biología, Ingeniería ambiental y afines.</li>
 <li><b>Habilidades</b>: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, conocimientos sobre gestión.</li> ambiental,creatividad para la resolución de problemas.</li>
