@@ -30,7 +30,7 @@ Nuestros pasantes se benefician de:
 3. Recomendación de trabajo directa con los socios del SiB Colombia según el desempeño del pasante y la demanda de profesionales.
 4. Vinculación laboral con el SiB Colombia después de su pasantía según el desempeño del pasante y la demanda de profesionales.
 5. Entrenamiento intensivo en informática de la biodiversidad (aplica para los perfiles de la línea de Admnistración de Contenidos).
-6. Entrenamiento en diseño y divulgación de la ciencia y datos abiertos (aplica para los perfiles de la línea de Productos y servicios).
+6. Entrenamiento en diseño y divulgación de la ciencia (aplica para los perfiles de la línea de Productos y servicios).
 
 Más de 18 pasantes que han sido parte del EC-SiB, conoce sus experencias:
 
@@ -39,26 +39,27 @@ Más de 18 pasantes que han sido parte del EC-SiB, conoce sus experencias:
 # Esquema
 
 - **Semestre**: estudiantes de séptimo semestre en adelante.
-- **Duración**: 5-6 meses a partir de la legalización de la pasantía coicidendo con los 2 semestres académicos del años.
-- **Apoyo de sostenimiento**: usualmente no hay apoyo, pero facilitamos que los estudiantes apliquen al[Programa Estado Joven](https://www.mintrabajo.gov.co/empleo-y-pensiones/movilidad-y-formacion/estado-joven){:target="_blank"} en caso de estar abierta la convocatoria.
+- **Duración**: 5-6 meses a partir de la legalización de la pasantía idelamente bajo el mismo calendario de los 2 semestres académicos del año.
+- **Apoyo de sostenimiento**: usualmente no hay apoyo, pero facilitamos que los estudiantes apliquen al [Programa Estado Joven](https://www.mintrabajo.gov.co/empleo-y-pensiones/movilidad-y-formacion/estado-joven){:target="_blank"} en caso de estar abierta la convocatoria.
 - **Intensidad horaria** : se define con cada pasante de acuerdo a la carga académica, como mínimo se esperan 22 horas semanales.
-- **Horario**: se maneja un horario flexible, el desarrollo de la pasantí se enfoca en objetivos y no en cumplimiento de horario. Cada pasante deberá gestionar su tiempo de acuerdo a sus compromisos académicos, laborales y personales.
+- **Horario**: se maneja un horario flexible, el desarrollo de la pasantía se enfoca en objetivos y no en cumplimiento de horario. Cada pasante deberá gestionar su tiempo de acuerdo a sus compromisos académicos, laborales y personales.
 - **Formato**: virtual con algunas reuniones presenciales en Bogotá y Villa de Leyva (Boyacá), este formato facilita que estudiantes de todo el país puedan hacer parte de nuestro equipo.
 
-# Perfiles de Pasantía*
+# Perfiles de Pasantía
 <sub>*Algunos perfiles pueden variar entre convocatorias.</sub>
 
 <details>
     <summary markdown="span"><B>AC01 - Mejores datos mejores decisiones</B></summary>
     
 <br>
-  
 Esta pasantía se enmarca en la temática de **Informática de la Biodiversidad** y busca realizar una **revisión retrospectiva de calidad**  de los datos sobre biodiversidad publicados a través del SiB Colombia con el objetivo de hacer actualizaciones y ajustes que aumenten el potencial de uso de estos datos, permitiendo así que estos sirvan para apoyar procesos de investigación, educación y la toma de decisiones.
 
+<br>
 **Carreras**: Biología, Ecología y afines.
 **Habilidades**: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, creatividad para la resolución de problemas.
 **Idiomas**: manejo básico-intermedio de Inglés.
-  
+
+<br>
 **Actividades**:
 - Administrar e integrar datos e información sobre biodiversidad a través de diferentes herramientas de publicación en línea
 - Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. 
