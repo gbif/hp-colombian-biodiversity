@@ -92,17 +92,6 @@ Esta pasantía se enmarca en la normativa ambiental del país <a href="https://w
 </ul>
 
 
-<p>
-<b>Actividades</b>:
-</p>  
-  
-<ul>
- <li>Administrar e integrar datos e información sobre biodiversidad asociados a diferentes permisos de recolección, facilitando el cumplimiento de la normativa ambiental.
- <li>Generación de inventarios de los datos asociados a los permisos de recolección usando el lenguaje de programación de python.</li>
- <li>Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. </li>
- <li>Migrar datos sobre biodiversidad asociados a la normativa para que tengan mayor visibilidad y potencial de uso.</li>
-</ul>
-
 
 </details>
 
