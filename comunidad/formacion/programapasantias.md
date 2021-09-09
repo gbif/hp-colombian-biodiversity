@@ -81,17 +81,27 @@ ___
     <summary markdown="span"><B>AC02 - Datos abiertos sobre biodiversidad para la gestión ambiental</B></summary>
     
 <br>
-  Esta pasantía se enmarca en la normativa ambiental del país (decretos 1376 y 3016 de 2013 -hoy compilados en el[decreto 1076 de 2015](https://www.minambiente.gov.co/images/normativa/app/decretos/4e-DECRETO%201076%20DE%202015%20MINAMBIENTE%20EXPIDE%20DECRETO%20%C3%9ANICO%20REGLAM.%20SECTOR%20AMBIENTE%20Y%20DESARROLLO%20SOSTENIBLE.pdf){:target="_blank"} que regula la recolección de especímenes; y busca facilitar que los datos sobre biodiversidad generados bajo esta normativa se transformen en una herramienta de conocimiento más allá de los obligaciones legales y que a su ves les permita a los publicadores recibir crédito académido y demás beneficios asociados a la publciación a través del SiB Colombia.
+<p>
+Esta pasantía se enmarca en la normativa ambiental del país <a href="https://www.minambiente.gov.co/images/normativa/app/decretos/4e-DECRETO%201076%20DE%202015%20MINAMBIENTE%20EXPIDE%20DECRETO%20%C3%9ANICO%20REGLAM.%20SECTOR%20AMBIENTE%20Y%20DESARROLLO%20SOSTENIBLE.pdf">decretos 1376 y 3016 de 2013 -hoy compilados en el[decreto 1076 de 2015</a> que regula la recolección de especímenes; y busca facilitar que los datos sobre biodiversidad generados bajo esta normativa se transformen en una herramienta de conocimiento más allá de los obligaciones legales y que a su ves les permita a los publicadores recibir crédito académido y demás beneficios asociados a la publciación a través del SiB Colombia.
+</p>
 
-**Carreras**: Biología, Ingeniería ambiental y afines
-**Habilidades**: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, conocimientos sobre gestión ambiental,creatividad para la resolución de problemas.
-**Idiomas**: manejo básico-intermedio de Inglés.
-  
-**Actividades**:
-- Administrar e integrar datos e información sobre biodiversidad asociados a diferentes permisos de recolección, facilitando el cumplimiento de la normativa ambiental.
-- Generación de inventarios de los datos asociados a los permisos de recolección usando el lenguaje de programación de python.
-- Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. 
-- Migrar datos sobre biodiversidad asociados a la normativa para que tengan mayor visibilidad y potencial de uso.
+<p>
+<ul>
+<li><b>Carreras</b>: Biología, Ingeniería ambiental y afines.</li>
+<li><b>Habilidades</b>: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, conocimientos sobre gestión.</li> ambiental,creatividad para la resolución de problemas.</li>
+<li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
+</ul>
+
+
+<p>
+<b>Actividades</b>:
+<ul>
+  <li>Administrar e integrar datos e información sobre biodiversidad asociados a diferentes permisos de recolección, facilitando el cumplimiento de la normativa ambiental.
+  <li>Generación de inventarios de los datos asociados a los permisos de recolección usando el lenguaje de programación de python.</li>
+ <li>Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. </li>
+ <li>Migrar datos sobre biodiversidad asociados a la normativa para que tengan mayor visibilidad y potencial de uso.</li>
+</ul>
+</p>
 
 </details>
 
@@ -101,18 +111,26 @@ ___
     <summary markdown="span"><B>AC03 - Cerrando vacios de información sobre la biodiversidad colombiana</B></summary>
     
 <br>
-Esta pasantía busca facilitar la publicación de datos de diferentes grupos biológicos, zonas geográficas  o temáticas para los cuales existe muy poca o ningun tipo de información publciada de manera libre y gratuita. En cada convocatoria identificamos un aliado estratégico para trabajar sobre sus datos y asegurar que estos sean publicados con la mejor calidad posible. A la fecha hemos trabajado de la mano con la [Pontificia Universidad Javeriana](https://www.gbif.org/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5){:target="_blank"} facilitando la publicación de datos de colecciones biológicas de microoganismos y con el[INVEMAR](https://obis.org/node/d2f71b1b-9138-4aba-ad8f-8327ac3d041e){:target="_blank"} para la publicación de datos marino-costeros.
-
-**Carreras**: Biología, Ecología y afines.
-**Habilidades**: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, conocimientos sobre gestión ambiental,creatividad para la resolución de problemas.
-**Idiomas**: manejo básico-intermedio de Inglés.
+<p>
+Esta pasantía busca facilitar la publicación de datos de diferentes grupos biológicos, zonas geográficas  o temáticas para los cuales existe muy poca o ningun tipo de información publciada de manera libre y gratuita. En cada convocatoria identificamos un aliado estratégico para trabajar sobre sus datos y asegurar que estos sean publicados con la mejor calidad posible. A la fecha hemos trabajado de la mano con la <a href="https://www.gbif.org/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5">Pontificia Universidad Javeriana</a> facilitando la publicación de datos de colecciones biológicas de microoganismos y con el <a href="https://obis.org/node/d2f71b1b-9138-4aba-ad8f-8327ac3d041e">INVEMAR</a> para la publicación de datos marino-costeros.
+</p>
   
-**Actividades**:
-- Generación de perfiles para la publicación de un tipo de datos o fuente específica.
-- Administrar e integrar datos e información sobre biodiversidad a través de diferentes herramientas de publicación en línea
-- Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. 
-- Participar en los procesos de publicación y el acceso libre a datos e información sobre biodiversidad.
-
+<ul>
+  <li><b>Carreras</b>: Biología, Ecología y afines.</li>
+  <li><b>Habilidades</b>: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, conocimientos sobre gestión ambiental,creatividad para la resolución de problemas.</li>
+  <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
+</ul>
+ 
+<p>
+<b>Actividades</b>:
+<ul>
+  <li>Generación de perfiles para la publicación de un tipo de datos o fuente específica.</li>
+  <li>Administrar e integrar datos e información sobre biodiversidad a través de diferentes herramientas de publicación en línea</li>
+  <li>Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. </li>
+  <li>Participar en los procesos de publicación y el acceso libre a datos e información sobre biodiversidad.</li>
+</ul>
+</p>
+  
 </details>
 
 ___
@@ -121,16 +139,24 @@ ___
     <summary markdown="span"><B>PS01 - Creación y edición de contenidos en plataformas digitales</B></summary>
     
 <br>
+<p>
 Esta pasantía busca el diseño e implementar estrategias de divulgación científica sobre la publicación, acceso y uso de datos abiertos sobre biodiversidad.
-
-**Carreras**: Diseño Gráfico, Diseño Industrial, Diseño interactivo, Artes visuales, Animación.
-**Habilidades**: manejo plataforma adobe, eedes sociales, páginas web y aplicativos móviles.
-**Idiomas**: manejo básico-intermedio de Inglés.
+</p>
   
-**Actividades**:
-- Crear, maquetar, preparar, editar y optimizar piezas de divulgación.
-- Gestión de redes sociales.
-- Creación de material fotográfico y/o audiovisual
+<ul>
+  <li><b>Carreras</b>: Diseño Gráfico, Diseño Industrial, Diseño interactivo, Artes visuales, Animación.</li>
+  <li><b>Habilidades</b>: manejo plataforma adobe, eedes sociales, páginas web y aplicativos móviles.</li>
+  <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
+</ul>
+  
+<p>
+<b>Actividades</b>:
+<ul>
+  <li>Crear, maquetar, preparar, editar y optimizar piezas de divulgación.</li>
+  <li>Gestión de redes sociales.</li>
+  <li>Creación de material fotográfico y/o audiovisual</li>
+</ul>
+</p>
   
 </details>
 
