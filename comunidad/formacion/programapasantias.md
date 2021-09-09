@@ -84,13 +84,23 @@ ___
 <p>
 Esta pasantía se enmarca en la normativa ambiental del país <a href="https://www.minambiente.gov.co/images/normativa/app/decretos/4e-DECRETO%201076%20DE%202015%20MINAMBIENTE%20EXPIDE%20DECRETO%20%C3%9ANICO%20REGLAM.%20SECTOR%20AMBIENTE%20Y%20DESARROLLO%20SOSTENIBLE.pdf">decretos 1376 y 3016 de 2013 -hoy compilados en el[decreto 1076 de 2015</a> que regula la recolección de especímenes; y busca facilitar que los datos sobre biodiversidad generados bajo esta normativa se transformen en una herramienta de conocimiento más allá de los obligaciones legales y que a su ves les permita a los publicadores recibir crédito académido y demás beneficios asociados a la publciación a través del SiB Colombia.
 </p>
+  
+<p>
+<b>Actividades</b>:
+  
+<ul>
+ <li>Administrar e integrar datos e información sobre biodiversidad asociados a diferentes permisos de recolección, facilitando el cumplimiento de la normativa ambiental.</li>
+ <li>Generación de inventarios de los datos asociados a los permisos de recolección usando el lenguaje de programación de python.</li>
+ <li>Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. </li>
+ <li>Migrar datos sobre biodiversidad asociados a la normativa para que tengan mayor visibilidad y potencial de uso.</li>
+</ul>
+</p> 
 
 <ul>
   <li><b>Carreras</b>: Biología, Ingeniería ambiental y afines.</li>
   <li><b>Habilidades</b>: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, conocimientos sobre gestión.</li> ambiental,creatividad para la resolución de problemas.</li>
   <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
 </ul>
-
 
 
 </details>
@@ -150,7 +160,6 @@ Esta pasantía busca el diseño e implementar estrategias de divulgación cient�
   
 </details>
 
-___
 
 # Aplicación
 
