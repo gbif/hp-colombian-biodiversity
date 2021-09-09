@@ -202,3 +202,8 @@ Por eso, hablamos de “todos los derechos reservados”.
 # TRANSFORMAR
     
 *"Si he visto más lejos es porque estoy sentado sobre los hombros de  gigantes". (Isaac Newton parafraseando a Bernardo de Chartres)*
+  
+  
+|   |   |  
+|---|---|
+| <a href="http://repository.humboldt.org.co/handle/20.500.11761/35132" target="_blank"><img src="/recursos/images/AccesoAbierto.gif">  |**Acceso Abierto**<br>El acceso abierto es un movimiento que busca:<br>Facilitar el acceso a contenidos educativos, académicos, científicos, ¡o de cualquier tipo! Sin barreras económicas, tecnológicas y legales<br><button class="button is-primary">Descarga</button>|  
