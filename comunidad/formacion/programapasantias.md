@@ -219,5 +219,5 @@ En caso de ser elegido como pasante los estudiantes deberán recopilar los sigui
 
 9. Copia de la cédula de ciudadanía del representante legal de la universidad, o los documentos de la eventual persona que vaya a ser designada para firmar el acuerdo tripartito (poder, autorización o su equivalente en la Universidad, junto con copia de la cédula).
 
-Adicionalmente el estudiante debe ponerse en contacto con su universidad para avanzar con el papeleo que esta requeira y debe verificar que la U
+Adicionalmente el estudiante debe ponerse en contacto con su universidad para avanzar con el papeleo que esta requeira y debe verificar fechas y requisitos internos.
 
