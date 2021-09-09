@@ -55,15 +55,18 @@ Más de 18 pasantes que han sido parte del EC-SiB, conoce sus experencias:
 Esta pasantía se enmarca en la temática de **Informática de la Biodiversidad** y busca realizar una **revisión retrospectiva de calidad**  de los datos sobre biodiversidad publicados a través del SiB Colombia con el objetivo de hacer actualizaciones y ajustes que aumenten el potencial de uso de estos datos, permitiendo así que estos sirvan para apoyar procesos de investigación, educación y la toma de decisiones.
 
 <br>
-**Carreras**: Biología, Ecología y afines.
-**Habilidades**: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, creatividad para la resolución de problemas.
-**Idiomas**: manejo básico-intermedio de Inglés.
+<b>Carreras</b>: Biología, Ecología y afines.
+<b>Habilidades</b>: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, creatividad para la resolución de problemas.
+<b>Idiomas</b>: manejo básico-intermedio de Inglés.
 
 <br>
-**Actividades**:
-- Administrar e integrar datos e información sobre biodiversidad a través de diferentes herramientas de publicación en línea
-- Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. 
-- Participar en los procesos de publicación y el acceso libre a datos e información sobre biodiversidad.
+</b>Actividades</b>:
+<ul>
+  <li>Administrar e integrar datos e información sobre biodiversidad a través de diferentes herramientas de publicación en línea.</li>
+  <li>Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. </li>
+  <li>Participar en los procesos de publicación y el acceso libre a datos e información sobre biodiversidad.</li>
+</ul> 
+
 
 </details>
 
