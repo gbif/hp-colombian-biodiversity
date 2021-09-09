@@ -65,34 +65,6 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
   background: white;
 }
 
-// for usage on /formacion/formacionhistorico
-.historicoformacion table img {
-  width: 60px;
-  min-width: 60px;
-  height: 180px;
-  min-height: 180px;
-}
-table {
-  width: 100%;
-  border: 0px;
-  column-width: 15px;
-}
-th.name {
-  width: 50%;
-  border: 0px;
-}
-th.date {
-  width: 20%;
-  border: 0px;
-}
-th.country {
-  width: 10%;
-  border: 0px;
-}
-th.city {
-  width: 20%;
-  border: 0px;
-}
 
 // Ajuste de color para el features = cards de post y otros card incluidos via yml
 
