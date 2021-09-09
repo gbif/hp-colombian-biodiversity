@@ -58,9 +58,9 @@ Esta pasantía se enmarca en la temática de <b>Informática de la Biodiversidad
 
 
 <ul>
-<li><b>Carreras</b>: Biología, Ecología y afines.</li>
-<li><b>Habilidades</b>: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, creatividad para la resolución de problemas.</li>
-<li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
+  <li><b>Carreras</b>: Biología, Ecología y afines.</li>
+  <li><b>Habilidades</b>: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, creatividad para la resolución de problemas.</li>
+  <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
 </ul> 
   
 <p>
@@ -86,9 +86,9 @@ Esta pasantía se enmarca en la normativa ambiental del país <a href="https://w
 </p>
 
 <ul>
-<li><b>Carreras</b>: Biología, Ingeniería ambiental y afines.</li>
-<li><b>Habilidades</b>: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, conocimientos sobre gestión.</li> ambiental,creatividad para la resolución de problemas.</li>
-<li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
+  <li><b>Carreras</b>: Biología, Ingeniería ambiental y afines.</li>
+  <li><b>Habilidades</b>: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, conocimientos sobre gestión.</li> ambiental,creatividad para la resolución de problemas.</li>
+  <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
 </ul>
 
 
@@ -158,6 +158,8 @@ Esta pasantía busca el diseño e implementar estrategias de divulgación cient�
 </p>
   
 </details>
+
+___
 
 # Aplicación
 
