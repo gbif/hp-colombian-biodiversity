@@ -5,7 +5,7 @@ permalink: /comunidad/formacion
 title: Formación
 description: |
    Para la publicación acceso y uso de datos sobre Biodiversidad.
-background: https://live.staticflickr.com/3191/3498476045_11fe73b9ed_b.jpg #
+background: https://live.staticflickr.com/7439/9626619032_6d813c470a_b.jpg #
 imageLicense: |
    Frailejón Fotografía de: Luis Alejandro Bernal Romero vía [Flickr](https://flic.kr/p/6k9B3v)
 height: 41vh
