@@ -1,11 +1,12 @@
 ---
 lang-ref: home
 layout: home
-title: "Una ventana a la <BR>biodiversidad"
+title: "Una ventana a la<BR>
+  biodiversidad"
 description: >-
-  Biodiversidad.co es el portal oficial para la publicación y consulta 
+  Biodiversidad.co es el portal oficial para la publicación y consulta<BR>
   de datos e información sobre la biodiversidad de Colombia.
-background: https://images.unsplash.com/photo-1533985062386-ef0837f31bc0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+background: assets/images/landing_page/SiB_bannerhome_20210917.jpg
 imageLicense: |
   Fotografía de: Felipe Villegas Vélez / Instituto Humboldt
 height: 41vh
