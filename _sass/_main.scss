@@ -4,12 +4,10 @@ $navbar-breakpoint: 1100px;
 @import "theme/_main";
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
-
-//You can add additional styling 
-
 .navbar {
-  background: none;
+  background-color: white;
   position: sticky;
+  background-size: cover;
   top: 0;
   width: 100%;
   .navbar-brand {
@@ -22,8 +20,6 @@ $navbar-breakpoint: 1100px;
 
 @media screen and (min-width: $navbar-breakpoint) {
   .navbar {
-    //opacity: 0.90;
-    background-size: cover;
     .navbar-brand {
       opacity: none;
       background-image: none;
