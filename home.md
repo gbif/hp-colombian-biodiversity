@@ -8,7 +8,7 @@ description: >-
   de datos e información sobre la biodiversidad de Colombia.
 background: assets/images/landing_page/SiB_bannerhome_20210917.jpg
 imageLicense: |
-  Fotografía de: Felipe Villegas Vélez / Instituto Humboldt
+  Foto: Li Fei unsplash.com
 height: 41vh
 navbar:
   floating: true
