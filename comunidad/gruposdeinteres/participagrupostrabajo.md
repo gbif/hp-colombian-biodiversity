@@ -6,7 +6,7 @@ description: Descubre qué están haciendo los Grupos de Interés y Trabajo, y c
 background: https://live.staticflickr.com/7244/7188185381_c4bc575f85_h.jpg
 imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/7188185381/) 
-height: 50vh
+height: 41vh
 toc: true
 ---
 
