@@ -17,6 +17,11 @@ $navbar-breakpoint: 1100px;
  //   opacity: 0.90;// then we can control the opacity for the dropdown alone
 //  }
 }
+.navbar-content {
+  flex-grow: unset;
+	margin: auto;
+}
+
 
 @media screen and (min-width: $navbar-breakpoint) {
   .navbar {
