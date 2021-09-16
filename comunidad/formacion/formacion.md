@@ -8,7 +8,7 @@ description: |
 background: https://live.staticflickr.com/8483/8205952042_c840217645_h.jpg #
 imageLicense: |
    _Florae Columbiae_ Archivo de: Biodiversity Heritage Library vía [Flickr](https://www.flickr.com/photos/biodivlibrary/8205952042/in/album-72157632062538373/)
-height: 50vh
+height: 41vh
 parallax: true
 overlayColor: "#ffffffbb" 
 hasTextShadow: true
