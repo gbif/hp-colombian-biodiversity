@@ -5,7 +5,7 @@ description: Las entidades, redes o iniciativas que deseen compartir datos e inf
 background: /assets/images/venado1_cp.jpg
 imageLicense: |
   Fotografía por: Camila Plata vía [Flickr](https://www.flickr.com/photos/camisilver/6792589953/)
-height: 50vh
+height: 41vh
 composition: 
   - type: heroImage
   - type: blank
