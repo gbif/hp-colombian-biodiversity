@@ -5,7 +5,7 @@ description: Una contribución al conocimiento de la biodiversidad
 background: https://live.staticflickr.com/8663/15841213477_4e3cf4b735_b.jpg 
 imageLicense: |
   Fotofrafía de: maxime raynal [by-nc-nd](https://creativecommons.org/licenses/by-nc-sa/3.0/) vía [Flickr](https://www.flickr.com/photos/amanclos/)
-height: 50vh
+height: 41vh
 toc: true
 ---
 
