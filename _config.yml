@@ -69,10 +69,9 @@ algae:
   
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
-     # brandBackground: white    # Define a custom background for the logo/title in the top navigation bar
-    #color: "#ffffff" 
-    color: "#ffffff" # What color should the navbar be?
-    hasWhiteText: false            # Should the text color be white?
+    # brandBackground:            # Define a custom background for the logo/title in the top navigation bar 
+    color: "#ffffff"              # What color should the navbar be?
+    # hasWhiteText: false           # Should the text color be white?
 
 # Exclude from processing.
 # The following items will not be processed, by default.
