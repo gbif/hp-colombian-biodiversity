@@ -5,7 +5,7 @@ description: Desde el año 2015 el SiB Colombia ha contado con un excelente equi
 background: /assets/images/fondos_layout/tetragoniscaNido_cp.jpg
 imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/) 
-height: 50vh
+height: 41vh
 ---
 
 
