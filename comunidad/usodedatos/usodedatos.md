@@ -9,10 +9,10 @@ background: https://static.inaturalist.org/photos/83718384/large.jpg?1594455758
 imageLicense: |
    _Florae Columbiae_ Archivo de: Biodiversity Heritage Library vía [Flickr](https://www.flickr.com/photos/biodivlibrary/8205952042/in/album-72157632062538373/)
 height: 41vh
-parallax: true
-overlayColor: "#ffffffbb" 
-hasTextShadow: true
-hasBlackText: true
+# parallax: true
+# overlayColor: "#ffffffbb" 
+# hasTextShadow: true
+# hasBlackText: true
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
