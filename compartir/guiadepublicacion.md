@@ -5,7 +5,7 @@ description: Conoce el modelo, procesos, herramientas y mejores prácticas para 
 background: /assets/images/fondos_layout/liquen_cp.jpg
 imageLicense: |
  _Liquen_ Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/3.0/) vía [Flickr](https://www.flickr.com/photos/camisilver/14307556640/)
-height: 50vh
+height: 41vh
 toc: true
 ---
 
