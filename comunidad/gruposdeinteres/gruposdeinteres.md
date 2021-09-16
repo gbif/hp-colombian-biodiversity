@@ -5,9 +5,9 @@ permalink: /comunidad/gruposdeinteres
 title: Grupos de interés y trabajo
 description: |
    Descubre qué están haciendo los Grupos de Interés y Trabajo, y cómo puedes unirte.
-background: https://live.staticflickr.com/4112/5214463356_6c09632765_c.jpg #
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/17140412/large.jpeg?1525147267 #
 imageLicense: |
-   _Florae Columbiae_ Archivo de: Biodiversity Heritage Library vía [Flickr](https://www.flickr.com/photos/biodivlibrary/8205952042/in/album-72157632062538373/)
+   _Marchantia polymorpha_ Fotografía de: teodoro_chivatabedoya vía [iNaturalist](https://colombia.inaturalist.org/observations/11967283)
 height: 41vh
 parallax: true
 composition:
