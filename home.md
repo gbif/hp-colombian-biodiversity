@@ -1,22 +1,23 @@
 ---
 lang-ref: home
 layout: home
-title: "Publicación, acceso y uso de datos sobre biodiversidad"
+title: "Una ventana a la <BR>biodiversidad"
 description: >-
-  Sistema de Información sobre Biodiversidad de Colombia - SiB Colombia
+  Biodiversidad.co es el portal oficial para la publicación y consulta 
+  de datos e información sobre la biodiversidad de Colombia.
 background: https://images.unsplash.com/photo-1533985062386-ef0837f31bc0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
 imageLicense: |
   Fotografía de: Felipe Villegas Vélez / Instituto Humboldt
-height: 70vh
+height: 41vh
 navbar:
   floating: true
-  color: "#00000088"
-  hasWhiteText: true
+  color: "#ffffff"
+  hasWhiteText: false
 cta:
-  - text: Datos
+  - text: CONSULTAR DATOS
     href: /data
     isPrimary: true
-  - text: Cifras
+  - text: COMPARTIR DATOS
     href: https://cifras.biodiversidad.co/
     isPrimary: false
 permalink: /
