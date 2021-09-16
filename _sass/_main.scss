@@ -4,6 +4,10 @@ $navbar-breakpoint: 1100px;
 @import "theme/_main";
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
+body, button, input, select, textarea {
+  font-family: 'Lato', sans-serif;
+}
+
 .navbar {
   background-color: white;
   position: sticky;
@@ -13,9 +17,7 @@ $navbar-breakpoint: 1100px;
   .navbar-brand {
     background-size: cover;
   }
- // .navbar-menu {
- //   opacity: 0.90;// then we can control the opacity for the dropdown alone
-//  }
+
 }
 .navbar-content {
   flex-grow: unset;
