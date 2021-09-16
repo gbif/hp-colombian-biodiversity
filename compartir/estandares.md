@@ -6,7 +6,7 @@ background: /assets/images/Baudouinia_fluggeiformis.jpeg
 imageLicense: |
   Photo by SiB Colombia via [https://sibcolombia.net/](https://statics.sibcolombia.net/IPT/img/logos/sib.png)
 toc: true
-height: 50vh
+height: 41vh
 ---
 
 Los datos e información disponible a través del SiB Colombia y sus servicios asociados son una realidad gracias al aporte de cientos de organizaciones y personas que utilizan un lenguaje común para describir, registrar y estructurar miles de conjuntos de datos muy diversos. El uso de estándares comunes y globalmente aceptados, son el mecanismo principal para integrar y publicar a través del SiB Colombia los millones de registros primarios sobre biodiversidad disponibles actualmente.
