@@ -2,9 +2,9 @@
 layout: compose
 title: Regístrate como publicador
 description: Las entidades, redes o iniciativas que deseen compartir datos e información a través del SiB Colombia, pueden registrarse aquí para solicitar el aval como socio publicador.
-background: /assets/images/venado1_cp.jpg
+background: https://live.staticflickr.com/7546/16300393761_a880031e67_b.jpg
 imageLicense: |
-  Fotografía por: Camila Plata vía [Flickr](https://www.flickr.com/photos/camisilver/6792589953/)
+  Fotografía de: Bertrand LAPLACE vía [Flickr](https://flic.kr/p/qQpMaK)
 height: 41vh
 composition: 
   - type: heroImage
