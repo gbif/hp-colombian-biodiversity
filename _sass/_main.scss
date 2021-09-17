@@ -1,13 +1,14 @@
+//Define la altura de la barra de navegación en 110px
 $navbar-item-img-max-height: 6.875rem;
+//Define el ancho mínimo para mantener la barra de navegación antes de cambiar al menú hamburguesa responsive
 $navbar-breakpoint: 1100px;
 
 @import "theme/_main";
+
+//Carga las fuentes web de Google
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
-body, button, input, select, textarea {
-  font-family: 'Lato', sans-serif;
-}
-
+//Define la barra de menú fija
 .navbar {
   background-color: white;
   position: sticky;
@@ -17,17 +18,20 @@ body, button, input, select, textarea {
   .navbar-brand {
     background-size: cover;
   }
-
 }
+
+//Pone la barra de menú en el centro
 .navbar-content {
   flex-grow: unset;
 	margin: auto;
 }
-
-.feature-img.feature-content {
-	text-align: left;
-	margin: auto;
+//Texto del banner home a la izquierda y ancho de esa zona
+.feature-content {
+		text-align: left;
+		margin: auto;
 }
+
+//Le da el estilo redondeado a los botones y la letra siempre mayñuscula
 .button{
 	text-transform: uppercase;
 	border-radius: 100px;
@@ -36,6 +40,14 @@ body, button, input, select, textarea {
 	padding-left: 1.5em;
 	padding-right: 1.5em;
 }
+
+//Corrige el ancho de la tabla de datos de GBIF
+.css-13kxine ´{
+	max-width: 1100px;
+	margin: auto;
+}
+
+//Los estilos qe ya estaban
 
 @media screen and (min-width: $navbar-breakpoint) {
   .navbar {
