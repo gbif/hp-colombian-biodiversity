@@ -1,5 +1,5 @@
 //Define la altura de la barra de navegación en 110px
-$navbar-item-img-max-height: 6.875rem;
+$navbar-item-img-max-height: 5rem;
 //Define el ancho mínimo para mantener la barra de navegación antes de cambiar al menú hamburguesa responsive
 $navbar-breakpoint: 1100px;
 
@@ -31,11 +31,17 @@ body, button, input, select, textarea {
   flex-grow: unset;
 	margin: auto;
 }
-//Texto del banner home a la izquierda y ancho de esa zona
-.feature-content {
-	text-align: left;
-	margin: auto;
+
+//Ajusta peso del texto del banner
+feature-text h3 b {
+	color: #ffffff;
 }
+
+//Texto del banner home a la izquierda y ancho de esa zona
+//.feature-content {
+//	text-align: left;
+//	margin: auto;
+//}
 
 //Le da el estilo redondeado a los botones y la letra siempre mayñuscula
 .button{
