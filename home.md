@@ -1,7 +1,7 @@
 ---
 lang-ref: home
 layout: home
-title: "<span class="firstline">Una ventana a la</span><BR>
+title: "Una ventana a la<BR>
   biodiversidad"
 description: >-
   Biodiversidad.co es el portal oficial para la publicación y consulta<BR>
