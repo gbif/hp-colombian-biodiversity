@@ -24,6 +24,12 @@ body, button, input, select, textarea {
 	margin: auto;
 }
 
+.feature-img {
+	.feature-content {
+		text-align: left;
+		margin: auto;
+	}
+}
 
 @media screen and (min-width: $navbar-breakpoint) {
   .navbar {
