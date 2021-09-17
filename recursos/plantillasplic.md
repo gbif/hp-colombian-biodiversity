@@ -2,7 +2,7 @@
 layout: heroImage
 title: Plantillas Plinian Core
 description: Hemos construido una serie de plantillas como punto de partida para facilitar la estandarización de información haciendo uso del Plinian Core (Plic). 
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/84391157/original.jpeg?1594748561
+background: https://live.staticflickr.com/48/143283343_730dd5ff5b_b.jpg
 imageLicense: |
   _Crotophaga ani_ Fotografía de: patriciass [by-nc](https://creativecommons.org/licenses/by-nc/4.0/) vía [iNaturalist](https://www.inaturalist.org/observations/53069927)
 toc: true
