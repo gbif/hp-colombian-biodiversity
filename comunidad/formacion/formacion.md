@@ -7,7 +7,7 @@ description: |
    Para la publicación acceso y uso de datos sobre Biodiversidad.
 background: https://live.staticflickr.com/7439/9626619032_6d813c470a_b.jpg #
 imageLicense: |
-   Frailejón Fotografía de: Luis Alejandro Bernal Romero vía [Flickr](https://flic.kr/p/6k9B3v)
+   _Paepalanthus columbiensis_ Fotografía de: Luis Alejandro Bernal Romero vía [Flickr](https://flic.kr/p/fEEWsd)
 height: 41vh
 composition:
   - type: heroImage # the block type
