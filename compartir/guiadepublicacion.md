@@ -2,9 +2,9 @@
 layout: heroImage
 title: Guía de publicación de datos e información
 description: Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia
-background: https://live.staticflickr.com/8183/8419468465_35c5ecc471_c.jpg
+background: https://live.staticflickr.com/8183/8419468465_35c5ecc471_b.jpg
 imageLicense: |
- _Liquen_ Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/3.0/) vía [Flickr](https://www.flickr.com/photos/camisilver/14307556640/)
+ _Morpho peleides_ Fotografía de: Bernard DUPONT vía [Flickr](https://flic.kr/p/dPZYDp)
 height: 41vh
 toc: true
 ---
