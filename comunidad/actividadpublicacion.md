@@ -10,7 +10,7 @@ height: 41vh
 
 
 
-<iframe src="https://datastudio.google.com/u/0/reporting/6a0964f8-0371-4839-a03d-84854ad028ff/page/Ge2V" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="/comunidad/imagenes/Reporte_Mensual_-_Agosto_2021.pdf" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 
 
