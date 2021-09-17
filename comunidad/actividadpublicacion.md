@@ -6,7 +6,7 @@ background: https://live.staticflickr.com/65535/5730740301_39ffae8b5e_b.jpg
 imageLicense: |
   _Stolas_ Fotografía de: U.Schmidt vía [Flickr](https://flic.kr/p/9Jpxrg) 
 height: 41vh
-toc:true
+toc: true
 ---
 
 # Reporte mensual Agosto 2021
