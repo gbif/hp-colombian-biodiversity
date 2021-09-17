@@ -10,14 +10,15 @@ $navbar-breakpoint: 1100px;
 
 //Define la barra de menú fija
 .navbar {
-  background-color: white;
-  position: sticky;
-  background-size: cover;
-  top: 0;
-  width: 100%;
-  .navbar-brand {
-    background-size: cover;
-  }
+	background-color: white;
+	position: sticky;
+	background-size: cover;
+	top: 0;
+	width: 100%;
+	box-shadow: 0px 5px 40px rgb(0 0 0 / 10%);
+	.navbar-brand {
+ 		background-size: cover;
+	  }
 }
 
 //Pone la barra de menú en el centro
