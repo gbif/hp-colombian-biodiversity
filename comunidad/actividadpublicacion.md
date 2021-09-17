@@ -2,7 +2,7 @@
 layout: heroImage
 title: Actividad de publicación
 description: Este reporte mensual entrega una serie de gráficos, cifras y estadísticas de la actividad de publicación y uso de datos sobre biodiversidad publicados a través del SiB Colombia. Las métricas resaltan las organizaciones publicadoras del mes y el uso de datos en publicaciones indexadas. 
-background: https://live.staticflickr.com/5709/23708138745_a66c1827fd_b.jpg
+background: https://live.staticflickr.com/65535/32843922387_4dd8b239ae_b.jpg
 imageLicense: |
   Fotografía de: Felipe Villegas-Vélez Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
 height: 41vh
