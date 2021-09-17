@@ -5,7 +5,7 @@ permalink: /comunidad/usodedatos
 title: Uso de datos
 description: |
    El SiB Colombia facilita datos e información para satisfacer las necesidades en procesos de investigación, educación y toma de decisiones. En esta sección El Equipo Coordinador da los primeros pasos para consolidar el uso de datos sobre biodiversidad.
-background: https://static.inaturalist.org/photos/83718384/large.jpg?1594455758
+background: https://static.inaturalist.org/photos/155263872/large.jpg?1630803585
 imageLicense: |
   Lagarto Arcoíris de Montaña Fotografía de: Andrés Forero vía [iNaturalist](https://colombia.inaturalist.org/observations/52654747)
 height: 41vh
