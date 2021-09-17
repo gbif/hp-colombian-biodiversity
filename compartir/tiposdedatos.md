@@ -2,7 +2,7 @@
 layout: heroImage
 title: Tipos de datos e información
 description: El SiB Colombia facilita la publicación de diferentes tipos de conjuntos de datos e información sobre biodiversidad, haciendo uso de estándares ampliamente aceptados. Conoce cuáles son y cómo puedes estructurarlos.
-background: /assets/images/luciernaga_cp.jpg
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/126970048/large.jpg?1620320733
 imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/13987683828)
 toc: true
