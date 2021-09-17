@@ -1,12 +1,12 @@
 ---
 lang-ref: home
 layout: home
-title: "Una ventana a la<BR>
+title: "<span class="firstline">Una ventana a la</span><BR>
   biodiversidad"
 description: >-
   Biodiversidad.co es el portal oficial para la publicación y consulta<BR>
   de datos e información sobre la biodiversidad de Colombia.
-background: assets/images/landing_page/SiB_bannerhome_20210917.jpg
+background: assets/images/landing_page/SiB_bannerhome_20210916.jpg
 imageLicense: |
   Foto: Li Fei unsplash.com
 height: 41vh
