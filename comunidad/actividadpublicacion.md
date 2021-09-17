@@ -6,11 +6,14 @@ background: https://live.staticflickr.com/65535/5730740301_39ffae8b5e_b.jpg
 imageLicense: |
   _Stolas_ Fotografía de: U.Schmidt vía [Flickr](https://flic.kr/p/9Jpxrg) 
 height: 41vh
+toc:true
 ---
 
+# Reporte mensual Agosto 2021
 
+Consulta los restultados de la actividad de publicación mas reciente. Encontrarás el número de recursos publicados, actualizaciones, registros biológicos, etc.  
 
-<iframe src="/comunidad/imagenes/Reporte_Mensual_-_Agosto_2021.pdf" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="/comunidad/imagenes/Reporte_Mensual_-_Agosto_2021.pdf" width="640" height="500" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 
 
