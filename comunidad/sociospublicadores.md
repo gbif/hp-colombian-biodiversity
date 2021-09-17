@@ -2,7 +2,7 @@
 layout: heroImage
 title: Socios publicadores
 description: Conoce a la red de organizaciones que aportan al conocimiento libre y gratuito sobre biodiversidad en el país.
-background: https://live.staticflickr.com/7699/17035565762_745e7920f4_b.jpg
+background:  https://live.staticflickr.com/6164/6170947918_dc421f3980_b.jpg
 imageLicense: |
   Fotografía de: Felipe Villegas-Vélez Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
 height: 41vh
