@@ -2,7 +2,7 @@
 layout: heroImage
 klass: actividad
 title: Herramienta de publicación - IPT
-background: https://live.staticflickr.com/7330/16378581928_f796da766c_b.jpg
+background: https://live.staticflickr.com/4542/37919556134_211b6b8203_b.jpg
 imageLicense: |
   Fotografía de: Felipe Villegas-Vélez Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
 height: 50vh
