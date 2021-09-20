@@ -2,7 +2,7 @@
 layout: compose
 title: Regístrate como publicador
 description: Las entidades, redes o iniciativas que deseen compartir datos e información a través del SiB Colombia, pueden registrarse aquí para solicitar el aval como socio publicador.
-background: https://live.staticflickr.com/65535/36995557750_0bac79e916_b.jpg #https://live.staticflickr.com/849/42868424194_58e4ff5a53_b.jpg
+background: https://live.staticflickr.com/849/42868424194_58e4ff5a53_b.jpg
 imageLicense: |
   Fotografía de: Bertrand LAPLACE vía [Flickr](https://flic.kr/p/qQpMaK)
 height: 41vh
