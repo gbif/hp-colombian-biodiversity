@@ -4,7 +4,7 @@ title: Cómo citar datos e información
 description: Esta guía ofrece los ejemplos más comunes de citación utilizados por usuarios del SiB Colombia.
 background: https://live.staticflickr.com/1639/24849064810_c404bc7e0b_h.jpg
 imageLicense: |
-  Fotografía de: Felipe Villegas-Vélez Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
+  _Theobroma cacao_ Fotografía de: Forest and Kim Starr vía [Flickr](https://flic.kr/p/DRPXeU) 
 
 height: 41vh
 toc: true
