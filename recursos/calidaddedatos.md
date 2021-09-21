@@ -6,7 +6,7 @@ background: https://static.inaturalist.org/photos/20946687/large.jpg?1530983172
 imageLicense: |
   Fotografía de: Felipe Villegas-Vélez Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
 toc: true
-height: 50vh
+height: 41vh
 ---
 
 La **calidad de datos** se puede definir como una característica esencial y necesaria para que los datos sean “adecuados para su uso” o tengan un “uso potencial valioso” [(Chapman, 2005)](https://assets.ctfassets.net/uo17ejk9rkwj/2gupj7dJIw62UeOUYiqSsm/0a4bb732bd7fd8cf28f7703dc20a43ba/Data_Quality_-_ENGLISH.pdf){:target="_blank"}.
