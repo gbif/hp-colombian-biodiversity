@@ -4,8 +4,8 @@ klass: actividad
 title: Herramienta de publicación - IPT
 background: https://live.staticflickr.com/4542/37919556134_211b6b8203_b.jpg
 imageLicense: |
-  Fotografía de: Felipe Villegas-Vélez Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
-height: 50vh
+  _Calliphlox amethystina_ Fotografía de: Dave Curtis vía [Flickr](https://flic.kr/p/ZLPCWA) 
+height: 41vh
 ---
 
 La Herramienta de Publicación (IPT) de GBIF es una aplicación web de código abierto, disponible de forma gratuita, que facilita la publicación de datos sobre biodiversidad. Durante el [proceso de acompañamiento a la publicación de datos](/compartir/GuiaPublicacion#ruta-a-publicación-de-datos-voluntaria){:target="_blank"} el Equipo Coordinador del SiB Colombia (EC-SiB) le idicará a cada publicador que IPT usar y le facilitará un usuario y contraseña para la documentación de los metadatos. 
