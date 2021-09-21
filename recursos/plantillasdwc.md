@@ -6,7 +6,7 @@ background: https://inaturalist-open-data.s3.amazonaws.com/photos/84391157/origi
 imageLicense: |
   _Crotophaga ani_ Fotografía de: patriciass [by-nc](https://creativecommons.org/licenses/by-nc/4.0/) vía [iNaturalist](https://www.inaturalist.org/observations/53069927)
 toc: true
-height: 50vh
+height: 41 vh
 ---
 
 Para la publicación de datos sobre biodiversidad se han creado tres plantillas de acuerdo a los [tipo de datos](compartir/TiposDeDatos) que se pueden compartir a través del SiB Colombia. Estas plantilla están estructuradas bajo el estándar [Darwin Core](compartir/Estandares) y cuenta con los elementos necesarios del _Core_ del estándar para la publicación. 
