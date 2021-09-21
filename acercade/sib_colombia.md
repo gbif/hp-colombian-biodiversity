@@ -3,9 +3,9 @@ layout: compose
 klass: acercade
 title: ¿Qué es el SiB Colombia?
 description: Conoce la red nacional de datos abiertos sobre biodiversidad
-background: https://live.staticflickr.com/734/23768650312_9dabc36744_b.jpg
+background: https://live.staticflickr.com/1639/24849064810_c404bc7e0b_h.jpg
 imageLicense: |
-   Fotografía de: Andres Rodriguez vía [Flickr](https://flic.kr/p/CdmxDJ) 
+  _Theobroma cacao_ Fotografía de: Forest and Kim Starr vía [Flickr](https://flic.kr/p/DRPXeU) 
 height: 41vh
 composition:
   - type: heroImage # the block type
