@@ -5,7 +5,7 @@ description: Aquí se presentan herramientas que facilitan la estandarización y
 background: https://live.staticflickr.com/3785/9659881785_3a805c4b65_b.jpg
 imageLicense: |
    Microscopia _Coccinella septempunctata_ Fotografía de: Dr. Jan Michels vía [Flickr](https://flic.kr/p/fHBqiX) 
-height:41vh
+height: 41vh
 ---
 
 | Nombre        | Uso          | Descripción  |
