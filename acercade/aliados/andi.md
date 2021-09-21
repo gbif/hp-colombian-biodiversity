@@ -2,9 +2,9 @@
 layout: heroImage
 title: Datos abiertos sobre biodiversidad desde el sector empresarial
 description: Una contribución al conocimiento de la biodiversidad
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/156303220/large.jpg?1631211196
+background: https://live.staticflickr.com/1639/24849064810_c404bc7e0b_h.jpg
 imageLicense: |
-  Fotofrafía de: maxime raynal [by-nc-nd](https://creativecommons.org/licenses/by-nc-sa/3.0/) vía [Flickr](https://www.flickr.com/photos/amanclos/)
+  _Theobroma cacao_ Fotografía de: Forest and Kim Starr vía [Flickr](https://flic.kr/p/DRPXeU) 
 height: 41vh
 toc: true
 ---
