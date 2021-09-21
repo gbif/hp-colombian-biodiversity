@@ -2,7 +2,7 @@
 layout: heroImage
 klass: actividad
 title: Herramienta de publicación - IPT
-background: https://live.staticflickr.com/1450/25442490134_b94f66e8b6_b.jpg
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/126131959/medium.jpg?1620086309
 imageLicense: |
   _Calliphlox amethystina_ Fotografía de: Dave Curtis vía [Flickr](https://flic.kr/p/ZLPCWA) 
 height: 41vh
