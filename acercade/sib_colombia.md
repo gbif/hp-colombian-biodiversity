@@ -3,7 +3,7 @@ layout: compose
 klass: acercade
 title: ¿Qué es el SiB Colombia?
 description: Conoce la red nacional de datos abiertos sobre biodiversidad
-background: https://live.staticflickr.com/1450/25442490134_b94f66e8b6_b.jpg
+background: https://live.staticflickr.com/7259/7505246868_bbc775ae2c_b.jpg
 imageLicense: |
   _Scinax ruber_ Fotografía de: Sebastian Di Domenico vía [Flickr](https://flic.kr/p/ELgpV1) 
 height: 41vh
