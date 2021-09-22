@@ -47,11 +47,11 @@ body, button, input, select, textarea {
 	font-size: 1.2em;
 }
 
-//Texto del banner home a la izquierda y ancho de esa zona
-//.feature-content {
-//	text-align: left;
-//	margin: auto;
-//}
+.feature-content {
+	text-align: left;
+	margin: auto;
+	max-width: $navbar-breakpoint;
+}
 
 //Le da el estilo redondeado a los botones y la letra siempre mayñuscula
 .button{
