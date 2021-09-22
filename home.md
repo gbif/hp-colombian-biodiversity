@@ -5,7 +5,7 @@ title: "<strong>Una ventana a la</strong><BR><em>biodiversidad</em>"
 description: Biodiversidad.co es el portal oficial para la publicación y consulta<BR>de datos e información sobre la biodiversidad de Colombia.
 background: assets/images/landing_page/SiB_bannerhome_20210916.jpg
 imageLicense: |
-  Fotografía de: Dairo Escobar
+  Fotografía de: Santiago Estrada, vía [reef-shepherd.com](https://www.reef-shepherd.com/galeria/)
 height: 41vh
 navbar:
   floating: true
