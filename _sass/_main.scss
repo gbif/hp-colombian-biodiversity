@@ -36,13 +36,15 @@ body, button, input, select, textarea {
 .feature-content h3 strong {
 	color: #ffffff;
 	text-transform: uppercase;
-	font-weight: 300
+	font-weight: 400;
+	font-size: 0.8em;
 }
 .feature-content h3 em {
 	color: #ffffff;
 	text-transform: uppercase;
     font-style: normal;
-	font-weight: 900
+	font-weight: 900;
+	font-size: 1.2em;
 }
 
 //Texto del banner home a la izquierda y ancho de esa zona
