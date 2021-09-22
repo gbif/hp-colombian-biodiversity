@@ -33,12 +33,12 @@ body, button, input, select, textarea {
 }
 
 //Ajusta peso del texto del banner
-feature-text h3 strong {
+.feature-content h3 strong {
 	color: #ffffff;
 	text-transform: uppercase;
 	font-weight: 300
 }
-feature-text h3 em {
+.feature-content h3 em {
 	color: #ffffff;
 	text-transform: uppercase;
     font-style: normal;
