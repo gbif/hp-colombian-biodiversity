@@ -2,7 +2,12 @@ gacetero:
   klass: iframe-box
   markdownContent: |
     <iframe seamless frameborder="150" src="https://public.tableau.com/views/Gacetero_0/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" height = '790' width="1370" scrolling='yes' ></iframe> 
-    
+
+reporte_actual:
+  klass: iframe-box
+  markdownContent: |
+    <iframe seamless frameborder="150" src="https://datastudio.google.com/u/0/reporting/a92bbb7e-f5f5-4413-9a9d-e025e5c283bc/page/Ge2V" height = '790' width="1370" scrolling='yes' ></iframe> 
+          
 formularioRegistro:
   klass: iframe-box
   markdownContent: |
