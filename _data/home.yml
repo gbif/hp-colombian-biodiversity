@@ -12,7 +12,7 @@ stats:
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=CO&limit=0">100,000</span>
       description: Conjuntos de datos
-      background: /assets/images/landing_page/iconos_cifras/conjuntos_de_datos.png
+      background: /assets/images/landing_page/iconos_cifras/ico_conjuntoDatos.png
       href: https://www.gbif.org/dataset/search?publishing_country=CO
     - title: 4.919
       description: Fichas de especies
