@@ -2,10 +2,10 @@
 layout: heroImage
 title: Preguntas Frecuentes
 description: Estas son  algunas de las preguntas mas frecuentes que respondemos desde el SiB Colombia.
-background: /assets/images/tetragoniscaNido_cp.jpg
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/90766616/large.jpg?1597845757
 imageLicense: |
   [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)Fotografía de: Camila Plata via [flickr](https://www.flickr.com/photos/camisilver/6934174945/)
-height: 50vh
+height: 41vh
 toc: true
 ---
 
