@@ -49,7 +49,7 @@ markdownContent: |
 destacados:
   features:
     - preTitle:  Red SiB Colombia
-      title: Alianza ANDI
+      title: Alianza sector empresarial
       description: |      # required
        Un aporte del sector empresarial al conocimiento de la biodiversidad.
       # img required
@@ -57,10 +57,10 @@ destacados:
       cta:
       - text: Ver más
         href: /acercade/aliados/andi
-        isPrimary: true
+        isPrimary: false
 
-    - preTitle:  Serie de Webinars 2021
-      title:  WALLACE
+    - preTitle:  Ciclo de formación 2021
+      title:  Wallace
       description: |      # required
           Una plataforma para el modelamiento de nicho y distribuciones de especies.
       # img required
@@ -68,19 +68,19 @@ destacados:
       cta:
       - text: Inscribirse
         href: https://humboldt-org-co.zoom.us/webinar/register/WN_fsc8vZqhT0W4xESDS0wTeg
-        isPrimary: true
+        isPrimary: false
         
    
     - preTitle:  Convocatorias
       title: Reconocimiento SNCTI
       description: |      # required
-           Guía para incorporar productos SiB Colombia en el CvLac
+           Guía para incorporar productos SiB Colombia en el CvLac.
       # img required
       background: /assets/images/landing_page/imgDest_MinCiencias.png
       cta:
       - text: Ver más
         href: /post/2021/convocatoria-nacional-medicion-grupos-cvlac-sib/
-        isPrimary: true
+        isPrimary: false
     
 
 splitCicloFormacion:
