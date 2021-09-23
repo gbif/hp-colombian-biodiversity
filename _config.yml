@@ -116,8 +116,8 @@ defaults:
       path: ""
     values:
       lang: es
-  -
-    scope:
-      path: "en/"
-    values:
-      lang: en
+ # -
+ #  scope:
+ #    path: "en/"
+ #  values:
+ #   lang: en
