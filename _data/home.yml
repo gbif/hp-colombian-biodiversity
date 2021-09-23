@@ -32,10 +32,9 @@ stats:
 # Feature cards
 #cards
 destacados:
-
   features:
-      preTitle:  Red SiB Colombia
-    - title: Alianza ANDI
+    - preTitle:  Red SiB Colombia
+      title: Alianza ANDI
       description: |      # required
        Un aporte del sector empresarial al conocimiento de la biodiversidad.
       # img required
@@ -45,8 +44,8 @@ destacados:
         href: /acercade/aliados/andi
         isPrimary: true
 
-      preTitle:  Serie de Webinars 2021
-    - title:  WALLACE
+    - preTitle:  Serie de Webinars 2021
+      title:  WALLACE
       description: |      # required
           Una plataforma para el modelamiento de nicho y distribuciones de especies.
       # img required
@@ -57,8 +56,8 @@ destacados:
         isPrimary: true
         
    
-      preTitle:  Convocatorias
-    - title: Reconocimiento Investigadores SNCTI – 2021.
+    - preTitle:  Convocatorias
+      title: Reconocimiento Investigadores SNCTI – 2021.
       description: |      # required
            Guía para incorporar productos SiB Colombia en el CvLac
       # img required
