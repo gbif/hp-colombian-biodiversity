@@ -32,6 +32,7 @@ stats:
 # Feature cards
 #cards
 destacados:
+  background: "#bce2e6"
   features:
     - preTitle:  Red SiB Colombia
       title: Alianza ANDI
@@ -57,7 +58,7 @@ destacados:
         
    
     - preTitle:  Convocatorias
-      title: Reconocimiento Investigadores SNCTI – 2021.
+      title: Reconocimiento SNCTI – 2021.
       description: |      # required
            Guía para incorporar productos SiB Colombia en el CvLac
       # img required
