@@ -20,8 +20,6 @@ composition:
   - type: heroImage # the block type
   - data: home.stats
     type: stats
-  - data: home.markdownContent
-    type: markdown
   - data: home.destacados
     type: features
   - data: home.splitCicloFormacion
