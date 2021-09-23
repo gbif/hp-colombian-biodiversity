@@ -53,7 +53,7 @@ destacados:
       description: |      # required
        Un aporte del sector empresarial al conocimiento de la biodiversidad.
       # img required
-      background: /assets/images/landing_page/imgDest_Andi.png
+      background: /assets/images/landing_page/imgDest_Andi.jpg
       cta:
       - text: Ver más
         href: /acercade/aliados/andi
@@ -64,7 +64,7 @@ destacados:
       description: |      # required
           Una plataforma para el modelamiento de nicho y distribuciones de especies.
       # img required
-      background: /assets/images/landing_page/imgDest_Wallace.png
+      background: /assets/images/landing_page/imgDest_Wallace.jpg
       cta:
       - text: Inscribirse
         href: https://humboldt-org-co.zoom.us/webinar/register/WN_fsc8vZqhT0W4xESDS0wTeg
@@ -76,7 +76,7 @@ destacados:
       description: |      # required
            Guía para incorporar productos SiB Colombia en el CvLac.
       # img required
-      background: /assets/images/landing_page/imgDest_MinCiencias.png
+      background: /assets/images/landing_page/imgDest_MinCiencias.jpg
       cta:
       - text: Ver más
         href: /post/2021/convocatoria-nacional-medicion-grupos-cvlac-sib/
