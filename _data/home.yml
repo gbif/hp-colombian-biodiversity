@@ -14,7 +14,7 @@ stats:
       description: Conjuntos de datos
       background: /assets/images/landing_page/iconos_cifras/ico_conjuntoDatos.png
       href: https://www.gbif.org/dataset/search?publishing_country=CO
-    - title: 4.919
+    - title: 4,919
       description: Fichas de especies
       background: /assets/images/landing_page/iconos_cifras/ico_fichaEspecies.png
       href: https://catalogo.biodiversidad.co/
@@ -53,9 +53,9 @@ destacados:
       description: |      # required
        Un aporte del sector empresarial al conocimiento de la biodiversidad.
       # img required
-      background: https://live.staticflickr.com/2861/34386007535_ebc5c76008_c.jpg # Fuente https://flic.kr/p/c3eDpA
+      background: /assets/images/landing_page/imgDest_Andi.png
       cta:
-      - text: Conocer
+      - text: Ver más
         href: /acercade/aliados/andi
         isPrimary: true
 
@@ -64,7 +64,7 @@ destacados:
       description: |      # required
           Una plataforma para el modelamiento de nicho y distribuciones de especies.
       # img required
-      background: https://live.staticflickr.com/7219/7245219732_bfe058f97f_z.jpg # Fuente https://flic.kr/p/c3eDpA
+      background: /assets/images/landing_page/imgDest_Wallace.png
       cta:
       - text: Inscribirse
         href: https://humboldt-org-co.zoom.us/webinar/register/WN_fsc8vZqhT0W4xESDS0wTeg
@@ -76,9 +76,9 @@ destacados:
       description: |      # required
            Guía para incorporar productos SiB Colombia en el CvLac
       # img required
-      background: https://live.staticflickr.com/7046/6931380311_b2e363eabc_c.jpg # Fuente https://flic.kr/p/c3eDpA
+      background: /assets/images/landing_page/imgDest_MinCiencias.png
       cta:
-      - text: Conocer
+      - text: Ver más
         href: /post/2021/convocatoria-nacional-medicion-grupos-cvlac-sib/
         isPrimary: true
     
