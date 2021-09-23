@@ -1,20 +1,18 @@
 ---
-layout: heroImage
+layout: compose
 title: Actividad de publicación
-description: Este reporte mensual entrega una serie de gráficos, cifras y estadísticas de la actividad de publicación y uso de datos sobre biodiversidad publicados a través del SiB Colombia. Las métricas resaltan las organizaciones publicadoras del mes y el uso de datos en publicaciones indexadas. 
+description: Este reporte mensual entrega una serie de gráficos, cifras y estadísticas de la actividad de publicación y uso de datos sobre biodiversidad publicados a través del SiB Colombia. Las métricas resaltan las organizaciones publicadoras del mes y el uso de datos en publicaciones indexadas.
 background: https://live.staticflickr.com/65535/5730740301_39ffae8b5e_b.jpg
 imageLicense: |
-  _Stolas_ Fotografía de: U.Schmidt vía [Flickr](https://flic.kr/p/9Jpxrg) 
+  _Stolas_ Fotografía de: U.Schmidt vía [Flickr](https://flic.kr/p/9Jpxrg)
 height: 41vh
 toc: true
+composition: 
+  - type: heroImage
+  - type: blank
+    data: custom.reporte_actual
+  - type: pageMarkdown
 ---
-
-# Reporte mensual Agosto 2021
-
-Consulta los restultados de la actividad de publicación mas reciente. Encontrarás el número de recursos publicados, actualizaciones, registros biológicos, etc.  
-
-<iframe src="/comunidad/imagenes/Reporte_Mensual_-_Agosto_2021.pdf" width="640" height="500" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
 
 
 
