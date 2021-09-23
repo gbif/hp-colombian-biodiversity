@@ -133,27 +133,3 @@ productExample:
   background: /assets/img/product-right.png
 
     
-blank: 
-  klass: test
-  markdownContent: |
-    <style>
-      .my-headline {
-          margin: 0;
-          background-image: url('/assets/img/Haeckel_Siphoneae.jpg'); 
-          background-size: cover; 
-          -webkit-background-clip: text; 
-          -webkit-text-fill-color: transparent; 
-          font-size: 120px; 
-          text-align: center; 
-          text-transform: uppercase; 
-          font-weight: 900;
-      } 
-    </style>
-    <div style="background: #444440; color: white">
-      <h1 class="my-headline">A blank slate - do as you like here</h1>
-      <div style="text-align: center; padding: 24px">
-        <h2>type: blank</h2>
-        <p>See <a href="https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml"><code class="language-plaintext highlighter-rouge">_data/compose/markdownBlock.yml</code></a> for the content structure.</p>
-      </div>
-    </div>
-    
