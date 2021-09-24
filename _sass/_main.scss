@@ -51,9 +51,15 @@ body, button, input, select, textarea {
 section.splitBanner {
 	max-width: $navbar-breakpoint;
 }
+
 article.feature {
 	border: none;
-	box-shadow: 0px 0px 15px rgba(0,0,0,0.15);
+	box-shadow: 0px 0px 15px rgba(0,0,0,0.10);
+	border-radius: 3px;
+}
+
+section.features, section.splitBanner, section.product, section.textBanner {
+    border-bottom: none;
 }
 
 //Le da el estilo redondeado a los botones y la letra siempre mayñuscula
