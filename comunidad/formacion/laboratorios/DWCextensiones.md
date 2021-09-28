@@ -86,7 +86,7 @@ Una vez que haya explorado la extensión e identificado los elementos obligatori
     - <span style="color:MediumSeaGreen">**_measurementType_**</span>: largo del pico.
     - <span style="color:MediumSeaGreen">**_measurementeValue_**</span>: 20.
     - <span style="color:MediumSeaGreen">**_measurementUnit_**</span>: mm (milímetros).
-    - <span class="tag is-success is-light">_**measurementUnit**_</span>
+    - <span class="tag is-success">_**measurementUnit**_</span>
     - <span class="content is-success is-light">_measurementeUnit_</span>
 
 * **Cualitativas** (hechos): son variables categóricas que guardan algún tipo de lógica, pero no están asociadas directamente a una unidad de medida. Por consiguiente, se asocian a los elementos <span style="color:MediumSeaGreen">**_measurementType_**</span> y <span style="color:MediumSeaGreen">**_measurementeValue_**</span>. Por ejemplo:
