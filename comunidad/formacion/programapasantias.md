@@ -2,7 +2,7 @@
 layout: heroImage
 title: Programa de pasantías SiB Colombia
 description: Desde el 2015  más de 18 pasantes se han formado con el programa de pasantías en sus diferentes líneas de trabajo.
-background: /assets/images/fondos_layout/tetragoniscaNido_cp.jpg
+background: https://live.staticflickr.com/4473/37037970470_956b93fe44_b.jpg
 imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/) 
 height: 41vh
