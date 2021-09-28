@@ -2,7 +2,7 @@
 layout: heroImage
 title: Cómo citar datos e información
 description: Esta guía ofrece los ejemplos más comunes de citación utilizados por usuarios del SiB Colombia.
-background: https://live.staticflickr.com/1639/24849064810_c404bc7e0b_h.jpg
+background: https://live.staticflickr.com/65535/48199389831_f5c29cb746_b.jpg
 imageLicense: |
   _Theobroma cacao_ Fotografía de: Forest and Kim Starr vía [Flickr](https://flic.kr/p/DRPXeU) 
 
