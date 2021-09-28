@@ -4,7 +4,7 @@ title: Preguntas Frecuentes
 description: Estas son  algunas de las preguntas mas frecuentes que respondemos desde el SiB Colombia.
 background: https://live.staticflickr.com/4688/38867942014_c05053282c_b.jpg
 imageLicense: |
-  [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)Fotografía de: Camila Plata via [flickr](https://www.flickr.com/photos/camisilver/6934174945/)
+  _Sula leucogaster_ Fotografía de: A.Davey via [Flickr](https://flic.kr/p/22dCn2h)
 height: 41vh
 toc: true
 ---
