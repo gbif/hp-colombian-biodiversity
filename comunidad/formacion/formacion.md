@@ -7,7 +7,7 @@ description: |
    Para la publicación acceso y uso de datos sobre Biodiversidad.
 background: https://live.staticflickr.com/2819/33380131483_873668daec_b.jpg
 imageLicense: |
-   _Paepalanthus columbiensis_ Fotografía de: Luis Alejandro Bernal Romero vía [Flickr](https://flic.kr/p/fEEWsd)
+   Fotografía de: Laurie Nature Bee vía [Flickr](https://flic.kr/p/SRFU9k)
 height: 41vh
 composition:
   - type: heroImage # the block type
