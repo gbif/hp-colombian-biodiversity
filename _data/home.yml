@@ -113,17 +113,8 @@ splitActividadPublicacion:
     href: /comunidad/actividadpublicacion
     isPrimary: true
     
-espacio:
-  preTitle:  # optional
-  #href: /assets/images/logos/BannerwebAlianzaAZUL_Mesa-de-trabajo-1.png
-  #title: Un aporte del sector empresarial al conocimiento de la biodiversidad
-  description: |      # required
 
-  background: "#374955"
-  #overlayColor: "#374955"
-  hasWhiteText: true
-
-
+#Ejemplo de tema base
 productExample:
   align: right
   preTitle: Publicar  # optional
