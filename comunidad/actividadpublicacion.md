@@ -8,7 +8,6 @@ imageLicense: |
 height: 41vh
 toc: true
 composition:
-  - type: custom.reporte_texto
   - type: heroImage
   - type: blank
     data: custom.reporte_actual
