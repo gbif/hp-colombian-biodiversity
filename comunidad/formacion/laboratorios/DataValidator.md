@@ -51,9 +51,14 @@ Cree una cuenta de usuario en [GBIF](https://www.gbif.org) o ingrese con sus cre
 ## Paso 2 - Cargar el archivo
 Cargue el archivo <FONT FACE="monospace"><b>«datos_Estructurados.xls»</b></FONT> en el validador. Para esto, (1) haga clic en ```SELECCIONAR UN ARCHIVO``` o (2) arrastre el archivo desde una carpeta al ícono ```SOLTAR AQUÍ```. 
 
-```warning
-Es indispensable que el elemento **_occurrenceID_** esté documentado para que el _DataValidator_ reconozca el archivo.
-```
+<article class="message is-warning">
+  <div class="message-header">
+    <p>¡Precaución!</p>
+  </div>
+  <div class="message-body">
+    Es indispensable que el elemento **_occurrenceID_** esté documentado para que el _DataValidator_ reconozca el archivo.
+  </div>
+</article>
 
 El validador le indicará si el conjunto de datos tiene la estructura adecuada para ser publicado a través del SiB Colombia, GBIF y [OBIS](https://obis.org/) o si es necesario realizar ajustes. El informe de validación contiene la siguiente información:
 
