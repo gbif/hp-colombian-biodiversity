@@ -9,7 +9,7 @@ height: 41vh
 toc: true
 composition:
   - type: markdown
-    data: custom.markdown_reporte
+    data: reporte
   - type: heroImage
   - type: blank
     data: custom.reporte_actual
