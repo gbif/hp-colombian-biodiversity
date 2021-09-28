@@ -4,7 +4,7 @@ title: Cómo citar datos e información
 description: Esta guía ofrece los ejemplos más comunes de citación utilizados por usuarios del SiB Colombia.
 background: https://live.staticflickr.com/65535/48199389831_f5c29cb746_b.jpg
 imageLicense: |
-  _Theobroma cacao_ Fotografía de: Forest and Kim Starr vía [Flickr](https://flic.kr/p/DRPXeU) 
+  Ave del paraíso Fotografía de: Alejandro Bayer vía [Flickr](https://flic.kr/p/2grdtmB) 
 
 height: 41vh
 toc: true
