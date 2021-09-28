@@ -20,7 +20,7 @@ var siteConfig = {
         "type":"equals",
         "key": "country",
         "value": "CO"
-      },
+      }
     ]
   },
   highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince','elevation','year', 'basisOfRecord', 'recordedBy','publishingOrg','datasetKey','datasetName','occurrenceIssue']
