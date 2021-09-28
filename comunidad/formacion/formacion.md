@@ -5,7 +5,7 @@ permalink: /comunidad/formacion
 title: Formación
 description: |
    Para la publicación acceso y uso de datos sobre Biodiversidad.
-background: https://live.staticflickr.com/638/20808352068_c0139f1053_b.jpg
+background: https://live.staticflickr.com/2819/33380131483_873668daec_b.jpg
 imageLicense: |
    _Paepalanthus columbiensis_ Fotografía de: Luis Alejandro Bernal Romero vía [Flickr](https://flic.kr/p/fEEWsd)
 height: 41vh
