@@ -4,17 +4,27 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 
 var siteConfig = {
   rootPredicate: {
-    "type": "and",
+    "type": "or",
     "predicates": [
-   		{
-        "type":"equals",
+      {
         "key": "publishingCountry",
+        "type": "equals",
         "value": "CO"
       },
       {
-        "type": "equals",
-        "key": "notIssues",
-        "value": "COUNTRY_COORDINATE_MISMATCH"
+        "type": "and",
+        "predicates": [
+          {
+            "key": "publishingCountry",
+            "type": "equals",
+            "value": "CO"
+          },
+          {
+            "key": "notIssues",
+            "type": "equals",
+            "value": "COUNTRY_COORDINATE_MISMATCH"
+          }
+        ]
       }
     ]
   },
