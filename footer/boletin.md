@@ -1,5 +1,5 @@
 ---
-layout: hero
+layout: heroImage
 title: Boletín SiB Colombia
 description: Unirse a la red nacional de datos abiertos sobre biodiversidad
 background: https://live.staticflickr.com/5722/20362128869_39b361c39c_b.jpg
