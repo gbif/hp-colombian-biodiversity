@@ -193,9 +193,9 @@ La selección de los pasantes se hace basada unicamente en meritos y en los resu
 Los candidatos que obtuvieron los puntajes más altos en la prueba técnica de la Etapa 2 serán invitados a una entrevista para definir a los pasantes que serán vinculados, y serán informados de los resultados una semana después de la entrevista.
   
 
-# ¿Qué hacer si eres seleccionado?
+# Vinculación
 
-La vinculación se realiza por medio de un Acuerdo de Vinculación Tripartita expedido por el Instituto Humboldt según lo estipulado en la resolución 623 del 2020 del Ministerio de Trabajo, los estudiantes deben verificar que esta modalidad de vincualación sea aceptada por su Universidad.
+De ser seleccionado la vinculación se realiza por medio de un Acuerdo de Vinculación Tripartita expedido por el Instituto Humboldt según lo estipulado en la resolución 623 del 2020 del Ministerio de Trabajo, los estudiantes deben verificar que esta modalidad de vincualación sea aceptada por su Universidad.
 
 En caso de ser elegido como pasante los estudiantes deberán recopilar los siguientes documentos en un periodo no mayor a 2 semanas:
 
