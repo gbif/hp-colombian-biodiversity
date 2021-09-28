@@ -80,13 +80,13 @@ Una vez que haya explorado la extensión e identificado los elementos obligatori
 
 #### 3.1. Identificar el tipo de medidas o hechos
 
-Teniendo en cuenta que las medidas se pueden dividir en dos categorías, identifique el tipo de cada una.
+<code>Teniendo en cuenta que las medidas se pueden dividir en dos categorías, identifique el tipo de cada una.</code> **_```Get data from > This Computer```_** ```SELECCIONAR UN ARCHIVO```
 
 * **Cuantitativas** (medidas): son variables cuantificables que cuenta con una unidad de medida. Por lo tanto, se asocian a los elementos <span style="color:MediumSeaGreen">**_measurementType_**</span>, <span style="color:MediumSeaGreen">**_measurementeValue_**</span> y <span style="color:MediumSeaGreen">**_measurementeUnit_**</span>. Por ejemplo:
     - <span style="color:MediumSeaGreen">**_measurementType_**</span>: largo del pico.
     - <span style="color:MediumSeaGreen">**_measurementeValue_**</span>: 20.
-    - <span style="color:MediumSeaGreen">**_measurementeUnit_**</span>: mm (milímetros).
-    - <span class="tag is-success is-light">_measurementeUnit_</span>
+    - <span style="color:MediumSeaGreen">**_measurementUnit_**</span>: mm (milímetros).
+    - <span class="tag is-success is-light">_**measurementUnit**_</span>
     - <span class="content is-success is-light">_measurementeUnit_</span>
 
 * **Cualitativas** (hechos): son variables categóricas que guardan algún tipo de lógica, pero no están asociadas directamente a una unidad de medida. Por consiguiente, se asocian a los elementos <span style="color:MediumSeaGreen">**_measurementType_**</span> y <span style="color:MediumSeaGreen">**_measurementeValue_**</span>. Por ejemplo:
