@@ -56,7 +56,7 @@ Cargue el archivo <FONT FACE="monospace"><b>«datos_Estructurados.xls»</b></FON
     <p>¡Precaución!</p>
   </div>
   <div class="message-body">
-    Es indispensable que el elemento **_occurrenceID_** esté documentado para que el _DataValidator_ reconozca el archivo.
+    Es indispensable que el elemento <b><i>occurrenceID</i></b> esté documentado para que el _DataValidator_ reconozca el archivo.
   </div>
 </article>
 
