@@ -7,7 +7,7 @@ description: |
    Para la publicación acceso y uso de datos sobre Biodiversidad.
 background: https://live.staticflickr.com/7598/26868873730_9859a95c6d_b.jpg
 imageLicense: |
-   Fotografía de: Laurie Nature Bee vía [Flickr](https://flic.kr/p/SRFU9k)
+   Fotografía de: Luis Alveart vía [Flickr](https://flic.kr/p/GWj14C)
 height: 41vh
 composition:
   - type: heroImage # the block type
