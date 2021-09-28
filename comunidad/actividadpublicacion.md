@@ -16,7 +16,9 @@ composition:
   - type: pageMarkdown
 ---
 
+# Histrórico de reportes mensuales
 
+Consulta los reportes históticos de actividad de publicación desde el año 2016 hasta la fecha.
 
 # 2021
 
