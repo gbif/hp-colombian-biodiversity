@@ -8,9 +8,10 @@ reporte_actual:
   markdownContent: |
     <iframe width="600" height="4625" src="https://datastudio.google.com/embed/reporting/a92bbb7e-f5f5-4413-9a9d-e025e5c283bc/page/Ge2V" frameborder="0" style="border:0" allowfullscreen></iframe>
   
-markdown_reporte: | 
-  # Reporte mensual Agosto 2021
-  Consulta los restultados de la actividad de publicación mas reciente. Encontrarás el número de recursos publicados, actualizaciones, registros biológicos, etc.  
+markdown_reporte:
+  markdownContent: |
+    # Reporte mensual Agosto 2021
+   Consulta los restultados de la actividad de publicación mas reciente. Encontrarás el número de recursos publicados, actualizaciones, registros biológicos, etc.  
 
 
 formularioRegistro:
