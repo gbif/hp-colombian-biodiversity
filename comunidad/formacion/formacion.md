@@ -5,7 +5,7 @@ permalink: /comunidad/formacion
 title: Formación
 description: |
    Para la publicación acceso y uso de datos sobre Biodiversidad.
-background: https://live.staticflickr.com/2819/33380131483_873668daec_b.jpg
+background: https://live.staticflickr.com/7598/26868873730_9859a95c6d_b.jpg
 imageLicense: |
    Fotografía de: Laurie Nature Bee vía [Flickr](https://flic.kr/p/SRFU9k)
 height: 41vh
