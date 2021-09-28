@@ -2,6 +2,8 @@
 title: Privacy policy
 description: Privacy policy
 permalink: /privacy
+sideNavigation: sidenav_terminoscondiciones.terms
+toc: true
 layout: standardPrivacy
 ---
 The "standardPrivacy" layout generates the layout based on a few parameters defined in `_config.yml`. So this text will not show.
