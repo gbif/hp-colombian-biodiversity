@@ -4,7 +4,7 @@ title: Programa de pasantías SiB Colombia
 description: Desde el 2015  más de 18 pasantes se han formado con el programa de pasantías.
 background: https://live.staticflickr.com/2916/32850527984_dbf3cbee9d_b.jpg
 imageLicense: |
-  Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/) 
+  Fotografía de: Luis Alveart vía [Flickr](https://flic.kr/p/S3Txtw) 
 height: 41vh
 toc: true
 ---
