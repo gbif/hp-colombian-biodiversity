@@ -15,11 +15,6 @@ var siteConfig = {
         "type": "equals",
         "key": "notIssues",
         "value": "COUNTRY_COORDINATE_MISMATCH"
-      },
-      {
-        "type":"equals",
-        "key": "country",
-        "value": "CO"
       }
     ]
   },
