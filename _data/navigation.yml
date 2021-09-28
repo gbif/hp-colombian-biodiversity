@@ -4,7 +4,7 @@
   menu: # Dropdown menu (one level deep only)
   - text: Registros biológicos
     href: /data
-  - text: Listas
+  - text: Listas de chequeo
     href: https://listas.biodiversidad.co/
     target: _blank
   - text: Fichas
