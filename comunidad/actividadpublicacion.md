@@ -8,9 +8,9 @@ imageLicense: |
 height: 41vh
 toc: true
 composition:
+  - type: heroImage
   - type: markdown
     data: custom.markdown_reporte
-  - type: heroImage
   - type: blank
     data: custom.reporte_actual
   - type: pageMarkdown
