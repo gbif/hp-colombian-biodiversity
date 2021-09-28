@@ -100,7 +100,7 @@ De acuerdo al paso anterior, ahora deberá mapear las medidas en los elementos d
 
 
 #### 3.3. Estructurar el elemento occurrenceID
-Para usar cualquier extensión, es necesario contar con un identificador (ID). Este permite enlazar la extensión con los datos. En este ejercicio, el <span style="color:MediumSeaGreen">**_occurrenceID_**</span> cumple el rol de identificador, ya que los datos corresponden a registros biológicos (<FONT FACE="monospace"><b>«Ejercicio1_Registrosbiologicos_Estructurado.xlsx»</b></FONT>). Por lo tanto, debe asegurarse de que el <span style="color:MediumSeaGreen">**_occurrenceID_**</span> de la extensión **Medidas o hechos** coincida exactamente con el del conjunto de datos estructurado. Haga los ajustes necesarios para que coincidan (Fig. 3).
+Para usar cualquier extensión, es necesario contar con un identificador (ID). Este permite enlazar la extensión con los datos. En este ejercicio, el <span style="color:Blue">**_occurrenceID_**</span> cumple el rol de identificador, ya que los datos corresponden a registros biológicos (<FONT FACE="monospace"><b>«Ejercicio1_Registrosbiologicos_Estructurado.xlsx»</b></FONT>). Por lo tanto, debe asegurarse de que el <span style="color:MediumSeaGreen">**_occurrenceID_**</span> de la extensión **Medidas o hechos** coincida exactamente con el del conjunto de datos estructurado. Haga los ajustes necesarios para que coincidan (Fig. 3).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig3_Extensiones_occurrenceID.png" width=400>
 
