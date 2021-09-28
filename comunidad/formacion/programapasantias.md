@@ -9,7 +9,7 @@ height: 41vh
 toc: true
 ---
 
-La red del SiB Colombia facilita la publicación, acceso y uso de los datos e información que son la base para cuantificar, entender y proteger la Biodversidad del país. Para hacerlo contamos con un equipo interdisciplinario de profesionalessin embargo, hemos indentificado que aún hay un desconocimeinto enorme dentro de la comunidad sobre temas relevantes como informática de la biodiversidad, datos abiertos, y buenas prácticas para el manejo y uso de los datos. Es por eso que dentro de nuestra estrategia de formación las pasantías son un eje importante para formar profesionales con habilidades específicas en estos frentes y que a su vez se transmitan los conocimientos adquiridos en los distintos sectores donde se desempeñen profesionalmente en el futuro.
+La red del SiB Colombia facilita la publicación, acceso y uso de los datos e información que son la base para cuantificar, entender y proteger la Biodversidad del país. Para hacerlo contamos con un equipo interdisciplinario de profesionales sin embargo, hemos indentificado que aún hay un desconocimeinto enorme dentro de la comunidad sobre temas relevantes como informática de la biodiversidad, datos abiertos, y buenas prácticas para el manejo y uso de los datos. Es por eso que dentro de nuestra estrategia de formación las pasantías son un eje importante para formar profesionales con habilidades específicas en estos frentes y que a su vez se transmitan los conocimientos adquiridos en los distintos sectores donde se desempeñen profesionalmente en el futuro.
 
 
 # Objetivos
@@ -166,8 +166,8 @@ Esta pasantía busca el diseño e implementar estrategias de divulgación cient�
 
 La convocatoria se abré  anualmente o semestralmente por el periodo de un mes durante el cuál se recibiran aplicaciones unicamente por medio del formulario dispuesto para ello.
   
-  1er Semestre -  Convocatoria de Marzo a Abril para ejecutar la pasantía de Julio a Diciembre del siguiente semestre.
-  2do Semestre -  Convocatoria de Agosto a Septiembre para ejecutar la pasantía de Enero a Junio del siguiente semestre.
+  - 1er Semestre -  Convocatoria de Marzo a Abril para ejecutar la pasantía de Julio a Diciembre del siguiente semestre.
+  - 2do Semestre -  Convocatoria de Agosto a Septiembre para ejecutar la pasantía de Enero a Junio del siguiente semestre.
 
 La selección de los pasantes se hace basada unicamente en meritos y en los resultados de su prueba técnica y entrevista. En el SiB Colombia promovemos al diversidad cultural, social y de género, e invitamos a todos los estudiantes a aplicar.
 
