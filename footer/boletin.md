@@ -1,8 +1,13 @@
 ---
-layout: default
-title: "layout: default"
+layout: hero
+title: Boletín SiB Colombia
+description: Unirse a la red nacional de datos abiertos sobre biodiversidad
+background: https://live.staticflickr.com/5722/20362128869_39b361c39c_b.jpg
+imageLicense: |
+  _Scinax ruber_ Fotografía de: Sebastian Di Domenico vía [Flickr](https://flic.kr/p/ELgpV1) 
+height: 41vh
 permalink: /boletin
-description: Boletín SiB Colombia
+
 ---
 
 <!-- Begin Mailchimp Signup Form -->
