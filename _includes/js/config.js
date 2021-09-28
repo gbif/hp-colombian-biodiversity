@@ -15,7 +15,7 @@ var siteConfig = {
         "type": "and",
         "predicates": [
           {
-            "key": "publishingCountry",
+            "key": "country",
             "type": "equals",
             "value": "CO"
           },
