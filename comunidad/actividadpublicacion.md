@@ -7,7 +7,8 @@ imageLicense: |
   _Stolas_ Fotografía de: U.Schmidt vía [Flickr](https://flic.kr/p/9Jpxrg)
 height: 41vh
 toc: true
-composition: 
+composition:
+  - type: custom.reporte_texto
   - type: heroImage
   - type: blank
     data: custom.reporte_actual
