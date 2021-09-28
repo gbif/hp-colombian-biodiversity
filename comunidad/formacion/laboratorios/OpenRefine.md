@@ -12,7 +12,7 @@ toc: true
 
 **Objetivo**
 
-'''Utilizar _Open Refine_ para manejar, validar y limpiar de manera eficiente datos sobre biodiversidad, asegurando una mejor calidad para su publicación.´´´
+´´´Utilizar _Open Refine_ para manejar, validar y limpiar de manera eficiente datos sobre biodiversidad, asegurando una mejor calidad para su publicación.```
 
 **Sobre la Herramienta**
 
