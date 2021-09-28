@@ -12,7 +12,7 @@ navbar:
   color: "#ffffff"
   hasWhiteText: false
 cta:
-  - text: CONSULTAR DATOS
+  - text: CONSULTAR
     href: /data
     isPrimary: true
 permalink: /
