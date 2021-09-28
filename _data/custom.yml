@@ -10,7 +10,7 @@ reporte_actual:
   
 markdown_reporte:
   markdownContent: |
-    Reporte mensual Agosto 2021
+    # Reporte mensual Agosto 2021
     Consulta los restultados de la actividad de publicación mas reciente. Encontrarás el número de recursos publicados, actualizaciones, registros biológicos, etc.  
 
 
