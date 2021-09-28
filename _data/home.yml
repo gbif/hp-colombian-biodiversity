@@ -19,7 +19,7 @@ stats:
       background: /assets/images/landing_page/iconos_cifras/ico_fichaEspecies_gris.png
       href: https://catalogo.biodiversidad.co/
     - title: <span data-ajax-path="facets.0.counts.0.count" data-ajax-url="https://api.gbif.org/v1/dataset/search?facet=type&type=CHECKLIST&publishing_country=CO&limit=0">100,000</span> # using a dynamic value from some endpoint. You can configure what value it should take using the `data-ajax-path` attribute
-      description: Listas de especies
+      description: Listas de chequeo
       background: /assets/images/landing_page/iconos_cifras/ico_listaEspecies_gris.png
       href: https://listas.biodiversidad.co/
       # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
