@@ -22,7 +22,12 @@ Las metas de aprendizaje de este laboratorio son:
 
 ### Guías
 
-{% include list.liquid %}
+1. [Open Refine](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine)
+2. [Species Matching](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/SpeciesMatching)
+3. [Conversión Fechas]()
+4. [Conversión Coordenadas](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/ConversionCoordenadas)
+5. [Visualización Coordenadas](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/ConversionFechas)
+6. [Validación geográfica con QGIS]()
 
 
 ### Glosario
