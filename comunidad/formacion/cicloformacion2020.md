@@ -1,15 +1,11 @@
 ---
 layout: compose
 title: Ciclo de Formación Virtual 2020
-description: Iniciaremos con los conceptos generales sobre la importancia de compartir datos sobre biodiversidad, pasando por los aspectos técnicos del modelo de publicación del SiB Colombia, para finalizar con ejercicios prácticos haciendo uso de diferentes herramientas que nos permitirán contar con datos estandarizados con la mayor calidad posible para su publicación, acceso y uso.
-background: /assets/images/fondos_layout/QUI01259_Villegas-Velez-Felipe.jpg
+description: Seminarios y laboratorios sobre la publicación de datos a través del SiB Colombia.
+background: https://live.staticflickr.com/1660/24882603485_a6ce0e0823_b.jpg
 imageLicense: Working from home illustration from [DrawKit](https://www.drawkit.io/product/working-from-home-illustrations) # OPTIONAL
 toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
 height: 41vh
-parallax: true
-overlayColor: "#ffffffbb"
-hasTextShadow: true
-hasBlackText: true
 composition:
 - type: heroImage
 - type: pageMarkdown
@@ -22,11 +18,9 @@ composition:
 
 # Información del curso
 
-Este ciclo de formación contiene varios capítulos en línea con un énfasis en la preparación de datos sobre biodiversidad para la publicación a través del SiB Colombia. El desarrollo de los contenidos se realizará en la modalidad e-learning a través de la plataforma Zoom en 11 capítulos diferentes entre seminarios y sesiones prácticas.
+Este ciclo de formación contiene varios capítulos en línea con un énfasis en la preparación de datos sobre biodiversidad para la publicación a través del SiB Colombia. El desarrollo de los contenidos se realizará en la modalidad e-learning a través de la plataforma Zoom en 11 capítulos diferentes entre seminarios (8) y sesiones prácticas (3).
 
-* Seminarios: 8
-
-* Prácticas: 3
+Iniciaremos con los conceptos generales sobre la importancia de compartir datos sobre biodiversidad, pasando por los aspectos técnicos del modelo de publicación del SiB Colombia, para finalizar con ejercicios prácticos haciendo uso de diferentes herramientas que nos permitirán contar con datos estandarizados con la mayor calidad posible para su publicación, acceso y uso.
 
 
 ## Objetivos
