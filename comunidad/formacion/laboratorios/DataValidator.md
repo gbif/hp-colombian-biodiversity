@@ -22,6 +22,10 @@ toc: true
 
 <FONT FACE="monospace"><b>«datos_Estructurados.xls»</b></FONT>
 
+
+
+
+
 **Opciones de las herramientas asociadas a una acción (clic, selección, etc.)**
 
 - Opción 1 (igual que en las guías anteriores)
