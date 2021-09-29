@@ -39,7 +39,7 @@ _```New project```_ ,```SELECCIONAR UN ARCHIVO```, ```OK```
 **Secuencias de instrucciones**
 
 <span class="tag is-danger is-light"><i>Get data from > This Computer</i></span>
-<span class="tag is-info is-light"><i>Get data from > This Computer</i></span>
+
 **Comandos de código y escritura en cuadros de texto**
 
 <span class="tag is-light"><b>value.replace(" sp.","")</b></span>
@@ -301,4 +301,4 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, 
 
 **Citación sugerida**
 
-> Plata C., Ortíz R., Marentes E. (2021). Laboratorios de datos, Ciclo de formación virtual. Consultado a través del SiB Colombia. Disponible en https://sib-colombia.github.io/Formacion/
+> Plata C., Ortíz R., Marentes E. (2021). Laboratorios de datos, Ciclo de formación virtual. Consultado a través del SiB Colombia. Disponible en <a>https://sib-colombia.github.io/Formacion/</a>
