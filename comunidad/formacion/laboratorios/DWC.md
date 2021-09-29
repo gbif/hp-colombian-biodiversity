@@ -58,9 +58,9 @@ En la pestaña de instrucciones, encontrará adicionalmente una sección titulad
 Abra el archivo de trabajo [<FONT FACE="monospace"><b>«Datos_Caso1_20reg.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_docs/Datos_Caso1_20reg.xlsx) y cree los elementos obligatorios faltantes a partir de la información del caso de estudio y los mismos datos.
 
  
-> **Pista**: Debe crear un identificador único del registro biológico (<span style="color:MediumSeaGreen">**_occurrenceID_**</span>) a partir del código de la institución (<span style="color:MediumSeaGreen">**_institutionCode_**</span>), código de la colección (<span style="color:MediumSeaGreen">**_collectionCode_**</span>) y número de catálogo (<span style="color:MediumSeaGreen">**_catalogNumber_**</span>). Revise la definición del elemento <span style="color:MediumSeaGreen">**_occurrenceID_**</span> en la plantilla para saber cómo construirlo.
+> **Pista**: Debe crear un identificador único del registro biológico (<span class="tag is-success is-light"><i>occurrenceID</i></span>) a partir del código de la institución (<span class="tag is-success is-light"><i>institutionCode</i></span>), código de la colección (<span class="tag is-success is-light"><i>collectionCode</i></span>) y número de catálogo (<span class="tag is-success is-light"><i>catalogNumber</i></span>). Revise la definición del elemento <span style="color:MediumSeaGreen">**_occurrenceID_**</span> en la plantilla para saber cómo construirlo.
 
-Ejemplo de (<span style="color:MediumSeaGreen">**_occurrenceID_**</span>): UCN:MH-ORNIT:46-2300MI2008AV0954.
+Ejemplo de (<span class="tag is-success is-light"><i>occurrenceID</i></span>): UCN:MH-ORNIT:46-2300MI2008AV0954.
 
 
 ## Paso 4 - Mapeo de los datos 
