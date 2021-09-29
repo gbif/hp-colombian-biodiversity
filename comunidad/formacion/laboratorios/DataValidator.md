@@ -39,7 +39,7 @@ _```New project```_ ,```SELECCIONAR UN ARCHIVO```, ```OK```
 **Secuencias de instrucciones**
 
 <span class="tag is-danger is-light"><i>Get data from > This Computer</i></span>
-
+<span class="tag is-info is-light"><i>Get data from > This Computer</i></span>
 **Comandos de código y escritura en cuadros de texto**
 
 <span class="tag is-light"><b>value.replace(" sp.","")</b></span>
