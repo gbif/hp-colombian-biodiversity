@@ -2,7 +2,8 @@
 layout: heroImage
 klass: actividad
 title: Herramienta de publicación - IPT
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Finaturalist-open-data.s3.amazonaws.com%2Fphotos%2F61266839%2Foriginal.jpeg%3F1581437869
+background: https://live.staticflickr.com/65535/50070932756_4aa730ee8f_b.jpg
+# https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Finaturalist-open-data.s3.amazonaws.com%2Fphotos%2F61266839%2Foriginal.jpeg%3F1581437869
 imageLicense: |
   Mono Aullador Rojo Fotografía de: guyincognito vía [iNaturalist](https://www.inaturalist.org/observations/38539800) 
 height: 41vh
