@@ -42,7 +42,7 @@ permalink: /boletin
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1abaf095958731c6d80db5402_cb9a56db68" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Suscribirse" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    <div class="button is-warning"><input type="submit" value="Suscribirse" name="subscribe" id="mc-embedded-subscribe" class="button is-warning"></div>
+
 
     </div>
 </form>
@@ -71,6 +71,8 @@ $.extend($.validator.messages, {
   min: $.validator.format("Por favor, escribe un valor mayor o igual a {0}.")
 });}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+#mc-embedded-subscribe { background-color: #0a99a !important; }
+#mc-embedded-subscribe:hover { background-color: #d40000 !important; }
 
 
 <p><small>Puede cancelar su suscripción en cualquier momento haciendo clic en el enlace al final de los correos que le enviaremos. Para mayor información consulte la sección Términos y Condiciones en nuestro sitio web.</small></p>
