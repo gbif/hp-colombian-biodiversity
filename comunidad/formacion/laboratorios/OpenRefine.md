@@ -35,8 +35,8 @@ Esta herramienta sirve para **todo tipo de datos**. Sin embargo, en este laborat
 - Los archivos a utilizar en los ejercicios se muestran entre comillas angulares, negrita, y tienen una tipografía diferente. Por ejemplo: <FONT FACE="monospace"><b>«archivo_Ejemplo.xls»</b></FONT>.
 - Las secciones, ventanas y componentes de las herramientas utilizadas se muestran entre comillas inglesas y en negrita. Por ejemplo: **"Create Project"**.
 - Las opciones de las herramientas que se asocian a instrucciones (dar clic, seleccionar, etc.) aparecen en formato de código, con una tipografía distinta de color naranja. Por ejemplo: ```Choose Files```.
-- Las secuencias de instrucciones y pasos se muestran en formato de código y negrita, con una tipografía distinta de color naranja. Por ejemplo: **_```Paso 1 > Paso 2```_**.
-- Las líneas que se escriben directamente en las herramientas, para programar o realizar algún proceso en específico, aparecen en formato de código, con una tipografía distinta de color negro. Por ejemplo: <code>línea_de_prueba</code>.
+- Las secuencias de instrucciones y pasos se muestran en formato de código y negrita, con una tipografía distinta de color naranja. Por ejemplo: <b>_```Paso 1 > Paso 2```_</b>.
+- Las líneas que se escriben directamente en las herramientas, para programar o realizar algún proceso en específico, aparecen en formato de código, con una tipografía distinta de color negro. Por ejemplo: <span class="tag is-white">línea_de_prueba</span><code>.
 
 **Requerimientos** 
 
