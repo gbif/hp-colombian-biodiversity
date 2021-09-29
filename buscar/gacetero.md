@@ -1,7 +1,7 @@
 ---
 layout: compose
 title: Gacetero de localidades
-description: Sitios de referencia donde se han realizado recolecciones de especímenes y que han sido georreferenciados bajo el método de georreferenciación Radio-Punto.
+description: Sitios de referencia donde se han realizado recolecciones de especímenes y que han sido georreferenciados.
 background: https://live.staticflickr.com/4357/36486116485_acf9b28465_b.jpg
 imageLicense: |
    Fotografía de: Felipe Villegas-Vélez Instituto Humboldt [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) 
