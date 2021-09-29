@@ -22,18 +22,18 @@ permalink: /boletin
 <form action="https://sibcolombia.us7.list-manage.com/subscribe/post?u=1abaf095958731c6d80db5402&amp;id=cb9a56db68" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="indicates-required"><span class="asterisk">*</span> obligatorio</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+	<label for="mce-EMAIL">Correo electrónico  <span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
-	<label for="mce-LNAME">Last Name </label>
+	<label for="mce-LNAME">Apellido </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-FNAME">First Name </label>
+	<label for="mce-FNAME">Nombre </label>
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
 	<div id="mce-responses" class="clear">
@@ -70,8 +70,7 @@ $.extend($.validator.messages, {
 });}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-<span>Boletín SiB Colombia</span> </label>
-        </fieldset>
-        <p>Puede cancelar su suscripción en cualquier momento haciendo clic en el enlace al final de los correos que le enviaremos. Para mayor información consulte la sección Términos y Condiciones en nuestro sitio web.</p>
-    </div>
+
+<p>Puede cancelar su suscripción en cualquier momento haciendo clic en el enlace al final de los correos que le enviaremos. Para mayor información consulte la sección Términos y Condiciones en nuestro sitio web.</p>
+
 
