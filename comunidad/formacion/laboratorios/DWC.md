@@ -60,7 +60,7 @@ Abra el archivo de trabajo [<FONT FACE="monospace"><b>«Datos_Caso1_20reg.xlsx»
  
 > **Pista**: Debe crear un identificador único del registro biológico (<span class="tag is-success is-light"><i>occurrenceID</i></span>) a partir del código de la institución (<span class="tag is-success is-light"><i>institutionCode</i></span>), código de la colección (<span class="tag is-success is-light"><i>collectionCode</i></span>) y número de catálogo (<span class="tag is-success is-light"><i>catalogNumber</i></span>). Revise la definición del elemento <span style="color:MediumSeaGreen">**_occurrenceID_**</span> en la plantilla para saber cómo construirlo.
 
-Ejemplo de (<span class="tag is-success is-light"><i>occurrenceID</i></span>): UCN:MH-ORNIT:46-2300MI2008AV0954.
+Ejemplo de <span class="tag is-success is-light"><i>occurrenceID</i></span>: UCN:MH-ORNIT:46-2300MI2008AV0954.
 
 
 ## Paso 4 - Mapeo de los datos 
@@ -101,7 +101,7 @@ Si tiene datos propios que desee publicar, estandarícelos siguiendo los pasos d
 
 ****
 
-**¡Felicitaciones!** :raised_hands:
+**¡Felicitaciones!**
 Su conjunto de datos ha sido estandarizado según el *Darwin Core*.
 
 ****
@@ -116,5 +116,5 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, 
 
 **Citación sugerida**
 
-> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios
+> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en <a>https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios</a>
 > 
