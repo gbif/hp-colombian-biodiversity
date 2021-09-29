@@ -40,7 +40,7 @@ Los webinars son abiertos para todo el público y están dirigidos a los publica
 Si los participantes requieren un certificado por su participación, podrán solicitarlo al final del ciclo anual, relacionando los webinars a los que asistió. Esto lo aplica para aquellos usuarios registrados a través de la plataforma Zoom.
 
 
-<img src="/comunidad/formacion/images/Agradecimientos_CFV2020.PNG" width=770>
+<img src="/comunidad/formacion/images/CalendarioWebinars2021_30SEP-scaled.jpg" width=770>
 
 _**Inician**: jueves 15 de abril de 2021, 7:30 am - 8:30 am | _**Finalizan**: jueves 28 de octubre de 2021, 7:30 am - 8:30 am_
 
@@ -326,7 +326,7 @@ _**Inician**: jueves 10 de junio de 2021_ | _**Finalizan**: martes 03 de agosto 
 [Ciclo de Formación Virtual - Laboratorios de datos](https://sib-colombia.github.io/Formacion/)
 
 
-<img src="/comunidad/formacion/images/Agradecimientos_CFV2020.PNG" width=770>
+<img src="/comunidad/formacion/images/CalendarioLabs2021-16-scaled.jpg" width=770>
 
 
 <details>
@@ -354,7 +354,7 @@ _**Inician**: jueves 10 de junio de 2021_ | _**Finalizan**: martes 03 de agosto 
 <p>Introducción a las guías para la estructuración de datos sobre biodiversidad usando el estándar Darwin Core. Las guías te permitiran interactuar con el estándar Darwin Core y sus extensiones por medio de plantillas que facilitan el uso del estándar. También conoceras el Validador de datos, una herramienta en línea para ayudarte a identificar rápidamente potenciales problemas de estructura y calidad en tu conjunto de datos.
 <br>
 <br>
-Posterior a la introducción del laboratorio deberás realizar las guías de manera asincrónica, esto te tomará en un tiempo máximo de 3 horas.
+Posterior a la introducción del laboratorio deberás realizar las guías de manera asincrónica, esto te tomará en un tiempo máximo de 3 horas.</p>
 <br>
 <br>
 <b>Presenta:</b> Camila Plata & Ricardo Ortiz
@@ -586,11 +586,10 @@ Posterior a la introducción del laboratorio deberás realizar la guía de maner
 ---
 
 {: .notification .is-info }
-
-## Talleres
+# Talleres
 A través de acuerdos y alianzas con diferentes actores, el Equipo Coordinador del SiB Colombia desarrolla y ofrece talleres dirigidos a grupos focales con alcances específicos en el país o la región de Latinoamérica y el Caribe. Las condiciones de acceso a estos talleres pueden variar según los acuerdos establecidos con terceros.
 
-<img src="/comunidad/formacion/images/Agradecimientos_CFV2020.PNG" width=770>
+<img src="/comunidad/formacion/images/CESP_DQ_header_web-1280x400.jpg" width=770>
 
 # Agradecimientos
 
