@@ -38,7 +38,7 @@ _```New project```_ ,```SELECCIONAR UN ARCHIVO```, ```OK```
 
 **Secuencias de instrucciones**
 
-<span class="tag is-danger is-light"><i>Get data from > This Computer</i></span>
+<span class="tag is-info is-light"><i>Get data from > This Computer</i></span>
 
 **Comandos de código y escritura en cuadros de texto**
 
@@ -46,15 +46,10 @@ _```New project```_ ,```SELECCIONAR UN ARCHIVO```, ```OK```
 
 **Notas y avisos de precaución**
 
-<article class="message is-info">
-  <div class="message-header">
-    <p>Nota:</p>    
-  </div>
-  <div class="message-body">
-    El grado de incertidumbre de la identificación puede indicarse agregando varios calificativos, como “aff.” y “cf.”, al nombre científico. El calificativo se escribe después del elemento al que corresponde la incertidumbre de identificación (género o especie).
-  </div>
-</article>
-
+<div class="notification is-info is-light">
+  <FONT SIZE=5><b>Nota:</b></font> El grado de incertidumbre de la identificación puede indicarse agregando varios calificativos, como “aff.” y “cf.”, al nombre científico. El calificativo se escribe después del elemento al que corresponde la incertidumbre de identificación (género o especie).
+</div>
+ 
 <article class="message is-warning">
   <div class="message-header">
     <p>¡Precaución!</p>    
