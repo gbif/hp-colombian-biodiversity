@@ -47,6 +47,7 @@ toc: true
   </div>
   <div class="message-body">
     Es indispensable que el elemento <b><i>occurrenceID</i></b> esté documentado para que el <i>DataValidator</i> reconozca el archivo.
+  </div>
 </article>
   
   **Citas e incisos**
