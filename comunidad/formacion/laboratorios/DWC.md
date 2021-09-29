@@ -12,62 +12,59 @@ toc: true
 
 **Objetivo**
 
-Estructurar un conjunto de datos bajo el estándar [*Darwin Core (DwC)*](https://dwc.tdwg.org/terms/) siguiendo las buenas prácticas de documentación y vocabularios controlados del estándar.
+Estructurar un conjunto de datos bajo el estándar [*Darwin Core* (DwC)](https://dwc.tdwg.org/terms/), siguiendo sus vocabularios controlados y las buenas prácticas de documentación.
 
 **Sobre la actividad**
 
-Estructurar un conjunto de datos de prueba en el estándar *DwC* haciendo uso de la plantilla de publicación de registros biológicos del [SiB Colombia](https://sibcolombia.net/). El conjunto de datos tiene problemas de completitud y formato que deben ser resueltos para que se ajuste a las definiciones del estándar y a los elementos mínimos requeridos.
+Estructurar un conjunto de datos de prueba según el estándar DwC, usando la plantilla de publicación de registros biológicos del [SiB Colombia](https://sibcolombia.net/). El conjunto de datos tiene problemas de completitud y formato, los cuales deben ser resueltos para que el conjunto se ajuste a las definiciones y contenga los elementos mínimos requeridos por el estándar.
 
-**Requerimientos** 
-* Para realizar este ejercicio debes contar con un programa procesador de archivos de texto como Excel.
+**Requisitos** 
+* Para realizar este ejercicio, es necesario contar con un programa que procese archivos de texto. Por ejemplo, Excel.
 
 
 **Archivo de trabajo**
-* Descargue el archivo [```Datos_Caso1_20reg.xls```](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_docs/Datos_Caso1_20reg.xlsx) para realizar el laboratorio.
-* Descargue la última versión de la [plantilla de publicación ](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0)de registros biológicos.
+* Descargue el archivo [<FONT FACE="monospace"><b>«Datos_Caso1_20reg.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_docs/Datos_Caso1_20reg.xlsx) para realizar el laboratorio.
+* Descargue la última versión de la [<FONT FACE="monospace"><b>«plantilla de publicación»</b></FONT>](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0) de registros biológicos.
 
 --------
 
  
 ## Paso 1 - Caso de estudio 
-Lea detenidamente el Caso de estudio, acá encontrará información relevante para completar el conjunto de datos a publicar.
+Lea detenidamente el caso de estudio, allí encontrará información relevante para completar el conjunto de datos a publicar.
 
-*Tenga presente que este es un caso de uso basado en una historia ficticia construido solo para propósitos educativos.*
-
-
->La ‘Universidad de Ciencias Naturales’ (UCN) es reconocida en el país como una institución de referencia para la investigación sobre biodiversidad. El  Departamento de Biología Animal mantiene el Museo de Historia Natural (Registro Nacional de Colecciones Biologicas: 123), en donde la Colección Zoológica se encuentra bien representada con cerca de 700 especímenes recolectados y algunos datos de observaciones en campo a lo largo de todo el territorio nacional, desde mediados del siglo 20 hasta la actualidad.
-
->En la actualidad, su cuidado se encuentra a cargo del profesor de Sistemática Animal, Juan Travolta; quien realiza tareas curatoriales, investigativas y de docencia. Profesores del departamento y algunos estudiantes colaboran  casionalmente con la identificación de las muestras y toma de datos. El Coordinador del Departamento de Biología Animal (convencido de los beneficios y bondades que brinda la publicación de los datos a través del SiB Colombia) desea que se publiquen en línea los datos sobre Aves de la **colección  ornitológica (MH-ORNIT)**, Anfibios y Reptiles de la **colección de herpetología (MH-HERP)**, además de algunos **Mamíferos (MH-MAM)**. Esto permitirá ampliar la visibilidad de las colecciones biológicas de la Universidad y disponer estos datos de manera abierta para que sean consultados o usados en diferentes campos de investigación y lleguen incluso a ser empleados por tomadores de decisiones a nivel regional o nacional.
-
-Su misión a lo largo de este laboratorio consiste en estructurar los datos del Museo siguiendo los lineamientos del estándar *Darwin Core (DwC)*.
+(Tenga presente que este caso está basado en una historia ficticia y fue creado solo para propósitos educativos).
 
 
-## Paso 2 - Identificar elementos obligatorios 
-Ingrese a la plantilla de publicación, donde encontrará 4 pestañas:
+>La «Universidad de Ciencias Naturales» (UCN) es reconocida en el país como una institución de referencia para la investigación sobre biodiversidad. El  Departamento de Biología Animal mantiene el Museo de Historia Natural (Registro Nacional de Colecciones Biológicas: 123), en donde la Colección Zoológica se encuentra bien representada con cerca de 700 especímenes recolectados a lo largo del territorio nacional, desde mediados del siglo 20 hasta la fecha. En la actualidad, su cuidado se encuentra a cargo del profesor de Sistemática Animal, Juan Travolta, quien realiza tareas curatoriales, investigativas y de docencia. Además, otros profesores del departamento y algunos estudiantes colaboran ocasionalmente con la identificación de muestras y la toma de datos. El Coordinador del Departamento de Biología Animal, convencido de los beneficios y bondades que brinda la publicación de información a través del SiB Colombia, desea que se publiquen en línea los datos sobre aves de la **colección  ornitológica (MH-ORNIT)**, anfibios y reptiles de la **colección de herpetología (MH-HERP)** y algunos **mamíferos (MH-MAM)**. Esto permitirá ampliar la visibilidad de las colecciones biológicas de la universidad y dar acceso abierto a dichos datos para que sean consultados o usados en diferentes campos de investigación, llegando incluso a ser utilizados por tomadores de decisiones a nivel regional o nacional.
 
-* **Instrucciones**: Contiene la guía de uso y los puntos a tener en cuenta antes de iniciar la documentación de los registros biológicos.
-* **Plantilla**: Contiene la tabla con los elementos *DwC* para documentar los registros biológicos 
-* **Definiciones**: Contiene las definiciones para cada uno de los elementos del estándar *DwC*, recomendaciones de documentación y ejemplos.
-* **Vocabulario**: Contiene los vocabularios controlados para algunos de los elementos *DwC*.
+Su misión, a lo largo de este laboratorio, consiste en estructurar los datos del museo con base los lineamientos del estándar *Darwin Core* (DwC).
 
-En la pestaña de instrucciones encontrará adicionalmente una sección titulada *Elementos obligatorios según el origen de los datos* (Fig. 1). De acuerdo a la lectura del **Paso 1** identifique cuales son los elementos obligatorios para el caso de estudio.
+
+## Paso 2 - Identificar los elementos obligatorios 
+Ingrese a la plantilla de publicación, allí encontrará 4 pestañas:
+
+* **Instrucciones**: contiene la guía de uso y los puntos a tener en cuenta antes de iniciar la documentación de los registros biológicos.
+* **Plantilla**: contiene la tabla de los elementos DwC para documentar los registros biológicos.
+* **Definiciones**: contiene las definiciones para cada uno de los elementos del estándar DwC, recomendaciones de documentación y ejemplos.
+* **Vocabulario**: contiene los vocabularios controlados para algunos de los elementos DwC.
+
+En la pestaña de instrucciones, encontrará adicionalmente una sección titulada «Elementos obligatorios según el origen de los datos» (Fig. 1). De acuerdo a la lectura del caso de estudio, identifique cuáles son los elementos obligatorios para el ejercicio.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig1_Estandarizacion_datosobligatorios.png" width=1000>
 
 <sup>*Figura 1. Instrucciones de la plantilla DwC. Elementos obligatorios según el origen de los datos.*</sup>
 
-## Paso 3 - Crear elementos obligatorios 
-Abra el archivo de trabajo [```Datos_Caso1_20reg.xls```](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_docs/Datos_Caso1_20reg.xlsx)  y cree los elementos obligatorios faltantes a partir de la información que encuenta en el caso de estudio y en los mismos datos.
+## Paso 3 - Crear los elementos obligatorios 
+Abra el archivo de trabajo [<FONT FACE="monospace"><b>«Datos_Caso1_20reg.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_docs/Datos_Caso1_20reg.xlsx) y cree los elementos obligatorios faltantes a partir de la información del caso de estudio y los mismos datos.
 
  
-> **Pista**: Debe crear un identificador único del registro biológico (*occurenceID*) a partir del código de la institucion (*institutionCode*), código de la colección (*collectionCode*) y número de catálogo (*catalogNumber*). Revise la definición del elemento occurrenceID en la pestaña plantilla para saber como construirlo.
+> **Pista**: Debe crear un identificador único del registro biológico (<span style="color:MediumSeaGreen">**_occurrenceID_**</span>) a partir del código de la institución (<span style="color:MediumSeaGreen">**_institutionCode_**</span>), código de la colección (<span style="color:MediumSeaGreen">**_collectionCode_**</span>) y número de catálogo (<span style="color:MediumSeaGreen">**_catalogNumber_**</span>). Revise la definición del elemento <span style="color:MediumSeaGreen">**_occurrenceID_**</span> en la plantilla para saber cómo construirlo.
 
-Ejemplo:
-occurrenceID: UCN:MH-ORNIT:46-2300MI2008AV0954
+Ejemplo de (<span style="color:MediumSeaGreen">**_occurrenceID_**</span>): UCN:MH-ORNIT:46-2300MI2008AV0954.
 
 
 ## Paso 4 - Mapeo de los datos 
-Una vez haya creado los elementos obligatorios, revise detenidamente el nombre y contenido de cada columna del archivo [```Datos_Caso1_20reg.xls```](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_docs/Datos_Caso1_20reg.xlsx)  e identifique a cuál elemento *DwC* de la plantilla de publicación corresponde. A esta actividad la llamamos **mapeo de datos**. Cuando identifique a cual elemento corresponde, copie y pegue el contenido en la plantilla, como se muestra en la siguiente imagen (Fig. 2).
+Una vez que haya creado los elementos obligatorios, revise detenidamente el nombre y contenido de cada columna del archivo [<FONT FACE="monospace"><b>«Datos_Caso1_20reg.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/docs/Datos_Caso1_20reg.xlsx) e identifique a cuál elemento DwC de la plantilla de publicación corresponde. Este proceso recibe el nombre de **mapeo de datos**. Cuando identifique el elemento correspondiente, copie y pegue el contenido de esa columna en la plantilla, como se muestra en la siguiente imagen (Fig. 2):
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig2_Estandarizacion_mapeo.png" width=1000>
 
@@ -75,36 +72,37 @@ Una vez haya creado los elementos obligatorios, revise detenidamente el nombre y
 
 ## Paso 5 - Ajustar los datos  
 
-Una vez esten todos los datos del archivo ```Datos_Caso1_20reg.xls``` en la plantilla de publicación, ajuste los datos de acuerdo a las definiciones y vocabularios controlados del estándar para cada elemento mapeado (Fig. 3).
+Una vez que haya trasladado todos los datos del archivo [<FONT FACE="monospace"><b>«Datos_Caso1_20reg.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/docs/Datos_Caso1_20reg.xlsx) a la plantilla de publicación, ajuste las columnas de acuerdo a las definiciones y vocabularios controlados del estándar *Darwin Core* para cada elemento mapeado (Fig. 3).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig4_Estandarizacion_EstructuraPlantilla.png" width=800>
 
 <sup>*Figura 3. Estructura de la plantilla de publicación.*</sup>
 
-## Paso 6 - Eliminar elementos vacíos 
-Elimine en la plantilla de registros biológicos los elementos *DwC* que quedaron vacíos, recuerde que para la publicación solo debe mantener los elementos que hayan sido documentados.
+## Paso 6 - Eliminar los elementos vacíos 
+Elimine en la plantilla de registros biológicos los elementos DwC que quedaron vacíos. Recuerde que para la publicación solo debe mantener los elementos que hayan sido documentados.
 
-Al finalizar su plantilla se debe ver similar a la siguiente imagen (Fig. 4):
+Al finalizar, su plantilla debe verse similar a la siguiente imagen (Fig. 4):
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig3_Estandarizacion_mapeofinal.png" width=1000>
 
-<sup>*Figura 4. Resultado final del mapeo de datos y eliminación de elementos vacíos.*</sup>
+<sup>*Figura 4. Resultado final del mapeo de datos y la eliminación de elementos vacíos.*</sup>
 
 
 ## Paso 7 - Verificación del resultado
 
-Compare el siguiente archivo estandarizado según las definiciones del estándar con el archivo que trabajó en el laboratorio y verifique en que acertó y que puede mejorar. ¿Logró completar mas información en la plantilla?.
+Descargue y compare el siguiente archivo, estandarizado según las definiciones del *Darwin Core*, con el archivo que trabajó en el laboratorio e identifique aciertos y posibilidades de mejora. ¿Logró completar más información del conjunto de datos en la plantilla?
 
-* [Descargue el archivo estandarizado](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_docs/Datos_Caso1_20reg_estandarizado.xlsx)
+
+* [<FONT FACE="monospace"><b>«Archivo estandarizado»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_docs/Datos_Caso1_20reg_estandarizado.xlsx)
 
 ## Paso 8 - Datos propios
 
-Si tiene datos propios que desee publicar, estandarízelos siguiendo los pasos de esta guía. Recuerde usar la plantilla de acuerdo al tipo y origen de los datos.
+Si tiene datos propios que desee publicar, estandarícelos siguiendo los pasos de esta guía. Recuerde usar la plantilla de acuerdo al tipo y origen de los datos.
 
 ****
 
 **¡Felicitaciones!** :raised_hands:
-Su conjunto de datos ha sido estandarizado en *Darwin Core*.
+Su conjunto de datos ha sido estandarizado según el *Darwin Core*.
 
 ****
 
@@ -112,8 +110,11 @@ Su conjunto de datos ha sido estandarizado en *Darwin Core*.
 
 ![](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) te permite usar, redistribuir y construir sobre estos contenidos libremente. :open_hands: Queremos que compartas estos laboratorios y que juntos logremos datos sobre biodiversidad de mejor calidad.
+La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, redistribuir y construir sobre estos contenidos libremente.
+
+¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
 
 **Citación sugerida**
 
-> SiB Colombia (2020). Laboratorios de datos, Ciclo de formación virtual. Consultado a través del SiB Colombia. Disponible en https://sib-colombia.github.io/Formacion/
+> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios
+> 
