@@ -43,7 +43,7 @@ toc: true
 
 <article class="message is-warning">
   <div class="message-header">
-    <p>Warning</p>    
+    <p>¡Precaución!</p>    
   </div>
   <div class="message-body">
     Es indispensable que el elemento <b><i>occurrenceID</i></b> esté documentado para que el <i>DataValidator</i> reconozca el archivo.
