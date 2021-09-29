@@ -16,7 +16,7 @@ composition:
   - type: pageMarkdown
 ---
 
-Consulta los reportes históticos de actividad de publicación desde el año 2016 hasta la fecha.
+Consulta los reportes históricos de actividad de publicación desde el año 2016 hasta la fecha.
 
 # 2021
 
