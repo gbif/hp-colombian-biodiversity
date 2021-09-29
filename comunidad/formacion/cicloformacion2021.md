@@ -39,10 +39,18 @@ Los webinars son abiertos para todo el público y están dirigidos a los publica
 
 Si los participantes requieren un certificado por su participación, podrán solicitarlo al final del ciclo anual, relacionando los webinars a los que asistió. Esto lo aplica para aquellos usuarios registrados a través de la plataforma Zoom.
 
+_**Inician**: jueves 15 de abril de 2021_ | _**Finalizan**: jueves 28 de octubre de 2021_
+
+
+## Inscripciones
+
+Los cupos son limitados con un registro único a través de la plataforma Zoom y eligiendo los webinars del año a los que desea asistir. Si no deseas registrarte, puedes seguir los webinars vía streaming en el mismo horario por el canal de YouTube del SiB Colombia.
+
+[¡Inscríbete aquí!](https://humboldt-org-co.zoom.us/webinar/register/WN_fsc8vZqhT0W4xESDS0wTeg){: .button .is-primary :target="_blank"}
+
 
 <img src="/comunidad/formacion/images/CalendarioWebinars2021_30SEP-scaled.jpg" width=770>
 
-_**Inician**: jueves 15 de abril de 2021, 7:30 am - 8:30 am | _**Finalizan**: jueves 28 de octubre de 2021, 7:30 am - 8:30 am_
 
 ---
 <details>
@@ -306,12 +314,6 @@ Puedes encontrar más información sobre la serie de documentos de georeferencia
 </details>
 
 ---
-
-## Inscripciones
-
-Los cupos son limitados con un registro único a través de la plataforma Zoom y eligiendo los webinars del año a los que desea asistir. Si no deseas registrarte, puedes seguir los webinars vía streaming en el mismo horario por el canal de YouTube del SiB Colombia.
-
-[¡Inscríbete aquí!](https://humboldt-org-co.zoom.us/webinar/register/WN_fsc8vZqhT0W4xESDS0wTeg){: .button .is-primary}
 
 
 {: .notification .is-info }
@@ -591,9 +593,3 @@ A través de acuerdos y alianzas con diferentes actores, el Equipo Coordinador d
 
 <img src="/comunidad/formacion/images/CESP_DQ_header_web-1280x400.jpg" width=770>
 
-# Agradecimientos
-
-Los contenidos de este ciclo de formación son posibles gracias a los aportes significativos de otras iniciativas que trabajan colaborativamente con el SiB Colombia en diferentes niveles.
-
-
-<img src="/comunidad/formacion/images/Agradecimientos_CFV2020.PNG" width=770>
