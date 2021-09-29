@@ -204,7 +204,7 @@ _**Inician**: jueves 24 de septiembre de 2020_ | _**Finalizan**: martes 13 de oc
 
 
 {: .notification .is-info .is-light}
-[Ciclo de Formación Virtual - Laboratorios de datos](https://sib-colombia.github.io/Formacion/)
+[Laboratorios de datos](/formacion/laboratorios)
 
 <details>
   <summary markdown="span">1. Estructuración y calidad de datos sobre biodiversidad</summary>
