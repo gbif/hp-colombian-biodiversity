@@ -10,7 +10,7 @@ toc: true
 
 **Elementos Darwin Core**
 
-<span class="tag is-primary is-light"><i>measurementUnit</i></span>
+<span class="tag is-success is-light"><i>measurementUnit</i></span>
 <span class="tag is-success is-light"><i>occurrenceID</i></span>
 
 **Nombres archivos y descargables**
@@ -22,37 +22,46 @@ toc: true
 
 ```New project```,```SELECCIONAR UN ARCHIVO```,```OK```
 
-**Secuencias de instrucciones*
+**Secuencias de instrucciones**
 
-```**Get data from > This Computer**```
+<span class="tag is-danger is-light is-medium"><b><i>Get data from > This Computer</i></b></span>
 
 **Comandos de código y escritura en cuadros de texto**
 
-<span class="tag is-light is-medium"><B>value.replace(" sp.","")</b></span>
+<span class="tag is-light is-medium"><b>value.replace(" sp.","")</b></span>
 
-**Avisos de precaución**
+**Notas y avisos de precaución**
 
 <article class="message is-info">
   <div class="message-header">
-    <span class="icon-text has-text-success">
-  <span class="icon">
-    <i class="fas fa-check-square"></i>
-  </span> <p>Nota:</p>    
+    <p>Nota:</p>    
+  </div>
+  <div class="message-body">
+    El grado de incertidumbre de la identificación puede indicarse agregando varios calificativos, como “aff.” y “cf.”, al nombre científico. El calificativo se escribe después del elemento al que corresponde la incertidumbre de identificación (género o especie).
+  </div>
+</article>
+
+<article class="message is-info">
+  <div class="message-header">
+    <p>Nota:</p>    
   </div>
   <div class="message-body">
    El grado de incertidumbre de la identificación puede indicarse agregando varios calificativos, como “aff.” y “cf.”, al nombre científico. El calificativo se escribe después del elemento al que corresponde la incertidumbre de identificación (género o especie).
   </div>
 
-<article class="message is-info">
+<article class="message is-warning">
   <div class="message-header">
-    <span class="icon has-text-warning">
-  <i class="fas fa-exclamation-triangle"></i></span> <p>Nota:</p>    
+    <p>Warning</p>    
   </div>
   <div class="message-body">
-   Es indispensable que el elemento <b><i>occurrenceID</i></b> esté documentado para que el _DataValidator_ reconozca el archivo.
-  </div>
+    Es indispensable que el elemento <b><i>occurrenceID</i></b> esté documentado para que el _DataValidator_ reconozca el archivo.Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+</article>
+  
+  **Citas e incisos**
 
-# Validador de datos - GBIF
+> Para conocer más acerca de los algoritmos diríjase a la [documentación de OpenRefine](https://docs.openrefine.org/manual/cellediting#clustering-methods).
+  
+ # Validador de datos - GBIF
 
 
 **Objetivo**
