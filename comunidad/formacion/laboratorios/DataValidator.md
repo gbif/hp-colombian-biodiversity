@@ -78,7 +78,7 @@ El [validador de datos](https://www.gbif.org/es/tools/data-validator/) es un ser
 **Requerimientos** 
 * La primera fila del conjunto de datos a validar debe tener el nombre de los elementos DwC en inglés.
 
-* El conjunto de datos debe tener la columna del ID según el tipo de datos que corresponda: <span style="color:MediumSeaGreen">**_occurrenceID_**</span> (registros biológicos), <span style="color:MediumSeaGreen">**_eventID_**</span> (eventos de muestreo) o <span style="color:MediumSeaGreen">**_taxonID_**</span> (listas de especies). La columna debe estar documentada para todas las filas y cada ID debe ser único.
+* El conjunto de datos debe tener la columna del ID según el tipo de datos que corresponda: <span class="tag is-success is-light"><i>occurrenceID</i></span> (registros biológicos), <span class="tag is-success is-light"><i>eventID</i></span> (eventos de muestreo) o <span class="tag is-success is-light"><i>taxonID</i></span> (listas de especies). La columna debe estar documentada para todas las filas y cada ID debe ser único.
 
 * El validador admite archivos con los siguientes formatos:
   * Formato Excel (.xls o .xlsx).
@@ -102,7 +102,7 @@ Cree una cuenta de usuario en [GBIF](https://www.gbif.org) o ingrese con sus cre
 <sup>*Figura 1. Ingreso/registro en la página de GBIF.*</sup>
 
 ## Paso 2 - Cargar el archivo
-Cargue el archivo <FONT FACE="monospace"><b>«datos_Estructurados.xls»</b></FONT> en el validador. Para esto, (1) haga clic en ```SELECCIONAR UN ARCHIVO``` o (2) arrastre el archivo desde una carpeta al ícono ```SOLTAR AQUÍ```. 
+Cargue el archivo <FONT FACE="monospace"><b>«datos_Estructurados.xls»</b></FONT> en el validador. Para esto, (1) haga clic en <span class="tag is-warning is-light"><i>SELECCIONAR UN ARCHIVO</i></span> o (2) arrastre el archivo desde una carpeta al ícono <span class="tag is-warning is-light"><i>SOLTAR AQUÍ</i></span>. 
 
 
 <article class="message is-warning">
@@ -116,7 +116,7 @@ El grado de incertidumbre de la identificación puede indicarse agregando varios
 
 El validador le indicará si el conjunto de datos tiene la estructura adecuada para ser publicado a través del SiB Colombia, GBIF y [OBIS](https://obis.org/) o si es necesario realizar ajustes. El informe de validación contiene la siguiente información:
 
-**2.1. Resumen**
+### **2.1. Resumen**
 * Un indicador semaforizado (rojo y verde) que indica si el conjunto de datos puede ser indexado (Fig. 2A).
 * Resumen del tipo de conjunto de datos (Fig. 2B).
 * Alertas de validación que indican **potenciales** problemas en la estructuración y calidad del conjunto de datos (Fig. 2C).
@@ -125,7 +125,8 @@ El validador le indicará si el conjunto de datos tiene la estructura adecuada p
 
 <sup>*Figura 2. Componentes del informe - Resumen de validación del conjunto de datos.*</sup>
 
-**2.2. Frecuencia del término**
+### **2.2. Frecuencia del término**
+
 * Número de registros (filas) interpretados con éxito (Fig. 3A).
 * Reporte del porcentaje de documentación de cada uno de los elementos del estándar DwC utilizados en el conjunto de datos (Fig. 3B).
 
@@ -153,19 +154,19 @@ Revise el encabezado del reporte. Si aparece en rojo, significa que no puede ser
 
 <sup>*Figura 5. Posibles resultados de la validación. A. VERDE, el conjunto de datos puede ser indexado. B. ROJO, no puede indexarse.*</sup>
 
->:thinking: ¿Su conjunto de datos puede ser indexado?
+>¿Su conjunto de datos puede ser indexado?
 
 Las razones más frecuentes por las que un archivo no puede ser indexado son:
 
-**Mensaje:** «Registro no identificado de forma única» indica que los ID documentados en el elemento DwC <span style="color:MediumSeaGreen">**_occurrenceID_**</span> (<span style="color:MediumSeaGreen">**_taxonID_**</span> o <span style="color:MediumSeaGreen">**_eventID_**</span> según el tipo de datos) no son únicos.
+**Mensaje:** «Registro no identificado de forma única» indica que los ID documentados en el elemento DwC <span class="tag is-success is-light"><i>occurrenceID</i></span> (<span class="tag is-success is-light"><i>taxonID</i></span> o <span class="tag is-success is-light"><i>eventID</i></span> según el tipo de datos) no son únicos.
 
-**Mensaje:** «No se encontró ni determinó un _rowType_». Esto indica que algunas de las columnas obligatorias para realizar la validación no se encuentran en el conjunto de datos. Por ejemplo, <span style="color:MediumSeaGreen">**_occurrenceID_**</span>, <span style="color:MediumSeaGreen">**_taxonID_**</span> o <span style="color:MediumSeaGreen">**_eventID_**</span>, dependiendo del tipo de datos que se esté indexando. 
+**Mensaje:** «No se encontró ni determinó un _rowType_». Esto indica que algunas de las columnas obligatorias para realizar la validación no se encuentran en el conjunto de datos. Por ejemplo, <span class="tag is-success is-light"><i>occurrenceID</i></span>, <span class="tag is-success is-light"><i>taxonID</i></span> o <span class="tag is-success is-light"><i>eventID</i></span>, dependiendo del tipo de datos que se esté indexando. 
 
 ### 3.2. Ajuste elementos críticos
 
 Si el conjunto no puede ser indexado, revise el mensaje de alerta de la herramienta (Fig. 6), realice los ajustes necesarios y vuelva a correr la validación. Posteriormente, el validador le debe indicar que el conjunto de datos se puede indexar.
 
-> :rotating_light: En la sección **"Problemas de validación"**, encontrará los ID que están duplicados.
+> En la sección **"Problemas de validación"**, encontrará los ID que están duplicados.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig6_datavalid_detalleerror.PNG" width=800>
 
@@ -199,25 +200,25 @@ Revise todas las alertas de validación y ajuste los datos de acuerdo a estas (F
 
 **Alerta**: Base del registro inválida.
 
-**Problema**: la base del registro (<span style="color:MediumSeaGreen">**_basisOfRecord_**</span>) no cumple con los requerimientos del estándar.
+**Problema**: la base del registro (<span class="tag is-success is-light"><i>basisOfRecord</i></span>) no cumple con los requerimientos del estándar.
 
 **Solución 1**: revise que todos los registros (filas) tengan este elemento documentado.
 
-**Solución 2**: documente el elemento con base en el vocabulario controlado en inglés (<span style="color:MediumSeaGreen">**_HumanObservation_**</span>, <span style="color:MediumSeaGreen">**_PreservedSpecimen_**</span>, <span style="color:MediumSeaGreen">**_LivingSpecimen_**</span>, <span style="color:MediumSeaGreen">**_MachineObservation_**</span>, <span style="color:MediumSeaGreen">**_MaterialSample_**</span>, <span style="color:MediumSeaGreen">**_FossilSpecimen_**</span>).
+**Solución 2**: documente el elemento con base en el vocabulario controlado en inglés (<span class="tag is-success is-light"><i>HumanObservation</i></span>, <span class="tag is-success is-light"><i>PreservedSpecimen</i></span>, <span class="tag is-success is-light"><i>LivingSpecimen</i></span>, <span class="tag is-success is-light"><i>MachineObservation</i></span>, <span class="tag is-success is-light"><i>MaterialSample</i></span>, <span class="tag is-success is-light"><i>FossilSpecimen</i></span>).
 
 
 **Alerta**: Coordenada inválida.
 
 **Problema**: las coordenadas documentadas no se encuentran estandarizadas en coordenadas decimales o las coordenadas originales no se pueden interpretar.
 
-**Solución**: asegúrese de que los elementos _Darwin Core_ <span style="color:MediumSeaGreen">**_decimalLatitude_**</span> y <span style="color:MediumSeaGreen">**_decimalLongitude_**</span> estén documentados con las coordenadas en formato decimal. Además, corrobore que las coordenadas originales *verbatimCoordinates* hayan sido digitalizadas adecuadamente. 
+**Solución**: asegúrese de que los elementos _Darwin Core_ <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span> estén documentados con las coordenadas en formato decimal. Además, corrobore que las coordenadas originales (<span class="tag is-success is-light"><i>verbatimCoordinates</i></span>) hayan sido digitalizadas adecuadamente. 
 
 
 **Alerta**: Se presume latitud negativa.
 
 **Problema**: posible error en la latitud. Aunque se documentó como latitud sur, posiblemente corresponda a latitud norte (en coordenadas decimales, el norte se indica con un signo menos antes de la latitud).
 
-**Solución**: asegúrese de que los elementos _Darwin Core_ <span style="color:MediumSeaGreen">**_decimalLatitude_**</span> y <span style="color:MediumSeaGreen">**_decimalLongitude_**</span> estén documentados con las coordenadas en formato decimal. Además, corrobore que las coordenadas originales *verbatimCoordinates*, *verbatimLatitud* y *verbatimLongitude* hayan sido digitalizadas adecuadamente. 
+**Solución**: asegúrese de que los elementos _Darwin Core_ <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span> estén documentados con las coordenadas en formato decimal. Además, corrobore que las coordenadas originales (<span class="tag is-success is-light"><i>verbatimCoordinates</i></span> y <span class="tag is-success is-light"><i>verbatimLongitude</i></span>) hayan sido digitalizadas adecuadamente. 
 
 También puede obtener el mensaje «Se presume longitud negativa», pero es menos común para los datos de Colombia y probablemente corresponda a un problema de digitalización.
 
@@ -251,7 +252,7 @@ También puede obtener el mensaje «Se presume longitud negativa», pero es meno
 
 **Problema**: el datum geodésico no fue documentado, pero el validador lo identificó como WGS84.
 
-**Solución 1**: documentar el elemento DwC <span style="color:MediumSeaGreen">**_geodeticDatum_**</span> como WGS84.
+**Solución 1**: documentar el elemento DwC <span class="tag is-success is-light"><i>geodeticDatum</i></span> como WGS84.
 
 **Solución 2**: si las coordenadas tienen un datum diferente a WGS84, documéntelo para evitar que el validador lo asuma.
 
@@ -279,7 +280,7 @@ Recomendaciones:
 Según el origen de sus datos (colecciones biológicas, permisos de recolección, datos marinos, eventos de muestreo), compruebe que los elementos obligatorios estén documentados al 100%. Para ello, utilice como referencia la última [<FONT FACE="monospace"><b>«plantilla DwC Registros biológicos»</b></FONT>](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0) y la sección del [validador de datos](https://www.gbif.org/es/tools/data-validator/) **Frecuencia del término** (Fig. 3B). 
 
 ****
-**¡Felicitaciones!** :raised_hands: Ha mejorado la calidad de su conjunto de datos.
+**¡Felicitaciones!** Ha mejorado la calidad de su conjunto de datos.
 
 ****
 
