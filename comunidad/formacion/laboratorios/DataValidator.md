@@ -23,9 +23,6 @@ toc: true
 <FONT FACE="monospace"><b>«datos_Estructurados.xls»</b></FONT>
 
 
-
-
-
 **Opciones de las herramientas asociadas a una acción (clic, selección, etc.)**
 
 - Opción 1 (igual que en las guías anteriores)
@@ -47,7 +44,7 @@ _```New project```_ ,```SELECCIONAR UN ARCHIVO```, ```OK```
 **Notas y avisos de precaución**
 
 <div class="notification is-info is-light">
-  <FONT SIZE=4><b>Nota:</b></font> El grado de incertidumbre de la identificación puede indicarse agregando varios calificativos, como “aff.” y “cf.”, al nombre científico. El calificativo se escribe después del elemento al que corresponde la incertidumbre de identificación (género o especie).
+  <b>Nota:</b> El grado de incertidumbre de la identificación puede indicarse agregando varios calificativos, como “aff.” y “cf.”, al nombre científico. El calificativo se escribe después del elemento al que corresponde la incertidumbre de identificación (género o especie).
 </div>
  
 <article class="message is-warning">
@@ -110,7 +107,7 @@ Cargue el archivo <FONT FACE="monospace"><b>«datos_Estructurados.xls»</b></FON
 
 <article class="message is-warning">
   <div class="message-header">
-   <p><span class="icon"><i class="far fa-exclamation-triangle"></i></span>¡Precaución!</p>
+   <p>¡Precaución!</p>
   </div>
   <div class="message-body">
 El grado de incertidumbre de la identificación puede indicarse agregando varios calificativos, como “aff.” y “cf.”, al nombre científico. El calificativo se escribe después del elemento al que corresponde la incertidumbre de identificación (género o especie).
