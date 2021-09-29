@@ -10,8 +10,8 @@ toc: true
 
 **Elementos Darwin Core**
 
-<span class="tag is-primary is-light is-medium">Primary</span>_measurementUnit_</span>
-<span class="tag is-primary is-light is-medium">Success</span>_occurrenceID_</span>
+<span class="tag is-primary is-light"><i>measurementUnit</i></span>
+<span class="tag is-success is-light"><i>occurrenceID</i></span>
 
 **Nombres archivos y descargables**
 
@@ -20,19 +20,37 @@ toc: true
 
 **Opciones de las herramientas asociadas a una acción (clic, selección, etc.)**
 
-```New project``````SELECCIONAR UN ARCHIVO``````OK```
+```New project```,```SELECCIONAR UN ARCHIVO```,```OK```
 
 **Secuencias de instrucciones*
 
-<b>```Get data from > This Computer```</b>
+```**Get data from > This Computer**```
 
 **Comandos de código y escritura en cuadros de texto**
 
-<span class="tag is-light is-medium">value.replace(" sp.","")</span>
+<span class="tag is-light is-medium"><B>value.replace(" sp.","")</b></span>
 
 **Avisos de precaución**
 
+<article class="message is-info">
+  <div class="message-header">
+    <span class="icon-text has-text-success">
+  <span class="icon">
+    <i class="fas fa-check-square"></i>
+  </span> <p>Nota:</p>    
+  </div>
+  <div class="message-body">
+   El grado de incertidumbre de la identificación puede indicarse agregando varios calificativos, como “aff.” y “cf.”, al nombre científico. El calificativo se escribe después del elemento al que corresponde la incertidumbre de identificación (género o especie).
+  </div>
 
+<article class="message is-info">
+  <div class="message-header">
+    <span class="icon has-text-warning">
+  <i class="fas fa-exclamation-triangle"></i></span> <p>Nota:</p>    
+  </div>
+  <div class="message-body">
+   Es indispensable que el elemento <b><i>occurrenceID</i></b> esté documentado para que el _DataValidator_ reconozca el archivo.
+  </div>
 
 # Validador de datos - GBIF
 
@@ -78,14 +96,6 @@ Cree una cuenta de usuario en [GBIF](https://www.gbif.org) o ingrese con sus cre
 ## Paso 2 - Cargar el archivo
 Cargue el archivo <FONT FACE="monospace"><b>«datos_Estructurados.xls»</b></FONT> en el validador. Para esto, (1) haga clic en ```SELECCIONAR UN ARCHIVO``` o (2) arrastre el archivo desde una carpeta al ícono ```SOLTAR AQUÍ```. 
 
-<article class="message is-info">
-  <div class="message-header">
-   <p><span class="icon has-text-info"><i class="fas fa-info-circle"></i></span>Nota:</p>
-  </div>
-  <div class="message-body">
-    Es indispensable que el elemento <b><i>occurrenceID</i></b> esté documentado para que el _DataValidator_ reconozca el archivo.
-  </div>
-</article>
 
 <article class="message is-warning">
   <div class="message-header">
