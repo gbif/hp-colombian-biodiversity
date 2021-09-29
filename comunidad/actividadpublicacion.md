@@ -1,7 +1,7 @@
 ---
 layout: compose
 title: Actividad de publicación
-description: Cfras y estadísticas mensuales de la actividad de publicación y uso de datos sobre biodiversidad publicados a través del SiB Colombia. 
+description: Cifras y estadísticas mensuales sobre los datos de biodiversidad publicados a través del SiB Colombia. 
 background: https://live.staticflickr.com/65535/5730740301_39ffae8b5e_b.jpg
 imageLicense: |
   _Stolas_ Fotografía de: U.Schmidt vía [Flickr](https://flic.kr/p/9Jpxrg)
