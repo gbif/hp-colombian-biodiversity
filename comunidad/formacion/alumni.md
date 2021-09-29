@@ -1,13 +1,14 @@
 ---
 layout: heroImage
 title: Alumni
-description: Desde el año 2015 el SiB Colombia ha contado con un excelente equipo de estudiantes que han decidido realizar sus prácticas profesionales en gestión y calidad de datos, documentación de fichas de especies, diseño de piezas y comunicación. Estas son sus profesiones y experiencias.
+description: La huella de los estudiantes que han pertenecido al equipo del SiB Colombia
 background: https://live.staticflickr.com/1889/44227056172_d3439774c9_b.jpg
 imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/) 
 height: 41vh
 ---
 
+Desde el año 2015 el SiB Colombia ha contado con un excelente equipo de estudiantes que han decidido realizar sus prácticas profesionales en gestión y calidad de datos, documentación de fichas de especies, diseño de piezas y comunicación. Estas son sus profesiones y experiencias.
 
 
 |           |Pasante     | Periodo      | Carrera  |Experiencia|
