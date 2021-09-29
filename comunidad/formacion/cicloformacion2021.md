@@ -1,11 +1,11 @@
 ---
 layout: compose
-title: Ciclo de Formación Virtual 2020
-description: El SiB Colombia fortalece su red nacional y comunidad de prácticas través de actividades de capacitación que permiten a sus publicadores y usuarios hacer uso eficaz de los servicios ofrecidos.
+title: Ciclo de Formación 2021
+description: El SiB Colombia fortalece su red nacional y comunidad con actividades de capacitación que permiten a sus publicadores y usuarios hacer uso eficaz de los servicios ofrecidos.
 background: /assets/images/fondos_layout/QUI01259_Villegas-Velez-Felipe.jpg
 imageLicense: Working from home illustration from [DrawKit](https://www.drawkit.io/product/working-from-home-illustrations) # OPTIONAL
 toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
-height: 75vh
+height: 41vh
 parallax: true
 overlayColor: "#ffffffbb"
 hasTextShadow: true
@@ -29,7 +29,7 @@ Para lograrlo usaremos tres formatos diferentes de acuerdo a los intereses de la
 - [Laboratorios]()
 - [Talleres]()
 
-
+{: .notification .is-info }
 # Webinars
 
 Esta serie contiene varios capítulos que se ofrecerán los días jueves de cada semana, y contarán con invitados nacionales e internacionales expertos en diferentes temas asociados a la gestión de información sobre biodiversidad como: el uso de herramientas, tipos de datos, estándares, uso de datos, entre otros.
@@ -315,7 +315,7 @@ Los cupos son limitados con un registro único a través de la plataforma Zoom y
 
 
 {: .notification .is-info }
-## Laboratorios
+# Laboratorios
 Dirigidos a publicadores y usuarios que desean poner en práctica los conceptos y herramientas compartidas ya sea usando conjuntos de datos preparado por el Equipo Coordiandor o con datos propios que estén planeando publicar en un futuro cercano.
 
 Los laboratorios cuentan con sesiones sincrónicas y asincrónicas para facilitar el desarrollo de los ejercicios por parte de los participantes. Las sesiones sincrónicas estarán enfocadas a la introducción de cada práctica y espacios para resolver dudas e inquietudes sobre el desarrollo de los ejercicios. Las sesiones asincrónicas estarán dedicadas para que los participantes de manera individual desarrollen los ejercicios propuestos en el horario que mejor les convenga. El desarrollo de cada práctica puede tomar entre 2-5 horas.
@@ -336,6 +336,7 @@ _**Inician**: jueves 10 de junio de 2021_ | _**Finalizan**: martes 03 de agosto 
 <br>
 <br>
 <p>En este capítulo recibirás una introducción a la guía práctica para la estructuración de datos sobre biodiversidad con calidad y la metodología del ejercicio. Durante la realización de la práctica, tendrás la oportunidad de interactuar con el estándar Darwin Core, sus plantillas, herramientas útiles para abordar el estándar, y una herramienta en línea para ayudarte a identificar rápidamente potenciales problemas de estructura y calidad en tu conjunto de datos.
+</p>
 <br>
 <br>
 <b>Presenta:</b> Camila Plata
