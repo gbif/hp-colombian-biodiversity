@@ -1,19 +1,21 @@
 
 
-#floatingText 
-
+#split
 cfv2021:
-  title: Ciclo de formación 2021
+  reverse: true
+  title: Ciclo de Formación 2021
   description: |      # required
-    Conoceras diferentes iniciativas, proyectos y materiales alrededor de la publicación acceso y uso de datos sobre biodiversidad.
-  #background: https://live.staticflickr.com/8483/8205952042_c840217645_h.jpg
-  overlayColor: "#E4EEE0" #"#ffffffbb"
-  hasWhiteText: false
+      Seminarios y laboratorios sobre diferentes iniciativas, proyectos y materiales alrededor de la publicación acceso y uso de datos sobre biodiversidad.
+  # img required
+  background: /assets/images/landing_page/img_homeFormacion.jpg
+  overlayColor: "#000033"
+  href: /comunidad/formacion
   cta:
-  - text: Inscríbete
-    href: /comunidad/formacion/cicloformacion2020
+  - text: Aprender
+    href: /comunidad/formacion/cicloformacion2021
     isPrimary: true
-
+    
+    
 #cards
 tarjetasFormacion:
   # title: Ejes de formación
