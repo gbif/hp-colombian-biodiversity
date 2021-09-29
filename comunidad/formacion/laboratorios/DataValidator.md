@@ -24,7 +24,7 @@ toc: true
 
 **Secuencias de instrucciones**
 
-<span class="tag is-danger is-light is-medium"><b><i>Get data from > This Computer</i></b></span>
+<span class="tag is-danger is-light is-medium"><i>Get data from > This Computer</i></span>
 
 **Comandos de código y escritura en cuadros de texto**
 
@@ -41,20 +41,12 @@ toc: true
   </div>
 </article>
 
-<article class="message is-info">
-  <div class="message-header">
-    <p>Nota:</p>    
-  </div>
-  <div class="message-body">
-   El grado de incertidumbre de la identificación puede indicarse agregando varios calificativos, como “aff.” y “cf.”, al nombre científico. El calificativo se escribe después del elemento al que corresponde la incertidumbre de identificación (género o especie).
-  </div>
-
 <article class="message is-warning">
   <div class="message-header">
     <p>Warning</p>    
   </div>
   <div class="message-body">
-    Es indispensable que el elemento <b><i>occurrenceID</i></b> esté documentado para que el _DataValidator_ reconozca el archivo.Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Es indispensable que el elemento <b><i>occurrenceID</i></b> esté documentado para que el <i>DataValidator</i> reconozca el archivo.
 </article>
   
   **Citas e incisos**
