@@ -71,8 +71,7 @@ $.extend($.validator.messages, {
   min: $.validator.format("Por favor, escribe un valor mayor o igual a {0}.")
 });}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
-#mc-embedded-subscribe { background-color: #0a99a !important; }
-#mc-embedded-subscribe:hover { background-color: #d40000 !important; }
+
 
 
 <p><small>Puede cancelar su suscripción en cualquier momento haciendo clic en el enlace al final de los correos que le enviaremos. Para mayor información consulte la sección Términos y Condiciones en nuestro sitio web.</small></p>
