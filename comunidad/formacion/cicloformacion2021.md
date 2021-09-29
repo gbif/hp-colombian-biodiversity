@@ -25,9 +25,9 @@ En este año continuaremos mejorando las capacidades para organizar y preparar d
 
 Para lograrlo usaremos tres formatos diferentes de acuerdo a los intereses de la comunidad, su disponibilidad de tiempo y compromisos establecidos en diferentes proyectos. La diversidad de formatos también busca sacar el mejor provecho de la virtualidad y adaptarse a las nuevas dinámicas de cada interesado.
 
-- [Webinars]()
-- [Laboratorios]()
-- [Talleres]()
+- [Webinars](/comunidad/formacion/cicloformacion2021#webinars)
+- [Laboratorios](/comunidad/formacion/cicloformacion2021#laboratorios)
+- [Talleres](/comunidad/formacion/cicloformacion2021#talleres)
 
 {: .notification .is-info }
 # Webinars
@@ -591,3 +591,9 @@ A través de acuerdos y alianzas con diferentes actores, el Equipo Coordinador d
 
 <img src="/comunidad/formacion/images/CESP_DQ_header_web-1280x400.jpg" width=770>
 
+# Agradecimientos
+
+Los contenidos de este ciclo de formación son posibles gracias a los aportes significativos de otras iniciativas que trabajan colaborativamente con el SiB Colombia en diferentes niveles.
+
+
+<img src="/comunidad/formacion/images/Agradecimientos_CFV2020.PNG" width=770>
