@@ -10,18 +10,27 @@ toc: true
 
 **Elementos Darwin Core**
 
-<span class="tag is-success is-light"><i>measurementUnit</i></span>
-<span class="tag is-success is-light"><i>occurrenceID</i></span>
-
+<span class="tag is-success is-light"><i>measurementUnit</i></span> <span class="tag is-success is-light"><i>occurrenceID</i></span>
 
 **Nombres archivos y descargables**
 
+- Enlazados
+
 [<FONT FACE="monospace"><b>«datos_Estructurados.xls»</b></FONT>](https://sib-colombia.github.io/Formacion/LAB/lab01/lab_validator.html)
+
+- No enlazados
+
 <FONT FACE="monospace"><b>«datos_Estructurados.xls»</b></FONT>
 
 **Opciones de las herramientas asociadas a una acción (clic, selección, etc.)**
 
-```New project```,```SELECCIONAR UN ARCHIVO```,```OK```
+- Opción 1 (igual que en las guías anteriores)
+
+_```New project```_ ,```SELECCIONAR UN ARCHIVO```, ```OK```
+
+- Opción 2 (usando los tags de Bulma)
+
+<span class="tag is-warning is-light"><i>New project</i></span>, <span class="tag is-warning is-light">SELECCIONAR UN ARCHIVO</span>, <span class="tag is-warning is-light">Ok</span>
 
 **Secuencias de instrucciones**
 
