@@ -4,7 +4,7 @@ title: Alumni
 description: La huella de los estudiantes que han pertenecido al equipo del SiB Colombia
 background: https://live.staticflickr.com/5556/18801942996_04c121fb09_b.jpg
 imageLicense: |
-  Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/) 
+  Fotografía de: Artyom Kochetkoff vía [Flickr](https://flic.kr/p/uDsSAY) 
 height: 41vh
 ---
 
