@@ -21,7 +21,9 @@ formularioRegistro:
 overlay:
   heroHeadlineA:
     title: Agradecimientos
-    background: /assets/images/fondos_layout/flor_paramo_cp.jpg
+    background: https://live.staticflickr.com/7598/26868873730_9859a95c6d_b.jpg
+    imageLicense: |
+       Fotografía de: Luis Alveart vía [Flickr](https://flic.kr/p/GWj14C)
     height: 0
     parallax: true
     overlayColor: "#ffffffbb"
