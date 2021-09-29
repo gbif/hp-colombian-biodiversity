@@ -13,7 +13,7 @@ composition:
   - type: heroImage # the block type
   - type: pageMarkdown
   - data: formacion.cfv2021
-    type: floatingText # the block type
+    type: split
   - data: formacion.tarjetasFormacion
     type: features # the block type
 
