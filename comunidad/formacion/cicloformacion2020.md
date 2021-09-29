@@ -3,8 +3,8 @@ layout: compose
 title: Ciclo de Formación Virtual 2020
 description: Seminarios y laboratorios sobre la publicación de datos a través del SiB Colombia.
 background: https://live.staticflickr.com/1660/24882603485_a6ce0e0823_b.jpg
-imageLicense: Working from home illustration from [DrawKit](https://www.drawkit.io/product/working-from-home-illustrations) # OPTIONAL
-toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
+imageLicense: Fotografía de Luis Alveart vía [Flickr](https://flic.kr/p/DUMR7V)
+toc: true 
 height: 41vh
 composition:
 - type: heroImage
