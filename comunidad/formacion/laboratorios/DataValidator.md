@@ -47,7 +47,7 @@ _```New project```_ ,```SELECCIONAR UN ARCHIVO```, ```OK```
 **Notas y avisos de precaución**
 
 <div class="notification is-info is-light">
-  <FONT SIZE=5><b>Nota:</b></font> El grado de incertidumbre de la identificación puede indicarse agregando varios calificativos, como “aff.” y “cf.”, al nombre científico. El calificativo se escribe después del elemento al que corresponde la incertidumbre de identificación (género o especie).
+  <FONT SIZE=4><b>Nota:</b></font> El grado de incertidumbre de la identificación puede indicarse agregando varios calificativos, como “aff.” y “cf.”, al nombre científico. El calificativo se escribe después del elemento al que corresponde la incertidumbre de identificación (género o especie).
 </div>
  
 <article class="message is-warning">
