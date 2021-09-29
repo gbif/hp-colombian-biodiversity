@@ -205,7 +205,7 @@ Revise todas las alertas de validación y ajuste los datos de acuerdo a estas (F
 
 **A continuación se explican las alertas más frecuentes, cómo interpretarlas y cómo solucionarlas:**
 
-**:warning: Alerta**: Base del registro inválida.
+**Alerta**: Base del registro inválida.
 
 **Problema**: la base del registro (<span style="color:MediumSeaGreen">**_basisOfRecord_**</span>) no cumple con los requerimientos del estándar.
 
@@ -214,14 +214,14 @@ Revise todas las alertas de validación y ajuste los datos de acuerdo a estas (F
 **Solución 2**: documente el elemento con base en el vocabulario controlado en inglés (<span style="color:MediumSeaGreen">**_HumanObservation_**</span>, <span style="color:MediumSeaGreen">**_PreservedSpecimen_**</span>, <span style="color:MediumSeaGreen">**_LivingSpecimen_**</span>, <span style="color:MediumSeaGreen">**_MachineObservation_**</span>, <span style="color:MediumSeaGreen">**_MaterialSample_**</span>, <span style="color:MediumSeaGreen">**_FossilSpecimen_**</span>).
 
 
-**:warning: Alerta**: Coordenada inválida.
+**Alerta**: Coordenada inválida.
 
 **Problema**: las coordenadas documentadas no se encuentran estandarizadas en coordenadas decimales o las coordenadas originales no se pueden interpretar.
 
 **Solución**: asegúrese de que los elementos _Darwin Core_ <span style="color:MediumSeaGreen">**_decimalLatitude_**</span> y <span style="color:MediumSeaGreen">**_decimalLongitude_**</span> estén documentados con las coordenadas en formato decimal. Además, corrobore que las coordenadas originales *verbatimCoordinates* hayan sido digitalizadas adecuadamente. 
 
 
-**:warning: Alerta**: Se presume latitud negativa.
+**Alerta**: Se presume latitud negativa.
 
 **Problema**: posible error en la latitud. Aunque se documentó como latitud sur, posiblemente corresponda a latitud norte (en coordenadas decimales, el norte se indica con un signo menos antes de la latitud).
 
@@ -229,7 +229,7 @@ Revise todas las alertas de validación y ajuste los datos de acuerdo a estas (F
 
 También puede obtener el mensaje «Se presume longitud negativa», pero es menos común para los datos de Colombia y probablemente corresponda a un problema de digitalización.
 
-**:warning: Alerta**: Coincidencia del taxón - taxonomía superior.
+**Alerta**: Coincidencia del taxón - taxonomía superior.
 
 **Problema**: el nombre científico fue validado a un nivel taxonómico superior al documentado. Por ejemplo, si el nombre científico corresponde a una especie (género + epíteto específico), significa que el validador solo pudo interpretar el género mas no el epíteto específico.
 
@@ -241,21 +241,21 @@ También puede obtener el mensaje «Se presume longitud negativa», pero es meno
 > Es posible que algunos nombres válidos y correctamente escritos sean marcados con esta alerta si no se encuentran en el árbol taxonómico de GBIF. Esto es común en el caso de especíes endémicas o recientemente descritas. En tal caso, ignore la alerta.
 
 
-**:warning: Alerta**: Coincidencia aproximada del taxón.
+**Alerta**: Coincidencia aproximada del taxón.
 
 **Problema**: hay una coincidencia parcial del nombre cíentífico y el [árbol taxonómico de GBIF](https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c). Por lo general, esta alerta aparece cuando hay errores de tipeo menores en el nombre científico.
 
 **Solución**: asegúrese de que el nombre científico esté escrito correctamente.
 
 
-**:warning: Alerta**: Fecha registrada inválida.
+**Alerta**: Fecha registrada inválida.
 
 **Problema**: las fechas proporcionadas no cumplen con el formato ISO 8601: *AAAA-MM-DD; AAAA-MM; AAAA; AAAA-MM-DD/AAAA-MM-DD*.
 
 **Solución**: convierta las fechas al formato ISO 8601.
 
 
-**:warning: Alerta**: Datum geodésico WGS84 asumido.
+**Alerta**: Datum geodésico WGS84 asumido.
 
 **Problema**: el datum geodésico no fue documentado, pero el validador lo identificó como WGS84.
 
@@ -264,7 +264,7 @@ También puede obtener el mensaje «Se presume longitud negativa», pero es meno
 **Solución 2**: si las coordenadas tienen un datum diferente a WGS84, documéntelo para evitar que el validador lo asuma.
 
 
-**:warning: Alerta**: Coordenadas redondeadas.
+**Alerta**: Coordenadas redondeadas.
 
 **Problema**: las coordenadas decimales tienen más de 5 cifras significativas. Más allá de 6 cifras, las coordenadas no mejoran su precisión, por lo que es más eficiente redondearlas.
 
