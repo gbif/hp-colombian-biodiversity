@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 title: Calidad de datos
-description: "Para asegurar el uso de los datos por parte de una amplia variedad de audiencias, es importante incluir el concepto de calidad de datos a lo largo de toda la cadena de la información. Aquí se comparten varias herramientas útiles para la validación y limpieza de los datos."
+description: Herramientas para la validación y limpieza de los datos que permiten asegurar el uso de los datos por una amplia variedad de audiencias.
 background: https://static.inaturalist.org/photos/20946687/large.jpg?1530983172
 imageLicense: |
   Salamandra Manchada Fotografía de: Andrés Forero vía [Flickr](https://colombia.inaturalist.org/observations/14136879) 
