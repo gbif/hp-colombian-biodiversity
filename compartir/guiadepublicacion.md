@@ -210,7 +210,7 @@ El registro de una organización se realiza por una sola vez. Verifica si tu org
 
 ### 2. Prepara los contenidos de las fichas
 
-La información para una ficha debe estar organizada en un documento Word, utilizando el estándar Plinian Core (PliC). Para familiarizarte con el formato, puedes utilizar las[plantilla Word creada para fichas de especies](recursos/plantillasplic). También puedes crear tu propia plantilla usando la Guía de referencia rápida de elementos Plinian Core.
+La información para una ficha debe estar organizada en un documento Word, utilizando el estándar Plinian Core (PliC). Para familiarizarte con el formato, puedes utilizar las [plantilla Word creada para fichas de especies](/recursos/plantillasplic). También puedes crear tu propia plantilla usando la Guía de referencia rápida de elementos Plinian Core.
 
 Para que la preparación de contenidos te recomendamos:
 
