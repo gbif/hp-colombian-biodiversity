@@ -33,11 +33,17 @@ overlay:
       <img src="/comunidad/formacion/images/Agradecimientos_CFV2020.PNG" width=770>
     
   heroHeadlineB:
-    title: Prácticas
-    background: /assets/images/fondos_layout/venado1_cp.jpg
+    title: Agradecimientos
+    background: https://live.staticflickr.com/7598/26868873730_9859a95c6d_b.jpg
+    imageLicense: |
+       Fotografía de: Luis Alveart vía [Flickr](https://flic.kr/p/GWj14C)
     height: 0
     parallax: true
     overlayColor: "#ffffffbb"
+  text:
+    markdownContent: |
+      Los contenidos de este ciclo de formación son posibles gracias a los aportes significativos de otras iniciativas que trabajan colaborativamente con el SiB Colombia en diferentes niveles.
+      <img src="/comunidad/formacion/images/Agradecimientos_CFV2021.png" width=770>
   
 videosib:
   klass: iframe-box
