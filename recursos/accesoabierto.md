@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 title: Crear Compartir Transformar
-description: Crear, Compartir, Transformar es una guía con herramientas para comprender y participar en las dinámicas del acceso abierto. Está dirigida a los socios y usuarios del SiB Colombia, así como al público interesado en datos sobre biodiversidad.
+description: Una guía con herramientas para comprender y participar en las dinámicas del acceso abierto. 
 background: /recursos/images/Portada.jpg
 imageLicense: |
   Ilustración de: SiB Colombia [by](https://creativecommons.org/licenses/by/4.0/deed.es) 
