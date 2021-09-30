@@ -10,7 +10,7 @@ composition:
 - type: heroImage
 - type: pageMarkdown
 - type: heroImage
-  data: custom.overlay.heroHeadlineA
+  data: custom.overlay.heroHeadlineB
 - type: markdown
   data: custom.overlay.text
 ---
