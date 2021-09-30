@@ -31,25 +31,25 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="/_posts/2019-09-19-taller_programa_riqueza_natural_usaid" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Programa Riqueza Natural – USAID</a></td>
+      <td><a href="/posts/2019/2019-09-19-taller_programa_riqueza_natural_usaid" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Programa Riqueza Natural – USAID</a></td>
         <td>Ago 2019</td>
       <td>CO</td>
       <td>Yopal (Casanare)</td>
     </tr>
     <tr>
-      <td><a href="/_posts/2019-09-13-taller_universidad_utonoma_de_chiriqui_panama" title="Ver">Taller de manejo y publicación de datos de biodiversidad en GBIF – Universidad Autónoma de Chiriquí, Panamá</a></td>
+      <td><a href="/posts/2019/2019-09-13-taller_universidad_utonoma_de_chiriqui_panama" title="Ver">Taller de manejo y publicación de datos de biodiversidad en GBIF – Universidad Autónoma de Chiriquí, Panamá</a></td>
       <td>Jul 2019</td>
       <td>PA</td>
       <td>David (Chiriquí)</td>
     </tr>
     <tr>
-      <td><a href="/_posts/2019-07-02-oba" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Observatorio de Bosques de Antioquia</a></td>
+      <td><a href="/posts/2019/2019-07-02-oba" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Observatorio de Bosques de Antioquia</a></td>
       <td>Jul 2019</td>
       <td>CO</td>
       <td>Medellín (Antioquia)</td>
     </tr>
     <tr>
-      <td><a href="/_posts/2019-05-03-taller_universidad_industrial_de_santander" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Universidad Industrial de Santander</a></td>
+      <td><a href="/posts/2019/2019-05-03-taller_universidad_industrial_de_santander" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Universidad Industrial de Santander</a></td>
       <td>Abr 2019</td>
       <td>CO</td>
       <td>Bucaramanga (Santander)</td>
