@@ -5,7 +5,6 @@ description: Hemos construido una serie de plantillas como punto de partida para
 background: https://live.staticflickr.com/48/143283343_730dd5ff5b_b.jpg
 imageLicense: |
   Fotografía de: Juan Felipe Rubio vía [Flickr](https://flic.kr/p/dEn9t)
-toc: true
 height: 41vh
 ---
 
