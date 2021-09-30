@@ -93,7 +93,7 @@ splitCicloFormacion:
   # img required
   background: /assets/images/landing_page/img_homeFormacion.jpg
   overlayColor: "#000033"
-  href: /comunidad/formacion
+  href: /comunidad/formacion/cicloformacion2021
   cta:
   - text: Aprender
     href: /comunidad/formacion
