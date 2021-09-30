@@ -1,7 +1,7 @@
 ---
 layout: compose
 title: Regístrate como publicador
-description: Las entidades, redes o iniciativas que deseen compartir datos e información a través del SiB Colombia, pueden registrarse aquí para solicitar el aval como socio publicador.
+description: Las entidades, redes o iniciativas que deseen compartir datos e información pueden registrarse aquí para convertirse en socios publicadores.
 background: https://p1.pxfuel.com/preview/964/177/82/feathers-wing-macro.jpg
 imageLicense: |
   Vía Pxfuel
