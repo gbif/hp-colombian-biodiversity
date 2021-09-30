@@ -3,13 +3,9 @@ layout: compose
 title: Ciclo de Formación 2021
 description: El SiB Colombia fortalece su red nacional y comunidad con actividades de capacitación que permiten a sus publicadores y usuarios hacer uso eficaz de los servicios ofrecidos.
 background: /assets/images/landing_page/img_homeFormacion.jpg
-imageLicense: SiB Colombia # OPTIONAL
-toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
+imageLicense: SiB Colombia
+toc: true 
 height: 41vh
-parallax: true
-overlayColor: "#ffffffbb"
-hasTextShadow: true
-hasBlackText: true
 composition:
 - type: heroImage
 - type: pageMarkdown
@@ -325,7 +321,7 @@ Los laboratorios cuentan con sesiones sincrónicas y asincrónicas para facilita
 _**Inician**: jueves 10 de junio de 2021_ | _**Finalizan**: martes 03 de agosto de 2021_
 
 {: .notification .is-info .is-light}
-[Ciclo de Formación Virtual - Laboratorios de datos](https://sib-colombia.github.io/Formacion/)
+[Ciclo de Formación Virtual - Laboratorios de datos](/formacion/laboratorios)
 
 
 <img src="/comunidad/formacion/images/CalendarioLabs2021-16-scaled.jpg" width=770>
