@@ -9,9 +9,9 @@ columns:
     - text: SiB Colombia
       href: /acercade/SiB_Colombia
     - text: Preguntas Frecuentes
-      href: /compartir/PreguntasFrecuentes
+      href: /compartir/preguntasfrecuentes
     - text: Términos y Condiciones
-      href: /terminosCondiciones/PoliticaPublicacion
+      href: /terminoscondiciones/politicapublicacion
     - text: Boletín
       href: /boletin
 
@@ -54,7 +54,7 @@ columns:
   #  - text: Guía de Acceso Abierto
   #    href: https://sibcolombia.net/acceso-abierto/
   #  - text: Política para la Publicación 
-  #    href: footer/terminosCondiciones/PoliticaPublicacion
+  #    href: footer/terminoscondiciones/politicapublicacion
   #  - text: Política para el Uso
-  #    href: footer/terminosCondiciones/PoliticaUso
+  #    href: footer/terminoscondiciones/politicauso
   #  - text: Política de Datos Personales
