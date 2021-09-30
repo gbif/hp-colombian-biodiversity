@@ -1,6 +1,6 @@
 ---
 layout: documentation
-permalink: /terminosCondiciones/PoliticaPrivacidad # the documentation layout requires you to fill the permalink for it to be highlighted in the side navigation
+permalink: /terminoscondiciones/politicaprivacidad # the documentation layout requires you to fill the permalink for it to be highlighted in the side navigation
 title: "Política de privacidad y tratamiento de datos personales"
 description: "Esta política se publica con el fin de regular la recolección, administración y seguridad de los datos de los publicadores, usuarios, colaboradores, clientes y proveedores incluidos en las bases de datos del Sistema de Información sobre Biodiversidad de Colombia; de acuerdo con lo dispuesto en la ley 1581 de 2012 y en el decreto único reglamentario 1074 de 2015."
 sideNavigation: sidenav_terminoscondiciones.terms
