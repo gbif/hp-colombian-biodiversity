@@ -31,13 +31,13 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="/post/2019/taller_programa_riqueza_natural_usaid" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Programa Riqueza Natural – USAID</a></td>
+      <td><a href="/post/2019/taller-programa-riqueza-natural-usaid" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Programa Riqueza Natural – USAID</a></td>
         <td>Ago 2019</td>
       <td>CO</td>
       <td>Yopal (Casanare)</td>
     </tr>
     <tr>
-      <td><a href="/post/2019/taller_universidad_utonoma_de_chiriqui_panama" title="Ver">Taller de manejo y publicación de datos de biodiversidad en GBIF – Universidad Autónoma de Chiriquí, Panamá</a></td>
+      <td><a href="/post/2019/taller-universidad-utonoma-de-chiriqui-panama" title="Ver">Taller de manejo y publicación de datos de biodiversidad en GBIF – Universidad Autónoma de Chiriquí, Panamá</a></td>
       <td>Jul 2019</td>
       <td>PA</td>
       <td>David (Chiriquí)</td>
@@ -49,7 +49,7 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
       <td>Medellín (Antioquia)</td>
     </tr>
     <tr>
-      <td><a href="/post/2019/taller_universidad_industrial_de_santander" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Universidad Industrial de Santander</a></td>
+      <td><a href="/post/2019/taller-universidad-industrial-de-santander" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Universidad Industrial de Santander</a></td>
       <td>Abr 2019</td>
       <td>CO</td>
       <td>Bucaramanga (Santander)</td>
