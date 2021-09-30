@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 title: Estandarización de datos
-description: Aquí se presentan herramientas que facilitan la estandarización y validación de los datos al estándar Darwin Core (DwC). Pueden ser utilizadas por separado o integradas en un flujo de trabajo donde se hagan sucesivas validaciones.
+description: Aquí se presentan herramientas que facilitan la estandarización y validación de los datos al estándar Darwin Core (DwC).
 background: https://live.staticflickr.com/3785/9659881785_3a805c4b65_b.jpg
 imageLicense: |
    Microscopia _Coccinella septempunctata_ Fotografía de: Dr. Jan Michels vía [Flickr](https://flic.kr/p/fHBqiX) 
