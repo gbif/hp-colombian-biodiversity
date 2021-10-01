@@ -1,14 +1,14 @@
 gobernanza:
   features:
     - preTitle:  # optional
-      title: Comité directivo # required
+      title: Comité Directivo # required
       description: |      # required
         Entidades que lo conforman y sus delegados.
       # img required
       background: /acercade/imagenes/ComiteDirectivoSiB.jpg
       href: /acercade/gobernanza/comitedirectivo
     - preTitle:  # optional
-      title: Comité técnico # required
+      title: Comité Técnico # required
       description: |      # required
         Entidades que lo conforman y sus delegados.
       # img required
