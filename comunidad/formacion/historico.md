@@ -6,6 +6,7 @@ description: Espacios de capacitación donde se promueve la publicación y uso d
 background:   https://live.staticflickr.com/672/21163241529_69cc39346b_b.jpg
 imageLicense: |
   Fotografía de: CIFOR vía [Flickr](https://flic.kr/p/WJ2tP5) 
+parallax: true
 height: 41vh
 ---
 
