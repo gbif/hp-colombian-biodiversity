@@ -3,7 +3,7 @@ layout: heroImage
 klass: historicoformacion
 title: Formación SiB Colombia - Histórico
 description: Espacios de capacitación donde se promueve la publicación y uso de los datos abiertos sobre biodiversidad.
-background:   https://live.staticflickr.com/7005/6513963353_dde9603609_b.jpg
+background:   https://live.staticflickr.com/7469/26352730153_a0c3986f35_b.jpg
 imageLicense: |
   Fotografía de: CIFOR vía [Flickr](https://flic.kr/p/WJ2tP5) 
 height: 41vh
