@@ -1,13 +1,19 @@
 gobernanza:
   title: Gobernanza
   description: |
-    El SiB Colombia es liderado por un Comité directivo (CD-SiB), el cual se desempaña como la instancia de gobernanza del sistema y está conformado por el Ministerio de Ambiente y Desarrollo Sostenible, los 5 institutos de investigación del SINA (IAVH, Invemar, Sinchi, IIAP e IDEAM) la Universidad Nacional de Colombia y Parques Nacionales Naturales de Colombia. 
-    El CD-SiB se apoya a su vez, en un Comité Técnico (CT-SIB), grupos de trabajo Ad Hoc para temas específicos y el equipo coordinador del SiB Colombia (EC-SiB).
+    El SiB Colombia cuenta con una arquitectura de gobernanza conformada por la red de socios, que a su vez se organizan en un Comité Directivo (CD-SiB) que representa los intereses de los socios, un Comité Técnico (CT-SiB) que construye las orientaciones conceptuales y operativas del sistema, grupos de interés y de trabajo que abordan desarrollos temáticos particulares sobre biodiversidad, una entidad coordinadora que por mandato gestiona los recursos necesarios para mantener al SiB Colombia y un Equipo Coordinador (EC-SiB) que cumple las funciones de secretaría técnica.
   features:
     - preTitle:  # optional
-      title: Comités directivo y técnico # required
+      title: Comité directivo # required
       description: |      # required
-       Entidades que conforman los conforman y sus delegados.
+        Entidades que lo conforman y sus delegados.
+      # img required
+      background: /acercade/imagenes/ComiteDirectivoSiB.jpg
+      href: /acercade/gobernanza/comitedirectivo
+    - preTitle:  # optional
+      title: Comités técnico # required
+      description: |      # required
+        Entidades que lo conforman y sus delegados.
       # img required
       background: /acercade/imagenes/ComiteDirectivoSiB.jpg
       href: /acercade/gobernanza/comitedirectivo
@@ -15,7 +21,7 @@ gobernanza:
       title: Equipo Coordinador    # required
       href: /acercade/gobernanza/equipocoordinador
       description: |      # required
-       Actuales participantes del Equipo Coordinador
+         El equipo humano detrás del SiB Colombia.
       background: /acercade/imagenes/equipocoordinador/EquipoCoordinador2020_villa.jpg
  
 # Feature cards
