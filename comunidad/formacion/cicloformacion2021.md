@@ -322,7 +322,7 @@ Los laboratorios cuentan con sesiones sincrónicas y asincrónicas para facilita
 _**Inician**: jueves 10 de junio de 2021_ | _**Finalizan**: martes 03 de agosto de 2021_
 
 {: .notification .is-info .is-light}
-[Ciclo de Formación Virtual - Laboratorios de datos](/formacion/laboratorios)
+[Laboratorios de datos](/formacion/laboratorios)
 
 
 <img src="/comunidad/formacion/images/CalendarioLabs2021-16-scaled.jpg" width=770>
