@@ -32,17 +32,16 @@ stats2:
     - title: 49%
       description: Investigación
       background: /comunidad/usodedatos/images/Investigacion.png
-      href: https://catalogo.biodiversidad.co/
+      #href: https://catalogo.biodiversidad.co/
     - title: 23%
       description: Educación
       background: /comunidad/usodedatos/images/Educacion.png
-      href: https://www.gbif.org/publisher/search?country=CO
-      # Hard coded value     
+      #href: https://www.gbif.org/publisher/search?country=CO  
     - title: 24%
       description: Toma de decisiones
       background: /comunidad/usodedatos/images/Decisiones.png
-      href: https://www.gbif.org/dataset/search?publishing_country=CO
-      # we can also use the graphql API to allow richer queries
+      #href: https://www.gbif.org/dataset/search?publishing_country=CO
+   
 
 
 #cards
