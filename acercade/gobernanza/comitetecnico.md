@@ -1,7 +1,7 @@
 ---
 layout: heroImage
-title: Comités directivo y técnico
-description: El Comité técnico es la instancia máxima de gobernandza del SiB Colombia
+title: Comité técnico
+description: El Comité técnico es la instancia de toma de descisiones del SiB Colombia
 background: /assets/images/fondos_layout/tetragoniscaNido_cp.jpg
 imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/) 
