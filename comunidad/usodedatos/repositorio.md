@@ -2,7 +2,7 @@
 layout: heroImage
 title: Repositorio de publicaciones
 description: Publicaciones a partir de datos y cifras del SiB Colombia
-background: https://live.staticflickr.com/650/31440909030_c012584b2a_b.jpg
+background: https://live.staticflickr.com/4179/34564080952_48c01780de_b.jpg
 imageLicense: |
   Fotografía: Felipe Rodríguez-Moreno [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) vía [flikr](https://www.flickr.com/photos/feliperodriguez90/) 
 height: 41vh
