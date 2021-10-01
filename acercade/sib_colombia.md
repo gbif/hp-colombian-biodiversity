@@ -33,10 +33,16 @@ Facilitar la gestión de datos e información sobre biodiversidad acercando usua
 El SiB Colombia espera consolidarse como una plataforma colaborativa que facilita la construcción, uso y democratización del conocimiento sobre la diversidad biológica de Colombia. De esta forma la iniciativa contribuye a la visión de una sociedad que conoce y valora la biodiversidad en la cual está inmersa, y que usa dicho conocimiento para desarrollarse.
 
 
-
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/M8U6BbgDOUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Nodo GBIF Colombia
+
+GBIF —Infraestructura Mundial de Información en Biodiversidad— es una organización internacional y una red de datos financiada por gobiernos de todo el mundo, destinada a proporcionar a cualquier persona, en cualquier lugar, acceso abierto y gratuito a datos sobre cualquier tipo de forma de vida que hay en la Tierra. En Colombia, la participación nacional en GBIF es facilitada por el SiB Colombia como representante del país desde el año 2003. En este sentido, todos los esfuerzos nacionales de publicación de datos, son reflejados en esta plataforma internacional.
+
 
 ## Gobernanza
 
 El SiB Colombia cuenta con una arquitectura de gobernanza conformada por la red de socios, que a su vez se organizan en un Comité Directivo (CD-SiB) que representa los intereses de los socios, un Comité Técnico (CT-SiB) que construye las orientaciones conceptuales y operativas del sistema, grupos de interés y de trabajo que abordan desarrollos temáticos particulares sobre biodiversidad, una entidad coordinadora que por mandato gestiona los recursos necesarios para mantener al SiB Colombia y un Equipo Coordinador (EC-SiB) que cumple las funciones de secretaría técnica.
+
 
