@@ -6,19 +6,19 @@ gobernanza:
         Entidades que lo conforman y sus delegados.
       # img required
       background: /acercade/imagenes/ComiteDirectivoSiB.jpg
-      href: /acercade/imagenes/ComiteDirectivoSiB.jpg
+      href: /acercade/gobernanza/comitedirectivo
     - preTitle:  # optional
       title: Comité Técnico # required
       description: |      # required
         Entidades que lo conforman y sus delegados.
       # img required
-      background: /acercade/imagenes/ComiteDirectivoSiB.jpg
+      background: /acercade/imagenes/ComiteTecnicoSiB.jpg
       href: /acercade/gobernanza/comitetecnico
     - preTitle:   # optional
       title: Equipo Coordinador    # required
       href: /acercade/gobernanza/equipocoordinador
       description: |      # required
-         Secretaria técnica y nodo GBIF Colombia.
+         Secretaría técnica y nodo GBIF Colombia.
       background: /acercade/imagenes/equipocoordinador/EquipoCoordinador2020_villa.jpg
  
 # Feature cards
@@ -44,7 +44,7 @@ nodoGBIF:
   description: | 
      GBIF —Infraestructura Mundial de Información en Biodiversidad— es una organización internacional y una red de datos financiada por gobiernos de todo el mundo, destinada a proporcionar a cualquier persona, en cualquier lugar, acceso abierto y gratuito a datos sobre cualquier tipo de forma de vida que hay en la Tierra. 
      En Colombia, la participación nacional en GBIF es facilitada por el SiB Colombia como representante del país desde el año 2003. En este sentido, todos los esfuerzos nacionales de publicación de datos, son reflejados en esta plataforma internacional.
-  background: /assets/theme/img/patterns/wavy-dots.png
+  background: /acercade/imagenes/logo_gbif_500px.png
   overlayColor: "#000033"
   href: https://www.gbif.org/country/CO/summary
   cta:
