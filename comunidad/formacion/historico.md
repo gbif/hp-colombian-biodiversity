@@ -55,85 +55,85 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
       <td>Bucaramanga (Santander)</td>
     </tr>
     <tr>
-      <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">IV Simposio Colombiano de Informática de la Biodiversidad</a></td>
+      <td><a href="/comunidad/formacion/enconstruccion" title="Ver">IV Simposio Colombiano de Informática de la Biodiversidad</a></td>
       <td>Dic 2019</td>
       <td>CO</td>
       <td>Bogotá, D.C.</td>
     </tr>
     <tr>
-      <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Sistema Regional de Áreas Protegidas del Eje Cafetero</a></td>
+      <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Sistema Regional de Áreas Protegidas del Eje Cafetero</a></td>
       <td>Nov 2018</td>
       <td>CO</td>
       <td>Pereira (Risaralda)</td>
     </tr>
     <tr>
-      <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad marina – SiBM</a></td>
+      <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad marina – SiBM</a></td>
       <td>Oct 2018</td>
       <td>CO</td>
       <td>Santa Marta (Magdalena)</td>
     </tr>
     <tr>
-      <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Taller de gestión y publicación de datos de salud pública – INS</a></td>
+      <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Taller de gestión y publicación de datos de salud pública – INS</a></td>
       <td>Sep 2018</td>
       <td>CO</td>
       <td>Bogotá, D.C.</td>
     </tr>
     <tr>
-      <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – UPTC – Boyacá BIO</a></td>
+      <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – UPTC – Boyacá BIO</a></td>
       <td>Jul 2018</td>
       <td>CO</td>
       <td>Tunja (Boyacá)</td>
     </tr>
     <tr>
-      <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Universidad del Cauca</a></td>
+      <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Universidad del Cauca</a></td>
       <td>May 2018</td>
       <td>CO</td>
       <td>Popayán (Cauca)</td>
     </tr>
     <tr>
-     <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Curso de monitoreo participativo en biodiversidad</a></td>
+     <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Curso de monitoreo participativo en biodiversidad</a></td>
       <td>Mar 2018</td>
       <td>CO</td>
       <td>Gachalá (Cundinamarca)</td>
     </tr>
     <tr>
-     <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – CORPOGUAVIO</a></td>
+     <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – CORPOGUAVIO</a></td>
       <td>Oct 2017</td>
       <td>CO</td>
       <td>Jardín (Antioquia)</td>
     </tr>
     <tr>
-     <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Fortalecimiento de Colecciones Biológicas - MEPB</a></td>
+     <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Fortalecimiento de Colecciones Biológicas - MEPB</a></td>
       <td>Jul 2017</td>
       <td>CO</td>
       <td>Guarne (Antioquia)</td>
     </tr>
     <tr>
-    <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Fortalecimiento de Colecciones Biológicas - Universidad del Tolima</a></td>
+    <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Fortalecimiento de Colecciones Biológicas - Universidad del Tolima</a></td>
       <td>Jul 2017</td>
       <td>CO</td>
       <td>Ibagué (Tolima)</td>
     </tr>
     <tr>
-    <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Fortalecimiento de Colecciones Biológicas - Universidad de Caldas</a></td>
+    <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Fortalecimiento de Colecciones Biológicas - Universidad de Caldas</a></td>
       <td>Jul 2017</td>
       <td>CO</td>
       <td>Manizales (Caldas)</td>
     </tr>
     <tr>       
-    <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Fortalecimiento de Colecciones Biológicas - Universidad Nacional de Colombia - sede Orinoquía</a></td>
+    <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Fortalecimiento de Colecciones Biológicas - Universidad Nacional de Colombia - sede Orinoquía</a></td>
       <td>Jun 2017</td>
       <td>CO</td>
       <td>Arauca (Arauca)</td>
     </tr>
     <tr>
-    <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Fortalecimiento de Colecciones Biológicas - Universidad de Quindío</a></td>
+    <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Fortalecimiento de Colecciones Biológicas - Universidad de Quindío</a></td>
       <td>Jun 2017</td>
       <td>CO</td>
       <td>Manizales (Caldas)</td>
     </tr>
     <tr>
-    <td><a href="https://hp-colombian-biodiversity.gbif-staging.org/comunidad/formacion/CicloFormacion2020#seminarios" title="Ver">Taller de calidad de datos: mejorando los datos primarios sobre biodiversidad</a></td>
+    <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Taller de calidad de datos: mejorando los datos primarios sobre biodiversidad</a></td>
       <td>Nov 2014</td>
       <td>CO</td>
       <td>Bogotá D.C.</td>
