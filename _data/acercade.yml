@@ -16,7 +16,7 @@ gobernanza:
         Entidades que lo conforman y sus delegados.
       # img required
       background: /acercade/imagenes/ComiteDirectivoSiB.jpg
-      href: /acercade/gobernanza/comitedirectivo
+      href: /acercade/gobernanza/comitetecnico
     - preTitle:   # optional
       title: Equipo Coordinador    # required
       href: /acercade/gobernanza/equipocoordinador
