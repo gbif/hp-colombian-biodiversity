@@ -26,12 +26,17 @@ El SiB Colombia es una realidad gracias a la participación de cientos de organi
 
 ## Misión
 
-     Facilitar la gestión de datos e información sobre biodiversidad acercando usuarios, publicadores y productores de la información para apoyar procesos de investigación, educación o toma de decisiones relacionadas con el conocimiento, la conservación y el uso sostenible de la biodiversidad y los servicios ecosistémicos.
+Facilitar la gestión de datos e información sobre biodiversidad acercando usuarios, publicadores y productores de la información para apoyar procesos de investigación, educación o toma de decisiones relacionadas con el conocimiento, la conservación y el uso sostenible de la biodiversidad y los servicios ecosistémicos.
 
 ## Visión
 
-     El SiB Colombia espera consolidarse como una plataforma colaborativa que facilita la construcción, uso y democratización del conocimiento sobre la diversidad biológica de Colombia. De esta forma la iniciativa contribuye a la visión de una sociedad que conoce y valora la biodiversidad en la cual está inmersa, y que usa dicho conocimiento para desarrollarse.
+El SiB Colombia espera consolidarse como una plataforma colaborativa que facilita la construcción, uso y democratización del conocimiento sobre la diversidad biológica de Colombia. De esta forma la iniciativa contribuye a la visión de una sociedad que conoce y valora la biodiversidad en la cual está inmersa, y que usa dicho conocimiento para desarrollarse.
 
 
 
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/M8U6BbgDOUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Gobernanza
+
+El SiB Colombia cuenta con una arquitectura de gobernanza conformada por la red de socios, que a su vez se organizan en un Comité Directivo (CD-SiB) que representa los intereses de los socios, un Comité Técnico (CT-SiB) que construye las orientaciones conceptuales y operativas del sistema, grupos de interés y de trabajo que abordan desarrollos temáticos particulares sobre biodiversidad, una entidad coordinadora que por mandato gestiona los recursos necesarios para mantener al SiB Colombia y un Equipo Coordinador (EC-SiB) que cumple las funciones de secretaría técnica.
+
