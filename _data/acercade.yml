@@ -21,7 +21,7 @@ gobernanza:
       title: Equipo Coordinador    # required
       href: /acercade/gobernanza/equipocoordinador
       description: |      # required
-         El equipo humano detrás del SiB Colombia.
+         Secretaria técnica y nodo GBIF Colombia.
       background: /acercade/imagenes/equipocoordinador/EquipoCoordinador2020_villa.jpg
  
 # Feature cards
