@@ -41,5 +41,5 @@ ManualMarca:
   overlayColor: "#ffffffbb"
   hasWhiteText: false
   cta:
-  - text: Accede al manual
+  - text: Descargar
     href: https://statics.sibcolombia.net/sib-resources/Docs/manual-identidad-SiB-2016.pdf
