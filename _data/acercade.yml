@@ -31,7 +31,7 @@ planImplementacion:
   hasWhiteText: true
   cta:
   - text: Plan de trabajo
-    href: /acercade/plantrabajo
+    href: https://docs.google.com/document/d/e/2PACX-1vS4y_dRuf5C8MkLJ0wxGLzgnMzgDDmwpwZA-Z0LSS4oRoXY5LFYRZPlYq58Fz2htJ6Rxg9ktPyM08Dm/pub
   - text: Plan estratégico
     href: http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35500/PlanEstrategico_SiBColombia_versionfinal.pdf?sequence=4&isAllowed=y{:target="_blank"}
  
