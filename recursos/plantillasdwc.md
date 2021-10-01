@@ -180,4 +180,29 @@ Use esta plantilla si sus datos:
 </details>
 
 
+### Extensiones
+
+Use esta plantillas si sus datos:
+
+* Incluyen rasgos funcionales (medidas) del organismo representado en los registros biológicos.
+* Incluyen recursos multimedia como imágenes, videos, sonidos, etc. almacenados en un repositorio externo y cuyos contenidos pueden ser accedidos vía URL. 
+* Corresponde a listas de especies con información de distribución de la especie, tales como país, localidad, habitat, estado de amenaza, etc.
+
+<details>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?export=download&id=1s05MAYDixYt6wPp9V8de8qrCHxuOOw-o">Medidas o Hechos</a></b></summary>
+    <p><i>Revisada y editada 2021-06</i></p>
+    
+</details>
+
+<details>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?export=download&id=1Bfdgnl-KXwvLHs8H-bSe8yBXVyD8qrx8">Multimedia Simple</a></b></summary>
+    <p><i>Revisada y editada 2021-06</i></p>
+    
+</details>
+
+<details>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?export=download&id=1kqyGIkeP6KdR0-hz7CbGvriQuSitWqwp">Distribución de especies</a></b></summary>
+    <p><i>Revisada y editada 2021-06</i></p>
+    
+</details>
  
