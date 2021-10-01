@@ -39,15 +39,17 @@ planImplementacion:
     href: http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35500/PlanEstrategico_SiBColombia_versionfinal.pdf?sequence=4&isAllowed=y{:target="_blank"}
  
  
-# Feature cards
+    
 nodoGBIF:
+  reverse: true
+  #preTitle: Reporte  # optional
   title: Nodo GBIF Colombia
-  description: |      # required
-     GBIF —Infraestructura Mundial de Información en Biodiversidad— es una organización internacional y una red de datos financiada por gobiernos de todo el mundo, destinada a proporcionar a cualquier persona, en cualquier lugar, acceso abierto y gratuito a datos sobre cualquier tipo de forma de vida que hay en la Tierra. 
+  GBIF —Infraestructura Mundial de Información en Biodiversidad— es una organización internacional y una red de datos financiada por gobiernos de todo el mundo, destinada a proporcionar a cualquier persona, en cualquier lugar, acceso abierto y gratuito a datos sobre cualquier tipo de forma de vida que hay en la Tierra. 
      En Colombia, la participación nacional en GBIF es facilitada por el SiB Colombia como representante del país desde el año 2003. En este sentido, todos los esfuerzos nacionales de publicación de datos, son reflejados en esta plataforma internacional.
   background: /assets/theme/img/patterns/wavy-dots.png
-  overlayColor: "#ffffffbb"
-  hasWhiteText: false
+  overlayColor: "#000033"
+  href: https://www.gbif.org/country/CO/summary
   cta:
   - text: Ver más
     href: https://www.gbif.org/country/CO/summary
+    isPrimary: true
