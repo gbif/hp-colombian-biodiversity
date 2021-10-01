@@ -2,9 +2,9 @@
 layout: compose
 title: Ciclo de Formación 2021
 description: El SiB Colombia fortalece su red nacional y comunidad con capacitaciones que permiten a publicadores y usuarios hacer uso eficaz de los datos.
-background: https://live.staticflickr.com/4388/35918846974_b14866f211_b.jpg
-imageLicense:   
-    Fotografía de: Camila Plata vía [Flickr](https://www.flickr.com/photos/camisilver/14492820304/) 
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/17140412/large.jpeg?1525147267 #
+imageLicense: |
+   _Marchantia polymorpha_ Fotografía de: teodoro_chivatabedoya vía [iNaturalist](https://colombia.inaturalist.org/observations/11967283)
 toc: true 
 height: 41vh
 composition:
