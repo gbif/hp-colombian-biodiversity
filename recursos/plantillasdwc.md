@@ -174,7 +174,7 @@ Use esta plantilla si sus datos:
 * No solo documentan atributos de un registro biológico, sino también el detalle suficiente para determinar la composición de una comunidad o abundancia relativa de las especies en diferentes momentos del tiempo.
 
 <details>
-    <summary markdown="span"><b><a href="https://goo.gl/EAZbqL">Descargar última versión v1.1</a></b></summary>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?id=1N3zTljnFujY7MC8Y_R4vd7vr1IhjgeXp&authuser=2&export=download">Descargar última versión v1.1</a></b></summary>
     <p><i>Revisada y editada 2014-05</i></p>
     
 </details>
