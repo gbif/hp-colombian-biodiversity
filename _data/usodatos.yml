@@ -14,17 +14,17 @@ stats1:
     - title: 1.358
       description: Descargas de datos
       background: /comunidad/usodedatos/images/Descargas.png
-      href: /data
+      #href: /data
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
     - title: 143
       description: Consultas totales
       background: /comunidad/usodedatos/images/Consulta.png
-      href: https://listas.biodiversidad.co/
+      #href: https://listas.biodiversidad.co/
       # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
     - title: 19.432
       description: Citaciones acumuladas
       background: /comunidad/usodedatos/images/Citacion.png
-      href: /data
+      #href: /data
   
 stats2:
   background: "#ffffff55"
