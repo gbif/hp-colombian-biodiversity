@@ -1,7 +1,11 @@
 ---
-layout: default
-title: Comité directivo
+layout: heroImage
+title: Comités directivo y técnico
 description: El Comité directivo es la instancia máxima de gobernandza del SiB Colombia
+background: /assets/images/fondos_layout/tetragoniscaNido_cp.jpg
+imageLicense: |
+  Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/) 
+height: 41vh
 ---
 
 El SiB Colombia es liderado por un Comité directivo (**CD-SiB**), el cual se desempaña como la instancia de gobernanza del sistema y está conformado por el **Ministerio de Ambiente y Desarrollo Sostenible**, los 5 institutos de investigación del SINA (**IAVH, Invemar, Sinchi, IIAP** e **IDEAM**) la **Universidad Nacional de Colombia** y **Parques Nacionales Naturales de Colombia**. El CD-SiB se apoya a su vez, en un Comité Técnico (**CT-SIB**), grupos de trabajo Ad Hoc para temas específicos y el equipo coordinador del SiB Colombia (**EC-SiB**).
