@@ -15,7 +15,7 @@ composition:
   - data: acercade.planImplementacion
     type: floatingText
   - data: acercade.nodoGBIF
-    type: floatingText
+    type: split
 ---
 
 
