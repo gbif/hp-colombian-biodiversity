@@ -4,7 +4,7 @@ layout: compose
 title: Biodiversidad en Cifras
 description: |
    ¿Cuántas especies registradas hay en Colombia?
-background: https://live.staticflickr.com/65535/51066160306_ffa141f9bd_k.jpg
+background: https://live.staticflickr.com/4343/36347693296_0a3a7e4a35_b.jpg
 imageLicense: |
    _Florae Columbiae_ Archivo de: Biodiversity Heritage Library vía [Flickr](https://www.flickr.com/photos/biodivlibrary/8205952042/in/album-72157632062538373/)
 height: 41vh
