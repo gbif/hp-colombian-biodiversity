@@ -1,6 +1,6 @@
 ---
 layout: heroImage
-title: Comités directivo y técnico
+title: Comité directivo
 description: El Comité directivo es la instancia máxima de gobernandza del SiB Colombia
 background: /assets/images/fondos_layout/tetragoniscaNido_cp.jpg
 imageLicense: |
