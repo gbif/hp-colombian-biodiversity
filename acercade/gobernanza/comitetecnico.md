@@ -1,15 +1,15 @@
 ---
 layout: heroImage
 title: Comités directivo y técnico
-description: El Comité directivo es la instancia máxima de gobernandza del SiB Colombia
+description: El Comité técnico es la instancia máxima de gobernandza del SiB Colombia
 background: /assets/images/fondos_layout/tetragoniscaNido_cp.jpg
 imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/) 
 height: 41vh
 ---
 
-Es la instancia que representa los intereses de los socios del SiB Colombia y el medio por el cual se toman decisiones colectivas. Se encarga de evaluar los lineamientos para el funcionamiento del SiB Colombia y direccionar las estrategias y recursos. 
-La conformación del CD-SiB se alinea con las directrices definidas en la Resolución 1484 de 2013 para el Sistema de Información Ambiental de Colombia (SIAC), del cual el SiB Colombia es un subsistema de información y con el esquema de coordinación de la Estrategia Nacional del Inventario de la Biodiversidad (Enibio). Está conformado por los siguientes miembros:
+Es la instancia para la construcción colaborativa de las orientaciones conceptuales y operativas del SiB Colombia. 
+El CT-SiB esta conformado por delegados de las entidades miembro del CD-SiB y los socios que se inviten por el EC-SiB según las temáticas a tratar. Está conformado por los siguientes miembros:
 
 |     |      |
 |-----|------|
