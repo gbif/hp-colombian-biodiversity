@@ -2,7 +2,7 @@
 layout: heroImage
 klass: historicoformacion
 title: Formación SiB Colombia - Histórico
-description: El SiB Colombia, a través del Equipo Coordinador, ofrece y participa en diversos espacios de capacitación donde se promueve la publicación y uso de los datos abiertos sobre biodiversidad.
+description: Espacios de capacitación donde se promueve la publicación y uso de los datos abiertos sobre biodiversidad.
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/159982129/large.jpeg?1632702613
 imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/14492820304/) 
