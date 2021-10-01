@@ -2,10 +2,10 @@ terms:
 - grouptitle: "Términos y Condiciones"
   content:
   - title: "Política para la publicación"
-    path: /terminosCondiciones/PoliticaPublicacion
+    path: /terminosCondiciones/politicapublicacion
   - title: "Política de privacidad"
-    path: /terminosCondiciones/PoliticaPrivacidad
+    path: /terminoscondiciones/politicaprivacidad
   - title: "Política para el uso"
-    path: /terminosCondiciones/PoliticaUso
+    path: /terminosCondiciones/politicauso
   - title: "Política de privacidad del sitio web"
     path: /privacy
