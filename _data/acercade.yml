@@ -11,7 +11,7 @@ gobernanza:
       background: /acercade/imagenes/ComiteDirectivoSiB.jpg
       href: /acercade/gobernanza/comitedirectivo
     - preTitle:  # optional
-      title: Comités técnico # required
+      title: Comité técnico # required
       description: |      # required
         Entidades que lo conforman y sus delegados.
       # img required
@@ -40,13 +40,14 @@ planImplementacion:
  
  
 # Feature cards
-ManualMarca:
-  title: Manual de identidad
+nodoGBIF:
+  title: Nodo GBIF Colombia
   description: |      # required
-    El SiB Colombia se consolida formalmente como una marca institucional que tiene como único fin cuidar y seguir fortaleciendo la imagen ante los diferentes públicos y escenarios en los que se haga presencia.  
+     GBIF —Infraestructura Mundial de Información en Biodiversidad— es una organización internacional y una red de datos financiada por gobiernos de todo el mundo, destinada a proporcionar a cualquier persona, en cualquier lugar, acceso abierto y gratuito a datos sobre cualquier tipo de forma de vida que hay en la Tierra. 
+     En Colombia, la participación nacional en GBIF es facilitada por el SiB Colombia como representante del país desde el año 2003. En este sentido, todos los esfuerzos nacionales de publicación de datos, son reflejados en esta plataforma internacional.
   background: /assets/theme/img/patterns/wavy-dots.png
   overlayColor: "#ffffffbb"
   hasWhiteText: false
   cta:
-  - text: Descargar
-    href: https://statics.sibcolombia.net/sib-resources/Docs/manual-identidad-SiB-2016.pdf
+  - text: Ver más
+    href: https://www.gbif.org/country/CO/summary
