@@ -54,11 +54,11 @@ tarjetasUso:
       #preTitle:  Editorial # optional
     - title: Informes Nacionales
       description: |      # required
-       Informes y reportes de la biodiversidad Nacional generados a partir de los datos publicados a través del SiB Colombia.
+       Informes y reportes de la biodiversidad a partir de los datos publicados a través del SiB Colombia.
       # img required
       background: /comunidad/usodedatos/images/Cifras_plantas2019.PNG
       cta:
-      - text: Explora
+      - text: Ver más
         href: /comunidad/usodedatos/repositorio
         isPrimary: true    
       
@@ -66,7 +66,7 @@ tarjetasUso:
      #preTitle: "Uso en cifras"  # optional
     - title: Métricas de uso # required
       description: |      # required
-       Cifras destacadas sobre el uso de los datos sobre biodiversidad
+       Cifras destacadas sobre el uso de los datos sobre biodiversidad publicados por nuestra red de socios.
       background: /comunidad/usodedatos/images/CifrasUso.png
       cta:
       - text: ¡Muy Pronto!
