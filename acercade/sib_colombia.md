@@ -14,7 +14,7 @@ composition:
     type: features # the block type
   - data: acercade.planImplementacion
     type: floatingText
-  - data: acercade.ManualMarca
+  - data: acercade.nodoGBIF
     type: floatingText
 ---
 
