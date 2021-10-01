@@ -9,7 +9,6 @@ background: https://live.staticflickr.com/4388/35918846974_b14866f211_b.jpg
 imageLicense: |
   Fotografía de: CIFOR vía [Flickr](https://flic.kr/p/WJ2tP5) 
 height: 41vh
-parallax: true
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
