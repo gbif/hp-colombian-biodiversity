@@ -8,7 +8,7 @@ imageLicense: |
 height: 41vh
 ---
 
-En la actualidad el EC-SiB está conformado por:
+Es un grupo de profesionales que velan por la coherencia y viabilidad de los procesos de montaje, puesta en marcha y mantenimiento de las condiciones de infraestructura, contenidos, gobernanza y comunicación del SiB Colombia. La conformación del EC-SiB será liderada por la entidad coordinadora.
 
 |           |            |              |
 |-----------|------------| -------------|
