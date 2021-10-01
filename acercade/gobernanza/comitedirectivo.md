@@ -8,7 +8,8 @@ imageLicense: |
 height: 41vh
 ---
 
-El SiB Colombia es liderado por un Comité directivo (**CD-SiB**), el cual se desempaña como la instancia de gobernanza del sistema y está conformado por el **Ministerio de Ambiente y Desarrollo Sostenible**, los 5 institutos de investigación del SINA (**IAVH, Invemar, Sinchi, IIAP** e **IDEAM**) la **Universidad Nacional de Colombia** y **Parques Nacionales Naturales de Colombia**. El CD-SiB se apoya a su vez, en un Comité Técnico (**CT-SIB**), grupos de trabajo Ad Hoc para temas específicos y el equipo coordinador del SiB Colombia (**EC-SiB**).
+Es la instancia que representa los intereses de los socios del SiB Colombia y el medio por el cual se toman decisiones colectivas. Se encarga de evaluar los lineamientos para el funcionamiento del SiB Colombia y direccionar las estrategias y recursos. 
+La conformación del CD-SiB se alinea con las directrices definidas en la Resolución 1484 de 2013 para el Sistema de Información Ambiental de Colombia (SIAC), del cual el SiB Colombia es un subsistema de información y con el esquema de coordinación de la Estrategia Nacional del Inventario de la Biodiversidad (Enibio). Está conformado por los siguientes miembros:
 
 |     |      |
 |-----|------|
