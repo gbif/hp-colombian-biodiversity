@@ -6,8 +6,8 @@ title: Grupos de interés y trabajo
 description: |
    Grupos de la red del SiB Colombia y cómo participar.
 background: https://live.staticflickr.com/4388/35918846974_b14866f211_b.jpg
-imageLicense:   
-    Fotografía de: Camila Plata vía [Flickr](https://www.flickr.com/photos/camisilver/14492820304/) 
+imageLicense: |
+  Fotografía de: CIFOR vía [Flickr](https://flic.kr/p/WJ2tP5) 
 height: 41vh
 parallax: true
 composition:
