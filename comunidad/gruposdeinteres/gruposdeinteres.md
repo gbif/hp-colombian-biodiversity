@@ -4,10 +4,10 @@ klass: formacion # necesario?
 permalink: /comunidad/gruposdeinteres
 title: Grupos de interés y trabajo
 description: |
-   Descubre qué están haciendo los Grupos de Interés y Trabajo, y cómo puedes unirte.
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/17140412/large.jpeg?1525147267 #
-imageLicense: |
-   _Marchantia polymorpha_ Fotografía de: teodoro_chivatabedoya vía [iNaturalist](https://colombia.inaturalist.org/observations/11967283)
+   Grupos de la red del SiB Colombia y cómo participar.
+background: https://live.staticflickr.com/4388/35918846974_b14866f211_b.jpg
+imageLicense:   
+    Fotografía de: Camila Plata vía [Flickr](https://www.flickr.com/photos/camisilver/14492820304/) 
 height: 41vh
 parallax: true
 composition:
