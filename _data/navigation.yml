@@ -69,7 +69,7 @@
 - text: Acerca de
   menu: # Dropdown menu (one level deep only)
   - text: SiB Colombia
-    href: /acercade/sib_colombia
+    href: /acercade/sibcolombia
  # - text: Aliados
  #  href: /acercade/aliados/andi
   - text: Términos y condiciones
