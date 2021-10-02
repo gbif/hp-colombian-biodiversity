@@ -44,7 +44,7 @@ nodoGBIF:
   description: | 
      GBIF —Infraestructura Mundial de Información en Biodiversidad— es una organización internacional y una red de datos financiada por gobiernos de todo el mundo, destinada a proporcionar a cualquier persona, en cualquier lugar, acceso abierto y gratuito a datos sobre cualquier tipo de forma de vida que hay en la Tierra. 
      En Colombia, la participación nacional en GBIF es facilitada por el SiB Colombia como representante del país desde el año 2003. En este sentido, todos los esfuerzos nacionales de publicación de datos, son reflejados en esta plataforma internacional.
-  background: /acercade/imagenes/logo_gbif_500px.png
+  background: /acercade/imagenes/logo_gbif_split.png
   overlayColor: "#000033"
   href: https://www.gbif.org/country/CO/summary
   cta:
