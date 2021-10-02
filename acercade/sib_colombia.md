@@ -45,6 +45,6 @@ GBIF —Infraestructura Mundial de Información en Biodiversidad— es una organ
 
 El SiB Colombia cuenta con una arquitectura de gobernanza conformada por la red de socios, que a su vez se organizan en un Comité Directivo (CD-SiB) que representa los intereses de los socios, un Comité Técnico (CT-SiB) que construye las orientaciones conceptuales y operativas del sistema, grupos de interés y de trabajo que abordan desarrollos temáticos particulares sobre biodiversidad, una entidad coordinadora que por mandato gestiona los recursos necesarios para mantener al SiB Colombia y un Equipo Coordinador (EC-SiB) que cumple las funciones de secretaría técnica.
 
-<img src="/acercade/images/arquitectura_SiB.png" alt="Arquitectura SiB Colombia" width="100%">
+<img src="/acercade/imagenes/arquitectura_SiB.png" alt="Arquitectura SiB Colombia" width="100%">
 
 
