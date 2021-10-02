@@ -12,8 +12,9 @@ Es un grupo de profesionales que velan por la coherencia y viabilidad de los pro
 
 |           |            |              |
 |-----------|------------| -------------|
-|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-DairoEscobar.jpg"></figure> |_Dairo Escobar_| _Coordinación_ |
-|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-JeimmyDiaz.jpg"></figure> |_Jeimmy Díaz_ | _Gestión y Cooperación_ |
-|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-CamilaPlata.jpg"></figure> |_Camila Plata_ | _Administración de Contenidos_ |
-|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-RicardoOrtiz.jpg"></figure> |_Ricardo Ortiz_ | _Administración de Contenidos_ |
-|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB-EstebanMarentes.jpg"></figure> |_Esteban Marentes_ | _Administración de Contenidos_ |
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_DairoEscobar.jpg"></figure> |_Dairo Escobar_| _Coordinación_ |
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_JeimmyDiaz.jpg"></figure> |_Jeimmy Díaz_ | _Gestión y Cooperación_ |
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_CamilaPlata.jpg"></figure> |_Camila Plata_ | _Administración de Contenidos_ |
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_RicardoOrtiz.jpg"></figure> |_Ricardo Ortiz_ | _Administración de Contenidos_ |
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_EstebanMarentes.jpg"></figure> |_Esteban Marentes_ | _Administración de Contenidos_ |
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_AndresDuarte.jpg"></figure> |_Andrés Duarte_ | _Productos y Servicios_ |
