@@ -5,7 +5,7 @@ gobernanza:
       description: |      # required
         Entidades que lo conforman y sus delegados.
       # img required
-      background: /acercade/imagenes/ComiteDirectivoSiB.jpg
+      background: /acercade/imagenes/ComiteDirectivo.jpg
       href: /acercade/gobernanza/comitedirectivo
     - preTitle:  # optional
       title: Comité Técnico # required
