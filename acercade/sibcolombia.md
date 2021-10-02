@@ -14,8 +14,7 @@ composition:
     type: features # the block type
   - data: acercade.planImplementacion
     type: floatingText
-  - data: acercade.nodoGBIF
-    type: split
+
 ---
 
 
