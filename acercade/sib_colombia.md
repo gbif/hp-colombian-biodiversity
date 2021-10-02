@@ -32,9 +32,21 @@ Facilitar la gestión de datos e información sobre biodiversidad acercando usua
 
 El SiB Colombia espera consolidarse como una plataforma colaborativa que facilita la construcción, uso y democratización del conocimiento sobre la diversidad biológica de Colombia. De esta forma la iniciativa contribuye a la visión de una sociedad que conoce y valora la biodiversidad en la cual está inmersa, y que usa dicho conocimiento para desarrollarse.
 
-
+<br><br>
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/M8U6BbgDOUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Principios orientadores
+
+Los socios del SiB Colombia reconocen y aplican estos principios orientadores fundamentales en su actuar:
+
+1. **Libre acceso**: el acceso universal en igualdad de oportunidades a todo el conocimiento científico, así como la creación y difusión de la información científica y técnica, son una prioridad que orienta la misión del SiB Colombia. 
+2. **Confianza**: las relaciones de confianza entre los socios del SiB Colombia son la base para la buena comunicación, el desarrollo de sinergias y la construcción de una red colaborativa.
+3. **Participación**: el SiB Colombia creará, promoverá y fortalecerá los espacios de participación en donde se dan la inclusión,  comunicación y representación de los intereses de los socios.
+4. **Sin ánimo de lucro**: las plataformas tecnológicas, herramientas, talleres y en general las actividades, productos y servicios del SiB Colombia no tienen fines lucrativos.
+5. **Atribución y reconocimiento**:  los socios del SiB Colombia, en cada uno de sus roles, tendrán la visibilidad, reconocimiento y atribución adecuada especialmente en la publicación de sus datos e información.
+6. **Cooperación**: actuar en conjunto y desarrollar alianzas que permitan hacer sinergia es fundamental para consolidar y hacer crecer la iniciativa.
+7. **Responsabilidad compartida**: la suma de esfuerzos es fundamental para una iniciativa que se construye a partir del aporte y apropiación de los socios.
+8. **Transparencia**: las actividades, inversiones y recursos del SiB Colombia serán informados públicamente. Los proyectos colaborativos se basarán en reglas claras y oportunas.
 
 ## Nodo GBIF Colombia
 
