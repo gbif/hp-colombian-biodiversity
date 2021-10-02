@@ -6,7 +6,7 @@ description: |
    ¿Cuántas especies registradas hay en Colombia?
 background: https://live.staticflickr.com/832/42142804082_69d4cb98a6_b.jpg
 imageLicense: |
-   _Florae Columbiae_ Archivo de: Biodiversity Heritage Library vía [Flickr](https://www.flickr.com/photos/biodivlibrary/8205952042/in/album-72157632062538373/)
+   Tracie Hall vía [Flickr](https://flic.kr/p/27d1Tqo)
 height: 41vh
 composition:
   - type: heroImage # the block type
