@@ -1,8 +1,8 @@
 relatedPosts:
   es: "Eventos y noticias relacionadas"
 # en: "Related Posts"
-# differentLanguage:
-#  es: "Esta página está disponible en los siguientes idiomas"
+differentLanguage:
+  es: "CREAR . COMPARTIR . TRANSFORMAR"
 #  en: "This page is available in following languages"
 tocTitle:
   es: "Contenidos"
