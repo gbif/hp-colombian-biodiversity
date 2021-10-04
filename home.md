@@ -1,8 +1,8 @@
 ---
 lang-ref: home
 layout: home
-title: "<strong>Una ventana a la</strong><BR><em>biodiversidad</em>"
-description: Biodiversidad.co es el portal oficial para la publicación y consulta<BR>de datos e información sobre la biodiversidad de Colombia.
+title: "<strong>Crear · compartir · transformar</strong><BR><em>Biodiversidad para todos</em>"
+description: Red nacional de datos sobre la biodiversidad de Colombia.
 background: assets/images/landing_page/SiB_bannerhome_20210916.jpg
 imageLicense: |
   Fotografía de: Santiago Estrada, vía [reef-shepherd.com](https://www.reef-shepherd.com/galeria/)
