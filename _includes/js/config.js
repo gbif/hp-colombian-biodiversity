@@ -3,6 +3,11 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 }});
 
 var siteConfig = {
+  // along with whatever other properties you have. E.g. your 'rootPredicate'
+  occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY,'DATASETS'], // possible values are TABLE, MAP, GALLERY, DATASETS
+};
+
+var siteConfig = {
   rootPredicate: {
     "type": "or",
     "predicates": [
