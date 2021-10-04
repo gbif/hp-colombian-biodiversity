@@ -63,7 +63,7 @@ destacados:
     - preTitle:  Ciclo de formación 2021
       title:  Where Next
       description: |      # required
-          Un sistema de recomendación diseñado para optimizar el llenado de vacíos en el conocimiento de la biodiversidad.
+          Un sistema para optimizar la identificación de vacíos de conocimiento.
       # img required
       background: /assets/images/landing_page/imgDest_WhereNext.png
       cta:
