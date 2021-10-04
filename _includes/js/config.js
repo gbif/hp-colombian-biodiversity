@@ -2,10 +2,6 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
   primary: themeStyle.colors.primary
 }});
 
-var siteConfig = {
-  // along with whatever other properties you have. E.g. your 'rootPredicate'
-  occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY,'DATASETS'], // possible values are TABLE, MAP, GALLERY, DATASETS
-};
 
 var siteConfig = {
   rootPredicate: {
@@ -33,5 +29,6 @@ var siteConfig = {
       }
     ]
   },
-  highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince','elevation','year', 'basisOfRecord', 'recordedBy','publishingOrg','datasetKey','datasetName','occurrenceIssue']
+  highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince','elevation','year', 'basisOfRecord', 'recordedBy','publishingOrg','datasetKey','datasetName','occurrenceIssue'],
+  occurrenceSearchTabs: ['TABLE',  'MAP','GALLERY', 'DATASETS']
 };
