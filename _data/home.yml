@@ -61,11 +61,11 @@ destacados:
         isPrimary: false
 
     - preTitle:  Ciclo de formación 2021
-      title:  Wallace
+      title:  Where Next
       description: |      # required
-          Una plataforma para el modelamiento de nicho y distribuciones de especies.
+          Un sistema de recomendación diseñado para optimizar el llenado de vacíos en el conocimiento de la biodiversidad.
       # img required
-      background: /assets/images/landing_page/imgDest_Wallace.jpg
+      background: /assets/images/landing_page/imgDest_WhereNext.png
       cta:
       - text: Inscribirse
         href: https://humboldt-org-co.zoom.us/webinar/register/WN_fsc8vZqhT0W4xESDS0wTeg
