@@ -311,6 +311,39 @@ Puedes encontrar más información sobre la serie de documentos de georeferencia
 </details>
 
 ---
+<details>
+  <summary markdown="span">15. Wallace: una plataforma para el modelamiento de nicho y distribuciones de especies.</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/64dcllq_Xgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<i>30 de Septiembre de 2021 | Hora: 7:30 am – 8:30 am </i>
+<br> 
+<br> 
+<i>Wallace es una aplicación modular, fácil de usar y basada en R para el modelado reproducible de nichos y distribuciones de especies. La aplicación está ampliamente documentada y guía a los usuarios a través de un análisis completo, desde la adquisición de datos hasta la visualización de las predicciones geográficas del modelo en un mapa interactivo. Aquí conocerás i) las principales cualidades de Wallace mediante una demostración de su uso y ii) las nuevas funcionalidades que estarán disponibles en las próximas versiones de la aplicación.</i>
+<br>
+<br>
+<b>Presenta:</b> Elkin Noguera-Urbano
+    
+</details>
+
+---
+
+<details>
+  <summary markdown="span">16. WhereNext: un sistema de recomendación para identificar prioridades de muestreo basado en GDM.</summary>
+
+<img src="/assets/images/landing_page/imgDest_WhereNext.png" width=560>
+<br>
+<i>07 de Octubre de 2021 | Hora: 7:30 am – 8:30 am </i>
+<br> 
+<br> 
+<i>WhereNext es un sistema de recomendación diseñado para optimizar el proceso de llenar vacíos en el conocimiento de la biodiversidad. Aunque su principal aplicación es en la planeación de inventarios biológicos también puede ser utilizado para priorizar el muestreo de una lista de sitios preseleccionados e incluso identificar áreas prioritarias para la movilización de datos de biodiversidad. En este seminario presentaré la fundamentación estadística detrás de la priorización de muestreo basada en WhereNext así como las funciones implementadas en el paquete de R, las cuales poseen varias funciones auxiliares que pueden ser útiles en otros análisis de datos de biodiversidad.</i>
+<br>
+<br>
+<b>Presenta:</b> Jorge Velasquez
+    
+</details>
+
+---
 
 
 {: .notification .is-info }
