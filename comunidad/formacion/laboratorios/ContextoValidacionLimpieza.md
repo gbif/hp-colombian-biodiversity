@@ -1,6 +1,6 @@
 ---
 layout: documentation
-#permalink: /formacion/laboratorios/ContextoValidacionLimpieza
+permalink: /formacion/laboratorios/ContextoValidacionLimpieza
 title: "Laboratorio de validación y limpieza"
 description: "Objetivo: aprender a utilizar varias herramientas de validación y limpieza."
 sideNavigation: sidenav_laboratorios.terms
