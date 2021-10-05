@@ -62,13 +62,13 @@ Cada Darwin Core Archive incluye como uno de sus componentes un archivo EML (esc
 
 ### Lecturas y recursos externos
 
-:wrench: **Recursos**
+**Recursos**
 
 * [Video documentación de metadatos en la herramienta de publicación IPT](https://youtu.be/9WkH9hoHc8w)
 * [Guía de referencia rápida del IPT](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#gu%C3%ADa-de-referencia-r%C3%A1pida)
 * [Video _Introduction to publishing using the GBIF Integrated Publishing Toolkit (IPT)_](https://youtu.be/eDH9IoTrMVE)
 
-:books: **Lecturas**
+**Lecturas**
 
 * [Guía de acceso abierto del SiB Colombia](http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35015/abc-sibcolombia.pdf?sequence=1&isAllowed=y)
 
