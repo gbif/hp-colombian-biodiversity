@@ -11,4 +11,4 @@ toc: true
 # Carga de datos
 
 {: .notification .is-primary }
-Guía en construcción disponible a partir de  Junio 2021.
+Guía en construcción. Disponible a partir de Junio 2022.
