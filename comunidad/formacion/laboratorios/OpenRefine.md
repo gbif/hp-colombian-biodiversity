@@ -7,7 +7,7 @@ sideNavigation: sidenav_laboratorios.terms
 toc: true
 ---
 
-# OpenRefine :gem:
+# OpenRefine
 
 
 **Objetivo**
@@ -501,7 +501,7 @@ Compare sus resultados con el siguiente archivo validado según las definiciones
 
 
 ****
-**¡Felicitaciones!** :raised_hands: 
+**¡Felicitaciones!**
 Has aprendido a utilizar _OpenRefine_ para validar y limpiar tus datos sobre biodiversidad.
 
 ****
