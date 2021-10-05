@@ -6,7 +6,8 @@ description: "Objetivo: Detectar posibles problemas en  la estructura y contenid
 sideNavigation: sidenav_laboratorios.terms
 toc: true
 ---
- # Validador de datos - GBIF
+
+# Validador de datos - GBIF
 
 
 **Objetivo**
