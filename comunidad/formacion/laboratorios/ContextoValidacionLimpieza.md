@@ -48,12 +48,12 @@ Para más información, consulte los siguientes videos:
 
 ### Lecturas y recursos externos
 
-:wrench: **Recursos**
+**Recursos**
 
 * [El bueno, el malo y el no tan lindo: ¿Cómo lidiar con datos de Biodiversidad?](https://www.youtube.com/watch?v=om1TdHOj5B8)
 * [*OpenRefine - GREL functions*](https://github.com/OpenRefine/OpenRefine/wiki/GREL-Functions)
 
-:books: **Lecturas**
+**Lecturas**
 
 * [Lectura *Principles of Data Quality*, Chapman 2005](https://www.gbif.org/document/80509/principles-of-data-quality).
 
