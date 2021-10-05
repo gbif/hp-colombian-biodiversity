@@ -16,7 +16,7 @@ Visualizar y validar con la herramienta QGIS la coherencia de la ubicación de l
 
 **Sobre la herramienta**
 
-:earth_americas:  [QGIS](https://qgis.org/es/site/about/index.html) es un software para manejo de información geográfica que se ejecuta sobre multiples sistemas operativos como Linux, Unix, Mac OSX, Windows y Android y soporta numerosos formatos y funcionalidades de datos vector, datos ráster y bases de datos. QGIS proporciona una creciente gama de capacidades a través de sus funciones básicas y complementos con los que podrá visualizar, gestionar, editar, analizar datos y diseñar mapas imprimibles. 
+[QGIS](https://qgis.org/es/site/about/index.html) es un software para manejo de información geográfica que se ejecuta sobre multiples sistemas operativos como Linux, Unix, Mac OSX, Windows y Android y soporta numerosos formatos y funcionalidades de datos vector, datos ráster y bases de datos. QGIS proporciona una creciente gama de capacidades a través de sus funciones básicas y complementos con los que podrá visualizar, gestionar, editar, analizar datos y diseñar mapas imprimibles. 
 
 QGIS es un _software_ libre y de código abierto licenciado bajo GNU - 
 General Public License, soportado como un proyecto de la Open Source Geospatial Foundation (OSGeo)por lo cuual no requiere el pago de licencias. Es impulsado por un grupo de voluntarios que mantienen el software actualizado y las versiones estables, lo que lo mantiene a la par de otros software geográficos mas conocidos.
@@ -38,7 +38,6 @@ General Public License, soportado como un proyecto de la Open Source Geospatial 
 
 * Descargue la carpeta [```ValidacionGeografica_SiB-QGIS```](https://gitlab.com/sib-colombia/data-quality/-/raw/master/ValidacionGeografica_SiB-QGIS.zip?inline=false) con el proyecto de QGIS con todas las capas necesarias para realizar el laboratorio.
 
-:warning: Estamos puliendo este laboratorio, la guía puede presentar cambios menores de formato y estilo para una mejor navegación y aprendizaje. 
 
 --------
 
@@ -52,7 +51,7 @@ General Public License, soportado como un proyecto de la Open Source Geospatial 
 ``` tip
 Puede encontrar instrucciones más específicas de instalación en la [página de descargas](https://qgis.org/es/site/forusers/alldownloads.html). 
 
-:film_projector: También puede consultar este [video tutorial] (https://www.youtube.com/watch?v=4lSee2ewWsY) 
+También puede consultar este [video tutorial] (https://www.youtube.com/watch?v=4lSee2ewWsY) 
 ```
 
 ## Paso 2 - Descarga de datos
@@ -278,7 +277,7 @@ Por último guarde el archivo de validación en formato de texto (Excel) en su e
 
 3. Abra el archivo excel con el resultado de la validación, aplique filtros en las columnas _```countyValidation```_ y _```stateProvinceValidation```_. 
 
-> :thinking: **¿Puede identificar los errores?** Tenga en cuenta que uno de los errores presentes en el cojunto de datos de prueba, y que es muy común en este tipo de validaciones, son los errores de tipeo en los nombres del municipios  como *Abejorrral*, por este motivo aunque su municipio coincida con la ubicación puede detectar con esta validación, errores en la documentación del elemento *stateProvince* y *county*.
+> **¿Puede identificar los errores?** Tenga en cuenta que uno de los errores presentes en el cojunto de datos de prueba, y que es muy común en este tipo de validaciones, son los errores de tipeo en los nombres del municipios  como *Abejorrral*, por este motivo aunque su municipio coincida con la ubicación puede detectar con esta validación, errores en la documentación del elemento *stateProvince* y *county*.
 
 
 > Esta guía es de validación, para los fines de este ejercicio no es necesario corregir los errores identificados en la validación geográfica.
@@ -290,7 +289,7 @@ Si tiene datos propios, pruebe validarlos siguiendo los pasos de este laboratori
 
 
 ****
-**¡Felicitaciones!** :raised_hands:
+**¡Felicitaciones!**
 Ha mejorado la calidad de su conjunto de datos 
 
 ****
