@@ -61,7 +61,7 @@ destacados:
         isPrimary: false
 
     - preTitle:  Ciclo de formación 2021
-      title:  Where Next
+      title:  WhereNext
       description: |      # required
           Un sistema para optimizar la identificación de vacíos de conocimiento.
       # img required
