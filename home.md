@@ -1,8 +1,8 @@
 ---
 lang-ref: home
 layout: home
-title: "<strong>Crear · compartir · transformar</strong><BR><em>Biodiversidad para todos</em>"
-description: Red nacional de datos sobre la biodiversidad de Colombia.
+title: "<em>Biodiversidad</em><br><strong>para todos</strong>"
+description: crear · compartir · transformar
 background: assets/images/landing_page/SiB_bannerhome_20210916.jpg
 imageLicense: |
   Fotografía de: Santiago Estrada, vía [reef-shepherd.com](https://www.reef-shepherd.com/galeria/)
