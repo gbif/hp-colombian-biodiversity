@@ -24,7 +24,7 @@ Estructurar un conjunto de datos de prueba según el estándar DwC, usando la pl
 
 **Archivo de trabajo**
 * Descargue el archivo [<FONT FACE="monospace"><b>«Datos_Caso1_20reg.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_docs/Datos_Caso1_20reg.xlsx) para realizar el laboratorio.
-* Descargue la última versión de la [<FONT FACE="monospace"><b>«plantilla de publicación»</b></FONT>](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0) de registros biológicos.
+* Descargue la última versión de la [<FONT FACE="monospace"><b>«Plantilla de publicación»</b></FONT>](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0) de registros biológicos.
 
 --------
 
@@ -58,7 +58,7 @@ En la pestaña de instrucciones, encontrará adicionalmente una sección titulad
 Abra el archivo de trabajo [<FONT FACE="monospace"><b>«Datos_Caso1_20reg.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_docs/Datos_Caso1_20reg.xlsx) y cree los elementos obligatorios faltantes a partir de la información del caso de estudio y los mismos datos.
 
  
-> **Pista**: Debe crear un identificador único del registro biológico (<span class="tag is-success is-light"><i>occurrenceID</i></span>) a partir del código de la institución (<span class="tag is-success is-light"><i>institutionCode</i></span>), código de la colección (<span class="tag is-success is-light"><i>collectionCode</i></span>) y número de catálogo (<span class="tag is-success is-light"><i>catalogNumber</i></span>). Revise la definición del elemento <span style="color:MediumSeaGreen">**_occurrenceID_**</span> en la plantilla para saber cómo construirlo.
+> **Pista**: Debe crear un identificador único del registro biológico (<span class="tag is-success is-light"><i>occurrenceID</i></span>) a partir del código de la institución (<span class="tag is-success is-light"><i>institutionCode</i></span>), código de la colección (<span class="tag is-success is-light"><i>collectionCode</i></span>) y número de catálogo (<span class="tag is-success is-light"><i>catalogNumber</i></span>). Revise la definición del elemento <span class="tag is-success is-light"><i>occurrenceID</i></span> en la plantilla para saber cómo construirlo.
 
 Ejemplo de <span class="tag is-success is-light"><i>occurrenceID</i></span>: UCN:MH-ORNIT:46-2300MI2008AV0954.
 
@@ -116,5 +116,5 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, 
 
 **Citación sugerida**
 
-> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en <a>https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios</a>
-> 
+> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
+>
