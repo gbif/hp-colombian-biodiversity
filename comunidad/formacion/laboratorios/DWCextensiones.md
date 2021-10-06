@@ -30,20 +30,20 @@ Utilizar tres de las extensiones más comunes del estándar DwC para incorporar 
 
     - [<FONT FACE="monospace"><b>«Ejercicio1_Registrosbiológicos_Estructurado.xlsx»</b></FONT>](https://drive.google.com/uc?id=1KslrtjZAwFbOWsQJ9NdBi2BLBbxNoVJo&authuser=0&export=download)
     - [<FONT FACE="monospace"><b>«Ejercicio1_MedidasoHechos_porEstructurar.xlsx»</b></FONT>](https://drive.google.com/uc?id=1fHWfwjQ8s_4j12uHHleUw4JFyIRoeq0V&authuser=0&export=download)
-    - [<FONT FACE="monospace"><b>«Plantilla Medidas o hechos (_Measurement or Facts_)»</b></FONT>](https://drive.google.com/uc?export=download&id=1s05MAYDixYt6wPp9V8de8qrCHxuOOw-o) 
+    - [<FONT FACE="monospace"><b>«Plantilla Medidas o hechos (*Measurement or Facts*)»</b></FONT>](https://drive.google.com/uc?export=download&id=1s05MAYDixYt6wPp9V8de8qrCHxuOOw-o) 
 
 
 - *Ejercicio de Distribución de especies*
 
     - [<FONT FACE="monospace"><b>«Ejercicio2_ListadeEspecies_Estructurado.xlsx»</b></FONT>](https://drive.google.com/uc?id=1YoBeJIxmH5LdVNWglcyeFcuxJT83MryO&authuser=0&export=download)
     - [<FONT FACE="monospace"><b>«Ejercicio2_DistribuciónEspecies_porEstructurar.xlsx»</b></FONT>](https://drive.google.com/uc?id=1FRUsnhRglZ11eRQnn2mL0XCQp1W3WicZ&authuser=0&export=download)
-    - [<FONT FACE="monospace"><b>«Plantilla Distribución de especies (_Species Distribution_)»</b></FONT>](https://drive.google.com/uc?export=download&id=1kqyGIkeP6KdR0-hz7CbGvriQuSitWqwp)
+    - [<FONT FACE="monospace"><b>«Plantilla Distribución de especies (*Species Distribution*)»</b></FONT>](https://drive.google.com/uc?export=download&id=1kqyGIkeP6KdR0-hz7CbGvriQuSitWqwp)
 
 - *Ejercicio de Multimedia*
 
     - [<FONT FACE="monospace"><b>«Ejercicio3_Registrosbiológicos_Estructurado.xlsx»</b></FONT>](https://drive.google.com/uc?id=1wm7ZvwBqywuROZ-xqTmx00dsAZUY_oQO&authuser=0&export=download)
     - [<FONT FACE="monospace"><b>«Ejercicio3_Multimedia_porEstructurar.xlsx»</b></FONT>](https://drive.google.com/uc?id=1ghJuuEc9TDBvwu0vaWAuuu1d113nNpa7&authuser=0&export=download)
-    - [<FONT FACE="monospace"><b>«Plantilla Multimedia Simple (_Simple Multimedia_)»</b></FONT>](https://drive.google.com/uc?export=download&id=1Bfdgnl-KXwvLHs8H-bSe8yBXVyD8qrx8)
+    - [<FONT FACE="monospace"><b>«Plantilla Multimedia Simple (*Simple Multimedia*)»</b></FONT>](https://drive.google.com/uc?export=download&id=1Bfdgnl-KXwvLHs8H-bSe8yBXVyD8qrx8)
 
 ## Ejercicio 1 - Rasgos funcionales
 
@@ -80,21 +80,19 @@ Una vez que haya explorado la extensión e identificado los elementos obligatori
 
 #### 3.1. Identificar el tipo de medidas o hechos
 
-<code>Teniendo en cuenta que las medidas se pueden dividir en dos categorías, identifique el tipo de cada una.</code> **_```Get data from > This Computer```_** ```SELECCIONAR UN ARCHIVO```
+Teniendo en cuenta que las medidas se pueden dividir en dos categorías, identifique el tipo de cada una.
 
-* **Cuantitativas** (medidas): son variables cuantificables que cuenta con una unidad de medida. Por lo tanto, se asocian a los elementos <span style="color:MediumSeaGreen">**_measurementType_**</span>, <span style="color:MediumSeaGreen">**_measurementeValue_**</span> y <span style="color:MediumSeaGreen">**_measurementeUnit_**</span>. Por ejemplo:
-    - <span style="color:MediumSeaGreen">**_measurementType_**</span>: largo del pico.
-    - <span style="color:MediumSeaGreen">**_measurementeValue_**</span>: 20.
-    - <span style="color:MediumSeaGreen">**_measurementUnit_**</span>: mm (milímetros).
-    - <span class="tag is-primary is-light is-medium">Primary</span>_measurementUnit_</span>
-    - <span class="content is-success is-light">_measurementeUnit_</span>
+* **Cuantitativas** (medidas): son variables cuantificables que cuenta con una unidad de medida. Por lo tanto, se asocian a los elementos <span class="tag is-success is-light"><i>measurementType</i></span>, <span class="tag is-success is-light"><i>measurementValue</i></span> y <span class="tag is-success is-light"><i>measurementUnit</i></span>. Por ejemplo:
+    - <span class="tag is-success is-light"><i>measurementType</i></span>: largo del pico.
+    - <span class="tag is-success is-light"><i>measurementValue</i></span>: 20.
+    - <span class="tag is-success is-light"><i>measurementUnit</i></span>: mm (milímetros).
 
-* **Cualitativas** (hechos): son variables categóricas que guardan algún tipo de lógica, pero no están asociadas directamente a una unidad de medida. Por consiguiente, se asocian a los elementos <span style="color:MediumSeaGreen">**_measurementType_**</span> y <span style="color:MediumSeaGreen">**_measurementeValue_**</span>. Por ejemplo:
-    - <span style="color:MediumSeaGreen">**_measurementType_**</span>: color del pico.
-    - <span style="color:MediumSeaGreen">**_measurementeValue_**</span>: amarillo.
+* **Cualitativas** (hechos): son variables categóricas que guardan algún tipo de lógica, pero no están asociadas directamente a una unidad de medida. Por consiguiente, se asocian a los elementos <span class="tag is-success is-light"><i>measurementType</i></span> y <span class="tag is-success is-light"><i>measurementValue</i></span>. Por ejemplo:
+    - <span class="tag is-success is-light"><i>measurementType</i></span>: color del pico.
+    - <span class="tag is-success is-light"><i>measurementValue</i></span>: amarillo.
 
 #### 3.2. Mapeo de elementos 
-De acuerdo al paso anterior, ahora deberá mapear las medidas en los elementos de la extensión. Puede duplicar los elementos tantas veces como se requiera. Por ejemplo, puede duplicar los elementos <span style="color:MediumSeaGreen">**_measurementType_**</span>, <span style="color:MediumSeaGreen">**_measurementeValue_**</span>, <span style="color:MediumSeaGreen">**_measurementeUnit_**</span> y <span style="color:MediumSeaGreen">**_measurementDeterminatedBy_**</span> para documentar las medidas de **«Altura de percha»** y **«Longitud rostro cloacal»** (Fig 2). Haga lo mismo para las medidas faltantes.
+De acuerdo al paso anterior, ahora deberá mapear las medidas en los elementos de la extensión. Puede duplicar los elementos tantas veces como se requiera. Por ejemplo, puede duplicar los elementos <span class="tag is-success is-light"><i>measurementType</i></span>, <span class="tag is-success is-light"><i>measurementValue</i></span>, <span class="tag is-success is-light"><i>measurementUnit</i></span> y <span class="tag is-success is-light"><i>measurementDeterminatedBy</i> para documentar las medidas de **«Altura de percha»** y **«Longitud rostro cloacal»** (Fig 2). Haga lo mismo para las medidas faltantes.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig2_Extensiones_mapeo.png" width=700>
 
@@ -102,11 +100,11 @@ De acuerdo al paso anterior, ahora deberá mapear las medidas en los elementos d
 
 
 #### 3.3. Estructurar el elemento occurrenceID
-Para usar cualquier extensión, es necesario contar con un identificador (ID). Este permite enlazar la extensión con los datos. En este ejercicio, el <span style="color:Blue">**_occurrenceID_**</span> cumple el rol de identificador, ya que los datos corresponden a registros biológicos (<FONT FACE="monospace"><b>«Ejercicio1_Registrosbiologicos_Estructurado.xlsx»</b></FONT>). Por lo tanto, debe asegurarse de que el <span style="color:MediumSeaGreen">**_occurrenceID_**</span> de la extensión **Medidas o hechos** coincida exactamente con el del conjunto de datos estructurado. Haga los ajustes necesarios para que coincidan (Fig. 3).
+Para usar cualquier extensión, es necesario contar con un identificador (ID). Este permite enlazar la extensión con los datos. En este ejercicio, el <span class="tag is-success is-light"><i>occurrenceID</i></span> cumple el rol de identificador, ya que los datos corresponden a registros biológicos (<FONT FACE="monospace"><b>«Ejercicio1_Registrosbiologicos_Estructurado.xlsx»</b></FONT>). Por lo tanto, es necesario asegurarse de que el <span class="tag is-success is-light"><i>occurrenceID</i></span> de la extensión **Medidas o hechos** coincida exactamente con el del conjunto de datos estructurado. Haga los ajustes necesarios para que coincidan (Fig. 3).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig3_Extensiones_occurrenceID.png" width=400>
 
-<sup>_Figura 3. Diferencia entre el <span style="color:MediumSeaGreen">**occurrenceID**</span> del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión._</sup>
+<sup>_Figura 3. Diferencia entre el <span class="tag is-success is-light"><i>occurrenceID</i></span> del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión._</sup>
  
 
 ### Paso 4 - Ajustar los datos
@@ -128,7 +126,7 @@ Elimine las columnas de los elementos DwC que quedaron vacías en la plantilla d
 ### Paso 5 - Verificación del resultado
 Compare el siguiente [<FONT FACE="monospace"><b>«archivo estandarizado»</b></FONT>](https://drive.google.com/uc?id=1E6_oUh53Du3wTIGilKeyvwQZWbwjR_Wv&authuser=0&export=download) con el archivo que trabajó en el ejercicio para identificar aciertos y posibilidades de mejora. ¿Logró construir correctamente las extensiones?
 
-Tenga en cuenta que existen dos formas válidas de documentar esta extensión. La primera es añadir los elementos DwC tantas veces como sea necesario, al igual que en el ejercicio anterior. La segunda es insertar una fila para cada medida. Esto es posible porque cada fila se puede relacionar al espécimen por medio del identificador, en este caso, el <span style="color:MediumSeaGreen">**_occurrenceID_**</span> (Fig. 6). 
+Tenga en cuenta que existen dos formas válidas de documentar esta extensión. La primera es añadir los elementos DwC tantas veces como sea necesario, al igual que en el ejercicio anterior. La segunda es insertar una fila para cada medida. Esto es posible porque cada fila se puede relacionar al espécimen por medio del identificador, en este caso, el <span class="tag is-success is-light"><i>occurrenceID</i></span> (Fig. 6). 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig6_Extensiones_tiposmapeo.png" width=800>
 
@@ -139,7 +137,7 @@ En el archivo descargado, podrá ver las dos formas de estructurar la extensión
 ## Ejercicio 2 - Distribución de especies
 
 ### Paso 1 - Caso de estudio
-Está participando en un proyecto para realizar una lista de especies de las aves en la reserva del Pantano de Martos, en el municipio de Guatavita (Código Divipola: 25326), y definir su estrategia de conservación. El investigador principal ha revisado los datos publicados a través del SiB Colombia y la literatura del municipio para crear y estructurar la lista de especies según el estándar DwC. Adicionalmente, usted quiere añadir los datos de la distribución de las especies y sus estados de amenaza. Estos datos deben ser incorporados en la publicación de la lista por medio de la extensión **Distribución de especies** (_Species Distribution_). Su misión es usar la extensión para estructurar los datos de distribución de especies.
+Está participando en un proyecto para realizar una lista de especies de las aves en la reserva del Pantano de Martos, en el municipio de Guatavita (Código Divipola: 25326), y definir su estrategia de conservación. El investigador principal ha revisado los datos publicados a través del SiB Colombia y la literatura del municipio para crear y estructurar la lista de especies según el estándar DwC. Adicionalmente, usted quiere añadir los datos de la distribución de las especies y sus estados de amenaza. Estos datos deben ser incorporados en la publicación de la lista por medio de la extensión **Distribución de especies** (*Species Distribution*). Su misión es usar la extensión para estructurar los datos de distribución de especies.
 
 
 ### Paso 2 - Exploración de la plantilla
@@ -150,7 +148,7 @@ Descargue y abra la plantilla de la extensión **Distribución de especies** (Sp
 * **Definiciones**: contiene las descripciones de cada uno de los elementos del estándar DwC, recomendaciones de documentación y ejemplos.
 * **Vocabulario**: contiene los vocabularios controlados para algunos elementos del *Darwin Core*.
 
-En la pestaña de instrucciones, encontrará una sección adicional titulada **"Elementos obligatorios según el tipo de los datos"**. El único elemento obligatorio para esta extensión es el <span style="color:MediumSeaGreen">**_taxonID_**</span>, el cual se construye a partir del archivo <FONT FACE="monospace"><b>«Ejercicio2_ListadeEspecies_Estructurado.xlsx»</b></FONT>, como se indica en el siguiente paso. 
+En la pestaña de instrucciones, encontrará una sección adicional titulada **"Elementos obligatorios según el tipo de los datos"**. El único elemento obligatorio para esta extensión es el <span class="tag is-success is-light"><i>taxonID</i></span>, el cual se construye a partir del archivo <FONT FACE="monospace"><b>«Ejercicio2_ListadeEspecies_Estructurado.xlsx»</b></FONT>, como se indica en el siguiente paso. 
 
 Explore los elementos de la extensión en la plantilla, haciendo clic en los elementos para acceder a las definiciones y vocabularios controlados (cuando corresponda). Allí encontrará algunos ejemplos pre-documentados en gris para facilitar la interpretación y el alcance de los elementos. Puede mantener estos ejemplos como referencia o eliminarlos antes de usar la plantilla. Estos marcan un punto de partida, pero no representan todas las posibilidades de la extensión, ya que el alcance temático y geográfico de cada lista de especies es diferente.
 
@@ -162,11 +160,11 @@ Revise detenidamente el nombre y contenido de cada columna del archivo <FONT FAC
 
 <sup>_Figura 7. Mapeo de datos en la plantilla **Distribución de especies** (Species Distribution)._</sup>
 
-Para usar cualquier extensión, es necesario contar con un identificador (ID). Este permite enlazar la extensión con los datos. En este ejercicio, el <span style="color:MediumSeaGreen">**_taxonID_**</span> cumple el rol de identificador, ya que los datos corresponden a una lista de especies. Por consiguiente, a partir del nombre científico en <FONT FACE="monospace"><b>«Ejercicio2_DistribucionEspecies_porEstructurar.xlsx»</b></FONT>, identifique el <span style="color:MediumSeaGreen">**_taxonID_**</span> en el archivo <FONT FACE="monospace"><b>«Ejercicio2_ListadeEspecies_Estructurado.xlsx»</b></FONT> y cópielo en el elemento <span style="color:MediumSeaGreen">**_taxonID_**</span> de la plantilla de la extensión (Fig. 8).  
+Para usar cualquier extensión, es necesario contar con un identificador (ID). Este permite enlazar la extensión con los datos. En este ejercicio, el <span class="tag is-success is-light"><i>taxonID</i></span> cumple el rol de identificador, ya que los datos corresponden a una lista de especies. Por consiguiente, a partir del nombre científico en <FONT FACE="monospace"><b>«Ejercicio2_DistribucionEspecies_porEstructurar.xlsx»</b></FONT>, identifique el <span class="tag is-success is-light"><i>taxonID</i></span> en el archivo <FONT FACE="monospace"><b>«Ejercicio2_ListadeEspecies_Estructurado.xlsx»</b></FONT> y cópielo en el elemento <span class="tag is-success is-light"><i>taxonID</i></span> de la plantilla de la extensión (Fig. 8).  
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig8_Extensiones_sd_taxonID.png" width=500>
 
-<sup>_Figura 8. Documentación del <span style="color:MediumSeaGreen">**taxonID**</span> en la plantilla **Distribución de especies** a partir de la lista de especies._</sup>
+<sup>_Figura 8. Documentación del <span class="tag is-success is-light"><i>taxonID</i></span> en la plantilla **Distribución de especies** a partir de la lista de especies._</sup>
 
 
 ### Paso 4 - Ajustar los datos
@@ -175,7 +173,7 @@ Para usar cualquier extensión, es necesario contar con un identificador (ID). E
 Una vez mapeados todos los datos del archivo <FONT FACE="monospace"><b>«Ejercicio2_DistribucionEspecies_porEstructurar.xlsx»</b></FONT> en la plantilla de la extensión, ajuste las columnas de acuerdo a las definiciones y vocabularios controlados del estándar para cada elemento. 
 
 #### 4.2 Completar la información geográfica
-En el caso de estudio se le proporcionó el ID de la geografía superior según Divipola. Documente los elementos <span style="color:MediumSeaGreen">**_countryCode_**</span> y <span style="color:MediumSeaGreen">**_locationID_**</span> según esta información y la definición del elemento (Fig. 9).
+En el caso de estudio se le proporcionó el ID de la geografía superior según Divipola. Documente los elementos <span class="tag is-success is-light"><i>countryCode</i></span> y <span class="tag is-success is-light"><i>locationID</i></span>, según esta información y la definición del elemento (Fig. 9).
 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig9_Extensiones_sd_ajustados.png" width=600>
@@ -184,7 +182,7 @@ En el caso de estudio se le proporcionó el ID de la geografía superior según 
 
 
 ####  4.3. Eliminar los elementos vacíos y filas de ejemplo
-Elimine las columnas de los elementos DwC que quedaron vacías en la plantilla **Distribución de especies** (_Species Distribution_). Recuerde que para la publicación solo debe mantener los elementos que hayan sido documentados. También puede eliminar los ejemplos resaltados en gris, ya que que estos solo son una ayuda para el mapeo de los elementos en la plantilla. 
+Elimine las columnas de los elementos DwC que quedaron vacías en la plantilla **Distribución de especies** (*Species Distribution*). Recuerde que para la publicación solo debe mantener los elementos que hayan sido documentados. También puede eliminar los ejemplos resaltados en gris, ya que que estos solo son una ayuda para el mapeo de los elementos en la plantilla. 
 
 ### Paso 5 - Verificación del resultado
 Compare el siguiente archivo, estandarizado según las definiciones del *Darwin Core*, con el archivo que trabajó en el laboratorio para identificar aciertos y posibilidades de mejora. ¿Logró construir correctamente las extensiones?
@@ -195,9 +193,9 @@ Descargue el [<FONT FACE="monospace"><b>«archivo estandarizado»</b></FONT>](ht
 ## Ejercicio 3. - Recursos multimedia
 
 ### Paso 1 - Aplicar lo aprendido
-A partir de los ejercicios previos, se puede deducir que las extensiones funcionan de forma similar. Por lo tanto, este ejercicio consiste en estructurar la extensión **Multimedia simple** (_Simple Multimedia_) a partir de lo aprendido anteriormente. 
+A partir de los ejercicios previos, se puede deducir que las extensiones funcionan de forma similar. Por lo tanto, este ejercicio consiste en estructurar la extensión **Multimedia simple** (*Simple Multimedia*) a partir de lo aprendido anteriormente. 
 
-El archivo <FONT FACE="monospace"><b>«Ejercicio3_Registrosbiologicos_Estructurado.xlsx»</b></FONT> se encuentra estructurado en DwC y contiene los datos de una colección de microorganismos. Se desea asociar las cepas de dichos microorganismos a imágenes de referencia, las cuales se encuentran enlazadas en el archivo <FONT FACE="monospace"><b>«Ejercicio3_Multimedia_porEstructurar.xlsx»</b></FONT>. El primer paso consiste en estructurar las imágenes, usando la extensión **Multimedia simple** (_Simple Multimedia_).
+El archivo <FONT FACE="monospace"><b>«Ejercicio3_Registrosbiologicos_Estructurado.xlsx»</b></FONT> se encuentra estructurado en DwC y contiene los datos de una colección de microorganismos. Se desea asociar las cepas de dichos microorganismos a imágenes de referencia, las cuales se encuentran enlazadas en el archivo <FONT FACE="monospace"><b>«Ejercicio3_Multimedia_porEstructurar.xlsx»</b></FONT>. El primer paso consiste en estructurar las imágenes, usando la extensión **Multimedia simple** (*Simple Multimedia*).
 
  
 ### Paso 2 - Verificación del resultado
@@ -249,7 +247,7 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, 
 
 **Citación sugerida**
 
-> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en https://sib-colombia.github.io/Formacion/
+> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en https://biodiversidad.co/comunidad/formacion
 
 ****
 
