@@ -8,7 +8,7 @@ imageLicense: |
   Fotografía de: Santiago Estrada, vía [reef-shepherd.com](https://www.reef-shepherd.com/galeria/)
 height: 41vh
 navbar:
-  floating: true
+  floating: false
   color: "#ffffff"
   hasWhiteText: false
 cta:
