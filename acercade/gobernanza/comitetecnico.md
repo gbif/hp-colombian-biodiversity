@@ -2,7 +2,7 @@
 layout: heroImage
 title: Comité técnico
 description: El Comité técnico es la instancia de toma de descisiones del SiB Colombia
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/68716500/large.jpg?1587812829
+background: https://live.staticflickr.com/713/21336501996_e649553ce7_b.jpg
 imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/) 
 height: 41vh
