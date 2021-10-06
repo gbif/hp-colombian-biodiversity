@@ -150,7 +150,7 @@ Si lo que deseas es publicar imágenes asociadas a un registro biológico debes 
 Ten en cuenta que para poder visualizar tus fotos en Portales de datos Nacionales e internacionales es necesario que al compartir la imagen, la URL estática cuente con el formato de la imagen.
     Ejemplo Imagen: ("<a href="https://farm1.staticflickr.com/966/41777088842_ae24e9bb55_h.jpg" target="_blank">https://farm1.staticflickr.com/966/41777088842_ae24e9bb55_h.</a><b>jpg</b>").
    </ul></li>
-      <li>Documenta la extensión <a href="https://rs.gbif.org/extension/gbif/1.0/multimedia.xml" target="_blank">Simple Multimedia</a> del estándar Darwin Core para la publicación de imágenes, videos y sonidos. <a href="https://ipt.biodiversidad.co/sibm/archive.do?r=anadarko_colombia_002&v=1.1" target="_blank">Aquí</a> encontrarás un ejemplo del uso de la extensión de Simple Multimedia en una publicación.</li>
+      <li>Documenta la extensión <a href="/recursos/plantillasdwc#extensiones">Multimedia Simple</a> del estándar Darwin Core para la publicación de imágenes, videos y sonidos. <a href="https://ipt.biodiversidad.co/sibm/archive.do?r=anadarko_colombia_002&v=1.1" target="_blank">Aquí</a> encontrarás un ejemplo del uso de la extensión de Simple Multimedia en una publicación.</li>
       <li>Cuando te comuniques con el <a href="mailto:sib@humboldt.org.co">SiB Colombia</a> para comenzar tu proceso de publicación no olvides mencionar que deseas compartir imágenes, te daremos las indicaciones que haga falta para la publicación.</li>
 </ol>
 </details>
@@ -175,7 +175,7 @@ ___
   <summary markdown="span"><B>¿Cómo publicar rasgos funcionales (medidas y hechos)?</B></summary>
 
 <br>
-Para publicar medidas o rasgos funcionales asociados a un registros biológico, debes documentar la extensión <a href="/recursos/plantillasdwc#extensiones" target="_blank">Medidas o hechos</a>  del estándar Darwin Core.  
+Para publicar medidas o rasgos funcionales asociados a un registros biológico, debes documentar la extensión <a href="/recursos/plantillasdwc#extensiones">Medidas o hechos</a>  del estándar Darwin Core.  
 
 <ul>
         <li> <a href="https://ipt.biodiversidad.co/sib/archive.do?r=herpetofauna-y-avifauna-de-villeta-guaduas-cundinamarca&v=2.2" target="_blank">Aquí encontrarás</a> un ejemplo del uso de la extensión de Medidas y Hechos en una <a href="https://doi.org/10.15472/uqcsnp" target="_blank">publicación</a>.</li>  
@@ -189,7 +189,7 @@ ___
   <summary markdown="span"><B>¿Se puede publicar el estado de amenaza de una especie en el estándar Darwin Core?</B></summary>
     
 <br>
-En las listas de especies la categoría de amenaza se documenta en la extensión <a href="/recursos/plantillasdwc#extensiones" target="_blank">Distribución de especies</a>  estándar Darwin Core, en el elemento <B>threatStatus</B>, el cual cuenta con un <a href="https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://rs.gbif.org/vocabulary/iucn/threat_status/" target="_blank">vocabulario controlado</a> para su documentación, que corresponde con las categorías de amenaza establecidas por la Unión Internacional para la Conservación de la Naturaleza - IUCN.
+En las listas de especies la categoría de amenaza se documenta en la extensión <a href="/recursos/plantillasdwc#extensiones">Distribución de especies</a>  estándar Darwin Core, en el elemento <B>threatStatus</B>, el cual cuenta con un <a href="https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://rs.gbif.org/vocabulary/iucn/threat_status/" target="_blank">vocabulario controlado</a> para su documentación, que corresponde con las categorías de amenaza establecidas por la Unión Internacional para la Conservación de la Naturaleza - IUCN.
     </details>
 
 
