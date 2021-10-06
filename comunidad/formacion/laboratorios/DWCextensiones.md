@@ -30,20 +30,20 @@ Utilizar tres de las extensiones más comunes del estándar DwC para incorporar 
 
     - [<FONT FACE="monospace"><b>«Ejercicio1_Registrosbiológicos_Estructurado.xlsx»</b></FONT>](https://drive.google.com/uc?id=1KslrtjZAwFbOWsQJ9NdBi2BLBbxNoVJo&authuser=0&export=download)
     - [<FONT FACE="monospace"><b>«Ejercicio1_MedidasoHechos_porEstructurar.xlsx»</b></FONT>](https://drive.google.com/uc?id=1fHWfwjQ8s_4j12uHHleUw4JFyIRoeq0V&authuser=0&export=download)
-    - [<FONT FACE="monospace"><b>«Plantilla Medidas o hechos (*Measurement or Facts*)»</b></FONT>](https://drive.google.com/uc?export=download&id=1s05MAYDixYt6wPp9V8de8qrCHxuOOw-o) 
+    - [<FONT FACE="monospace"><b>«Plantilla Medidas o hechos (<i>Measurement or Facts</i>)»</b></FONT>](https://drive.google.com/uc?export=download&id=1s05MAYDixYt6wPp9V8de8qrCHxuOOw-o) 
 
 
 - *Ejercicio de Distribución de especies*
 
     - [<FONT FACE="monospace"><b>«Ejercicio2_ListadeEspecies_Estructurado.xlsx»</b></FONT>](https://drive.google.com/uc?id=1YoBeJIxmH5LdVNWglcyeFcuxJT83MryO&authuser=0&export=download)
     - [<FONT FACE="monospace"><b>«Ejercicio2_DistribuciónEspecies_porEstructurar.xlsx»</b></FONT>](https://drive.google.com/uc?id=1FRUsnhRglZ11eRQnn2mL0XCQp1W3WicZ&authuser=0&export=download)
-    - [<FONT FACE="monospace"><b>«Plantilla Distribución de especies (*Species Distribution*)»</b></FONT>](https://drive.google.com/uc?export=download&id=1kqyGIkeP6KdR0-hz7CbGvriQuSitWqwp)
+    - [<FONT FACE="monospace"><b>«Plantilla Distribución de especies (<i>Species Distribution</i>)»</b></FONT>](https://drive.google.com/uc?export=download&id=1kqyGIkeP6KdR0-hz7CbGvriQuSitWqwp)
 
 - *Ejercicio de Multimedia*
 
     - [<FONT FACE="monospace"><b>«Ejercicio3_Registrosbiológicos_Estructurado.xlsx»</b></FONT>](https://drive.google.com/uc?id=1wm7ZvwBqywuROZ-xqTmx00dsAZUY_oQO&authuser=0&export=download)
     - [<FONT FACE="monospace"><b>«Ejercicio3_Multimedia_porEstructurar.xlsx»</b></FONT>](https://drive.google.com/uc?id=1ghJuuEc9TDBvwu0vaWAuuu1d113nNpa7&authuser=0&export=download)
-    - [<FONT FACE="monospace"><b>«Plantilla Multimedia Simple (*Simple Multimedia*)»</b></FONT>](https://drive.google.com/uc?export=download&id=1Bfdgnl-KXwvLHs8H-bSe8yBXVyD8qrx8)
+    - [<FONT FACE="monospace"><b>«Plantilla Multimedia simple (<i>Simple Multimedia</i>)»</b></FONT>](https://drive.google.com/uc?export=download&id=1Bfdgnl-KXwvLHs8H-bSe8yBXVyD8qrx8)
 
 ## Ejercicio 1 - Rasgos funcionales
 
@@ -92,7 +92,7 @@ Teniendo en cuenta que las medidas se pueden dividir en dos categorías, identif
     - <span class="tag is-success is-light"><i>measurementValue</i></span>: amarillo.
 
 #### 3.2. Mapeo de elementos 
-De acuerdo al paso anterior, ahora deberá mapear las medidas en los elementos de la extensión. Puede duplicar los elementos tantas veces como se requiera. Por ejemplo, puede duplicar los elementos <span class="tag is-success is-light"><i>measurementType</i></span>, <span class="tag is-success is-light"><i>measurementValue</i></span>, <span class="tag is-success is-light"><i>measurementUnit</i></span> y <span class="tag is-success is-light"><i>measurementDeterminatedBy</i> para documentar las medidas de **«Altura de percha»** y **«Longitud rostro cloacal»** (Fig 2). Haga lo mismo para las medidas faltantes.
+De acuerdo al paso anterior, ahora deberá mapear las medidas en los elementos de la extensión. Puede duplicar los elementos tantas veces como se requiera. Por ejemplo, puede duplicar los elementos <span class="tag is-success is-light"><i>measurementType</i></span>, <span class="tag is-success is-light"><i>measurementValue</i></span>, <span class="tag is-success is-light"><i>measurementUnit</i></span> y <span class="tag is-success is-light"><i>measurementDeterminatedBy</i></span> para documentar las medidas de **«Altura de percha»** y **«Longitud rostro cloacal»** (Fig 2). Haga lo mismo para las medidas faltantes.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig2_Extensiones_mapeo.png" width=700>
 
@@ -130,7 +130,7 @@ Tenga en cuenta que existen dos formas válidas de documentar esta extensión. L
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig6_Extensiones_tiposmapeo.png" width=800>
 
-<sup>_Figura 6. Segundo mecanismo de documentación de la extensión de **medidas y hechos** en forma de filas sin duplicar elementos DwC._</sup>
+<sup>_Figura 6. Segundo mecanismo de documentación de la extensión de **Medidas o hechos** en forma de filas sin duplicar elementos DwC._</sup>
 
 En el archivo descargado, podrá ver las dos formas de estructurar la extensión.
 
@@ -232,7 +232,7 @@ En este ejercicio, notará que las imágenes se encuentran en un repositorio. Si
 
 
 ****
-**¡Felicitaciones!** :raised_hands:
+**¡Felicitaciones!**
 Ha aprendido a estructurar datos adicionales con las extensiones del estándar *Darwin Core*.
 
 ****
@@ -247,15 +247,15 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, 
 
 **Citación sugerida**
 
-> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en https://biodiversidad.co/comunidad/formacion
+> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en <a>https://biodiversidad.co/comunidad/formacion</a>.
 
 ****
 
 **Fuentes:**
 
 * _Datos y caso de uso del Ejercicio 2 basado en_: 
-Asociación Bogotana de Ornitología (2011). Aves del Pantano de Martos, Guatavita, Cundinamarca, 94 especies aportadas por Ruiz-Ovalle, J. (Coordinador de Proyecto), Camargo, P. (Investigador Principal, Proveedor de Contenido, Proveedor de Metadatos y Publicador), En línea, https://doi.org/10.15472/7p2n83.
+Asociación Bogotana de Ornitología (2011). Aves del Pantano de Martos, Guatavita, Cundinamarca, 94 especies aportadas por Ruiz-Ovalle, J. (Coordinador de Proyecto), Camargo, P. (Investigador Principal, Proveedor de Contenido, Proveedor de Metadatos y Publicador), En línea, <a>https://doi.org/10.15472/7p2n83</a>.
 
 * _Datos y caso de uso del Ejercicio 3 basado en_:
-Alvarado Fernández A M, Rodríguez Gómez E R, Palacios Calderón L M, Trespalacios Rangel A A, Ballesteros Ballesteros J A (2021): Colección de Microorganismos-Pontificia Universidad Javeriana. v1.7. Pontificia Universidad Javeriana. Dataset/Occurrence. https://doi.org/10.15472/ppbz1y.
+Alvarado Fernández A M, Rodríguez Gómez E R, Palacios Calderón L M, Trespalacios Rangel A A, Ballesteros Ballesteros J A (2021): Colección de Microorganismos-Pontificia Universidad Javeriana. v1.7. Pontificia Universidad Javeriana. Dataset/Occurrence. <a>https://doi.org/10.15472/ppbz1y</a>.
 
