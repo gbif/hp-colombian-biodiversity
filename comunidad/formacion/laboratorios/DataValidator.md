@@ -130,7 +130,7 @@ Haga clic sobre las flechas de cada una de las alertas para desglosar de los reg
 <sup>*Figura 7. Mensaje de alerta - Interpretación del registro de GBIF. Al hacer clic en las alertas, podrá ver el detalle de los registros que presentan el error para saber qué debe ajustar. Al hacer clic en el ícono de información, obtendrá una descripción detallada del problema*.</sup>
 
 
-**:vertical_traffic_light: Las alertas se agrupan en 3 categorías según su color:**
+**Las alertas se agrupan en 3 categorías según su color:**
 
 
 * Alertas de color <span style="color:Red">**ROJO**</span>: indican un error estructural que no permite la indexación del recurso y debe ser corregido.
@@ -177,8 +177,9 @@ También puede obtener el mensaje «Se presume longitud negativa», pero es meno
 
 **Solución 2**: revise que el nombre científico esté escrito correctamente.
 
-
-> Es posible que algunos nombres válidos y correctamente escritos sean marcados con esta alerta si no se encuentran en el árbol taxonómico de GBIF. Esto es común en el caso de especíes endémicas o recientemente descritas. En tal caso, ignore la alerta.
+<div class="notification is-info is-light">
+  <b>Nota:</b></font> </b > Es posible que algunos nombres válidos y correctamente escritos sean marcados con esta alerta si no se encuentran en el árbol taxonómico de GBIF. Esto es común en el caso de especíes endémicas o recientemente descritas. En tal caso, ignore la alerta.
+</div>
 
 
 **Alerta**: Coincidencia aproximada del taxón.
@@ -224,7 +225,7 @@ Si tiene datos propios que desee publicar, pruebe validarlos siguiendo los pasos
 
 Recomendaciones:
 
-Según el origen de sus datos (colecciones biológicas, permisos de recolección, datos marinos, eventos de muestreo), compruebe que los elementos obligatorios estén documentados al 100%. Para ello, utilice como referencia la última [<FONT FACE="monospace"><b>«plantilla DwC Registros biológicos»</b></FONT>](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0) y la sección del [validador de datos](https://www.gbif.org/es/tools/data-validator/) **Frecuencia del término** (Fig. 3B). 
+Según el origen de sus datos (colecciones biológicas, permisos de recolección, datos marinos, eventos de muestreo), compruebe que los elementos obligatorios estén documentados al 100%. Para ello, utilice como referencia la última [<FONT FACE="monospace"><b>«Plantilla DwC Registros biológicos»</b></FONT>](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0) y la sección **"Frecuencia del término"** del [validador de datos](https://www.gbif.org/es/tools/data-validator/)(Fig. 3B). 
 
 ****
 **¡Felicitaciones!** Ha mejorado la calidad de su conjunto de datos.
@@ -241,4 +242,5 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, 
 
 **Citación sugerida**
 
-> Plata C., Ortíz R., Marentes E. (2021). Laboratorios de datos, Ciclo de formación virtual. Consultado a través del SiB Colombia. Disponible en <a>https://sib-colombia.github.io/Formacion/</a>
+> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
+>
