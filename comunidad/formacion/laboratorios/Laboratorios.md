@@ -68,7 +68,7 @@ El **libre acceso** y la **cooperación** son dos de los principios orientadores
 El [Sistema de Información sobre Biodiversidad de Colombia (SiB Colombia)](https://sibcolombia.net/) funciona como una red de personas, instituciones y alianzas que buscan gestionar de manera colaborativa los **datos e información sobre biodiversidad del país**, convirtiéndose en un medio de integración de actores públicos y privados con organizaciones no gubernamentales y la sociedad civil. Su principal propósito es brindar **acceso abierto** a información sobre la diversidad biológica del país para construir una sociedad sostenible. Además, facilita la **publicación en línea de datos e información** y promueve su uso por parte de una amplia variedad de audiencias, apoyando de forma oportuna y eficiente la gestión integral de la biodiversidad.
 
 Para conocer más sobre esta red nacional, visite [https://sibcolombia.net/](https://sibcolombia.net/).
-----
+
 ### Agradecimientos
 
 Los contenidos del ciclo de formación no serían posibles sin los aportes significativos de otras iniciativas que trabajan en conjunto con el SiB Colombia:
