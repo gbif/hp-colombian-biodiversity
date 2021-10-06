@@ -178,7 +178,7 @@ También puede obtener el mensaje «Se presume longitud negativa», pero es meno
 **Solución 2**: revise que el nombre científico esté escrito correctamente.
 
 <div class="notification is-info is-light">
-  <b>Nota:</b></font> </b > Es posible que algunos nombres válidos y correctamente escritos sean marcados con esta alerta si no se encuentran en el árbol taxonómico de GBIF. Esto es común en el caso de especíes endémicas o recientemente descritas. En tal caso, ignore la alerta.
+  <b>Nota:</b> Es posible que algunos nombres válidos y correctamente escritos sean marcados con esta alerta si no se encuentran en el árbol taxonómico de GBIF. Esto es común en el caso de especíes endémicas o recientemente descritas. En tal caso, ignore la alerta.
 </div>
 
 
@@ -225,7 +225,7 @@ Si tiene datos propios que desee publicar, pruebe validarlos siguiendo los pasos
 
 Recomendaciones:
 
-Según el origen de sus datos (colecciones biológicas, permisos de recolección, datos marinos, eventos de muestreo), compruebe que los elementos obligatorios estén documentados al 100%. Para ello, utilice como referencia la última [<FONT FACE="monospace"><b>«Plantilla DwC Registros biológicos»</b></FONT>](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0) y la sección **"Frecuencia del término"** del [validador de datos](https://www.gbif.org/es/tools/data-validator/)(Fig. 3B). 
+Según el origen de sus datos (colecciones biológicas, permisos de recolección, datos marinos, eventos de muestreo), compruebe que los elementos obligatorios estén documentados al 100%. Para ello, utilice como referencia la última [<FONT FACE="monospace"><b>«Plantilla DwC Registros biológicos»</b></FONT>](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0) y la sección **"Frecuencia del término"** del [validador de datos](https://www.gbif.org/es/tools/data-validator/) (Fig. 3B). 
 
 ****
 **¡Felicitaciones!** Ha mejorado la calidad de su conjunto de datos.
