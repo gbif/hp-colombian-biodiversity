@@ -11,9 +11,9 @@
     href: https://catalogo.biodiversidad.co/
     target: _blank
   - text: Cifras
-    href: /buscar/biodiversidadencifras 
+    href: /consultar/biodiversidadencifras 
   - text: Localidades
-    href: /buscar/gacetero
+    href: /consultar/gacetero
 
     
 - text: Compartir
