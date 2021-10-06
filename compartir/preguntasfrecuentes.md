@@ -179,7 +179,7 @@ ___
   <summary markdown="span"><B>¿Cómo publicar rasgos funcionales (medidas y hechos)?</B></summary>
 
 <br>
-Para publicar medidas o rasgos funcionales asociados a un registros biológico, debes documentar la extensión <a href="https://tools.gbif.org/dwca-validator/extension.do?id=dwc:MeasurementOrFact" target="_blank">Measurement or Facts</a>  del estándar Darwin Core.  
+Para publicar medidas o rasgos funcionales asociados a un registros biológico, debes documentar la extensión <a href="/recursos/plantillasdwc#extensiones" target="_blank">Medidas o hechos</a>  del estándar Darwin Core.  
 
 <ul>
         <li> <a href="https://ipt.biodiversidad.co/sib/archive.do?r=herpetofauna-y-avifauna-de-villeta-guaduas-cundinamarca&v=2.2" target="_blank">Aquí encontrarás</a> un ejemplo del uso de la extensión de Medidas y Hechos en una <a href="https://doi.org/10.15472/uqcsnp" target="_blank">publicación</a>.</li>  
@@ -193,7 +193,7 @@ ___
   <summary markdown="span"><B>¿Se puede publicar el estado de amenaza de una especie en el estándar Darwin Core?</B></summary>
     
 <br>
-En las listas de especies la categoría de amenaza se documenta en la extensión <a href="https://rs.gbif.org/extension/gbif/1.0/distribution.xml" target="_blank">Species Distribution</a>  estándar Darwin Core, en el elemento <B>threatStatus</B>, el cual cuenta con un <a href="https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://rs.gbif.org/vocabulary/iucn/threat_status/" target="_blank">vocabulario controlado</a> para su documentación, que corresponde con las categorías de amenaza establecidas por la Unión Internacional para la Conservación de la Naturaleza - IUCN.
+En las listas de especies la categoría de amenaza se documenta en la extensión <a href="/recursos/plantillasdwc#extensiones" target="_blank">Distribución de especies</a>  estándar Darwin Core, en el elemento <B>threatStatus</B>, el cual cuenta con un <a href="https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://rs.gbif.org/vocabulary/iucn/threat_status/" target="_blank">vocabulario controlado</a> para su documentación, que corresponde con las categorías de amenaza establecidas por la Unión Internacional para la Conservación de la Naturaleza - IUCN.
     </details>
 
 
@@ -203,7 +203,7 @@ En las listas de especies la categoría de amenaza se documenta en la extensión
   <summary markdown="span"><B>¿Cómo documentar el campo DarwinCore collectionID?</B></summary>
 
 <br>
-Busque su colección en la lista de colecciones biológicas disponible en el Registro Nacional de Coleccciones Biológicas (RNC) y de acuerdo al número asignado documente en este campo “Registro Nacional de Colecciones Biológicas:” + número de la colección. 
+Busque su colección en la lista de colecciones biológicas disponible en el Registro Nacional de Coleccciones Biológicas (RNC) y de acuerdo al número asignado documente en este campo “RNC:” + número de la colección. 
 
 <ul>
  <li><b>Ejemplo: </b>Para documentar el elemento <i>collectionID</i> del Herbario Federico Meden Bogotá: RNC:004 
@@ -252,7 +252,7 @@ ___
   <summary markdown="span"><B>¿Cómo documentar los calificadores de identificación?</B></summary>
 
 <br>
-Los calificadores de una identificación cómo "cf." y "aff." usados para expresar las dudas del determinador sobre la identificación, se documentan en el elemento <b>bidentificationQualifier</b>  del estándar Darwin Core.
+Los calificadores de una identificación cómo "cf." y "aff." usados para expresar las dudas del determinador sobre la identificación, se documentan en el elemento <b>identificationQualifier</b>  del estándar Darwin Core.
     <ul>
 <li><b>Ejemplo 1:</b> Para la determinación "Quercus aff. agrifolia var. oxyadenia", el calificador de la identificación sería: aff. agrifolia var. oxyadenia, con valores acompañantes "Quercus" en Género, "agrifolia" en Epíteto específico. Con  "oxyadenia" en Epíteto infraspecífico, y "Variedad" en Categoría taxonómica.</li>
 <li><b>Ejemplo 2:</b> Para la determinación "cf. Sparassidae", el Calificador de la identificación sería: cf. Sparassidae, con los valores acompañantes "Araneae" en orden, "Araneae" en nombre científico y "Orden" en Categoría taxonómica.</li>
@@ -320,7 +320,7 @@ Los metadatos son información de contexto sobre los datos a publicar, para las 
 <li>Enlaces Externos</li>
 <li>Metadatos Adicionales</li>
     </ol>
-En el siguiente enlace encontrarás un  <a href="https://www.youtube.com/watch?v=9WkH9hoHc8wde" target="_blank">video tutorial</a> de cómo documentar los metadatos a través de la <a href="https://ipt.biodiversidad.co/sib/" target="_blank">herramienta de publicación IPT</a> y en este <a href="/formacion/laboratorios/ipt_metadatos">enlace</a> la práctica de documentación de metadatos del Ciclo de Formación Virtual.
+En el siguiente enlace encontrarás un  <a href="https://www.youtube.com/watch?v=9WkH9hoHc8wde" target="_blank">video tutorial</a> de cómo documentar los metadatos a través de la <a href="https://ipt.biodiversidad.co/sib/" target="_blank">herramienta de publicación IPT</a> y en este <a href="/formacion/laboratorios/IPT_Metadatos">enlace</a> la práctica de documentación de metadatos del Ciclo de Formación Virtual.
     </details>
 
 ___
@@ -414,8 +414,8 @@ ___
 
 <br>
 DOI es la sigla para Digital Object Identifier (Objeto de identificación digital), y consiste en un enlace permanente y abreviado que permite identificar un contenido electrónico, en este caso un recurso publicado a través del SiB Colombia. Todos los recursos publicados a través del SiB Colombia tienen asignados un DOI proporcionado por la agencia de registro <a href="https://datacite.org/" target="_blank">Datacite</a>. 
-
-Beneficios de la asignación de un DOI a la publicación.
+<br>
+Beneficios de la asignación de un DOI a la publicación:
   <ul>
 <li>Permite localizar fácilmente el recurso publicado desde la citación</li>
 <li>Permite el rastreo del uso de los datos asociados al recurso</li>
@@ -436,7 +436,6 @@ Los datos dispuestos a través del SiB Colombia son visibles y pueden ser consul
     <ul>
     <li><a href="/data" >Portal de datos</a></li>
     <li><a href="https://listas.biodiversidad.co/" target="_blank">Listas de especies</a></li>
-    <li><a href="https://colecciones.biodiversidad.co/" target="_blank">Colecciones en línea</a></li>
     </ul>   
     <li><B>Portales internacionales:</B></li>
     <ul>
@@ -466,9 +465,9 @@ Recuerda que si cuentas con credenciales del SiB Colombia en el IPT, puedes acce
   <summary markdown="span"><B>¿Cómo puedo aportar a la construcción de fichas de especies para el CBC?</B></summary>
     
 <br>
-Para aportar a la construcción de una ficha, debe enviar un correo a sib@humboldt.org.co indicando su intención y una lista en excel de las especie(s) para las cuales desea aportar ficha. Después de esto, el equipo coordinador lo guiará en los siguientes pasos:
+Para aportar a la construcción de una ficha, debe enviar un correo a sib@humboldt.org.co indicando su intención y una lista en excel de las especie(s) para las cuales desea aportar ficha, para mas información diríjase al <a href="/compartir/guiadepublicacion#ruta-c-publicación-de-fichas-de-especies" target="_blank">enlace</a>. Después de esto, el equipo coordinador lo guiará en los siguientes pasos:
 <ol>
-        <li>Documentación de fichas en la plantilla</li>
+        <li>Documentación de fichas en la <a href="/recursos/plantillasplic" target="_blank">plantilla</a></li>
         <li>Acceso a editor y capacitación en el uso de la herramienta</li>
       </ol>
     </details>
@@ -500,7 +499,7 @@ ___
   <summary markdown="span"><B>¿Cómo puedo obtener el certificado de reporte a través del SiB Colombia de los especímenes derivados de un permiso de colecta?</B></summary>
 
 <br>
-En este <a href="/compartir/guiapublicacion">enlace</a> podrás encontrar información sobre los pasos a seguir para la publicación de datos asociados a permisos de recolección (ruta B).    
+En este <a href="/compartir/guiadepublicacion">enlace</a> podrás encontrar información sobre los pasos a seguir para la publicación de datos asociados a permisos de recolección (ruta B).    
 </details>
 
 ___
@@ -646,8 +645,8 @@ ___
     
 <br>
 Para abrir archivos de datos separados por tabuladores "<B>.txt</B>" mediante cualquier procesador de hoja de cálculo (por ejemplo, MS Excel, OpenOffice Calc) o software de base de datos de escritorio (por ejemplo, MS Access), importe los datos seleccionando las opciones "delimitado por tabulaciones", CSV, "archivo de texto" o cualquier opción similar. Si se le pide que seleccione un "estándar de codificación" o un "conjunto de caracteres", elija "Unicode, UTF-8". 
-
+<br>
 <B>NOTA:</B> No intente hacer doble clic en los archivos, ya que .txt es una extensión muy genérica y probablemente tendrá asociado un visor de texto genérico.
-
+<br>
 Si tiene curiosidad sobre el contenido de los archivos "<B>.xml</B>", normalmente pueden ser interpretados por los navegadores web: simplemente arrastre y suelte el archivo en una ventana del navegador web. Necesitará un software especial si, por algún motivo, desea editar estos archivos manualmente, aunque esto no es recomendado.
     </details>
