@@ -26,7 +26,7 @@ El estándar **Darwin Core** (DwC) ofrece un marco estable, sencillo y flexible 
 - [Conoce más en el Ciclo de formación](https://youtu.be/nYGu8KY_K6U){:target="_blank"}.
 - [Explora el Manual Darwin Core de OBIS](https://obis.org/manual/){:target="_blank"}.
 - [Conoce los elementos del Darwin Core (a través de la Wiki de Gcube)](https://gcube.wiki.gcube-system.org/gcube/Darwin_Core_Terms){:target="_blank"}.
-- [Conoce los diferentes perfiles Darwin Core](https://sites.google.com/humboldt.org.co/wikisib/publicar/est%C3%A1ndares/darwin-core?authuser=0){:target="_blank"}.
+- [Conoce los diferentes perfiles Darwin Core](/recursos/plantillasdwc).
 
 ___
 
