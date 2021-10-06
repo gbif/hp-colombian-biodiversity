@@ -51,7 +51,7 @@ ___
  <summary markdown="span"><b>¿Cómo publicar eventos de muestreo a través del SiB Colombia?</b></summary>
     
 <br>
-Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la <a href="/compartir/guiapublicacion">Guía para la publicación de datos e información</a>.
+Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la <a href="/compartir/guiadepublicacion">Guía para la publicación de datos e información</a>.
 Encuentra información adicional sobre la publicación de los eventos de muestreo en el siguiente <a href="/compartir/tiposdedatos#eventos-de-muestreo">enlace</a>.
 </details>
 
@@ -62,7 +62,7 @@ ___
     <summary markdown="span"><b>¿Cómo publicar listas de especies  a través del SiB Colombia?</b></summary>
     
 <br>
-Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la <a href="/compartir/guiapublicacion">Guía para la publicación de datos e información</a>.
+Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la <a href="/compartir/guiadepublicacion">Guía para la publicación de datos e información</a>.
 Encuentra información adicional sobre la publicación de listas de especie en el siguiente <a href="/compartir/tiposdedatos#listas-de-especies">enlace</a>.
     </details>
     
@@ -73,12 +73,12 @@ ___
   <summary markdown="span"><b>¿Cómo publicar registros biológicos a través del SiB Colombia?</b></summary>
     
 <br>
-Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la <a href="/compartir/guiapublicacion">Guía para la publicación de datos e información</a>. En la guía conocerás las rutas para la publicación de los datos (Ruta A. Publicación de datos voluntaria y Ruta B. Publicación de datos por permiso de recolección). 
+Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la <a href="/compartir/guiadepublicacion">Guía para la publicación de datos e información</a>. En la guía conocerás las rutas para la publicación de los datos (Ruta A. Publicación de datos voluntaria y Ruta B. Publicación de datos por permiso de recolección). 
     
 Para la publicación de registros biológicos debes tener en cuenta lo siguiente que pueden corresponder a observaciones o registros asociados a colecciones biológicas.  
  <ul>
-  <li>Son  <B>observaciones</B> si los datos corresponden a avistamientos directos de especímenes o  colectas temporales donde el individuo se libera en el mismo lugar que se encontró, y adicionalmente el registro no es soportado por un espécimen preservado. En ocasiones la observación es soportada con una fotografía, un sonido u otro soporte digital. Para publicar información de observaciones diríjase al siguiente <a href="https://sites.google.com/humboldt.org.co/wikisib/publicar/observaciones?authuser=0">enlace</a>.</li>
-  <li>Son <B>colecciones</B> si los datos corresponden  a registros que tienen un voucher o soporte de referencia físico que es evidencia de la captura in situ (en su hábitat natural) del ejemplar biológico, como los especímenes que  se encuentran preservados en colecciones biológicas o museos de historia natural. Para publicar información de Colecciones diríjase al siguiente <a href="https://sites.google.com/humboldt.org.co/wikisib/publicar/colecciones?authuser=0">enlace</a>.</li>
+  <li>Son  <B>observaciones</B> si los datos corresponden a avistamientos directos de especímenes o  colectas temporales donde el individuo se libera en el mismo lugar que se encontró, y adicionalmente el registro no es soportado por un espécimen preservado. En ocasiones la observación es soportada con una fotografía, un sonido u otro soporte digital. Para publicar información de observaciones diríjase al siguiente <a href="/recursos/plantillasdwc#registros-biológicos">enlace</a>.</li>
+  <li>Son <B>colecciones</B> si los datos corresponden  a registros que tienen un voucher o soporte de referencia físico que es evidencia de la captura in situ (en su hábitat natural) del ejemplar biológico, como los especímenes que  se encuentran preservados en colecciones biológicas o museos de historia natural. Para publicar información de Colecciones diríjase al siguiente <a href="/recursos/plantillasdwc#registros-biológicos">enlace</a>.</li>
 </ul>
 </details>
 
@@ -89,7 +89,7 @@ ___
   <summary markdown="span"><b>¿Cuál es la última versión de la plantilla de publicación?</b></summary>
     
 <br>
-La última versión de las plantillas  de publicación para registros biológicos, listas y eventos de muestreo, se encuentra disponibles en el siguiente <a href="/recursos/plantillas#registros-biologicos">enlace</a>, donde también puede revisar las versiones anteriores de cada plantilla.
+La última versión de las plantillas  de publicación para registros biológicos, listas y eventos de muestreo, se encuentra disponibles en el siguiente <a href="/recursos/plantillasdwc#registros-biológicos">enlace</a>, donde también puede revisar las versiones anteriores de cada plantilla.
     </details>
     
 ## Extensiones
