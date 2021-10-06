@@ -11,7 +11,7 @@ toc: true
 
 **Objetivo**
 
-Realizar una validación taxonómica de los nombres científicos de especies marino-costeras de manera automática para detectar posibles errores de formato o taxonomía, usando el servicio[_WoRMS TaxonMatch_](http://www.marinespecies.org/aphia.php?p=match).
+Realizar una validación taxonómica de los nombres científicos de especies marino-costeras de manera automática para detectar posibles errores de formato o taxonomía, usando el servicio [WoRMS *TaxonMatch*](http://www.marinespecies.org/aphia.php?p=match).
 
 **Introducción**
 
