@@ -105,7 +105,7 @@ Las cifras de fuentes externas cuentan un ícono a la derecha, generalmente una 
 # Otros ejemplos de citas
 
 ## Exportación personalizada de datos
-En algunas ocasiones, el Equipo Coordinador del SiB Colombia proporciona asistencia directa a los usuarios que realizan consultas de datos más complejas. Para esto casos se deben seguir los lineamientos del apartado de más arriba: [**“Cuando se trate de la descarga de una consulta de datos”**](#cuando-se-trate-de-la-descarga-de-una-consulta-de-datos).
+En algunas ocasiones, el Equipo Coordinador del SiB Colombia proporciona asistencia directa a los usuarios que realizan consultas de datos más complejas. Para esto casos se deben seguir los lineamientos del apartado de más arriba: [**“Cuando se trate de la descarga de una consulta de datos”**](/recursos/comocitar#descarga-de-una-consulta-de-datos).
 
 Si necesitas asistencia con una exportación personalizada de datos, por favor contacta al Equipo Coordinador a través del correo electrónico sib@humboldt.org.co
 
