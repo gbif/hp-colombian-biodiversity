@@ -10,7 +10,7 @@ $navbar-breakpoint: 1100px;
 
 //Cambia último elemento del menú
 .navbar-top-item.navbar-item:last-child {
-	cursor: pointer;
+	cursor: default;
 	text-transform: uppercase;
 	background-color: coral;
 	border-radius: 100px;
