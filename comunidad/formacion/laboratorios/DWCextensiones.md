@@ -7,7 +7,7 @@ sideNavigation: sidenav_laboratorios.terms
 toc: true
 ---
 
-# Estandarización con las extensiones del *Darwin Core*
+# Estandarización con las extensiones *Darwin Core*
 
 
 **Objetivo**
