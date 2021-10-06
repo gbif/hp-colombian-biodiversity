@@ -7,7 +7,7 @@ sideNavigation: sidenav_laboratorios.terms
 toc: true
 ---
 
-# Validación taxonómica - Taxonomic Name Resolution Service (TNRS) para nombres científicos de plantas
+# Validación taxonómica - Taxonomic Name Resolution Service (TNRS) para plantas
 
 **Objetivo**
 
