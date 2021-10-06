@@ -4,7 +4,7 @@ title: Comité directivo
 description: El Comité directivo es la instancia máxima de gobernandza del SiB Colombia
 background: https://live.staticflickr.com/713/21336501996_e649553ce7_b.jpg
 imageLicense: |
-  Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/) 
+  Fotografía de: Sarah Hina vía [Flickr](https://flic.kr/p/yvr9G5) 
 height: 41vh
 ---
 
