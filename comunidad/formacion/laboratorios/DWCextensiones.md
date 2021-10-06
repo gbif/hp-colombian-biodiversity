@@ -121,7 +121,7 @@ Elimine las columnas de los elementos DwC que quedaron vacías en la plantilla d
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig5_Extensiones_eliminar.png" width=600>
 
-<sup>_Figura 5. Cómo eliminar los elementos vacíos. Clic derecho en la columna > Eliminar._</sup>
+<sup>_Figura 5. Cómo eliminar los elementos vacíos. span class="tag is-info is-light"><i>Clic derecho en la columna > Eliminar</i></span>._</sup>
 
 ### Paso 5 - Verificación del resultado
 Compare el siguiente [<FONT FACE="monospace"><b>«archivo estandarizado»</b></FONT>](https://drive.google.com/uc?id=1E6_oUh53Du3wTIGilKeyvwQZWbwjR_Wv&authuser=0&export=download) con el archivo que trabajó en el ejercicio para identificar aciertos y posibilidades de mejora. ¿Logró construir correctamente las extensiones?
@@ -132,7 +132,7 @@ Tenga en cuenta que existen dos formas válidas de documentar esta extensión. L
 
 <sup>_Figura 6. Segundo mecanismo de documentación de la extensión de **Medidas o hechos** en forma de filas sin duplicar elementos DwC._</sup>
 
-En el archivo descargado, podrá ver las dos formas de estructurar la extensión.
+En el archivo descargado, encontrará las dos formas de estructurar la extensión.
 
 ## Ejercicio 2 - Distribución de especies
 
@@ -148,7 +148,7 @@ Descargue y abra la plantilla de la extensión **Distribución de especies** (Sp
 * **Definiciones**: contiene las descripciones de cada uno de los elementos del estándar DwC, recomendaciones de documentación y ejemplos.
 * **Vocabulario**: contiene los vocabularios controlados para algunos elementos del *Darwin Core*.
 
-En la pestaña de instrucciones, encontrará una sección adicional titulada **"Elementos obligatorios según el tipo de los datos"**. El único elemento obligatorio para esta extensión es el <span class="tag is-success is-light"><i>taxonID</i></span>, el cual se construye a partir del archivo <FONT FACE="monospace"><b>«Ejercicio2_ListadeEspecies_Estructurado.xlsx»</b></FONT>, como se indica en el siguiente paso. 
+En la pestaña de instrucciones, encontrará una sección adicional titulada **"Elementos obligatorios según el tipo de los datos"**. El único elemento obligatorio para esta extensión es el <span class="tag is-success is-light"><i>taxonID</i></span>, el cual se construye a partir del archivo <FONT FACE="monospace"><b>«Ejercicio2_ListadeEspecies_Estructurado.xlsx»</b></FONT> como se indica en el siguiente paso. 
 
 Explore los elementos de la extensión en la plantilla, haciendo clic en los elementos para acceder a las definiciones y vocabularios controlados (cuando corresponda). Allí encontrará algunos ejemplos pre-documentados en gris para facilitar la interpretación y el alcance de los elementos. Puede mantener estos ejemplos como referencia o eliminarlos antes de usar la plantilla. Estos marcan un punto de partida, pero no representan todas las posibilidades de la extensión, ya que el alcance temático y geográfico de cada lista de especies es diferente.
 
@@ -247,15 +247,15 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, 
 
 **Citación sugerida**
 
-> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en <a>https://biodiversidad.co/comunidad/formacion</a>.
+> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/comunidad/formacion](https://biodiversidad.co/comunidad/formacion).
 
 ****
 
 **Fuentes:**
 
 * _Datos y caso de uso del Ejercicio 2 basado en_: 
-Asociación Bogotana de Ornitología (2011). Aves del Pantano de Martos, Guatavita, Cundinamarca, 94 especies aportadas por Ruiz-Ovalle, J. (Coordinador de Proyecto), Camargo, P. (Investigador Principal, Proveedor de Contenido, Proveedor de Metadatos y Publicador), En línea, <a>https://doi.org/10.15472/7p2n83</a>.
+Asociación Bogotana de Ornitología (2011). Aves del Pantano de Martos, Guatavita, Cundinamarca, 94 especies aportadas por Ruiz-Ovalle, J. (Coordinador de Proyecto), Camargo, P. (Investigador Principal, Proveedor de Contenido, Proveedor de Metadatos y Publicador), En línea, [https://doi.org/10.15472/7p2n83](https://doi.org/10.15472/7p2n83).
 
 * _Datos y caso de uso del Ejercicio 3 basado en_:
-Alvarado Fernández A M, Rodríguez Gómez E R, Palacios Calderón L M, Trespalacios Rangel A A, Ballesteros Ballesteros J A (2021): Colección de Microorganismos-Pontificia Universidad Javeriana. v1.7. Pontificia Universidad Javeriana. Dataset/Occurrence. <a>https://doi.org/10.15472/ppbz1y</a>.
+Alvarado Fernández A M, Rodríguez Gómez E R, Palacios Calderón L M, Trespalacios Rangel A A, Ballesteros Ballesteros J A (2021): Colección de Microorganismos-Pontificia Universidad Javeriana. v1.7. Pontificia Universidad Javeriana. Dataset/Occurrence. [https://doi.org/10.15472/ppbz1y](https://doi.org/10.15472/ppbz1y).
 
