@@ -9,7 +9,7 @@ toc: true
 
 ## Ciclo de formación virtual
 
-Tradicionalmente, el Equipo Coordinador del SiB Colombia ha liderado talleres presenciales para la **publicación y gestión de los datos sobre biodiversidad**. El gran interés de la **comunidad** por estos temas y la alta demanda de los talleres ha motivado la creación de un ciclo de formación virtual, el cual tiene como objetivo llegar a una mayor cantidad de personas y regiones del país.  
+Tradicionalmente, el Equipo Coordinador del SiB Colombia ha liderado talleres presenciales para la **publicación y gestión de los datos sobre biodiversidad**. El gran interés de la **comunidad** por estos temas y la alta demanda de los talleres ha motivado la creación de un ciclo de formación virtual, el cual tiene como objetivo general llegar a una mayor cantidad de personas y regiones del país.  
 
 **Objetivos específicos**
 
@@ -68,7 +68,6 @@ El **libre acceso** y la **cooperación** son dos de los principios orientadores
 El [Sistema de Información sobre Biodiversidad de Colombia (SiB Colombia)](https://sibcolombia.net/) funciona como una red de personas, instituciones y alianzas que buscan gestionar de manera colaborativa los **datos e información sobre biodiversidad del país**, convirtiéndose en un medio de integración de actores públicos y privados con organizaciones no gubernamentales y la sociedad civil. Su principal propósito es brindar **acceso abierto** a información sobre la diversidad biológica del país para construir una sociedad sostenible. Además, facilita la **publicación en línea de datos e información** y promueve su uso por parte de una amplia variedad de audiencias, apoyando de forma oportuna y eficiente la gestión integral de la biodiversidad.
 
 Para conocer más sobre esta red nacional, visite [https://sibcolombia.net/](https://sibcolombia.net/).
-
 ----
 ### Agradecimientos
 
