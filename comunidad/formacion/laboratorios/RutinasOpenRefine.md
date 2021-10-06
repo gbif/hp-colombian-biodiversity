@@ -377,7 +377,7 @@ Antes de ejecutar esta rutina se requiere que cargue el archivo ```DIVIPOLA_2021
 ## Paso 4 - Ejecutar la rutina
 
 ### 4.1. Copie la rutina
-Diríjase a la rutina de [Validación de nombres geográficos con DIVIPOLA](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValNamesGeo_ValNombresGeo.txt){:target="_blank"}. Será redirigido a GitHub donde encontrará un archivo de texto plano. Copie el texto de la rutina de validación (Fig. 10). Asegúrese de seleccionar solo la rutina -sin las instrucciones- y copiar todos los corchetes iniciales ```{``` y finales ```}```.
+Diríjase a la rutina de [Validación y recuperación de elevaciones a partir del API de Geonames](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValElevationAPIGeoNames_ValElevacionAPIGeoNames.txt). Será redirigido a GitHub donde encontrará un archivo de texto plano. Copie el texto de la rutina de validación (Fig. 10). Asegúrese de seleccionar solo la rutina -sin las instrucciones- y copiar todos los corchetes iniciales ```{``` y finales ```}```.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig2_OR_A_CopiaRutinaGeoNames.PNG" width=600>
 
