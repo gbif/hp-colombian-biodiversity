@@ -7,7 +7,7 @@ sideNavigation: sidenav_laboratorios.terms
 toc: true
 ---
 
-# Species Matching
+# Validación Taxonómica - Species Matching
 
 **Objetivo**
 
@@ -157,10 +157,10 @@ Compare los elementos ```verbatimScientificName``` (el nombre original en su con
 ## Paso 5 - Datos propios
 Si cuenta con un conjunto de datos propio, intente validar los nombres científicos siguiendo los pasos de este laboratorio.
 
-****
-**¡Felicitaciones!** :raised_hands:
+**¡Felicitaciones!** 
 Terminó la revisión de los nombres científicos con la herramienta species-matching
 
-___________
+**Citación sugerida**
 
-
+> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
+>
