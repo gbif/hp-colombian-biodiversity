@@ -75,11 +75,7 @@ ___
 <br>
 Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la <a href="/compartir/guiadepublicacion">Guía para la publicación de datos e información</a>. En la guía conocerás las rutas para la publicación de los datos (Ruta A. Publicación de datos voluntaria y Ruta B. Publicación de datos por permiso de recolección). 
     
-Para la publicación de registros biológicos debes tener en cuenta lo siguiente que pueden corresponder a observaciones o registros asociados a colecciones biológicas.  
- <ul>
-  <li>Son  <B>observaciones</B> si los datos corresponden a avistamientos directos de especímenes o  colectas temporales donde el individuo se libera en el mismo lugar que se encontró, y adicionalmente el registro no es soportado por un espécimen preservado. En ocasiones la observación es soportada con una fotografía, un sonido u otro soporte digital. Para publicar información de observaciones diríjase al siguiente <a href="/recursos/plantillasdwc#registros-biológicos">enlace</a>.</li>
-  <li>Son <B>colecciones</B> si los datos corresponden  a registros que tienen un voucher o soporte de referencia físico que es evidencia de la captura in situ (en su hábitat natural) del ejemplar biológico, como los especímenes que  se encuentran preservados en colecciones biológicas o museos de historia natural. Para publicar información de Colecciones diríjase al siguiente <a href="/recursos/plantillasdwc#registros-biológicos">enlace</a>.</li>
-</ul>
+Para la publicación de registros biológicos debes tener en cuenta lo siguiente que pueden corresponder a observaciones o registros asociados a colecciones biológicas. En la <a href="/recursos/plantillasdwc#registros-biológicos">plantilla de publicación</a> de registros biológicos podrás ver los elementos obligatorios según el tipo de publicación.  
 </details>
 
 ___
