@@ -7,6 +7,8 @@ background: /assets/images/noticias_eventos/convocatoria-cvlac-PM-1000x937.png
 
 Con el objetivo de contar con información actualizada de los Grupos de Investigación. Se abre la convocatoria nacional para el reconocimiento y medición de grupos de investigación, desarrollo tecnológico o de innovación y para el reconocimiento de investigadores del  SNCTI – 2021.
 
+[Ver presentación](https://docs.google.com/presentation/d/1byrTQufQ_ivS-5tXpK0EsEIF9evMnUIopCh0unWGpzI/edit?usp=sharing)
+
 ## Ventana de observación:
 
 1 de enero de 2016 – 31 de Diciembre de 2020 (cinco años).
@@ -32,7 +34,7 @@ Nuevo registro de productos de procesos de ciencia, tecnología e innovación en
 Los productos que son reconocidos como resultados de las actividades de grupo de investigación se clasifican en cuatro (4) grandes tipos:
 
 - Productos resultados de actividades de generación de nuevo conocimiento.
-- Productos resultados de actividades de desarrollo tecnológico e innovación.
+- **Productos resultados de actividades de desarrollo tecnológico e innovación.**
 - Productos resultados de actividades de apropiación social del conocimiento y divulgación pública de la ciencia.
 - Productos de actividades relacionadas con la formación de recurso humano para la CTeI.
 
