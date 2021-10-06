@@ -15,7 +15,7 @@ toc: true
     <summary markdown="span"><B>¿Cómo registrar  una organización para publicar datos en el SiB Colombia?</B></summary>
     
 <br>
-Para registrar su organización en el SiB Colombia y comenzar un proceso de publicación diligencie el siguiente <a href="/compartir/registrate">formulario</a>. La información registrada aquí nos permitirá contar con información básica sobre su organización y el tipo de datos a publicar. Una vez validemos la información consignada, enviaremos las credenciales para ingresar a la plataforma de publicación. Si tiene dudas sobre el proceso comuníquese directamente a sib@humboldt.org.co.
+Para registrar su organización en el SiB Colombia y comenzar un proceso de publicación diligencie el siguiente <a href="/compartir/registrarse">formulario</a>. La información registrada aquí nos permitirá contar con información básica sobre su organización y el tipo de datos a publicar. Una vez validemos la información consignada, enviaremos las credenciales para ingresar a la plataforma de publicación. Si tiene dudas sobre el proceso comuníquese directamente a sib@humboldt.org.co.
     </details>
 
 ___
