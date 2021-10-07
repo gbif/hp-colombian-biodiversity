@@ -21,7 +21,7 @@ Utilizar _OpenRefine_ para administrar, validar y limpiar de manera eficiente da
 
 **Sobre la Herramienta**
 
-[_OpenRefine_](https://openrefine.org/) es un software creado con el objetivo de pulir datos crudos hasta convertirlos en diamantes :gem:, los cuales son activos valiosos en la era del _BigData_.
+[_OpenRefine_](https://openrefine.org/) es un software creado con el objetivo de pulir datos crudos hasta convertirlos en diamantes, los cuales son activos valiosos en la era del _BigData_.
 
 Este sofware permite visualizar y manipular datos tabulares, facilitando el mejoramiento de la calidad general de un conjunto de datos. Tiene la apariencia de un software tradicional de hoja de cálculo (similar a Excel), pero funciona como una base de datos. Esto significa que _OpenRefine_ no es adecuado para adicionar nuevas filas de datos, pero **es extremadamente poderoso cuando se trata de explorar, limpiar y vincular datos**. 
 
@@ -31,12 +31,12 @@ Esta herramienta sirve para **todo tipo de datos**. Sin embargo, en este laborat
 
 **Convenciones**
 
-- Los elementos del estándar *Darwin Core* aparecen en color verde y cursiva. Por ejemplo:  <span style="color:MediumSeaGreen">**_occurrenceID_**</span>.
+- Los elementos del estándar *Darwin Core* aparecen en color verde y cursiva. Por ejemplo: <span class="tag is-success is-light"><i>measurementUnit</i></span>.
 - Los archivos a utilizar en los ejercicios se muestran entre comillas angulares, negrita, y tienen una tipografía diferente. Por ejemplo: <FONT FACE="monospace"><b>«archivo_Ejemplo.xls»</b></FONT>.
 - Las secciones, ventanas y componentes de las herramientas utilizadas se muestran entre comillas inglesas y en negrita. Por ejemplo: **"Create Project"**.
-- Las opciones de las herramientas que se asocian a instrucciones (dar clic, seleccionar, etc.) aparecen en formato de código, con una tipografía distinta de color naranja. Por ejemplo: ```Choose Files```.
-- Las secuencias de instrucciones y pasos se muestran en formato de código y negrita, con una tipografía distinta de color naranja. Por ejemplo: <b>_```Paso 1 > Paso 2```_</b>.
-- Las líneas que se escriben directamente en las herramientas, para programar o realizar algún proceso en específico, aparecen en formato de código, con una tipografía distinta de color negro. Por ejemplo: <span class="tag is-white">línea_de_prueba</span><code>.
+- Las opciones de las herramientas que se asocian a instrucciones (dar clic, seleccionar, etc.) aparecen en color amarillo y cursiva. Por ejemplo: <span class="tag is-warning is-light"><i>New project</i></span>.
+- Las secuencias de instrucciones y pasos se muestran en color azul y cursiva. Por ejemplo:  <span class="tag is-info is-light"><i>Paso 1 > Paso 2</i></span>.
+- Las líneas que se escriben directamente en las herramientas, para programar o realizar algún proceso en específico, aparecen en formato de código, con una tipografía distinta de color negro. Por ejemplo: <span class="tag is-light"><b>value.replace(" sp.","")</b></span>.
 
 **Requerimientos** 
 
@@ -76,7 +76,7 @@ Puede cargar datos con diferentes formatos y extensiones: TSV, CSV, SV, Excel (.
 
 **2.1. Abrir un nuevo proyecto**
 
-Abra _OpenRefine_ y seleccione la pestaña _**"Create Project"**_. Para cargar el archivo, siga la ruta **_```Get data from > This Computer```_**, y haga clic en ```Choose Files``` (Fig. 1).
+Abra _OpenRefine_ y seleccione la pestaña _**"Create Project"**_. Para cargar el archivo, siga la ruta <span class="tag is-info is-light"><i>Get data from > This Computer</i></span>, y haga clic en <span class="tag is-warning is-light"><i>Choose Files</i></span> (Fig. 1).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig1_OR_cargar.png" width=800>
 
@@ -85,7 +85,6 @@ Abra _OpenRefine_ y seleccione la pestaña _**"Create Project"**_. Para cargar e
 **2.2. Selección del archivo**
 
 Seleccione el archivo <FONT FACE="monospace"><b>«datos_Estructurados.xlsx»</b></FONT> que descargó al incio del laboratorio y haga clic en ```Next``` (Fig. 1).
-
 
 > Puede subir varios archivos a la vez, el software unirá los archivos con base en los encabezados de las columnas.
 > 
@@ -96,25 +95,29 @@ Tras seleccionar el archivo, aparecerá un panel de configuración. Este permite
 
 _OpenRefine_ hace una interpretación automática del tipo de archivo, la codificación del texto, las filas de encabezado, entre otros. El conjunto de datos de ejemplo de este laboratorio es interpretado de manera correcta y no necesita ajustes adicionales. 
 
-```warning
-Si sube sus propios datos o utiliza otro formato, debe fijarse en la vista previa del archivo y ajustar la configuración de lectura detenidamente (Fig. 2).
-````
-
+<article class="message is-warning">
+  <div class="message-header">
+    <p>¡Precaución!</p>    
+  </div>
+  <div class="message-body">
+    Si sube sus propios datos o utiliza otro formato, debe fijarse en la vista previa del archivo y ajustar la configuración de lectura detenidamente (Fig. 2).
+  </div>
+</article>
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig2._OR_config.png">
 
-<sup>_Figura 2. Opciones para configurar la lectura y carga de los datos para un archivo Excel (.xls y .xlsx)_: A. Tipo de archivo, B. Hojas a importar, C. Elección de filas, D. Carga de filas. </sup>
+<sup>_Figura 2. Opciones para configurar la lectura y carga de los datos para un archivo Excel (.xls y .xlsx)_: A. Tipo de archivo, B. Hojas a importar, C. Elección de filas, D. Carga de filas.</sup>
 
  - **A.** Tipo de archivo: permite configurar el tipo de la fuente de datos.
  - **B.** Hojas a importar: si carga uno o varios archivos con múltiples hojas, puede seleccionar cuáles hojas desea importar y cuáles no.
  - **C.** Selección de filas: permite seleccionar la fila que se convertirá en el encabezado de las columnas, ignorar filas, entre otros.
  - **D.** Carga de filas en blanco: permite especificar si se cargan filas vacías cargadas y cómo se realizará la carga. 
 
-> Character encoding: al cargar datos en formato de texto plano, es posible que la previsualización muestre las tíldes (í) y las eñes (ñ) remplazadas por caracteres extraños. Si esto ocurre, seleccione la codificación UTF-8. Esto le permitirá resolver el problema, a menos que haya otro tipo de error en los datos. 
+> **Character encoding**: al cargar datos en formato de texto plano, es posible que la previsualización muestre las tíldes (í) y las eñes (ñ) remplazadas por caracteres extraños. Si esto ocurre, seleccione la codificación UTF-8. Esto le permitirá resolver el problema, a menos que haya otro tipo de error en los datos. 
 
 **2.4. Personalización del proyecto y carga del archivo**
 
-En la esquina superior derecha, verá un cuadro de texto en el que puede modificar el nombre del proyecto. En ese cuadro, escriba **"Datos_OR"** y haga clic en el botón ```Create Project``` (Fig. 3). Opcionalmente, puede añadir _Tags_ (etiquetas) para organizar y filtrar los proyectos en la aplicación.
+En la esquina superior derecha, verá un cuadro de texto en el que puede modificar el nombre del proyecto. En ese cuadro, escriba **"Datos_OR"** y haga clic en el botón <span class="tag is-warning is-light"><i>Create Project</i></span> (Fig. 3). Opcionalmente, puede añadir _Tags_ (etiquetas) para organizar y filtrar los proyectos en la aplicación.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig3_OR_renombrar.png" width=700>
 
@@ -132,7 +135,7 @@ Es un método para filtrar los datos en conjuntos más pequeños, facilitando la
 
 **3.1.1. Crear un _Text facet_**
 
-Diríjase a la columna <span style="color:MediumSeaGreen">**_class_**</span>, haga clic en el menú de la columna y siga la ruta **_```Facet > Text facet```_** (Fig. 4).
+Diríjase a la columna <span class="tag is-success is-light"><i>class</i></span>, haga clic en el menú de la columna y siga la ruta <span class="tag is-info is-light"><i>Facet > Text facet</i></span> (Fig. 4).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig4_OR_facet.png" width=350>
 
@@ -140,7 +143,7 @@ Diríjase a la columna <span style="color:MediumSeaGreen">**_class_**</span>, ha
 
 **3.1.2. Organizar el _Text facet_**
 
-El _```Text facet```_ creado aparecerá a la izquierda de la aplicación, verá una ventana con el nombre de la columna y el _Facet_ que acaba de crear (Fig. 5). Haga clic en _```count```_ para organizar las clases de la más a la menos abundante y en _```name```_ para organizarlas en orden alfabético.
+El <span class="tag is-warning is-light"><i>Text facet</i></span> creado aparecerá a la izquierda de la aplicación. Verá una ventana con el nombre de la columna y el _Facet_ que acaba de crear (Fig. 5). Haga clic en <span class="tag is-warning is-light"><i>count</i></span> para organizar las clases de la más a la menos abundante y en <span class="tag is-warning is-light"><i>name</i></span> para organizarlas en orden alfabético.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig5_OR_facet2.png" width=350>
 
@@ -148,21 +151,21 @@ El _```Text facet```_ creado aparecerá a la izquierda de la aplicación, verá 
 
 **3.1.3. Corrección de los datos**
 
-Corrija las inconsistencias en los nombres de las clases **Aves** y **Mammalia**. Para esto, acerque el cursor al valor que desea corregir y haga clic en _```Edit```_. Luego, en el cuadro de texto que aparece, corrija el error y haga clic en _```Apply```_ (Fig. 6). Todos los valores serán corregidos de manera automática y las celdas se transformarán de forma masiva.
+Corrija las inconsistencias en los nombres de las clases **Aves** y **Mammalia**. Para esto, acerque el cursor al valor que desea corregir y haga clic en <span class="tag is-warning is-light"><i>Edit</i></span>. Luego, en el cuadro de texto que aparece, corrija el error y haga clic en <span class="tag is-warning is-light"><i>Apply</i></span> (Fig. 6). Todos los valores serán corregidos de manera automática y las celdas se transformarán de forma masiva.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig6_OR_classCorrect.png" width=500>
 
-<sup>_Figura 6. Corrección masiva de la columna  <span style="color:MediumSeaGreen">**class**</span> por medio de un Text facet._</sup>
+<sup>_Figura 6. Corrección masiva de la columna <span class="tag is-success is-light"><i>class</i></span> por medio de un Text facet._</sup>
 
-Realice el mismo proceso con la columna <span style="color:MediumSeaGreen">**_basisOfRecord_**</span> y <span style="color:MediumSeaGreen">**_sex_**</span>, ajustándolas al vocabulario controlado de cada elemento (Revise el [Laboratorio de estandarización](https://sib-colombia.github.io/Formacion/LAB/lab01/lab_dwc.html)) (Fig. 7).
+Realice el mismo proceso con la columna <span class="tag is-success is-light"><i>basisOfRecord</i></span> y <span class="tag is-success is-light"><i>sex</i></span>, ajustándolas al vocabulario controlado de cada elemento (Revise el [Laboratorio de estandarización](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/DWC)) (Fig. 7).
 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig7_OR_otrosCorrect.png" width=500>
 
-<sup>_Figura 7. Corrección masiva de las columnas <span style="color:MediumSeaGreen">**basisOfRecord**</span> y <span style="color:MediumSeaGreen">**sex**</span> por medio de un Text facet._</sup>
+<sup>_Figura 7. Corrección masiva de las columnas <span class="tag is-success is-light"><i>basisOfRecord</i></span> y <span class="tag is-success is-light"><i>sex</i></span> por medio de un Text facet._</sup>
 
 
-Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción _```Remove All```_ (Fig. 8) para quitar todos los _facets_ y filtros que tenga en uso.
+Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción <span class="tag is-warning is-light"><i>Remove All</i></span> (Fig. 8) para quitar todos los _facets_ y filtros que tenga en uso.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig8_OR_remover.png" width=350>
 
@@ -171,51 +174,50 @@ Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción 
 
 ### 3.2 Limpieza de espacios en blanco
 
-Diríjase a la columna <span style="color:MediumSeaGreen">**_individualCount_**</span>, haga clic en el menú de la columna y realice un _Text facet_.
+Diríjase a la columna <span class="tag is-success is-light"><i>individualCount</i></span>, haga clic en el menú de la columna y realice un _Text facet_.
 A su izquierda aparecerá la ventana con el nombre de la columna y el facet que se realizó (Fig. 9).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig9_OR_individual.png" width=300>
 
-<sup>_Figura 9. Vista del Text facet y las diferentes formas de documentación del elemento <span style="color:MediumSeaGreen">**individualCount**</span>._</sup>
+<sup>_Figura 9. Vista del Text facet y las diferentes formas de documentación del elemento <span class="tag is-success is-light"><i>individualCount</i></span>._</sup>
 
-Aunque parece que los datos no tienen errores, este procedimiento evidencia que el programa ha detectado espacios extra. Por tal motivo, el _facet_ muestra cuatro opciones diferentes para el valor ```1```.
-Corrija las inconsistencias desde el menú de la columna <span style="color:MediumSeaGreen">**_individualCount_**</span>, siguiendo la ruta **_```Edit Cells > Common transforms > Trim leading and trailing whitespace```_**. Posteriormente, verá un mensaje de notificación, el cual le indicará en cuántas celdas se eliminaron espacios (Fig. 10).
+Aunque parece que los datos no tienen errores, este procedimiento evidencia que el programa ha detectado espacios extra. Por tal motivo, el _facet_ muestra cuatro opciones diferentes para el valor **"1"**.
+Corrija las inconsistencias desde el menú de la columna <span class="tag is-success is-light"><i>individualCount</i></span>, siguiendo la ruta <span class="tag is-info is-light"><i>Edit Cells > Common transforms > Trim leading and trailing whitespace</i></span>. Posteriormente, verá un mensaje de notificación, el cual indicará en cuántas celdas se eliminaron espacios (Fig. 10).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig10_OR_trimSpaces.png" width=600>
 
 <sup>_Figura 10. Transformación de la columna para eliminar dobles espacios y espacios al final del texto._</sup>
 
-Si observa la ventana del _facet_ de <span style="color:MediumSeaGreen">**_individualCount_**</span>, notará que ahora solo existe una opción y los espacios fueron eliminados.
+Si observa la ventana del _facet_ de <span class="tag is-success is-light"><i>individualCount</i></span>, notará que ahora solo existe una opción y los espacios fueron eliminados.
 
-Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción _```Remove All```_ para quitar todos los _facets_ y filtros que tenga en uso.
+Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción <span class="tag is-warning is-light"><i>Remove All</i></span> para quitar todos los _facets_ y filtros que tenga en uso.
 
 ### 3.3 Detección de duplicados
 
-Diríjase a la columna <span style="color:MediumSeaGreen">**_catalogNumber_**</span>, haga clic en el menú de la columna y siga la ruta **_```Facet > Customized facets > Duplicates facet```_**. La ventana del _facet_ aparecerá a la izquierda (Fig. 11).
+Diríjase a la columna <span class="tag is-success is-light"><i>catalogNumber</i></span>, haga clic en el menú de la columna y siga la ruta <span class="tag is-info is-light"><i>Facet > Customized facets > Duplicates facet</i></span>. La ventana del _facet_ aparecerá a la izquierda (Fig. 11).
 
-
-Podemos ver que el programa ha detectado valores únicos _```false```_ y valores duplicados _```true```_ (Fig. 11). Haga clic en true y verá los registros. De esta manera, se pueden detectar los duplicados para un análisis posterior. En este caso, cambie el registro de **"Feb 2001"** por <code>46-2300MI2008AV0248</code>, tanto en <span style="color:MediumSeaGreen">**_catalogNumber_**</span> como en <span style="color:MediumSeaGreen">**_occurrenceID_**</span> (Fig. 11).
+Se evidencia que el programa ha detectado valores únicos <span class="tag is-warning is-light"><i>false</i></span> y valores duplicados <span class="tag is-warning is-light"><i>true</i></span> (Fig. 11). Haga clic en <span class="tag is-warning is-light"><i>true</i></span> y verá los registros. De esta manera, se pueden detectar los duplicados para un análisis posterior. En este caso, cambie el registro de **"Feb 2001"** por <span class="tag is-light"><b>46-2300MI2008AV0248</b></span>, tanto en <span class="tag is-success is-light"><i>catalogNumber</i></span> como en <span class="tag is-success is-light"><i>occurrenceIDr</i></span> (Fig. 11).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig11_OR_duplicates.png" width=600>
 
 <sup>_Figura 11. Revisión de los registros duplicados y corrección de los identificadores._</sup>
 
-Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción _```Remove All```_ (Fig. 8) para quitar todos los _facets_ y filtros que tenga en uso.
+Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción <span class="tag is-warning is-light"><i>Remove All</i></span> (Fig. 8) para quitar todos los _facets_ y filtros que tenga en uso.
 
 ## Paso 4 - Filtros
 
 ### 4.1 Corrección combinando filtros y funciones
 
-**4.1.1. Corrección elemento <span style="color:MediumSeaGreen">**_scientificName_**</span>**
+**4.1.1. Corrección elemento <span class="tag is-success is-light"><i>scientificName</i></span>
 
-Diríjase a la columna <span style="color:MediumSeaGreen">**_scientificName_**</span>, haga clic en el menú de la columna  y luego en _```Text filter```_. Cuando aparezca la ventana del filtro, escriba <code>sp.</code> en el campo de texto y realice un _```Text facet```_ en <span style="color:MediumSeaGreen">**_scientificName_**</span> para visualizar los registros que tienen el valor mencionado (Fig. 12).
+Diríjase a la columna <span class="tag is-success is-light"><i>scientificName</i></span>, haga clic en el menú de la columna y luego en <span class="tag is-warning is-light"><i>Text filter</i></span>. Cuando aparezca la ventana del filtro, escriba <span class="tag is-light"><b>sp.</b> en el campo de texto y realice un <span class="tag is-warning is-light"><i>TText facet</i></span> en <span class="tag is-success is-light"><i>scientificName</i></span> para visualizar los registros que tienen el valor mencionado (Fig. 12).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig12_OR_sp.png" width=450>
 
-<sup>_Figura 12. Aplicación de un filtro de texto a la columna <span style="color:MediumSeaGreen">**scientificName**</span> e identificación de nombres científicos a corregir._</sup>
+<sup>_Figura 12. Aplicación de un filtro de texto a la columna <span class="tag is-success is-light"><i>scientificName</i></span> e identificación de nombres científicos a corregir._</sup>
 
 
-Este tipo de identificación parcial (sp.) no debe documentarse en el elemento <span style="color:MediumSeaGreen">**_scientificName_**</span>, para ello se emplea el elemento _DwC_ <span style="color:MediumSeaGreen">**_verbatimTaxonRank_**</span>.
+Este tipo de identificación parcial (sp.) no debe documentarse en el elemento <span class="tag is-success is-light"><i>scientificName</i></span>. Para ello, se emplea el elemento _DwC_ <span class="tag is-success is-light"><i>verbatimTaxonRank</i></span>.
 
 Realice un _```Text facet```_ en <span style="color:MediumSeaGreen">**_verbatimTaxonRank_**</span> y reemplace masivamente las celdas vacías (_blank_) con <code>sp.</code>. Después, haga clic en _```Apply```_ (Fig. 13).
 
