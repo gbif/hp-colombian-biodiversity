@@ -47,7 +47,7 @@ Esta herramienta sirve para **todo tipo de datos**. Sin embargo, en este laborat
     <p>¡Precaución!</p>    
   </div>
   <div class="message-body">
-    No utilice _Internet Explorer_ para este laboratorio, ya que _OpenRefine_ no funciona bien en este navegador.
+    No utilice <i>Internet Explorer</i> para este laboratorio, ya que _OpenRefine_ no funciona bien en este navegador.
   </div>
 </article>
 
@@ -122,7 +122,7 @@ _OpenRefine_ hace una interpretación automática del tipo de archivo, la codifi
 
 **2.4. Personalización del proyecto y carga del archivo**
 
-En la esquina superior derecha, verá un cuadro de texto en el que puede modificar el nombre del proyecto. En ese cuadro, escriba **"Datos_OR"** y haga clic en el botón <span class="tag is-warning is-light"><i>Create Project</i></span> (Fig. 3). Opcionalmente, puede añadir _Tags_ (etiquetas) para organizar y filtrar los proyectos en la aplicación.
+En la esquina superior derecha, verá un cuadro de texto en el que puede modificar el nombre del proyecto. En ese cuadro, escriba <span class="tag is-light"><b>Datos_OR</b></span> y haga clic en el botón <span class="tag is-warning is-light"><i>Create Project</i></span> (Fig. 3). Opcionalmente, puede añadir _Tags_ (etiquetas) para organizar y filtrar los proyectos en la aplicación.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig3_OR_renombrar.png" width=700>
 
@@ -148,7 +148,7 @@ Diríjase a la columna <span class="tag is-success is-light"><i>class</i></span>
 
 **3.1.2. Organizar el _Text facet_**
 
-El <span class="tag is-warning is-light"><i>Text facet</i></span> creado aparecerá a la izquierda de la aplicación. Verá una ventana con el nombre de la columna y el _Facet_ que acaba de crear (Fig. 5). Haga clic en <span class="tag is-warning is-light"><i>count</i></span> para organizar las clases de la más a la menos abundante y en <span class="tag is-warning is-light"><i>name</i></span> para organizarlas en orden alfabético.
+El <span class="tag is-warning is-light"><i>Text facet</i></span> creado aparecerá a la izquierda de la aplicación. Verá una ventana con el nombre de la columna y el _Facet_ que acaba de crear (Fig. 5). Haga clic en <span class="tag is-warning is-light"><i>count</i></span> para organizar las clases de mayor a menor número de repeticiones y en <span class="tag is-warning is-light"><i>name</i></span> para organizarlas en orden alfabético.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig5_OR_facet2.png" width=350>
 
@@ -162,7 +162,7 @@ Corrija las inconsistencias en los nombres de las clases **Aves** y **Mammalia**
 
 <sup>_Figura 6. Corrección masiva de la columna <span class="tag is-success is-light"><i>class</i></span> por medio de un Text facet._</sup>
 
-Realice el mismo proceso con la columna <span class="tag is-success is-light"><i>basisOfRecord</i></span> y <span class="tag is-success is-light"><i>sex</i></span>, ajustándolas al vocabulario controlado de cada elemento (Revise el [Laboratorio de estandarización](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/DWC)) (Fig. 7).
+Realice el mismo proceso con las columnas <span class="tag is-success is-light"><i>basisOfRecord</i></span> y <span class="tag is-success is-light"><i>sex</i></span>, ajustándolas al vocabulario controlado de cada elemento (Revise el [Laboratorio de estandarización](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/DWC)) (Fig. 7).
 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig7_OR_otrosCorrect.png" width=500>
@@ -187,7 +187,7 @@ A su izquierda aparecerá la ventana con el nombre de la columna y el facet que 
 <sup>_Figura 9. Vista del Text facet y las diferentes formas de documentación del elemento <span class="tag is-success is-light"><i>individualCount</i></span>._</sup>
 
 Aunque parece que los datos no tienen errores, este procedimiento evidencia que el programa ha detectado espacios extra. Por tal motivo, el _facet_ muestra cuatro opciones diferentes para el valor **"1"**.
-Corrija las inconsistencias desde el menú de la columna <span class="tag is-success is-light"><i>individualCount</i></span>, siguiendo la ruta <span class="tag is-info is-light"><i>Edit Cells > Common transforms > Trim leading and trailing whitespace</i></span>. Posteriormente, verá un mensaje de notificación, el cual indicará en cuántas celdas se eliminaron espacios (Fig. 10).
+Corrija las inconsistencias desde el menú de la columna <span class="tag is-success is-light"><i>individualCount</i></span>, siguiendo la ruta <span class="tag is-info is-light"><i>Edit Cells > Common transforms > Trim leading and trailing whitespace</i></span>. Posteriormente, verá un mensaje de notificación que indicará en cuántas celdas se eliminaron espacios (Fig. 10).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig10_OR_trimSpaces.png" width=600>
 
@@ -213,18 +213,18 @@ Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción 
 
 ### 4.1 Corrección combinando filtros y funciones
 
-**4.1.1. Corrección elemento <span class="tag is-success is-light"><i>scientificName</i></span>
+**4.1.1. Corrección elemento <span class="tag is-success is-light"><i>scientificName</i></span>**
 
-Diríjase a la columna <span class="tag is-success is-light"><i>scientificName</i></span>, haga clic en el menú de la columna y luego en <span class="tag is-warning is-light"><i>Text filter</i></span>. Cuando aparezca la ventana del filtro, escriba <span class="tag is-light"><b>sp.</b> en el campo de texto y realice un <span class="tag is-warning is-light"><i>TText facet</i></span> en <span class="tag is-success is-light"><i>scientificName</i></span> para visualizar los registros que tienen el valor mencionado (Fig. 12).
+Diríjase a la columna <span class="tag is-success is-light"><i>scientificName</i></span>, haga clic en el menú de la columna y luego en <span class="tag is-warning is-light"><i>Text filter</i></span>. Cuando aparezca la ventana del filtro, escriba <span class="tag is-light"><b>sp.</b></span> en el campo de texto y realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en <span class="tag is-success is-light"><i>scientificName</i></span> para visualizar los registros que tienen el valor mencionado (Fig. 12).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig12_OR_sp.png" width=450>
 
 <sup>_Figura 12. Aplicación de un filtro de texto a la columna <span class="tag is-success is-light"><i>scientificName</i></span> e identificación de nombres científicos a corregir._</sup>
 
 
-Este tipo de identificación parcial (sp.) no debe documentarse en el elemento <span class="tag is-success is-light"><i>scientificName</i></span>. Para ello, se emplea el elemento _DwC_ <span class="tag is-success is-light"><i>verbatimTaxonRank</i></span>.
+Este tipo de identificación parcial (sp.) no debe documentarse en el elemento <span class="tag is-success is-light"><i>scientificName</i></span>, ya que deben registrarse en el elemento _DwC_ <span class="tag is-success is-light"><i>verbatimTaxonRank</i></span>.
 
-Realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en <span class="tag is-success is-light"><i>verbatimTaxonRank</i></span> y reemplace masivamente las celdas vacías (<span class="tag is-light"><b>blank</b></span>) con <span class="tag is-light"><b>sp.</b></span>. Después, haga clic en <span class="tag is-warning is-light"><i>Apply</i></span> (Fig. 13).
+Realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en <span class="tag is-success is-light"><i>verbatimTaxonRank</i></span> y reemplace masivamente las celdas vacías <span class="tag is-light"><b>(blank)</b></span> con <span class="tag is-light"><b>sp.</b></span>. Después, haga clic en <span class="tag is-warning is-light"><i>Apply</i></span> (Fig. 13).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig13_OR_sp2.png" width=450>
 
@@ -237,13 +237,13 @@ Diríjase nuevamente al menú de la columna de <span class="tag is-success is-li
 
 <sup>_Figura 14. Transformación masiva de los datos con el comando <span class="tag is-light"><b>value.replace</b></span> del lenguaje GREL de OpenRefine._</sup>
 
-Empleando el comando <span class="tag is-light"><b>value.replace</b></span> se puede sustituir cualquier valor de una columna. Para ello, es necesario cambiar el contenido del paréntesis, escribiendo el valor a buscar encerrado entre comillas [ “ ] (ej. " sp.") y separado por una coma [ , ], seguido del valor de reemplazo entre comillas. En este caso, no hay valores de reemplazo, así que solamente se ponen las comillas [""].
+Utilizando el comando <span class="tag is-light"><b>value.replace(" sp.","")</b></span>, se puede sustituir cualquier valor de una columna. Para ello, es necesario cambiar el contenido del paréntesis, escribiendo el valor a buscar encerrado entre comillas <span class="tag is-light"><b> "" </b></span> (ej. " sp.") y separado por una coma <span class="tag is-light"><b> , </b></span>, seguido del valor de reemplazo entre comillas. En este caso, no hay valores de reemplazo, así que solamente se ponen las comillas <span class="tag is-light"><b> "" </b></span>.
 
 > Para conocer más sobre el lenguaje de programación GREL de _OpenRefine_, diríjase a la [documentación de OpenRefine](https://docs.openrefine.org/manual/grelfunctions).
 
 **4.1.2. Corrección elementos <span class="tag is-success is-light"><i>recordedBy</i></span> e <span class="tag is-success is-light"><i>ridentifiedBy</i></span>**
 
-Corrija las columnas <span class="tag is-success is-light"><i>recordedBy</i></span> e <span class="tag is-success is-light"><i>ridentifiedBy</i></span>, empleando el comando <span class="tag is-light"><b>value.replace</b></span> del punto anterior. Para ello, reemplace en ambos elementos el carácter de separación entre los nombres <span class="tag is-light"><b>"; "</b></span> por el que acepta el estándar _Darwin Core_ para este elemento <<span class="tag is-light"><b>" | "</b></span>. (Revise el [Laboratorio de estandarización](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/DWC)).
+Corrija las columnas <span class="tag is-success is-light"><i>recordedBy</i></span> e <span class="tag is-success is-light"><i>ridentifiedBy</i></span>, empleando el comando <span class="tag is-light"><b>value.replace</b></span> del punto anterior. Para ello, reemplace en ambos elementos el carácter de separación entre los nombres <span class="tag is-light"><b>"; "</b></span> por el que acepta el estándar _Darwin Core_ para este elemento <span class="tag is-light"><b>" | "</b></span>. (Para conocer el contexto de este paso, revise el [Laboratorio de estandarización](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/DWC)).
 
 Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción <span class="tag is-warning is-light"><i>Remove All</i></span> (Fig. 8) para quitar todos los _facets_ y filtros que tenga en uso.
 
@@ -251,14 +251,14 @@ Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción 
 
 **4.2.1. Corrección elemento <span class="tag is-success is-light"><i>family</i></span>**
 
-Diríjase a la columna <span style="color:MediumSeaGreen">**_family_**</span> y realice un <span class="tag is-warning is-light"><i>Text facet</i></span>. Haga clic en el menú de la columna y luego en <span class="tag is-warning is-light"><i>Text filter</i></span> para que aparezca la ventana del filtro.
-Marque la casilla <span class="tag is-warning is-light"><i>regular expression</i></span> y escriba en el cuadro de texto la expresión <span class="tag is-success is-light"><i>.*(?:(?!ae).).$</i></span>. Esta expresión permite excluir todas las palabras de la columna que no terminan en <span class="tag is-success is-light"><i>ae</i></span>, que corresponden a las últimas letras de la declinación en latín para la categoría taxonómica de familia (*idae*, *ceae*) (Fig, 15).
+Diríjase a la columna <span class="tag is-success is-light"><i>family</i></span> y realice un <span class="tag is-warning is-light"><i>Text facet</i></span>. Haga clic en el menú de la columna y luego en <span class="tag is-warning is-light"><i>Text filter</i></span> para que aparezca la ventana del filtro.
+Marque la casilla <span class="tag is-warning is-light"><i>regular expression</i></span> y escriba en el cuadro de texto la expresión <span class="tag is-light"><b>.*(?:(?!ae).).$</b></span>. Esta expresión permite excluir todas las palabras de la columna que no terminan en <span class="tag is-success is-light"><i>ae</i></span>, las cuales corresponden a las últimas letras de la declinación en latín para la categoría taxonómica de familia (*idae*, *ceae*) (Fig, 15).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig16_OR_regulasExp.png" width=500>
 
 <sup>_Figura 15. Uso de expresiones regulares en GREL para filtrar la columna <span class="tag is-success is-light"><i>family</i></span>._</sup>
 
-Luego de realizar el procedimiento anterior, observará que los registros que no corresponden a la categoría de familia han sido filtrados. Para editarlos, utilice las opciones aprendidas en pasos previos. En este caso particular, reemplace  <span class="tag is-success is-light"><i>Bolitoglossa</i>, que corresponde a un género, por <span class="tag is-success is-light"><i>Plethodontidae</i>, la familia a la que pertenece el nombre científico (Fig. 15).
+Luego de realizar el procedimiento anterior, observará que los registros que no corresponden a la categoría de familia han sido filtrados. Para editarlos, utilice las opciones aprendidas en pasos previos. En este caso particular, reemplace  <span class="tag is-light"><i>Bolitoglossa</i></span>, que corresponde a un género, por <span class="tag is-success is-light"><i>Plethodontidae</i></span>, la familia a la que corresponde el nombre científico (Fig. 15).
 
 > Para conocer más acerca de las expresiones regulares, visite la [documentación de OpenRefine](https://docs.openrefine.org/manual/expressions#regular-expressions).
 
@@ -266,7 +266,7 @@ Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción 
 
 **4.2.2. Corrección elementos <span class="tag is-success is-light"><i>scientificName</i></span> e <span class="tag is-success is-light"><i>identificationQualifier</i></span>** 
 
-Diríjase a la columna <span class="tag is-success is-light"><i>scientificName</i></span>, haga clic en el menú y elija la opción <span class="tag is-warning is-light"><i>Text filter</i></span>. Cuando aparezca la ventana del filtro, marque la casilla <span class="tag is-warning is-light"><i>regular expression</i></span> y escriba en el campo de texto la expresión <span class="tag is-success is-light"><i>[.]</i></span>. Luego, realice un <span class="tag is-warning is-light"><i>Text facet</i></span> para visualizar los registros con este  elemento (Fig. 16).
+Diríjase a la columna <span class="tag is-success is-light"><i>scientificName</i></span>, haga clic en el menú y elija la opción <span class="tag is-warning is-light"><i>Text filter</i></span>. Cuando aparezca la ventana del filtro, marque la casilla <span class="tag is-warning is-light"><i>regular expression</i></span> y escriba en el campo de texto la expresión <span class="tag is-light">[.]</span>. Luego, realice un <span class="tag is-warning is-light"><i>Text facet</i></span> para visualizar los registros con este  elemento (Fig. 16).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig17_OR_qualifier.png" width=500>
 
@@ -274,18 +274,16 @@ Diríjase a la columna <span class="tag is-success is-light"><i>scientificName</
 
 Al terminar el procedimiento anterior, observará los registros que cumplen con el criterio de la expresión regular. Dado que el elemento <span class="tag is-success is-light"><i>identificationQualifier</i></span> está diseñado para almacenar este tipo de información, el elemento <span class="tag is-success is-light"><i>scientificName</i></span> no debe tener estos calificadores.
 
-Para ajustar ambos elementos, aplique un <span class="tag is-warning is-light"><i>Text facet</i></span> en <span class="tag is-success is-light"><i>identificationQualifier</i></span> y reemplace el <span class="tag is-light"><b>blank</b></span> por <span class="tag is-light"><b>cf. sowelli</b></span>; además, borre este mismo texto en el <span class="tag is-success is-light"><i>scientificName</i></span> (Fig. 16). De esta manera, se corregirán masivamente todos los campos.
+Para ajustar ambos elementos, aplique un <span class="tag is-warning is-light"><i>Text facet</i></span> en <span class="tag is-success is-light"><i>identificationQualifier</i></span> y reemplace el <span class="tag is-light"><b>(blank)</b></span> por <span class="tag is-light"><b>cf. sowelli</b></span>. Además, borre ese mismo texto en el <span class="tag is-success is-light"><i>scientificName</i></span> (Fig. 16). De esta manera, se corregirán masivamente todos los campos.
 
 <div class="notification is-info is-light">
   <b>Nota:</b>El grado de incertidumbre de la identificación puede indicarse agregando varios calificativos, como **"aff."** y **"cf."**, al nombre científico. El calificativo se escribe después del elemento al que corresponde la incertidumbre de identificación (género o especie).
-</div>
-
 
 - **aff.**: similar o limítrofe, indica que otra especie tiene afinidad con la especie mencionada, pero no es idéntica a ella.
 - **cf.**: comparar con, describe un espécimen que es difícil de identificar e indica diversos grados o tipos de incertidumbre sobre el taxon, los cuales pueden usarse de manera diferente según el autor.
-````
+</div>
 
-Finalmente, debe documentarse el género <span class="tag is-light"><b>Carollia</b></span> en <span class="tag is-success is-light"><i>scientificName</i></span> y asociarlo con el calificativo <span class="tag is-light"><b>cf. sowelli</b></span> en <span class="tag is-success is-light"><i>identificationQualifier</i></span> (Fig. 17).
+Finalmente, debe documentarse el género <span class="tag is-light"><b><i>Carollia</i></b></span> en <span class="tag is-success is-light"><i>scientificName</i></span> y asociarlo con el calificativo <span class="tag is-light"><b>cf. sowelli</b></span> en <span class="tag is-success is-light"><i>identificationQualifier</i></span> (Fig. 17).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig17_OR_Resulqualifier.png" width=500>
 
@@ -295,7 +293,7 @@ Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción 
 
 ## Paso 5 - Conjuntos
 
-Diríjase a la columna <span class="tag is-success is-light"><i>recordedBy</i></span> y despliegue el menú. Posteriormente, haga clic en <span class="tag is-warning is-light"><i>Text facet</i></span> para que la ventana del facet con más de 200 opciones (_choices_) diferentes (Fig. 18).
+Diríjase a la columna <span class="tag is-success is-light"><i>recordedBy</i></span> y despliegue el menú. Posteriormente, haga clic en <span class="tag is-warning is-light"><i>Text facet</i></span> para que la ventana del _facet_ con más de 200 opciones (_choices_) diferentes (Fig. 18).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig19_OR_cluster1.png" width=320>
 
@@ -307,7 +305,7 @@ En la parte superior derecha, verá el botón <span class="tag is-warning is-lig
 Podrá ver la siguiente información:
 
 - ***Cluster size***: indica la cantidad de versiones del dato que el algoritmo identifica como similares.
-- ***Row count:*** es el número de registros por cluster.
+- ***Row count:*** es el número de registros por _cluster_.
 - ***Values in cluster:*** son los valores seleccionados por el algoritmo para esa agrupación y el número de registros por valor.
 - ***Merge?:*** un cuadro para seleccionar si los valores se fusionan en el valor que propone el algoritmo por defecto o el documentado por el usuario. 
 - ***New cell value:*** en este campo de texto, se puede escribir un valor completamente nuevo para el _cluster_. Además, permite asignar cualquier valor por defecto haciendo clic sobre dicho valor.
@@ -355,7 +353,7 @@ GBIF fácilita un árbol taxonómico robusto a partir de la agrupación de recon
 | _International Plant Names Index_	   | [http://www.ipni.org/](http://www.ipni.org/)   |
 | _The Paleobiology Database_   | [http://www.paleodb.org/](http://www.paleodb.org/)   |
 
-> Para acceder a una lista completa de los proveedores y descripción de los mismos, ingrese al [GBIF _Backbone Taxonomy_](http://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c)
+> Para acceder a una lista completa de los proveedores y descripción de los mismos, ingrese al [GBIF _Backbone Taxonomy_](http://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c).
 >
 
 **Preparación de los datos**
@@ -381,7 +379,7 @@ Para ello vaya a <span class="tag is-info is-light"><i>Edit column > Add column 
 
 **LLamado al API a partir del nombre científico**
 
-Cree una nueva columna llamada _**"validTax"**_ a partir de la columna _**"NomAPI"**_. Para esto, siga la ruta <span class="tag is-info is-light"><i>Edit column >  Add column by fetching URLs…</i></span>Edit column > y escriba la expresión <span class="tag is-light"><b>"http://api.gbif.org/v1/species/match?strict=true&name="+value</b></span>. En el cuadro de texto <span class="tag is-warning is-light"><i>Throttle delay</i></span>, escriba <span class="tag is-light"><b>5</b></span>, haga clic en <span class="tag is-warning is-light"><i>OK</i></span> y espere a que finalice el proceso (Fig. 22).
+Cree una nueva columna llamada _**"validTax"**_ a partir de la columna _**"NomAPI"**_. Para esto, siga la ruta <span class="tag is-info is-light"><i>Edit column >  Add column by fetching URLs…</i></span> y escriba la expresión <span class="tag is-light"><b>"http://api.gbif.org/v1/species/match?strict=true&name="+value</b></span>. En el cuadro de texto <span class="tag is-warning is-light"><i>Throttle delay</i></span>, escriba <span class="tag is-light"><b>5</b></span>, haga clic en <span class="tag is-warning is-light"><i>OK</i></span> y espere a que finalice el proceso (Fig. 22).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava3.PNG" width=700>
 
@@ -396,7 +394,7 @@ Cree una nueva columna llamada _**"validTax"**_ a partir de la columna _**"NomAP
   </div>
 </article>
 
-Podrá observar que en cada celda de la columna **"validTax"** aparecen expresiones a partir del llamado al API de GBIF para cada nombre científico consultado (Fig. 23).
+Podrá observar que en cada celda de la columna _**"validTax"**_ aparecen expresiones a partir del llamado al API de GBIF para cada nombre científico consultado (Fig. 23).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava4.PNG" width=800>
 
@@ -417,19 +415,18 @@ Realice un _Text facet_ en la columna _**"Match"**_ y seleccione <span class="ta
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava6.JPG" width=350>
 
-<sup>_Figura 25. Resultado del Facet para <span class="tag is-warning is-light"><i>Fuzzy</i></span>._</sup>
+<sup>_Figura 25. Resultado del facet para <span class="tag is-warning is-light"><i>Fuzzy</i></span>._</sup>
 
 > A través del API, GBIF también ofrece una posible opción de nombres científicos válidos de acuerdo a los que no reconoció totalmente. Es pertinente que evalué estos nombres e indentifique si debe hacer una corrección.
 >
 
-Agregue una nueva columna llamada _**"validName"**_ a partir de la columna  _**validTax*¨_. Para hacerlo, siga la ruta <span class="tag is-info is-light"><i>Edit column > Add column based on this column</i></span>. Luego, nombre la columna como <span class="tag is-light"><b>Match</b></span> y escriba la expresión <span class="tag is-light"><b>value.parseJson().get("species")</b></span>. Por último, haga clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 26).
+Agregue una nueva columna llamada _**"validName"**_ a partir de la columna  _**validTax**_. Para hacerlo, siga la ruta <span class="tag is-info is-light"><i>Edit column > Add column based on this column</i></span>, escriba la expresión <span class="tag is-light"><b>value.parseJson().get("species")</b></span> y haga clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 26).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava7.PNG" width=700>
 
 <sup>_Figura 26. Creación de la nueva columna **"validName"**._</sup>
 
-Haciendo un _Text facet_ en  la columna _**"validName"**_, verá que GBIF reconoce que las especies a documentar son *Artibeus cinereus* y *Artibereus glaucus*, respectivamente (Fig. 27A).
-Corrija y edite entonces las inconsistencias en la columna <span class="tag is-success is-light"><i>scientificName</i></span>, de acuerdo al **"validName"** (Fig. 27B).
+Haciendo un _Text facet_ en  la columna _**"validName"**_, verá que GBIF reconoce que las especies a documentar son *Artibeus cinereus* y *Artibereus glaucus*, respectivamente (Fig. 27A). Entonces, el paso a seguir es corregir y editar las inconsistencias en la columna <span class="tag is-success is-light"><i>scientificName</i></span>, de acuerdo al _**"validName"**_ (Fig. 27B).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava8.png" width=700>
 
@@ -443,7 +440,7 @@ Después de realizar el proceso de verificación y la limpieza de nombres cient�
 
 ## Paso 7 - Modificación masiva de celdas
 
-Para hacer una modificación en todas las celdas del archivo, diríjase a la primera columna presente _**"All"**_, despliegue el menú y seleccione la opción <span class="tag is-warning is-light"><i>Transform</i></span> (Fig. 29).
+Para hacer una modificación en todas las celdas del archivo, diríjase a la primera columna _**"All"**_, despliegue el menú y seleccione la opción <span class="tag is-warning is-light"><i>Transform</i></span> (Fig. 29).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava10.jpg" width=600>
 
@@ -460,7 +457,7 @@ En la pestaña emergente, introduzca la fórmula <span class="tag is-light"><b>v
     <p>¡Precaución!</p>    
   </div>
   <div class="message-body">
-   El proceso puede tardar algunos segundos dependiendo del número de columnas y celdas.
+   El proceso puede tardar algunos segundos, dependiendo del número de columnas y celdas.
   </div>
 </article>
 
@@ -503,7 +500,7 @@ Para hacerlo, diríjase a la esquina superior derecha, siga la ruta <span class=
 <sup>_Figura 33. Exportación del proyecto._</sup>
 
 <div class="notification is-info is-light">
-  <b>Tip:</b> Los proyectos exportados tienen la extensión".openrefine.tar.gz" y no es necesario descomprimirlos para usarlos. Solamente abralos con el siguiente procedimiento.
+  <b>Tip:</b> Los proyectos exportados tienen la extensión ".openrefine.tar.gz" y no es necesario descomprimirlos para usarlos, solo debe abrirlos.
 </div>
 
 Para importar el proyecto, abra _OpenRefine_ y diríjase a la pestaña <span class="tag is-warning is-light"><i>Import Project</i></span>. Posteriormente, haga clic en <span class="tag is-warning is-light"><i>Choose File</i></span>, seleccione el archivo <FONT FACE="monospace"><b>«Datos_OR.openrefine.tar.gz»</b></FONT> y elija la opción <span class="tag is-warning is-light"><i>Import Project</i></span> (Fig. 34).
@@ -539,5 +536,5 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) te permite usa
 
 **Fuentes:**
 
-Verborgh, R., & De Wilde, M. (2013). Using OpenRefine. Packt Publishing Ltd.
+Verborgh, R., & De Wilde, M. (2013). _Using OpenRefine. Packt Publishing_ Ltd.
 
