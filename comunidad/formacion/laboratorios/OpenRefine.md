@@ -47,7 +47,7 @@ Esta herramienta sirve para **todo tipo de datos**. Sin embargo, en este laborat
     <p>¡Precaución!</p>    
   </div>
   <div class="message-body">
-    No utilice <i>Internet Explorer</i> para este laboratorio, ya que _OpenRefine_ no funciona bien en este navegador.
+    No utilice <i>Internet Explorer</i> para este laboratorio, ya que <iOpenRefine_ no funciona bien en este navegador.
   </div>
 </article>
 
@@ -76,7 +76,7 @@ Esta herramienta sirve para **todo tipo de datos**. Sin embargo, en este laborat
 
 ## Paso 2 - Crear un proyecto
 
-Puede cargar datos con diferentes formatos y extensiones: TSV, CSV, SV, Excel (.xls y .xlsx), JSON, XML, RDF as XML y datos de Google Docs.
+Puede cargar datos con diferentes formatos y extensiones: TSV, CSV, SV, Excel (.xls y .xlsx), JSON, XML, RDF as XML y datos de _Google Docs_.
 
 
 **2.1. Abrir un nuevo proyecto**
@@ -237,13 +237,13 @@ Diríjase nuevamente al menú de la columna de <span class="tag is-success is-li
 
 <sup>_Figura 14. Transformación masiva de los datos con el comando <span class="tag is-light"><b>value.replace</b></span> del lenguaje GREL de OpenRefine._</sup>
 
-Utilizando el comando <span class="tag is-light"><b>value.replace(" sp.","")</b></span>, se puede sustituir cualquier valor de una columna. Para ello, es necesario cambiar el contenido del paréntesis, escribiendo el valor a buscar encerrado entre comillas <span class="tag is-light"><b> "" </b></span> (ej. " sp.") y separado por una coma <span class="tag is-light"><b> , </b></span>, seguido del valor de reemplazo entre comillas. En este caso, no hay valores de reemplazo, así que solamente se ponen las comillas <span class="tag is-light"><b> "" </b></span>.
+Utilizando el comando <span class="tag is-light"><b>value.replace(" sp.","")</b></span>, se puede sustituir cualquier valor de una columna. Para ello, es necesario cambiar el contenido del paréntesis, escribiendo el valor a buscar encerrado entre comillas <span class="tag is-light"><b> "" </b></span> (ej. " sp.") y separado por una coma <span class="tag is-light"><b> , </b></span>. Justo después, se coloca valor de reemplazo entre comillas. En este caso, no hay valores de reemplazo, así que solamente se ponen las comillas <span class="tag is-light"><b> "" </b></span>.
 
 > Para conocer más sobre el lenguaje de programación GREL de _OpenRefine_, diríjase a la [documentación de OpenRefine](https://docs.openrefine.org/manual/grelfunctions).
 
 **4.1.2. Corrección elementos <span class="tag is-success is-light"><i>recordedBy</i></span> e <span class="tag is-success is-light"><i>ridentifiedBy</i></span>**
 
-Corrija las columnas <span class="tag is-success is-light"><i>recordedBy</i></span> e <span class="tag is-success is-light"><i>ridentifiedBy</i></span>, empleando el comando <span class="tag is-light"><b>value.replace</b></span> del punto anterior. Para ello, reemplace en ambos elementos el carácter de separación entre los nombres <span class="tag is-light"><b>"; "</b></span> por el que acepta el estándar _Darwin Core_ para este elemento <span class="tag is-light"><b>" | "</b></span>. (Para conocer el contexto de este paso, revise el [Laboratorio de estandarización](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/DWC)).
+Corrija las columnas <span class="tag is-success is-light"><i>recordedBy</i></span> e <span class="tag is-success is-light"><i>ridentifiedBy</i></span>, empleando el comando <span class="tag is-light"><b>value.replace</b></span> del punto anterior. Para ello, reemplace en ambos elementos el carácter de separación entre los nombres <span class="tag is-light"><b>";"</b></span> por el que acepta el estándar _Darwin Core_ para este elemento <span class="tag is-light"><b>" | "</b></span>. (Para conocer el contexto de este paso, revise el [Laboratorio de estandarización](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/DWC)).
 
 Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción <span class="tag is-warning is-light"><i>Remove All</i></span> (Fig. 8) para quitar todos los _facets_ y filtros que tenga en uso.
 
@@ -258,9 +258,9 @@ Marque la casilla <span class="tag is-warning is-light"><i>regular expression</i
 
 <sup>_Figura 15. Uso de expresiones regulares en GREL para filtrar la columna <span class="tag is-success is-light"><i>family</i></span>._</sup>
 
-Luego de realizar el procedimiento anterior, observará que los registros que no corresponden a la categoría de familia han sido filtrados. Para editarlos, utilice las opciones aprendidas en pasos previos. En este caso particular, reemplace  <span class="tag is-light"><i>Bolitoglossa</i></span>, que corresponde a un género, por <span class="tag is-success is-light"><i>Plethodontidae</i></span>, la familia a la que corresponde el nombre científico (Fig. 15).
+Luego de realizar el procedimiento anterior, observará que los registros que no corresponden a la categoría de familia han sido filtrados. Para editarlos, utilice las opciones aprendidas en pasos previos. En este caso particular, reemplace  <span class="tag is-light"><i>Bolitoglossa</i></span>, que corresponde a un género, por <span class="tag is-light">Plethodontidae</span>, la familia a la que corresponde el nombre científico (Fig. 15).
 
-> Para conocer más acerca de las expresiones regulares, visite la [documentación de OpenRefine](https://docs.openrefine.org/manual/expressions#regular-expressions).
+> Para conocer más acerca de las expresiones regulares, visite la [documentación de _OpenRefine_](https://docs.openrefine.org/manual/expressions#regular-expressions).
 
 Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción <span class="tag is-warning is-light"><i>Remove All</i></span> (Fig. 8) para quitar todos los _facets_ y filtros que tenga en uso.
 
@@ -278,8 +278,9 @@ Para ajustar ambos elementos, aplique un <span class="tag is-warning is-light"><
 
 <div class="notification is-info is-light">
   <b>Nota:</b>El grado de incertidumbre de la identificación puede indicarse agregando varios calificativos, como **"aff."** y **"cf."**, al nombre científico. El calificativo se escribe después del elemento al que corresponde la incertidumbre de identificación (género o especie).
-
-- **aff.**: similar o limítrofe, indica que otra especie tiene afinidad con la especie mencionada, pero no es idéntica a ella.
+</div>
+<div class="notification is-info is-light">
+  <b>Nota:</b>- **aff.**: similar o limítrofe, indica que otra especie tiene afinidad con la especie mencionada, pero no es idéntica a ella.
 - **cf.**: comparar con, describe un espécimen que es difícil de identificar e indica diversos grados o tipos de incertidumbre sobre el taxon, los cuales pueden usarse de manera diferente según el autor.
 </div>
 
@@ -308,7 +309,7 @@ Podrá ver la siguiente información:
 - ***Row count:*** es el número de registros por _cluster_.
 - ***Values in cluster:*** son los valores seleccionados por el algoritmo para esa agrupación y el número de registros por valor.
 - ***Merge?:*** un cuadro para seleccionar si los valores se fusionan en el valor que propone el algoritmo por defecto o el documentado por el usuario. 
-- ***New cell value:*** en este campo de texto, se puede escribir un valor completamente nuevo para el _cluster_. Además, permite asignar cualquier valor por defecto haciendo clic sobre dicho valor.
+- ***New cell value:*** un campo de texto donde se puede escribir un valor completamente nuevo para el _cluster_. Además, permite asignar cualquier valor por defecto haciendo clic sobre dicho valor.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig20_OR_cluster2.png" width=800>
 
@@ -334,12 +335,11 @@ Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción 
 
 ## Paso 6 - Servicios externos vía API's
 
-En este ejercicio se utiliza el [API](https://www.gbif.org/developer/species)([Ver definición en el glosario](/Formacion/LAB/lab02/#glosario)) de [GBIF](https://www.gbif.org) para validar la taxonomía de una lista de nombres.
+En este ejercicio se utiliza el [API](https://www.gbif.org/developer/species) (ver definición en el [glosario](/Formacion/LAB/lab02/#glosario)) de [GBIF](https://www.gbif.org) para validar la taxonomía de una lista de nombres.
 
 **Árbol taxonómico GBIF**
 
 GBIF fácilita un árbol taxonómico robusto a partir de la agrupación de reconciliación de diversos grupos biológicos y proveedores de contenido (Tabla 1), los cuales se encuentran respaldados por comunidades de científicos. Este árbol integra múltiples fuentes de datos, lo que facilita las búsquedas y descargas del portal. Además, se actualiza constantemente.
-
 
 <sup>Tabla 1. Principales fuentes que contribuyen a la consolidación del árbol taxonómico de GBIF.</sup>
 
@@ -358,7 +358,7 @@ GBIF fácilita un árbol taxonómico robusto a partir de la agrupación de recon
 
 **Preparación de los datos**
 
-En primer lugar, elimine los _facets_ o filtros que tenga activos. Para tener una aproximación inicial al funcionamiento del API. diríjase a la columna <span class="tag is-success is-light"><i>recordedBy</i></span> y realice un _Text facet_. Haga clic en la opción <span class="tag is-warning is-light"><i>count</i></span> y seleccione al investigador con más registros asociados (Vargas I) (Fig. 20).
+En primer lugar, elimine los _facets_ o filtros que tenga activos. Para tener una aproximación inicial al funcionamiento del API, diríjase a la columna <span class="tag is-success is-light"><i>recordedBy</i></span> y realice un _Text facet_. Posteriormente, haga clic en la opción <span class="tag is-warning is-light"><i>count</i></span> y seleccione al investigador con más registros asociados (Vargas I) (Fig. 20).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava1.png" width=700>
 
@@ -368,7 +368,7 @@ Vaya a la columna <span class="tag is-success is-light"><i>scientificName</i></s
 
 **Creación de la columna NomAPI**
 
-Para realizar la validación a través del API, es necesario que los espacios en blanco de cada nombre científico sean reemplazados por un valor que reconozca el API (“%20”).
+Para realizar la validación a través del API, es necesario que los espacios en blanco de cada nombre científico sean reemplazados por un valor que reconozca el API: <span class="tag is-light"><b>%20</b></span>.
 
 Para ello vaya a <span class="tag is-info is-light"><i>Edit column > Add column based on this column</i></span> y escriba la expresión (tal y como aparece)  <span class="tag is-light"><b>value.replace(" ","%20")</b></span>. Por último, nombre la columna como **"NomAPI"** (Fig. 21).
 
@@ -379,7 +379,7 @@ Para ello vaya a <span class="tag is-info is-light"><i>Edit column > Add column 
 
 **LLamado al API a partir del nombre científico**
 
-Cree una nueva columna llamada _**"validTax"**_ a partir de la columna _**"NomAPI"**_. Para esto, siga la ruta <span class="tag is-info is-light"><i>Edit column >  Add column by fetching URLs…</i></span> y escriba la expresión <span class="tag is-light"><b>"http://api.gbif.org/v1/species/match?strict=true&name="+value</b></span>. En el cuadro de texto <span class="tag is-warning is-light"><i>Throttle delay</i></span>, escriba <span class="tag is-light"><b>5</b></span>, haga clic en <span class="tag is-warning is-light"><i>OK</i></span> y espere a que finalice el proceso (Fig. 22).
+Cree una nueva columna llamada _**"validTax"**_ a partir de la columna _**"NomAPI"**_. Para esto, siga la ruta <span class="tag is-info is-light"><i>Edit column >  Add column by fetching URLs…</i></span> y escriba la expresión <span class="tag is-light"><b>"http://api.gbif.org/v1/species/match?strict=true&name="+value</b></span>. Luego,en el cuadro de texto <span class="tag is-warning is-light"><i>Throttle delay</i></span>, escriba <span class="tag is-light"><b>5</b></span>, haga clic en <span class="tag is-warning is-light"><i>OK</i></span> y espere a que finalice el proceso (Fig. 22).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava3.PNG" width=700>
 
@@ -417,7 +417,7 @@ Realice un _Text facet_ en la columna _**"Match"**_ y seleccione <span class="ta
 
 <sup>_Figura 25. Resultado del facet para <span class="tag is-warning is-light"><i>Fuzzy</i></span>._</sup>
 
-> A través del API, GBIF también ofrece una posible opción de nombres científicos válidos de acuerdo a los que no reconoció totalmente. Es pertinente que evalué estos nombres e indentifique si debe hacer una corrección.
+> A través del API, GBIF también ofrece una posible opción de nombres científicos válidos en relación a los que no reconoció totalmente. Es pertinente que evalué estos nombres y decida si deben cambiar.
 >
 
 Agregue una nueva columna llamada _**"validName"**_ a partir de la columna  _**validTax**_. Para hacerlo, siga la ruta <span class="tag is-info is-light"><i>Edit column > Add column based on this column</i></span>, escriba la expresión <span class="tag is-light"><b>value.parseJson().get("species")</b></span> y haga clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 26).
@@ -446,7 +446,7 @@ Para hacer una modificación en todas las celdas del archivo, diríjase a la pri
 
 <sup>_Figura 29. Selección del menú para hacer el cambio masivo._</sup>
 
-En la pestaña emergente, introduzca la fórmula <span class="tag is-light"><b>value.trim().replace(/\u00A0/,' ').replace(/\s+/,' ')</b></span>. Este comando elimina dobles espacios, saltos de línea y algunos caracteres no reconocibles. Al hacer clic en <span class="tag is-warning is-light"><i>OK</i></span>, verá otra pestaña para elegir las columnas a modificar. Deje la opción por defecto con todas las columnas y de clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 30).
+En la pestaña emergente, introduzca la fórmula <span class="tag is-light"><b>value.trim().replace(/\u00A0/,' ').replace(/\s+/,' ')</b></span>. Este comando elimina dobles espacios, saltos de línea y algunos caracteres no reconocibles. Al hacer clic en <span class="tag is-warning is-light"><i>OK</i></span>, verá otra pestaña para elegir las columnas a modificar. Deje la opción por defecto con todas las columnas y dé clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 30).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava11.png" width=800>
 
@@ -467,7 +467,7 @@ En la pestaña emergente, introduzca la fórmula <span class="tag is-light"><b>v
 
 Existen múltiples maneras de exportar los archivos en _OpenRefine_. La siguiente es la más confiable porque cuenta con la mayor cantidad de opciones:
   
-Dirijase a la esquina superior derecha y siga la ruta <span class="tag is-info is-light"><i>Export > Custom tabular exporter</i></span> para acceder a la ventana de exportación (Fig. 31).
+Diríjase a la esquina superior derecha y siga la ruta <span class="tag is-info is-light"><i>Export > Custom tabular exporter</i></span> para acceder a la ventana de exportación (Fig. 31).
 
 En la pestaña _**"Content"**_ de la ventana emergente, encontrará varias opciones para personalizar la exportación. Algunas de esas opciones son:
 
@@ -484,7 +484,7 @@ Vaya a la pestaña _**Download**_, allí podrá configurar el formano en el cuá
 - **_Line separator_**: permite seleccionar el separador de las filas si se van a descargar los datos en formato de texto plano.
 - **_Character encoding_**: permite seleccionar la codificación de los datos. Se recomienda siempre utilizar [**UTF-8**](https://es.wikipedia.org/wiki/UTF-8).
 
-Para este caso, use *Other formats* y elija la opción <span class="tag is-warning is-light"><i>Excel in XML(.xlsx)</i></span>, haga clic en <span class="tag is-warning is-light"><i>Download(.xlsx)</i></span> y guarde su archivo (Fig. 32).
+Para este caso, ubique el menú _**"Other formats"**_ y elija la opción <span class="tag is-warning is-light"><i>Excel in XML(.xlsx)</i></span>. Por último, haga clic en <span class="tag is-warning is-light"><i>Download</i></span> y guarde su archivo (Fig. 32).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_EX2.png" width=700>
 
@@ -527,7 +527,9 @@ Ha aprendido a utilizar _OpenRefine_ para validar y limpiar sus datos sobre biod
 
 ![](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) te permite usar, redistribuir y construir sobre estos contenidos libremente. :open_hands: Queremos que compartas estos laboratorios y que juntos logremos datos sobre biodiversidad de mejor calidad.
+La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) te permite usar, redistribuir y construir sobre estos contenidos libremente.
+  
+¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
 
 **Citación sugerida**
 
