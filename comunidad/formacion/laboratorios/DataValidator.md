@@ -215,7 +215,7 @@ También puede obtener el mensaje «Se presume longitud negativa», pero es meno
 
 Después de resolver las alertas, cargue nuevamente el conjunto de datos en el validador para confirmar el estado de calidad de los datos.
 
-Compare sus resultados con el siguiente archivo, validado según las definiciones del estándar *Darwin Core*, para identificar aciertos y posibilidades de mejora. **¿Logró solucionar todas las alertas?**
+Compare sus resultados con el siguiente archivo, validado según las definiciones del estándar *Darwin Core*, para identificar aciertos y oportunidades de mejora. **¿Logró solucionar todas las alertas?**
 
 * [<FONT FACE="monospace"><b>«Archivo validado»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_docs/datos_Estandarizados.xlsx)
 
