@@ -90,7 +90,7 @@ Al finalizar, su plantilla debe verse similar a la siguiente imagen (Fig. 4):
 
 ## Paso 7 - Verificación del resultado
 
-Descargue y compare el siguiente archivo, estandarizado según las definiciones del *Darwin Core*, con el archivo que trabajó en el laboratorio e identifique aciertos y posibilidades de mejora. ¿Logró completar más información del conjunto de datos en la plantilla?
+Descargue y compare el siguiente archivo, estandarizado según las definiciones del *Darwin Core*, con el archivo que trabajó en el laboratorio e identifique aciertos y oportunidades de mejora. ¿Logró completar más información del conjunto de datos en la plantilla?
 
 
 * [<FONT FACE="monospace"><b>«Archivo estandarizado»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_docs/Datos_Caso1_20reg_estandarizado.xlsx)
