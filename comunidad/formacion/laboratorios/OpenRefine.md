@@ -511,7 +511,7 @@ Para importar el proyecto, abra _OpenRefine_ y diríjase a la pestaña <span cla
 
 ## Paso 9 - Verificación del resultado
 
-Compare sus resultados con el siguiente archivo, validado según las definiciones del estándar *Darwin Core*, para identificar aciertos y posibilidades de mejora. Recuerde importarlo como un proyecto en _OpenRefine_. (Paso 8.2).
+Compare sus resultados con el siguiente archivo, validado según las definiciones del estándar *Darwin Core*, para identificar aciertos y oportunidades de mejora. Recuerde importarlo como un proyecto en _OpenRefine_. (Paso 8.2).
 
 **¿Qué diferencias encontró con sus resultados?**
 
