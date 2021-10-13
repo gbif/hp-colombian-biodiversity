@@ -23,7 +23,7 @@ Video introductorio de las tres guías de validación taxonómica, el cual da un
 
 La herramienta [WoRMS TaxonMatch](http://www.marinespecies.org/aphia.php?p=match) es un servicio del Registro Mundial de especies Marinas ([WoRMS](https://www.marinespecies.org/)) que permite validar de manera automática y masiva hasta 1 500 nombres científicos. La herramienta compara los nombres científicos sometidos contra la base de datos _**Aphia**_, la cual combina múltiples [bases de datos marinas](http://www.marinespecies.org/subregisters.php) verificadas por taxónomos de los diferentes grupos marinos documentados en WoRMS. 
 
-Esta herramienta le permite al usuario obtener el nombre válido con sus fuentes y la clasificación de cada taxón (<span class="tag is-success is-light"><i>kingdom</i></span>,  <span class="tag is-success is-light"><i>phylum</i></span>, <span class="tag is-success is-light"><i>class</i></span>, <span class="tag is-success is-light"><i>order</i></span>, <span class="tag is-success is-light"><i>family</i></span>, <span class="tag is-success is-light"><i>genus</i></span>) y su estatus taxonómico (Sinónimo, Aceptado, Dudoso). Adicionalmente, le permite obtener los identificadores de WoRMS (equivalente al campo DwC <span class="tag is-success is-light"><i>scientificNameID</i></span>), los cuales son requeridos para la publicación de datos en el [SiB Marino](https://siam.invemar.org.co/sibm) y el [_Ocean Biogepgraphic Information System_ - OBIS](https://obis.org/).
+Esta herramienta le permite al usuario obtener el nombre válido con sus fuentes y la clasificación de cada taxón (<span class="tag is-success is-light"><i>kingdom</i></span>,  <span class="tag is-success is-light"><i>phylum</i></span>, <span class="tag is-success is-light"><i>class</i></span>, <span class="tag is-success is-light"><i>order</i></span>, <span class="tag is-success is-light"><i>family</i></span>, <span class="tag is-success is-light"><i>genus</i></span>) y su estatus taxonómico (Sinónimo, Aceptado o Dudoso). Adicionalmente, le permite obtener los identificadores de WoRMS (equivalente al campo DwC <span class="tag is-success is-light"><i>scientificNameID</i></span>), los cuales son requeridos para la publicación de datos en el [SiB Marino](https://siam.invemar.org.co/sibm) y el [_Ocean Biogepgraphic Information System_ - OBIS](https://obis.org/).
 
 
 **Enlace**
@@ -49,7 +49,7 @@ Descargue el archivo [<FONT FACE="monospace"><b>«datos_CasoMarinoCosteros.xls»
     <p>¡Precaución!</p>    
   </div>
   <div class="message-body">
-    Esta guía se encuentra en construcción peden haber algunas modificaciones de forma y contenidos en los próximos días.
+    Esta guía se encuentra en construcción, así que pueden haber algunas modificaciones de forma y contenidos en los próximos días.
   </div>
 </article>
 
@@ -78,9 +78,9 @@ En la opción <span class="tag is-warning is-light"><i>File</i></span>, busque e
 
 Dependiendo del tipo de archivo que vaya a cargar, Excel, .csv o .txt, puede configurar la lectura del mismo con las siguientes opciones (Fig. 1B):
 
-- <span class="tag is-warning is-light"><i>Row delimiter</i></span>: cuando se carga un archivo de texto plano (.csv, .txt), permite seleccionar el caracter que delimita las filas: \n (_Linefeed_), \r (_Return_), tabulación (Tab), punto y coma (;), coma (,) o pleca (|).
-- <span class="tag is-warning is-light"><i>First row contains column names</i></span>: permite indicar si la primera fila del archivo contiene los nombres de las columnas. Dichos nombre corresponden a los elementos DwC de la taxonomía. Por lo tanto, si no los tiene, la herramienta le solicitará darles un nombre antes de procesar el archivo.
-- <span class="tag is-warning is-light"><i>Column delimiter</i></span>: cuando se carga un archivo de texto plano (.csv, .txt), permite seleccionar el caracter que delimita las columnas: tabulación (Tab), punto y coma (;), coma (,) o pleca (|).
+* <span class="tag is-warning is-light"><i>Row delimiter</i></span>: cuando se carga un archivo de texto plano (.csv, .txt), permite seleccionar el caracter que delimita las filas: \n (_Linefeed_), \r (_Return_), tabulación (Tab), punto y coma (;), coma (,) o pleca (|).
+* <span class="tag is-warning is-light"><i>First row contains column names</i></span>: permite indicar si la primera fila del archivo contiene los nombres de las columnas. Dichos nombre corresponden a los elementos DwC de la taxonomía. Por lo tanto, si no los tiene, la herramienta le solicitará darles un nombre antes de procesar el archivo.
+* <span class="tag is-warning is-light"><i>Column delimiter</i></span>: cuando se carga un archivo de texto plano (.csv, .txt), permite seleccionar el caracter que delimita las columnas: tabulación (Tab), punto y coma (;), coma (,) o pleca (|).
 
 Dado que se cargó un archivo Excel, el delimitador estará dado automáticamente por el sistema y no debe hacer ajustes en las opciones <span class="tag is-warning is-light"><i>Row delimiter</i></span> ni <span class="tag is-warning is-light"><i>Column delimiter</i></span>.
 
@@ -90,27 +90,27 @@ Como la primera fila del archivo contiene los nombres de las columnas, marque la
 
 Para validar la taxonomía del conjunto de datos, la herramienta le permite especificar las siguientes opciones:
 
-- <span class="tag is-warning is-light"><i>Match authority</i></span>: seleccione esta opción si su conjunto de datos tiene la autoría del nombre científico en una columna adicional (<span class="tag is-success is-light"><i>scientificNameAuthorship</i></span>scientificNameAuthorship) y desee incluirla como criterio para validar el nombre.	
-- <span class="tag is-warning is-light"><i>Match upto</i></span>: si se tiene la taxonomía superior completa del taxon (<span class="tag is-success is-light"><i>phylum</i></span>, <span class="tag is-success is-light"><i>class</i></span>, <span class="tag is-success is-light"><i>order</i></span>, <span class="tag is-success is-light"><i>family</i></span> y <span class="tag is-success is-light"><i>genus</i></span>), puede añadir esta opción para incluir estos parámetros en la validación. Generalmente, es suficiente usar el elemento <span class="tag is-success is-light"><i>scientificName</i></span>). Esto también permite que la validación sea mucho más rápida.
-- <span class="tag is-warning is-light"><i>Limit to taxa belonging to</i></span>: permite limitar la consulta a un grupo biológio particular dentro de WoRMS; por ejemplo, Porifera, Copepoda etc. Esta función es especialmente útil cuando hay homónimos. Para usarla, introduzca los primeros caracteres del nombre del taxón para que aparezca una lista de selección. 
+- <span class="tag is-warning is-light"><i>Match authority</i></span>: seleccione esta opción si su conjunto de datos tiene la autoría del nombre científico en una columna adicional (<span class="tag is-success is-light"><i>scientificNameAuthorship</i></span>) y desea incluirla como criterio para validar el nombre.	
+- <span class="tag is-warning is-light"><i>Match upto</i></span>: si se tiene la taxonomía superior completa del taxon (<span class="tag is-success is-light"><i>phylum</i></span>, <span class="tag is-success is-light"><i>class</i></span>, <span class="tag is-success is-light"><i>order</i></span>, <span class="tag is-success is-light"><i>family</i></span> y <span class="tag is-success is-light"><i>genus</i></span>), puede añadir esta opción para incluir estos parámetros en la validación. Generalmente, es suficiente usar el elemento <span class="tag is-success is-light"><i>scientificName</i></span>. Esto también permite que la validación sea mucho más rápida.
+- <span class="tag is-warning is-light"><i>Limit to taxa belonging to</i></span>: permite limitar la consulta a un grupo biológico particular dentro de WoRMS; por ejemplo, Porifera, Copepoda etc. Esta función es especialmente útil cuando hay homónimos. Para usarla, introduzca los primeros caracteres del nombre del taxón para que aparezca una lista de selección. 
 
-En este caso, mantenga la opción <span class="tag is-warning is-light"><i>Match authority</i></span> sin seleccionar. ya que no se cuenta con esta información. En el menú de  <span class="tag is-warning is-light"><i>Match upto</i></span>, seleccione la opción <span class="tag is-success is-light"><i>scientificName</i></span>) en la lista desplegable y deje vacía la opción <span class="tag is-success is-light"><i>Limit to taxa belonging to</i></span> (Fig. 1C).
+En este caso, mantenga la opción <span class="tag is-warning is-light"><i>Match authority</i></span> sin seleccionar, ya que no se cuenta con esta información. En el menú de  <span class="tag is-warning is-light"><i>Match upto</i></span>, seleccione el elemento <span class="tag is-success is-light"><i>scientificName</i></span> en la lista desplegable y deje vacía la opción <span class="tag is-success is-light"><i>Limit to taxa belonging to</i></span> (Fig. 1C).
 
 ### 2.4. Configuración de la descarga
 
-    Antes de iniciar la consulta, debe elegir qué datos que desea obtener de WoRMS. Para ello, seleccione una o varias de las siguientes opciones en la sección _**"Output"**_:
+Antes de iniciar la consulta, debe elegir qué datos que desea obtener de WoRMS. Para ello, seleccione una o varias de las siguientes opciones en la sección _**"Output"**_:
 
   - <span class="tag is-warning is-light"><i>AphiaID</i></span>: identificador único de la base de datos _Aphia_ para cada taxón.
   - <span class="tag is-warning is-light"><i>LSID</i></span>: _Life Science Identifier_ de WoRms, el cual incluye el <span class="tag is-warning is-light"><i>AphiaID</i></span> y es obligatorio para la publicación a través del SiB Marino y OBIS. Es equivalente al elemento DwC <span class="tag is-success is-light"><i>scientificNameID</i></span>.
-  - <span class="tag is-warning is-light"><i>TSN</i></span>: identificador único de ITIS para cada taxón.
+  - <span class="tag is-warning is-light"><i>TSN</i></span>: identificador único de ITIS (_Integrated Taxonomic Information System_) para cada taxón.
   - <span class="tag is-success is-light"><i>scientificName</i></span>: el nombre científico del taxón con el que hubo una coincidencia dentro de WoRMS.
   - <span class="tag is-warning is-light"><i>Authority</i></span>: nombre del autor del nombre científico, corresponde al elemento DwC <span class="tag is-success is-light"><i>scientificNameAuthorship</i></span>.
   - <span class="tag is-warning is-light"><i>Accepted name</i></span>: nombre científico aceptado del taxón.
-  - <span class="tag is-warning is-light"><i>Classification</i></span>: taxonomía superior del taxón (_<span class="tag is-success is-light"><i>kingdom</i></span>,  <span class="tag is-success is-light"><i>phylum</i></span>, <span class="tag is-success is-light"><i>class</i></span>, <span class="tag is-success is-light"><i>order</i></span>, <span class="tag is-success is-light"><i>family</i></span> y <span class="tag is-success is-light"><i>genus</i></span>).
+  - <span class="tag is-warning is-light"><i>Classification</i></span>: taxonomía superior del taxón (<span class="tag is-success is-light"><i>kingdom</i></span>,  <span class="tag is-success is-light"><i>phylum</i></span>, <span class="tag is-success is-light"><i>class</i></span>, <span class="tag is-success is-light"><i>order</i></span>, <span class="tag is-success is-light"><i>family</i></span> y <span class="tag is-success is-light"><i>genus</i></span>).
   - <span class="tag is-warning is-light"><i>Qualitystatus</i></span>: indica el tipo de revisión taxonómica que ha realizado el equipo de WoRMS sobre el taxón.
   - <span class="tag is-warning is-light"><i>Taxon status</i></span>: estatus taxonómico del nombre científico del taxón: aceptado, no acepetado, ambiguo, entre otros.
-  - <span class="tag is-warning is-light"><i>Environment</i></span>: corresponde a los elementos del DwC que describen el tipo de ambiente donde habita el taxón: <span class="tag is-success is-light"><b><i>isMarine</i></b></span> (hábitat marino), <span class="tag is-success is-light"><b><i>isBrackish</i></b></span> (hábitat salobre), <span class="tag is-success is-light"><b><i>isFresh</i></b></span> (hábitat de agua dulce) y <span class="tag is-success is-light"><b><i>isTerrestrial</i></b></span> (hábitat terrestre). En los elementos mencionados, <span class="tag is-light"><b>1</b></span> indica que el taxon habita en ese ambiente y <span class="tag is-light"><b>o</b></span> significa que no habita. 
-  - span class="tag is-warning is-light"><i>Citation</i></span>: Citación sugerida de la fuente taxonómica utilizada para validar el conjunto de datos.
+  - <span class="tag is-warning is-light"><i>Environment</i></span>: corresponde a los elementos del DwC que describen el tipo de ambiente donde habita el taxón: <span class="tag is-success is-light"><i>isMarine</i></span> (hábitat marino), <span class="tag is-success is-light"><i>isBrackish</i></span> (hábitat salobre), <span class="tag is-success is-light"><i>isFresh</i></span> (hábitat de agua dulce) e <span class="tag is-success is-light"><i>isTerrestrial</i></span> (hábitat terrestre). En los elementos mencionados, <span class="tag is-light"><b>1</b></span> indica que el taxon habita en ese ambiente y <span class="tag is-light"><b>0</b></span> significa que no habita. 
+  - <span class="tag is-warning is-light"><i>Citation</i></span>: Citación sugerida de la fuente taxonómica utilizada para validar el conjunto de datos.
 
 Para este ejercicio, y para validaciones futuras, marque las casillas de las opciones: <span class="tag is-warning is-light"><i>LSID</i></span>, <span class="tag is-success is-light"><i>scientificName</i></span>, <span class="tag is-warning is-light"><i>Authority</i></span>, <span class="tag is-warning is-light"><i>Accepted name</i></span>, <span class="tag is-warning is-light"><i>Classification</i></span>, <span class="tag is-warning is-light"><i>Taxon status</i></span> y <span class="tag is-warning is-light"><i>Environment</i></span> (Fig. 1D).
 
@@ -126,7 +126,7 @@ Luego de cargar los datos, se abrira una vista previa de las primeras 20 filas (
 
 <sup>_Figura 2. Vista previa de los datos y verificación del mapeo de las columnas._</sup>
 
-Una vez que haya verificado que la lectura correcta de los datos por parte de la herramienta y el mapeo adecuado de las columnas, dé clic en <span class="tag is-warning is-light"><i>Match</i></span>(Fig. 2).
+Una vez que haya verificado la lectura correcta de los datos por parte de la herramienta y el mapeo adecuado de las columnas, dé clic en <span class="tag is-warning is-light"><i>Match</i></span>(Fig. 2).
 
 Dependiendo del volumen de los datos, la validación puede tardar algunos segundos a minutos. Durante este tiempo, no cierre ni cambie la ventana de navegación (Fig. 3).
 
@@ -136,21 +136,21 @@ Dependiendo del volumen de los datos, la validación puede tardar algunos segund
 
 ## Paso 4 - Revisión de los resultados
 
-Al finalizar la validación, en la parte superior de la herramienta encontrará el porcentaje de coincidencia global obtenido en la validación (Fig. 4A). Explore los nombres con los que hubo coincidencia en la columna <span class="tag is-warning is-light">WoRMS <i>match</i></span> (Fig. 4B). Encontrará diferentes tipos de resultados en esta columna:
+Al finalizar la validación, en la parte superior de la herramienta, encontrará el porcentaje de coincidencia global obtenido en la validación (Fig. 4A). Explore los nombres con los que hubo coincidencia en la columna <span class="tag is-warning is-light">WoRMS <i>match</i></span> (Fig. 4B). Encontrará diferentes tipos de resultados en esta columna:
 
-- Nombres en color verde: se obtiene cuando el nombre científico ingresado coincidió exactamente o difiere por máximo 3 caracteres. La información de dicho nombre aparecerá en la descarga.
-- Nombres ambiguos (lista desplegable): aparece cuando el taxón tiene un homónimo. En estos casos, verá un recuadro con una lista desplegable para seleccionar el que corresponda al nombre aceptado o al autor requerido.
-- (none): significa que no hubo coincidencias entre el nombre ingresado y WoRMS. Por lo tanto, estos nombres deberán ser verificados con otro referente. Posiblemente, el taxón es únicamente terreste y por ello no se encuentra en la base de datos de WoRMS.
+- **Nombres en color verde**: se obtiene cuando el nombre científico ingresado coincidió exactamente o difiere por máximo 3 caracteres. La información de dicho nombre aparecerá en la descarga.
+- **Nombres ambiguos (lista desplegable)**: aparece cuando el taxón tiene un homónimo. En estos casos, verá un recuadro con una lista desplegable para seleccionar el que corresponda al nombre aceptado o al autor requerido.
+- **(none)**: significa que no hubo coincidencias entre el nombre ingresado y WoRMS. Por lo tanto, estos nombres deberán ser verificados con otro referente. Posiblemente, el taxón es únicamente terreste y por ello no se encuentra en la base de datos de WoRMS.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.4_WoRMS.png" width=800>
 
-<sup>_Figura 4. Resultados; A.Porcentaje de coincidencia con WoRMS, B. Diferentes tipos de resultados en la columna <span class="tag is-warning is-light">WoRMS <i>match</i></span>.</sup>
+<sup>_Figura 4. Resultados; A.Porcentaje de coincidencia con WoRMS, B. Diferentes tipos de resultados en la columna <span class="tag is-warning is-light">WoRMS <i>match</i></span>_.</sup>
 
 Revise  los nombres de la columna <span class="tag is-warning is-light">WoRMS <i>match</i></span> y haga los ajustes necesarios. Cuando haya nombres ambiguos, puede hacer una búsqueda manual en WoRMS para decidir qué alternativa seleccionar. Por ejemplo, para el género _Apogon_ la lista deslegable muestra dos opciones (Fig. 5):
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.5_WoRMS.png" width=800>
 
-<sup>_Figura 5. Ejemplo de un nombre ambiguo "Apogon" que requiere revisión.En la lista desplegable, se muestran las coincidencias con WoRMS._</sup>
+<sup>_Figura 5. Ejemplo de un nombre ambiguo "Apogon" que requiere revisión. En la lista desplegable se muestran las coincidencias con WoRMS._</sup>
 
 Usando la barra de búsqueda general de WoRMS ([https://www.marinespecies.org/index.php](https://www.marinespecies.org/index.php)), busque los dos nombres que aparecen en la lista desplegable (Fig. 6). 
 
@@ -164,7 +164,7 @@ Tras la búsqueda, obtendrá los siguientes enlaces:
 - [_Apogon Lacepède, 1801_](https://www.marinespecies.org/aphia.php?p=taxdetails&id=125913)
 - [_Apogon Elliott_](https://www.marinespecies.org/aphia.php?p=taxdetails&id=1077675) _accepted as_ [_Krigia Schreb_](https://www.marinespecies.org/aphia.php?p=taxdetails&id=1076104)
 
-Al ver en detalle cada una de las opciones, notará que la segunda corresponde a una planta y no a un pez. Sabemos que este género es un pez ya que en el conjunto de datos se documenta bajo la clase Actinopterygii, por lo tanto, se descarta la segunda opción.
+Al ver en detalle cada una de las opciones, notará que la segunda corresponde a una planta y no a un pez. Se sabe que este género es un pez, ya que en el conjunto de datos se documenta bajo la clase Actinopterygii. Por lo tanto, se descarta la segunda opción.
 
 Puede hacer este ejercicio de búsqueda para los demás nombres ambiguos.
 
@@ -183,7 +183,7 @@ Posteriormente, obtendrá un archivo con el nombre original del conjunto de dato
 
 ### 6.1. Comprender el contendio del archivo
 
-Abra el archivo de resultados con Excel u _OpenRefine_ y explore las columnas obtenidas y su contenido. El archivo tendrá la siguiente estructura:
+Abra el archivo de resultados con Excel u _OpenRefine_ y explore las columnas obtenidas, así como su contenido. El archivo tendrá la siguiente estructura:
 
 - <span class="tag is-warning is-light"><i>AphiaID</i></span>: identificador único de la base de datos _Aphia_ para cada taxón.
   - <span class="tag is-warning is-light"><i>LSID</i></span>: _Life Science Identifier_ de WoRms, el cual incluye el <span class="tag is-warning is-light"><i>AphiaID</i></span> y es obligatorio para la publicación a través del SiB Marino y OBIS. Es equivalente al elemento DwC <span class="tag is-success is-light"><i>scientificNameID</i></span>.
@@ -200,7 +200,7 @@ Abra el archivo de resultados con Excel u _OpenRefine_ y explore las columnas ob
 - **Columnas originales**: al inicio del archivo, encontrará las columnas que cargó originalmente en la herramienta, incluso en el mismo orden.
 - _**"Match type"**_: una columna que detalla el nivel de coincidencia que hubo entre el nombre científico ingresado y WoRMS. Este elemento le permitirá identificar los nombres que debe revisar en detalle. Las niveles que aparecerán, de mayor a menor coincidencia, son:
 
-     - <span class="tag is-light"><b><i>exact</></b></span>: todos los caracteres coinciden de manera exacta.
+    - <span class="tag is-light"><b><i>exact</></b></span>: todos los caracteres coinciden de manera exacta.
     - <span class="tag is-light"><b><i>exact_subgenus</i></b></span>: coincidencia exacta, pero incluyendo el subgénero.
     - <span class="tag is-light"><b><i>phonetic</></b></span>: sonidos fonéticos similares a pesar de diferencias menores en la escritura (análisis a partir del algoritmo soundex).
     - <span class="tag is-light"><b><i>near_1</></b></span>: muy buena coincidencia, excepto por un carácter (este nivel de coincidencia bastante confiable).
@@ -214,8 +214,8 @@ Abra el archivo de resultados con Excel u _OpenRefine_ y explore las columnas ob
 - _**"Authority"**_: nombre del autor del nombre científico, corresponde al elemento DwC <span class="tag is-success is-light"><i>scientificNameAuthorship</i></span>.
 - _**"ScientificName_accepted"**_: nombre científico aceptado del taxón. En caso de que el _**"Taxon status"**_ del nombre sea diferente a <span class="tag is-light"><b><i>accepted</></b></span>, puede revisar y decidir si usa el nombre aceptado.
 - _**"Authority_accepted"**_: autoría aceptada del nombre científico. Corresponde al elemento DwC <span class="tag is-success is-light"><i>scientificNameAuthorship</i></span>.
-- <span class="tag is-warning is-light"><i>Classification</i></span>: taxonomía superior del taxón (_<span class="tag is-success is-light"><i>kingdom</i></span>,  <span class="tag is-success is-light"><i>phylum</i></span>, <span class="tag is-success is-light"><i>class</i></span>, <span class="tag is-success is-light"><i>order</i></span>, <span class="tag is-success is-light"><i>family</i></span>, <span class="tag is-success is-light"><i>genus</i></span>, <span class="tag is-success is-light"><i>subgenus</i></span>, <span class="tag is-success is-light"><i>species</i></span> y	<span class="tag is-success is-light"><i>subspecies</i>. Puede utilizar estos elementos para completar el conjunto de datos o hacer correcciones respecto al archivo original.
-- **Columnas _"Environment"_**: corresponde a los elementos del DwC que describen el tipo de ambiente donde habita el taxón: <span class="tag is-success is-light"><b><i>isMarine</i></b></span> (habitat marino), <span class="tag is-success is-light"><b><i>isBrackish</i></b></span> (habitat salobre), <span class="tag is-success is-light"><b><i>isFresh</i></b></span> (habitat de agua dulce) y <span class="tag is-success is-light"><b><i>isTerrestrial</i></b></span> (habitat terrestre). En los elementos mencionados, <span class="tag is-light"><b>1</b></span> indica que el taxon habita en ese ambiente y <span class="tag is-light"><b>o</b></span> significa que no habita. 
+- _**"Classification"**_: taxonomía superior del taxón (<span class="tag is-success is-light"><i>kingdom</i></span>,  <span class="tag is-success is-light"><i>phylum</i></span>, <span class="tag is-success is-light"><i>class</i></span>, <span class="tag is-success is-light"><i>order</i></span>, <span class="tag is-success is-light"><i>family</i></span>, <span class="tag is-success is-light"><i>genus</i></span>, <span class="tag is-success is-light"><i>subgenus</i></span>, <span class="tag is-success is-light"><i>species</i></span> y	<span class="tag is-success is-light"><i>subspecies</i></span>. Puede utilizar estos elementos para completar el conjunto de datos o hacer correcciones respecto al archivo original.
+- **Columnas _"Environment"_**: corresponde a los elementos del DwC que describen el tipo de ambiente donde habita el taxón: <span class="tag is-success is-light"><i>isMarine</i></span> (habitat marino), <span class="tag is-success is-light"><i>isBrackish</i></span> (habitat salobre), <span class="tag is-success is-light"><i>isFresh</i></span> (habitat de agua dulce) e <span class="tag is-success is-light"><i>isTerrestrial</i></span> (habitat terrestre). En los elementos mencionados, <span class="tag is-light"><b>1</b></span> indica que el taxon habita en ese ambiente y <span class="tag is-light"><b>0</b></span> significa que no habita. 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.8_WoRMS.png" width=800>
 
@@ -223,32 +223,32 @@ Abra el archivo de resultados con Excel u _OpenRefine_ y explore las columnas ob
 
 ### 6.2. Identificar y resolver inconsistencias
 
- - Explore la columna _**"Match type"**_ y revise los datos que tuvieron un valor distinto a <span class="tag is-success is-light"><b><i>exact</i></b></span> y los que están vacíos. Luego, ajuste los nombres científicos y la taxonomía superior de acuerdo a los elementos <span class="tag is-success is-light"><i>scientificName</i></span> y _**"ScientificName_accepted"**_, si aplican. 
+ - Explore la columna _**"Match type"**_ y revise los datos que tuvieron un valor distinto a <span class="tag is-light"><b><i>exact</i></b></span> y los que están vacíos. Luego, ajuste los nombres científicos y la taxonomía superior de acuerdo a los elementos <span class="tag is-success is-light"><i>scientificName</i></span> y _**"ScientificName_accepted"**_, si aplican. 
 
 <div class="notification is-info is-light">
   <b>Tip:</b> Los nombres sugeridos por WoRMS corresponden a especies marinas. Revise con cuidado la taxonomía sugerida para el género <i>Carollia</i>, respecto a la información y clase original de los datos.
 </div>
 
- - Nuevamente, revise los nombres que están vacíos y no tuvieron ninguna coincidencia con WoRMS en la columna _**"Match type"**_. ¿Podría explicar por qué no hubo coindicencia?.
+ - Nuevamente, revise los nombres que están vacíos y no tuvieron ninguna coincidencia con WoRMS en la columna _**"Match type"**_. ¿Podría explicar por qué no hubo coindicencia?
 
 > Es posible que algunos nombres de taxones marinos no esten aún en WoRMS. Para agregarlos, es necesario seguir las recomendaciones de la documentación de WoRMS en las secciones [_Add a new accepted taxon_](https://www.marinespecies.org/aphia.php?p=manual#topic2) y [_Add a new unaccepted taxon_](https://www.marinespecies.org/aphia.php?p=manual#topic3).
 >
     
- - Explore la columna _**"Taxon status"**_ y revise los nombres que tengan valores distintos a _**"accepted"**_ y los que estén vacíos. Compare dichos nombres la columna _**"ScientificName_accepted"**_ y realice los respectivos ajustes.
+ - Explore la columna _**"Taxon status"**_ y revise los nombres que tengan valores distintos a <span class="tag is-light"><b><i>accepted</i></b></span> y los que estén vacíos. Compare dichos nombres con la columna _**"ScientificName_accepted"**_ y realice los respectivos ajustes.
 
- - Explore las columnas <span class="tag is-success is-light"><b><i>isMarine</i></b></span> (hábitat marino), <span class="tag is-success is-light"><b><i>isBrackish</i></b></span> (hábitat salobre), <span class="tag is-success is-light"><b><i>isFresh</i></b></span> (hábitat de agua dulce) y <span class="tag is-success is-light"><b><i>isTerrestrial</i></b></span> (hábitat terrestre) e identifiqué si hay registros que solo correspondan a hábitats terrestres. Si los hay, verifique la especie y ajuste la taxonomía superior de ser necesario.
+ - Explore las columnas <span class="tag is-success is-light"><b><i>isMarine</i></b></span> (hábitat marino), <span class="tag is-success is-light"><b><i>isBrackish</i></b></span> (hábitat salobre), <span class="tag is-success is-light"><b><i>isFresh</i></b></span> (hábitat de agua dulce) e <span class="tag is-success is-light"><b><i>isTerrestrial</i></b></span> (hábitat terrestre) para identificar si hay registros que solo correspondan a hábitats terrestres. Si los hay, verifique la especie y ajuste la taxonomía superior de ser necesario.
 
 
-¿Identificó otros ajustes a realizar en el conjunto de datos a partir de la validación?.
+¿Identificó otros ajustes a realizar en el conjunto de datos a partir de la validación?
 
 
 ## Paso 7 - Verificación del resultado
 
-CDescargue y compare el siguiente archivo, validado según las definiciones del estándar _Darwin Core_, con el archivo que trabajó en el laboratorio e identifique aciertos y oportunidades de mejora. En la hoja 1, encontrará el archivo descargado de la herramienta con los ajustes mencionados en el paso 6. En la hoja 2, hallará los datos estructurados según el DwC.
+Descargue y compare el siguiente archivo, validado según las definiciones del estándar _Darwin Core_, con el archivo que trabajó en el laboratorio e identifique aciertos y oportunidades de mejora. En la hoja 1, encontrará el archivo descargado de la herramienta con los ajustes mencionados en el paso 6. En la hoja 2, hallará los datos estructurados según el DwC.
 
 **¿Qué diferencias encontró con sus resultados?**
 
-* [Descargue el archivo validado](https://github.com/SIB-Colombia/Formacion/raw/master/LAB/lab02/_docs/Solucion_datos_casomarinocosteros.xlsx)
+* [Archivo validado](https://github.com/SIB-Colombia/Formacion/raw/master/LAB/lab02/_docs/Solucion_datos_casomarinocosteros.xlsx)
 
 **¡Felicitaciones!**
 Terminó la revisión de los nombres científicos con la herramienta WoRMS.
