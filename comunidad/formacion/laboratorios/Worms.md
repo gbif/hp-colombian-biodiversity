@@ -80,7 +80,7 @@ Dependiendo del tipo de archivo que vaya a cargar, Excel, .csv o .txt, puede con
 
 * <span class="tag is-warning is-light"><i>Row delimiter</i></span>: cuando se carga un archivo de texto plano (.csv, .txt), permite seleccionar el caracter que delimita las filas: \n (_Linefeed_), \r (_Return_), tabulación (Tab), punto y coma (<span class="tag is-warning is-light"><b>;</b></span>), coma (<span class="tag is-warning is-light"><b>,</b></span>) o pleca (<span class="tag is-warning is-light"><b>|</b></span>).
 * <span class="tag is-warning is-light"><i>First row contains column names</i></span>: permite indicar si la primera fila del archivo contiene los nombres de las columnas. Dichos nombre corresponden a los elementos DwC de la taxonomía. Por lo tanto, si no los tiene, la herramienta le solicitará darles un nombre antes de procesar el archivo.
-* <span class="tag is-warning is-light"><i>Column delimiter</i></span>: cuando se carga un archivo de texto plano (.csv, .txt), permite seleccionar el caracter que delimita las columnas: tabulación (Tab), punto y coma (<span class="tag is-warning is-light"><b>;</b></span>), coma (<span class="tag is-warning is-light"><b>,</b></span>) o pleca (<span class="tag is-warning is-light"><b>|</b></span>).
+* <span class="tag is-warning is-light"><i>Column delimiter</i></span>: cuando se carga un archivo de texto plano (.csv, .txt), permite seleccionar el caracter que delimita las columnas: tabulación (Tab), punto y coma (<span class="tag is-warning is-light"><b>;</b></span>), coma (<span class="tag is-warning is-light"><b>,</b></span>) o pleca     (<span class="tag is-warning is-light"><b>|</b></span>).
 
 Dado que se cargó un archivo Excel, el delimitador estará dado automáticamente por el sistema y no debe hacer ajustes en las opciones <span class="tag is-warning is-light"><i>Row delimiter</i></span> ni <span class="tag is-warning is-light"><i>Column delimiter</i></span>.
 
@@ -207,7 +207,7 @@ Abra el archivo de resultados con Excel u _OpenRefine_ y explore las columnas ob
     - <span class="tag is-light"><b><i>near_1</i></b></span>: muy buena coincidencia, excepto por un carácter (este nivel de coincidencia bastante confiable).
     - <span class="tag is-light"><b><i>near_2</i></b></span>: buena coincidencia, excepto por dos caracteres (se requiere una revisión adicional del nombre).
     - <span class="tag is-light"><b><i>near_3</i></b></span>: buena coincidencia, excepto por tres caracteres (se requiere una revisión cuidadosa del nombre).
-    - <span class="tag is-light"><b><i>match_quarantine</></b></span>: coincide con un nombre que se encuentra actualmente en cuarentena. En este caso, se recomienda ponerse en contacto con el equipo de WoRMS (info@marinespecies.org).
+    - <span class="tag is-light"><b><i>match_quarantine</i></b></span>: coincide con un nombre que se encuentra actualmente en cuarentena. En este caso, se recomienda ponerse en contacto con el equipo de WoRMS (info@marinespecies.org).
     - <span class="tag is-light"><b><i>match_deleted</i></b></span>: coincide con un nombre que ha sido eliminado y no hay una alternativa disponible en WoRms. En este caso, se recomienda ponerse en contacto con el equipo de WoRMS (info@marinespecies.org).
 
 - _**"LSID"**_: _Life Science Identifier_ de WoRms, el cual incluye el <span class="tag is-warning is-light"><i>AphiaID</i></span> y es obligatorio para la publicación a través del SiB Marino y OBIS. Es equivalente al elemento DwC <span class="tag is-success is-light"><i>scientificNameID</i></span>.
