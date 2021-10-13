@@ -78,9 +78,9 @@ En la opción <span class="tag is-warning is-light"><i>File</i></span>, busque e
 
 Dependiendo del tipo de archivo que vaya a cargar, Excel, .csv o .txt, puede configurar la lectura del mismo con las siguientes opciones (Fig. 1B):
 
-* <span class="tag is-warning is-light"><i>Row delimiter</i></span>: cuando se carga un archivo de texto plano (.csv, .txt), permite seleccionar el caracter que delimita las filas: \n (_Linefeed_), \r (_Return_), tabulación (Tab), punto y coma (;), coma (,) o pleca ("|").
+* <span class="tag is-warning is-light"><i>Row delimiter</i></span>: cuando se carga un archivo de texto plano (.csv, .txt), permite seleccionar el caracter que delimita las filas: \n (_Linefeed_), \r (_Return_), tabulación (Tab), punto y coma (<span class="tag is-warning is-light"><b>;</b></span>), coma (<span class="tag is-warning is-light"><b>,</b></span>) o pleca (<span class="tag is-warning is-light"><b>|</b></span>).
 * <span class="tag is-warning is-light"><i>First row contains column names</i></span>: permite indicar si la primera fila del archivo contiene los nombres de las columnas. Dichos nombre corresponden a los elementos DwC de la taxonomía. Por lo tanto, si no los tiene, la herramienta le solicitará darles un nombre antes de procesar el archivo.
-* <span class="tag is-warning is-light"><i>Column delimiter</i></span>: cuando se carga un archivo de texto plano (.csv, .txt), permite seleccionar el caracter que delimita las columnas: tabulación (Tab), punto y coma (;), coma (,) o pleca ("|").
+* <span class="tag is-warning is-light"><i>Column delimiter</i></span>: cuando se carga un archivo de texto plano (.csv, .txt), permite seleccionar el caracter que delimita las columnas: tabulación (Tab), punto y coma (<span class="tag is-warning is-light"><b>;</b></span>), coma (<span class="tag is-warning is-light"><b>,</b></span>) o pleca (<span class="tag is-warning is-light"><b>|</b></span>).
 
 Dado que se cargó un archivo Excel, el delimitador estará dado automáticamente por el sistema y no debe hacer ajustes en las opciones <span class="tag is-warning is-light"><i>Row delimiter</i></span> ni <span class="tag is-warning is-light"><i>Column delimiter</i></span>.
 
@@ -198,23 +198,32 @@ Abra el archivo de resultados con Excel u _OpenRefine_ y explore las columnas ob
   - <span class="tag is-warning is-light"><i>Citation</i></span>: Citación sugerida de la fuente taxonómica utilizada para validar el conjunto de datos.
 
 - **Columnas originales**: al inicio del archivo, encontrará las columnas que cargó originalmente en la herramienta, incluso en el mismo orden.
+
 - _**"Match type"**_: una columna que detalla el nivel de coincidencia que hubo entre el nombre científico ingresado y WoRMS. Este elemento le permitirá identificar los nombres que debe revisar en detalle. Las niveles que aparecerán, de mayor a menor coincidencia, son:
 
     - <span class="tag is-light"><b><i>exact</i></b></span>: todos los caracteres coinciden de manera exacta.
     - <span class="tag is-light"><b><i>exact_subgenus</i></b></span>: coincidencia exacta, pero incluyendo el subgénero.
-    - <span class="tag is-light"><b><i>phonetic</></b></span>: sonidos fonéticos similares a pesar de diferencias menores en la escritura (análisis a partir del algoritmo soundex).
-    - <span class="tag is-light"><b><i>near_1</></b></span>: muy buena coincidencia, excepto por un carácter (este nivel de coincidencia bastante confiable).
-    - <span class="tag is-light"><b><i>near_2</></b></span>: buena coincidencia, excepto por dos caracteres (se requiere una revisión adicional del nombre).
-    - <span class="tag is-light"><b><i>near_3</></b></span>: buena coincidencia, excepto por tres caracteres (se requiere una revisión cuidadosa del nombre).
+    - <span class="tag is-light"><b><i>phonetic</i></b></span>: sonidos fonéticos similares a pesar de diferencias menores en la escritura (análisis a partir del algoritmo soundex).
+    - <span class="tag is-light"><b><i>near_1</i></b></span>: muy buena coincidencia, excepto por un carácter (este nivel de coincidencia bastante confiable).
+    - <span class="tag is-light"><b><i>near_2</i></b></span>: buena coincidencia, excepto por dos caracteres (se requiere una revisión adicional del nombre).
+    - <span class="tag is-light"><b><i>near_3</i></b></span>: buena coincidencia, excepto por tres caracteres (se requiere una revisión cuidadosa del nombre).
     - <span class="tag is-light"><b><i>match_quarantine</></b></span>: coincide con un nombre que se encuentra actualmente en cuarentena. En este caso, se recomienda ponerse en contacto con el equipo de WoRMS (info@marinespecies.org).
-    - <span class="tag is-light"><b><i>match_deleted</></b></span>: coincide con un nombre que ha sido eliminado y no hay una alternativa disponible en WoRms. En este caso, se recomienda ponerse en contacto con el equipo de WoRMS (info@marinespecies.org).
+    - <span class="tag is-light"><b><i>match_deleted</i></b></span>: coincide con un nombre que ha sido eliminado y no hay una alternativa disponible en WoRms. En este caso, se recomienda ponerse en contacto con el equipo de WoRMS (info@marinespecies.org).
+
 - _**"LSID"**_: _Life Science Identifier_ de WoRms, el cual incluye el <span class="tag is-warning is-light"><i>AphiaID</i></span> y es obligatorio para la publicación a través del SiB Marino y OBIS. Es equivalente al elemento DwC <span class="tag is-success is-light"><i>scientificNameID</i></span>.
+    
 - _**"Taxon status"**_: estatus taxonómico del nombre científico del taxón: aceptado, no acepetado, ambiguo, entre otros. Este elemento le permitirá identificar qué nombres debe revisar en detalle.
+    
 - <span class="tag is-success is-light"><i>scientificName</i></span>: el nombre científico del taxón con el que hubo una coincidencia dentro de WoRMS.
+    
 - _**"Authority"**_: nombre del autor del nombre científico, corresponde al elemento DwC <span class="tag is-success is-light"><i>scientificNameAuthorship</i></span>.
-- _**"ScientificName_accepted"**_: nombre científico aceptado del taxón. En caso de que el _**"Taxon status"**_ del nombre sea diferente a <span class="tag is-light"><b><i>accepted</></i></b></span>, puede revisar y decidir si usa el nombre aceptado.
+    
+- _**"ScientificName_accepted"**_: nombre científico aceptado del taxón. En caso de que el _**"Taxon status"**_ del nombre sea diferente a <span class="tag is-light"><b><i>accepted</i></b></span>, puede revisar y decidir si usa el nombre aceptado.
+    
 - _**"Authority_accepted"**_: autoría aceptada del nombre científico. Corresponde al elemento DwC <span class="tag is-success is-light"><i>scientificNameAuthorship</i></span>.
+    
 - _**"Classification"**_: taxonomía superior del taxón (<span class="tag is-success is-light"><i>kingdom</i></span>,  <span class="tag is-success is-light"><i>phylum</i></span>, <span class="tag is-success is-light"><i>class</i></span>, <span class="tag is-success is-light"><i>order</i></span>, <span class="tag is-success is-light"><i>family</i></span>, <span class="tag is-success is-light"><i>genus</i></span>, <span class="tag is-success is-light"><i>subgenus</i></span>, <span class="tag is-success is-light"><i>species</i></span> y	<span class="tag is-success is-light"><i>subspecies</i></span>. Puede utilizar estos elementos para completar el conjunto de datos o hacer correcciones respecto al archivo original.
+    
 - **Columnas _"Environment"_**: corresponde a los elementos del DwC que describen el tipo de ambiente donde habita el taxón: <span class="tag is-success is-light"><i>isMarine</i></span> (habitat marino), <span class="tag is-success is-light"><i>isBrackish</i></span> (habitat salobre), <span class="tag is-success is-light"><i>isFresh</i></span> (habitat de agua dulce) e <span class="tag is-success is-light"><i>isTerrestrial</i></span> (habitat terrestre). En los elementos mencionados, <span class="tag is-light"><b>1</b></span> indica que el taxon habita en ese ambiente y <span class="tag is-light"><b>0</b></span> significa que no habita. 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.8_WoRMS.png" width=800>
