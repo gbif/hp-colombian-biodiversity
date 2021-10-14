@@ -15,173 +15,165 @@ Realizar una validación taxonómica de los nombres científicos de plantas de m
 
 **Introducción**
 
-Video introductorio de las 3 guías de validación taxonómica, da un contexto general sobre las herramientas y su uso. Si lo prefiere pude realizar la guía siguiendo el paso a paso sin necesidad de ver el video.
+Video introductorio de las tres guías de validación taxonómica, el cual da un contexto general sobre las herramientas y su uso. Si lo prefiere, puede seguir el paso a paso de la guía directamente.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ve7CgZlZhj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Sobre la herramienta**
 
-La herramienta TNRS por sus siglas en inglés (Taxonomic Name Resolution Service) es una aplicación originalmente desarrollada por iPlant, que permite estandarizar los nombres científicos botánicos a partir de fuentes taxonómicas como [Tropicos](https://www.tropicos.org/home), [USDA](https://plants.sc.egov.usda.gov/home/) y [TPL](http://www.theplantlist.org/). La validación taxonómica con TNRS permite:
+La herramienta TNRS, por sus siglas en inglés (_Taxonomic Name Resolution Service_), es una aplicación originalmente desarrollada por _iPlant_, que permite estandarizar los nombres científicos botánicos a partir de fuentes taxonómicas como [_Tropicos_](https://www.tropicos.org/home), [USDA](https://plants.sc.egov.usda.gov/home/) y [TPL](http://www.theplantlist.org/). La validación taxonómica con TNRS permite:
 - Identificar errores ortográficos o de tipeo.
-- Separar el nombre científico en otros elementos Darwin Core (```genus```, ```specificEpithet```, ```scientificNameAuthorship```).
-- Evaluar la coincidencia del nombre científico, familia, género, epiteto específico e infraespecífico y autoría contra las fuentes taxonómicas de referencia.
+- Separar el nombre científico en otros elementos _Darwin Core_ (<span class="tag is-success is-light"><i>genus</i></span>, <span class="tag is-success is-light"><i>specificEpithet</i></span>, <span class="tag is-success is-light"><i>scientificNameAuthorship</i></span>).
+- Evaluar la coincidencia del nombre científico, familia, género, epiteto específico e infraespecífico y autoría al comparar los datos con las fuentes taxonómicas de referencia.
 - Listar otras posibles coincidencias de un nombre científico con su respectivo enlace a la fuente.
 - Identificar sinonimias y nombres actualmente aceptados.
 
 **Enlace**
 
-*Taxonomic Name Resolution Service (TNRS)*: [https://tnrs.biendata.org/](https://tnrs.biendata.org/)
+_Taxonomic Name Resolution Service_ (TNRS): [https://tnrs.biendata.org/](https://tnrs.biendata.org/)
 
 **Requerimientos** 
 
-* Para realizar este ejercicio debe contar con un procesador de archivos de texto como Excel.
+* Para realizar este ejercicio, es necesario contar con un procesador de archivos de texto como Excel.
 
 **Archivo de trabajo**
 
-Descargue el archivo [```Datos_TNRS.xlsx```](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/Datos_TNRS.xlsx) para realizar el laboratorio.
+Descargue el archivo [<FONT FACE="monospace"><b>«Datos_TNRS.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/Datos_TNRS.xlsx) para realizar el laboratorio.
 
 --------
 
 ## Paso 1 - Ingreso
 
-Ingrese a la aplicación [TNRS](https://tnrs.biendata.org/) y familiarícese con las opciones. La herramienta está dividad en dos partes, la primera (Fig. 1A) para colocar la lista de nombres científicos y la segunda (Fig. 1B) para la selección de configuraciones.
+Ingrese a la aplicación [TNRS](https://tnrs.biendata.org/) y familiarícese con las opciones. La herramienta está divida en dos partes: la primera (Fig. 1A), para colocar la lista de nombres científicos; la segunda (Fig. 1B), para la selección de configuraciones.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.1_TNRS_Aplicacion.png" width=800>
 
-<sup>_Figura 1. Descripción de las opciones de la herramienta. A. Lista de nombres científicos a validar. B. Configuraciones de la herramienta._</sup>
+<sup>_Figura 1. Descripción de las opciones de la herramienta. A. Lista de nombres científicos a validar, B. Configuraciones de la herramienta._</sup>
 
 
 ## Paso 2 - Carga de los datos
 
-Ingrese al archivo [```Datos_TNRS.xlsx```](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/Datos_TNRS.xlsx) y seleccione la columna _```scientificName```_, copie la totalidad de la columna sin incluir el encabezado.
+Ingrese al archivo [<FONT FACE="monospace"><b>«Datos_TNRS.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/Datos_TNRS.xlsx), seleccione la columna <span class="tag is-success is-light"><i>scientificName</i></span> y copie la totalidad de la columna sin incluir el encabezado.
 
-Diríjase a la herramienta de TNRS y pegue los datos previamente copiados en la sección ```Scientific names to check``` (Fig. 1A). Asegurese que haya un solo nombre por línea. A continuación haga clic en _```SUBMIT```_(Fig. 2).
+Diríjase a la herramienta de TNRS y pegue los datos previamente copiados en la sección _**"Scientific names to check"**_ (Fig. 1A). Asegúrese de que haya un solo nombre por línea. A continuación, haga clic en <span class="tag is-warning is-light"><i>SUBMIT</i></span> (Fig. 2).
 
-```tip
-La herramienta evalua hasta 5.000 nombres científicos por ejecución, si intenta un mayor número obtendrá un mensaje de error.
-```
+<div class="notification is-info is-light">
+  <b>Tip:</b> La herramienta evalua hasta 5.000 nombres científicos por ejecución, si intenta un mayor número obtendrá un mensaje de error.
+</div>
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.2_TNRS_Submit.png" width=800>
 
 <sup>_Figura 2. Carga de datos en la herramienta._</sup>
 
-
-
 ## Paso 3- Selección de configuraciones
 
-### 2.1. Modo de procesamiento 
+### 3.1. Modo de procesamiento 
 
-En la configuración _```Processing Mode```_(Modo de procesamiento) tiene dos opciones:
+En la configuración _**"Processing Mode"**_(Modo de procesamiento), tiene dos opciones:
 
-* _```Perform name resolution```_ (Ejecutar resolución de nombres): separa el nombre científico en sus componentes y los valida contra una o varias fuentes (resolución).
-* _```Parse names only```_ (Separar nombres únicamente): separa el nombre científico en sus componentes sin evaluar la coincidencia del nombre con las fuentes.
+* <span class="tag is-warning is-light"><i>Perform name resolution</i></span> (Ejecutar resolución de nombres): separa el nombre científico en sus componentes y los valida con base en una o varias fuentes (resolución).
+* <span class="tag is-warning is-light"><i>Parse names only</i></span> (Separar nombres únicamente): separa el nombre científico en sus componentes sin evaluar la coincidencia del nombre con las fuentes.
 
-Seleccione la opción ```Perform name resolution```.
+Para efectos de este ejercicio, seleccione la opción <span class="tag is-warning is-light"><i>Perform name resolution</i></span>.
 
-```note
-Si selecciona la opción Parse names only no es posible escoger la fuente de datos pues no hay ningun proceso de validación.
-```
+<div class="notification is-info is-light">
+  <b>Nota:</b> Si selecciona la opción <b><i>Parse names only</i></b>, no es posible escoger la fuente de datos porque el proceso de validación no se lleva a cabo.
 
-### 2.2. Clasificación
+### 3.2. Clasificación
 
-La configuración de _```Family Classification```_ permite seleccionar las familias segun la clasificación APG IV. En estos momento solo está disponible la opción **TROPICOS**, sin embargo, otras pueden ser agregadas a futuro.
+La configuración de _**"Family Classification"**_ permite seleccionar las familias según la clasificación APG IV. En este momento, solo está disponible la opción <span class="tag is-warning is-light"><i>TROPICOS</i></span>. Sin embargo, otras opciones pueden ser agregadas a futuro.
 
-### 2.3. Fuente
+### 3.3. Fuente
 
-En la configuración de _```Source```_ puede escoger las fuentes sobre las cuales quiere revisar los datos. Puedes escoger una o varias fuentes. 
-* [Tropicos](https://www.tropicos.org/home)
+En la configuración de _**"Source"**_, puede elegir las fuentes base para contrastar los datos. Es posible elegir una o varias fuentes: 
+* [_Tropicos_](https://www.tropicos.org/home)
 * [USDA](https://plants.sc.egov.usda.gov/home/) 
 * [TPL](http://www.theplantlist.org/)
 
-Mantenga todas las fuentes seleccionadas. Por último haga clic en el botón _```submit```_ para iniciar la validación y espere a que se generen los resultados.
+Mantenga todas las fuentes seleccionadas. Por último, haga clic en el botón <span class="tag is-warning is-light"><i>submit</i></span> para iniciar la validación y espere a que se generen los resultados.
 
 
 ## Paso 4 - Revisión preliminar de resultados
 
-Esta revisión se realiza directamente en la herramienta, en la cuál verá una tabla con los resultados del proceso si la ejecución fue exitosa y algunas opciones de configuración adicionales (Fig 3).
-
+Esta revisión se realiza directamente en la herramienta, donde verá una tabla con los resultados del proceso si la ejecución fue exitosa y algunas opciones de configuración adicionales (Fig 3).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.3_TNRS_TablaResultados.png" width=800>
 
-<sup>_Figura 3. Configuraciones presentes en la revisión preliminar. A.Opciones adicionales de configuración; B. Columnas para la revisión de los resultados de validación; C. Paginación de los resultados ._</sup>
+<sup>_Figura 3. Configuraciones presentes en la revisión preliminar: A. Opciones adicionales de configuración, B. Columnas para la revisión de los resultados de validación, C. Paginación de los resultados._</sup>
 
 ### 4.1. Configuraciones adicionales
 
-Luego de realizar la validación se activan algunas opciones adicionales para filtrar los resultados, cambiar el puntaje de coincidencia y descargar la validación.
+Después de realizar la validación, se activan algunas opciones adicionales para filtrar los resultados, cambiar el puntaje de coincidencia y descargar la validación.
 
-* _```BEST MATCH SETTINS```_: Filtra los resultados según el puntaje de coincidencia (_Overall Score_) o según la taxonomía superior (_Higher Taxonomy_). 
+* <span class="tag is-warning is-light"><i>BEST MATCH SETTINGS</i></span>: filtra los resultados según el puntaje de coincidencia (_Overall Score_) o según la taxonomía superior (_Higher Taxonomy_). 
 
-```note
-Esta opción está temporalmente fuera de servicio por lo que no verá ningún cambio en los resultados si la usa.
-```
-  
-* _```MATCH```_: Permite cambiar el puntaje de coincidencia (_Match_) de la validación. Entre mas alto sea (cercano o igual a 1) la coincidencia tendrá que ser más exacta respecto a la fuente. Entre más cercano a 0 la coincidencia será menos precisa y le mostrará más resultados posibles de coincidencia (Fig 4).
+<div class="notification is-info is-light">
+  <b>Nota:</b> Esta opción está temporalmente fuera de servicio, así que no verá ningún cambio en los resultados si la usa.
+</div>
 
-Para este ejercicio va a dejar el valor por defecto (_```SET DEFAULT```_) que corresponde a 0.53.
+* <span class="tag is-warning is-light"><i>MATCH</i></span>: permite cambiar el puntaje de coincidencia (_Match_) de la validación. Entre mas alto sea (cercano o igual a 1), la coincidencia tendrá que ser más exacta respecto a la fuente. Entre más cercano a 0, la coincidencia será menos precisa y le mostrará más resultados posibles de contraste (Fig 4).
+
+Para este ejercicio, lo ideal es dejar el valor por defecto (<span class="tag is-warning is-light"><i>SET DEFAULT</i></span>), el cual corresponde a 0.53.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.4_TNRS_Threshold.png" width=800>
 
-
 <sup>_Figura 4. Cambio en el valor de MATCH._</sup>
 
-_```DOWNLOAD DATA```_: Descarga de los resultados. Al hacer clic en esta opción una ventana emergenten mostrará las opciones de descarga (se abordará a detalle en el paso 5).
+* <span class="tag is-warning is-light"><i>DOWNLOAD DATA</i></span>: descarga de los resultados. Al hacer clic en esta opción, una ventana emergenten mostrará las opciones de descarga (se abordará detalladamente en el paso 5).
 
-_```DOWNLOAD SETTINGS```_: Descargas un archivo de texto plano con todas las configuraciones de la validación.
+* <span class="tag is-warning is-light"><i>DOWNLOAD SETTINGS</i></span>: se descarga un archivo de texto plano con todas las configuraciones de la validación.
 
 
 ### 4.2. Tabla de resultados
 
-Los resultados se muestran en 8 columnas en las que puede organizar la información de forma ascendente o descendente haciendo clic en el nombre de la columna (Fig. 3B). Estas columnas son:
+Los resultados se muestran en 8 columnas, las cuales se enlistan a continuación. Puede organizar la información de forma ascendente o descendente, haciendo clic en el nombre de cada columna (Fig. 3B).
 
-* **Warnings**: Señala las inconsistencias del nombre validado a partir de un ícono de alerta (Fig 5). Haga clic en el símbolo para obtener una explicación adicional del problema. Las alertas más comunes son:
+* _**"Warnings"**_: señala las inconsistencias del nombre validado a partir de un ícono de alerta (Fig 5). Haga clic en el símbolo para obtener una explicación adicional del problema. Las alertas más comunes son:
 
-    - _```Ambiguos match```_: Hay más de un nombre sugerido con el mismo puntaje de coincidencia y estado taxonómico.
-    - _```Partial match```_: El nombre sugerido pertenece a una catageoría taxonómica superior que el nombre original.
-    - _```Better higher taxonomic match available```_: Otro nombre con menor puntaje de coincidencia tiene mejor coincidencia con la taxonomía superior. 
+    - <span class="tag is-light"><b><i>Ambiguos match</b></span></i>: hay más de un nombre sugerido con el mismo puntaje de coincidencia y estado taxonómico.
+    - <span class="tag is-light"><b><i>Partial match</b></span></i>: el nombre sugerido pertenece a una catageoría taxonómica superior a la del nombre original.
+    - <span class="tag is-light"><b><i>Better higher taxonomic match available</b></span></i>: existe otro nombre que tiene mejor coincidencia con la taxonomía superior. 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.5_TNRS_warning.png" width=800>
 
 <sup>_Figura 5. Ejemplos de problemas._</sup>
 
-* **Name submitted**: El nombre científico original ingresado en la herramienta.
-* **Name Matched**: Nombre científico con el mejor puntaje de coincidencia. En esta columna puede encontrar un mensaje ```+n more```, siendo ```+n``` el número de posibles coincidencias, lo que indica que fueron encontradas varias coincidencias para ese nombre. De clic al botón ```+n more```. Se mostrará una pestaña adicional en donde puede seleccionar que taxonomía quiere utilizar.
+* _**"Name submitted"**_: el nombre científico original ingresado en la herramienta.
+* _**"Name Matched"**_: Nombre científico con el mejor puntaje de coincidencia. En esta columna, puede encontrar un mensaje <span class="tag is-warning is-light"><i>+n more</i></span>. La expresión <span class="tag is-warning is-light"><i>+n</i></span> es el número de posibles coincidencias encontradas para ese nombre. Dé clic al botón <span class="tag is-warning is-light"><i>+n more</i></span> para ver la pestaña adicional donde puede seleccionar qué taxonomía prefiere.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.6_TNRS_changeselected.png" width=800>
 
 <sup>_Figura 6. Cambio en el tipo de taxonomía._</sup>
 
-```note
-De momento la herramienta está presentando fallas al momento de cambiar la taxonomía con la opción +n more.
-```
+<div class="notification is-info is-light">
+  <b>Nota:</b> Por el momento, la herramienta está presentando fallas al momento de cambiar la taxonomía con la opción <b><i>+n more</b></i>.
+</div>
 
-* **Source**: La fuente donde se encontró el nombre con el mejor puntaje.
-* **Overall Score**: Este puntaje indica la similitud entre el nombre original y el encontrado, donde 1 es el valor mas alto de coincidencia.
-* **Taxonomic Status**: :El estado taxonómico del nombre con el mejor puntaje (ej. aceptado, inválido, sinónimo ).
-* **Accepted Name**: El nombre canónico aceptado para el taxón.
-* **Details**: Muestra mayor detalle del resultado a partir de columnas con información adicional de la validación.
+* _**"Source"**_: la fuente donde se encontró el nombre con el mejor puntaje.
+* _**"Overall Score"**_: un puntaje que indica la similitud entre el nombre original y el encontrado, donde 1 es el valor mas alto de coincidencia.
+* _**"Taxonomic Status"**_: el estado taxonómico del nombre con el mejor puntaje. Por ejemplo, aceptado, inválido, sinónimo, etc.
+* _**"Accepted Name"**_: el nombre canónico aceptado para el taxón.
+* _**"Details"**_: muestra mayor detalle de la validación a partir de columnas con información adicional.
 
-Finalmente se puede modificar el número de filas visualizadas por página y moverse entre las diferentes páginas (Fig. 3C). 
-
+Finalmente, se puede modificar el número de filas visualizadas por página y navegar entre las diferentes páginas (Fig. 3C). 
 
 ## Paso 5 - Descarga de resultados
 
-Haga clic en el botón _```DOWNLOAD DATA```_, en la ventana emergente encontrará las siguientes opciones: 
+Haga clic en el botón <span class="tag is-warning is-light"><i>DOWNLOAD DATA</i></span>. Posteriormente, encontrará las siguientes secciones en la ventana emergente: 
 
+* _**"File Name"**_: nombre del archivo de descarga. Por defecto, aparece <span class="tag is-light"><b>tnrs_result</b>.
 
-* _**File Name**_: Nombre del archivo de descarga. Por defecto ```tnrs_result```.
+* _**"Download format"**_: formato de descarga del archivo. Esta sección brinda dos opciones:
 
-* _**Download format**_: Formato de descarga del archivo, la herramienta brinda dos opciones:
+    * <span class="tag is-warning is-light"><i>CSV</i></span>: del inglés "_Comma separted value_", es un archivo de texto plano separado por comas (,). 
+    * <span class="tag is-warning is-light"><i>TSV</i></span>: del inglés "_Tab separted value_", es un achivo de texto plano separado por tabuladores.
 
-    * ```CSV```: Del inglés "_Comma separted value_". Es un archivo de texto plano separado por comas (,). 
-    * ```TSV```: Del inglés "_Tab separted value_". Archivo de texto plano separado por tabuladores.
+* _**Results to Download**_: permite seleccionar el tipo de resultado a descargar. Esta sección brinda dos opciones:
 
+    * <span class="tag is-warning is-light"><i>Best Matches Only</i></span>: en caso de que un nombre científico tenga varias coincidencias, se descargará el nombre científico con el puntaje de coincidencia más alto.
+    * <span class="tag is-warning is-light"><i>All Matches</i></span>: en caso de que un nombre científico tenga varias coincidencias, se descargan todas las alternativas para dicho nombre (<span class="tag is-warning is-light"><i>+n more</i></span>).
 
-* _**Results to Download**_: Permite seleccionar el tipo de resultado a descargar. La herramienta tiene dos opciones:
-
-    * ```Best matches only```: En el caso de que un nombre científico tenga varias coincidencias, se descargará el nombre científico con el puntaje de coincidencia mas alto.
-    * ```All mathces```: En el caso de que un nombre científico tenga varias coincidencias, se descargan todas las posibles coincidencias para un mismo nombre (```+n more```).
-
-Configure las descargas como se muestra en la Figura 7 y haga clic en _```DOWNLOAD```_.
+Configure las descargas como se muestra en la Figura 7 y haga clic en <span class="tag is-warning is-light"><i>DOWNLOAD</i></span>.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.7_TNRS_Download.png" width=800>
 
@@ -190,74 +182,72 @@ Configure las descargas como se muestra en la Figura 7 y haga clic en _```DOWNLO
 
 ## Paso 6 - Visualización de resultados
 
-Los resultados se descargarán en un archivo de texto plano, ábralos en un editor de texto como Excel o en OpenRefine. Si necesita una guía de como abrir este tipo de archivo en Excel, lo invitamos a consultar la siguiente [Guía de importación de resultados en Excel](https://sib-colombia.github.io/Formacion/LAB/otros/txt_to_excel.html)
+Los resultados se descargarán en un archivo de texto plano. Por consiguiente, puede abrirlos en un editor de texto como Excel u _OpenRefine_. Si necesita una guía de cómo abrir este tipo de archivo en Excel, lo invitamos a consultar la [Guía de importación de resultados en Excel](https://sib-colombia.github.io/Formacion/LAB/otros/txt_to_excel.html)
 
 ## Paso 7 - Revisión de resultados y modificación de datos
 
-El archivo resultado tiene un total de 47 columnas, entre las que se encuentran las 7 columnas que se vieron en la previsualización de resultados y varias columnas adicionales indicando el resultado de la taxonomía.
+El archivo de la validación tiene un total de 47 columnas. Entre estas, se encuentran las 7 columnas vistas en la previsualización de resultados y varias columnas adicionales que indican la taxonomía obtenida.
 
-```tip
-La herramienta descarga el resultado por nombre científico único. Es decir. en este ejercicio se cargaron en la herramienta 34 nombres científicos pero solo se descargan 31 filas con nombres científicos únicos.
-```
+<div class="notification is-info is-light">
+  <b>Tip:</b> La herramienta descarga el resultado por nombre científico único. Es decir, aunque en este ejercicio se cargaron en la herramienta 34 nombres científicos, solo se descargan las 31 filas con nombres científicos únicos.
+</div>
 
-A continuación se describen algunas columnas adicionales que encontrará en la descarga que le permitirán validar los resultados con mayor detalle:
+A continuación, se describen algunas de las columnas adicionales que encontrará en la descarga para validar los resultados con mayor detalle:
 
-- _```Author_matched```_:Autoría del nombre científico con el mejor puntaje de coincidencia.
-- _```Genus_submitted```_: El género ingresado.
-- _```Genus_matched```_: El género con el mejor puntaje de coincidencia.
-- _```Specific_epithet_submitted```_: El epíteto específico ingresado.
-- _```Specific_epithet_matched```_: El género con el mejor puntaje de 
-- _```Accepted_name```_:El nombre canónico aceptado para el taxón.
-- _```Accepted_name_author```_:Autor del nombre canónico aceptado para el taxón.
-- _```Accepted_family```_:Familia aceptada para el nombre con el mejor puntaje.
-- _```Accepted_name_rank```_:Caegoría taxonómica del nombre aceptado del taxón.
-- _```Source```_:La fuente donde se encontró el nombre con el mejor puntaje.
-- _```Warnings```_:Si no hay coincidencias aparecerá una alerta.
-- _```Accepted_name_lsid```_:El identificador del nombre aceptado para el taxón. Sólo cuando la fuente es GCC, se obtiene este identificador.
+- _**"Author_matched"**_: autoría del nombre científico con el mayor puntaje de coincidencia.
+- _**"Genus_submitted"**_: género ingresado.
+- _**"Genus_matched"**_: género con el mejor puntaje de coincidencia.
+- _**"Specific_epithet_submitted"**_: epíteto específico ingresado.
+- _**"Specific_epithet_matched"**_: género con el mayor puntaje de coincidencia.
+- _**"Accepted_name"**_: nombre canónico aceptado para el taxón.
+- _**"Accepted_name_author"**_: autor del nombre canónico aceptado para el taxón.
+- _*"Accepted_family"**_: familia aceptada para el nombre con el mayor puntaje.
+- _**"Accepted_name_rank"**_: categoría taxonómica del nombre aceptado del taxón.
+- _**"Source"**_: fuente donde se encontró el nombre con el mayor puntaje.
+- _**"Warnings"**_: si no hay coincidencias, aparecerá una alerta.
+- _**"Accepted_name_lsid"**_: identificador del nombre aceptado para el taxón. Este identificador se obtiene solo cuando la fuente es GCC.
 
 
-Luego de familiarizarse con los resultados de la tabla realice los siguiente ajustes en el archivo ```Datos_TNRS.xlsx```:
+Luego de familiarizarse con los resultados de la tabla, realice los siguiente ajustes en el archivo <FONT FACE="monospace"><b>«Datos_TNRS.xlsx»</b></FONT>:
 
-* Identifique el nombre científico validado como una sinonimía y realice los respectivos ajustes. Tenga en cuenta revisar también los elementos _```genus```_ y _```specificEpithet```_ si realizó cambios en _```scientificName```_.
+* Identifique el nombre científico validado como una sinonimía y realice los respectivos ajustes. Tenga en cuenta revisar también los elementos <span class="tag is-success is-light"><i>genus</i></span> y <span class="tag is-success is-light"><i>specificEpithet</i></span> si realizó cambios en <span class="tag is-success is-light"><i>scientificName</i></span>.
 
-* En los géneros hay 3 errores de tipeo. Identifiquelos y ajústelos en el elemento _```genus```_. 
+* En los géneros hay 3 errores de tipeo, identifiquelos y ajústelos en el elemento <span class="tag is-success is-light"><i>genus</i></span>. 
 
-* En los epítetos específicos hay 3 errores de tipeo. Identifiquelos y ajústelos en el elemento _```specificEpithet```_.
+* En los epítetos específicos hay 3 errores de tipeo, identifiquelos y ajústelos en el elemento <span class="tag is-success is-light"><i>specificEpithet</i></span>.
 
-* Ajuste los nombres científicos (_```scienficName```_) de acuerdo a los anteriores ajustes.
+* Ajuste los nombres científicos (<span class="tag is-success is-light"><i>scientificName</i></span>), de acuerdo a los anteriores ajustes.
 
-* Complete las autorias de los nombres cientítificos en el elemento _```scienficNameAuthorship```_.
+* Complete las autorias de los nombres cientítificos en el elemento <span class="tag is-success is-light"><i>scienficNameAuthorship</i></span>.
 
-* Ajuste las categorías taxonómicas según corresponda al nombre científico validado en el elemento _```taxonRank```_.
+* Ajuste las categorías taxonómicas según corresponda al nombre científico validado en el elemento <span class="tag is-success is-light"><i>taxonRank</i></span>.
 
-¿Identificó otros ajustes a realizar en el conjunto de datos a partir de la validación?.
+¿Identificó otros ajustes a realizar en el conjunto de datos a partir de la validación?
 
-```note
-La herramienta no provee una validación de la taxonomía superior más allá de la familia, por lo cuál es necesario utilizar otras herramientas para completar la información taxonómica superior si es requerido.
-```
-
+<div class="notification is-info is-light">
+  <b>Nota:</b> La herramienta no provee una validación de la taxonomía superior más allá de la familia. Por lo tanto, es necesario utilizar otras herramientas para completar la información taxonómica superior si se requiere.
+</div>
 
 ## Paso 8 - Verificación del resultado
 
-Compare sus resultados con el siguiente archivo validado según las definiciones del estándar, verifique en que acertó y que puede mejorar.
+Descargue y compare el siguiente archivo, validado según las definiciones del estándar Darwin Core, con el archivo que trabajó en el laboratorio e identifique aciertos y oportunidades de mejora.
 
 **¿Qué diferencias encontró con sus resultados?**
 
-* [Descargue el archivo validado](https://github.com/SIB-Colombia/Formacion/raw/master/LAB/lab02/_docs/Solucion_Datos_TNRS.xlsx)
+* [Archivo validado](https://github.com/SIB-Colombia/Formacion/raw/master/LAB/lab02/_docs/Solucion_Datos_TNRS.xlsx)
 
 
-****
-**¡Felicitaciones!**
-Terminó la revisión de los nombres científicos con la herramienta TNRS.
+**¡Felicitaciones!** Terminó la revisión de los nombres científicos con la herramienta TNRS.
 
-****
 
 **Atribución y uso de los laboratorios**
 
 ![](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) te permite usar, redistribuir y construir sobre estos contenidos libremente. :open_hands: Queremos que compartas estos laboratorios y que juntos logremos datos sobre biodiversidad de mejor calidad.
+La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, redistribuir y construir sobre estos contenidos libremente. 
 
+¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
+  
 **Citación sugerida**
 
 > Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
