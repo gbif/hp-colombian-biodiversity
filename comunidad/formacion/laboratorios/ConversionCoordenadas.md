@@ -11,24 +11,6 @@ toc: true
 
 **Objetivo**
 
- <input type="checkbox"  id="spoiler" /> 
-  <label for="Objetivo">Spoiler</label>
-<div class="spoiler">
-  Convertir las coordenadas geográficas que están en sistema de Grados, minutos, segundos (GMS) a grados decimales, de manera automática y masiva.
-  </div>
-  
-<input onclick="window.location='#mostrar1';" type="button" value="Mostrar"/>
-<input onclick="window.location='#';" type="button" value="Ocultar" />
-<div id="spoiler1">
-<div id="mostrar1">
-Convertir las coordenadas geográficas que están en sistema de Grados, minutos, segundos (GMS) a grados decimales, de manera automática y masiva.
-</div>
-</div>
-<style>
-#spoiler1 > div {display: none;}
-#spoiler1 > div:target {display: block;}
-</style>
-
 Convertir las coordenadas geográficas que están en sistema de Grados, minutos, segundos (GMS) a grados decimales, de manera automática y masiva.
 
 **Introducción**
