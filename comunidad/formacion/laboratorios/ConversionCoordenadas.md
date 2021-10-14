@@ -2,7 +2,7 @@
 layout: documentation
 permalink: /formacion/laboratorios/ConversionCoordenadas
 title: "Conversión Coordenadas"
-description: "Objetivo: Convertir coordenadas geográficas en sistema de Grados, minutos, segundos (GMS) a grados decimales, de manera automática y masiva."
+description: "Convertir las coordenadas geográficas que están en sistema de Grados, minutos, segundos (GMS) a grados decimales, de manera automática y masiva."
 sideNavigation: sidenav_laboratorios.terms
 toc: true
 ---
@@ -10,12 +10,14 @@ toc: true
 # Conversión Coordenadas
 
 **Objetivo**
-
-Convertir coordenadas geográficas en sistema de Grados, minutos, segundos (GMS) a grados decimales, de manera automática y masiva.
+<button class="button" onclick="if(document.getElementById('spoiler1') .style.display=='none') {document.getElementById('spoiler1') .style.display=''; this.value = 'Ocultar'; }else{document.getElementById('spoiler1') .style.display='none';this.value = 'Mostrar'; }" value="Mostrar"/><div id="spoiler1" style="display:none">
+Convertir las coordenadas geográficas que están en sistema de Grados, minutos, segundos (GMS) a grados decimales, de manera automática y masiva.
+</div>
+Convertir las coordenadas geográficas que están en sistema de Grados, minutos, segundos (GMS) a grados decimales, de manera automática y masiva.
 
 **Introducción**
 
-Video tutorial de la herramienta, si lo prefieres pudes realizar la guía siguiendo el paso a paso sin necesidad de ver el video.
+Video introductorio de la herramienta, el cual da un contexto general sobre su uso. Si lo prefiere, puede seguir el paso a paso de la guía directamente.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ngOPiIOpwU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
