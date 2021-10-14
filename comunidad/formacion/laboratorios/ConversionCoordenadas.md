@@ -10,10 +10,11 @@ toc: true
 # Conversión Coordenadas
 
 **Objetivo**
-<button class="button" onclick="if(document.getElementById('spoiler1') .style.display=='none') {document.getElementById('spoiler1') .style.display=''; this.value = 'Ocultar'; }else{document.getElementById('spoiler1') .style.display='none';this.value = 'Mostrar'; }" value="Mostrar"/><div id="spoiler1" style="display:none">
+<div id="spoiler" style="display: none;">
 Convertir las coordenadas geográficas que están en sistema de Grados, minutos, segundos (GMS) a grados decimales, de manera automática y masiva.
 </div>
 Convertir las coordenadas geográficas que están en sistema de Grados, minutos, segundos (GMS) a grados decimales, de manera automática y masiva.
+<button class="button is-white">Objetivo</button>
 
 **Introducción**
 
