@@ -186,9 +186,9 @@ También puede obtener el mensaje «Se presume longitud negativa», pero es meno
 <input onclick="window.location='#';" type="button" value="Ocultar" />
 <div id="spoiler1">
 <div id="mostrar1">
-**Problema**: hay una coincidencia parcial del nombre cíentífico y el [árbol taxonómico de GBIF](https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c). Por lo general, esta alerta aparece cuando hay errores de tipeo menores en el nombre científico.
-
-**Solución**: asegúrese de que el nombre científico esté escrito correctamente.
+<b>Problema</b>: hay una coincidencia parcial del nombre cíentífico y el [árbol taxonómico de GBIF](https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c). Por lo general, esta alerta aparece cuando hay errores de tipeo menores en el nombre científico.
+<br/>
+<b>Solución</b>: asegúrese de que el nombre científico esté escrito correctamente.
  </div>
 </div>
 <style>
