@@ -165,7 +165,7 @@ Finalmente, se puede modificar el número de filas visualizadas por página y na
 
 Haga clic en el botón <span class="tag is-warning is-light"><i>DOWNLOAD DATA</i></span>. Posteriormente, encontrará las siguientes secciones en la ventana emergente: 
 
-* _**"File Name"**_: nombre del archivo de descarga. Por defecto, aparece <span class="tag is-light"><b>tnrs_result</b>.
+* _**"File Name"**_: nombre del archivo de descarga. Por defecto, aparece <span class="tag is-light"><b>tnrs_result</b></span>.
 
 * _**"Download format"**_: formato de descarga del archivo. Esta sección brinda dos opciones:
 
@@ -174,7 +174,7 @@ Haga clic en el botón <span class="tag is-warning is-light"><i>DOWNLOAD DATA</i
 
 * _**Results to Download**_: permite seleccionar el tipo de resultado a descargar. Esta sección brinda dos opciones:
 
-    * <span class="tag is-warning is-light"><i>Best Matches Only</i></span>: en caso de que un nombre científico tenga varias coincidencias, se descargará el nombre científico con el puntaje de coincidencia más alto.
+    * <span class="tag is-warning is-light"><i>Best Matches Only</i></span>: en caso de que un nombre científico tenga varias coincidencias, se descargará la alternativa con el puntaje de coincidencia más alto.
     * <span class="tag is-warning is-light"><i>All Matches</i></span>: en caso de que un nombre científico tenga varias coincidencias, se descargan todas las alternativas para dicho nombre (<span class="tag is-warning is-light"><i>+n more</i></span>).
 
 Configure las descargas como se muestra en la Figura 7 y haga clic en <span class="tag is-warning is-light"><i>DOWNLOAD</i></span>.
@@ -186,14 +186,14 @@ Configure las descargas como se muestra en la Figura 7 y haga clic en <span clas
 
 ## Paso 6 - Visualización de resultados
 
-Los resultados se descargarán en un archivo de texto plano. Por consiguiente, puede abrirlos en un editor de texto como Excel u _OpenRefine_. Si necesita una guía de cómo abrir este tipo de archivo en Excel, lo invitamos a consultar la [Guía de importación de resultados en Excel](https://sib-colombia.github.io/Formacion/LAB/otros/txt_to_excel.html)
+Los resultados se descargarán como un archivo de texto plano. Por consiguiente, puede abrirlos en un editor de texto como Excel u _OpenRefine_. Si necesita una guía de cómo abrir este tipo de archivo en Excel, lo invitamos a consultar la [Guía de importación de resultados en Excel](https://sib-colombia.github.io/Formacion/LAB/otros/txt_to_excel.html).
 
 ## Paso 7 - Revisión de resultados y modificación de datos
 
 El archivo de la validación tiene un total de 47 columnas. Entre estas, se encuentran las 7 columnas vistas en la previsualización de resultados y varias columnas adicionales que indican la taxonomía obtenida.
 
 <div class="notification is-info is-light">
-  <b>Tip:</b> La herramienta descarga el resultado por nombre científico único. Es decir, aunque en este ejercicio se cargaron en la herramienta 34 nombres científicos, solo se descargan las 31 filas con nombres científicos únicos.
+  <b>Tip:</b> La herramienta descarga solamente el resultado correspondiente a los nombres científicos únicos. Es decir, aunque en este ejercicio se cargaron 34 nombres científicos, solo se descargarán las 31 filas con nombres científicos únicos.
 </div>
 
 A continuación, se describen algunas de las columnas adicionales que encontrará en la descarga para validar los resultados con mayor detalle:
@@ -205,26 +205,26 @@ A continuación, se describen algunas de las columnas adicionales que encontrar�
 - _**"Specific_epithet_matched"**_: género con el mayor puntaje de coincidencia.
 - _**"Accepted_name"**_: nombre canónico aceptado para el taxón.
 - _**"Accepted_name_author"**_: autor del nombre canónico aceptado para el taxón.
-- _*"Accepted_family"**_: familia aceptada para el nombre con el mayor puntaje.
+- _**"Accepted_family"**_: familia aceptada para el nombre con el mayor puntaje.
 - _**"Accepted_name_rank"**_: categoría taxonómica del nombre aceptado del taxón.
 - _**"Source"**_: fuente donde se encontró el nombre con el mayor puntaje.
 - _**"Warnings"**_: si no hay coincidencias, aparecerá una alerta.
-- _**"Accepted_name_lsid"**_: identificador del nombre aceptado para el taxón. Este identificador se obtiene solo cuando la fuente es GCC.
+- _**"Accepted_name_lsid"**_: identificador del nombre aceptado para el taxón, el cual se obtiene solo cuando la fuente es GCC.
 
 
 Luego de familiarizarse con los resultados de la tabla, realice los siguiente ajustes en el archivo <FONT FACE="monospace"><b>«Datos_TNRS.xlsx»</b></FONT>:
 
-* Identifique el nombre científico validado como una sinonimía y realice los respectivos ajustes. Tenga en cuenta revisar también los elementos <span class="tag is-success is-light"><i>genus</i></span> y <span class="tag is-success is-light"><i>specificEpithet</i></span> si realizó cambios en <span class="tag is-success is-light"><i>scientificName</i></span>.
+* Identifique el nombre científico validado como una sinonimia y realice los respectivos ajustes. Tenga en cuenta revisar también los elementos <span class="tag is-success is-light"><i>genus</i></span> y <span class="tag is-success is-light"><i>specificEpithet</i></span> si realizó cambios en <span class="tag is-success is-light"><i>scientificName</i></span>.
 
 * En los géneros hay 3 errores de tipeo, identifiquelos y ajústelos en el elemento <span class="tag is-success is-light"><i>genus</i></span>. 
 
 * En los epítetos específicos hay 3 errores de tipeo, identifiquelos y ajústelos en el elemento <span class="tag is-success is-light"><i>specificEpithet</i></span>.
 
-* Ajuste los nombres científicos (<span class="tag is-success is-light"><i>scientificName</i></span>), de acuerdo a los anteriores ajustes.
+* Ajuste los nombres científicos (<span class="tag is-success is-light"><i>scientificName</i></span>), de acuerdo a los anteriores cambios.
 
 * Complete las autorias de los nombres cientítificos en el elemento <span class="tag is-success is-light"><i>scienficNameAuthorship</i></span>.
 
-* Ajuste las categorías taxonómicas según corresponda al nombre científico validado en el elemento <span class="tag is-success is-light"><i>taxonRank</i></span>.
+* Ajuste las categorías taxonómicas al nombre científico validado en el elemento <span class="tag is-success is-light"><i>taxonRank</i></span>, según corresponda.
 
 ¿Identificó otros ajustes a realizar en el conjunto de datos a partir de la validación?
 
@@ -259,4 +259,4 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, 
 
 **Referencias**
 
-Boyle, B., Hopkins, N., Lu, Z., Garay, J. A. R., Mozzherin, D., Rees, T., Matasci, N., Narro, M. L., Piel, W. H., McKay, S. J., Lowry, S., Freeland, C., Peet, R. K., & Enquist, B. J. (2013). The taxonomic name resolution service: an online tool for automated standardization of plant names. BMC Bioinformatics, 14(1), 16. https://doi.org/10.1186/1471-2105-14-16 
+Boyle, B., Hopkins, N., Lu, Z., Garay, J. A. R., Mozzherin, D., Rees, T., Matasci, N., Narro, M. L., Piel, W. H., McKay, S. J., Lowry, S., Freeland, C., Peet, R. K., & Enquist, B. J. (2013). _The taxonomic name resolution service: an online tool for automated standardization of plant names_. BMC _Bioinformatics_, 14(1), 16. [https://doi.org/10.1186/1471-2105-14-16](https://doi.org/10.1186/1471-2105-14-16).
