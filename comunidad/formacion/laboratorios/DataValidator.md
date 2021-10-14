@@ -133,11 +133,11 @@ Haga clic sobre las flechas de cada una de las alertas para desglosar de los reg
 **Las alertas se agrupan en 3 categorías según su color:**
 
 
-* Alertas de color <span class = "has-text-red">**ROJO**</span>: indican un error estructural que no permite la indexación del recurso y debe ser corregido.
+* Alertas de color <span class = "has-text-is-$red">**ROJO**</span>: indican un error estructural que no permite la indexación del recurso y debe ser corregido.
 
-* Alertas de color <span class = "has-text-yellow">**AMARILLO**</span>: indican potenciales errores que deben ser revisados en detalle para determinar si se debe o no corregir los datos.
+* Alertas de color <span class = "has-text-is-$yellow">**AMARILLO**</span>: indican potenciales errores que deben ser revisados en detalle para determinar si se debe o no corregir los datos.
 
-* Alertas de color <span class = "has-text-grey-dark">**GRIS**</span>: indican el proceso de interpretación realizado por el validador. En la mayoría de los casos, no requieren ajustes importantes en los datos.
+* Alertas de color <span class = "has-text-is-$grey-dark">**GRIS**</span>: indican el proceso de interpretación realizado por el validador. En la mayoría de los casos, no requieren ajustes importantes en los datos.
 
 ### 3.4. Revisión de alertas
 
