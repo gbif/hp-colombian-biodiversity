@@ -182,7 +182,19 @@ También puede obtener el mensaje «Se presume longitud negativa», pero es meno
 </div>
 
 
-**Alerta**: Coincidencia aproximada del taxón.
+**Alerta**: Coincidencia aproximada del taxón. <input onclick="window.location='#mostrar1';" type="button" value="Mostrar"/>
+<input onclick="window.location='#';" type="button" value="Ocultar" />
+<div id="spoiler1">
+<div id="mostrar1">
+**Problema**: hay una coincidencia parcial del nombre cíentífico y el [árbol taxonómico de GBIF](https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c). Por lo general, esta alerta aparece cuando hay errores de tipeo menores en el nombre científico.
+
+**Solución**: asegúrese de que el nombre científico esté escrito correctamente.
+ </div>
+</div>
+<style>
+#spoiler1 > div {display: none;}
+#spoiler1 > div:target {display: block;}
+</style>
 
 **Problema**: hay una coincidencia parcial del nombre cíentífico y el [árbol taxonómico de GBIF](https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c). Por lo general, esta alerta aparece cuando hay errores de tipeo menores en el nombre científico.
 
