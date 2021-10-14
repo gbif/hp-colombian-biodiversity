@@ -137,7 +137,7 @@ Las alertas se agrupan en 3 categorías según su color:
 
 * Alertas de color <span class="tag is-warning"><b>AMARILLO</b></span>: indican potenciales errores que deben ser revisados en detalle para determinar si se debe o no corregir los datos.
 
-* Alertas de color <span class="tag is-dark is-light"><b>GRIS</b></span>: indican el proceso de interpretación realizado por el validador. En la mayoría de los casos, no requieren ajustes importantes en los datos.
+* Alertas de color <span class="tag is-light"><b>GRIS</b></span>: indican el proceso de interpretación realizado por el validador. En la mayoría de los casos, no requieren ajustes importantes en los datos.
 
 ### 3.4. Revisión de alertas
 
@@ -195,7 +195,7 @@ También puede obtener el mensaje «Se presume longitud negativa», pero es meno
 - **Solución**: convierta las fechas al formato ISO 8601.
 
 
-<span class="tag is-dark is-light"><b>Alerta</b></span> **Datum geodésico WGS84 asumido**
+<span class="tag is-light"><b>Alerta</b></span> **Datum geodésico WGS84 asumido**
 
 - **Problema**: el datum geodésico no fue documentado, pero el validador lo identificó como WGS84.
 
@@ -204,7 +204,7 @@ También puede obtener el mensaje «Se presume longitud negativa», pero es meno
 - **Solución 2**: si las coordenadas tienen un datum diferente a WGS84, documéntelo para evitar que el validador lo asuma.
 
 
-<span class="tag is-dark is-light"><b>Alerta</b></span> **Coordenadas redondeadas**
+<span class="tag is-light"><b>Alerta</b></span> **Coordenadas redondeadas**
 
 - **Problema**: las coordenadas decimales tienen más de 5 cifras significativas. Más allá de 6 cifras, las coordenadas no mejoran su precisión, por lo que es más eficiente redondearlas.
 
