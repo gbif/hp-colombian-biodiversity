@@ -145,71 +145,71 @@ Revise todas las alertas de validación y ajuste los datos de acuerdo a estas (F
 
 **A continuación se explican las alertas más frecuentes, cómo interpretarlas y cómo solucionarlas:**
 
-<span class="tag is-warning"><b>Alerta</b></span>: Base del registro inválida.
+<span class="tag is-warning"><b>Alerta</b></span>: **Base del registro inválida**.
 
-**Problema**: la base del registro (<span class="tag is-success is-light"><i>basisOfRecord</i></span>) no cumple con los requerimientos del estándar.
+- **Problema**: la base del registro (<span class="tag is-success is-light"><i>basisOfRecord</i></span>) no cumple con los requerimientos del estándar.
 
-**Solución 1**: revise que todos los registros (filas) tengan este elemento documentado.
+- **Solución 1**: revise que todos los registros (filas) tengan este elemento documentado.
 
-**Solución 2**: documente el elemento con base en el vocabulario controlado en inglés (<span class="tag is-success is-light"><i>HumanObservation</i></span>, <span class="tag is-success is-light"><i>PreservedSpecimen</i></span>, <span class="tag is-success is-light"><i>LivingSpecimen</i></span>, <span class="tag is-success is-light"><i>MachineObservation</i></span>, <span class="tag is-success is-light"><i>MaterialSample</i></span>, <span class="tag is-success is-light"><i>FossilSpecimen</i></span>).
-
-
-**Alerta**: Coordenada inválida.
-
-**Problema**: las coordenadas documentadas no se encuentran estandarizadas en coordenadas decimales o las coordenadas originales no se pueden interpretar.
-
-**Solución**: asegúrese de que los elementos _Darwin Core_ <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span> estén documentados con las coordenadas en formato decimal. Además, corrobore que las coordenadas originales (<span class="tag is-success is-light"><i>verbatimCoordinates</i></span>) hayan sido digitalizadas adecuadamente. 
+- **Solución 2**: documente el elemento con base en el vocabulario controlado en inglés (<span class="tag is-success is-light"><i>HumanObservation</i></span>, <span class="tag is-success is-light"><i>PreservedSpecimen</i></span>, <span class="tag is-success is-light"><i>LivingSpecimen</i></span>, <span class="tag is-success is-light"><i>MachineObservation</i></span>, <span class="tag is-success is-light"><i>MaterialSample</i></span>, <span class="tag is-success is-light"><i>FossilSpecimen</i></span>).
 
 
-**Alerta**: Se presume latitud negativa.
+<span class="tag is-warning">Warning</span>: **Coordenada inválida**.
 
-**Problema**: posible error en la latitud. Aunque se documentó como latitud sur, posiblemente corresponda a latitud norte (en coordenadas decimales, el norte se indica con un signo menos antes de la latitud).
+- **Problema**: las coordenadas documentadas no se encuentran estandarizadas en coordenadas decimales o las coordenadas originales no se pueden interpretar.
 
-**Solución**: asegúrese de que los elementos _Darwin Core_ <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span> estén documentados con las coordenadas en formato decimal. Además, corrobore que las coordenadas originales (<span class="tag is-success is-light"><i>verbatimCoordinates</i></span> y <span class="tag is-success is-light"><i>verbatimLongitude</i></span>) hayan sido digitalizadas adecuadamente. 
+- **Solución**: asegúrese de que los elementos _Darwin Core_ <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span> estén documentados con las coordenadas en formato decimal. Además, corrobore que las coordenadas originales (<span class="tag is-success is-light"><i>verbatimCoordinates</i></span>) hayan sido digitalizadas adecuadamente. 
+
+
+<span class="tag is-warning">Warning</span>: **Se presume latitud negativa**.
+
+- **Problema**: posible error en la latitud. Aunque se documentó como latitud sur, posiblemente corresponda a latitud norte (en coordenadas decimales, el norte se indica con un signo menos antes de la latitud).
+
+- **Solución**: asegúrese de que los elementos _Darwin Core_ <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span> estén documentados con las coordenadas en formato decimal. Además, corrobore que las coordenadas originales (<span class="tag is-success is-light"><i>verbatimCoordinates</i></span> y <span class="tag is-success is-light"><i>verbatimLongitude</i></span>) hayan sido digitalizadas adecuadamente. 
 
 También puede obtener el mensaje «Se presume longitud negativa», pero es menos común para los datos de Colombia y probablemente corresponda a un problema de digitalización.
 
-**Alerta**: Coincidencia del taxón - taxonomía superior.
+<span class="tag is-warning">Warning</span>: **Coincidencia del taxón - taxonomía superior**.
 
-**Problema**: el nombre científico fue validado a un nivel taxonómico superior al documentado. Por ejemplo, si el nombre científico corresponde a una especie (género + epíteto específico), significa que el validador solo pudo interpretar el género mas no el epíteto específico.
+- **Problema**: el nombre científico fue validado a un nivel taxonómico superior al documentado. Por ejemplo, si el nombre científico corresponde a una especie (género + epíteto específico), significa que el validador solo pudo interpretar el género mas no el epíteto específico.
 
-**Solución 1**: revise que el nombre científico no contenga calificadores de identificación (*cf.*, *aff.*) u otros calificadores como *sp*.
+- **Solución 1**: revise que el nombre científico no contenga calificadores de identificación (*cf.*, *aff.*) u otros calificadores como *sp*.
 
-**Solución 2**: revise que el nombre científico esté escrito correctamente.
+- **Solución 2**: revise que el nombre científico esté escrito correctamente.
 
 <div class="notification is-info is-light">
   <b>Nota:</b> Es posible que algunos nombres válidos y correctamente escritos sean marcados con esta alerta si no se encuentran en el árbol taxonómico de GBIF. Esto es común en el caso de especíes endémicas o recientemente descritas. En tal caso, ignore la alerta.
 </div>
 
+<span class="tag is-warning">Warning</span>: **Coincidencia aproximada del taxón**.
 
-**Alerta**: Coincidencia aproximada del taxón.
+- **Problema**: hay una coincidencia parcial del nombre cíentífico y el [árbol taxonómico de GBIF](https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c). Por lo general, esta alerta aparece cuando hay errores de tipeo menores en el nombre científico.
 
-**Problema**: hay una coincidencia parcial del nombre cíentífico y el [árbol taxonómico de GBIF](https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c). Por lo general, esta alerta aparece cuando hay errores de tipeo menores en el nombre científico.
-
-**Solución**: asegúrese de que el nombre científico esté escrito correctamente.
-
-
-**Alerta**: Fecha registrada inválida.
-
-**Problema**: las fechas proporcionadas no cumplen con el formato ISO 8601: *AAAA-MM-DD; AAAA-MM; AAAA; AAAA-MM-DD/AAAA-MM-DD*.
-
-**Solución**: convierta las fechas al formato ISO 8601.
+- **Solución**: asegúrese de que el nombre científico esté escrito correctamente.
 
 
-**Alerta**: Datum geodésico WGS84 asumido.
+<span class="tag is-warning">Warning</span>: **Fecha registrada inválida**.
 
-**Problema**: el datum geodésico no fue documentado, pero el validador lo identificó como WGS84.
+- **Problema**: las fechas proporcionadas no cumplen con el formato ISO 8601: *AAAA-MM-DD; AAAA-MM; AAAA; AAAA-MM-DD/AAAA-MM-DD*.
 
-**Solución 1**: documentar el elemento DwC <span class="tag is-success is-light"><i>geodeticDatum</i></span> como WGS84.
-
-**Solución 2**: si las coordenadas tienen un datum diferente a WGS84, documéntelo para evitar que el validador lo asuma.
+- **Solución**: convierta las fechas al formato ISO 8601.
 
 
-**Alerta**: Coordenadas redondeadas.
+<span class="tag is-warning">Warning</span>: **Datum geodésico WGS84 asumido**.
 
-**Problema**: las coordenadas decimales tienen más de 5 cifras significativas. Más allá de 6 cifras, las coordenadas no mejoran su precisión, por lo que es más eficiente redondearlas.
+- **Problema**: el datum geodésico no fue documentado, pero el validador lo identificó como WGS84.
 
-**Solución 1**: no es necesario ajustar las coordenadas, ya que es solo una alerta de interpretación. Sin embargo, si lo desea, puede hacer cambios en el conjunto de datos.
+- **Solución 1**: documentar el elemento DwC <span class="tag is-success is-light"><i>geodeticDatum</i></span> como WGS84.
+
+- **Solución 2**: si las coordenadas tienen un datum diferente a WGS84, documéntelo para evitar que el validador lo asuma.
+
+
+<span class="tag is-warning">Warning</span>: **Coordenadas redondeadas**.
+
+- **Problema**: las coordenadas decimales tienen más de 5 cifras significativas. Más allá de 6 cifras, las coordenadas no mejoran su precisión, por lo que es más eficiente redondearlas.
+
+- **Solución**: no es necesario ajustar las coordenadas, ya que es solo una alerta de interpretación. Sin embargo, si lo desea, puede hacer cambios en el conjunto de datos.
+
 
 ## Paso 4 - Verificación del resultado
 
