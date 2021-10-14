@@ -21,10 +21,10 @@ Video introductorio de las tres guías de validación taxonómica, el cual da un
 
 **Sobre la herramienta**
 
-La herramienta TNRS, por sus siglas en inglés (_Taxonomic Name Resolution Service_), es una aplicación originalmente desarrollada por _iPlant_, que permite estandarizar los nombres científicos botánicos a partir de fuentes taxonómicas como [_Tropicos_](https://www.tropicos.org/home), [USDA](https://plants.sc.egov.usda.gov/home/) y [TPL](http://www.theplantlist.org/). La validación taxonómica con TNRS permite:
+La herramienta TNRS, por su sigla en inglés (_Taxonomic Name Resolution Service_), es una aplicación originalmente desarrollada por _iPlant_ que permite estandarizar los nombres científicos botánicos a partir de fuentes taxonómicas como [_Tropicos_](https://www.tropicos.org/home), [USDA](https://plants.sc.egov.usda.gov/home/) y [TPL](http://www.theplantlist.org/). La validación taxonómica con TNRS sirve para:
 - Identificar errores ortográficos o de tipeo.
-- Separar el nombre científico en otros elementos _Darwin Core_ (<span class="tag is-success is-light"><i>genus</i></span>, <span class="tag is-success is-light"><i>specificEpithet</i></span>, <span class="tag is-success is-light"><i>scientificNameAuthorship</i></span>).
-- Evaluar la coincidencia del nombre científico, familia, género, epiteto específico e infraespecífico y autoría al comparar los datos con las fuentes taxonómicas de referencia.
+- Separar el nombre científico en diferentes elementos _Darwin Core_ (<span class="tag is-success is-light"><i>genus</i></span>, <span class="tag is-success is-light"><i>specificEpithet</i></span>, <span class="tag is-success is-light"><i>scientificNameAuthorship</i></span>).
+- Evaluar la coincidencia del nombre científico, familia, género, epiteto específico e infraespecífico y autoría, al comparar los datos con las fuentes taxonómicas de referencia.
 - Listar otras posibles coincidencias de un nombre científico con su respectivo enlace a la fuente.
 - Identificar sinonimias y nombres actualmente aceptados.
 
@@ -44,21 +44,21 @@ Descargue el archivo [<FONT FACE="monospace"><b>«Datos_TNRS.xlsx»</b></FONT>](
 
 ## Paso 1 - Ingreso
 
-Ingrese a la aplicación [TNRS](https://tnrs.biendata.org/) y familiarícese con las opciones. La herramienta está divida en dos partes: la primera (Fig. 1A), para colocar la lista de nombres científicos; la segunda (Fig. 1B), para la selección de configuraciones.
+Ingrese a la aplicación [TNRS](https://tnrs.biendata.org/) y familiarícese con las opciones. La herramienta está divida en dos partes: la primera (Fig. 1A) parmite colocar la lista de nombres científicos; la segunda (Fig. 1B) permite seleccionar las configuraciones.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.1_TNRS_Aplicacion.png" width=800>
 
-<sup>_Figura 1. Descripción de las opciones de la herramienta. A. Lista de nombres científicos a validar, B. Configuraciones de la herramienta._</sup>
+<sup>_Figura 1. Descripción de las opciones de la herramienta: A. Lista de nombres científicos a validar, B. Configuraciones de la herramienta._</sup>
 
 
 ## Paso 2 - Carga de los datos
 
-Ingrese al archivo [<FONT FACE="monospace"><b>«Datos_TNRS.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/Datos_TNRS.xlsx), seleccione la columna <span class="tag is-success is-light"><i>scientificName</i></span> y copie la totalidad de la columna sin incluir el encabezado.
+Ingrese al archivo [<FONT FACE="monospace"><b>«Datos_TNRS.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/Datos_TNRS.xlsx), seleccione la columna <span class="tag is-success is-light"><i>scientificName</i></span> y copie la totalidad de esta sin incluir el encabezado.
 
-Diríjase a la herramienta de TNRS y pegue los datos previamente copiados en la sección _**"Scientific names to check"**_ (Fig. 1A). Asegúrese de que haya un solo nombre por línea. A continuación, haga clic en <span class="tag is-warning is-light"><i>SUBMIT</i></span> (Fig. 2).
+Diríjase a la herramienta de TNRS y pegue los datos previamente copiados en la sección _**"Scientific names to check"**_ (Fig. 1A). Asegúrese de que haya un solo nombre por línea y haga clic en <span class="tag is-warning is-light"><i>SUBMIT</i></span> (Fig. 2).
 
 <div class="notification is-info is-light">
-  <b>Tip:</b> La herramienta evalua hasta 5.000 nombres científicos por ejecución, si intenta un mayor número obtendrá un mensaje de error.
+  <b>Tip:</b> La herramienta evalúa hasta 5 000 nombres científicos por ejecución. Por lo tanto, si intenta evaluar un mayor número, obtendrá un mensaje de error.
 </div>
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.2_TNRS_Submit.png" width=800>
@@ -69,15 +69,16 @@ Diríjase a la herramienta de TNRS y pegue los datos previamente copiados en la 
 
 ### 3.1. Modo de procesamiento 
 
-En la configuración _**"Processing Mode"**_(Modo de procesamiento), tiene dos opciones:
+En la configuración _**"Processing Mode"**_ (Modo de procesamiento), tiene dos opciones:
 
-* <span class="tag is-warning is-light"><i>Perform name resolution</i></span> (Ejecutar resolución de nombres): separa el nombre científico en sus componentes y los valida con base en una o varias fuentes (resolución).
-* <span class="tag is-warning is-light"><i>Parse names only</i></span> (Separar nombres únicamente): separa el nombre científico en sus componentes sin evaluar la coincidencia del nombre con las fuentes.
+* <span class="tag is-warning is-light"><i>Perform name resolution</i></span> **(Ejecutar resolución de nombres)**: separa el nombre científico en sus componentes y los valida con base en una o varias fuentes (resolución).
+* <span class="tag is-warning is-light"><i>Parse names only</i></span> **(Separar nombres únicamente)**: separa el nombre científico en sus componentes sin evaluar la coincidencia del nombre con las fuentes.
 
 Para efectos de este ejercicio, seleccione la opción <span class="tag is-warning is-light"><i>Perform name resolution</i></span>.
 
 <div class="notification is-info is-light">
   <b>Nota:</b> Si selecciona la opción <b><i>Parse names only</i></b>, no es posible escoger la fuente de datos porque el proceso de validación no se lleva a cabo.
+</div>
 
 ### 3.2. Clasificación
 
