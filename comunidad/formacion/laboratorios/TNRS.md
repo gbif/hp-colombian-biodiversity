@@ -112,7 +112,7 @@ Después de realizar la validación, se activan algunas opciones adicionales par
   <b>Nota:</b> Esta opción está temporalmente fuera de servicio, así que no verá ningún cambio en los resultados si la usa.
 </div>
 
-* <span class="tag is-warning is-light"><i>MATCH</i></span>: permite cambiar el puntaje de coincidencia (_Match_) de la validación. Entre mas alto sea (cercano o igual a 1), la coincidencia tendrá que ser más exacta respecto a la fuente. Entre más cercano a 0, la coincidencia será menos precisa y le mostrará más resultados posibles de contraste (Fig 4).
+* <span class="tag is-warning is-light"><i>MATCH</i></span>: permite cambiar el puntaje de coincidencia (_Match_) de la validación. Entre más alto sea (cercano o igual a 1), la coincidencia tendrá que ser más exacta respecto a la fuente. Entre más cercano a 0, la coincidencia será menos precisa y le mostrará más resultados posibles de contraste (Fig 4).
 
 Para este ejercicio, lo ideal es dejar el valor por defecto (<span class="tag is-warning is-light"><i>SET DEFAULT</i></span>), el cual corresponde a 0.53.
 
@@ -127,27 +127,30 @@ Para este ejercicio, lo ideal es dejar el valor por defecto (<span class="tag is
 
 ### 4.2. Tabla de resultados
 
-Los resultados se muestran en 8 columnas, las cuales se enlistan a continuación. Puede organizar la información de forma ascendente o descendente, haciendo clic en el nombre de cada columna (Fig. 3B).
+Los resultados se muestran en 8 columnas, las cuales se enlistan a continuación: 
+
+> Puede organizar la información de forma ascendente o descendente, haciendo clic en el nombre de cada columna (Fig. 3B).
+>
 
 * _**"Warnings"**_: señala las inconsistencias del nombre validado a partir de un ícono de alerta (Fig 5). Haga clic en el símbolo para obtener una explicación adicional del problema. Las alertas más comunes son:
 
-    - <span class="tag is-light"><b><i>Ambiguos match</b></span></i>: hay más de un nombre sugerido con el mismo puntaje de coincidencia y estado taxonómico.
-    - <span class="tag is-light"><b><i>Partial match</b></span></i>: el nombre sugerido pertenece a una catageoría taxonómica superior a la del nombre original.
-    - <span class="tag is-light"><b><i>Better higher taxonomic match available</b></span></i>: existe otro nombre que tiene mejor coincidencia con la taxonomía superior. 
+    - <span class="tag is-light"><b><i>Ambiguos match</i></b></span>: hay más de un nombre sugerido con el mismo puntaje de coincidencia y estado taxonómico.
+    - <span class="tag is-light"><b><i>Partial match</i></b></span>: el nombre sugerido pertenece a una catageoría taxonómica superior a la del nombre original.
+    - <span class="tag is-light"><b><i>Better higher taxonomic match available</i></b></span>: existe otro nombre que tiene mejor coincidencia con la taxonomía superior. 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.5_TNRS_warning.png" width=800>
 
 <sup>_Figura 5. Ejemplos de problemas._</sup>
 
 * _**"Name submitted"**_: el nombre científico original ingresado en la herramienta.
-* _**"Name Matched"**_: Nombre científico con el mejor puntaje de coincidencia. En esta columna, puede encontrar un mensaje <span class="tag is-warning is-light"><i>+n more</i></span>. La expresión <span class="tag is-warning is-light"><i>+n</i></span> es el número de posibles coincidencias encontradas para ese nombre. Dé clic al botón <span class="tag is-warning is-light"><i>+n more</i></span> para ver la pestaña adicional donde puede seleccionar qué taxonomía prefiere.
+* _**"Name Matched"**_: Nombre científico con el mejor puntaje de coincidencia. En esta columna, puede encontrar un mensaje <span class="tag is-warning is-light"><i>+n more</i></span>. La expresión <span class="tag is-warning is-light"><i>+n</i></span> es el número de posibles coincidencias encontradas para ese nombre. Dé clic al botón <span class="tag is-warning is-light"><i>+n more</i></span> para ver la pestaña adicional, donde puede seleccionar qué taxonomía prefiere.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.6_TNRS_changeselected.png" width=800>
 
 <sup>_Figura 6. Cambio en el tipo de taxonomía._</sup>
 
 <div class="notification is-info is-light">
-  <b>Nota:</b> Por el momento, la herramienta está presentando fallas al momento de cambiar la taxonomía con la opción <b><i>+n more</b></i>.
+  <b>Nota:</b> Por el momento, la herramienta está presentando fallas al momento de cambiar la taxonomía con la opción <b><i>+n more</i></b>.
 </div>
 
 * _**"Source"**_: la fuente donde se encontró el nombre con el mejor puntaje.
