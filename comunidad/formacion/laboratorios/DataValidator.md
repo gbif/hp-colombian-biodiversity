@@ -133,7 +133,7 @@ Haga clic sobre las flechas de cada una de las alertas para desglosar de los reg
 **Las alertas se agrupan en 3 categorías según su color:**
 
 
-* Alertas de color <span class = "has-text-is-$red">**ROJO**</span>: indican un error estructural que no permite la indexación del recurso y debe ser corregido.
+* Alertas de color <html><span style="color:Red">**ROJO**</span></html>: indican un error estructural que no permite la indexación del recurso y debe ser corregido.
 
 * Alertas de color <span class = "has-text-is-$yellow">**AMARILLO**</span>: indican potenciales errores que deben ser revisados en detalle para determinar si se debe o no corregir los datos.
 
@@ -145,7 +145,9 @@ Revise todas las alertas de validación y ajuste los datos de acuerdo a estas (F
 
 **A continuación se explican las alertas más frecuentes, cómo interpretarlas y cómo solucionarlas:**
 
-**Alerta**: Base del registro inválida.
+<span class="icon has-text-warning">
+  <i class="fas fa-exclamation-triangle"></i>
+</span>**Alerta**: Base del registro inválida.
 
 **Problema**: la base del registro (<span class="tag is-success is-light"><i>basisOfRecord</i></span>) no cumple con los requerimientos del estándar.
 
