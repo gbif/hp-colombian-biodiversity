@@ -105,9 +105,9 @@ Revise el encabezado del reporte. Si aparece en rojo, significa que no puede ser
 
 Las razones más frecuentes por las que un archivo no puede ser indexado son:
 
-**Mensaje:** «Registro no identificado de forma única» indica que los ID documentados en el elemento DwC <span class="tag is-success is-light"><i>occurrenceID</i></span> (<span class="tag is-success is-light"><i>taxonID</i></span> o <span class="tag is-success is-light"><i>eventID</i></span> según el tipo de datos) no son únicos.
+<span class="tag is-danger"><b>Mensaje</b></span> **«Registro no identificado de forma única»**: indica que los ID documentados en el elemento DwC <span class="tag is-success is-light"><i>occurrenceID</i></span> (<span class="tag is-success is-light"><i>taxonID</i></span> o <span class="tag is-success is-light"><i>eventID</i></span> según el tipo de datos) no son únicos.
 
-**Mensaje:** «No se encontró ni determinó un _rowType_». Esto indica que algunas de las columnas obligatorias para realizar la validación no se encuentran en el conjunto de datos. Por ejemplo, <span class="tag is-success is-light"><i>occurrenceID</i></span>, <span class="tag is-success is-light"><i>taxonID</i></span> o <span class="tag is-success is-light"><i>eventID</i></span>, dependiendo del tipo de datos que se esté indexando. 
+<span class="tag is-danger"><b>Mensaje</b></span> **«No se encontró ni determinó un _rowType_»**: indica que algunas de las columnas obligatorias para realizar la validación no se encuentran en el conjunto de datos. Por ejemplo, <span class="tag is-success is-light"><i>occurrenceID</i></span>, <span class="tag is-success is-light"><i>taxonID</i></span> o <span class="tag is-success is-light"><i>eventID</i></span>, dependiendo del tipo de datos que se esté indexando. 
 
 ### 3.2. Ajuste elementos críticos
 
@@ -130,22 +130,22 @@ Haga clic sobre las flechas de cada una de las alertas para desglosar de los reg
 <sup>*Figura 7. Mensaje de alerta - Interpretación del registro de GBIF. Al hacer clic en las alertas, podrá ver el detalle de los registros que presentan el error para saber qué debe ajustar. Al hacer clic en el ícono de información, obtendrá una descripción detallada del problema*.</sup>
 
 
-**Las alertas se agrupan en 3 categorías según su color:**
+Las alertas se agrupan en 3 categorías según su color:
 
 
-* Alertas de color **ROJO**: indican un error estructural que no permite la indexación del recurso y debe ser corregido.
+* Alertas de color <span class="tag is-danger"><b>ROJO</b></span>: indican un error estructural que no permite la indexación del recurso y debe ser corregido.
 
-* Alertas de color **AMARILLO**: indican potenciales errores que deben ser revisados en detalle para determinar si se debe o no corregir los datos.
+* Alertas de color <span class="tag is-warning"><b>AMARILLO</b></span>: indican potenciales errores que deben ser revisados en detalle para determinar si se debe o no corregir los datos.
 
-* Alertas de color **GRIS**: indican el proceso de interpretación realizado por el validador. En la mayoría de los casos, no requieren ajustes importantes en los datos.
+* Alertas de color <span class="tag is-dark is-light"><b>GRIS</b></span>: indican el proceso de interpretación realizado por el validador. En la mayoría de los casos, no requieren ajustes importantes en los datos.
 
 ### 3.4. Revisión de alertas
 
 Revise todas las alertas de validación y ajuste los datos de acuerdo a estas (Fig. 7).
 
-**A continuación se explican las alertas más frecuentes, cómo interpretarlas y cómo solucionarlas:**
+A continuación se explican las alertas más frecuentes, cómo interpretarlas y cómo solucionarlas:
 
-<span class="tag is-warning"><b>Alerta</b></span>: **Base del registro inválida**.
+<span class="tag is-warning"><b>Alerta</b></span> **Base del registro inválida**
 
 - **Problema**: la base del registro (<span class="tag is-success is-light"><i>basisOfRecord</i></span>) no cumple con los requerimientos del estándar.
 
@@ -154,14 +154,14 @@ Revise todas las alertas de validación y ajuste los datos de acuerdo a estas (F
 - **Solución 2**: documente el elemento con base en el vocabulario controlado en inglés (<span class="tag is-success is-light"><i>HumanObservation</i></span>, <span class="tag is-success is-light"><i>PreservedSpecimen</i></span>, <span class="tag is-success is-light"><i>LivingSpecimen</i></span>, <span class="tag is-success is-light"><i>MachineObservation</i></span>, <span class="tag is-success is-light"><i>MaterialSample</i></span>, <span class="tag is-success is-light"><i>FossilSpecimen</i></span>).
 
 
-<span class="tag is-warning"><b>Alerta</b></span>: **Coordenada inválida**.
+<span class="tag is-warning"><b>Alerta</b></span> **Coordenada inválida**
 
 - **Problema**: las coordenadas documentadas no se encuentran estandarizadas en coordenadas decimales o las coordenadas originales no se pueden interpretar.
 
 - **Solución**: asegúrese de que los elementos _Darwin Core_ <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span> estén documentados con las coordenadas en formato decimal. Además, corrobore que las coordenadas originales (<span class="tag is-success is-light"><i>verbatimCoordinates</i></span>) hayan sido digitalizadas adecuadamente. 
 
 
-<span class="tag is-warning"><b>Alerta</b></span>: **Se presume latitud negativa**.
+<span class="tag is-warning"><b>Alerta</b></span> **Se presume latitud negativa**
 
 - **Problema**: posible error en la latitud. Aunque se documentó como latitud sur, posiblemente corresponda a latitud norte (en coordenadas decimales, el norte se indica con un signo menos antes de la latitud).
 
@@ -169,7 +169,7 @@ Revise todas las alertas de validación y ajuste los datos de acuerdo a estas (F
 
 También puede obtener el mensaje «Se presume longitud negativa», pero es menos común para los datos de Colombia y probablemente corresponda a un problema de digitalización.
 
-<span class="tag is-warning"><b>Alerta</b></span>: **Coincidencia del taxón - taxonomía superior**.
+<span class="tag is-warning"><b>Alerta</b></span> **Coincidencia del taxón - taxonomía superior**
 
 - **Problema**: el nombre científico fue validado a un nivel taxonómico superior al documentado. Por ejemplo, si el nombre científico corresponde a una especie (género + epíteto específico), significa que el validador solo pudo interpretar el género mas no el epíteto específico.
 
@@ -181,21 +181,21 @@ También puede obtener el mensaje «Se presume longitud negativa», pero es meno
   <b>Nota:</b> Es posible que algunos nombres válidos y correctamente escritos sean marcados con esta alerta si no se encuentran en el árbol taxonómico de GBIF. Esto es común en el caso de especíes endémicas o recientemente descritas. En tal caso, ignore la alerta.
 </div>
 
-<span class="tag is-warning"><b>Alerta</b></span>: **Coincidencia aproximada del taxón**.
+<span class="tag is-warning"><b>Alerta</b></span> **Coincidencia aproximada del taxón**
 
 - **Problema**: hay una coincidencia parcial del nombre cíentífico y el [árbol taxonómico de GBIF](https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c). Por lo general, esta alerta aparece cuando hay errores de tipeo menores en el nombre científico.
 
 - **Solución**: asegúrese de que el nombre científico esté escrito correctamente.
 
 
-<span class="tag is-warning"><b>Alerta</b></span>: **Fecha registrada inválida**.
+<span class="tag is-warning"><b>Alerta</b></span> **Fecha registrada inválida**
 
 - **Problema**: las fechas proporcionadas no cumplen con el formato ISO 8601: *AAAA-MM-DD; AAAA-MM; AAAA; AAAA-MM-DD/AAAA-MM-DD*.
 
 - **Solución**: convierta las fechas al formato ISO 8601.
 
 
-<span class="tag is-warning"><b>Alerta</b></span>: **Datum geodésico WGS84 asumido**.
+<span class="tag is-dark is-light"><b>Alerta</b></span> **Datum geodésico WGS84 asumido**
 
 - **Problema**: el datum geodésico no fue documentado, pero el validador lo identificó como WGS84.
 
@@ -204,7 +204,7 @@ También puede obtener el mensaje «Se presume longitud negativa», pero es meno
 - **Solución 2**: si las coordenadas tienen un datum diferente a WGS84, documéntelo para evitar que el validador lo asuma.
 
 
-<span class="tag is-warning"><b>Alerta</b></span>: **Coordenadas redondeadas**.
+<span class="tag is-dark is-light"><b>Alerta</b></span> **Coordenadas redondeadas**
 
 - **Problema**: las coordenadas decimales tienen más de 5 cifras significativas. Más allá de 6 cifras, las coordenadas no mejoran su precisión, por lo que es más eficiente redondearlas.
 
