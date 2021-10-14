@@ -147,21 +147,6 @@ Revise todas las alertas de validación y ajuste los datos de acuerdo a estas (F
 
 **Alerta**: Base del registro inválida.
 
-<input onclick="window.location='#';" type="button" value="Ocultar" />
-<div id="spoiler1">
-<div id="mostrar1">
-<b>Problema</b>: la base del registro (<i>basisOfRecord</i>) no cumple con los requerimientos del estándar.
-<br/>
-<b>Solución 1</b>: revise que todos los registros (filas) tengan este elemento documentado.
-<br/>
-<b>Solución 2</b>: documente el elemento con base en el vocabulario controlado en inglés (<span class="tag is-success is-light"><i>HumanObservation</i></span>, <span class="tag is-success is-light"><i>PreservedSpecimen</i></span>, <span class="tag is-success is-light"><i>LivingSpecimen</i></span>, <span class="tag is-success is-light"><i>MachineObservation</i></span>, <span class="tag is-success is-light"><i>MaterialSample</i></span>, <span class="tag is-success is-light"><i>FossilSpecimen</i></span>
-</div>
-</div>
-<style>
-#spoiler1 > div {display: none;}
-#spoiler1 > div:target {display: block;}
-</style>
-
 **Problema**: la base del registro (<span class="tag is-success is-light"><i>basisOfRecord</i></span>) no cumple con los requerimientos del estándar.
 
 **Solución 1**: revise que todos los registros (filas) tengan este elemento documentado.
@@ -198,20 +183,8 @@ También puede obtener el mensaje «Se presume longitud negativa», pero es meno
 
 
 **Alerta**: Coincidencia aproximada del taxón. <input onclick="window.location='#mostrar1';" type="button" value="Mostrar"/>
-<input onclick="window.location='#';" type="button" value="Ocultar" />
-<div id="spoiler1">
-<div id="mostrar1">
-<b>Problema</b>: hay una coincidencia parcial del nombre cíentífico y el [árbol taxonómico de GBIF](https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c). Por lo general, esta alerta aparece cuando hay errores de tipeo menores en el nombre científico.
-<br/>
-<b>Solución</b>: asegúrese de que el nombre científico esté escrito correctamente.
- </div>
-</div>
-<style>
-#spoiler1 > div {display: none;}
-#spoiler1 > div:target {display: block;}
-</style>
 
-**Problema**: hay una coincidencia parcial del nombre cíentífico y el <A HREF="https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"> árbol taxonómico de GBIF </A>. Por lo general, esta alerta aparece cuando hay errores de tipeo menores en el nombre científico.
+**Problema**: hay una coincidencia parcial del nombre cíentífico y el [árbol taxonómico de GBIF](https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c). Por lo general, esta alerta aparece cuando hay errores de tipeo menores en el nombre científico.
 
 **Solución**: asegúrese de que el nombre científico esté escrito correctamente.
 
