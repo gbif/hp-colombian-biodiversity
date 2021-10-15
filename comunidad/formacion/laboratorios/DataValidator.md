@@ -14,6 +14,11 @@ toc: true
 
 Detectar posibles problemas en la estructura y contenido de los conjuntos de datos, mejorando la calidad de estos para ser publicados a través del SiB Colombia, GBIF y OBIS.
 
+**Introducción**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XDZu-mi7tAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
+
 **Sobre la Herramienta**
 
 El [validador de datos](https://www.gbif.org/es/tools/data-validator/) es un servicio de [GBIF](https://www.gbif.org) que permite evaluar de manera automática la completitud y otros aspectos de la calidad en los conjuntos de datos estructurados bajo el estándar [*Darwin Core* (DwC)](https://dwc.tdwg.org/terms/). El validador genera un informe sobre la sintaxis y la calidad de los datos. Esto permite detectar posibles problemas en la información antes de publicarla. Por consiguiente, si se somete un [DwC-A](https://www.gbif.org/darwin-core), el validador también evalúa la completitud y estructura de los metadatos en el estándar [EML](https://www.gbif.org/sites/default/files/gbif_resource/resource-80640/gbif_metadata_profile_guide_en_v1.pdf).
