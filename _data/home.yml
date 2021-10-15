@@ -61,11 +61,11 @@ destacados:
         isPrimary: false
 
     - preTitle:  Ciclo de formación 2021
-      title:  WhereNext
+      title:  Smart
       description: |      # required
-          Un sistema para optimizar la identificación de vacíos de conocimiento.
+          Sistema para facilitar la gestión de información de las áreas protegidas.
       # img required
-      background: /assets/images/landing_page/imgDest_WhereNext.png
+      background: /assets/images/landing_page/imgDest_Smart.png
       cta:
       - text: Inscribirse
         href: https://humboldt-org-co.zoom.us/webinar/register/WN_fsc8vZqhT0W4xESDS0wTeg
