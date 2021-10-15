@@ -120,7 +120,7 @@ Está participando en un proyecto para realizar una lista de especies de las ave
 
 
 ### Paso 2 - Exploración de la plantilla
-Descargue y abra la [<FONT FACE="monospace"><b>«Plantilla de la extensión Distribución de especies (<i>Species Distribution</i>)»</b></FONT>](https://drive.google.com/uc?export=download&id=1kqyGIkeP6KdR0-hz7CbGvriQuSitWqwp) (Species Distribution), allí encontrará 4 pestañas:
+Descargue y abra la [<FONT FACE="monospace"><b>«Plantilla de la extensión Distribución de especies (<i>Species Distribution</i>)»</b></FONT>](https://drive.google.com/uc?export=download&id=1kqyGIkeP6KdR0-hz7CbGvriQuSitWqwp), allí encontrará 4 pestañas:
 
 * **Instrucciones**: contiene la guía de uso y los puntos a tener en cuenta antes de iniciar la documentación de la extensión.
 * **Plantilla**: contiene la tabla con los elementos DwC para documentar la extensión.
@@ -133,13 +133,13 @@ Explore los elementos de la extensión en la plantilla, haciendo clic en los ele
 
 ### Paso 3 - Mapeo de los datos
 
-Revise detenidamente el nombre y contenido de cada columna del archivo [<FONT FACE="monospace"><b>«Ejercicio2_DistribuciónEspecies_porEstructurar.xlsx»</b></FONT>](https://drive.google.com/uc?id=1FRUsnhRglZ11eRQnn2mL0XCQp1W3WicZ&authuser=0&export=download), identificando a cuál elemento de la extensión corresponde. Revise la definición de los elementos y sus ejemplos para corroborar la correspondencia del mapeo (Fig. 7).
+Observe detenidamente el nombre y contenido de cada columna del archivo [<FONT FACE="monospace"><b>«Ejercicio2_DistribuciónEspecies_porEstructurar.xlsx»</b></FONT>](https://drive.google.com/uc?id=1FRUsnhRglZ11eRQnn2mL0XCQp1W3WicZ&authuser=0&export=download), identificando a cuál elemento de la extensión corresponde. Revise la definición de los elementos y sus ejemplos para corroborar la correspondencia del mapeo (Fig. 7).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig7_Extensiones_sd_mapeo.png" width=800>
 
 <sup>_Figura 7. Mapeo de datos en la plantilla **Distribución de especies** (Species Distribution)._</sup>
 
-Para usar cualquier extensión, es necesario contar con un identificador (ID). Este permite enlazar la extensión con los datos. En este ejercicio, el <span class="tag is-success is-light"><i>taxonID</i></span> cumple el rol de identificador, ya que los datos corresponden a una lista de especies. Por consiguiente, a partir del nombre científico en <FONT FACE="monospace"><b>«Ejercicio2_DistribucionEspecies_porEstructurar.xlsx»</b></FONT>, identifique el <span class="tag is-success is-light"><i>taxonID</i></span> en el archivo <FONT FACE="monospace"><b>«Ejercicio2_ListadeEspecies_Estructurado.xlsx»</b></FONT> y cópielo en el elemento <span class="tag is-success is-light"><i>taxonID</i></span> de la plantilla de la extensión (Fig. 8).  
+Para usar cualquier extensión, es necesario contar con un identificador (ID). Este permite enlazar la extensión con los datos. En este ejercicio, el <span class="tag is-success is-light"><i>taxonID</i></span> cumple el rol de identificador, ya que los datos corresponden a una lista de especies. Por consiguiente, a partir del nombre científico en <FONT FACE="monospace"><b>«Ejercicio2_DistribucionEspecies_porEstructurar.xlsx»</b></FONT>, identifique el <span class="tag is-success is-light"><i>taxonID</i></span> en el archivo <FONT FACE="monospace"><b>«Ejercicio2_ListadeEspecies_Estructurado.xlsx»</b></FONT> y cópielo en el elemento <span class="tag is-success is-light"><i>taxonID</i></span> de la <FONT FACE="monospace"><b>«Plantilla de la extensión Distribución de especies (<i>Species Distribution</i>)»</b></FONT> (Fig. 8).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig8_Extensiones_sd_taxonID.png" width=500>
 
