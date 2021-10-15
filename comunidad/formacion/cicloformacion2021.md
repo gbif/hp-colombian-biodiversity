@@ -331,7 +331,7 @@ Puedes encontrar más información sobre la serie de documentos de georeferencia
 <details>
   <summary markdown="span">16. WhereNext: un sistema de recomendación para identificar prioridades de muestreo basado en GDM.</summary>
 
-<img src="/assets/images/landing_page/imgDest_WhereNext.png" width=560>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pl136Af_yGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <i>07 de Octubre de 2021 | Hora: 7:30 am – 8:30 am </i>
 <br> 
@@ -341,6 +341,37 @@ Puedes encontrar más información sobre la serie de documentos de georeferencia
 <br>
 <b>Presenta:</b> Jorge Velasquez
     
+</details>
+
+---
+
+<details>
+  <summary markdown="span">17. Smart: una herramienta de monitoreo e información espacial para facilitar la generación e intercambio de información de las áreas protegidas del país.</summary>
+
+<img src="/assets/images/landing_page/imgDest_Smart.png" width=560>
+<br>
+<i>07 de Octubre de 2021 | Hora: 7:30 am – 8:30 am </i>
+<br> 
+<br> 
+<i>La implementación de SMART, como herramienta de monitoreo y análisis espacial en Parques Nacionales Naturales de Colombia se ha realizado con el apoyo técnico de Wildlife Conservation Society (WCS), mediante el módulo de patrullajes desde 2015 apoya la sistematización de labores de prevención, vigilancia y control y desde 2020 se implementa el módulo de registros ecológicos, que permite registrar, gestionar, mapear y analizar datos de muestreos sistemáticos de especies, sus hábitats y alteraciones, para apoyar las labores de monitoreo e investigación.</i>
+<br>
+<br>
+<b>Presenta:</b> Margarita Rozo y Manuel Rodríguez-Rocha
+</details>
+
+---
+
+<details>
+  <summary markdown="span">18. Biovirtual: un ecosistema de productos y servicios de información sobre biodiversidad a partir de las colecciones biológicas de la Universidad Nacional.</summary>
+
+<br>
+<i>28 de Octubre de 2021 | Hora: 7:30 am – 8:30 am </i>
+<br> 
+<br> 
+<i>El Instituto de Ciencias Naturales alberga las colecciones biológicas más grandes y representativas de Colombia. La sistematización de estas inició en los años 1970 y ha evolucionado continuamente, culminando en la creación de las Colecciones en Línea en 2004. En 2008 se constituyó el Programa de Informática de la Biodiversidad del ICN y desde entonces nuestro portafolio de productos y servicios en línea se ha ampliado para incluir diversos recursos sobre flora y fauna, una aplicación para dispositivos móviles y próximamente interfaces de programación de aplicaciones (API) para conectar los usuarios con nuestros productos. Los invitamos a visitarnos: www.biovirtual.unal.edu.co.</i>
+<br>
+<br>
+<b>Presenta:</b> Lauren Raz
 </details>
 
 ---
