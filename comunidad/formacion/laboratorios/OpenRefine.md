@@ -250,7 +250,7 @@ Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción 
 
 **4.2.1. Corrección elemento <span class="tag is-success is-light"><i>family</i></span>**
 
-*\Diríjase a la columna <span class="tag is-success is-light"><i>family</i></span> y realice un <span class="tag is-warning is-light"><i>Text facet</i></span>. Haga clic en el menú de la columna y luego en <span class="tag is-warning is-light"><i>Text filter</i></span> para que aparezca la ventana del filtro.
+Diríjase a la columna <span class="tag is-success is-light"><i>family</i></span> y realice un <span class="tag is-warning is-light"><i>Text facet</i></span>. Haga clic en el menú de la columna y luego en <span class="tag is-warning is-light"><i>Text filter</i></span> para que aparezca la ventana del filtro.
 Marque la casilla <span class="tag is-warning is-light"><i>regular expression</i></span> y escriba en el cuadro de texto la expresión 
 <span class="tag is-light"><b>.\*\(?:(?!ae).).$</b></span>. Esta expresión permite excluir todas las palabras de la columna que no terminan en <span class="tag is-success is-light"><i>ae</i></span>, las cuales corresponden a las últimas letras de la declinación en latín para la categoría taxonómica de familia (_idae_, _ceae_) (Fig, 15).
 
