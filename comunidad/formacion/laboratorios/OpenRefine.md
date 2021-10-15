@@ -145,7 +145,7 @@ Diríjase a la columna <span class="tag is-success is-light"><i>class</i></span>
 
 <sup>_Figura 4. Creación de un <span class="tag is-warning is-light"><i>Text facet</i></span>._</sup>
 
-**3.1.2. Organizar el <span class="tag is-warning is-light"><i>Text facet</i></span>
+**3.1.2. Organizar el <span class="tag is-warning is-light"><i>Text facet</i></span>**
 
 El <span class="tag is-warning is-light"><i>Text facet</i></span> creado aparecerá a la izquierda de la aplicación. Verá una ventana con el nombre de la columna y el _Facet_ que acaba de crear (Fig. 5). Haga clic en <span class="tag is-warning is-light"><i>count</i></span> para organizar las clases de mayor a menor número de repeticiones y en <span class="tag is-warning is-light"><i>name</i></span> para organizarlas en orden alfabético.
 
@@ -251,7 +251,8 @@ Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción 
 **4.2.1. Corrección elemento <span class="tag is-success is-light"><i>family</i></span>**
 
 Diríjase a la columna <span class="tag is-success is-light"><i>family</i></span> y realice un <span class="tag is-warning is-light"><i>Text facet</i></span>. Haga clic en el menú de la columna y luego en <span class="tag is-warning is-light"><i>Text filter</i></span> para que aparezca la ventana del filtro.
-Marque la casilla <span class="tag is-warning is-light"><i>regular expression</i></span> y escriba en el cuadro de texto la expresión <span class="tag is-light"><b>.*(?:(?!ae).).$</b></span>. Esta expresión permite excluir todas las palabras de la columna que no terminan en <span class="tag is-success is-light"><i>ae</i></span>, las cuales corresponden a las últimas letras de la declinación en latín para la categoría taxonómica de familia (*idae*, *ceae*) (Fig, 15).
+Marque la casilla <span class="tag is-warning is-light"><i>regular expression</i></span> y escriba en el cuadro de texto la expresión 
+<span class="tag is-light"><b>.*(?:(?!ae).).$</b></span>. Esta expresión permite excluir todas las palabras de la columna que no terminan en <span class="tag is-success is-light"><i>ae</i></span>, las cuales corresponden a las últimas letras de la declinación en latín para la categoría taxonómica de familia (*idae*, *ceae*) (Fig, 15).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig16_OR_regulasExp.png" width=500>
 
