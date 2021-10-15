@@ -24,27 +24,6 @@ Utilizar tres de las extensiones más comunes del estándar DwC para incorporar 
 
 * Para realizar este ejercicio, es necesario contar con un programa que procese archivos de texto. Por ejemplo, Excel.
 
-**Archivo de trabajo**
-
-- *Ejercicio de Rasgos funcionales* 
-
-    - [<FONT FACE="monospace"><b>«Ejercicio1_Registrosbiológicos_Estructurado.xlsx»</b></FONT>](https://drive.google.com/uc?id=1KslrtjZAwFbOWsQJ9NdBi2BLBbxNoVJo&authuser=0&export=download)
-    - [<FONT FACE="monospace"><b>«Ejercicio1_MedidasoHechos_porEstructurar.xlsx»</b></FONT>](https://drive.google.com/uc?id=1fHWfwjQ8s_4j12uHHleUw4JFyIRoeq0V&authuser=0&export=download)
-    - [<FONT FACE="monospace"><b>«Plantilla Medidas o hechos (<i>Measurement or Facts</i>)»</b></FONT>](https://drive.google.com/uc?export=download&id=1s05MAYDixYt6wPp9V8de8qrCHxuOOw-o) 
-
-
-- *Ejercicio de Distribución de especies*
-
-    - [<FONT FACE="monospace"><b>«Ejercicio2_ListadeEspecies_Estructurado.xlsx»</b></FONT>](https://drive.google.com/uc?id=1YoBeJIxmH5LdVNWglcyeFcuxJT83MryO&authuser=0&export=download)
-    - [<FONT FACE="monospace"><b>«Ejercicio2_DistribuciónEspecies_porEstructurar.xlsx»</b></FONT>](https://drive.google.com/uc?id=1FRUsnhRglZ11eRQnn2mL0XCQp1W3WicZ&authuser=0&export=download)
-    - [<FONT FACE="monospace"><b>«Plantilla Distribución de especies (<i>Species Distribution</i>)»</b></FONT>](https://drive.google.com/uc?export=download&id=1kqyGIkeP6KdR0-hz7CbGvriQuSitWqwp)
-
-- *Ejercicio de Multimedia*
-
-    - [<FONT FACE="monospace"><b>«Ejercicio3_Registrosbiológicos_Estructurado.xlsx»</b></FONT>](https://drive.google.com/uc?id=1wm7ZvwBqywuROZ-xqTmx00dsAZUY_oQO&authuser=0&export=download)
-    - [<FONT FACE="monospace"><b>«Ejercicio3_Multimedia_porEstructurar.xlsx»</b></FONT>](https://drive.google.com/uc?id=1ghJuuEc9TDBvwu0vaWAuuu1d113nNpa7&authuser=0&export=download)
-    - [<FONT FACE="monospace"><b>«Plantilla Multimedia simple (<i>Simple Multimedia</i>)»</b></FONT>](https://drive.google.com/uc?export=download&id=1Bfdgnl-KXwvLHs8H-bSe8yBXVyD8qrx8)
-
 ## Ejercicio 1 - Rasgos funcionales
 
 
@@ -53,7 +32,7 @@ A partir de las notas de campo de algunos especímenes de la colección de la Un
 
 ### Paso 2 - Exploración de la plantilla
  
-Descargue y abra la plantilla de la extensión **Medidas o hechos**, allí encontrará 4 pestañas:
+Descargue y abra la [<FONT FACE="monospace"><b>«Plantilla de la extensión Medidas o hechos (<i>Measurement or Facts</i>)»</b></FONT>](https://drive.google.com/uc?export=download&id=1s05MAYDixYt6wPp9V8de8qrCHxuOOw-o), allí encontrará 4 pestañas:
 
 - **Instrucciones**: contiene la guía de uso y los puntos a tener en cuenta antes de iniciar la documentación de la extensión.
 - **Plantilla**: contiene la tabla con los elementos DwC para documentar la extensión.
@@ -61,7 +40,7 @@ Descargue y abra la plantilla de la extensión **Medidas o hechos**, allí encon
 
 #### 2.1. Pestaña Instrucciones
 
-Lea las instrucciones de esta primera pestaña para familiarizarse con el contenido y alcance de la misma. Encontrará una sección titulada Elementos obligatorios según el tipo de los datos (Fig. 1). De acuerdo a la lectura del Paso 1 y los datos de ejemplo <FONT FACE="monospace"><b>«Ejercicio1_MedidasoHechos_porEstructurar.xlsx»</b></FONT>, identifique cuáles son los elementos obligatorios para el uso de la extensión y téngalos en cuenta para el paso 3. 
+Lea las instrucciones de esta primera pestaña para familiarizarse con el contenido y alcance de la misma. Encontrará una sección titulada Elementos obligatorios según el tipo de los datos (Fig. 1). De acuerdo a la lectura del Paso 1 y los datos de ejemplo [<FONT FACE="monospace"><b>«Ejercicio1_MedidasoHechos_porEstructurar.xlsx»</b></FONT>](https://drive.google.com/uc?id=1fHWfwjQ8s_4j12uHHleUw4JFyIRoeq0V&authuser=0&export=download), identifique cuáles son los elementos obligatorios para el uso de la extensión y téngalos en cuenta para el paso 3. 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig1_Extensiones_Elementosobligatorios.png" width=800>
 
@@ -85,7 +64,7 @@ Teniendo en cuenta que las medidas se pueden dividir en dos categorías, identif
 * **Cuantitativas** (medidas): son variables cuantificables que cuenta con una unidad de medida. Por lo tanto, se asocian a los elementos <span class="tag is-success is-light"><i>measurementType</i></span>, <span class="tag is-success is-light"><i>measurementValue</i></span> y <span class="tag is-success is-light"><i>measurementUnit</i></span>. Por ejemplo:
     - <span class="tag is-success is-light"><i>measurementType</i></span>: largo del pico.
     - <span class="tag is-success is-light"><i>measurementValue</i></span>: 20.
-    - <span class="tag is-success is-light"><i>measurementUnit</i></span>: mm (milímetros).
+    - <span class="tag is-success is-light"><i>measurementUnit</i></span>: mm.
 
 * **Cualitativas** (hechos): son variables categóricas que guardan algún tipo de lógica, pero no están asociadas directamente a una unidad de medida. Por consiguiente, se asocian a los elementos <span class="tag is-success is-light"><i>measurementType</i></span> y <span class="tag is-success is-light"><i>measurementValue</i></span>. Por ejemplo:
     - <span class="tag is-success is-light"><i>measurementType</i></span>: color del pico.
@@ -100,7 +79,7 @@ De acuerdo al paso anterior, ahora deberá mapear las medidas en los elementos d
 
 
 #### 3.3. Estructurar el elemento occurrenceID
-Para usar cualquier extensión, es necesario contar con un identificador (ID). Este permite enlazar la extensión con los datos. En este ejercicio, el <span class="tag is-success is-light"><i>occurrenceID</i></span> cumple el rol de identificador, ya que los datos corresponden a registros biológicos (<FONT FACE="monospace"><b>«Ejercicio1_Registrosbiologicos_Estructurado.xlsx»</b></FONT>). Por lo tanto, es necesario asegurarse de que el <span class="tag is-success is-light"><i>occurrenceID</i></span> de la extensión **Medidas o hechos** coincida exactamente con el del conjunto de datos estructurado. Haga los ajustes necesarios para que coincidan (Fig. 3).
+Para usar cualquier extensión, es necesario contar con un identificador (ID). Este permite enlazar la extensión con los datos. En este ejercicio, el <span class="tag is-success is-light"><i>occurrenceID</i></span> cumple el rol de identificador, ya que los datos corresponden a registros biológicos ([<FONT FACE="monospace"><b>«Ejercicio1_Registrosbiológicos_Estructurado.xlsx»</b></FONT>](https://drive.google.com/uc?id=1KslrtjZAwFbOWsQJ9NdBi2BLBbxNoVJo&authuser=0&export=download)). Por lo tanto, es necesario asegurarse de que el <span class="tag is-success is-light"><i>occurrenceID</i></span> de la extensión **Medidas o hechos** coincida exactamente con el del conjunto de datos estructurado. Haga los ajustes necesarios para que coincidan (Fig. 3).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig3_Extensiones_occurrenceID.png" width=400>
 
@@ -141,20 +120,20 @@ Está participando en un proyecto para realizar una lista de especies de las ave
 
 
 ### Paso 2 - Exploración de la plantilla
-Descargue y abra la plantilla de la extensión **Distribución de especies** (Species Distribution), allí encontrará 4 pestañas:
+Descargue y abra la [<FONT FACE="monospace"><b>«Plantilla de la extensión Distribución de especies (<i>Species Distribution</i>)»</b></FONT>](https://drive.google.com/uc?export=download&id=1kqyGIkeP6KdR0-hz7CbGvriQuSitWqwp) (Species Distribution), allí encontrará 4 pestañas:
 
 * **Instrucciones**: contiene la guía de uso y los puntos a tener en cuenta antes de iniciar la documentación de la extensión.
 * **Plantilla**: contiene la tabla con los elementos DwC para documentar la extensión.
 * **Definiciones**: contiene las descripciones de cada uno de los elementos del estándar DwC, recomendaciones de documentación y ejemplos.
 * **Vocabulario**: contiene los vocabularios controlados para algunos elementos del *Darwin Core*.
 
-En la pestaña de instrucciones, encontrará una sección adicional titulada **"Elementos obligatorios según el tipo de los datos"**. El único elemento obligatorio para esta extensión es el <span class="tag is-success is-light"><i>taxonID</i></span>, el cual se construye a partir del archivo <FONT FACE="monospace"><b>«Ejercicio2_ListadeEspecies_Estructurado.xlsx»</b></FONT> como se indica en el siguiente paso. 
+En la pestaña de instrucciones, encontrará una sección adicional titulada **"Elementos obligatorios según el tipo de los datos"**. El único elemento obligatorio para esta extensión es el <span class="tag is-success is-light"><i>taxonID</i></span>, el cual se construye a partir del archivo [<FONT FACE="monospace"><b>«Ejercicio2_ListadeEspecies_Estructurado.xlsx»</b></FONT>](https://drive.google.com/uc?id=1YoBeJIxmH5LdVNWglcyeFcuxJT83MryO&authuser=0&export=download), como se indica en el siguiente paso. 
 
 Explore los elementos de la extensión en la plantilla, haciendo clic en los elementos para acceder a las definiciones y vocabularios controlados (cuando corresponda). Allí encontrará algunos ejemplos pre-documentados en gris para facilitar la interpretación y el alcance de los elementos. Puede mantener estos ejemplos como referencia o eliminarlos antes de usar la plantilla. Estos marcan un punto de partida, pero no representan todas las posibilidades de la extensión, ya que el alcance temático y geográfico de cada lista de especies es diferente.
 
 ### Paso 3 - Mapeo de los datos
 
-Revise detenidamente el nombre y contenido de cada columna del archivo <FONT FACE="monospace"><b>«Ejercicio2_DistribucionEspecies_porEstructurar.xlsx»</b></FONT>, identificando a cuál elemento de la extensión corresponde. Revise la definición de los elementos y sus ejemplos para corroborar la correspondencia del mapeo (Fig. 7).
+Revise detenidamente el nombre y contenido de cada columna del archivo [<FONT FACE="monospace"><b>«Ejercicio2_DistribuciónEspecies_porEstructurar.xlsx»</b></FONT>](https://drive.google.com/uc?id=1FRUsnhRglZ11eRQnn2mL0XCQp1W3WicZ&authuser=0&export=download), identificando a cuál elemento de la extensión corresponde. Revise la definición de los elementos y sus ejemplos para corroborar la correspondencia del mapeo (Fig. 7).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig7_Extensiones_sd_mapeo.png" width=800>
 
@@ -182,7 +161,7 @@ En el caso de estudio se le proporcionó el ID de la geografía superior según 
 
 
 ####  4.3. Eliminar los elementos vacíos y filas de ejemplo
-Elimine las columnas de los elementos DwC que quedaron vacías en la plantilla **Distribución de especies** (*Species Distribution*). Recuerde que para la publicación solo debe mantener los elementos que hayan sido documentados. También puede eliminar los ejemplos resaltados en gris, ya que que estos solo son una ayuda para el mapeo de los elementos en la plantilla. 
+Elimine las columnas de los elementos DwC que quedaron vacías en la <FONT FACE="monospace"><b>«Plantilla de la extensión Distribución de especies (<i>Species Distribution</i>)»</b></FONT>. Recuerde que para la publicación solo debe mantener los elementos que hayan sido documentados. También puede eliminar los ejemplos resaltados en gris, ya que que estos solo son una ayuda para el mapeo de los elementos en la plantilla. 
 
 ### Paso 5 - Verificación del resultado
 Compare el siguiente archivo, estandarizado según las definiciones del *Darwin Core*, con el archivo que trabajó en el laboratorio para identificar aciertos y posibilidades de mejora. ¿Logró construir correctamente las extensiones?
@@ -195,7 +174,7 @@ Descargue el [<FONT FACE="monospace"><b>«archivo estandarizado»</b></FONT>](ht
 ### Paso 1 - Aplicar lo aprendido
 A partir de los ejercicios previos, se puede deducir que las extensiones funcionan de forma similar. Por lo tanto, este ejercicio consiste en estructurar la extensión **Multimedia simple** (*Simple Multimedia*) a partir de lo aprendido anteriormente. 
 
-El archivo <FONT FACE="monospace"><b>«Ejercicio3_Registrosbiologicos_Estructurado.xlsx»</b></FONT> se encuentra estructurado en DwC y contiene los datos de una colección de microorganismos. Se desea asociar las cepas de dichos microorganismos a imágenes de referencia, las cuales se encuentran enlazadas en el archivo <FONT FACE="monospace"><b>«Ejercicio3_Multimedia_porEstructurar.xlsx»</b></FONT>. El primer paso consiste en estructurar las imágenes, usando la extensión **Multimedia simple** (*Simple Multimedia*).
+El archivo [<FONT FACE="monospace"><b>«Ejercicio3_Registrosbiológicos_Estructurado.xlsx»</b></FONT>](https://drive.google.com/uc?id=1wm7ZvwBqywuROZ-xqTmx00dsAZUY_oQO&authuser=0&export=download) se encuentra estructurado en DwC y contiene los datos de una colección de microorganismos. Se desea asociar las cepas de dichos microorganismos a imágenes de referencia, las cuales se encuentran enlazadas en el archivo [<FONT FACE="monospace"><b>«Ejercicio3_Multimedia_porEstructurar.xlsx»</b></FONT>](https://drive.google.com/uc?id=1ghJuuEc9TDBvwu0vaWAuuu1d113nNpa7&authuser=0&export=download). El primer paso consiste en estructurar las imágenes, usando la [<FONT FACE="monospace"><b>«Plantilla de la extensión Multimedia simple (<i>Simple Multimedia</i>)»</b></FONT>](https://drive.google.com/uc?export=download&id=1Bfdgnl-KXwvLHs8H-bSe8yBXVyD8qrx8).
 
  
 ### Paso 2 - Verificación del resultado
