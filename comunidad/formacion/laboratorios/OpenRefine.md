@@ -78,10 +78,9 @@ Esta herramienta sirve para **todo tipo de datos**. Sin embargo, en este laborat
 
 Puede cargar datos con diferentes formatos y extensiones: TSV, CSV, SV, Excel (.xls y .xlsx), JSON, XML, RDF as XML y datos de _Google Docs_.
 
-
 **2.1. Abrir un nuevo proyecto**
 
-Abra _OpenRefine_ y seleccione la pestaña _**"Create Project"**_. Para cargar el archivo, siga la ruta <span class="tag is-info is-light"><i>Get data from > This Computer</i></span> y haga clic en <span class="tag is-warning is-light"><i>Choose Files</i></span> (Fig. 1).
+Abra _OpenRefine_ y seleccione la pestaña <span class="tag is-warning is-light"><i>Create Project</i></span>. Para cargar el archivo, siga la ruta <span class="tag is-info is-light"><i>Get data from > This Computer</i></span> y haga clic en <span class="tag is-warning is-light"><i>Choose Files</i></span> (Fig. 1).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig1_OR_cargar.png" width=800>
 
@@ -89,7 +88,7 @@ Abra _OpenRefine_ y seleccione la pestaña _**"Create Project"**_. Para cargar e
 
 **2.2. Selección del archivo**
 
-Seleccione el archivo <FONT FACE="monospace"><b>«datos_Estructurados.xlsx»</b></FONT> que descargó al incio del laboratorio y haga clic en <span class="tag is-warning is-light"><i>New project</i></span>Next (Fig. 1).
+Seleccione el archivo <FONT FACE="monospace"><b>«datos_Estructurados.xlsx»</b></FONT> que descargó al incio del laboratorio y haga clic en <span class="tag is-warning is-light"><i>Next</i></span> (Fig. 1).
 
 > Puede subir varios archivos a la vez, el software unirá los archivos con base en los encabezados de las columnas.
 > 
@@ -138,21 +137,21 @@ Es un método para filtrar los datos en conjuntos más pequeños, facilitando la
 
 ### 3.1 Correcciones masivas
 
-**3.1.1. Crear un _Text facet_**
+**3.1.1. Crear un <span class="tag is-warning is-light"><i>Text facet</i></span>**
 
 Diríjase a la columna <span class="tag is-success is-light"><i>class</i></span>, haga clic en el menú de la columna y siga la ruta <span class="tag is-info is-light"><i>Facet > Text facet</i></span> (Fig. 4).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig4_OR_facet.png" width=350>
 
-<sup>_Figura 4. Creación de un Text facet._</sup>
+<sup>_Figura 4. Creación de un <span class="tag is-warning is-light"><i>Text facet</i></span>._</sup>
 
-**3.1.2. Organizar el _Text facet_**
+**3.1.2. Organizar el <span class="tag is-warning is-light"><i>Text facet</i></span>
 
 El <span class="tag is-warning is-light"><i>Text facet</i></span> creado aparecerá a la izquierda de la aplicación. Verá una ventana con el nombre de la columna y el _Facet_ que acaba de crear (Fig. 5). Haga clic en <span class="tag is-warning is-light"><i>count</i></span> para organizar las clases de mayor a menor número de repeticiones y en <span class="tag is-warning is-light"><i>name</i></span> para organizarlas en orden alfabético.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig5_OR_facet2.png" width=350>
 
-<sup>_Figura 5. Vista del Text facet y las opciones para organizar las opciones de texto de la columna._</sup>
+<sup>_Figura 5. Vista del <span class="tag is-warning is-light"><i>Text facet</i></span> y las opciones para organizar las opciones de texto de la columna._</sup>
 
 **3.1.3. Corrección de los datos**
 
@@ -160,14 +159,14 @@ Corrija las inconsistencias en los nombres de las clases **Aves** y **Mammalia**
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig6_OR_classCorrect.png" width=500>
 
-<sup>_Figura 6. Corrección masiva de la columna <span class="tag is-success is-light"><i>class</i></span> por medio de un Text facet._</sup>
+<sup>_Figura 6. Corrección masiva de la columna <span class="tag is-success is-light"><i>class</i></span> por medio de un <span class="tag is-warning is-light"><i>Text facet</i></span>._</sup>
 
 Realice el mismo proceso con las columnas <span class="tag is-success is-light"><i>basisOfRecord</i></span> y <span class="tag is-success is-light"><i>sex</i></span>, ajustándolas al vocabulario controlado de cada elemento (Revise el [Laboratorio de estandarización](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/DWC)) (Fig. 7).
 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig7_OR_otrosCorrect.png" width=500>
 
-<sup>_Figura 7. Corrección masiva de las columnas <span class="tag is-success is-light"><i>basisOfRecord</i></span> y <span class="tag is-success is-light"><i>sex</i></span> por medio de un Text facet._</sup>
+<sup>_Figura 7. Corrección masiva de las columnas <span class="tag is-success is-light"><i>basisOfRecord</i></span> y <span class="tag is-success is-light"><i>sex</i></span> por medio de un <span class="tag is-warning is-light"><i>Text facet</i></span>._</sup>
 
 
 Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción <span class="tag is-warning is-light"><i>Remove All</i></span> (Fig. 8) para quitar todos los _facets_ y filtros que tenga en uso.
@@ -179,12 +178,12 @@ Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción 
 
 ### 3.2 Limpieza de espacios en blanco
 
-Diríjase a la columna <span class="tag is-success is-light"><i>individualCount</i></span>, haga clic en el menú de la columna y realice un _Text facet_.
+Diríjase a la columna <span class="tag is-success is-light"><i>individualCount</i></span>, haga clic en el menú de la columna y realice un <span class="tag is-warning is-light"><i>Text facet</i></span>.
 A su izquierda aparecerá la ventana con el nombre de la columna y el facet que se realizó (Fig. 9).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig9_OR_individual.png" width=300>
 
-<sup>_Figura 9. Vista del Text facet y las diferentes formas de documentación del elemento <span class="tag is-success is-light"><i>individualCount</i></span>._</sup>
+<sup>_Figura 9. Vista del <span class="tag is-warning is-light"><i>Text facet</i></span> y las diferentes formas de documentación del elemento <span class="tag is-success is-light"><i>individualCount</i></span>._</sup>
 
 Aunque parece que los datos no tienen errores, este procedimiento evidencia que el programa ha detectado espacios extra. Por tal motivo, el _facet_ muestra cuatro opciones diferentes para el valor **"1"**.
 Corrija las inconsistencias desde el menú de la columna <span class="tag is-success is-light"><i>individualCount</i></span>, siguiendo la ruta <span class="tag is-info is-light"><i>Edit Cells > Common transforms > Trim leading and trailing whitespace</i></span>. Posteriormente, verá un mensaje de notificación que indicará en cuántas celdas se eliminaron espacios (Fig. 10).
@@ -358,7 +357,7 @@ GBIF fácilita un árbol taxonómico robusto a partir de la agrupación de recon
 
 **Preparación de los datos**
 
-En primer lugar, elimine los _facets_ o filtros que tenga activos. Para tener una aproximación inicial al funcionamiento del API, diríjase a la columna <span class="tag is-success is-light"><i>recordedBy</i></span> y realice un _Text facet_. Posteriormente, haga clic en la opción <span class="tag is-warning is-light"><i>count</i></span> y seleccione al investigador con más registros asociados (Vargas I) (Fig. 20).
+En primer lugar, elimine los _facets_ o filtros que tenga activos. Para tener una aproximación inicial al funcionamiento del API, diríjase a la columna <span class="tag is-success is-light"><i>recordedBy</i></span> y realice un <span class="tag is-warning is-light"><i>Text facet</i></span>. Posteriormente, haga clic en la opción <span class="tag is-warning is-light"><i>count</i></span> y seleccione al investigador con más registros asociados (Vargas I) (Fig. 20).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava1.png" width=700>
 
@@ -411,7 +410,7 @@ Con el fin de evidenciar claramente los resultados de la validación del nombre 
 
 **Validación del nombre científico**
 
-Realice un _Text facet_ en la columna _**"Match"**_ y seleccione <span class="tag is-warning is-light"><i>Fuzzy</i></span>. Esta opción denota los nombres científicos con los que no hubo coincidencia exacta entre el conjunto de datos y el árbol taxonómico de GBIF. En este ejercicio, no se encuentra coincidencia total con *Dermanura cinereus* ni *Dermanura glaucus* (Fig. 25).
+Realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en la columna _**"Match"**_ y seleccione <span class="tag is-warning is-light"><i>Fuzzy</i></span>. Esta opción denota los nombres científicos con los que no hubo coincidencia exacta entre el conjunto de datos y el árbol taxonómico de GBIF. En este ejercicio, no se encuentra coincidencia total con *Dermanura cinereus* ni *Dermanura glaucus* (Fig. 25).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava6.JPG" width=350>
 
@@ -426,7 +425,7 @@ Agregue una nueva columna llamada _**"validName"**_ a partir de la columna  _**v
 
 <sup>_Figura 26. Creación de la nueva columna **"validName"**._</sup>
 
-Haciendo un _Text facet_ en  la columna _**"validName"**_, verá que GBIF reconoce que las especies a documentar son *Artibeus cinereus* y *Artibereus glaucus*, respectivamente (Fig. 27A). Entonces, el paso a seguir es corregir y editar las inconsistencias en la columna <span class="tag is-success is-light"><i>scientificName</i></span>, de acuerdo al _**"validName"**_ (Fig. 27B).
+Haciendo un <span class="tag is-warning is-light"><i>Text facet</i></span> en la columna _**"validName"**_, verá que GBIF reconoce que las especies a documentar son *Artibeus cinereus* y *Artibereus glaucus*, respectivamente (Fig. 27A). Entonces, el paso a seguir es corregir y editar las inconsistencias en la columna <span class="tag is-success is-light"><i>scientificName</i></span>, de acuerdo al _**"validName"**_ (Fig. 27B).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava8.png" width=700>
 
