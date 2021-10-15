@@ -18,7 +18,7 @@ Realizar la validación taxonómica de los nombres científicos para detectar po
 La herramienta [_Species Matching_](https://www.gbif.org/es/tools/species-lookup) es un servicio de [GBIF](https://www.gbif.org) que permite validar de manera automática y masiva hasta 5000 nombres científicos en un conjunto de datos. _Species Matching_ compara los nombres científicos del conjunto con el árbol taxonómico de GBIF, a partir del cual obtiene la clasificación de cada taxón (Reino, Filo, Clase, Orden, Familia, Género) y su estatus taxonómico (Sinónimo, Aceptado, Dudoso). 
 
 <div class="notification is-info is-light">
-  <b>Tip:</b> <i>GBIF Backbone Taxonomy</i>, el árbol taxonómico de GBIF, está basado en 56 fuentes taxonómicas mundiales, permitiendo la integración de nombres científicos independientemente de la fuente de los datos (registros biológicos, taxa, eventos o listas de especies).
+  <i>GBIF Backbone Taxonomy</i>, el árbol taxonómico de GBIF, está basado en 56 fuentes taxonómicas mundiales, permitiendo la integración de nombres científicos independientemente de la fuente de los datos (registros biológicos, taxa, eventos o listas de especies).
 </div>
 Fuente: [doi.org/10.15468/39omei](doi.org/10.15468/39omei)
 
