@@ -62,10 +62,7 @@ Ingrese a la herramienta en línea [_Species Matching_]( https://www.gbif.org/es
 
 ### 2.1. Selección de reino 
 
-Luego de cargar el archivo, la herramienta le permite al usuario seleccionar un reino (*kingdom*) con el cual comparar los nombres científicos. Esto solo es recomendable cuando todos los registros pertenecen al mismo reino.
-
-**a) Seleccione el reino _animalia_**
-**b) Haga clic en <span class="tag is-warning is-light"><i>MATCH TO GBIF BACKNONE</i></span>**
+Luego de cargar el archivo, la herramienta le permite al usuario seleccionar un reino (*kingdom*) con el cual comparar los nombres científicos. Esto solo es recomendable cuando todos los registros pertenecen al mismo reino. Por consiguiente, para este ejercicio, sleccione el reino <span class="tag is-warning is-light"><i>animalia_</i></span> y haga clic en <span class="tag is-warning is-light"><i>MATCH TO GBIF BACKNONE</i></span>.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.2_speciesMatching.JPG" width=800>
 
