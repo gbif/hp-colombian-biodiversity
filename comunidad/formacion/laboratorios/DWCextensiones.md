@@ -100,7 +100,7 @@ Elimine las columnas de los elementos DwC que quedaron vacías en la plantilla d
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig5_Extensiones_eliminar.png" width=600>
 
-<sup>_Figura 5. Cómo eliminar los elementos vacíos. <span class="tag is-info is-light"><i>Clic derecho en la columna > Eliminar</i></span>._</sup>
+<sup>_Figura 5. Cómo eliminar los elementos vacíos. <span class="tag is-warning is-light"><b><i>Clic derecho en la columna > Eliminar</i></b></span>._</sup>
 
 ### Paso 5 - Verificación del resultado
 Compare el siguiente [<FONT FACE="monospace"><b>«archivo estandarizado»</b></FONT>](https://drive.google.com/uc?id=1E6_oUh53Du3wTIGilKeyvwQZWbwjR_Wv&authuser=0&export=download) con el archivo que trabajó en el ejercicio para identificar aciertos y posibilidades de mejora. ¿Logró construir correctamente las extensiones?
