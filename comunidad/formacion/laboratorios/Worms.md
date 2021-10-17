@@ -18,6 +18,15 @@ Realizar la validación taxonómica automática de los nombres científicos de e
 Video introductorio de las tres guías de validación taxonómica, el cual da un contexto general sobre las herramientas y su uso. Si lo prefiere, puede seguir el paso a paso de la guía directamente.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ve7CgZlZhj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+**Convenciones**
+
+- Los elementos del estándar *Darwin Core* aparecen en color verde y cursiva. Por ejemplo: <span class="tag is-success is-light"><i>measurementUnit</i></span>.
+- Los archivos a utilizar en los ejercicios se muestran entre comillas angulares, negrita, y tienen una tipografía diferente. Por ejemplo: <FONT FACE="monospace"><b>«archivo_Ejemplo.xls»</b></FONT>.
+- Las secciones, ventanas y componentes de las herramientas utilizadas se muestran entre comillas inglesas y en negrita. Por ejemplo: **"Create Project"**.
+- Las opciones de las herramientas que se asocian a instrucciones (dar clic, seleccionar, etc.) aparecen en color amarillo y cursiva. Por ejemplo: <span class="tag is-warning is-light"><i>New project</i></span>.
+- Las secuencias de instrucciones y pasos se muestran en color amarillo, cursiva y negrita. Por ejemplo: <span class="tag is-warning is-light"><b><i>Paso 1 > Paso 2</i></b></span>.
+- Las líneas que se escriben directamente en las herramientas, para programar o realizar algún proceso en específico, aparecen en formato de código, con una tipografía distinta de color negro. Por ejemplo: <span class="tag is-light"><b>value.replace(" sp.","")</b></span>.
 
 **Sobre la Herramienta**
 
@@ -259,8 +268,10 @@ Descargue y compare el siguiente archivo, validado según las definiciones del e
 
 * [Archivo validado](https://github.com/SIB-Colombia/Formacion/raw/master/LAB/lab02/_docs/Solucion_datos_casomarinocosteros.xlsx)
 
-**¡Felicitaciones!**
-Terminó la revisión de los nombres científicos con la herramienta WoRMS.
+****
+**¡Felicitaciones!** Terminó la revisión de los nombres científicos con la herramienta WoRMS.
+
+****
 
 **Atribución y uso de los laboratorios**
 
