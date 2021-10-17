@@ -11,7 +11,7 @@ toc: true
 
 **Objetivo**
 
-Realizar una validación taxonómica de los nombres científicos de plantas de manera automática con el uso de TNRS.
+Realizar una validación taxonómica automática de los nombres científicos de plantas con TNRS.
 
 **Introducción**
 
