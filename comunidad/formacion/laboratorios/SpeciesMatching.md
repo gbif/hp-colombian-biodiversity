@@ -13,6 +13,22 @@ toc: true
 
 Realizar la validación taxonómica de los nombres científicos para detectar posibles errores de formato y precisión. 
 
+**Introducción**
+
+Video introductorio de las 3 guías de validación taxonómica, da un contexto general sobre las herramientas y su uso. Si lo prefiere pude realizar la guía siguiendo el paso a paso sin necesidad de ver el video.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ve7CgZlZhj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+
+**Convenciones**
+
+- Los elementos del estándar *Darwin Core* aparecen en color verde y cursiva. Por ejemplo: <span class="tag is-success is-light"><i>measurementUnit</i></span>.
+- Los archivos a utilizar en los ejercicios se muestran entre comillas angulares, negrita, y tienen una tipografía diferente. Por ejemplo: <FONT FACE="monospace"><b>«archivo_Ejemplo.xls»</b></FONT>.
+- Las secciones, ventanas y componentes de las herramientas utilizadas se muestran entre comillas inglesas y en negrita. Por ejemplo: **"Create Project"**.
+- Las opciones de las herramientas que se asocian a instrucciones (dar clic, seleccionar, etc.) aparecen en color amarillo y cursiva. Por ejemplo: <span class="tag is-warning is-light"><i>New project</i></span>.
+- Las secuencias de instrucciones y pasos se muestran en color amarillo, cursiva y negrita. Por ejemplo: <span class="tag is-warning is-light"><b><i>Paso 1 > Paso 2</i></b></span>.
+- Las líneas que se escriben directamente en las herramientas, para programar o realizar algún proceso en específico, aparecen en formato de código, con una tipografía distinta de color negro. Por ejemplo: <span class="tag is-light"><b>value.replace(" sp.","")</b></span>.
+
 **Sobre la herramienta**
 
 La herramienta [_Species Matching_](https://www.gbif.org/es/tools/species-lookup) es un servicio de [GBIF](https://www.gbif.org) que permite validar de manera automática y masiva hasta 5000 nombres científicos en un conjunto de datos. _Species Matching_ compara los nombres científicos del conjunto con el árbol taxonómico de GBIF, a partir del cual obtiene la clasificación de cada taxón (Reino, Filo, Clase, Orden, Familia, Género) y su estatus taxonómico (Sinónimo, Aceptado, Dudoso). 
@@ -21,6 +37,15 @@ La herramienta [_Species Matching_](https://www.gbif.org/es/tools/species-lookup
   <i>GBIF Backbone Taxonomy</i>, el árbol taxonómico de GBIF, está basado en 56 fuentes taxonómicas mundiales, permitiendo la integración de nombres científicos independientemente de la fuente de los datos (registros biológicos, taxa, eventos o listas de especies).
 </div>
 Fuente: [doi.org/10.15468/39omei](doi.org/10.15468/39omei)
+
+**Convenciones**
+
+- Los elementos del estándar *Darwin Core* aparecen en color verde y cursiva. Por ejemplo: <span class="tag is-success is-light"><i>measurementUnit</i></span>.
+- Los archivos a utilizar en los ejercicios se muestran entre comillas angulares, negrita, y tienen una tipografía diferente. Por ejemplo: <FONT FACE="monospace"><b>«archivo_Ejemplo.xls»</b></FONT>.
+- Las secciones, ventanas y componentes de las herramientas utilizadas se muestran entre comillas inglesas y en negrita. Por ejemplo: **"Create Project"**.
+- Las opciones de las herramientas que se asocian a instrucciones (dar clic, seleccionar, etc.) aparecen en color amarillo y cursiva. Por ejemplo: <span class="tag is-warning is-light"><i>New project</i></span>.
+- Las secuencias de instrucciones y pasos se muestran en color amarillo, cursiva y negrita. Por ejemplo: <span class="tag is-warning is-light"><b><i>Paso 1 > Paso 2</i></b></span>.
+- Las líneas que se escriben directamente en las herramientas, para programar o realizar algún proceso en específico, aparecen en formato de código, con una tipografía distinta de color negro. Por ejemplo: <span class="tag is-light"><b>value.replace(" sp.","")</b></span>.
 
 **Enlace**
 
@@ -171,8 +196,10 @@ Compare los elementos <span class="tag is-success is-light"><i>verbatimScientifi
   
 Si cuenta con un conjunto de datos propio, intente validar los nombres científicos siguiendo los pasos de este laboratorio.
 
-**¡Felicitaciones!** 
-Terminó la revisión de los nombres científicos con la herramienta _Species Matching_.
+****
+**¡Felicitaciones!** Terminó la revisión de los nombres científicos con la herramienta _Species Matching_.
+
+****
 
 **Citación sugerida**
 
