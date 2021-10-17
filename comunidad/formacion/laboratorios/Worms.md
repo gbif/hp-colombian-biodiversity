@@ -63,7 +63,7 @@ Abra el archivo [<FONT FACE="monospace"><b>«datos_CasoMarinoCosteros.xls»</b><
 
 ## Paso 2 - Configuración de la herramienta 
 
-En [WoRMS](https://www.marinespecies.org/index.php) vaya al módulo <span class="tag is-info is-light"><i>Tools > MatchTaxa</i></span> o ingrese directamente al vínculo [https://www.marinespecies.org/aphia.php?p=match](https://www.marinespecies.org/aphia.php?p=match).
+En [WoRMS](https://www.marinespecies.org/index.php) vaya al módulo <span class="tag is-warning is-light"><b><i>Tools > MatchTaxa</i></b></span> o ingrese directamente al vínculo [https://www.marinespecies.org/aphia.php?p=match](https://www.marinespecies.org/aphia.php?p=match).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.1_WoRMS.png" width=800>
 
