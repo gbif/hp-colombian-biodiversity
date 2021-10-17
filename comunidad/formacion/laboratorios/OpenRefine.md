@@ -35,7 +35,7 @@ Esta herramienta sirve para **todo tipo de datos**. Sin embargo, en este laborat
 - Los archivos a utilizar en los ejercicios se muestran entre comillas angulares, negrita, y tienen una tipografía diferente. Por ejemplo: <FONT FACE="monospace"><b>«archivo_Ejemplo.xls»</b></FONT>.
 - Las secciones, ventanas y componentes de las herramientas utilizadas se muestran entre comillas inglesas y en negrita. Por ejemplo: **"Create Project"**.
 - Las opciones de las herramientas que se asocian a instrucciones (dar clic, seleccionar, etc.) aparecen en color amarillo y cursiva. Por ejemplo: <span class="tag is-warning is-light"><i>New project</i></span>.
-- Las secuencias de instrucciones y pasos se muestran en color azul y cursiva. Por ejemplo:  <span class="tag is-info is-light"><i>Paso 1 > Paso 2</i></span>.
+- Las secuencias de instrucciones y pasos se muestran en color azul y cursiva. Por ejemplo:  <span class="tag is-warning is-light"><b><i>Paso 1 > Paso 2</i></b></span>.
 - Las líneas que se escriben directamente en las herramientas, para programar o realizar algún proceso en específico, aparecen en formato de código, con una tipografía distinta de color negro. Por ejemplo: <span class="tag is-light"><b>value.replace(" sp.","")</b></span>.
 
 **Requerimientos** 
@@ -80,7 +80,7 @@ Puede cargar datos con diferentes formatos y extensiones: TSV, CSV, SV, Excel (.
 
 **2.1. Abrir un nuevo proyecto**
 
-Abra _OpenRefine_ y seleccione la pestaña <span class="tag is-warning is-light"><i>Create Project</i></span>. Para cargar el archivo, siga la ruta <span class="tag is-info is-light"><i>Get data from > This Computer</i></span> y haga clic en <span class="tag is-warning is-light"><i>Choose Files</i></span> (Fig. 1).
+Abra _OpenRefine_ y seleccione la pestaña <span class="tag is-warning is-light"><i>Create Project</i></span>. Para cargar el archivo, siga la ruta <span class="tag is-warning is-light"><i><b>Get data from > This Computer</b></i></span> y haga clic en <span class="tag is-warning is-light"><i>Choose Files</i></span> (Fig. 1).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig1_OR_cargar.png" width=800>
 
@@ -139,7 +139,7 @@ Es un método para filtrar los datos en conjuntos más pequeños, facilitando la
 
 **3.1.1. Crear un <span class="tag is-warning is-light"><i>Text facet</i></span>**
 
-Diríjase a la columna <span class="tag is-success is-light"><i>class</i></span>, haga clic en el menú de la columna y siga la ruta <span class="tag is-info is-light"><i>Facet > Text facet</i></span> (Fig. 4).
+Diríjase a la columna <span class="tag is-success is-light"><i>class</i></span>, haga clic en el menú de la columna y siga la ruta <span class="tag is-warning is-light"><b><i>Facet > Text facet</i></b></span> (Fig. 4).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig4_OR_facet.png" width=350>
 
@@ -186,7 +186,7 @@ A su izquierda aparecerá la ventana con el nombre de la columna y el facet que 
 <sup>_Figura 9. Vista del <span class="tag is-warning is-light"><i>Text facet</i></span> y las diferentes formas de documentación del elemento <span class="tag is-success is-light"><i>individualCount</i></span>._</sup>
 
 Aunque parece que los datos no tienen errores, este procedimiento evidencia que el programa ha detectado espacios extra. Por tal motivo, el _facet_ muestra cuatro opciones diferentes para el valor **"1"**.
-Corrija las inconsistencias desde el menú de la columna <span class="tag is-success is-light"><i>individualCount</i></span>, siguiendo la ruta <span class="tag is-info is-light"><i>Edit Cells > Common transforms > Trim leading and trailing whitespace</i></span>. Posteriormente, verá un mensaje de notificación que indicará en cuántas celdas se eliminaron espacios (Fig. 10).
+Corrija las inconsistencias desde el menú de la columna <span class="tag is-success is-light"><i>individualCount</i></span>, siguiendo la ruta <span class="tag is-warning is-light><b><i>Edit Cells > Common transforms > Trim leading and trailing whitespace</i></b><span>. Posteriormente, verá un mensaje de notificación que indicará en cuántas celdas se eliminaron espacios (Fig. 10).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig10_OR_trimSpaces.png" width=600>
 
@@ -198,7 +198,7 @@ Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción 
 
 ### 3.3 Detección de duplicados
 
-Diríjase a la columna <span class="tag is-success is-light"><i>catalogNumber</i></span>, haga clic en el menú de la columna y siga la ruta <span class="tag is-info is-light"><i>Facet > Customized facets > Duplicates facet</i></span>. La ventana del _facet_ aparecerá a la izquierda (Fig. 11).
+Diríjase a la columna <span class="tag is-success is-light"><i>catalogNumber</i></span>, haga clic en el menú de la columna y siga la ruta <span class="tag is-warning is-light"><b><i>Facet > Customized facets > Duplicates facet</i></b></span>. La ventana del _facet_ aparecerá a la izquierda (Fig. 11).
 
 Se evidencia que el programa ha detectado valores únicos <span class="tag is-warning is-light"><i>false</i></span> y valores duplicados <span class="tag is-warning is-light"><i>true</i></span> (Fig. 11). Haga clic en <span class="tag is-warning is-light"><i>true</i></span> y verá los registros. De esta manera, se pueden detectar los duplicados para un análisis posterior. En este caso, cambie el registro de **"Feb 2001"** por <span class="tag is-light"><b>46-2300MI2008AV0248</b></span>, tanto en <span class="tag is-success is-light"><i>catalogNumber</i></span> como en <span class="tag is-success is-light"><i>occurrenceIDr</i></span> (Fig. 11).
 
@@ -230,7 +230,7 @@ Realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en <sp
 <sup>_Figura 13. Documentación masiva del elemento <span class="tag is-success is-light"><i>verbatimTaxonRank</i></span>._</sup>
 
 
-Diríjase nuevamente al menú de la columna de <span class="tag is-success is-light"><i>scientificName</i></span> y siga la ruta <span class="tag is-info is-light"><i>Edit cells > Transform</i></span>. Posteriormente, ingrese el comando <span class="tag is-light"><b>value.replace</b></span> en el cuadro de texto **"_Expression_"**. Note que la pestaña **"_Preview_"** muestra una vista previa del resultado al aplicar el comando. Corrobore si es el cambio deseado (Fig. 14) y haga clic en <span class="tag is-warning is-light"><i>OK</i></span>. De inmediato, aparecerá un mensaje de confirmación de los cambios.
+Diríjase nuevamente al menú de la columna de <span class="tag is-success is-light"><i>scientificName</i></span> y siga la ruta <span class="tag is-warning is-light"><b><i>Edit cells > Transform</i></b></span>. Posteriormente, ingrese el comando <span class="tag is-light"><b>value.replace</b></span> en el cuadro de texto **"_Expression_"**. Note que la pestaña **"_Preview_"** muestra una vista previa del resultado al aplicar el comando. Corrobore si es el cambio deseado (Fig. 14) y haga clic en <span class="tag is-warning is-light"><i>OK</i></span>. De inmediato, aparecerá un mensaje de confirmación de los cambios.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig14_OR_replace.png" width=800>
 
@@ -370,7 +370,7 @@ Vaya a la columna <span class="tag is-success is-light"><i>scientificName</i></s
 
 Para realizar la validación a través del API, es necesario que los espacios en blanco de cada nombre científico sean reemplazados por un valor que reconozca el API: <span class="tag is-light"><b>%20</b></span>.
 
-Para ello vaya a <span class="tag is-info is-light"><i>Edit column > Add column based on this column</i></span> y escriba la expresión (tal y como aparece)  <span class="tag is-light"><b>value.replace(" ","%20")</b></span>. Por último, nombre la columna como **"NomAPI"** (Fig. 21).
+  Para ello vaya a <span class="tag is-warning is-light"><b><i>Edit column > Add column based on this column</i></b></span> y escriba la expresión (tal y como aparece)  <span class="tag is-light"><b>value.replace(" ","%20")</b></span>. Por último, nombre la columna como **"NomAPI"** (Fig. 21).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava2.PNG" width=700>
 
@@ -379,7 +379,7 @@ Para ello vaya a <span class="tag is-info is-light"><i>Edit column > Add column 
 
 **LLamado al API a partir del nombre científico**
 
-Cree una nueva columna llamada _**"validTax"**_ a partir de la columna _**"NomAPI"**_. Para esto, siga la ruta <span class="tag is-info is-light"><i>Edit column >  Add column by fetching URLs…</i></span> y escriba la expresión <span class="tag is-light"><b>"http://api.gbif.org/v1/species/match?strict=true&name="+value</b></span>. Luego,en el cuadro de texto <span class="tag is-warning is-light"><i>Throttle delay</i></span>, escriba <span class="tag is-light"><b>5</b></span>, haga clic en <span class="tag is-warning is-light"><i>OK</i></span> y espere a que finalice el proceso (Fig. 22).
+Cree una nueva columna llamada _**"validTax"**_ a partir de la columna _**"NomAPI"**_. Para esto, siga la ruta <span class="tag is-warning is-light"><b><i>Edit column >  Add column by fetching URLs…</b></i></span> y escriba la expresión <span class="tag is-light"><b>"http://api.gbif.org/v1/species/match?strict=true&name="+value</b></span>. Luego,en el cuadro de texto <span class="tag is-warning is-light"><i>Throttle delay</i></span>, escriba <span class="tag is-light"><b>5</b></span>, haga clic en <span class="tag is-warning is-light"><i>OK</i></span> y espere a que finalice el proceso (Fig. 22).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava3.PNG" width=700>
 
@@ -402,7 +402,7 @@ Podrá observar que en cada celda de la columna _**"validTax"**_ aparecen expres
 
 **Extracción de la información obtenida**
 
-Con el fin de evidenciar claramente los resultados de la validación del nombre científico, agregue una columna basada en _**"validTax"**_. Para esto, siga la ruta <span class="tag is-info is-light"><i>Edit column > Add column based on this column</i></span>. Luego, nombre la columna como <span class="tag is-light"><b>Match</b></span> y escriba la expresión <span class="tag is-light"><b>value.parseJson().get("matchType")</b></span>. Por último, haga clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 24).
+Con el fin de evidenciar claramente los resultados de la validación del nombre científico, agregue una columna basada en _**"validTax"**_. Para esto, siga la ruta <span class="tag is-warning is-light"><b><i>Edit column > Add column based on this column</i></b></span>. Luego, nombre la columna como <span class="tag is-light"><b>Match</b></span> y escriba la expresión <span class="tag is-light"><b>value.parseJson().get("matchType")</b></span>. Por último, haga clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 24).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava5.PNG" width=700>
 
@@ -420,7 +420,7 @@ Realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en la 
 > A través del API, GBIF también ofrece una posible opción de nombres científicos válidos en relación a los que no reconoció totalmente. Es pertinente que evalué estos nombres y decida si deben cambiar.
 >
 
-Agregue una nueva columna llamada _**"validName"**_ a partir de la columna  _**validTax**_. Para hacerlo, siga la ruta <span class="tag is-info is-light"><i>Edit column > Add column based on this column</i></span>, escriba la expresión <span class="tag is-light"><b>value.parseJson().get("species")</b></span> y haga clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 26).
+Agregue una nueva columna llamada _**"validName"**_ a partir de la columna  _**validTax**_. Para hacerlo, siga la ruta <span class="tag is-warning is-light"><b><i>Edit column > Add column based on this column</i></b></span>, escriba la expresión <span class="tag is-light"><b>value.parseJson().get("species")</b></span> y haga clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 26).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava7.PNG" width=700>
 
@@ -432,7 +432,7 @@ Haciendo un <span class="tag is-warning is-light"><i>Text facet</i></span> en la
 
 <sup>_Figura 27. Corrección del nombre científico en OpenRefine. A. Filtro para el nombre científico y la sugerencia de GBIF. B. Corrección en el nombre científico._</sup>
 
-Después de realizar el proceso de verificación y la limpieza de nombres científicos, elimine las columnas adicionales que se crearon para este fín (_**"NomAPI"**_, _**"validTax"**_, _**"Match"**_ y **"validName"**). Para ello, siga la ruta <span class="tag is-info is-light"><i>Edit column > Remove this column</i></span> (Fig. 28).
+Después de realizar el proceso de verificación y la limpieza de nombres científicos, elimine las columnas adicionales que se crearon para este fín (_**"NomAPI"**_, _**"validTax"**_, _**"Match"**_ y **"validName"**). Para ello, siga la ruta <span class="tag is-warning is-light"><b><i>Edit column > Remove this column</i></b></span> (Fig. 28).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava9.png" width=400>
 
@@ -467,7 +467,7 @@ En la pestaña emergente, introduzca la fórmula <span class="tag is-light"><b>v
 
 Existen múltiples maneras de exportar los archivos en _OpenRefine_. La siguiente es la más confiable porque cuenta con la mayor cantidad de opciones:
   
-Diríjase a la esquina superior derecha y siga la ruta <span class="tag is-info is-light"><i>Export > Custom tabular exporter</i></span> para acceder a la ventana de exportación (Fig. 31).
+Diríjase a la esquina superior derecha y siga la ruta <span class="tag is-warning is-light"><b><i>Export > Custom tabular exporter</i></b></span> para acceder a la ventana de exportación (Fig. 31).
 
 En la pestaña _**"Content"**_ de la ventana emergente, encontrará varias opciones para personalizar la exportación. Algunas de esas opciones son:
 
@@ -493,7 +493,7 @@ Para este caso, ubique el menú _**"Other formats"**_ y elija la opción <span c
 ### 8.2 Exportar e importar un proyecto
 
 _OpenRefine_ también le ofrece la posibilidad de exportar el proyeco completo. Lo anterior permite descargar un archivo que contiene toda la información del proyecto (datos e histórico de cambios). Este archivo se puede utilizar para trabajar en el mismo proyecto de _OpenRefine_ desde otro equipo. 
-Para hacerlo, diríjase a la esquina superior derecha, siga la ruta <span class="tag is-info is-light"><i>Export > OpenRefine project archive to file</i></span> y guarde su archivo (Fig. 33).
+Para hacerlo, diríjase a la esquina superior derecha, siga la ruta <span class="tag is-warning is-light"><b><i>Export > OpenRefine project archive to file</i></b></span> y guarde su archivo (Fig. 33).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ex3.png" width=350>
 
