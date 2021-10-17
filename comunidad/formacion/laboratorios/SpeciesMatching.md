@@ -131,7 +131,7 @@ En la parte inferior derecha, encontrará la opción <span class="tag is-warning
 
 _OpenRefine_ le otorga la ventaja de poder realizar filtros y _facets_ para explorar con más detalle los resultados obtenidos a partir la herramienta _Species Matching_.
 
-Cargue en _OpenRefine_ el archivo <FONT FACE="monospace"><b>«normalized.csv»</b></FONT> que obtuvo en el paso anterior. Para ello, abra OpenRefine y siga la ruta <span class="tag is-info is-light"><i>Create Project > Get data from > This computer > Choose Files</i></span> en el menú lateral. Luego, seleccione el archivo que descargó en el paso anterior y dé clic en la opción <span class="tag is-warning is-light"><i>Next >></i></span> (Fig. 7).
+Cargue en _OpenRefine_ el archivo <FONT FACE="monospace"><b>«normalized.csv»</b></FONT> que obtuvo en el paso anterior. Para ello, abra OpenRefine y siga la ruta <span class="tag is-warning is-light"><b><i>Create Project > Get data from > This computer > Choose Files</i></b></span> en el menú lateral. Luego, seleccione el archivo que descargó en el paso anterior y dé clic en la opción <span class="tag is-warning is-light"><i>Next >></i></span> (Fig. 7).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.7_speciesMatching.JPG" width=800>
 
@@ -155,7 +155,7 @@ Adicionalmente, las columnas que contienen la jerarquía taxonómica (Fig. 9B) s
 
 ### 4.1. Creación de filtros en OpenRefine
 
-Realice un _Text facet_ en la columna _**"matchType"**_. Para hacerlo, haga clic en el menú de _**"matchType"**_ y siga la ruta  <span class="tag is-info is-light"><i>Facet > Text facet</i></span> (Fig. 10A). Repita este procedimiento y cree otro _Text facet_ para la columna _**"status"**_.
+Realice un _Text facet_ en la columna _**"matchType"**_. Para hacerlo, haga clic en el menú de _**"matchType"**_ y siga la ruta  <span class="tag is-warning is-light"><b><i>Facet > Text facet</i></b></span> (Fig. 10A). Repita este procedimiento y cree otro _Text facet_ para la columna _**"status"**_.
 
 En el panel lateral izquierdo, aparecerán los dos filtros creados (Fig. 10B). Explore cuántos registros tienen un nombre científico que coincide de manera exacta (<span class="tag is-warning is-light"><i>EXACT</i></span>) con el árbol taxonómico de GBIF, cuántos coinciden parcialmente (<span class="tag is-warning is-light"><i>FUZZY</i></span>) y cuántos coinciden solo a un nivel taxonómico superior al documentado en el nombre científico (<span class="tag is-warning is-light"><i>HIGHERRANK</i></span>). Revise también cuántos registros tienen un nombre científico con estatus taxonómico aceptado (<span class="tag is-warning is-light"><i>ACCEPTED</i></span>) y cuántos son sinónimos (<span class="tag is-warning is-light"><i>SYNONYM</i></span>). Al hacer estos filtros, podrá identificar aquellos registros cuyo nombre científico tiene errores de tipeo para corregir estos casos posteriormente.
 
