@@ -186,7 +186,7 @@ A su izquierda aparecerá la ventana con el nombre de la columna y el facet que 
 <sup>_Figura 9. Vista del <span class="tag is-warning is-light"><i>Text facet</i></span> y las diferentes formas de documentación del elemento <span class="tag is-success is-light"><i>individualCount</i></span>._</sup>
 
 Aunque parece que los datos no tienen errores, este procedimiento evidencia que el programa ha detectado espacios extra. Por tal motivo, el _facet_ muestra cuatro opciones diferentes para el valor **"1"**.
-Corrija las inconsistencias desde el menú de la columna <span class="tag is-success is-light"><i>individualCount</i></span>, siguiendo la ruta <span class="tag is-warning is-light><b><i>Edit Cells > Common transforms > Trim leading and trailing whitespace</i></b><span>. Posteriormente, verá un mensaje de notificación que indicará en cuántas celdas se eliminaron espacios (Fig. 10).
+Corrija las inconsistencias desde el menú de la columna <span class="tag is-success is-light"><i>individualCount</i></span>, siguiendo la ruta <span class="tag is-warning is-light><b><i>Edit Cells > Common transforms > Trim leading and trailing whitespace</i></b></span>. Posteriormente, verá un mensaje de notificación que indicará en cuántas celdas se eliminaron espacios (Fig. 10).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig10_OR_trimSpaces.png" width=600>
 
@@ -379,7 +379,7 @@ Para realizar la validación a través del API, es necesario que los espacios en
 
 **LLamado al API a partir del nombre científico**
 
-Cree una nueva columna llamada _**"validTax"**_ a partir de la columna _**"NomAPI"**_. Para esto, siga la ruta <span class="tag is-warning is-light"><b><i>Edit column >  Add column by fetching URLs…</b></i></span> y escriba la expresión <span class="tag is-light"><b>"http://api.gbif.org/v1/species/match?strict=true&name="+value</b></span>. Luego,en el cuadro de texto <span class="tag is-warning is-light"><i>Throttle delay</i></span>, escriba <span class="tag is-light"><b>5</b></span>, haga clic en <span class="tag is-warning is-light"><i>OK</i></span> y espere a que finalice el proceso (Fig. 22).
+Cree una nueva columna llamada _**"validTax"**_ a partir de la columna _**"NomAPI"**_. Para esto, siga la ruta <span class="tag is-warning is-light"><b><i>Edit column >  Add column by fetching URLs…</i></b></span> y escriba la expresión <span class="tag is-light"><b>"http://api.gbif.org/v1/species/match?strict=true&name="+value</b></span>. Luego,en el cuadro de texto <span class="tag is-warning is-light"><i>Throttle delay</i></span>, escriba <span class="tag is-light"><b>5</b></span>, haga clic en <span class="tag is-warning is-light"><i>OK</i></span> y espere a que finalice el proceso (Fig. 22).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava3.PNG" width=700>
 
