@@ -47,7 +47,7 @@ Esta herramienta sirve para **todo tipo de datos**. Sin embargo, en este laborat
     <p>¡Precaución!</p>    
   </div>
   <div class="message-body">
-    No utilice <i>Internet Explorer</i> para este laboratorio, ya que <iOpenRefine_ no funciona bien en este navegador.
+    No utilice <i>Internet Explorer</i> para este laboratorio, ya que <i>OpenRefine</i> no funciona bien en este navegador.
   </div>
 </article>
 
