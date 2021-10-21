@@ -55,8 +55,8 @@ Las coordenadas deben estar escritas en pares de coordenadas, un par por línea.
 <b>Ejemplos de valores de entrada</b>:
 
 * 45° 32' 25" N, 129° 40' 31" W
-* 1 \|\ 45.5° N, 129.6° W
-* 2 \|\ 40°26′47″N,74° 0' 21.5022"W
+* 1 \| 45.5° N, 129.6° W
+* 2 \| 40°26′47″N,74° 0' 21.5022"W
 
 
 ## Paso 2 - Estandarización coordenadas originales
