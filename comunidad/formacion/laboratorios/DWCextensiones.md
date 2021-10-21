@@ -27,7 +27,6 @@ Conocer y utilizar las extensiones del estándar *Darwin Core* (DwC), siguiendo 
 
 Utilizar tres de las extensiones más comunes del estándar DwC para incorporar información sobre rasgos funcionales, recursos multimedia y datos de la distribución de especies. Para esto se proporcionarán conjuntos de prueba y plantillas de publicación enfocadas en el uso de las extensiones DwC.
 
-
 **Requisitos**
 
 * Para realizar este ejercicio, es necesario contar con un programa que procese archivos de texto. Por ejemplo, Excel.
