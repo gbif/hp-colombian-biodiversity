@@ -54,12 +54,13 @@ Las coordenadas deben estar escritas en pares de coordenadas, un par por línea.
 
 <b>Ejemplos de valores de entrada</b>:
 
->45° 32' 25" N, 129° 40' 31" W
-1 | 45.5° N, 129.6° W
-2 | 40°26′47″N,74° 0' 21.5022"W
->
+* 45° 32' 25" N, 129° 40' 31" W
+* 1 | 45.5° N, 129.6° W
+* 2 | 40°26′47″N,74° 0' 21.5022"W
+
 
 ## Paso 2 - Estandarización coordenadas originales
+
 Abra el archivo <FONT FACE="monospace"><b>«datos_canadensys.xlsx»</b></FONT>, el cual contiene el conjunto de datos de ejemplo. Luego, ubique los elementos que describen la latitud y longitud originales, <span class="tag is-success is-light"><i>verbatimLatitude</i></span> y <span class="tag is-success is-light"><i>verbatimLongitude</i></span>. Recuerde verificar que el separador decimal sea un punto (.) y **no** una coma (,). De lo contrario, la herramienta no podrá convertir las coordenadas. 
 
 Para cambiar el separador decimal en Excel, seleccione las columnas de <span class="tag is-success is-light"><i>verbatimLatitude</i></span> y <span class="tag is-success is-light"><i>verbatimLongitude</i></span>. Posteriormente, use la herramienta  <span class="tag is-warning is-light"><i>Buscar y reemplazar</i></span> (Ctrl+L) para hacer el cambio de coma (,) a punto (.) (Fig. 1).
