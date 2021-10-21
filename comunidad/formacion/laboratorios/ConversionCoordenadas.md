@@ -44,7 +44,7 @@ Ingrese a la aplicación en línea [_Coordinate conversion_](https://data.canade
 Las coordenadas deben estar escritas en pares de coordenadas, un par por línea. Opcionalmente, pueden estar precedidas por un identificador propio seguido por una tabulación o una barra vertical.
 
 >
-<b>Ejemplos de valores de entrada</b>:
+<b>Ejemplos de valores de entrada</b>:<br>
 45° 32' 25" N, 129° 40' 31" W
 1 | 45.5° N, 129.6° W
 2 | 40°26′47″N,74° 0' 21.5022"W
@@ -64,14 +64,14 @@ Adicionalmente, asegúrese de usar la notación adecuada de las coordenadas en g
 - **Grados**: usar símbolo de grado (°).
 - **Minutos**: usar apostrofe sencillo (').
 - **Segundos**: usar apostrofe doble (''). Si los segundos tiene decimales, recuerde que el separador decimal debe ser un punto (.) y no una (,).
-- **Hemisferio**: para la longitud usar Oeste (W) y Este (E); para la latitud usar Norte (N) y Sur (S).
+- **Hemisferio**: para la longitud, usar Oeste (W) y Este (E); para la latitud, usar Norte (N) y Sur (S).
 
 ## Paso 3 - Carga de las coordenadas
 
 Copie las celdas de los elementos  <span class="tag is-success is-light"><i>verbatimLatitude</i></span> y <span class="tag is-success is-light"><i>verbatimLongitude</i></span> (sin incluir el encabezado) desde el archivo Excel y péguelos directamente en el cuadro de texto de la herramienta (Fig. 2). 
 
 <div class="notification is-info is-light">
-  <b>Tip:</b> Cuando copie las coordenadas, incluya los espacios en blanco.
+  <b>Tip:</b> cuando copie las coordenadas, incluya los espacios en blanco.
 </div>
 
 Haga clic en el botón <span class="tag is-warning is-light"><i>Submit</i></span> para procesar los datos (Fig. 2).
@@ -89,7 +89,7 @@ Las coordenadas originales ingresadas aprecerán en la columna **"original"**, j
 <sub>*Figura 3. Resultado de la conversión de coordenadas.*</sub>
 
 <div class="notification is-info is-light">
-  <b>Nota:</b> Si ingresa coordenadas que ya se encuentran en coordenadas decimales, <i>Canadensys</i> no cambiará la información original.
+  <b>Nota:</b> si ingresa coordenadas que ya se encuentran en coordenadas decimales, <i>Canadensys</i> no cambiará la información original.
 </div>
 
 ## Paso 5 - Copiar resultados
@@ -100,7 +100,7 @@ Las coordenadas originales ingresadas aprecerán en la columna **"original"**, j
 Añada una nueva hoja de cálculo en el archivo Excel <FONT FACE="monospace"><b>«datos_canadensys.xlsx»</b></FONT> y nómbrela como <span class="tag is-light"><b>Coordenadas Canadensys</b></span>. Después, seleccione las tres primeras columnas (A, B, C) y asígneles el formato de texto (Fig. 4).
 
 <div class="notification is-info is-light">
-  <b>Nota:</b> El cambio de formato a texto es necesario para que Excel no haga interpretaciones sobre las nuevas coordenadas que puedan afectar la calidad de los datos. 
+  <b>Nota:</b> el cambio de formato a texto es necesario para que Excel no haga interpretaciones sobre las nuevas coordenadas que puedan afectar la calidad de los datos. 
 </div>
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.4_coordinateConversion.jpg" width=600>
@@ -116,6 +116,7 @@ Desde la herramienta de conversión de coordenadas, seleccione y copie  toda la 
 <sub>*Figura 5. Selección del resultado de la conversión mostarndo coordenadas originales y decimales.*</sub>
 
 Haga clic derecho en la esquina superior izquierda de la hoja y seleccione la opción <span class="tag is-warning is-light">Coincidir con formato de destino</span> (Fig. 6) para pegar el resultado en la hoja de Excel que creó y configuró en el paso anterior. 
+
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.6_coordinateConversion.jpg" width=500>
 
 <sub>*Figura 6. Opción de pegado correcto en Excel para no alterar el formato de las coordenadas decimales.*</sub>
