@@ -17,8 +17,7 @@ Utilizar _OpenRefine_ para administrar, validar y limpiar de manera eficiente da
 **Introducción**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qsqihcrgtc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+<br>
 **Sobre la Herramienta**
 
 [_OpenRefine_](https://openrefine.org/) es un software creado con el objetivo de pulir datos crudos hasta convertirlos en diamantes, los cuales son activos valiosos en la era del _BigData_.
