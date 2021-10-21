@@ -55,8 +55,8 @@ Las coordenadas deben estar escritas en pares de coordenadas, un par por línea.
 <b>Ejemplos de valores de entrada</b>:
 
 * 45° 32' 25" N, 129° 40' 31" W
-* 1 | 45.5° N, 129.6° W
-* 2 | 40°26′47″N,74° 0' 21.5022"W
+* 1 \|\ 45.5° N, 129.6° W
+* 2 \|\ 40°26′47″N,74° 0' 21.5022"W
 
 
 ## Paso 2 - Estandarización coordenadas originales
@@ -131,7 +131,7 @@ Haga clic derecho en la esquina superior izquierda de la hoja y seleccione la op
 
 <sub>*Figura 6. Opción de pegado correcto en Excel para no alterar el formato de las coordenadas decimales.*</sub>
 
-Posteriormente, seleccione las columnas <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span> (columnas B y C en el Excel) y copie el contenido (Fig. 7).
+Posteriormente, seleccione las columnas <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span> (B y C en el Excel) y copie el contenido (Fig. 7).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.7_coordinateConversion.jpg" width=500>
 
@@ -160,7 +160,7 @@ Descargue y compare el siguiente archivo, estandarizado según los pasos de esta
 
 ## Paso 7 - Datos propios
 
-Si tiene datos propios y desea publicarlos, intente seguir los pasos de este laboratorio para transformar las coordenadas a grados decimales.
+Si tiene datos propios y desea publicarlos, intente seguir los pasos de este laboratorio para convertir las coordenadas a grados decimales.
 
 ## Preguntas frecuentes sobre la conversión de coordenadas.
 
