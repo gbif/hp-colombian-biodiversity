@@ -18,7 +18,7 @@ Convertir las coordenadas geográficas que están en sistema de grados, minutos,
 Video introductorio de la herramienta, el cual da un contexto general sobre su uso. Si lo prefiere, puede seguir el paso a paso de la guía directamente.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ngOPiIOpwU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br>
 **Sobre la herramienta**
 
 La herramienta [_Coordinate conversion_](https://data.canadensys.net/tools/coordinates), desarrollada por [_Canadensys_](http://www.canadensys.net/) (nodo GBIF de Canadá), es una aplicación sencilla con una interfaz amigable que permite convertir coordenadas geográficas en sistema de grados minutos a grados decimales.
@@ -26,6 +26,15 @@ La herramienta [_Coordinate conversion_](https://data.canadensys.net/tools/coord
 **Enlace**
 
 _Coordinate conversion_: [https://data.canadensys.net/tools/coordinates](https://data.canadensys.net/tools/coordinates)
+
+**Convenciones**
+
+- Los elementos del estándar *Darwin Core* aparecen en color verde y cursiva. Por ejemplo: <span class="tag is-success is-light"><i>measurementUnit</i></span>.
+- Los archivos a utilizar en los ejercicios se muestran entre comillas angulares, negrita, y tienen una tipografía diferente. Por ejemplo: <FONT FACE="monospace"><b>«archivo_Ejemplo.xls»</b></FONT>.
+- Las secciones, ventanas y componentes de las herramientas utilizadas se muestran entre comillas inglesas y en negrita. Por ejemplo: **"Create Project"**.
+- Las opciones de las herramientas que se asocian a instrucciones (dar clic, seleccionar, etc.) aparecen en color amarillo y cursiva. Por ejemplo: <span class="tag is-warning is-light"><i>New project</i></span>.
+- Las secuencias de instrucciones y pasos se muestran en color amarillo, cursiva y negrita. Por ejemplo: <span class="tag is-warning is-light"><b><i>Paso 1 > Paso 2</i></b></span>.
+- Las líneas que se escriben directamente en las herramientas, para programar o realizar algún proceso en específico, aparecen en formato de código, con una tipografía distinta de color negro. Por ejemplo: <span class="tag is-light"><b>value.replace(" sp.","")</b></span>.
 
 **Requerimientos** 
 
@@ -43,9 +52,9 @@ Ingrese a la aplicación en línea [_Coordinate conversion_](https://data.canade
 
 Las coordenadas deben estar escritas en pares de coordenadas, un par por línea. Opcionalmente, pueden estar precedidas por un identificador propio seguido por una tabulación o una barra vertical.
 
->
-<b>Ejemplos de valores de entrada</b>:<br>
-45° 32' 25" N, 129° 40' 31" W
+<b>Ejemplos de valores de entrada</b>:
+
+>45° 32' 25" N, 129° 40' 31" W
 1 | 45.5° N, 129.6° W
 2 | 40°26′47″N,74° 0' 21.5022"W
 >
