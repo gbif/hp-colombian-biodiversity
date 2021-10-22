@@ -11,11 +11,11 @@ toc: true
 
 **Objetivo**
 
-Realizar la estandarización y conversión de fechas en distintos formatos al formato ISO 8601 (AAAA-MM-DD), de manera automática y masiva.
+Realizar la estandarización y conversión de fechas al formato ISO 8601 (AAAA-MM-DD), de manera automática y masiva.
 
 **Sobre la herramienta**
 
-La herramienta [_Date parsing_](https://data.canadensys.net/tools/dates), desarrollada por [_Canadensys_](http://www.canadensys.net/) (nodo GBIF de Canadá), permite transformar y estandarizar fechas de forma masiva, de acuerdo al estándar ISO 8601: AAAA-MM-DD, requerido para la documentación de fechas en el estándar _Darwin Core_.
+La herramienta [_Date parsing_](https://data.canadensys.net/tools/dates), desarrollada por [_Canadensys_](http://www.canadensys.net/) (nodo GBIF de Canadá), permite transformar y estandarizar fechas de forma masiva, de acuerdo al estándar ISO 8601 (AAAA-MM-DD), requerido para la documentación de fechas en el estándar _Darwin Core_.
 
 **Enlace**
 
@@ -43,8 +43,9 @@ Descargue el archivo [<FONT FACE="monospace"><b>«datos_canadensys.xlsx»</b></F
 ## Paso 1 - Ingreso
 Ingrese a la aplicación en línea [_Date parsing_](https://data.canadensys.net/tools/dates) y revise cuidadosamente las opciones disponibles para ingresar las fechas.
 
-```tip
-Las fechas pueden estar escritas en múltiples formatos, siempre y cuando **no haya ambiguedades**. Por ejemplo, cuando el año no se puede distinguir del mes o del día. Opcionalmente, las fechas pueden cargarse a la herramienta por medio del identificador de registro, seguido por una tabulación o una barra vertical, como se muestra en los siguientes ejemplos.
+<div class="notification is-info is-light">
+  <b>Tip:</b> las fechas pueden estar escritas en múltiples formatos, siempre y cuando <b>no haya ambiguedades</b>. Por ejemplo, cuando el año no se puede distinguir del mes o del día. Opcionalmente, las fechas pueden cargarse a la herramienta por medio del identificador de registro, seguido por una tabulación o una barra vertical, como se muestra en los siguientes ejemplos.
+</div>
 
 **Ejemplos de valores de entrada:**
 
@@ -52,12 +53,12 @@ Las fechas pueden estar escritas en múltiples formatos, siempre y cuando **no h
 * 15 Jan 2011
 * 2009 IV 02
 * VII 1986
-* 1 | 1999/02/24 (incluyendo un identificador del registro).
-* 2 | 02/17/1921 (incluyendo un identificador del registro).
+* 1 \| 1999/02/24 (incluyendo un identificador del registro).
+* 2 \| 02/17/1921 (incluyendo un identificador del registro).
 
 ## Paso 2 - Carga de las fechas
 
-Abra en Excel el archivo <FONT FACE="monospace"><b>«datos_canadensys.xlsx»</b></FONT> y busque la información temporal. Encontrará la columna <span class="tag is-success is-light"><i>verbatimEventDate</i></span> (registro en el formato original en el cual fue tomado) con fechas de colecta en formatos diferentes. Luego, seleccione la columna <span class="tag is-success is-light"><i>verbatimEventDate</i></span> y cópiela sin el encabezado (Fig. 1).
+Entre a Excel, abra el archivo <FONT FACE="monospace"><b>«datos_canadensys.xlsx»</b></FONT> y busque la información temporal de los registros. Encontrará la columna <span class="tag is-success is-light"><i>verbatimEventDate</i></span>, la cual contiene las fechas de colecta en el formato original. Luego, seleccione la columna <span class="tag is-success is-light"><i>verbatimEventDate</i></span> y cópiela sin el encabezado (Fig. 1).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.1_dateParsing.JPG" width=400>
 
@@ -71,7 +72,7 @@ Entre a la aplicación _Date parsing_ y pegue los datos previamente copiados. Lu
 
 ## Paso 3 - Resultados
 
-Las fechas originales ingresadas apareceran en la columna **"original"**, que corresponde al elemento <span class="tag is-success is-light"><i>verbatimEventDate</i></span>, junto con cuatro nuevas columas: <span class="tag is-success is-light"><i>year</i></span>, <span class="tag is-success is-light"><i>month</i></span>, <span class="tag is-success is-light"><i>day</i></span> (correspondientes  al estándar DwC) e **"ISO 8601"**, que es el resultado de la estandarización y corresponde al elemento DwC <span class="tag is-success is-light"><i>eventDate</i></span> (Fig. 3).
+Las fechas originales ingresadas apareceran en la columna **"original"**, que corresponde al elemento <span class="tag is-success is-light"><i>verbatimEventDate</i></span>, junto con cuatro nuevas columas: <span class="tag is-success is-light"><i>year</i></span>, <span class="tag is-success is-light"><i>month</i></span>, <span class="tag is-success is-light"><i>day</i></span> (equivalentes al estándar DwC) e **"ISO 8601"**, que es el resultado de la estandarización y corresponde al elemento DwC <span class="tag is-success is-light"><i>eventDate</i></span> (Fig. 3).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.3_dateParsing.JPG" width=800>
 
@@ -82,7 +83,7 @@ Las fechas originales ingresadas apareceran en la columna **"original"**, que co
     <p>¡Precaución!</p>    
   </div>
   <div class="message-body">
-    Cuando las fechas son ambiguas, la herramienta no puede reconocer el formato de la fecha y muesta la fila de la fecha en rojo (Fig. 4). Esto ocurre cuando no es posible identificar los componentes (año, mes, día) con claridad. Por ejemplo, en la fecha 02/05/07, ¿el año es 2002 o 2007?. Además, pueden haber inconvenientes cuando hay combinaciones de texto y número (Ej. Abr-2009), ya que el idioma original de la herramienta es el inglés y en ocasiones no reconoce algunos meses en español.
+    Cuando las fechas son ambiguas, la herramienta no puede reconocer el formato de la fecha y muesta la fila de la fecha en rojo (Fig. 4). Esto ocurre cuando no es posible identificar los componentes (año, mes, día) con claridad. Por ejemplo, en la fecha 02/05/07, ¿el año es 2002 o 2007? Además, pueden haber inconvenientes cuando existen combinaciones de texto y número (Ej. Abr-2009), ya que el idioma original de la herramienta es el inglés. Por lo tanto, ocasionalmente no reconoce algunos meses en español.
     Si se presentan estas ambiguedades, es necesario hacer una corrección manual con base en el contexto de los datos.
   </div>
 </article>
@@ -96,13 +97,13 @@ Las fechas originales ingresadas apareceran en la columna **"original"**, que co
 
 ### 4.1. Preparar el archivo para incorporar los resultados
  
-En el archivo de Excel <FONT FACE="monospace"><b>«datos_canadensys.xlsx»</b></FONT>, agregue cinco columnas a la izquierda de la columna con las fechas originales. Para esto, ubíquese en el encabezado de la columna <span class="tag is-success is-light"><i>verbatimEventDate</i></span>, dé *clic derecho* en <span class="tag is-warning is-light"><i>Insertar</i></span>. Repita este paso 4 veces (Fig. 5).
+En el archivo <FONT FACE="monospace"><b>«datos_canadensys.xlsx»</b></FONT>, agregue cinco columnas a la izquierda de la columna con las fechas originales. Para esto, ubíquese en el encabezado de la columna <span class="tag is-success is-light"><i>verbatimEventDate</i></span> y dé *clic derecho* en <span class="tag is-warning is-light"><i>Insertar</i></span>. Repita este paso 4 veces (Fig. 5).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.5_dateParsing.jpg" width=600>
 
 <sup>*Figura 5. Proceso para insertar nuevas columnas en Excel.*<sup>
 
-En el documento de Excel, configure las columnas que creó en formato texto (Fig. 6)
+En las opciones de Excel, configure las columnas que creó en formato texto (Fig. 6)
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.8_DateParsing.png" width=800>
 
@@ -111,7 +112,7 @@ En el documento de Excel, configure las columnas que creó en formato texto (Fig
  
 ### 4.2. Copiar resultados
  
-Diríjase a la herramienta _Date Parsisng_, seleccione y copie toda la tabla con el resultado de la conversión incluyendo el encabezado. Para el copiado pude ayudarse del _mouse_ de su equipo, desplazándose desde el inicio hasta el final de la tabla con el clic izquierdo sostenido. (Fig. 7).
+Diríjase a la herramienta _Date Parsing_, seleccione y copie toda la tabla con el resultado de la conversión, incluyendo el encabezado. Para facilitar la selección y el copiado, pude apoyarse en el _mouse_ de su equipo, desplazándose desde el inicio hasta el final de la tabla con el clic izquierdo sostenido. (Fig. 7).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.6_dateParsing.jpg" width=800>
 
@@ -122,18 +123,18 @@ Diríjase a la herramienta _Date Parsisng_, seleccione y copie toda la tabla con
  Siga estos pasos para pegar la tabla copiada en el archivo Excel:
 
  1. Ubíquese sobre las celdas insertadas en el paso 5 (Fig. 8A).
- 2. En el menú superior, haga clic en <span class="tag is-warning is-light"><i>Inicio</i></span> y seleccione <span class="tag is-info is-warning"><b><i>Pegar > Pegado especial</i></b></span> (Fig. 8B).
+ 2. En el menú superior, haga clic en <span class="tag is-warning is-light"><i>Inicio</i></span> y seleccione <span class="tag is-light is-warning"><b><i>Pegar > Pegado especial</i></b></span> (Fig. 8B).
  3. En el menú de <span class="tag is-warning is-light"><i>Pegado especial</i></span>, seleccione <span class="tag is-warning is-light"><i>Texto</i></span> y luego <span class="tag is-warning is-light"><i>Aceptar</i></span> (Fig. 8C).
 
 <div class="notification is-info is-light">
-  <b>Tip:</b> el pegado especial en formato texto es indispensable para que Excel no haga interpretaciones erróneas sobre las fechas ya estandarizadas. Si no se tiene en cuenta, Excel revertirá las fechas a otro formato y el trabajo realizado podría perderse.
+  <b>Tip:</b> el pegado especial en formato texto es indispensable para que Excel no haga interpretaciones erróneas sobre las fechas ya estandarizadas. Si no se tiene en cuenta, el programa revertirá las fechas a otro formato y el trabajo realizado podría perderse.
 </div>
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.7_dateParsing.jpg" width=800>
 
 <sup>*Figura 8. Pasos para insertar las fechas copiadas con formato texto: A. Ubicar la celda en donde se pegarán los resultados, B. Desplegar las opciones de pegado especial, C. Seleccionar la opción texto en el menú de pegado especial.*</sup>
 
-Luego de realizar este procedimiento, verá las columnas incorporadas en el Excel (Fig. 9). Sin embargo, la columna con la fecha del evento original se ha duplicado.
+Luego de realizar este procedimiento, verá las columnas incorporadas en el Excel (Fig. 9). Sin embargo, la columna con la fecha del evento original estará duplicada.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.8_dateParsing.JPG" width=600>
 
@@ -142,9 +143,9 @@ Luego de realizar este procedimiento, verá las columnas incorporadas en el Exce
 Por consiguiente, para finalizar la estandarización, es pertinente renombrar y eliminar algunas columnas:
 
 - Eliminar la columna **"original"**.
-- Cambiar el nombre de la columna **"ISO 8601"** por <span class="tag is-warning is-light"><i>eventDate</i></span>.
+- Cambiar el nombre de la columna **"ISO 8601"** por <span class="tag is-success is-light"><i>eventDate</i></span>.
 
-> Recuerde que puede aplicar este procedimiento a todos los elementos asociados a fechas en el estándar DwC, tales como <span class="tag is-warning is-light"><i>dateIdentified</i></span>,(fecha de identificación), <span class="tag is-warning is-light"><i>georeferencedDate</i></span> (fecha de georreferenciación), etc.
+> Recuerde que puede aplicar este procedimiento a todos los elementos asociados a fechas en el estándar DwC, tales como <span class="tag is-warning is-light"><i>dateIdentified</i></span>(fecha de identificación), <span class="tag is-warning is-light"><i>georeferencedDate</i></span> (fecha de georreferenciación), etc.
 >
  
 ## Paso 5 - Verificación del resultado
@@ -158,8 +159,7 @@ Descargue y compare el siguiente archivo, estandarizado según los pasos de esta
 Si tiene datos propios y desea publicarlos, intente seguir los pasos de este laboratorio para convertir las fechas al formato ISO 8601.
 
 ****
-**¡Felicitaciones!** :raised_hands: 
-Terminó la conversión de las fechas del conjunto de datos a el estándar ISO 8601. 
+**¡Felicitaciones!** Terminó la conversión de las fechas del conjunto de datos a el estándar ISO 8601. 
 
 ****
 
@@ -170,8 +170,6 @@ Terminó la conversión de las fechas del conjunto de datos a el estándar ISO 8
 La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, redistribuir y construir sobre estos contenidos libremente. 
 
 ¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
-
-Queremos que compartas estos laboratorios y que juntos logremos datos sobre biodiversidad de mejor calidad.
 
 **Citación sugerida**
 
