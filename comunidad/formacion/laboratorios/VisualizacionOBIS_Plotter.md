@@ -15,8 +15,8 @@ Visualizar y validar las coordenadas con ayuda de un proceso de espacialización
 
 **Sobre la herramienta**
 
-La herramienta [OBIS Plotter](http://iobis.github.io/plotter/), desarrollada por [OBIS](https://obis.org/) (Sistema de información de biodiversidad oceánico),  permite la visualización de los datos sobre un mapa para verificar la correcta espacialización de los datos.
-En este ejercicio usted deberá convertir las coordenadas al formato grados decimales haciendo uso de esta herramienta.
+La herramienta [OBIS _Plotter_](http://iobis.github.io/plotter/), desarrollada por [OBIS](https://obis.org/) (Sistema Oceánico de Información sobre biodiversidad),  permite la visualización de los datos en un mapa para verificar la correcta espacialización de estos. 
+En este ejercicio, deberá convertir las coordenadas al formato de grados decimales por medio de esta herramienta.
 
 
 **Enlace**
@@ -24,77 +24,96 @@ En este ejercicio usted deberá convertir las coordenadas al formato grados deci
 
 **Requerimientos** 
 
-* Para realizar este ejercicio debe contar con un programa procesador de archivos de texto como Excel.
+* Para realizar este ejercicio, es necesario con un programa procesador de archivos de texto como Excel.
 * La herramienta solo admite archivos en formato de texto delimitado (.CSV, .txt) o copiados directamente de Excel.
-* Los datos deben estar estandarizados en formtado DwC y contar con laitud y longitud.
+* Los datos deben estar estandarizados en formato DwC y contar con latitud y longitud.
 
 **Archivo de trabajo**
 
-Descargue el archivo [```datos_geografia.xlsx```](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/datos_geografia.xlsx) 
-
-:warning: Estamos puliendo este laboratorio, la guía puede presentar cambios menores de formato y estilo para una mejor navegación y aprendizaje.
-
---------
+Descargue el archivo [<FONT FACE="monospace"><b>«datos_geografia.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/datos_geografia.xlsx) 
 
 ## Paso 1 - Ingreso a OBIS Plotter
-Ingrese a la herramienta en linea [OBIS Plotter](http://iobis.github.io/plotter/). En esta hay unos datos precargados de prueba, puede dar clic al botón ```PLOT``` y explorar el resultado (Fig. 1).
+
+Ingrese a la herramienta en linea [OBIS _Plotter_](http://iobis.github.io/plotter/), allí encontrará unos datos precargados de prueba. Para explorar el resultado, dé clic al botón <span class="tag is-warning is-light"><i>PLOT</i></span> (Fig. 1).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.1_valCoordenadas.JPG" width=500>
 
-*Figura 1. Página principal de la herramienta OBIS Plotter*
+<sub>_Figura 1. Página principal de la herramienta OBIS Plotter_</sub>.
 
-Despues de explorar el resultado, borre los datos de prueba presentes en ```Source data```, para esto ubique el cursor dentro de la caja y seleccione todo con el comando **(Ctrl + A)**, enseguida presione la tecla Suprimir **(Supr)** o borrar 
-**(Backspace)**. 
-
+Despues de explorar el resultado, borre los datos de prueba presentes en _**"Source data"**_. Para esto, ubique el cursor dentro de la caja y seleccione todo con el comando <span class="tag is-warning is-light"><i>Ctrl + A</i></span>. Luego, presione la tecla Suprimir (<span class="tag is-warning is-light"><i>supr</i></span>) o borrar (<span class="tag is-warning is-light"><i>Backspace/<---</i></span>).
 
 ## Paso 2 - Carga de datos
-Abra en Excel el archivo ```datos_geografia.xlsx``` y detalle la información que contiene. Copie todos los datos del archivo, dando clic en la esquina superior izquierda para seleccionar todas las filas y columnas, luego copielos con  **(Ctrl+C)** (Fig. 2).
+  
+Abra el archivo <FONT FACE="monospace"><b>«datos_geografia.xlsx»</b></FONT> en Excel y detalle la información que contiene. Luego, haga clic en la esquina superior izquierda del archivo para seleccionar todas las filas y columnas, y cópielas con <span class="tag is-warning is-light"><i>Ctrl + C</i></span> (Fig. 2).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.2_valCoordenadas.jpg" width=500>
 
-*Figura 2. Resultado de la herramienta con los datos del archivo Excel*
+<sub>_Figura 2. Resultado de la herramienta con los datos del archivo Excel_</sub>.
 
-Pege **(Ctrl+V)** los datos en la sección ```Source data``` de la herramienta. En la sección ```Separator``` deje la opción por defecto *tab* y de clic en ```Plot``` para ver los puntos desplegados en el mapa (Fig. 3).
+Use <span class="tag is-warning is-light"><i>Ctrl + V</i></span> los datos en la sección _**"Source data"**_ de la herramienta. En la sección _**"Separator"**_, deje la opción por defecto (<span class="tag is-warning is-light"><i>tab</i></span> y haga clic en <span class="tag is-warning is-light"><i>Plot</i></span> para ver los puntos desplegados en el mapa (Fig. 3).
+  
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.3_valCoordenadas.jpg" width=500>
 
-*Figura 3. Resultado de la herramienta con los datos del archivo Excel*
+  <sub>_Figura 3. Resultado de la herramienta con los datos del archivo Excel_</sub>.
 
 ## Paso 3 - Visualización de resultados
-En la sección ```Field of interest```, de clic sobre el desplegable y podrá ver los elementos Darwin Core del Source data (Fig. 4). La herramienta asigna colores según el contenido del elemento. Si los puntos tienen los mismos colores, es porque el contenido para el elemento seleccionado es igual. 
+  
+En la sección _**"Field of interest"**_, dé clic sobre el desplegable <span class="tag is-warning is-light"><i>Select field</i></span> para ver los elementos _Darwin Core_ del _**"Source data"**_ (Fig. 4). La herramienta asigna colores según el contenido del elemento. Si los puntos tienen los mismos colores, significa que el contenido para el elemento seleccionado es igual.
+  
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.4_valCoordenadas.jpg" width=500>
 
-*Figura 4. Selección de elemento en ```Field of interest```*
+  <sub>_Figura 4. Selección de elemento en **"Field of interest"**_</sub>.
 
-Seleccione el elemento *stateProvince* en la sección ```Field of interest```. Verá los registros que tenían documentado el departamento, intente identificar cuáles registros tienen inconsistencias en las coordenadas o la geografía superior, dando clic sobre los puntos y evaluando su coherencia (Fig. 5). 
+Seleccione el elemento <span class="tag is-success is-light"><i>stateProvince</i></span> en la sección _**"Field of interest"**_ y podrá observar los registros que tenían documentado el departamento. Posteriormente, intente identificar cuáles registros tienen inconsistencias en las coordenadas o la geografía superior, haciendo clic sobre los puntos para evaluar su coherencia (Fig. 5). 
+  
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.5_valCoordenadas.jpg" width=500>
 
-*Figura 5. Registros mostrando la información por departamento*
+  <sub>_Figura 5. Registros mostrando la información por departamento_</sub>
 
-Identifique los errores presenten en este conjunto de datos, para ello puede guiarse por los resultados del mapa. Como verá hay puntos que coincidieron con Perú y otros con el área marítima. Los datos que coinciden con Perú tienen un error en las coordenadas. **¿Sabe cuál es?** 
+Para identificar los errores presentes en este conjunto de datos, puede guiarse por los resultados del mapa. Como se evidencia en los resultados, algunos puntos coincidieron con Perú y otros con el área marítima. Los datos que coinciden con Perú tienen un error en las coordenadas, **¿sabe cuál es?**.
 
->Nota
-Los registros en áreas marítimas corresponden a registros sin coordenadas a los cuales la herramienta asigna la coordenada 0,0.
+<div class="notification is-info is-light">
+  <b>Nota:</b> los registros que aparecen en áreas marítimas corresponden a registros sin coordenadas, ya que la herramienta les asigna la coordenada 0,0.
+</div>
 
 ## Paso 4 - Corrección de errores
-Corrija el error en el documento de Excel, para esto cambie el hemisferio en el elemento ```decimalLatitude``` quitando el signo negativo a las coordenadas que tienen hemisferio Sur (S). 
-Para esto, haga un filtro en excel en el  elemento ```verbatimLatitude```, buscando los registros que coinciden con el hemisferio Sur “S” (Fig. 6).
+  
+Con el fin de corregir los errores existentes en el documento de Excel, se debe eliminar el signo negativo que tienen las coordenadas del hemisferio Sur (S) en el elemento <span class="tag is-success is-light"><i>decimalLatitude</i></span>. Para esto, use las funciones de Excel para hacer un filtro en el elemento span class="tag is-success is-light"><i>verbatimLatitude</i></span> y busque los registros que coinciden con el hemisferio Sur “S” (Fig. 6).
+
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.6_valCoordenadas.jpg" width=400>
 
-*Figura 6. Filtro para buscar los registros del hemisferio Sur*
+<sub>_Figura 6. Filtro para buscar los registros del hemisferio Sur_</sub>.
 
-Luego dirijase al elemento ```decimalLatitude``` y verá que después del filtro anterior, las latitudes tienen un signo negativo. Cámbielo a positivo seleccionando las celdas de ```decimalLatitude``` y use la función **Buscar y Reemplazar (CTRL+L)** de Excel, llenando la ventana emergente y cambiando "-" por "" (Fig. 7).
+Después, vaya al elemento <span class="tag is-success is-light"><i>decimalLatitude</i></span> para ver las latitudes que tienen un signo negativo. Para cambiarlo a positivo, seleccione las celdas correspondientes de <span class="tag is-success is-light"><i>decimalLatitude</i></span> y use la función <span class="tag is-warning is-light"><i>Buscar y Reemplazar</i></span> o <span class="tag is-warning is-light"><i>CTRL + L</i></span>. Cuando aparezca la ventana emergente, cambie los signos negativos (<span class="tag is-light"><b></b></span>) por un espacio en blanco (Fig. 7).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.7_valCoordenadas.jpg" width=800>
 
-*Figura 7. Ventana emergente para reemplazar y eliminar el signo "-"*
+<sub>_Figura 7. Ventana emergente para reemplazar y eliminar el signo "-"_</sub>.
 
-**Reto...**
+**¡Reto!**
 ¿Puede identificar otro error en los registros? 
->Pista: Con stateProvince en Field of interest dele una mirada al Sur de Antioquia. 
+
+>**Pista:** Con <span class="tag is-success is-light"><i>stateProvince</i></span> en _**"Field of interest"**_, revise el sur de Antioquia.
+>
 
 ## Paso 5 - Datos propios
-Si tiene datos propios que desee publicar, utilice la herramienta para validar las coordenadas e identificar errores siguiendo los pasos de este laboratorio.
+
+Si tiene datos propios y desea publicarlos, intente seguir los pasos de este laboratorio para validar las coordenadas e identificar errores por medio de OBIS _Plotter_.
 
 ****
-**¡Felicitaciones!** :raised_hands:
-Terminó la visualización y validación de coordenadas del conjunto de datos.
+**¡Felicitaciones!** Terminó la visualización y validación de coordenadas del conjunto de datos.
+
+****
+
+**Atribución y uso de los laboratorios**
+
+![](https://licensebuttons.net/l/by/3.0/88x31.png)
+
+La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, redistribuir y construir sobre estos contenidos libremente.
+
+¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
+
+**Citación sugerida**
+
+> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
+>
