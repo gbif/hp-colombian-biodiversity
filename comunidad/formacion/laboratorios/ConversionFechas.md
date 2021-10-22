@@ -44,7 +44,7 @@ Descargue el archivo [<FONT FACE="monospace"><b>«datos_canadensys.xlsx»</b></F
 Ingrese a la aplicación en línea [_Date parsing_](https://data.canadensys.net/tools/dates) y revise cuidadosamente las opciones disponibles para ingresar las fechas.
 
 <div class="notification is-info is-light">
-  <b>Tip:</b> las fechas pueden estar escritas en múltiples formatos, siempre y cuando <b>no haya ambiguedades</b>. Por ejemplo, cuando el año no se puede distinguir del mes o del día. Opcionalmente, las fechas pueden cargarse a la herramienta por medio del identificador de registro, seguido por una tabulación o una barra vertical, como se muestra en los siguientes ejemplos.
+  <b>Tip:</b> las fechas pueden estar escritas en múltiples formatos, siempre y cuando no haya ambiguedades. Por ejemplo, cuando el año no se puede distinguir del mes o del día. Opcionalmente, las fechas pueden cargarse a la herramienta por medio del identificador de registro, seguido por una tabulación o una barra vertical, como se muestra en los siguientes ejemplos.
 </div>
 
 **Ejemplos de valores de entrada:**
@@ -90,7 +90,7 @@ Las fechas originales ingresadas apareceran en la columna **"original"**, que co
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.4_dateParsing.JPG" width=500>
 
-<sup>*Figura 4. Ejemplo de fechas ambiguas, donde la herramienta no reconoce el formato y no puede hacer la transformación (en rojo).*<sup>
+<sup>*Figura 4. Ejemplo de fechas ambiguas, donde la herramienta no reconoce el formato y no puede hacer la conversión (en rojo).*<sup>
 
 
 ## Paso 4 - Incorporar resultados en tabla DwC.
@@ -103,7 +103,7 @@ En el archivo <FONT FACE="monospace"><b>«datos_canadensys.xlsx»</b></FONT>, ag
 
 <sup>*Figura 5. Proceso para insertar nuevas columnas en Excel.*<sup>
 
-En las opciones de Excel, configure las columnas que creó en formato texto (Fig. 6)
+En las opciones de Excel, configure las columnas que creó en formato de texto (Fig. 6)
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.8_DateParsing.png" width=800>
 
@@ -112,7 +112,7 @@ En las opciones de Excel, configure las columnas que creó en formato texto (Fig
  
 ### 4.2. Copiar resultados
  
-Diríjase a la herramienta _Date Parsing_, seleccione y copie toda la tabla con el resultado de la conversión, incluyendo el encabezado. Para facilitar la selección y el copiado, pude apoyarse en el _mouse_ de su equipo, desplazándose desde el inicio hasta el final de la tabla con el clic izquierdo sostenido. (Fig. 7).
+Diríjase a la herramienta _Date Parsing_, seleccione y copie toda la tabla con el resultado de la conversión, incluyendo el encabezado. Para facilitar la selección y el copiado, puede apoyarse en el _mouse_ de su equipo, desplazándose desde el inicio hasta el final de la tabla con el clic izquierdo sostenido. (Fig. 7).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.6_dateParsing.jpg" width=800>
 
@@ -127,7 +127,7 @@ Diríjase a la herramienta _Date Parsing_, seleccione y copie toda la tabla con 
  3. En el menú de <span class="tag is-warning is-light"><i>Pegado especial</i></span>, seleccione <span class="tag is-warning is-light"><i>Texto</i></span> y luego <span class="tag is-warning is-light"><i>Aceptar</i></span> (Fig. 8C).
 
 <div class="notification is-info is-light">
-  <b>Tip:</b> el pegado especial en formato texto es indispensable para que Excel no haga interpretaciones erróneas sobre las fechas ya estandarizadas. Si no se tiene en cuenta, el programa revertirá las fechas a otro formato y el trabajo realizado podría perderse.
+  <b>Tip:</b> el pegado especial en formato de texto es indispensable para que Excel no haga interpretaciones erróneas sobre las fechas ya estandarizadas. Si no se tiene en cuenta, el programa revertirá las fechas a otro formato y el trabajo realizado podría perderse.
 </div>
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.7_dateParsing.jpg" width=800>
