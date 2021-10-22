@@ -21,7 +21,7 @@ En este ejercicio, deberá convertir las coordenadas al formato de grados decima
 
 **Enlace**
 
-[http://iobis.github.io/plotter/](http://iobis.github.io/plotter/)
+OBIS _Plotter_: [http://iobis.github.io/plotter/](http://iobis.github.io/plotter/)
 
 **Requerimientos** 
 
@@ -79,13 +79,15 @@ Para identificar los errores presentes en este conjunto de datos, puede guiarse 
 
 ## Paso 4 - Corrección de errores
   
-Con el objetivo de corregir los errores existentes en el documento de Excel, se debe eliminar el signo negativo que tienen las coordenadas del hemisferio Sur (S) en el elemento <span class="tag is-success is-light"><i>decimalLatitude</i></span>. Para esto, use las funciones de Excel para hacer un filtro en el elemento <span class="tag is-success is-light"><i>verbatimLatitude</i></span> y busque los registros que coinciden con el hemisferio Sur, escribiendo (<span class="tag is-light"><b>S</b></span>) en el cuadro de texto (Fig. 6).
+Con el objetivo de corregir los errores existentes en el documento de Excel, se debe eliminar el signo negativo que tienen las coordenadas del hemisferio Sur (S) en el elemento <span class="tag is-success is-light"><i>decimalLatitude</i></span>. Para esto, use las funciones de Excel para hacer un filtro en el elemento <span class="tag is-success is-light"><i>verbatimLatitude</i></span> y busque los registros que coinciden con el hemisferio Sur, escribiendo <span class="tag is-light"><b>S</b></span> en el cuadro de texto (Fig. 6).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.6_valCoordenadas.jpg" width=400>
 
 <sub>_Figura 6. Filtro para buscar los registros del hemisferio Sur_.</sub>
 
-Después, vaya al elemento <span class="tag is-success is-light"><i>decimalLatitude</i></span> para ver las latitudes que tienen un signo negativo. Para cambiarlo a positivo, seleccione las celdas correspondientes de <span class="tag is-success is-light"><i>decimalLatitude</i></span> y use la función <span class="tag is-warning is-light"><i>Buscar y Reemplazar</i></span> o <span class="tag is-warning is-light"><i>CTRL + L</i></span>. Cuando aparezca la ventana emergente, cambie los signos negativos (<span class="tag is-light"><b>-</b></span>) por un espacio en blanco (Fig. 7).
+Después, vaya al elemento <span class="tag is-success is-light"><i>decimalLatitude</i></span> para ver las latitudes que tienen un signo negativo. Para cambiarlo a positivo, seleccione las celdas correspondientes de <span class="tag is-success is-light"><i>decimalLatitude</i></span> y use la función <span class="tag is-warning is-light"><i>Buscar y Reemplazar</i></span> o <span class="tag is-warning is-light"><i>CTRL + L</i></span>. 
+
+Cuando aparezca la ventana emergente, cambie los signos negativos (<span class="tag is-light"><b>-</b></span>) por un espacio en blanco (Fig. 7).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.7_valCoordenadas.jpg" width=800>
 
