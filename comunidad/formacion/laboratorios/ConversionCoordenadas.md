@@ -199,7 +199,7 @@ Una vez que se haya incorporado el nuevo sistema de coordenadas y los datos est�
 Para ello, puede hacer la conversión a CTM12 por medio de una herramienta SIG o usar el [Servicio de conversión de coordenadas](https://origen.igac.gov.co/herramientas.html). Este último permite realizar conversiones individuales o masivas.
 
 ****
-**¡Felicitaciones!** Terminó la conversión de coordenadas del conjunto de datos al formato frados decimales.
+**¡Felicitaciones!** Terminó la conversión de coordenadas del conjunto de datos al formato grados decimales.
 
 ****
 
