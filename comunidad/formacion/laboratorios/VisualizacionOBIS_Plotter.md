@@ -97,7 +97,7 @@ Cuando aparezca la ventana emergente, cambie los signos negativos (<span class="
 
 ¿Puede hallar otro error en los registros? 
 
->**Pista:** Con <span class="tag is-success is-light"><i>stateProvince</i></span> en _**"Field of interest"**_, revise el sur de Antioquia.
+>**Pista:** con <span class="tag is-success is-light"><i>stateProvince</i></span> en _**"Field of interest"**_, revise el sur de Antioquia.
 >
 
 ## Paso 5 - Datos propios
