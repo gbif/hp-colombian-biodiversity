@@ -12,94 +12,99 @@ toc: true
 
 **Objetivo**
 
-Visualizar y validar con la herramienta QGIS la coherencia de la ubicación de las coordenadas respecto a la geografía superior documentada en los datos.
+Visualizar y validar la coherencia de la ubicación de las coordenadas con respecto a la geografía superior de los datos por medio de la herramienta QGIS.
 
 **Introducción**
 
-Video introductorio de la 3 guía, da un contexto general sobre las herramienta y el desarrollo de la guía. Si lo prefiere pude realizar la guía siguiendo el paso a paso sin necesidad de ver el video.
+Video introductorio de la herramienta, el cual da un contexto general sobre su uso. Si lo prefiere, puede seguir el paso a paso de la guía directamente.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2Fy6aa7pR9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br>
 **Sobre la herramienta**
 
-:earth_americas:  [QGIS](https://qgis.org/es/site/about/index.html) es un software para manejo de información geográfica que se ejecuta sobre multiples sistemas operativos como Linux, Unix, Mac OSX, Windows y Android. Ademas, soporta numerosos formatos y funcionalidades de datos vector, datos ráster y bases de datos. QGIS proporciona una creciente gama de capacidades a través de sus funciones básicas y complementos con los que podrá visualizar, gestionar, editar, analizar datos y diseñar mapas imprimibles. 
+[QGIS](https://qgis.org/es/site/about/index.html) es un software de gestión de información geográfica que se ejecuta en múltiples sistemas operativos como Linux, Unix, Mac OSX, Windows y Android. Además, soporta numerosos formatos y funcionalidades de datos vector, datos ráster y bases de datos. QGIS proporciona una creciente gama de servicios a través de sus funciones básicas y complementos para visualizar, gestionar, editar, analizar datos y diseñar mapas imprimibles. 
 
-QGIS es un _software_ libre y de código abierto licenciado bajo _GNU - 
-General Public License_, soportado como un proyecto de la _Open Source Geospatial Foundation (OSGeo)_ por lo cual no requiere el pago de licencias. Es impulsado por un grupo de voluntarios que mantienen el software actualizado y las versiones estables, lo que lo mantiene a la par de otros software geográficos mas conocidos.
+QGIS es un _software_ libre y de código abierto licenciado bajo una GNU (_General Public License_) y soportado como un proyecto de la _Open Source Geospatial Foundation_ (OSGeo). Por lo tanto, no requiere el pago de licencias. Adicionalmente, es impulsado por un grupo de voluntarios que mantienen el software actualizado y las versiones estables, lo cual sostiene a QGIS como uno de los software geográficos mas conocidos.
 
 
 **Requerimientos** 
 
-* Instalar QGIS, aquí se detallan las instrucciones básicas de instalación.
+* Instalar QGIS (en esta guía se detallan las instrucciones básicas de instalación).
 
 * Contar con un procesador de archivos de texto como Excel.
 
-* Contar con un mínimo de 4GB de memoria RAM para el desarollo de esta guía. Sin embargo, para procesos con más de 20.000 registros biológicos se recomienda tener por lo menos 8GB. 
+* Contar con un mínimo de 4GB de memoria RAM para el desarollo de esta guía. Sin embargo, para procesos con más de 20.000 registros biológicos, se recomienda tener por lo menos 8GB. 
 
-* Para un mejor rendimiento no habra junto a QGIS otros programas que consuman muchos recursos del computador.
+* No abrir QGIS junto con otros programas que consuman muchos recursos del computador.
 
 **Archivos de trabajo.**
 
-* Descargue el archivo [```datos_geografia.zip```](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/datos_geografia.zip) para realizar el laboratorio.
+* Descargue el archivo [<FONT FACE="monospace"><b>«datos_geografia.zip»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/datos_geografia.zip) para realizar el laboratorio.
 
-* Descargue la carpeta [```ValidacionGeografica_SiB-QGIS```](https://gitlab.com/sib-colombia/data-quality/-/raw/master/ValidacionGeografica_SiB-QGIS.zip?inline=false) con el proyecto de QGIS, que tiene todas las capas necesarias para realizar el laboratorio.
+* Descargue la carpeta [<FONT FACE="monospace"><b>«ValidacionGeografica_SiB-QGIS»</b></FONT>](https://gitlab.com/sib-colombia/data-quality/-/raw/master/ValidacionGeografica_SiB-QGIS.zip?inline=false) con el proyecto de QGIS, el cual tiene todas las capas necesarias para realizar el laboratorio.
 
 --------
 
 ## Paso 1 - Instalación de QGIS
 
-1. Diríjase al [enlace de descarga de QGIS](  https://qgis.org/es/site/forusers/download.html), acá encontrará los instaladores para todos los sistemas operativos. 
-2. Descargue preferiblemente la versión disponible con **soporte a largo plazo (más estable)** de acuerdo al sistema operativo de su ordenador. Si es usuario de Windows seleccione la opción de descarga 32 bits o 64 bits según su sistema operativo. Para estar seguro de la versión de su sistema, en el explorador de archivos, diríjase a ```Este equipo```, haga clic derecho y seleccione la opción ```Propiedades``` y revise la sección ```tipo de sistema```.
+1. Diríjase al [enlace de descarga de QGIS](https://qgis.org/es/site/forusers/download.html), donde encontrará los instaladores para todos los sistemas operativos. 
+2. Descargue preferiblemente la versión disponible con **soporte a largo plazo (más estable)**, de acuerdo al sistema operativo de su ordenador. Si es usuario de Windows seleccione la opción de descarga 32 bits o 64 bits según su sistema operativo. Para estar seguro de la versión de su sistema, en el explorador de archivos, diríjase a ```Este equipo, haga clic derecho y seleccione la opción <span class="tag is-warning is-light"><i>Propiedades</i></span>. Luego, revise la sección _**"Tipo de sistema"**_.
 3. Una vez finalice la descarga, ejecute el archivo descargado, haciendo clic sobre el archivo.
 4. Siga los pasos de instalación en su ordenador.
 
-``` tip
-Puede encontrar instrucciones más específicas de instalación en la [página de descargas](https://qgis.org/es/site/forusers/alldownloads.html), y en este [video tutorial](https://www.youtube.com/watch?v=8dPRGiRUAV0). 
-```
+<div class="notification is-info is-light">
+  <b>Nota:</b> puede encontrar instrucciones más específicas de instalación en la <A HREF="https://qgis.org/es/site/forusers/alldownloads.html">página de descargas</A>, y en este <A HREF="https://www.youtube.com/watch?v=8dPRGiRUAV0">video tutorial</A>.
+</div>
 
 ## Paso 2 - Descarga de datos
 
-Descargue el archivo comprimido [```datos_geografia.zip```](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/datos_geografia.zip), descomprímalo y extraiga el archivo ```datos_geografia.csv```. El formato para cargar archivos de texto en QGIS puede ser ```.csv```  o ```.txt``` (separado por comas o tabulaciones).
+Descomprima el archivo <FONT FACE="monospace"><b>«datos_geografia.zip»</b></FONT> y extraiga la base de datos <FONT FACE="monospace"><b>«datos_geografia.csv»</b></FONT>. El formato para cargar archivos de texto en QGIS puede ser **.csv**  o **.txt** (separación por comas o tabulaciones).
 
-<!--- el archivo debe contar con un par de coordenadas que son interpretadas permitiendo la visualización de los registros en una vista de mapa -->
-
+<article class="message is-warning">
+  <div class="message-header">
+    <p>¡Precaución!</p>    
+  </div>
+  <div class="message-body">
+    El archivo debe contar con un par de coordenadas que son interpretadas, permitiendo la visualización de los registros en una capa de mapa.
+  </div>
+</article>
 
 ## Paso 3 - Descarga del proyecto
 
-El Equipo Coordinador del SiB Colombia (EC- SiB) ha elaborado un proyecto en QGIS con capas geográficas de referencia para la validación geográfica de los datos. Descargue el [proyecto de validación geográfica](https://gitlab.com/sib-colombia/data-quality/-/raw/master/ValidacionGeografica_SiB-QGIS.zip?inline=false) de QGIS, y guárdelo en una ubicación corta como ```Mis documentos``` o el ```Disco local (C:)```.
+El Equipo Coordinador del SiB Colombia (EC- SiB) ha elaborado un proyecto en QGIS con capas geográficas de referencia para la validación geográfica de los datos. Descargue el [<FONT FACE="monospace"><b>«Proyecto de validación geográfica»</b></FONT>](https://gitlab.com/sib-colombia/data-quality/-/raw/master/ValidacionGeografica_SiB-QGIS.zip?inline=false) de QGIS y guárdelo en una ubicación corta como **"Mis documentos"** o el **"Disco local (C:)"**.
 
-Cuando finalice la descarga ubique el archivo en su ordenador y descomprimalo. Dentro de la carpeta resultante ubique el archivo ```ValidacionGeoQGIS.qgs``` y ábralo haciendo doble clic o con clic derecho y siguiendo la ruta ``` Abrir con > QGIS 3.10```.
+Cuando finalice la descarga, ubique el archivo en su ordenador y descomprímalo. Dentro de la carpeta resultante, busque el archivo <FONT FACE="monospace"><b>«ValidacionGeoQGIS.qgs»</b></FONT> y ábralo con un doble clic o siguiendo la ruta <span class="tag is-warning is-light"><b><i>Clic derecho > Abrir con > QGIS 3.10</i></b></span>.
 
 
 ## Paso 4 - Exploración del proyecto
 
-Al ejecutar QGIS verá un entorno similar al siguiente (Fig. 1). 
+Al ejecutar QGIS, verá un entorno similar al siguiente (Fig. 1): 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig1_validQGIS_firstview.PNG" width=800>
 
-<sup>_Figura 1. Entorno de trabajo en el proyecto de QGIS (v.3.10) de validación geográfica. A. Menú de herramientas. B. Panel de capas. C. Vista del mapa._</sup>
+<sup>_Figura 1. Entorno de trabajo en el proyecto de QGIS (v.3.10) de validación geográfica: A. Menú de herramientas, B. Panel de capas, C. Vista del mapa._</sup>
 
 Contenido del proyecto en QGIS:
 
-* **MGN_DPTO_POlITICO**: división departamental de Colombia de acuerdo al Marco Geoestadístico Nacional del DANE.
-* **MGN_MPIO_POLITICO**: división municipal de Colombia de acuerdo al Marco Geoestadístico Nacional del DANE.
-* **MGN_MPIO_Buffer_530m**: buffer de 530 metros generado al rededor de los límites municipales para identificar registros que se encuentran muy cerca del límite municipal.
-* **Capas de interés**
-    * *RUNAP_202007*: capa del Regitro Único Nacional de Áreas Protegidas.
-    * *RegionesMarítimas*: división de las regiones marítimas de Colombia.
-    * *Planchas WGS84*: consulta de planchas en escala 1:100.000.
-    * *Veredas de Colombia_2017*: división veredal de Colombia.
-    * *World_Countries*: capa de referencia general de países del mundo.
+* **"MGN_DPTO_POlITICO"**: división departamental de Colombia de acuerdo al Marco Geoestadístico Nacional del DANE.
+* **"MGN_MPIO_POLITICO"**: división municipal de Colombia de acuerdo al Marco Geoestadístico Nacional del DANE.
+* **"MGN_MPIO_Buffer_530m"**: buffer de 530 metros generado al rededor de los límites municipales para identificar registros que se encuentran muy cerca del límite municipal.
+* **Capas de interés**:
+    * RUNAP_202007 (capa del Regitro Único Nacional de Áreas Protegidas).
+    * RegionesMarítimas (división de las regiones marítimas de Colombia).
+    * Planchas WGS84 (consulta de planchas en escala 1:100.000).
+    * Veredas de Colombia_2017 (división veredal de Colombia).
+    * *World_Countries* (capa de referencia general de países del mundo).
 * **Mapas base**: 
-    * Google Maps
-    * OSM Black and white
-    * OpenStreetMap
+    * _Google Maps_
+    * OSM _Black and white_
+    * _OpenStreetMap_
 
 ## Paso 5 - Carga de los datos 
 
 **5.1. Añadir capa de texto delimitado**
 
-Para cargar los datos descargados en el paso 2, diríjase al menú de QGIS y seleccione  _```Layer > Add Layer > Add Delimited Text Layer```_ (Fig. 2).
+Para cargar los datos descargados en el paso 2, diríjase al menú de QGIS y siga la ruta <span class="tag is-warning is-light"><b><i>Layer > Add Layer > Add Delimited Text Layer</i></b></span> (Fig. 2).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig2_validQGIS_addTextfile.PNG" width=600>
 
@@ -108,15 +113,15 @@ Para cargar los datos descargados en el paso 2, diríjase al menú de QGIS y sel
 
 **5.2. Seleccione el archivo a validar**
 
-En la ventana emergente, haga clic en *```File Name```* y ubique el archivo  ```datos_geografía.csv``` que guardó en el paso 2 (Fig. 3A).
+En la ventana emergente, haga clic en <span class="tag is-warning is-light"><i>File Name</i></span> y ubique el archivo <FONT FACE="monospace"><b>«datos_geografia.csv»</b></FONT> que guardó en el paso 2 (Fig. 3A).
 
 **5.3. Seleccione el tipo de archivo y delimitador de texto**
 
-QGIS llenará los campos de la ventana emergente de manera automática, sin embargo verifique que el formato del archivo corresponda con el tipo de archivo y delimitador usado, en este caso es ```CSV``` (Fig. 3B).
+QGIS llenará los campos de la ventana emergente de manera automática. Sin embargo, verifique que el formato del archivo corresponda con el tipo de archivo y delimitador usado; en este caso, es **.csv** (Fig. 3B).
 
 **5.4. Revise la codificación**
 
-Observe si en la vista previa (Fig. 3F)  los nombres de las entidades geográficas muestran problemas de codificación como símbolos de interrogación u otros reemplazando tildes y 'eñes'. Si hay problemas ajuste en *```Encoding:```* la codificación (Fig. 3C), según su sistema operativo pruebe la opciones *```System ```* (Windows), *```macintosh```* (Mac) o ```UTF-8``` para cualquier sistema, hasta asegurarse que no hay problemas de codificación en la vista previa (Fig. 3F).
+Observe si en la vista previa (Fig. 3F) los nombres de las entidades geográficas muestran problemas de codificación como símbolos de interrogación u otros reemplazando tildes y 'eñes'. Si hay problemas, ajuste la codificación en el desplegable de _**Encoding**_ (Fig. 3C). Teniendo en cuenta su sistema operativo, pruebe la opciones *```System ```* (Windows), *```macintosh```* (Mac) o ```UTF-8``` para cualquier sistema, hasta asegurarse que no hay problemas de codificación en la vista previa (Fig. 3F).
 
 **5.5. Seleccione las coordenadas decimales**
 
