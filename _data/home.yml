@@ -63,7 +63,7 @@ destacados:
     - preTitle:  Ciclo de formación 2021
       title:  Biovirtual
       description: |      # required
-          Sistema para facilitar la gestión de información de las áreas protegidas.
+          Ecosistema de productos y servicios de información sobre biodiversidad.
       # img required
       background: /assets/images/landing_page/imgDest_Biovirtual.png
       cta:
