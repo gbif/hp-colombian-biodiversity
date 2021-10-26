@@ -348,9 +348,9 @@ Puedes encontrar más información sobre la serie de documentos de georeferencia
 <details>
   <summary markdown="span">17. Smart: una herramienta de monitoreo e información espacial para facilitar la generación e intercambio de información de las áreas protegidas del país.</summary>
 
-<img src="/assets/images/landing_page/imgDest_Smart.png" width=560>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CEkKyQn55QU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<i>07 de Octubre de 2021 | Hora: 7:30 am – 8:30 am </i>
+<i>21 de Octubre de 2021 | Hora: 7:30 am – 8:30 am </i>
 <br> 
 <br> 
 <i>La implementación de SMART, como herramienta de monitoreo y análisis espacial en Parques Nacionales Naturales de Colombia se ha realizado con el apoyo técnico de Wildlife Conservation Society (WCS), mediante el módulo de patrullajes desde 2015 apoya la sistematización de labores de prevención, vigilancia y control y desde 2020 se implementa el módulo de registros ecológicos, que permite registrar, gestionar, mapear y analizar datos de muestreos sistemáticos de especies, sus hábitats y alteraciones, para apoyar las labores de monitoreo e investigación.</i>
