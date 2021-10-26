@@ -121,28 +121,28 @@ QGIS llenará los campos de la ventana emergente de manera automática. Sin emba
 
 **5.4. Revise la codificación**
 
-Observe si en la vista previa (Fig. 3F) los nombres de las entidades geográficas muestran problemas de codificación como símbolos de interrogación u otros reemplazando tildes y 'eñes'. Si hay problemas, ajuste la codificación en el desplegable de _**Encoding**_ (Fig. 3C). Teniendo en cuenta su sistema operativo, pruebe la opciones *```System ```* (Windows), *```macintosh```* (Mac) o ```UTF-8``` para cualquier sistema, hasta asegurarse que no hay problemas de codificación en la vista previa (Fig. 3F).
+Observe si en la vista previa (Fig. 3F) los nombres de las entidades geográficas muestran problemas de codificación como símbolos de interrogación u otros reemplazando tildes y 'eñes'. Si hay problemas, ajuste la codificación en el desplegable de _**"Encoding"**_ (Fig. 3C). Teniendo en cuenta su sistema operativo, pruebe la opciones <span class="tag is-warning is-light"><i>System</i></span> (para Windows), <span class="tag is-warning is-light"><i>macintosh</i></span> (para Mac) o <span class="tag is-warning is-light"><i>UTF-8</i></span> (para cualquier sistema). Si identifica problemas de codificación en la vista previa, pruebe otro formato de codificación hasta asegurarse de que ha elegido el correcto. Esto es fundamental para evitar inconsistencias más adelante. (Fig. 3F).
 
 **5.5. Seleccione las coordenadas decimales**
 
-En _```Geometry definitions ```_ seleccione _```Point coordinates```_ y verifique que _```X field```_ corresponde a _```decimalLongitude```_ y la _```Y field```_ a _```decimalLatitude```_ del archivo (Fig. 3D).
+En _**"Geometry definitions"**_, seleccione <span class="tag is-warning is-light"><i>Point coordinates</i></span> y verifique que el _**"X field"**_ corresponda al elemento <span class="tag is-success is-light"><i>decimalLongitude</i></span> y el _**"Y field"**_ a la columna <span class="tag is-success is-light"><i>decimalLatitude</i></span> del archivo (Fig. 3D).
 
 **5.6. Seleccione el sistema de referencia**
 
-En el campo _```Geometry CRS```_ seleccione el sistema de referencia de coordenadas: ```WGS84``` (*World Geodetic System*). Si no selecciona el sistema QGIS tomará por defecto el sistema usado en este proyecto (WGS84) (Fig. 3E). Para finalizar la carga del archivo haga clic en _```Add```_.
+En el campo _**"Geometry CRS"**_, seleccione el sistema de referencia de coordenadas: <span class="tag is-warning is-light"><i>WGS84</i></span> (*World Geodetic System*). Si no selecciona el sistema, QGIS tomará por defecto el sistema usado en este proyecto (WGS84) (Fig. 3E). Para finalizar la carga del archivo, haga clic en <span class="tag is-warning is-light"><i>Add</i></span>.
 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig3_validQGIS_addTextfileOptions.PNG" width=600>
 
-<sup>_Figura 3. Pasos para cargar archivos de texto delimitado en QGIS. A. Ubicar el archivo de validación. B. formato del archivo tipo .csv. C. Selección de la codificación. D. Selección de campos de coordenadas. E. Selección del sistema de referencia. F. Vista previa de los datos a cargar._</sup>
+<sup>_Figura 3. Pasos para cargar archivos de texto delimitado en QGIS: A. Ubicar el archivo de validación, B. formato del archivo tipo .csv, C. Selección de la codificación, D. Selección de campos de coordenadas, E. Selección del sistema de referencia, F. Vista previa de los datos a cargar._</sup>
 
-```tip
-Si realiza este ejercicio con sus propio conjunto de datos (Paso 7) es importante que conozca el sistema de referencia o datum.
-```
+<div class="notification is-info is-light">
+  <b>Tip:</b> Si realiza este ejercicio con sus propio conjunto de datos (Paso 7), es importante que conozca el sistema de referencia o <i>datum</i>.
+</div>
 
 **5.7. Visualización de los datos**
 
-Una vez cargado el archivo, una nube de puntos se desplegará en la ventana de visualización de QGIS (Fig. 4).
+Cuando haya cargado el archivo, una nube de puntos se desplegará en la ventana de visualización de QGIS (Fig. 4).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig4_validQGIS_nubepuntos.PNG" width=600>
 
@@ -151,22 +151,22 @@ Una vez cargado el archivo, una nube de puntos se desplegará en la ventana de v
 
 ## Paso 6. Validación geográfica
 
-A continuación procedará a validar la coherencia entre la ubicación de las coordenadas y la geografía superior, para ello realizará un cruce geográfico entre los datos  y la capa de Municipios de Colombia ```MGN_MPIO_POLITICO```.
+A continuación, procedará a validar la coherencia entre la ubicación de las coordenadas y la geografía superior. Para ello, realizará un cruce geográfico entre los datos y la capa de Municipios de Colombia (**"MGN_MPIO_POLITICO"**).
 
 **6.1. Intersección de datos y capas**
 
-Realice una intersección entre la capa de municipios y los datos, para ello seleccione de la barra de herramientas superior la opción *```Vector > Data Management Tools > Join Attributes by Location```* (Fig. 5).
+En la barra de herramientas superior, siga la ruta <span class="tag is-warning is-light"><b><i>Vector > Data Management Tools > Join Attributes by Location</i></b></span> (Fig. 5) para realizar una intersección entre la capa de municipios y los datos.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig5_validQGIS_seleccJoin.PNG" width=600>
 
-<sup>*Figura 5. Selección de la función Join Attributes by Location en el menú de herramientas.*</sup>
+<sup>*Figura 5. Selección de la función <span class="tag is-warning is-light"><i>Join Attributes by Location</i></span> en el menú de herramientas.*</sup>
 
 En el menú emergente configure la intersección de las capas así (Fig. 6):
-- *```Input Layer ```*: seleccione la capa de puntos que contiene sus coordenadas```datos_geografia```.
-- *```Overlay Layer```*: seleccione la capa de municipios de Colombia ```MGN_MPIO_POLITICO```.
-- *```Join type```*: seleccione la opción *```Take Attributes of the first located Feature```.* 
+- _**"Input Layer"**_ o _**"Base layer¨**_: seleccione la capa de puntos que contiene sus coordenadas <span class="tag is-warning is-light"><i>datos_geografia</i></span>.
+- _**"Overlay Layer"**_: seleccione la capa de municipios de Colombia <span class="tag is-warning is-light"><i>MGN_MPIO_POLITICO</i></span>.
+- _**"Join type"**_: seleccione la opción <span class="tag is-warning is-light"><i>Take Attributes of the first located Feature</i></span>. 
 
-Haga clic en _```Run```_.
+Por último, haga clic en <span class="tag is-warning is-light"><i>Run</i></span>.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig6_validQGIS_seleccJoin_options.PNG" width=600>
 
@@ -175,13 +175,13 @@ Haga clic en _```Run```_.
 
 **6.2. Exploración de los resultados**
 
-Obtendrá una nueva capa llamada _```Joined_layer```_ con la intersección de los datos y la capa de municipios, revise que esta se encuentre en el panel de capas _```Layers```_. Abra la tabla de atributos de esta capa haciendo clic derecho sobre la capa y elija la opción _```Open Attribute Table```_ (Fig. 7).
+Obtendrá una nueva capa llamada _**"Joined_layer"**_ con la intersección de los datos y la capa de municipios, revise que esta se encuentre en el panel de capas <span class="tag is-warning is-light"><i>Layers</i></span>. Posteriormente, dé clic derecho sobre la capa y elija la opción <span class="tag is-warning is-light"><i>Open Attribute Table</i></span> (Fig. 7) para abrir la tabla de atributos.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig7_validQGIS_AttribT.PNG" width=300>
 
 <sup>*Figura 7. Acceder a la tabla de atributos de la capa resultante.* </sup>
 
-En la tabla de atributos  encontrará los datos ingresados y unas nuevas columnas con los nombres y códigos del municipio y departamento de acuerdo a la ubicación de las coordenadas respecto a la capa de municipios (Fig. 8).
+En la tabla de atributos encontrará los datos ingresados y unas columnas adicionales, las cuales corresponden a nombres y códigos de los municipios y departamentos que la capa de municipios asignó a las coordenadas ingresadas en el cruce geográfico.(Fig. 8).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig8_validQGIS_AttribDetalle.PNG" width=600>
 
@@ -190,105 +190,94 @@ En la tabla de atributos  encontrará los datos ingresados y unas nuevas columna
 
 **6.3. Validación de los municipios**
 
-Para comparar los nombres sugeridos desde la capa y los nombres documentados en los datos, abra la calculadora de campos (_```Field Calculator```_) haciendo clic en el icono del ábaco en la barra de herramientas de la tabla de atributos (Fig. 9 ).
+Para comparar los nombres sugeridos en el cruce geográfico con los que estaban documentados originalmente, se usa la calculadora de campos (<span class="tag is-warning is-light"><i>Field Calculator</i></span>). Para esto, ubíquese en la barra de herramientas de la tabla de atributos y dé clic en el icono del ábaco (Fig. 9 ).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig9_validQGIS_SelecCalculadora.PNG" width=600>
 
 <sup>*Figura 9. Selección de la calculadora de campos desde el menú de herramientas de la tabla de atributos.*</sup>
 
+* Una vez en la calculadora de campos (<span class="tag is-warning is-light"><i>Field Calculator</i></span>), asigne <span class="tag is-light"><b>countyValidation</b></span> como el nombre de la columna (Fig. 10) en  _**"Output field Name"**_.
 
-* Una vez en la calculadora de campos ( _```Field calculator```_), en  _```Output field Name```_  asigne ```countyValidation``` como el nombre de la columna (Fig. 10).
+* En el cuadro de texto correspondiente a _**"Expression"**_, digite el siguiente comando: <span class="tag is-light"><b>if( "county"  =  "suggestedC" ,'1',if("county" is null, '','0'))</b></span>. Este comando condicional evalúa el elemento <span class="tag is-success is-light"><i>county</i></span> y lo compara con la columna de _**"suggestedC"**_. Cuando ambas columnas coindiden, se documenta un <span class="tag is-light"><b>1</b></span> en el elemento _**"countyValidation"**_. En cambio, si la geografía superior no coincide con la coordenada, las columnas mostrarán discrepancias y se asignará un <span class="tag is-light"><b>0</b></span> en _**"countyValidation"**_.
 
-* En la caja de dialogo _```Expression```_ digite el siguiente comando: 
-
-   ```
-   if( "county"  =  "suggestedC" ,'1',if("county" is null, '','0'))
-   ```
-
-   Este comando condicional evalua si el campo _county_ está vacío, si está vacío el campo _countyValidation_ queda vacío, de no estar vacío revisa que sea igual que el campo _suggestedC_, si ambos campos son iguales lo documenta como ```1``` que significa que la geografía superior coincide con la coordenada, sino se documenta como ```0```. 
-
-* Finalmente, de clic en _```OK```_ (Fig. 10). 
+* Finalmente, haga clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 10). 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig10_validQGIS_Calculadora.PNG" width=600>
 
-<sup>*Figura 10. Documentación de la calculadora de campos para obtener un campo con la validación geográfica del municipio (county).*</sup>
+<sup>*Figura 10. Documentación de la calculadora de campos para obtener un campo con la validación geográfica del municipio (<span class="tag is-light"><b>0</b></span>).*</sup>
 
-En la tabla de atributos verá una nueva columna _countyValidation_ con el resultado de la validación geográfica (Fig. 11).
+Al final del procedimiento anterior, en la tabla de atributos verá la nueva columna, _**"countyValidation"**_, con el resultado de la validación geográfica (Fig. 11).
 
 **Interpretación de los resultados**
 
-* **1**: El departamento o municipio documentados en _stateProvince_ o _county_ **coinciden** con el departamento o municipio donde se ubica la coordenada.
-* **0**: El departamento o municipio documentados en _stateProvince_ o _county_ **NO coinciden** con el departamento o municipio donde se ubica la coordenada.
-* **NULL o vacío**: NO había un _stateProvince_ o _county_ documentados por lo tanto no se realizó la validación, este resultado también se obtiene si las coordenadas caen fuera de los límites de Colombia.
+* <span class="tag is-light"><b>1</b></span>: el departamento o municipio documentados en <span class="tag is-success is-light"><i>stateProvince_</i></span> o <span class="tag is-success is-light"><i>county</i></span> **coinciden** con el departamento o municipio donde se ubica la coordenada.
+* <span class="tag is-light"><b>0</b></span>: el departamento o municipio documentados en <span class="tag is-success is-light"><i>stateProvince_</i></span> o <span class="tag is-success is-light"><i>county</i></span> **no coinciden** con el departamento o municipio donde se ubica la coordenada.
+* <span class="tag is-light"><b>NULL o vacío</b></span>: los elementos <span class="tag is-success is-light"><i>stateProvince_</i></span> y <span class="tag is-success is-light"><i>county</i></span> no fueron documentados, por lo que no se realizó la validación. Este resultado también se obtiene si las coordenadas caen fuera de los límites de Colombia.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig11_validQGIS_VlidCounty.PNG" width=600>
 
-<sup>*Figura 11. Verificación de resultados de la creación del campo con la validación del municipio (county).*</sup>
+<sup>*Figura 11. Verificación de resultados de la creación del campo con la validación del municipio (<span class="tag is-success is-light"><i>county</i></span>).*</sup>
 
 **6.4. Validación de los departamentos**
 
-Repita el paso 6.3. para la validación del departamento. Cree un nuevo campo para esta validación denominado _```stateProvinceValidation```_ y utilice el siguiente comando (Fig. 12).
-
-   ``` 
-   if( "stateProvince"  =  "suggestedS" ,'1',if("stateProvince" is null, '','0')) 
-   ```
+Repita el paso 6.3. para la validación del departamento. En este caso, escriba <span class="tag is-light"><b>stateProvinceValidation</b></span> como nombre de la columna de validación. Después, utilice el siguiente comando (Fig. 12): <span class="tag is-light"><b>if( "stateProvince"  =  "suggestedS" ,'1',if("stateProvince" is null, '','0'))</b></span>.
    
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig12_validQGIS_CalculadoraSP.PNG" width=600>
 
-<sup>*Figura 12. Documentación de la calculadora de campos para obtener un campo con la validación geográfica del departamento.*</sup>
+<sup>*Figura 12. Documentación de la calculadora de campos para obtener una columna con la validación geográfica del departamento.*</sup>
 
 
 **6.5. Visualización de la validación**
 
-Genere un filtro para visualizar los datos donde la ubicación de la coordenada y la geografía superior no coinciden (```0's```):
+Genere un filtro para visualizar los datos cuya coordenada no coincide con la geografía superior. Es decir, los que tienen 0 como resultado de la validación:
 
-1. Abra nuevamente la tabla de atributos de la capa _```Joined_layer```_
-2. En la parte inferior de la tabla de atributos haga clic en el botón _```Show all features > Field filter > countyValidation```_ (Fig. 13).
+1. Abra nuevamente la tabla de atributos de la capa _**"Joined_layer"**_
+2. En la parte inferior de la tabla de atributos, siga la ruta  <span class="tag is-warning is-light"><b><i>Show all features > Field filter > countyValidation</i></b></span> (Fig. 13).
 
    <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig13_validQGIS_SelectError.PNG" width=600>
 
    <sup>*Figura 13. Filtro de campos a partir de la tabla de atributos.*</sup>
 
-3. Se abrirá un cuadro de diálogo en la parte inferior de la tabla de atributos, digite un cero (```0```) para filtrar los datos con inconsistencias (Fig. 14).
+3. Una vez que se abra un cuadro de diálogo en la parte inferior de la tabla de atributos, digite un cero (<span class="tag is-light"><b>0</b></span>) para filtrar los datos con inconsistencias (Fig. 14).
 
    <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig14_validQGIS_Escriba0.PNG" width=600>
 
    <sup>*Figura 14. Filtro de campos a partir de la tabla de atributos.*</sup>
 
-4. En la parte superior de la tabla de atributos verá el número de registros biológicos filtrados. Seleccione la esquina superior izquierda de los datos como se muestra en la Fig. 15 para seleccionarlos. 
+4. En la parte superior de la tabla de atributos, verá el número de registros biológicos filtrados. Para seleccionarlos, haga clic la esquina superior izquierda de los datos como se muestra en la Figura 15. 
 
    <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig15_validQGIS_Select0s.PNG" width=600>
 
    <sup>*Figura 15. Selección y verificación de resultados del filtro a partir de resultados de la validación del campo countyValidation.*</sup>
 
-5. Minimice la tabla de atributos, verá los puntos con inconsistencias (```0's```) seleccionados en la pantalla de visualización del mapa (Fig. 16).
+5. Minimice la tabla de atributos, verá los puntos con inconsistencias (con valores de <span class="tag is-light"><b>0</b></span>) seleccionados en la pantalla de visualización del mapa (Fig. 16).
 
    <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig16_validQGIS_VisualizacionPuntosErrores.PNG" width=600>
 
-   <sup>_Figura 16. Visualización de los registros biológicos seleccionados (0's) donde la ubicación de las  coordenadas no coincide con con el municipio documentado en el elemento county (blancos tachados con una "x")._</sup>
+   <sup>_Figura 16. Visualización de los registros biológicos seleccionados (con valores de <span class="tag is-light"><b>0</b></span>) cuyas coordenadas no coinciden con el municipio documentado en el elemento <span class="tag is-success is-light"><i>county</i></span> (círculos blancos tachados con una "x")._</sup>
 
 **6.6. Exporte el resultado de la validación**
 
-Por último guarde el archivo de validación en su equipo:
+Por último, guarde el archivo de validación en su equipo:
 
-1. Clic derecho sobre la capa resultante y siga la ruta _```Joined_layer > Export > Save feature as```_ (Fig. 17).
+1. Dé clic derecho sobre la capa resultante y siga la ruta <span class="tag is-warning is-light"><b><i>Joined_layer > Export > Save feature as</i></b></span> (Fig. 17).
 
    <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig17_validQGIS_ExportExcel.PNG" width=400>
 
    <sup>*Figura 17. Opciones para exportar el resultado de la validación geográfica en formato Excel.*</sup>
 
-2. En la ventana emergente seleccione el formato _```MS Office Open XML [XLSX]```_ . En _```File name```_ ubique la carpeta donde quiere guardar el resultado y luego haga clic en _```Ok```_ (Fig. 18).
+2. En la ventana emergente, seleccione el formato <span class="tag is-warning is-light"><i>MS Office Open XML [XLSX]</i></span>. En _**"File name"**_, ubique la carpeta donde quiere guardar el resultado y luego haga clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 18).
 
    <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig18_validQGIS_ExportExcel.PNG" width=400>
 
    <sup>*Figura 18. Documentación de ventana emergente para exportar resultados de la validación geográfica en formato Excel.*</sup>
 
 
-3. Abra el archivo excel con el resultado de la validación, aplique filtros en las columnas _```countyValidation```_ y _```stateProvinceValidation```_. 
+3. Abra el archivo excel con el resultado de la validación. Luego, aplique filtros en las columnas _**"countyValidation"**_ y _**"stateProvinceValidation"**_. 
 
-   > :thinking: **¿Puede identificar los errores?** 
-   > Uno de los errores presentes en el cojunto de datos de prueba -y que es muy común- son los errores de tipeo en los nombres del los departamentos y municipios, por este motivo aunque su municipio coincida con la ubicación de la coordenada este proceso de validaciónpuede detectar el error de tipeo en la documentación de los elementos *stateProvince* y *county*.
-   > Por ejemplo fíjese en el municipio **Abejorrral**.
+   > **¿Puede identificar los errores?** 
+   > Uno de los errores presentes en el cojunto de datos de prueba -y que es muy común- son los errores de tipeo en los nombres del los departamentos y municipios. Por este motivo, aunque el municipio coincida con la ubicación de la coordenada, este proceso de validación puede detectar el error de tipeo en la documentación de los elementos <span class="tag is-success is-light"><i>stateProvince</i></span> y <span class="tag is-success is-light"><i>county</i></span>.
+   > Por ejemplo, fíjese en el municipio **Abejorrral**.
 
 
 Para los fines de este ejercicio, que está enfocado en validación, no es necesario corregir los errores identificados en la validación geográfica.
@@ -296,21 +285,18 @@ Para los fines de este ejercicio, que está enfocado en validación, no es neces
 
 ## Paso 7 - Verificación del resultado
 
-Compare sus resultados con el siguiente archivo validado según las definiciones del estándar, verifique en que acertó y que puede mejorar.
+Compare sus resultados con el siguiente archivo, estandarizado según los pasos de esta guía, con el archivo que trabajó en el laboratorio e identifique aciertos y oportunidades de mejora. **¿Qué diferencias encontró con sus resultados?**
 
-**¿Qué diferencias encontró con sus resultados?**
-
-* [Descargue el archivo validado](https://github.com/SIB-Colombia/Formacion/raw/master/LAB/lab02/_docs/Solución_ValidacionQGIS.xlsx)
+* [<FONT FACE="monospace"><b>«Archivo validado»</b></FONT>](https://github.com/SIB-Colombia/Formacion/raw/master/LAB/lab02/_docs/Solución_ValidacionQGIS.xlsx)
 
 
 ## Paso 8 - Datos propios
 
-Si tiene datos propios pruebe validarlos siguiendo los pasos de este laboratorio.
+Si tiene datos propios y desea publicarlos, intente seguir los pasos de este laboratorio para validarlos geográficamente.
 
 
 ****
-**¡Felicitaciones!**
-Ha mejorado la calidad de su conjunto de datos.
+**¡Felicitaciones!** Ha mejorado la calidad de su conjunto de datos.
 
 ****
 
@@ -318,7 +304,9 @@ Ha mejorado la calidad de su conjunto de datos.
 
 ![](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) te permite usar, redistribuir y construir sobre estos contenidos libremente. :open_hands: Queremos que compartas estos laboratorios y que juntos logremos datos sobre biodiversidad de mejor calidad.
+La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, redistribuir y construir sobre estos contenidos libremente.
+
+¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!Queremos que compartas estos laboratorios y que juntos logremos datos sobre biodiversidad de mejor calidad.
 
 **Citación sugerida**
 
@@ -327,7 +315,7 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) te permite usa
 
 **Fuentes:**
 
-* Departamento Administrativo Nacional de Estadística DANE (2018), Marco Geoestadístico Nacional, Escala: No definida. Datum: MAGNA-SIRGAS), Recuperado de: https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-mgn-marco-geoestadistico-nacional/
+* Departamento Administrativo Nacional de Estadística DANE (2018). Marco Geoestadístico Nacional, Escala: No definida. Datum: MAGNA-SIRGAS), Recuperado de: https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-mgn-marco-geoestadistico-nacional/
 
 * Parques Nacionales Naturales de Colombia (2020), Límite de los Parques Nacionales Naturales de Colombia, Multiescala (1:1.000 y 1:100.000). Datum: MAGNA-SIRGAS, Recuperado de: http://mapas.parquesnacionales.gov.co/services/pnn/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=pnn:runap2&maxFeatures=10000&outputFormat=SHAPE-ZIP. Fecha. 2020-07-08.
 
