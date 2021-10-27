@@ -11,9 +11,9 @@ toc: true
 
 ### Metas de aprendizaje
 
-Al finalizar este laboratorio habrás aprendido:
+Las metas de aprendizaje de este laboratorio son:
 
-1. Que son los metadatos de un recurso.
+1. Entender qué son los metadatos de un recurso.
 2. Crear un recurso en la herramienta de publicación IPT.
 3. Utilizar el IPT para la documentación de metadatos.
 
@@ -27,38 +27,35 @@ Al finalizar este laboratorio habrás aprendido:
 ### Glosario
 
 
-- **Metadatos**: Información de contexto para un conjunto de datos, organización publicadora o colección biológica.
-
-- **IPT**: [Herramienta de publicación](https://www.gbif.org/es/ipt), es un software gratuito y de código abierto que se utiliza para publicar y compartir conjuntos de datos de biodiversidad a través del SiB Colombia, GBIF y OBIS. Permite integrar datos y metadatos en un mismo archivo conocido como _DwC-A_.
-
-- **EML**: es un estándar para metadatos que consolida información sobre conjuntos de datos ecológicos en una serie de documentos XML modulares y extensibles. Todas las descripciones de los conjuntos de datos disponibles a través del SiB Colombia se basan en ‘metadatos’ —es decir, la información sobre los datos— y utilizan el estándar EML de código abierto, que administra y mantiene The Knowledge Network for Biocomplexity.
-Cada Darwin Core Archive incluye como uno de sus componentes un archivo EML (escrito en formato XML), que contiene un perfil específico para estos conjuntos de datos. Este perfil del EML es conocido como Perfil de Metadatos de GBIF o GMP ([GBIF Metadata Profile](https://eml.ecoinformatics.org/)).
-
-
-- **DwC-A**: Este es el formato de archivo de intercambio de datos más utilizado en datos sobre biodiversidad, y consiste en un archivo comprimido que contiene:
-  - **Archivo de datos de ocurrencia**: un archivo de datos separado por tabulaciones que contiene según el tipo de publicación, los registros (occurrence.txt), especies (taxon.txt) o eventos (event.txt), asociados a la publicación.
-  - **Archivo de metadatos, "eml.xml"**: este archivo xml almacena toda la información que describe el contenido del conjunto de datos descargado.
-  - **Archivo de metadatos de descriptor, "meta.xml"**: este archivo xml describe la estructura del archivo Darwin Core para que el software pueda procesar todo el archivo automáticamente.
-  - **Archivos de extensiones**: Si la publicación contaba con extensiones Darwin Core, estas también se incluyen dentro del archivo DwC-A. El nombre del archivo varía según la extensión, algunos ejemplos son multimedia.txt, measurementorfact.txt, description.txt, resourcerelationship.txt, distribution.txt.
-
-
-- **Datos abiertos:** Los datos abiertos son datos que cualquiera puede usar y que representan una filosofía y una práctica. Para que un dato sea verdaderamente abierto debe cumplir ciertas características:
-  - Se pueden usar con cualquier fin, no tienen restricciones legales, ni técnicas.
-  - El acceso debe ser gratuito
-  - Su formato debe ser accesible, y legible por computadores.
-  - Es explícito que cuenta con una licencia que permite su reutilización
-
-- **Atribución**: dar crédito de manera adecuada, dando por ejemplo el nombre de los autores y partes atribuidas, brindando un enlace a la licencia, e indicando si se han realizado cambios. Ver [CCBY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es).
-
-
-- **Licencias Creative Commons**:Creative Commons (**CC**) es una organización sin ánimo de lucro creada en Estados Unidos, que cuenta con una red de afiliados voluntarios en todo el mundo. Desarrolló una serie de licencias que facilitan compartir legalmente el conocimiento y la creatividad. A continuación se listan las licencias disponibles a través del IPT.
-  - **Herramienta Creative Commons Cero**: permite al público copiar, modificar, distribuir tu obra y hacer comunicación pública de ella, incluso para fines comerciales, sin pedirte permiso. Al usar esta licencia, dedicas tu obra al dominio público y renuncias a todos tus derechos patrimoniales de autor en todo el mundo, incluyendo todos los derechos conexos y afines, en la medida permitida por la ley.
-  - **Creative Commons Atribución 4.0 internacional**: permite al público distribuir, mezclar, ajustar y construir a partir de tu obra,incluso con fines comerciales, siempre quete sea reconocida la autoría de la creación original. Esta es la licencia más abierta de las ofrecidas. Recomendada para una máxima difusión y 
-  - **Creative Commons Atribución No Comercial 4.0 internacional** : permite al público distribuir, remezclar, retocar, y crear a partir de tu obra de manera no comercial. A pesar de que sus nuevas obras deben siempre mencionarte y mantenerse sin fines comerciales, no están obligados a licenciar sus obras derivadas bajo las mismas condiciones.
-
-- **DOI:** DOI es la sigla para Digital Object Identifier (Objeto de identificación digital), y consiste en un enlace permanente y abreviado que permite identificar un contenido electrónico, en este caso un recurso publicado a través del SiB Colombia. Todos los recursos publicados a través del SiB Colombia tienen asignados un DOI proporcionado por la agencia de registro Datacite. Entre los beneficios del uso del DOI está la persistencia del recurso en el tiempo sin importar si hay cambios en el nombre, la citación o los datos, y la facilidad de rastrear el uso de los datos en artículos, revistas, libros, etc. a través de la web.
-
-- **Recurso**: agrupación de un conjunto de datos y sus metadatos, refleja la unidad de datos e información que se puede publicar y consultar.
+- **Metadatos**: información de contexto para un conjunto de datos, organización publicadora o colección biológica.
+<br>
+- **IPT**: es un software gratuito y de código abierto que se utiliza para publicar y compartir conjuntos de datos de biodiversidad a través del SiB Colombia, GBIF y OBIS. Además, permite integrar datos y metadatos en un mismo archivo conocido como DwC-A (_Darwin Core Archive_). Para una definición más detallada, puede consultar el artículo de GBIF sobre esta  herramienta de publicación:[https://www.gbif.org/es/ipt](https://www.gbif.org/es/ipt).
+<br>
+- **EML**: es un estándar para metadatos que consolida información sobre conjuntos de datos ecológicos en una serie de documentos XML modulares y extensibles. Todas las descripciones de los conjuntos de datos disponibles a través del SiB Colombia se basan en "metadatos" —es decir, la información sobre los datos— y utilizan el estándar EML de código abierto, eñ cual administra y mantiene _The Knowledge Network for Biocomplexity_.
+Cada _Darwin Core Archive_ incluye un archivo EML (escrito en formato XML) en sus componentes, el cual contiene un perfil específico para estos conjuntos de datos. Este perfil es conocido como **Perfil de Metadatos de GBIF o GMP** ([GBIF Metadata Profile](https://eml.ecoinformatics.org/)).
+<br>
+- **DwC-A**: acrónimo del formato de archivo de intercambio de datos más utilizado en datos sobre biodiversidad. El formato corresponde a un archivo comprimido que contiene:
+  - _Archivo de datos de ocurrencia_: un archivo de datos separado por tabulaciones que contiene, según el tipo de publicación, los registros (_occurrence.txt_), especies (_taxon.txt_) o eventos (event.txt) asociados a la publicación.
+  - _Archivo de metadatos, "eml.xml"_: este archivo xml almacena una descripción de toda la información que contiene del conjunto de datos descargado.
+  - _Archivo de metadatos de descriptor, "meta.xml"_: este archivo xml describe la estructura del archivo _Darwin Core_ para que el software pueda procesar todo el archivo automáticamente.
+  - _Archivos de extensiones_: si la publicación cuenta con extensiones _Darwin Core_, estas también se incluyen dentro del archivo DwC-A. El nombre del archivo varía según la extensión. Algunos ejemplos son _multimedia.txt_, _measurementorfact.txt_, _description.txt_, _resourcerelationship.txt_, _distribution.txt_.
+<br>
+- **Datos abiertos:** información que cualquiera puede usar, la cual representa una filosofía y una práctica. Para que un dato sea verdaderamente abierto, debe cumplir ciertas características:
+  - Permitir su uso para cualquier fin, sin restricciones legales ni técnicas.
+  - Contar con acceso gratuito.
+  - Tener un formato accesible y legible por computadores.
+  - Estar publicados bajo una licencia que permita explícitamente su reutilización
+<br>
+- **Atribución**: dar crédito de manera adecuada. Esto se hace reconociendo la autoría de los publicadores (a través de sus nombres) y sus partes atribuidas, brindando un enlace a la licencia e indicando si se han realizado cambios. Ver [CCBY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es).
+<br>
+- **Licencias Creative Commons**: _Creative Commons_ (**CC**) es una organización sin ánimo de lucro creada en Estados Unidos, la cual cuenta con una red de afiliados voluntarios en todo el mundo. Desarrolló una serie de licencias que facilitan compartir legalmente el conocimiento y la creatividad. A continuación, se listan las licencias disponibles a través del IPT.
+  - _Herramienta Creative Commons Cero**_: permite al público copiar, modificar, distribuir la obra y hacer comunicación pública de ella, incluso para fines comerciales, sin necesidad de pedir autorización. Al usar esta licencia, la obra publicada se dedica al dominio público y los publicadores renuncian a todos los derechos patrimoniales de autor en todo el mundo, incluyendo todos los derechos conexos y afines, en la medida permitida por la ley.
+  - _Creative Commons Atribución 4.0 internacional_: permite al público distribuir, mezclar, ajustar y construir a partir de la obra, incluso con fines comerciales, siempre que su autoría sea reconocida. Esta es la licencia más abierta de las ofrecidas y se recomienda para una máxima difusión.
+  - _Creative Commons Atribución No Comercial 4.0 internacional_: permite al público distribuir, remezclar, retocar y crear a partir de la obra de manera no comercial. Las obras derivadas deberán mencionar la autoría de la original y mantenerse sin fines comerciales, pero sus publicadores no están obligados a licenciarlas bajo las mismas condiciones.
+<br>
+- **DOI:** es la sigla para _Digital Object Identifier_ (Objeto de identificación digital). Consiste en un enlace permanente y abreviado que permite identificar un contenido electrónico. En este caso, un recurso publicado a través del SiB Colombia. Todos los recursos publicados a través del SiB Colombia tienen asignados un DOI, los cuales son proporcionados por la agencia de registro _Datacite_. Entre los beneficios del uso del DOI está la persistencia del recurso en el tiempo, sin importar si hay cambios en el nombre, la citación o los datos. Adicionalmente, el DOI permite rastrear el uso que se le da a los conjuntos de datos en artículos, revistas, libros, entre otros, a través de la web.
+<br>
+- **Recurso**: agrupación de un conjunto de datos y sus metadatos. Refleja la unidad de datos y la información que se puede publicar y consultar.
 
 ### Lecturas y recursos externos
 
