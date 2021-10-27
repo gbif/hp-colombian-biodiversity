@@ -22,7 +22,7 @@ Video introductorio de la herramienta, el cual da un contexto general sobre su u
 <br>
 **Sobre la herramienta**
 
-[QGIS](https://qgis.org/es/site/about/index.html) es un _software_ de gestión de información geográfica que se ejecuta en múltiples sistemas operativos como _Linux_, _Unix_, _Mac OSX_, _Windows_ y _Android_. También soporta numerosos formatos y funcionalidades de datos vector, datos ráster y bases de datos. Esta herramienta proporciona una creciente gama de servicios a través de sus funciones básicas y complementos para visualizar, gestionar, editar, analizar datos y diseñar mapas imprimibles. 
+[QGIS](https://qgis.org/es/site/about/index.html) es un _software_ de gestión de información geográfica que se ejecuta en múltiples sistemas operativos como _Linux_, _Unix_, _Mac OSX_, _Windows_ y _Android_. También soporta numerosos formatos y funcionalidades de datos vector, datos ráster y bases de datos. Esta herramienta proporciona una creciente gama de servicios, a través de sus funciones básicas y complementos, para visualizar, gestionar, editar, analizar datos y diseñar mapas imprimibles. 
 
 QGIS es un _software_ libre y de código abierto, licenciado bajo una GNU (_General Public License_) y soportado como un proyecto de la _Open Source Geospatial Foundation_ (OSGeo). Por lo tanto, no requiere el pago de licencias. Adicionalmente, es impulsado por un grupo de voluntarios que mantienen el _software_ actualizado y las versiones estables, lo cual sostiene a QGIS como uno de los _software_ geográficos mas conocidos.
 
@@ -71,7 +71,7 @@ Descomprima el archivo <FONT FACE="monospace"><b>«datos_geografia.zip»</b></FO
 
 ## Paso 3 - Descarga del proyecto
 
-El Equipo Coordinador del SiB Colombia (EC- SiB) ha elaborado un proyecto en QGIS con capas geográficas de referencia para la validación geográfica de los datos. Descargue el [<FONT FACE="monospace"><b>«Proyecto de validación geográfica»</b></FONT>](https://gitlab.com/sib-colombia/data-quality/-/raw/master/ValidacionGeografica_SiB-QGIS.zip?inline=false) de QGIS y guárdelo en una ubicación corta como **"Mis documentos"** o el **"Disco local (C:)"**.
+El Equipo Coordinador del SiB Colombia (EC- SiB) ha elaborado un proyecto en QGIS con capas geográficas de referencia para la validación geográfica de los datos. Por consiguiente, descargue el [<FONT FACE="monospace"><b>«Proyecto de validación geográfica»</b></FONT>](https://gitlab.com/sib-colombia/data-quality/-/raw/master/ValidacionGeografica_SiB-QGIS.zip?inline=false) y guárdelo en una ubicación corta como **"Mis documentos"** o el **"Disco local (C:)"**.
 
 Cuando finalice la descarga, ubique el archivo en su ordenador y descomprímalo. Dentro de la carpeta resultante, busque el archivo <FONT FACE="monospace"><b>«ValidacionGeoQGIS.qgs»</b></FONT> y ábralo con un doble clic o siguiendo la ruta <span class="tag is-warning is-light"><b><i>Clic derecho > Abrir con > QGIS 3.10</i></b></span>.
 
@@ -317,7 +317,7 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, 
 
 * Departamento Administrativo Nacional de Estadística DANE (2018). Marco Geoestadístico Nacional, Escala: No definida. _Datum_: _MAGNA-SIRGAS), Recuperado de: [https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-mgn-marco-geoestadistico-nacional/](https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-mgn-marco-geoestadistico-nacional/)
 
-* Parques Nacionales Naturales de Colombia (2020), Límite de los Parques Nacionales Naturales de Colombia, Multiescala (1:1.000 y 1:100.000). Datum: MAGNA-SIRGAS, Recuperado de: http://mapas.parquesnacionales.gov.co/services/pnn/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=pnn:runap2&maxFeatures=10000&outputFormat=SHAPE-ZIP. Fecha, 2020-07-08.
+* Parques Nacionales Naturales de Colombia (2020), Límite de los Parques Nacionales Naturales de Colombia, Multiescala (1:1.000 y 1:100.000). Datum: MAGNA-SIRGAS, Recuperado de: [http://mapas.parquesnacionales.gov.co/services/pnn/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=pnn:runap2&maxFeatures=10000&outputFormat=SHAPE-ZIP](http://mapas.parquesnacionales.gov.co/services/pnn/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=pnn:runap2&maxFeatures=10000&outputFormat=SHAPE-ZIP). Fecha, 2020-07-08.
 
 * Departamento Administrativo Nacional de Estadística (DANE). Descarga Nivel de referencia de veredas. Recuperado de: (https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-nivel-de-referencia-de-veredas/)[https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-nivel-de-referencia-de-veredas/](https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-nivel-de-referencia-de-veredas/), fecha de consulta: 2020-02-24.
 
