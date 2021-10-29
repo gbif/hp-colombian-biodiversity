@@ -36,6 +36,7 @@ La instancia de publicación principal es el [IPT SiB](https://ipt.biodiversidad
 - Las líneas que se escriben directamente en las herramientas, para programar o realizar algún proceso en específico, aparecen en formato de código, con una tipografía distinta de color negro. Por ejemplo: <span class="tag is-light"><b>value.replace(" sp.","")</b></span>.
 
 **Enlace**
+<br>
 IPT Test: [https://ipt.biodiversidad.co/sib-test/](https://ipt.biodiversidad.co/sib-test/)
 
 **Requerimientos** 
@@ -156,7 +157,7 @@ Seleccione la organización principal que respalda la publicación de los datos 
 
 **"Licencia de los datos"**
 
-Para asegurar que sus datos sean abiertos, estos deben contar de manera explícita con una licencia que permita su reutilización. En este sentido, escoja una de las licencias [_Creative Commons_](https://co.creativecommons.net/) que regule hasta dónde quiere que lleguen sus datos (Fig. 7C). Puede usar la [guía interactiva de acceso abierto] (https://sibcolombia.net/acceso-abierto/) para realizar la elección (Fig. 8).
+Para asegurar que sus datos sean abiertos, estos deben contar de manera explícita con una licencia que permita su reutilización. En este sentido, escoja una de las licencias [_Creative Commons_](https://co.creativecommons.net/) que regule hasta dónde quiere que lleguen sus datos (Fig. 7C). Puede usar la [guía interactiva de acceso abierto](https://sibcolombia.net/acceso-abierto/) para realizar la elección (Fig. 8).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig8_meta_licencias.png" width=600>
 
