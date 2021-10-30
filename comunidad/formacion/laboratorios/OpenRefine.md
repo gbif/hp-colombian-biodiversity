@@ -20,13 +20,9 @@ Utilizar _OpenRefine_ para administrar, validar y limpiar de manera eficiente da
 <br>
 **Sobre la Herramienta**
 
-[_OpenRefine_](https://openrefine.org/) es un software creado con el objetivo de pulir datos crudos hasta convertirlos en diamantes, los cuales son activos valiosos en la era del _BigData_.
+[_OpenRefine_](https://openrefine.org/) es un _software_ creado con el objetivo de pulir datos crudos hasta convertirlos en diamantes, los cuales son activos valiosos en la era del _BigData_. Este programa permite visualizar y manipular datos tabulares, facilitando el mejoramiento de la calidad general de un conjunto de datos. Tiene la apariencia de un software tradicional de hoja de cálculo (similar a Excel), pero funciona como una base de datos. Esto significa que _OpenRefine_ no es adecuado para adicionar nuevas filas de datos, pero **es extremadamente poderoso cuando se trata de explorar, limpiar y vincular datos**. 
 
-Este sofware permite visualizar y manipular datos tabulares, facilitando el mejoramiento de la calidad general de un conjunto de datos. Tiene la apariencia de un software tradicional de hoja de cálculo (similar a Excel), pero funciona como una base de datos. Esto significa que _OpenRefine_ no es adecuado para adicionar nuevas filas de datos, pero **es extremadamente poderoso cuando se trata de explorar, limpiar y vincular datos**. 
-
-_OpenRefine_ es un _software_ de código abierto bajo una [licencia BSD](https://github.com/OpenRefine/OpenRefine/blob/master/LICENSE.txt) y se instala localmente, por lo que funciona como una aplicación web personal y de acceso privado a la que se accede desde un navegador web.
-
-Esta herramienta sirve para **todo tipo de datos**. Sin embargo, en este laboratorio se explica su funcionamiento en el contexto de datos sobre biodiversidad, estandarizados en _Darwin Core_. Puede consultar mayor información de la herramienta en el [manual de usuario](https://docs.openrefine.org/) (en inglés).
+_OpenRefine_ es un _software_ de código abierto que trabaja bajo una [licencia BSD](https://github.com/OpenRefine/OpenRefine/blob/master/LICENSE.txt) y se instala localmente, por lo que funciona como una aplicación web personal y de acceso privado a la que se accede desde un navegador _web_. Esta herramienta sirve para **todo tipo de datos**. Sin embargo, en este laboratorio se explica su funcionamiento en el contexto de datos sobre biodiversidad, estandarizados en _Darwin Core_. Puede consultar más información de la herramienta en el [manual de usuario](https://docs.openrefine.org/) (en inglés).
 
 **Convenciones**
 
@@ -77,7 +73,7 @@ Esta herramienta sirve para **todo tipo de datos**. Sin embargo, en este laborat
 
 Puede cargar datos con diferentes formatos y extensiones: TSV, CSV, SV, Excel (.xls y .xlsx), JSON, XML, RDF as XML y datos de _Google Docs_.
 
-**2.1. Abrir un nuevo proyecto**
+###2.1. Abrir un nuevo proyecto
 
 Abra _OpenRefine_ y seleccione la pestaña <span class="tag is-warning is-light"><i>Create Project</i></span>. Para cargar el archivo, siga la ruta <span class="tag is-warning is-light"><i><b>Get data from > This Computer</b></i></span> y haga clic en <span class="tag is-warning is-light"><i>Choose Files</i></span> (Fig. 1).
 
@@ -85,14 +81,14 @@ Abra _OpenRefine_ y seleccione la pestaña <span class="tag is-warning is-light"
 
 <sup>_Figura 1. Creación de un proyecto en OpenRefine._</sup>
 
-**2.2. Selección del archivo**
+###2.2. Selección del archivo**
 
 Seleccione el archivo <FONT FACE="monospace"><b>«datos_Estructurados.xlsx»</b></FONT> que descargó al incio del laboratorio y haga clic en <span class="tag is-warning is-light"><i>Next</i></span> (Fig. 1).
 
 > Puede subir varios archivos a la vez, el software unirá los archivos con base en los encabezados de las columnas.
 > 
 
-**2.3. Configuración del archivo**
+###2.3. Configuración del archivo**
 
 Tras seleccionar el archivo, aparecerá un panel de configuración. Este permite especificar el tipo de archivo que cargó y configurar la manera en la que los datos son leídos (Fig. 2). 
 
@@ -116,9 +112,9 @@ _OpenRefine_ hace una interpretación automática del tipo de archivo, la codifi
  - **C.** Selección de filas: permite seleccionar la fila que se convertirá en el encabezado de las columnas, ignorar filas, entre otros.
  - **D.** Carga de filas en blanco: permite especificar si se cargan filas vacías cargadas y cómo se realizará la carga. 
 
-> **Character encoding**: al cargar datos en formato de texto plano, es posible que la previsualización muestre las tíldes (í) y las eñes (ñ) remplazadas por caracteres extraños. Si esto ocurre, seleccione la codificación UTF-8. Esto le permitirá resolver el problema, a menos que haya otro tipo de error en los datos. 
+> _**Character encoding**_: al cargar datos en formato de texto plano, es posible que la previsualización muestre las tíldes (í) y las eñes (ñ) remplazadas por caracteres extraños. Si esto ocurre, seleccione la codificación UTF-8. Esto le permitirá resolver el problema, a menos que haya otro tipo de error en los datos. 
 
-**2.4. Personalización del proyecto y carga del archivo**
+###2.4. Personalización del proyecto y carga del archivo**
 
 En la esquina superior derecha, verá un cuadro de texto en el que puede modificar el nombre del proyecto. En ese cuadro, escriba <span class="tag is-light"><b>Datos_OR</b></span> y haga clic en el botón <span class="tag is-warning is-light"><i>Create Project</i></span> (Fig. 3). Opcionalmente, puede añadir _Tags_ (etiquetas) para organizar y filtrar los proyectos en la aplicación.
 
@@ -126,9 +122,7 @@ En la esquina superior derecha, verá un cuadro de texto en el que puede modific
 
 <sup>_Figura 3. Configuración del proyecto, ajuste de nombre, adición de etiquetas y creación._</sup>
 
-
 Espere a que cargue el archivo. Este proceso puede tomar un tiempo, dependiendo del tamaño que tenga archivo.
-
 
 ## Paso 3 - _Faceting_
 
@@ -228,7 +222,6 @@ Realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en <sp
 
 <sup>_Figura 13. Documentación masiva del elemento <span class="tag is-success is-light"><i>verbatimTaxonRank</i></span>._</sup>
 
-
 Diríjase nuevamente al menú de la columna de <span class="tag is-success is-light"><i>scientificName</i></span> y siga la ruta <span class="tag is-warning is-light"><b><i>Edit cells > Transform</i></b></span>. Posteriormente, ingrese el comando <span class="tag is-light"><b>value.replace</b></span> en el cuadro de texto **"_Expression_"**. Note que la pestaña **"_Preview_"** muestra una vista previa del resultado al aplicar el comando. Corrobore si es el cambio deseado (Fig. 14) y haga clic en <span class="tag is-warning is-light"><i>OK</i></span>. De inmediato, aparecerá un mensaje de confirmación de los cambios.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig14_OR_replace.png" width=800>
@@ -276,11 +269,7 @@ Al terminar el procedimiento anterior, observará los registros que cumplen con 
 Para ajustar ambos elementos, aplique un <span class="tag is-warning is-light"><i>Text facet</i></span> en <span class="tag is-success is-light"><i>identificationQualifier</i></span> y reemplace el <span class="tag is-light"><b>(blank)</b></span> por <span class="tag is-light"><b>cf. sowelli</b></span>. Además, borre ese mismo texto en el <span class="tag is-success is-light"><i>scientificName</i></span> (Fig. 16). De esta manera, se corregirán masivamente todos los campos.
 
 <div class="notification is-info is-light">
-  <b>Nota:</b>El grado de incertidumbre de la identificación puede indicarse agregando varios calificativos, como **"aff."** y **"cf."**, al nombre científico. El calificativo se escribe después del elemento al que corresponde la incertidumbre de identificación (género o especie).
-</div>
-<div class="notification is-info is-light">
-  <b>Nota:</b>- **aff.**: similar o limítrofe, indica que otra especie tiene afinidad con la especie mencionada, pero no es idéntica a ella.
-- **cf.**: comparar con, describe un espécimen que es difícil de identificar e indica diversos grados o tipos de incertidumbre sobre el taxon, los cuales pueden usarse de manera diferente según el autor.
+  <b>Nota:</b> el grado de incertidumbre de la identificación puede indicarse agregando varios calificativos, como <b>"aff."</b> y <b>"cf."</b>, al nombre científico. El calificativo se escribe después del elemento al que corresponde la incertidumbre de identificación (género o especie). El calificativo <b>"aff."</b> (similar o limítrofe) indica que otra especie tiene afinidad con la especie mencionada, pero no es idéntica a ella. Por otro lado, el calificativo <b>"aff."</b> (comparar con) describe un espécimen que es difícil de identificar e indica diversos grados o tipos de incertidumbre sobre el taxon, los cuales pueden usarse de manera diferente según el autor.
 </div>
 
 Finalmente, debe documentarse el género <span class="tag is-light"><b><i>Carollia</i></b></span> en <span class="tag is-success is-light"><i>scientificName</i></span> y asociarlo con el calificativo <span class="tag is-light"><b>cf. sowelli</b></span> en <span class="tag is-success is-light"><i>identificationQualifier</i></span> (Fig. 17).
