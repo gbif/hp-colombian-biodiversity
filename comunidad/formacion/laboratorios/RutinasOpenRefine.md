@@ -439,30 +439,24 @@ Revise los municipios en <span class="tag is-success is-light"><i>county</i></sp
 
 Compare sus resultados con el siguiente archivo, validado según las definiciones del estándar. Identificar aciertos y oportunidades de mejora. **¿Qué diferencias encontró con sus resultados?**
 
-<FONT FACE="monospace"><b>«Archivo validado»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/solución_datos_ValidacionGeografia.xlsx)
+[<FONT FACE="monospace"><b>«Archivo validado»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/solución_datos_ValidacionGeografia.xlsx)
 
 
 ## Parte 2.2 Validación de elevaciones
 
+Realiza un llamado al API de GeoNames (servicio SRTM-1) a partir de los elementos _Darwin Core_ de latitud (<span class="tag is-success is-light"><i>decimalLatitude</i></span>) y longitud (<span class="tag is-success is-light"><i>decimalLongitude</i></span>) en grados decimales. En este sentido, retorna la elevación con una resolución de 30 metros por pixel y la compara con los elementos documentados en el archivo base, generando los indicadores de validación.
 
-Realiza un llamado al API de GeoNames (servicio SRTM-1) a partir de los elementos Darwin Core de latitud (‘decimalLatitude’) y longitud (‘decimalLongitude’) en grados decimales y retorna la elevación con una resolución de 30 metros por pixel y la compara con los elementos documentados en el archivo base, generando los indicadores de validación.
-
-
-Enlace al repositorio: 
-https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValElevationAPIGeoNames_ValElevacionAPIGeoNames.txt
-
-
+Para esta parte, utilice la rutina [Validación y recuperación de elevaciones a partir del API de Geonames](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValElevationAPIGeoNames_ValElevacionAPIGeoNames.txt)
 
 ### Paso 1 - Cargar el archivo
 
-Usaremos el  archivo [datos_ValidacionGeografia.xlsx](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/datos_ValidacionElevaciones.xlsx). Descargue el archivo y carguelo en OpenRefine. Si tiene dudas sobre cómo hacerlo revise el [paso 2 de la guía general de OpenRefine](https://sib-colombia.github.io/Formacion/LAB/lab02/lab_or1.html#paso-2---crear-un-proyecto){:target="_blank"}. 
-
+Descargue el archivo [<FONT FACE="monospace"><b>«datos_ValidacionGeografia.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/datos_ValidacionElevaciones.xlsx) y cárguelo en _OpenRefine_. Si tiene dudas sobre cómo hacerlo, revise el **paso 2** de la [guía general de _OpenRefine_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#paso-2---crear-un-proyecto).
 
 ### Paso 2 - Revisar elementos requeridos
 
-El conjunto de datos a validar debe tener como mínimo los elemento DwC _```decimalLatitude```_ y _```decimalLongitude```_ documentados adecuadamente, de lo contrario la rutina no se ejecutará adecuadamente.
+El conjunto de datos a validar debe tener como mínimo los elemento DwC <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span> documentados adecuadamente. De lo contrario, la rutina no se ejecutará adecuadamente.
 
-Si cuenta con elevaciones es importante que estas esten documentadas como mínimo en el elemento _```minimumElevationInMeters```_.Si están documentadas solo como _```verbatimElevation```_ el script solo traerá las elevaciones sugeridas pero no habrá validaciones con las elevaciones documentadas.
+Si cuenta con elevaciones, es importante que estas estén documentadas en el elemento <span class="tag is-success is-light"><i>minimumElevationInMeters</i></span>. Si están documentadas solo como <span class="tag is-success is-light"><i>verbatimElevation</i></span>, el script solo traerá las elevaciones sugeridas y no habrá validaciones con las elevaciones documentadas.
 
 ### Paso 3 - Registro en Geonames
 
