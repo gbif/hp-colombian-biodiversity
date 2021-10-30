@@ -12,147 +12,155 @@ toc: true
 
 **Objetivo**
 
-Profundizar en el uso de _OpenRefine_ para validar de datos sobre biodiversidad de manera automática utilizando las APIs de varias herramientas en línea.
+Profundizar en el uso de _OpenRefine_ para validar de datos sobre biodiversidad de manera automática, utilizando las APIs de varias herramientas en línea.
 
 **Introducción**
 
-``` warning
-Próximamente, video introductorio
-```
+>Próximamente, video introductorio.
+>
 
 **Sobre la Herramienta**
 
-[_OpenRefine_](https://openrefine.org/) es un software creado con el objetivo de pulir datos crudos hasta convertirlos en diamantes :gem:, activos valiosos en la era del _BigData_.
+[_OpenRefine_](https://openrefine.org/) es un _software_ creado con el objetivo de pulir datos crudos hasta convertirlos en diamantes, los cuales son activos valiosos en la era del _BigData_.
 
-A partir del uso de servicios o archivos externo y la posibilidad que ofrece OpenRefine de guardar y rehacer pasos es posible crear rutinas para ejecutar de manera automática varias acciones de validación de calidad.
+Este programa permite visualizar y manipular datos tabulares, facilitando el mejoramiento de la calidad general de un conjunto de datos. Tiene la apariencia de un software tradicional de hoja de cálculo (similar a Excel), pero funciona como una base de datos. Esto significa que _OpenRefine_ no es adecuado para adicionar nuevas filas de datos, pero **es extremadamente poderoso cuando se trata de explorar, limpiar y vincular datos**.
 
-Aprovechando las múltiples herramientas de calidad de datos soportados por diferentes instituciones y personas de la comunidad de GBIF es posible abordar de manera semi-automatizada a través de OpenRefine los retos y problemas más comunes de calidad que se presentan a nivel taxonómico y geográfico en un conjunto de datos. Acá se presentan diferentes rutinas que validan la calidad de los datos contrastando un conjunto de datos contra dichos servicios externos agilizando la obtención de resultados y asegurando una metodología de validación replicable.
+_OpenRefine_ es un _software_ de código abierto bajo una licencia BSD y se instala localmente, por lo que funciona como una aplicación web personal y de acceso privado a la que se accede desde un navegador web.
 
-Puede consultar mayor información sobre GREL, el lenguaje de programación de OpenRefine que es  utilizado en las rutinas, en el [manual de usuario](https://docs.openrefine.org/manual/grel) (en inglés).
+Esta herramienta sirve para **todo tipo de datos**. Sin embargo, en este laboratorio se explica su funcionamiento en el contexto de datos sobre biodiversidad, estandarizados en Darwin Core. Puede consultar más información de la herramienta en el [manual de usuario](https://docs.openrefine.org/) (en inglés).
 
-Esta guía adapta y profundiza sobre la sección 5 de la **Zermoglio PF, Plata Corredor CA, Wieczorek JR, Ortiz Gallego R & Buitrago L (2021) Guía para la limpieza de datos sobre biodiversidad con OpenRefine. Versión 3. Copenhagen: GBIF Secretariat. [https://doi.org/10.15468/doc-gzjg-af18](https://doi.org/10.15468/doc-gzjg-af18).**
+Para saber más acerca de GREL, el lenguaje de programación de _OpenRefine_ que se utiliza en las rutinas, consulte el [manual de usuario](https://docs.openrefine.org/manual/grel) (en inglés).
+
+**Convenciones**
+
+- Los elementos del estándar *Darwin Core* aparecen en color verde y cursiva. Por ejemplo: <span class="tag is-success is-light"><i>measurementUnit</i></span>.
+- Los archivos a utilizar en los ejercicios se muestran entre comillas angulares, negrita, y tienen una tipografía diferente. Por ejemplo: <FONT FACE="monospace"><b>«archivo_Ejemplo.xls»</b></FONT>.
+- Las secciones, ventanas y componentes de las herramientas utilizadas se muestran entre comillas inglesas y en negrita. Por ejemplo: **"Create Project"**.
+- Las opciones de las herramientas que se asocian a instrucciones (dar clic, seleccionar, etc.) aparecen en color amarillo y cursiva. Por ejemplo: <span class="tag is-warning is-light"><i>New project</i></span>.
+- Las secuencias de instrucciones y pasos se muestran en color amarillo, cursiva y negrita. Por ejemplo: <span class="tag is-warning is-light"><b><i>Paso 1 > Paso 2</i></b></span>.
+- Las líneas que se escriben directamente en las herramientas, para programar o realizar algún proceso en específico, aparecen en formato de código, con una tipografía distinta de color negro. Por ejemplo: <span class="tag is-light"><b>value.replace(" sp.","")</b></span>.
+
+>Esta guía adapta y profundiza en los procesos correspondientes a la sección 5 de la [Guía para la limpieza de datos sobre biodiversidad con _OpenRefine_](https://docs.gbif.org/openrefine-guide/3.0/es/).
+>
 
 **Requerimientos** 
 
-- Navegador Chrome instalado, y configurado como navegador predeterminado.
-- Haber realizado la [guía general de Open Refine](https://sib-colombia.github.io/Formacion/LAB/lab02/lab_or1.html).
-- Para obtener mejores resultados se recomienda ampliar la memoria RAM que puede usar OpenRefine. Para ello siga las instrucciones del [manual de usuario](https://docs.openrefine.org/manual/installing#increasing-memory-allocation) (en inglés), pemitale al programa utilizar hasta el 75% de la memoria RAM de su computador siempre y cuando reserve como mínimo 2GB para el funcionamiento del computador, por ejemplo:
-    -  Si su computador tiene 4GB de RAM disponga hasta 2GB para OpenRefine y las otras 2GB reservelas para el funcionamiento del equipo.
-    -  Si su computador tiene 8GB de RAM disponga hasta 6GB para OpenRefine y las otras 2GB reservelas para el funcionamiento del equipo.
+- _Google Chrome_ instalado y configurado como navegador predeterminado.
+- Haber realizado la [Guía general de _Open Refine_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine).
+- Para obtener mejores resultados, se recomienda ampliar la memoria RAM disponible para el uso de _OpenRefine_. Para ello, siga las instrucciones del [manual de usuario](https://docs.openrefine.org/manual/installing#increasing-memory-allocation) (en inglés) para permitir que el programa utilice hasta el 75% de la memoria RAM de su computador, siempre y cuando reserve como mínimo 2GB para el funcionamiento básico del equipo. Por ejemplo:
+    -  Si su computador tiene 4GB de RAM, disponga hasta 2GB para _OpenRefine_ y reserve los 2GB restantes para el funcionamiento del equipo.
+    -  Si su computador tiene 8GB de RAM, disponga hasta 6GB para _OpenRefine_ y reserve los 2GB restantes para el funcionamiento del equipo.
 
-``` warning
-No utilice Internet Explorer para este laboratorio ya que OpenRefine no funciona bien con este navegador web.
-```
-
-
+<article class="message is-warning">
+  <div class="message-header">
+    <p>¡Precaución!</p>    
+  </div>
+  <div class="message-body">
+      No utilice <i>Internet Explorer</i> para este laboratorio, ya que <i>OpenRefine</i> no funciona bien con este navegador <i>web</i>.
+  </div>
+</article>
 
 ## Sobre las rutinas
 
-Las rutinas comparan la información documentada en el conjunto de datos contra diferentes fuentes de referencia, y a partir de dicha comparación crean columnas de validación donde se puede identificar la correspondencia entre el archivo original y la fuente de referencia a través de operadores lógicos, unos (1) y ceros (0), que funcionan como indicadores de validación.
+Las rutinas comparan la información documentada en el conjunto de datos con diferentes fuentes de referencia y crean columnas de validación a partir de dicha comparación. En estas columnas se puede evidenciar la correspondencia entre el archivo original y la fuente de referencia a través de operadores lógicos, unos (<span class="tag is-light"><b>1</b></span>) y ceros (<span class="tag is-light"><b>0</b></span>), que funcionan como indicadores de validación.
 
 Los indicadores de validación se interpretan así:
 
-```0```: El valor documentado en el conjunto de datos NO coincide con la fuente de referencia, el valor debe ser revisado y ajustado en caso de ser necesario.
+<span class="tag is-light"><b>0</b></span>: el valor documentado en el conjunto de datos NO coincide con la fuente de referencia, así que el valor debe ser revisado y ajustado en caso de ser necesario.
 
-```1```: El valor documentado en el conjunto de datos coincide con la fuente de referencia, no es necesario tomar acciones adicionales.
+<span class="tag is-light"><b>1</b></span>: el valor documentado en el conjunto de datos coincide con la fuente de referencia, así que no es necesario tomar acciones adicionales.
 
-Observe el ejemplo de la Figura 1 en la primera fila el valor original de la columna _```family```_ no coincide con la columna _```familySuggested```_ ya que tiene un error de tipeo, por lo tanto el indicador de validación (columna _```familyValidation```_) es cero ```0```. Note que en las filas donde sí hay coincidencia el indicador de validación (_```familyValidation_```) es uno ```1```.
+Observe el ejemplo de la Figura 1. En la primera fila, el valor original de la columna <span class="tag is-success is-light"><i>family</i></span> no coincide con la columna _**"familySuggested"¨**_, ya que tiene un error de tipeo. Por lo tanto, el indicador de validación (columna _**"familyValidation"**_) es cero (<span class="tag is-light"><b>0</b></span>). Note que el indicador de validación (_**"familyValidation"**_) de las filas donde sí hay coincidencia es uno (<span class="tag is-light"><b>1</b></span>).
 
-Las rutinas utilizan como fuentes de validación API’s (Interfaces de Programación de Aplicaciones) de repositorios globales taxonómicos, geográficos o archivos de texto plano obtenidos como resultado de herramientas de validación externas.
+Las rutinas utilizan API’s (Interfaces de Programación de Aplicaciones) de repositorios globales taxonómicos como fuentes de validación. Las API's pueden ser de carácter geográfico o archivos de texto plano obtenidos a partir de herramientas externas de validación.
 
-Se encuentran disponibles seis (6) rutinas (Tabla 1), en esta guía se profundizará en 4 de ellas.
-
+Hay seis rutinas disponibles (Tabla 1), en esta guía se profundizará en 4 de ellas.
 
 <sup>_Tabla 1. Lista de rutinas para la validación de datos primarios sobre biodiversidad_.</sup>
 
 | Nombre | Uso | Requerimientos 
 | -------- | -------- | -------- |
-| Validación taxonómica con el API de GBIF | Validación taxonómica que usa como referencia el [árbol taxonómico de GBIF](https://doi.org/10.15468/39omei). Permite validar registros de varios grupos biológicos a la vez, así como obtener la taxonomía superior de cada taxa.| Requiere como mínimo los elementos DwC _```scientificName```_ y _```kingdom```_ documentados y acceso a internet para hacer la petición al API de GBIF.
-|Validación taxonómica con Species Matching de GBIF| Validación taxonómica que usa como referencia el [árbol taxonómico de GBIF](https://doi.org/10.15468/39omei), a diferencia de la rutina anterior realiza la validación contra el archivo de resultados _normalized_ obtenido de link:[_Species Matching_](https://www.gbif.org/es/tools/species-lookup) permitiendo así aprovechar las funcionalidades de validación y limpieza de esta herramienta. La rutina facilita el cruce de los resultados obtenidos con link:[_Species Matching_](https://www.gbif.org/es/tools/species-lookup) con el conjunto de datos original. | Requiere como mínimo el elemento DwC _```scientificName```_ documentado y que el archivo _normalized_ sea previamente cargado en OpenRefine para la ejecución de la rutina.
-| Validación taxonómica con el API de WoRMS | Validación taxonómica específica para organismos marinos, que usa como referencia el [árbol taxonómico de LifeWatch (LW-SIBb)](https://www.lifewatch.be/en/lifewatch-species-information-backbone) por medio de la API de [WoRMS (_World Register of Marine Species_)](http://www.marinespecies.org/aphia.php?p=webservice). Permite obtener la taxonomía superior de cada taxa, así como elementos taxonómicos obligatorios para la publicación de datos a través de [OBIS](https://obis.org/).| Requiere como mínimo el elemento DwC _```scientificName```_ documentado y acceso a internet para hacer la petición al API de WoRMS.
-|Validación de elevaciones con el API de GeoNames | Validación y/o obtención de la elevación a partir de las coordenadas usando el servicio geográfico de GeoNames. | Requiere los elementos DwC _```decimalLatitude```_ y _```decimalLongitude```_ documentados adecuadamente y acceso a internet para hacer la petición al API de  GeoNames.
-|Validación de nombres geográficos con DIVIPOLA | Validación de los nombres oficiales de departamentos, municipios y centros poblados | Requiere como mínimo el elemento DwC _```stateProvince```_ (departamento) documentado, también valida los elementos _```county```_ (municipio) y _```municipality```_ (centro poblado) si están documentados.|
-|Transformación de fechas con el API de Canadensys| Transformación de fechas en múltiples formatos al estándar ISO 8601.| Requiere el elemento DwC _```eventDate```_ documentado y acceso a internet para hacer la petición al API de  Canadensys.|
+| Validación taxonómica con el API de GBIF | Validación taxonómica que usa como referencia el [árbol taxonómico de GBIF](https://doi.org/10.15468/39omei). Permite validar registros de varios grupos biológicos a la vez, así como obtener la taxonomía superior de cada taxa.| Requiere como mínimo la documentación de los elementos DwC <span class="tag is-success is-light"><i>scientificName</i></span> y <span class="tag is-success is-light"><i>kingdom</i></span> y acceso a Internet para hacer la solicitud al API de GBIF.
+|Validación taxonómica con _Species Matching_ de GBIF| Validación taxonómica que usa como referencia el [árbol taxonómico de GBIF](https://doi.org/10.15468/39omei). A diferencia de la rutina anterior, realiza la validación con base en el archivo de resultados <FONT FACE="monospace"><b>«<i>normalized</i>»</b></FONT>, obtenido de [_Species Matching_](https://www.gbif.org/es/tools/species-lookup). Por lo tanto, permite aprovechar las funcionalidades de validación y limpieza de esta herramienta. La rutina facilita el cruce de los resultados obtenidos con [_Species Matching_](https://www.gbif.org/es/tools/species-lookup) respecto al conjunto de datos original. | Requiere como mínimo que el elemento DwC <span class="tag is-success is-light"><i>scientificName</i></span> esté documentado y que el archivo <FONT FACE="monospace"><b>«<i>normalized</i>»</b></FONT> sea previamente cargado en _OpenRefine_ para ejecutar la rutina.
+| Validación taxonómica con el API de WoRMS | Validación taxonómica específica para organismos marinos, que usa como referencia el [árbol taxonómico de _LifeWatch_ (LW-SIBb)](https://www.lifewatch.be/en/lifewatch-species-information-backbone) por medio de la API de [WoRMS (_World Register of Marine Species_)](http://www.marinespecies.org/aphia.php?p=webservice). Permite obtener la taxonomía superior de cada taxa, así como elementos taxonómicos obligatorios para la publicación de datos a través de [OBIS](https://obis.org/).| Requiere como mínimo la documentación del elemento DwC <span class="tag is-success is-light"><i>scientificName</i></span> y acceso a Internet para hacer la solicitud al API de GBIF.
+|Validación de elevaciones con el API de _GeoNames_ | Validación y obtención de la elevación a partir de las coordenadas con el servicio geográfico de _GeoNames_. | Requiere como mínimo la documentación de los elementos DwC <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span> y acceso a Internet para hacer la solicitud al API de _GeoNames_.
+|Validación de nombres geográficos con DIVIPOLA | Validación de los nombres oficiales de departamentos, municipios y centros poblados | Requiere como mínimo que el elemento DwC <span class="tag is-success is-light"><i>stateProvince</i></span> (departamento) esté documentado. Adicionalmente, valida los elementos <span class="tag is-success is-light"><i>county</i></span> (municipio) y <span class="tag is-success is-light"><i>municipality</i></span> (centro poblado) si están documentados.|
+|Transformación de fechas con el API de _Canadensys_| Transformación de fechas en múltiples formatos al estándar ISO 8601.| Requiere la documentación del elemento DwC <span class="tag is-success is-light"><i>eventDate</i></span> y acceso a Internet para hacer la solicitud al API de _Canadensys_.|
 
-Las rutinas cuya fuente de referencia es un API, hacen una consulta a un servicio externo y obtienen una respuesta en formato JSON, la rutina interpreta esta respuesta y la hace legible en forma de columnas dentro del conjunto de datos. Posteriormente el resultado de la consulta al API es comparado con el valor documentado en el conjunto de datos y se generan nuevas columnas con los indicadores de la validación (unos y ceros).
+Las rutinas cuya fuente de referencia es un API consultan a un servicio externo y obtienen una respuesta en formato JSON. Cada rutina interpreta esta respuesta y la hace legible en forma de columnas dentro del conjunto de datos. Posteriormente, el resultado de la consulta al API es comparado con el valor documentado en el conjunto de datos y se generan nuevas columnas con los indicadores de la validación (unos y ceros).
 
-Las rutinas que usan como fuente archivos de texto plano, hacen una consulta sobre un archivo cargado previamente en OpenRefine que posteriormente es comparado con el valor documentado en el conjunto de datos. Como resultado de la comparación se generan nuevas columnas con los indicadores de la validación.
+Las rutinas que usan como fuente archivos de texto plano consultan con base en un archivo subido previamente a _OpenRefine_, el cual es comparado con el valor documentado en el conjunto de datos. Como resultado de la comparación se generan nuevas columnas con los indicadores de la validación.
 
-Todas las rutinas se ejecutan de manera similar, los detalles específicos para cada una se explican más adelante. Esta guía se enfoca en 4 rutinas, 2 taxonómicas y dos geográficas por lo cual la guía se divide en dos partes.
+Todas las rutinas se ejecutan de manera similar, los detalles específicos para cada una se explican más adelante. Esta guía se enfoca en 4 rutinas: dos taxonómicas y dos geográficas, por lo que se divide en dos partes.
 
 
 ## Parte 1 - Validación taxonómica con GBIF y WoRMS en OpenRefine
 
-La primera aprte de la guía aborda la validación taxonómica utilizanda el API de GBIF y WoRMS, permitiendole consultar estos árboles taxonómicos de manera directa sin utilizar las aplicaciones en línea [SpeciesMatch](https://sib-colombia.github.io/Formacion/LAB/lab02/lab_spmatch.html) o [WoRMS taxonMatch](https://sib-colombia.github.io/Formacion/LAB/lab02/lab_worms.html). Esta ruta directa también le permitrá hacer consultas para más datos y más elementos sin los limitantes de las aplicaciones en línea.
+La primera parte de la guía aborda la validación taxonómica con el API de GBIF y WoRMS, lo cual permite consultar estos árboles taxonómicos de manera directa, sin utilizar las aplicaciones en línea [_Species Matching_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/SpeciesMatching) o [WoRMS _TaxonMatch_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/Worms). Esta ruta directa también le permite hacer consultas para una mayor cantidad datos y elementos, sin los limitantes de las aplicaciones en línea.
 
-Dependiendo de su interés particular realice esta guía con alguna de las suguientes opciones:
+Dependiendo de su interés particular, realice esta guía con alguna de las suguientes opciones:
 
 **Datos de grupos biológicos principalmente continentales**
 
-- Descargue el archivo [```datos_Estructurados.xlsx```](https://github.com/SIB-Colombia/Formacion/raw/master/LAB/lab02/_docs/datos_Estructurados.xlsx) para realizar el laboratorio.
+- Descargue el archivo [<FONT FACE="monospace"><b>«datos_Estructurados.xlsx»</b></FONT>](https://github.com/SIB-Colombia/Formacion/raw/master/LAB/lab02/_docs/datos_Estructurados.xlsx) para realizar el laboratorio.
 - Utilice la rutina [Validación taxonómica con el API de GBIF](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValTaxonomicAPIGBIF_ValTaxonomicaAPIGBIF.txt)
 
 **Datos de grupos biológicos marino-costeros**
-- Descargue el archivo [```datos_CasoMarinoCosteros.xlsx```](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/datos_casomarinocosteros.xlsx) para realizar el laboratorio.
+- Descargue el archivo [<FONT FACE="monospace"><b>«datos_CasoMarinoCosteros.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/datos_casomarinocosteros.xlsx) para realizar el laboratorio.
 - Utilice la rutina [Validación taxonómica con el API de WoRMS](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValTaxonomicAPIWoRMS_ValTaxonomicaAPIWoRMS.txt)
 
-## Paso 1 - Cargar el archivo
+### Paso 1 - Cargar el archivo
 
-Cree un proyecto en OpenRefine con el conjunto de datos que desea validar, si tiene dudas sobre cómo hacerlo revise el [paso 2 de la guía general de OpenRefine](https://sib-colombia.github.io/Formacion/LAB/lab02/lab_or1.html#paso-2---crear-un-proyecto). 
+Cree un proyecto en _OpenRefine_ con el conjunto de datos que desea validar. Si tiene dudas sobre cómo hacerlo, revise el **paso 2** de la [Guía general de OpenRefine](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#paso-2---crear-un-proyecto). 
 
+### Paso 2 - Revisar elementos requeridos
 
-## Paso 2 - Revisar elementos requeridos
+Asegúrese de que el conjunto de datos cumpla con los elementos y requerimientos mínimos de cada rutina:
 
-Asegúrese que el conjunto de datos cumpla con los elementos  y requerimientos mínimos de cada rutina:
+**Validación taxonómica con el API de GBIF - Datos continentales**
 
-**Validación taxonómica con el API de GBIF - Datos Continentales**
+Requiere como mínimo la documentación de los elementos DwC <span class="tag is-success is-light"><i>scientificName</i></span> y <span class="tag is-success is-light"><i>kingdom</i></span> y acceso a Internet para hacer la solicitud al API de GBIF.
 
-Requiere como mínimo los elementos DwC ```scientificName``` y ```kingdom``` documentados y acceso a internet para hacer la petición al API de GBIF.
-
-Haga un  ```Text facet``` sobre los elementos ```kingdom``` y ```class``` (Fig. 2). 
+Haga un <span class="tag is-warning is-light"><i>Text facet</i></span> en los elementos <span class="tag is-success is-light"><i>kingdom</i></span> y <span class="tag is-success is-light"><i>class</i></span> (Fig. 2). 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig 2. Filtro reino.png" width=800>
 
+<sup>_Figura 2. <span class="tag is-warning is-light"><i>Text facet</i></span> en los elementos <span class="tag is-success is-light"><i>kingdom</i></span> y <span class="tag is-success is-light"><i>class</i></span>._</sup>
 
-<sup>_Figura 2. Text facet sobre los elementos kingdom y class._</sup>
-
-Observe que el conjunto de datos no tiene documentado el elemento ```kingdom``` para ningún registro, sin embargo a partir del filtro sobre el elemento ```class```  se puede inferir que todos los datos corresponden a animales. Complete el reino para todos los registros (Fig. 3).
+Observe que el conjunto de datos no tiene documentado el elemento <span class="tag is-success is-light"><i>kingdom</i></span> para ningún registro. Sin embargo, a partir del filtro sobre el elemento <span class="tag is-success is-light"><i>class</i></span>,  se puede inferir que todos los datos corresponden a animales. Por consiguiente, complete el reino para todos los registros (Fig. 3).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig 3. OR_avanzado.png" width=800>
 
-
-<sup>_Figura 3. Ajuste en el elemento kingdom previo a correr la rutina._</sup>
-
-
-Haga una limpieza previa del elemento _```scientificName```_ para obtener mejores resultados:
-
-1. Eliminar elementos que no correspondan a la estructura del nombre cientÍfico como **sp.**, si necesita ayuda siga el [paso 4.1.1 de la guía general](https://sib-colombia.github.io/Formacion/LAB/lab02/lab_or1.html#41-correcci%C3%B3n-combinando-filtros-y-funciones).
-3. Elimine los calificadores de la identificación y ubíquelos en el elemento correspondiente, si necesita ayuda siga el [paso 4.2.2 de la guía general](https://sib-colombia.github.io/Formacion/LAB/lab02/lab_or1.html#42-filtros-con-expresiones-regulares).
+<sup>_Figura 3. Ajuste previo a correr la rutina del elemento <span class="tag is-success is-light"><i>kingdom</i></span>._</sup>
 
 
-**Validación taxonómica con el API de WoRMS - Datos Marino Costeros**
+Haga una limpieza previa del elemento <span class="tag is-success is-light"><i>scientificName</i></span> para obtener mejores resultados:
 
-Requiere como mínimo el elemento DwC ```scientificName``` documentado y acceso a internet para hacer la petición al API de WoRMS.
+1. Eliminar elementos que no correspondan a la estructura del nombre cientÍfico, como **sp.**. Si necesita ayuda, siga el **paso 4.1.1** de la [guía general](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#41-correcci%C3%B3n-combinando-filtros-y-funciones).
+3. Elimine los calificadores de la identificación y ubíquelos en el elemento correspondiente. Si necesita ayuda, siga el **paso 4.2.2** de la [guía general](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#42-filtros-con-expresiones-regulares).
 
-Haga una limpieza previa del elemento scientificName para obtener mejores resultados, puede ver las recomendaciones enteriores en la sección de datos continentales.
 
+**Validación taxonómica con el API de WoRMS - Datos marino-costeros**
 
-## Paso 3 - Ejecutar la rutina
+Requiere como mínimo la documentación del elemento DwC <span class="tag is-success is-light"><i>scientificName</i></span> y acceso a Internet para hacer la solicitud al API de GBIF.
+
+Haga una limpieza previa del elemento <span class="tag is-success is-light"><i>scientificName</i></span> para obtener mejores resultados. Puede ver las recomendaciones enteriores en la sección de **"Datos continentales"**.
+
+### Paso 3 - Ejecutar la rutina
 
 Seleccione la rutina de interés según la validación que desee realizar:
 
-- Rutina de [Validación taxonómica con el API de GBIF](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValTaxonomicAPIGBIF_ValTaxonomicaAPIGBIF.txt) - Datos Continentales.
+- Rutina de [Validación taxonómica con el API de GBIF](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValTaxonomicAPIGBIF_ValTaxonomicaAPIGBIF.txt) - Datos continentales.
 
-- Rutina de [Validación taxonómica con el API de WoRMS](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValTaxonomicAPIWoRMS_ValTaxonomicaAPIWoRMS.txt) - Datos Marino Costeros.
+- Rutina de [Validación taxonómica con el API de WoRMS](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValTaxonomicAPIWoRMS_ValTaxonomicaAPIWoRMS.txt) - Datos marino-costeros.
 
-
-Haga clic en el enlace a la rutina y será redirigido a GitHub donde encontrará un archivo de texto plano con la rutina, copie el texto de la rutina de validación (Fig. 4). Asegúrese de seleccionar solo la rutina -sin las instrucciones- y copiar todos los corchetes iniciales { y finales }.
+Haga clic en el enlace a la rutina y será redirigido a GitHub, donde encontrará un archivo de texto plano con la rutina. Luego, copie el texto de la rutina de validación (Fig. 4). Asegúrese de seleccionar solo la rutina -sin las instrucciones- y copiar todos los corchetes iniciales (<span class="tag is-light"><b>{</b></span>) y finales (<span class="tag is-light"><b>}</b></span>), ya que estos son fundamentales para que la rutina se ejecute correctamente.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/es.figure-59.jpg" width=600>
 
 <sup>_Figura 4. Selección de la rutina a ejecutar._</sup>
 
-Ubíquese en el conjunto de datos a validar en OpenRefine, diríjase al menú arriba a la izquierda, seleccione la pestaña “Deshacer/Rehacer” y haga clic en el botón “Aplicar…​”. A continuación se abrirá una ventana de texto vacía, pegue en el cuadro de texto la rutina a ejecutar y haga clic en “Ejecutar Operaciones” (Fig. 5). Si tiene dudas sobre este proceso revise la sección 2.5.
+En el conjunto de datos a validar en _OpenRefine_, diríjase al menú superior izquierdo, seleccione la pestaña <span class="tag is-warning is-light"><i>Deshacer/Rehacer</i></span> y haga clic en el botón <span class="tag is-warning is-light"><i>Aplicar...</i></span>. A continuación, se abrirá una ventana de texto vacía. Pegue la rutina a ejecutar en el cuadro de texto y dé clic en <span class="tag is-warning is-light"><i>Ejecutar Operaciones</i></span> (Fig. 5).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/es.figure-58.jpg" width=600>
 
@@ -164,287 +172,274 @@ El avance de la ejecución de la rutina se observa en la parte superior de la pa
 
 <sup>_Figura 6. Avance de la ejecución de la rutina en OpenRefine._</sup>
 
+Espere a que finalice la ejecución de la rutina. Las rutinas que requieren hacer llamados a servicios externos dependen de la conexión a Internet. Por consiguiente, estas consultas toman un tiempo en ejecutarse, el cual varía según el número de filas del conjunto de datos, de la velocidad de la conexión y de la memoria RAM de su equipo.
 
-Espere a que finalice la ejecución de la rutina. Las rutinas que requieren hacer llamados a servicios externos, dependen de la conexión a internet, estas consultas toman un tiempo en ejecutarse que varía según el número de filas del conjunto de datos, de la velocidad de la conexión y de la memoria RAM de su equipo.
+### Paso 4 - Resultados de la validación
 
+Al terminar la ejecución de la rutina, obtendrá nuevas columnas en el conjunto de datos. Puede identificarlas por su terminación:
 
-## Paso 4 - Resultados de la validación
+- _**"Suggested"**_: son valores sugeridos por la validación con las fuentes de referencia. Dependiendo de la rutina seleccionada, pueden ser sugerencias taxonómicas, geográficas o temporales.
 
-Al terminar la ejecución de la rutina, obtendrá nuevas columnas en el conjunto de datos, puede identificarlas por su terminación:
+- _**"Validation"**_: corresponde a los indicadores de validación (unos y ceros) que permiten rastrear diferencias entre el valor original y el valor sugerido para realizar posteriormente una limpieza de los datos.
 
-- _```Suggested```_ Valores sugeridos resultantes de la validación con las fuentes de referencia, dependiendo de la rutina seleccionada pueden ser sugerencias taxonómicas, geográficas, o temporales.
-
-- _```Validation```_: Corresponde a los indicadores de validación (unos y ceros) que permiten rastrear diferencias entre el valor original y el valor sugerido, y realizar posteriormente una limpieza de los datos.
-
-En la Figura 7 se muestra un ejemplo de cómo se ven los identificadores de la validación y las nuevas columnas con las sugerencias después de ejecutar la rutina; en el ejemplo se observa una validación taxonómica, las columnas de resultado varían según el objetivo de cada rutina.
-
+En la Figura 7 se muestra un ejemplo de cómo se ven los identificadores de la validación y las nuevas columnas con las sugerencias después de ejecutar la rutina. El ejemplo muestra una validación taxonómica, pero las columnas de resultado pueden variar según el objetivo de cada rutina.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/es.figure-61.jpg" width=800>
 
 <sup>_Figura 7. Identificadores de validación y columnas resultantes de la rutina_.</sup>
 
 
-### 4.1 Datos de grupos biológicos principalmente continentales
+**4.1 Datos de grupos biológicos principalmente continentales**
 
+* **Funcionamiento:**
 
-**Funcionamiento:**
+Esta rutina valida la información taxonómica de un conjunto de datos, usando como referencia el árbol taxonómico de GBIF. Esto se logra a través de un llamado al API de GBIF con base en los elementos del estándar DwC <span class="tag is-success is-light"><i>scientificName</i></span> y <span class="tag is-success is-light"><i>kingdom</i></span> que se documentan en el conjunto de datos. Como resultado, el llamado retorna la taxonomía superior, nombres aceptados, estatus taxonómico y autoría del nombre científico de acuerdo al árbol taxonómico de GBIF. La rutina toma los valores obtenidos del árbol y los compara con los elementos documentados en el archivo base, generando los indicadores de validación que se explican a continuación.
 
-Esta rutina valida la información taxonómica de un conjunto de datos usando como referencia el árbol taxonómico de GBIF, esto se hace a través de un llamado al API de GBIF basado en los elementos del estándar Darwin Core "scientificName" y "kingdom" documentados en el conjunto de datos. Como resultado, el llamado retorna la taxonomía superior, nombres aceptados, estatus taxonómico y autoría del nombre científico de acuerdo al árbol taxonómico de GBIF. La rutina toma los valores obtenidos del árbol y los compara con los elementos documentados en el archivo base, generando los indicadores de validación, explicadas a continuación.
+<div class="notification is-info is-light">
+  <b>Nota:</b> si también desea validar la taxonomía superior de su conjunto de datos, se requieren los elementos DwC: <b><i>scientificName</i></b>, <b><i>kingdom</i></b>, <b><i>phylum</i></b>, <b><i>class</i></b>, <b><i>order</i></b>, <b><i>family</i></b> y <b><i>genus</i></b>.
+</div>
 
+* **Resultados:**
 
-```note
-Si también desea validar la taxonomía superior de su conjunto de datos se requieren los elementos DwC: "scientificName", "kingdom", "phylum", "class", "order", "family", y "genus".
-```
+En las primeras columnas del proyecto, encontrará los datos taxonómicos reorganizados junto con las nuevas columnas, resultado de la rutina. Primero encontrará las columnas asociadas al cruce con el árbol taxonómico y luego, de manera intercalada, las columnas con el valor taxonómico original, un valor sugerido de acuerdo al árbol taxonómico de GBIF y el indicador de validación que establece si los valores coinciden (<span class="tag is-light"><b>1</b></span>) o difieren (<span class="tag is-light"><b>0</b></span>).
 
+A continuación, se listan las columnas que encontrará después de ejecutar la rutina:
 
-**Resultados:**
+- _**"taxonMatchType"**_: indica el resultado del cruce de los datos originales con el árbol taxonómico de GBIF a partir de los elementos <span class="tag is-success is-light"><i>scientificName</i></span> y <span class="tag is-success is-light"><i>kingdom</i></span>. Los valores que encontrará en esta columna son:
 
-En las primeras columnas del proyecto encontrará las columnas con los datos taxonómicos reorganizadas junto con nuevas columnas resultantes de la rutina. Primero encontrará las columnas asociadas al cruce con el árbol taxonómico y luego de manera intercalada columnas con el valor taxonómico original, un valor sugerido de acuerdo al árbol taxonómico de GBIF y el indicador de validación indicando si los valores son iguales (1) o difieren (0).
+     - <span class="tag is-light"><b>EXACT</b></span>: significa que la correspondencia entre el <span class="tag is-success is-light"><i>scientificName</i></span> del conjunto de datos y el del árbol taxonómico es completa.
 
-A continuación se listan las columnas que encontrará después de ejecutar la rutina:
+     - <span class="tag is-light"><b><i>FUZZY</i></b></span>: implica que la correspondencia entre el <span class="tag is-success is-light"><i>scientificName</i></span> del conjunto de datos y el del árbol taxonómico es parcial. Probablemente, el nombre difiere en su escritura, lo que indica errores de tipeo o diferencias por correcciones nomenclaturales. Por ejemplo, la terminación "i" o "ii" cuando la especie se dedica a una persona.
 
-_```taxonMatchType```_: Indica el resultado del cruce de los datos originales con el árbol taxonómico de GBIF a partir de los elementos "scientificName" y "kingdom". Los valores que encontrará en esta columna son:
+     - <span class="tag is-light"><b><i>HIGHERRANK</i></b></span>: significa que la correspondencia entre el nombre científico del conjunto de datos y el del árbol taxonómico fue parcial. No se identificó el <span class="tag is-success is-light"><i>scientificName</i></span> del taxón, pero sí en un nivel superior. Por ejemplo, si el <span class="tag is-success is-light"><i>scientificName</i></span> corresponde a una especie, la correspondencia con el árbol taxonómico de GBIF fue a nivel de género. Esto sucede cuando el taxón aún no está en el árbol taxonómico de GBIF o cuando hay errores de tipeo mayores.
 
-   - _EXACT_: La correspondencia entre el "scientificName" del conjunto de datos y el árbol taxonómico es completa.
+     - <span class="tag is-light"><b><i>NONE</i></b></span> y <span class="tag is-light"><b><i>BLANK</i></b></span>: implica que la correspondencia entre el <span class="tag is-success is-light"><i>scientificName</i></span> del conjunto de datos y el del árbol taxonómico fue nula o hubo varias coincidencias con muy poca información para determinar un resultado. Esto sucede cuando hay homónimos o cuando el taxón aún no se encuentra en el árbol taxonómico de GBIF, como es el caso de especies recientemente descritas o algunas endémicas.
 
-   -_FUZZY_: La correspondencia entre el "scientificName" del conjunto de datos y el árbol taxonómico es parcial, el nombre difiere en su escritura. Comúnmente indica errores de tipeo o diferencias por correcciones nomenclaturales (ejem: la terminación i vs. ii cuando la especie se dedica a una persona).
+- <span class="tag is-success is-light"><i>scientificName</i></span>: columna original del conjunto de datos.
 
-   - _HIGHERRANK_: La correspondencia entre el nombre científico del conjunto de datos y el árbol taxonómico fue parcial. No se identificó el taxon a nivel taxonómico de "scientificName" si no a un nivel superior. Por ejemplo si el "scientificName" corresponde a una especie, la correspondencia con el árbol taxonómico de GBIF fue a nivel de género. Esto sucede porque el taxon aún no está en el árbol taxonómico de GBIF o por errores de tipeo mayores.
+- _**"acceptedScientificName"**: nombre científico aceptado por el árbol taxonómico de GBIF.
 
-   _NONE_ y _BLANK_: La correspondencia entre el "scientificName" del conjunto de datos y el árbol taxonómico fue nula o hubo varias coincidencias con muy poca información para determinar un resultado, esto sucede comunmente cuando hay homónimos o si el taxon aún no se encuentra en el árbol taxonómico de GBIF, como es el caso de especies recientemente descritas o algunas endémicas.
+- _**"canonicalNameSuggested"**_: nombre canónico sugerido por el árbol taxonómico de GBIF.
 
-_```scientificName```_: Columna original del conjunto de datos.
+- _**"taxonRankSuggested"**_: categoría del taxon sugerido por el árbol taxonómico de GBIF (por ejemplo: <span class="tag is-light"><b><i>SPECIES</i></b></span>, <span class="tag is-light"><b><i>GENUS</i></b></span>, <span class="tag is-light"><b><i>FAMILY</i></b></span>).
 
-_```acceptedScientificName```_: Nombre científico aceptado según el árbol taxonómico de GBIF.
+- _**"taxonomicStatusSuggested"**_: estado del taxon sugerido por el árbol taxonómico de GBIF (por ejemplo: <span class="tag is-light"><b><i>ACCEPTED</i></b></span>, <span class="tag is-light"><b><i>SYNONYM</i></b></span>).
 
-_```canonicalNameSuggested```_: Nombre canónico sugerido según el árbol taxonómico de GBIF.
+- **Tripleta de elementos validados**: encontrará la columna original del conjunto de datos, la columna de validación y la columna con la sugerencia del árbol taxonómico de GBIF. Por ejemplo: <span class="tag is-success is-light"><i>class</i></span>, _**"classValidation"**_, _**"classSuggested"**_. 
 
-_```taxonRankSuggested```_: Categoría del taxon sugerido según el árbol taxonómico de GBIF (e.g.: SPECIES, GENUS, FAMILY).
+> Si los siguientes elementos están documentados en el conjunto de datos original, tendrán la tripleta mencionada: <span class="tag is-success is-light"><i>scientificNameAuthorship</i></span>, <span class="tag is-success is-light"><i>kingdom</i></span>, <span class="tag is-success is-light"><i>phylum</i></span>, <span class="tag is-success is-light"><i>class</i></span>, <span class="tag is-success is-light"><i>order</i></span>, <span class="tag is-success is-light"><i>family</i></span>, <span class="tag is-success is-light"><i>genus</i></span> y <span class="tag is-success is-light"><i>specificEpithet</i></span>.
+>
 
-_```taxonomicStatusSuggested```_: Estado del taxon sugerido según el árbol taxonómico de GBIF (e.g.: ACCEPTED, SYNONYM).
+- _**"callAPI"**_: respuesta del API a la rutina que contiene todos los resultados en formato JSON.
 
-_Tripleta de elementos validados_:  Encontrará la columna original del conjunto de datos, la columna de validación y la columna con la sugerencia según el árbol taxonómico de GBIF, por ejemplo: _```class```_, _```classValidation```_, _```classSuggested```_. Los siguientes elementos de estar documentados en el conjunto de datos original tendrán dicha tripleta: _```scientificNameAuthorship```, ```kingdom```, ```phylum```, ```class```, ```order```, ```family```, ```genus```, ```specificEpithet```.
+<div class="notification is-info is-light">
+  <b>Nota:</b> el llamado al API permite hacer una consulta sobre un número ilimitado de registros. Sin embargo, si su conjunto de datos tiene muchas filas, se recomienda ejecutar la rutina en los nombres científicos únicos, lo cual disminuirá el tiempo de respuesta y agilizará la ejecución de la rutina. 
+</div>
 
-_```callAPI```_: Respuesta del API a la rutina, contiene todos los resultados en formato JSON.
+**4.2 Datos de grupos biológicos Marino Costeros**
 
-```note
-El llamado al API permite hacer una consulta sobre un número ilimitado de registros, sin embargo si su conjunto de datos tiene muchas filas se recomienda ejecutar la rutina sobre nombres científicos únicos, lo cual disminuirá el tiempo de respuesta y agilizará la ejecución de la rutina. 
-```
+* **Funcionamiento:**
 
+Esta rutina está diseñada para ser implementada en conjuntos de datos de grupos biológicos marinos, ya que emplea como fuente de referencia los taxones marinos del árbol taxonómico de _LifeWatch_ (LW-SIBb) a través de un llamado al API de WoRMS (_World Register of Marine Species_). La rutina retorna la taxonomía superior, nombres aceptados, estatus taxonómico y autoría del nombre científico de acuerdo al árbol taxonómico mencionado y los compara con los elementos documentados en el archivo base, generando los indicadores de validación.
 
-### 4.2 Datos de grupos biológicos Marino Costeros
+En adición a los elementos taxonómicos, esta rutina retorna otros elementos útiles que brindan información sobre el tipo de hábitat del taxón y el LSID de WoRMS o AphiaID, elemento requerido para la publicación de datos a través de OBIS (_Ocean Biodiversity Information System_).
 
-**Funcionamiento:**
+<div class="notification is-info is-light">
+  <b>Nota:</b> si también desea validar la taxonomía superior de su conjunto de datos, se requieren los elementos DwC: <b><i>scientificName</i></b>, <b><i>kingdom</i></b>, <b><i>phylum</i></b>, <b><i>class</i></b>, <b><i>order</i></b>, <b><i>family</i></b> y <b><i>genus</i></b>.
+</div>
 
-Esta rutina está diseñada para ser implementada en conjuntos de datos de grupos biológicos marinos, emplea como fuente de referencia los taxones marinos del árbol taxonómico de LifeWatch (LW-SIBb) a través de un llamado al API de WoRMS (World Register of Marine Species). La rutina retorna la taxonomía superior, nombres aceptados, estatus taxonómico y autoría del nombre científico de acuerdo al árbol taxonómico de LifeWatch y los compara con los elementos documentados en el archivo base, generando los indicadores de validación.
+* **Resultados:**
 
-Adicionalmente a los elementos taxonómicos, esta rutina retorna otros elementos útiles que dan información sobre el tipo de hábitat del taxon y el LSID de WoRMS o AphiaID, elemento requerido para la publicación de datos a través de OBIS (Ocean Biodiversity Information System).
+En las primeras columnas del proyecto, encontrará una columna con el valor taxonómico original, un valor por el al árbol taxonómico y el indicador de validación que establece si los valores coinciden (<span class="tag is-light"><b>1</b></span>) o difieren (<span class="tag is-light"><b>0</b></span>), como se muestra en la las rutinas previas (Fig. 7).
 
-
-```note
-Si también desea validar la taxonomía superior de su conjunto de datos se requieren los elementos DwC: "scientificName", "kingdom", "phylum", "class", "order", "family", y "genus".
-```
-
-**Resultados:**
-
-En las primeras columnas del proyecto encontrará de manera intercalada una columna con el valor taxonómico original, un valor sugerido de acuerdo al árbol taxonómico y el indicador de validación indicando si los valores son iguales (```1```) o si difieren (```0```) como se muestra en la las rutinas previas (Fig. 7).
-
-
-A continuación se listan las columnas que encontrará despues de ejecutar la rutina, adicionales a las ya mencionadas en las rutinas previas de validación taxonómica (Fig. 8):
+A continuación, se listan las columnas que encontrará después de ejecutar la rutina, sin incluir las que ya se mencionaron en las rutinas previas de validación taxonómica (Fig. 8):
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/es.figure-64.jpg" width=800>
 
-<sup>_Figura 8. Algunas columnas resultantes del proceso de validación con la rutina de WoRMS adicionales a las columnas de validación._</sup>
+<sup>_Figura 8. Algunas columnas adicionales resultantes del proceso de validación con la rutina de WoRMS._</sup>
 
-_```matchType```_: Indica el resultado del cruce de los datos originales con el árbol taxonómico de WoRMS a partir del elemento "scientificName". Los valores que encontrará en esta columna son:
+- _**"matchType"**_: es el resultado del cruce de los datos originales con el árbol taxonómico de WoRMS a partir del elemento <span class="tag is-success is-light"><i>scientificName</i></span>. Los valores que encontrará en esta columna son:
 
-    - _exact_: La correspondencia entre el _```scientificName```_ del conjunto de datos y el árbol taxonómico es completa.
+    - <span class="tag is-light"><b><i>exact</i></b></span>: significa que la correspondencia entre el <span class="tag is-success is-light"><i>scientificName</i></span> del conjunto de datos y el del árbol taxonómico es completa.
 
-    - _phonetic_: La correspondencia entre el _```scientificName```_ del conjunto de datos y el árbol taxonómico es completa a nivel fonético a pesar de algunas diferencias menores en la escritura.
+    - <span class="tag is-light"><b><i>phonetic</i></b></span>: implica que la correspondencia entre el <span class="tag is-success is-light"><i>scientificName</i></span> del conjunto de datos y el del árbol taxonómico es completa a nivel fonético, a pesar de algunas diferencias menores en la escritura.
 
-    - _near_1 _: Hay una diferencia de un carácter entre el _```scientificName```_ del conjunto de datos y el árbol taxonómico. Es una correspondencia bastante confiable.
+    - <span class="tag is-light"><b><i>near_1</i></b></span>: hay una diferencia de un carácter entre el <span class="tag is-success is-light"><i>scientificName</i></span> del conjunto de datos y el del árbol taxonómico. Es una correspondencia bastante confiable.
 
-    - _near_2 _: Hay una diferencia de dos caracteres entre el _```scientificName```_ del conjunto de datos y el árbol taxonómico. Se sugiere una revisión del nombre.
+    - <span class="tag is-light"><b><i>near_2</i></b></span>: hay una diferencia de dos caracteres entre el <span class="tag is-success is-light"><i>scientificName</i></span> del conjunto de datos y el del árbol taxonómico. Se sugiere una revisión del nombre.
 
-    - _near_3 _: Hay una diferencia de tres caracteres entre el _```scientificName```_ del conjunto de datos y el árbol taxonómico. Se requiere una revisión del nombre.
+    - <span class="tag is-light"><b><i>near_3</i></b></span>: hay una diferencia de tres caracteres entre el <span class="tag is-success is-light"><i>scientificName</i></span> del conjunto de datos y el del árbol taxonómico. Se requiere una revisión del nombre.
 
-    - Otras posibilidades poco frecuentes como _```match_quarantine```_ y _```match_deleted```_, WoRMS recomienda contactarlos directamente.
+    - Otras posibilidades poco frecuentes: <span class="tag is-success is-light"><i>match_quarantine</i></span> y <span class="tag is-success is-light"><i>match_deleted</i></span>. En estos casos, WoRMS recomienda contactarlos directamente.
 
-_```scientificNameID```_: Identificador del taxón construido a partir del AphiaID proveniente del árbol taxonómico de WoRMS.
+- <span class="tag is-success is-light"><i>scientificNameID</i></span>: identificador del taxón construido a partir del AphiaID que proviene del árbol taxonómico de WoRMS.
 
-_```nameAccordingTo```_: La referencia bibliográfica del nombre científico según WoRMS
+- _**"nameAccordingTo"**_: referencia bibliográfica del nombre científico según WoRMS.
 
-_```nameAccordingToID```_: Identificador de la referencia bibliográfica del nombre científico según WoRMS.
+- _**"nameAccordingToID"**_: identificador de la referencia bibliográfica del nombre científico según WoRMS.
 
-_```isMarine```_: Valor booleano (_TRUE_ o _FALSE_) que indica si el registro corresponde a un taxon marino.
+- _**"isMarine¨**_: valor booleano (<span class="tag is-success is-light"><i>TRUE</i></span> o <span class="tag is-success is-light"><i>FALSE</i></span>) que indica si el registro corresponde a un taxón marino.
 
-_```isBrackish```_: Valor booleano (_TRUE_ o _FALSE_) que indica si el registro corresponde a un taxon de aguas salobres.
+- _**"isBrackish"**_: valor booleano (<span class="tag is-success is-light"><i>TRUE</i></span> o <span class="tag is-success is-light"><i>FALSE</i></span> que indica si el registro corresponde a un taxón de aguas salobres.
 
-_```isFreshwater```_: Valor booleano (_TRUE_ o _FALSE_) que indica si el registro corresponde a un taxon de aguas continentales, i.e. taxones asociados a ríos o lagos.
+- _**"isFreshwater"**_: valor booleano (<span class="tag is-success is-light"><i>TRUE</i></span> o <span class="tag is-success is-light"><i>FALSE</i></span>) que indica si el registro corresponde a un taxón de aguas continentales. Por ejemplo, taxones asociados a ríos o lagos.
 
-_```isTerrestial```_: Valor booleano (_TRUE_ o _FALSE_) que indica si el registro corresponde a un taxon terrestre.
+- _**"isTerrestial"**_: valor booleano (<span class="tag is-success is-light"><i>TRUE</i></span> o <span class="tag is-success is-light"><i>FALSE</i></span>) que indica si el registro corresponde a un taxón terrestre.
 
-_```callAPIworms```_: Respuesta del API a la rutina, contiene todos los resultados en formato JSON.
+- _**"callAPIworms"**_: respuesta del API a la rutina que contiene todos los resultados en formato JSON.
 
+### Paso 5 - Realizar Ajustes
 
-## Paso 5 - Realizar Ajustes
+**5.1 Datos de grupos biológicos principalmente continentales**
 
-### 5.1 Datos de grupos biológicos principalmente continentales
+1. Realice un <span class="tag is-warning is-light"><i>Facet</i></span> en _**"taxonMatchType"**_ e identifique los posibles errores señalados como <span class="tag is-light"><b><i>FUZZY</i></b></span> y <span class="tag is-light"><b><i>NONE</i></b></span>. Generalmente, este último se presentará si no realizó una limpieza de los calificadores de identificación como "cf." y "sp." en el <span class="tag is-success is-light"><i>scientificName</i></span> antes de ejecutar la rutina. Por lo tanto, es pertinente que realice los ajustes en esos nombres científicos según corresponda.
 
-1. Relice un facet en _```taxonMatchType```_ e identifique los posibles errores señalados como _```Fuzzy```_ y _```None```_. Este último sobretodo estará presente si no se realizó una limpieza de los calificadores de identificación como _cf._ y _sp._ en el _```scientificName```_ antes de ejecutar la rutina. Realice los ajustes según corresponda en esos nombres científicos
+2. Realice la limpieza de los <span class="tag is-light"><b><i>FUZZY</i></b></span>, teniendo en cuenta que algunos de los nombres son sinónimos (lo cual puede verificar en el elemento _**"taxonomicStatusSuggested"**_. Deje el nombre aceptado para este caso y haga los respectivos cambios en <span class="tag is-success is-light"><i>scientificName</i></span>, al igual que en <span class="tag is-success is-light"><i>genus</i></span> y <span class="tag is-success is-light"><i>specificEpithet</i></span>, segun corresponda, para que tengan coherencia con el <span class="tag is-success is-light"><i>scientificName</i>.
 
-2. Realice la limpieza de los _```FUZZY```_ tenga en cuenta que algunos de los nombres son sinónimos (lo cual puede verificar revisano el elemento _```taxonomicStatusSuggested```_. Deje el nombre aceptado para este caso y en _```scientificName```_ haga los respectivos cambios, al igual que en _```genus```_ y _```specificEpithet```_, segun corresponda para que tengan coherencia con el _```scientificName```_.
+3. Realice un <span class="tag is-warning is-light"><i>Facet</i></span> en los elementos de validación como _**"classValidation"**_ y  _**"familyValidation"**_. Seleccione el buleano <span class="tag is-warning is-light"><i>0</i></span> e identifique y ajuste los errores que le muestre la validación.
 
-3. Realice facets en los elementos de validación como _```classValidation```_ y  _```familyValidation```_. Seleccione el buleano ```0``` e identifique y ajuste los errores que le muestre la validación.
+4. Complete la información para la taxonomía superior incompleta (<span class="tag is-success is-light"><i>phylum</i></span>, <span class="tag is-success is-light"><i>order</i></span>, <span class="tag is-success is-light"><i>genus</i></span> y <span class="tag is-success is-light"><i>specificEpithet</i></span>) de acuerdo a los campos sugeridos (_**"suggested"**_) por la tripleta de resultados. 
 
-4. Complete la información para la taxonomía superior incompleta (_```phylum```_, _```order```_, _```genus```_ y _```specificEpithet```_) de acuerdo a los campos sugeridos (_suggested_) de la tripleta de resultados. 
+5. Complete el elemento <span class="tag is-success is-light"><i>taxonRank</i></span> a partir del _**"suggestedTaxonRank"**_, teniendo en cuenta el vocabulario controlado para este elemento.
 
-5. Complete el elemento _```taxonRank```_ a partir del _```suggestedTaxonRank```_ de acuerdo al vocabulario controlado para este elemento.
+>En _OpenRefine_ puede ir a la columna que quiere completar (por ejemplo, <span class="tag is-success is-light"><i>phylum</i></span>), seguir la ruta <span class="tag is-warning is-light"><b><i>Edit cells>Transform</i></b></span> y escribir la expresión en el recuadro de edición usar la expresión <span class="tag is-light"><b>cells['phylumSuggested'].value</b></span>. De esta manera, el programa remplazará el contenido vacío por el sugerido en _**"phylumSuggested"**_. Haga lo mismo para los demás elementos, cambiando la expresión según corresponda.
+>
 
-```tip
-En OpenRefine puede ir a la columna que quiere completar (ej. phylum), ir a edit cells>transform y en el recuadro de edición usar la siguiente expresión cells['phylumSuggested'].value. De esta forma remplazará el contenido vacío por el sugerido en phylumSuggested. Haga lo mismo para los demás elementos cambiando la expresión según corresponda.
-```
+**5.2 Datos de grupos biológicos Marino Costeros**
 
+1.  Revise la columna _**"matchType"**_ e identifique los nombres científicos que no coinciden con el árbol taxonómico de WoRMS. Posteriormente, ajústelos según corresponda.
 
-### 5.2 Datos de grupos biológicos Marino Costeros
+2. Revise las columnas adicionales que trae el script y examine las tripletas de validación haciendo <span class="tag is-warning is-light"><i>Facet</i></span> en estos elementos con _OpenRefine_ y seleccione la opción <span class="tag is-warning is-light"><i>0</i></span>0. Por último, identifique dónde hay inconsistencias y corríjalas.
 
-1.  Revise la columna _```matchType```_ e identifique los nombres científicos que no coinciden con el árbol taxonómico de WoRMS. Ajustelos según corresponda.
+3. **Reto**: ¿Hay registros que sean completamente terrestres y no del medio marino según la validación?. Identifique el error en la validación con los elementos _**"isMarine"**_, _**"isBrackish"**_, _**"isFresh"**_, _**"isTerrestrial"**_.
 
-2. Revise las columnas adicionales que trae el script, revise las tripletas de validación haciendo _facets_ en los elementos de validación en OpenRefine y seleccione la opción ```0```. Idenfique donde debe realizar ajustes.
+### Paso 6 - Verificación del resultado
 
-3. **Reto**: ¿Hay registros que sean completamente terrestres y no del medio marino según la validación?. Identifique el error en la validación usando los elementos _```isMarine```_, _```isBrackish```_, _```isFresh```_, _```isTerrestrial```_.
-
-
-
-## Paso 6 - Verificación del resultado
-
-Compare sus resultados con los siguientes archivos validados según las definiciones del estándar para la rutina con el API de GBIF y WoRMS, verifique en que acertó y en que puede mejorar.
+Compare sus resultados con los siguientes archivos, validados según las definiciones del estándar Darwin Core, para las rutinas con el API de GBIF y WoRMS, identificando aciertos y oportunidades de mejora.
 
 ¿Qué diferencias encontró con sus resultados?
 
-[Descargue el archivo validado ](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/Solución_datos_Estructurados_GBIF.xlsx) para datos continentales.
+[<FONT FACE="monospace"><b>«Archivo validado para datos continentales»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/Solución_datos_Estructurados_GBIF.xlsx).
 
-[Descargue el archivo validado](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/Solución_datos_casomarinocosteros.xlsx) para datos marino costeros.
+[<FONT FACE="monospace"><b>«Archivo validado para datos marino-costeros»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/Solución_datos_casomarinocosteros.xlsx).
 
-
-## Paso 7 - Datos propios
-Si tiene datos propios que desee publicar, intente realizar la validación según coresponda con la rutina para datos continentales o marino-costeros.
-
-****
-**¡Felicitaciones!** :raised_hands: 
-Ha finalizado la validación taxonómica con GBIF (Datos continentales) y WoRMS (Datos marino-costeros) utilizando las rutinas de validación en OpenRefine desarrolladas por el EC-SiB Colombia.
+### Paso 7 - Datos propios
+Si tiene datos propios que desee publicar, intente realizar la validación correspondiente con las rutinas para datos continentales o marino-costeros.
 
 ****
+**¡Felicitaciones!** Ha finalizado la validación taxonómica con GBIF (Datos continentales) y WoRMS (Datos marino-costeros), utilizando las rutinas de validación en _OpenRefine_ que fueron desarrolladas por el EC-SiB Colombia.
 
+****
 
 ## Parte 2 - Validación geográfica
 
 
-## Parte 2.1 Validación de nombres geográficos
+### Parte 2.1 Validación de nombres geográficos
 
-Desarrollada para estandarizar los contenidos de los elementos de la geografía superior, especialmente stateProvince, county y municipality, de acuerdo a una fuente de referencia nacional. La rutina contrasta los valores documentados con la información oficial para el país, a partir de un archivo de referencia previamente cargado en OpenRefine, y genera indicadores de validación. Los indicadores permiten identificar dos tipos de errores en la geografía superior; 1) errores de tipeo y gramática y 2) errores de consistencia relacionados con la correspondencia entre entidades geográficas, como municipios (county), o centros poblados (municipality) que no pertenecen al departamento (stateProvince).
+Desarrollada para estandarizar los contenidos de los elementos de la geografía superior, especialmente <span class="tag is-success is-light"><i>stateProvince</i></span>, <span class="tag is-success is-light"><i>county</i></span> y <span class="tag is-success is-light"><i>municipality</i></span> con base en una fuente de referencia nacional. La rutina contrasta los valores documentados con la información oficial para Colombia, a partir de un archivo de referencia previamente cargado en _OpenRefine_, y genera indicadores de validación. Los indicadores permiten establecer dos tipos de errores en la geografía superior: errores de tipeo y gramática y errores de consistencia relacionados con la correspondencia entre entidades geográficas, como municipios (<span class="tag is-success is-light"><i>county</i></span>) o centros poblados (<span class="tag is-success is-light"><i>municipality</i></span>), que no pertenecen al departamento (<span class="tag is-success is-light"><i>stateProvince</i></span>).
 
-El archivo oficial de referencia disponible en el repositorio es generado con la información geográfica para Colombia suministrada por la División Político Administrativa definida por el DANE (Divipola). Vale la pena precisar que esta rutina puede implementarse para otros países, empleando la misma estructura del archivo de la división político administrativa oficial de Colombia, pero con la información geográfica oficial del país de interés.
+El archivo oficial de referencia del repositorio se genera con la información geográfica de la División Político Administrativa definida por el DANE (Divipola). Vale la pena precisar que esta rutina puede implementarse para otros países, pero con la información geográfica oficial del país de interés y empleando la misma estructura del archivo mencionado para Colombia.
 
 **Datos de validación**
-- Descargue el archivo [datos_ValidacionGeografia.xlsx](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/datos_ValidacionGeografia.xlsx) 
-- Descargue el archivo [DIVIPOLA_2021-0416.xls](https://github.com/SIB-Colombia/data-quality-open-refine/raw/master/DIVIPOLA_20210416.zip)
+    
+- Descargue el archivo [<FONT FACE="monospace"><b>«datos_ValidacionGeografia.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/datos_ValidacionGeografia.xlsx).
+- Descargue el archivo [<FONT FACE="monospace"><b>«DIVIPOLA_2021-0416.xls»</b></FONT>](https://github.com/SIB-Colombia/data-quality-open-refine/raw/master/DIVIPOLA_20210416.zip).
+- Utilice la rutina [Validación de nombres geográficos con DIVIPOLA](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValNamesGeo_ValNombresGeo.txt).
 
-- Utilice la rutina [Validación de nombres geográficos con DIVIPOLA](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValNamesGeo_ValNombresGeo.txt){:target="_blank"}
+### Paso 1 - Cargar el archivo
 
-## Paso 1 - Cargar el archivo
+Cree un proyecto en _OpenRefine_ a partir del conjunto de datos <FONT FACE="monospace"><b>«datos_ValidacionGeografia.xlsx»</b></FONT> y asígnele el nombre de <span class="tag is-light"><b>datos_ValidacionGeografia</b></span>. Si tiene dudas sobre cómo hacerlo, revise el **paso 2** de la [guía general de _OpenRefine_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#paso-2---crear-un-proyecto).
 
-Cree un proyecto en OpenRefine con el conjunto de datos ```datos_ValidacionGeografia.xls```, con el nombre ```datos_ValidacionGeografia``` Si tiene dudas sobre cómo hacerlo revise el [paso 2 de la guía general de OpenRefine](https://sib-colombia.github.io/Formacion/LAB/lab02/lab_or1.html#paso-2---crear-un-proyecto){:target="_blank"}. 
+### Paso 2 - Revisar elementos requeridos
 
+Asegúrese de que el conjunto de datos o los elementos a validar estén estructurados según el estándar _Darwin Core_ (<span class="tag is-success is-light"><i>stateProvince</i></span>, <span class="tag is-success is-light"><i>county</i></span> y <span class="tag is-success is-light"><i>municipality</i></span>).
+    
+<div class="notification is-info is-light">
+  <b>Nota:</b> no es necesario que cuente con los tres elementos para que la validación funcione. En el caso de tener solo uno o dos, la rutina se ejecutará igualmente, pero solo validará la información que tenga disponible. Es decir, si solo tiene <b><i>stateProvince</i></b>, la validación de los otros dos elementos quedará vacía. 
+</div>
 
-## Paso 2 - Revisar elementos requeridos
+### Paso 3 - Cargue el archivo Divipola para la validación
 
-Asegúrese que el conjunto de datos o los elementos que desea validar estén estructurados en el estándar Darwin Core (```stateProvince```, ```county```, ```municipality```).
+Para ejecutar esta rutina, es necesario que cargue el archivo <FONT FACE="monospace"><b>«DIVIPOLA_2021-0416.xls»</b></FONT> en _OpenRefine_. Si tiene dudas sobre cómo hacerlo, revise el **paso 2** de la [guía general de _OpenRefine_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#paso-2---crear-un-proyecto).
 
-```note
-No es necesario que cuente con los 3 campos de stateProvince, county y municipality para que la validación funcione, la rutina se ejecutará igualmente pero solo validará la información que tenga disponible. Es decir, si solo tiene stateProvince la validación de county y municipality quedará vacía. 
-```
-
-## Paso 3 - Cargue el archivo Divipola para la validación
-
-Antes de ejecutar esta rutina se requiere que cargue el archivo ```DIVIPOLA_20210416.xls``` en OpenRefine. Si tiene dudas sobre cómo hacerlo revise el [paso 2 de la guía general de OpenRefine](https://sib-colombia.github.io/Formacion/LAB/lab02/lab_or1.html#paso-2---crear-un-proyecto){:target="_blank"}. Asegurese que el nombre del proyecto en OpenRefine sea ```DIVIPOLA_20210416``` (Fig. 9). 
+Luego, nombre el proyecto en OpenRefine como <span class="tag is-light"><b>DIVIPOLA_20210416</b></span> (Fig. 9). 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig1_OR_A_Divipola_DivipolaenOR.png" width=600>
 
 <sup>_Figura 9. Carga de archivo DIVIPOLA 20210416 en OpenRefine._</sup>
 
+### Paso 4 - Ejecutar la rutina
 
-## Paso 4 - Ejecutar la rutina
+**4.1. Copie la rutina**
 
-### 4.1. Copie la rutina
-Diríjase a la rutina de [Validación de nombres geográficos con DIVIPOLA](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValNamesGeo_ValNombresGeo.txt). Será redirigido a GitHub donde encontrará un archivo de texto plano. Copie el texto de la rutina de validación (Fig. 10). Asegúrese de seleccionar solo la rutina -sin las instrucciones- y copiar todos los corchetes iniciales ```{``` y finales ```}```.
+Diríjase a la rutina de [Validación de nombres geográficos con DIVIPOLA](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValNamesGeo_ValNombresGeo.txt). Será redirigido a GitHub, donde encontrará un archivo de texto plano. Copie el texto de la rutina de validación (Fig. 10), asegurándose de seleccionar solo la rutina -sin las instrucciones- y de copiar todos los corchetes iniciales (<span class="tag is-light"><b>{</b></span>) y finales (<span class="tag is-light"><b>}</b></span>), ya que estos son fundamentales para que la rutina se ejecute correctamente.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig2_OR_A_CopiaRutinaGeoNames.PNG" width=600>
 
 <sup>_Figura 10. Copia de la rutina en GitHub._</sup>
 
-### 4.2. Ejecute la rutina
-Ubíquese en el conjunto de datos a validar en OpenRefine ```datos_ValidacionGeografia```, diríjase al menú arriba a la izquierda, seleccione la pestaña _```Undo/Redo```_ (Deshacer/Rehacer) y haga clic en el botón ```Apply``` (Aplicar). A continuación se abrirá una ventana de texto vacía. Pegue en el cuadro de texto la rutina copiada en el paso 4.1. y haga clic en ```Perform operations``` (Ejecutar Operaciones) (Figura 11).
+**4.2. Ejecute la rutina**
+
+En el conjunto de datos a validar en _OpenRefine_ (<FONT FACE="monospace"><b>«datos_ValidacionGeografia.xlsx»</b></FONT>), diríjase al menú superior izquierdo, seleccione la pestaña <span class="tag is-warning is-light"><i>Deshacer/Rehacer</i></span> y haga clic en el botón <span class="tag is-warning is-light"><i>Aplicar...</i></span>. A continuación, se abrirá una ventana de texto vacía. Pegue la rutina a ejecutar en el cuadro de texto y dé clic en <span class="tag is-warning is-light"><i>Ejecutar Operaciones</i></span> (Fig. 11).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig3_OR_A_Divipola_EjecucionRutina.png" width=800>
 
 <sup>_Figura 11. Pasos para la ejecución de la rutina en OpenRefine._</sup>
 
-Espere a que finalice la ejecución de la rutina. Esta rutina necesita consultar información en otro proyecto en OpenRefine, por lo que no depende de la conexión a internet, pero su tiempo de ejecución varía según el número de filas del conjunto de datos y de la memoria RAM de su equipo.
+Espere a que finalice la ejecución de la rutina. Particularmente, esta rutina necesita consultar información en otro proyecto en _OpenRefine_, por lo que no depende de la conexión a Internet, pero su tiempo de ejecución varía según el número de filas del conjunto de datos y de la memoria RAM de su equipo.
 
+### Paso 5 - Revisión de resultados
 
-## Paso 5 - Revisión de resultados
+Luego de ejecutar el script, algunas columnas adicionales se añadirán al conjunto de datos. El contenido de dichas columbas se describe a continuación: 
 
-Luego de ejecutar el script unas columnas adicionales se añadirán al conjunto de datos, su contenido se describe a continuación 
+- _**"spValidation"**_: resultado de la validación entre el <span class="tag is-success is-light"><i>stateProvince</i></span> y el de departamento del archivo Divipola. El resultado será <span class="tag is-light"><b>1</b></span> si hay coincidencia y <span class="tag is-light"><b>0</b></span> si no la hay.
+    
+- **"spc"**: unión de los elementos <span class="tag is-success is-light"><i>stateProvince</i></span> y <span class="tag is-success is-light"><i>county</i></span> del conjunto de datos para realizar la validación por municipios. 
 
-- ```spValidation```: Resultado de la validación entre el _```stateProvince```_ y el de Departamento coincidente con el archivo Divipola. El resultado será ```1``` si hay coincidencia y ```0``` en caso contrario.
-- ```spc```: Unión de los elementos stateProvince y county del conjunto de datos para realizar la validación por municipios. 
+- _**"spcValidation"**_: resultado de la validación para <span class="tag is-success is-light"><i>stateProvince</i></span> y <span class="tag is-success is-light"><i>county</i></span> respecto al departamento y municipio del archivo Divipola. El resultado será <span class="tag is-light"><b>1</b></span> si hay coincidencia y <span class="tag is-light"><b>0</b></span> si no la hay.
+    
+- **"spcm"**: unión de los elementos<span class="tag is-success is-light"><i>stateProvince</i></span>, <span class="tag is-success is-light"><i>county</i></span> y <span class="tag is-success is-light"><i>municipality</i></span> del conjunto de datos para realizar la validación de centros poblados.
+    
+- _**"spcmValidation"**_: resultado de la validación para <span class="tag is-success is-light"><i>stateProvince</i></span>, <span class="tag is-success is-light"><i>county</i></span> y <span class="tag is-success is-light"><i>municipality</i></span> respecto al departamento, municipio y centro poblado del archivo Divipola. El resultado será <span class="tag is-light"><b>1</b></span> si hay coincidencia y <span class="tag is-light"><b>0</b></span> si no la hay.
 
-- ```spcValidation```: Resultado de la validación para _```stateProvince```_ y _```county```_, respecto al Departamento y Municipio coincidentes con el archivo Divipola. El resultado será ```1``` si hay coincidencia y ```0``` en caso contrario.
-- ```spcm```: Unión de los elementos _```stateProvince```_,  _```county```_ y municipality del conjunto de datos para realizar la validación de centros poblados 
-- ```spcmValidation```: Resultado de la validación para _```stateProvince```_, _```county```_ y  _```municipality```_ , respecto al Departamento, Municipio y Centro Poblado coincidentes con el archivo Divipola. El resultado será ```1``` si hay coincidencia y ```0``` en caso contrario.
+<div class="notification is-info is-light">
+    <b>Nota:</b> los campos <b>"spc"</b> y <b>spcm</b> se crean para que haya coherencia en la validación de departamentos, municipios y centros poblados documentados. Por ejemplo, un municipio puede estar bien documentado, pero no necesariamente pertenecer a determinado departamento. 
+</div>
 
-```note
-Los campos  spc y spcm se crean para que en la validación haya coherencia entre el departamento, municipio y centros poblados documentados, ya que por ejemplo, un municipio puede estar bien documentado pero no necesariamente pertenecer a determinado departamento. 
-```
+**Paso 5.1. Ajustes los departamentos**
 
-### Paso 5.1. Ajustes los departamentos
-
-Realice un ```Text Facet``` sobre el elemento _```stateProvince```_ y el elemento ```spValidation```. En el facet de ```spValidation``` seleccione los resultados no coindicentes ```0``` (Fig. 11).
-
+Realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en las columnas <span class="tag is-success is-light"><i>stateProvince</i></span>_ y _**"spValidation"**_. En el <span class="tag is-warning is-light"><i>Text facet</i></span> de _**"spValidation"**_, seleccione los resultados no coindicentes <span class="tag is-light"><b>0</b></span> (Fig. 11).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig4_OR_A_Divipola_FacetResultados.png" width=800>
 
-<sup>_Figura 4. Facets en OpenRefine para identificar los registros donde debe hacer ajustes sobre el elemento stateProvince._</sup>
+<sup>_Figura 4. <span class="tag is-warning is-light"><i>Text facet</i></span> en OpenRefine para identificar los registros donde debe hacer ajustes sobre el elemento <span class="tag is-success is-light"><i>stateProvince</i></span>._</sup>
 
+Revise los departamentos en <span class="tag is-success is-light"><i>stateProvince</i></span> y haga los ajustes que considere necesarios con base en el archivo de <FONT FACE="monospace"><b>«DIVIPOLA_20210416»</b></FONT>.
 
-Revise los departamentos en _```stateProvince```_ y haga los ajustes que considere necesarios según el archivo de ```DIVIPOLA_20210416```.
+<div class="notification is-info is-light">
+  <b>Nota:</b> puede usar el archivo de <FONT FACE="monospace"><b>«DIVIPOLA_20210416»</b></FONT> que está en OpenRefine para realizar <i>text filters</i> (filtros de texto) y facets (facetas) con el fin encontrar la forma correcta de documentar los nombres oficiales en <b>stateProvince</b> y <b>county</b>.
+</div>
 
-```tip
-Use el archivo de ```DIVIPOLA_20210416``` cargado en OpenRefine y realice text filters (filtros de texto) y facets (Facetas) para encontrar la forma correcta de documentar los nombres oficiales en stateProvince y county.
-```
+**Paso 5.2. Ajuste los municipios**
 
-### Paso 5.2. Ajuste los municipios
-
-Ahora realice un ```Text Facet``` sobre el elemento _```county```_ y el elemento ```spcValidation```. En el facet de ```spcValidation``` seleccione los resultados no coindicentes ```0``` (Fig X).
+Ahora realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en el elemento <span class="tag is-success is-light"><i>county</i></span> y el elemento _**"spcValidation"**_. En el <span class="tag is-warning is-light"><i>Facet</i></span>, seleccione los resultados no coindicentes <span class="tag is-light"><b>0</b></span> (Fig. 5).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig5_OR_A_Divipola_FacetResultadosCounty.png" width=800>
 
-<sup>_Figura 5. Facets en OpenRefine para identificar los registros donde debe hacer ajustes sobre el elemento county._</sup>
+<sup>_Figura 5. <span class="tag is-warning is-light"><i>Text facet</i></span> en OpenRefine para identificar los registros donde debe hacer ajustes sobre el elemento <span class="tag is-success is-light"><i>county</i></span>._</sup>
 
-Revise los municipios en _```county```_ y haga los ajustes que considere necesarios según el archivo de ```DIVIPOLA_20210416```.
+Revise los municipios en <span class="tag is-success is-light"><i>county</i></span_ y haga los ajustes que considere necesarios según el archivo <FONT FACE="monospace"><b>«DIVIPOLA_20210416»</b></FONT>.
 
-```tip
-Use el archivo de ```DIVIPOLA_20210416``` cargado en OpenRefine y realice text filters (filtros de texto) y facets (Facetas) para encontrar la forma correcta de documentar los nombres oficiales en stateProvince y county.
-```
+<div class="notification is-info is-light">
+  <b>Nota:</b> puede usar el archivo de <FONT FACE="monospace"><b>«DIVIPOLA_20210416»</b></FONT> que está en OpenRefine para realizar <i>text filters</i> (filtros de texto) y facets (facetas) con el fin de encontrar la forma correcta de documentar los nombres oficiales en <b>stateProvince</b> y <b>county</b>.
+</div>
 
-## Paso 6 - Verificación del resultado
 
-Compare sus resultados con el siguiente archivo validado según las definiciones del estándar, verifique en que acertó y que puede mejorar.
+### Paso 6 - Verificación del resultado
 
-¿Qué diferencias encontró con sus resultados?
+Compare sus resultados con el siguiente archivo, validado según las definiciones del estándar. Identificar aciertos y oportunidades de mejora. **¿Qué diferencias encontró con sus resultados?**
 
-[Descargue el archivo validado](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/solución_datos_ValidacionGeografia.xlsx)
+<FONT FACE="monospace"><b>«Archivo validado»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/solución_datos_ValidacionGeografia.xlsx)
 
 
 ## Parte 2.2 Validación de elevaciones
@@ -458,18 +453,18 @@ https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValElevatio
 
 
 
-## Paso 1 - Cargar el archivo
+### Paso 1 - Cargar el archivo
 
 Usaremos el  archivo [datos_ValidacionGeografia.xlsx](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/datos_ValidacionElevaciones.xlsx). Descargue el archivo y carguelo en OpenRefine. Si tiene dudas sobre cómo hacerlo revise el [paso 2 de la guía general de OpenRefine](https://sib-colombia.github.io/Formacion/LAB/lab02/lab_or1.html#paso-2---crear-un-proyecto){:target="_blank"}. 
 
 
-## Paso 2 - Revisar elementos requeridos
+### Paso 2 - Revisar elementos requeridos
 
 El conjunto de datos a validar debe tener como mínimo los elemento DwC _```decimalLatitude```_ y _```decimalLongitude```_ documentados adecuadamente, de lo contrario la rutina no se ejecutará adecuadamente.
 
 Si cuenta con elevaciones es importante que estas esten documentadas como mínimo en el elemento _```minimumElevationInMeters```_.Si están documentadas solo como _```verbatimElevation```_ el script solo traerá las elevaciones sugeridas pero no habrá validaciones con las elevaciones documentadas.
 
-## Paso 3 - Registro en Geonames
+### Paso 3 - Registro en Geonames
 
 Tener una cuenta activa en GeoNames, si no tiene una regístrese [aquí](http://www.geonames.org/login){:target="_blank"} antes de correr la rutina.
 
@@ -501,26 +496,23 @@ Es muy importante tener en cuenta los siguientes pasos de forma que habilite su 
 
 <sup>_Figura 4. Mensaje de confirmación de habilitación de servicios web._</sup>
 
-## Paso 4 - Ejecute la rutina
+### Paso 4 - Ejecute la rutina
 
-### 4.1 Copie la rutina
+**4.1 Copie la rutina**
 Diríjase a la rutina de [Validación y recuperación de elevaciones a partir del API de Geonames](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValElevationAPIGeoNames_ValElevacionAPIGeoNames.txt). Será redirigido a GitHub donde encontrará un archivo de texto plano. Copie el texto de la rutina de validación (Fig. XX). Asegúrese de seleccionar solo la rutina -sin las instrucciones- y copiar todos los corchetes iniciales ```{``` y finales ```}```.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig5_OR_A_Geonames_CopiaRutina.PNG" width=800>
 
 <sup>_Figura 5. Copia de la rutina en repositorio en GitHub._</sup>
 
-### 4.2 Ajuste la rutina
+**4.2 Ajuste la rutina**
 Antes de ejecutar la rutina remplace la palabra ```demo``` en la expresión ```username=demo``` por el nombre de usuario en GeoNames que creo en el paso 3, por ejemplo username=gzitror. Para ello abra un editor de texto como el ```Bloc de notas``` de Windows y use la opción de ```Remplazar...```. Busque ```demo``` y remplacelo por su usuario (Fig. X).
-
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig7_OR_A_Geonames_ReemplazoUsuario.png" width=800>
 
 <sup>_Figura 5. Busqueda y reemplazo del nombre de usuario para ejecutar la rutina usando el Bloc de notas de Windows._</sup>
 
 Si ejecuta la rutina sin hacer este cambio utilizará la opción de prueba (demo) incorporada por defecto en la rutina, la cual tiene un límite de 20.000 consultas diarias mundiales, por lo que puede que el servicio esté agotado y no obtenga resultados.
-
-
 
 ```note
 La rutina captura la elevación a partir de las coordenadas decimales documentadas en los elementos DwC "decimalLatitude" y "decimalLongitude" del archivo base, a través de una consulta a los servicios de GeoNames. La rutina se ejecuta sobre valores únicos de pares de coordenadas para evitar superar el límite de consultas diarias por usuario.
@@ -536,7 +528,8 @@ La rutina utiliza por defecto el modelo de elevación SRTM-1 ("srtm1"), que cuen
 
 Para cambiar el modelo de elevación reemplace en la rutina el valor ```srtm1``` en la expresión grel:\"http://api.geonames.org/srtm1 por el valor que corresponda al servicio que desea utilizar ```srtm3```, ```astergdem``` o ```gtopo30```. Para este ejercicio usaremos el modelo por defecto ```srtm1```.
 
-### 4.3. Ejecute la rutina
+**4.3. Ejecute la rutina**
+    
 Ubíquese en el conjunto de datos a validar en OpenRefine ```datos_ValidacionElevaciones```, diríjase al menú arriba a la izquierda, seleccione la pestaña _```Undo/Redo```_ (Deshacer/Rehacer) y haga clic en el botón ```Apply``` (Aplicar). A continuación se abrirá una ventana de texto vacía. Pegue en el cuadro de texto la rutina copiada en el paso 4.1. y haga clic en ```Perform operations``` (Ejecutar Operaciones) (Figura XX).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig6_OR_A_Geonames_EjecucionRutina.png" width=800>
@@ -544,15 +537,13 @@ Ubíquese en el conjunto de datos a validar en OpenRefine ```datos_ValidacionEle
 <sup>_Figura 3. Pasos para la ejecución de la rutina en OpenRefine._</sup>
 
 
+### Paso 5 - Revisión de resultados
 
-## Paso 5 - Revisión de resultados
-
-### 5.1 Interpretación de resultados
+**5.1 Interpretación de resultados**
 
 El script genera 3 columnas de validación como se describen a continuación. 
 
 En las primeras columnas del proyecto encontrará las columnas con los datos de elevación reorganizadas junto con nuevas columnas resultantes de la rutina (Fig. X). 
-
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig8_OR_A_Geonames_Resultados.png" width=800>
 
@@ -576,7 +567,6 @@ El indicador _```elevationRangeValidation```_: contrasta la elevación obtenida 
 La validación de rangos de elevaciones en ocasiones suele presentar inconvenientes. Estamos ajustando el script para facilitar su uso.
 ```
 
-
 ```note
 Si al hacer la validación en la columna elevationSuggested obtiene el siguiente mensaje de error:
 
@@ -585,7 +575,7 @@ ERR:18:the daily limit of 20000 credits for demo has been exceeded. Please use a
 Significa que esta usando la versión demo y no cambio adecuadamente el nombre del usuario en el script.
 ```
 
-### 5.2 Revisión de resultados
+**5.2 Revisión de resultados**
 
 - ¿Cúantas elevaciones vacías logro completar con el uso del script?
 - ¿Encontró alguna inconsistencia entre la elevación identificada con Geonames y la previamente documentada (_0's_ en elevationValidation).
@@ -594,8 +584,7 @@ Significa que esta usando la versión demo y no cambio adecuadamente el nombre d
 En ocasiones el servicio puede no encontra un dato de elevación para determinada coordenada o la fuente tiene un error por lo que vera valores negativos (ej. -1). En ese caso debe ignorar la sugerencia.
 ```
 
-
-## Paso 6 - Verificación del resultado
+### Paso 6 - Verificación del resultado
 
 Compare sus resultados con el siguiente archivo validado según las definiciones del estándar, verifique en que acertó y que puede mejorar.
 
@@ -603,7 +592,7 @@ Compare sus resultados con el siguiente archivo validado según las definiciones
 
 [Descargue el archivo validado](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/solución_ValidacionElevaciones.xlsx)
 
-## Datos propios
+### Paso 7 - Datos propios
 Si tiene datos propios que desee publicar, intente identificar las rutinas que le serán útiles e intente incorporarlas a su flujo de trabajo.
 
 **¡Felicitaciones!** :raised_hands: 
