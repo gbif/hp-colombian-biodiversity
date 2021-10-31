@@ -478,25 +478,25 @@ Para este paso, es necesario tener una cuenta activa en _GeoNames_. Si no tiene 
 
 Es muy importante tener en cuenta las siguientes indicaciones para habilitar su cuenta y poder usar los servicios _web_.
 
-1. Cree su cuenta con un correo electrónico y contraseña. Asegúrese de que el correo esté bien escrito y recuerde su nombre de usuario, ya que será necesario para los siguientes pasos (Fig. 14).
+- 1. Cree su cuenta con un correo electrónico y contraseña. Asegúrese de que el correo esté bien escrito y recuerde su nombre de usuario, ya que será necesario para los siguientes pasos (Fig. 14).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig1_OR_A_Geonames_loginGeonames.PNG" width=500>
 
 <sup>_Figura 14. Creación de usuario en Geonames._</sup>
 
-2. Abra el mensaje que recibirá en el correo que usó para el paso anterior (es posible que llegue a la carpeta de _Spam_) y haga clic en el link de confirmación (Fig. 15).
+- 2. Abra el mensaje que recibirá en el correo que usó para el paso anterior (es posible que llegue a la carpeta de _Spam_) y haga clic en el link de confirmación (Fig. 15).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig2_OR_A_Geonames_correoGeonames.PNG" width=800>
 
 <sup>_Figura 15. Correo de confirmación de Geonames._</sup>
 
-3. En la esquina superior derecha, dé clic en su nombre de usuario. En la parte inferior, verá un mensaje indicando que la cuenta aún no está activada para hacer uso de los servicios _web_ gratuitos. Haga clic en <span class="tag is-warning is-light"><i>Click here to enable</i></span> para activarlos (Fig. 3).
+- 3. En la esquina superior derecha, dé clic en su nombre de usuario. En la parte inferior, verá un mensaje indicando que la cuenta aún no está activada para hacer uso de los servicios _web_ gratuitos. Haga clic en <span class="tag is-warning is-light"><i>Click here to enable</i></span> para activarlos (Fig. 3).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig3_OR_A_Geonames_habilitarServicios.png" width=800>
 
 <sup>_Figura 16. Habilitar opciones de uso de servicios web gratuitos de Geonames._</sup>
 
-4. Recibirá un mensaje que confirma la habilitación de los servicios _web_ para su cuenta (Fig. 17).
+- 4. Recibirá un mensaje que confirma la habilitación de los servicios _web_ para su cuenta (Fig. 17).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig4_OR_A_Geonames_ConfirmacionHabilitacion.PNG" width=800>
 
