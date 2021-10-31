@@ -196,7 +196,7 @@ En la Figura 7 se muestra un ejemplo de cómo se ven los identificadores de la v
 Esta rutina valida la información taxonómica de un conjunto de datos, usando como referencia el árbol taxonómico de GBIF. Esto se logra a través de un llamado al API de GBIF con base en los elementos del estándar DwC <span class="tag is-success is-light"><i>scientificName</i></span> y <span class="tag is-success is-light"><i>kingdom</i></span> que se documentan en el conjunto de datos. Como resultado, el llamado retorna la taxonomía superior, nombres aceptados, estatus taxonómico y autoría del nombre científico de acuerdo al árbol taxonómico de GBIF. La rutina toma los valores obtenidos del árbol y los compara con los elementos documentados en el archivo base, generando los indicadores de validación que se explican a continuación.
 
 <div class="notification is-info is-light">
-  <b>Nota:</b> si también desea validar la taxonomía superior de su conjunto de datos, se requieren los elementos DwC: <b><i>scientificName</i></b>, <b><i>kingdom</i></b>, <b><i>phylum</i></b>, <b><i>class</i></b>, <b><i>order</i></b>, <b><i>family</i></b> y <b><i>genus</i></b>.
+  <b>Nota:</b> si también desea validar la taxonomía superior de su conjunto de datos, se requieren los elementos DwC <b><i>scientificName</i></b>, <b><i>kingdom</i></b>, <b><i>phylum</i></b>, <b><i>class</i></b>, <b><i>order</i></b>, <b><i>family</i></b> y <b><i>genus</i></b>.
 </div>
 
 **Resultados:**
@@ -323,7 +323,7 @@ A continuación, se listan las columnas que encontrará después de ejecutar la 
 
 1.  Revise la columna _**"matchType"**_ e identifique los nombres científicos que no coinciden con el árbol taxonómico de WoRMS. Posteriormente, ajústelos según corresponda.
 
-2. Revise las columnas adicionales que trae el script y examine las tripletas de validación haciendo <span class="tag is-warning is-light"><i>Facet</i></span> en estos elementos con _OpenRefine_ y seleccione la opción <span class="tag is-warning is-light"><i>0</i></span>0. Por último, identifique dónde hay inconsistencias y corríjalas.
+2. Revise las columnas adicionales que trae el script y examine las tripletas de validación haciendo <span class="tag is-warning is-light"><i>Facet</i></span> en estos elementos con _OpenRefine_ y seleccione la opción <span class="tag is-warning is-light"><i>0</i></span>. Por último, identifique dónde hay inconsistencias y corríjalas.
 
 3. **Reto**: ¿Hay registros que sean completamente terrestres y no del medio marino según la validación?. Identifique el error en la validación con los elementos _**"isMarine"**_, _**"isBrackish"**_, _**"isFresh"**_, _**"isTerrestrial"**_.
 
@@ -423,11 +423,11 @@ Luego de ejecutar el script, algunas columnas adicionales se añadirán al conju
 
 **Paso 5.1. Ajuste de los departamentos**
 
-Realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en las columnas <span class="tag is-success is-light"><i>stateProvince</i></span> y _**"spValidation"**_. En el <span class="tag is-warning is-light"><i>Text facet</i></span> de _**"spValidation"**_, seleccione los resultados no coindicentes <span class="tag is-light"><b>0</b></span> (Fig. 11).
+Realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en las columnas <span class="tag is-success is-light"><i>stateProvince</i></span> y _**"spValidation"**_. En el <span class="tag is-warning is-light"><i>Text facet</i></span> de _**"spValidation"**_, seleccione los resultados no coindicentes <span class="tag is-light"><b>0</b></span> (Fig. 12).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig4_OR_A_Divipola_FacetResultados.png" width=800>
 
-<sup>_Figura 4. <span class="tag is-warning is-light"><i>Text facet</i></span> en OpenRefine para identificar los registros donde debe hacer ajustes sobre el elemento <span class="tag is-success is-light"><i>stateProvince</i></span>._</sup>
+<sup>_Figura 12. <span class="tag is-warning is-light"><i>Text facet</i></span> en OpenRefine para identificar los registros donde debe hacer ajustes sobre el elemento <span class="tag is-success is-light"><i>stateProvince</i></span>._</sup>
 
 Revise los departamentos en <span class="tag is-success is-light"><i>stateProvince</i></span> y haga los ajustes que considere necesarios con base en el archivo de <FONT FACE="monospace"><b>«DIVIPOLA_20210416»</b></FONT>.
 
@@ -437,11 +437,11 @@ Revise los departamentos en <span class="tag is-success is-light"><i>stateProvin
 
 **Paso 5.2. Ajuste de los municipios**
 
-Ahora realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en el elemento <span class="tag is-success is-light"><i>county</i></span> y el elemento _**"spcValidation"**_. En el <span class="tag is-warning is-light"><i>Facet</i></span>, seleccione los resultados no coindicentes <span class="tag is-light"><b>0</b></span> (Fig. 5).
+Ahora realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en el elemento <span class="tag is-success is-light"><i>county</i></span> y el elemento _**"spcValidation"**_. En el <span class="tag is-warning is-light"><i>Facet</i></span>, seleccione los resultados no coincidentes <span class="tag is-light"><b>0</b></span> (Fig. 13).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig5_OR_A_Divipola_FacetResultadosCounty.png" width=800>
 
-<sup>_Figura 5. <span class="tag is-warning is-light"><i>Text facet</i></span> en OpenRefine para identificar los registros donde debe hacer ajustes sobre el elemento <span class="tag is-success is-light"><i>county</i></span>._</sup>
+<sup>_Figura 13. <span class="tag is-warning is-light"><i>Text facet</i></span> en OpenRefine para identificar los registros donde debe hacer ajustes sobre el elemento <span class="tag is-success is-light"><i>county</i></span>._</sup>
 
     Revise los municipios en <span class="tag is-success is-light"><i>county</i></span> y haga los ajustes que considere necesarios según el archivo <FONT FACE="monospace"><b>«DIVIPOLA_20210416»</b></FONT>.
 
@@ -455,7 +455,6 @@ Ahora realice un <span class="tag is-warning is-light"><i>Text facet</i></span> 
 Compare sus resultados con el siguiente archivo, validado según las definiciones del estándar, e identifique aciertos y oportunidades de mejora. **¿Qué diferencias encontró con sus resultados?**
 
 [<FONT FACE="monospace"><b>«Archivo validado»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/solución_datos_ValidacionGeografia.xlsx)
-
 
 ## Parte 2.2 Validación de elevaciones
 
@@ -479,47 +478,47 @@ Para este paso, es necesario tener una cuenta activa en _GeoNames_. Si no tiene 
 
 Es muy importante tener en cuenta las siguientes indicaciones para habilitar su cuenta y poder usar los servicios _web_.
 
-1. Cree su cuenta con un correo electrónico y contraseña. Asegúrese de que el correo esté bien escrito y recuerde su nombre de usuario, ya que será necesario para los siguientes pasos (Fig. 1).
+    <b>1).</b> Cree su cuenta con un correo electrónico y contraseña. Asegúrese de que el correo esté bien escrito y recuerde su nombre de usuario, ya que será necesario para los siguientes pasos (Fig. 14).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig1_OR_A_Geonames_loginGeonames.PNG" width=500>
 
-<sup>_Figura 1. Creación de usuario en Geonames._</sup>
+<sup>_Figura 14. Creación de usuario en Geonames._</sup>
 
-2. Abra el mensaje que recibirá en el correo que usó para el paso anterior (es posible que llegue a la carpeta de _Spam_) y haga clic en el link de confirmación (Fig. 2).
+    <b>2).</b> Abra el mensaje que recibirá en el correo que usó para el paso anterior (es posible que llegue a la carpeta de _Spam_) y haga clic en el link de confirmación (Fig. 15).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig2_OR_A_Geonames_correoGeonames.PNG" width=800>
 
-<sup>_Figura 2. Correo de confirmación de Geonames._</sup>
+<sup>_Figura 15. Correo de confirmación de Geonames._</sup>
 
-3. En la esquina superior derecha, dé clic en su nombre de usuario. En la parte inferior, verá un mensaje indicando que la cuenta aún no está activada para hacer uso de los servicios _web_ gratuitos. Haga clic en <span class="tag is-warning is-light"><i>Click here to enable</i></span> para activarlos (Fig. 3).
+    <b>3).</b> En la esquina superior derecha, dé clic en su nombre de usuario. En la parte inferior, verá un mensaje indicando que la cuenta aún no está activada para hacer uso de los servicios _web_ gratuitos. Haga clic en <span class="tag is-warning is-light"><i>Click here to enable</i></span> para activarlos (Fig. 3).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig3_OR_A_Geonames_habilitarServicios.png" width=800>
 
-<sup>_Figura 3. Habilitar opciones de uso de servicios web gratuitos de Geonames._</sup>
+<sup>_Figura 16. Habilitar opciones de uso de servicios web gratuitos de Geonames._</sup>
 
-4. Recibirá un mensaje que confirma la habilitación de los servicios _web_ para su cuenta (Fig. x).
+    <b>4).</b> Recibirá un mensaje que confirma la habilitación de los servicios _web_ para su cuenta (Fig. 17).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig4_OR_A_Geonames_ConfirmacionHabilitacion.PNG" width=800>
 
-<sup>_Figura 4. Mensaje de confirmación de habilitación de servicios web._</sup>
+<sup>_Figura 17. Mensaje de confirmación de habilitación de servicios web._</sup>
 
 ### Paso 4 - Ejecución de la rutina
 
 **4.1 Copiado de la rutina**
     
-Diríjase a la rutina de [Validación y recuperación de elevaciones a partir del API de _Geonames_](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValElevationAPIGeoNames_ValElevacionAPIGeoNames.txt). Será redirigido a GitHub, donde encontrará un archivo de texto plano. Copie el texto de la rutina de validación (Fig. 5), asegurándose de seleccionar solo la rutina -sin las instrucciones- y de copiar todos los corchetes iniciales (<span class="tag is-light"><b>{</b></span>) y finales (<span class="tag is-light"><b>}</b></span>), ya que estos son fundamentales para que la rutina se ejecute correctamente.
+Diríjase a la rutina de [Validación y recuperación de elevaciones a partir del API de _Geonames_](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValElevationAPIGeoNames_ValElevacionAPIGeoNames.txt). Será redirigido a GitHub, donde encontrará un archivo de texto plano. Copie el texto de la rutina de validación (Fig. 18), asegurándose de seleccionar solo la rutina -sin las instrucciones- y de copiar todos los corchetes iniciales (<span class="tag is-light"><b>{</b></span>) y finales (<span class="tag is-light"><b>}</b></span>), ya que estos son fundamentales para que la rutina se ejecute correctamente.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig5_OR_A_Geonames_CopiaRutina.PNG" width=800>
 
-<sup>_Figura 5. Copia de la rutina en repositorio en GitHub._</sup>
+<sup>_Figura 18. Copia de la rutina en repositorio en GitHub._</sup>
 
 **4.2 Ajuste de la rutina**
     
-Antes de ejecutar la rutina, remplace la palabra <span class="tag is-light"><b>demo</b></span> en la expresión <span class="tag is-light"><b>username=demo</b></span> por el nombre de su usuario en _GeoNames_. Por ejemplo, <span class="tag is-light"><b>username=gzitror</b></span>. Para ello, abra un editor de texto como el **Bloc de notas** de _Windows_ y dé clic la opción <span class="tag is-warning is-light"><i>Remplazar...</i></span> del menú <span class="tag is-warning is-light"><i>Edición</i></span>. Luego, introduzca <span class="tag is-light"><b>demo</b></span> en el cuadro de texto **"Buscar:"** y escriba su usuario en el cuadro de texto **"Reemplazar por:"** (Fig. 5).
+Antes de ejecutar la rutina, remplace la palabra <span class="tag is-light"><b>demo</b></span> en la expresión <span class="tag is-light"><b>username=demo</b></span> por el nombre de su usuario en _GeoNames_. Por ejemplo, <span class="tag is-light"><b>username=gzitror</b></span>. Para ello, abra un editor de texto como el **Bloc de notas** de _Windows_ y dé clic la opción <span class="tag is-warning is-light"><i>Remplazar...</i></span> del menú <span class="tag is-warning is-light"><i>Edición</i></span>. Luego, introduzca <span class="tag is-light"><b>demo</b></span> en el cuadro de texto **"Buscar:"** y escriba su usuario en el cuadro de texto **"Reemplazar por:"** (Fig. 19).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig7_OR_A_Geonames_ReemplazoUsuario.png" width=800>
 
-<sup>_Figura 5. Busqueda y reemplazo del nombre de usuario para ejecutar la rutina usando el Bloc de notas de Windows._</sup>
+<sup>_Figura 19. Busqueda y reemplazo del nombre de usuario para ejecutar la rutina usando el Bloc de notas de Windows._</sup>
 
 Si ejecuta la rutina sin hacer este cambio, incorporará por defecto la opción de prueba (<span class="tag is-warning is-light"><i>demo</i></span>). Esta opción tiene un límite de 20.000 consultas diarias mundiales, por lo que es posible que el servicio esté agotado y no obtenga resultados.
 
@@ -538,23 +537,23 @@ Para cambiar el modelo de elevación, reemplace el valor <span class="tag is-war
 
 **4.3. Ejecución de la rutina**
 
-En el conjunto de datos a validar en _OpenRefine_ (<FONT FACE="monospace"><b>«datos_ValidacionElevaciones.xlsx»</b></FONT>), diríjase al menú superior izquierdo, seleccione la pestaña <span class="tag is-warning is-light"><i>Deshacer/Rehacer</i></span> y haga clic en el botón <span class="tag is-warning is-light"><i>Aplicar...</i></span>. A continuación, se abrirá una ventana de texto vacía. Pegue la rutina a ejecutar en el cuadro de texto y dé clic en <span class="tag is-warning is-light"><i>Ejecutar Operaciones</i></span> (Fig. 3).
+En el conjunto de datos a validar en _OpenRefine_ (<FONT FACE="monospace"><b>«datos_ValidacionElevaciones.xlsx»</b></FONT>), diríjase al menú superior izquierdo, seleccione la pestaña <span class="tag is-warning is-light"><i>Deshacer/Rehacer</i></span> y haga clic en el botón <span class="tag is-warning is-light"><i>Aplicar...</i></span>. A continuación, se abrirá una ventana de texto vacía. Pegue la rutina a ejecutar en el cuadro de texto y dé clic en <span class="tag is-warning is-light"><i>Ejecutar Operaciones</i></span> (Fig. 20).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig6_OR_A_Geonames_EjecucionRutina.png" width=800>
 
-<sup>_Figura 3. Pasos para la ejecución de la rutina en OpenRefine._</sup>
+<sup>_Figura 20. Pasos para la ejecución de la rutina en OpenRefine._</sup>
 
 ### Paso 5 - Revisión de resultados
 
 **5.1 Interpretación de resultados**
 
-En las primeras columnas del proyecto, encontrará los elementos de elevación reorganizados y las tres columnas de validación obtenidas de la rutina (Fig. 5). 
+En las primeras columnas del proyecto, encontrará los elementos de elevación reorganizados y las tres columnas de validación obtenidas de la rutina (Fig. 21). 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig8_OR_A_Geonames_Resultados.png" width=800>
 
-<sup>_Figura 5. Columnas resultantes de la validación en OpenRefine._</sup>
+<sup>_Figura 21. Columnas resultantes de la validación en OpenRefine._</sup>
 
-Encontrará, de manera intercalada, las columnas originales, un valor sugerido por el servicio de elevación (_**"elevationSuggested"**_) y dos indicadores de validación (Figura 5):
+Encontrará, de manera intercalada, las columnas originales, un valor sugerido por el servicio de elevación (_**"elevationSuggested"**_) y dos indicadores de validación (Figura 21):
     
 - El indicador _**"elevationValidation**"_ compara el valor registrado en el elemento <span class="tag is-success is-light"><i>minimumElevationInMeters</i></span> con lo sugerido por servicio de elevación. El resultado debe ser interpretado así:
 
@@ -604,7 +603,7 @@ Compare sus resultados con el siguiente archivo, validado según las definicione
 Si tiene datos propios que desea publicar, intente realizar la validación correspondiente con las rutinas y procure incorporarlas a su flujo de trabajo.
 
 ****
-**¡Felicitaciones!** Terminó el laboratorio de uso avanzado de OpenRefine.
+**¡Felicitaciones!** Terminó el laboratorio de uso avanzado de _OpenRefine_.
     
 ****
 
