@@ -158,7 +158,7 @@ Consultorio de Calidad de Datos
 
 Para obtener el máximo beneficio de los seminarios de este taller, se recomienda que cada participante realice previamente una actualización de sus conocimientos en tipos de datos sobre biodiversidad, estándares y modelos de publicación de estos en plataformas globales.
 
-#### Tipos de datos:
+**Tipos de datos:**
 
 ---
 
@@ -186,7 +186,7 @@ Para obtener el máximo beneficio de los seminarios de este taller, se recomiend
 
 ---
 
-#### Estándares para datos sobre biodiversidad:
+**Estándares para datos sobre biodiversidad:**
 
 ---
 
@@ -242,7 +242,7 @@ Para obtener el máximo beneficio de los seminarios de este taller, se recomiend
 
 
 
-#### El modelo de publicación de datos de GBIF:
+**El modelo de publicación de datos de GBIF:**
 
 ---
 
@@ -268,7 +268,7 @@ Para obtener el máximo beneficio de los seminarios de este taller, se recomiend
 
 ---
 
-#### Sobre el modelo de publicación de datos de OBIS:
+**Sobre el modelo de publicación de datos de OBIS:**
 
 ---
 
@@ -286,7 +286,7 @@ Para obtener el máximo beneficio de los seminarios de este taller, se recomiend
 
 *Otros videos generales:*
 
-#### Sobre GBIF:
+**Sobre GBIF:**
 
 ---
 
@@ -303,7 +303,7 @@ Para obtener el máximo beneficio de los seminarios de este taller, se recomiend
 
 ---
 
-#### Sobre OBIS:
+**Sobre OBIS:**
 
 ---
 
@@ -351,10 +351,10 @@ Para obtener el máximo beneficio de los seminarios de este taller, se recomiend
 ## Programa
 Los seminarios serán de 75 minutos cada uno, con 15 minutos para preguntas.
 
-### 01 – Introducción a la calidad de datos, principios generales
+**01 – Introducción a la calidad de datos, principios generales**
 
-Descripción: Definición de conceptos básicos: calidad de datos, fitness for use. Problemas y limitantes comunes. Recomendaciones generales.
-**Ponentes**: Anabela Plos & Dairo Escobar.
+    **Descripción**: Definición de conceptos básicos: calidad de datos, fitness for use. Problemas y limitantes comunes. Recomendaciones generales.
+    **Ponentes**: Anabela Plos & Dairo Escobar.
 
 ### 02 – Buenas prácticas para la toma de datos: planificación
 
