@@ -21,7 +21,8 @@ composition:
 El taller **Calidad de datos + biodiversidad** busca compartir con la comunidad científica y profesional las buenas prácticas que facilitan el manejo y la gestión de información y datos sobre biodiversidad para su publicación, acceso y uso; siempre de manera gratuita y libre, como parte de la filosofía de trabajo del **SiB Colombia**.
 
 
-![organizadores](https://sibcolombia.net/wp-content/uploads/2021/08/CESP_DQ_logos.png)
+<img src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_logos.png" width=770>
+
 
 ## Contexto
 
@@ -71,7 +72,7 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 
 ## Prerrequisitos
 
-1. Curso en línea “Introducción a GBIF”. Disponible [aquí](https://docs.gbif.org/course-introduction-to-gbif/es/index.es.html).
+1. Curso en línea “Introducción a GBIF”. Disponible [aquí](https://docs.gbif.org/course-introduction-to-gbif/es/index.es.html){:target="_blank"}.
 
 2. Algunos de los cursos ofrecidos presencial o virtualmente por los nodos de GBIF sobre estándares y publicación de datos. Aquí algunos de estos:
 * **Argentina**: *[Tackling the spatial challenge in the Southern Cone through georeferencing training](https://www.gbif.org/project/65NXZ9iEW2vkaZm6ZjF6w4/tackling-the-spatial-challenge-in-the-southern-cone-through-georeferencing-training){:target="_blank"}*, Calidad de Datos de Biodiversidad y su Publicación
@@ -157,39 +158,195 @@ Consultorio de Calidad de Datos
 
 Para obtener el máximo beneficio de los seminarios de este taller, se recomienda que cada participante realice previamente una actualización de sus conocimientos en tipos de datos sobre biodiversidad, estándares y modelos de publicación de estos en plataformas globales.
 
-#### Sobre tipos de datos sobre biodiversidad:
+#### Tipos de datos:
 
-- https://vimeo.com/438251559 [11min, EN]
-- https://youtu.be/_f4gGfIBN3U [43min, ES]
+---
 
-#### Sobre estándares para datos sobre biodiversidad:
+<details>
+  <summary markdown="span">Eventos de muestreo: ¿cómo publicarlos usando el estándar Darwin Core? [11min, EN]
 
-- https://youtu.be/9Y2KgUDag2M [8 min, ES]
-- https://youtu.be/a01GktP0M_Q [16 min, ES]
-- https://youtu.be/Ub4-uoHXgmk [120min, EN]
-- https://youtu.be/nYGu8KY_K6U [43min, ES]
-- https://youtu.be/gC2WCfeuZxo [60min, ES]
+</summary>
 
-#### Sobre el modelo de publicación de datos de GBIF:
+<iframe src="https://player.vimeo.com/video/438251559?h=726bcb4988" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/438251559">Biodiversity data origins and types</a> from <a href="https://vimeo.com/gbif">GBIF</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+  
+</details>
 
-- https://youtu.be/1owq-crpCuw [70min, EN]
-- https://youtu.be/Q83XpNQwyEc [60min, ES]
+---
+
+<details>
+  <summary markdown="span">¿Qué datos sobre nuestra biodiversidad se pueden publicar a través del SiB Colombia? [43min, ES]
+
+
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_f4gGfIBN3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+
+#### Estándares para datos sobre biodiversidad:
+
+---
+
+<details>
+  <summary markdown="span">Estándares para la información sobre biodiversidad Intro [8 min, ES]
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Y2KgUDag2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+
+<details>
+  <summary markdown="span">Estándares para la información sobre biodiversidad DarwinCore [16 min, ES]
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a01GktP0M_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+
+---
+<details>
+  <summary markdown="span">Biodiversity Data Standards - Biodiversity Data Mobilization Training in Haiti [120min, EN]
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ub4-uoHXgmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+
+<details>
+  <summary markdown="span">Aprendiendo un nuevo idioma, Darwin Core [43min, ES]
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nYGu8KY_K6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+<details>
+  <summary markdown="span">Eventos de muestreo: ¿cómo publicarlos usando el estándar Darwin Core? [60min, ES]
+
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gC2WCfeuZxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+
+
+
+#### El modelo de publicación de datos de GBIF:
+
+---
+
+<details>
+  <summary markdown="span">Data Publishing Workflow in the GBIF Network - Biodiversity Data Mobilization Training in Haiti [70min, EN]
+
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1owq-crpCuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+
+<details>
+  <summary markdown="span">Crear, compartir, transformar: ¿Cómo publicar a través del SiB Colombia? [60min, ES]
+
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q83XpNQwyEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
 
 #### Sobre el modelo de publicación de datos de OBIS:
 
-- https://youtu.be/kc68nwBVSRc [60min, ES]
+---
 
-### Otros videos generales:
+<details>
+  <summary markdown="span">OBIS Colombia: publicación y acceso a datos sobre biodiversidad marina. [60min, ES]
+
+
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kc68nwBVSRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+
+*Otros videos generales:*
 
 #### Sobre GBIF:
 
-- https://youtu.be/HvS6sRVZbHo [2min, ES]
+---
+
+<details>
+  <summary markdown="span">GBIF: La biblioteca de la vida
+  [3min, ES]
+
+
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kc68nwBVSRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
 
 #### Sobre OBIS:
 
-- https://vimeo.com/566605276 [5min, EN]
-- https://youtu.be/E6NblAC-1uE [2min, EN subtitulado]
-- https://vimeo.com/566605186 [4min, EN]
+---
+
+<details>
+  <summary markdown="span">OBIS - GBIF introduction 5min, EN]
+
+
+
+</summary>
+
+<iframe src="https://player.vimeo.com/video/566605276?h=2912862cf9" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/566605276">OBIS - GBIF introduction</a> from <a href="https://vimeo.com/gbif">GBIF</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+  
+</details>
+
+---
+
+<details>
+  <summary markdown="span">Introduction to the Ocean Biodiversity Information System (OBIS) [2min, EN subtitulado]
+
+
+
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E6NblAC-1uE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+
+<details>
+  <summary markdown="span">OBIS and GBIF commonalities and differences [4min, EN]
+
+
+
+</summary>
+
+<iframe src="https://player.vimeo.com/video/566605186?h=142060f51e" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/566605186">OBIS and GBIF commonalities and differences</a> from <a href="https://vimeo.com/gbif">GBIF</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+  
+</details>
+
+---
 
 ## Programa
 Los seminarios serán de 75 minutos cada uno, con 15 minutos para preguntas.
@@ -250,30 +407,30 @@ Anabela Plos
 
 |           |            |
 |-----------|------------| 
-|<figure class="image is-128x128"><img class="is-rounded" src="https://sibcolombia.net/wp-content/uploads/2021/08/CESP_DQ_AnabellaPlos.jpg"></figure> |Licenciada y doctora en Ciencias Biológicas de la Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata (Argentina). Realizó su postdoctorado en el Museo de La Plata (Argentina) y el New York Botanical Garden (Estados Unidos). Administradora del Nodo Argentino de GBIF y miembro del Consejo Asesor del Sistema Nacional de Datos Biológicos (SNDB-MinCyT, Argentina). Representante Regional de Nodos de Latinoamérica y el Caribe de GBIF. Mentora en el programa BID para el Caribe (Biodiversity Information for Development). Áreas de formación: sistemática, taxonomía, SIG, conservación y digitalización de colecciones. Intereses: Ciencia ciudadana, datos abiertos, entre otros.|
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_AnabellaPlos.jpg"></figure> |Licenciada y doctora en Ciencias Biológicas de la Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata (Argentina). Realizó su postdoctorado en el Museo de La Plata (Argentina) y el New York Botanical Garden (Estados Unidos). Administradora del Nodo Argentino de GBIF y miembro del Consejo Asesor del Sistema Nacional de Datos Biológicos (SNDB-MinCyT, Argentina). Representante Regional de Nodos de Latinoamérica y el Caribe de GBIF. Mentora en el programa BID para el Caribe (Biodiversity Information for Development). Áreas de formación: sistemática, taxonomía, SIG, conservación y digitalización de colecciones. Intereses: Ciencia ciudadana, datos abiertos, entre otros.|
 Camila Plata
 |           |            |
 |-----------|------------| 
-|<figure class="image is-128x128"><img class="is-rounded" src="https://sibcolombia.net/wp-content/uploads/2021/08/CESP_DQ_CamilaPlata.jpg"></figure> |Bióloga e ingeniera ambiental de formación con una maestría en Biología Evolutiva. Desde el SiB Colombia lidera la línea de Administración de Contenidos asegurando que los datos publicados a través del sistema sean de la mejor calidad para ser utilizados en investigación y toma de decisiones, además de liderar procesos de análisis y síntesis de cifras.|
+|<figure class="image is-128x128"><img class="is-rounded" src="comunidad/formacion/images/tallercalidaddatos/CESP_DQ_CamilaPlata.jpg"></figure> |Bióloga e ingeniera ambiental de formación con una maestría en Biología Evolutiva. Desde el SiB Colombia lidera la línea de Administración de Contenidos asegurando que los datos publicados a través del sistema sean de la mejor calidad para ser utilizados en investigación y toma de decisiones, además de liderar procesos de análisis y síntesis de cifras.|
 
 Dairo Escobar
 |           |            |
 |-----------|------------| 
-|<figure class="image is-128x128"><img class="is-rounded" src="https://sibcolombia.net/wp-content/uploads/2021/08/CESP_DQ_DairoEscobar.jpg"></figure> |Biólogo de formación con una maestría en ciencias biológicas con experiencia en el campo de la informática de la biodiversidad y datos abiertos, consolidando sistemas y redes de información a escala país que faciliten el acceso libre a datos sobre biodiversidad para la investigación, la educación y toma de decisiones. En su posición actual coordina el Sistema de Información sobre Biodiversidad de Colombia y el nodo GBIF para el país.|
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_DairoEscobar.jpg"></figure> |Biólogo de formación con una maestría en ciencias biológicas con experiencia en el campo de la informática de la biodiversidad y datos abiertos, consolidando sistemas y redes de información a escala país que faciliten el acceso libre a datos sobre biodiversidad para la investigación, la educación y toma de decisiones. En su posición actual coordina el Sistema de Información sobre Biodiversidad de Colombia y el nodo GBIF para el país.|
 Paula Zermoglio
 |           |            |
 |-----------|------------| 
-|<figure class="image is-128x128"><img class="is-rounded" src="https://sibcolombia.net/wp-content/uploads/2021/08/CESP_DQ_PaulaZermoglio.jpg"></figure> |Doctora en ciencias biológicas de la Universidad de Buenos Aires y de la Universidad de Tours, Francia. Su área de estudio es la ecología de insectos, y está llevando a cabo un postdoctorado en el Instituto de Ecología, Genética y Evolución de Buenos Aires (IEGEBA, CONICET-UBA) y en el Instituto de Investigaciones en Recursos Naturales, Agroecología y Desarrollo Rural (IRNAD, CONICET-UNRN), evaluando el efecto de la ganadería holística sobre la entomofauna en Patagonia. Sus intereses incluyen además el intercambio de datos de biodiversidad, el desarrollo de estándares de datos y la evaluación y mejoramiento de la calidad de los datos. Participa activamente en la comunidad del Global Biodiversity Information Facility (GBIF) como mentora y a través de diversos proyectos. Ha organizado y dictado diversas capacitaciones en movilización, estándares y calidad de datos y georreferenciación. Paula es representante regional en el comité ejecutivo del Biodiversity Information Standards (TDWG), donde trabaja en el desarrollo de estándares de datos.
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_PaulaZermoglio.jpg"></figure> |Doctora en ciencias biológicas de la Universidad de Buenos Aires y de la Universidad de Tours, Francia. Su área de estudio es la ecología de insectos, y está llevando a cabo un postdoctorado en el Instituto de Ecología, Genética y Evolución de Buenos Aires (IEGEBA, CONICET-UBA) y en el Instituto de Investigaciones en Recursos Naturales, Agroecología y Desarrollo Rural (IRNAD, CONICET-UNRN), evaluando el efecto de la ganadería holística sobre la entomofauna en Patagonia. Sus intereses incluyen además el intercambio de datos de biodiversidad, el desarrollo de estándares de datos y la evaluación y mejoramiento de la calidad de los datos. Participa activamente en la comunidad del Global Biodiversity Information Facility (GBIF) como mentora y a través de diversos proyectos. Ha organizado y dictado diversas capacitaciones en movilización, estándares y calidad de datos y georreferenciación. Paula es representante regional en el comité ejecutivo del Biodiversity Information Standards (TDWG), donde trabaja en el desarrollo de estándares de datos.
 
 |
 Liliana Lara
 |           |            |
 |-----------|------------| 
-|<figure class="image is-128x128"><img class="is-rounded" src="https://sibcolombia.net/wp-content/uploads/2021/09/CESP_DQ_LilianaLara.jpg"></figure> |Bióloga y maestra en ciencias egresada de la Facultad de Ciencias de la Universidad Nacional Autónoma de México. El grupo de trabajo que coordina, centra sus actividades en el análisis y desarrollo de procesos de control de calidad de los datos obtenidos a partir de los proyectos que son apoyados por la CONABIO y que integran la información de especímenes recolectados u observados principalmente en el territorio nacional. Esta información es la columna vertebral del Sistema Nacional de Información sobre Biodiversidad (SNIB), cuya instrumentación, operación y actualización corresponde a una de las funciones principales de la CONABIO, como lo establece el artículo 80, fracción V de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.|
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_LilianaLara.jpg"></figure> |Bióloga y maestra en ciencias egresada de la Facultad de Ciencias de la Universidad Nacional Autónoma de México. El grupo de trabajo que coordina, centra sus actividades en el análisis y desarrollo de procesos de control de calidad de los datos obtenidos a partir de los proyectos que son apoyados por la CONABIO y que integran la información de especímenes recolectados u observados principalmente en el territorio nacional. Esta información es la columna vertebral del Sistema Nacional de Información sobre Biodiversidad (SNIB), cuya instrumentación, operación y actualización corresponde a una de las funciones principales de la CONABIO, como lo establece el artículo 80, fracción V de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.|
 Diana Hernández
 |           |            |
 |-----------|------------| 
-|<figure class="image is-128x128"><img class="is-rounded" src="https://sibcolombia.net/wp-content/uploads/2021/09/CESP_DQ_DianaHernandez.jpg"></figure> |Bióloga egresada de la Facultad de Estudios Superiores Zaragoza, Universidad Nacional Autónoma de México (UNAM). Maestra en Ciencias en Biología Marina por el Instituto de Ciencias del Mar y Limnología de la UNAM con taxonomía y ecología de tanaidáceos (Crustacea) de mar profundo del Golfo de México. Ha trabajado más de 15 años en la CONABIO compilando información de biodiversidad de invertebrados marinos. Desde 2011 está a cargo de la Subcoordinación de Catálogos de Autoridades Taxonómicas y dentro de sus principales funciones está la planeación estratégica del desarrollo y actualización del catálogo taxonómico de especies de flora y fauna de México, coordinando un equipo de trabajo de taxónomos mediante desarrollo de proyectos, asesorías o estancias postdoctorales financiados por la CONABIO. Ha coordinado talleres, simposios y reuniones técnicas con taxónomos especialistas en distintos grupos biológicos. Forma parte del grupo técnico de trabajo del Sistema Nacional de Información sobre Biodiversidad (SNIB). Recientemente designada como staff del Nodo GBIF de México y como Punto Focal Nacional para la Global Taxonomy Iniciative. Ha sido profesora de la Carrera de Biología de la Facultad de Ciencias de la UNAM.|
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_DianaHernandez.jpg"></figure> |Bióloga egresada de la Facultad de Estudios Superiores Zaragoza, Universidad Nacional Autónoma de México (UNAM). Maestra en Ciencias en Biología Marina por el Instituto de Ciencias del Mar y Limnología de la UNAM con taxonomía y ecología de tanaidáceos (Crustacea) de mar profundo del Golfo de México. Ha trabajado más de 15 años en la CONABIO compilando información de biodiversidad de invertebrados marinos. Desde 2011 está a cargo de la Subcoordinación de Catálogos de Autoridades Taxonómicas y dentro de sus principales funciones está la planeación estratégica del desarrollo y actualización del catálogo taxonómico de especies de flora y fauna de México, coordinando un equipo de trabajo de taxónomos mediante desarrollo de proyectos, asesorías o estancias postdoctorales financiados por la CONABIO. Ha coordinado talleres, simposios y reuniones técnicas con taxónomos especialistas en distintos grupos biológicos. Forma parte del grupo técnico de trabajo del Sistema Nacional de Información sobre Biodiversidad (SNIB). Recientemente designada como staff del Nodo GBIF de México y como Punto Focal Nacional para la Global Taxonomy Iniciative. Ha sido profesora de la Carrera de Biología de la Facultad de Ciencias de la UNAM.|
 
 # INSCRIPCIÓN
 
@@ -286,7 +443,7 @@ El taller contará con máximo 60 cupos.
 
 Para participar en el taller los postulantes deberán realizar los siguientes pasos:
 
-- Enviar el [formulario de aplicación](https://forms.gle/UthX7CSDRVQjaY4F9). Es necesario ser explícito y detallado para facilitar la evaluación de su candidatura.
+- Enviar el [formulario de aplicación](https://forms.gle/UthX7CSDRVQjaY4F9){:target="_blank"}. Es necesario ser explícito y detallado para facilitar la evaluación de su candidatura.
 
 - La selección de los participantes estará a cargo de un comité evaluador conformado por los nodos organizadores, que tendrá en cuenta los siguientes criterios:
     - Experiencia del candidato con el manejo de datos sobre biodiversidad.
