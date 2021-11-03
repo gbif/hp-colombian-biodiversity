@@ -5,17 +5,17 @@ categories: ["Convocatorias", "CvLAC","2021"]
 background: /assets/images/noticias_eventos/invemar-blog-1024x1024.jpg
 
 gallery2:
-  - url: https://github.com/gbif/hp-colombian-biodiversity/blob/master/assets/images/noticias_eventos/2018-10-22_Foto1-1024x768.jpg
+  - url: /assets/images/noticias_eventos/2018-10-22_Foto1-1024x768.jpg
     image_path: /assets/images/noticias_eventos/2018-10-22_Foto1-1024x768.jpg
     alt: "placeholder image 1"
-  - url: https://github.com/gbif/hp-colombian-biodiversity/blob/master/assets/images/noticias_eventos/2018-10-22_Foto4-1024x768.jpg
-    image_path: /master/assets/images/noticias_eventos/2018-10-22_Foto4-1024x768.jpg
+  - url: /assets/images/noticias_eventos/2018-10-22_Foto4-1024x768.jpg
+    image_path: /assets/images/noticias_eventos/2018-10-22_Foto4-1024x768.jpg
     alt: "placeholder image 2"
-  - url: https://github.com/gbif/hp-colombian-biodiversity/blob/master/assets/images/noticias_eventos/2018-10-22_Foto6-768x1024.jpg
-    image_path: /master/assets/images/noticias_eventos/2018-10-22_Foto6-768x1024.jpg
+  - url: /assets/images/noticias_eventos/2018-10-22_Foto6-768x1024.jpg
+    image_path: /assets/images/noticias_eventos/2018-10-22_Foto6-768x1024.jpg
     alt: "placeholder image 3"
-  - url: https://github.com/gbif/hp-colombian-biodiversity/blob/master/assets/images/noticias_eventos/2018-10-22_Foto3-1024x768.jpg
-    image_path: /master/assets/images/noticias_eventos/2018-10-22_Foto3-1024x768.jpg
+  - url: /assets/images/noticias_eventos/2018-10-22_Foto3-1024x768.jpg
+    image_path: /assets/images/noticias_eventos/2018-10-22_Foto3-1024x768.jpg
     alt: "placeholder image 4"
 ---
 
