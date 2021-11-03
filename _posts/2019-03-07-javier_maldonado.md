@@ -3,7 +3,27 @@ title:  "Javier Maldonado: río arriba, río abajo por las venas de agua dulce d
 date:   2019-04-10
 categories: ["Biodiversidad", "Javier Maldonado", "Peces", "Agua Dulce", "Río", "2019"]
 background: /assets/images/noticias_eventos/javiblog-nb-1000x960.jpg
+
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/images/unsplash-gallery-image-4.jpg
+    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
 ---
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 En medio del caluroso Magdalena-Medio, en la que sería la última de sus salidas de campo, Javier Maldonado se preguntó por el impacto de sus actividades como docente e investigador en la realidad del país y escribió lo siguiente en su [blog personal](https://gymnopez.wixsite.com/misitio/post/desde-el-campo?fbclid=IwAR1bQ4FhYvos6hpCwHhjpSOtacfCijlsJZgW8MQqH6EhiWo7fSAzHFxehg8){:target="_blank"}:
 
