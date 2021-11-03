@@ -1,27 +1,22 @@
 ---
-title:  "Socialización de los resultados de limpieza de datos publicados a través del ipt del IIAP
-"
+title:  "Socialización de los resultados de limpieza de datos publicados a través del ipt del IIAP"
 date:   2018-09-18
 categories: ["Convocatorias", "CvLAC","2021"]
 background: /assets/images/noticias_eventos/invemar-blog-1024x1024.jpg
 
-gallery:
+gallery2:
   - url: https://github.com/gbif/hp-colombian-biodiversity/blob/master/assets/images/noticias_eventos/2018-10-22_Foto1-1024x768.jpg
     image_path: /assets/images/noticias_eventos/2018-10-22_Foto1-1024x768.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
   - url: https://github.com/gbif/hp-colombian-biodiversity/blob/master/assets/images/noticias_eventos/2018-10-22_Foto4-1024x768.jpg
     image_path: /master/assets/images/noticias_eventos/2018-10-22_Foto4-1024x768.jpg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
   - url: https://github.com/gbif/hp-colombian-biodiversity/blob/master/assets/images/noticias_eventos/2018-10-22_Foto6-768x1024.jpg
     image_path: /master/assets/images/noticias_eventos/2018-10-22_Foto6-768x1024.jpg
     alt: "placeholder image 3"
-    title: "Image 3 title caption"
   - url: https://github.com/gbif/hp-colombian-biodiversity/blob/master/assets/images/noticias_eventos/2018-10-22_Foto3-1024x768.jpg
     image_path: /master/assets/images/noticias_eventos/2018-10-22_Foto3-1024x768.jpg
     alt: "placeholder image 4"
-    title: "Image 4 title caption"
 ---
 
 **Fecha:**
@@ -78,6 +73,6 @@ Enlaces de interés
 .
 .
 
-{% include gallery caption="Socialización de los resultados de limpieza de datos publicados a través del ipt del IIAP" %}
+{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
 
 
