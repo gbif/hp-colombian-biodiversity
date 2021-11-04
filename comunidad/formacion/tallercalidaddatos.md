@@ -109,9 +109,9 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 
 ## Seminarios
 
-**Lunes 8 de noviembre**
-*8:00 a.m. a 10:30 a.m.* (COT)
-Introducción a la calidad de datos, principios generales.
+**Lunes 8 de noviembre**<br>
+*8:00 a.m. a 10:30 a.m.* (COT)<br>
+Introducción a la calidad de datos, principios generales.<br>
 
 **Martes 9 de noviembre**
 *8:00 a.m. a 9:15 a.m.* (COT)
