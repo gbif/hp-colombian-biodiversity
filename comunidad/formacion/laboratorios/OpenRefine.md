@@ -16,7 +16,7 @@ Utilizar _OpenRefine_ para administrar, validar y limpiar de manera eficiente da
 
 **Introducción**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qsqihcrgtc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=etfFcchjP1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 **Sobre la Herramienta**
 
