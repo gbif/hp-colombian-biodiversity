@@ -10,10 +10,7 @@ height: 41vh
 composition:
 - type: heroImage
 - type: pageMarkdown
-- type: heroImage
-  data: custom.overlay.heroHeadlineB
-- type: markdown
-  data: custom.overlay.text
+
 ---
 
 # PRESENTACIÓN
