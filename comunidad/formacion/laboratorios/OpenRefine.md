@@ -73,7 +73,7 @@ _OpenRefine_ es un _software_ de código abierto que trabaja bajo una [licencia 
 
 Puede cargar datos con diferentes formatos y extensiones: TSV, CSV, SV, Excel (.xls y .xlsx), JSON, XML, RDF as XML y datos de _Google Docs_.
 
-###2.1. Abrir un nuevo proyecto
+### 2.1. Abrir un nuevo proyecto
 
 Abra _OpenRefine_ y seleccione la pestaña <span class="tag is-warning is-light"><i>Create Project</i></span>. Para cargar el archivo, siga la ruta <span class="tag is-warning is-light"><i><b>Get data from > This Computer</b></i></span> y haga clic en <span class="tag is-warning is-light"><i>Choose Files</i></span> (Fig. 1).
 
@@ -81,14 +81,14 @@ Abra _OpenRefine_ y seleccione la pestaña <span class="tag is-warning is-light"
 
 <sup>_Figura 1. Creación de un proyecto en OpenRefine._</sup>
 
-###2.2. Selección del archivo**
+### 2.2. Selección del archivo
 
 Seleccione el archivo <FONT FACE="monospace"><b>«datos_Estructurados.xlsx»</b></FONT> que descargó al incio del laboratorio y haga clic en <span class="tag is-warning is-light"><i>Next</i></span> (Fig. 1).
 
 > Puede subir varios archivos a la vez, el software unirá los archivos con base en los encabezados de las columnas.
 > 
 
-###2.3. Configuración del archivo**
+### 2.3. Configuración del archivo
 
 Tras seleccionar el archivo, aparecerá un panel de configuración. Este permite especificar el tipo de archivo que cargó y configurar la manera en la que los datos son leídos (Fig. 2). 
 
