@@ -10,7 +10,10 @@ height: 41vh
 composition:
 - type: heroImage
 - type: pageMarkdown
-
+- type: heroImage
+  data: custom.overlay.heroHeadlineB
+- type: markdown
+  data: custom.overlay.text
 ---
 
 # PRESENTACIÓN
@@ -20,6 +23,7 @@ El taller **Calidad de datos + biodiversidad** busca compartir con la comunidad 
 
 <img src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_logos.png" width=770>
 
+<img src="/assets/images/noticias_eventos/CESP_DQ_header_web-1280x400.jpg" width=770>
 
 ## Contexto
 
@@ -72,15 +76,15 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 1. Curso en línea “Introducción a GBIF”. Disponible [aquí](https://docs.gbif.org/course-introduction-to-gbif/es/index.es.html){:target="_blank"}.
 
 2. Algunos de los cursos ofrecidos presencial o virtualmente por los nodos de GBIF sobre estándares y publicación de datos. Aquí algunos de estos:
-* **Argentina**: *[Tackling the spatial challenge in the Southern Cone through georeferencing training](https://www.gbif.org/project/65NXZ9iEW2vkaZm6ZjF6w4/tackling-the-spatial-challenge-in-the-southern-cone-through-georeferencing-training){:target="_blank"}*, Calidad de Datos de Biodiversidad y su Publicación
+    * **Argentina**: *[Tackling the spatial challenge in the Southern Cone through georeferencing training](https://www.gbif.org/project/65NXZ9iEW2vkaZm6ZjF6w4/tackling-the-spatial-challenge-in-the-southern-cone-through-georeferencing-training){:target="_blank"}*, Calidad de Datos de Biodiversidad y su Publicación.
 
-* **Chile**: *[Establishing a national node for Chile to enhance Latin America regional capacity](https://www.gbif.org/project/83351/establishing-a-national-node-for-chile-to-enhance-latin-america-regional-capacity){:target="_blank"}*.
+    * **Chile**: *[Establishing a national node for Chile to enhance Latin America regional capacity](https://www.gbif.org/project/83351/establishing-a-national-node-for-chile-to-enhance-latin-america-regional-capacity){:target="_blank"}*.
 
-* **Colombia**: *[Gestión y publicación de datos](https://biodiversidad.co/comunidad/formacion)*.
+    * **Colombia**: *[Gestión y publicación de datos](https://biodiversidad.co/comunidad/formacion)*.
 
-* **México**: *[Proceso de gestión de información de registros de presencia de especies del SNIB (Sistema Nacional de Información sobre Biodiversidad)](https://www.snib.mx/ejemplares/proceso/){:target="_blank"}*.
+    * **México**: *[Proceso de gestión de información de registros de presencia de especies del SNIB (Sistema Nacional de Información sobre Biodiversidad)](https://www.snib.mx/ejemplares/proceso/){:target="_blank"}*.
 
-* **GBIF.ES**: *[Planes anuales de formación](https://www.gbif.es/wp-content/uploads/2020/01/Historico-Planes-Anuales-Formacion.pdf){:target="_blank"}*.
+    * **GBIF.ES**: *[Planes anuales de formación](https://www.gbif.es/wp-content/uploads/2020/01/Historico-Planes-Anuales-Formacion.pdf){:target="_blank"}*.
 
 3. Para aprovechar al máximo las actividades de este curso, los participantes deben poseer las siguientes habilidades y conocimientos:
 
@@ -106,46 +110,46 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 
 ## Seminarios
 
-**Lunes 8 de noviembre**<br>
-*8:00 a.m. a 10:30 a.m.* (COT)<br>
-Introducción a la calidad de datos, principios generales.<br>
+**Lunes 8 de noviembre**  
+*8:00 a.m. a 10:30 a.m.* (COT)  
+Introducción a la calidad de datos, principios generales.
 
-**Martes 9 de noviembre**
-*8:00 a.m. a 9:15 a.m.* (COT)
+**Martes 9 de noviembre**  
+*8:00 a.m. a 9:15 a.m.* (COT)  
 BBPP para la toma de datos: planificación
 
 *9:15 a.m. a 10:30 a.m.*
 BBPP para la digitalización y almacenamiento de datos
 
-**Miércoles 10 de noviembre**
-*8:00 a.m. a 9:15 a.m.* (COT)
+**Miércoles 10 de noviembre**  
+*8:00 a.m. a 9:15 a.m.* (COT)  
 BBPP para la documentación de información geográfica
 
-*9:15 a.m. a 10:30 a.m.* (COT)
+*9:15 a.m. a 10:30 a.m.* (COT)  
 BBPP para la documentación de metadatos
 
-**Jueves 11 de noviembre**
-*8:00 a.m. a 9:15 a.m.* (COT)
+**Jueves 11 de noviembre**  
+*8:00 a.m. a 9:15 a.m.* (COT)  
 BBPP para la publicación y actualización de datos (GBIF-OBIS)
 
-*9:15 a.m. a 10:30 a.m.* (COT)
+*9:15 a.m. a 10:30 a.m.* (COT)  
 BBPP para la repatriación de datos
 
-**Viernes 12 de noviembre**
-*8:00 a.m. a 9:15 a.m.* (COT)
+**Viernes 12 de noviembre**  
+*8:00 a.m. a 9:15 a.m.* (COT)  
 Evaluación y limpieza de datos 1/2
 
-*9:15 a.m. a 10:30 a.m.* (COT)
+*9:15 a.m. a 10:30 a.m.* (COT)  
 Evaluación y limpieza de datos 1/2
 
 ## Consultorio de Calidad de Datos
 
-**Martes 16 de noviembre**
-*8:00 a.m. a 9:00 a.m.* (COT)
+**Martes 16 de noviembre**  
+*8:00 a.m. a 9:00 a.m.* (COT)  
 Consultorio de Calidad de Datos
 
-*9:00 a.m. a 11:00 a.m.* (COT)
-3 sesiones en simultánea/casos priorizados
+*9:00 a.m. a 11:00 a.m.* (COT)  
+3 sesiones en simultánea/casos priorizados  
 
 *COT: hora Colombia
 
@@ -350,13 +354,13 @@ Los seminarios serán de 75 minutos cada uno, con 15 minutos para preguntas.
 
 **01 – Introducción a la calidad de datos, principios generales**
 
-**Descripción**: Definición de conceptos básicos: calidad de datos, fitness for use. Problemas y limitantes comunes. Recomendaciones generales.
-**Ponentes**: Anabela Plos & Dairo Escobar.
+    **Descripción**: Definición de conceptos básicos: calidad de datos, fitness for use. Problemas y limitantes comunes. Recomendaciones generales.
+    **Ponentes**: Anabela Plos & Dairo Escobar.
 
 **02 – Buenas prácticas para la toma de datos: planificación** 
 
-**Descripción**: Flujo de datos y pasos deseables para evitar pérdida de calidad en los datos. Sugerencias de planificación.
-**Ponentes**: Anabela Plos.
+    **Descripción**: Flujo de datos y pasos deseables para evitar pérdida de calidad en los datos. Sugerencias de planificación.
+    **Ponentes**: Anabela Plos.
 
 **03 – Buenas prácticas para la digitalización y almacenamiento de datos**
 
@@ -400,52 +404,14 @@ Los seminarios serán de 75 minutos cada uno, con 15 minutos para preguntas.
 
 # FACILITADORES
 
-Anabela Plos
-
 |           |            |
 |-----------|------------| 
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_AnabellaPlos.jpg"></figure> |Licenciada y doctora en Ciencias Biológicas de la Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata (Argentina). Realizó su postdoctorado en el Museo de La Plata (Argentina) y el New York Botanical Garden (Estados Unidos). Administradora del Nodo Argentino de GBIF y miembro del Consejo Asesor del Sistema Nacional de Datos Biológicos (SNDB-MinCyT, Argentina). Representante Regional de Nodos de Latinoamérica y el Caribe de GBIF. Mentora en el programa BID para el Caribe (Biodiversity Information for Development). Áreas de formación: sistemática, taxonomía, SIG, conservación y digitalización de colecciones. Intereses: Ciencia ciudadana, datos abiertos, entre otros.|
-
----
-
-
-Camila Plata
-
-|           |            |
-|-----------|------------| 
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_CamilaPlata.jpg"></figure> |Bióloga e ingeniera ambiental de formación con una maestría en Biología Evolutiva. Desde el SiB Colombia lidera la línea de Administración de Contenidos asegurando que los datos publicados a través del sistema sean de la mejor calidad para ser utilizados en investigación y toma de decisiones, además de liderar procesos de análisis y síntesis de cifras.|
-
----
-
-Dairo Escobar
-
-|           |            |
-|-----------|------------| 
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_DairoEscobar.jpg"></figure> |Biólogo de formación con una maestría en ciencias biológicas con experiencia en el campo de la informática de la biodiversidad y datos abiertos, consolidando sistemas y redes de información a escala país que faciliten el acceso libre a datos sobre biodiversidad para la investigación, la educación y toma de decisiones. En su posición actual coordina el Sistema de Información sobre Biodiversidad de Colombia y el nodo GBIF para el país.|
-
----
-
-Paula Zermoglio
-
-|           |            |
-|-----------|------------| 
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_PaulaZermoglio.jpg"></figure> |Doctora en ciencias biológicas de la Universidad de Buenos Aires y de la Universidad de Tours, Francia. Su área de estudio es la ecología de insectos, y está llevando a cabo un postdoctorado en el Instituto de Ecología, Genética y Evolución de Buenos Aires (IEGEBA, CONICET-UBA) y en el Instituto de Investigaciones en Recursos Naturales, Agroecología y Desarrollo Rural (IRNAD, CONICET-UNRN), evaluando el efecto de la ganadería holística sobre la entomofauna en Patagonia. Sus intereses incluyen además el intercambio de datos de biodiversidad, el desarrollo de estándares de datos y la evaluación y mejoramiento de la calidad de los datos. Participa activamente en la comunidad del Global Biodiversity Information Facility (GBIF) como mentora y a través de diversos proyectos. Ha organizado y dictado diversas capacitaciones en movilización, estándares y calidad de datos y georreferenciación. Paula es representante regional en el comité ejecutivo del Biodiversity Information Standards (TDWG), donde trabaja en el desarrollo de estándares de datos.|
-
----
-
-Liliana Lara
-
-|           |            |
-|-----------|------------| 
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_LilianaLara.jpg"></figure> |Bióloga y maestra en ciencias egresada de la Facultad de Ciencias de la Universidad Nacional Autónoma de México. El grupo de trabajo que coordina, centra sus actividades en el análisis y desarrollo de procesos de control de calidad de los datos obtenidos a partir de los proyectos que son apoyados por la CONABIO y que integran la información de especímenes recolectados u observados principalmente en el territorio nacional. Esta información es la columna vertebral del Sistema Nacional de Información sobre Biodiversidad (SNIB), cuya instrumentación, operación y actualización corresponde a una de las funciones principales de la CONABIO, como lo establece el artículo 80, fracción V de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.|
-
----
-
-Diana Hernández
-
-|           |            |
-|-----------|------------| 
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_DianaHernandez.jpg"></figure> |Bióloga egresada de la Facultad de Estudios Superiores Zaragoza, Universidad Nacional Autónoma de México (UNAM). Maestra en Ciencias en Biología Marina por el Instituto de Ciencias del Mar y Limnología de la UNAM con taxonomía y ecología de tanaidáceos (Crustacea) de mar profundo del Golfo de México. Ha trabajado más de 15 años en la CONABIO compilando información de biodiversidad de invertebrados marinos. Desde 2011 está a cargo de la Subcoordinación de Catálogos de Autoridades Taxonómicas y dentro de sus principales funciones está la planeación estratégica del desarrollo y actualización del catálogo taxonómico de especies de flora y fauna de México, coordinando un equipo de trabajo de taxónomos mediante desarrollo de proyectos, asesorías o estancias postdoctorales financiados por la CONABIO. Ha coordinado talleres, simposios y reuniones técnicas con taxónomos especialistas en distintos grupos biológicos. Forma parte del grupo técnico de trabajo del Sistema Nacional de Información sobre Biodiversidad (SNIB). Recientemente designada como staff del Nodo GBIF de México y como Punto Focal Nacional para la Global Taxonomy Iniciative. Ha sido profesora de la Carrera de Biología de la Facultad de Ciencias de la UNAM.|
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_AnabellaPlos.jpg"></figure> |**Anabela Plos:** Licenciada y doctora en Ciencias Biológicas de la Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata (Argentina). Realizó su postdoctorado en el Museo de La Plata (Argentina) y el New York Botanical Garden (Estados Unidos). Administradora del Nodo Argentino de GBIF y miembro del Consejo Asesor del Sistema Nacional de Datos Biológicos (SNDB-MinCyT, Argentina). Representante Regional de Nodos de Latinoamérica y el Caribe de GBIF. Mentora en el programa BID para el Caribe (Biodiversity Information for Development). Áreas de formación: sistemática, taxonomía, SIG, conservación y digitalización de colecciones. Intereses: Ciencia ciudadana, datos abiertos, entre otros.|
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_CamilaPlata.jpg"></figure> |**Camila Plata:** Bióloga e ingeniera ambiental de formación con una maestría en Biología Evolutiva. Desde el SiB Colombia lidera la línea de Administración de Contenidos asegurando que los datos publicados a través del sistema sean de la mejor calidad para ser utilizados en investigación y toma de decisiones, además de liderar procesos de análisis y síntesis de cifras.|
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_DairoEscobar.jpg"></figure> |**Dairo Escobar:** Biólogo de formación con una maestría en ciencias biológicas con experiencia en el campo de la informática de la biodiversidad y datos abiertos, consolidando sistemas y redes de información a escala país que faciliten el acceso libre a datos sobre biodiversidad para la investigación, la educación y toma de decisiones. En su posición actual coordina el Sistema de Información sobre Biodiversidad de Colombia y el nodo GBIF para el país.| 
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_PaulaZermoglio.jpg"></figure> |**Paula Zermoglio:** Doctora en ciencias biológicas de la Universidad de Buenos Aires y de la Universidad de Tours, Francia. Su área de estudio es la ecología de insectos, y está llevando a cabo un postdoctorado en el Instituto de Ecología, Genética y Evolución de Buenos Aires (IEGEBA, CONICET-UBA) y en el Instituto de Investigaciones en Recursos Naturales, Agroecología y Desarrollo Rural (IRNAD, CONICET-UNRN), evaluando el efecto de la ganadería holística sobre la entomofauna en Patagonia. Sus intereses incluyen además el intercambio de datos de biodiversidad, el desarrollo de estándares de datos y la evaluación y mejoramiento de la calidad de los datos. Participa activamente en la comunidad del Global Biodiversity Information Facility (GBIF) como mentora y a través de diversos proyectos. Ha organizado y dictado diversas capacitaciones en movilización, estándares y calidad de datos y georreferenciación. Paula es representante regional en el comité ejecutivo del Biodiversity Information Standards (TDWG), donde trabaja en el desarrollo de estándares de datos.| 
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_LilianaLara.jpg"></figure> |**Liliana Lara:** Bióloga y maestra en ciencias egresada de la Facultad de Ciencias de la Universidad Nacional Autónoma de México. El grupo de trabajo que coordina, centra sus actividades en el análisis y desarrollo de procesos de control de calidad de los datos obtenidos a partir de los proyectos que son apoyados por la CONABIO y que integran la información de especímenes recolectados u observados principalmente en el territorio nacional. Esta información es la columna vertebral del Sistema Nacional de Información sobre Biodiversidad (SNIB), cuya instrumentación, operación y actualización corresponde a una de las funciones principales de la CONABIO, como lo establece el artículo 80, fracción V de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.|
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_DianaHernandez.jpg"></figure> |**Diana Hernández:** Bióloga egresada de la Facultad de Estudios Superiores Zaragoza, Universidad Nacional Autónoma de México (UNAM). Maestra en Ciencias en Biología Marina por el Instituto de Ciencias del Mar y Limnología de la UNAM con taxonomía y ecología de tanaidáceos (Crustacea) de mar profundo del Golfo de México. Ha trabajado más de 15 años en la CONABIO compilando información de biodiversidad de invertebrados marinos. Desde 2011 está a cargo de la Subcoordinación de Catálogos de Autoridades Taxonómicas y dentro de sus principales funciones está la planeación estratégica del desarrollo y actualización del catálogo taxonómico de especies de flora y fauna de México, coordinando un equipo de trabajo de taxónomos mediante desarrollo de proyectos, asesorías o estancias postdoctorales financiados por la CONABIO. Ha coordinado talleres, simposios y reuniones técnicas con taxónomos especialistas en distintos grupos biológicos. Forma parte del grupo técnico de trabajo del Sistema Nacional de Información sobre Biodiversidad (SNIB). Recientemente designada como staff del Nodo GBIF de México y como Punto Focal Nacional para la Global Taxonomy Iniciative. Ha sido profesora de la Carrera de Biología de la Facultad de Ciencias de la UNAM.|
 
 ---
 
