@@ -354,13 +354,13 @@ Los seminarios serán de 75 minutos cada uno, con 15 minutos para preguntas.
 
 **01 – Introducción a la calidad de datos, principios generales**
 
-    **Descripción**: Definición de conceptos básicos: calidad de datos, fitness for use. Problemas y limitantes comunes. Recomendaciones generales.
-    **Ponentes**: Anabela Plos & Dairo Escobar.
+>**Descripción**: Definición de conceptos básicos: calidad de datos, fitness for use. Problemas y limitantes comunes. Recomendaciones generales.  
+>**Ponentes**: Anabela Plos & Dairo Escobar.
 
 **02 – Buenas prácticas para la toma de datos: planificación** 
 
-    **Descripción**: Flujo de datos y pasos deseables para evitar pérdida de calidad en los datos. Sugerencias de planificación.
-    **Ponentes**: Anabela Plos.
+> **Descripción**: Flujo de datos y pasos deseables para evitar pérdida de calidad en los datos. Sugerencias de planificación.
+> **Ponentes**: Anabela Plos.
 
 **03 – Buenas prácticas para la digitalización y almacenamiento de datos**
 
