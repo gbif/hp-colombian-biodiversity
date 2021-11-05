@@ -109,7 +109,7 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 
 **Lunes 8 de noviembre**  
 *8:00 a.m. a 10:30 a.m.* (COT)  
-Introducción a la calidad de datos, principios generales.
+Introducción a la calidad de datos, principios generales
 
 **Martes 9 de noviembre**  
 *8:00 a.m. a 9:15 a.m.* (COT)  
@@ -351,61 +351,61 @@ Los seminarios serán de 75 minutos cada uno, con 15 minutos para preguntas.
 
 **01 – Introducción a la calidad de datos, principios generales**
 
-    **Descripción**: Definición de conceptos básicos: calidad de datos, fitness for use. Problemas y limitantes comunes. Recomendaciones generales.  
+- **Descripción**: Definición de conceptos básicos: calidad de datos, fitness for use. Problemas y limitantes comunes. Recomendaciones generales.  
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ponentes**: Anabela Plos & Dairo Escobar.
+- **Ponentes**: Anabela Plos & Dairo Escobar.
 
 **02 – Buenas prácticas para la toma de datos: planificación** 
 
-> **Descripción**: Flujo de datos y pasos deseables para evitar pérdida de calidad en los datos. Sugerencias de planificación.
-> **Ponentes**: Anabela Plos.
+- **Descripción**: Flujo de datos y pasos deseables para evitar pérdida de calidad en los datos. Sugerencias de planificación.
+- **Ponentes**: Anabela Plos.
 
-**03 – Buenas prácticas para la digitalización y almacenamiento de datos**
+**03 – Buenas prácticas para la digitalización y almacenamiento de datos**  
 
-**Descripción**: Importancia del diseño de la interfaz de documentación de datos y la necesidad de crear capacidad en los responsables de la transcripción y digitalización.
-**Ponentes**: Dairo Escobar.
+- **Descripción**: Importancia del diseño de la interfaz de documentación de datos y la necesidad de crear capacidad en los responsables de la transcripción y digitalización.
+- **Ponentes**: Dairo Escobar.
 
 **04 – Buenas prácticas para la documentación de información geográfica**
 
-**Descripción**: Importancia de la información geográfica para el uso de datos de biodiversidad. Datos geográficos mínimos y elementos de una buena georreferenciación. Tipos y descripción de localidades, coordenadas, sistemas de referencia e incerteza asociada a una georreferencia. Otros elementos: elevación, profundidad. Errores comunes, cómo evitarlos y cómo repararlos.
-**Ponentes**: Paula Zermoglio.
+- **Descripción**: Importancia de la información geográfica para el uso de datos de biodiversidad. Datos geográficos mínimos y elementos de una buena georreferenciación. Tipos y descripción de localidades, coordenadas, sistemas de referencia e incerteza asociada a una georreferencia. Otros elementos: elevación, profundidad. Errores comunes, cómo evitarlos y cómo repararlos.
+- **Ponentes**: Paula Zermoglio.
 
 **05 – Buenas prácticas para la documentación de metadatos**
 
-**Descripción**: Importancia del contexto de los datos para su publicación, recuperación y uso.
-**Ponentes**: Diana Hernández.
+- **Descripción**: Importancia del contexto de los datos para su publicación, recuperación y uso.
+- **Ponentes**: Diana Hernández.
 
 **06 – Buenas prácticas para la publicación y actualización de datos (GBIF-OBIS)**
 
-**Descripción**: Importancia de un modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través de sistemas de información.
-**Ponentes**: Camila Plata.
+- **Descripción**: Importancia de un modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través de sistemas de información.
+- **Ponentes**: Camila Plata.
 
 **07 – Buenas prácticas para la repatriación de datos**
 
-**Descripción**: Integración de datos desde fuentes externas para la consolidación de información sobre biodiversidad.
-**Ponentes**: Liliana Lara.
+- **Descripción**: Integración de datos desde fuentes externas para la consolidación de información sobre biodiversidad.
+- **Ponentes**: Liliana Lara.
 
 **08 – Evaluación y limpieza de datos 1/2**
 
-**Descripción**: Flujo de evaluación y limpieza. Herramientas para la limpieza de datos. Herramientas para chequeo de formato y fechas. Herramientas para limpieza de datos geográficos. Herramientas para la limpieza de datos taxonómicos. Uso del GBIF Data Validator.
-**Ponentes**: Paula Zermoglio & Camila Plata.
+- **Descripción**: Flujo de evaluación y limpieza. Herramientas para la limpieza de datos. Herramientas para chequeo de formato y fechas. Herramientas para limpieza de datos geográficos. Herramientas para la limpieza de datos taxonómicos. Uso del GBIF Data Validator.
+- **Ponentes**: Paula Zermoglio & Camila Plata.
 
 **09 – Evaluación y limpieza de datos 2/2**
 
-**Descripción**: Uso de OpenRefine para la limpieza de datos: funciones básicas.
-**Ponentes**: Paula Zermoglio & Camila Plata.
+- **Descripción**: Uso de OpenRefine para la limpieza de datos: funciones básicas.
+- **Ponentes**: Paula Zermoglio & Camila Plata.
 
 **Consultorio de Calidad de Datos**
 
-**Descripción**: (máx. 3 horas) Tenemos que hablar… con un panel conformado por los facilitadores del taller se abordarán algunos de los casos reales documentados por los participantes respecto la implementación de estas buenas prácticas en su trabajo, generando discusión, orientación y recomendaciones.
-**Facilitadores**: Todos los facilitadores.
+- **Descripción**: (máx. 3 horas) Tenemos que hablar… con un panel conformado por los facilitadores del taller se abordarán algunos de los casos reales documentados por los participantes respecto la implementación de estas buenas prácticas en su trabajo, generando discusión, orientación y recomendaciones.
+- **Facilitadores**: Todos los facilitadores.
 
 # FACILITADORES
 
 |           |            |
 |-----------|------------| 
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_AnabellaPlos.jpg"></figure> |**Anabela Plos:** Licenciada y doctora en Ciencias Biológicas de la Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata (Argentina). Realizó su postdoctorado en el Museo de La Plata (Argentina) y el New York Botanical Garden (Estados Unidos). Administradora del Nodo Argentino de GBIF y miembro del Consejo Asesor del Sistema Nacional de Datos Biológicos (SNDB-MinCyT, Argentina). Representante Regional de Nodos de Latinoamérica y el Caribe de GBIF. Mentora en el programa BID para el Caribe (Biodiversity Information for Development). Áreas de formación: sistemática, taxonomía, SIG, conservación y digitalización de colecciones. Intereses: Ciencia ciudadana, datos abiertos, entre otros.|
-|<figure class="image is-128x128"><img class="is-rounded" src="/formacion/images/tallercalidaddatos/CESP_DQ_CamilaPlata%20(1).jpg"></figure> |**Camila Plata:** Bióloga e ingeniera ambiental de formación con una maestría en Biología Evolutiva. Desde el SiB Colombia lidera la línea de Administración de Contenidos asegurando que los datos publicados a través del sistema sean de la mejor calidad para ser utilizados en investigación y toma de decisiones, además de liderar procesos de análisis y síntesis de cifras.|
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_CamilaPlata%20(1).jpg"></figure> |**Camila Plata:** Bióloga e ingeniera ambiental de formación con una maestría en Biología Evolutiva. Desde el SiB Colombia lidera la línea de Administración de Contenidos asegurando que los datos publicados a través del sistema sean de la mejor calidad para ser utilizados en investigación y toma de decisiones, además de liderar procesos de análisis y síntesis de cifras.|
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_DairoEscobar%20(1).jpg"></figure> |**Dairo Escobar:** Biólogo de formación con una maestría en ciencias biológicas con experiencia en el campo de la informática de la biodiversidad y datos abiertos, consolidando sistemas y redes de información a escala país que faciliten el acceso libre a datos sobre biodiversidad para la investigación, la educación y toma de decisiones. En su posición actual coordina el Sistema de Información sobre Biodiversidad de Colombia y el nodo GBIF para el país.| 
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_PaulaZermoglio.jpg"></figure> |**Paula Zermoglio:** Doctora en ciencias biológicas de la Universidad de Buenos Aires y de la Universidad de Tours, Francia. Su área de estudio es la ecología de insectos, y está llevando a cabo un postdoctorado en el Instituto de Ecología, Genética y Evolución de Buenos Aires (IEGEBA, CONICET-UBA) y en el Instituto de Investigaciones en Recursos Naturales, Agroecología y Desarrollo Rural (IRNAD, CONICET-UNRN), evaluando el efecto de la ganadería holística sobre la entomofauna en Patagonia. Sus intereses incluyen además el intercambio de datos de biodiversidad, el desarrollo de estándares de datos y la evaluación y mejoramiento de la calidad de los datos. Participa activamente en la comunidad del Global Biodiversity Information Facility (GBIF) como mentora y a través de diversos proyectos. Ha organizado y dictado diversas capacitaciones en movilización, estándares y calidad de datos y georreferenciación. Paula es representante regional en el comité ejecutivo del Biodiversity Information Standards (TDWG), donde trabaja en el desarrollo de estándares de datos.| 
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_LilianaLara.jpg"></figure> |**Liliana Lara:** Bióloga y maestra en ciencias egresada de la Facultad de Ciencias de la Universidad Nacional Autónoma de México. El grupo de trabajo que coordina, centra sus actividades en el análisis y desarrollo de procesos de control de calidad de los datos obtenidos a partir de los proyectos que son apoyados por la CONABIO y que integran la información de especímenes recolectados u observados principalmente en el territorio nacional. Esta información es la columna vertebral del Sistema Nacional de Información sobre Biodiversidad (SNIB), cuya instrumentación, operación y actualización corresponde a una de las funciones principales de la CONABIO, como lo establece el artículo 80, fracción V de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.|
