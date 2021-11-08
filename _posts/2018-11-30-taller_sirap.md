@@ -1,6 +1,6 @@
 ---
 title:  "Taller de gestión y publicación de datos sobre biodiversidad – Sistema Regional de Áreas Protegidas del Eje Cafetero"
-date:   2018-30-11
+date:   2018-02-04
 categories: ["Biodiversidad", "Calidad de datos", "CARDER", "Agua Dulce", "Río", "2019"]
 background: /assets/images/noticias_eventos/blog-sirap.jpg
 ---
