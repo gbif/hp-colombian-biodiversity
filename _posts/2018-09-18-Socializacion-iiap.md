@@ -6,16 +6,16 @@ background: /assets/images/noticias_eventos/iiap-blog-1024x1024.jpg
 
 gallery2:
   - url: /assets/images/noticias_eventos/2018-10-22_Foto1-1024x768.jpg
-    image_path: /assets/images/noticias_eventos/2018-10-22_Foto1-1024x768.jpg
+    image_path: /assets/images/noticias_eventos/Post_carlos_fajardo/miniatura_iiap%20(1).jpg
     alt: "placeholder image 1"
   - url: /assets/images/noticias_eventos/2018-10-22_Foto4-1024x768.jpg
-    image_path: /assets/images/noticias_eventos/2018-10-22_Foto4-1024x768.jpg
+    image_path: /assets/images/noticias_eventos/Post_carlos_fajardo/miniatura_iiap%20(2).jpg
     alt: "placeholder image 2"
   - url: /assets/images/noticias_eventos/2018-10-22_Foto6-768x1024.jpg
-    image_path: /assets/images/noticias_eventos/2018-10-22_Foto6-768x1024.jpg
+    image_path: /assets/images/noticias_eventos/Post_carlos_fajardo/miniatura_iiap%20(3).jpg
     alt: "placeholder image 3"
   - url: /assets/images/noticias_eventos/2018-10-22_Foto3-1024x768.jpg
-    image_path: /assets/images/noticias_eventos/2018-10-22_Foto3-1024x768.jpg
+    image_path: /assets/images/noticias_eventos/Post_carlos_fajardo/miniatura_iiap%20(4).jpg
     alt: "placeholder image 4"
 ---
 
@@ -73,6 +73,6 @@ Enlaces de interés
 .
 .
 
-{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
+{% include gallery id="gallery2" caption="Socialización de los resultados" %}
 
 
