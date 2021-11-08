@@ -2,7 +2,7 @@
 title:  "Socialización de los resultados de limpieza de datos publicados a través del ipt del IIAP"
 date:   2018-09-18
 categories: ["Convocatorias", "CvLAC","2021"]
-background: /assets/images/noticias_eventos/invemar-blog-1024x1024.jpg
+background: /assets/images/noticias_eventos/iiap-blog-1024x1024.jpg
 
 gallery2:
   - url: /assets/images/noticias_eventos/2018-10-22_Foto1-1024x768.jpg
