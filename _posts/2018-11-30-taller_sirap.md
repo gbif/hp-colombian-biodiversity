@@ -19,7 +19,7 @@ background: /assets/images/noticias_eventos/blog-sirap.jpg
  
 **Logros:**
 
-La realización de este taller, como iniciativa y liderazgo del SIRAP-EC, refleja el compromiso y apropiación del modelo de publicación del SiB Colombia por diferentes actores del país y el interés por articularse con base en una política de datos y ciencia abierta. El taller logró convocar a nueve (9) entidades de la red del SIRAP-EC: Corporación Autónoma Regional del Quindío, Corporación Autónoma Regional de Risaralda, Fecomar (ONG), Parques Nacionales Naturales de Colombia, Gobernación del Quindío, Asociación Soledad de Montaña,  Fundación Las Mellizas, Wildlife Conservation Society, y la Universidad de Caldas. Los participantes se comprometieron a participar activamente en la publicación de datos a través del SiB Colombia y fortalecer así la disponibilidad de información sobre la región, enmarcada en la red del SIRAP-EC. Este compromiso, permitirá a su vez soportar y dar mayor visibilidad a las actividades relacionadas con la conservación de la áreas protegidas en la región del Eje Cafetero.
+* La realización de este taller, como iniciativa y liderazgo del SIRAP-EC, refleja el compromiso y apropiación del modelo de publicación del SiB Colombia por diferentes actores del país y el interés por articularse con base en una política de datos y ciencia abierta. El taller logró convocar a nueve (9) entidades de la red del SIRAP-EC: Corporación Autónoma Regional del Quindío, Corporación Autónoma Regional de Risaralda, Fecomar (ONG), Parques Nacionales Naturales de Colombia, Gobernación del Quindío, Asociación Soledad de Montaña,  Fundación Las Mellizas, Wildlife Conservation Society, y la Universidad de Caldas. Los participantes se comprometieron a participar activamente en la publicación de datos a través del SiB Colombia y fortalecer así la disponibilidad de información sobre la región, enmarcada en la red del SIRAP-EC. Este compromiso, permitirá a su vez soportar y dar mayor visibilidad a las actividades relacionadas con la conservación de la áreas protegidas en la región del Eje Cafetero.
 
  
 
@@ -27,10 +27,9 @@ La realización de este taller, como iniciativa y liderazgo del SIRAP-EC, reflej
 
 **Instructores**
 
-* Carlos Ríos
-*Wildlife Conservation Society Colombia*
-* Viviana Ramírez
-*Universidad de Caldas*
+* Carlos Ríos, *Wildlife Conservation Society Colombia*
+
+* Viviana Ramírez, *Universidad de Caldas*
 
 **Enlaces de interés:**
 
