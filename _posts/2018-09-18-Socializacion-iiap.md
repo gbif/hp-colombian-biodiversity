@@ -70,8 +70,11 @@ Pedro Rodríguez – Gestor SIG
 Edson Ramírez – Gestor SIG
 
 Enlaces de interés
-.
-.
+
+.[Agenda y Asistentes](https://drive.google.com/drive/folders/18NZ92OQEdekl1SY6uqNc1QljvO0VXzmz?usp=sharing){:target="_blank"}
+.[Fotografías](https://drive.google.com/drive/folders/1DNs8glSsGeyTa4RqSGd_ynZ_AfESkSNg?usp=sharing){:target="_blank"}
+.[Presentaciones](https://drive.google.com/drive/folders/1e5vhfgqjTBZFGS0VqPS2Ke-Duc3ER49J?usp=sharing){:target="_blank"}
+
 
 {% include gallery id="gallery2" caption="Socialización de los resultados" %}
 
