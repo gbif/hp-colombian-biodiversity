@@ -3,7 +3,7 @@ title:  "III Encuentro de museos y colecciones biológicas
 "
 date:   2018-09-24
 categories: ["Convocatorias", "CvLAC","2021"]
-background: /assets/images/noticias_eventos/Post_carlos_fajardo/disenarpoliticas%20(1).jpg
+background: /assets/images/noticias_eventos/Post_carlos_fajardo/museos-blog.jpg
 
 ---
 
@@ -40,6 +40,6 @@ Por otro lado, compartimos con el Invemar y el Instituto Humboldt en el Conversa
 
 **Enlaces de interés**
 
-[Video cápsulas](https://www.youtube.com/results?search_query=%23AltaMonta%C3%B1aAlProfundoMar){:target="_blank"}
-[Presentaciones](https://drive.google.com/open?id=1SffrZgccMnrLuHurFnNDgz4UARLgH-3z){:target="_blank"}
-[Fotos del evento](https://twitter.com/hashtag/altamonta%C3%B1aalprofundomar?f=images&vertical=default&src=hash){:target="_blank"}
++ [Video cápsulas](https://www.youtube.com/results?search_query=%23AltaMonta%C3%B1aAlProfundoMar){:target="_blank"}
++ [Presentaciones](https://drive.google.com/open?id=1SffrZgccMnrLuHurFnNDgz4UARLgH-3z){:target="_blank"}
++ [Fotos del evento](https://twitter.com/hashtag/altamonta%C3%B1aalprofundomar?f=images&vertical=default&src=hash){:target="_blank"}
