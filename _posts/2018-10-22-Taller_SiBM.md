@@ -44,6 +44,7 @@ Los participantes tuvieron la oportunidad de aplicar las herramientas de calidad
 *Investigador. INVEMAR*
 
 **Asistentes**
+
 |        |          |
 |:------------- |:-------------|
 |Leonel  José Fernández Gómez|  Invemar  –  MHNMC|
