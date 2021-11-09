@@ -50,7 +50,4 @@ Camila Plata
 [Taller práctico](https://drive.google.com/open?id=1Tb-j5DPzITfQMWXArRSt-B13tH2npefY){:target="_blank"}
 [Encuesta Final](https://drive.google.com/open?id=1-ptmSMdXp0j7Rnno9ZdB1kDY27dFFcRs){:target="_blank"}
 
-| | |
-| :-------------: |:-------------:|
-| <figure class="image is-128x128"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/TallerINS-1-1024x768.jpg"></figure>| <figure class="image is-128x128"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/TallerINS%20(3).jpg"></figure>|
-|<figure class="image is-128x128"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/TallerINS%20(4).jpg"></figure> | <figure class="image is-128x128"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/TallerINS%20(5).jpg"></figure>|
+<img src="/assets/images/noticias_eventos/Post_carlos_fajardo/taller-ins.jpg" width=770>
