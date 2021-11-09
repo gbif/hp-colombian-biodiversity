@@ -23,9 +23,10 @@ Los 10 participantes de este taller aprendieron sobre estandarización, gestión
 
 **Instructores**
 
-Leonardo Buitrago
-*Líder – Administración de contenidos – SiB Colombia*
-Camila Plata
+Leonardo Buitrago  
+*Líder – Administración de contenidos – SiB Colombia*  
+
+Camila Plata  
 *Administración de contenidos – SiB Colombia*
 
 **Asistentes**
@@ -44,10 +45,10 @@ Camila Plata
 
 **Enlaces de interés:**
 
-[Agenda y Asistentes](https://drive.google.com/open?id=1JygnaiNmyPRzbxsLazAKNkN0V9gexw-Y){:target="_blank"}
-[Fotografías](https://drive.google.com/open?id=1oPrqYhoUCgK2Ay4xuYX_qVhEgRo2lcP-){:target="_blank"}
-[Presentaciones](https://drive.google.com/open?id=19_UEe92k0Xym2qnU13hLOJ_sQSwakmT8){:target="_blank"}
-[Taller práctico](https://drive.google.com/open?id=1Tb-j5DPzITfQMWXArRSt-B13tH2npefY){:target="_blank"}
-[Encuesta Final](https://drive.google.com/open?id=1-ptmSMdXp0j7Rnno9ZdB1kDY27dFFcRs){:target="_blank"}
+* [Agenda y Asistentes](https://drive.google.com/open?id=1JygnaiNmyPRzbxsLazAKNkN0V9gexw-Y){:target="_blank"}
+* [Fotografías](https://drive.google.com/open?id=1oPrqYhoUCgK2Ay4xuYX_qVhEgRo2lcP-){:target="_blank"}
+* [Presentaciones](https://drive.google.com/open?id=19_UEe92k0Xym2qnU13hLOJ_sQSwakmT8){:target="_blank"}
+* [Taller práctico](https://drive.google.com/open?id=1Tb-j5DPzITfQMWXArRSt-B13tH2npefY){:target="_blank"}
+* [Encuesta Final](https://drive.google.com/open?id=1-ptmSMdXp0j7Rnno9ZdB1kDY27dFFcRs){:target="_blank"}
 
 <img src="/assets/images/noticias_eventos/Post_carlos_fajardo/taller-ins.jpg" width=770>
