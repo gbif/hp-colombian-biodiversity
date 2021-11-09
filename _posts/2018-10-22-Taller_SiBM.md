@@ -32,7 +32,7 @@ Los participantes tuvieron la oportunidad de aplicar las herramientas de calidad
 * Erika Montoya,
 *Investigadora. Administradora de contenidos – SiBM*
 * Julio Bohorquez,
-*Investigador Administrador de Bases de datos – SiBM*
+*Investigador. Administrador de Bases de datos – SiBM*
 * Daniela Yepes,
 *Investigadora INVEMAR – MHNMC*
 * Felipe Valencia,
