@@ -24,7 +24,7 @@ Los 24 participantes de este taller aprendieron sobre estandarización, gestión
 Leonardo Buitrago  
 *Líder de línea, Administración de contenidos – SiB Colombia*  
 
-Ricardo Ortíz
+Ricardo Ortíz  
 *Investigador, Administración de contenidos – SiB Colombia*  
 
 **Asistentes**
