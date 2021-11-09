@@ -58,7 +58,7 @@ A continuación encontrarás la información sobre los panelistas y moderadores 
 
 # Listas de Especies
 
-|           |            |
+|           |             |
 |-----------|:------------| 
 |<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/Post_carlos_fajardo/fotos_exphistorica%20%20(9).png"></figure> |**Carlos DoNacimiento:** Doctor en Ciencias (mención Zoología), Universidad Central de Venezuela. Desde hace 16 años desarrolla investigación en las áreas de sistemática, filogenia, biogeografía y conservación de peces de Sudamérica. Es especialista en sistemática de peces del orden Siluriformes (bagres). Igualmente su programa de investigación ha documentado la biodiversidad de peces troglobios (estrictamente cavernícolas), anuros endémicos de las cimas tepuyanas del escudo guayanés (género Oreoprhrynella), arácnidos del orden Opiliones (familias Agoristenidae y Stygnidae) y musarañas sorícidas (género Cryptotis) de los andes. Ha estado afiliado profesionalmente al Museo de Biología de la Universidad Central de Venezuela (Caracas, Venezuela), Museo de Historia Natural La Salle (Caracas), Academy of Natural Sciences (Filadelfia, EUA) y Universidad de Carabobo (Valencia, Venezuela).|
 
