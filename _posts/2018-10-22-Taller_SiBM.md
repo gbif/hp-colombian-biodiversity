@@ -4,11 +4,6 @@ date:   2018-10-22
 categories: ["Convocatorias", "CvLAC","2021"]
 background: /assets/images/noticias_eventos/invemar-blog-1024x1024.jpg
 
-gallery:
-  - url: /assets/images/noticias_eventos/SiBM-SIBCo_oct2018-1024x673.jpg
-  -  image_path:/assets/images/noticias_eventos/SiBM-SIBCo_oct2018-150x150.jpg
-  - alt: "placeholder image 1"
-  - title: "Image 1 title caption"
 ---
 
 **Fecha:**
@@ -49,32 +44,33 @@ Los participantes tuvieron la oportunidad de aplicar las herramientas de calidad
 *Investigador. INVEMAR*
 
 **Asistentes**
-
-Leonel  José Fernández Gómez    Invemar  –  MHNMC
-Eliana  Marcela Barrios Vasquez	Invemar – MHNMC
-Sara  Eilyn Guzmán Henao	Invemar – MHNMC
-Sandra Pareja Ortega	Invemar – MHNMC
-Adibe Cárdenas Oliva	Invemar – MHNMC
-María Alejandra Mutis Martínezguerra	Invemar – MHNMC
-Bibian Martínez Campos	Invemar – MHNMC
-Karen Ayala Galván	Invemar – MHNMC
-Martha Patricia Vides Casado	Invemar – ITE
-Juan  David González Corredor	Invemar – ODI
-Andrés Felipe Acosta Chaparro	Invemar – ODI
-María  del Pilar Parrado Cortés	Invemar – BEC
-María Juliana Vanegas González	Invemar – BEC
-Ivonne Alexandra Corredor Rubiano	Invemar – BEC
-Maryela Paola Bolaño Lara	Invemar – CSC
-Henry Fabian Bustos Ordoñez	Invemar – CSC
-Alfredo Luis Rodríguez Jimenez	Invemar – VAR
-Jorge Luis Alvarez Gutiérrez	Invemar – VAR
-Shilenne Ortíz Rolón	Aquabiosfera
-Luisa Fernanda Dueñas	Anadarko
-Laura  Franco León	Monitoreos Ambientales – MoAM
-Amanda Miguel Berben Henríquez	U. del Magdalena – Colecciones CBUMAG
-Mayron Esneider Escárraga Fajardo	U. del Magdalena – Colecciones CBUMAG
-Selene  Rojas Aguirre	Invemar -ODI
-Luisa Francisca Cardona Acuña	Invemar – ODI
+|        |          |
+|:------------- |:-------------|
+|Leonel  José Fernández Gómez|  Invemar  –  MHNMC|
+|Eliana  Marcela Barrios Vasquez|Invemar – MHNMC|
+|Sara  Eilyn Guzmán Henao	|Invemar – MHNMC|
+|Sandra Pareja Ortega	|Invemar – MHNMC|
+|Adibe Cárdenas Oliva|Invemar – MHNMC|
+|María Alejandra Mutis Martínezguerra|Invemar – MHNMC|
+|Bibian Martínez Campos|Invemar – MHNMC|
+|Karen Ayala Galván	|Invemar – MHNMC|
+|Martha Patricia Vides Casado|Invemar – ITE|
+|Juan  David González Corredor|	Invemar – ODI|
+|Andrés Felipe Acosta Chaparro|	Invemar – ODI|
+|María  del Pilar Parrado Cortés	|Invemar – BEC|
+|María Juliana Vanegas González|	Invemar – BEC|
+|María  del Pilar Parrado Cortés		|Invemar – BEC|
+|Maryela Paola Bolaño Lara	|Invemar – CSC|
+|enry Fabian Bustos Ordoñez|Invemar – CSC|
+|Alfredo Luis Rodríguez Jimenez|Invemar – VAR|
+|Jorge Luis Alvarez Gutiérrez|Invemar – VAR|
+|Shilenne Ortíz Rolón|Aquabiosfera|
+|Luisa Fernanda Dueñas|Anadarko|
+|Laura  Franco León	|Monitoreos Ambientales – MoAM|
+|Amanda Miguel Berben Henríquez	|U. del Magdalena – Colecciones CBUMAG|
+|Mayron Esneider Escárraga Fajardo|U. del Magdalena – Colecciones CBUMAG|
+|Selene  Rojas Aguirre|Invemar -ODI|
+|Luisa Francisca Cardona Acuña|	Invemar – ODI|
 
 **Enlaces de interés:**
 
@@ -84,4 +80,4 @@ Luisa Francisca Cardona Acuña	Invemar – ODI
 - [Taller práctico](https://drive.google.com/drive/folders/1sr2Y5OofT7K-IVrwDumXkZ0CMFGipQWB){:target="_blank"}
 - [Encuesta final](https://drive.google.com/file/d/1hEyEbyFAyqO9ywHFxs8DD11heK2u1bi-/view){:target="_blank"}
 
-{% include gallery caption="Participantes del taller." %}
+<img src="/assets/images/noticias_eventos/SiBM-SIBCo_oct2018-1024x673.jpg" width=770>
