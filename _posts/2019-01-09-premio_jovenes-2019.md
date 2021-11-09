@@ -54,8 +54,7 @@ El SiB Colombia anunciará a los preseleccionados de esta decisión.
 Las propuestas que no sean seleccionadas pueden ser actualizadas y reenviadas para su consideración en años posteriores.
 
  
-**Revisión y premio de la propuesta GBIF (Segunda etapa)**
-El Comité de Ciencia de GBIF revisará las nominaciones hechas por Colombia y otros países de la red de GBIF y seleccionará los ganadores del Premio a Jóvenes Investigadores a mediados de 2019.
+**Revisión y premio de la propuesta GBIF (Segunda etapa)**. El Comité de Ciencia de GBIF revisará las nominaciones hechas por Colombia y otros países de la red de GBIF y seleccionará los ganadores del Premio a Jóvenes Investigadores a mediados de 2019.
 
 Los criterios de selección son los mismos aplicados en la primera etapa.  
 Se espera que los ganadores reconozcan el apoyo de GBIF cuando difundan los resultados de la investigación a través de publicaciones revisadas por pares, presentaciones en reuniones profesionales y otros medios.  
