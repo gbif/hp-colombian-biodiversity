@@ -5,7 +5,6 @@ categories: ["Convocatorias", "CvLAC","2021"]
 background: /assets/images/noticias_eventos/Captura-de-pantalla-2018-12-12-a-las-9.06.39-a.-m.-750x750.png
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XrZGUciymic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Lugar:** AGORA Centro de Convenciones. Carrera 37 # 24 – 67. Bogotá, Colombia. [Ubicación](https://www.google.com/maps/place/%C3%81gora+Bogot%C3%A1/@4.6298745,-74.0948158,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9bd91908ed1d:0x23880f62017a68ac!8m2!3d4.6298745!4d-74.0926271?shorturl=1){:target="_blank"}.
 
@@ -13,9 +12,10 @@ background: /assets/images/noticias_eventos/Captura-de-pantalla-2018-12-12-a-las
 
 **Organizan:** Sociedad para la Ciencia Abierta y la Conservación de la Biodiversidad (SCiAC) y VCCZ
 
-Patrocinan: [ProCAT Internacional](https://procat-conservation.org/){:target="_blank"} & [Fundación Karisma](https://karisma.org.co/){:target="_blank"}
+**Patrocinan:** [ProCAT Internacional](https://procat-conservation.org/){:target="_blank"} & [Fundación Karisma](https://karisma.org.co/){:target="_blank"}
 
- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XrZGUciymic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 La Ciencia Abierta es la práctica científica que fomenta la transparencia, reproducibilidad, disponibilidad y accesibilidad de todos los elementos y herramientas usadas durante los procesos de investigación, aprovechando el uso de los recursos digitales. De esta manera la producción científica y sus procesos están liberados para que el conocimiento generado tenga un mayor impacto en el desarrollo de nuestras sociedades.
 
