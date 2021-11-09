@@ -6,21 +6,16 @@ background: /assets/images/noticias_eventos/invemar-blog-1024x1024.jpg
 
 ---
 
-**Fecha:**
-03 – 05 de octubre de 2018
+**Fecha:** 03 – 05 de octubre de 2018
 
-**Lugar:**
-
-INVEMAR, Santa Marta, Magdalena.
+**Lugar:** INVEMAR, Santa Marta, Magdalena.
 
 **Descripción:**
 Crear y fortalecer las capacidades para la publicación de datos marino costeros a través del SiBM y el SiB Colombia. 
 
  
 
-**Logros:**
-
-Los 25 participantes del taller aprendieron sobre estandarización, manejo y calidad de datos sobre Biodiversidad con énfasis en datos marino costeros. Las habilidades adquiridas durante el taller les permitirán mejorar sus prácticas internas de planeación, recolección y manejo de datos.
+**Logros:** Los 25 participantes del taller aprendieron sobre estandarización, manejo y calidad de datos sobre Biodiversidad con énfasis en datos marino costeros. Las habilidades adquiridas durante el taller les permitirán mejorar sus prácticas internas de planeación, recolección y manejo de datos.
 
 Los participantes tuvieron la oportunidad de aplicar las herramientas de calidad vistas en el taller en sus propios datos con el fin de publicarlos a través del SiBM, y aportar simultáneamente al SiB Colombia y a las iniciativas internacionales GBIF y OBIS.
 
@@ -30,18 +25,18 @@ Los participantes tuvieron la oportunidad de aplicar las herramientas de calidad
 
 **Instructores**
 
-* Leonardo Buitrago
+* Leonardo Buitrago,
 *Líder de línea. Administración de contenidos – SiB Colombia*
-* Camila Plata
+* Camila Plata,
 *Investigadora. Administración de contenidos – SiB Colombia*
-* Erika Montoya
+* Erika Montoya,
 *Investigadora. Administradora de contenidos – SiBM*
-* Julio Bohorquez*
+* Julio Bohorquez,
 *Investigador Administrador de Bases de datos – SiBM*
-* Daniela Yepes
-*Investigadora. INVEMAR – MHNMC*
-* Felipe Valencia
-*Investigador. INVEMAR*
+* Daniela Yepes,
+*Investigadora INVEMAR – MHNMC*
+* Felipe Valencia,
+*Investigador INVEMAR*
 
 **Asistentes**
 
