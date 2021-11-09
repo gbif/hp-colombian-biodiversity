@@ -64,3 +64,6 @@ Ricardo Ortíz
 + [Encuesta final](https://drive.google.com/file/d/1Cuys5MhoWFRT6_6S5FRP7RKaNSVLt_qp/view){:target="_blank"}
 
 <img src="/assets/images/noticias_eventos/Post_carlos_fajardo/UPTC–Boyacá-BIO%20(2).png" width=770>
+
+<img src="/assets/images/noticias_eventos/Post_carlos_fajardo/UPTC–Boyacá-BIO%20(7).jpg" width=770>
+
