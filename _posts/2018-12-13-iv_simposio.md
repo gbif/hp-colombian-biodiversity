@@ -23,12 +23,16 @@ Ac. 24 #38-47
 Bogotá, Colombia
 
 **Comité organizador:**
-    Dairo Escobar
+Dairo Escobar
+
 Leonardo Buitrago
+
 *Sistema de Información sobre Biodiversidad – SiB Colombia*
 
 Jorge Velásquez-Tibatá
-Elkin Noguera
+
+Elkin Noguera  
+
 *Laboratorio de Biogeografía Aplicada – Instituto Alexander von Humboldt*
 
 **Agenda:**
