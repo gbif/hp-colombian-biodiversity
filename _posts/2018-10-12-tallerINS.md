@@ -52,5 +52,5 @@ Camila Plata
 
 | | |
 | :-------------: |:-------------:|
-| <figure class="image is-128x128"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/TallerINS%20(2).jpg"></figure>| <figure class="image is-128x128"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/TallerINS%20(3).jpg"></figure>|
+| <figure class="image is-128x128"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/TallerINS-1-1024x768.jpg"></figure>| <figure class="image is-128x128"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/TallerINS%20(3).jpg"></figure>|
 |<figure class="image is-128x128"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/TallerINS%20(4).jpg"></figure> | <figure class="image is-128x128"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/TallerINS%20(5).jpg"></figure>|
