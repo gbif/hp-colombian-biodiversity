@@ -22,17 +22,13 @@ Centro de Convenciones
 Ac. 24 #38-47
 Bogotá, Colombia
 
-**Comité organizador:**
-Dairo Escobar
-
-Leonardo Buitrago
-
+**Comité organizador:**  
+Dairo Escobar  
+Leonardo Buitrago  
 *Sistema de Información sobre Biodiversidad – SiB Colombia*
 
-Jorge Velásquez-Tibatá
-
+Jorge Velásquez-Tibatá  
 Elkin Noguera  
-
 *Laboratorio de Biogeografía Aplicada – Instituto Alexander von Humboldt*
 
 **Agenda:**
@@ -69,12 +65,7 @@ Elkin Noguera
 
 **El simposio en imágenes**
 
-| | |  |
-| :-------------: |:-------------:| :-----:|
-|<figure class="image is-328x328"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/IV-Simposio%20(10).jpg"></figure>|<figure class="image is-328x328"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/IV-Simposio%20(9).jpg"></figure>|<figure class="image is-328x328"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/IV-Simposio%20(8).jpg"></figure>|
-|<figure class="image is-328x328"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/IV-Simposio%20(7).jpg"></figure>|<figure class="image is-328x328"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/IV-Simposio%20(6).jpg"></figure>|<figure class="image is-328x328"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/IV-Simposio%20(5).jpg"></figure>|
-|<figure class="image is-328x328"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/IV-Simposio%20(4).jpg"></figure>|<figure class="image is-328x328"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/IV-Simposio%20(3).jpg"></figure>|<figure class="image is-128x128"><img src="/assets/images/noticias_eventos/Post_carlos_fajardo/IV-Simposio%20(2).jpg"></figure>|
-
+<img src="/assets/images/noticias_eventos/Post_carlos_fajardo/IV-Simposio%20(11).jpg" width=770>
 
 # Aliados
 * Asociación Colombiana de Ictiólogos – Acictios
