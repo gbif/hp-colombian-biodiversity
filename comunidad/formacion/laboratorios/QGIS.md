@@ -49,7 +49,7 @@ QGIS es un _software_ libre y de código abierto, licenciado bajo una GNU (_Gene
 
 1. Diríjase al [enlace de descarga de QGIS](https://qgis.org/es/site/forusers/download.html), donde encontrará los instaladores para todos los sistemas operativos. 
 2. Preferiblemente, descargue la versión disponible con **soporte a largo plazo (más estable)**, de acuerdo al sistema operativo de su ordenador. Si es usuario de _Windows_, seleccione la opción de descarga de 32 o 64 bits, según la versión de su sistema operativo. Para estar seguro de esto, abra el explorador de archivos, diríjase a <span class="tag is-warning is-light"><i>Este equipo</i></span>, haga clic derecho y seleccione la opción <span class="tag is-warning is-light"><i>Propiedades</i></span>. Luego, revise la sección _**"Tipo de sistema"**_.
-3. Una vez finalice la descarga, haga clic sobre el archivo para ejecutar el instalador del programa.
+3. Una vez que finalice la descarga, haga clic sobre el archivo para ejecutar el instalador del programa.
 4. Siga los pasos de instalación en su ordenador.
 
 <div class="notification is-info is-light">
