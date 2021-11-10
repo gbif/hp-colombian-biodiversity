@@ -198,7 +198,7 @@ La calculadora de campos (<span class="tag is-warning is-light"><i>Field Calcula
 
 * Una vez en la calculadora de campos (<span class="tag is-warning is-light"><i>Field Calculator</i></span>), asigne <span class="tag is-light"><b>countyValidation</b></span> como el nombre de la columna en  _**"Output field Name"**_(Fig. 10).
 
-* En el cuadro de texto correspondiente a _**"Expression"**_, digite el siguiente comando: <code><b>if( "county"  =  "suggestedC" ,'1',if("county" is null, '','0'))</b></code>. Este comando condicional evalúa el elemento <span class="tag is-success is-light"><i>county</i></span> y lo compara con la columna de _**"suggestedC"**_. Cuando ambas columnas coinciden, se documenta un <span class="tag is-light"><b>1</b></span> en el elemento _**"countyValidation"**_. En cambio, si la geografía superior no coincide con la coordenada, las columnas mostrarán discrepancias y se asignará un <span class="tag is-light"><b>0</b></span> en _**"countyValidation"**_.
+* En el cuadro de texto correspondiente a _**"Expression"**_, digite el siguiente comando: <code>if( "county"  =  "suggestedC" ,'1',if("county" is null, '','0'))</code>. Este comando condicional evalúa el elemento <span class="tag is-success is-light"><i>county</i></span> y lo compara con la columna de _**"suggestedC"**_. Cuando ambas columnas coinciden, se documenta un <span class="tag is-light"><b>1</b></span> en el elemento _**"countyValidation"**_. En cambio, si la geografía superior no coincide con la coordenada, las columnas mostrarán discrepancias y se asignará un <span class="tag is-light"><b>0</b></span> en _**"countyValidation"**_.
 
 * Finalmente, haga clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 10). 
 
@@ -220,7 +220,7 @@ Al final del procedimiento anterior, podrá verá la nueva columna, _**"countyVa
 
 **6.4. Validación de los departamentos**
 
-Repita el paso 6.3. para la validación del departamento. En este caso, escriba <span class="tag is-light"><b>stateProvinceValidation</b></span> como nombre de la columna de validación. Después, utilice el siguiente comando (Fig. 12): <span class="tag is-light"><b>if( "stateProvince"  =  "suggestedS" ,'1',if("stateProvince" is null, '','0'))</b></span>.
+Repita el paso 6.3. para la validación del departamento. En este caso, escriba <span class="tag is-light"><b>stateProvinceValidation</b></span> como nombre de la columna de validación. Después, utilice el siguiente comando (Fig. 12): <code>if( "stateProvince"  =  "suggestedS" ,'1',if("stateProvince" is null, '','0'))</code>.
    
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig12_validQGIS_CalculadoraSP.PNG" width=600>
 
