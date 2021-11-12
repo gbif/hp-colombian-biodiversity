@@ -1,78 +1,445 @@
 ---
-title:  "Expedición Histórica por la Biodiversidad: fortaleciendo las colecciones biológicas del país"
-date:   2018-06-21
-categories: ["Convocatorias", "CvLAC","2021"]
-background: /assets/images/noticias_eventos/Post_carlos_fajardo/expedhistorica.jpg
+layout: compose
+title: Taller Calidad de datos + biodiversidad
+description: Buenas prácticas para mejores publicaciones.
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/17140412/large.jpeg?1525147267 #
+imageLicense: |
+   _Marchantia polymorpha_ Fotografía de: teodoro_chivatabedoya vía [iNaturalist](https://colombia.inaturalist.org/observations/11967283)
+toc: true 
+height: 41vh
+composition:
+- type: heroImage
+- type: pageMarkdown
 
 ---
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FSibColombia%2Fvideos%2F1724641887629842%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+# PRESENTACIÓN
 
-Fecha: 21 de junio
-Hora: 4:00pm a 5:30pm
-Lugar: Café Ambiental, Pabellón 4, Corferias.
+El taller **Calidad de datos + biodiversidad** busca compartir con la comunidad científica y profesional las buenas prácticas que facilitan el manejo y la gestión de información y datos sobre biodiversidad para su publicación, acceso y uso; siempre de manera gratuita y libre, como parte de la filosofía de trabajo del **SiB Colombia**.
 
-El Sistema Información sobre Biodiversidad de Colombia – SiB Colombia, en alianza con Colciencias, dio inicio en el año 2016 a un proceso de fortalecimiento a colecciones biológicas dentro del proyecto Colombia BIO llamado Expedición Histórica por la Biodiversidad. Esta es una gran oportunidad para conocer los pormenores de este proceso y conocer sus resultados.
 
-El conversatorio tendrá tres momentos:
+<img src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_logos.png" width=770>
 
-Gestión y publicación de datos.
-Giras de Especialistas.
-Listas de Especies.
-A continuación encontrarás la información sobre los panelistas y moderadores que participarán en este conversatorio.
+<img src="/assets/images/noticias_eventos/CESP_DQ_header_web-1280x400.jpg" width=770>
 
-¡Participa!
+## Contexto
 
-# Gestión y publicación de datos
+Los especialistas en datos, investigadores y tomadores de decisiones resaltan de manera frecuente la calidad de los datos como una prioridad para garantizar su uso en la generación de nuevo conocimiento, la conservación y el uso sostenible de la biodiversidad y sus servicios ecosistémicos.
+
+**Casi todos los datos pueden ser refinados o mejorados**, este taller busca mejorar las capacidades y difundir las buenas prácticas que pueden ser aplicadas en diferentes etapas del flujo de trabajo con datos sobre biodiversidad.
+
+Iniciará con conceptos generales sobre qué es la calidad de datos sobre biodiversidad, pasando por su aplicación en procesos tempranos como la toma de datos y la digitalización, para finalizar en procesos de publicación a través de plataformas de acceso abierto como GBIF y de repatriación de los mismos a nivel nacional.
+
+Este taller es posible gracias al proyecto [GBIF CESP2020-018](https://www.gbif.org/es/project/5JJH6ZKCjztKrqT50OAadQ/mejorando-la-calidad-de-datos-sobre-biodiversidad-en-latinoamerica-documentacion-de-buenas-practicas-para-los-flujos-de-trabajo-y-ciclos-de-vida-de-los-datos){:target="_blank"}.
+
+## Objetivo
+
+**Mejorar las capacidades de trabajo con datos sobre biodiversidad** y compartir las buenas prácticas que pueden ser aplicadas en las diferentes etapas del flujo de trabajo.
+
+## Dirigido a
+
+Este taller abarca desde contenidos básicos sobre la calidad de datos de biodiversidad hasta ejercicios prácticos con el uso de herramientas.
+
+En ese sentido, **va dirigido a profesionales y estudiantes de habla hispana** que trabajan con datos sobre biodiversidad en sus diferentes etapas: recolección, digitalización, publicación o uso, y que tienen un conocimiento base sobre estándares de datos sobre biodiversidad y el modelo de publicación de estos a través de GBIF.
+
+# METODOLOGÍA
+
+## Metodología de trabajo
+
+Este taller contiene una serie de capítulos en línea que contempla seminarios enfocados en las buenas prácticas para mejorar la calidad de datos sobre biodiversidad, y espacios para responder las inquietudes para su aplicación en casos reales (Consultorio de Calidad de Datos). El desarrollo de los contenidos **se realizará en la modalidad e-learning a través de la plataforma Zoom con streaming a través de Youtube** para los seminarios.
+
+En el Consultorio de Calidad de Datos los participantes tendrán una oportunidad única de compartir sus inquietudes adicionales sobre la implementación de estas buenas prácticas en su trabajo y exponer sus casos reales para recibir orientación y recomendaciones de los facilitadores.
+
+
+## Certificados
+
+Un certificado del taller confirma que los asistentes han participado del 100% de los seminarios y consultorio de calidad de datos. No se proporcionan certificados para una participación parcial o que no se realice bajo la metodología establecida para cada sesión.
+
+En la primera semana se estima una **dedicación de al menos 18 horas**, de las cuales 15 estarán concentradas en los seminarios y  tres para el Consultorio de Calidad de Datos.
+
+# REQUISITOS
+
+## Materiales
+
+Todos los materiales de apoyo para el curso estarán disponibles para su consulta y descarga. Entre estos estarán:
+
+1. Librería Zotero con las referencias bibliográficas usadas.
+2. Grabaciones de los seminarios.
+3. Presentaciones de los seminarios.
+4. Consolidado de preguntas y respuestas de cada sesión.
+
+## Prerrequisitos
+
+1. Curso en línea “Introducción a GBIF”. Disponible [aquí](https://docs.gbif.org/course-introduction-to-gbif/es/index.es.html){:target="_blank"}.
+
+2. Algunos de los cursos ofrecidos presencial o virtualmente por los nodos de GBIF sobre estándares y publicación de datos. Aquí algunos de estos:
+    * **Argentina**: *[Tackling the spatial challenge in the Southern Cone through georeferencing training](https://www.gbif.org/project/65NXZ9iEW2vkaZm6ZjF6w4/tackling-the-spatial-challenge-in-the-southern-cone-through-georeferencing-training){:target="_blank"}*, Calidad de Datos de Biodiversidad y su Publicación.
+
+    * **Chile**: *[Establishing a national node for Chile to enhance Latin America regional capacity](https://www.gbif.org/project/83351/establishing-a-national-node-for-chile-to-enhance-latin-america-regional-capacity){:target="_blank"}*.
+
+    * **Colombia**: *[Gestión y publicación de datos](https://biodiversidad.co/comunidad/formacion)*.
+
+    * **México**: *[Proceso de gestión de información de registros de presencia de especies del SNIB (Sistema Nacional de Información sobre Biodiversidad)](https://www.snib.mx/ejemplares/proceso/){:target="_blank"}*.
+
+    * **GBIF.ES**: *[Planes anuales de formación](https://www.gbif.es/wp-content/uploads/2020/01/Historico-Planes-Anuales-Formacion.pdf){:target="_blank"}*.
+
+3. Para aprovechar al máximo las actividades de este curso, los participantes deben poseer las siguientes habilidades y conocimientos:
+
+    *  Competencias básicas en el uso de computadores e Internet y, en particular, en el uso de hojas de cálculo.
+
+    *  Conocimientos básicos sobre el estándar [Darwin Core](https://dwc.tdwg.org/){:target="_blank"} y publicación de datos a través de GBIF.
+
+    * Disposición para difundir el conocimiento aprendido en el taller con otras personas de su entorno profesional o académico, adaptando los materiales de capacitación, manteniendo su valor instructivo.
+
+# CALENDARIO
+
+## Fechas generales
+
+**20 de agosto**: Publicación de la convocatoria.
+
+**19 de septiembre**: Cierre de la convocatoria.
+
+**15 de octubre**: Anuncio de los participantes seleccionados (La fecha fue actualizada debido a que el cierre de la convocatoria fue extendido una semana).
+
+**8 de noviembre**: Inicio del taller.
+
+**16 de noviembre**: Finalización del taller.
+
+## Seminarios
+
+**Lunes 8 de noviembre**  
+*8:00 a.m. a 10:30 a.m.* (COT)  
+Introducción a la calidad de datos, principios generales
+
+**Martes 9 de noviembre**  
+*8:00 a.m. a 9:15 a.m.* (COT)  
+BBPP para la toma de datos: planificación
+
+*9:15 a.m. a 10:30 a.m.*
+BBPP para la digitalización y almacenamiento de datos
+
+**Miércoles 10 de noviembre**  
+*8:00 a.m. a 9:15 a.m.* (COT)  
+BBPP para la documentación de información geográfica
+
+*9:15 a.m. a 10:30 a.m.* (COT)  
+BBPP para la documentación de metadatos
+
+**Jueves 11 de noviembre**  
+*8:00 a.m. a 9:15 a.m.* (COT)  
+BBPP para la publicación y actualización de datos (GBIF-OBIS)
+
+*9:15 a.m. a 10:30 a.m.* (COT)  
+BBPP para la repatriación de datos
+
+**Viernes 12 de noviembre**  
+*8:00 a.m. a 9:15 a.m.* (COT)  
+Evaluación y limpieza de datos 1/2
+
+*9:15 a.m. a 10:30 a.m.* (COT)  
+Evaluación y limpieza de datos 1/2
+
+## Consultorio de Calidad de Datos
+
+**Martes 16 de noviembre**  
+*8:00 a.m. a 9:00 a.m.* (COT)  
+Consultorio de Calidad de Datos
+
+*9:00 a.m. a 11:00 a.m.* (COT)  
+3 sesiones en simultánea/casos priorizados  
+
+*COT: hora Colombia
+
+# PROGRAMA 
+
+## Seminarios recomendados previos al taller
+
+Para obtener el máximo beneficio de los seminarios de este taller, se recomienda que cada participante realice previamente una actualización de sus conocimientos en tipos de datos sobre biodiversidad, estándares y modelos de publicación de estos en plataformas globales.
+
+**Tipos de datos:**
+
+---
+
+<details>
+  <summary markdown="span">Eventos de muestreo: ¿cómo publicarlos usando el estándar Darwin Core? [11min, EN]
+
+</summary>
+
+<iframe src="https://player.vimeo.com/video/438251559?h=726bcb4988" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/438251559">Biodiversity data origins and types</a> from <a href="https://vimeo.com/gbif">GBIF</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+  
+</details>
+
+---
+
+<details>
+  <summary markdown="span">¿Qué datos sobre nuestra biodiversidad se pueden publicar a través del SiB Colombia? [43min, ES]
+
+
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_f4gGfIBN3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+
+**Estándares para datos sobre biodiversidad:**
+
+---
+
+<details>
+  <summary markdown="span">Estándares para la información sobre biodiversidad Intro [8 min, ES]
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Y2KgUDag2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+
+<details>
+  <summary markdown="span">Estándares para la información sobre biodiversidad DarwinCore [16 min, ES]
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a01GktP0M_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+
+---
+<details>
+  <summary markdown="span">Biodiversity Data Standards - Biodiversity Data Mobilization Training in Haiti [120min, EN]
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ub4-uoHXgmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+
+<details>
+  <summary markdown="span">Aprendiendo un nuevo idioma, Darwin Core [43min, ES]
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nYGu8KY_K6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+<details>
+  <summary markdown="span">Eventos de muestreo: ¿cómo publicarlos usando el estándar Darwin Core? [60min, ES]
+
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gC2WCfeuZxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+
+
+
+**El modelo de publicación de datos de GBIF:**
+
+---
+
+<details>
+  <summary markdown="span">Data Publishing Workflow in the GBIF Network - Biodiversity Data Mobilization Training in Haiti [70min, EN]
+
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1owq-crpCuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+
+<details>
+  <summary markdown="span">Crear, compartir, transformar: ¿Cómo publicar a través del SiB Colombia? [60min, ES]
+
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q83XpNQwyEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+
+**Sobre el modelo de publicación de datos de OBIS:**
+
+---
+
+<details>
+  <summary markdown="span">OBIS Colombia: publicación y acceso a datos sobre biodiversidad marina. [60min, ES]
+
+
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kc68nwBVSRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+
+*Otros videos generales:*
+
+**Sobre GBIF:**
+
+---
+
+<details>
+  <summary markdown="span">GBIF: La biblioteca de la vida
+  [3min, ES]
+
+
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kc68nwBVSRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+
+**Sobre OBIS:**
+
+---
+
+<details>
+  <summary markdown="span">OBIS - GBIF introduction 5min, EN]
+
+
+
+</summary>
+
+<iframe src="https://player.vimeo.com/video/566605276?h=2912862cf9" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/566605276">OBIS - GBIF introduction</a> from <a href="https://vimeo.com/gbif">GBIF</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+  
+</details>
+
+---
+
+<details>
+  <summary markdown="span">Introduction to the Ocean Biodiversity Information System (OBIS) [2min, EN subtitulado]
+
+
+
+</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E6NblAC-1uE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+</details>
+
+---
+
+<details>
+  <summary markdown="span">OBIS and GBIF commonalities and differences [4min, EN]
+
+
+
+</summary>
+
+<iframe src="https://player.vimeo.com/video/566605186?h=142060f51e" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/566605186">OBIS and GBIF commonalities and differences</a> from <a href="https://vimeo.com/gbif">GBIF</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+  
+</details>
+
+---
+
+## Programa
+Los seminarios serán de 75 minutos cada uno, con 15 minutos para preguntas.
+
+**01 – Introducción a la calidad de datos, principios generales**
+
+- **Descripción**: Definición de conceptos básicos: calidad de datos, fitness for use. Problemas y limitantes comunes. Recomendaciones generales.  
+    
+- **Ponentes**: Anabela Plos & Dairo Escobar.
+
+**02 – Buenas prácticas para la toma de datos: planificación** 
+
+- **Descripción**: Flujo de datos y pasos deseables para evitar pérdida de calidad en los datos. Sugerencias de planificación.
+- **Ponentes**: Anabela Plos.
+
+**03 – Buenas prácticas para la digitalización y almacenamiento de datos**  
+
+- **Descripción**: Importancia del diseño de la interfaz de documentación de datos y la necesidad de crear capacidad en los responsables de la transcripción y digitalización.
+- **Ponentes**: Dairo Escobar.
+
+**04 – Buenas prácticas para la documentación de información geográfica**
+
+- **Descripción**: Importancia de la información geográfica para el uso de datos de biodiversidad. Datos geográficos mínimos y elementos de una buena georreferenciación. Tipos y descripción de localidades, coordenadas, sistemas de referencia e incerteza asociada a una georreferencia. Otros elementos: elevación, profundidad. Errores comunes, cómo evitarlos y cómo repararlos.
+- **Ponentes**: Paula Zermoglio.
+
+**05 – Buenas prácticas para la documentación de metadatos**
+
+- **Descripción**: Importancia del contexto de los datos para su publicación, recuperación y uso.
+- **Ponentes**: Diana Hernández.
+
+**06 – Buenas prácticas para la publicación y actualización de datos (GBIF-OBIS)**
+
+- **Descripción**: Importancia de un modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través de sistemas de información.
+- **Ponentes**: Camila Plata.
+
+**07 – Buenas prácticas para la repatriación de datos**
+
+- **Descripción**: Integración de datos desde fuentes externas para la consolidación de información sobre biodiversidad.
+- **Ponentes**: Liliana Lara.
+
+**08 – Evaluación y limpieza de datos 1/2**
+
+- **Descripción**: Flujo de evaluación y limpieza. Herramientas para la limpieza de datos. Herramientas para chequeo de formato y fechas. Herramientas para limpieza de datos geográficos. Herramientas para la limpieza de datos taxonómicos. Uso del GBIF Data Validator.
+- **Ponentes**: Paula Zermoglio & Camila Plata.
+
+**09 – Evaluación y limpieza de datos 2/2**
+
+- **Descripción**: Uso de OpenRefine para la limpieza de datos: funciones básicas.
+- **Ponentes**: Paula Zermoglio & Camila Plata.
+
+**Consultorio de Calidad de Datos**
+
+- **Descripción**: (máx. 3 horas) Tenemos que hablar… con un panel conformado por los facilitadores del taller se abordarán algunos de los casos reales documentados por los participantes respecto la implementación de estas buenas prácticas en su trabajo, generando discusión, orientación y recomendaciones.
+- **Facilitadores**: Todos los facilitadores.
+
+# FACILITADORES
 
 |           |            |
 |-----------|------------| 
-|<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/Post_carlos_fajardo/fotos_exphistorica%20%20(4).png"></figure> | **Nortys Jaramillo:** Actualmente apoya los procesos investigativos, curatoriales, administrativos y educativos del Museo Entomológica de Piedras Blancas, Comfenalco – Antioquia. Bióloga, egresada de la Universidad de Antioquia, Especialista en Gestión Ambiental. Durante su formación participó en algunos trabajos investigativos, actualización de material pedagógico y se ha desempeñado como consultor externo. Su actual trabajo le ha permitido, no sólo aportar a la investigación de uno de los grupos animales más diversos y poco estudiados del país; sino también, transmitir parte de sus conocimientos, de una manera comprensible, a diferentes comunidades para que se apropien de sus recursos naturales y vean a la naturaleza como funcional y aliada para su desarrollo socio – cultural y económico.|
-|<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/Post_carlos_fajardo/fotos_exphistorica%20%20(1).png"></figure> |**Jaider Manuel Peña:** Biólogo de la Universidad del Tolima, con maestría en ciencias biológicas de la misma universidad. Desde su pregrado estuvo relacionado con el grupo de investigación de zoología, y sus trabajos con mariposas diurnas han sido muy valiosos para el área de macroinvertebrados de la colección. Es el principal encargado del ingreso de material nuevo y de la base de datos, entre otras.|
-|<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/Post_carlos_fajardo/fotos_exphistorica%20%20(3).png"></figure> |**Luis Miguel Álvarez:** Biólogo de la Universidad del Tolima, con maestría en ciencias biológicas de la misma universidad. Desde su pregrado estuvo relacionado con el grupo de investigación de zoología, y sus trabajos con mariposas diurnas han sido muy valiosos para el área de macroinvertebrados de la colección. Es el principal encargado del ingreso de material nuevo y de la base de datos, entre otras..| 
-|<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/Post_carlos_fajardo/fotos_exphistorica%20%20(0).png"></figure> |**Leonardo Buitrago:** Licenciado en Biología, especialista en Sistemas de Información Geográfica (SIG). Vasta experiencia en ampliar el conocimiento sobre la biodiversidad colombiana y promover el acceso abierto a datos e información a escala nacional y global. Especialista en herpetofauna en Colombia. Desde hace 4 años forma parte del equipo del SiB Colombia donde se ha enfocado en informática de la biodiversidad. Actualmente lidera la línea de Administración de Contenidos del SiB Colombia y ejerce paralelamente el rol como administrador del nodo GBIF-Colombia y como suplente regional de GBIF para Latinoamérica y el Caribe.| 
-|<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/Post_carlos_fajardo/fotos_exphistorica%20%20(5).png"></figure> |**Claudia Villa, moderadora:** Comunicadora social organizacional, con especialización en recursos publicitarios y maestría en filosofía. Durante seis años trabajó en promoción y prevención de salud y ha estado vinculada al Sina desde 2000 a la fecha. Está vinculada al Instituto Humboldt desde hace quince años y en la actualidad es la coordinadora de Fortalecimiento de Capacidades.|
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_AnabellaPlos.jpg"></figure> |**Anabela Plos:** Licenciada y doctora en Ciencias Biológicas de la Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata (Argentina). Realizó su postdoctorado en el Museo de La Plata (Argentina) y el New York Botanical Garden (Estados Unidos). Administradora del Nodo Argentino de GBIF y miembro del Consejo Asesor del Sistema Nacional de Datos Biológicos (SNDB-MinCyT, Argentina). Representante Regional de Nodos de Latinoamérica y el Caribe de GBIF. Mentora en el programa BID para el Caribe (Biodiversity Information for Development). Áreas de formación: sistemática, taxonomía, SIG, conservación y digitalización de colecciones. Intereses: Ciencia ciudadana, datos abiertos, entre otros.|
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_CamilaPlata%20(1).jpg"></figure> |**Camila Plata:** Bióloga e ingeniera ambiental de formación con una maestría en Biología Evolutiva. Desde el SiB Colombia lidera la línea de Administración de Contenidos asegurando que los datos publicados a través del sistema sean de la mejor calidad para ser utilizados en investigación y toma de decisiones, además de liderar procesos de análisis y síntesis de cifras.|
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_DairoEscobar%20(1).jpg"></figure> |**Dairo Escobar:** Biólogo de formación con una maestría en ciencias biológicas con experiencia en el campo de la informática de la biodiversidad y datos abiertos, consolidando sistemas y redes de información a escala país que faciliten el acceso libre a datos sobre biodiversidad para la investigación, la educación y toma de decisiones. En su posición actual coordina el Sistema de Información sobre Biodiversidad de Colombia y el nodo GBIF para el país.| 
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_PaulaZermoglio.jpg"></figure> |**Paula Zermoglio:** Doctora en ciencias biológicas de la Universidad de Buenos Aires y de la Universidad de Tours, Francia. Su área de estudio es la ecología de insectos, y está llevando a cabo un postdoctorado en el Instituto de Ecología, Genética y Evolución de Buenos Aires (IEGEBA, CONICET-UBA) y en el Instituto de Investigaciones en Recursos Naturales, Agroecología y Desarrollo Rural (IRNAD, CONICET-UNRN), evaluando el efecto de la ganadería holística sobre la entomofauna en Patagonia. Sus intereses incluyen además el intercambio de datos de biodiversidad, el desarrollo de estándares de datos y la evaluación y mejoramiento de la calidad de los datos. Participa activamente en la comunidad del Global Biodiversity Information Facility (GBIF) como mentora y a través de diversos proyectos. Ha organizado y dictado diversas capacitaciones en movilización, estándares y calidad de datos y georreferenciación. Paula es representante regional en el comité ejecutivo del Biodiversity Information Standards (TDWG), donde trabaja en el desarrollo de estándares de datos.| 
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_LilianaLara.jpg"></figure> |**Liliana Lara:** Bióloga y maestra en ciencias egresada de la Facultad de Ciencias de la Universidad Nacional Autónoma de México. El grupo de trabajo que coordina, centra sus actividades en el análisis y desarrollo de procesos de control de calidad de los datos obtenidos a partir de los proyectos que son apoyados por la CONABIO y que integran la información de especímenes recolectados u observados principalmente en el territorio nacional. Esta información es la columna vertebral del Sistema Nacional de Información sobre Biodiversidad (SNIB), cuya instrumentación, operación y actualización corresponde a una de las funciones principales de la CONABIO, como lo establece el artículo 80, fracción V de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.|
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_DianaHernandez.jpg"></figure> |**Diana Hernández:** Bióloga egresada de la Facultad de Estudios Superiores Zaragoza, Universidad Nacional Autónoma de México (UNAM). Maestra en Ciencias en Biología Marina por el Instituto de Ciencias del Mar y Limnología de la UNAM con taxonomía y ecología de tanaidáceos (Crustacea) de mar profundo del Golfo de México. Ha trabajado más de 15 años en la CONABIO compilando información de biodiversidad de invertebrados marinos. Desde 2011 está a cargo de la Subcoordinación de Catálogos de Autoridades Taxonómicas y dentro de sus principales funciones está la planeación estratégica del desarrollo y actualización del catálogo taxonómico de especies de flora y fauna de México, coordinando un equipo de trabajo de taxónomos mediante desarrollo de proyectos, asesorías o estancias postdoctorales financiados por la CONABIO. Ha coordinado talleres, simposios y reuniones técnicas con taxónomos especialistas en distintos grupos biológicos. Forma parte del grupo técnico de trabajo del Sistema Nacional de Información sobre Biodiversidad (SNIB). Recientemente designada como staff del Nodo GBIF de México y como Punto Focal Nacional para la Global Taxonomy Iniciative. Ha sido profesora de la Carrera de Biología de la Facultad de Ciencias de la UNAM.|
 
-# Giras de Especialistas
-|           |            |
-|-----------|------------| 
-|<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/Post_carlos_fajardo/fotos_exphistorica%20%20(7).png"></figure> |**Mauricio Rivera:** Profesor de la Universidad de Antioquia e investigador asociado del Grupo Herpetológico de Antioquia y además soy el actual presidente de la Asociación Colombiana de Herpetología. Mis intereses se centran en biodiversidad, evolución y sistemática de anfibios neotropicales y su conexión directa con conservación biológica.|
-|<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/Post_carlos_fajardo/fotos_exphistorica%20%20(14).png"></figure> |**Juliana Cardona:** Bióloga de la Universidad de Antioquia con maestría en biología de la Universidad de Puerto Rico. Coordinadora de la Colecciones Biológicas de la Universidad CES. Está particularmente interesada en la diversidad de coleópteros, especialmente de las familias Curculionidae y Cerambycidae. Actualmente trabaja en interacciones de polinización entre insectos y algunos grupos de plantas.|
-|<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/Post_carlos_fajardo/fotos_exphistorica%20%20(15).png"></figure> |**Jhon Cesar Neita:** Curador de la Colección Entomológica del Instituto Humboldt. Ingeniero Agroforestal formado como entomólogo especialista en la superfamilia Scarabaeoidea (Coleoptera). Basado en ello trabajó durante sus estudios de Magister en Ciencias-Entomología la taxonomía y distribución de los estados inmaduros de la familia Melolonthidae (Coleoptera: Scarabaeoidea) asociado a cinco cultivos de importancia agrícola en Cundinamarca, Colombia en la Universidad Nacional de Colombia, Bogotá. Posteriormente realizó estudios de Doctorado en Ciencias Naturales-Universidad Nacional de La Plata, La Plata, Buenos Aires, Argentina en donde realizó el estudio taxonómico, filogenético, patrones de distribución y biogeografía de la subfamilia Allidiostomatinae (Coleoptera: Scarabaeidae: Scarabaeoidea).| 
-|<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/Post_carlos_fajardo/fotos_exphistorica%20%20(8).png"></figure> |**Enrique Rentería:** Director general del Jardín Botánico Joaudo – Chocó. Biólogo de la Universidad de Antioquia fue profesor e investigador de la Universidades UIS, UdeA y UTCH, en donde creó los semilleros y grupos de investigación de estas Universidades. Ha sido designado como curador honorario del Missouri Botanical Garden, recibió el premio Nacional de Ciencias, 1981,como parte del Grupo de Química Orgánica de Productos Naturales, por la Fundación Alejandro Ángel Escobar. Responsable de la Investigación de la red nacional de los Jardines Botánicos Colombianos. Creador del herbario de la Universidad Industrial de Santander (1978), Creador de la Asociación de Biólogos Colombianos(ABC) y Presidente, y fundador de la Fundación Selva-Chocó| 
-|<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/Post_carlos_fajardo/fotos_exphistorica%20%20(13).png"></figure> |**Fredy Molano:** Biólogo con énfasis en entomología de la Universidad del Valle, con maestría en entomología de la Universidad de Panamá. Desde 2006 se desempeña como docente universitario en la UPTC, en Tunja. Ha desarrollado diversos trabajos de investigación relacionados con la entomología, y actualmente trabaja en uno chinches patinadores neotropicales (Hemiptera: Gerromorpha).|
-|<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/Post_carlos_fajardo/fotos_exphistorica%20%20(2).png"></figure> |**Andrea Lorena García:** Directora del Centro de Estudios e Investigaciones en Biodiversidad y Biotecnología (CIBUQ), Curadora del Museo de Artrópodos (MAUQ). Es Magíster en Ciencias- Entomología (2011) Universidad Nacional de Colombia – Sede Medellín. Bióloga (2003). Universidad del Quindío.|
-|<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/Post_carlos_fajardo/fotos_exphistorica%20%20(13).png"></figure> |**María Fernanda Gómez, moderadora:** Ha desarrollado investigación en las áreas de conservación y gestión de conocimiento sobre biodiversidad. Perteneció al grupo de investigación que elaboró el Libro Rojo de Aves de Colombia en el 2002 y fue coautora de la Reevaluación del Riesgo de Extinción de Aves para el país (2014), el cual tuvo como resultado tres productos editoriales. Como pasante de la UICN en Cambridge, adelanto procesos para la consolidación de una red regional para impulsar iniciativas de listas rojas en América Latina. Se desempeñó como líder de productos de información del Sistema de Información sobre Biodiversidad de Colombia. Fue autora y editora del Reporte de Estado y Tendencias de la Biodiversidad Continental de Colombia en sus versiones 2014 y 2015, así como de una guía de aves regional. Actualmente está vinculada al Instituto Humboldt desde la Subdirección de Investigaciones.|
-
-# Listas de Especies
-|           |            |
-|-----------|------------| 
-|<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/Post_carlos_fajardo/fotos_exphistorica%20%20(9).png"></figure> |**Carlos DoNacimiento:** Doctor en Ciencias (mención Zoología), Universidad Central de Venezuela. Desde hace 16 años desarrolla investigación en las áreas de sistemática, filogenia, biogeografía y conservación de peces de Sudamérica. Es especialista en sistemática de peces del orden Siluriformes (bagres). Igualmente su programa de investigación ha documentado la biodiversidad de peces troglobios (estrictamente cavernícolas), anuros endémicos de las cimas tepuyanas del escudo guayanés (género Oreoprhrynella), arácnidos del orden Opiliones (familias Agoristenidae y Stygnidae) y musarañas sorícidas (género Cryptotis) de los andes. Ha estado afiliado profesionalmente al Museo de Biología de la Universidad Central de Venezuela (Caracas, Venezuela), Museo de Historia Natural La Salle (Caracas), Academy of Natural Sciences (Filadelfia, EUA) y Universidad de Carabobo (Valencia, Venezuela).|
-|<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/Post_carlos_fajardo/fotos_exphistorica%20%20(10).png"></figure> |**Danny Urrego:** Conocida en la comunidad científica como Danny Zurc es Magister en Biología de la Universidad de Antioquia. Actual Curadora del Museo de Ciencias Naturales de La Salle desde el año 2009 y Presidente (e) de la Sociedad Colombiana de Mastozoología. Es Investigadora asociada del grupo de Mamíferos de la Universidad de Antioquia y Líder del Grupo de Investigación Artes y Humanidades del Instituto Tecnológico Metropolitano. Grupo Categoría A – Colciencias. Sus intereses en investigación han sido en taxonomía, sistemática y bioacústica de murciélagos; como también en el manejo y gestión de colecciones zoológicas. Ha participado en diferentes proyectos de investigación en convenio con instituciones nacionales e internacionales.|
-|<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/Post_carlos_fajardo/fotos_exphistorica%20%20(11).png"></figure> |**Javier Maldonado:** Nacido en el Valle de Ubaté, desde niño genero un vínculo especial con los ríos y los peces del Altiplano Cundiboyancese, el cual se consolido al graduarse como Ecólogo de la Pontificia Universidad Javeriana donde actualmente, se desempeña como profesor del Departamento de Biología de la facultad de Ciencias, promoviendo el estudio de los peces de agua dulce de la región Neotropical. Desarrolló estudios de doctorado en Zoología en el Museo Nacional de la Universidad Federal de Rio de Janeiro, experiencia que le permitió abrir nuevos horizontes investigativos. La evolución unida a la historia natural y la ecología han sido el marco académico para acercarse a este grupo excepcional de vertebrados. En palabras de él, “Colombia es un país de agua y por ende de peces”; esta condición, poco conocida por la mayoría de los colombianos, lo ha llevado a buscar nuevas formas de narrar el conocimiento científico generado en sus investigaciones y así promover una mayor conciencia al respecto, aportando a la conservación de los ecosistemas acuáticos colombianos y resaltado los estrechos vínculos económicos y culturales que existen entre los peces y las comunidades asentadas a lo largo y ancho de la extensa red hídrica colombiana.| 
-|<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/Post_carlos_fajardo/fotos_exphistorica%20%20(12).png"></figure> |**Enrique Rentería:** Miembro de ACICTIOS.| 
-|<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/CESP_DQ_DairoEscobar%20(1).jpg"></figure> |**Dairo Escobar, moderador:** Biólogo colombiano enfocado en informática de la biodiversidad y datos abiertos. Ha desarrollado investigaciones en la línea de biología evolutiva, sistemática filogenética molecular y conservación de especies marinas del Caribe y Pacífico colombiano. Durante los últimos 6 años sus intereses y trabajo se han enfocado en el desarrollo, implementación y uso de herramientas informáticas que faciliten la gestión de datos e información sobre biodiversidad a una escala de país bajos los principios del acceso abierto que garanticen una democratización del conocimiento. En su posición actual, coordina la secretaría técnica del SiB Colombia (EC-SiB)|
-
-[Más información sobre el FIMA](https://sibcolombia.net/fima-2018/){: .button .is-primary :}{:target="_blank"}
+---
 
 
-# Aliados
-+ Asociación Colombiana de Ictiólogos – Acictios
-+ Comfenalco
-+ Fundación Karisma
-+ Instituto de Investigación de Recursos Biológicos Alexander von Humboldt
-+ Investigación y la Preservación del Patrimonio Cultural y Natural del Valle del Cauca – INCIVA
-+ Lumon S.A.S
-+ Pontificia Universidad Javeriana
-+ Sociedad Colombiana de Mastozoología – SCMas
-+ Universidad Católica de Oriente
-+ Universidad CES
-+ Universidad de Antioquia
-+ Universidad de Caldas
-+ Universidad del Quindío
-+ Universidad del Tolima
-+ Universidad Nacional de Colombia – ICN
-+ Universidad Nacional de Colombia – sede Medellín
-+ Universidad Nacional de Colombia – sede Orinoquia
-+ Universidad Pedagógica y Tecnológica de Colombia
+# INSCRIPCIÓN
 
+## Cupos
+
+El taller contará con máximo 60 cupos.
+
+
+## Proceso de postulación y selección
+
+Para participar en el taller los postulantes deberán realizar los siguientes pasos:
+
+- Enviar el [formulario de aplicación](https://forms.gle/UthX7CSDRVQjaY4F9){:target="_blank"}. Es necesario ser explícito y detallado para facilitar la evaluación de su candidatura.
+
+- La selección de los participantes estará a cargo de un comité evaluador conformado por los nodos organizadores, que tendrá en cuenta los siguientes criterios:
+    - Experiencia del candidato con el manejo de datos sobre biodiversidad.
+
+    - Experiencia en la publicación de datos sobre biodiversidad (evidencia de publicaciones realizadas a través de GBIF).
+
+    - Capacidad de réplica de lo aprendido en el taller (evidencia de actividades de capacitación y divulgación previas, en el papel de expositor y facilitador).
+
+    - Potencial de aplicación de los conocimientos del taller en el mejoramiento de datos pre-existentes (evidencia de manejo de datos sobre biodiversidad, como curador o encargado).
+
+    - Potencial de publicación de nuevos datos a través de GBIF implementando los conocimientos del taller.
+
+    - Cumplimiento de los prerrequisitos establecidos.
+
+    - Representatividad de diferentes países y organizaciones hispanohablantes de Latinoamérica y el Caribe.
+
+A todos los participantes se les informará el resultado de la evaluación, vía correo electrónico, dentro de los plazos establecidos en el calendario de la convocatoria.
