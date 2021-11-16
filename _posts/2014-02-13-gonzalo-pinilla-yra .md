@@ -20,5 +20,5 @@ En una carta de apoyo al Comité Científico de GBIF, Lauren Raz, supervisora de
 Pinilla Buitrago fue nominado ante GBIF para postularse a este reconocimiento por el SiB Colombia.  
 
 Para mayor información contactar a [Juan Mauricio Benítez García](jbenitez@humboldt.org.co){:target="_blank"}
- del SiB Colombia o a [Sampreethi Aipanjiguly(saipanjiguly@gbif.org){:target="_blank"}
+ del SiB Colombia o a [Sampreethi Aipanjiguly](saipanjiguly@gbif.org){:target="_blank"}
  de la Secretaría de GBIF.   
