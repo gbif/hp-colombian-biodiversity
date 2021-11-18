@@ -9,6 +9,18 @@ height: 41vh
 toc: true
 ---
 
+<table style="border:none;">
+<tbody>
+<tr>
+<td style="background-color: #f1f1f1; padding: 20px; border: solid 1px gray;">
+<p style="color: red; text-align: center;"><strong>Aviso importante</strong></p>
+<p style="color: red; text-align: center;">Hasta el viernes 19 de noviembre est&aacute; abierta la recepci&oacute;n de solicitudes para publicaci&oacute;n de datos en el presente a&ntilde;o. Las solicitudes hechas despu&eacute;s de esta fecha entrar&aacute;n al proceso de acompa&ntilde;amiento habitual, con la novedad de que la publicaci&oacute;n de los datos se har&aacute; a inicio de 2022.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+
 Los datos e información sobre la biodiversidad de nuestro país son complejos y contienen información taxonómica, geográfica e histórica única, recopilada durante años por científicos, investigadores a través de observaciones o colectas. Esta información es crucial para el correcto entendimiento y gestión de la biodiversidad y los ecosistemas, pero no siempre es fácilmente accesible, o se presenta en formatos que dificultan su interpretación y la interoperabilidad entre distintas fuentes. Actualmente, las organizaciones públicas y privadas quieren gestionar esta información aprovechando los avances tecnológicos, que hoy en día, nos permiten a todos contribuir al conocimiento de nuestra biodiversidad, facilitando de esta manera unas conexiones más robustas entre toda la información.
 
 El SiB Colombia facilita la publicación de [tres clases de conjuntos de datos](/compartir/tiposdedatos), entre otros tipos de información, usando [estándares](/compartir/estandares) internacionales para datos sobre biodiversidad ampliamente aceptados.
