@@ -63,7 +63,7 @@ destacados:
     - preTitle:  Ciclo de formación 2021
       title:  OpenRefine
       description: |      # required
-          9 y 10 de diciembre de 13:00 a 14:30, taller del programa para limpieza de datos OpenRefine.
+          Taller del programa para limpieza de datos OpenRefine, 9 y 10 de diciembre.
       # img required
       background: /assets/images/landing_page/tallerOpenRefine_202111.png
       cta:
