@@ -53,13 +53,24 @@ destacados:
     - preTitle:  Formación
       title: Pasantías 2022-1
       description: |      # required
-       Oportunidad para que estudiantes de pregrado desarrollen su pasantía en el SiB Colombia.
+       Convocatoria para que estudiantes de pregrado desarrollen su pasantía con nosotros.
       # img required
       background: https://thumbnails.production.thenounproject.com/B09K3CvSI_BVMnT4iazY1Orb_kY=/fit-in/1000x1000/photos.production.thenounproject.com/photos/1AF7393A-F70B-4C96-96E1-CB9E19DF0A3F.jpg
       cta:
       - text: Oportunidades
         href: /post/2021/pasantias-2022-1/
         isPrimary: false
+        
+    - preTitle:  Red SiB Colombia
+      title: Alianza sector empresarial
+      description: |      # required
+       Un aporte del sector empresarial al conocimiento de la biodiversidad.
+      # img required
+      background: /assets/images/landing_page/imgDest_Andi.jpg
+      cta:
+      - text: Ver más
+        href: /acercade/aliados/andi
+        isPrimary: false      
         
     - preTitle:  Ciclo de formación 2021
       title:  OpenRefine
@@ -72,16 +83,7 @@ destacados:
         href: https://forms.gle/br7fQKtLJqz2cnNHA
         isPrimary: false   
         
-    - preTitle:  Red SiB Colombia
-      title: Alianza sector empresarial
-      description: |      # required
-       Un aporte del sector empresarial al conocimiento de la biodiversidad.
-      # img required
-      background: /assets/images/landing_page/imgDest_Andi.jpg
-      cta:
-      - text: Ver más
-        href: /acercade/aliados/andi
-        isPrimary: false
+
 
       
    
