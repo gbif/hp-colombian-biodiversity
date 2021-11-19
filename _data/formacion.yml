@@ -43,8 +43,8 @@ tarjetasFormacion:
       - text: Programa
         href: /comunidad/formacion/programapasantias
         isPrimary: true
-      #- text: Oportunidades
-      # href: /post/2021/pasantias-2021-2/
+      - text: Oportunidades
+        href: /post/2021/pasantias-2022-2/
         
       
       
