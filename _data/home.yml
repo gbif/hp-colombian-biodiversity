@@ -84,17 +84,6 @@ destacados:
         isPrimary: false
         
    
-    #- preTitle:  Convocatorias
-     # title: Reconocimiento SNCTI
-      #description: |      # required
-           Guía para incorporar productos SiB Colombia en el CvLac.
-      # img required
-     # background: /assets/images/landing_page/imgDest_MinCiencias.jpg
-     # cta:
-     # - text: Ver más
-      #  href: /post/2021/convocatoria-nacional-medicion-grupos-cvlac-sib/
-      #  isPrimary: false
-    
 
 splitAnuncioAcompañamientos:
   reverse: true
@@ -150,4 +139,15 @@ productExample:
   # img required
   background: /assets/img/product-right.png
 
-    
+
+#
+    #- preTitle:  Convocatorias
+     # title: Reconocimiento SNCTI
+      #description: |      # required
+           Guía para incorporar productos SiB Colombia en el CvLac.
+      # img required
+     # background: /assets/images/landing_page/imgDest_MinCiencias.jpg
+     # cta:
+     # - text: Ver más
+      #  href: /post/2021/convocatoria-nacional-medicion-grupos-cvlac-sib/
+      #  isPrimary: false
