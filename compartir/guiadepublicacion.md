@@ -9,17 +9,7 @@ height: 41vh
 toc: true
 ---
 
-<table style="border:none;">
-<tbody>
-<tr>
-<td style="background-color: #f1f1f1; padding: 20px; border: solid 1px gray;">
-<p style="color: red; text-align: center;"><strong>Aviso importante</strong></p>
-<p style="color: red; text-align: center;">Hasta el viernes 19 de noviembre est&aacute; abierta la recepci&oacute;n de solicitudes para publicaci&oacute;n de datos en el presente a&ntilde;o. Las solicitudes hechas despu&eacute;s de esta fecha entrar&aacute;n al proceso de acompa&ntilde;amiento habitual, con la novedad de que la publicaci&oacute;n de los datos se har&aacute; a inicio de 2022.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+
 
 <div class="notification is-danger is-light">
   <strong>Aviso Importante.</strong> <br> Hasta el viernes 19 de noviembre está abierta la recepción de solicitudes para publicación de datos en el presente año. Las solicitudes hechas después de esta fecha entrarán al proceso de acompañamiento habitual, con la novedad de que la publicación de los datos se hará a inicio de 2022.
