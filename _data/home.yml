@@ -49,6 +49,18 @@ estadisticas:
 #cards
 destacados:
   features:
+  
+    - preTitle:  Formación
+      title: Pasantías 2022-1
+      description: |      # required
+       Oportunidad para que estudiantes de pregrado desarrollen su pasantía en el SiB Colombia.
+      # img required
+      background: /assets/images/landing_page/imgDest_Andi.jpg
+      cta:
+      - text: Oportunidades
+        href: /post/2021/pasantias-2022-1/
+        isPrimary: false
+        
     - preTitle:  Red SiB Colombia
       title: Alianza sector empresarial
       description: |      # required
@@ -72,16 +84,16 @@ destacados:
         isPrimary: false
         
    
-    - preTitle:  Convocatorias
-      title: Reconocimiento SNCTI
-      description: |      # required
+    #- preTitle:  Convocatorias
+     # title: Reconocimiento SNCTI
+      #description: |      # required
            Guía para incorporar productos SiB Colombia en el CvLac.
       # img required
-      background: /assets/images/landing_page/imgDest_MinCiencias.jpg
-      cta:
-      - text: Ver más
-        href: /post/2021/convocatoria-nacional-medicion-grupos-cvlac-sib/
-        isPrimary: false
+     # background: /assets/images/landing_page/imgDest_MinCiencias.jpg
+     # cta:
+     # - text: Ver más
+      #  href: /post/2021/convocatoria-nacional-medicion-grupos-cvlac-sib/
+      #  isPrimary: false
     
 
 splitAnuncioAcompañamientos:
