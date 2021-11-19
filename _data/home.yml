@@ -61,14 +61,14 @@ destacados:
         isPrimary: false
 
     - preTitle:  Ciclo de formación 2021
-      title:  Biovirtual
+      title:  OpenRefine
       description: |      # required
-          Ecosistema de productos y servicios de información sobre biodiversidad.
+          Taller teórico-práctico del programa para limpieza de datos OpenRefine.
       # img required
-      background: /assets/images/landing_page/imgDest_Biovirtual.png
+      background: /assets/images/landing_page/tallerOpenRefine_202111.png
       cta:
       - text: Inscribirse
-        href: https://humboldt-org-co.zoom.us/webinar/register/WN_fsc8vZqhT0W4xESDS0wTeg
+        href: https://forms.gle/br7fQKtLJqz2cnNHA
         isPrimary: false
         
    
