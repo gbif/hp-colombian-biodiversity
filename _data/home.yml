@@ -84,6 +84,19 @@ destacados:
         isPrimary: false
     
 
+splitAnuncioAcompañamientos:
+  reverse: true
+  #preTitle: Reporte  # optional
+  title: Cierre de año 
+  description: |      # required
+      Hasta el viernes 19 de noviembre está abierta la recepción de solicitudes para publicación de datos en el presente año. Las solicitudes hechas después de esta fecha entrarán al proceso de acompañamiento habitual, con la novedad de que la publicación de los datos se hará a inicio de 2022.
+  # img required
+  background: /assets/images/landing_page/img_homeFormacion.jpg
+  overlayColor: "#000033"
+  href: /compartir/guiadepublicacion
+
+
+
 splitCicloFormacion:
   reverse: true
   #preTitle: Reporte  # optional
