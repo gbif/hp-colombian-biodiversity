@@ -57,8 +57,19 @@ destacados:
       # img required
       background: https://thumbnails.production.thenounproject.com/B09K3CvSI_BVMnT4iazY1Orb_kY=/fit-in/1000x1000/photos.production.thenounproject.com/photos/1AF7393A-F70B-4C96-96E1-CB9E19DF0A3F.jpg
       cta:
-      - text: Oportunidades
+      - text: Ver convocatoria
         href: /post/2021/pasantias-2022-1/
+        isPrimary: false
+        
+    - preTitle:  Ciclo de formación 2021
+      title:  OpenRefine
+      description: |      # required
+          Taller del programa para limpieza de datos OpenRefine, 9 y 10 de diciembre.
+      # img required
+      background: /assets/images/landing_page/imgDest_OenRefine.png
+      cta:
+      - text: Inscribirse
+        href: https://forms.gle/br7fQKtLJqz2cnNHA
         isPrimary: false
         
     - preTitle:  Red SiB Colombia
@@ -70,23 +81,7 @@ destacados:
       cta:
       - text: Ver más
         href: /acercade/aliados/andi
-        isPrimary: false      
-        
-    - preTitle:  Ciclo de formación 2021
-      title:  OpenRefine
-      description: |      # required
-          Taller del programa para limpieza de datos OpenRefine, 9 y 10 de diciembre.
-      # img required
-      background: /assets/images/landing_page/tallerOpenRefine_202111.png
-      cta:
-      - text: Inscribirse
-        href: https://forms.gle/br7fQKtLJqz2cnNHA
-        isPrimary: false   
-        
-
-
-      
-   
+        isPrimary: false
 
 splitAnuncioAcompañamientos:
   reverse: true
