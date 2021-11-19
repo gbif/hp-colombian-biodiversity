@@ -22,7 +22,6 @@ toc: true
 <p>&nbsp;</p>
 
 <div class="notification is-danger is-light">
-  <button class="delete"></button>
   <strong>Aviso Importante.</strong> <br> Hasta el viernes 19 de noviembre está abierta la recepción de solicitudes para publicación de datos en el presente año. Las solicitudes hechas después de esta fecha entrarán al proceso de acompañamiento habitual, con la novedad de que la publicación de los datos se hará a inicio de 2022.
 </div>
 
