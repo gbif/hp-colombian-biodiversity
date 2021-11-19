@@ -1,7 +1,7 @@
 ---
 title:  "Biodiversidad en Cifras 2021"
 date:   2021-08-01
-categories: ["Cifras", "GBIF", "Especies", "Colombia", "Registros Biológicos", "2021"]
+categories: ["Cifras", "Especies", "Colombia", "Registros Biológicos", "2021"]
 background: /assets/images/noticias_eventos/2021/2021-08-01-Biodiversidadencifras_2021.png
 ---
 
@@ -51,7 +51,7 @@ A partir del 2019 dejamos de utilizar la cifra calculada por GBIF y asumimos de 
 En la medida que se sigan refinando los procesos de validación y limpieza de datos, y que podamos contar con más listas de especies de referencia nacional, más precisas serán nuestras cifras. **La cifra de especies registradas para el país en esta versión de Biodiversidad en Cifras, es sin lugar a dudas, la mejor representación del recuento de especies del país a partir de los datos abiertos que se comparten a través del SiB Colombia.**
 **Tabla 1.** Histórico de la cifra de especies registradas (con al menos un dato para Colombia publicado a través del SiB Colombia o GBIF).
 
-| Año       | GBIF       | SiB Colombia  |  Corte de los datos  |
+| Año       | [GBIF](http://www.gbif.org/sites/default/files/gbif_analytics/country/CO/about/csv/spe_kingdom.csv)       | SiB Colombia  |  Corte de los datos  |
 | ------------- |:-------------:| -----:|-----:|
 |2021|71.204|63.303|2020-12-31|
 |2020|69.876|58.312|2019-12-31|
