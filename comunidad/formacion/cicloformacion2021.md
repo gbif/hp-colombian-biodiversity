@@ -43,10 +43,8 @@ _**Inician**: jueves 15 de abril de 2021_ | _**Finalizan**: jueves 28 de octubre
 
 Los cupos son limitados con un registro único a través de la plataforma Zoom y eligiendo los webinars del año a los que desea asistir. Si no deseas registrarte, puedes seguir los webinars vía streaming en el mismo horario por el canal de YouTube del SiB Colombia.
 
-[¡Inscríbete aquí!](https://humboldt-org-co.zoom.us/webinar/register/WN_fsc8vZqhT0W4xESDS0wTeg){: .button .is-primary :target="_blank"}
 
-
-<img src="/comunidad/formacion/images/CalendarioWebinars2021_30SEP-scaled.jpg" width=770>
+<img src="/comunidad/formacion/images/CalendarioWebinars2021fin-scaled.jpg" width=770>
 
 
 ---
