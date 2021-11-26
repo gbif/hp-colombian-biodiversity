@@ -149,7 +149,7 @@ splitAlianzaSectorEmpresarial:
   description: |      # required
        Los datos sobre biodiversidad son esenciales para planificar, implementar y monitorear estrategias de conservación y uso sostenible.. Un aporte del sector empresarial al conocimiento de la biodiversidad.
   # img required
-  background: /assets/images/landing_page/AlianzaAndi.jpg
+  background: /assets/images/landing_page/AlianzaAndiSectorEmpresarial.jpg
   overlayColor: "#000033"
   href: /acercade/aliados/andi
   cta:
