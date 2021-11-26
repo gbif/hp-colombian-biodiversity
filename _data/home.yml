@@ -82,7 +82,12 @@ destacados:
       - text: Inscribirse
         href: https://forms.gle/br7fQKtLJqz2cnNHA
         isPrimary: false
-        
+
+# Feature cards
+#cards
+backup:
+  features:
+  
     - preTitle:  Red SiB Colombia
       title: Alianza sector empresarial
       description: |      # required
