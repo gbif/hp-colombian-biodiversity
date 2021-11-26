@@ -1,8 +1,8 @@
 ---
 title:  "La biodiversidad en Colombia tiene un nuevo portal"
-date:   2021-11-24
+date:   2021-11-25
 categories: ["Portal de datos", "Acceso abierto", "datos abiertos", "Sistemas de información", "GBIF", "2021"]
-background: assets/images/noticias_eventos/2021/2021-11-24-biodiversidad-Colombia-tiene-nuevo-portal.jpg
+background: assets/images/noticias_eventos/2021/2021-11-25-biodiversidad-Colombia-tiene-nuevo-portal.jpg
 ---
 
 
@@ -38,13 +38,13 @@ Visite en este enlace el nuevo portal: [biodiversidad.co](https://biodiversidad.
 
 Conozca otros portales pioneros en esta nueva estrategia con GBIF:
 
-* **[GBIF.us](https://www.gbif.us/) \
-**Patrocinado y desarrollado en conjunto con la [Science Analytics and Synthesis Program](https://www.usgs.gov/core-science-systems/science-analytics-and-synthesis) (SAS) de [U.S. Geological Survey](https://www.usgs.gov/) (USGS)
-* **[Legume Data Portal](https://www.legumedata.org/) \
-**Patrocinado por [Canadensys](http://www.canadensys.net/) y desarrollado en conjunto con [Legume Phylogeny Working Group](https://www.legumedata.org/about#legume-phylogeny-working-group)
-* **[PBIF: Pacific Biodiversity Information Facility](https://pbif.sprep.org/) \
-**Patrocinado y desarrollado en conjunto con el[ Secretariat of the Pacific Regional Environmental Programme](https://www.sprep.org/) (SPREP)
-* **[Rotterdam Natural History Museum](https://specimens.hetnatuurhistorisch.nl/) \
-**Patrocinado por [NLBIF](https://www.nlbif.nl/)
+* **[GBIF.us](https://www.gbif.us/)** \
+Patrocinado y desarrollado en conjunto con la [Science Analytics and Synthesis Program](https://www.usgs.gov/core-science-systems/science-analytics-and-synthesis) (SAS) de [U.S. Geological Survey](https://www.usgs.gov/) (USGS)
+* **[Legume Data Portal](https://www.legumedata.org/)** \
+Patrocinado por [Canadensys](http://www.canadensys.net/) y desarrollado en conjunto con [Legume Phylogeny Working Group](https://www.legumedata.org/about#legume-phylogeny-working-group)
+* **[PBIF: Pacific Biodiversity Information Facility](https://pbif.sprep.org/)** \
+Patrocinado y desarrollado en conjunto con el[ Secretariat of the Pacific Regional Environmental Programme](https://www.sprep.org/) (SPREP)
+* **[Rotterdam Natural History Museum](https://specimens.hetnatuurhistorisch.nl/)** \
+Patrocinado por [NLBIF](https://www.nlbif.nl/)
 
 Conozca la nota de prensa emitida por GBIF sobre el lanzamiento de estos portales (en inglés): [Cinco portales emergen del programa piloto de GBIF](https://www.gbif.org/news/6RG9WSU3knIxyhcDUBQTJY/first-five-hosted-portals-emerge-from-gbif-pilot-programme).
