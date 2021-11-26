@@ -49,7 +49,18 @@ estadisticas:
 #cards
 destacados:
   features:
-  
+
+    - preTitle:  Noticias
+      title: ¡Bienvenido a biodiversidad.co!
+      description: |      # required
+       El nuevo portal incluye datos, galería de imágenes, mapa y descargas con DOI.
+      # img required
+      background: assets/images/noticias_eventos/2021/2021-11-25-biodiversidad-Colombia-tiene-nuevo-portal.jpg
+      cta:
+      - text: Ver más
+        href: /post/2021/biodiversidad-en-colombia-tiene-nuevo-portal/
+        isPrimary: false
+        
     - preTitle:  Formación
       title: Pasantías 2022-1
       description: |      # required
@@ -125,7 +136,22 @@ splitActividadPublicacion:
   - text: Explorar
     href: /comunidad/actividadpublicacion
     isPrimary: true
-    
+
+splitAlianzaSectorEmpresarial:
+  reverse: true
+  #preTitle: Red SiB Colombia  # optional
+  title: Alianza sector empresarial
+  description: |      # required
+       Los datos sobre biodiversidad son esenciales para planificar, implementar y monitorear estrategias de conservación y uso sostenible.. Un aporte del sector empresarial al conocimiento de la biodiversidad.
+  # img required
+  background: /assets/images/landing_page/imgDest_Andi.jpg
+  overlayColor: "#000033"
+  href: /acercade/aliados/andi
+  cta:
+  - text: Ver más
+    href: /acercade/aliados/andi
+    isPrimary: true
+
 
 #Ejemplo de tema base
 productExample:
