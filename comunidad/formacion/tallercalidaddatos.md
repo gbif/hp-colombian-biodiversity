@@ -107,6 +107,7 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 
 ## Seminarios
 
+
 **Lunes 8 de noviembre**
 
  - **Introducción a la calidad de datos, principios generales.**  
@@ -172,7 +173,6 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 **Descripción:** (máx. 3 horas) Tenemos que hablar… con un panel conformado por los facilitadores del taller se abordarán algunos de los casos reales documentados por los participantes respecto la implementación de estas buenas prácticas en su trabajo, generando discusión, orientación y recomendaciones. Incluye 3 sesiones en simultánea/casos priorizados.  
 **Facilitadores:** Todos los facilitadores.  
 
-*COT: hora Colombia
 
 
 ## Seminarios recomendados previos al taller
@@ -301,7 +301,7 @@ Para obtener el máximo beneficio de los seminarios de este taller, se recomiend
 
 ---
 
-*Otros videos generales:*
+
 
 **Sobre GBIF:**
 
