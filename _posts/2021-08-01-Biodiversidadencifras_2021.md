@@ -18,8 +18,6 @@ Esta cifra refleja cómo vamos en el proceso de consolidar el inventario sobre l
   </div>
 </form>
 
-Especies registradas
-Es la cantidad de especies únicas con nombre taxonómico válido y aceptado, que tienen por lo menos un dato (observación o espécimen preservado) publicado a través del SiB Colombia. 
 Adicionalmente las listas de referencia taxonómicas (ACO, 2020; DoNascimiento et. al, 2019; SCmas, 2021 ) y la lista temática de especies exóticas del país (Baptiste et. al, 2020), son utilizadas para validar y ajustar esta cifra evitando así sobreestimaciones. 
 
 # ¿Existe una cifra exacta sobre el número de especies estimadas en Colombia?
