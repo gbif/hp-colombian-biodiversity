@@ -143,7 +143,7 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 
 - **BBPP para la publicación y actualización de datos (GBIF-OBIS)**  
 **Hora:** 8:00 a.m. a 9:15 a.m. (COT).  
-**Descripción:** Importancia de un modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través de sistemas de información. 
+**Descripción:** Importancia de un modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través de sistemas de información.  
 **Ponentes:** Camila Plata.
 
 - **BBPP para la repatriación de datos**  
@@ -160,7 +160,7 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 
 - **Evaluación y limpieza de datos 2/2**  
 **Hora:** 9:15 a.m. a 10:30 a.m. (COT).  
-**Descripción:** Uso de OpenRefine para la limpieza de datos: funciones básicas.
+**Descripción:** Uso de OpenRefine para la limpieza de datos: funciones básicas.  
 **Ponentes:** Paula Zermoglio & Camila Plata.  
 
 ## Consultorio de Calidad de Datos
@@ -169,8 +169,8 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 
 - **Consultorio de Calidad de Datos**  
 **Hora:** 8:00 a.m. a 11:00 a.m. (COT).  
-**Descripción:** (máx. 3 horas) Tenemos que hablar… con un panel conformado por los facilitadores del taller se abordarán algunos de los casos reales documentados por los participantes respecto la implementación de estas buenas prácticas en su trabajo, generando discusión, orientación y recomendaciones. Incluye 3 sesiones en simultánea/casos priorizados.
-**Facilitadores:** Todos los facilitadores.
+**Descripción:** (máx. 3 horas) Tenemos que hablar… con un panel conformado por los facilitadores del taller se abordarán algunos de los casos reales documentados por los participantes respecto la implementación de estas buenas prácticas en su trabajo, generando discusión, orientación y recomendaciones. Incluye 3 sesiones en simultánea/casos priorizados.  
+**Facilitadores:** Todos los facilitadores.  
 
 *COT: hora Colombia
 
