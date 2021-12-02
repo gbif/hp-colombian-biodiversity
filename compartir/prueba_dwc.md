@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 title: Prueba pag DwC
-description: 
+description: Descripción
 imageLicense: |
   Corales de Providencia Fotografía de: Waywuwei vía [Flickr](https://flic.kr/p/YkLf2d)
 toc: true
