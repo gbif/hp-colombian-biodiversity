@@ -153,7 +153,7 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 
 **Viernes 12 de noviembre**  
 
-- **Evaluación y limpieza de datos 1/2** 
+- **Evaluación y limpieza de datos 1/2**  
 **Hora:** 8:00 a.m. a 9:15 a.m. (COT).  
 **Descripción:** Flujo de evaluación y limpieza. Herramientas para la limpieza de datos. Herramientas para chequeo de formato y fechas. Herramientas para limpieza de datos geográficos. Herramientas para la limpieza de datos taxonómicos. Uso del GBIF Data Validator.  
 **Ponentes:** Paula Zermoglio & Camila Plata.
