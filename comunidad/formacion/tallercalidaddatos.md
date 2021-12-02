@@ -91,7 +91,7 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 
     * Disposición para difundir el conocimiento aprendido en el taller con otras personas de su entorno profesional o académico, adaptando los materiales de capacitación, manteniendo su valor instructivo.
 
-# CALENDARIO
+# PROGRAMA
 
 ## Fechas generales
 
@@ -122,43 +122,57 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 **Ponentes:** Anabela Plos.
 
 - **BBPP para la digitalización y almacenamiento de datos.**  
-**Hora:** 9:15 a.m. a 10:30 a.m.  
+**Hora:** 9:15 a.m. a 10:30 a.m.(COT).  
 **Descripción**: Importancia del diseño de la interfaz de documentación de datos y la necesidad de crear capacidad en los responsables de la transcripción y digitalización.  
 **Ponentes**: Dairo Escobar.
 
 ***Miércoles 10 de noviembre***  
-8:00 a.m. a 9:15 a.m. (COT)  
-BBPP para la documentación de información geográfica
 
-*9:15 a.m. a 10:30 a.m.* (COT)  
-BBPP para la documentación de metadatos
+- **BBPP para la documentación de información geográfica**
+**Hora:** 8:00 a.m. a 9:15 a.m. (COT).  
+**Descripción:** Importancia de la información geográfica para el uso de datos de biodiversidad. Datos geográficos mínimos y elementos de una buena georreferenciación. Tipos y descripción de localidades, coordenadas, sistemas de referencia e incerteza asociada a una georreferencia. Otros elementos: elevación, profundidad. Errores comunes, cómo evitarlos y cómo repararlos.  
+**Ponentes:** Paula Zermoglio.  
+
+
+- **BBPP para la documentación de metadatos**  
+**Hora:** 9:15 a.m. a 10:30 a.m. (COT).  
+**Descripción:** Importancia del contexto de los datos para su publicación, recuperación y uso.  
+**Ponentes:** Diana Hernández.  
 
 ***Jueves 11 de noviembre***  
-8:00 a.m. a 9:15 a.m. (COT)  
-BBPP para la publicación y actualización de datos (GBIF-OBIS)
 
-9:15 a.m. a 10:30 a.m. (COT)  
-BBPP para la repatriación de datos
+- **BBPP para la publicación y actualización de datos (GBIF-OBIS)**
+**Hora:** 8:00 a.m. a 9:15 a.m. (COT).  
+**Descripción:** Importancia de un modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través de sistemas de información. 
+**Ponentes:** Camila Plata.
+
+- **BBPP para la repatriación de datos**  
+**Hora:** 9:15 a.m. a 10:30 a.m. (COT).  
+**Descripción:** Integración de datos desde fuentes externas para la consolidación de información sobre biodiversidad.  
+**Ponentes:** Liliana Lara.
 
 ***Viernes 12 de noviembre***  
-*8:00 a.m. a 9:15 a.m.* (COT)  
-Evaluación y limpieza de datos 1/2
 
-*9:15 a.m. a 10:30 a.m.* (COT)  
-Evaluación y limpieza de datos 1/2
+- **Evaluación y limpieza de datos 1/2**
+**Hora:** 8:00 a.m. a 9:15 a.m. (COT).  
+**Descripción:** Flujo de evaluación y limpieza. Herramientas para la limpieza de datos. Herramientas para chequeo de formato y fechas. Herramientas para limpieza de datos geográficos. Herramientas para la limpieza de datos taxonómicos. Uso del GBIF Data Validator.  
+**Ponentes:** Paula Zermoglio & Camila Plata.
 
+- **Evaluación y limpieza de datos 2/2**
+**Hora:** 9:15 a.m. a 10:30 a.m. (COT).  
+**Descripción:** Uso de OpenRefine para la limpieza de datos: funciones básicas.
+**Ponentes:** Paula Zermoglio & Camila Plata.
 ## Consultorio de Calidad de Datos
 
 ***Martes 16 de noviembre***  
-*8:00 a.m. a 9:00 a.m.* (COT)  
-Consultorio de Calidad de Datos
 
-*9:00 a.m. a 11:00 a.m.* (COT)  
-3 sesiones en simultánea/casos priorizados  
+- **Consultorio de Calidad de Datos**
+**Hora:** 8:00 a.m. a 11:00 a.m. (COT).  
+**Descripción:** (máx. 3 horas) Tenemos que hablar… con un panel conformado por los facilitadores del taller se abordarán algunos de los casos reales documentados por los participantes respecto la implementación de estas buenas prácticas en su trabajo, generando discusión, orientación y recomendaciones. Incluye 3 sesiones en simultánea/casos priorizados.
+**Facilitadores:** Todos los facilitadores.
 
 *COT: hora Colombia
 
-# PROGRAMA 
 
 ## Seminarios recomendados previos al taller
 
