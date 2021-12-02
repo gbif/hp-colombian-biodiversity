@@ -107,32 +107,40 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 
 ## Seminarios
 
-**Lunes 8 de noviembre**  
-*8:00 a.m. a 10:30 a.m.* (COT)  
-Introducción a la calidad de datos, principios generales
+***Lunes 8 de noviembre***
 
-**Martes 9 de noviembre**  
-*8:00 a.m. a 9:15 a.m.* (COT)  
-BBPP para la toma de datos: planificación
+ - **Introducción a la calidad de datos, principios generales.**  
+**Hora:** 8:00 a.m. a 10:30 a.m. (COT).  
+**Descripción:** Definición de conceptos básicos: calidad de datos, fitness for use. Problemas y limitantes comunes. Recomendaciones generales.  
+**Ponentes:** Anabela Plos & Dairo Escobar.
 
-*9:15 a.m. a 10:30 a.m.*
-BBPP para la digitalización y almacenamiento de datos
+***Martes 9 de noviembre***
 
-**Miércoles 10 de noviembre**  
-*8:00 a.m. a 9:15 a.m.* (COT)  
+- **BBPP para la toma de datos: planificación**  
+**Hora:** 8:00 a.m. a 9:15 a.m. (COT).  
+**Descripción**: Flujo de datos y pasos deseables para evitar pérdida de calidad en los datos. Sugerencias de planificación.  
+**Ponentes:** Anabela Plos.
+
+- **BBPP para la digitalización y almacenamiento de datos.**  
+**Hora:** 9:15 a.m. a 10:30 a.m.  
+**Descripción**: Importancia del diseño de la interfaz de documentación de datos y la necesidad de crear capacidad en los responsables de la transcripción y digitalización.  
+**Ponentes**: Dairo Escobar.
+
+***Miércoles 10 de noviembre***  
+8:00 a.m. a 9:15 a.m. (COT)  
 BBPP para la documentación de información geográfica
 
 *9:15 a.m. a 10:30 a.m.* (COT)  
 BBPP para la documentación de metadatos
 
-**Jueves 11 de noviembre**  
-*8:00 a.m. a 9:15 a.m.* (COT)  
+***Jueves 11 de noviembre***  
+8:00 a.m. a 9:15 a.m. (COT)  
 BBPP para la publicación y actualización de datos (GBIF-OBIS)
 
-*9:15 a.m. a 10:30 a.m.* (COT)  
+9:15 a.m. a 10:30 a.m. (COT)  
 BBPP para la repatriación de datos
 
-**Viernes 12 de noviembre**  
+***Viernes 12 de noviembre***  
 *8:00 a.m. a 9:15 a.m.* (COT)  
 Evaluación y limpieza de datos 1/2
 
@@ -141,7 +149,7 @@ Evaluación y limpieza de datos 1/2
 
 ## Consultorio de Calidad de Datos
 
-**Martes 16 de noviembre**  
+***Martes 16 de noviembre***  
 *8:00 a.m. a 9:00 a.m.* (COT)  
 Consultorio de Calidad de Datos
 
@@ -158,7 +166,6 @@ Para obtener el máximo beneficio de los seminarios de este taller, se recomiend
 
 **Tipos de datos:**
 
----
 
 <details>
   <summary markdown="span">Eventos de muestreo: ¿cómo publicarlos usando el estándar Darwin Core? [11min, EN]
@@ -186,7 +193,6 @@ Para obtener el máximo beneficio de los seminarios de este taller, se recomiend
 
 **Estándares para datos sobre biodiversidad:**
 
----
 
 <details>
   <summary markdown="span">Estándares para la información sobre biodiversidad Intro [8 min, ES]
@@ -242,7 +248,6 @@ Para obtener el máximo beneficio de los seminarios de este taller, se recomiend
 
 **El modelo de publicación de datos de GBIF:**
 
----
 
 <details>
   <summary markdown="span">Data Publishing Workflow in the GBIF Network - Biodiversity Data Mobilization Training in Haiti [70min, EN]
@@ -268,7 +273,6 @@ Para obtener el máximo beneficio de los seminarios de este taller, se recomiend
 
 **Sobre el modelo de publicación de datos de OBIS:**
 
----
 
 <details>
   <summary markdown="span">OBIS Colombia: publicación y acceso a datos sobre biodiversidad marina. [60min, ES]
@@ -286,7 +290,6 @@ Para obtener el máximo beneficio de los seminarios de este taller, se recomiend
 
 **Sobre GBIF:**
 
----
 
 <details>
   <summary markdown="span">GBIF: La biblioteca de la vida
@@ -303,7 +306,6 @@ Para obtener el máximo beneficio de los seminarios de este taller, se recomiend
 
 **Sobre OBIS:**
 
----
 
 <details>
   <summary markdown="span">OBIS - GBIF introduction 5min, EN]
