@@ -30,6 +30,7 @@ El proceso de selección se llevó a cabo en dos pasos:
 - Contar con el aval de la entidad u organización a la cual pertenece el interesado, que realice actividades de conservación y manejo de la biodiversidad.
 - Contar con experiencia y conocimientos en el manejo de información sobre biodiversidad o en informática de la biodiversidad.
 - Estar vinculado con procesos de gestión de información y temas relacionados con conservación y manejo de la biodiversidad, ya sea en los ámbitos nacional, regional o local.
+
 # COMPROMISOS
 - Los candidatos seleccionados se comprometen a publicar datos sobre biodiversidad (registros biológicos o listas de especies) a través de la red nacional del SiB Colombia y de la infraestructura global GBIF.
 - Los candidatos seleccionados se comprometen a participar como instructores en las actividades de creación y fortalecimiento de capacidad organizadas por el SiB Colombia, con el propósito de difundir ampliamente en el país los contenidos desarrollados durante el Taller de I3B en Costa Rica 2013.
