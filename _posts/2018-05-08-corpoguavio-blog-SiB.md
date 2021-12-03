@@ -57,6 +57,6 @@ Con los conocimientos adquiridos durante el taller, CORPOGUAVIO podrá aportar a
 - [Agenda y Asistentes](https://drive.google.com/open?id=11T5DwZR1JYiTFP-aJAJxo94nisGgMJhM){:target="_blank"}
 - [Fotografías](https://drive.google.com/open?id=1Gy4xz9FHxzqq2NwllkfFULwNS4rSE7yv){:target="_blank"}
 - [Presentaciones](https://drive.google.com/open?id=18YOjWKeYheSrphoC7ux3S76PEwhaEHAs){:target="_blank"}
-- [Taller práctico](https://drive.google.com/open?id=1OS1INq02-o74q6a3ffXZYwEQhwDYGlDV){:target="_blank
+- [Taller práctico](https://drive.google.com/open?id=1OS1INq02-o74q6a3ffXZYwEQhwDYGlDV){:target="_blank}
 
 <img src="/assets/images/noticias_eventos/2018/2018-05-08-corpoguavio-blog-SiB-02.png" width=770>
