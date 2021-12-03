@@ -67,14 +67,14 @@ katia@gbif.es
 **Eduardo Rudas**  
 *Coordinador Informática de la Biodiversidad*  
 Instituto de Ciencias Naturales, Universidad Nacional de Colombia.  
-<www.biovirtual.unal.edu.co>  
+www.biovirtual.unal.edu.co  
 erudasb@unal.edu.co  
 
 
 **Giovanni Sosa**  
 *Ingeniero de la unidad de Informática de la Biodiversidad*  
 Instituto de Ciencias Naturales, Universidad Nacional de Colombia  
-<www.biovirtual.unal.edu.co>  
+www.biovirtual.unal.edu.co  
 ggsosap@unal.edu.co
 
 
@@ -82,35 +82,35 @@ ggsosap@unal.edu.co
 *Líder de interoperabilidad y administración de contenidos*  
 Equipo Coordinador del Sistema de Información
 sobre Biodiversidad de Colombia (SiB)  
-<biodiversidad.co>  
+biodiversidad.co  
 evelez@humboldt.org.co  
 
 
 **Dairo Escobar**  
 *Investigador del componente de interoperabilidad y administración de contenidos*  
 Equipo Coordinador del Sistema de Información sobre Biodiversidad de Colombia (SiB)  
-<biodiversidad.co>  
+biodiversidad.co  
 descobar@humboldt.org.co  
 
 
 **Maria Fernanda Gómez**  
 *Líder de productos y servicios*  
 Equipo Coordinador del Sistema de Información sobre Biodiversidad de Colombia.  
-<biodiversidad.co>  
+biodiversidad.co  
 mgomez@humboldt.org.co  
 
 
 **Nestor Beltrán**  
 *Investigador del componente de interoperabilidad y administración de contenidos*  
 Equipo Coordinador del Sistema de Información sobre Biodiversidad de Colombia.  
-<biodiversidad.co>  
+biodiversidad.co  
 nbeltran@humboldt.org.co  
 
 
 **María Cecilia Londoño**  
 *Investigadora titular*  
 Laboratorio de Biogeografía Aplicada y Bioacústica  
-<www.humboldt.org.co>  
+www.humboldt.org.co  
 mlondono@humboldt.org.co  
 
 # INFORMACIÓN DE CONTEXTO Y SOPORTE
