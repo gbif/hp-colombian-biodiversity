@@ -1,10 +1,8 @@
 ---
-title:  "SiB Colombia <3 SIBM
-
-"
+title:  "SiB Colombia <3 SIBM"
 date:   2018-06-08
-categories: ["Convocatorias", "CvLAC","2021"]
-background: /assets/images/noticias_eventos/Post_carlos_fajardo/SiBCO_3SiBM_02-750x390.png
+categories: ["Invemar", "SIBM","2018"]
+background: /assets/images/noticias_eventos/2018/2018-06-08-SiB-Colombia-3SIBM.png
 
 ---
 El SiB Colombia y el SiB Marino son dos sistemas de información sobre biodiversidad respaldados por el SINA. Ambos sistemas tienen como misión facilitar la publicación de datos e información sobre la biodiversidad de nuestro país, pero históricamente lo han hecho con estrategias diferentes.  
