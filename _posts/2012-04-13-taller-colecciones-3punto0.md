@@ -1,7 +1,7 @@
 ---
 title:  "Colecciones Biológicas 3.0"
 date:   2012-04-13
-categories: ["Tallere", "Colecciones biológicas", "2012", "GBIF"]
+categories: ["Talleres", "Colecciones biológicas", "2012", "GBIF"]
 background: /assets/images/noticias_eventos/2012/2012-04-13-taller-colecciones-3punto0-750x390.jpg
 ---
 
@@ -23,7 +23,7 @@ background: /assets/images/noticias_eventos/2012/2012-04-13-taller-colecciones-3
 - Maylin González (IAvH)
 - Óscar Orrego (SiB Colombia).
 
-**Fecha límite para el envío de solicitudes:** 31 de julio de 2012.
+**Fecha límite para el envío de solicitudes:** 31 de julio de 2012.  
 **Hotel:** [Hotel La Posada de San Antonio](http://www.hotellaposadadesanantonio.com/){:target="_blank"}
 
 Contacto: info@gbif.es
