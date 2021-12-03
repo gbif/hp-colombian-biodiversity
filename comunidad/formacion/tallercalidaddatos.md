@@ -2,9 +2,9 @@
 layout: compose
 title: Taller Calidad de datos + biodiversidad
 description: Buenas prácticas para mejores publicaciones.
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/17140412/large.jpeg?1525147267 #
+background: https://images.unsplash.com/photo-1552078115-61dc22459bff
 imageLicense: |
-   _Marchantia polymorpha_ Fotografía de: teodoro_chivatabedoya vía [iNaturalist](https://colombia.inaturalist.org/observations/11967283)
+   Fotografía de: Bryony Elena vía [unsplash.com](https://unsplash.com/photos/cD1fvHEdwwI)
 toc: true 
 height: 41vh
 composition:
@@ -13,7 +13,7 @@ composition:
 
 ---
 
-# PRESENTACIÓN
+## PRESENTACIÓN
 
 El taller **Calidad de datos + biodiversidad** busca compartir con la comunidad científica y profesional las buenas prácticas que facilitan el manejo y la gestión de información y datos sobre biodiversidad para su publicación, acceso y uso; siempre de manera gratuita y libre, como parte de la filosofía de trabajo del **SiB Colombia**.
 
@@ -22,7 +22,7 @@ El taller **Calidad de datos + biodiversidad** busca compartir con la comunidad 
 
 <img src="/assets/images/noticias_eventos/CESP_DQ_header_web-1280x400.jpg" width=770>
 
-## Contexto
+### Contexto
 
 Los especialistas en datos, investigadores y tomadores de decisiones resaltan de manera frecuente la calidad de los datos como una prioridad para garantizar su uso en la generación de nuevo conocimiento, la conservación y el uso sostenible de la biodiversidad y sus servicios ecosistémicos.
 
@@ -32,34 +32,34 @@ Iniciará con conceptos generales sobre qué es la calidad de datos sobre biodiv
 
 Este taller es posible gracias al proyecto [GBIF CESP2020-018](https://www.gbif.org/es/project/5JJH6ZKCjztKrqT50OAadQ/mejorando-la-calidad-de-datos-sobre-biodiversidad-en-latinoamerica-documentacion-de-buenas-practicas-para-los-flujos-de-trabajo-y-ciclos-de-vida-de-los-datos){:target="_blank"}.
 
-## Objetivo
+### Objetivo
 
 **Mejorar las capacidades de trabajo con datos sobre biodiversidad** y compartir las buenas prácticas que pueden ser aplicadas en las diferentes etapas del flujo de trabajo.
 
-## Dirigido a
+### Dirigido a
 
 Este taller abarca desde contenidos básicos sobre la calidad de datos de biodiversidad hasta ejercicios prácticos con el uso de herramientas.
 
 En ese sentido, **va dirigido a profesionales y estudiantes de habla hispana** que trabajan con datos sobre biodiversidad en sus diferentes etapas: recolección, digitalización, publicación o uso, y que tienen un conocimiento base sobre estándares de datos sobre biodiversidad y el modelo de publicación de estos a través de GBIF.
 
-# METODOLOGÍA
+## METODOLOGÍA
 
-## Metodología de trabajo
+### Metodología de trabajo
 
 Este taller contiene una serie de capítulos en línea que contempla seminarios enfocados en las buenas prácticas para mejorar la calidad de datos sobre biodiversidad, y espacios para responder las inquietudes para su aplicación en casos reales (Consultorio de Calidad de Datos). El desarrollo de los contenidos **se realizará en la modalidad e-learning a través de la plataforma Zoom con streaming a través de Youtube** para los seminarios.
 
 En el Consultorio de Calidad de Datos los participantes tendrán una oportunidad única de compartir sus inquietudes adicionales sobre la implementación de estas buenas prácticas en su trabajo y exponer sus casos reales para recibir orientación y recomendaciones de los facilitadores.
 
 
-## Certificados
+### Certificados
 
 Un certificado del taller confirma que los asistentes han participado del 100% de los seminarios y consultorio de calidad de datos. No se proporcionan certificados para una participación parcial o que no se realice bajo la metodología establecida para cada sesión.
 
 En la primera semana se estima una **dedicación de al menos 18 horas**, de las cuales 15 estarán concentradas en los seminarios y  tres para el Consultorio de Calidad de Datos.
 
-# REQUISITOS
+## REQUISITOS
 
-## Materiales
+### Materiales
 
 Todos los materiales de apoyo para el curso estarán disponibles para su consulta y descarga. Entre estos estarán:
 
@@ -68,7 +68,7 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 3. Presentaciones de los seminarios.
 4. Consolidado de preguntas y respuestas de cada sesión.
 
-## Prerrequisitos
+### Prerrequisitos
 
 1. Curso en línea “Introducción a GBIF”. Disponible [aquí](https://docs.gbif.org/course-introduction-to-gbif/es/index.es.html){:target="_blank"}.
 
@@ -91,9 +91,9 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 
     * Disposición para difundir el conocimiento aprendido en el taller con otras personas de su entorno profesional o académico, adaptando los materiales de capacitación, manteniendo su valor instructivo.
 
-# PROGRAMA
+## PROGRAMA
 
-## Fechas generales
+### Fechas generales
 
 **20 de agosto**: Publicación de la convocatoria.
 
@@ -105,7 +105,7 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 
 **16 de noviembre**: Finalización del taller.
 
-## Seminarios
+### Seminarios
 
 
 **Lunes 8 de noviembre**
@@ -164,7 +164,7 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 **Descripción:** Uso de OpenRefine para la limpieza de datos: funciones básicas.  
 **Ponentes:** Paula Zermoglio & Camila Plata.  
 
-## Consultorio de Calidad de Datos
+### Consultorio de Calidad de Datos
 
 **Martes 16 de noviembre**  
 
@@ -175,7 +175,7 @@ Todos los materiales de apoyo para el curso estarán disponibles para su consult
 
 
 
-## Seminarios recomendados previos al taller
+### Seminarios recomendados previos al taller
 
 Para obtener el máximo beneficio de los seminarios de este taller, se recomienda que cada participante realice previamente una actualización de sus conocimientos en tipos de datos sobre biodiversidad, estándares y modelos de publicación de estos en plataformas globales.
 
@@ -363,7 +363,7 @@ Para obtener el máximo beneficio de los seminarios de este taller, se recomiend
 
 
 
-# FACILITADORES
+## FACILITADORES
 
 |           |            |
 |-----------|------------| 
@@ -377,14 +377,14 @@ Para obtener el máximo beneficio de los seminarios de este taller, se recomiend
 ---
 
 
-# INSCRIPCIÓN
+## INSCRIPCIÓN
 
-## Cupos
+### Cupos
 
 El taller contará con máximo 60 cupos.
 
 
-## Proceso de postulación y selección
+### Proceso de postulación y selección
 
 Para participar en el taller los postulantes deberán realizar los siguientes pasos:
 
