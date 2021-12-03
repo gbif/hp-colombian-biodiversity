@@ -42,6 +42,7 @@ El proceso de selección se ajustó estrictamente a los criterios mencionados en
 
 
 # INSTRUCTORES
+
 **Francisco Pando**  
 *Director de la unidad de coordinación GBIF.ES*  
 GBIF España  
