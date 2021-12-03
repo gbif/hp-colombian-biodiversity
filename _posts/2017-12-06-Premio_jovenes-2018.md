@@ -2,7 +2,7 @@
 title:  "Premio Jóvenes Investigadores 2018"
 date:   2017-12-06
 categories: ["Convocatorias","2018", "GBIF", "Young Researchers Award"]
-background: background: /assets/images/noticias_eventos/2017/2017-12-06-convocatoria-jovenes-investigadores.png
+background: /assets/images/noticias_eventos/2017/2017-12-06-convocatoria-jovenes-investigadores.png
 
 
 ---
