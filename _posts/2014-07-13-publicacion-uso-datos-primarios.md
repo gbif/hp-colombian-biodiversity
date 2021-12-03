@@ -1,8 +1,8 @@
 ---
 title:  "Informática de la biodiversidad: hacia la publicación y uso de datos primarios sobre biodiversidad"
 date:   2014-07-13
-categories: ["Biodiversidad", "Calidad de datos", "CARDER", "Agua Dulce", "Río", "2019"]
-background: /assets/images/noticias_eventos/Post_carlos_fajardo/tal-infbio-2014-750x390.jpg
+categories: ["Biodiversidad", "Calidad de datos", "2014", "Talleres"]
+background: /assets/images/noticias_eventos/2014/2014-07-13-publicacion-uso-datos-primarios.jpg
 
 ---
 
