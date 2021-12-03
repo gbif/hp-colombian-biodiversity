@@ -50,7 +50,7 @@ Ingrese a la plantilla de publicación, allí encontrará 4 pestañas:
 
 En la pestaña de instrucciones, encontrará adicionalmente una sección titulada «Elementos obligatorios según el origen de los datos» (Fig. 1). De acuerdo a la lectura del caso de estudio, identifique cuáles son los elementos obligatorios para el ejercicio.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig1_Estandarizacion_datosobligatorios.png" width=1000>
+<img src="https://github.com/gbif/hp-colombian-biodiversity/blob/ea80d729c149794b7f4dd6c0dc878710eedf14ff/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DWC/Fig1_Estandarizacion_datosobligatorios.png" width=1000>
 
 <sup>*Figura 1. Instrucciones de la plantilla DwC. Elementos obligatorios según el origen de los datos.*</sup>
 
@@ -66,7 +66,7 @@ Ejemplo de <span class="tag is-success is-light"><i>occurrenceID</i></span>: UCN
 ## Paso 4 - Mapeo de los datos 
 Una vez que haya creado los elementos obligatorios, revise detenidamente el nombre y contenido de cada columna del archivo [<FONT FACE="monospace"><b>«Datos_Caso1_20reg.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/docs/Datos_Caso1_20reg.xlsx) e identifique a cuál elemento DwC de la plantilla de publicación corresponde. Este proceso recibe el nombre de **mapeo de datos**. Cuando identifique el elemento correspondiente, copie y pegue el contenido de esa columna en la plantilla, como se muestra en la siguiente imagen (Fig. 2):
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig2_Estandarizacion_mapeo.png" width=1000>
+<img src="https://github.com/gbif/hp-colombian-biodiversity/blob/ea80d729c149794b7f4dd6c0dc878710eedf14ff/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DWC/Fig2_Estandarizacion_mapeo.png" width=1000>
 
 <sup>*Figura 2. Mapeo de datos en la plantilla DwC.*</sup>
 
@@ -74,7 +74,7 @@ Una vez que haya creado los elementos obligatorios, revise detenidamente el nomb
 
 Una vez que haya trasladado todos los datos del archivo [<FONT FACE="monospace"><b>«Datos_Caso1_20reg.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/docs/Datos_Caso1_20reg.xlsx) a la plantilla de publicación, ajuste las columnas de acuerdo a las definiciones y vocabularios controlados del estándar *Darwin Core* para cada elemento mapeado (Fig. 3).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig4_Estandarizacion_EstructuraPlantilla.png" width=800>
+<img src="https://github.com/gbif/hp-colombian-biodiversity/blob/ea80d729c149794b7f4dd6c0dc878710eedf14ff/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DWC/Fig3_Estandarizacion_EstructuraPlantilla.png" width=800>
 
 <sup>*Figura 3. Estructura de la plantilla de publicación.*</sup>
 
@@ -83,7 +83,7 @@ Elimine en la plantilla de registros biológicos los elementos DwC que quedaron 
 
 Al finalizar, su plantilla debe verse similar a la siguiente imagen (Fig. 4):
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig3_Estandarizacion_mapeofinal.png" width=1000>
+<img src="https://github.com/gbif/hp-colombian-biodiversity/blob/ea80d729c149794b7f4dd6c0dc878710eedf14ff/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DWC/Fig4_Estandarizacion_mapeofinal.png" width=1000>
 
 <sup>*Figura 4. Resultado final del mapeo de datos y la eliminación de elementos vacíos.*</sup>
 
@@ -116,5 +116,5 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, 
 
 **Citación sugerida**
 
-> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
+> Plata C., Ortíz R., Marentes E., Lozano J. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
 >
