@@ -1,7 +1,7 @@
 ---
 title:  "Seguimos fortaleciendo vínculos con Uruguay"
 date:   2016-02-09
-categories: ["Uruguay", "Calidad de datos", "Portal de datos", , "2016"]
+categories: ["Uruguay", "Calidad de datos", "Portal de datos", "2016"]
 background: /assets/images/noticias_eventos/2016/2016-02-09-vinculos-con-Uruguay.png
 
 ---
