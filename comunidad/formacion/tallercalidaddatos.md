@@ -307,14 +307,13 @@ Para obtener el máximo beneficio de los seminarios de este taller, se recomiend
 
 
 <details>
-  <summary markdown="span">GBIF: La biblioteca de la vida
-  [3min, ES]
+  <summary markdown="span">GBIF: La biblioteca de la vida [3min, ES]
 
 
+</summary>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HvS6sRVZbHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      
-</details>
      
+</details>
 
 ---
 
