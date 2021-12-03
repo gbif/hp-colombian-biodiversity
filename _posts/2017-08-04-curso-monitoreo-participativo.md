@@ -1,7 +1,7 @@
 ---
 title:  "Curso de monitoreo participativo en biodiversidad"
 date:   2017-08-04
-categories: ["Colecciones biológicas","2017", "Sociedad Colombiana de Mastozoología", "Listas de especies"]
+categories: ["Ciencia participativa","2017", "Antioquia", "Reserva Natural Río Claro","Cursos"]
 
 background: /assets/images/noticias_eventos/2017/2017-08-04-curso-monitoreo-participativo1.png
 
