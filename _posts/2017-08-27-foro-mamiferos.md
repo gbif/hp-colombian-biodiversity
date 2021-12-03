@@ -43,16 +43,11 @@ Descarga: [Click Aquí](https://drive.google.com/drive/folders/0B3k8_AOqMbDzeVRW
 
 **Videos del evento:**  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/esThEURe5uU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style=»text-align: center;»> <iframe width="560" height="315" src="https://www.youtube.com/embed/esThEURe5uU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+___
 
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XL-S1Lypw7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZaR_2s9gmgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
+<div style=»text-align: center;»> <iframe width="560" height="315" src="https://www.youtube.com/embed/XL-S1Lypw7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+___
+<div style=»text-align: center;»> <iframe width="560" height="315" src="https://www.youtube.com/embed/ZaR_2s9gmgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+___
 <img src="/assets/images/noticias_eventos/2017/2017-08-27-foro-mamiferos2.png" width=770>
