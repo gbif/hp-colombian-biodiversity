@@ -6,7 +6,7 @@ categories: ["PNN", "Portal de datos","Comités", "2017"]
 background: /assets/images/noticias_eventos/2017/2017-05-04-parques-naturales-comite-directivo.jpg
 
 ---
-Parques Nacionales Naturales de Colombia (PNN) se vincula como miembro del [Comité Directivo y Técnico](https://sibcolombia.net/socios-1/ct-cd/) del Sistema de Información sobre Biodiversidad de Colombia (SiB Colombia), una iniciativa de país que facilita el acceso libre a información sobre la diversidad biológica nacional.  
+Parques Nacionales Naturales de Colombia (PNN) se vincula como miembro del [Comité Directivo y Técnico](https://biodiversidad.co/acercade/sibcolombia) del Sistema de Información sobre Biodiversidad de Colombia (SiB Colombia), una iniciativa de país que facilita el acceso libre a información sobre la diversidad biológica nacional.  
 
 Desde hace dos años, PNN participa como socio publicador de datos en esta iniciativa, y este nuevo rol en las dos instancias de gobernanza del SiB Colombia, de la mano de las demás entidades participantes que trazan la hoja de ruta para la red, potencializará el liderazgo y la formulación de las acciones estratégicas que desde allí se plantean y, de igual forma, permitirá incorporar dentro de su agenda la gestión de datos e información articulada con el SiB Colombia, asunto que aumenta el valor de los registros y hace visible los esfuerzos que realizan por monitorear las áreas protegidas del país.  
 
