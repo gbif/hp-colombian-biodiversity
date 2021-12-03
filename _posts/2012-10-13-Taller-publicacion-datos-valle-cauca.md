@@ -1,5 +1,5 @@
 ---
-title:  "Taller de publicación de datos sobre biodiversidad para el valle del cauca"
+title:  "Taller de publicación de datos sobre biodiversidad para el Valle del Cauca"
 date:   2012-10-13
 categories: ["Talleres", "Valle del Cauca", "Calidad de datos", "2012"]
 background: /assets/images/noticias_eventos/2012/2012-10-13-Taller-publicacion-datos-valle-cauca.jpg
