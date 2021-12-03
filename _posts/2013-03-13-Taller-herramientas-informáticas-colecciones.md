@@ -56,7 +56,7 @@ katia@gbif.es
 
 **Eduardo Rudas**  
 *Coordinador Informática de la Biodiversidad*  
-Instituto de Ciencias Naturales, Universidad Nacional de Colombia  
+Instituto de Ciencias Naturales, Universidad Nacional de Colombia.  
 <www.biovirtual.unal.edu.co>  
 erudasb@unal.edu.co  
 
