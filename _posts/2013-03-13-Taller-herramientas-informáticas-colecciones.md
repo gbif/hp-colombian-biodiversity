@@ -53,14 +53,14 @@ El proceso de selección se ajustó estrictamente a los criterios mencionados en
 **Francisco Pando**  
 *Director de la unidad de coordinación GBIF.ES*  
 GBIF España  
-<www.gbif.es>  
+www.gbif.es  
 pando@gbif.es  
  
  
 **Katia Cezón**  
 *Profesional de la unidad de coordinación GBIF.ES*  
 GBIF España  
-<www.gbif.es>  
+www.gbif.es  
 katia@gbif.es  
 
 
