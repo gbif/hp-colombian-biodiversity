@@ -1,8 +1,9 @@
 ---
 title:  "Premio Jóvenes Investigadores 2018"
 date:   2017-12-06
-categories: ["Convocatorias", "CvLAC","2021"]
-background: /assets/images/noticias_eventos/Post_carlos_fajardo/001.png
+categories: ["Convocatorias","2018", "GBIF", "Young Researchers Award"]
+background: background: /assets/images/noticias_eventos/2017/2017-12-06-convocatoria-jovenes-investigadores.png
+
 
 ---
 
@@ -38,7 +39,7 @@ El paquete de nominación y la propuesta de los aspirantes debe incluir (en ingl
 4.   **Curriculum Vitae** del estudiante que aplica, la cual incluya la información de contacto completa de la institución de origen.
  
 
-**Documentos de soporte**
+* **Documentos de soporte**
 Una carta oficial de la facultad del mentor/supervisor que certifique que el aspirante es estudiante y se encuentra matriculado en el programa de posgrado de la universidad.
 Al menos una, y no más de tres cartas de apoyo de investigadores establecidos y activos en un campo que abarque e incorpore la informática de la biodiversidad (por ejemplo: genética, composición y características de especies, biogeografía, ecología, sistemática, y otros).  
  
@@ -84,7 +85,7 @@ Se espera que los ganadores reconozcan el apoyo de GBIF cuando difundan los resu
 | 2010 | Amy McDougall | United Kingdom |
 | 2010 | [Andrés Lira-Noriega](http://orcid.org/0000-0002-3219-0019){:target="_blank"} | United States |
 
-[Descarga los términos de la convocatoria](https://statics.sibcolombia.net/sib-resources/Docs/YRA-GBIF-2018.pdf){: .button .is-primary :}{:target="_blank"}
+[Descarga lo términos de la convocatoria](https://statics.sibcolombia.net/sib-resources/Docs/YRA-GBIF-2018.pdf){: .button .is-primary :}{:target="_blank"}
 
 
 
