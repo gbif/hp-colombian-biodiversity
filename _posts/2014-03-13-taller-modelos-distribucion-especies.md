@@ -13,7 +13,8 @@ El propósito de este taller *teórico-práctico* es ofrecer una visión general
 - Entender los conceptos básicos en la modelización de especies.
 - Dar a conocer las fronteras de investigación en la modelización de especies.
 - Fortalecer las capacidades de los participantes de los países latinoamericanos.
-- 
+
+
 # ¿A QUIÉN VA DIRIGIDO?
 
 El taller está dirigido a estudiantes de posgrado y jóvenes investigadores en el campo de la biogeografía y la biología de la conservación, profesionales con responsabilidades en el ámbito de la planeación de la conservación de la biodiversidad y el territorio.
