@@ -42,18 +42,20 @@ El proceso de selección se ajustó estrictamente a los criterios mencionados en
 
 
 # INSTRUCTORES
-
+   
 **Francisco Pando**  
 *Director de la unidad de coordinación GBIF.ES*  
 GBIF España  
 <www.gbif.es>  
 pando@gbif.es  
-
+ 
+ 
 **Katia Cezón**  
 *Profesional de la unidad de coordinación GBIF.ES*  
 GBIF España  
 <www.gbif.es>  
 katia@gbif.es  
+
 
 **Eduardo Rudas**  
 *Coordinador Informática de la Biodiversidad*  
@@ -61,11 +63,13 @@ Instituto de Ciencias Naturales, Universidad Nacional de Colombia.
 <www.biovirtual.unal.edu.co>  
 erudasb@unal.edu.co  
 
+
 **Giovanni Sosa**  
 *Ingeniero de la unidad de Informática de la Biodiversidad*  
 Instituto de Ciencias Naturales, Universidad Nacional de Colombia  
 <www.biovirtual.unal.edu.co>  
 ggsosap@unal.edu.co
+
 
 **Danny Vélez**  
 *Líder de interoperabilidad y administración de contenidos*  
@@ -74,11 +78,13 @@ sobre Biodiversidad de Colombia (SiB)
 <biodiversidad.co>  
 evelez@humboldt.org.co  
 
+
 **Dairo Escobar**  
 *Investigador del componente de interoperabilidad y administración de contenidos*  
 Equipo Coordinador del Sistema de Información sobre Biodiversidad de Colombia (SiB)  
 <biodiversidad.co>  
 descobar@humboldt.org.co  
+
 
 **Maria Fernanda Gómez**  
 *Líder de productos y servicios*  
@@ -86,11 +92,13 @@ Equipo Coordinador del Sistema de Información sobre Biodiversidad de Colombia.
 <biodiversidad.co>  
 mgomez@humboldt.org.co  
 
+
 **Nestor Beltrán**  
 *Investigador del componente de interoperabilidad y administración de contenidos*  
 Equipo Coordinador del Sistema de Información sobre Biodiversidad de Colombia.  
 <biodiversidad.co>  
 nbeltran@humboldt.org.co  
+
 
 **María Cecilia Londoño**  
 *Investigadora titular*  
