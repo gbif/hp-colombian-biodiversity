@@ -19,7 +19,7 @@ En el evento, que contó con la participación del director de Colciencias, Alej
 **Publicadores con más datos**  
 
 | | |
-| :-------------: |:-------------:| :-----:|
+|------------|------------|
 | <img src="assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos01.png" width=770> | **Instituto Humboldt** <br> Institutos SINA |
 | <img src="assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos02.png" width=770> | **Federación Nacional de Cafeteros** <br> Gremios del sector agropecuario |
 | <img src="assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos03.png" width=770> | **Secretaría Distrital de Ambiente** <br> Autoridades Ambientales <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/NjsnngDJzcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
@@ -33,7 +33,7 @@ En el evento, que contó con la participación del director de Colciencias, Alej
 **Listas de especies de referencia**  
 
 | | |
-| :-------------: |:-------------:| :-----:|
+|------------|------------|
 | <img src="assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos08.png" width=770> | **ACICTIOS** <br> Peces de agua dulce de Colombia |
 | <img src="assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos09.png" width=770> | **Sociedad Colombiana de Mastozoología** <br> Mamíferos de Colombia |
 
@@ -42,7 +42,7 @@ En el evento, que contó con la participación del director de Colciencias, Alej
 **Publicador número 100**  
  
 | | |
-| :-------------: |:-------------:| :-----:|
+|------------|------------|
 | <img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos09.png" width=770> | **Coralina** <br>Publicador número 100 |
 
 
@@ -51,7 +51,7 @@ En el evento, que contó con la participación del director de Colciencias, Alej
 **Galería de imágenes**  
 
 | | |  |
-| :-------------: |:-------------:| :-----:|
+|-------------|-------------|-----|
 |/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion1.jpg|/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion2.jpg|/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion3.jpg|
 |/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion4.jpg|/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion5.jpg|/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion6.jpg|
 |/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion7.jpg|/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion8.jpg|/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion9.jpg|
