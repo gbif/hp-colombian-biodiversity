@@ -66,7 +66,7 @@ Ejemplo de <span class="tag is-success is-light"><i>occurrenceID</i></span>: UCN
 ## Paso 4 - Mapeo de los datos 
 Una vez que haya creado los elementos obligatorios, revise detenidamente el nombre y contenido de cada columna del archivo [<FONT FACE="monospace"><b>«Datos_Caso1_20reg.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/docs/Datos_Caso1_20reg.xlsx) e identifique a cuál elemento DwC de la plantilla de publicación corresponde. Este proceso recibe el nombre de **mapeo de datos**. Cuando identifique el elemento correspondiente, copie y pegue el contenido de esa columna en la plantilla, como se muestra en la siguiente imagen (Fig. 2):
 
-<img src="https://github.com/gbif/hp-colombian-biodiversity/blob/ea80d729c149794b7f4dd6c0dc878710eedf14ff/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DWC/Fig2_Estandarizacion_mapeo.png" width=1000>
+![Figura 2. Mapeo de datos en la plantilla DwC](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DWC/Fig2_Estandarizacion_mapeo.png)
 
 <sup>*Figura 2. Mapeo de datos en la plantilla DwC.*</sup>
 
@@ -74,7 +74,7 @@ Una vez que haya creado los elementos obligatorios, revise detenidamente el nomb
 
 Una vez que haya trasladado todos los datos del archivo [<FONT FACE="monospace"><b>«Datos_Caso1_20reg.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/docs/Datos_Caso1_20reg.xlsx) a la plantilla de publicación, ajuste las columnas de acuerdo a las definiciones y vocabularios controlados del estándar *Darwin Core* para cada elemento mapeado (Fig. 3).
 
-<img src="https://github.com/gbif/hp-colombian-biodiversity/blob/ea80d729c149794b7f4dd6c0dc878710eedf14ff/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DWC/Fig3_Estandarizacion_EstructuraPlantilla.png" width=800>
+![Figura 3. Estructura de la plantilla de publicación](https://github.com/gbif/hp-colombian-biodiversity/blob/ea80d729c149794b7f4dd6c0dc878710eedf14ff/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DWC/Fig3_Estandarizacion_EstructuraPlantilla.png)
 
 <sup>*Figura 3. Estructura de la plantilla de publicación.*</sup>
 
@@ -83,7 +83,7 @@ Elimine en la plantilla de registros biológicos los elementos DwC que quedaron 
 
 Al finalizar, su plantilla debe verse similar a la siguiente imagen (Fig. 4):
 
-<img src="https://github.com/gbif/hp-colombian-biodiversity/blob/ea80d729c149794b7f4dd6c0dc878710eedf14ff/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DWC/Fig4_Estandarizacion_mapeofinal.png" width=1000>
+![Figura 4. Resultado final del mapeo de datos y la eliminación de elementos vacíos](https://github.com/gbif/hp-colombian-biodiversity/blob/ea80d729c149794b7f4dd6c0dc878710eedf14ff/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DWC/Fig4_Estandarizacion_mapeofinal.png)
 
 <sup>*Figura 4. Resultado final del mapeo de datos y la eliminación de elementos vacíos.*</sup>
 
