@@ -51,19 +51,16 @@ Descargue el archivo [<FONT FACE="monospace"><b>«datos_Estructurados.xls»</b><
 
 ----
 
-
 ## Paso 1 - Ingreso a GBIF 
 
 Cree una cuenta de usuario en [GBIF](https://www.gbif.org) o ingrese con sus credenciales al [validador de datos](https://www.gbif.org/es/tools/data-validator/) si ya se encuentra registrado (Fig. 1).
 
-
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig.1_dataValidator.png" width=800>
+![Figura 1. Ingreso/registro en la página de GBIF](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DataValidator/Fig.1_dataValidator.png)
 
 <sup>*Figura 1. Ingreso/registro en la página de GBIF.*</sup>
 
 ## Paso 2 - Cargar el archivo
 Cargue el archivo <FONT FACE="monospace"><b>«datos_Estructurados.xls»</b></FONT> en el validador. Para esto, (1) haga clic en <span class="tag is-warning is-light"><i>SELECCIONAR UN ARCHIVO</i></span> o (2) arrastre el archivo desde una carpeta al ícono <span class="tag is-warning is-light"><i>SOLTAR AQUÍ</i></span>. 
-
 
 <article class="message is-warning">
   <div class="message-header">
@@ -81,7 +78,7 @@ El validador le indicará si el conjunto de datos tiene la estructura adecuada p
 * Resumen del tipo de conjunto de datos (Fig. 2B).
 * Alertas de validación que indican **potenciales** problemas en la estructuración y calidad del conjunto de datos (Fig. 2C).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig2_datavalid_Informe.PNG" width=800>
+![Figura 2. Componentes del informe - Resumen de validación del conjunto de datos](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DataValidator/Fig2_datavalid_Informe.png)
 
 <sup>*Figura 2. Componentes del informe - Resumen de validación del conjunto de datos.*</sup>
 
@@ -90,7 +87,7 @@ El validador le indicará si el conjunto de datos tiene la estructura adecuada p
 * Número de registros (filas) interpretados con éxito (Fig. 3A).
 * Reporte del porcentaje de documentación de cada uno de los elementos del estándar DwC utilizados en el conjunto de datos (Fig. 3B).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig3_datavalid_Informe_frecuencia.PNG" width=700>
+![Figura 3. Componentes del informe - Frecuencia del término](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DataValidator/Fig3_datavalid_Informe_frecuencia.png)
 
 <sup>*Figura 3. Componentes del informe - Frecuencia del término*.</sup>
 
@@ -98,10 +95,9 @@ El validador le indicará si el conjunto de datos tiene la estructura adecuada p
 
 * Reporte detallado de los problemas encontrados en el conjunto de datos por cada elemento del DwC (Fig. 4).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig4_datavalid_Informe_problemas.png" width=700>
+![Figura 4. Componentes del informe - Problemas de validación](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DataValidator/Fig4_datavalid_Informe_problemas.png)
 
 <sup>*Figura 4. Componentes del informe - Problemas de validación.*</sup>
-
 
 ## Paso 3 - Validación
 
@@ -109,8 +105,7 @@ El validador le indicará si el conjunto de datos tiene la estructura adecuada p
 
 Revise el encabezado del reporte. Si aparece en rojo, significa que no puede ser indexado (Fig. 5A). Si aparece en verde, significa que se puede indexar a GBIF (Fig. 5B).
 
-
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig5_datavalid_semaforo.PNG" width=600>
+![Figura 5. Posibles resultados de la validación](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DataValidator/Fig5_datavalid_semaforo.png)
 
 <sup>*Figura 5. Posibles resultados de la validación. A. VERDE, el conjunto de datos puede ser indexado. B. ROJO, no puede indexarse.*</sup>
 
@@ -128,7 +123,7 @@ Si el conjunto no puede ser indexado, revise el mensaje de alerta de la herramie
 
 > En la sección **"Problemas de validación"**, encontrará los ID que están duplicados.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig6_datavalid_detalleerror.PNG" width=800>
+![Figura 6. Mensaje de alerta - Estructura del recurso](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DataValidator/Fig6_datavalid_detalleerror.png)
 
 <sup>*Figura 6. Mensaje de alerta - Estructura del recurso. Al hacer clic en las alertas, podrá ver el detalle de los registros que presentan el error para saber qué debe ajustar. Al hacer clic en el ícono de información, obtendrá una descripción detallada del problema*.</sup>
 
@@ -138,13 +133,11 @@ Diríjase a la sección **"Problemas de validación"**, donde encontrará varias
 
 Haga clic sobre las flechas de cada una de las alertas para desglosar de los registros que deben ser revisados y ajustados. Utilice el botón de ayuda para obtener una breve explicación sobre las alertas de validación. (Fig. 7).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_images/Fig7_datavalid_detalleerror_2.png" width=1000>
+![Figura 7. Mensaje de alerta - Interpretación del registro de GBIF](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DataValidator/Fig7_datavalid_detalleerror_2.png)
 
 <sup>*Figura 7. Mensaje de alerta - Interpretación del registro de GBIF. Al hacer clic en las alertas, podrá ver el detalle de los registros que presentan el error para saber qué debe ajustar. Al hacer clic en el ícono de información, obtendrá una descripción detallada del problema*.</sup>
 
-
 Las alertas se agrupan en 3 categorías según su color:
-
 
 * Alertas de color <span class="tag is-danger"><b>ROJO</b></span>: indican un error estructural que no permite la indexación del recurso y debe ser corregido.
 
@@ -166,13 +159,11 @@ A continuación se explican las alertas más frecuentes, cómo interpretarlas y 
 
 - **Solución 2**: documente el elemento con base en el vocabulario controlado en inglés (<span class="tag is-success is-light"><i>HumanObservation</i></span>, <span class="tag is-success is-light"><i>PreservedSpecimen</i></span>, <span class="tag is-success is-light"><i>LivingSpecimen</i></span>, <span class="tag is-success is-light"><i>MachineObservation</i></span>, <span class="tag is-success is-light"><i>MaterialSample</i></span>, <span class="tag is-success is-light"><i>FossilSpecimen</i></span>).
 
-
 <span class="tag is-warning"><b>Alerta</b></span> **Coordenada inválida**
 
 - **Problema**: las coordenadas documentadas no se encuentran estandarizadas en coordenadas decimales o las coordenadas originales no se pueden interpretar.
 
 - **Solución**: asegúrese de que los elementos _Darwin Core_ <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span> estén documentados con las coordenadas en formato decimal. Además, corrobore que las coordenadas originales (<span class="tag is-success is-light"><i>verbatimCoordinates</i></span>) hayan sido digitalizadas adecuadamente. 
-
 
 <span class="tag is-warning"><b>Alerta</b></span> **Se presume latitud negativa**
 
@@ -200,13 +191,11 @@ También puede obtener el mensaje «Se presume longitud negativa», pero es meno
 
 - **Solución**: asegúrese de que el nombre científico esté escrito correctamente.
 
-
 <span class="tag is-warning"><b>Alerta</b></span> **Fecha registrada inválida**
 
 - **Problema**: las fechas proporcionadas no cumplen con el formato ISO 8601: *AAAA-MM-DD; AAAA-MM; AAAA; AAAA-MM-DD/AAAA-MM-DD*.
 
 - **Solución**: convierta las fechas al formato ISO 8601.
-
 
 <span class="tag is-light"><b>Alerta</b></span> **Datum geodésico WGS84 asumido**
 
@@ -215,7 +204,6 @@ También puede obtener el mensaje «Se presume longitud negativa», pero es meno
 - **Solución 1**: documentar el elemento DwC <span class="tag is-success is-light"><i>geodeticDatum</i></span> como WGS84.
 
 - **Solución 2**: si las coordenadas tienen un datum diferente a WGS84, documéntelo para evitar que el validador lo asuma.
-
 
 <span class="tag is-light"><b>Alerta</b></span> **Coordenadas redondeadas**
 
@@ -255,5 +243,5 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, 
 
 **Citación sugerida**
 
-> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
+> Plata C., Ortíz R., Marentes E., Lozano J. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
 >
