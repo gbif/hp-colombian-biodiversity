@@ -34,6 +34,7 @@ A continuación encontrarás la información sobre los panelistas y moderadores 
 |<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/2018/2018-06-21-expedicion-historica-biodiversidad06.png"></figure> |**Claudia Villa, moderadora:** Comunicadora social organizacional, con especialización en recursos publicitarios y maestría en filosofía. Durante seis años trabajó en promoción y prevención de salud y ha estado vinculada al Sina desde 2000 a la fecha. Está vinculada al Instituto Humboldt desde hace quince años y en la actualidad es la coordinadora de Fortalecimiento de Capacidades.|
 
 # Giras de Especialistas
+
 |           |            |
 |-----------|------------| 
 |<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/2018/2018-06-21-expedicion-historica-biodiversidad07.png"></figure> |**Mauricio Rivera:** Profesor de la Universidad de Antioquia e investigador asociado del Grupo Herpetológico de Antioquia y además soy el actual presidente de la Asociación Colombiana de Herpetología. Mis intereses se centran en biodiversidad, evolución y sistemática de anfibios neotropicales y su conexión directa con conservación biológica.|
@@ -45,6 +46,7 @@ A continuación encontrarás la información sobre los panelistas y moderadores 
 |<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/2018/2018-06-21-expedicion-historica-biodiversidad13.png"></figure> |**María Fernanda Gómez, moderadora:** Ha desarrollado investigación en las áreas de conservación y gestión de conocimiento sobre biodiversidad. Perteneció al grupo de investigación que elaboró el Libro Rojo de Aves de Colombia en el 2002 y fue coautora de la Reevaluación del Riesgo de Extinción de Aves para el país (2014), el cual tuvo como resultado tres productos editoriales. Como pasante de la UICN en Cambridge, adelanto procesos para la consolidación de una red regional para impulsar iniciativas de listas rojas en América Latina. Se desempeñó como líder de productos de información del Sistema de Información sobre Biodiversidad de Colombia. Fue autora y editora del Reporte de Estado y Tendencias de la Biodiversidad Continental de Colombia en sus versiones 2014 y 2015, así como de una guía de aves regional. Actualmente está vinculada al Instituto Humboldt desde la Subdirección de Investigaciones.|
 
 # Listas de Especies
+
 |           |            |
 |-----------|------------| 
 |<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/2018/2018-06-21-expedicion-historica-biodiversidad14.png"></figure> |**Carlos DoNacimiento:** Doctor en Ciencias (mención Zoología), Universidad Central de Venezuela. Desde hace 16 años desarrolla investigación en las áreas de sistemática, filogenia, biogeografía y conservación de peces de Sudamérica. Es especialista en sistemática de peces del orden Siluriformes (bagres). Igualmente su programa de investigación ha documentado la biodiversidad de peces troglobios (estrictamente cavernícolas), anuros endémicos de las cimas tepuyanas del escudo guayanés (género Oreoprhrynella), arácnidos del orden Opiliones (familias Agoristenidae y Stygnidae) y musarañas sorícidas (género Cryptotis) de los andes. Ha estado afiliado profesionalmente al Museo de Biología de la Universidad Central de Venezuela (Caracas, Venezuela), Museo de Historia Natural La Salle (Caracas), Academy of Natural Sciences (Filadelfia, EUA) y Universidad de Carabobo (Valencia, Venezuela).|
@@ -57,6 +59,7 @@ A continuación encontrarás la información sobre los panelistas y moderadores 
 
 
 # Aliados
+
 + Asociación Colombiana de Ictiólogos – Acictios
 + Comfenalco
 + Fundación Karisma
