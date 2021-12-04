@@ -50,7 +50,7 @@ Ingrese a la plantilla de publicación, allí encontrará 4 pestañas:
 
 En la pestaña de instrucciones, encontrará adicionalmente una sección titulada «Elementos obligatorios según el origen de los datos» (Fig. 1). De acuerdo a la lectura del caso de estudio, identifique cuáles son los elementos obligatorios para el ejercicio.
 
-![Figura 1. Instrucciones de la plantilla DwC: Elementos obligatorios según el origen de los datos](comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DWC/Fig1_Estandarizacion_datosobligatorios.png)
+![Figura 1. Instrucciones de la plantilla DwC: Elementos obligatorios según el origen de los datos](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DWC/Fig1_Estandarizacion_datosobligatorios.png)
 
 <sup>*Figura 1. Instrucciones de la plantilla DwC: Elementos obligatorios según el origen de los datos.*</sup>
 
