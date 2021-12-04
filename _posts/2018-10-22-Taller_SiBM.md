@@ -1,14 +1,9 @@
 ---
 title:  "Taller de gestión y publicación de datos sobre biodiversidad marina – SiBM"
 date:   2018-10-22
-categories: ["Talleres", "SIBM","2018", "Calidad de datos"]
+categories: ["Talleres", "SIBM", "2018", "Calidad de datos"]
 background: /assets/images/noticias_eventos/2018/2018-10-22-taller-gestion-publicacion-SiBM1.jpg
 
-gallery:
-  - url: /assets/images/noticias_eventos/SiBM-SIBCo_oct2018-1024x673.jpg
-  -  image_path:/assets/images/noticias_eventos/SiBM-SIBCo_oct2018-150x150.jpg
-  - alt: "placeholder image 1"
-  - title: "Image 1 title caption"
 ---
 
 **Fecha:**
@@ -84,4 +79,4 @@ Luisa Francisca Cardona Acuña	Invemar – ODI
 - [Taller práctico](https://drive.google.com/drive/folders/1sr2Y5OofT7K-IVrwDumXkZ0CMFGipQWB){:target="_blank"}
 - [Encuesta final](https://drive.google.com/file/d/1hEyEbyFAyqO9ywHFxs8DD11heK2u1bi-/view){:target="_blank"}
 
-{% include gallery caption="Participantes del taller." %}
+<img src="/assets/images/noticias_eventos/2018/2018-10-22-taller-gestion-publicacion-SiBM.jpg" width=770>
