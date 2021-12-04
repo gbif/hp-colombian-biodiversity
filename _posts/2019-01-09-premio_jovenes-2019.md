@@ -1,8 +1,8 @@
 ---
 title:  "Premio GBIF Jóvenes Investigadores 2019"
 date:   2019-01-09
-categories: ["Convocatorias", "CvLAC","2021"]
-background: /assets/images/noticias_eventos/Post_carlos_fajardo/premio-JI-2019.png
+categories: ["Convocatorias", "GBIF", "Young Researchers Award","2019"]
+background: /assets/images/noticias_eventos/2019/2019-01-09-premio_jovenes-2019.png
 
 ---
 
@@ -54,7 +54,8 @@ El SiB Colombia anunciará a los preseleccionados de esta decisión.
 Las propuestas que no sean seleccionadas pueden ser actualizadas y reenviadas para su consideración en años posteriores.
 
  
-**Revisión y premio de la propuesta GBIF (Segunda etapa)**. El Comité de Ciencia de GBIF revisará las nominaciones hechas por Colombia y otros países de la red de GBIF y seleccionará los ganadores del Premio a Jóvenes Investigadores a mediados de 2019.
+**Revisión y premio de la propuesta GBIF (Segunda etapa)**
+El Comité de Ciencia de GBIF revisará las nominaciones hechas por Colombia y otros países de la red de GBIF y seleccionará los ganadores del Premio a Jóvenes Investigadores a mediados de 2019.
 
 Los criterios de selección son los mismos aplicados en la primera etapa.  
 Se espera que los ganadores reconozcan el apoyo de GBIF cuando difundan los resultados de la investigación a través de publicaciones revisadas por pares, presentaciones en reuniones profesionales y otros medios.  
@@ -62,7 +63,7 @@ Se espera que los ganadores reconozcan el apoyo de GBIF cuando difundan los resu
 
 # Conoce las propuestas que han ganado en años anteriores:
 
-<https://www.gbif.org/article/44SftFORi0A6mwGK4sgAKW/young-researchers-award>{:target="_blank"}
+<https://www.gbif.org/article/44SftFORi0A6mwGK4sgAKW/young-researchers-award>
 
  [Descarga los términos de la convocatoria](https://drive.google.com/open?id=111ucmrIowCxj4M6cj1PE1p66-U8W5Sfx){: .button .is-primary :}{:target="_blank"}
 
