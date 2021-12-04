@@ -1,11 +1,11 @@
 ---
-title:  "Registros biológicos asociados a actividades de pesca deportiva"
-date:   2018-08-22
-categories: ["Pesca deportiva", "Ciencia ciudadana", "Ciencia participativa", "2018", "Registros biológicos"]
-background: /assets/images/noticias_eventos/Post_carlos_fajardo/IV-Simposio%20(1).jpg
+title:  "Lanzamiento Canales de Participación SiB Colombia y entrega de reconocimientos 2018
+"
+date:   2018-06-22
+categories: ["Colombia BIO", "Canales de participación", "Ciencia participativa", "2018", "Registros biológicos", "FIMA 2018"]
+background: /assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion.jpg
 
 ---
-<img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion.jpg" width=770>
 
 
 El viernes 22 de junio, durante la VI Feria Internacional del Medio Ambiente, el SiB Colombia lanzó oficialmente sus nuevos canales de participación y realizó la entrega de varios reconocimientos para celebrar la consolidación de la red más grande de datos abiertos sobre biodiversidad del país, que ya cuenta con más de cien socios publicadores activos.  
@@ -19,17 +19,31 @@ En el evento, que contó con la participación del director de Colciencias, Alej
 **Publicadores con más datos**  
 
 | | |
-| :<img src="/master/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos01.png" width=770>: |:**Instituto Humboldt**  
-Institutos SINA:|
-| :<img src="/master/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos02.png" width=770>: |:**Federación Nacional de Cafeteros** 
-Gremios del sector agropecuario:|
-| :<img src="/master/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos03.png" width=770>: |:**Secretaría Distrital de Ambiente**  
-Autoridades Ambientales:|
-| :<img src="/master/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos04.png" width=770>: |:**CIAT**  
-Centros de Investigación:|
-| :<img src="/master/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos05.png" width=770>: |:**RNOA**  
-Redes de Ciencia Participativa:|
-| :<img src="/master/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos06.png" width=770>: |:**Calidris**  
-Calidris:|
-| :<img src="/master/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos07.png" width=770>: |:**Universidad Nacional de Colombia**  Universidades
-:|
+| <img src="/master/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos01.png" width=770> |:**Instituto Humboldt** <br> Institutos SINA:|
+| :<img src="/master/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos02.png" width=770>: |:**Federación Nacional de Cafeteros** <br> Gremios del sector agropecuario:|
+| :<img src="/master/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos03.png" width=770>: |:**Secretaría Distrital de Ambiente** Autoridades Ambientales:|
+| :<img src="/master/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos04.png" width=770>: |:**CIAT** <br> Centros de Investigación:|
+| :<img src="/master/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos05.png" width=770>: |:**RNOA** <br> Redes de Ciencia Participativa:|
+| :<img src="/master/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos06.png" width=770>: |:**Calidris** <br> ONG:|
+| :<img src="/master/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos07.png" width=770>: |:**Universidad Nacional de Colombia** <br> Universidades:|
+
+---
+
+**Listas de especies de referencia**  
+
+| | |
+| :<img src="/master/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos08.png" width=770>: |:**ACICTIOS** <br> Peces de agua dulce de Colombia:|
+| :<img src="/master/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos09.png" width=770>: |:**Sociedad Colombiana de Mastozoología** <br> Mamíferos de Colombia:|
+
+---
+
+**Publicador número 100**  
+ 
+| | |
+| :<img src="/master/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos09.png" width=770>: |:**Coralina** <br> Publicador número 100:|
+
+
+---
+
+**Galería de imágenes**  
+
