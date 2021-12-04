@@ -50,9 +50,9 @@ Ingrese a la plantilla de publicación, allí encontrará 4 pestañas:
 
 En la pestaña de instrucciones, encontrará adicionalmente una sección titulada «Elementos obligatorios según el origen de los datos» (Fig. 1). De acuerdo a la lectura del caso de estudio, identifique cuáles son los elementos obligatorios para el ejercicio.
 
-<img src="comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DWC/Fig1_Estandarizacion_datosobligatorios.png" width=1000>
+![Figura 1. Instrucciones de la plantilla DwC: Elementos obligatorios según el origen de los datos](comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DWC/Fig1_Estandarizacion_datosobligatorios.png)
 
-<sup>*Figura 1. Instrucciones de la plantilla DwC. Elementos obligatorios según el origen de los datos.*</sup>
+<sup>*Figura 1. Instrucciones de la plantilla DwC: Elementos obligatorios según el origen de los datos.*</sup>
 
 ## Paso 3 - Crear los elementos obligatorios 
 Abra el archivo de trabajo [<FONT FACE="monospace"><b>«Datos_Caso1_20reg.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_docs/Datos_Caso1_20reg.xlsx) y cree los elementos obligatorios faltantes a partir de la información del caso de estudio y los mismos datos.
