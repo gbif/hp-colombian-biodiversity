@@ -2,7 +2,7 @@
 title:  "Taller georreferenciación de localidades en colecciones biológicas
 "
 date:   2014-01-13
-categories: ["Talleres", "Georreferenciación", "2014"]
+categories: ["Talleres", "Georreferenciación", "2014", "Colecciones biológicas"]
 background: /assets/images/noticias_eventos/2014/2014-01-13-Taller-georreferenciación-de-localidades-en-colecciones.jpg
 
 ---
@@ -26,9 +26,7 @@ Formulario de inscripción: [Aquí](https://docs.google.com/forms/d/e/1FAIpQLScQ
 
 El objetivo general de este taller es dar a conocer una metodología para estandarizar y georreferenciar localidades asociadas a datos primarios sobre biodiversidad en colecciones biológicas, que ha venido desarrollando conjuntamente el Instituto Humboldt y el Instituto de Ciencias Naturales.
 
- 
-
-**Objetivos específicos**
+ ## Objetivos específicos
 
 - Comprender los conceptos básicos en la estandarización y georreferenciación de localidades.
 - Dar a conocer el protocolo para georreferenciar localidades a partir del método radio-punto.
@@ -105,6 +103,7 @@ Es fundamental  comprender este término y la diferencia entre las escalas de ma
 Es indispensable que los participantes consulten los siguientes documentos de contexto y soporte previamente a la realización del taller:
 
 ## Quantum GIS	
+
 [Manual Quantum-GIS](http://download.osgeo.org/qgis/doc/manual/qgis-1.6.0_user_guide_es.pdf){:target="_blank"}  
 **Descripción:** Expone las ventajas de QGIS como herramienta de sistemas de  información geográfica, ofrece una guía paso a paso sobre el uso de los métodos integrados, así como el uso indicado para cada herramienta.
 
