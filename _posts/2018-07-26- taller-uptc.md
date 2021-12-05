@@ -1,26 +1,25 @@
 ---
 title:  "Taller de gestión y publicación de datos sobre biodiversidad – UPTC – Boyacá BIO"
 date:   2018-07-26
-categories: ["Convocatorias", "CvLAC","2021"]
-background: /assets/images/noticias_eventos/Post_carlos_fajardo/UPTC–Boyacá-BIO%20(1).jpg
+categories: ["Talleres", "Publicación","2018","UPTC","Boyacá BIO"]
+background: /assets/images/noticias_eventos/2018/2018-07-26-taller-datos-uptc-boyaca-bio1.jpg
 
 ---
-**Fecha:**  
+# Fecha:  
 23 al 25 de Julio de 2018
 
-**Lugar:**  
+# Lugar:  
 Universidad Pedagógica y Tecnológica de Colombia – Tunja, Boyacá
 
-**Descripción:**  
+# Descripción:  
 Crear capacidad en la Universidad Tecnológica y Pedagógica de Colombia  en la gestión y publicación de datos a través del SiB Colombia en el marco del proyecto Boyacá Bio.  
 
-**Logros:**
-
+# Logros:
 Los 24 participantes de este taller aprendieron sobre estandarización, gestión  y publicación de datos sobre Biodiversidad. Las habilidades adquiridas durante el taller les permitirán mejorar sus prácticas internas de  recolección y manejo de datos usando herramientas que facilitaran la gestión y limpieza de los datos. Con estos conocimientos podrán publicar datos a través del SiB Colombia y así aportar al conocimiento de la Biodiversidad del país.  
 
-**Participantes:**
+# Participantes:
 
-**Instructores**  
+## Instructores  
 
 Leonardo Buitrago  
 *Líder de línea, Administración de contenidos – SiB Colombia*  
@@ -28,7 +27,7 @@ Leonardo Buitrago
 Ricardo Ortíz  
 *Investigador, Administración de contenidos – SiB Colombia*  
 
-**Asistentes**
+## Asistentes
 
 + Leonardo Andrés Aranguren
 + Alejandro Lopera Toro
@@ -56,7 +55,7 @@ Ricardo Ortíz
 + Claudia Yaneth Rivera
  
 
-**Enlaces de interés:**
+## Enlaces de interés:
 
 + [Agenda y Asistentes](https://drive.google.com/drive/folders/1TMnZlSOxpPE0jSwfFQwXbwa86wxQaQG7){:target="_blank"}
 + [Fotografías](https://drive.google.com/open?id=1YmybuwHfBkO8udiIHApGjOTiLJfySeyF){:target="_blank"}
@@ -64,7 +63,6 @@ Ricardo Ortíz
 + [Taller práctico](https://drive.google.com/drive/folders/125JHCmaKLGFELU51fGf3sUODAgF_xDvl){:target="_blank"}
 + [Encuesta final](https://drive.google.com/file/d/1Cuys5MhoWFRT6_6S5FRP7RKaNSVLt_qp/view){:target="_blank"}
 
-<img src="/assets/images/noticias_eventos/Post_carlos_fajardo/UPTC–Boyacá-BIO%20(2).png" width=770>
+<img src="/assets/images/noticias_eventos/2018/2018-07-26-taller-datos-uptc-boyaca-bio2.png" width=770>
 
-<img src="/assets/images/noticias_eventos/Post_carlos_fajardo/UPTC–Boyacá-BIO%20(7).jpg" width=770>
-
+<img src="/assets/images/noticias_eventos/2018/2018-07-26-taller-datos-uptc-boyaca-bio3.jpg" width=770>
