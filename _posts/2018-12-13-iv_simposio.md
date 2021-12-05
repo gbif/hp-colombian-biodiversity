@@ -26,19 +26,19 @@ Bogotá, Colombia
 
 # Comité organizador:
 
-Dairo Escobar
-Leonardo Buitrago
+Dairo Escobar\  
+Leonardo Buitrago\
 *Sistema de Información sobre Biodiversidad – SiB Colombia*
 
-Jorge Velásquez-Tibatá
-Elkin Noguera
+Jorge Velásquez-Tibatá\
+Elkin Noguera\
 *Laboratorio de Biogeografía Aplicada – Instituto Alexander von Humboldt*
 
 # Agenda:
 
 |||
 |:-------|:----|
-|* Apertura del IV Simposio Colombiano de Informática de la Biodiversidad.	|Comité Organizador|
+| Apertura del IV Simposio Colombiano de Informática de la Biodiversidad.	|Comité Organizador|
 |[Evolución de los desafíos en la informática de biodiversidad](https://drive.google.com/open?id=1HCeQ24sGrRzw22Q2Fab0AQ6dNW2hCcwY){:target="_blank"}|John Wieczorek|
 |[Las colecciones biológicas como herramientas de aprendizaje y divulgación sobre biodiversidad.](https://drive.google.com/open?id=1Einr9hVdNwv7OjNuXl91EIIxap97DEN1){:target="_blank"}|Juliana Cardona Duque|
 |[	Megadiversidad de parásitos no considerada en los inventarios.](https://drive.google.com/open?id=1dXSIBO9xM-wnUWZ_DNSOnpGjIGNj6xU7){:target="_blank"}|Nubia Estela Matta Camacho|
