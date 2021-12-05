@@ -1,7 +1,7 @@
 ---
 title:  "SiB Colombia <3 SIBM"
 date:   2018-06-08
-categories: ["Invemar", "SIBM","2018"]
+categories: ["Calidad de datos", "INVEMAR", "GBIF", SIBM","2018"]
 background: /assets/images/noticias_eventos/2018/2018-06-08-SiB-Colombia-3SIBM.png
 
 ---
