@@ -26,7 +26,7 @@ Bogotá, Colombia
 
 # Comité organizador:
 
-Dairo Escobar\  
+Dairo Escobar\
 Leonardo Buitrago\
 *Sistema de Información sobre Biodiversidad – SiB Colombia*
 
