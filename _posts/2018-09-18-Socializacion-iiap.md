@@ -38,16 +38,15 @@ En la socialización se presentaron los resultados de la limpieza de los datos p
 Por último se hizo una re-inducción al administrador del IPT del IIAP, quien asumirá nuevamente la tarea de estructurar y publicar los datos generados por el IIAP para la región. Esta actividad se centró en abordar ejemplos de publicación de listas de especies, eventos de monitoreo y el adecuado uso del IPT como administrador.  
 
 
-# Participantes:**  
+# Participantes:  
 
-## Instructores**  
+## Instructores  
 
-+ Ricardo Ortiz,  
-*Administración de contenidos – SiB Colombia*
-+ Jeimmy Díaz,  
-*Asistente de Coordinación – SiB Colombia*
++ Ricardo Ortiz - *Administración de contenidos – SiB Colombia*
 
-## Asistentes**  
++ Jeimmy Díaz - *Asistente de Coordinación – SiB Colombia*
+
+## Asistentes  
 - William Klinger Braham – *Director IIAP*
 
 - Jimmy Lloreda – *Coordinador Sistemas*
