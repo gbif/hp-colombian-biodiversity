@@ -2,7 +2,7 @@
 title:  "Con éxito se desarrolla la entrega voluntaria de fauna silvestre en el país"
 date:   2015-08-17
 categories: ["Ministerio de Ambiente y Desarrollo Sostenible", "Fauna silvestre", "2015"]
-background: /assets/images/noticias_eventos/2015/2015-08-17-entrega-voluntaria-fauna-%20silvestre.jpg
+background: /assets/images/noticias_eventos/2015/2015-08-17-entrega-voluntaria-fauna-silvestre.jpg
 
 ---
 
