@@ -14,7 +14,7 @@ background: /assets/images/noticias_eventos/2018/2018-12-12-II-Panel-Discusion-C
 
 **Organizan:** Sociedad para la Ciencia Abierta y la Conservación de la Biodiversidad (SCiAC) y VCCZ
 
-Patrocinan: [ProCAT Internacional](https://procat-conservation.org/){:target="_blank"} & [Fundación Karisma](https://karisma.org.co/){:target="_blank"}
+**Patrocinan:** [ProCAT Internacional](https://procat-conservation.org/){:target="_blank"} & [Fundación Karisma](https://karisma.org.co/){:target="_blank"}
 
  
 
@@ -28,7 +28,7 @@ Estas prácticas de ciencia abierta están teniendo cada vez mayor relevancia en
 
  
 
-**Panelistas:**
+# Panelistas:
 
 + Santiago Ron (Pontificia Universidad Católica del Ecuador y BioWeb, Ecuador)
 + Manuela Fernández Pinto (Universidad de los Andes, Colombia)
@@ -38,6 +38,6 @@ Estas prácticas de ciencia abierta están teniendo cada vez mayor relevancia en
 + Pilar Sáenz (Fundación Karisma, Colombia)
 + Diego A. Gómez Hoyos (ProCAT / SCiAC, Colombia-Costa Rica) -Moderador-
  
-**Comité organizador:**
+# Comité organizador:
 
 + Diego A. Gómez Hoyos
