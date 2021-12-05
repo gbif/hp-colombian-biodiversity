@@ -1,7 +1,7 @@
 ---
 title:  "Taller I3B – Documentación digital en biodiversidad"
 date:   2014-12-13
-categories: ["Biodiversidad", "I3B", "2014","Taller"]
+categories: ["Biodiversidad", "I3B", "2014","Talleres"]
 background: assets/images/noticias_eventos/2014/2014-12-13-taller-i3b-documentacion-digital.jpg
 
 ---
