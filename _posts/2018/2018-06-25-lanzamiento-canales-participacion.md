@@ -32,25 +32,25 @@ En el evento, que contó con la participación del director de Colciencias, Alej
 
 ---
 
-**Listas de especies de referencia**  
+## Listas de especies de referencia
 
 | | |
 |------------|------------|
-| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos08.png"></figure> | **ACICTIOS** <br> Peces de agua dulce de Colombia |
-| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos09.png"></figure> | **Sociedad Colombiana de Mastozoología** <br> Mamíferos de Colombia |
+| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos11.png"></figure> | **ACICTIOS** <br> Peces de agua dulce de Colombia |
+| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos12.png"></figure> | **Sociedad Colombiana de Mastozoología** <br> Mamíferos de Colombia |
 
 ---
 
-**Publicador número 100**  
+## Publicador número 100
  
 | | |
 |------------|------------|
-| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos10.png"></figure> | **Coralina** <br>Publicador número 100 |
+| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos13.png"></figure> | **Coralina** <br>Publicador número 100 |
 
 
 ---
 
-**Galería de imágenes**  
+## Galería de imágenes*
 
 | | |  |
 |-------------|-------------|-----|
