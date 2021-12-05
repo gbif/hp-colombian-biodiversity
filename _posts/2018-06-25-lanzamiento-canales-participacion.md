@@ -14,19 +14,20 @@ En el evento, que contó con la participación del director de Colciencias, Alej
 
 [Vea el video del evento](https://www.facebook.com/watch/?v=1725704447523586){: .button .is-primary :}{:target="_blank"}. 
 
+
 # Reconocimientos 2018
 
 **Publicadores con más datos**  
 
 | | |
-| --- | --- |
-| ![text]("assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos01.png") | **Instituto Humboldt** <br> Institutos SINA |
-| <img src="assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos02.png" width=770> | **Federación Nacional de Cafeteros** <br> Gremios del sector agropecuario |
-| <img src="assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos03.png" width=770> | **Secretaría Distrital de Ambiente** <br> Autoridades Ambientales <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/NjsnngDJzcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
-| <img src="assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos04.png" width=770> | **CIAT** <br> Centros de Investigación |
-| <img src="assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos05.png" width=770> | **RNOA** <br> Redes de Ciencia Participativa <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/Mnp7f0ax9OI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|
-| <img src="assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos06.png" width=770> | **Calidris** <br> ONG <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/Sk8rapfkO0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
-| <img src="assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos07.png" width=770> | **Universidad Nacional de Colombia** <br> Universidades |
+|---|---|
+| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos01.png"></figure> | **Instituto Humboldt**<br>Institutos SINA |
+| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos02.png"></figure> | **Federación Nacional de Cafeteros**<br>Gremios del sector agropecuario |
+| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos03.png"></figure> | **Secretaría Distrital de Ambiente**<br>Autoridades Ambientales<br><iframe width="560" height="315" src="https://www.youtube.com/embed/NjsnngDJzcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos04.png"></figure> | **CIAT**<br>Centros de Investigación |
+| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos05.png"></figure> | **RNOA**<br>Redes de Ciencia Participativa<br><iframe width="560" height="315" src="https://www.youtube.com/embed/Mnp7f0ax9OI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|
+| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos06.png"></figure> | **Calidris**<br>ONG<br><iframe width="560" height="315" src="https://www.youtube.com/embed/Sk8rapfkO0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos07.png"></figure> | **Universidad Nacional de Colombia**<br>Universidades |
 
 ---
 
@@ -34,8 +35,8 @@ En el evento, que contó con la participación del director de Colciencias, Alej
 
 | | |
 |------------|------------|
-| <img src="assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos08.png" width=770> | **ACICTIOS** <br> Peces de agua dulce de Colombia |
-| <img src="assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos09.png" width=770> | **Sociedad Colombiana de Mastozoología** <br> Mamíferos de Colombia |
+| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos08.png"></figure> | **ACICTIOS** <br> Peces de agua dulce de Colombia |
+| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos09.png"></figure> | **Sociedad Colombiana de Mastozoología** <br> Mamíferos de Colombia |
 
 ---
 
@@ -43,7 +44,7 @@ En el evento, que contó con la participación del director de Colciencias, Alej
  
 | | |
 |------------|------------|
-| <img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos09.png" width=770> | **Coralina** <br>Publicador número 100 |
+| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos10.png"></figure> | **Coralina** <br>Publicador número 100 |
 
 
 ---
@@ -52,6 +53,6 @@ En el evento, que contó con la participación del director de Colciencias, Alej
 
 | | |  |
 |-------------|-------------|-----|
-|/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion1.jpg|/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion2.jpg|/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion3.jpg|
-|/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion4.jpg|/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion5.jpg|/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion6.jpg|
-|/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion7.jpg|/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion8.jpg|/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion9.jpg|
+|<figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion1.jpg"></figure>|<figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion2.jpg"></figure>|<figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion3.jpg"></figure>|
+|<figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion4.jpg"></figure>|<figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion5.jpg"></figure>|<figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion6.jpg"></figure>|
+|<figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion7.jpg"></figure>|<figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion8.jpg"></figure>|<figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion9.jpg"></figure>|
