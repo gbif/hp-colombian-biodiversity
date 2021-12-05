@@ -50,7 +50,6 @@ En el evento, que contó con la participación del director de Colciencias, Alej
  
 - **Publicador número 100:** Coralina
 
-
 ---
 
 ## Galería de imágenes
