@@ -19,33 +19,32 @@ En el evento, que contó con la participación del director de Colciencias, Alej
 
 ## Publicadores con más datos
 
+- **Institutos SINA**: Instituto Humboldt 
+- **Gremios del sector agropecuario**: Federación Nacional de Cafeteros
+- **Autoridades Ambientales**: Secretaría Distrital de Ambiente
+-<iframe width="560" height="315" src="https://www.youtube.com/embed/NjsnngDJzcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| | |
-|---|---|
-| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos01.png"></figure>| **Instituto Humboldt**<br>Institutos SINA |
-| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos02.png"></figure> | **Federación Nacional de Cafeteros**<br>Gremios del sector agropecuario |
-| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos03.png"></figure> | **Secretaría Distrital de Ambiente**<br>Autoridades Ambientales<br><[Link al video](https://www.youtube.com/watch?v=NjsnngDJzcE&t=16s){:target="_blank"} |
-| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos04.png"></figure> | **CIAT**<br>Centros de Investigación |
-| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos05.png"></figure> | **RNOA**<br>Redes de Ciencia Participativa<br>[Link al video](https://www.youtube.com/watch?v=Mnp7f0ax9OI){:target="_blank"}|
-| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos06.png"></figure> | **Calidris**<br>ONG<br>[Link al video](https://www.youtube.com/watch?v=Sk8rapfkO0I){:target="_blank"} |
-| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos07.png"></figure> | **Universidad Nacional de Colombia**<br>Universidades |
+- **Centros de Investigación**: CIAT
+- **Redes de Ciencia Participativa:** RNOA
+-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mnp7f0ax9OI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- **ONG**:Calidris
+-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sk8rapfkO0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ---
 
 ## Listas de especies de referencia
 
-| | |
-|------------|------------|
-| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos11.png"></figure> | **ACICTIOS** <br> Peces de agua dulce de Colombia |
-| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos12.png"></figure> | **Sociedad Colombiana de Mastozoología** <br> Mamíferos de Colombia |
+- **Peces de agua dulce de Colombia:** ACICTIOS
+- **Mamíferos de Colombia:** Sociedad Colombiana de Mastozoología
+
 
 ---
 
 ## Publicador número 100
  
-| | |
-|------------|------------|
-| <figure class="image is-480x480"><img src="/assets/images/noticias_eventos/2018/2018-06-25-lanzamiento-canales-participacion-logos13.png"></figure> | **Coralina** <br>Publicador número 100 |
+- **Publicador número 100:** Coralina
 
 
 ---
