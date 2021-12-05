@@ -1,33 +1,11 @@
 ---
-title:  "Colecciones Biológicas 3.0"
-date:   2012-04-13
-categories: ["Talleres", "Colecciones biológicas", "2012", "GBIF"]
-background: /assets/images/noticias_eventos/2012/2012-04-13-taller-colecciones-3punto0-750x390.jpg
+title:  "Taller de publicación de datos sobre biodiversidad para el Valle del Cauca"
+date:   2012-10-13
+categories: ["Talleres", "Publicación", Valle del Cauca", "Calidad de datos", "2012"]
+background: /assets/images/noticias_eventos/2012/2012-10-13-Taller-publicacion-datos-valle-cauca.jpg
+
 ---
 
-**Fechas:** 8-11 octubre 2012  
-**Ciudad:** Villa de Leyva (Colombia).  
-**Lugar del taller:** Claustro de San Agustín, Instituto Alexander von Humboldt. Dirección: Carrera 8 No. 15-08, Villa de Leyva (Boyacá), Colombia. [Sitio web](http://humboldt.org.co/es/boletines-y-comunicados/item/1677-claustro-de-san-agustin-reabre-sus-puertas-con-la-exposicion-sobre-paramos-corpus-paramo){:target="_blank"}.  
-**Organizadores:** [SiB, Sistema de Información sobre Biodiversidad de Colombia](https://biodiversidad.co/acercade/sibcolombia) ([Instituto Alexander von Humboldt](http://www.humboldt.org.co/){:target="_blank"}) y [Nodo Español de GBIF](GBIF.ES){:target="_blank"}.  
-**Idioma:** español.  
-**Número de participantes:** 26.  
-**Ponentes:**  
-- Cristina Villaverde (GBIF.ES)
-- Danny Vélez (SiB Colombia)
-- Greg Riccardi (The Florida State University)
-- Francisco Pando (GBIF.ES)
-- Juan Carlos Bello (SiB Colombia)
-- Liliana Lara (CONABIO)
-- María Cecilia Londoño (IAvH)
-- María Fernanda Gómez (SiB Colombia)
-- Maylin González (IAvH)
-- Óscar Orrego (SiB Colombia).
+Del 12 al 13 de julio, se llevó a cabo el taller de publicación de datos sobre biodiversidad para el Valle  del Cauca en las instalaciones de la Universidad Icesi de Cali. Este evento fue organizado por la Corporación Autónoma Regional del Valle del Cauca, en asocio con el Equipo Coordinador del SiB Colombia.  
 
-**Fecha límite para el envío de solicitudes:** 31 de julio de 2012.  
-**Hotel:** [Hotel La Posada de San Antonio](http://www.hotellaposadadesanantonio.com/){:target="_blank"}
-
-Contacto: info@gbif.es
-
-Más información: [Clic AQUÍ](http://www.recibio.net/colecciones-biologicas-3-0/){:target="_blank"}
-
-**Los materiales del taller se encuentran actualmente disponibles desde el mismo programa así como en el siguiente [enlace](http://www.recibio.net/colecciones-biologicas-3-0/?postTabs=2){:target="_blank"}.**
+El taller buscaba fortalecer las capacidades regionales en el manejo práctico de herramientas para facilitar la gestión y publicación de registros biológicos, a partir de las experiencias de los participantes y de sus datos de trabajo como insumos fundamentales. El evento convocó a 26 representantes de las entidades públicas y privadas más representativas de la región que trabajan conjuntamente para consolidar la base del conocimiento de la biodiversidad del Valle del Cauca.
