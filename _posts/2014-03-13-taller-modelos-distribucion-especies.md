@@ -1,7 +1,7 @@
 ---
 title:  "Taller de fundamentos, evaluación y futuro de los modelos de distribución de especies"
 date:   2014-03-13
-categories: ["Talleres", "Modelización de especies", "2014"]
+categories: ["Convocatorias","Talleres", "Modelización de especies", "2014"]
 background: /assets/images/noticias_eventos/2014/2014-03-13-taller-modelos-distribucion-especies.jpg
 
 ---
