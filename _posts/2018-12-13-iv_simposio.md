@@ -1,8 +1,8 @@
 ---
 title:  "Memorias del IV Simposio de Informática de la Biodiversidad"
 date:   2018-12-13
-categories: ["Convocatorias", "CvLAC","2021"]
-background: /assets/images/noticias_eventos/Post_carlos_fajardo/IV-Simposio%20(1).jpg
+categories: ["Simposios", "Datos","2018","Congresos"]
+background: /assets/images/noticias_eventos/2018/2018-12-13-Memorias-IVSimposioInformatica-Biodiversidad.jpg
 
 ---
 
@@ -22,20 +22,20 @@ Centro de Convenciones
 Ac. 24 #38-47
 Bogotá, Colombia
 
-**Comité organizador:**  
-Dairo Escobar  
-Leonardo Buitrago  
+**Comité organizador:**
+    Dairo Escobar
+Leonardo Buitrago
 *Sistema de Información sobre Biodiversidad – SiB Colombia*
 
-Jorge Velásquez-Tibatá  
-Elkin Noguera  
+Jorge Velásquez-Tibatá
+Elkin Noguera
 *Laboratorio de Biogeografía Aplicada – Instituto Alexander von Humboldt*
 
 **Agenda:**
 
 |||
 |:-------|:----|
-|**Apertura del IV Simposio Colombiano de Informática de la Biodiversidad.**	|**Comité Organizador**|
+|* Apertura del IV Simposio Colombiano de Informática de la Biodiversidad.	|Comité Organizador|
 |[Evolución de los desafíos en la informática de biodiversidad](https://drive.google.com/open?id=1HCeQ24sGrRzw22Q2Fab0AQ6dNW2hCcwY){:target="_blank"}|John Wieczorek|
 |[Las colecciones biológicas como herramientas de aprendizaje y divulgación sobre biodiversidad.](https://drive.google.com/open?id=1Einr9hVdNwv7OjNuXl91EIIxap97DEN1){:target="_blank"}|Juliana Cardona Duque|
 |[	Megadiversidad de parásitos no considerada en los inventarios.](https://drive.google.com/open?id=1dXSIBO9xM-wnUWZ_DNSOnpGjIGNj6xU7){:target="_blank"}|Nubia Estela Matta Camacho|
@@ -65,24 +65,8 @@ Elkin Noguera
 
 **El simposio en imágenes**
 
-<img src="/assets/images/noticias_eventos/Post_carlos_fajardo/IV-Simposio%20(11).jpg" width=770>
+<img src="/assets/images/noticias_eventos/2018/2018-12-13-Memorias-IVSimposioInformatica-Biodiversidad02.jpg" width=770>
 
-# Aliados
-* Asociación Colombiana de Ictiólogos – Acictios
-* Comfenalco
-* Fundación Karisma
-* Instituto de Investigación de Recursos Biológicos Alexander von Humboldt
-* Investigación y la Preservación del Patrimonio Cultural y Natural del Valle del Cauca – INCIVA
-* Lumon S.A.S
-* Pontificia Universidad Javeriana
-* Sociedad Colombiana de Mastozoología – SCMas
-* Universidad Católica de Oriente
-* Universidad CES
-* Universidad de Antioquia
-* Universidad de Caldas
-* Universidad del Quindío
-* Universidad del Tolima
-* Universidad Nacional de Colombia – ICN
-* Universidad Nacional de Colombia – sede Medellín
-* Universidad Nacional de Colombia – sede Orinoquia
-* Universidad Pedagógica y Tecnológica de Colombia
+
+<img src="/assets/images/noticias_eventos/2018/2018-12-13-Memorias-IVSimposioInformatica-Biodiversidad01.png" width=770>
+
