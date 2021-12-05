@@ -18,7 +18,8 @@ El propósito de este taller es dar conocer diferentes rutinas y herramientas pa
 
 ***El taller está dirigido a científicos y profesionales con responsabilidades y conocimiento técnico en la gestión de centros documentales, bibliotecas y/o colecciones biológicas con repositorios físicos o virtuales.***
 
-**SELECCIÓN DE CANDIDATOS**
+# SELECCIÓN DE CANDIDATOS
+
 El procesos de selección se llevará a cabo en dos pasos:
 
 1. El Equipo Coordinador del SiB seleccionará máximo dos candidatos colombianos bajo los términos establecidos (ver abajo criterios de selección). Los interesados deberán aplicar directamente al SiB Colombia a través del correo electrónico sib+i3b@humboldt.org.co hasta el día **25 enero de 2015**, con el formulario de inscripción debidamente diligenciado, bajo el asunto: convocatoria I3B 2015. El SiB Colombia remitirá las nominaciones de los candidatos a I3B.
@@ -27,9 +28,10 @@ El procesos de selección se llevará a cabo en dos pasos:
 
  
 
-**CRITERIOS DE SELECCIÓN Y REQUISITOS**
+# CRITERIOS DE SELECCIÓN Y REQUISITOS
+
 - Diligenciar completamente el formulario de inscripción (puede ser descargado aquí).
-- Adjuntar hoja de vida y carta de aval de la entidad o universidad a la cual pertenece el interesado. El aval puede ser a nivel de cualquier instancia siempre y cuando se elabore en papel membreteado de la entidad.
+- **Adjuntar hoja de vida y carta de aval** de la entidad o universidad a la cual pertenece el interesado. El aval puede ser a nivel de cualquier instancia siempre y cuando se elabore en papel membreteado de la entidad.
 - Contar con experiencia y conocimientos información sobre biodiversidad y/o informática de la biodiversidad.
 - Capacidad y compromiso para difundir los contenidos del taller.
  
@@ -42,12 +44,14 @@ En el caso de que haya interesados procedentes de entidades que no son socias de
 
 Los candidatos serán seleccionados a partir de sus méritos y su adecuación a los criterios de selección, sobre la base de la información proporcionada en el formulario, su CV y la carta de aval. **Por favor abstenerse de participar si no cumple con los requisitos mencionados.**
 
-**COMPROMISOS**
+# COMPROMISOS 
+
 Los participantes deberán mostrar la capacidad de aplicar y diseminar los contenidos aprendidos en el taller en sus entornos nacionales. Consulte el programa y mas información del taller en: <http://www.recibio.net/taller-i3b-documentacion-digital/>.
 
 Recuerde que la fecha límite de envío de postulaciones es el **25 de enero.**
 
-**FINANCIACIÓN**
+# FINANCIACIÓN
+
 Los participantes tendrán todos los gastos de viaje, alojamiento y manutención cubiertos; no obstante, **asumir parte de estos gastos por parte del participante o entidad que lo avala, ayudará a que el candidato sea seleccionado.** El taller no conlleva gastos de inscripción.
 
 En el caso de que haya interesados procedentes de entidades que no son socias del SiB Colombia, se considerará su candidatura.
