@@ -1,7 +1,7 @@
 ---
 title:  "Socialización de los resultados de limpieza de datos publicados a través del ipt del IIAP"
 date:   2018-09-18
-categories: ["2018", "IIAP","IPT"]
+categories: ["2018", "IIAP", "IPT", "Chocó"]
 background: /assets/images/noticias_eventos/2018/2018-09-18-Socializacion-resultados-ipt-IIAP-01.jpg
 
 gallery2:
