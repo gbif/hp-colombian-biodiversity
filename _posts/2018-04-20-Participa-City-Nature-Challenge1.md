@@ -18,8 +18,7 @@ El CNC es una competencia creada en el 2016 por la Academia de Ciencias de Calif
 
 1. Descargar el app de Naturalista (Disponible para Iphone y Android)
 2. Registrarse y seleccionar como país Colombia
-3. Unirse al proyecto del evento:
-<http://naturalista.biodiversidad.co/projects/reto-naturalista-urbano-2018-bogota-d-c>{:target="_blank"}
+3. Unirse al proyecto del evento: <http://naturalista.biodiversidad.co/projects/reto-naturalista-urbano-2018-bogota-d-c>{:target="_blank"}
 4. Realizar observaciones de naturaleza entre el 27 y el 30 de abril
 
 Las observaciones las pueden registrar en cualquier lugar de la ciudad, en el Venado :), o se pueden unir a los eventos de apoyo al CNC que están organizando las instituciones con las que estamos trabajando: Lista eventos CNC 2018
