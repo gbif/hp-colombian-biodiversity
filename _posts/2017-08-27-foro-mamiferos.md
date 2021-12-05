@@ -7,11 +7,23 @@ background: /assets/images/noticias_eventos/2017/2017-08-27-foro-mamiferos.jpg
 
 ---
 
-**Fecha:** Lunes 11 de septiembre 2017.  
-**Lugar:** Venado de Oro, Instituto Humboldt.  
-**Inscripciones:** foro.scmas@mamiferoscolombia.org (Hasta el 22 de agosto).  
-**Hora:** 8:00 a.m. a 5:00 p.m.  
-**Transmisión en Vivo el día del evento**  
+# Fecha: 
+
+Lunes 11 de septiembre 2017.  
+
+# Lugar:
+
+Venado de Oro, Instituto Humboldt.  
+
+# Inscripciones:
+
+foro.scmas@mamiferoscolombia.org (Hasta el 22 de agosto).  
+
+# Hora: 
+
+8:00 a.m. a 5:00 p.m.  
+
+# Transmisión en Vivo el día del evento**  
 
 Colciencias, el Instituto Humboldt y el SiB Colombia se unieron para facilitar la consolidación de las listas de especies de referencia para Colombia bajo un mismo estándar y su acceso, a través de un mismo lugar.   
 
@@ -21,12 +33,13 @@ El 11 de septiembre, la SCMas presentará los logros alcanzados durante el proye
 
  
 
-**Recursos asociados:**  
+# Recursos asociados:  
+
 Procesamiento de Imágenes obtenidas con Cámaras Trampa (NAIRA III)
 [Más información sobre el software](http://sistemic.udea.edu.co/es/investigacion/proyectos/camaras-trampa/) {:target="_blank"}  
 Descarga: [Click Aquí](https://drive.google.com/drive/folders/0B3k8_AOqMbDzeVRWWVFnMnNNbkU?resourcekey=0-MXTwL5LgJxdBmxZ3Da5lAA){:target="_blank"}  
 
-**Agenda:**
+# Agenda:
 
 - 8:00 – 8:15 a.m.: Apertura. Recibimiento a los asistentes
 - 8:15 – 8:45 a.m.:	Bienvenida y presentación del convenio
@@ -41,7 +54,7 @@ Descarga: [Click Aquí](https://drive.google.com/drive/folders/0B3k8_AOqMbDzeVRW
 - 4:30 – 5:00 p.m.:	Socialización de la experiencia a partir del trabajo realizado en el taller.
 - 5:00 p.m.:	Cierre. Entrega de certificados de asistencia.
 
-**Videos del evento:**  
+# Videos del evento:  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/esThEURe5uU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
