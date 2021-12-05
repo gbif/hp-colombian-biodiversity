@@ -21,14 +21,19 @@ En el evento, que contó con la participación del director de Colciencias, Alej
 
 - **Institutos SINA**: Instituto Humboldt 
 - **Gremios del sector agropecuario**: Federación Nacional de Cafeteros
-- **Autoridades Ambientales**: Secretaría Distrital de Ambiente
--<iframe width="560" height="315" src="https://www.youtube.com/embed/NjsnngDJzcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- **Autoridades Ambientales**: Secretaría Distrital de Ambiente :point_down:   
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NjsnngDJzcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - **Centros de Investigación**: CIAT
-- **Redes de Ciencia Participativa:** RNOA
--<iframe width="560" height="315" src="https://www.youtube.com/embed/Mnp7f0ax9OI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- **ONG**:Calidris
--<iframe width="560" height="315" src="https://www.youtube.com/embed/Sk8rapfkO0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- **Redes de Ciencia Participativa:** RNOA :point_down:   
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mnp7f0ax9OI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- **ONG**:Calidris :point_down:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sk8rapfkO0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
