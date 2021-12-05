@@ -36,7 +36,7 @@ El 11 de septiembre, la SCMas presentará los logros alcanzados durante el proye
 # Recursos asociados:  
 
 Procesamiento de Imágenes obtenidas con Cámaras Trampa (NAIRA III)
-[Más información sobre el software](http://sistemic.udea.edu.co/es/investigacion/proyectos/camaras-trampa/) {:target="_blank"}  
+[Más información sobre el software](http://sistemic.udea.edu.co/es/investigacion/proyectos/camaras-trampa/){:target="_blank"}  
 Descarga: [Click Aquí](https://drive.google.com/drive/folders/0B3k8_AOqMbDzeVRWWVFnMnNNbkU?resourcekey=0-MXTwL5LgJxdBmxZ3Da5lAA){:target="_blank"}  
 
 # Agenda:
