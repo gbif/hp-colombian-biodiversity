@@ -2,16 +2,16 @@
 title:  "III Encuentro de museos y colecciones biológicas
 "
 date:   2018-09-24
-categories: ["Convocatorias", "CvLAC","2021"]
-background: /assets/images/noticias_eventos/Post_carlos_fajardo/museos-blog.jpg
+categories: ["Colecciones biológicas", "INVEMAR", "Museos","2018"]
+background: /assets/images/noticias_eventos/2018/2018-09-24-III-Encuentro-museos-colecciones.jpg
 
 ---
 
-**Fecha:**
+# Fecha:
 
 05 – 08 de septiembre de 2018  
 
-**Lugar:**
+# Lugar:
 
 Santa Marta, Magdalena / Invemar  
 
@@ -26,7 +26,7 @@ El SiB Colombia participó activamente en el bloque de charlas de experiencias c
 Por otro lado, compartimos con el Invemar y el Instituto Humboldt en el Conversatorio de normativa ambiental, donde hablamos sobre del rol del SiB Colombia en el marco de la legislación nacional vigente y las oportunidades y retos que la red enfrenta en el cumplimiento de la misma.  
 
 
-**Participantes:**
+# Participantes:
 
 + Invemar
 +  Universidad El Bosque
@@ -38,8 +38,8 @@ Por otro lado, compartimos con el Invemar y el Instituto Humboldt en el Conversa
 + Universidad de la Salle
  
 
-**Enlaces de interés**
+# Enlaces de interés
 
-+ [Video cápsulas](https://www.youtube.com/results?search_query=%23AltaMonta%C3%B1aAlProfundoMar){:target="_blank"}
-+ [Presentaciones](https://drive.google.com/open?id=1SffrZgccMnrLuHurFnNDgz4UARLgH-3z){:target="_blank"}
-+ [Fotos del evento](https://twitter.com/hashtag/altamonta%C3%B1aalprofundomar?f=images&vertical=default&src=hash){:target="_blank"}
+[Video cápsulas](https://www.youtube.com/results?search_query=%23AltaMonta%C3%B1aAlProfundoMar){:target="_blank"}
+[Presentaciones](https://drive.google.com/open?id=1SffrZgccMnrLuHurFnNDgz4UARLgH-3z){:target="_blank"}
+[Fotos del evento](https://twitter.com/hashtag/altamonta%C3%B1aalprofundomar?f=images&vertical=default&src=hash){:target="_blank"}
