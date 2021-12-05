@@ -2,7 +2,7 @@
 title:  "Taller de herramientas informáticas para colecciones biológicas"
 date:   2013-03-13
 categories: ["Talleres", "Colecciones biológicas
-", "2013"]
+", "2013",]
 background: /assets/images/noticias_eventos/2013/2013-03-13-Taller-herramientas-informáticas-colecciones.jpg
 
 ---
@@ -15,7 +15,7 @@ El taller es organizado por el Instituto de Ciencias Naturales (ICN) de la Unive
 
 El propósito de este taller teórico-práctico es crear y fortalecer capacidades técnicas para la sistematización de colecciones biológicas en Colombia. El taller desarrollará criterios prácticos y procedimientos sencillos  que permitirán a las colecciones tomar decisiones informadas acerca de la selección de herramientas de sistematización. Las sesiones prácticas estarán orientadas a la capacitación en el uso de una herramienta en particular y a la solución de dudas para los que cuentan con experiencia previa.
 
-***NOTA:*** El taller tiene un énfasis en el uso de tres herramientas para la sistematización y gestión de colecciones de historia natural (herbarios y museos de historia natural): Herbar, Zoorbar y Specify. Las sesiones de Specify serán avanzadas, por lo tanto para participar en ellas se requiere que la colección use actualmente esta herramienta.
+***Nota:*** El taller tiene un énfasis en el uso de tres herramientas para la sistematización y gestión de colecciones de historia natural (herbarios y museos de historia natural): Herbar, Zoorbar y Specify. Las sesiones de Specify serán avanzadas, por lo tanto para participar en ellas se requiere que la colección use actualmente esta herramienta.
 
 # ¿A QUIÉN VA DIRIGIDO?
 
@@ -134,5 +134,5 @@ Se recomienda a los participantes consultar los siguientes documentos de context
 
 
 
-CONTACTO  
+**CONTACTO:**  
 Para mayor información contáctenos al correo electrónico sib@humboldt.org.co con el asunto: **Taller colecciones biológicas.**
