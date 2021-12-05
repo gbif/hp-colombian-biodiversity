@@ -14,7 +14,7 @@ El curso de monitoreo contó con tres grandes fases de desarrollo, la primera se
 Entre los principales resultados obtenidos del curso se encuentra un libro de memorias digital (muy pronto) con todos los aportes de los participantes, [documentación gráfica](https://www.flickr.com/photos/137537742@N07/sets/72157672666261508){:target="_blank"} de cada una de las temáticas tratadas a lo largo del curso, [fotografías del evento](https://www.flickr.com/photos/137537742@N07/sets/72157672666665678){:target="_blank"}, y un [video](https://youtu.be/Pf9tzEyRpWg){:target="_blank"} con las reflexiones principales del curso. Adicionalmente, es importante resaltar el interés de los participantes en mantener la comunidad de práctica activa usando los canales de comunicación virtuales y compartiendo los resultados obtenidos a través de sus actividades de réplica. A la fecha los participantes del curso han realizado 16 réplicas en diferentes partes de Colombia y Latinoamérica y han elaborado 14 planes de monitoreo participativos.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pf9tzEyRpWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Enlaces relacionados:**
+# Enlaces relacionados:
 
 + [Cápsula 1](https://www.facebook.com/instituto.humboldt/videos/1594444620623088/){:target="_blank"}
 + [Cápsula 2](https://www.facebook.com/instituto.humboldt/videos/1598516280215922/){:target="_blank"}
