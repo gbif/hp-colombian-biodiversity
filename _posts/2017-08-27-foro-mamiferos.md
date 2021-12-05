@@ -23,7 +23,7 @@ foro.scmas@mamiferoscolombia.org (Hasta el 22 de agosto).
 
 8:00 a.m. a 5:00 p.m.  
 
-# Transmisión en Vivo el día del evento**  
+# Transmisión en Vivo el día del evento
 
 Colciencias, el Instituto Humboldt y el SiB Colombia se unieron para facilitar la consolidación de las listas de especies de referencia para Colombia bajo un mismo estándar y su acceso, a través de un mismo lugar.   
 
