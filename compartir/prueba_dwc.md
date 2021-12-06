@@ -27,6 +27,7 @@ toc: true
 | Elementos relacionados | [basisOfRecord](#basisOfRecord_Base_del_registro_33)|
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_, Evento de muestreo |
 | Vocabulario controlado (Ver definiciones de cada vocabulario en [Anexo 1](#Anexo_1_Vocabularios_controlados_84)) | Stillmage, MovingImage, Sound, PhysicalObject, Event |
+|    |    |
 
 
 #### type (Tipo)
