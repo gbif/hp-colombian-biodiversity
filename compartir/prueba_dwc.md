@@ -40,20 +40,20 @@ height: 41vh
 
 ### ELEMENTOS DE REGISTRO
 
-[**basisOfRecord**](#basisOfRecord_Base_del_registro_33) (Base del registro)[**type**](#type_Tipo_42) (Tipo) [**institutionCode**](#institutionCode_Cdigo_de_la_institucin_50) (Código de la institución) [**institutionID**](#institutionID_ID_de_la_institucin_58) (ID de la institución) [**collectionCode**](#collectionCode_Cdigo_de_la_coleccin_66) (Código de la colección)  [**collectionID**](#collectionID_ID_de_la_coleccin_74) (ID de la colección) | [**datasetName**](#datasetName_Nombre_del_conjunto_de_datos_82) (Nombre del conjunto de datos) | [**datasetID**](#datasetID_ID_del_conjunto_de_datos_90) (ID del conjunto de datos) | [**modified**](#modified_Modificado_98) (Modificado) | [**language**](#language_Idioma_105) (Idioma) | [**license**](#license_Licencia_113) (Licencia) | [**rightsHolder**](#rightsHolder_Titular_de_los_derechos_119) (Titular de los derechos) | [**accessRights**](#accessRights_Derechos_de_acceso_126) (Derechos de acceso) | [**bibliographicCitation**](#bibliographicCitation_Citacin_bibliogrfica_133) (Citación bibliográfica) | [**references**](#references_Referencias_140) (Referencias) | [**ownerInstitutionCode**](#ownerInstitutionCode_Cdigo_de_la_institucin_propietaria_147) (Código de la institución propietaria) | [**informationWithheld**](#informationWithheld_Informacin_retenida_154) (Información retenida) | [**dataGeneralizations**](#dataGeneralizations_Generalizacin_de_los_datos_161) (Generalización de los datos) | [**dynamicProperties**](#dynamicProperties_Propiedades_dinmicas_168) (Propiedades dinámicas) |
+[**basisOfRecord**](#basisOfRecord_Base_del_registro_33) (Base del registro)[**type**](#type_Tipo_42) (Tipo) [**institutionCode**](#institutionCode_Cdigo_de_la_institucin_50) (Código de la institución) [**institutionID**](#institutionID_ID_de_la_institucin_58) (ID de la institución) [**collectionCode**](#collectionCode_Cdigo_de_la_coleccin_66) (Código de la colección)  [**collectionID**](#collectionID_ID_de_la_coleccin_74) (ID de la colección) | [**datasetName**](#datasetName_Nombre_del_conjunto_de_datos_82) (Nombre del conjunto de datos) [**datasetID**](#datasetID_ID_del_conjunto_de_datos_90) (ID del conjunto de datos) [**modified**](#modified_Modificado_98) (Modificado) [**language**](#language_Idioma_105) (Idioma)[**license**](#license_Licencia_113) (Licencia) | [**rightsHolder**](#rightsHolder_Titular_de_los_derechos_119) (Titular de los derechos) | [**accessRights**](#accessRights_Derechos_de_acceso_126) (Derechos de acceso) | [**bibliographicCitation**](#bibliographicCitation_Citacin_bibliogrfica_133) (Citación bibliográfica) | [**references**](#references_Referencias_140) (Referencias) | [**ownerInstitutionCode**](#ownerInstitutionCode_Cdigo_de_la_institucin_propietaria_147) (Código de la institución propietaria) | [**informationWithheld**](#informationWithheld_Informacin_retenida_154) (Información retenida) | [**dataGeneralizations**](#dataGeneralizations_Generalizacin_de_los_datos_161) (Generalización de los datos) | [**dynamicProperties**](#dynamicProperties_Propiedades_dinmicas_168) (Propiedades dinámicas) |
 
 #### basisOfRecord (Base del registro)
-|        |       |
-| ------ |------ |
-| Definición | Denota el origen o evidencia específica de la que se deriva el organismo. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés |
-| Comentarios | Sólo las colecciones biológicas pueden documentar PreservedSpecimen, si el registro corresponde a un espécimen depositado, pero el reporte no lo genera la colección biológica, se documenta HumanObservation y se documentan los elementos collectionCode, catalogNumber y disposition. |
-| Elementos relacionados | [type](#type_Tipo_42)|
-| Core _(Obligatoriedad)_ | Registros _(Obligatorio)_ |
-| Vocabulario controlado (Ver definiciones de cada vocabulario en [Anexo 1](#Anexo_1_Vocabularios_controlados_84)) | PreservedSpecimen, HumanObservation, LivingSpecimen, FossilSpecimen, MachineObservation, MaterialSample, MaterialCitation |
+        |       
+ ------ |------ 
+ Definición | Denota el origen o evidencia específica de la que se deriva el organismo. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés |
+| Comentarios | Sólo las colecciones biológicas pueden documentar PreservedSpecimen, si el registro corresponde a un espécimen depositado, pero el reporte no lo genera la colección biológica, se documenta HumanObservation y se documentan los elementos collectionCode, catalogNumber y disposition. 
+ Elementos relacionados | [type](#type_Tipo_42)
+ Core _(Obligatoriedad)_ | Registros _(Obligatorio)_ 
+ Vocabulario controlado (Ver definiciones de cada vocabulario en [Anexo 1](#Anexo_1_Vocabularios_controlados_84)) | PreservedSpecimen, HumanObservation, LivingSpecimen, FossilSpecimen, MachineObservation, MaterialSample, MaterialCitation 
 
 #### type (Tipo)
 | fsdfdsf | sdfsdfsdf |
-| ------ |------ |
+| ---|--- |
 | Definición | Especifica el tipo de evidencia que da origen al registro, ampliando la información presente en el elemento basisOfRecord. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | Elementos relacionados | [basisOfRecord](#basisOfRecord_Base_del_registro_33)|
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_, Evento de muestreo |
