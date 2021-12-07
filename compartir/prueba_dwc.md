@@ -41,7 +41,8 @@ toc: true
 | [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | Stillmage, MovingImage, Sound, PhysicalObject, Event |
 |    |    |
 
-|  **institutionCode (Código de la institución)** |    |
+**institutionCode (Código de la institución)**
+|    |    |
 | ---|--- |
 | Definición | El nombre completo de la institución que custodia el espécimen o la información del registro; seguido por su acrónimo en paréntesis, si tiene. |
 | Ejemplo | Ministerio de Ambiente y Desarrollo Sostenible (MADS), Universidad de Antioquia (UdeA), Jardín Botanico de Bogotá José Celestino Mutis (JBB) |
@@ -83,7 +84,16 @@ toc: true
 | Ejemplo | Colombia Bio-Fondo Adaptación-Boyacá Bio, Universidad de Caldas-Cenipalma- Pedro Pérez, Acto Legal, Amnistía,Colecta Fortuita |
 | Elementos relacionados | datasetNameID |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos, Lista de chequeo _(Opcional)_, Evento de muestreo _(Opcional)_ |
+
+**datasetID (ID del conjunto de datos)**
 |    |    |
+| ---|--- |
+| Definición | Un identificador del conjunto de datos del cual se deriva el registro biológico (observación, colecta o evento). De acuerdo al origen del registro biológico, identifique a cuál de los siguientes casos corresponde y construya este identificador según las indicaciones del caso (i) El registro biológico proviene de una entidad vinculada y adscrita al Ministerio de Medio Ambiente y Desarrollo Sostenible que no requiere un permiso de recolección. Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios: Acrónimo de la entidad, Número del convenio, proyecto marco o programa, Número del sub-proyecto, o sub-convenio, si existen, Año de inicio del convenio o proyecto.(ii) El registro biológico proviene de un proyecto amparado por un permiso de recolección de especímenes o acceso a recursos genéticos de acuerdo a lo establecido en el Decreto 1076 de 2015.Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios: Acrónimo de la autoridad ambiental que otorgó el permiso, Número de la resolución donde se otorga el permiso, Año de expedición del permiso (iii) El registro biológico proviene de un espécimen depositado en una colección biológica por solicitud expresa de una autoridad ambiental o gubernamental mediante un acto legal. Por ejemplo, en los casos de incautación de fauna y flora silvestre por tráfico de especies. Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios: La palabra ‘ACTO_LEGAL’, Acrónimo de la autoridad ambiental o gubernamental que genera el acto legal, Identificador del proceso, corresponde el número del acto legal emitido por la autoridad competente. Cuando la autoridad no genere un identificador del acto legal, corresponde al identificador del proceso asignado internamente por la colección. Año de expedición del acto legal.(iv) El registro biológico proviene de un espécimen preservado en una colección biológica y legalizado a través de una amnistía.Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios: La palabra ‘AMNISTÍA’, Número de la resolución donde se otorga la amnistía, Año de expedición de la amnistía |
+| Ejemplo | IAvH:CE16-062:8956:2016/SINCHI:CE17-845:2017, ANLA:1608:2017/CORNARE:5D800FGH:2015, ACTO_LEGAL:CORMACARENA:34f-19:2017/ACTO_LEGAL:POLICIA_AMBIENTAL:PF-19075C:201, AMNISTÍA:8962:2019/AMNISTÍA:59VI-196:2018 |
+| Elementos relacionados | datasetName |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos, Lista de chequeo _(Opcional)_, Evento de muestreo _(Opcional)_ |
+|    |    |
+
 
 ## REGISTRO BIOLÓGICO
 
