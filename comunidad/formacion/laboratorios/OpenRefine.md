@@ -114,7 +114,7 @@ _OpenRefine_ hace una interpretación automática del tipo de archivo, la codifi
 
 > _**Character encoding**_: al cargar datos en formato de texto plano, es posible que la previsualización muestre las tíldes (í) y las eñes (ñ) remplazadas por caracteres extraños. Si esto ocurre, seleccione la codificación UTF-8. Esto le permitirá resolver el problema, a menos que haya otro tipo de error en los datos. 
 
-###2.4. Personalización del proyecto y carga del archivo**
+### 2.4. Personalización del proyecto y carga del archivo
 
 En la esquina superior derecha, verá un cuadro de texto en el que puede modificar el nombre del proyecto. En ese cuadro, escriba <span class="tag is-light"><b>Datos_OR</b></span> y haga clic en el botón <span class="tag is-warning is-light"><i>Create Project</i></span> (Fig. 3). Opcionalmente, puede añadir _Tags_ (etiquetas) para organizar y filtrar los proyectos en la aplicación.
 
