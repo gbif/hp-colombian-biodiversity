@@ -9,7 +9,7 @@ toc: true
 
 # Laboratorio datos en contexto
 
-### Metas de aprendizaje
+## Metas de aprendizaje
 
 Las metas de aprendizaje de este laboratorio son:
 
@@ -18,14 +18,13 @@ Las metas de aprendizaje de este laboratorio son:
 3. Utilizar el IPT para la documentación de metadatos.
 
 
-### Guías
+## Guías
 
 1. Metadatos
 2. Carga de datos
 3. Mapeo de los datos
 
-### Glosario
-
+## Glosario
 
 - **Metadatos**: información de contexto para un conjunto de datos, organización publicadora o colección biológica.
 <br>
@@ -65,7 +64,7 @@ Cada _Darwin Core Archive_ incluye un archivo EML (escrito en formato XML) en su
 <br>
 - **Recurso**: agrupación de un conjunto de datos y sus metadatos. Refleja la unidad de datos y la información que se puede publicar y consultar.
 
-### Lecturas y recursos externos
+## Lecturas y recursos externos
 
 **Recursos**
 
