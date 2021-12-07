@@ -13,6 +13,33 @@ toc: true
 
 ## ELEMENTOS DE REGISTRO
 
+|    |    |    |    |    |
+| ---|--- |--- |--- |--- |
+| **basisOfRecord** (Base del registro) | **type** (Tipo) | **institutionCode** (Código de la institución) | **institutionID** (ID de la institución) | **collectionCode** (Código de la colección) |
+| **collectionID** (ID de la colección) | **datasetName** (Nombre del conjunto de datos) | **datasetID** (ID del conjunto de datos) | **modified** (Modificado) | **language** (Idioma) |
+| **license**(Licencia) | **rightsHolder** (Titular de los derechos) | **accessRights** (Derechos de acceso) | **bibliographicCitation** (Citación bibliográfica) | **references** (Referencias) |
+| **ownerInstitutionCode** (Código de la institución propietaria) | **informationWithheld** (Información retenida) | **dataGeneralizations**] (Generalización de los datos) | **dynamicProperties** (Propiedades dinámicas) | |
+
+
+**basisOfRecord** (Base del registro) **type** (Tipo) **institutionCode** (Código de la institución) **institutionID** (ID de la institución) **collectionCode** (Código de la colección)
+
+**collectionID** (ID de la colección) **datasetName** (Nombre del conjunto de datos) **datasetID** (ID del conjunto de datos) **modified** (Modificado) **language** (Idioma)
+
+**license**(Licencia) **rightsHolder** (Titular de los derechos) **accessRights** (Derechos de acceso) **bibliographicCitation** (Citación bibliográfica) **references** (Referencias)
+
+**ownerInstitutionCode** (Código de la institución propietaria) **informationWithheld** (Información retenida) **dataGeneralizations**] (Generalización de los datos) **dynamicProperties** (Propiedades dinámicas)
+
+**basisOfRecord (Base del registro)**
+
+|    |    |
+| ---|--- |
+| Definición | Denota el origen o evidencia específica de la que se deriva el organismo. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. |
+| Comentarios | Sólo las colecciones biológicas pueden documentar PreservedSpecimen, si el registro corresponde a un espécimen depositado, pero el reporte no lo genera la colección biológica, se documenta HumanObservation y se documentan los elementos collectionCode, catalogNumber y disposition. |
+| Elementos relacionados | type |
+| Core _(Obligatoriedad)_ | Registros _(Obligatorio)_ |
+| [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | PreservedSpecimen, HumanObservation, LivingSpecimen, FossilSpecimen, MachineObservation, MaterialSample, MaterialCitation |
+|    |    |
+
 **type (Tipo)**
 
 |    |    |
