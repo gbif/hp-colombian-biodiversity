@@ -15,19 +15,12 @@ toc: true
 
 |    |    |    |    |    |
 | ---|--- |--- |--- |--- |
-| **basisOfRecord** (Base del registro) | **type** (Tipo) | **institutionCode** (Código de la institución) | **institutionID** (ID de la institución) | **collectionCode** (Código de la colección) |
-| **collectionID** (ID de la colección) | **datasetName** (Nombre del conjunto de datos) | **datasetID** (ID del conjunto de datos) | **modified** (Modificado) | **language** (Idioma) |
-| **license**(Licencia) | **rightsHolder** (Titular de los derechos) | **accessRights** (Derechos de acceso) | **bibliographicCitation** (Citación bibliográfica) | **references** (Referencias) |
-| **ownerInstitutionCode** (Código de la institución propietaria) | **informationWithheld** (Información retenida) | **dataGeneralizations**] (Generalización de los datos) | **dynamicProperties** (Propiedades dinámicas) | |
+| **basisOfRecord** (Base del registro) | **type** (Tipo) | **institutionCode** (Código de la institución) | **institutionID** (ID de la institución) |
+| **collectionCode** (Código de la colección) | **collectionID** (ID de la colección) | **datasetName** (Nombre del conjunto de datos) | **datasetID** (ID del conjunto de datos) |
+| **modified** (Modificado) | **language** (Idioma) | **license**(Licencia) | **rightsHolder** (Titular de los derechos) | 
+| **accessRights** (Derechos de acceso) | **bibliographicCitation** (Citación bibliográfica) | **references** (Referencias) | **ownerInstitutionCode** (Código de la institución propietaria) |
+| **informationWithheld** (Información retenida) | **dataGeneralizations**] (Generalización de los datos) | **dynamicProperties** (Propiedades dinámicas) | |
 
-
-**basisOfRecord** (Base del registro) **type** (Tipo) **institutionCode** (Código de la institución) **institutionID** (ID de la institución) **collectionCode** (Código de la colección)
-
-**collectionID** (ID de la colección) **datasetName** (Nombre del conjunto de datos) **datasetID** (ID del conjunto de datos) **modified** (Modificado) **language** (Idioma)
-
-**license**(Licencia) **rightsHolder** (Titular de los derechos) **accessRights** (Derechos de acceso) **bibliographicCitation** (Citación bibliográfica) **references** (Referencias)
-
-**ownerInstitutionCode** (Código de la institución propietaria) **informationWithheld** (Información retenida) **dataGeneralizations**] (Generalización de los datos) **dynamicProperties** (Propiedades dinámicas)
 
 **basisOfRecord (Base del registro)**
 
@@ -46,8 +39,18 @@ toc: true
 | ---|--- |
 | Definición | Especifica el tipo de evidencia que da origen al registro, ampliando la información presente en el elemento basisOfRecord. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | Elementos relacionados | basisOfRecord |
-| Core _(Obligatoriedad)_ | Registros _(Obligatorio)_, Evento de muestreo |
+| Core _(Obligatoriedad)_ | Registros _(Obligatorio)_, Evento de muestreo _(Opcional)_ |
 | [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | Stillmage, MovingImage, Sound, PhysicalObject, Event |
+|    |    |
+
+**institutionCode (Código de la institución)**
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo de la institución que custodia el espécimen o la información del registro; seguido por su acrónimo en paréntesis, si tiene. |
+| Ejemplo | Ministerio de Ambiente y Desarrollo Sostenible (MADS), Universidad de Antioquia (UdeA), Jardín Botanico de Bogotá José Celestino Mutis (JBB) |
+| Elementos relacionados | institutionID |
+| Core _(Obligatoriedad)_ | Registros _(Obligatorio)_, Evento de muestreo _(Opcional)_ |
 |    |    |
 
 ## REGISTRO BIOLÓGICO
