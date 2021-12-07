@@ -113,6 +113,10 @@ Dependiendo de su interés particular, realice esta guía con alguna de las sugu
 
 Cree un proyecto en _OpenRefine_ con el conjunto de datos que desea validar. Si tiene dudas sobre cómo hacerlo, revise el **paso 2** de la [Guía general de OpenRefine](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#paso-2---crear-un-proyecto). 
 
+![]()
+
+<sup>_Figura 1  . Creación de un nuevo proyecto en OpenRefine_</sup>
+
 ### Paso 2 - Revisión de elementos requeridos
 
 Asegúrese de que el conjunto de datos cumpla con los elementos y requerimientos mínimos de cada rutina:
@@ -443,7 +447,7 @@ Ahora realice un <span class="tag is-warning is-light"><i>Text facet</i></span> 
 
 <sup>_Figura 13. <span class="tag is-warning is-light"><i>Text facet</i></span> en OpenRefine para identificar los registros donde debe hacer ajustes sobre el elemento <span class="tag is-success is-light"><i>county</i></span>._</sup>
 
-    Revise los municipios en <span class="tag is-success is-light"><i>county</i></span> y haga los ajustes que considere necesarios según el archivo <FONT FACE="monospace"><b>«DIVIPOLA_20210416»</b></FONT>.
+Revise los municipios en <span class="tag is-success is-light"><i>county</i></span> y haga los ajustes que considere necesarios según el archivo <FONT FACE="monospace"><b>«DIVIPOLA_20210416»</b></FONT>.
 
 <div class="notification is-info is-light">
   <b>Nota:</b> puede usar el archivo de <FONT FACE="monospace"><b>«DIVIPOLA_20210416»</b></FONT> que está en OpenRefine para realizar <i>text filters</i> (filtros de texto) y facets (facetas) con el fin de encontrar la forma correcta de documentar los nombres oficiales en <b>stateProvince</b> y <b>county</b>.
@@ -563,8 +567,8 @@ Encontrará, de manera intercalada, las columnas originales, un valor sugerido p
 
 >No hay elevación mínima documentada.
 >
-<br>
-<br>
+
+    
 - El indicador _**"elevationRangeValidation"** contrasta compara el rango registrado en los elementos <span class="tag is-success is-light"><i>minimumElevationInMeters</i></span> y <span class="tag is-success is-light"><i>maximumElevationInMeters</i></span> con lo sugerido por el servicio de elevación. El resultado debe ser interpretado así:
 
     - <span class="tag is-warning is-light"><i>1</i></span>: indica que el rango de elevaciones contiene la elevación sugerida.
