@@ -22,9 +22,8 @@ toc: true
 | **informationWithheld** (Información retenida) | **dataGeneralizations**] (Generalización de los datos) | **dynamicProperties** (Propiedades dinámicas) | |
 
 
-**basisOfRecord (Base del registro)**
-
-|    |    |
+**basisOfRecord (Base del registro)** 
+|   |    |
 | ---|--- |
 | Definición | Denota el origen o evidencia específica de la que se deriva el organismo. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. |
 | Comentarios | Sólo las colecciones biológicas pueden documentar PreservedSpecimen, si el registro corresponde a un espécimen depositado, pero el reporte no lo genera la colección biológica, se documenta HumanObservation y se documentan los elementos collectionCode, catalogNumber y disposition. |
@@ -34,7 +33,6 @@ toc: true
 |    |    |
 
 **type (Tipo)**
-
 |    |    |
 | ---|--- |
 | Definición | Especifica el tipo de evidencia que da origen al registro, ampliando la información presente en el elemento basisOfRecord. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
@@ -43,14 +41,48 @@ toc: true
 | [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | Stillmage, MovingImage, Sound, PhysicalObject, Event |
 |    |    |
 
-**institutionCode (Código de la institución)**
-
-|    |    |
+|  **institutionCode (Código de la institución)** |    |
 | ---|--- |
 | Definición | El nombre completo de la institución que custodia el espécimen o la información del registro; seguido por su acrónimo en paréntesis, si tiene. |
 | Ejemplo | Ministerio de Ambiente y Desarrollo Sostenible (MADS), Universidad de Antioquia (UdeA), Jardín Botanico de Bogotá José Celestino Mutis (JBB) |
 | Elementos relacionados | institutionID |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_, Evento de muestreo _(Opcional)_ |
+|    |    |
+
+**institutionID (ID de la institución)**
+|    |    |
+| ---|--- |
+| Definición | Un identificador, preferiblemente el NIT, de la institución registrada en el elemento institutionCode. |
+| Ejemplo | 586.697.465-1, 890.105.528-3, 860.030.197-0 |
+| Elementos relacionados | institutionCode |
+| Core _(Obligatoriedad)_ | Registros _(Obligatorio)_, Evento de muestreo _(Opcional)_ |
+|    |    |
+
+**collectionCode (Código de la colección)**
+|    |    |
+| ---|--- |
+| Definición | El nombre, acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el organismo. Si corresponde a una colección biológica registrada en el Registro Único Nacional de Colecciones Biológicas-RNC(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones), se puede emplear el acrónimo allí registrado, aunque también es válido el uso del acrónimo que implemente la colección internamente. |
+| Ejemplo | COL, ANDES-E, FMB |
+| Elementos relacionados | collectionID |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
+|    |    |
+
+**collectionID (ID de la colección)**
+|    |    |
+| ---|--- |
+| Definición | EUn identificador de la colección registrada en el elemento collectionCode. Si corresponde a una colección biológica registrada en el Registro Único Nacional de Colecciones Biológicas-RNC (http://rnc.humboldt.org.co/admin/index.php/registros/colecciones), se debe emplear el identificador allí registrado. En tal caso documentar: [RNC:]+[Número de la colección], sin espacios. |
+| Ejemplo | RNC:001, RNC:010, RNC:250 |
+| Elementos relacionados | collectionCode |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
+|    |    |
+
+**datasetName (Nombre del conjunto de datos)**
+|    |    |
+| ---|--- |
+| Definición | El nombre del conjunto de datos del cual se deriva el registro biológico (observación, colecta o evento). De acuerdo al origen del registro biológico, identifique a cuál de los siguientes casos corresponde y construya este identificador según las indicaciones del caso: (i) El registro biológico proviene de una entidad vinculada y adscrita al Ministerio de Medio Ambiente y Desarrollo Sostenible que no requiere un permiso de recolección. Nombre del convenio o proyecto marco de acuerdo a lo documentado en el elemento datasetID (ii) El registro biológico proviene de un proyecto amparado por un permiso de recolección de especímenes o acceso a recursos genéticos de acuerdo a lo establecido en el Decreto 1076 de 2015. Nombre del titular del permiso (iii) El registro biológico proviene de un espécimen depositado en una colección biológica por solicitud expresa de una autoridad ambiental o gubernamental mediante un acto legal. Por ejemplo, en los casos de incautación de fauna y flora silvestre por tráfico de especies. Se documentan las palabras ‘Acto Legal’ (iv) El registro biológico proviene de un espécimen preservado en una colección biológica y legalizado a través de una amnistía. Se documentan la palabra ‘Amnistía’ (v) El registro biológico proviene de un espécimen obtenido por medio de una colecta fortuita, por ejemplo en los casos de pesca accidental, atropellamiento y choqué contra edificaciones, entre otros. Se documentan las palabras ‘Colecta Fortuita’ |
+| Ejemplo | Colombia Bio-Fondo Adaptación-Boyacá Bio, Universidad de Caldas-Cenipalma- Pedro Pérez, Acto Legal, Amnistía,Colecta Fortuita |
+| Elementos relacionados | datasetNameID |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos, Lista de chequeo _(Opcional)_, Evento de muestreo _(Opcional)_ |
 |    |    |
 
 ## REGISTRO BIOLÓGICO
