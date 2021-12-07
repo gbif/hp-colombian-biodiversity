@@ -589,7 +589,7 @@ Encontrará, de manera intercalada, las columnas originales, un valor sugerido p
 
 **5.2 Revisión de los resultados**
 
-- ¿Cúantas elevaciones vacías logro completar con el uso del script?
+- ¿Cuántas elevaciones vacías logro completar con el uso del script?
 - ¿Encontró alguna inconsistencia entre la elevación identificada con _Geonames_ y la previamente documentada (valores de<span class="tag is-warning is-light"><i>0</i></span> en _**"elevationValidation"**_).
 
 <div class="notification is-info is-light">
