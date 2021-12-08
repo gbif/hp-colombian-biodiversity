@@ -77,8 +77,7 @@ Puede cargar datos con diferentes formatos y extensiones: TSV, CSV, SV, Excel (.
 
 Abra _OpenRefine_ y seleccione la pestaña <span class="tag is-warning is-light"><i>Create Project</i></span>. Para cargar el archivo, siga la ruta <span class="tag is-warning is-light"><i><b>Get data from > This Computer</b></i></span> y haga clic en <span class="tag is-warning is-light"><i>Choose Files</i></span> (Fig. 1).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig1_OR_cargar.png" width=800>
-
+![Figura 1. Creación de un proyecto en OpenRefine](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig1_OR_cargar.png)
 <sup>_Figura 1. Creación de un proyecto en OpenRefine._</sup>
 
 ### 2.2. Selección del archivo
@@ -103,7 +102,7 @@ _OpenRefine_ hace una interpretación automática del tipo de archivo, la codifi
   </div>
 </article>
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig2._OR_config.png">
+![Figura 2. Opciones para configurar la lectura y carga de los datos para un archivo Excel](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig2._OR_config.png)
 
 <sup>_Figura 2. Opciones para configurar la lectura y carga de los datos para un archivo Excel (.xls y .xlsx)_: A. Tipo de archivo, B. Hojas a importar, C. Elección de filas, D. Carga de filas.</sup>
 
@@ -118,7 +117,7 @@ _OpenRefine_ hace una interpretación automática del tipo de archivo, la codifi
 
 En la esquina superior derecha, verá un cuadro de texto en el que puede modificar el nombre del proyecto. En ese cuadro, escriba <span class="tag is-light"><b>Datos_OR</b></span> y haga clic en el botón <span class="tag is-warning is-light"><i>Create Project</i></span> (Fig. 3). Opcionalmente, puede añadir _Tags_ (etiquetas) para organizar y filtrar los proyectos en la aplicación.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig3_OR_renombrar.png" width=700>
+![Configuración del proyecto](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig3_OR_renombrar.png)
 
 <sup>_Figura 3. Configuración del proyecto, ajuste de nombre, adición de etiquetas y creación._</sup>
 
@@ -134,7 +133,7 @@ Es un método para filtrar los datos en conjuntos más pequeños, facilitando la
 
 Diríjase a la columna <span class="tag is-success is-light"><i>class</i></span>, haga clic en el menú de la columna y siga la ruta <span class="tag is-warning is-light"><b><i>Facet > Text facet</i></b></span> (Fig. 4).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig4_OR_facet.png" width=350>
+![Creación de un Text facet](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig4_OR_facet.png)
 
 <sup>_Figura 4. Creación de un <span class="tag is-warning is-light"><i>Text facet</i></span>._</sup>
 
@@ -142,7 +141,7 @@ Diríjase a la columna <span class="tag is-success is-light"><i>class</i></span>
 
 El <span class="tag is-warning is-light"><i>Text facet</i></span> creado aparecerá a la izquierda de la aplicación. Verá una ventana con el nombre de la columna y el _Facet_ que acaba de crear (Fig. 5). Haga clic en <span class="tag is-warning is-light"><i>count</i></span> para organizar las clases de mayor a menor número de repeticiones y en <span class="tag is-warning is-light"><i>name</i></span> para organizarlas en orden alfabético.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig5_OR_facet2.png" width=350>
+![Vista del Text facet](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig5_OR_facet2.png)
 
 <sup>_Figura 5. Vista del <span class="tag is-warning is-light"><i>Text facet</i></span> y las opciones para organizar las opciones de texto de la columna._</sup>
 
@@ -150,21 +149,19 @@ El <span class="tag is-warning is-light"><i>Text facet</i></span> creado aparece
 
 Corrija las inconsistencias en los nombres de las clases **Aves** y **Mammalia**. Para esto, acerque el cursor al valor que desea corregir y haga clic en <span class="tag is-warning is-light"><i>Edit</i></span>. Luego, en el cuadro de texto que aparece, corrija el error y haga clic en <span class="tag is-warning is-light"><i>Apply</i></span> (Fig. 6). Todos los valores serán corregidos de manera automática y las celdas se transformarán de forma masiva.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig6_OR_classCorrect.png" width=500>
+![Figura 6. Corrección masiva de columnas](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig6_OR_classCorrect.png)
 
 <sup>_Figura 6. Corrección masiva de la columna <span class="tag is-success is-light"><i>class</i></span> por medio de un <span class="tag is-warning is-light"><i>Text facet</i></span>._</sup>
 
 Realice el mismo proceso con las columnas <span class="tag is-success is-light"><i>basisOfRecord</i></span> y <span class="tag is-success is-light"><i>sex</i></span>, ajustándolas al vocabulario controlado de cada elemento (Revise el [Laboratorio de estandarización](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/DWC)) (Fig. 7).
 
-
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig7_OR_otrosCorrect.png" width=500>
+![Figura 7. Corrección masiva de columnas](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig7_OR_otrosCorrect.png)
 
 <sup>_Figura 7. Corrección masiva de las columnas <span class="tag is-success is-light"><i>basisOfRecord</i></span> y <span class="tag is-success is-light"><i>sex</i></span> por medio de un <span class="tag is-warning is-light"><i>Text facet</i></span>._</sup>
 
-
 Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción <span class="tag is-warning is-light"><i>Remove All</i></span> (Fig. 8) para quitar todos los _facets_ y filtros que tenga en uso.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig8_OR_remover.png" width=350>
+![Figura 8. Remover todos los facets y filtros activos](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig8_OR_remover.png)
 
 <sup>_Figura 8. Remover todos los facets y filtros activos_.</sup>
 
@@ -174,14 +171,14 @@ Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción 
 Diríjase a la columna <span class="tag is-success is-light"><i>individualCount</i></span>, haga clic en el menú de la columna y realice un <span class="tag is-warning is-light"><i>Text facet</i></span>.
 A su izquierda aparecerá la ventana con el nombre de la columna y el facet que se realizó (Fig. 9).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig9_OR_individual.png" width=300>
+![Figura 9. Vista del Text facet](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig9_OR_individual.png)
 
 <sup>_Figura 9. Vista del <span class="tag is-warning is-light"><i>Text facet</i></span> y las diferentes formas de documentación del elemento <span class="tag is-success is-light"><i>individualCount</i></span>._</sup>
 
 Aunque parece que los datos no tienen errores, este procedimiento evidencia que el programa ha detectado espacios extra. Por tal motivo, el _facet_ muestra cuatro opciones diferentes para el valor **"1"**.
 Corrija las inconsistencias desde el menú de la columna <span class="tag is-success is-light"><i>individualCount</i></span>, siguiendo la ruta <span class="tag is-warning is-light><b><i>Edit Cells > Common transforms > Trim leading and trailing whitespace</i></b></span>. Posteriormente, verá un mensaje de notificación que indicará en cuántas celdas se eliminaron espacios (Fig. 10).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig10_OR_trimSpaces.png" width=600>
+![Figura 10. Transformación de la columna para eliminar dobles espacios y espacios al final del texto](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig10_OR_trimSpaces.png)
 
 <sup>_Figura 10. Transformación de la columna para eliminar dobles espacios y espacios al final del texto._</sup>
 
@@ -195,7 +192,7 @@ Diríjase a la columna <span class="tag is-success is-light"><i>catalogNumber</i
 
 Se evidencia que el programa ha detectado valores únicos <span class="tag is-warning is-light"><i>false</i></span> y valores duplicados <span class="tag is-warning is-light"><i>true</i></span> (Fig. 11). Haga clic en <span class="tag is-warning is-light"><i>true</i></span> y verá los registros. De esta manera, se pueden detectar los duplicados para un análisis posterior. En este caso, cambie el registro de **"Feb 2001"** por <span class="tag is-light"><b>46-2300MI2008AV0248</b></span>, tanto en <span class="tag is-success is-light"><i>catalogNumber</i></span> como en <span class="tag is-success is-light"><i>occurrenceIDr</i></span> (Fig. 11).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig11_OR_duplicates.png" width=600>
+[Figura 11. Revisión de los registros duplicados y corrección de los identificadores](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig11_OR_duplicates.png)
 
 <sup>_Figura 11. Revisión de los registros duplicados y corrección de los identificadores._</sup>
 
@@ -209,22 +206,21 @@ Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción 
 
 Diríjase a la columna <span class="tag is-success is-light"><i>scientificName</i></span>, haga clic en el menú de la columna y luego en <span class="tag is-warning is-light"><i>Text filter</i></span>. Cuando aparezca la ventana del filtro, escriba <span class="tag is-light"><b>sp.</b></span> en el campo de texto y realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en <span class="tag is-success is-light"><i>scientificName</i></span> para visualizar los registros que tienen el valor mencionado (Fig. 12).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig12_OR_sp.png" width=450>
+![Figura 12. Aplicación de un filtro de texto](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig12_OR_sp.png)
 
 <sup>_Figura 12. Aplicación de un filtro de texto a la columna <span class="tag is-success is-light"><i>scientificName</i></span> e identificación de nombres científicos a corregir._</sup>
-
 
 Este tipo de identificación parcial (sp.) no debe documentarse en el elemento <span class="tag is-success is-light"><i>scientificName</i></span>, ya que deben registrarse en el elemento _DwC_ <span class="tag is-success is-light"><i>verbatimTaxonRank</i></span>.
 
 Realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en <span class="tag is-success is-light"><i>verbatimTaxonRank</i></span> y reemplace masivamente las celdas vacías <span class="tag is-light"><b>(blank)</b></span> con <span class="tag is-light"><b>sp.</b></span>. Después, haga clic en <span class="tag is-warning is-light"><i>Apply</i></span> (Fig. 13).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig13_OR_sp2.png" width=450>
+![Figura 13. Documentación masiva](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig13_OR_sp2.png)
 
 <sup>_Figura 13. Documentación masiva del elemento <span class="tag is-success is-light"><i>verbatimTaxonRank</i></span>._</sup>
 
 Diríjase nuevamente al menú de la columna de <span class="tag is-success is-light"><i>scientificName</i></span> y siga la ruta <span class="tag is-warning is-light"><b><i>Edit cells > Transform</i></b></span>. Posteriormente, ingrese el comando <span class="tag is-light"><b>value.replace</b></span> en el cuadro de texto **"_Expression_"**. Note que la pestaña **"_Preview_"** muestra una vista previa del resultado al aplicar el comando. Corrobore si es el cambio deseado (Fig. 14) y haga clic en <span class="tag is-warning is-light"><i>OK</i></span>. De inmediato, aparecerá un mensaje de confirmación de los cambios.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig14_OR_replace.png" width=800>
+![Figura 14. Transformación masiva de los datos](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig14_OR_replace.png)
 
 <sup>_Figura 14. Transformación masiva de los datos con el comando <span class="tag is-light"><b>value.replace</b></span> del lenguaje GREL de OpenRefine._</sup>
 
@@ -246,7 +242,7 @@ Diríjase a la columna <span class="tag is-success is-light"><i>family</i></span
 Marque la casilla <span class="tag is-warning is-light"><i>regular expression</i></span> y escriba en el cuadro de texto la expresión 
 <span class="tag is-light"><b>.\*\(?:(?!ae).).$</b></span>. Esta expresión permite excluir todas las palabras de la columna que no terminan en <span class="tag is-success is-light"><i>ae</i></span>, las cuales corresponden a las últimas letras de la declinación en latín para la categoría taxonómica de familia (_idae_, _ceae_) (Fig, 15).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig16_OR_regulasExp.png" width=500>
+![Figura 15. Uso de expresiones regulares en GREL](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig15_OR_regulasExp.png)
 
 <sup>_Figura 15. Uso de expresiones regulares en GREL para filtrar la columna <span class="tag is-success is-light"><i>family</i></span>._</sup>
 
@@ -260,7 +256,7 @@ Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción 
 
 Diríjase a la columna <span class="tag is-success is-light"><i>scientificName</i></span>, haga clic en el menú y elija la opción <span class="tag is-warning is-light"><i>Text filter</i></span>. Cuando aparezca la ventana del filtro, marque la casilla <span class="tag is-warning is-light"><i>regular expression</i></span> y escriba en el campo de texto la expresión <span class="tag is-light">[.]</span>. Luego, realice un <span class="tag is-warning is-light"><i>Text facet</i></span> para visualizar los registros con este  elemento (Fig. 16).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig17_OR_qualifier.png" width=500>
+![Figura 16. Uso de expresiones regulares en GREL para filtrar y corregir](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig16_OR_qualifier.png)
 
 <sup>_Figura 16. Uso de expresiones regulares en GREL para filtrar y corregir las columnas <span class="tag is-success is-light"><i>scientificName</i></span> e <span class="tag is-success is-light"><i>identificationQualifier</i></span>._</sup>
 
@@ -274,7 +270,7 @@ Para ajustar ambos elementos, aplique un <span class="tag is-warning is-light"><
 
 Finalmente, debe documentarse el género <span class="tag is-light"><b><i>Carollia</i></b></span> en <span class="tag is-success is-light"><i>scientificName</i></span> y asociarlo con el calificativo <span class="tag is-light"><b>cf. sowelli</b></span> en <span class="tag is-success is-light"><i>identificationQualifier</i></span> (Fig. 17).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig17_OR_Resulqualifier.png" width=500>
+![Figura 17. Documentación corregida y correcta de los elementos](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig17_OR_Resulqualifier.png)
 
 <sup>_Figura 17. Documentación corregida y correcta de los elementos <span class="tag is-success is-light"><i>scientificName</i></span> e <span class="tag is-success is-light"><i>identificationQualifier</i></span>._</sup>
 
@@ -284,10 +280,9 @@ Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción 
 
 Diríjase a la columna <span class="tag is-success is-light"><i>recordedBy</i></span> y despliegue el menú. Posteriormente, haga clic en <span class="tag is-warning is-light"><i>Text facet</i></span> para que la ventana del _facet_ con más de 200 opciones (_choices_) diferentes (Fig. 18).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig19_OR_cluster1.png" width=320>
+![Figura 18. Facet y opciones del elemento recordedBy](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig18_OR_cluster1.png)
 
 <sup>_Figura 18. Facet y opciones del elemento <span class="tag is-success is-light"><i>recordedBy</i></span>._</sup>
-
 
 En la parte superior derecha, verá el botón <span class="tag is-warning is-light"><i>Cluster</i></span>. Al hacer clic en él (Fig. 18), aparecerá la ventana de **"_Cluster &  Edit_"** para la columna <span class="tag is-success is-light"><i>recordedBy</i></span> (Fig. 19).
 
@@ -299,7 +294,7 @@ Podrá ver la siguiente información:
 - ***Merge?:*** un cuadro para seleccionar si los valores se fusionan en el valor que propone el algoritmo por defecto o el documentado por el usuario. 
 - ***New cell value:*** un campo de texto donde se puede escribir un valor completamente nuevo para el _cluster_. Además, permite asignar cualquier valor por defecto haciendo clic sobre dicho valor.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig20_OR_cluster2.png" width=800>
+![Figura 19. Detalle de la ventana "Cluster & Edit" para hacer realizar clusters y las opciones de configuración disponibles](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig19_OR_cluster2.png)
 
 <sup>_Figura 19. Detalle de la ventana **"Cluster & Edit"** para hacer realizar clusters y las opciones de configuración disponibles._</sup>
 
@@ -348,7 +343,7 @@ GBIF fácilita un árbol taxonómico robusto a partir de la agrupación de recon
 
 En primer lugar, elimine los _facets_ o filtros que tenga activos. Para tener una aproximación inicial al funcionamiento del API, diríjase a la columna <span class="tag is-success is-light"><i>recordedBy</i></span> y realice un <span class="tag is-warning is-light"><i>Text facet</i></span>. Posteriormente, haga clic en la opción <span class="tag is-warning is-light"><i>count</i></span> y seleccione al investigador con más registros asociados (Vargas I) (Fig. 20).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava1.png" width=700>
+![Filtro por conteo en recordedBy y selección de la opción con más registros](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig20_OR.png)
 
 <sup>_Figura 20. Filtro por conteo en <span class="tag is-success is-light"><i>recordedBy</i></span> y selección de la opción con más registros._</sup>
 
@@ -360,7 +355,7 @@ Para realizar la validación a través del API, es necesario que los espacios en
 
   Para ello vaya a <span class="tag is-warning is-light"><b><i>Edit column > Add column based on this column</i></b></span> y escriba la expresión (tal y como aparece)  <span class="tag is-light"><b>value.replace(" ","%20")</b></span>. Por último, nombre la columna como **"NomAPI"** (Fig. 21).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava2.PNG" width=700>
+![Figura 21. Creación de la nueva columna](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig21_OR.png)
 
 <sup>_Figura 21. Creación de la nueva columna **"NomAPI"**._</sup>
 
@@ -369,7 +364,7 @@ Para realizar la validación a través del API, es necesario que los espacios en
 
 Cree una nueva columna llamada _**"validTax"**_ a partir de la columna _**"NomAPI"**_. Para esto, siga la ruta <span class="tag is-warning is-light"><b><i>Edit column >  Add column by fetching URLs…</i></b></span> y escriba la expresión <span class="tag is-light"><b>"http://api.gbif.org/v1/species/match?strict=true&name="+value</b></span>. Luego,en el cuadro de texto <span class="tag is-warning is-light"><i>Throttle delay</i></span>, escriba <span class="tag is-light"><b>5</b></span>, haga clic en <span class="tag is-warning is-light"><i>OK</i></span> y espere a que finalice el proceso (Fig. 22).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava3.PNG" width=700>
+![Figura 22. Creación de la nueva columna "validTax"](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig22_OR.png)
 
 <sup>_Figura 22. Creación de la nueva columna **"validTax"**._</sup>
 
@@ -384,7 +379,7 @@ Cree una nueva columna llamada _**"validTax"**_ a partir de la columna _**"NomAP
 
 Podrá observar que en cada celda de la columna _**"validTax"**_ aparecen expresiones a partir del llamado al API de GBIF para cada nombre científico consultado (Fig. 23).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava4.PNG" width=800>
+![Figura 23. Visualización de la columna "validTax"](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig23_OR.png)
 
 <sup>_Figura 23. Visualización de la columna **"validTax"**._</sup>
 
@@ -392,7 +387,7 @@ Podrá observar que en cada celda de la columna _**"validTax"**_ aparecen expres
 
 Con el fin de evidenciar claramente los resultados de la validación del nombre científico, agregue una columna basada en _**"validTax"**_. Para esto, siga la ruta <span class="tag is-warning is-light"><b><i>Edit column > Add column based on this column</i></b></span>. Luego, nombre la columna como <span class="tag is-light"><b>Match</b></span> y escriba la expresión <span class="tag is-light"><b>value.parseJson().get("matchType")</b></span>. Por último, haga clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 24).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava5.PNG" width=700>
+![Figura 24. Creación de la columna "Match" a partir de la información obtenida del API](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig24_OR.png)
 
 <sup>_Figura 24. Creación de la columna **"Match"** a partir de la información obtenida del API._</sup>
 
@@ -401,8 +396,8 @@ Con el fin de evidenciar claramente los resultados de la validación del nombre 
 
 Realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en la columna _**"Match"**_ y seleccione <span class="tag is-warning is-light"><i>Fuzzy</i></span>. Esta opción denota los nombres científicos con los que no hubo coincidencia exacta entre el conjunto de datos y el árbol taxonómico de GBIF. En este ejercicio, no se encuentra coincidencia total con *Dermanura cinereus* ni *Dermanura glaucus* (Fig. 25).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava6.JPG" width=350>
-
+![Figura 25. Resultado del facet](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig25_OR.jpg)
+  
 <sup>_Figura 25. Resultado del facet para <span class="tag is-warning is-light"><i>Fuzzy</i></span>._</sup>
 
 > A través del API, GBIF también ofrece una posible opción de nombres científicos válidos en relación a los que no reconoció totalmente. Es pertinente que evalué estos nombres y decida si deben cambiar.
@@ -410,19 +405,19 @@ Realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en la 
 
 Agregue una nueva columna llamada _**"validName"**_ a partir de la columna  _**validTax**_. Para hacerlo, siga la ruta <span class="tag is-warning is-light"><b><i>Edit column > Add column based on this column</i></b></span>, escriba la expresión <span class="tag is-light"><b>value.parseJson().get("species")</b></span> y haga clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 26).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava7.PNG" width=700>
+![Figura 26. Creación de la nueva columna "validName"](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig26_OR.png)
 
 <sup>_Figura 26. Creación de la nueva columna **"validName"**._</sup>
 
 Haciendo un <span class="tag is-warning is-light"><i>Text facet</i></span> en la columna _**"validName"**_, verá que GBIF reconoce que las especies a documentar son *Artibeus cinereus* y *Artibereus glaucus*, respectivamente (Fig. 27A). Entonces, el paso a seguir es corregir y editar las inconsistencias en la columna <span class="tag is-success is-light"><i>scientificName</i></span>, de acuerdo al _**"validName"**_ (Fig. 27B).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava8.png" width=700>
+![Corrección del nombre científico en OpenRefine](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig27_OR.png)
 
 <sup>_Figura 27. Corrección del nombre científico en OpenRefine. A. Filtro para el nombre científico y la sugerencia de GBIF. B. Corrección en el nombre científico._</sup>
 
 Después de realizar el proceso de verificación y la limpieza de nombres científicos, elimine las columnas adicionales que se crearon para este fín (_**"NomAPI"**_, _**"validTax"**_, _**"Match"**_ y **"validName"**). Para ello, siga la ruta <span class="tag is-warning is-light"><b><i>Edit column > Remove this column</i></b></span> (Fig. 28).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava9.png" width=400>
+![Figura 28. Ruta para eliminar una columna](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig28_OR.png)
 
 <sup>_Figura 28. Ruta para eliminar una columna._</sup>
 
@@ -430,14 +425,14 @@ Después de realizar el proceso de verificación y la limpieza de nombres cient�
 
 Para hacer una modificación en todas las celdas del archivo, diríjase a la primera columna _**"All"**_, despliegue el menú y seleccione la opción <span class="tag is-warning is-light"><i>Transform</i></span> (Fig. 29).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava10.jpg" width=600>
+![Figura 29. Selección del menú para hacer el cambio masivo](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig29_OR.jpg)
 
 <sup>_Figura 29. Selección del menú para hacer el cambio masivo._</sup>
 
 En la pestaña emergente, introduzca la fórmula <span class="tag is-light"><b>value.trim().replace(/\u00A0/,' ').replace(/\s+/,' ')</b></span>. Este comando elimina dobles espacios, saltos de línea y algunos caracteres no reconocibles. Al hacer clic en <span class="tag is-warning is-light"><i>OK</i></span>, verá otra pestaña para elegir las columnas a modificar. Deje la opción por defecto con todas las columnas y dé clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 30).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ava11.png" width=800>
-
+![Figura 30. Pestaña para introducir la función de transformación y seleccionar las columnas a las cuales se aplica la función](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig30_OR.png)
+  
 <sup>_Figura 30. Pestaña para introducir la función de transformación y seleccionar las columnas a las cuales se aplica la función._</sup>
 
 <article class="message is-warning">
@@ -462,7 +457,7 @@ En la pestaña _**"Content"**_ de la ventana emergente, encontrará varias opcio
 - **_Select and Order Columns to Export_**: le permite seleccionar las columnas y el orden en que se van a exportar.
 - **_Ignore facets and filters and export all rows_**: si al momento de exportar el archivo tiene _facets_ y filtros activos, esta opción le permitirá ignorarlos para descargar todo el conjunto de datos. 
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ex1.png" width=800>
+![_Figura 31. Ruta para expotar el archivo y ventana "content"](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig31_OR.png)
 
 <sup>_Figura 31. Ruta para expotar el archivo y ventana **"content"**._</sup>
 
@@ -474,8 +469,8 @@ Vaya a la pestaña _**Download**_, allí podrá configurar el formano en el cuá
 
 Para este caso, ubique el menú _**"Other formats"**_ y elija la opción <span class="tag is-warning is-light"><i>Excel in XML(.xlsx)</i></span>. Por último, haga clic en <span class="tag is-warning is-light"><i>Download</i></span> y guarde su archivo (Fig. 32).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_EX2.png" width=700>
-
+![Figura 32. Selección del formato de descarga del conjunto de datos](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig32_OR.png)
+  
 <sup>_Figura 32. Selección del formato de descarga del conjunto de datos._</sup>
 
 ### 8.2 Exportar e importar un proyecto
@@ -483,7 +478,7 @@ Para este caso, ubique el menú _**"Other formats"**_ y elija la opción <span c
 _OpenRefine_ también le ofrece la posibilidad de exportar el proyeco completo. Lo anterior permite descargar un archivo que contiene toda la información del proyecto (datos e histórico de cambios). Este archivo se puede utilizar para trabajar en el mismo proyecto de _OpenRefine_ desde otro equipo. 
 Para hacerlo, diríjase a la esquina superior derecha, siga la ruta <span class="tag is-warning is-light"><b><i>Export > OpenRefine project archive to file</i></b></span> y guarde su archivo (Fig. 33).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ex3.png" width=350>
+![Figura 33. Exportación del proyecto](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig33_OR.png)
 
 <sup>_Figura 33. Exportación del proyecto._</sup>
 
@@ -493,7 +488,7 @@ Para hacerlo, diríjase a la esquina superior derecha, siga la ruta <span class=
 
 Para importar el proyecto, abra _OpenRefine_ y diríjase a la pestaña <span class="tag is-warning is-light"><i>Import Project</i></span>. Posteriormente, haga clic en <span class="tag is-warning is-light"><i>Choose File</i></span>, seleccione el archivo <FONT FACE="monospace"><b>«Datos_OR.openrefine.tar.gz»</b></FONT> y elija la opción <span class="tag is-warning is-light"><i>Import Project</i></span> (Fig. 34).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig_OR_Ex4.png" width=600>
+![Figura 34. Importación de un proyecto en OpenRefine](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig34_OR.png)
 
 <sup>_Figura 34. Importación de un proyecto en OpenRefine._</sup>
 
