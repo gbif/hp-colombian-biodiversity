@@ -160,13 +160,13 @@ Seleccione la rutina de interés según la validación que desee realizar:
 
 Haga clic en el enlace a la rutina y será redirigido a GitHub, donde encontrará un archivo de texto plano con la rutina. Luego, copie el texto de la rutina de validación (Fig. 4). Asegúrese de seleccionar solo la rutina -sin las instrucciones- y copiar todos los corchetes iniciales (<span class="tag is-light"><b>{</b></span>) y finales (<span class="tag is-light"><b>}</b></span>), ya que estos son fundamentales para que la rutina se ejecute correctamente.
 
-<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig4.%20OR_avanzado.jpg" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig5.%20OR_avanzado.jpg">
 
 <sup>_Figura 4. Selección de la rutina a ejecutar._</sup>
 
 En el conjunto de datos a validar en _OpenRefine_, diríjase al menú superior izquierdo, seleccione la pestaña <span class="tag is-warning is-light"><i>Deshacer/Rehacer</i></span> y haga clic en el botón <span class="tag is-warning is-light"><i>Aplicar...</i></span>. A continuación, se abrirá una ventana de texto vacía. Pegue la rutina a ejecutar en el cuadro de texto y dé clic en <span class="tag is-warning is-light"><i>Ejecutar Operaciones</i></span> (Fig. 5).
 
-<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig5.%20OR_avanzado.jpg" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig4.%20OR_avanzado.jpg" width=600>
 
 <sup>_Figura 5. Ejecución de la rutina en OpenRefine._</sup>
 
@@ -383,7 +383,7 @@ Para ejecutar esta rutina, es necesario que cargue el archivo <FONT FACE="monosp
 
 Luego, nombre el proyecto en OpenRefine como <span class="tag is-light"><b>DIVIPOLA_20210416</b></span> (Fig. 9). 
 
-<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig9.%20OR_avanzado.png" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig9.%20OR_avanzado.png">
 
 <sup>_Figura 9. Carga de archivo DIVIPOLA 20210416 en OpenRefine._</sup>
 
@@ -393,7 +393,7 @@ Luego, nombre el proyecto en OpenRefine como <span class="tag is-light"><b>DIVIP
 
 Diríjase a la rutina de [Validación de nombres geográficos con DIVIPOLA](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValNamesGeo_ValNombresGeo.txt). Será redirigido a GitHub, donde encontrará un archivo de texto plano. Copie el texto de la rutina de validación (Fig. 10), asegurándose de seleccionar solo la rutina -sin las instrucciones- y de copiar todos los corchetes iniciales (<span class="tag is-light"><b>{</b></span>) y finales (<span class="tag is-light"><b>}</b></span>), ya que estos son fundamentales para que la rutina se ejecute correctamente.
 
-<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig10.OR_avanzado_CopiaRutinaGeoNames.png" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig10.OR_avanzado_CopiaRutinaGeoNames.png">
 
 <sup>_Figura 10. Copia de la rutina en GitHub._</sup>
 
@@ -512,7 +512,7 @@ Es muy importante tener en cuenta las siguientes indicaciones para habilitar su 
     
 Diríjase a la rutina de [Validación y recuperación de elevaciones a partir del API de _Geonames_](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValElevationAPIGeoNames_ValElevacionAPIGeoNames.txt). Será redirigido a GitHub, donde encontrará un archivo de texto plano. Copie el texto de la rutina de validación (Fig. 18), asegurándose de seleccionar solo la rutina -sin las instrucciones- y de copiar todos los corchetes iniciales (<span class="tag is-light"><b>{</b></span>) y finales (<span class="tag is-light"><b>}</b></span>), ya que estos son fundamentales para que la rutina se ejecute correctamente.
 
-<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig18.OR_Avanzado_Geonames_CopiaRutina.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig18.OR_Avanzado_Geonames_CopiaRutina.png">
 
 <sup>_Figura 18. Copia de la rutina en repositorio en GitHub._</sup>
 
