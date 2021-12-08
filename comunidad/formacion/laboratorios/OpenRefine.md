@@ -104,7 +104,7 @@ _OpenRefine_ hace una interpretación automática del tipo de archivo, la codifi
 
 ![Figura 2. Opciones para configurar la lectura y carga de los datos para un archivo Excel](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig2._OR_config.png)
 
-<sup>_Figura 2. Opciones para configurar la lectura y carga de los datos para un archivo Excel (.xls y .xlsx)_: A. Tipo de archivo, B. Hojas a importar, C. Elección de filas, D. Carga de filas.</sup>
+<sup>_Figura 2. Opciones para configurar la lectura y carga de los datos para un archivo Excel (.xls y .xlsx): A. Tipo de archivo, B. Hojas a importar, C. Elección de filas, D. Carga de filas._</sup>
 
  - **A.** Tipo de archivo: permite configurar el tipo de la fuente de datos.
  - **B.** Hojas a importar: si carga uno o varios archivos con múltiples hojas, puede seleccionar cuáles hojas desea importar y cuáles no.
