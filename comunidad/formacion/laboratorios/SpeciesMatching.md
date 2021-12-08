@@ -77,7 +77,7 @@ Ingrese a la herramienta en línea [_Species Matching_]( https://www.gbif.org/es
   </div>
 </article>
 
- <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.1_speciesMatching.JPG" width=800>
+ <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_SpeciesMatching/Fig.1_speciesMatching.jpg" width=800>
 
 <sup>*Figura 1. Página principal de la herramienta Species Matching.*</sup>
 
@@ -88,7 +88,7 @@ Ingrese a la herramienta en línea [_Species Matching_]( https://www.gbif.org/es
 
 Luego de cargar el archivo, la herramienta le permite al usuario seleccionar un reino (*kingdom*) con el cual comparar los nombres científicos. Esto solo es recomendable cuando todos los registros pertenecen al mismo reino. Por consiguiente, para este ejercicio, seleccione el reino <span class="tag is-warning is-light"><i>animalia</i></span> y haga clic en <span class="tag is-warning is-light"><i>MATCH TO GBIF BACKNONE</i></span>.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.2_speciesMatching.JPG" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_SpeciesMatching/Fig.2_speciesMatching.jpg" width=800>
 
 <sup>*Figura 2. Detalle de la selección de Reino.*
 
@@ -109,7 +109,7 @@ Una vez validado el archivo, verá una tabla con las siguientes columnas o eleme
 * _**"rank"**_: rango taxonómico del nombre taxonómico.
 * _**Taxonomía superior**_: clasificación taxonómica sugerida para: <span class="tag is-success is-light"><i>kingdom</i></span>,  <span class="tag is-success is-light"><i>phylum</i></span>, <span class="tag is-success is-light"><i>class</i></span>, <span class="tag is-success is-light"><i>order</i></span>, <span class="tag is-success is-light"><i>family</i></span> y <span class="tag is-success is-light"><i>genus</i></span>.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.3_speciesMatching.JPG" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_SpeciesMatching/Fig.3_speciesMatching.jpg" width=800>
 
 <sup>*Figura 3. Detalles del resultado de la validación en Species Matching.*</sup>
 
@@ -117,7 +117,7 @@ Una vez validado el archivo, verá una tabla con las siguientes columnas o eleme
 
 Diríjase a la columna _**"matchType"**_ y haga clic en el encabezado para reorganizar los registros de menor a mayor coincidencia (Fig. 4).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.4_speciesMatching.JPG" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_SpeciesMatching/Fig.4_speciesMatching.jpg" width=800>
 
 <sup>*Figura 4. Resultados organizados en orden de coincidencia en la columna matchType.*</sup>
 
@@ -127,7 +127,7 @@ Revise y ajuste los nombres científicos identificados con la etiqueta <span cla
   <b>Nota:</b> Para el registro de <i>Dendrophidium percarinatus</i>, seleccione la segunda opción: <i>Dendrophidion percarinatum</i> (Cope, 1893). Note que el nombre original tenía un error de tipeo.
 </div>
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.5_speciesMatching.jpg" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_SpeciesMatching/Fig.5_speciesMatching.jpg" width=800>
 
 <sup>*Figura 5. Edición del nombre científico.*</sup>
 
@@ -146,7 +146,7 @@ La herramienta lápiz le permite editar el nombre interpretado por GBIF para cua
 
 En la parte inferior derecha, encontrará la opción <span class="tag is-warning is-light"><i>GENERATE CSV</i></span>(Fig. 6), haga clic sobre ese botón y seleccione una ubicación en su ordenador para guardar el archivo. El conjunto de datos descargado tendrá como nombre <FONT FACE="monospace"><b>«normalized.csv»</b></FONT>.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.6_speciesMatching.JPG" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_SpeciesMatching/Fig.6_speciesMatching.jpg" width=800>
 
 <sup>*Figura 6. Descarga del archivo validado con Species Matching.*</sup>
 
@@ -157,13 +157,13 @@ _OpenRefine_ le otorga la ventaja de poder realizar filtros y _facets_ para expl
 
 Cargue en _OpenRefine_ el archivo <FONT FACE="monospace"><b>«normalized.csv»</b></FONT> que obtuvo en el paso anterior. Para ello, abra OpenRefine y siga la ruta <span class="tag is-warning is-light"><b><i>Create Project > Get data from > This computer > Choose Files</i></b></span> en el menú lateral. Luego, seleccione el archivo que descargó en el paso anterior y dé clic en la opción <span class="tag is-warning is-light"><i>Next >></i></span> (Fig. 7).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.7_speciesMatching.JPG" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_SpeciesMatching/Fig.7_speciesMatching.jpg" width=800>
 
 <sup>*Figura 7. Carga del archivo en Open Refine.*</sup>
 
 Modifique el nombre del proyecto en el cuadro de texto <span class="tag is-warning is-light"><i>Project name</i></span>, dejando solamente *normalized*. En el campo <span class="tag is-warning is-light"><i>Character encoding</i></span>, asegurese de seleccionar UTF-8. Finalmente, elija la opción <span class="tag is-warning is-light"><i>Create Project >></i></span>(Fig. 8).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.8_speciesMatching.JPG" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_SpeciesMatching/Fig.8_speciesMatching.jpg" width=800>
 
 <sup>*Figura 8. Modificación de nombre y creación de proyecto.*</sup>
 
@@ -173,7 +173,7 @@ Explore el archivo que subió a OpenRefine e identifique los elementos _**"match
 
 Adicionalmente, las columnas que contienen la jerarquía taxonómica (Fig. 9B) son útiles validar y completar la taxonomía superior de su conjunto de datos. 
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.9_speciesMatching.JPG" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_SpeciesMatching/Fig.9_speciesMatching.jpg" width=800>
 
 <sup>*Figura 9. Contenido de las columnas en OpenRefine.*</sup>
 
@@ -183,7 +183,7 @@ Realice un _Text facet_ en la columna _**"matchType"**_. Para hacerlo, haga clic
 
 En el panel lateral izquierdo, aparecerán los dos filtros creados (Fig. 10B). Explore cuántos registros tienen un nombre científico que coincide de manera exacta (<span class="tag is-warning is-light"><i>EXACT</i></span>) con el árbol taxonómico de GBIF, cuántos coinciden parcialmente (<span class="tag is-warning is-light"><i>FUZZY</i></span>) y cuántos coinciden solo a un nivel taxonómico superior al documentado en el nombre científico (<span class="tag is-warning is-light"><i>HIGHERRANK</i></span>). Revise también cuántos registros tienen un nombre científico con estatus taxonómico aceptado (<span class="tag is-warning is-light"><i>ACCEPTED</i></span>) y cuántos son sinónimos (<span class="tag is-warning is-light"><i>SYNONYM</i></span>). Al hacer estos filtros, podrá identificar aquellos registros cuyo nombre científico tiene errores de tipeo para corregir estos casos posteriormente.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.10_speciesMatching.JPG" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_SpeciesMatching/Fig.10_speciesMatching.jpg" width=800>
 
 <sup>*Figura 10. Creación de filtros y visualización de resultados en OpenRefine.*</sup>
 
@@ -202,5 +202,5 @@ Si cuenta con un conjunto de datos propio, intente validar los nombres científi
 
 **Citación sugerida**
 
-> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
+> Plata C., Ortíz R., Marentes E., Lozano J. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
 >
