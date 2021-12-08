@@ -116,6 +116,55 @@ toc: true
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_, Lista de chequeo _(Opcional)_, Evento de muestreo _(Opcional)_ |
 |    |    |
 
+| **accessRights (Derechos de acceso)** |    |
+| ---|--- |
+| Definición | Información sobre los derechos de acceso o restricciones basadas en políticas de privacidad, seguridad, u otras. |
+| Ejemplo | Sólo para uso no comercial |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_, Lista de chequeo _(Opcional)_, Evento de muestreo _(Opcional)_ |
+|    |    |
+
+| **bibliographicCitation (Citación bibliográfica)** |    |
+| ---|--- |
+| Definición | Indica la manera de citar el registro cuando sea utilizado, incluyendo la referencia del recurso al que pertenece el registro. Se recomienda incluir el doi si se tiene junto con los detalles bibliográficos para identificar el recurso claramente. |
+| Ejemplo | Raz L, Agudelo H (2019). Herbario Nacional Colombiano (COL). Versión 13.12. Universidad Nacional de Colombia. Occurrence dataset https://doi.org/10.15472/ea8sek. occurrenceID: 1a399be0-9ca9-4efe-84be-b8974a5548fc |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_, Lista de chequeo _(Opcional)_, Evento de muestreo _(Opcional)_ |
+|    |    |
+
+| **references (Referencias)** |    |
+| ---|--- |
+| Definición | Una URL a un recurso asociado, el cual es de alguna forma referenciado o citado por el registro descrito. |
+| Ejemplo | http://arctos.database.museum/guid/MVZ:Mamm:165861, https://www.gbif.org/species/2474724 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_, Lista de chequeo _(Opcional)_, Evento de muestreo _(Opcional)_ |
+|    |    |
+
+| **ownerInstitutionCode (Código de la institución propietaria)** |    |
+| ---|--- |
+| Definición | El nombre completo (o acrónimo) de la institución que tiene la propiedad del objeto o de la información consignada en el registro. Usar sólo si la organización propietaria de los datos es diferente a la organización publicadora consignada en el elemento institutionCode. |
+| Ejemplo | Ministerio de Ambiente y Desarrollo Sostenible (MADS), Celsia S.A. E.S.P. |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_, Evento de muestreo _(Opcional)_ |
+|    |    |
+
+| **informationWithheld (Información retenida)** |    |
+| ---|--- |
+| Definición | Información adicional que existe sobre el registro, pero que no ha sido compartida en la publicación. |
+| Ejemplo | La información de ubicación no es provista para especies amenazadas, La identidad de los colectores es retenida, Pregunte acerca de muestras de tejido |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_, Lista de chequeo _(Opcional)_, Evento de muestreo _(Opcional)_ |
+|    |    |
+
+| **dataGeneralizations (Generalización de los datos)** |    |
+| ---|--- |
+| Definición | Medidas adoptadas para que los datos compartidos sean menos específicos o completos. Sugiere que los datos con mayor detalle existen y pueden estar disponibles bajo petición. |
+| Ejemplo | Coordenadas generalizadas a partir de las coordenadas originales del GPS a la celda más cercana de la grilla. |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_, Evento de muestreo _(Opcional)_ |
+|    |    |
+
+| **dynamicProperties (Propiedades dinámicas)** |    |
+| ---|--- |
+| Definición | Una lista de las medidas, hechos o características adicionales sobre el organismo. Su intención es proporcionar un mecanismo estructurado para la representación de los datos. Debe estar documentado en el esquema de codificación JSON {"Medida":"Valor"}. Por facilidad en la documentación se recomienda el uso de la extensión del estándar Darwin Core de Medidas y Hechos en lugar de este elemento. |
+| Ejemplo | {"pesoEnGramos":"120", "evidenciaDeLaIdentificación": "secuencia de citocromo B"}, {"alturaEnMetros":"1.5", "distribuciónDelTaxón": "Amazonas, Colombia", "temperaturaDelAireEnCelsius": "22"}, {"naturalezaDelID":"identificación de experto"} |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_, Evento de muestreo _(Opcional)_ |
+|    |    |
+
 ## REGISTRO BIOLÓGICO
 
 ## ORGANISMO
