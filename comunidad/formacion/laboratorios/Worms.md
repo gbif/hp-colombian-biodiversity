@@ -74,7 +74,7 @@ Abra el archivo [<FONT FACE="monospace"><b>«datos_CasoMarinoCosteros.xls»</b><
 
 En [WoRMS](https://www.marinespecies.org/index.php) vaya al módulo <span class="tag is-warning is-light"><b><i>Tools > MatchTaxa</i></b></span> o ingrese directamente al vínculo [https://www.marinespecies.org/aphia.php?p=match](https://www.marinespecies.org/aphia.php?p=match).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.1_WoRMS.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_Worms/Fig.1_WoRMS.png" width=800>
 
 <sup>_Figura 1. Vista de la herramienta WoRMS TaxonMatch y las diferentes opciones  de carga y configuración: A. Sección de carga, B. Configuración de la lectura del archivo, C. Configuración de la validación taxonómica, D. Configuración de la descarga._</sup>
 
@@ -131,7 +131,7 @@ Una vez que haya configurado las opciones como se muestra en la Figura 1, haga c
 Luego de cargar los datos, se abrira una vista previa de las primeras 20 filas (Fig. 2). Si el conjunto de datos selecionado tienes las columnas nombradas según el estándar DwC, estas seran reconocidas y mapeadas de manera automática. Sin embargo, siempre se debe comprobar que el nombre de la columna desplegable coincida con el nombre de la columna de los datos cargados (Fig. 2).
 
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.2_WoRMS.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_Worms/Fig.2_WoRMS.png" width=800>
 
 <sup>_Figura 2. Vista previa de los datos y verificación del mapeo de las columnas._</sup>
 
@@ -139,7 +139,7 @@ Una vez que haya verificado la lectura correcta de los datos por parte de la her
 
 Dependiendo del volumen de los datos, la validación puede tardar algunos segundos a minutos. Durante este tiempo, no cierre ni cambie la ventana de navegación (Fig. 3).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.3_WoRMS.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_Worms/Fig.3_WoRMS.png" width=800>
 
 <sup>_Figura 3. Mensaje de procesamiento del archivo. Es necesario que la ventana permanezca abierta hasta que el proceso acabe._</sup>
 
@@ -151,20 +151,19 @@ Al finalizar la validación, en la parte superior de la herramienta, encontrará
 - **Nombres ambiguos (lista desplegable)**: aparece cuando el taxón tiene un homónimo. En estos casos, verá un recuadro con una lista desplegable para seleccionar el que corresponda al nombre aceptado o al autor requerido.
 - **(none)**: significa que no hubo coincidencias entre el nombre ingresado y WoRMS. Por lo tanto, estos nombres deberán ser verificados con otro referente. Posiblemente, el taxón es únicamente terreste y por ello no se encuentra en la base de datos de WoRMS.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.4_WoRMS.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_Worms/Fig.4_WoRMS.png" width=800>
 
 <sup>_Figura 4. Resultados; A.Porcentaje de coincidencia con WoRMS, B. Diferentes tipos de resultados en la columna <span class="tag is-warning is-light">WoRMS <i>match</i></span>_.</sup>
 
 Revise  los nombres de la columna <span class="tag is-warning is-light">WoRMS <i>match</i></span> y haga los ajustes necesarios. Cuando haya nombres ambiguos, puede hacer una búsqueda manual en WoRMS para decidir qué alternativa seleccionar. Por ejemplo, para el género _Apogon_, la lista desplegable muestra dos opciones (Fig. 5):
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.5_WoRMS.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_Worms/Fig.5_WoRMS.png" width=800>
 
 <sup>_Figura 5. Ejemplo de un nombre ambiguo "Apogon" que requiere revisión. En la lista desplegable se muestran las coincidencias con WoRMS._</sup>
 
 Usando la barra de búsqueda general de WoRMS ([https://www.marinespecies.org/index.php](https://www.marinespecies.org/index.php)), busque los dos nombres que aparecen en la lista desplegable (Fig. 6). 
 
-
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.6_WoRMS.png" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_Worms/Fig.6_WoRMS.png" width=600>
 
 <sup>_Figura 6. Búsqueda general en WoRMS_.</sup>
 
@@ -181,7 +180,7 @@ Puede hacer este ejercicio de búsqueda para los demás nombres ambiguos.
 
 En la parte inferior de la ventana que contiene los resultados, podrá configurar el formato del archivo de la descarga. Seleccione la primera opción (<span class="tag is-warning is-light"><i>Excel sheet XLS</i></span>) y dé clic en <span class="tag is-warning is-light"><i>Download</i></span> (Fig. 7). 
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.7_WoRMS.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_Worms/Fig.7_WoRMS.png" width=800>
 
 <sup>_Figura 7. Configuración y descarga_.</sup>
 
@@ -235,7 +234,7 @@ Abra el archivo de resultados con Excel u _OpenRefine_ y explore las columnas ob
     
 - **Columnas _"Environment"_**: corresponde a los elementos del DwC que describen el tipo de ambiente donde habita el taxón: <span class="tag is-success is-light"><i>isMarine</i></span> (habitat marino), <span class="tag is-success is-light"><i>isBrackish</i></span> (habitat salobre), <span class="tag is-success is-light"><i>isFresh</i></span> (habitat de agua dulce) e <span class="tag is-success is-light"><i>isTerrestrial</i></span> (habitat terrestre). En los elementos mencionados, <span class="tag is-light"><b>1</b></span> indica que el taxon habita en ese ambiente y <span class="tag is-light"><b>0</b></span> significa que no habita. 
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.8_WoRMS.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_Worms/Fig.8_WoRMS.png" width=800>
 
 <sup>_Figura 8. Vista del archivo de resultados descargado_.</sup>
 
@@ -283,5 +282,5 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, 
 
 **Citación sugerida**
 
-> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
+> Plata C., Ortíz R., Marentes E., Lozano J. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
 >
