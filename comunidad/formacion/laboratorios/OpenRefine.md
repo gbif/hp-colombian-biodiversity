@@ -133,7 +133,8 @@ Es un método para filtrar los datos en conjuntos más pequeños, facilitando la
 
 Diríjase a la columna <span class="tag is-success is-light"><i>class</i></span>, haga clic en el menú de la columna y siga la ruta <span class="tag is-warning is-light"><b><i>Facet > Text facet</i></b></span> (Fig. 4).
 
-![Creación de un Text facet](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig4_OR_facet.png =350x)
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig4_OR_facet.png" width=350>
+![Creación de un Text facet](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig4_OR_facet.png)
 
 <sup>_Figura 4. Creación de un <span class="tag is-warning is-light"><i>Text facet</i></span>._</sup>
 
