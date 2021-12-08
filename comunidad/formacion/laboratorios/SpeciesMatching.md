@@ -109,7 +109,7 @@ Una vez validado el archivo, verá una tabla con las siguientes columnas o eleme
 * _**"rank"**_: rango taxonómico del nombre taxonómico.
 * _**Taxonomía superior**_: clasificación taxonómica sugerida para: <span class="tag is-success is-light"><i>kingdom</i></span>,  <span class="tag is-success is-light"><i>phylum</i></span>, <span class="tag is-success is-light"><i>class</i></span>, <span class="tag is-success is-light"><i>order</i></span>, <span class="tag is-success is-light"><i>family</i></span> y <span class="tag is-success is-light"><i>genus</i></span>.
 
-<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_SpeciesMatching/Fig.3_speciesMatching.jpg" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_SpeciesMatching/Fig.3_speciesMatching.jpg">
 
 <sup>*Figura 3. Detalles del resultado de la validación en Species Matching.*</sup>
 
@@ -129,7 +129,7 @@ Revise y ajuste los nombres científicos identificados con la etiqueta <span cla
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_SpeciesMatching/Fig.5_speciesMatching.jpg" width=800>
 
-<sup>*Figura 5. Edición del nombre científico.*</sup>
+<sup>*Figura 5. Edición del nombre científico. A. Ícono de lápiz, B. Selección nombre científico*</sup>
 
 La herramienta lápiz le permite editar el nombre interpretado por GBIF para cualquier registro.
 
