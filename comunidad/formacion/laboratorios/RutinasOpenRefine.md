@@ -113,7 +113,7 @@ Dependiendo de su interés particular, realice esta guía con alguna de las sugu
 
 Cree un proyecto en _OpenRefine_ con el conjunto de datos que desea validar. Si tiene dudas sobre cómo hacerlo, revise el **paso 2** de la [Guía general de OpenRefine](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#paso-2---crear-un-proyecto). 
 
-![]()
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig1.OR_avanzado_cargar.png">
 
 <sup>_Figura 1  . Creación de un nuevo proyecto en OpenRefine_</sup>
 
@@ -127,13 +127,13 @@ Requiere como mínimo la documentación de los elementos DwC <span class="tag is
 
 Haga un <span class="tag is-warning is-light"><i>Text facet</i></span> en los elementos <span class="tag is-success is-light"><i>kingdom</i></span> y <span class="tag is-success is-light"><i>class</i></span> (Fig. 2). 
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig 2. Filtro reino.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig2.OR_avanzado_Filtro%20reino.png" width=800>
 
 <sup>_Figura 2. <span class="tag is-warning is-light"><i>Text facet</i></span> en los elementos <span class="tag is-success is-light"><i>kingdom</i></span> y <span class="tag is-success is-light"><i>class</i></span>._</sup>
 
 Observe que el conjunto de datos no tiene documentado el elemento <span class="tag is-success is-light"><i>kingdom</i></span> para ningún registro. Sin embargo, a partir del filtro sobre el elemento <span class="tag is-success is-light"><i>class</i></span>,  se puede inferir que todos los datos corresponden a animales. Por consiguiente, complete el reino para todos los registros (Fig. 3).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig 3. OR_avanzado.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig3.%20OR_avanzado.png" width=800>
 
 <sup>_Figura 3. Ajuste previo a correr la rutina del elemento <span class="tag is-success is-light"><i>kingdom</i></span>._</sup>
 
@@ -160,19 +160,19 @@ Seleccione la rutina de interés según la validación que desee realizar:
 
 Haga clic en el enlace a la rutina y será redirigido a GitHub, donde encontrará un archivo de texto plano con la rutina. Luego, copie el texto de la rutina de validación (Fig. 4). Asegúrese de seleccionar solo la rutina -sin las instrucciones- y copiar todos los corchetes iniciales (<span class="tag is-light"><b>{</b></span>) y finales (<span class="tag is-light"><b>}</b></span>), ya que estos son fundamentales para que la rutina se ejecute correctamente.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/es.figure-59.jpg" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig4.%20OR_avanzado.jpg" width=600>
 
 <sup>_Figura 4. Selección de la rutina a ejecutar._</sup>
 
 En el conjunto de datos a validar en _OpenRefine_, diríjase al menú superior izquierdo, seleccione la pestaña <span class="tag is-warning is-light"><i>Deshacer/Rehacer</i></span> y haga clic en el botón <span class="tag is-warning is-light"><i>Aplicar...</i></span>. A continuación, se abrirá una ventana de texto vacía. Pegue la rutina a ejecutar en el cuadro de texto y dé clic en <span class="tag is-warning is-light"><i>Ejecutar Operaciones</i></span> (Fig. 5).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/es.figure-58.jpg" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig5.%20OR_avanzado.jpg" width=600>
 
 <sup>_Figura 5. Ejecución de la rutina en OpenRefine._</sup>
 
 El avance de la ejecución de la rutina se observa en la parte superior de la pantalla (Fig. 6).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/es.figure-60.jpg" width=400>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig6.%20OR_avanzado.jpg" width=400>
 
 <sup>_Figura 6. Avance de la ejecución de la rutina en OpenRefine._</sup>
 
@@ -188,7 +188,7 @@ Al terminar la ejecución de la rutina, obtendrá nuevas columnas en el conjunto
 
 En la Figura 7 se muestra un ejemplo de cómo se ven los identificadores de la validación y las nuevas columnas con las sugerencias después de ejecutar la rutina. El ejemplo muestra una validación taxonómica, pero las columnas de resultado pueden variar según el objetivo de cada rutina.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/es.figure-61.jpg" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig7.%20OR_avanzado.jpg" width=800>
 
 <sup>_Figura 7. Identificadores de validación y columnas resultantes de la rutina_.</sup>
 
@@ -264,7 +264,7 @@ En las primeras columnas del proyecto, encontrará una columna con el valor taxo
 
 A continuación, se listan las columnas que encontrará después de ejecutar la rutina, sin incluir las que ya se mencionaron en las rutinas previas de validación taxonómica (Fig. 8):
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/es.figure-64.jpg" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig8.%20OR_avanzado.jpg" width=800>
 
 <sup>_Figura 8. Algunas columnas adicionales resultantes del proceso de validación con la rutina de WoRMS._</sup>
 
@@ -383,7 +383,7 @@ Para ejecutar esta rutina, es necesario que cargue el archivo <FONT FACE="monosp
 
 Luego, nombre el proyecto en OpenRefine como <span class="tag is-light"><b>DIVIPOLA_20210416</b></span> (Fig. 9). 
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig1_OR_A_Divipola_DivipolaenOR.png" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig9.%20OR_avanzado.png" width=600>
 
 <sup>_Figura 9. Carga de archivo DIVIPOLA 20210416 en OpenRefine._</sup>
 
@@ -393,7 +393,7 @@ Luego, nombre el proyecto en OpenRefine como <span class="tag is-light"><b>DIVIP
 
 Diríjase a la rutina de [Validación de nombres geográficos con DIVIPOLA](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValNamesGeo_ValNombresGeo.txt). Será redirigido a GitHub, donde encontrará un archivo de texto plano. Copie el texto de la rutina de validación (Fig. 10), asegurándose de seleccionar solo la rutina -sin las instrucciones- y de copiar todos los corchetes iniciales (<span class="tag is-light"><b>{</b></span>) y finales (<span class="tag is-light"><b>}</b></span>), ya que estos son fundamentales para que la rutina se ejecute correctamente.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig2_OR_A_CopiaRutinaGeoNames.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig10.OR_avanzado_CopiaRutinaGeoNames.png" width=600>
 
 <sup>_Figura 10. Copia de la rutina en GitHub._</sup>
 
@@ -401,7 +401,7 @@ Diríjase a la rutina de [Validación de nombres geográficos con DIVIPOLA](http
 
 En el conjunto de datos a validar en _OpenRefine_ (<FONT FACE="monospace"><b>«datos_ValidacionGeografia.xlsx»</b></FONT>), diríjase al menú superior izquierdo, seleccione la pestaña <span class="tag is-warning is-light"><i>Deshacer/Rehacer</i></span> y haga clic en el botón <span class="tag is-warning is-light"><i>Aplicar...</i></span>. A continuación, se abrirá una ventana de texto vacía. Pegue la rutina a ejecutar en el cuadro de texto y dé clic en <span class="tag is-warning is-light"><i>Ejecutar Operaciones</i></span> (Fig. 11).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig3_OR_A_Divipola_EjecucionRutina.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig11.OR_Avanzado_Divipola_EjecucionRutina.png" width=800>
 
 <sup>_Figura 11. Pasos para la ejecución de la rutina en OpenRefine._</sup>
 
@@ -429,7 +429,7 @@ Luego de ejecutar el script, algunas columnas adicionales se añadirán al conju
 
 Realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en las columnas <span class="tag is-success is-light"><i>stateProvince</i></span> y _**"spValidation"**_. En el <span class="tag is-warning is-light"><i>Text facet</i></span> de _**"spValidation"**_, seleccione los resultados no coindicentes <span class="tag is-light"><b>0</b></span> (Fig. 12).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig4_OR_A_Divipola_FacetResultados.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig13.OR_Avanzado_Divipola_FacetResultadosCounty.png" width=800>
 
 <sup>_Figura 12. <span class="tag is-warning is-light"><i>Text facet</i></span> en OpenRefine para identificar los registros donde debe hacer ajustes sobre el elemento <span class="tag is-success is-light"><i>stateProvince</i></span>._</sup>
 
@@ -443,7 +443,7 @@ Revise los departamentos en <span class="tag is-success is-light"><i>stateProvin
 
 Ahora realice un <span class="tag is-warning is-light"><i>Text facet</i></span> en el elemento <span class="tag is-success is-light"><i>county</i></span> y el elemento _**"spcValidation"**_. En el <span class="tag is-warning is-light"><i>Facet</i></span>, seleccione los resultados no coincidentes <span class="tag is-light"><b>0</b></span> (Fig. 13).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig5_OR_A_Divipola_FacetResultadosCounty.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig13.OR_Avanzado_Divipola_FacetResultadosCounty.png" width=800>
 
 <sup>_Figura 13. <span class="tag is-warning is-light"><i>Text facet</i></span> en OpenRefine para identificar los registros donde debe hacer ajustes sobre el elemento <span class="tag is-success is-light"><i>county</i></span>._</sup>
 
@@ -484,25 +484,25 @@ Es muy importante tener en cuenta las siguientes indicaciones para habilitar su 
 
 1) Cree su cuenta con un correo electrónico y contraseña. Asegúrese de que el correo esté bien escrito y recuerde su nombre de usuario, ya que será necesario para los siguientes pasos (Fig. 14).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig1_OR_A_Geonames_loginGeonames.PNG" width=500>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig14.OR_Avanzado_Geonames_loginGeonames.png" width=500>
 
 <sup>_Figura 14. Creación de usuario en Geonames._</sup>
 
 2) Abra el mensaje que recibirá en el correo que usó para el paso anterior (es posible que llegue a la carpeta de _Spam_) y haga clic en el link de confirmación (Fig. 15).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig2_OR_A_Geonames_correoGeonames.PNG" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig15.OR_Avanzado_Geonames_correoGeonames.png" width=800>
 
 <sup>_Figura 15. Correo de confirmación de Geonames._</sup>
 
 3) En la esquina superior derecha, dé clic en su nombre de usuario. En la parte inferior, verá un mensaje indicando que la cuenta aún no está activada para hacer uso de los servicios _web_ gratuitos. Haga clic en <span class="tag is-warning is-light"><i>Click here to enable</i></span> para activarlos (Fig. 3).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig3_OR_A_Geonames_habilitarServicios.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig16.OR_Avanzado_Geonames_habilitarServicios.png" width=800>
 
 <sup>_Figura 16. Habilitar opciones de uso de servicios web gratuitos de Geonames._</sup>
 
 4) Recibirá un mensaje que confirma la habilitación de los servicios _web_ para su cuenta (Fig. 17).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig4_OR_A_Geonames_ConfirmacionHabilitacion.PNG" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig17.OR_Avanzado_Geonames_ConfirmacionHabilitacion.png" width=800>
 
 <sup>_Figura 17. Mensaje de confirmación de habilitación de servicios web._</sup>
 
@@ -512,7 +512,7 @@ Es muy importante tener en cuenta las siguientes indicaciones para habilitar su 
     
 Diríjase a la rutina de [Validación y recuperación de elevaciones a partir del API de _Geonames_](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValElevationAPIGeoNames_ValElevacionAPIGeoNames.txt). Será redirigido a GitHub, donde encontrará un archivo de texto plano. Copie el texto de la rutina de validación (Fig. 18), asegurándose de seleccionar solo la rutina -sin las instrucciones- y de copiar todos los corchetes iniciales (<span class="tag is-light"><b>{</b></span>) y finales (<span class="tag is-light"><b>}</b></span>), ya que estos son fundamentales para que la rutina se ejecute correctamente.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig5_OR_A_Geonames_CopiaRutina.PNG" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig18.OR_Avanzado_Geonames_CopiaRutina.png" width=800>
 
 <sup>_Figura 18. Copia de la rutina en repositorio en GitHub._</sup>
 
@@ -520,7 +520,7 @@ Diríjase a la rutina de [Validación y recuperación de elevaciones a partir de
     
 Antes de ejecutar la rutina, remplace la palabra <span class="tag is-light"><b>demo</b></span> en la expresión <span class="tag is-light"><b>username=demo</b></span> por el nombre de su usuario en _GeoNames_. Por ejemplo, <span class="tag is-light"><b>username=gzitror</b></span>. Para ello, abra un editor de texto como el **Bloc de notas** de _Windows_ y dé clic la opción <span class="tag is-warning is-light"><i>Remplazar...</i></span> del menú <span class="tag is-warning is-light"><i>Edición</i></span>. Luego, introduzca <span class="tag is-light"><b>demo</b></span> en el cuadro de texto **"Buscar:"** y escriba su usuario en el cuadro de texto **"Reemplazar por:"** (Fig. 19).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig7_OR_A_Geonames_ReemplazoUsuario.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig19.OR_Avanzado_Geonames_ReemplazoUsuario.png" width=800>
 
 <sup>_Figura 19. Busqueda y reemplazo del nombre de usuario para ejecutar la rutina usando el Bloc de notas de Windows._</sup>
 
@@ -543,7 +543,7 @@ Para cambiar el modelo de elevación, reemplace el valor <span class="tag is-war
 
 En el conjunto de datos a validar en _OpenRefine_ (<FONT FACE="monospace"><b>«datos_ValidacionElevaciones.xlsx»</b></FONT>), diríjase al menú superior izquierdo, seleccione la pestaña <span class="tag is-warning is-light"><i>Deshacer/Rehacer</i></span> y haga clic en el botón <span class="tag is-warning is-light"><i>Aplicar...</i></span>. A continuación, se abrirá una ventana de texto vacía. Pegue la rutina a ejecutar en el cuadro de texto y dé clic en <span class="tag is-warning is-light"><i>Ejecutar Operaciones</i></span> (Fig. 20).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig6_OR_A_Geonames_EjecucionRutina.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig20.OR_Avanzado_Geonames_EjecucionRutina.png" width=800>
 
 <sup>_Figura 20. Pasos para la ejecución de la rutina en OpenRefine._</sup>
 
@@ -553,7 +553,7 @@ En el conjunto de datos a validar en _OpenRefine_ (<FONT FACE="monospace"><b>«d
 
 En las primeras columnas del proyecto, encontrará los elementos de elevación reorganizados y las tres columnas de validación obtenidas de la rutina (Fig. 21). 
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig8_OR_A_Geonames_Resultados.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig21.OR_Avanzado_Geonames_Resultados.png" width=800>
 
 <sup>_Figura 21. Columnas resultantes de la validación en OpenRefine._</sup>
 
