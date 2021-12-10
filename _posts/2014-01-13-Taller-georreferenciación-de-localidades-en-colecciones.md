@@ -17,7 +17,7 @@ background: /assets/images/noticias_eventos/2014/2014-01-13-Taller-georreferenci
 
 **Organizadores:** Instituto Tecnológico Metropolitano (ITM), Instituto de Ciencias Naturales (ICN) de la Universidad Nacional de Colombia, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH) y Equipo Coordinador del Sistema de Información sobre Biodiversidad de Colombia (SiB).
 
-Formulario de inscripción: [Aquí](https://docs.google.com/forms/d/e/1FAIpQLScQi053ZpNL9j5HnKjaXCBzsbrnNLlZu1ENKh6TKlMgwQDt4Q/viewform){:target="_blank"}
+**Formulario de inscripción:** [Aquí](https://docs.google.com/forms/d/e/1FAIpQLScQi053ZpNL9j5HnKjaXCBzsbrnNLlZu1ENKh6TKlMgwQDt4Q/viewform){:target="_blank"}
 
 
 **Fecha de límite de inscripción:** 30 de abril de 2014
