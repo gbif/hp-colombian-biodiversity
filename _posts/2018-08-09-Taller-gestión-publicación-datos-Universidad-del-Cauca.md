@@ -28,7 +28,7 @@ Los 32 participantes de este taller aprendieron sobre estandarización, manejo y
 ## Asistentes
 -  Maria del Pilar Rivas Pava, *Profesora*
 - Lara Milena Concha Losada, *Profesora*
-- Maria Cristina Gallego Ropero,*Profesora*
+- Maria Cristina Gallego Ropero, *Profesora*
 - Jimmy Alexander Guerrero Vargas, *Profesor*
 - Yamid Arley Mera Velasco, *Profesor*
 - Angelico Fortunato Asenjo Flores, *Profesor*
