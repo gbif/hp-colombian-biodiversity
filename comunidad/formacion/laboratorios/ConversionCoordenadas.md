@@ -65,7 +65,7 @@ Abra el archivo <FONT FACE="monospace"><b>«datos_canadensys.xlsx»</b></FONT>, 
 
 Para cambiar el separador decimal en Excel, seleccione las columnas de <span class="tag is-success is-light"><i>verbatimLatitude</i></span> y <span class="tag is-success is-light"><i>verbatimLongitude</i></span>. Posteriormente, use la herramienta  <span class="tag is-warning is-light"><i>Buscar y reemplazar</i></span> (Ctrl+L) para hacer el cambio de coma (,) a punto (.) (Fig. 1).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.1_coordinateConversion.jpg" width=500>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionCoordenadas/Fig.1_coordinateConversion.jpg" width=500>
 
 <sub>*Figura 1. Reemplazo del separador decimal de coma (,) a punto (.).*</sub>
 
@@ -86,7 +86,7 @@ Copie las celdas de los elementos  <span class="tag is-success is-light"><i>verb
 
 Haga clic en el botón <span class="tag is-warning is-light"><i>Submit</i></span> para procesar los datos (Fig. 2).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.2_coordinateConversion.jpg" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionCoordenadas/Fig.2_coordinateConversion.jpg" width=800>
 
 <sub>*Figura 2. Coordendas originales en sistema de grados, minutos, segundos (GMS) ingresadas en la herramienta.*</sub>
 
@@ -94,7 +94,7 @@ Haga clic en el botón <span class="tag is-warning is-light"><i>Submit</i></span
 
 Las coordenadas originales ingresadas aprecerán en la columna **"original"**, junto con dos nuevas columnas de las coordenadas geográficas decimales: <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span> (Fig. 3). 
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.3_coordinateConversion.JPG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionCoordenadas/Fig.3_coordinateConversion.jpg" width=600>
 
 <sub>*Figura 3. Resultado de la conversión de coordenadas.*</sub>
 
@@ -113,7 +113,7 @@ Añada una nueva hoja de cálculo en el archivo Excel <FONT FACE="monospace"><b>
   <b>Nota:</b> el cambio de formato a texto es necesario para que Excel no haga interpretaciones sobre las nuevas coordenadas que puedan afectar la calidad de los datos. 
 </div>
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.4_coordinateConversion.jpg" width=600>
+<img src="<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionCoordenadas/Fig.4_coordinateConversion.jpg" width=600>
 
 <sub>*Figura 4. Configuración del formato de las columnas de Excel a texto.*</sub>
 
@@ -121,19 +121,19 @@ Añada una nueva hoja de cálculo en el archivo Excel <FONT FACE="monospace"><b>
 
 Desde la herramienta de conversión de coordenadas, seleccione y copie  toda la tabla de los resultados (Fig.5).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.5_coordinateConversion.JPG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionCoordenadas/Fig.5_coordinateConversion.jpg" width=600>
 
 <sub>*Figura 5. Selección del resultado de la conversión mostarndo coordenadas originales y decimales.*</sub>
 
 Haga clic derecho en la esquina superior izquierda de la hoja y seleccione la opción <span class="tag is-warning is-light">Coincidir con formato de destino</span> (Fig. 6) para pegar el resultado en la hoja de Excel que creó y configuró en el paso anterior. 
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.6_coordinateConversion.jpg" width=500>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionCoordenadas/Fig.6_coordinateConversion.jpg" width=500>
 
 <sub>*Figura 6. Opción de pegado correcto en Excel para no alterar el formato de las coordenadas decimales.*</sub>
 
 Posteriormente, seleccione las columnas <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span> (B y C en el Excel) y copie el contenido (Fig. 7).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.7_coordinateConversion.jpg" width=500>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionCoordenadas/Fig.7_coordinateConversion.jpg" width=500>
 
 <sub>*Figura 7. Copiado de las columnas de coordenadas decimales.*</sub>
 
@@ -141,13 +141,13 @@ Posteriormente, seleccione las columnas <span class="tag is-success is-light"><i
 
 Pegue los valores copiados en la hoja de excel con el conjunto de datos completo. Para ello, haga clic derecho sobre la columna donde desea pegar los valores y seleccione la opción <span class="tag is-warning is-light"><i>Insertar  las celdas copiadas</i></span> (Fig. 8).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.8_coordinateConversion.jpg" width=500>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionCoordenadas/Fig.8_coordinateConversion.jpg" width=500>
 
 <sub>*Figura 8. Pasos para insertar las columnas copiadas.*</sub>
 
 Al obtener los resultados, verá las columnas de las coordenadas decimales incorporadas en formato texto en la hoja del conjunto de datos (Fig. 9).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.9_coordinateConversion.JPG" width=500>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionCoordenadas/Fig.9_coordinateConversion.jpg" width=500>
 
 <sub>*Figura 9. Conjunto de datos final con coordenadas decimales.*</sub>
 
@@ -213,5 +213,5 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, 
 
 **Citación sugerida**
 
-> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
+> Plata C., Ortíz R., Marentes E., Lozano J. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
 >
