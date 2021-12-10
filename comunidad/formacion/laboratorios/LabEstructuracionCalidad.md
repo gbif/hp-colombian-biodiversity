@@ -9,7 +9,7 @@ toc: true
 
 # Laboratorio de estructuración y calidad
 
-### Metas de aprendizaje
+## Metas de aprendizaje
 
 Las metas de aprendizaje de este laboratorio son:
 
@@ -21,13 +21,13 @@ Las metas de aprendizaje de este laboratorio son:
 6. Entender las definiciones y vocabularios controlados de los elementos más utilizados del estándar DwC y sus extensiones.
 7. Identificar rápidamente errores de calidad críticos con el **Validador de datos de GBIF**.
  
-### Guías
+## Guías
 
 1. [Estandarización de datos en Darwin Core](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/DWC)
 2. [Estandarización de datos usando las extensiones del Darwin Core](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/DWCextensiones)
 3. [Validador de datos - GBIF](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/DataValidator)
 
-### Glosario
+## Glosario
 
 - **Estándar**: es una fórmula consensuada internacionalmente por expertos que describe el mejor método para hacer algo.
 
@@ -41,7 +41,7 @@ Las metas de aprendizaje de este laboratorio son:
 
 - **GBIF**: corresponde a la sigla de Infraestructura Mundial de Información en Biodiversidad, una organización internacional y red de investigación financiada por gobiernos de todo el mundo, la cual se encarga de proporcionar acceso abierto y gratuito a datos sobre todas las formas de vida que hay en la Tierra. Esta información puede ser consultada por cualquier persona en cualquier lugar. Por consiguiente, el SiB Colombia es el nodo nacional de GBIF.
 
-### Lecturas y recursos externos
+## Lecturas y recursos externos
 
 **Recursos**
 * [*Darwin Core quick reference guide*](https://dwc.tdwg.org/terms/)
