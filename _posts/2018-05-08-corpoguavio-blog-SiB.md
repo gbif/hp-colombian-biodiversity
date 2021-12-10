@@ -16,9 +16,9 @@ Con los conocimientos adquiridos durante el taller, CORPOGUAVIO podrá aportar a
 
 ## Instructores
 
-- Leonardo Buitrago
+- Leonardo Buitrago,
 *Líder líneaAdministración de contenidos – SiB Colombia*
-- Camila Plata
+- Camila Plata,
 *Investigadora Administración de contenidos – SiB Colombia*
 
 ## Asistentes
@@ -26,7 +26,7 @@ Con los conocimientos adquiridos durante el taller, CORPOGUAVIO podrá aportar a
 - Leydi Johanna Pardo Murillo
 *Coordinadora Biod. y Ecos. Estratégicos*
 - Andrea Liliana González Rodríguez
-*Bióloga Ambiental Biod. y Ecos. Estratégicos. *
+*Bióloga Ambiental Biod. y Ecos. Estratégicos.*
 - Erika Paola Ortiz Gómez
 *Bióloga Marina Biod. y Ecos. Estratégicos*
 - Beatriz Amalia Garavito Guerrero
