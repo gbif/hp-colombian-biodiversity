@@ -113,7 +113,7 @@ Añada una nueva hoja de cálculo en el archivo Excel <FONT FACE="monospace"><b>
   <b>Nota:</b> el cambio de formato a texto es necesario para que Excel no haga interpretaciones sobre las nuevas coordenadas que puedan afectar la calidad de los datos. 
 </div>
 
-<img src="<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionCoordenadas/Fig.4_coordinateConversion.jpg" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionCoordenadas/Fig.4_coordinateConversion.jpg" width=600>
 
 <sub>*Figura 4. Configuración del formato de las columnas de Excel a texto.*</sub>
 
