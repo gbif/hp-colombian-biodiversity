@@ -18,7 +18,7 @@ La conservación de esta especie, así como la de las otras, comenzó en 1966 cu
 
 
 <img src="/assets/images/noticias_eventos/2015/2015-11-17-ballenas-jorobadas-costa-pacifica1.jpg" width=770>
-Gregory Smith – <flicker.com/photos/slobirdr>
+Gregory Smith – <http://54.163.32.186/web/sib/flicker.com/photos/slobirdr>
 
 
 
