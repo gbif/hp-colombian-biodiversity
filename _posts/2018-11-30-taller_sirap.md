@@ -25,7 +25,7 @@ background: /assets/images/noticias_eventos/2018/2018-11-30-taller_sirap.jpg
 
 # Participantes:
 
-## Instructores
+## Instructores:
 
 * Carlos Ríos, *Wildlife Conservation Society Colombia*
 
