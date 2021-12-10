@@ -55,7 +55,7 @@ Descargue el archivo [<FONT FACE="monospace"><b>«Datos_TNRS.xlsx»</b></FONT>](
 
 Ingrese a la aplicación [TNRS](https://tnrs.biendata.org/) y familiarícese con las opciones. La herramienta está divida en dos partes: la primera (Fig. 1A) parmite colocar la lista de nombres científicos; la segunda (Fig. 1B) permite seleccionar las configuraciones.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.1_TNRS_Aplicacion.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_TNRS/Fig.1_TNRS_Aplicacion.png" width=800>
 
 <sup>_Figura 1. Descripción de las opciones de la herramienta: A. Lista de nombres científicos a validar, B. Configuraciones de la herramienta._</sup>
 
@@ -70,7 +70,7 @@ Diríjase a la herramienta de TNRS y pegue los datos previamente copiados en la 
   <b>Tip:</b> La herramienta evalúa hasta 5 000 nombres científicos por ejecución. Por lo tanto, si intenta evaluar un mayor número, obtendrá un mensaje de error.
 </div>
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.2_TNRS_Submit.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_TNRS/Fig.2_TNRS_Submit.png" width=800>
 
 <sup>_Figura 2. Carga de datos en la herramienta._</sup>
 
@@ -107,7 +107,7 @@ Mantenga todas las fuentes seleccionadas. Por último, haga clic en el botón <s
 
 Esta revisión se realiza directamente en la herramienta, donde verá una tabla con los resultados del proceso si la ejecución fue exitosa y algunas opciones de configuración adicionales (Fig 3).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.3_TNRS_TablaResultados.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_TNRS/Fig.3_TNRS_TablaResultados.png" width=800>
 
 <sup>_Figura 3. Configuraciones presentes en la revisión preliminar: A. Opciones adicionales de configuración, B. Columnas para la revisión de los resultados de validación, C. Paginación de los resultados._</sup>
 
@@ -125,7 +125,7 @@ Después de realizar la validación, se activan algunas opciones adicionales par
 
 Para este ejercicio, lo ideal es dejar el valor por defecto (<span class="tag is-warning is-light"><i>SET DEFAULT</i></span>), el cual corresponde a 0.53.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.4_TNRS_Threshold.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_TNRS/Fig.4_TNRS_Threshold.png" width=800>
 
 <sup>_Figura 4. Cambio en el valor de MATCH._</sup>
 
@@ -147,14 +147,14 @@ Los resultados se muestran en 8 columnas, las cuales se enlistan a continuación
     - <span class="tag is-light"><b><i>Partial match</i></b></span>: el nombre sugerido pertenece a una catageoría taxonómica superior a la del nombre original.
     - <span class="tag is-light"><b><i>Better higher taxonomic match available</i></b></span>: existe otro nombre que tiene mejor coincidencia con la taxonomía superior. 
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.5_TNRS_warning.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_TNRS/Fig.5_TNRS_warning.png" width=800>
 
 <sup>_Figura 5. Ejemplos de problemas._</sup>
 
 * _**"Name submitted"**_: el nombre científico original ingresado en la herramienta.
 * _**"Name Matched"**_: Nombre científico con el mejor puntaje de coincidencia. En esta columna, puede encontrar un mensaje <span class="tag is-warning is-light"><i>+n more</i></span>. La expresión <span class="tag is-warning is-light"><i>+n</i></span> es el número de posibles coincidencias encontradas para ese nombre. Dé clic al botón <span class="tag is-warning is-light"><i>+n more</i></span> para ver la pestaña adicional, donde puede seleccionar qué taxonomía prefiere.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.6_TNRS_changeselected.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_TNRS/Fig.6_TNRS_changeselected.png" width=800>
 
 <sup>_Figura 6. Cambio en el tipo de taxonomía._</sup>
 
@@ -188,7 +188,7 @@ Haga clic en el botón <span class="tag is-warning is-light"><i>DOWNLOAD DATA</i
 
 Configure las descargas como se muestra en la Figura 7 y haga clic en <span class="tag is-warning is-light"><i>DOWNLOAD</i></span>.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.7_TNRS_Download.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_TNRS/Fig.7_TNRS_Download.png" width=800>
 
 <sup>_Figura 7. Descarga de los datos._</sup>
 
@@ -264,7 +264,7 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, 
   
 **Citación sugerida**
 
-> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
+> Plata C., Ortíz R., Marentes E., Lozano J. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
 >
 
 **Referencias**
