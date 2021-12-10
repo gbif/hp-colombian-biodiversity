@@ -12,7 +12,7 @@ background: /assets/images/noticias_eventos/2014/2014-07-13-publicacion-uso-dato
 
 28 y 29 de noviembre, Universidad de Cartagena, sede San Agustín (Calle de la Universidad Carrera 6 #36-100) sala de informática. 
 
-# PROGRAMA DEL TALLER:
+# PROGRAMA DEL TALLER
 
 [Clic aquí](https://docs.google.com/a/humboldt.org.co/document/d/19kv8OV9Bc3urk7lp6fnU17VfS5rJihL9-CPm-gSsxX8/edit){:target="_blank"}  
 
@@ -33,7 +33,7 @@ Estudiantes e investigadores que trabajen con datos primarios sobre biodiversida
 + Computador portátil.
 + Datos biológicos.  
 
-# Cupos disponibles: 
+# Cupos disponibles 
 
 30
 
