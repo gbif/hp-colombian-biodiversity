@@ -88,7 +88,7 @@ Cuando finalice la descarga, ubique el archivo en su ordenador y descomprímalo.
 
 Al ejecutar QGIS, verá un entorno similar al siguiente (Fig. 1): 
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig1_validQGIS_firstview.PNG" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig1_validQGIS_firstview.png" width=800>
 
 <sup>_Figura 1. Entorno de trabajo en el proyecto de QGIS (v.3.10) de validación geográfica: A. Menú de herramientas, B. Panel de capas, C. Vista del mapa._</sup>
 
@@ -114,7 +114,7 @@ Contenido del proyecto en QGIS:
 
 Para cargar los datos descargados en el paso 2, diríjase al menú de QGIS y siga la ruta <span class="tag is-warning is-light"><b><i>Layer > Add Layer > Add Delimited Text Layer</i></b></span> (Fig. 2).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig2_validQGIS_addTextfile.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig2_validQGIS_addTextfile.png" width=600>
 
 <sup>_Figura 2. Pasos para carga de archivos de texto delimitados en QGIS._</sup>
 
@@ -139,8 +139,7 @@ En _**"Geometry definitions"**_, seleccione <span class="tag is-warning is-light
 
 En el campo _**"Geometry CRS"**_, seleccione el sistema de referencia de coordenadas: <span class="tag is-warning is-light"><i>WGS84</i></span> (*World Geodetic System*). Si no selecciona el sistema, QGIS tomará por defecto el sistema usado en este proyecto (WGS84) (Fig. 3E). Para finalizar la carga del archivo, haga clic en <span class="tag is-warning is-light"><i>Add</i></span>.
 
-
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig3_validQGIS_addTextfileOptions.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig3_validQGIS_addTextfileOptions.png" width=600>
 
 <sup>_Figura 3. Pasos para cargar archivos de texto delimitado en QGIS: A. Ubicar el archivo de validación, B. formato del archivo tipo .csv, C. Selección de la codificación, D. Selección de campos de coordenadas, E. Selección del sistema de referencia, F. Vista previa de los datos a cargar._</sup>
 
@@ -152,7 +151,7 @@ En el campo _**"Geometry CRS"**_, seleccione el sistema de referencia de coorden
 
 Cuando haya cargado el archivo, una nube de puntos se desplegará en la ventana de visualización de QGIS (Fig. 4).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig4_validQGIS_nubepuntos.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig4_validQGIS_nubepuntos.png" width=600>
 
 <sup>_Figura 4. Visualización de los datos en QGIS._</sup>
 
@@ -165,7 +164,7 @@ A continuación, procedará a validar la coherencia entre la ubicación de las c
 
 En la barra de herramientas superior, siga la ruta <span class="tag is-warning is-light"><b><i>Vector > Data Management Tools > Join Attributes by Location</i></b></span> (Fig. 5) para realizar una intersección entre la capa de municipios y los datos.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig5_validQGIS_seleccJoin.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig5_validQGIS_seleccJoin.png" width=600>
 
 <sup>*Figura 5. Selección de la función <span class="tag is-warning is-light"><i>Join Attributes by Location</i></span> en el menú de herramientas.*</sup>
 
@@ -176,7 +175,7 @@ En el menú emergente configure la intersección de las capas así (Fig. 6):
 
 Por último, haga clic en <span class="tag is-warning is-light"><i>Run</i></span>.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig6_validQGIS_seleccJoin_options.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig6_validQGIS_seleccJoin_options.png" width=600>
 
 <sup>*Figura 6. Configuracuón de la intersección de las capas.* </sup>
 
@@ -185,13 +184,13 @@ Por último, haga clic en <span class="tag is-warning is-light"><i>Run</i></span
 
 Obtendrá una nueva capa llamada _**"Joined_layer"**_ con la intersección de los datos y la capa de municipios, revise que esta se encuentre en el panel de capas <span class="tag is-warning is-light"><i>Layers</i></span>. Posteriormente, dé clic derecho sobre la capa y elija la opción <span class="tag is-warning is-light"><i>Open Attribute Table</i></span> (Fig. 7) para abrir la tabla de atributos.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig7_validQGIS_AttribT.PNG" width=300>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig7_validQGIS_AttribT.png" width=300>
 
 <sup>*Figura 7. Acceder a la tabla de atributos de la capa resultante.* </sup>
 
 En la tabla de atributos, encontrará los datos ingresados y unas columnas adicionales. Estas corresponden a nombres y códigos de los municipios y departamentos que la capa de municipios asignó a las coordenadas ingresadas en el cruce geográfico (Fig. 8).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig8_validQGIS_AttribDetalle.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig8_validQGIS_AttribDetalle.png" width=600>
 
 <sup>*Figura 8. Detalle de la tabla de atributos de la capa resultante de la unión.* </sup>
 
@@ -200,7 +199,7 @@ En la tabla de atributos, encontrará los datos ingresados y unas columnas adici
 
 La calculadora de campos (<span class="tag is-warning is-light"><i>Field Calculator</i></span>) es útil para comparar los nombres sugeridos en el cruce geográfico con los que estaban documentados originalmente. Con este fin, ubíquese en la barra de herramientas de la tabla de atributos y dé clic en el icono del ábaco (Fig. 9 ).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig9_validQGIS_SelecCalculadora.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig9_validQGIS_SelecCalculadora.png" width=600>
 
 <sup>*Figura 9. Selección de la calculadora de campos desde el menú de herramientas de la tabla de atributos.*</sup>
 
@@ -210,7 +209,7 @@ La calculadora de campos (<span class="tag is-warning is-light"><i>Field Calcula
 
 * Finalmente, haga clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 10). 
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig10_validQGIS_Calculadora.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig10_validQGIS_Calculadora.png" width=600>
 
 <sup>*Figura 10. Documentación de la calculadora de campos para obtener un campo con la validación geográfica del municipio (<span class="tag is-light"><b>0</b></span>).*</sup>
 
@@ -222,7 +221,7 @@ Al final del procedimiento anterior, podrá verá la nueva columna, _**"countyVa
 * <span class="tag is-light"><b>0</b></span>: el departamento o municipio documentado en <span class="tag is-success is-light"><i>stateProvince_</i></span> o <span class="tag is-success is-light"><i>county</i></span> **no coincide** con el departamento o municipio donde se ubica la coordenada.
 * <span class="tag is-light"><b>NULL o vacío</b></span>: los elementos <span class="tag is-success is-light"><i>stateProvince</i></span> y <span class="tag is-success is-light"><i>county</i></span> no fueron documentados, por lo que no se realizó la validación. Este resultado también se obtiene si las coordenadas caen fuera de los límites de Colombia.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig11_validQGIS_VlidCounty.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig11_validQGIS_VlidCounty.png" width=600>
 
 <sup>*Figura 11. Verificación de resultados de la creación del campo con la validación del municipio (<span class="tag is-success is-light"><i>county</i></span>).*</sup>
 
@@ -230,7 +229,7 @@ Al final del procedimiento anterior, podrá verá la nueva columna, _**"countyVa
 
 Repita el paso 6.3. para la validación del departamento. En este caso, escriba <span class="tag is-light"><b>stateProvinceValidation</b></span> como nombre de la columna de validación. Después, utilice el siguiente comando (Fig. 12): <code>if( "stateProvince"  =  "suggestedS" ,'1',if("stateProvince" is null, '','0'))</code>.
    
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig12_validQGIS_CalculadoraSP.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig12_validQGIS_CalculadoraSP.png" width=600>
 
 <sup>*Figura 12. Documentación de la calculadora de campos para obtener una columna con la validación geográfica del departamento.*</sup>
 
@@ -242,25 +241,25 @@ Genere un filtro para visualizar los datos cuyas coordenadas no coincidem con la
 1. Abra nuevamente la tabla de atributos de la capa _**"Joined_layer"**_.
 2. En la parte inferior de la tabla de atributos, siga la ruta  <span class="tag is-warning is-light"><b><i>Show all features > Field filter > countyValidation</i></b></span> (Fig. 13).
 
-   <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig13_validQGIS_SelectError.PNG" width=600>
+   <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig13_validQGIS_SelectError.png" width=600>
 
    <sup>*Figura 13. Filtro de campos a partir de la tabla de atributos.*</sup>
 
 3. Una vez que se abra un cuadro de diálogo en la parte inferior de la tabla de atributos, digite un cero (<span class="tag is-light"><b>0</b></span>) para filtrar los datos con inconsistencias (Fig. 14).
 
-   <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig14_validQGIS_Escriba0.PNG" width=600>
+   <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig14_validQGIS_Escriba0.png" width=600>
 
    <sup>*Figura 14. Filtro de campos a partir de la tabla de atributos.*</sup>
 
 4. En la parte superior de la tabla de atributos, verá el número de registros biológicos filtrados. Para seleccionarlos, haga clic la esquina superior izquierda de la tabla, como se muestra en la Figura 15. 
 
-   <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig15_validQGIS_Select0s.PNG" width=600>
+   <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig15_validQGIS_Select0s.png" width=600>
 
    <sup>*Figura 15. Selección y verificación de resultados del filtro a partir de resultados de la validación del campo countyValidation.*</sup>
 
 5. Al minimizar la tabla de atributos, verá los puntos con inconsistencias (con valores de <span class="tag is-light"><b>0</b></span>) seleccionados en la pantalla de visualización del mapa (Fig. 16).
 
-   <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig16_validQGIS_VisualizacionPuntosErrores.PNG" width=600>
+   <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig16_validQGIS_VisualizacionPuntosErrores.png" width=600>
 
    <sup>_Figura 16. Visualización de los registros biológicos seleccionados (con valores de <span class="tag is-light"><b>0</b></span>) cuyas coordenadas no coinciden con el municipio documentado en el elemento <span class="tag is-success is-light"><i>county</i></span> (círculos blancos tachados con una "x")._</sup>
 
@@ -270,13 +269,13 @@ Por último, guarde el archivo de validación en su equipo:
 
 1. Dé clic derecho sobre la capa resultante y siga la ruta <span class="tag is-warning is-light"><b><i>Joined_layer > Export > Save feature as...</i></b></span> (Fig. 17).
 
-   <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig17_validQGIS_ExportExcel.PNG" width=400>
+   <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig17_validQGIS_ExportExcel.png" width=400>
 
    <sup>*Figura 17. Opciones para exportar el resultado de la validación geográfica en formato Excel.*</sup>
 
 2. En la ventana emergente, seleccione el formato <span class="tag is-warning is-light"><i>MS Office Open XML [XLSX]</i></span>. En _**"File name"**_, ubique la carpeta donde quiere guardar el resultado y haga clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 18).
 
-   <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig18_validQGIS_ExportExcel.PNG" width=400>
+   <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_QGIS/Fig18_validQGIS_ExportExcel.png" width=400>
 
    <sup>*Figura 18. Documentación de ventana emergente para exportar resultados de la validación geográfica en formato Excel.*</sup>
 
@@ -318,7 +317,7 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, 
 
 **Citación sugerida**
 
-> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
+> Plata C., Ortíz R., Marentes E., Lozano J. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
 >
 
 **Fuentes:**
