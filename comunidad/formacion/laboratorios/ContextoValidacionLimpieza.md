@@ -9,7 +9,7 @@ toc: true
 
 # Laboratorio de validación y limpieza
 
-### Metas de aprendizaje
+## Metas de aprendizaje
 
 Las metas de aprendizaje de este laboratorio son:
 
@@ -20,7 +20,7 @@ Las metas de aprendizaje de este laboratorio son:
 5. Validar la coherencia de la ubicación de las coordenadas con respecto a la geografía superior usando las herramientas *OBIS ploter* y *QGIS*.
  
 
-### Guías
+## Guías
 
 1. [Open Refine](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine)
 2. [Species Matching](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/SpeciesMatching)
@@ -30,7 +30,7 @@ Las metas de aprendizaje de este laboratorio son:
 6. [Validación geográfica con QGIS]()
 
 
-### Glosario
+## Glosario
 
 
 - **Calidad de datos**: es la capacidad que tienen los datos para satisfacer las necesidades de quien los usa.
@@ -46,7 +46,7 @@ Para más información, consulte los siguientes videos:
 - **GBIF**: corresponde a la sigla de Infraestructura Mundial de Información en Biodiversidad, una organización internacional y red de investigación financiada por gobiernos de todo el mundo, la cual se encarga de proporcionar acceso abierto y gratuito a datos sobre todas las formas de vida que hay en la Tierra. Esta información puede ser consultada por cualquier persona en cualquier lugar. Por consiguiente, el SiB Colombia es el nodo nacional de GBIF.
 
 
-### Lecturas y recursos externos
+## Lecturas y recursos externos
 
 **Recursos**
 
