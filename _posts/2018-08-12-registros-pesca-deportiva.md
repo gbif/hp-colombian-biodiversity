@@ -6,7 +6,7 @@ background: /assets/images/noticias_eventos/2018/2018-08-12-registros-pesca-depo
 
 ---
 # Período:  
-Enero – Junio de 2018  
+- Enero – Junio de 2018  
 
 # Organizaciones:  
 
