@@ -110,7 +110,7 @@ Contenido del proyecto en QGIS:
 
 ## Paso 5 - Carga de los datos 
 
-**5.1. Añadir capa de texto delimitado**
+### 5.1. Añadir capa de texto delimitado
 
 Para cargar los datos descargados en el paso 2, diríjase al menú de QGIS y siga la ruta <span class="tag is-warning is-light"><b><i>Layer > Add Layer > Add Delimited Text Layer</i></b></span> (Fig. 2).
 
@@ -119,23 +119,23 @@ Para cargar los datos descargados en el paso 2, diríjase al menú de QGIS y sig
 <sup>_Figura 2. Pasos para carga de archivos de texto delimitados en QGIS._</sup>
 
 
-**5.2. Seleccione el archivo a validar**
+### 5.2. Seleccione el archivo a validar
 
 En la ventana emergente, dé clic al botón con tres puntos <span class="tag is-warning is-light"><i>...</i></span> que se encuentra en la sección de _**"File name"**_ y ubique el archivo <FONT FACE="monospace"><b>«datos_geografia.csv»</b></FONT> que guardó en el paso 2 (Fig. 3A).
 
-**5.3. Seleccione el tipo de archivo y delimitador de texto**
+### 5.3. Seleccione el tipo de archivo y delimitador de texto
 
 QGIS llenará los campos de la ventana emergente de manera automática. Sin embargo, verifique que el formato del archivo corresponda con el tipo de archivo y delimitador usado; en este caso, es **.csv** (Fig. 3B).
 
-**5.4. Revise la codificación**
+### 5.4. Revise la codificación
 
 Observe si en la vista previa (Fig. 3F) los nombres de las entidades geográficas muestran problemas de codificación como símbolos de interrogación u otros reemplazando tildes y 'eñes'. Si hay problemas, ajuste la codificación en el desplegable de _**"Encoding"**_ (Fig. 3C). Teniendo en cuenta su sistema operativo, pruebe la opciones <span class="tag is-warning is-light"><i>System</i></span> (para Windows), <span class="tag is-warning is-light"><i>macintosh</i></span> (para Mac) o <span class="tag is-warning is-light"><i>UTF-8</i></span> (para cualquier sistema). Si identifica problemas de codificación en la vista previa, pruebe otro formato de codificación hasta asegurarse de que ha elegido el correcto. Esto es fundamental para evitar inconsistencias más adelante. (Fig. 3F).
 
-**5.5. Seleccione las coordenadas decimales**
+### 5.5. Seleccione las coordenadas decimales
 
 En _**"Geometry definitions"**_, seleccione <span class="tag is-warning is-light"><i>Point coordinates</i></span> y verifique que el _**"X field"**_ corresponda al elemento <span class="tag is-success is-light"><i>decimalLongitude</i></span> y el _**"Y field"**_ a la columna <span class="tag is-success is-light"><i>decimalLatitude</i></span> del archivo (Fig. 3D).
 
-**5.6. Seleccione el sistema de referencia**
+### 5.6. Seleccione el sistema de referencia
 
 En el campo _**"Geometry CRS"**_, seleccione el sistema de referencia de coordenadas: <span class="tag is-warning is-light"><i>WGS84</i></span> (*World Geodetic System*). Si no selecciona el sistema, QGIS tomará por defecto el sistema usado en este proyecto (WGS84) (Fig. 3E). Para finalizar la carga del archivo, haga clic en <span class="tag is-warning is-light"><i>Add</i></span>.
 
@@ -147,7 +147,7 @@ En el campo _**"Geometry CRS"**_, seleccione el sistema de referencia de coorden
   <b>Tip:</b> si realiza este ejercicio con su propio conjunto de datos (Paso 7), es importante que conozca el sistema de referencia o <i>datum</i>.
 </div>
 
-**5.7. Visualización de los datos**
+### 5.7. Visualización de los datos
 
 Cuando haya cargado el archivo, una nube de puntos se desplegará en la ventana de visualización de QGIS (Fig. 4).
 
@@ -160,7 +160,7 @@ Cuando haya cargado el archivo, una nube de puntos se desplegará en la ventana 
 
 A continuación, procedará a validar la coherencia entre la ubicación de las coordenadas y la geografía superior. Para ello, realizará un cruce geográfico entre los datos y la capa de Municipios de Colombia (**"MGN_MPIO_POLITICO"**).
 
-**6.1. Intersección de datos y capas**
+### 6.1. Intersección de datos y capas
 
 En la barra de herramientas superior, siga la ruta <span class="tag is-warning is-light"><b><i>Vector > Data Management Tools > Join Attributes by Location</i></b></span> (Fig. 5) para realizar una intersección entre la capa de municipios y los datos.
 
@@ -180,7 +180,7 @@ Por último, haga clic en <span class="tag is-warning is-light"><i>Run</i></span
 <sup>*Figura 6. Configuracuón de la intersección de las capas.* </sup>
 
 
-**6.2. Exploración de los resultados**
+### 6.2. Exploración de los resultados
 
 Obtendrá una nueva capa llamada _**"Joined_layer"**_ con la intersección de los datos y la capa de municipios, revise que esta se encuentre en el panel de capas <span class="tag is-warning is-light"><i>Layers</i></span>. Posteriormente, dé clic derecho sobre la capa y elija la opción <span class="tag is-warning is-light"><i>Open Attribute Table</i></span> (Fig. 7) para abrir la tabla de atributos.
 
@@ -195,7 +195,7 @@ En la tabla de atributos, encontrará los datos ingresados y unas columnas adici
 <sup>*Figura 8. Detalle de la tabla de atributos de la capa resultante de la unión.* </sup>
 
 
-**6.3. Validación de los municipios**
+### 6.3. Validación de los municipios
 
 La calculadora de campos (<span class="tag is-warning is-light"><i>Field Calculator</i></span>) es útil para comparar los nombres sugeridos en el cruce geográfico con los que estaban documentados originalmente. Con este fin, ubíquese en la barra de herramientas de la tabla de atributos y dé clic en el icono del ábaco (Fig. 9 ).
 
@@ -225,7 +225,7 @@ Al final del procedimiento anterior, podrá verá la nueva columna, _**"countyVa
 
 <sup>*Figura 11. Verificación de resultados de la creación del campo con la validación del municipio (<span class="tag is-success is-light"><i>county</i></span>).*</sup>
 
-**6.4. Validación de los departamentos**
+### 6.4. Validación de los departamentos
 
 Repita el paso 6.3. para la validación del departamento. En este caso, escriba <span class="tag is-light"><b>stateProvinceValidation</b></span> como nombre de la columna de validación. Después, utilice el siguiente comando (Fig. 12): <code>if( "stateProvince"  =  "suggestedS" ,'1',if("stateProvince" is null, '','0'))</code>.
    
@@ -234,7 +234,7 @@ Repita el paso 6.3. para la validación del departamento. En este caso, escriba 
 <sup>*Figura 12. Documentación de la calculadora de campos para obtener una columna con la validación geográfica del departamento.*</sup>
 
 
-**6.5. Visualización de la validación**
+### 6.5. Visualización de la validación
 
 Genere un filtro para visualizar los datos cuyas coordenadas no coincidem con la geografía superior. Es decir, los que tienen <span class="tag is-light"><b>0</b></span> como resultado de la validación:
 
@@ -263,7 +263,7 @@ Genere un filtro para visualizar los datos cuyas coordenadas no coincidem con la
 
    <sup>_Figura 16. Visualización de los registros biológicos seleccionados (con valores de <span class="tag is-light"><b>0</b></span>) cuyas coordenadas no coinciden con el municipio documentado en el elemento <span class="tag is-success is-light"><i>county</i></span> (círculos blancos tachados con una "x")._</sup>
 
-**6.6. Exporte el resultado de la validación**
+### 6.6. Exporte el resultado de la validación
 
 Por último, guarde el archivo de validación en su equipo:
 
