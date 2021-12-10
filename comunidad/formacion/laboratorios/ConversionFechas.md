@@ -60,13 +60,13 @@ Ingrese a la aplicación en línea [_Date parsing_](https://data.canadensys.net/
 
 Entre a Excel, abra el archivo <FONT FACE="monospace"><b>«datos_canadensys.xlsx»</b></FONT> y busque la información temporal de los registros. Encontrará la columna <span class="tag is-success is-light"><i>verbatimEventDate</i></span>, la cual contiene las fechas de colecta en el formato original. Luego, seleccione la columna <span class="tag is-success is-light"><i>verbatimEventDate</i></span> y cópiela sin el encabezado (Fig. 1).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.1_dateParsing.JPG" width=400>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionFechas/Fig.1_dateParsing.jpg" width=400>
 
 <sup>_Figura 1. Seleccion y copia de las fechas originales (<span class="tag is-success is-light"><i>verbatimEventDate</i></span>)._<sup>
 
 Entre a la aplicación _Date parsing_ y pegue los datos previamente copiados. Luego, haga clic en <span class="tag is-warning is-light"><i>Submit</i></span> para iniciar la conversión de fechas (Fig. 2).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.2_dateParsing.JPG" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionFechas/Fig.2_dateParsing.jpg" width=800>
 
 <sup>*Figura 2. Fechas originales ingresadas en la herramienta en diversos formatos.*<sup>
 
@@ -74,7 +74,7 @@ Entre a la aplicación _Date parsing_ y pegue los datos previamente copiados. Lu
 
 Las fechas originales ingresadas apareceran en la columna **"original"**, que corresponde al elemento <span class="tag is-success is-light"><i>verbatimEventDate</i></span>, junto con cuatro nuevas columas: <span class="tag is-success is-light"><i>year</i></span>, <span class="tag is-success is-light"><i>month</i></span>, <span class="tag is-success is-light"><i>day</i></span> (equivalentes al estándar DwC) e **"ISO 8601"**, que es el resultado de la estandarización y corresponde al elemento DwC <span class="tag is-success is-light"><i>eventDate</i></span> (Fig. 3).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.3_dateParsing.JPG" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionFechas/Fig.3_dateParsing.jpg" width=800>
 
 <sup>*Figura 3. Resultado de convertir las fechas al formato ISO 8601 con Date Parsing de Candensys.*<sup>
 
@@ -88,7 +88,7 @@ Las fechas originales ingresadas apareceran en la columna **"original"**, que co
   </div>
 </article>
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.4_dateParsing.JPG" width=500>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionFechas/Fig.4_dateParsing.jpg" width=500>
 
 <sup>*Figura 4. Ejemplo de fechas ambiguas, donde la herramienta no reconoce el formato y no puede hacer la conversión (en rojo).*<sup>
 
@@ -99,13 +99,13 @@ Las fechas originales ingresadas apareceran en la columna **"original"**, que co
  
 En el archivo <FONT FACE="monospace"><b>«datos_canadensys.xlsx»</b></FONT>, agregue cinco columnas a la izquierda de la columna con las fechas originales. Para esto, ubíquese en el encabezado de la columna <span class="tag is-success is-light"><i>verbatimEventDate</i></span> y dé *clic derecho* en <span class="tag is-warning is-light"><i>Insertar</i></span>. Repita este paso 4 veces (Fig. 5).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.5_dateParsing.jpg" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionFechas/Fig.5_dateParsing.jpg" width=600>
 
 <sup>*Figura 5. Proceso para insertar nuevas columnas en Excel.*<sup>
 
 En las opciones de Excel, configure las columnas que creó en formato de texto (Fig. 6)
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.8_DateParsing.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionFechas/Fig.6_DateParsing.png" width=800>
 
 <sup>*Figura 6. Configuración de columnas en formato texto.*<sup>
 
@@ -114,7 +114,7 @@ En las opciones de Excel, configure las columnas que creó en formato de texto (
  
 Diríjase a la herramienta _Date Parsing_, seleccione y copie toda la tabla con el resultado de la conversión, incluyendo el encabezado. Para facilitar la selección y el copiado, puede apoyarse en el _mouse_ de su equipo, desplazándose desde el inicio hasta el final de la tabla con el clic izquierdo sostenido. (Fig. 7).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.6_dateParsing.jpg" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionFechas/Fig.7_dateParsing.jpg" width=800>
 
 <sup>*Figura 7. Selección y copia de los resultados.*<sup>
  
@@ -130,13 +130,13 @@ Diríjase a la herramienta _Date Parsing_, seleccione y copie toda la tabla con 
   <b>Tip:</b> el pegado especial en formato de texto es indispensable para que Excel no haga interpretaciones erróneas sobre las fechas ya estandarizadas. Si no se tiene en cuenta, el programa revertirá las fechas a otro formato y el trabajo realizado podría perderse.
 </div>
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.7_dateParsing.jpg" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionFechas/Fig.8_dateParsing.jpg" width=800>
 
 <sup>*Figura 8. Pasos para insertar las fechas copiadas con formato texto: A. Ubicar la celda en donde se pegarán los resultados, B. Desplegar las opciones de pegado especial, C. Seleccionar la opción texto en el menú de pegado especial.*</sup>
 
 Luego de realizar este procedimiento, verá las columnas incorporadas en el Excel (Fig. 9). Sin embargo, la columna con la fecha del evento original estará duplicada.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_images/Fig.8_dateParsing.JPG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ConversionFechas/Fig.9_dateParsing.jpg" width=600>
 
 <sup>*Figura 9. Resultados de las fechas en la hoja de Excel.*<sup>
 
@@ -173,5 +173,5 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, 
 
 **Citación sugerida**
 
->Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
+>Plata C., Ortíz R., Marentes E., Lozano J. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
 >
