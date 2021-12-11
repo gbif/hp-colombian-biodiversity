@@ -11,6 +11,9 @@ toc: true
 
 # CATEGORÍAS DWC
 
+
+Prueba [achor div](#abcde)
+
 ## ELEMENTOS DE REGISTRO
 
 |    |    |    |    |    |
@@ -31,7 +34,7 @@ toc: true
 | [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | PreservedSpecimen, HumanObservation, LivingSpecimen, FossilSpecimen, MachineObservation, MaterialSample, MaterialCitation |
 |    |    |
 
-
+**type (Tipo)**
 | **type (Tipo)** |    |
 | ---|--- |
 | Definición | Especifica el tipo de evidencia que da origen al registro, ampliando la información presente en el elemento basisOfRecord. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
@@ -39,6 +42,10 @@ toc: true
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_, Evento de muestreo _(Opcional)_ |
 | [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | Stillmage, MovingImage, Sound, PhysicalObject, Event |
 |    |    |
+
+Prueba achor div
+
+<a name="abcde">**institutionCode (Código de la institución)</a>
 
 | **institutionCode (Código de la institución)** |    |
 | ---|--- |
