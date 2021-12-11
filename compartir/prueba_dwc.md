@@ -25,6 +25,7 @@ Prueba [achor div](#abcde)
 | **informationWithheld** (Información retenida) | **dataGeneralizations**] (Generalización de los datos) | **dynamicProperties** (Propiedades dinámicas) | |
 
 **basisOfRecord (Base del registro)**
+
 | **basisOfRecord (Base del registro)** |    |
 | ---|--- |
 | Definición | Denota el origen o evidencia específica de la que se deriva el organismo. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. |
@@ -35,6 +36,7 @@ Prueba [achor div](#abcde)
 |    |    |
 
 **type (Tipo)**
+
 | **type (Tipo)** |    |
 | ---|--- |
 | Definición | Especifica el tipo de evidencia que da origen al registro, ampliando la información presente en el elemento basisOfRecord. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
