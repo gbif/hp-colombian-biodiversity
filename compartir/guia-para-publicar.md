@@ -1,6 +1,6 @@
 ---
 layout: heroImage
-title: Guía de publicación de datos e información
+title: Guía para publicar datos e información
 description: Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia
 background: https://live.staticflickr.com/8183/8419468465_35c5ecc471_b.jpg
 imageLicense: |
