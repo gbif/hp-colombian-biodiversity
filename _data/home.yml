@@ -61,27 +61,26 @@ destacados:
         href: /post/2021/biodiversidad-en-colombia-tiene-nuevo-portal/
         isPrimary: false
         
-    - preTitle:  Formación
-      title: Pasantías 2022-1
+    - preTitle:  Red SiB Colombia
+      title: Alianza sector empresarial
       description: |      # required
-       Convocatoria para que estudiantes de pregrado desarrollen su pasantía.
+            Un aporte del sector empresarial al conocimiento de la biodiversidad.
       # img required
-      background: https://thumbnails.production.thenounproject.com/B09K3CvSI_BVMnT4iazY1Orb_kY=/fit-in/1000x1000/photos.production.thenounproject.com/photos/1AF7393A-F70B-4C96-96E1-CB9E19DF0A3F.jpg
+      background: /assets/images/landing_page/AlianzaAndiSectorEmpresarial.jpg
       cta:
-      - text: Ver convocatoria
-        href: /post/2021/pasantias-2022-1/
+      - text: Ver más
+        href: /acercade/aliados/andi
         isPrimary: false
-        
-    - preTitle:  Ciclo de formación 2021
-      title:  OpenRefine
-      description: |      # required
-          Taller del programa para limpieza de datos OpenRefine, 9 y 10 de diciembre.
-      # img required
-      background: /assets/images/landing_page/imgDest_OenRefine.png
-      cta:
-      - text: Inscribirse
-        href: https://forms.gle/br7fQKtLJqz2cnNHA
-        isPrimary: false
+           
+   - preTitle:  Convocatorias
+     title: Reconocimiento SNCTI
+     description: |      # required
+           Guía para incorporar productos SiB Colombia en el CvLac.
+     background: /assets/images/landing_page/imgDest_MinCiencias.jpg
+     cta:
+     - text: Ver más
+       href: /post/2021/convocatoria-nacional-medicion-grupos-cvlac-sib/
+       isPrimary: false
 
 # Feature cards
 #cards
@@ -167,4 +166,17 @@ productExample:
     Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is.
   # img required
   background: /assets/img/product-right.png
+  
+  
+  # Drafts
+      #- preTitle:  Ciclo de formación 2021
+      #title:  OpenRefine
+      #description: |      # required
+      #    Taller del programa para limpieza de datos OpenRefine, 9 y 10 de diciembre.
+      # img required
+      #background: /assets/images/landing_page/imgDest_OenRefine.png
+      #cta:
+      #- text: Inscribirse
+      # href: https://forms.gle/br7fQKtLJqz2cnNHA
+      # isPrimary: false
 
