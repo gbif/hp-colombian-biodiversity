@@ -109,7 +109,7 @@ Además de realizar los ajustes solicitados en el conjunto de datos, ten en cuen
 > - **CC BY**, permite cualquier uso, incluso con fines comerciales, siempre que te sea reconocida la autoría de la publicación.
 > - **CC BY-NC**, permite al público cualquier uso no comercial, siempre que te sea reconocida la autoría de la publicación.
  
-2. **La documentación de los metadatos:** En un correo del Equipo Coordinador recibes una URL al IPT (la plataforma de publicación de datos del SiB Colombia), con unas credenciales de acceso para iniciar el proceso de documentación de los metadatos del conjunto de datos. En la sección [Metadatos](https://github.com/gbif/ipt/wiki/IPT2ManualManageResources.wiki#metadata){:target="_blank"} de la plataforma, debes documentar toda la información que da contexto a tus datos. En total hay 12 secciones. Cuando hayas completado los metadatos, responde el correo del profesional del Equipo Coordinador indicando que has finalizado la documentación.
+2. **La documentación de los metadatos:** En un correo del Equipo Coordinador recibes una URL al IPT (la plataforma de publicación de datos del SiB Colombia), con unas credenciales de acceso para iniciar el proceso de documentación de los metadatos del conjunto de datos. En la sección [Metadatos](https://ipt.gbif.org/manual/es/ipt/2.5/resource-metadata){:target="_blank"} de la plataforma, debes documentar toda la información que da contexto a tus datos. En total hay 12 secciones. Cuando hayas completado los metadatos, responde el correo del profesional del Equipo Coordinador indicando que has finalizado la documentación.
 
 El profesional del Equipo Coordinador revisa la documentación de metadatos y te informa si debes realizar ajustes.
 
