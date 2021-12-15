@@ -19,11 +19,11 @@
 - text: Compartir
   menu: # Dropdown menu (one level deep only)
   - text: Tipos de datos
-    href: /compartir/tiposdedatos
+    href: /compartir/tipos-de-datos
   - text: Estándares
     href: /compartir/estandares
   - text: Guía de publicación
-    href: /compartir/guia-publicacion
+    href: /compartir/guia-para-publicar
   - text: Registrarse
     href: /compartir/registrarse
   - text: Preguntas frecuentes
