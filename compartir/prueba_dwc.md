@@ -11,22 +11,17 @@ toc: true
 
 ## Categorías DwC
 
-
-Prueba [achor div](#abcde)
-
 ### Elementos de Registro
 
 |    |    |    |    |    |
 | ---|--- |--- |--- |--- |
-| [**basisOfRecord**](#elem001) (Base del registro) | [**type** (Tipo)](#elem002) | **institutionCode** (Código de la institución) | **institutionID** (ID de la institución) |
-| **collectionCode** (Código de la colección) | **collectionID** (ID de la colección) | **datasetName** (Nombre del conjunto de datos) | **datasetID** (ID del conjunto de datos) |
-| **modified** (Modificado) | **language** (Idioma) | **license**(Licencia) | **rightsHolder** (Titular de los derechos) | 
-| **accessRights** (Derechos de acceso) | **bibliographicCitation** (Citación bibliográfica) | **references** (Referencias) | **ownerInstitutionCode** (Código de la institución propietaria) |
-| **informationWithheld** (Información retenida) | **dataGeneralizations**] (Generalización de los datos) | **dynamicProperties** (Propiedades dinámicas) | |
+| [**basisOfRecord** (Base del registro)](#elem001) | [**type** (Tipo)](#elem002) | [**institutionCode** (Código de la institución)](#elem003) | [**institutionID** (ID de la institución)](#elem004) |
+| [**collectionCode** (Código de la colección)](#elem005) | [**collectionID** (ID de la colección)](#elem006) | [**datasetName** (Nombre del conjunto de datos)](#elem007) | [**datasetID** (ID del conjunto de datos)](#elem008) |
+| [**modified** (Modificado)](#elem009) | [**language** (Idioma)](#elem010) | [**license**(Licencia)](#elem011) | [**rightsHolder** (Titular de los derechos)](#elem012) | 
+| [**accessRights** (Derechos de acceso)](#elem013) | [**bibliographicCitation** (Citación bibliográfica)](#elem014) | [**references** (Referencias)](#elem015) | [**ownerInstitutionCode** (Código de la institución propietaria)](#elem016) |
+| [**informationWithheld** (Información retenida)](#elem017) | [**dataGeneralizations** (Generalización de los datos)](#elem018) | [**dynamicProperties** (Propiedades dinámicas)](#elem019) | |
 
 <a name="elem001">**basisOfRecord** (Base del registro)</a>
-
-**basisOfRecord** (Base del registro)
 
 |    |    |
 | ---|--- |
@@ -39,8 +34,6 @@ Prueba [achor div](#abcde)
 
 <a name="elem002">**type (Tipo)**</a>
 
-**type (Tipo)**
-
 |    |    |
 | ---|--- |
 | Definición | Especifica el tipo de evidencia que da origen al registro, ampliando la información presente en el elemento basisOfRecord. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
@@ -49,9 +42,7 @@ Prueba [achor div](#abcde)
 | [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | Stillmage, MovingImage, Sound, PhysicalObject, Event |
 |    |    |
 
-Prueba achor div
-
-<a name="abcde">**institutionCode (Código de la institución)</a>
+<a name="elem003">**institutionCode** (Código de la institución)</a>
 
 |    |    |
 | ---|--- |
@@ -61,7 +52,7 @@ Prueba achor div
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_, Evento de muestreo _(Opcional)_ |
 |    |    |
 
-**institutionID (ID de la institución)**
+<a name="elem004">**institutionID** (ID de la institución)</a>
 
 |    |    |
 | ---|--- |
@@ -71,36 +62,37 @@ Prueba achor div
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_, Evento de muestreo _(Opcional)_ |
 |    |    |
 
-**collectionCode (Código de la colección)**
+<a name="elem005">**collectionCode** (Código de la colección)</a>
 
 |    |    |
 | ---|--- |
-| Definición | El nombre, acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el organismo. Si corresponde a una colección biológica registrada en el Registro Único Nacional de Colecciones Biológicas-RNC(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones), se puede emplear el acrónimo allí registrado, aunque también es válido el uso del acrónimo que implemente la colección internamente. |
+| Definición | El nombre, acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el organismo. Si corresponde a una colección biológica registrada en el Registro Único Nacional de Colecciones Biológicas - RNC (http://rnc.humboldt.org.co/admin/index.php/registros/colecciones), se puede emplear el acrónimo allí registrado, aunque también es válido el uso del acrónimo que implemente la colección internamente. |
 | Ejemplo | COL, ANDES-E, FMB |
 | Elementos relacionados | collectionID |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
 |    |    |
 
-**collectionID (ID de la colección)**
+<a name="elem006">**collectionID** (ID de la colección)</a>
 
 |    |    |
 | ---|--- |
-| Definición | EUn identificador de la colección registrada en el elemento collectionCode. Si corresponde a una colección biológica registrada en el Registro Único Nacional de Colecciones Biológicas-RNC (http://rnc.humboldt.org.co/admin/index.php/registros/colecciones), se debe emplear el identificador allí registrado. En tal caso documentar: [RNC:]+[Número de la colección], sin espacios. |
+| Definición | EUn identificador de la colección registrada en el elemento collectionCode. Si corresponde a una colección biológica registrada en el Registro Único Nacional de Colecciones Biológicas - RNC (http://rnc.humboldt.org.co/admin/index.php/registros/colecciones), se debe emplear el identificador allí registrado. En tal caso documentar: [RNC:]+[Número de la colección], sin espacios. |
 | Ejemplo | RNC:001, RNC:010, RNC:250 |
 | Elementos relacionados | collectionCode |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
 |    |    |
 
-**datasetName (Nombre del conjunto de datos)** 
+<a name="elem007">**datasetName** (Nombre del conjunto de datos)</a>
 
 |    |    |
 | ---|--- |
-| Definición | El nombre del conjunto de datos del cual se deriva el registro biológico (observación, colecta o evento). De acuerdo al origen del registro biológico, identifique a cuál de los siguientes casos corresponde y construya este identificador según las indicaciones del caso: (i) El registro biológico proviene de una entidad vinculada y adscrita al Ministerio de Medio Ambiente y Desarrollo Sostenible que no requiere un permiso de recolección. Nombre del convenio o proyecto marco de acuerdo a lo documentado en el elemento datasetID (ii) El registro biológico proviene de un proyecto amparado por un permiso de recolección de especímenes o acceso a recursos genéticos de acuerdo a lo establecido en el Decreto 1076 de 2015. Nombre del titular del permiso (iii) El registro biológico proviene de un espécimen depositado en una colección biológica por solicitud expresa de una autoridad ambiental o gubernamental mediante un acto legal. Por ejemplo, en los casos de incautación de fauna y flora silvestre por tráfico de especies. Se documentan las palabras ‘Acto Legal’ (iv) El registro biológico proviene de un espécimen preservado en una colección biológica y legalizado a través de una amnistía. Se documentan la palabra ‘Amnistía’ (v) El registro biológico proviene de un espécimen obtenido por medio de una colecta fortuita, por ejemplo en los casos de pesca accidental, atropellamiento y choqué contra edificaciones, entre otros. Se documentan las palabras ‘Colecta Fortuita’ |
+| Definición | El nombre del conjunto de datos del cual se deriva el registro biológico (observación, colecta o evento).<br> De acuerdo al origen del registro biológico, identifique a cuál de los siguientes casos corresponde y construya este identificador según las indicaciones del caso: (i) El registro biológico proviene de una entidad vinculada y adscrita al Ministerio de Medio Ambiente y Desarrollo Sostenible que no requiere un permiso de recolección. Nombre del convenio o proyecto marco de acuerdo a lo documentado en el elemento datasetID (ii) El registro biológico proviene de un proyecto amparado por un permiso de recolección de especímenes o acceso a recursos genéticos de acuerdo a lo establecido en el Decreto 1076 de 2015. Nombre del titular del permiso (iii) El registro biológico proviene de un espécimen depositado en una colección biológica por solicitud expresa de una autoridad ambiental o gubernamental mediante un acto legal. Por ejemplo, en los casos de incautación de fauna y flora silvestre por tráfico de especies. Se documentan las palabras ‘Acto Legal’ (iv) El registro biológico proviene de un espécimen preservado en una colección biológica y legalizado a través de una amnistía. Se documentan la palabra ‘Amnistía’ (v) El registro biológico proviene de un espécimen obtenido por medio de una colecta fortuita, por ejemplo en los casos de pesca accidental, atropellamiento y choqué contra edificaciones, entre otros. Se documentan las palabras ‘Colecta Fortuita’ |
 | Ejemplo | Colombia Bio-Fondo Adaptación-Boyacá Bio, Universidad de Caldas-Cenipalma- Pedro Pérez, Acto Legal, Amnistía,Colecta Fortuita |
 | Elementos relacionados | datasetNameID |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos, Lista de chequeo _(Opcional)_, Evento de muestreo _(Opcional)_ |
 
-**datasetID (ID del conjunto de datos)**
+<a name="elem008">**datasetID** (ID del conjunto de datos)</a>
+
 
 |    |    |
 | ---|--- |
@@ -110,7 +102,7 @@ Prueba achor div
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos, Lista de chequeo _(Opcional)_, Evento de muestreo _(Opcional)_ |
 |    |    |
 
-**modified (Modificado)**
+<a name="elem009">**modified** (Modificado)</a>
 
 |    |    |
 | ---|--- |
@@ -119,7 +111,7 @@ Prueba achor div
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_, Lista de chequeo _(Opcional)_, Evento de muestreo _(Opcional)_ |
 |    |    |
 
-**language (Idioma)**
+<a name="elem010">**language** (Idioma)</a>
 
 |    |    |
 | ---|--- |
@@ -129,7 +121,7 @@ Prueba achor div
 | [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | Consultar en: http://www.loc.gov/standards/iso639-2/php/code_list.php |
 |    |    |
 
-**license (Licencia)**
+<a name="elem011">**license** (Licencia)</a>
 
 |    |    |
 | ---|--- |
@@ -137,7 +129,7 @@ Prueba achor div
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_, Lista de chequeo _(Opcional)_, Evento de muestreo _(Opcional)_ |
 |    |    |
 
-**rightsHolder (Titular de los derechos)**
+<a name="elem012">**rightsHolder** (Titular de los derechos)</a>
 
 |    |    |
 | ---|--- |
@@ -146,7 +138,7 @@ Prueba achor div
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_, Lista de chequeo _(Opcional)_, Evento de muestreo _(Opcional)_ |
 |    |    |
 
-**accessRights (Derechos de acceso)** 
+<a name="elem013">**accessRights** (Derechos de acceso)</a>
 
 |    |    |
 | ---|--- |
@@ -155,7 +147,7 @@ Prueba achor div
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_, Lista de chequeo _(Opcional)_, Evento de muestreo _(Opcional)_ |
 |    |    |
 
-**bibliographicCitation (Citación bibliográfica)**
+<a name="elem014">**bibliographicCitation** (Citación bibliográfica)</a>
 
 |    |    |
 | ---|--- |
@@ -164,7 +156,7 @@ Prueba achor div
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_, Lista de chequeo _(Opcional)_, Evento de muestreo _(Opcional)_ |
 |    |    |
 
-**references (Referencias)**
+<a name="elem015">**references** (Referencias)</a>
 
 |    |    |
 | ---|--- |
@@ -173,7 +165,8 @@ Prueba achor div
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_, Lista de chequeo _(Opcional)_, Evento de muestreo _(Opcional)_ |
 |    |    |
 
-**ownerInstitutionCode (Código de la institución propietaria)**
+<a name="elem016">**ownerInstitutionCode** (Código de la institución propietaria)</a>
+
 |    |    |
 | ---|--- |
 | Definición | El nombre completo (o acrónimo) de la institución que tiene la propiedad del objeto o de la información consignada en el registro. Usar sólo si la organización propietaria de los datos es diferente a la organización publicadora consignada en el elemento institutionCode. |
@@ -181,7 +174,7 @@ Prueba achor div
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_, Evento de muestreo _(Opcional)_ |
 |    |    |
 
-**informationWithheld (Información retenida)**
+<a name="elem017">**informationWithheld** (Información retenida)</a>
 
 |    |    |
 | ---|--- |
@@ -190,7 +183,7 @@ Prueba achor div
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_, Lista de chequeo _(Opcional)_, Evento de muestreo _(Opcional)_ |
 |    |    |
 
-**dataGeneralizations (Generalización de los datos)**
+<a name="elem018">**dataGeneralizations** (Generalización de los datos)</a>
 
 |    |    |
 | ---|--- |
@@ -199,7 +192,7 @@ Prueba achor div
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_, Evento de muestreo _(Opcional)_ |
 |    |    |
 
-**dynamicProperties (Propiedades dinámicas)**
+<a name="elem018">**dynamicProperties** (Propiedades dinámicas)</a>
 
 |    |    |
 | ---|--- |
