@@ -40,11 +40,12 @@ tarjetasFormacion:
         Este programa busca formar a futuros profesionales en informática de la biodiversidad, visualización y divulgación científica.
       background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
       cta:
-      - text: VER LA CONVOCATORIA 2022-1
-        href: /post/2021/pasantias-2022-1/
-        isPrimary: true
       - text: VER MÁS SOBRE EL PROGRAMA
         href: /comunidad/formacion/programapasantias
+        isPrimary: true
+      - text: ALUMNI
+        href: /post/2021/alumni/
+        isPrimary: true
         
 
         
