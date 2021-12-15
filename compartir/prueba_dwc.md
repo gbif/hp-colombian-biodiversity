@@ -20,6 +20,7 @@ toc: true
 | [**modified**<br> (Modificado)](#elem009) | [**language**<br> (Idioma)](#elem010) | [**license**<br> (Licencia)](#elem011) | [**rightsHolder**<br> (Titular de los derechos)](#elem012) | 
 | [**accessRights**<br> (Derechos de acceso)](#elem013) | [**bibliographicCitation**<br> (Citación bibliográfica)](#elem014) | [**references**<br> (Referencias)](#elem015) | [**ownerInstitutionCode**<br> (Código de la institución propietaria)](#elem016) |
 | [**informationWithheld**<br> (Información retenida)](#elem017) | [**dataGeneralizations**<br> (Generalización de los datos)](#elem018) | [**dynamicProperties**<br> (Propiedades dinámicas)](#elem019) | |
+|    |    |    |    |    |
 
 <br>
 <br>
@@ -215,6 +216,7 @@ toc: true
 | [**preparations**<br> (Preparaciones)](#elem036) | [**disposition**<br> (Disposición)](#elem037) | [**otherCatalogNumbers**<br> (Otros números de catálogo)](#elem038) | [**associatedMedia**<br> (Medios asociados)](#elem039) |
 | [**associatedOccurrences**<br> (Registros biológicos asociados)](#elem040) | [**associatedReferences**<br> (Referencias asociadas)](#elem041) | [**associatedSequences**<br> (Secuencias asociadas)](#elem042) | [**associatedTaxa**<br> (Taxones asociados)](#elem043) |
 | [**occurrenceRemarks**<br> (Comentarios del registro biológico)](#elem044) |  |  |  |
+|    |    |    |    |    |
 
 <br>
 <br>
@@ -404,7 +406,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores (publicación, referencia bibliográfica, identificador único global, URI) de los medios asociados al registro biológico. Se recomienda usar la extensión Simple Multimedia o Audobon Media Description las cuales cuentan con más elementos para describir la información multimedia asociada. |
-| Ejemplo | https://sinchi.org.co/ciacol/ficha/24/Hypoclinemus%20mentalis<br> https://ia801004.us.archive.org/0/items/staphylococcusaureus/Staphylococcus%20aureus.JPG \| https://ia903100.us.archive.org/33/items/CMPUJH012-macro/CMPUJH012-anverso.jpg |
+| Ejemplo | https://sinchi.org.co/ciacol/ficha/24/Hypoclinemus%20mentalis<br> https://ia801004.us.archive.org/0/items/staphylococcusaureus.JPG \| https://ia903100.us.archive.org/33/items/CMPUJH012-macro.jpg |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
@@ -460,6 +462,7 @@ toc: true
 | ---|--- |--- |--- |--- |
 | [**organismID**<br> (ID del organismo)](#elem045) | [**organismName**<br> (Nombre del organismo)](#elem046) | [**organismScope**<br> (Alcance del organismo)](#elem047) | [**associatedOrganisms**<br> (Organismos asociados)](#elem048) |
 | [**previousIdentifications**<br> (Identificaciones previas)](#elem049) | [**organismRemarks**<br> (Comentarios del organismo)](#elem050) |  |  |
+|    |    |    |    |    |
 
 <br>
 <br>
@@ -523,6 +526,7 @@ toc: true
 |    |    |    |    |    |
 | ---|--- |--- |--- |--- |
 | [**materialSampleID**<br> (ID de muestra del material)](#elem051) |  |  |  |
+|    |    |    |    |    |
 
 <br>
 <br>
@@ -534,6 +538,7 @@ toc: true
 | Definición | Un identificador para muestras de material (no hace referencia a muestras digitales sino físicas, como exicados o tejidos). En ausencia de un identificador único global persistente, puede construir uno usando una combinación a partir del occurrenceID, de tal forma que el materialSampleID sea globalmente único. Se recomienda hacer uso de la extensión GGBN Material Sample Extension para documentar en más detalle la información relacionada con la muestra. |
 | Ejemplo | IAvH:IAvH-CT-1:Tejido<br> 06809dc5-f143-459a-be1a-6f03e63fc083<br> IAvH-ABJ788 |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|    |    |
 
 ### Evento
 
@@ -544,6 +549,7 @@ toc: true
 | [**endDayOfYear**<br> (Día final del año)](#elem060) | [**year**<br> (Año)](#elem061) | [**month**<br> (Mes)](#elem062) | [**day**<br> (Día)](#elem063) | 
 | [**verbatimEventDate**<br> (Fecha original del evento)](#elem064) | [**eventTime**<br> (Hora del evento)](#elem065) | [**habitat**<br> (Hábitat)](#elem066) | [**fieldNumber**<br> (Número de campo)](#elem067) |
 | [**fieldNotes**<br> (Notas de campo)](#elem068) | [**eventRemarks**<br> (Comentarios del evento)](#elem069) |  |  |
+|    |    |    |    |    |
 
 <br>
 <br>
@@ -553,34 +559,170 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Un identificador único para la categoría superior del evento de muestreo. Por ejemplo el identificador del muestreo de un cuadrante, parcela o transecto independientemente del tiempo o temporada cuando se realice el muestro. Este identificador es más general que el eventID y puede agrupar varios eventID. |
-| Comentarios | Este elemento debe estar acompañado siempre del elemento eventID, como se muestra en el ejemplo a continuación:<br><br> A1 como parentEventID para identificar una parcela, cada sub-parcela con su propio eventID (A1:1, A1:2, etc.)<br> BENTOS como parentEventID para identificar un evento de muestreo y cada parte del evento con us propio eventID (BENTOS:E-1, BENTOS:E-2, etc.)
+| Comentarios | Este elemento debe estar acompañado siempre del elemento eventID, como se muestra en el ejemplo a continuación:<br><br> A1 como parentEventID para identificar una parcela, cada sub-parcela con su propio eventID (A1:1, A1:2, etc.)<br> BENTOS como parentEventID para identificar un evento de muestreo y cada parte del evento con us propio eventID (BENTOS:E-1, BENTOS:E-2, etc.) |
 | Ejemplo | A1<br> BENTOS |
 | Elementos relacionados | eventID |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
 
-
-
-prueba pelca
-
-<a name="elem048">**associatedOrganisms** (Organismos asociados)</a>
+<a name="elem053">**eventID** (ID del evento)</a>
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical \|) de los identificadores de otros organismos y su relación con el organismo documentado. Aplica para relaciones con organismos del mismo grupo taxonómico. Se recomienda hacer uso la extensión Resource Relationship para documentar en más detalle la relación entre los organismos asociados. |
-| Ejemplo | Hermano de: FMNH:Mamífero:1234<br> Hijo de: MLS:sau:438 |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+| Definición | Un identificador único para el Evento de muestreo  - que ocurre en un lugar y tiempo determinado. Por ejemplo el identificador del muestreo de un cuadrante, parcela o transecto en un tiempo o temporada específicos. Este identificador es más específico que el parentEventID. |
+| Comentarios | Este elemento puede estar acompañado del elemento parentEventID, como se muestra en el ejemplo a continuación:<br><br> A1:1 | A1:2 como eventID para identificar cada sub-parcela perteneciente a la parcela A1<br> BENTOS:E-1 | BENTOS:E-2 como EventID para identificar cada parte del evento de muestreo perteneciente al evento BENTOS |
+| Ejemplo | A1:1<br> BENTOS:E-1 |
+| Elementos relacionados | parentEventID |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro es marino - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Obligatorio)_ |
 |    |    |
 
-<a name="elem048">**associatedOrganisms** (Organismos asociados)</a>
+<a name="elem054">**samplingProtocol** (Protocolo de muestreo)</a>
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores de otros organismos y su relación con el organismo documentado. Aplica para relaciones con organismos del mismo grupo taxonómico. Se recomienda hacer uso la extensión Resource Relationship para documentar en más detalle la relación entre los organismos asociados. |
-| Ejemplo | Hermano de: FMNH:Mamífero:1234<br> Hijo de: MLS:sau:438 |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+| Definición | El nombre, la descripción o la referencia del método o protocolo de muestreo usado para realizar el muestreo. Se recomienda acompañar este elemento con el elemento samplingEffort. |
+| Ejemplo | Trampa de luz UV<br> Red de niebla<br> Arrastre de fondo<br> Observación ad hoc<br> Punto de conteo |
+| Elementos relacionados | samplingEffort |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
+<a name="elem055">**sampleSizeValue** (Valor del tamaño de la muestra)</a>
 
+|    |    |
+| ---|--- |
+| Definición | Un valor numérico para una medición del tamaño (duración de tiempo, longitud, área o volumen) de una muestra en un evento de muestreo. Documentar este elemento junto con el elemento sampleSizeUnit. Se recomienda hacer uso del Sistema Internacional de Unidades (SI). |
+| Ejemplo | 5.5<br> 10<br> 1 |
+| Elementos relacionados | sampleSizeUnit |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem056">**sampleSizeUnit** (Unidad del tamaño de la muestra)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La unidad de medida de la magnitud (tiempo de duración, longitud, área o volumen) de una muestra en un evento de muestreo. Documentar este elemento junto con el elemento sampleSizeValue. |
+| Ejemplo | Metros<br> Horas<br> Trampa<br> Metros cuadrados |
+| Elementos relacionados | sampleSizeValue |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem057">**samplingEffort** (Esfuerzo de muestreo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El esfuerzo de muestreo en tiempo y/o espacio realizado durante el evento de muestreo. Documentar este elemento junto con el elemento samplingProtocol. |
+| Ejemplo | 40 trampas-noche<br> 10 horas-observador<br> 10 km caminando<br> 30 km en carro<br> 7 días-trampa<br> 5 horas muestra por 30 eventos de muestreo |
+| Elementos relacionados | samplingProtocol |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem058">**eventDate** (Fecha del evento)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La fecha o el intervalo durante la cual se produjo el evento de observación o colecta de un organismo o muestra. No es adecuado para una fecha en un contexto geológico. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
+| Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Obligatorio)_ |
+|    |    |
+
+<a name="elem059">**startDayOfYear** (Día inicial del año)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Día inicial del evento, contando a partir del primer día del año del evento y documentado en formato de números ordinales (siendo "1" el primero de enero y "365" el 31 de diciembre en año no bisiesto). |
+| Ejemplo | 1<br> 220<br> 365 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem060">**endDayOfYear** (Día final del año)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Día final del evento, contando a partir del primer día del año del evento y documentado en formato de números ordinales (siendo "1" el primero de enero y "365" el 31 de diciembre en año no bisiesto). |
+| Ejemplo | 30<br> 300<br> 366 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem061">**year** (Año)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Los cuatro dígitos del año durante el cual se produjo el evento de observación o colecta de un organismo o muestra. |
+| Ejemplo | 2008<br> 1901 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem062">**month** (Mes)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El mes en números enteros en que ocurrió durante el cual se produjo el evento de observación o colecta de un organismo o muestra. |
+| Ejemplo | 01<br> 11 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem063">**day** (Día)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El día en números enteros durante el cual se produjo el evento de observación o colecta de un organismo o muestra. |
+| Ejemplo | 09<br> 28 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem064">**verbatimEventDate** (Fecha original del evento)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La representación textual original (según la libreta de campo, formato de datos, o etiqueta de colección) de la información de fecha durante la cual se produjo el evento de observación o colecta de un organismo o muestra. |
+| Ejemplo | primavera 1910<br> 4/11/2020<br> marzo 2002<br> 1999-03-XX<br> 17IV1934 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem065">**eventTime** (Hora del evento)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La hora o el intervalo de horas en la cual se produjo el evento de observación o colecta de un organismo o muestra. Debe estar documentado en el esquema de codificación ISO 8601. |
+| Ejemplo | 14:07<br> 08:40:21<br> 13:00:00/15:30:00 |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem066">**habitat** (Hábitat)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una categoría estandarizada o la descripción del hábitat en el que ocurrió el evento. |
+| Ejemplo | Sabana de roble<br> Estepa de la pre-cordillera |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem067">**fieldNumber** (Número de campo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador dado al evento en campo. A menudo sirve como un vínculo entre las anotaciones de campo y el evento. |
+| Ejemplo | RV Sol 87-03-08<br> MBZ-067 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem068">**fieldNotes** (Notas de campo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un indicador sobre la existencia o referencia (publicación URI) a las notas de campo; o el texto de las notas tomadas en campo sobre el evento. |
+| Ejemplo | Notas disponibles en la Biblioteca Grinnell-Miller<br> Este espécimen fue colectado en un arbol de caracoli, una nota de campo fue descrita para mencionar este evento, eran depredados por Epicrates maurus |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem069">**eventRemarks** (Comentarios del evento)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Comentarios o anotaciones sobre el evento. Se recomienda que la longitud de la descripción no supere 20 palabras. |
+| Ejemplo | Después de las lluvias recientes, el río estuvo cercano a un estado de desbordamiento |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
 
 ### Ubicación
 
