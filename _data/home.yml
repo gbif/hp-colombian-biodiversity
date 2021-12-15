@@ -168,15 +168,5 @@ productExample:
   background: /assets/img/product-right.png
   
   
-  # Drafts
-      #- preTitle:  Ciclo de formación 2021
-      #title:  OpenRefine
-      #description: |      # required
-      #    Taller del programa para limpieza de datos OpenRefine, 9 y 10 de diciembre.
-      # img required
-      #background: /assets/images/landing_page/imgDest_OenRefine.png
-      #cta:
-      #- text: Inscribirse
-      # href: https://forms.gle/br7fQKtLJqz2cnNHA
-      # isPrimary: false
+
 
