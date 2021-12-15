@@ -589,6 +589,15 @@ prueba pelca
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
+<a name="elem048">**associatedOrganisms** (Organismos asociados)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical <span class="tag is-light"> | </span>) de los identificadores de otros organismos y su relación con el organismo documentado. Aplica para relaciones con organismos del mismo grupo taxonómico. Se recomienda hacer uso la extensión Resource Relationship para documentar en más detalle la relación entre los organismos asociados. |
+| Ejemplo | Hermano de: FMNH:Mamífero:1234<br> Hijo de: MLS:sau:438 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|    |    |
+
 ### Ubicación
 
 ### Contexto Geológico
