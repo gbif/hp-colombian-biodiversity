@@ -15,11 +15,11 @@ toc: true
 
 |    |    |    |    |    |
 | ---|--- |--- |--- |--- |
-| [**basisOfRecord** (Base del registro)](#elem001) | [**type**<br> (Tipo)](#elem002) | [**institutionCode** (Código de la institución)](#elem003) | [**institutionID** (ID de la institución)](#elem004) |
-| [**collectionCode** (Código de la colección)](#elem005) | [**collectionID** (ID de la colección)](#elem006) | [**datasetName** (Nombre del conjunto de datos)](#elem007) | [**datasetID** (ID del conjunto de datos)](#elem008) |
-| [**modified** (Modificado)](#elem009) | [**language** (Idioma)](#elem010) | [**license**(Licencia)](#elem011) | [**rightsHolder** (Titular de los derechos)](#elem012) | 
-| [**accessRights** (Derechos de acceso)](#elem013) | [**bibliographicCitation** (Citación bibliográfica)](#elem014) | [**references** (Referencias)](#elem015) | [**ownerInstitutionCode** (Código de la institución propietaria)](#elem016) |
-| [**informationWithheld** (Información retenida)](#elem017) | [**dataGeneralizations** (Generalización de los datos)](#elem018) | [**dynamicProperties** (Propiedades dinámicas)](#elem019) | |
+| [**basisOfRecord**<br> (Base del registro)](#elem001) | [**type**<br> (Tipo)](#elem002) | [**institutionCode**<br> (Código de la institución)](#elem003) | [**institutionID**<br> (ID de la institución)](#elem004) |
+| [**collectionCode**<br> (Código de la colección)](#elem005) | [**collectionID**<br> (ID de la colección)](#elem006) | [**datasetName**<br> (Nombre del conjunto de datos)](#elem007) | [**datasetID**<br> (ID del conjunto de datos)](#elem008) |
+| [**modified**<br> (Modificado)](#elem009) | [**language**<br> (Idioma)](#elem010) | [**license**<br> (Licencia)](#elem011) | [**rightsHolder**<br> (Titular de los derechos)](#elem012) | 
+| [**accessRights**<br> (Derechos de acceso)](#elem013) | [**bibliographicCitation**<br> (Citación bibliográfica)](#elem014) | [**references**<br> (Referencias)](#elem015) | [**ownerInstitutionCode**<br> (Código de la institución propietaria)](#elem016) |
+| [**informationWithheld**<br> (Información retenida)](#elem017) | [**dataGeneralizations**<br> (Generalización de los datos)](#elem018) | [**dynamicProperties**<br> (Propiedades dinámicas)](#elem019) | |
 
 <br>
 <br>
@@ -206,6 +206,17 @@ toc: true
 
 ### Registro Biológico
 
+|    |    |    |    |    |
+| ---|--- |--- |--- |--- |
+| [**occurrenceID**<br> (ID del Registro biológico)](#elem020) | [**catalogNumber**<br> (Número de catálogo)](#elem021) | [**recordNumber**<br> (Número del registro)](#elem022) | [**recordedBy**<br> (Registrado por)](#elem023) |
+| [**recordedByID**<br> (ID del registrador)](#elem024) | [**individualCount**<br> (Número de individuos)](#elem025) | [**organismQuantity**<br> (Cantidad del organismo)](#elem026) | [**organismQuantityType**<br> (Tipo de cantidad del organismo)](#elem027) |
+| [**sex**<br> (Sexo)](#elem028) | [**lifeStage**<br> (Etapa de desarrollo)](#elem029) | [**reproductiveCondition**<br> (Condición reproductiva)](#elem030) | [**behavior**<br> (Comportamiento)](#elem031) | 
+| [**establishmentMeans**<br> (Medios de establecimiento)](#elem032) | [**degreeOfEstablishment**<br> (Grado de establecimiento)](#elem033) | [**pathway**<br> (Ruta de introducción)](#elem034) | [**occurrenceStatus**<br> (Estado del registro biológico)](#elem035) |
+| [**preparations**<br> (Preparaciones)](#elem036) | [**disposition**<br> (Disposición)](#elem037) | [**otherCatalogNumbers**<br> (Otros números de catálogo)](#elem038) | [**associatedMedia**<br> (Medios asociados)](#elem039) |
+| [**associatedOccurrences**<br> (Registros biológicos asociados)](#elem040) | [**associatedReferences**<br> (Referencias asociadas)](#elem041) | [**associatedSequences**<br> (Secuencias asociadas)](#elem042) | [**associatedTaxa**<br> (Taxones asociados)](#elem043) |
+| [**occurrenceRemarks**<br> (Comentarios del registro biológico)](#elem044) |  |  |  |
+
+
 ### Organismo
 
 ### Muestra del Material
@@ -220,8 +231,8 @@ toc: true
 
 ### Taxón
 
-
-
+<br>
+<br>
 
 ## Extensiones DwC
 
