@@ -243,15 +243,15 @@ toc: true
 | ---|--- |
 | Definición | Un identificador dado al registro biológico en el momento en que fue registrado, sirve como un vínculo entre las anotaciones de campo y el registro biológico. No es el mismo catalogNumber, el cual es usualmente asignado una vez el espécimen ingresa a la colección. |
 | Ejemplo | OPP 7107<br>  JARM-0008<br>  AFT 143 |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_. |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
 <a name="elem023">**recordedBy** (Registrado por)</a>
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los nombres de las personas (observadores o recolectores) responsables de realizar el registro.<br><br> El colector u observador principal, especialmente si está asociado al recordNumber tomado en campo, se debe listar en primer lugar. Se debe mantener el mismo formato del nombre a lo largo de todos los registros y se recomienda evitar el uso de solo iniciales ya que esto genera ambigüedades para reconocer a las personas que realizaron el registro, de ser posible siempre escriba nombres completos. Documente el nombre de las personas y evite documentar nombres de grupos u organizaciones. |
-| Ejemplo | Eduardo Amat García<br> Javier Maldonado Ocampo<br> Mónica Andrea Sánchez Torres | Esteban Andrés Novoa López |
+| Definición | Una lista (en una fila continua y separada por una barra vertical) de los nombres de las personas (observadores o recolectores) responsables de realizar el registro.<br><br> El colector u observador principal, especialmente si está asociado al recordNumber tomado en campo, se debe listar en primer lugar. Se debe mantener el mismo formato del nombre a lo largo de todos los registros y se recomienda evitar el uso de solo iniciales ya que esto genera ambigüedades para reconocer a las personas que realizaron el registro, de ser posible siempre escriba nombres completos. Documente el nombre de las personas y evite documentar nombres de grupos u organizaciones. |
+| Ejemplo | Eduardo Amat García<br> Javier Maldonado Ocampo<br> Mónica Andrea Sánchez Torres |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico |
 |    |    |
 
@@ -259,9 +259,9 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los ID de las personas (observadores o recolectores), grupos u organizaciones responsables de realizar el registro. Estos identificadores deben corresponder al ORCID, Wikidata u algún otro identificador único controlado. El orden en este elemento no indica una prioridad en la citación ni ningún otro tipo de relación jerárquica. |
-| Ejemplo | https://orcid.org/0000-0001-6215-3617 | https://orcid.org/0000-0003-1691-239X<br> https://www.wikidata.org/entity/Q28913658 |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_. |
+| Definición | Una lista (en una fila continua y separada por una barra vertical) de los ID de las personas (observadores o recolectores), grupos u organizaciones responsables de realizar el registro. Estos identificadores deben corresponder al ORCID, Wikidata u algún otro identificador único controlado. El orden en este elemento no indica una prioridad en la citación ni ningún otro tipo de relación jerárquica. |
+| Ejemplo | https://orcid.org/0000-0001-6215-3617<br> https://www.wikidata.org/entity/Q28913658 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
 <a name="elem025">**individualCount** (Número de individuos)</a>
@@ -270,7 +270,7 @@ toc: true
 | ---|--- |
 | Definición | Número de individuos presentes en el momento del registro biológico (observación, ejemplar, fotografía, etc.). Utilice este elemento si todos los conteos corresponden a individuos, de lo contrario utilice organismQuantity y organismQuanitityType. |
 | Ejemplo | 1<br> 25<br> 282 |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_. |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
 |    |    |
 
 <a name="elem026">**organismQuantity** (Cantidad del organismo)</a>
@@ -375,8 +375,8 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de las preparaciones y los métodos de conservación de un ejemplar o una muestra del ejemplar.<br><br> Adicionalmente, si el espécimen fue colectado bajo un permiso de recolección de especímenes o acceso a recursos genéticos, debe indicar si fue una colecta temporal o una colecta definitiva seguido por el tipo de preparación. |
-| Ejemplo | Colecta definitiva: Animal completo (ETOH)<br> Colecta definitiva: Preparación de muestra microbiológica<br> Colecta temporal: Extracción de ADN<br> Piel | Cráneo | Esqueleto<br> Animal completo (ETOH) | Tejido (EDTA)<br> Fósil<br> Molde<br> Fotografía |
+| Definición | Una lista (en una fila continua y separada por una barra vertical) de las preparaciones y los métodos de conservación de un ejemplar o una muestra del ejemplar.<br><br> Adicionalmente, si el espécimen fue colectado bajo un permiso de recolección de especímenes o acceso a recursos genéticos, debe indicar si fue una colecta temporal o una colecta definitiva seguido por el tipo de preparación. |
+| Ejemplo | Colecta definitiva: Animal completo (ETOH)<br> Colecta definitiva: Preparación de muestra microbiológica<br> Colecta temporal: Extracción de ADN<br> Piel<br> Animal completo (ETOH)<br> Fósil<br> Molde<br> Fotografía |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos |
 |    |    |
 
@@ -385,7 +385,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | El estado actual de un espécimen en relación a la colección identificada en collectionCode o collectionID. Se recomienda el uso de un vocabulario controlado. Si el espécimen fue colectado bajo un permiso de recolección de especímenes o acceso a recursos genéticos y fue entregado a una colección biológica se debe documentar "En colección", de lo contrario dejar vacío el elemento. |
-| Ejemplo | CEn colección<br> Extraviado<br> Ejemplar testigo<br> Duplicados en otro lugar |
+| Ejemplo | En colección<br> Extraviado<br> Ejemplar testigo<br> Duplicados en otro lugar |
 | Elementos relacionados| collectionCode, collectionID |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos |
 |    |    |
@@ -394,55 +394,55 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de números de catálogos anteriores o alternos, u otros identificadores usado por personas para el mismo registro biológico, ya sea en el actual o cualquier otro conjunto de datos o colección. |
-| Ejemplo | CFMNH:Mammal:1234<br> NPS YELLO6778 | MBG 33424<br> ICN- 47992, Field series JDL 21151 |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_. |
+| Definición | Una lista (en una fila continua y separada por una barra vertical) de números de catálogos anteriores o alternos, u otros identificadores usado por personas para el mismo registro biológico, ya sea en el actual o cualquier otro conjunto de datos o colección. |
+| Ejemplo | CFMNH:Mammal:1234<br> NPS YELLO6778 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
 <a name="elem039">**associatedMedia** (Medios asociados)</a>
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los identificadores (publicación, referencia bibliográfica, identificador único global, URI) de los medios asociados al registro biológico. Se recomienda usar la extensión Simple Multimedia o Audobon Media Description las cuales cuentan con más elementos para describir la información multimedia asociada. |
-| Ejemplo | https://sinchi.org.co/ciacol/ficha/24/Hypoclinemus%20mentalis<br> https://ia801004.us.archive.org/0/items/staphylococcusaureus/Staphylococcus%20aureus.JPG | https://ia903100.us.archive.org/33/items/CMPUJH012-macro/CMPUJH012-anverso.jpg |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_. |
+| Definición | Una lista (en una fila continua y separada por una barra vertical) de los identificadores (publicación, referencia bibliográfica, identificador único global, URI) de los medios asociados al registro biológico. Se recomienda usar la extensión Simple Multimedia o Audobon Media Description las cuales cuentan con más elementos para describir la información multimedia asociada. |
+| Ejemplo | https://sinchi.org.co/ciacol/ficha/24/Hypoclinemus%20mentalis<br> https://ia801004.us.archive.org/0/items/staphylococcusaureus/Staphylococcus%20aureus.JPG|
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
 <a name="elem040">**associatedOccurrences** (Registros biológicos asociados)</a>
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los identificadores de otros registros biológicos y su relación con este registro. Aplica para relaciones con organismos de diferente grupo taxonómico y se recomiendo documentar junto a el elemento associatedTaxa. Se recomienda hacer uso de la extensión Resource Relationship para documentar en más detalle la relación entre los registros biológicos asociados. |
-| Ejemplo | http://arctos.database.museum/guid/MSB:Mamm:292063?seid=3175067 | http://arctos.database.museum/guid/MSB:Mamm:292063?seid=3177393<br>  SELVA:Anillamiento:AA7330a |
+| Definición | Una lista (en una fila continua y separada por una barra vertical) de los identificadores de otros registros biológicos y su relación con este registro. Aplica para relaciones con organismos de diferente grupo taxonómico y se recomiendo documentar junto a el elemento associatedTaxa. Se recomienda hacer uso de la extensión Resource Relationship para documentar en más detalle la relación entre los registros biológicos asociados. |
+| Ejemplo | http://arctos.database.museum/guid/MSB:Mamm:292063?seid=3175067<br>  SELVA:Anillamiento:AA7330a |
 | Elementos relacionados| associatedTaxa |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_. |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
 <a name="elem041">**associatedReferences** (Referencias asociadas)</a>
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los identificadores (publicación, referencia bibliográfica, identificador único global, URI) de la literatura asociada al registro biológico. Se recomienda hacer uso de la extensión Literature References la cual cuenta con más elementos para describir la información de referencias asociada. |
+| Definición | Una lista (en una fila continua y separada por una barra vertical) de los identificadores (publicación, referencia bibliográfica, identificador único global, URI) de la literatura asociada al registro biológico. Se recomienda hacer uso de la extensión Literature References la cual cuenta con más elementos para describir la información de referencias asociada. |
 | Ejemplo | http://www.sciencemag.org/cgi/content/abstract/322/5899/261<br> Christopher J. Conroy, Jennifer L. Neuwald. 2008. Phylogeographic study of the California vole, Microtus californicus Journal of Mammalogy, 89(3):755-767. |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_. |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
 <a name="elem042">**associatedSequences** (Secuencias asociadas)</a>
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los identificadores (publicación, identificador único global, URI) de la información de la secuencia genética asociada al registro biológico. Se recomienda hacer uso de la extensión GGBN Amplification Extension la cual cuenta con más elementos para describir la información de secuencia genética asociada. |
+| Definición | Una lista (en una fila continua y separada por una barra vertical) de los identificadores (publicación, identificador único global, URI) de la información de la secuencia genética asociada al registro biológico. Se recomienda hacer uso de la extensión GGBN Amplification Extension la cual cuenta con más elementos para describir la información de secuencia genética asociada. |
 | Ejemplo | https://www.ncbi.nlm.nih.gov/nuccore/U34853.1<br>  https://www.boldsystems.org/index.php/Public_RecordView?processid=ABBAC141-12 |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_. |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
 <a name="elem043">**associatedTaxa** (Taxones asociados)</a>
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los identificadores o nombres de taxones y su asociación con el registro biológico. |
+| Definición | Una lista (en una fila continua y separada por una barra vertical) de los identificadores o nombres de taxones y su asociación con el registro biológico. |
 | Ejemplo | Huésped: Quercus alba<br> Parásito: Apis mellifera |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_. |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
 <a name="elem044">**occurrenceRemarks** (Comentarios del registro biológico)</a>
@@ -451,7 +451,7 @@ toc: true
 | ---|--- |
 | Definición | Comentarios o anotaciones sobre el registro biológico. Se recomienda que la longitud de la descripción no supere 20 palabras. |
 | Ejemplo | Muerto en la vía<br> Registrado en el campus de la Universidad |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_. |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
 |    |    |
 
 ### Organismo
