@@ -26,8 +26,6 @@ composition:
     type: features
   - data: home.splitActividadPublicacion
     type: split
-  - data: home.splitAlianzaSectorEmpresarial
-    type: split
   - data: home.espacio
     type: floatingText
   #- type: latestPosts
