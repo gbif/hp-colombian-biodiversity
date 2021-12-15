@@ -69,18 +69,18 @@ destacados:
       background: /assets/images/landing_page/AlianzaAndiSectorEmpresarial.jpg
       cta:
       - text: Ver más
-        href: /acercade/aliados/andi
+        href: /acercade/aliados/andi/
         isPrimary: false
            
-   - preTitle:  Convocatorias
-     title: Reconocimiento SNCTI
-     description: |      # required
-           Guía para incorporar productos SiB Colombia en el CvLac.
-     background: /assets/images/landing_page/imgDest_MinCiencias.jpg
-     cta:
-     - text: Ver más
-       href: /post/2021/convocatoria-nacional-medicion-grupos-cvlac-sib/
-       isPrimary: false
+    - preTitle:  Convocatorias
+      title: Reconocimiento SNCTI
+      description: |      # required
+            Guía para incorporar productos SiB Colombia en el CvLac.
+      background: /assets/images/landing_page/imgDest_MinCiencias.jpg
+      cta:
+      - text: Ver más
+        href: /post/2021/convocatoria-nacional-medicion-grupos-cvlac-sib/
+        isPrimary: false
 
 # Feature cards
 #cards
