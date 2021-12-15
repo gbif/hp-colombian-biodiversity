@@ -15,7 +15,7 @@ toc: true
     <summary markdown="span"><B>¿Cómo registrar  una organización para publicar datos en el SiB Colombia?</B></summary>
     
 <br>
-Para registrar su organización en el SiB Colombia y comenzar un proceso de publicación diligencie el siguiente <a href="/compartir/registrarse">formulario</a>. La información registrada aquí nos permitirá contar con información básica sobre su organización y el tipo de datos a publicar. Una vez validemos la información consignada, enviaremos las credenciales para ingresar a la plataforma de publicación. Si tiene dudas sobre el proceso comuníquese directamente a sib@humboldt.org.co.
+Para registrar su organización en el SiB Colombia y comenzar un proceso de publicación diligencie el siguiente <a href="/compartir/registro">formulario</a>. La información registrada aquí nos permitirá contar con información básica sobre su organización y el tipo de datos a publicar. Una vez validemos la información consignada, enviaremos las credenciales para ingresar a la plataforma de publicación. Si tiene dudas sobre el proceso comuníquese directamente a sib@humboldt.org.co.
     </details>
 
 ___
@@ -42,7 +42,7 @@ Envíe un correo a <a href="mailto:sib@humboldt.org.co">sib@humboldt.org.co</a> 
     <summary markdown="span"><b>¿Qué tipo de datos se publican a través del SiB Colombia?</b></summary>
     
 <br>
-Conoce más sobre los tipos de datos que se pueden publicar a través del SiB Colombia en el siguiente <a href="/compartir/tiposdedatos">enlace</a>.</details>
+Conoce más sobre los tipos de datos que se pueden publicar a través del SiB Colombia en el siguiente <a href="/compartir/tipos-de-datos">enlace</a>.</details>
 
 ___
 
@@ -51,7 +51,7 @@ ___
  <summary markdown="span"><b>¿Cómo publicar eventos de muestreo a través del SiB Colombia?</b></summary>
     
 <br>
-Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la <a href="/compartir/guiadepublicacion">Guía para la publicación de datos e información</a>.
+Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la <a href="/compartir/guia-para-publicar">Guía para la publicación de datos e información</a>.
 Encuentra información adicional sobre la publicación de los eventos de muestreo en el siguiente <a href="/compartir/tiposdedatos#eventos-de-muestreo">enlace</a>.
 </details>
 
@@ -62,7 +62,7 @@ ___
     <summary markdown="span"><b>¿Cómo publicar listas de especies  a través del SiB Colombia?</b></summary>
     
 <br>
-Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la <a href="/compartir/guiadepublicacion">Guía para la publicación de datos e información</a>.
+Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la <a href="/compartir/guia-para-publicar">Guía para la publicación de datos e información</a>.
 Encuentra información adicional sobre la publicación de listas de especie en el siguiente <a href="/compartir/tiposdedatos#listas-de-especies">enlace</a>.
     </details>
     
@@ -73,9 +73,9 @@ ___
   <summary markdown="span"><b>¿Cómo publicar registros biológicos a través del SiB Colombia?</b></summary>
     
 <br>
-Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la <a href="/compartir/guiadepublicacion">Guía para la publicación de datos e información</a>. En la guía conocerás las rutas para la publicación de los datos (Ruta A. Publicación de datos voluntaria y Ruta B. Publicación de datos por permiso de recolección). 
+Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la <a href="/compartir/guia-para-publicar">Guía para la publicación de datos e información</a>. En la guía conocerás las rutas para la publicación de los datos (Ruta A. Publicación de datos voluntaria y Ruta B. Publicación de datos por permiso de recolección). 
     
-Para la publicación de registros biológicos debes tener en cuenta lo siguiente que pueden corresponder a observaciones o registros asociados a colecciones biológicas. En la <a href="/recursos/plantillasdwc#registros-biológicos">plantilla de publicación</a> de registros biológicos podrás ver los elementos obligatorios según el tipo de publicación.  
+Para la publicación de registros biológicos debes tener en cuenta lo siguiente que pueden corresponder a observaciones o registros asociados a colecciones biológicas. En la <a href="/recursos/plantillas-dwc#registros-biológicos">plantilla de publicación</a> de registros biológicos podrás ver los elementos obligatorios según el tipo de publicación.  
 </details>
 
 ___
@@ -85,7 +85,7 @@ ___
   <summary markdown="span"><b>¿Cuál es la última versión de la plantilla de publicación?</b></summary>
     
 <br>
-La última versión de las plantillas  de publicación para registros biológicos, listas y eventos de muestreo, se encuentra disponibles en el siguiente <a href="/recursos/plantillasdwc#registros-biológicos">enlace</a>, donde también puede revisar las versiones anteriores de cada plantilla.
+La última versión de las plantillas  de publicación para registros biológicos, listas y eventos de muestreo, se encuentra disponibles en el siguiente <a href="/recursos/plantillas-dwc#registros-biológicos">enlace</a>, donde también puede revisar las versiones anteriores de cada plantilla.
     </details>
     
 ## Extensiones
@@ -150,7 +150,7 @@ Si lo que deseas es publicar imágenes asociadas a un registro biológico debes 
 Ten en cuenta que para poder visualizar tus fotos en Portales de datos Nacionales e internacionales es necesario que al compartir la imagen, la URL estática cuente con el formato de la imagen.
     Ejemplo Imagen: ("<a href="https://farm1.staticflickr.com/966/41777088842_ae24e9bb55_h.jpg" target="_blank">https://farm1.staticflickr.com/966/41777088842_ae24e9bb55_h.</a><b>jpg</b>").
    </ul></li>
-      <li>Documenta la extensión <a href="/recursos/plantillasdwc#extensiones">Multimedia Simple</a> del estándar Darwin Core para la publicación de imágenes, videos y sonidos. <a href="https://ipt.biodiversidad.co/sibm/archive.do?r=anadarko_colombia_002&v=1.1" target="_blank">Aquí</a> encontrarás un ejemplo del uso de la extensión de Simple Multimedia en una publicación.</li>
+      <li>Documenta la extensión <a href="/recursos/plantillas-dwc#extensiones">Multimedia Simple</a> del estándar Darwin Core para la publicación de imágenes, videos y sonidos. <a href="https://ipt.biodiversidad.co/sibm/archive.do?r=anadarko_colombia_002&v=1.1" target="_blank">Aquí</a> encontrarás un ejemplo del uso de la extensión de Simple Multimedia en una publicación.</li>
       <li>Cuando te comuniques con el <a href="mailto:sib@humboldt.org.co">SiB Colombia</a> para comenzar tu proceso de publicación no olvides mencionar que deseas compartir imágenes, te daremos las indicaciones que haga falta para la publicación.</li>
 </ol>
 </details>
@@ -175,7 +175,7 @@ ___
   <summary markdown="span"><B>¿Cómo publicar rasgos funcionales (medidas y hechos)?</B></summary>
 
 <br>
-Para publicar medidas o rasgos funcionales asociados a un registros biológico, debes documentar la extensión <a href="/recursos/plantillasdwc#extensiones">Medidas o hechos</a>  del estándar Darwin Core.  
+Para publicar medidas o rasgos funcionales asociados a un registros biológico, debes documentar la extensión <a href="/recursos/plantillas-dwc#extensiones">Medidas o hechos</a>  del estándar Darwin Core.  
 
 <ul>
         <li> <a href="https://ipt.biodiversidad.co/sib/archive.do?r=herpetofauna-y-avifauna-de-villeta-guaduas-cundinamarca&v=2.2" target="_blank">Aquí encontrarás</a> un ejemplo del uso de la extensión de Medidas y Hechos en una <a href="https://doi.org/10.15472/uqcsnp" target="_blank">publicación</a>.</li>  
@@ -189,7 +189,7 @@ ___
   <summary markdown="span"><B>¿Se puede publicar el estado de amenaza de una especie en el estándar Darwin Core?</B></summary>
     
 <br>
-En las listas de especies la categoría de amenaza se documenta en la extensión <a href="/recursos/plantillasdwc#extensiones">Distribución de especies</a>  estándar Darwin Core, en el elemento <B>threatStatus</B>, el cual cuenta con un <a href="https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://rs.gbif.org/vocabulary/iucn/threat_status/" target="_blank">vocabulario controlado</a> para su documentación, que corresponde con las categorías de amenaza establecidas por la Unión Internacional para la Conservación de la Naturaleza - IUCN.
+En las listas de especies la categoría de amenaza se documenta en la extensión <a href="/recursos/plantillas-dwc#extensiones">Distribución de especies</a>  estándar Darwin Core, en el elemento <B>threatStatus</B>, el cual cuenta con un <a href="https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://rs.gbif.org/vocabulary/iucn/threat_status/" target="_blank">vocabulario controlado</a> para su documentación, que corresponde con las categorías de amenaza establecidas por la Unión Internacional para la Conservación de la Naturaleza - IUCN.
     </details>
 
 
