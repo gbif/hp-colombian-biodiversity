@@ -216,6 +216,62 @@ toc: true
 | [**associatedOccurrences**<br> (Registros biológicos asociados)](#elem040) | [**associatedReferences**<br> (Referencias asociadas)](#elem041) | [**associatedSequences**<br> (Secuencias asociadas)](#elem042) | [**associatedTaxa**<br> (Taxones asociados)](#elem043) |
 | [**occurrenceRemarks**<br> (Comentarios del registro biológico)](#elem044) |  |  |  |
 
+<br>
+<br>
+
+<a name="elem020">**occurrenceID** (ID del Registro biológico)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador único del registro biológico (observación, ejemplar, fotografía, etc.).<br><br> En ausencia de un identificador único global persistente, se recomienda construir uno a partir de la combinación:<br><br> Cuando pertenece a una observación: [código corto de la institución]:[palabra(s) clave del recurso]:[número de campo/número consecutivo]<br> Cuando pertenece a una colección: [código corto de la institución]:[código de la colección]:[número de catálogo].<br> No debe contener espacios en blanco o caracteres especiales.<br><br> Si usted ya maneja en su conjunto de datos un identificador único por registros biológico, puede usarlo como identificador en el conjunto de datos. |
+| Ejemplo | Promigas:Compensacion-SanJuan:Fauna-00001<br> UCO:RESCATE_FAUNA_MULATOSII:1<br> UNIVALLE:CRM-UV:1974-001-1 |
+| Core _(Obligatoriedad)_ | Registros _(Obligatorio)_ |
+|    |    |
+
+<a name="elem021">**catalogNumber** (Número de catálogo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador (preferiblemente único) asignado al espécimen, muestra o lote en la colección biológica. Puede repetirse en caso de que los especímenes están agrupados en la colección (Lote, Frasco, Caja, etc).<br><br> Debe documentarse de la misma forma que está en la etiqueta. |
+| Ejemplo | 00001<br> 1974-001-1<br> 1732a<br> ANDES-E0813<br> Lepid0784 |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
+|    |    |
+
+<a name="elem022">**recordNumber** (Número del registro)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador dado al registro biológico en el momento en que fue registrado, sirve como un vínculo entre las anotaciones de campo y el registro biológico. No es el mismo catalogNumber, el cual es usualmente asignado una vez el espécimen ingresa a la colección. |
+| Ejemplo | OPP 7107<br>  JARM-0008<br>  AFT 143 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_. |
+|    |    |
+
+<a name="elem023">**recordedBy** (Registrado por)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los nombres de las personas (observadores o recolectores) responsables de realizar el registro.<br><br> El colector u observador principal, especialmente si está asociado al recordNumber tomado en campo, se debe listar en primer lugar. Se debe mantener el mismo formato del nombre a lo largo de todos los registros y se recomienda evitar el uso de solo iniciales ya que esto genera ambigüedades para reconocer a las personas que realizaron el registro, de ser posible siempre escriba nombres completos. Documente el nombre de las personas y evite documentar nombres de grupos u organizaciones. |
+| Ejemplo | Eduardo Amat García<br> Javier Maldonado Ocampo<br> Mónica Andrea Sánchez Torres | Esteban Andrés Novoa López |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico |
+|    |    |
+
+<a name="elem024">**recordedByID** (ID del registrador)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los ID de las personas (observadores o recolectores), grupos u organizaciones responsables de realizar el registro. Estos identificadores deben corresponder al ORCID, Wikidata u algún otro identificador único controlado. El orden en este elemento no indica una prioridad en la citación ni ningún otro tipo de relación jerárquica. |
+| Ejemplo | https://orcid.org/0000-0001-6215-3617 | https://orcid.org/0000-0003-1691-239X<br> https://www.wikidata.org/entity/Q28913658 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_. |
+|    |    |
+
+<a name="elem025">**individualCount** (Número de individuos)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Número de individuos presentes en el momento del registro biológico (observación, ejemplar, fotografía, etc.). Utilice este elemento si todos los conteos corresponden a individuos, de lo contrario utilice organismQuantity y organismQuanitityType. |
+| Ejemplo | 1<br> 25<br> 282 |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_. |
+|    |    |
 
 ### Organismo
 
