@@ -11,7 +11,7 @@
     href: https://catalogo.biodiversidad.co/
     target: _blank
   - text: Cifras
-    href: /consultar/biodiversidadencifras 
+    href: /consultar/biodiversidad-cifras-colombia
   - text: Localidades
     href: /consultar/gacetero
 
@@ -23,11 +23,11 @@
   - text: Estándares
     href: /compartir/estandares
   - text: Guía de publicación
-    href: /compartir/guiadepublicacion
+    href: /compartir/guia-publicacion
   - text: Registrarse
     href: /compartir/registrarse
   - text: Preguntas frecuentes
-    href: /compartir/preguntasfrecuentes
+    href: /compartir/faq
     
 - text: Recursos
   menu: # Dropdown menu (one level deep only)
@@ -35,17 +35,17 @@
   - text: Herramienta de publicación
     href: /recursos/ipt
   - text: Acceso abierto
-    href: /recursos/accesoabierto
+    href: /recursos/acceso-abierto
   - text: Cómo citar
-    href: /recursos/comocitar
+    href: /recursos/citar
   - text: Estandarización
     href: /recursos/estandarizacion
   - text: Calidad de datos
     href: /recursos/calidaddedatos
   - text: Plantillas Darwin Core
-    href: /recursos/plantillasdwc
+    href: /recursos/plantillas-dwc
   - text: Plantillas Plinian Core
-    href: /recursos/plantillasplic
+    href: /recursos/plantillas-plinian-core
 
   
 - text: Comunidad
@@ -53,7 +53,7 @@
   - text: Actividad de publicación
     href: /comunidad/actividadpublicacion
   - text: Socios publicadores
-    href: /comunidad/sociospublicadores
+    href: /comunidad/socios-publicadores
   #- text: Proyectos
   - text: Formación
     href: /comunidad/formacion
