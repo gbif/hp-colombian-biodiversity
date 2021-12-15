@@ -273,6 +273,187 @@ toc: true
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_. |
 |    |    |
 
+<a name="elem026">**organismQuantity** (Cantidad del organismo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Valor que representa una cantidad colectada u observada del organismo, expresada en un sistema de medida estándar para el organismo como cepas, células, porcentaje de biomasa, etc. Documentar este elemento junto con el elemento organismQuantityType. |
+| Comentarios| El sistema de medida se debe documentar en el elemento organismQuantityType, como se muestra en el ejemplo a continuación:<br><br> Para el registro de cobertura de líquenes: organismQuantity: 30 / organismQuantityType: Porcentaje de cobertura<br> Para la abundancia de fitoplancton: organismQuantity: 253 / organismQuantityType: Células por litro<br> Para comunidades vegetales: organismQuantity: r / organismQuantityType: Escala Braun-Blanquet |
+| Ejemplo | 30<br> 253<br> r |
+| Elementos relacionados | organismQuantityType |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico |
+|    |    |
+
+<a name="elem027">**organismQuantityType** (Tipo de cantidad del organismo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Sistema de medida estándar asociado a la cantidad de organismos. Documentar este elemento junto con el elemento organismQuantity. |
+| Comentarios| La cantidad de organismos se debe documentar en el elemento organismQuantity, como se muestra a continuación:<br><br> Para el registro de cobertura de líquenes: organismQuantity: 30 / organismQuantityType: Porcentaje de cobertura<br> Para la abundancia de fitoplancton: organismQuantity: 253 / organismQuantityType: Células por litro<br> Para comunidades vegetales: organismQuantity: r / organismQuantityType: Escala Braun-Blanquet |
+| Ejemplo | Porcentaje de cobertura<br> Células por litro<br> Escala Braun-Blanquet |
+| Elementos relacionados | organismQuantity |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico |
+|    |    |
+
+
+<a name="elem028">**sex** (Sexo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El sexo de el(los) organismo(s) representado(s) en el registro. Si en un mismo registro cuenta con varios organismos de diferentes sexos, genere registros (filas) diferentes por cada sexo. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
+| Ejemplo | Hembra<br> Hermafrodita<br> Macho<br> Desconocido<br> Indeterminado<br> Ginandromorfo |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
+|    |    |
+
+<a name="elem029">**lifeStage** (Etapa de desarrollo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La etapa de vida de el(los) organismo(s) en el momento del registro. Si en un mismo registro cuenta con varios organismos en diferentes etapas de vida, genere registros (filas) diferentes por cada etapa de vida. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
+| Ejemplo | Huevo<br> Juvenil<br> Adulto<br> Cigoto<br> Embrión<br> Larva<br> Esporófito<br> Espora<br> Gametofito<br> Gameto<br> Pupa<br> Plántula<br> Floración<br> Fructificación |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
+|    |    |
+
+<a name="elem030">**reproductiveCondition** (Condición reproductiva)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Condición reproductiva de el(los) organismo(s) en el momento del registro. Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | No reproductiva<br> En gestación<br> Floración<br> Fructificación |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|    |    |
+
+<a name="elem031">**behavior** (Comportamiento)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Descripción del comportamiento de el(los) organismo(s) en el momento del registro. Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | Posando<br> Alimentándose<br> Corriendo |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|    |    |
+
+<a name="elem032">**establishmentMeans** (Medios de establecimiento)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una afirmación que de cuenta si un organismo ha sido introducido a un lugar y tiempo determinado a través de actividad humana directa o indirecta. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos degreeOfEstablishment y pathway. |
+| Elementos relacionados | degreeOfEstablishment, pathway |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|  [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain |
+|    |    |
+
+<a name="elem033">**degreeOfEstablishment** (Grado de establecimiento)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El grado en cual el organismo sobrevive, se reproduce y expande su rango de distribución en un lugar y tiempo determinado. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos establishmentMeans y pathway. |
+| Elementos relacionados | establishmentMeans, pathway |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|  [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | native<br> cultivated<br> released<br> established<br> colonising<br> widespreadInvasive |
+|    |    |
+
+<a name="elem034">**pathway** (Ruta de introducción)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El proceso por el cual un organismo llegó a un lugar y tiempo determinado. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos establishmentMeans y degreeOfEstablishment. |
+| Elementos relacionados | establishmentMeans, degreeOfEstablishment |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|  [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | releasedForUse<br> otherEscape<br> transportContaminant<br> transportStowaway<br> corridor<br> unaided |
+|    |    |
+
+<a name="elem035">**occurrenceStatus** (Estado del registro biológico)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Estado que da cuenta de la presencia o ausencia de un taxón en una ubicación. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|  [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | present<br> absent |
+|    |    |
+
+<a name="elem036">**preparations** (Preparaciones)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de las preparaciones y los métodos de conservación de un ejemplar o una muestra del ejemplar.<br><br> Adicionalmente, si el espécimen fue colectado bajo un permiso de recolección de especímenes o acceso a recursos genéticos, debe indicar si fue una colecta temporal o una colecta definitiva seguido por el tipo de preparación. |
+| Ejemplo | Colecta definitiva: Animal completo (ETOH)<br> Colecta definitiva: Preparación de muestra microbiológica<br> Colecta temporal: Extracción de ADN<br> Piel | Cráneo | Esqueleto<br> Animal completo (ETOH) | Tejido (EDTA)<br> Fósil<br> Molde<br> Fotografía |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos |
+|    |    |
+
+<a name="elem037">**disposition** (Disposición)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El estado actual de un espécimen en relación a la colección identificada en collectionCode o collectionID. Se recomienda el uso de un vocabulario controlado. Si el espécimen fue colectado bajo un permiso de recolección de especímenes o acceso a recursos genéticos y fue entregado a una colección biológica se debe documentar "En colección", de lo contrario dejar vacío el elemento. |
+| Ejemplo | CEn colección<br> Extraviado<br> Ejemplar testigo<br> Duplicados en otro lugar |
+| Elementos relacionados| collectionCode, collectionID |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos |
+|    |    |
+
+<a name="elem038">**otherCatalogNumbers** (Otros números de catálogo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de números de catálogos anteriores o alternos, u otros identificadores usado por personas para el mismo registro biológico, ya sea en el actual o cualquier otro conjunto de datos o colección. |
+| Ejemplo | CFMNH:Mammal:1234<br> NPS YELLO6778 | MBG 33424<br> ICN- 47992, Field series JDL 21151 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_. |
+|    |    |
+
+<a name="elem039">**associatedMedia** (Medios asociados)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los identificadores (publicación, referencia bibliográfica, identificador único global, URI) de los medios asociados al registro biológico. Se recomienda usar la extensión Simple Multimedia o Audobon Media Description las cuales cuentan con más elementos para describir la información multimedia asociada. |
+| Ejemplo | https://sinchi.org.co/ciacol/ficha/24/Hypoclinemus%20mentalis<br> https://ia801004.us.archive.org/0/items/staphylococcusaureus/Staphylococcus%20aureus.JPG | https://ia903100.us.archive.org/33/items/CMPUJH012-macro/CMPUJH012-anverso.jpg |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_. |
+|    |    |
+
+<a name="elem040">**associatedOccurrences** (Registros biológicos asociados)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los identificadores de otros registros biológicos y su relación con este registro. Aplica para relaciones con organismos de diferente grupo taxonómico y se recomiendo documentar junto a el elemento associatedTaxa. Se recomienda hacer uso de la extensión Resource Relationship para documentar en más detalle la relación entre los registros biológicos asociados. |
+| Ejemplo | http://arctos.database.museum/guid/MSB:Mamm:292063?seid=3175067 | http://arctos.database.museum/guid/MSB:Mamm:292063?seid=3177393<br>  SELVA:Anillamiento:AA7330a |
+| Elementos relacionados| associatedTaxa |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_. |
+|    |    |
+
+<a name="elem041">**associatedReferences** (Referencias asociadas)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los identificadores (publicación, referencia bibliográfica, identificador único global, URI) de la literatura asociada al registro biológico. Se recomienda hacer uso de la extensión Literature References la cual cuenta con más elementos para describir la información de referencias asociada. |
+| Ejemplo | http://www.sciencemag.org/cgi/content/abstract/322/5899/261<br> Christopher J. Conroy, Jennifer L. Neuwald. 2008. Phylogeographic study of the California vole, Microtus californicus Journal of Mammalogy, 89(3):755-767. |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_. |
+|    |    |
+
+<a name="elem042">**associatedSequences** (Secuencias asociadas)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los identificadores (publicación, identificador único global, URI) de la información de la secuencia genética asociada al registro biológico. Se recomienda hacer uso de la extensión GGBN Amplification Extension la cual cuenta con más elementos para describir la información de secuencia genética asociada. |
+| Ejemplo | https://www.ncbi.nlm.nih.gov/nuccore/U34853.1<br>  https://www.boldsystems.org/index.php/Public_RecordView?processid=ABBAC141-12 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_. |
+|    |    |
+
+<a name="elem043">**associatedTaxa** (Taxones asociados)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los identificadores o nombres de taxones y su asociación con el registro biológico. |
+| Ejemplo | Huésped: Quercus alba<br> Parásito: Apis mellifera |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_. |
+|    |    |
+
+<a name="elem044">**occurrenceRemarks** (Comentarios del registro biológico)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Comentarios o anotaciones sobre el registro biológico. Se recomienda que la longitud de la descripción no supere 20 palabras. |
+| Ejemplo | Muerto en la vía<br> Registrado en el campus de la Universidad |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_. |
+|    |    |
+
 ### Organismo
 
 ### Muestra del Material
