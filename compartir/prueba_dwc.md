@@ -520,7 +520,74 @@ toc: true
 
 ### Muestra del Material
 
+|    |    |    |    |    |
+| ---|--- |--- |--- |--- |
+| [**materialSampleID**<br> (ID de muestra del material)](#elem051) |  |  |  |
+
+<br>
+<br>
+
+<a name="elem051">**materialSampleID** (ID de muestra del material)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador para muestras de material (no hace referencia a muestras digitales sino físicas, como exicados o tejidos). En ausencia de un identificador único global persistente, puede construir uno usando una combinación a partir del occurrenceID, de tal forma que el materialSampleID sea globalmente único. Se recomienda hacer uso de la extensión GGBN Material Sample Extension para documentar en más detalle la información relacionada con la muestra. |
+| Ejemplo | IAvH:IAvH-CT-1:Tejido<br> 06809dc5-f143-459a-be1a-6f03e63fc083<br> IAvH-ABJ788 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
 ### Evento
+
+|    |    |    |    |    |
+| ---|--- |--- |--- |--- |
+| [**parentEventID**<br> (ID parental del evento)](#elem052) | [**eventID**<br> (ID del evento)](#elem053) | [**samplingProtocol**<br> (Protocolo de muestreo)](#elem054) | [**sampleSizeValue**<br> (Valor del tamaño de la muestra)](#elem055) |
+| [**sampleSizeUnit**<br> (Unidad del tamaño de la muestra)](#elem056) | [**samplingEffort**<br> (Esfuerzo de muestreo)](#elem057) | [**eventDate**<br> (Fecha del evento)](#elem058) | [**startDayOfYear**<br> (Día inicial del año)](#elem059) |
+| [**endDayOfYear**<br> (Día final del año)](#elem060) | [**year**<br> (Año)](#elem061) | [**month**<br> (Mes)](#elem062) | [**day**<br> (Día)](#elem063) | 
+| [**verbatimEventDate**<br> (Fecha original del evento)](#elem064) | [**eventTime**<br> (Hora del evento)](#elem065) | [**habitat**<br> (Hábitat)](#elem066) | [**fieldNumber**<br> (Número de campo)](#elem067) |
+| [**fieldNotes**<br> (Notas de campo)](#elem068) | [**eventRemarks**<br> (Comentarios del evento)](#elem069) |  |  |
+
+<br>
+<br>
+
+<a name="elem052">**parentEventID** (ID parental del evento)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador único para la categoría superior del evento de muestreo. Por ejemplo el identificador del muestreo de un cuadrante, parcela o transecto independientemente del tiempo o temporada cuando se realice el muestro. Este identificador es más general que el eventID y puede agrupar varios eventID. |
+| Comentarios | Este elemento debe estar acompañado siempre del elemento eventID, como se muestra en el ejemplo a continuación:<br><br> A1 como parentEventID para identificar una parcela, cada sub-parcela con su propio eventID (A1:1, A1:2, etc.)<br> BENTOS como parentEventID para identificar un evento de muestreo y cada parte del evento con us propio eventID (BENTOS:E-1, BENTOS:E-2, etc.)
+| Ejemplo | A1<br> BENTOS |
+| Elementos relacionados | eventID |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+
+
+
+prueba pelca
+
+<a name="elem048">**associatedOrganisms** (Organismos asociados)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical \|) de los identificadores de otros organismos y su relación con el organismo documentado. Aplica para relaciones con organismos del mismo grupo taxonómico. Se recomienda hacer uso la extensión Resource Relationship para documentar en más detalle la relación entre los organismos asociados. |
+| Ejemplo | Hermano de: FMNH:Mamífero:1234<br> Hijo de: MLS:sau:438 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|    |    |
+
+<a name="elem048">**associatedOrganisms** (Organismos asociados)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical \"|") de los identificadores de otros organismos y su relación con el organismo documentado. Aplica para relaciones con organismos del mismo grupo taxonómico. Se recomienda hacer uso la extensión Resource Relationship para documentar en más detalle la relación entre los organismos asociados. |
+| Ejemplo | Hermano de: FMNH:Mamífero:1234<br> Hijo de: MLS:sau:438 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|    |    |
+
+<a name="elem048">**associatedOrganisms** (Organismos asociados)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores de otros organismos y su relación con el organismo documentado. Aplica para relaciones con organismos del mismo grupo taxonómico. Se recomienda hacer uso la extensión Resource Relationship para documentar en más detalle la relación entre los organismos asociados. |
+| Ejemplo | Hermano de: FMNH:Mamífero:1234<br> Hijo de: MLS:sau:438 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|    |    |
 
 ### Ubicación
 
