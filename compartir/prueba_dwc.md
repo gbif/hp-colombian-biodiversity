@@ -456,6 +456,68 @@ toc: true
 
 ### Organismo
 
+|    |    |    |    |    |
+| ---|--- |--- |--- |--- |
+| [**organismID**<br> (ID del organismo)](#elem045) | [**organismName**<br> (Nombre del organismo)](#elem046) | [**organismScope**<br> (Alcance del organismo)](#elem047) | [**associatedOrganisms**<br> (Organismos asociados)](#elem048) |
+| [**previousIdentifications**<br> (Identificaciones previas)](#elem049) | [**organismRemarks**<br> (Comentarios del organismo)](#elem050) |  |  |
+
+<br>
+<br>
+
+<a name="elem045">**organismID** (ID del organismo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador del organismo. Pretende facilitar el remuestreo del mismo individuo con fines generalmente de monitoreo. Aves anilladas, fotos de mamíferos acuáticos, árboles remuestreados, etc. |
+| Ejemplo | U.amer. 44<br> CC09477<br> Orca J 23 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|    |    |
+
+<a name="elem046">**organismName** (Nombre del organismo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre textual dado a un organismo en un estudio o el nombre en la etiqueta asignada originalmente. |
+| Ejemplo | Huberta<br> Willy la Ballena Asesina<br> Cheeta |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|    |    |
+
+<a name="elem047">**organismScope** (Alcance del organismo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Puede ser utilizado para indicar si la instancia del organismo representa un organismo discreto o un tipo particular de agregación. Se recomienda el uso de un vocabulario controlado. Este elemento no está destinado a ser utilizado para especificar una categoría taxonómica. |
+| Ejemplo | Organismo multicelular<br> Manada<br> Clon<br> Colonia |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|    |    |
+
+<a name="elem048">**associatedOrganisms** (Organismos asociados)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical) de los identificadores de otros organismos y su relación con el organismo documentado. Aplica para relaciones con organismos del mismo grupo taxonómico. Se recomienda hacer uso la extensión Resource Relationship para documentar en más detalle la relación entre los organismos asociados. |
+| Ejemplo | Hermano de: FMNH:Mamífero:1234<br> Hijo de: MLS:sau:438 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|    |    |
+
+<a name="elem049">**previousIdentifications** (Identificaciones previas)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical) de asignaciones taxonómicas que se le han dado al organismo anteriormente. Puede contener la información de quién y cuándo realizó la identificación anterior. Se recomienda hacer uso de la extensión Identification (https://tools.gbif.org/dwca-validator/extension.do?id=dwc:Identification#Identification) para el caso de colecciones bológicas. |
+| Ejemplo | Pinus abies<br> Anthus sp., identificado en campo por G. Iglesias<br> Leptolyngbya cf. polysiphoniae |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|    |    |
+
+<a name="elem050">**organismRemarks** (Comentarios del organismo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Comentarios o anotaciones sobre el organismo registrado. Se recomienda que la longitud de la descripción no supere 20 palabras. |
+| Ejemplo | Uno de una camada de seis<br> Fruto inmaduro cubierto por un indumento rojizo |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|    |    |
+
 ### Muestra del Material
 
 ### Evento
