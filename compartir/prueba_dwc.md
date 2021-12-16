@@ -1201,6 +1201,159 @@ toc: true
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
+<a name="elem116">**earliestEonOrLowestEonothem** (Eón temprano o eonotema inferior)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo del eón geocronológico más temprano o el eratema cronoestratigráfico más bajo, o el nombre informal ("Precámbrico") atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
+| Ejemplo | Fanerozoico<br> Proterozoico |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem117">**latestEonOrHighestEonothem** (Eón tardío o eonotema superior)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo del eón geocronológico más tardío o el eratema cronoestratigráfico más alto posible, o el nombre informal ("Precámbrico") atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
+| Ejemplo | Fanerozoico<br> Proterozoico |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem118">**earliestEraOrLowestErathem** (Era temprana o eratema inferior)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo de la era geocronológica más temprana o el eratema cronoestratigráfico más bajo, atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
+| Ejemplo | Cenozoicoo<br> Mesozoico |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem119">**latestEraOrHighestErathem** (Era tardía o eratema superior)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo de la era geocronológica más tardía o el eratema cronoestratigráfico más alto posible, atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
+| Ejemplo | Cenozoicoo<br> Mesozoico |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem120">**earliestPeriodOrLowestSystem** (Periodo temprano o sistema inferior)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo del periodo geocronológico más temprano posible o el sistema cronoestratigráfico más bajo, atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
+| Ejemplo | Neógeno<br> Terciario<br> Cuaternario |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem121">**latestPeriodOrHighestSystem** (Periodo tardío o sistema superior)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo del período geocronológico más tardío posible o del sistema cronoestratigráfico más alto, atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
+| Ejemplo | Neógeno<br> Terciario<br> Cuaternario |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem122">**earliestEpochOrLowestSeries** (Época temprana o serie inferior)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo de la época geocronológica más temprana o la serie cronoestratigráfica más baja posible, atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
+| Ejemplo | Holoceno<br> Pleistoceno<br> Serie Ibexian |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem123">**latestEpochOrHighestSeries** (Época tardía o serie superior)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo de la época geocronológica más tardía posible o la serie cronoestratigráfica más alta, atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
+| Ejemplo | Holoceno<br> Pleistoceno<br> Serie Ibexian |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem124">**earliestAgeOrLowestStage** (Edad temprana o piso inferior)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo de la edad geocronológica más temprana posible o piso cronoestratigráfico más bajo, atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
+| Ejemplo | Atlántico<br> Boreal |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem125">**latestAgeOrHighestStage** (Edad tardía o piso superior)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo de la edad geocronológica más tardía posible o piso cronoestratigráfico más alto, atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
+| Ejemplo | Atlántico<br> Boreal |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem126">**lowestBiostratigraphicZone** (Zona bioestratigráfica inferior)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo de la zona geológica bioestratigráfica más baja posible del horizonte estratigráfico donde se recolectó el objeto catalogado. |
+| Ejemplo | Maastrichtiense |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem127">**highestBiostratigraphicZone** (Zona bioestratigráfica superior)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo de la zona geológica bioestratigráfica más alta posible del horizonte estratigráfico donde se recolectó el objeto catalogado. |
+| Ejemplo | Blancan |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem128">**lithostratigraphicTerms** (Términos litoestratigráficos)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La combinación de todos los nombres litoestratigráficos de la roca de donde se colectó el objeto catalogado. |
+| Ejemplo | Pleistoceno-Weichseliense |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem129">**group** (Grupo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo del grupo litoestratigráfico del cual se colectó el objeto catalogado. |
+| Ejemplo | Grupo Bathurst |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem130">**formation** (Formación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo de la formación litoestratigráfica de la cual se colectó el objeto catalogado. |
+| Ejemplo | Formación Notch Peak<br> Formación Fillmore |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem131">**member** (Miembro)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo del miembro litoestratigráfico del cual se colectó el elemento catalogado. |
+| Ejemplo | Miembro Hellnmaria |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem132">**bed** (Capa)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo de la capa litoestratigráfica de la cual se colectó el elemento catalogado. |
+| Ejemplo | Carbón Harlem |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
 ### Identificación
 
 ### Taxón
