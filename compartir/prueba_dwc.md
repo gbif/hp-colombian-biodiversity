@@ -731,12 +731,12 @@ toc: true
 | [**locationID**<br> (ID de la ubicación)](#elem070) | [**higherGeography**<br> (Geografía superior)](#elem071) | [**higherGeographyID**<br> (ID de la geografía superior)](#elem072) |
 | [**continent**<br> (Continente)](#elem073) | [**waterBody**<br> (Cuerpo de agua)](#elem074) | [**islandGroup**<br> (Grupo de islas)](#elem075) | 
 | [**island**<br> (Isla)](#elem076) | [**country**<br> (País)](#elem077) | [**countryCode**<br> (Código del país)](#elem078) |
-| [**stateProvince**<br> (Departamento)](#elem079) | [**county**<br> (Municipio)](#elem080) | [**municipality**<br> (Cabecera municipal / Centro poblado)](#elem081) | 
+| [**stateProvince**<br> (Departamento)](#elem079) | [**county**<br> (Municipio)](#elem080) | [**municipality**<br> (Cabecera municipal/<br>Centro poblado)](#elem081) | 
 | [**locality**<br> (Localidad)](#elem082) | [**verbatimLocality**<br> (Localidad original)](#elem083) | [**verbatimElevation**<br> (Elevación original)](#elem084) | 
 | [**minimumElevationInMeters**<br> (Elevación mínima en metros)](#elem085) | [**maximumElevationInMeters**<br> (Elevación máxima en metros)](#elem086) | [**verticalDatum**<br> (Datum vertical)](#elem087) |
 | [**verbatimDepth**<br> (Profundidad original)](#elem088) | [**minimumDepthInMeters**<br> (Profundidad mínima en metros)](#elem089) | [**maximumDepthInMeters**<br> (Profundidad máxima en metros)](#elem090) | 
-| [**locationAccordingTo**<br> (Ubicación de acuerdo con)](#elem093) | [**locationRemarks**<br> (Comentarios de la ubicación)](#elem094) | [**minimumDistanceAboveSurfaceInMeters**<br> (Distancia mínima de la superficie en metros)](#elem091) |
-| [**maximumDistanceAboveSurfaceInMeters**<br> (Distancia máxima de la superficie en metros)](#elem092) | [**verbatimLatitude**<br> (Latitud original)](#elem095) | [**verbatimLongitude**<br> (Longitud original)](#elem096) |
+| [**minimumDistanceAbove<br>SurfaceInMeters**<br> (Distancia mínima de la superficie en metros)](#elem091) | [**maximumDistanceAbove<br>SurfaceInMeters**<br> (Distancia máxima de la superficie en metros)](#elem092) | [**locationAccordingTo**<br> (Ubicación de acuerdo con)](#elem093) |
+| [**locationRemarks**<br> (Comentarios de la ubicación)](#elem094) | [**verbatimLatitude**<br> (Latitud original)](#elem095) | [**verbatimLongitude**<br> (Longitud original)](#elem096) |
 | [**verbatimCoordinates**<br> (Coordenadas originales)](#elem097) | [**verbatimCoordinateSystem**<br> (Sistema original de coordenadas)](#elem098) | [**verbatimSRS**<br> (SRS original)](#elem099) |
 | [**decimalLatitude**<br> (Latitud decimal)](#elem100) | [**decimalLongitude**<br> (Longitud decimal)](#elem101) | [**geodeticDatum**<br> (Datum geodésico)](#elem102) |
 | [**coordinateUncertaintyInMeters**<br> (Incertidumbre de las coordenadas en metros)](#elem103) | [**coordinatePrecision**<br> (Precisión de las coordenadas)](#elem104) | [**pointRadiusSpatialFit**<br> (Ajuste espacial del radio-punto)](#elem105) |
