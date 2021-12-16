@@ -11,7 +11,7 @@ height: 41vh
 | Nombre        | Uso          | Descripción  |
 | ------------- |-------------| -----|
 | [Guía de referencia rápida del estándar DwC](http://repository.humboldt.org.co/handle/20.500.11761/35349){:target="_blank"}   | Estructuración de datos    |    Permite conocer la lista y definiciones de los elementos que conforman el estándar DwC. |
-| [Plantillas DwC](/recursos/plantillasdwc)  | Estructuración de datos | Facilitan el uso y comprensión del estándar. |
+| [Plantillas DwC](/recursos/plantillas-dwc)  | Estructuración de datos | Facilitan el uso y comprensión del estándar. |
 | [Data validator - GBIF](https://www.gbif.org/tools/data-validator){:target="_blank"}      | Estandarización    |   Permite validar un conjunto de datos a partir de una plantilla DwC (en .csv) o un DwC Archive  (.zip) y detecta qué posibles problemas o errores puede presentar el conjunto de datos para su óptima publicación. |
 | [Laboratorio de estructuración y calidad](/formacion/laboratorios/LabEstructuracionCalidad)   | Estructuración de datos    |    Las guías prácticas de este laboratorio abordan la estructuración de un conjunto de datos bajo el DwC usando la última versión de la plantilla de publicación y aprendiendo a identificar rápidamente errores de calidad críticos con el Validador de datos de GBIF. |
 | [DwCA Assistant ](http://tools.gbif.org/dwca-assistant/?lang=en){:target="_blank"}      | Estandarización    |   Permite visualizar todos los elementos del estándar Darwin Core y sus extensiones, su principal función es la creación de un XML que puede ser incluido en un archivo DwC. |
