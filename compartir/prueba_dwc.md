@@ -1359,7 +1359,7 @@ toc: true
 |    |    |    |    |
 | ---|--- |--- |--- |
 | [**identificationID**<br> (ID de la identificación)](#elem133) | [**identifiedBy**<br> (Identificado por)](#elem134) | [**identifiedByID**<br> (ID del identificador)](#elem135) | [**dateIdentified**<br> (Fecha de la identificación)](#elem136) |
-| [**identificationReferences**<br> (Referencias de la identificación)](#elem137) | [**identificationVerificationStatus**<br> (Estado de la verificación de la identificación)](#elem138) | [**typeStatus**<br> (Tipo nomeclatural)](#elem139) | [**verbatimIdentification**<br> (Identificación original)](#elem140) |
+| [**identificationReferences**<br> (Referencias de la identificación)](#elem137) | [**identificationVerification<br>Status**<br> (Estado de la verificación de la identificación)](#elem138) | [**typeStatus**<br> (Tipo nomeclatural)](#elem139) | [**verbatimIdentification**<br> (Identificación original)](#elem140) |
 |  [**identificationRemarks**<br> (Comentarios de la identificación)](#elem141) | [**identificationQualifier**<br> (Calificador de la identificación)](#elem142) |  |  |
 |    |    |    |    |
 
@@ -1375,7 +1375,91 @@ toc: true
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
+<a name="elem134">**identifiedBy** (Identificado por)</a>
 
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los nombres de las personas responsables de identificar el organismo.<br><br> Se debe mantener el mismo formato del nombre a lo largo de todos los registros y se recomienda evitar el uso de solo iniciales ya que esto genera ambigüedades para reconocer a las personas que realizaron la identificación, de ser posible siempre escriba nombres completos. Documente el nombre de las personas y evite documentar nombres de grupos u organizaciones. |
+| Ejemplo | Luis Gabriel Pérez Salamanca<br> Jennifer Andrea Parra Ortíz \| Jaime Enrique Correa Sánchez |
+| Elementos relacionados | identifiedByID |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_
+|    |    |
+
+<a name="elem135">**identifiedByID** (ID del identificador)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores (ORCID o Wikidata) de las personas que identificaron el organismo. Mantenga el mismo orden de las personas documentadas en el elemento identifiedBy; el orden en este campo no indica una prioridad en la citación ni ningún otro tipo de relación jerárquica. |
+| Ejemplo | https://orcid.org/0000-0001-6215-3617 \| https://orcid.org/0000-0003-1691-239X<br> https://www.wikidata.org/entity/Q28913658 |
+| Elementos relacionados | identifiedBy |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_
+|    |    |
+
+<a name="elem136">**dateIdentified** (Fecha de la identificación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La fecha o el intervalo durante la cual fue identificado taxonómicamente la observación, colecta o muestra. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
+| Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_
+|    |    |
+
+<a name="elem137">**identificationReferences** (Referencias de la identificación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|")  de las referencias (publicación, identificador único global, URI) usadas en la identificación. |
+| Ejemplo | Aves del Noroeste Patagónico. Christie et al. 2004. |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem138">**identificationVerificationStatus** (Estado de la verificación de la identificación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un indicador sobre el nivel de verificación de la identificación taxonómica. Puede ser un valor categórico o un porcentaje para los registros identificados con métodos genéticos. |
+| Comentarios | Se recomienda el uso de categorías claras o un vocabulario controlado como el de HISPID/ABCD (https://hiscom.rbg.vic.gov.au/wiki/Talk:HISPID/ABCD_Workshop_Executive_Summary#Verification_Level_Flag_.28vlev.29), como se muestra a continuación:<br><br> 0 - El nombre del registro no ha sido revisado por ninguna autoridad (del vocabulario HISPID/ABCD)<br> 1 - El nombre del registro se determinó por medio de comparación contra otro ejemplar (del vocabulario HISPID/ABCD)<br> 2 - El nombre del registro fue determinado por un taxónomo usando material de una colección (del vocabulario HISPID/ABCD)<br> 3 - El nombre del registro fue determinado por un taxónomo involucrado en la revisión sistemática del grupo (del vocabulario HISPID/ABCD)<br> 4 - El registros es derivado de forma asexual de un material tipo (del vocabulario HISPID/ABCD)
+Verificado |
+| Ejemplo | 0<br> 1<br> 2<br> 3<br> 4<br> Verificado<br> No verificado<br> 97.3% a género |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem139">**typeStatus** (Tipo nomeclatural)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los tipos de nomenclatura (estado del tipo, nombre científico tipificado, publicación) aplicados al organismo. Se recomienda el uso del vocabulario sugerido disponible para este elemento con traducción a español (https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://rs.gbif.org/vocabulary/gbif/type_status). |
+| Ejemplo | Holotipo de Ctenomys sociabilis. Pearson O. P.; y M. I. Christie. 1985. Historia Natural; 5(37):388<br> Paratipo<br> Alotipo<br> Isotipo<br> Neotipo<br> Plastotipo<br> Sintipo<br> Topotipo |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem140">**verbatimIdentification** (Identificación original)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La identificación original del organismo (como fue tomada en campo o documentada en el voucher). Este elemento permite documentar la identificación o determinación original inalterada, incluidos los calificadores de identificación, fórmulas híbridas, incertidumbres, etc. |
+| Ejemplo | Peromyscus sp.<br> Ministrymon sp. nov. 1 <br> Anser anser X Branta canadensis<br> Pachyporidae? |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+<a name="elem141">**identificationRemarks** (Comentarios de la identificación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Comentarios o anotaciones sobre la identificación. Se recomienda que la longitud de la descripción no supere 20 palabras. |
+| Ejemplo | Se distingue entre Anthus correndera y Anthus hellmayri basado en las longitudes comparativas de las uñas<br> Amplificación del gen 16S rRNA \| Identificación bioquímica |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_
+|    |    |
+
+<a name="elem142">**identificationQualifier** (Calificador de la identificación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El grado de incertidumbre de la identificación puede indicarse agregando varios términos, como aff. y cf. al nombre científico. El calificador se aplica a la parte del nombre que sigue inmediatamente al calificador y se pueden colocar delante de cualquier elemento del nombre.<br><br>  cf.  del latín confer significa comparado con. Su uso indica que no hay certeza de la identidad de la especie (o rango taxonómico superior) hasta que se pueda hacer una comparación más detallada, por ejemplo con algún tipo o material de referencia. <br><br>  aff. del latín affinis significa similar o limítrofe. Su uso indica que el material o la evidencia disponible sugiere que la especie propuesta está relacionada, tiene afinidad, pero no es idéntica, a la especie o taxón que le sigue. |
+| Comentarios| Documente este elemento de acuerdo a las siguientes explicaciones:<br><br> cf. agrifolia  (Para Quercus cf. agrifolia, con valores acompañantes scientificName: Quercus , genus: Quercus, taxonRank: Género.)<br><br> aff. Sparassidae (Para cf. Sparassidae, con valores acompañantes  scientificName: Araneae, order: Araneae, taxonRank: Orden.) |
+| Ejemplo | cf. agrifolia<br> aff. Sparassidae |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_
+|    |    |
 
 ### Taxón
 
