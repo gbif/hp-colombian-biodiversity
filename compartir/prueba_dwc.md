@@ -860,7 +860,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Municipio de la ubicación. Puede ser un centro poblado, cabecera municipal, corregimiento o inspección de policía. No utilice este elemento para el nombre de un lugar cercano que no contiene la ubicación real. Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD). |
-| Ejemplo | Palmitas<br> Puerto Colombia<br> Bogotá, Distrito Capital |
+| Ejemplo | Palmitas<br> Puerto Colombia<br> Bogotá, D.C. |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
@@ -1178,6 +1178,28 @@ toc: true
 |    |    |
 
 ### Contexto Geológico
+
+|    |    |    |
+| ---|--- |--- |
+| [**geologicalContextID**<br> (ID del contexto geológico)](#elem115) | [**earliestEonOrLowestEonothem**<br> (Eón temprano o eonotema inferior)](#elem116) | [**latestEonOrHighestEonothem**<br> (Eón tardío o eonotema superior)](#elem117) |
+| [**earliestEraOrLowestErathem**<br> (Era temprana o eratema inferior)](#elem118) | [**latestEraOrHighestErathem**<br> (Era tardía o eratema superior)](#elem119) | [**earliestPeriodOrLowestSystem**<br> (Periodo temprano o sistema inferior)](#elem120) | 
+| [**latestPeriodOrHighestSystem**<br> (Periodo tardío o sistema superior)](#elem121) | [**earliestEpochOrLowestSeries**<br> (Época temprana o serie inferior)](#elem122) | [**latestEpochOrHighestSeries**<br> (Época tardía o serie superior)](#elem123) |
+| [**earliestAgeOrLowestStage**<br> (Edad temprana o piso inferior)](#elem124) | [**latestAgeOrHighestStage**<br> (Edad tardía o piso superior)](#elem125) | [**lowestBiostratigraphicZone**<br> (Zona bioestratigráfica inferior)](#elem126) | 
+| [**highestBiostratigraphicZone**<br> (Zona bioestratigráfica superior)](#elem127) | [**lithostratigraphicTerms**<br> (Términos litoestratigráficos)](#elem128) | [**group**<br> (Grupo)](#elem129) | 
+| [**formation**<br> (Formación)](#elem130) | [**member**<br> (Miembro)](#elem131) | [**bed**<br> (Capa)](#elem132) |
+|    |    |    |
+
+<br>
+<br>
+
+<a name="elem115">**geologicalContextID** (ID del contexto geológico)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador para el conjunto de la información asociada con un contexto geológico (la ubicación dentro de un contexto geológico, tal como estratigrafía). Puede ser un identificador único global o un identificador específico para el conjunto de datos. |
+| Ejemplo | https://opencontext.org/subjects/e54377f7-4452-4315-b676-40679b10c4d9 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
 
 ### Identificación
 
