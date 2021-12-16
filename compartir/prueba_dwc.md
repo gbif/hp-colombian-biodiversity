@@ -1462,8 +1462,33 @@ toc: true
 
 ### Taxón
 
+|    |    |    |    |
+| ---|--- |--- |--- |
+| [**scientificName**<br> (Nombre científico)](#elem143) | [**scientificNameAuthorship**<br> (Autoría del nombre científico)](#elem144) | [**taxonID**<br> (ID del Taxón)](#elem145) | [**scientificNameID**<br> (ID del nombre científico)](#elem146) |
+| [**higherClassification**<br> (Clasificación superior)](#elem147) | [**kingdom**<br> (Reino)](#elem148) | [**phylum**<br> (Filo)](#elem149) | [**class**<br> (Clase)](#elem150) |
+| [**order**<br> (Orden)](#elem151) | [**family**<br> (Familia)](#elem152) | [**subfamily**<br> (Subfamilia)](#elem153) | [**genus**<br> (Género)](#elem154) | 
+| [**genericName**<br> (Nombre genérico)](#elem155) | [**subgenus**<br> (Subgénero)](#elem156) | [**infragenericEpithet**<br> (Epíteto infragenérico)](#elem157) | [**specificEpithet**<br> (Epíteto Específico)](#elem158) |
+| [**infraspecificEpithet**<br> (Epíteto infraespecífico)](#elem159) | [**cultivarEpithet**<br> (Epíteto cultivar)](#elem160) | [**taxonRank**<br> (Categoría del taxón)](#elem161) | [**verbatimTaxonRank**<br> (Categoría original del taxón)](#elem162) |
+| [**vernacularName**<br> (Nombre común)](#elem163) | [**taxonomicStatus**<br> (Estado taxonómico)](#elem164) | [**acceptedNameUsage**<br> (Nombre aceptado usado)](#elem165) | [**acceptedNameUsageID**<br> (ID del nombre aceptado usado)](#elem166) |
+| [**parentNameUsage**<br> (Nombre parental usado)](#elem167) | [**parentNameUsageID**<br> (ID del Nombre Parental usado)](#elem168) | [**originalNameUsage**<br> (Nombre original usado)](#elem169) | [**originalNameUsageID**<br> (ID del Nombre original usado)](#elem170) |
+| [**nameAccordingTo**<br> (Nombre de acuerdo con)](#elem171) | [**nameAccordingToID**<br> (ID del nombre de acuerdo con)](#elem172) | [**namePublishedIn**<br> (Nombre publicado en)](#elem173) | [**namePublishedInID**<br> (ID del nombre publicado en)](#elem174) |
+| [**namePublishedInYear**<br> (Nombre publicado en el año)](#elem175) | [**taxonConceptID**<br> (ID del concepto del taxón)](#elem176) | [**nomenclaturalCode**<br> (Código nomenclatural)](#elem177) | [**nomenclaturalStatus**<br> (Estado nomenclatural)](#elem178) |
+| [**taxonRemarks**<br> (Comentarios del taxón)](#elem179) |  |  |  |
+|    |    |    |    |    |
+
 <br>
 <br>
+
+<a name="elem143">**scientificName** (Nombre científico)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre científico canónico (sin la autoría) correspondiente a la categoría taxonómica a la que se logró la determinación del organismo observado o colectado. El nombre debe ser congruente con el elemento taxonRank, de modo que se informe a que nivel (especie, género, familia, etc.) se encuentra el nombre documentado. |
+| Comentarios| Para tener en cuenta:<br><br> - El nombre científico puede pertenecer a cualquier categoría taxonómica (reino, filo, clase, orden, familia, género, especie entre otros), en ningún caso es obligatorio la identificación a nivel de especie.<br> - No debe documentar la autoría del taxón en este elemento, para ello utilice el elemento scientificNameAuthorship.<br> - No debe documentar calificadores de identificación (“cf.”, “aff.”, etc.), para ello utilice el elemento identificationQualifier y deje en el nombre científico la categoría superior sobre la cual se tiene certeza.<br> - No debe documentar abreviaciones que no dan cuenta de el nombre específico o hacen referencia  a morfotipos (“sp.”, “sp1.”, “spp.”), para ello utilice el elemento verbatimTaxonRank.<br><br> *Aunque oficialmente scientificName se define como el "nombre científico completo, con información de autoría y fecha si se conoce", desde el SiB Colombia se recomienda documentar solo el nombre canónico ya que hemos notado un detrimento de la calidad de este elemento por errores de tipeo cuando se incluye siguiendo la definición oficial. |
+| Ejemplo | Coleoptera<br> Bacteria<br> Ctenomys sociabilis<br> Abrus pulchellus subsp. tenuiflorus |
+| Elementos relacionados | taxonRank, scientificNameAuthorship, identificationQualifier, verbatimTaxonRank |
+| Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Lista de chequeo _(Obligatorio)_
+|    |    |
 
 ## Extensiones DwC
 
