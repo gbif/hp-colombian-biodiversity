@@ -753,7 +753,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Un identificador de la región geográfica, división político administrativa o del sitio específico donde se realizó el registro. |
-| Comentarios | Se sugiere utilizar un identificador persistente, como el código de la División Política Administrativa de Colombia - DANE, [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD) precedida por "CO:" o utilizar MarineRegions (marineregions.org) para regiones marinas, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> http://marineregions.org/mrgid/32556 (Islas del Rosario) |
+| Comentarios | Se sugiere utilizar un identificador persistente, como el código de la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD) precedida por "CO:" o utilizar MarineRegions [(https://www.marineregions.org/)](https://www.marineregions.org/) para regiones marinas, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> http://marineregions.org/mrgid/32556 (Islas del Rosario) |
 | Ejemplo | CO:15572<br> CO:68<br> http://marineregions.org/mrgid/32556<br> geonames.org/3674545/ |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
@@ -762,9 +762,9 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de la geografía inmediatamente superior al sitio o ubicación donde se realizó el registro. Si hay modificaciones en la localidad para estandarizar su contenido puede documentar en este elemento los los datos originales (sin estandarizar) de esos términos. |
-| Comentarios | Este elemento debe estar acompañado de otros elementos del estándar, como se muestra en el ejemplo a continuación:<br><br> América /| Sudamérica /| Colombia /| Región del Pacífico /| Valle del Cauca /| La Cumbre /| Bitaco (Con los valores resultantes de SA en continent, Colombia en country, Valle del Cauca en stateProvince, La Cumbre en county y Bitaco en municipality). |
-| Ejemplo | América /| Sudamérica /| Colombia /| Región del Pacífico /| Valle del Cauca /| La Cumbre /| Bitaco |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de la geografía inmediatamente superior al sitio o ubicación donde se realizó el registro. Si hay modificaciones en la localidad para estandarizar su contenido puede documentar en este elemento los los datos originales (sin estandarizar) de esos términos. |
+| Comentarios | Este elemento debe estar acompañado de otros elementos del estándar, como se muestra en el ejemplo a continuación:<br><br> América \| Sudamérica \| Colombia \| Región del Pacífico \| Valle del Cauca \| La Cumbre \| Bitaco (Con los valores resultantes de SA en continent, Colombia en country, Valle del Cauca en stateProvince, La Cumbre en county y Bitaco en municipality). |
+| Ejemplo | América \| Sudamérica \| Colombia \| Región del Pacífico \| Valle del Cauca \| La Cumbre \| Bitaco |
 | Elementos relacionados | higherGeographyID, continent, country, stateProvince, county, municipality |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
@@ -774,7 +774,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Un identificador de la región geográfica inmediatamente superior a la ubicación donde se realizó el registro. Este identificador debe ser acorde con la geografía superior documentada en el elemento higherGeography. |
-| Comentarios | Se recomienda utilizar un identificador persistente de un vocabulario controlado como el código de la División Política Administrativa de Colombia - DANE, [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD) precedida por "CO:" o el Tesauro Getty de Nombres Geográficos, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> TGN: 7005075 (San Agustín (Huila), Colombia) |
+| Comentarios | Se recomienda utilizar un identificador persistente de un vocabulario controlado como el código de la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD) precedida por "CO:" o el Tesauro Getty de Nombres Geográficos, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> TGN: 7005075 (San Agustín (Huila), Colombia) |
 | Ejemplo | CO:15572<br> CO:68<br> TGN: 7005075 |
 | Elementos relacionados | higherGeography, continent, country, stateProvince, county, municipality |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
@@ -841,7 +841,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que País de la ubicación (Departamento). Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE, [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD). |
+| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que País de la ubicación (Departamento). Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD). |
 | Ejemplo | Antioquia<br> Atlántico<br> Bogotá, D.C. |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
@@ -850,7 +850,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Departamento de la ubicación (Municipio). Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE, [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD). |
+| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Departamento de la ubicación (Municipio). Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD). |
 | Ejemplo | Medellín<br> Puerto Colombia<br> Bogotá, D.C. |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
@@ -859,7 +859,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Municipio de la ubicación. Puede ser un centro poblado, cabecera municipal, corregimiento o inspección de policía. No utilice este elemento para el nombre de un lugar cercano que no contiene la ubicación real. Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE, [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD). |
+| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Municipio de la ubicación. Puede ser un centro poblado, cabecera municipal, corregimiento o inspección de policía. No utilice este elemento para el nombre de un lugar cercano que no contiene la ubicación real. Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD). |
 | Ejemplo | Palmitas<br> Puerto Colombia<br> Bogotá, Distrito Capital |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Opcional)_ |
 |    |    |
@@ -981,6 +981,200 @@ toc: true
 | Definición | Comentarios o anotaciones sobre la ubicación. Se recomienda que la longitud de la descripción no supere 20 palabras. |
 | Ejemplo | Bajo agua desde 2005 |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem095">**verbatimLatitude** (Latitud original)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La latitud original de la ubicación. El elipsoide de coordenadas, el datum geodésico o el sistema de referencia espacial completo (SRS) para estas coordenadas debe ser documentado en el elemento verbatimSRS, y el sistema de coordenadas en el elemento verbatimCoordinateSystem. |
+| Ejemplo | 41° 05' 56.03" S<br> 1631599 |
+| Elementos relacionados | verbatimCoordinates, verbatimCoordinateSystem, verbatimSRS, verbatimLongitude |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem096">**verbatimLongitude** (Longitud original)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La longitud original de la ubicación. El elipsoide de coordenadas, datum geodésico o el sistema de referencia espacial completo (SRS) para estas coordenadas, debe ser documentado en el elemento verbatimSRS y el sistema de coordenadas en el elemento verbatimCoordinateSystem. |
+| Ejemplo | 75° 08' 36.83" W<br> 834549 |
+| Elementos relacionados | verbatimCoordinates, verbatimCoordinateSystem, verbatimSRS, verbatimLatitude |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem097">**verbatimCoordinates** (Coordenadas originales)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Las coordenadas de la ubicación en su formato original. El elipsoide de las coordenadas, el datum geodésico, o el sistema de referencia espacial completo (SRS) para estas coordenadas, debe ser documentado en el elemento verbatimSRS, y el sistema de coordenadas en el elemento verbatimCoordinateSystem. |
+| Ejemplo | 4° 05' 56.03" S, 75° 08' 36.83" W<br> 17T 1631599  834549 |
+| Elementos relacionados | verbatimLatitude, verbatimLongitude, verbatimCoordinateSystem, verbatimSRS |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem098">**verbatimCoordinateSystem** (Sistema original de coordenadas)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El sistema de coordenadas espaciales para verbatimLatitude y verbatinLongitude original o verbatimCoordinates de la ubicación. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
+| Ejemplo | Grados decimales<br> Grados, minutos decimales<br> Grados, minutos, segundos<br> UTM<br> Coordenadas planas<br> Coordenadas proyectadas |
+| Elementos relacionados | verbatimLatitude, verbatimLongitude, verbatimCoordinates, verbatimSRS |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem099">**verbatimSRS** (SRS original)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El elipsoide, datum geodésico, o sistema de referencia espacial (SRS) en el que se basan las coordenadas provistas en verbatimLatitude y verbatinLongitude o verbatimCoordinates. Se recomienda usar el código EPSG, si se conoce. Caso contrario, utilice un lenguaje controlado para el nombre o código del datum geodésico, o un vocabulario controlado para el nombre o código del elipsoide, si se conoce. Si ninguno de estos se conoce, utilice el valor "Desconocido". |
+| Ejemplo | EPSG: 4326<br> EPSG: 3116<br> WGS84<br> UTM zone 17T<br> MAGNA-SIRGAS origen Bogotá<br> MAGNA-SIRGAS origen Oeste<br> MAGNA-SIRGAS origen CTM-12<br> Desconocido |
+| Elementos relacionados | verbatimLatitude, verbatimLongitude, verbatimCoordinates, verbatimCoordinateSystem |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem100">**decimalLatitude** (Latitud decimal)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La latitud geográfica (en grados decimales, utilizando el sistema de referencia espacial provisto en geodeticDatum) del centro geográfico de una ubicación. Los valores positivos se encuentran al norte del ecuador, los valores negativos estan al sur del mismo. Los valores admitidos se encuentran entre -90 y 90. |
+| Ejemplo | 6.05486<br> 12.584877 |
+| Elementos relacionados | geodeticDatum |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem101">**decimalLongitude** (Longitud decimal)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La longitud geográfica (en grados decimales, mediante el sistema de referencia espacial provisto en geodeticDatum) del centro geográfico de una ubicación. Los valores positivos se encuentran al este del meridiano de Greenwich, los valores negativos se encuentran al oeste de la misma. Los valores admitidos se encuentran entre -180 y 180. |
+| Ejemplo | -75.05486<br> -72.78945 |
+| Elementos relacionados | geodeticDatum |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem102">**geodeticDatum** (Datum geodésico)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El elipsoide, datum geodésico, o sistema de referencia espacial (SRS) en el que se basan las coordenadas geográficas provistas en decimalLatitude y decimalLongitude. Se recomienda usar el código EPSG, si se conoce. Caso contrario, utilice un lenguaje controlado para el nombre o código del datum geodésico, o utilice un lenguaje controlado para el nombre o código del elipsoide, si se conoce. Si ninguno de estos se conoce, utilice el valor "Desconocido".<br><br> Aunque el estandar no es restrictivo en el datum a usar, desde el SiB Colombia se recomienda documentar las coordenadas decimales usando el datum WGS84 dado que facilita la espacialización de los datos publicados por diferentes organizaciones bajo un mismo sistema de referencia espacial, lo que minimiza el riesgo de desplazamiento de las coordenadas. |
+| Ejemplo | WGS84<br> EPSG:4326<br> Desconocido |
+| Elementos relacionados | decimalLatitude, decimalLongitude |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem103">**coordinateUncertaintyInMeters** (Incertidumbre de las coordenadas en metros)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La distancia horizontal (en metros) de la decimalLatitude y decimalLongitude provistas describiendo el círculo más pequeño que contiene la totalidad de la ubicación. Deje el valor vacío si la incertidumbre es desconocida, no se puede estimar, o no es aplicable (porque no hay coordenadas). Cero no es un valor válido para este elemento. |
+| Comentarios | Documente este elemento de acuerdo a las siguientes explicaciones:<br><br> 30 (límite inferior razonable para lecturas de GPS tomadas bajo buenas condiciones después de 2020-05-01, si la precisión no fue tomada en campo)<br> 100 (Límite inferior razonable para lecturas de GPS tomadas bajo buenas condiciones antes de 2020-05-1, si la precisión no fue tomada en campo)<br> 71 (Incertidumbre para coordenadas originales tomadas bajo el sistema de coordenadas UTM teniendo 100 metros de precisión y un sistema de referencia espacial conocido)<br> 2100 |
+| Ejemplo | 30<br> 100<br> 71<br> 2100 |
+| Elementos relacionados | decimalLatitude, decimalLongitude |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem104">**coordinatePrecision** (Precisión de las coordenadas)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una representación decimal de la precisión de las coordenadas provistas en decimalLatitude y decimalLongitude. |
+| Comentarios | Documente este elemento de acuerdo a las siguientes explicaciones:<br><br> 0.00001 (Límite normal de GPS para grados decimales)<br> 0.000278 (Para coordenadas reportadas al minuto más cercano. 1/3600)<br> 0.01 (Para una coordenada decimal con dos grados decimales)<br> 1.0 (Grado más próximo) |
+| Ejemplo | 0.00001<br> 0.000278<br> 0.01<br> 1.0 |
+| Elementos relacionados | decimalLatitude, decimalLongitude |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem105">**pointRadiusSpatialFit** (Ajuste espacial del radio-punto)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La relación entre el área del radio-punto (decimalLatitude, decimalLongitude y coordinateUncertaintyInMeters) y el área de la verdadera (original, o más específica) representación espacial de la ubicación. Los valores válidos son 0, mayor que o igual a 1, o indefinido. Un valor de 1 es una coincidencia exacta o superposición de 100%. Un valor de 0 se debe utilizar si el radio-punto dado no contiene por completo la representación original. El Ajuste espacial del radio-punto no está definido (y se debe dejar en blanco) si la representación original es un punto sin incertidumbre y la georreferencia dada no es ese mismo punto (sin incertidumbre). Si tanto el original como la georreferencia dada están en el mismo punto el ajuste espacial del radio-punto es 1. |
+| Ejemplo | 0<br> 1<br> 0.5708 |
+| Elementos relacionados | decimalLatitude, decimalLongitude, coordinateUncertaintyInMeters |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem106">**footprintWKT** (WKT footprint)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una representación Well-Known Text (WKT) de la forma (footprint, geometría) que define la ubicación. Una ubicación puede tener una representación de radio-punto (véase decimalLatitude) y una representación footprint, y pueden diferir entre sí. |
+| Comentarios | Documente este elemento de acuerdo a las siguientes explicaciones:<br><br> POLYGON ((10 20, 11 20, 11 21, 10 21, 10 20)) (Para un cuadrante con esquinas opuestas (longitud=10, latitud=20) y (longitud=11, latitud=21))<br> LINESTRING (10.689195 -74.139299, 10.689422 -74.13791) (Para un transecto de muestro con coordenadas iniciales 10.689195 -74.139299 y finales 10.689422 -74.13791) |
+| Ejemplo | POLYGON ((10 20, 11 20, 11 21, 10 21, 10 20))<br> LINESTRING (10.689195 -74.139299, 10.689422 -74.13791) |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem107">**footprintSRS** (SRS footprint)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El Elipsoide, datum geodésico o sistema de referencia espacial sobre el cual está referenciada la geometría en el elemento footprintWKT.<br><br> Se recomienda usar un código EPSG para el sistema de referencia si este es conocido. De lo contrario usar un nombre del sistema de referencia, datum, o elipsoide (SRS) bajo un vocabulario controlado. También es permitida la representación en Well-Known Text (WKT) del sistema de referencia espacial (SRS). No utilice este elemento para describir el SRS de decimalLatitude y decimalLongitude, incluso si es la misma que para WKT footprint - utilice el geodeticDatum en su lugar. |
+| Ejemplo | EPSG:4326<br> WGS84<br> SRS GEOGCS["GCS_WGS_1984", DATUM["D_WGS_1984", SPHEROID["WGS_1984",6378137,298.257223563]], PRIMEM["Greenwich",0], UNIT["Degree",0.0174532925199433]] |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem108">**footprintSpatialFit** (Ajuste espacial de footprint)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La relación del área de footprint (WKT footprint) y el área de la verdadera (original, o más específica) representación espacial de la ubicación. Los valores válidos son 0, mayor que, igual a 1, o indefinido. Un valor de 1 es una coincidencia exacta o superposición de 100%. Un valor de 0 debe ser utilizado si el footprint dado no contiene la representación original completamente. El footprintSpatialFit es indefinido (y se debe dejar en blanco) si la representación original es un punto y la georreferencia dada no es ese mismo punto. Si el original y la georreferencia dada son el mismo punto, el footprintSpatialFit es 1. |
+| Ejemplo | 0<br> 1 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem109">**georeferencedBy** (Georreferenciado por)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los nombres de las personas, grupos u organizaciones que determinaron la georreferencia (representación espacial) para la ubicación. |
+| Ejemplo | Kristina Yamamoto (MVZ)<br> Miguel B. \|  María Isabel H. |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem110">**georeferencedDate** (Fecha de georreferenciación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La fecha o el intervalo en la que fue georreferenciada la ubicación. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
+| Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/2010-01<br> 2009-02/10<br> 2009-02-12/2009-10-08<br> 2010-01-17/18 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem111">**georeferenceProtocol** (Protocolo de georreferenciación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una descripción o referencia a los métodos utilizados para determinar el footprint espacial, coordenadas, e incertidumbres. |
+| Ejemplo | Chapman AD & Wieczorek JR (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853<br> MaNIS/HerpNet/ORNIS Georeferencing Guidelines<br> BioGeomancer |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem112">**georeferenceSources** (Fuentes de georreferenciación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los mapas, gaceteros, u otros recursos utilizados para georreferenciar la ubicación, lo suficientemente específica como para permitir que cualquier persona en el futuro utilice los mismos recursos. |
+| Ejemplo | USGS 1:24000 Florence Montana Quad<br> Google. (n.d.). Jardín Botánico de la Universidad de Caldas. Recuperado de:  https://goo.gl/maps/zPCiUySVnZ7CN2Vs7<br> IGAC. Cartografía básica 1:100000. Plancha 124<br> Google Maps, 2020, maps.google.com |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem113">**georeferenceVerificationStatus** (Estado de la verificación de la georreferenciación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una descripción categórica sobre la verificación de la georreferencia usada para representar la descripción espacial de la ubicación del registro. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
+| Ejemplo | Inviable para georreferenciar<br> Requiere georreferenciación<br> Requiere verificación<br> Verificado por el custodio de los datos<br> Verificado por el proveedor de los datos |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem114">**georeferenceRemarks** (Comentarios de la georreferenciación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Comentarios o anotaciones acerca de la determinación de la descripción espacial, los supuestos hechos que explican las adiciones formalizadas en el método referido en  georeferenceProtocol. Se recomienda que la longitud de la descripción no supere 20 palabras.. |
+| Ejemplo | Distancia asumida a partir de la carretera (Autopista 101) |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
 ### Contexto Geológico
