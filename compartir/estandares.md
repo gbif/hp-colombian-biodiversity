@@ -20,13 +20,13 @@ El SiB Colombia adopta y promueve el uso de algunos de los estándares respaldad
 ___
 
 ## Darwin Core
-El estándar **Darwin Core** (DwC) ofrece un marco estable, sencillo y flexible para consolidar datos sobre biodiversidad procedentes de diferentes fuentes. La mayoría de los conjuntos de datos compartidos a través del SiB Colombia se publican utilizando el formato *Darwin Core Archive *(DwC-A).
+El estándar **Darwin Core** (DwC) ofrece un marco estable, sencillo y flexible para consolidar datos sobre biodiversidad procedentes de diferentes fuentes. La mayoría de los conjuntos de datos compartidos a través del SiB Colombia se publican utilizando el formato *Darwin Core Archive (DwC-A)*.
 
 - [Conoce más sobre el Darwin Core](https://www.gbif.org/es/darwin-core){:target="_blank"}.
 - [Conoce más en el Ciclo de formación](https://youtu.be/nYGu8KY_K6U){:target="_blank"}.
 - [Explora el Manual Darwin Core de OBIS](https://obis.org/manual/){:target="_blank"}.
 - [Conoce los elementos del Darwin Core (a través de la Wiki de Gcube)](https://gcube.wiki.gcube-system.org/gcube/Darwin_Core_Terms){:target="_blank"}.
-- [Conoce los diferentes perfiles Darwin Core](/recursos/plantillasdwc).
+- [Conoce los diferentes plantillas Darwin Core](/recursos/plantillas-dwc).
 
 ___
 
