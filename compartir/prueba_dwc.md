@@ -1654,8 +1654,197 @@ toc: true
 | Definición | El nombre de un cultivar, grupo de cultivares, o grex (horticultura) que sigue al nombre científico.<br><br> De acuerdo con las Reglas del Código de Plantas Cultivadas, el nombre de un cultivar consiste en un nombre botánico seguido de un epíteto de cultivar. |
 | Comentarios | Documentar de acuerdo a como se muestra a continuación:<br><br> King Edward (para el scientificName "Solanum tuberosum 'King Edward'" y taxonRank "cultivar")<br> Mishmiense (para el scientificName "Rhododendron boothii Mishmiense Group" y taxonRank "grupo de cultivares")<br> Atlantis (para scientificName "Paphiopedilum Atlantis grex" y taxonRank "grex"). |
 | Ejemplo | King Edward<br> Mishmiense<br> Atlantis |
+| Elementos relacionados | scientificName, taxonRank |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem161">**taxonRank** (Categoría del taxón)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La categoría taxonómica del nombre más específico presente en el scientificName. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
+| Ejemplo | Reino<br> Subreino<br> Filo<br> División<br> Subfilo<br> Subdivisión<br> Clase<br> Subclase<br> Orden<br> Suborden<br> Familia<br> Subfamilia<br> Tribu<br> Subtribu<br> Género<br> Subgénero<br> Sección<br> Subsección<br> Serie<br> Subserie<br> Especie<br> Subespecie<br> Variedad<br> Subvariedad<br> Forma<br> Subforma |
+| Elementos relacionados | scientificName |
+| Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Lista de chequeo _(Recomendado)_
+|    |    |
+
+<a name="elem162">**verbatimTaxonRank** (Categoría original del taxón)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La categoría taxonómica del nombre más específico tal y como aparece en el registro original. Se utiliza para documentar abreviaciones que dan cuenta de incertidumbres o morfotipos en el registros. |
+| Ejemplo | sp1.<br> sp2.<br> Morfotipo1.<br> sub-lesus<br> prole<br> apomict<br> spp. |
 | Elementos relacionados | scientificName |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem163">**vernacularName** (Nombre común)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre o nombres comunes del taxón (en una fila continua y separada por una barra vertical "\|"). |
+| Ejemplo | Cóndor Andino<br> Águila Americana<br> Buitre \| Chulo |
+| Elementos relacionados | scientificName |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+|    |    |
+
+<a name="elem164">**taxonomicStatus** (Estado taxonómico)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El estado taxonómico que define el uso del scientificName de acuerdo a un árbol taxnómico u opinión de experto. |
+| Ejemplo | Inválido<br> Válido<br> Aceptado<br> Sinónimo<br> Sinónimo homotípico<br> Sinónimo heterotípico<br> Ambiguo<br> Mal aplicado |
+| Elementos relacionados | scientificName |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem165">**acceptedNameUsage** (Nombre aceptado usado)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo, con autoría e información de fecha si se conoce, del taxón actualmente válido (zoológico) o aceptado (botánico) cuando el nombre documentado en scientificName no corresponda al nombre válido o aceptado. |
+| Ejemplo | Tamias minimus Bachman, 1839 |
+| Elementos relacionados | scientificName |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem166">**acceptedNameUsageID** (ID del nombre aceptado usado)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador para el acceptedNameUsage (significado del nombre, documentado de acuerdo con alguna fuente) del taxón actualmente válido (zoológico) o aceptado (botánico).<br><br> Este elemento debe usarse cuando el elemento scientificName hace referencia a un sinónimo o a un nombre ambiguo mal aplicado, para dar claridad sobre el taxón válido al que hace referencia. <br><br> Este puede ser obtenido de bases de datos o catálogos taxonómicos globales. |
+| Ejemplo | gbif.org/species/2435099<br> tsn:552479<br> urn:lsid:ipni.org:names:320035-2 |
+| Elementos relacionados | acceptedNameUsage |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem167">**parentNameUsage** (Nombre parental usado)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo, con autoría e información de fecha si se conoce, del taxón parental directo válido (zoológico) o aceptado (botánico), más próximo de nivel superior (en una clasificación) del elemento más específico presente en el scientificName. |
+| Ejemplo | Rubiaceae<br> Arcytophyllum Willd.<br> Testudinae |
+| Elementos relacionados | scientificName |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem168">**parentNameUsageID** (ID del Nombre Parental usado)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador para el uso del nombre (significado del nombre, documentado de acuerdo con alguna fuente) del taxón parental directo del taxón indicado en el scientificName.<br><br> Por ejemplo si el scientificName corresponde a una especie, el parentNameUsageID corresponder al nombre científico del género si este hace referencia a un sinónimo o a un nombre ambiguo mal aplicado<br><br> Este puede ser obtenido de bases de datos o catálogos taxonómicos globales. |
+| Ejemplo | gbif.org/species/2435099<br> tsn:552479<br> urn:lsid:ipni.org:names:320035-2 |
+| Elementos relacionados | parentNameUsage |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem169">**originalNameUsage** (Nombre original usado)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre del taxón, con autoría e información de fecha si se conoce, tal como apareció originalmente cuando se estableció por primera vez bajo las reglas del nomenclaturalCode asociado. El basiónimo (botánica) o basónimo (bacteriología) correspondiente al scientificName o el homónimo anterior de los nombres sustituidos. |
+| Ejemplo | Gasterosteus saltatrix Linnaeus 1768 |
+| Elementos relacionados | scientificName, nomeclaturalCode |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem170">**originalNameUsageID** (ID del Nombre original usado)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador para el uso del nombre (significado del nombre, documentado de acuerdo con alguna fuente) en el que se estableció originalmente el scientificName, bajo las reglas del nomenclaturalCode asociado (el protónimo en zoología, basiónimo en botánica).<br><br> Este puede ser obtenido de bases de datos o catálogos taxonómicos globales. |
+| Ejemplo | gbif.org/species/2435099<br> tsn:552479<br> urn:lsid:ipni.org:names:320035-2 |
+| Elementos relacionados | originalNameUsage |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem171">**nameAccordingTo** (Nombre de acuerdo con)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La referencia a la fuente en la que está definida o implícita la definición conceptual del taxón documentado en scientificName, tradicionalmente representado por el Latín "sensu" o "sec." (de secundum, que significa "según"). Para los taxones que resultan de las identificaciones, una referencia a las claves, monografías, expertos y otras fuentes debe ser provista. |
+| Ejemplo | Franz NM, Cardona-Duque J (2013) Description of two new species and phylogenetic reassessment of Perelleschus Wibmer & O’Brien, 1986 (Coleoptera:<br> Curculionidae), with a complete taxonomic concept history of Perelleschus sec. Franz & Cardona-Duque, 2013. Syst Biodivers. 11: 209–236. |
+| Elementos relacionados | scientificName |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem172">**nameAccordingToID** (ID del nombre de acuerdo con)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador de la fuente/publicación en la que está definida o implícita la definición conceptual del taxón específico. Véase nameAccordingTo.<br><br> Este término debe usarse para referirse al ID de taxón de un registro de taxón que representa la combinación original del nombre (el protónimo en zoología, el basiónimo en botánica).  |
+| Ejemplo | doi:10.1016/S0269-915X(97)80026-2<br> 19thcenturyscience.org/HMSC/HMSC-Reports/Zool-40/README.htm |
+| Elementos relacionados | nameAccordingTo |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem173">**namePublishedIn** (Nombre publicado en)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una referencia para la publicación en que se estableció originalmente el taxón presente en el scientificName, bajo las reglas del nomeclaturalCode asociado. |
+| Ejemplo | Pearson O. P., and M. I. Christie. 1985. Historia Natural, 5(37):388; Forel, Auguste, Diagnosies provisoires de quelques espèces nouvelles de fourmis de Madagascar, récoltées par M. Grandidier., Annales de la Societe Entomologique de Belgique, Comptes-rendus des Seances 30, 1886 |
+| Elementos relacionados | scientificName, nomeclaturalCode |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem174">**namePublishedInID** (ID del nombre publicado en)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador de la publicación en que se estableció originalmente el taxón presente en el scientificName, bajo las reglas del nomeclaturalCode asociado. |
+| Ejemplo | doi:10.1016/S0269-915X(97)80026-2<br> 19thcenturyscience.org/HMSC/HMSC-Reports/Zool-40/README.htm |
+| Elementos relacionados | namePublishedIn |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem175">**namePublishedInYear** (Nombre publicado en el año)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El año de cuatro dígitos en el que se publicó el taxón presente en el scientificName. |
+| Ejemplo | 1915<br> 2008 |
+| Elementos relacionados | namePublishedIn |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem176">**taxonConceptID** (ID del concepto del taxón)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador para el concepto taxonómico al que se refiere el registro, no para los detalles de nomenclatura de un taxón. |
+| Ejemplo | urn:lsid:zoobank.org:act:040832DB-2A58-4EFE-B234-AEBF222586FC |
+| Elementos relacionados | scientificName |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem177">**nomenclaturalCode** (Código nomenclatural)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El código nomenclatural (o códigos en el caso de un nombre ambireinal) en virtud del cual se construye el scientificName. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
+| Ejemplo | ICBN<br> ICZN<br> BC<br> ICNCP<br> BioCode<br> PhyloCode |
+| Elementos relacionados | scientificName |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem178">**nomenclaturalStatus** (Estado nomenclatural)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El estado nomenclarural en la publicación original del scientificName y su conformidad con las normas pertinentes de nomenclatura. Está basado en las definiciones del nomenclaturalCode en uso y no requiere una opinión taxonómica. |
+| Ejemplo | nom. ambig.<br> nom. illeg.<br> nom. subnud. |
+| Elementos relacionados | scientificName, nomenclaturalCode |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem179">**taxonRemarks** (Comentarios del taxón)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Comentarios o anotaciones sobre el taxón o nombre. Se recomienda que la longitud de la descripción no supere 20 palabras. |
+| Ejemplo | Este nombre está mal escrito en uso común<br> Sin estado de amenaza reportada |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
 |    |    |
 
 ## Extensiones DwC
