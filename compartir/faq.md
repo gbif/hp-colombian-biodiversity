@@ -461,7 +461,7 @@ Recuerda que si cuentas con credenciales del SiB Colombia en el IPT, puedes acce
   <summary markdown="span"><B>¿Cómo puedo aportar a la construcción de fichas de especies para el CBC?</B></summary>
     
 <br>
-Para aportar a la construcción de una ficha, debe enviar un correo a sib@humboldt.org.co indicando su intención y una lista en excel de las especie(s) para las cuales desea aportar ficha, para mas información diríjase al <a href="/compartir/guiadepublicacion#ruta-c-publicación-de-fichas-de-especies" target="_blank">enlace</a>. Después de esto, el equipo coordinador lo guiará en los siguientes pasos:
+Para aportar a la construcción de una ficha, debe enviar un correo a sib@humboldt.org.co indicando su intención y una lista en excel de las especie(s) para las cuales desea aportar ficha, para mas información diríjase al <a href="/compartir/guia-para-publicar#ruta-c-publicación-de-fichas-de-especies" target="_blank">enlace</a>. Después de esto, el equipo coordinador lo guiará en los siguientes pasos:
 <ol>
         <li>Documentación de fichas en la <a href="/recursos/plantillasplic">plantilla</a></li>
         <li>Acceso a editor y capacitación en el uso de la herramienta</li>
@@ -495,7 +495,7 @@ ___
   <summary markdown="span"><B>¿Cómo puedo obtener el certificado de reporte a través del SiB Colombia de los especímenes derivados de un permiso de colecta?</B></summary>
 
 <br>
-En este <a href="/compartir/guiadepublicacion">enlace</a> podrás encontrar información sobre los pasos a seguir para la publicación de datos asociados a permisos de recolección (ruta B).    
+En este <a href="/compartir/guia-para-publicar">enlace</a> podrás encontrar información sobre los pasos a seguir para la publicación de datos asociados a permisos de recolección (ruta B).    
 </details>
 
 ___
