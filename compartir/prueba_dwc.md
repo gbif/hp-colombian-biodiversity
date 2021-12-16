@@ -1356,12 +1356,34 @@ toc: true
 
 ### Identificación
 
+|    |    |    |    |
+| ---|--- |--- |--- |
+| [**identificationID**<br> (ID de la identificación)](#elem133) | [**identifiedBy**<br> (Identificado por)](#elem134) | [**identifiedByID**<br> (ID del identificador)](#elem135) | [**dateIdentified**<br> (Fecha de la identificación)](#elem136) |
+| [**identificationReferences**<br> (Referencias de la identificación)](#elem137) | [**identificationVerificationStatus**<br> (Estado de la verificación de la identificación)](#elem138) | [**typeStatus**<br> (Tipo nomeclatural)](#elem139) | [**verbatimIdentification**<br> (Identificación original)](#elem140) |
+|  [**identificationRemarks**<br> (Comentarios de la identificación)](#elem141) | [**identificationQualifier**<br> (Calificador de la identificación)](#elem142) |  |  |
+|    |    |    |    |
+
+<br>
+<br>
+
+<a name="elem133">**identificationID** (ID de la identificación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador para la identificación (el cuerpo de la información asociada con la asignación de un nombre científico) del organismo. Puede ser un identificador único global o un identificador específico para el conjunto de datos. |
+| Ejemplo | 1231135<br> 10560964 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+|    |    |
+
+
+
 ### Taxón
 
 <br>
 <br>
 
 ## Extensiones DwC
+
 
 ### Relación del Recurso
 
