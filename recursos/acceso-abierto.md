@@ -218,9 +218,9 @@ Esta guía fue hecha para todas las personas interesadas en el acceso abierto al
 
 Con el apoyo de:
 
-- [Colciencias](https://minciencias.gov.co/)
-- [Colombia Bio](https://minciencias.gov.co/portafolio/colombia-bio)
-- [Fundación Karisma](https://web.karisma.org.co/)
-- [Diantres](https://www.diantres.co/)
+- [Colciencias](https://minciencias.gov.co/){:target="_blank"}
+- [Colombia Bio](https://minciencias.gov.co/portafolio/colombia-bio){:target="_blank"}
+- [Fundación Karisma](https://web.karisma.org.co/){:target="_blank"}
+- [Diantres](https://www.diantres.co/){:target="_blank"}
     
     
