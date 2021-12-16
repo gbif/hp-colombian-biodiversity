@@ -125,7 +125,7 @@ Cuando el conjunto de datos y sus metadatos se encuentran listos, se procede a s
 
 ## Ruta B. Publicación de datos por permiso de recolección
 
-Esta es la ruta de publicación para aquellos datos asociados a los permisos de recolección de acuerdo a las obligaciones establecidas en los decretos 1376 y 3016 de 2013 -hoy compilados en el [decreto 1076 de 2015](https://www.minambiente.gov.co/images/normativa/app/decretos/4e-DECRETO%201076%20DE%202015%20MINAMBIENTE%20EXPIDE%20DECRETO%20%C3%9ANICO%20REGLAM.%20SECTOR%20AMBIENTE%20Y%20DESARROLLO%20SOSTENIBLE.pdf){:target="_blank"} de la normativa colombiana-, y que no desean seguir la ruta voluntaria. La acción de compartir datos a través de esta ruta se conoce como “Publicación CR-SiB” y se diferencia de la ruta anterior principalmente porque no sucede bajo un esquema voluntario y es un proceso de autogestión que no involucra un acompañamiento directo el Equipo Coordinador.
+Esta es la ruta de publicación para aquellos datos asociados a los permisos de recolección de acuerdo a las obligaciones establecidas en los decretos 1376 y 3016 de 2013 -hoy compilados en el [decreto 1076 de 2015](https://www.suin-juriscol.gov.co/viewDocument.asp?id=30019960){:target="_blank"} de la normativa colombiana-, y que no desean seguir la ruta voluntaria. La acción de compartir datos a través de esta ruta se conoce como “Publicación CR-SiB” y se diferencia de la ruta anterior principalmente porque no sucede bajo un esquema voluntario y es un proceso de autogestión que no involucra un acompañamiento directo el Equipo Coordinador.
 
 Los datos que se reportan a través de esta ruta generalmente corresponden a [registros biológicos](/compartir/tipos-de-datos#registros-biológicos).
 
@@ -157,7 +157,7 @@ Ahora debes validar el conjunto de datos antes de publicarlo usando el [Procesad
 
 Ten en cuenta que la herramienta no hace validaciones de la calidad de los datos, y la responsabilidad de dicha validación es tuya. Ejemplo: identificar datos duplicados, campos incompletos, inconsistencias taxonómicas y geográficas, entre otros. Puedes validar tus conjuntos de datos usando la [caja de herramientas de calidad de datos](/recursos/calidaddedatos) que dispone el SiB Colombia.
 
-Consulta el [vídeo sobre cómo validar y mejorar la calidad de un conjunto de datos](https://youtu.be/k_sPhVWr7aw){:target="_blank"}.
+Consulta los [laboratorios de datos](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios) que explican como usar diversas herramientas para validar y mejorar la calidad de un conjunto de datos.
 
 ### 4. Publica el conjunto de datos
 Con las credenciales asignadas por el Equipo Coordinador, debes acceder a la [Plataforma CR-SiB](https://ipt.biodiversidad.co/cr-sib/){:target="_blank"} y hacer la carga del Darwin Core Archive generado en el Procesador de Datos CR-SiB.
