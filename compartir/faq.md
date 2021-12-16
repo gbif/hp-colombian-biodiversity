@@ -25,7 +25,7 @@ ___
     
 <br>
 El SiB Colombia es una red de organizaciones, si desea publicar datos sobre biodiversidad y no pertenece a una organización, puede contactar un grupo de investigación en una universidad, red o asociación de especialistas, para que respalden su publicación como organización. También puede hacer uso de plataformas de ciencia ciudadana como <a href= "https://play.google.com/store/apps/details?id=edu.cornell.birds.ebird&hl=es_419" target="_blank">eBird</a> o <a href="https://play.google.com/store/apps/details?id=org.inaturalist.android&hl=es_419" target="_blank">iNaturalist</a>, los datos que se publican a través de estas plataformas eventualmente serán visibles en el
-<a href="/">SiB Colombia</a> y <a href="https://www.gbif.org/" target="_blank">GBIF</a>. </details>
+<a href="/data">SiB Colombia</a> y <a href="https://www.gbif.org/" target="_blank">GBIF</a>. </details>
 
 ___
 
@@ -52,7 +52,7 @@ ___
     
 <br>
 Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la <a href="/compartir/guia-para-publicar">Guía para la publicación de datos e información</a>.
-Encuentra información adicional sobre la publicación de los eventos de muestreo en el siguiente <a href="/compartir/tiposdedatos#eventos-de-muestreo">enlace</a>.
+Encuentra información adicional sobre la publicación de los eventos de muestreo en el siguiente <a href="/compartir/tipos-de-datos#eventos-de-muestreo">enlace</a>.
 </details>
 
 ___
@@ -63,7 +63,7 @@ ___
     
 <br>
 Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia, los cuales puedes consultar en la <a href="/compartir/guia-para-publicar">Guía para la publicación de datos e información</a>.
-Encuentra información adicional sobre la publicación de listas de especie en el siguiente <a href="/compartir/tiposdedatos#listas-de-especies">enlace</a>.
+Encuentra información adicional sobre la publicación de listas de especie en el siguiente <a href="/compartir/tipos-de-datos#listas-de-especies">enlace</a>.
     </details>
     
 ___
