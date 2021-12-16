@@ -9,7 +9,7 @@ imageLicense: |
 height: 41vh
 ---
 
-La Herramienta de Publicación (IPT) de GBIF es una aplicación web de código abierto, disponible de forma gratuita, que facilita la publicación de datos sobre biodiversidad. Durante el [proceso de acompañamiento a la publicación de datos](/compartir/guiadepublicacion#ruta-a-publicación-de-datos-voluntaria), el Equipo Coordinador del SiB Colombia (EC-SiB) le idicará a cada publicador que IPT usar y le facilitará un usuario y contraseña para la documentación de los metadatos. 
+La Herramienta de Publicación (IPT) de GBIF es una aplicación web de código abierto, disponible de forma gratuita, que facilita la publicación de datos sobre biodiversidad. Durante el [proceso de acompañamiento a la publicación de datos](/compartir/guia-para-publicar#ruta-a-publicación-de-datos-voluntaria), el Equipo Coordinador del SiB Colombia (EC-SiB) le idicará a cada publicador que IPT usar y le facilitará un usuario y contraseña para la documentación de los metadatos. 
 
 Si desea conocer más sobre el IPT consulte el [manual de usuario](https://ipt.gbif.org/manual/es/ipt/2.5/){:target="_blank"}.
 
@@ -25,6 +25,6 @@ IIAP | [https://ipt.biodiversidad.co/iiap/](https://ipt.biodiversidad.co/iiap/){
 IAvH | [https://ipt.biodiversidad.co/iavh/](https://ipt.biodiversidad.co/iavh/){:target="_blank"} |  Para datos del Instituto Humboldt.
 SINCHI | [https://ipt.biodiversidad.co/sinchi/](https://ipt.biodiversidad.co/sinchi/){:target="_blank"} | Para datos del SINCHI.
 Parques Nacionales | [https://ipt.biodiversidad.co/parquesnacionales/](https://ipt.biodiversidad.co/parquesnacionales/){:target="_blank"} | Para datos de Parques Nacionales.
-Permisos de Recolección | [https://ipt.biodiversidad.co/cr-sib/](https://ipt.biodiversidad.co/cr-sib/){:target="_blank"} | Para datos del [modelo transicional](/compartir/GuiaPublicacion#ruta-b-publicación-de-datos-por-permiso-de-recolección){:target="_blank"}.
+Permisos de Recolección | [https://ipt.biodiversidad.co/cr-sib/](https://ipt.biodiversidad.co/cr-sib/){:target="_blank"} | Para datos del [modelo transicional](/compartir/guia-para-publicar#ruta-b-publicación-de-datos-por-permiso-de-recolección){:target="_blank"}.
 
 
