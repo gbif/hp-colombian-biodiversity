@@ -1490,6 +1490,174 @@ toc: true
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Lista de chequeo _(Obligatorio)_
 |    |    |
 
+<a name="elem144">**scientificNameAuthorship** (Autoría del nombre científico)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La información de autoría correspondiente al scientificName, usando el formato acorde a las convenciones del Código Nomenclatural aplicable. |
+| Ejemplo | (Torr.) J.T. Howell<br> (Martinovský) Tzvelev<br> (Györfi, 1952) |
+| Elementos relacionados | scientificName |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+|    |    |
+
+<a name="elem145">**taxonID** (ID del Taxón)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador único global del taxón (datos asociados a la clasificación del Taxón) de acuerdo al nombre científico documentado en el elemento scientificName. Puede ser un identificador único global o un identificador específico para el conjunto de datos.<br><br> Este puede ser obtenido de bases de datos o catálogos taxonómicos globales. |
+| Ejemplo | (gbif.org/species/3056437<br> urn:lsid:marinespecies.org:taxname:124821<br> urn:lsid:gbif.org:usages:32567<br> 8fa58e08-08de-4ac1-b69c-1235340b7001 |
+| Elementos relacionados | scientificName |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Obligatorio)_
+|    |    |
+
+<a name="elem146">**scientificNameID** (ID del nombre científico)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador de los detalles de la nomenclatura (no taxonómica) de acuerdo al nombre científico documentado en el elemento scientificName.<br><br><br> Este puede ser obtenido de catálogos taxonómicos globales. |
+| Ejemplo | (urn:lsid:ipni.org:names:37829-1:1.3<br> urn:lsid:marinespecies.org:taxname:493567 |
+| Elementos relacionados | scientificName |
+| Core _(Obligatoriedad)_ | Registros _(Condicinal)_. Obligatorio cuando el registro es marino<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem147">**higherClassification** (Clasificación superior)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista de los nombres de los taxones inmediatamente superiores a la categoría del taxón del scientificName. Se recomienda ordenar la lista comenzando con la categoría más alta y separando los nombres de cada categoría, con una barra vertical "\|". Permite documentar categorías taxonómicas que no incluye el estándar (suborden, superfamilia, etc). |
+| Ejemplo | Animalia \| Chordata \| Vertebrata \| Mammalia \| Theria \| Eutheria \| Rodentia \| Hystricognatha \| Hystricognathi \| Ctenomyidae \| Ctenomyini \| Ctenomys<br> Animalia \| Arthropoda \| Arachnida \| Araneae \| Paratropididae \| Paratropis |
+| Elementos relacionados | scientificName |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem148">**kingdom** (Reino)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre científico completo del reino al que pertenece el taxón. |
+| Ejemplo | Animalia<br> Plantae<br> Bacteria<br> Chromista<br> Fungi<br> Protozoa<br> Archaea |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+|    |    |
+
+<a name="elem149">**phylum** (Filo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre científico completo del filo o división al que pertenece el taxón. |
+| Ejemplo | Chordata<br> Bryophyta |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+|    |    |
+
+<a name="elem150">**class** (Clase)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre científico completo de la clase al que pertenece el taxón. |
+| Ejemplo | Mammalia<br> Hepaticopsida |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+|    |    |
+
+<a name="elem151">**order** (Orden)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre científico completo del orden al que pertenece el taxón. |
+| Ejemplo | Carnivora<br> Monocleales |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+|    |    |
+
+<a name="elem152">**family** (Familia)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre científico completo de la familia al que pertenece el taxón. |
+| Ejemplo | Felidae<br> Monocleaceae |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+|    |    |
+
+<a name="elem153">**subfamily** (Subfamilia)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre científico completo de la subfamilia al que pertenece el taxón. |
+| Ejemplo | Periptyctinae<br> Orchidoideae<br> Sphindociinae |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+|    |    |
+
+
+<a name="elem154">**genus** (Género)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre científico completo del género al que pertenece el taxón. |
+| Ejemplo | Puma<br> Monoclea |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+|    |    |
+
+<a name="elem155">**genericName** (Nombre genérico)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre científico completo del género no aceptado al que pertenece el taxón. |
+| Comentarios | El elemento genericName solo debe usarse para combinaciones como se muestra a continuación:<br><br> Felis (para el scientificName "Felis concolor", con los valores correspondientes de "Puma concolor" en acceptNameUsage y "Puma" en genus). |
+| Ejemplo | Felis |
+| Elementos relacionados | scientificName, acceptNameUsage, genus |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem156">**subgenus** (Subgénero)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre científico completo del subgénero al que pertenece el taxón. Se debe incluir el género para evitar la confusión de homonimia. |
+| Ejemplo | Strobus (Pinus)<br> Puma (Puma)<br> Loligo (Amerigo)<br> Hieracium subgen. Pilosella |
+| Elementos relacionados | genus |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+|    |    |
+
+<a name="elem157">**infragenericEpithet** (Epíteto infragenérico)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre científico del epíteto infragenérico (por encima de la especie pero por debajo del género) al que pertenece el taxón. |
+| Comentarios | Se usa por ejemplo para secciones en botánica como se muestra a continuación:<br><br> Cracca (para scientificName Vicia sect. Cracca |
+| Ejemplo | Cracca |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
+<a name="elem158">**specificEpithet** (Epíteto Específico)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre del epíteto específico presente en el scientificName cuando la determinación se hizo hasta especie u otra categoría menor. |
+| Comentarios | Se usa por ejemplo para secciones en botánica como se muestra a continuación:<br><br> Cracca (para scientificName Vicia sect. Cracca |
+| Ejemplo | concolor<br> gottsche |
+| Elementos relacionados | scientificName |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+|    |    |
+
+<a name="elem159">**infraspecificEpithet** (Epíteto infraespecífico)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre del epíteto infraespecífico presente en el scientificName cuando la determinación se hizo con la categoría de taxón más baja o más especifica por debajo del epíteto específico (parte terminal del nombre), excluyendo cualquier otra denominación de categoría. |
+| Comentarios | Se usa por ejemplo para secciones en botánica como se muestra a continuación:<br><br> Cracca (para scientificName Vicia sect. Cracca |
+| Ejemplo | concolor<br> oxyadenia<br> sayi |
+| Elementos relacionados | scientificName |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+|    |    |
+
+<a name="elem160">**cultivarEpithet** (Epíteto cultivar)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre de un cultivar, grupo de cultivares, o grex (horticultura) que sigue al nombre científico.<br><br> De acuerdo con las Reglas del Código de Plantas Cultivadas, el nombre de un cultivar consiste en un nombre botánico seguido de un epíteto de cultivar. |
+| Comentarios | Documentar de acuerdo a como se muestra a continuación:<br><br> King Edward (para el scientificName "Solanum tuberosum 'King Edward'" y taxonRank "cultivar")<br> Mishmiense (para el scientificName "Rhododendron boothii Mishmiense Group" y taxonRank "grupo de cultivares")<br> Atlantis (para scientificName "Paphiopedilum Atlantis grex" y taxonRank "grex"). |
+| Ejemplo | King Edward<br> Mishmiense<br> Atlantis |
+| Elementos relacionados | scientificName |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+|    |    |
+
 ## Extensiones DwC
 
 
