@@ -726,6 +726,35 @@ toc: true
 
 ### Ubicación
 
+|    |    |    |    |    |
+| ---|--- |--- |--- |--- |
+| [**locationID**<br> (ID de la ubicación)](#elem070) | [**higherGeography**<br> (Geografía superior)](#elem071) | [**higherGeographyID**<br> (ID de la geografía superior)](#elem072) | [**continent**<br> (Continente)](#elem073) |
+| [**waterBody**<br> (Cuerpo de agua)](#elem074) | [**islandGroup**<br> (Grupo de islas)](#elem075) | [**island**<br> (Isla)](#elem076) | [**country**<br> (País)](#elem077) |
+| [**countryCode**<br> (Código del país)](#elem078) | [**stateProvince**<br> (Departamento)](#elem079) | [**county**<br> (Municipio)](#elem080) | [**municipality**<br> (Cabecera municipal / Centro poblado)](#elem081) | 
+| [**locality**<br> (Localidad)](#elem082) | [**verbatimLocality**<br> (Localidad original)](#elem083) | [**verbatimElevation**<br> (Elevación original)](#elem084) | [**minimumElevationInMeters**<br> (Elevación mínima en metros)](#elem085) |
+| [**maximumElevationInMeters**<br> (Elevación máxima en metros)](#elem086) | [**verticalDatum**<br> (Datum vertical)](#elem087) | [**verbatimDepth**<br> (Profundidad original)](#elem088) | [**minimumDepthInMeters**<br> (Profundidad mínima en metros)](#elem089) |
+| [**maximumDepthInMeters**<br> (Profundidad máxima en metros)](#elem090) | [**minimumDistanceAboveSurfaceInMeters**<br> (Distancia mínima de la superficie en metros)](#elem091) | [**maximumDistanceAboveSurfaceInMeters**<br> (Distancia máxima de la superficie en metros)](#elem092) | [**locationAccordingTo**<br> (Ubicación de acuerdo con)](#elem093) |
+| [**locationRemarks**<br> (Comentarios de la ubicación)](#elem094) | [**verbatimLatitude**<br> (Latitud original)](#elem095) | [**verbatimLongitude**<br> (Longitud original)](#elem096) | [**verbatimCoordinates**<br> (Coordenadas originales)](#elem097) |
+| [**verbatimCoordinateSystem**<br> (Sistema original de coordenadas)](#elem098) | [**verbatimSRS**<br> (SRS original)](#elem099) | [**decimalLatitude**<br> (Latitud decimal)](#elem100) | [**decimalLongitude**<br> (Longitud decimal)](#elem101) |
+| [**geodeticDatum**<br> (Datum geodésico)](#elem102) | [**coordinateUncertaintyInMeters**<br> (Incertidumbre de las coordenadas en metros)](#elem103) | [**coordinatePrecision**<br> (Precisión de las coordenadas)](#elem104) | [**pointRadiusSpatialFit**<br> (Ajuste espacial del radio-punto)](#elem105) |
+| [**footprintWKT**<br> (WKT footprint)](#elem106) | [**footprintSRS**<br> (SRS footprint)](#elem107) | [**footprintSpatialFit**<br> (Ajuste espacial de footprint)](#elem108) | [**georeferencedBy**<br> (Georreferenciado por)](#elem109) |
+| [**georeferencedDate**<br> (Fecha de georreferenciación)](#elem110) | [**georeferenceProtocol**<br> (Protocolo de georreferenciaciónt)](#elem111) | [**georeferenceSources**<br> (Fuentes de georreferenciación)](#elem112) | [**georeferenceVerificationStatus**<br> (Estado de la verificación de la georreferenciación)](#elem113) |
+| [**georeferenceRemarks**<br> (Comentarios de la georreferenciación)](#elem114) |  |  |  |
+|    |    |    |    |    |
+
+<br>
+<br>
+
+<a name="elem070">**locationID** (ID de la ubicación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador de la región geográfica, división político administrativa o del sitio específico donde se realizó el registro. |
+| Comentarios | Se sugiere utilizar un identificador persistente, como el código de la División Política Administrativa de Colombia - DANE, (http://www.dane.gov.co/Divipola) precedida por "CO:" o utilizar MarineRegions (marineregions.org) para regiones marinas, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> http://marineregions.org/mrgid/32556 (Islas del Rosario) |
+| Ejemplo | CO:15572<br> CO:68<br> http://marineregions.org/mrgid/32556<br> geonames.org/3674545/ |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
 ### Contexto Geológico
 
 ### Identificación
