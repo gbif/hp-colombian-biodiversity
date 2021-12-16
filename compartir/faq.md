@@ -123,14 +123,14 @@ Si lo que deseas es publicar imágenes asociadas a un registro biológico debes 
   <ul>
       <li>Opción de almacenamiento gratuito</li>
 <li>Limitado a 1000 fotografías</li>
-<li>Ejemplo:<a href="https://www.flickr.com/photos/98788120@N02/" target="_blank">https://www.flickr.com/photos/98788120@N02/</a></li>
+<li>Ejemplo: <a href="https://www.flickr.com/photos/98788120@N02/" target="_blank">https://www.flickr.com/photos/98788120@N02/</a></li>
         </ul>
   </li>
 <li><a href="https://commons.wikimedia.org/wiki/Portada?uselang=es" target="_blank">Wikimedia Commons</a> 
     <ul>
 <li>fotografías ilimitadas</li>
-<li>Sobre las galerías:<a href="https://commons.wikimedia.org/wiki/Commons:Galleries" target="_blank">https://commons.wikimedia.org/wiki/Commons:Galleries</a></li>
-<li>Ejemplo galería:<a href="https://commons.wikimedia.org/wiki/London" target="_blank">https://commons.wikimedia.org/wiki/London</a></li>
+<li>Sobre las galerías: <a href="https://commons.wikimedia.org/wiki/Commons:Galleries" target="_blank">https://commons.wikimedia.org/wiki/Commons:Galleries</a></li>
+<li>Ejemplo galería: <a href="https://commons.wikimedia.org/wiki/London" target="_blank">https://commons.wikimedia.org/wiki/London</a></li>
 </ul>
   </li>
     <li><a href="https://archive.org/about/" target="_blank">Internet Archive</a>
@@ -147,11 +147,11 @@ Si lo que deseas es publicar imágenes asociadas a un registro biológico debes 
     </ul>
       </li>
 
-Ten en cuenta que para poder visualizar tus fotos en Portales de datos Nacionales e internacionales es necesario que al compartir la imagen, la URL estática cuente con el formato de la imagen.
-    Ejemplo Imagen: ("<a href="https://farm1.staticflickr.com/966/41777088842_ae24e9bb55_h.jpg" target="_blank">https://farm1.staticflickr.com/966/41777088842_ae24e9bb55_h.</a><b>jpg</b>").
+Ten en cuenta que para poder visualizar tus fotos en Portales de datos Nacionales e internacionales es necesario que al compartir la imagen, la URL estática cuente con el formato de la imagen (jpg, png entre otros).
+    Ejemplo Imagen: ("<a href="https://farm1.staticflickr.com/966/41777088842_ae24e9bb55_h.jpg" target="_blank">https://farm1.staticflickr.com/966/41777088842_ae24e9bb55_h.jpg</a>").
    </ul></li>
       <li>Documenta la extensión <a href="/recursos/plantillas-dwc#extensiones">Multimedia Simple</a> del estándar Darwin Core para la publicación de imágenes, videos y sonidos. <a href="https://ipt.biodiversidad.co/sibm/archive.do?r=anadarko_colombia_002&v=1.1" target="_blank">Aquí</a> encontrarás un ejemplo del uso de la extensión de Simple Multimedia en una publicación.</li>
-      <li>Cuando te comuniques con el <a href="mailto:sib@humboldt.org.co">SiB Colombia</a> para comenzar tu proceso de publicación no olvides mencionar que deseas compartir imágenes, te daremos las indicaciones que haga falta para la publicación.</li>
+      <li>Cuando te comuniques con el SiB Colombia ([sib@humboldt.org.co](sib@humboldt.org.co)) para comenzar tu proceso de publicación no olvides mencionar que deseas compartir imágenes, te daremos las indicaciones que haga falta para la publicación.</li>
 </ol>
 </details>
 
