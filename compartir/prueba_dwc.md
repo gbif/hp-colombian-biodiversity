@@ -33,7 +33,7 @@ toc: true
 | Comentarios | Sólo las colecciones biológicas pueden documentar PreservedSpecimen, si el registro corresponde a un espécimen depositado, pero el reporte no lo genera la colección biológica, se documenta HumanObservation y se documentan los elementos collectionCode, catalogNumber y disposition. |
 | Elementos relacionados | type |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_ |
-| [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | PreservedSpecimen<br> HumanObservation<br> LivingSpecimen<br> FossilSpecimen<br> MachineObservation<br> MaterialSample<br> MaterialCitation |
+| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | PreservedSpecimen<br> HumanObservation<br> LivingSpecimen<br> FossilSpecimen<br> MachineObservation<br> MaterialSample<br> MaterialCitation |
 |    |    |
 
 <a name="elem002">**type (Tipo)**</a>
@@ -43,7 +43,7 @@ toc: true
 | Definición | Especifica el tipo de evidencia que da origen al registro, ampliando la información presente en el elemento basisOfRecord. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | Elementos relacionados | basisOfRecord |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Opcional)_ |
-| [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | Stillmage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event |
+| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Stillmage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event |
 |    |    |
 
 <a name="elem003">**institutionCode** (Código de la institución)</a>
@@ -70,7 +70,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | El nombre, acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el organismo. Si corresponde a una colección biológica registrada en el Registro Único Nacional de Colecciones Biológicas - RNC (http://rnc.humboldt.org.co/admin/index.php/registros/colecciones), se puede emplear el acrónimo allí registrado, aunque también es válido el uso del acrónimo que implemente la colección internamente. |
+| Definición | El nombre, acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el organismo. Si corresponde a una colección biológica registrada en el Registro Único Nacional de Colecciones Biológicas - RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones), se puede emplear el acrónimo allí registrado, aunque también es válido el uso del acrónimo que implemente la colección internamente. |
 | Ejemplo | COL<br> ANDES-E<br> FMB |
 | Elementos relacionados | collectionID |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
@@ -80,7 +80,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Un identificador de la colección registrada en el elemento collectionCode. Si corresponde a una colección biológica registrada en el Registro Único Nacional de Colecciones Biológicas - RNC (http://rnc.humboldt.org.co/admin/index.php/registros/colecciones), se debe emplear el identificador allí registrado. En tal caso documentar: [RNC:]+[Número de la colección], sin espacios. |
+| Definición | Un identificador de la colección registrada en el elemento collectionCode. Si corresponde a una colección biológica registrada en el Registro Único Nacional de Colecciones Biológicas - RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones), se debe emplear el identificador allí registrado. En tal caso documentar: [RNC:]+[Número de la colección], sin espacios. |
 | Ejemplo | RNC:001<br> RNC:010<br> RNC:250 |
 | Elementos relacionados | collectionCode |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
@@ -122,7 +122,7 @@ toc: true
 | Definición | El idioma del conjunto de datos. |
 | Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 639-1 de 2 letras en minúscula, como se muestra a continuación:<br><br> es (=Para español)<br> en (=Para inglés) |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_<br> Evento de muestreo _(Opcional)_ |
-| [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | Consultar en: http://www.loc.gov/standards/iso639-2/php/code_list.php |
+| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados#vocabularios-controlados) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
 |    |    |
 
 <a name="elem011">**license** (Licencia)</a>
@@ -341,7 +341,7 @@ toc: true
 | Definición | Una afirmación que de cuenta si un organismo ha sido introducido a un lugar y tiempo determinado a través de actividad humana directa o indirecta. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos degreeOfEstablishment y pathway. |
 | Elementos relacionados | degreeOfEstablishment, pathway |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain |
+|  [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain |
 |    |    |
 
 <a name="elem033">**degreeOfEstablishment** (Grado de establecimiento)</a>
@@ -351,7 +351,7 @@ toc: true
 | Definición | El grado en cual el organismo sobrevive, se reproduce y expande su rango de distribución en un lugar y tiempo determinado. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos establishmentMeans y pathway. |
 | Elementos relacionados | establishmentMeans, pathway |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | native<br> cultivated<br> released<br> established<br> colonising<br> widespreadInvasive |
+|  [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | native<br> cultivated<br> released<br> established<br> colonising<br> widespreadInvasive |
 |    |    |
 
 <a name="elem034">**pathway** (Ruta de introducción)</a>
@@ -361,7 +361,7 @@ toc: true
 | Definición | El proceso por el cual un organismo llegó a un lugar y tiempo determinado. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos establishmentMeans y degreeOfEstablishment. |
 | Elementos relacionados | establishmentMeans, degreeOfEstablishment |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | releasedForUse<br> otherEscape<br> transportContaminant<br> transportStowaway<br> corridor<br> unaided |
+|  [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | releasedForUse<br> otherEscape<br> transportContaminant<br> transportStowaway<br> corridor<br> unaided |
 |    |    |
 
 <a name="elem035">**occurrenceStatus** (Estado del registro biológico)</a>
@@ -370,7 +370,7 @@ toc: true
 | ---|--- |
 | Definición | Estado que da cuenta de la presencia o ausencia de un taxón en una ubicación. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](https://hp-colombian-biodiversity.gbif-staging.org/compartir/prueba_dwc#vocabularios-controlados) | present<br> absent |
+|  [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | present<br> absent |
 |    |    |
 
 <a name="elem036">**preparations** (Preparaciones)</a>
@@ -507,7 +507,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de asignaciones taxonómicas que se le han dado al organismo anteriormente. Puede contener la información de quién y cuándo realizó la identificación anterior. Se recomienda hacer uso de la extensión Identification (https://tools.gbif.org/dwca-validator/extension.do?id=dwc:Identification#Identification) para el caso de colecciones bológicas. |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de asignaciones taxonómicas que se le han dado al organismo anteriormente. Puede contener la información de quién y cuándo realizó la identificación anterior. Se recomienda hacer uso de la extensión Identification [(https://tools.gbif.org/dwca-validator/extension.do?id=dwc:Identification#Identification)](https://tools.gbif.org/dwca-validator/extension.do?id=dwc:Identification#Identification) para el caso de colecciones bológicas. |
 | Ejemplo | Pinus abies<br> Anthus sp., identificado en campo por G. Iglesias \| Anthus correndera, Identificado por el experto C. Cicero 2009-02-12 basado en morfología<br> Leptolyngbya cf. polysiphoniae \| Leptolyngbya sp. |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
@@ -753,7 +753,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Un identificador de la región geográfica, división político administrativa o del sitio específico donde se realizó el registro. |
-| Comentarios | Se sugiere utilizar un identificador persistente, como el código de la División Política Administrativa de Colombia - DANE, (http://www.dane.gov.co/Divipola) precedida por "CO:" o utilizar MarineRegions (marineregions.org) para regiones marinas, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> http://marineregions.org/mrgid/32556 (Islas del Rosario) |
+| Comentarios | Se sugiere utilizar un identificador persistente, como el código de la División Política Administrativa de Colombia - DANE, [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD) precedida por "CO:" o utilizar MarineRegions (marineregions.org) para regiones marinas, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> http://marineregions.org/mrgid/32556 (Islas del Rosario) |
 | Ejemplo | CO:15572<br> CO:68<br> http://marineregions.org/mrgid/32556<br> geonames.org/3674545/ |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
@@ -767,6 +767,220 @@ toc: true
 | Ejemplo | América /| Sudamérica /| Colombia /| Región del Pacífico /| Valle del Cauca /| La Cumbre /| Bitaco |
 | Elementos relacionados | higherGeographyID, continent, country, stateProvince, county, municipality |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem072">**higherGeographyID** (ID de la geografía superior)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador de la región geográfica inmediatamente superior a la ubicación donde se realizó el registro. Este identificador debe ser acorde con la geografía superior documentada en el elemento higherGeography. |
+| Comentarios | Se recomienda utilizar un identificador persistente de un vocabulario controlado como el código de la División Política Administrativa de Colombia - DANE, [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD) precedida por "CO:" o el Tesauro Getty de Nombres Geográficos, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> TGN: 7005075 (San Agustín (Huila), Colombia) |
+| Ejemplo | CO:15572<br> CO:68<br> TGN: 7005075 |
+| Elementos relacionados | higherGeography, continent, country, stateProvince, county, municipality |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem073">**continent** (Continente)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre del continente en el que tiene lugar la ubicación. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
+| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | SA<br> AF<br> AS<br> EU<br> NA<br> OC<br> AN |
+|    |    |
+
+<a name="elem074">**waterBody** (Cuerpo de agua)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre y tipo del cuerpo de agua en el que tiene lugar la ubicación. Se recomienda usar este elemento solamente si el evento ocurrió en el cuerpo de agua propiamente dicho, no en cercanías de este. |
+| Ejemplo | Mar Caribe<br> Océano Pacífico <br>Río Lebrija<br> Golfo de Urabá<br> Caño Mojana |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem075">**islandGroup** (Grupo de islas)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre del grupo de islas en que tiene lugar la ubicación. |
+| Ejemplo | Cayos de Albuquerque<br> Islas del Rosario |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem076">**island** (Isla)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre de la isla en o cerca al lugar de la ubicación. |
+| Ejemplo | Isla de Providencia<br> Isla Gorgona<br> Isla de Tierra Bomba |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem077">**country** (País)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre del país o unidad administrativa de mayor jerarquía de la ubicación. Se recomienda utilizar un identificador persistente de un vocabulario controlado como el Tesauro Getty de Nombres Geográficos o la norma ISO 3166. Se recomienda acompañar este elemento con el elemento countryCode. |
+| Ejemplo | Colombia<br> España<br> Dinamarca |
+| Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Obligatorio)_ |
+|    |    |
+
+<a name="elem078">**countryCode** (Código del país)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El código estándar para el país de la ubicación. |
+| Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 3166-1-alfa-2 de códigos de países, como se muestra a continuación:<br><br> CO (=Para Colombia)<br> AR (=Para Argentina) |
+| Elementos relacionados | country |
+| Ejemplo | Colombia<br> España<br> Dinamarca |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
+| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Consultar en: [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO) |
+|    |    |
+
+<a name="elem079">**stateProvince** (Departamento)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que País de la ubicación (Departamento). Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE, [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD). |
+| Ejemplo | Antioquia<br> Atlántico<br> Bogotá, D.C. |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem080">**county** (Municipio)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Departamento de la ubicación (Municipio). Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE, [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD). |
+| Ejemplo | Medellín<br> Puerto Colombia<br> Bogotá, D.C. |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem081">**municipality** (Cabecera municipal / Centro poblado)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Municipio de la ubicación. Puede ser un centro poblado, cabecera municipal, corregimiento o inspección de policía. No utilice este elemento para el nombre de un lugar cercano que no contiene la ubicación real. Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE, [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD). |
+| Ejemplo | Palmitas<br> Puerto Colombia<br> Bogotá, Distrito Capital |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem082">**locality** (Localidad)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La información geográfica más específica de la ubicación. Información geográfica de menor especificidad puede ser provista en otros elementos geográficos (higherGeography, continent, country, stateProvince, county, municipality, waterBody, island, islandGroup). Este elemento puede contener información modificada de la original para corregir errores o estandarizar la descripción. |
+| Ejemplo | Ruta del Sol, kilómetro 25 entre Guaduas y La Dorada<br> Vereda Santa Ana<br> Quebrada Aguasclaras<br> Parque Nacional Natural Serranía de Chiribiquete |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem083">**verbatimLocality** (Localidad original)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La descripción textual original del lugar (como fue tomada en campo o documentada en el voucher). |
+| Ejemplo | km 25 Rutal del Sol, Guaduas-La Dorada<br> Vda Santa ana<br> Q. Aguasclaras<br> PNN Chiribiquete |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem084">**verbatimElevation** (Elevación original)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La descripción textual de la elevación (altitud, por lo general por encima del nivel del mar) de la ubicación. |
+| Ejemplo | 100-200 m<br> 1560 msnm |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem085">**minimumElevationInMeters** (Elevación mínima en metros)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El límite inferior del rango de elevación (altitud, generalmente por encima del nivel del mar), no utilice ningún indicador de unidad (metros, m, msnm) ya que el elemento especifica que los valores anotados son en metros. |
+| Ejemplo | 100<br> 1600 |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem086">**maximumElevationInMeters** (Elevación máxima en metros)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El límite superior del rango de elevación (altitud, generalmente por encima del nivel del mar), no utilice ningún indicador de unidad (metros, m, msnm) ya que el elemento especifica que los valores anotados son en metros. |
+| Ejemplo | 200<br> 3050 |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem087">**verticalDatum** (Datum vertical)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El datum vertical usado como referencia para la obtención de los valores de elevación. Se recomienda usar un vocabulario controlado a partir de código epsg o el código del geoide de referencia. |
+| Ejemplo | GRS80<br> EGM84<br> EGM96<br> EGM2008<br> epsg:7030<br> Desconocido |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem088">**verbatimDepth** (Profundidad original)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La descripción textual de la profundidad bajo la superficie local. |
+| Ejemplo | 0-20 m<br> -15 a -30 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem089">**minimumDepthInMeters** (Profundidad mínima en metros)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La menor profundidad de un rango de profundidad por debajo de la superficie local. No utilice ningún indicador de unidad (metros, m) ya que el elemento especifica que los valores anotados son en metros. |
+| Ejemplo | 0<br> 10 |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem090">**maximumDepthInMeters** (Profundidad máxima en metros)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La mayor profundidad de un rango de profundidad por debajo de la superficie local. No utilice ningún indicador de unidad (metros, m) ya que el campo especifica que los valores anotados son en metros. |
+| Ejemplo | 2<br> 50 |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
+|    |    |
+
+<a name="elem091">**minimumDistanceAboveSurfaceInMeters** (Distancia mínima de la superficie en metros)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La menor distancia en metros en un rango de distancias, desde una superficie de referencia en dirección vertical. Si las medidas de profundidad son proporcionadas, la superficie de referencia es la ubicación determinada por la profundidad, de lo contrario la superficie de referencia es la ubicación dada por la elevación. |
+| Comentarios | Utilice valores positivos para las ubicaciones por encima de la superficie y valores negativos para ubicaciones por debajo, como se muestra a continuación:<br><br> -1.5 (Para un evento entre 1.5 metros y 4.5 metros desde el fondo de un lago) |
+| Ejemplo | -1.5<br> 2.8 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem092">**maximumDistanceAboveSurfaceInMeters** (Distancia máxima de la superficie en metros)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La mayor distancia en metros, en un rango de distancia desde una superficie de referencia en dirección vertical. Si las medidas de profundidad son proporcionadas, la superficie de referencia es la ubicación determinada por la profundidad, de lo contrario la superficie de referencia es la ubicación dada por la elevación. |
+| Comentarios | Utilice valores positivos para las ubicaciones por encima de la superficie, valores negativos para las ubicaciones por debajo, como se muestra a continuación:<br><br> -4.5 (Para un evento entre 1.5 metros y 4.5 metros desde el fondo de un lago) |
+| Ejemplo | -4.5<br> 8.2 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem093">**locationAccordingTo** (Ubicación de acuerdo con)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La información sobre la fuente de la ubicación. Podría ser una publicación (gacetero), institución o grupo de individuos. |
+| Ejemplo | Tesauro Getty de Nombres Geográficos<br> GADM<br> Geonames<br> Google Earth |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem094">**locationRemarks** (Comentarios de la ubicación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Comentarios o anotaciones sobre la ubicación. Se recomienda que la longitud de la descripción no supere 20 palabras. |
+| Ejemplo | Bajo agua desde 2005 |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
 ### Contexto Geológico
