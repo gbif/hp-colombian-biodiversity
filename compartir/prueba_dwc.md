@@ -13,14 +13,14 @@ toc: true
 
 ### Elementos de Registro
 
-|    |    |    |    |    |
-| ---|--- |--- |--- |--- |
+|    |    |    |    |
+| ---|--- |--- |--- |
 | [**basisOfRecord**<br> (Base del registro)](#elem001) | [**type**<br> (Tipo)](#elem002) | [**institutionCode**<br> (Código de la institución)](#elem003) | [**institutionID**<br> (ID de la institución)](#elem004) |
 | [**collectionCode**<br> (Código de la colección)](#elem005) | [**collectionID**<br> (ID de la colección)](#elem006) | [**datasetName**<br> (Nombre del conjunto de datos)](#elem007) | [**datasetID**<br> (ID del conjunto de datos)](#elem008) |
 | [**modified**<br> (Modificado)](#elem009) | [**language**<br> (Idioma)](#elem010) | [**license**<br> (Licencia)](#elem011) | [**rightsHolder**<br> (Titular de los derechos)](#elem012) | 
 | [**accessRights**<br> (Derechos de acceso)](#elem013) | [**bibliographicCitation**<br> (Citación bibliográfica)](#elem014) | [**references**<br> (Referencias)](#elem015) | [**ownerInstitutionCode**<br> (Código de la institución propietaria)](#elem016) |
 | [**informationWithheld**<br> (Información retenida)](#elem017) | [**dataGeneralizations**<br> (Generalización de los datos)](#elem018) | [**dynamicProperties**<br> (Propiedades dinámicas)](#elem019) | |
-|    |    |    |    |    |
+|    |    |    |    |
 
 <br>
 <br>
@@ -80,7 +80,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | EUn identificador de la colección registrada en el elemento collectionCode. Si corresponde a una colección biológica registrada en el Registro Único Nacional de Colecciones Biológicas - RNC (http://rnc.humboldt.org.co/admin/index.php/registros/colecciones), se debe emplear el identificador allí registrado. En tal caso documentar: [RNC:]+[Número de la colección], sin espacios. |
+| Definición | Un identificador de la colección registrada en el elemento collectionCode. Si corresponde a una colección biológica registrada en el Registro Único Nacional de Colecciones Biológicas - RNC (http://rnc.humboldt.org.co/admin/index.php/registros/colecciones), se debe emplear el identificador allí registrado. En tal caso documentar: [RNC:]+[Número de la colección], sin espacios. |
 | Ejemplo | RNC:001<br> RNC:010<br> RNC:250 |
 | Elementos relacionados | collectionCode |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
@@ -207,8 +207,8 @@ toc: true
 
 ### Registro Biológico
 
-|    |    |    |    |    |
-| ---|--- |--- |--- |--- |
+|    |    |    |    |
+| ---|--- |--- |--- |
 | [**occurrenceID**<br> (ID del Registro biológico)](#elem020) | [**catalogNumber**<br> (Número de catálogo)](#elem021) | [**recordNumber**<br> (Número del registro)](#elem022) | [**recordedBy**<br> (Registrado por)](#elem023) |
 | [**recordedByID**<br> (ID del registrador)](#elem024) | [**individualCount**<br> (Número de individuos)](#elem025) | [**organismQuantity**<br> (Cantidad del organismo)](#elem026) | [**organismQuantityType**<br> (Tipo de cantidad del organismo)](#elem027) |
 | [**sex**<br> (Sexo)](#elem028) | [**lifeStage**<br> (Etapa de desarrollo)](#elem029) | [**reproductiveCondition**<br> (Condición reproductiva)](#elem030) | [**behavior**<br> (Comportamiento)](#elem031) | 
@@ -216,7 +216,7 @@ toc: true
 | [**preparations**<br> (Preparaciones)](#elem036) | [**disposition**<br> (Disposición)](#elem037) | [**otherCatalogNumbers**<br> (Otros números de catálogo)](#elem038) | [**associatedMedia**<br> (Medios asociados)](#elem039) |
 | [**associatedOccurrences**<br> (Registros biológicos asociados)](#elem040) | [**associatedReferences**<br> (Referencias asociadas)](#elem041) | [**associatedSequences**<br> (Secuencias asociadas)](#elem042) | [**associatedTaxa**<br> (Taxones asociados)](#elem043) |
 | [**occurrenceRemarks**<br> (Comentarios del registro biológico)](#elem044) |  |  |  |
-|    |    |    |    |    |
+|    |    |    |    |
 
 <br>
 <br>
@@ -458,11 +458,11 @@ toc: true
 
 ### Organismo
 
-|    |    |    |    |    |
-| ---|--- |--- |--- |--- |
+|    |    |    |    |
+| ---|--- |--- |--- |
 | [**organismID**<br> (ID del organismo)](#elem045) | [**organismName**<br> (Nombre del organismo)](#elem046) | [**organismScope**<br> (Alcance del organismo)](#elem047) | [**associatedOrganisms**<br> (Organismos asociados)](#elem048) |
 | [**previousIdentifications**<br> (Identificaciones previas)](#elem049) | [**organismRemarks**<br> (Comentarios del organismo)](#elem050) |  |  |
-|    |    |    |    |    |
+|    |    |    |    |
 
 <br>
 <br>
@@ -523,10 +523,10 @@ toc: true
 
 ### Muestra del Material
 
-|    |    |    |    |    |
-| ---|--- |--- |--- |--- |
+|    |    |    |    |
+| ---|--- |--- |--- |
 | [**materialSampleID**<br> (ID de muestra del material)](#elem051) |  |  |  |
-|    |    |    |    |    |
+|    |    |    |    |
 
 <br>
 <br>
@@ -542,8 +542,8 @@ toc: true
 
 ### Evento
 
-|    |    |    |    |    |
-| ---|--- |--- |--- |--- |
+|    |    |    |    |
+| ---|--- |--- |--- |
 | [**parentEventID**<br> (ID parental del evento)](#elem052) | [**eventID**<br> (ID del evento)](#elem053) | [**samplingProtocol**<br> (Protocolo de muestreo)](#elem054) | [**sampleSizeValue**<br> (Valor del tamaño de la muestra)](#elem055) |
 | [**sampleSizeUnit**<br> (Unidad del tamaño de la muestra)](#elem056) | [**samplingEffort**<br> (Esfuerzo de muestreo)](#elem057) | [**eventDate**<br> (Fecha del evento)](#elem058) | [**startDayOfYear**<br> (Día inicial del año)](#elem059) |
 | [**endDayOfYear**<br> (Día final del año)](#elem060) | [**year**<br> (Año)](#elem061) | [**month**<br> (Mes)](#elem062) | [**day**<br> (Día)](#elem063) | 
@@ -726,21 +726,24 @@ toc: true
 
 ### Ubicación
 
-|    |    |    |    |    |
-| ---|--- |--- |--- |--- |
-| [**locationID**<br> (ID de la ubicación)](#elem070) | [**higherGeography**<br> (Geografía superior)](#elem071) | [**higherGeographyID**<br> (ID de la geografía superior)](#elem072) | [**continent**<br> (Continente)](#elem073) |
-| [**waterBody**<br> (Cuerpo de agua)](#elem074) | [**islandGroup**<br> (Grupo de islas)](#elem075) | [**island**<br> (Isla)](#elem076) | [**country**<br> (País)](#elem077) |
-| [**countryCode**<br> (Código del país)](#elem078) | [**stateProvince**<br> (Departamento)](#elem079) | [**county**<br> (Municipio)](#elem080) | [**municipality**<br> (Cabecera municipal / Centro poblado)](#elem081) | 
-| [**locality**<br> (Localidad)](#elem082) | [**verbatimLocality**<br> (Localidad original)](#elem083) | [**verbatimElevation**<br> (Elevación original)](#elem084) | [**minimumElevationInMeters**<br> (Elevación mínima en metros)](#elem085) |
-| [**maximumElevationInMeters**<br> (Elevación máxima en metros)](#elem086) | [**verticalDatum**<br> (Datum vertical)](#elem087) | [**verbatimDepth**<br> (Profundidad original)](#elem088) | [**minimumDepthInMeters**<br> (Profundidad mínima en metros)](#elem089) |
-| [**maximumDepthInMeters**<br> (Profundidad máxima en metros)](#elem090) | [**minimumDistanceAboveSurfaceInMeters**<br> (Distancia mínima de la superficie en metros)](#elem091) | [**maximumDistanceAboveSurfaceInMeters**<br> (Distancia máxima de la superficie en metros)](#elem092) | [**locationAccordingTo**<br> (Ubicación de acuerdo con)](#elem093) |
-| [**locationRemarks**<br> (Comentarios de la ubicación)](#elem094) | [**verbatimLatitude**<br> (Latitud original)](#elem095) | [**verbatimLongitude**<br> (Longitud original)](#elem096) | [**verbatimCoordinates**<br> (Coordenadas originales)](#elem097) |
-| [**verbatimCoordinateSystem**<br> (Sistema original de coordenadas)](#elem098) | [**verbatimSRS**<br> (SRS original)](#elem099) | [**decimalLatitude**<br> (Latitud decimal)](#elem100) | [**decimalLongitude**<br> (Longitud decimal)](#elem101) |
-| [**geodeticDatum**<br> (Datum geodésico)](#elem102) | [**coordinateUncertaintyInMeters**<br> (Incertidumbre de las coordenadas en metros)](#elem103) | [**coordinatePrecision**<br> (Precisión de las coordenadas)](#elem104) | [**pointRadiusSpatialFit**<br> (Ajuste espacial del radio-punto)](#elem105) |
-| [**footprintWKT**<br> (WKT footprint)](#elem106) | [**footprintSRS**<br> (SRS footprint)](#elem107) | [**footprintSpatialFit**<br> (Ajuste espacial de footprint)](#elem108) | [**georeferencedBy**<br> (Georreferenciado por)](#elem109) |
-| [**georeferencedDate**<br> (Fecha de georreferenciación)](#elem110) | [**georeferenceProtocol**<br> (Protocolo de georreferenciaciónt)](#elem111) | [**georeferenceSources**<br> (Fuentes de georreferenciación)](#elem112) | [**georeferenceVerificationStatus**<br> (Estado de la verificación de la georreferenciación)](#elem113) |
-| [**georeferenceRemarks**<br> (Comentarios de la georreferenciación)](#elem114) |  |  |  |
-|    |    |    |    |    |
+|    |    |    |
+| ---|--- |--- |
+| [**locationID**<br> (ID de la ubicación)](#elem070) | [**higherGeography**<br> (Geografía superior)](#elem071) | [**higherGeographyID**<br> (ID de la geografía superior)](#elem072) |
+| [**continent**<br> (Continente)](#elem073) | [**waterBody**<br> (Cuerpo de agua)](#elem074) | [**islandGroup**<br> (Grupo de islas)](#elem075) | 
+| [**island**<br> (Isla)](#elem076) | [**country**<br> (País)](#elem077) | [**countryCode**<br> (Código del país)](#elem078) |
+| [**stateProvince**<br> (Departamento)](#elem079) | [**county**<br> (Municipio)](#elem080) | [**municipality**<br> (Cabecera municipal / Centro poblado)](#elem081) | 
+| [**locality**<br> (Localidad)](#elem082) | [**verbatimLocality**<br> (Localidad original)](#elem083) | [**verbatimElevation**<br> (Elevación original)](#elem084) | 
+| [**minimumElevationInMeters**<br> (Elevación mínima en metros)](#elem085) | [**maximumElevationInMeters**<br> (Elevación máxima en metros)](#elem086) | [**verticalDatum**<br> (Datum vertical)](#elem087) |
+| [**verbatimDepth**<br> (Profundidad original)](#elem088) | [**minimumDepthInMeters**<br> (Profundidad mínima en metros)](#elem089) | [**maximumDepthInMeters**<br> (Profundidad máxima en metros)](#elem090) | 
+| [**minimumDistanceAboveSurfaceInMeters**<br> (Distancia mínima de la superficie en metros)](#elem091) | [**maximumDistanceAboveSurfaceInMeters**<br> (Distancia máxima de la superficie en metros)](#elem092) | [**locationAccordingTo**<br> (Ubicación de acuerdo con)](#elem093) |
+| [**locationRemarks**<br> (Comentarios de la ubicación)](#elem094) | [**verbatimLatitude**<br> (Latitud original)](#elem095) | [**verbatimLongitude**<br> (Longitud original)](#elem096) |
+| [**verbatimCoordinates**<br> (Coordenadas originales)](#elem097) | [**verbatimCoordinateSystem**<br> (Sistema original de coordenadas)](#elem098) | [**verbatimSRS**<br> (SRS original)](#elem099) |
+| [**decimalLatitude**<br> (Latitud decimal)](#elem100) | [**decimalLongitude**<br> (Longitud decimal)](#elem101) | [**geodeticDatum**<br> (Datum geodésico)](#elem102) |
+| [**coordinateUncertaintyInMeters**<br> (Incertidumbre de las coordenadas en metros)](#elem103) | [**coordinatePrecision**<br> (Precisión de las coordenadas)](#elem104) | [**pointRadiusSpatialFit**<br> (Ajuste espacial del radio-punto)](#elem105) |
+| [**footprintWKT**<br> (WKT footprint)](#elem106) | [**footprintSRS**<br> (SRS footprint)](#elem107) | [**footprintSpatialFit**<br> (Ajuste espacial de footprint)](#elem108) |
+| [**georeferencedBy**<br> (Georreferenciado por)](#elem109) | [**georeferencedDate**<br> (Fecha de georreferenciación)](#elem110) | [**georeferenceProtocol**<br> (Protocolo de georreferenciaciónt)](#elem111) |
+| [**georeferenceSources**<br> (Fuentes de georreferenciación)](#elem112) | [**georeferenceVerificationStatus**<br> (Estado de la verificación de la georreferenciación)](#elem113) | [**georeferenceRemarks**<br> (Comentarios de la georreferenciación)](#elem114) |
+|    |    |    |
 
 <br>
 <br>
@@ -752,6 +755,17 @@ toc: true
 | Definición | Un identificador de la región geográfica, división político administrativa o del sitio específico donde se realizó el registro. |
 | Comentarios | Se sugiere utilizar un identificador persistente, como el código de la División Política Administrativa de Colombia - DANE, (http://www.dane.gov.co/Divipola) precedida por "CO:" o utilizar MarineRegions (marineregions.org) para regiones marinas, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> http://marineregions.org/mrgid/32556 (Islas del Rosario) |
 | Ejemplo | CO:15572<br> CO:68<br> http://marineregions.org/mrgid/32556<br> geonames.org/3674545/ |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
+|    |    |
+
+<a name="elem071">**higherGeography** (Geografía superior)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de la geografía inmediatamente superior al sitio o ubicación donde se realizó el registro. Si hay modificaciones en la localidad para estandarizar su contenido puede documentar en este elemento los los datos originales (sin estandarizar) de esos términos. |
+| Comentarios | Este elemento debe estar acompañado de otros elementos del estándar, como se muestra en el ejemplo a continuación:<br><br> América /| Sudamérica /| Colombia /| Región del Pacífico /| Valle del Cauca /| La Cumbre /| Bitaco (Con los valores resultantes de SA en continent, Colombia en country, Valle del Cauca en stateProvince, La Cumbre en county y Bitaco en municipality). |
+| Ejemplo | América /| Sudamérica /| Colombia /| Región del Pacífico /| Valle del Cauca /| La Cumbre /| Bitaco |
+| Elementos relacionados | higherGeographyID, continent, country, stateProvince, county, municipality |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
