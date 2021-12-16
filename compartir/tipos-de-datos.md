@@ -84,7 +84,7 @@ Los metadatos son el nivel más básico ofrecido por el SiB Colombia, permitiend
 
 También pueden ayudar a evaluar la importancia relativa y el valor de las colecciones biológicas sin digitalizar y establecer prioridades para futuros esfuerzos de digitalización. Al igual que el resto de los conjuntos de datos, el SiB Colombia asegura que cada conjunto de metadatos estará asociado con un único identificador de objetos digitales (DOI, por sus siglas en inglés),  para facilitar que los usuarios de estos recursos hagan una correcta citación.
 
-* [Consulta el perfil GMP para metadatos.](https://github.com/gbif/ipt/wiki/IPT2ManualManageResources.wiki#metadata){:target="_blank"}
+* [Consulta el perfil GMP para metadatos.](https://ipt.gbif.org/manual/es/ipt/2.5/gbif-metadata-profile){:target="_blank"}
 
 
 Conoce más sobre los datos que se pueden publicar a través del SiB Colombia en el [canal de Youtube](https://www.youtube.com/watch?v=_f4gGfIBN3U&t=2s){:target="_blank"}.
