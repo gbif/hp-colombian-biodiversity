@@ -2,7 +2,7 @@
 title:  "Seminarios abiertos de Georreferenciación!"
 date:   2020-11-18
 categories: ["Seminario", "GBIF", "Georreferenciación","GBIF CESP", "2020"]
-background: /assets/images/noticias_eventos/GEO-1000x1000.jpg
+background: /assets/images/noticias_eventos/2020/2020-11-18-seminarios_abiertos_de_georreferenciacion.jpg
 ---
 Invitamos a toda nuestra comunidad a los seminarios en línea sobre Georreferenciación que se estarán realizando la semana próxima, en el marco del proyecto CESP [“Tackling the spatial challenge in the Southern Cone through georeferencing training”](https://www.gbif.org/project/65NXZ9iEW2vkaZm6ZjF6w4/tackling-the-spatial-challenge-in-the-southern-cone-through-georeferencing-training#about){:target="_blank"} una iniciativa liderada por GBIF, Argentina, Chile y VertNET.
 
