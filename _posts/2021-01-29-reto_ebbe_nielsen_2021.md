@@ -2,7 +2,7 @@
 title:  "Reto Ebbe Nielsen 2021"
 date:   2021-01-29
 categories: ["Convocatorias", "GBIF", "Reto Ebbe Nielsen","Innovación","Datos","2021"]
-background: /assets/images/noticias_eventos/Ebbe-Nielsen-01-1000x1000.jpg
+background: /assets/images/noticias_eventos/2021/2021-01-29-reto_ebbe_nielsen_2021a.jpg
 
 ---
 
@@ -22,7 +22,7 @@ Las propuestas deben beneficiar a múltiples actores, incluidos usuarios, propie
 
 # Un colombiano gana el reto Ebbe Nielsen 2019 de GBIF
 
-![My helpful screenshot](/assets/images/noticias_eventos/jorge.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/2021/2021-01-29-reto_ebbe_nielsen_2021b.jpg)
 
 **Jorge Velásquez-Tibatá** desarrolló un sistema de código abierto que optimiza la selección de sitios de muestreo para llenar vacíos en datos sobre biodiversidad.
 
