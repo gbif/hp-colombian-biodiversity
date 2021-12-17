@@ -2089,7 +2089,7 @@ toc: true
 | [**type**<br> (Tipo)](#elem201) | [**format**<br> (Formato)](#elem202) | [**identifier**<br> (Identificador)](#elem203) | [**references**<br> (Referencias)](#elem204) |
 | [**title**<br> (Título)](#elem205) | [**description**<br> (Descripción)](#elem206) | [**created**<br> (Fecha de creación)](#elem207) | [**creator**<br> (Creador)](#elem208) |
 | [**contributor**<br> (Contribuidor)](#elem209) | [**publisher**<br> (Publicador)](#elem210) | [**audience**<br> (Audiencia)](#elem211) | [**source**<br> (Fuente)](#elem212) |
-| [**license**<br> (Licencia)](#elem213) | [**rightsHolder**<br> (Titular de los derechos)](#elem214) | [**datasetID**<br> (ID del conjunto de datos)](#elem215) |  |  |
+| [**license**<br> (Licencia)](#elem213) | [**rightsHolder**<br> (Titular de los derechos)](#elem214) | [**datasetID**<br> (ID del conjunto de datos)](#elem215) |  |
 |    |    |    |    |
 
 <br>
@@ -2162,8 +2162,8 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los nombres de las personas que tomaron la información multimedia. |
-| Ejemplo | Adriana Catalina Saenz Espinoza<br> Field Museum of Natural History - Fishes Division | Kevin Andrew Swagel |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los nombres de las personas que tomaron la información multimedia. |
+| Ejemplo | Adriana Catalina Saenz Espinoza<br> Field Museum of Natural History - Fishes Division \| Kevin Andrew Swagel |
 | _(Obligatoriedad)_ | _(Opcional)_
 |    |    |
 
@@ -2212,16 +2212,7 @@ toc: true
 | _(Obligatoriedad)_ | _(Opcional)_
 |    |    |
 
-<a name="elem214">**datasetID** (Titular de los derechos)</a>
-
-|    |    |
-| ---|--- |
-| Definición | Persona u organización propietaria o administradora de los derechos de la información multimedia. |
-| Ejemplo | Jardín Botánico de Quindío |
-| _(Obligatoriedad)_ | _(Opcional)_
-|    |    |
-
-<a name="elem215">**rightsHolder** (ID del conjunto de datos)</a>
+<a name="elem214">**rightsHolder** (ID del conjunto de datos)</a>
 
 |    |    |
 | ---|--- |
@@ -2230,7 +2221,103 @@ toc: true
 | _(Obligatoriedad)_ | _(Opcional)_
 |    |    |
 
+<a name="elem215">**datasetID** (Titular de los derechos)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Persona u organización propietaria o administradora de los derechos de la información multimedia. |
+| Ejemplo | Jardín Botánico de Quindío |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+
 ### Referencias de Literatura
+
+|    |    |    |    |
+| ---|--- |--- |--- |
+| [**identifier**<br> (Identificador)](#elem216) | [**bibliographicCitation**<br> (Citación bibliográfica)](#elem217) | [**title**<br> (Título)](#elem218) | [**creator**<br> (Creador)](#elem219) |
+| [**date**<br> (Fecha)](#elem220) | [**source**<br> (Fuente)](#elem221) | [**description**<br> (Descripción)](#elem222) | [**subject**<br> (Tema)](#elem223) |
+| [**language**<br> (Idioma)](#elem224) | [**rights**<br> (Derechos)](#elem225) | [**taxonRemarks**<br> (Comentarios del taxón)](#elem226) | [**type**<br> (Tipo)](#elem227) |
+| [**datasetID**<br> (ID del conjunto de datos)](#elem228) |  |  |  |
+|    |    |    |    |
+
+<br>
+<br>
+
+<a name="elem216">**type** (Tipo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un enlace a la referencia, puede ser un DOI, ISBN, URI ,etc. Puede estar repetido en multiples filas para incluir multiples identificadores que lleven al artículo o a un pdf del artículo. |
+| Ejemplo | https://link.springer.com/article/10.1007/s10722-020-00960-1<br> https://doi.org/10.15472/jeh0ic<br> http://www.nature.com/ng/journal/v41/n6/pdf/ng0609-637.pdf |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem217">**bibliographicCitation** (Citación bibliográfica)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Citación bibliográfica completa en formato de texto plano. |
+| Ejemplo | Granados-Martínez, C. y A. Batista. 2017. Macroinvertebrados acuáticos. Pp. 47-65. En: Lasso, C. A. y M. A. Morales-Betancourt (Eds.). III. Fauna de Caño Cristales, sierra La Macarena, Meta, Colombia. Serie Editorial Fauna Silvestre Neotropical. Instituto de Investigación de Recursos Biológicos Alexander von<br> Humboldt (IAvH). Bogotá, D. C., Colombia.<br> Brander, K. (2015). Improving the Reliability of Fishery Predictions Under Climate Change. Current Climate Change Reports, 1(1): 40-48.  doi: 10.1007/s40641-015-0005-7 |
+| _(Obligatoriedad)_ | _(Obligatorio)_
+|    |    |
+
+<a name="elem218">**title** (Título)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Título del artículo, libro o fuente de citación bibliográfica documentada en bibliographicCitation. |
+| Ejemplo | Macroinvertebrados acuáticos<br> Improving the Reliability of Fishery Predictions Under Climate Change |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem219">**creator** (Creador)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Autores de la citación bibliográfica documentada en bibliographicCitation. |
+| Ejemplo | Granados-Martínez, C. y A. Batista<br> Brander, K |
+| Elementos relacionados | bibliographicCitation |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem220">**date** (Fecha)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Fecha de la citación bibliográfica documentada en bibliographicCitation. |
+| Ejemplo | 2017<br> 2015 |
+| Elementos relacionados | bibliographicCitation |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem221">**source** (Fuente)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Fuente de la citación bibliográfica documentada en bibliographicCitation. Para artículos científicos, documentar el nombre de la revista. Para capítulos de libros, documentar el nombre del libro. |
+| Ejemplo | Serie Editorial Fauna Silvestre Neotropical. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt<br> Current Climate Change Reports |
+| Elementos relacionados | bibliographicCitation |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem222">**description** (Descripción)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Resumen, notas o comentarios de la publicación referenciada. |
+| Ejemplo | La Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena-Cormacarena y el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, decidieron realizar estudios sobre la fauna en Caño Cristales (sierra de La Macarena). Se realizó entonces una evaluación rápida de la biodiversidad de Caño Cristales en octubre 2016 a fin de caracterizar los siguientes grupos: macroinvertebrados acuáticos, peces, anfibios, reptiles, aves y mamíferos. |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem223">**subject** (Tema)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Lista de palabras claves (en una fila continua y separada por una barra vertical "\|") de la publicación referenciada, puede incluir la información específica de la relación del trabajo citado y la taxonomía de los registros. |
+| Ejemplo | Fauna \| Orinoquía \| Colombia \| Caño Cristales \| Serranía de la Macarena \| Región Neotropical \| Peces \| Anfibios \| Reptiles |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
 
 ### Distribución de la Especie
 
