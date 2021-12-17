@@ -2,7 +2,7 @@
 title:  "Premio GBIF Jóvenes Investigadores 2021"
 date:   2021-02-03
 categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2021"]
-background: /assets/images/noticias_eventos/Jovenes-Investigadores-08-min-1024x1024 (1).jpg
+background: /assets/images/noticias_eventos/2021/2021-02-03-jovenes_investigadores_2021.jpg
 ---
 
 Participa en la convocatoria anual de Jóvenes Investigadores GBIF 2021 para financiar tu investigación.
