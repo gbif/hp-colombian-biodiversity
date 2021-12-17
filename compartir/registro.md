@@ -29,5 +29,5 @@ Al completar este formulario con la información solicitada, la organización:
 
 A la fecha, el SiB Colombia únicamente publica datos desde organizaciones y no de personas naturales. Las personas que deseen publicar sus datos, deben trabajar a través de sus organizaciones afiliadas para obtener el respaldo como publicador.
 
-Si usted es una persona natural titular de un permiso de recolección de especímenes, por favor revise la [Guía de publicación Ruta B](/compartir/guiadepublicacion#ruta-b-publicación-de-datos-por-permiso-de-recolección) para datos asociados a permisos de recolección o póngase en contacto con el Equipo Coordinador del SiB Colombia a través del correo electrónico sib@humboldt.org.co o al teléfono (1) 3202767 ext. 7152.
+Si usted es una persona natural titular de un permiso de recolección de especímenes, por favor revise la [Guía de publicación Ruta B](/compartir/guia-para-publicar#ruta-b-publicación-de-datos-por-permiso-de-recolección) para datos asociados a permisos de recolección o póngase en contacto con el Equipo Coordinador del SiB Colombia a través del correo electrónico sib@humboldt.org.co o al teléfono (1) 3202767 ext. 7152.
 
