@@ -1947,7 +1947,7 @@ toc: true
 | [**occurrenceID**<br> (ID del Registro biológico)](#elem188) | [**measurementID**<br> (ID de la medida)](#elem189) | [**measurementType**<br> (Tipo de medida)](#elem190) | 
 | [**measurementTypeID**<br> (ID del tipo de medida)](#elem191) | [**measurementValue**<br> (Valor de la medida)](#elem192) | [**measurementValueID**<br> (ID del valor de la medida)](#elem193) |
 | [**measurementAccuracy**<br> (Precisión de la medida)](#elem194) | [**measurementUnit**<br> (Unidad de la medida)](#elem195) | [**measurementUnitID**<br> (ID de la unidad de la medida)](#elem196) |
-| [**measurementDeterminedDate**<br> (Fecha de la determinación de la medida)](#elem197) | [**measurementDeterminedBy**<br> (Medida tomada por))](#elem198) | [**measurementMethod**<br> (Método de medida)](#elem199) |
+| [**measurementDeterminedDate**<br> (Fecha de la determinación de la medida)](#elem197) | [**measurementDeterminedBy**<br> (Medida tomada por)](#elem198) | [**measurementMethod**<br> (Método de medida)](#elem199) |
 | [**measurementRemarks**<br> (Comentarios de la medida)](#elem200) |  |  |
 |    |    |    |
 
@@ -2083,6 +2083,152 @@ toc: true
 |    |    |
 
 ### Multimedia Simple
+
+|    |    |    |    |
+| ---|--- |--- |--- |
+| [**type**<br> (Tipo)](#elem201) | [**format**<br> (Formato)](#elem202) | [**identifier**<br> (Identificador)](#elem203) | [**references**<br> (Referencias)](#elem204) |
+| [**title**<br> (Título)](#elem205) | [**description**<br> (Descripción)](#elem206) | [**created**<br> (Fecha de creación)](#elem207) | [**creator**<br> (Creador)](#elem208) |
+| [**contributor**<br> (Contribuidor)](#elem209) | [**publisher**<br> (Publicador)](#elem210) | [**audience**<br> (Audiencia)](#elem211) | [**source**<br> (Fuente)](#elem212) |
+| [**license**<br> (Licencia)](#elem213) | [**rightsHolder**<br> (Titular de los derechos)](#elem214) | [**datasetID**<br> (ID del conjunto de datos)](#elem215) |  |  |
+|    |    |    |    |
+
+<br>
+<br>
+
+<a name="elem201">**type** (Tipo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El tipo de recurso multimedia. Para este elemento se debe emplear el vocabulario controlado en inglés. |
+| _(Obligatoriedad)_ | _(Obligatorio)_
+| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Collection<br> Dataset<br> Event<br> Image<br> InteractiveResource<br> Service<br> Software<br> Sound<br> Text<br> PhysicalObject<br> StillImage<br> MovingImage
+|    |    |
+
+<a name="elem202">**format** (Formato)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Formato en el que se encuentra la información multimedia asociada. Es recomendado usar un formato que esté registrado en IANA [(http://www.iana.org/assignments/media-types/media-types.xhtml)](http://www.iana.org/assignments/media-types/media-types.xhtml). |
+| Ejemplo | jpeg<br> tiff<br> mp4<br> mp3<br> MPV<br> 3gp |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem203">**identifier** (Identificador)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La URL publica que identifica y localiza el objeto multimedia de forma directa. No se considera valida una página html donde se muestre el objeto. |
+| Ejemplo | https://live.staticflickr.com/65535/49971003886_9fb3569bf8_b.jpg<br> https://www.xeno-canto.org/sounds/uploaded/DGVLLRYDXS/ZONCAP54.mp3<br> https://web.corral.tacc.utexas.edu/MVZ/audio/mp3/222_6560.mp3<br> https://static.inaturalist.org/sounds/15665.3gp?1506898805 |
+| _(Obligatoriedad)_ | _(Obligatorio)_
+|    |    |
+
+<a name="elem204">**references** (Referencias)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una página web html que muestre la imagen o sus metadatos. |
+| Ejemplo | https://www.flickr.com/photos/victorsaavedramartinez/with/1866107071/<br> https://www.flickr.com/photos/arthur_chapman/4094078241/<br> https://ww2.bgbm.org/herbarium/specimen.cfm?SpecimenPK=103730<br> https://monarch.calacademy.org/collections/individual/index.php?occid=700648&clid=0 |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem205">**title** (Título)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El título del objeto multimedia. |
+| Ejemplo | Andorinha-do-rio (Tachycineta albiventer)<br> Puma chileno<br> MCZ:Herp:R-17603 Caiman crocodilus fuscus<br> 125692 Dircenna olyras d IN |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem206">**description** (Descripción)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Descripción textual y corta de la información multimedia. |
+| Ejemplo | Hembra de Tachycineta albiventer fotografiada en el Amazonas, Colombia, en noviembre de 2010<br> Puma chileno juvenil reposando, Chile, diciembre 2020 |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem207">**created** (Fecha de creación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La fecha o el intervalo en la que se obtuvo la información multimedia. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
+| Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem208">**creator** (Creador)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los nombres de las personas que tomaron la información multimedia. |
+| Ejemplo | Adriana Catalina Saenz Espinoza<br> Field Museum of Natural History - Fishes Division | Kevin Andrew Swagel |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem209">**contributor** (Contribuidor)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Cualquier persona que haya contribuido a la recolección, edición o procesamiento de la información multimedia. |
+| Ejemplo | Camilo David Paez Zapata |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem210">**publisher** (Publicador)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Entidad responsable de hacer la información multimedia pública. |
+| Ejemplo | Herbario de la Universidad Icesia<br> Royal Botanic Garden Edinburgh |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem211">**audience** (Audiencia)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La audiencia a quien va dirigida la información multimedia. Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | Expertos<br> Académicos<br> Científicos<br> Ornitólogos<br> Público en general |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem212">**source** (Fuente)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Si el elemento multimedia se derivó o se tomó de otra fuente, esta es la referencia a ese recurso. Por ejemplo, un libro del que se escaneó una imagen o el proveedor original de una foto / gráfico, como agencias de fotografía. |
+| Ejemplo | https://proaves.org/listado-de-las-aves-de-colombia/ |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem213">**license** (Licencia)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Información sobre los derechos, licencias o permisos que establece el publicador sobre el uso de la información multimedia. Se recomienda hacer uso de licencias abiertas o creative commons. |
+| Ejemplo | http://creativecommons.org/licenses/by-nc-sa/2.0/deed.en |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem214">**datasetID** (Titular de los derechos)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Persona u organización propietaria o administradora de los derechos de la información multimedia. |
+| Ejemplo | Jardín Botánico de Quindío |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem215">**rightsHolder** (ID del conjunto de datos)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador del conjunto de datos del cual se deriva el registro multimedia. |
+| Ejemplo | J002_BIO-RRBB_SC_2021032<br> https://doi.org/10.15472/v24ppe |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
 
 ### Referencias de Literatura
 
