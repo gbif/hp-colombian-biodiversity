@@ -1,5 +1,5 @@
 ---
-title:  "Premio GBIF Jóvenes Investigadores 2021"
+title:  "Premio GBIF Jóvenes Investigadores 2020"
 date:   2020-02-17
 categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2020"]
 background: /assets/images/noticias_eventos/jovenes-investigadores_2020.jpg
