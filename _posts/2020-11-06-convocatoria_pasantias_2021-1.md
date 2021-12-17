@@ -1,8 +1,8 @@
 ---
-title:  "Convocatorias"
+title:  "Convocatoria para pasantías en el SiB Colombia 2021–1"
 date:   2020-11-06
-categories: ["Pasantías", "Convocatorias", "2020"]
-background: /assets/images/noticias_eventos/Convocatoria-Pasantias-2021-1-22-min-1000x1000.jpg
+categories: ["Pasantías", "Convocatorias", "2021"]
+background: /assets/images/noticias_eventos/2020/2020-11-06-convocatoria_pasantias_2021-1.jpg
 ---
 
 ¡Abrimos la oportunidad para que estudiantes de pregrado desarrollen su práctica laboral en el SiB Colombia!
