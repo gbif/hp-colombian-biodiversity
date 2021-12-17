@@ -2100,8 +2100,8 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | El tipo de recurso multimedia. Para este elemento se debe emplear el vocabulario controlado en inglés. |
-| _(Obligatoriedad)_ | _(Obligatorio)_
-| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Collection<br> Dataset<br> Event<br> Image<br> InteractiveResource<br> Service<br> Software<br> Sound<br> Text<br> PhysicalObject<br> StillImage<br> MovingImage
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Collection<br> Dataset<br> Event<br> Image<br> InteractiveResource<br> Service<br> Software<br> Sound<br> Text<br> PhysicalObject<br> StillImage<br> MovingImage |
 |    |    |
 
 <a name="elem202">**format** (Formato)</a>
@@ -2110,7 +2110,7 @@ toc: true
 | ---|--- |
 | Definición | Formato en el que se encuentra la información multimedia asociada. Es recomendado usar un formato que esté registrado en IANA [(http://www.iana.org/assignments/media-types/media-types.xhtml)](http://www.iana.org/assignments/media-types/media-types.xhtml). |
 | Ejemplo | jpeg<br> tiff<br> mp4<br> mp3<br> MPV<br> 3gp |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem203">**identifier** (Identificador)</a>
@@ -2119,7 +2119,7 @@ toc: true
 | ---|--- |
 | Definición | La URL publica que identifica y localiza el objeto multimedia de forma directa. No se considera valida una página html donde se muestre el objeto. |
 | Ejemplo | https://live.staticflickr.com/65535/49971003886_9fb3569bf8_b.jpg<br> https://www.xeno-canto.org/sounds/uploaded/DGVLLRYDXS/ZONCAP54.mp3<br> https://web.corral.tacc.utexas.edu/MVZ/audio/mp3/222_6560.mp3<br> https://static.inaturalist.org/sounds/15665.3gp?1506898805 |
-| _(Obligatoriedad)_ | _(Obligatorio)_
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
 <a name="elem204">**references** (Referencias)</a>
@@ -2128,7 +2128,7 @@ toc: true
 | ---|--- |
 | Definición | Una página web html que muestre la imagen o sus metadatos. |
 | Ejemplo | https://www.flickr.com/photos/victorsaavedramartinez/with/1866107071/<br> https://www.flickr.com/photos/arthur_chapman/4094078241/<br> https://ww2.bgbm.org/herbarium/specimen.cfm?SpecimenPK=103730<br> https://monarch.calacademy.org/collections/individual/index.php?occid=700648&clid=0 |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem205">**title** (Título)</a>
@@ -2137,7 +2137,7 @@ toc: true
 | ---|--- |
 | Definición | El título del objeto multimedia. |
 | Ejemplo | Andorinha-do-rio (Tachycineta albiventer)<br> Puma chileno<br> MCZ:Herp:R-17603 Caiman crocodilus fuscus<br> 125692 Dircenna olyras d IN |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem206">**description** (Descripción)</a>
@@ -2146,7 +2146,7 @@ toc: true
 | ---|--- |
 | Definición | Descripción textual y corta de la información multimedia. |
 | Ejemplo | Hembra de Tachycineta albiventer fotografiada en el Amazonas, Colombia, en noviembre de 2010<br> Puma chileno juvenil reposando, Chile, diciembre 2020 |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem207">**created** (Fecha de creación)</a>
@@ -2155,7 +2155,7 @@ toc: true
 | ---|--- |
 | Definición | La fecha o el intervalo en la que se obtuvo la información multimedia. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
 | Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem208">**creator** (Creador)</a>
@@ -2164,7 +2164,7 @@ toc: true
 | ---|--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los nombres de las personas que tomaron la información multimedia. |
 | Ejemplo | Adriana Catalina Saenz Espinoza<br> Field Museum of Natural History - Fishes Division \| Kevin Andrew Swagel |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem209">**contributor** (Contribuidor)</a>
@@ -2173,7 +2173,7 @@ toc: true
 | ---|--- |
 | Definición | Cualquier persona que haya contribuido a la recolección, edición o procesamiento de la información multimedia. |
 | Ejemplo | Camilo David Paez Zapata |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem210">**publisher** (Publicador)</a>
@@ -2182,7 +2182,7 @@ toc: true
 | ---|--- |
 | Definición | Entidad responsable de hacer la información multimedia pública. |
 | Ejemplo | Herbario de la Universidad Icesia<br> Royal Botanic Garden Edinburgh |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem211">**audience** (Audiencia)</a>
@@ -2191,7 +2191,7 @@ toc: true
 | ---|--- |
 | Definición | La audiencia a quien va dirigida la información multimedia. Se recomienda el uso de un vocabulario controlado. |
 | Ejemplo | Expertos<br> Académicos<br> Científicos<br> Ornitólogos<br> Público en general |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem212">**source** (Fuente)</a>
@@ -2200,7 +2200,7 @@ toc: true
 | ---|--- |
 | Definición | Si el elemento multimedia se derivó o se tomó de otra fuente, esta es la referencia a ese recurso. Por ejemplo, un libro del que se escaneó una imagen o el proveedor original de una foto / gráfico, como agencias de fotografía. |
 | Ejemplo | https://proaves.org/listado-de-las-aves-de-colombia/ |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem213">**license** (Licencia)</a>
@@ -2209,7 +2209,7 @@ toc: true
 | ---|--- |
 | Definición | Información sobre los derechos, licencias o permisos que establece el publicador sobre el uso de la información multimedia. Se recomienda hacer uso de licencias abiertas o creative commons. |
 | Ejemplo | http://creativecommons.org/licenses/by-nc-sa/2.0/deed.en |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem214">**rightsHolder** (ID del conjunto de datos)</a>
@@ -2218,7 +2218,7 @@ toc: true
 | ---|--- |
 | Definición | Un identificador del conjunto de datos del cual se deriva el registro multimedia. |
 | Ejemplo | J002_BIO-RRBB_SC_2021032<br> https://doi.org/10.15472/v24ppe |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem215">**datasetID** (Titular de los derechos)</a>
@@ -2227,7 +2227,7 @@ toc: true
 | ---|--- |
 | Definición | Persona u organización propietaria o administradora de los derechos de la información multimedia. |
 | Ejemplo | Jardín Botánico de Quindío |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 
@@ -2250,7 +2250,7 @@ toc: true
 | ---|--- |
 | Definición | Un enlace a la referencia, puede ser un DOI, ISBN, URI ,etc. Puede estar repetido en multiples filas para incluir multiples identificadores que lleven al artículo o a un pdf del artículo. |
 | Ejemplo | https://link.springer.com/article/10.1007/s10722-020-00960-1<br> https://doi.org/10.15472/jeh0ic<br> http://www.nature.com/ng/journal/v41/n6/pdf/ng0609-637.pdf |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem217">**bibliographicCitation** (Citación bibliográfica)</a>
@@ -2259,7 +2259,7 @@ toc: true
 | ---|--- |
 | Definición | Citación bibliográfica completa en formato de texto plano. |
 | Ejemplo | Granados-Martínez, C. y A. Batista. 2017. Macroinvertebrados acuáticos. Pp. 47-65. En: Lasso, C. A. y M. A. Morales-Betancourt (Eds.). III. Fauna de Caño Cristales, sierra La Macarena, Meta, Colombia. Serie Editorial Fauna Silvestre Neotropical. Instituto de Investigación de Recursos Biológicos Alexander von<br> Humboldt (IAvH). Bogotá, D. C., Colombia.<br> Brander, K. (2015). Improving the Reliability of Fishery Predictions Under Climate Change. Current Climate Change Reports, 1(1): 40-48.  doi: 10.1007/s40641-015-0005-7 |
-| _(Obligatoriedad)_ | _(Obligatorio)_
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
 <a name="elem218">**title** (Título)</a>
@@ -2268,7 +2268,7 @@ toc: true
 | ---|--- |
 | Definición | Título del artículo, libro o fuente de citación bibliográfica documentada en bibliographicCitation. |
 | Ejemplo | Macroinvertebrados acuáticos<br> Improving the Reliability of Fishery Predictions Under Climate Change |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem219">**creator** (Creador)</a>
@@ -2278,7 +2278,7 @@ toc: true
 | Definición | Autores de la citación bibliográfica documentada en bibliographicCitation. |
 | Ejemplo | Granados-Martínez, C. y A. Batista<br> Brander, K |
 | Elementos relacionados | bibliographicCitation |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem220">**date** (Fecha)</a>
@@ -2288,7 +2288,7 @@ toc: true
 | Definición | Fecha de la citación bibliográfica documentada en bibliographicCitation. |
 | Ejemplo | 2017<br> 2015 |
 | Elementos relacionados | bibliographicCitation |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem221">**source** (Fuente)</a>
@@ -2298,7 +2298,7 @@ toc: true
 | Definición | Fuente de la citación bibliográfica documentada en bibliographicCitation. Para artículos científicos, documentar el nombre de la revista. Para capítulos de libros, documentar el nombre del libro. |
 | Ejemplo | Serie Editorial Fauna Silvestre Neotropical. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt<br> Current Climate Change Reports |
 | Elementos relacionados | bibliographicCitation |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem222">**description** (Descripción)</a>
@@ -2307,7 +2307,7 @@ toc: true
 | ---|--- |
 | Definición | Resumen, notas o comentarios de la publicación referenciada. |
 | Ejemplo | La Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena-Cormacarena y el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, decidieron realizar estudios sobre la fauna en Caño Cristales (sierra de La Macarena). Se realizó entonces una evaluación rápida de la biodiversidad de Caño Cristales en octubre 2016 a fin de caracterizar los siguientes grupos: macroinvertebrados acuáticos, peces, anfibios, reptiles, aves y mamíferos. |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 <a name="elem223">**subject** (Tema)</a>
@@ -2316,7 +2316,53 @@ toc: true
 | ---|--- |
 | Definición | Lista de palabras claves (en una fila continua y separada por una barra vertical "\|") de la publicación referenciada, puede incluir la información específica de la relación del trabajo citado y la taxonomía de los registros. |
 | Ejemplo | Fauna \| Orinoquía \| Colombia \| Caño Cristales \| Serranía de la Macarena \| Región Neotropical \| Peces \| Anfibios \| Reptiles |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem224">**language** (Idioma)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Idioma de la publicación referenciada. |
+| Ejemplo | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 639-1 de 2 letras en minúscula, como se muestra a continuación:<br><br> es (=Para español)<br> en (=Para inglés) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Consultar en: http://www.loc.gov/standards/iso639-2/php/code_list.php |
+|    |    |
+
+<a name="elem225">**rights** (Derechos)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Información de los derechos de autor de la publicación referenciada. |
+| Ejemplo | Todos los derechos reservados, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena Cormacarena 2017. |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem226">**taxonRemarks** (Comentarios del taxón)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Comentarios o anotaciones sobre información específica del taxón relacionado con la publicación referenciada. Se recomienda que la longitud de la descripción no supere 20 palabras. |
+| Ejemplo | Se registra la especie Podocnemis unifilis (tortuga terecay) como amenazada |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem227">**type** (Tipo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Usado para asignar una referencia bibliográfica a la lista de categorías taxonómicas o nomenclaturales. Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | Publicación<br> Original<br> Combinación<br> Monografia<br> Flora-Fauna<br> Lista de chequeo<br> Legal<br> Sitio web<br> Experto<br> Otro |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem228">**datasetID** (ID del conjunto de datos)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador del conjunto de datos del cual se deriva el registro de la publicación referenciada. |
+| Ejemplo | 002_BIO-RRBB_SC_2021032<br> https://doi.org/10.15472/v24ppe |
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 ### Distribución de la Especie
