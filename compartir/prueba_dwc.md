@@ -1852,11 +1852,12 @@ toc: true
 
 ### Relación del Recurso
 
-|    |    |    |    |
-| ---|--- |--- |--- |
-| [**resourceRelationshipID**<br> (ID de la relación de los recursos)](#elem180) | [**resourceID**<br> (ID del recurso)](#elem181) | [**relatedResourceID**<br> (ID del recurso relacionado)](#elem182) | [**relationshipOfResource**<br> (Tipo de relación del recurso)](#elem183) |
-| [**relationshipOfResourceID**<br> (ID del tipo de relación del recurso)](#elem184) | [**relationshipAccordingTo**<br> (Relación de acuerdo con)](#elem185) | [**relationshipEstablishedDate**<br> (Fecha en que se estableció la relación)](#elem186) | [**relationshipRemarks**<br> (Comentarios de la relación)](#elem188) |
-|    |    |    |    |    |
+|    |    |    |
+| ---|--- |--- |
+| [**resourceRelationshipID**<br> (ID de la relación de los recursos)](#elem180) | [**resourceID**<br> (ID del recurso)](#elem181) | [**relatedResourceID**<br> (ID del recurso relacionado)](#elem182) | 
+| [**relationshipOfResource**<br> (Tipo de relación del recurso)](#elem183) | [**relationshipOfResourceID**<br> (ID del tipo de relación del recurso)](#elem184) | [**relationshipAccordingTo**<br> (Relación de acuerdo con)](#elem185) |
+| [**relationshipEstablishedDate**<br> (Fecha en que se estableció la relación)](#elem186) | [**relationshipRemarks**<br> (Comentarios de la relación)](#elem187) |  |
+|    |    |    |
 
 <br>
 <br>
@@ -1871,6 +1872,73 @@ toc: true
 | _(Obligatoriedad)_ | _(Opcional)_
 |    |    |
 
+<a name="elem181">**resourceID** (ID del recurso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador del recurso que es sujeto de la relación. Si el registro se encuentra publicado, se recomienda documentar el mismo occurrenceID o una URL asociada. |
+| Ejemplo | IAvH:CBB:PARAMOS:ANFIBIA:MUESTRA:001<br><br> UANDES:ANDES-M:20054<br><br> urn:uuid:bab4d024-b931-42b0-aa34-88e7d7f8a747 |
+| Elementos relacionados | occurrenceID |
+| _(Obligatoriedad)_ | _(Obligatorio)_
+|    |    |
+
+<a name="elem182">**relatedResourceID** (ID del recurso relacionado)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador para el recurso biológico que es el objeto de la relación. Si el registro se encuentra publicado, se recomienda documentar el mismo occurrenceID o una URL asociada. |
+| Ejemplo | IAvH:CBB:PARAMOS:ANFIBIA:ESPECIMENPRESERVADO:001<br><br><br><br> UANDES:ANDES-E:1054<br><br><br><br> urn:catalog:Berggren:KB07001 |
+| Elementos relacionados | occurrenceID |
+| _(Obligatoriedad)_ | _(Obligatorio)_
+|    |    |
+
+<a name="elem183">**relationshipOfResource** (Tipo de relación del recurso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La relación del objeto respecto al sujeto. Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | Duplicado de<br> Madre de<br> Secuencia de<br> Huésped de<br> Tejido de<br> Sinonimia válida de<br> Ubicado dentro de<br> Muestra de<br> Parásito de<br> Cría de<br> Simbionte con |
+| Elementos relacionados | relationshipOfResourceID |
+| _(Obligatoriedad)_ | _(Obligatorio)_
+|    |    |
+
+<a name="elem184">**relationshipOfResourceID** (ID del tipo de relación del recurso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador para la relación del objeto respecto al sujeto (relationshipOfResource). |
+| Comentarios | Se recomienda hacer uso de los identificadores de los términos en vocabularios controlados, como la ontología de relación OBO., como se muestra a continuación:<br><br> http://purl.obolibrary.org/obo/RO_0002456 (para la relación "polinizado por")<br> https://www.inaturalist.org/observation_fields/879 (para la relación "comido por") |
+| Ejemplo | http://purl.obolibrary.org/obo/RO_0002456br> https://www.inaturalist.org/observation_fields/879 |
+| Elementos relacionados | relationshipOfResource |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem185">**relationshipAccordingTo** (Relación de acuerdo con)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La fuente (persona, organización, publicación, referencia) que establece la relación entre los dos registros. |
+| Ejemplo | Paola Andrea Salamanca Torres<br> Luis Alejandro Morales Mina |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem186">**relationshipEstablishedDate** (Fecha en que se estableció la relación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La fecha o el intervalo en la que se estableció la relación. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
+| Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/2010-01<br> 2009-02/10<br> 2009-02-12/2009-10-08<br> 2010-01-17/18 |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem187">**relationshipRemarks** (Comentarios de la relación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Comentarios o anotaciones sobre la relación entre los dos registros. Se recomienda que la longitud de la descripción no supere 20 palabras. |
+| Ejemplo | Madre y cría colectadas del mismo nido<br> Polinizador capturado en el acto<br> Ejemplar bien conservado para extracción de ADN<br> Parásito que genera enfermedad mortal para la especie |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
 
 ### Medidas o Hechos Extendida
 
