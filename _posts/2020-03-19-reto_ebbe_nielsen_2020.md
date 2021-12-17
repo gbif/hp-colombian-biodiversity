@@ -2,7 +2,7 @@
 title:  "Reto Ebbe Nielsen 2020"
 date:   2020-03-19
 categories: ["Convocatorias", "GBIF", "Reto Ebbe Nielsen", "Innovación", "Datos", "2020"]
-background: /assets/images/noticias_eventos/Reto_Ebbe_Nielsen_2020.png
+background: /assets/images/noticias_eventos/2020/2020-03-19-reto_ebbe_nielsen_2020.jpg
 ---
 
 Haz parte el reconocimiento a las propuestas innovadoras que aprovechen los datos sobre biodiversidad y las herramientas disponibles en la red GBIF.
@@ -26,7 +26,7 @@ Los ganadores serán anunciados en la reunión número 27 de la Junta de Gobiern
 
 ## Un colombiano gana el reto Ebbe Nielsen 2019 de GBIF
 
-![My helpful screenshot](/assets/images/noticias_eventos/jorge.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/2020/2020-03-19-reto_ebbe_nielsen_2020b.jpg)
 
 **Jorge Velásquez-Tibatá** desarrolló un sistema de código abierto que optimiza la selección de sitios de muestreo para llenar vacíos en datos sobre biodiversidad.
 
