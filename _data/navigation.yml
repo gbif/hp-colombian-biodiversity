@@ -51,7 +51,7 @@
 - text: Comunidad
   menu: # Dropdown menu (one level deep only)
   - text: Actividad de publicación
-    href: /comunidad/actividadpublicacion
+    href: /comunidad/actividad-de-publicacion
   - text: Socios publicadores
     href: /comunidad/socios-publicadores
   #- text: Proyectos
