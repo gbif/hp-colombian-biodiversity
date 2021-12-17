@@ -2,7 +2,7 @@
 title:  "Premio GBIF Jóvenes Investigadores 2020"
 date:   2020-02-17
 categories: ["Convocatorias", "GBIF", "Young Researchers Award", "2020"]
-background: /assets/images/noticias_eventos/jovenes-investigadores_2020.jpg
+background: /assets/images/noticias_eventos/2020/2020-02-17-jovenes_investigadores_2020.jpg
 ---
 
 Participa en la convocatoria anual de Jóvenes Investigadores GBIF 2020 para financiar tu investigación.
