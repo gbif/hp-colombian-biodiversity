@@ -2326,7 +2326,7 @@ toc: true
 | Definición | Idioma de la publicación referenciada. |
 | Ejemplo | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 639-1 de 2 letras en minúscula, como se muestra a continuación:<br><br> es (=Para español)<br> en (=Para inglés) |
 | _(Obligatoriedad)_ | _(Opcional)_ |
-| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Consultar en: http://www.loc.gov/standards/iso639-2/php/code_list.php |
+| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
 |    |    |
 
 <a name="elem225">**rights** (Derechos)</a>
@@ -2383,10 +2383,131 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Un identificador de la región geográfica, división político administrativa o del sitio específico donde se distribuye el taxón. |
-| Comentarios | Se sugiere utilizar un identificador persistente, como el código de la División Política Administrativa de Colombia - DANE, [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD) precedida por "CO:" o utilizar MarineRegions [(https://www.marineregions.org/)](https://www.marineregions.org/)) para regiones marinas, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> CO:81 | CO:05 (para el Departamento Arauca y  el Departamento Antioquia)<br> http://marineregions.org/mrgid/32556 (Islas del Rosario)<br><br> Si la ubicación corresponde a varias áreas geográficas, separar por una barra vertical "\|". Para otras áreas o código específicos de lugares nombrados (Topónimos) puede hacer uso de otros estándares. Ver: [http://rs.gbif.org/areas/](http://rs.gbif.org/areas/) |
+| Comentarios | Se sugiere utilizar un identificador persistente, como el código de la División Política Administrativa de Colombia - DANE, [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD) precedida por "CO:" o utilizar MarineRegions [(https://www.marineregions.org/)](https://www.marineregions.org/)) para regiones marinas, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> CO:81 \| CO:05 (para el Departamento Arauca y  el Departamento Antioquia)<br> http://marineregions.org/mrgid/32556 (Islas del Rosario)<br><br> Si la ubicación corresponde a varias áreas geográficas, separar por una barra vertical "\|". Para otras áreas o código específicos de lugares nombrados (Topónimos) puede hacer uso de otros estándares. Ver: [http://rs.gbif.org/areas/](http://rs.gbif.org/areas/) |
 | Ejemplo | CO:15572<br> CO:68<br> CO:81 \| CO:05<br> http://marineregions.org/mrgid/32556<br> geonames.org/3674545/ |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
+
+<a name="elem230">**locality** (Localidad)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre general del área en la que se distribuye el taxón. |
+| Ejemplo | Región Orinoquía<br> Región Caribe<br> Región Orinoquía<br> Parque Nacional Natural El Tuparro |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem231">**countryCode** (Código del país)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El código estándar para el país de la ubicación. |
+| Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 3166-1-alfa-2 de códigos de países, como se muestra a continuación:<br><br> CO (=Para Colombia)<br> AR (=Para Argentina) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Consultar en: [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO) |
+|    |    |
+
+<a name="elem232">**lifeStage** (Etapa de desarrollo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Elemento para indicar que la información de distribución pertenece solamente a una etapa de vida específica del taxón. Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | Huevo<br> Juvenil<br> Adulto<br> Cigoto<br> Embrión<br> Larva<br> Esporófito<br> Espora<br> Gametofito<br> Gameto<br> Pupa<br> Plántula<br> Floración<br> Fructificación |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem233">**occurrenceStatus** (Estado del registro biológico)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Estado que da cuenta de la presencia o ausencia de un taxón en una ubicación. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | present<br> absent |
+|    |    |
+
+<a name="elem234">**threatStatus** (Estado de amenaza)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Estado de amenaza de una especies definido por IUCN (Internation Union for Conservation of Nature): https://www.iucnredlist.org/ o el estado en la lista del MADS (Ministerio de Medio ambiente y Desarrollo Sostenible): https://doi.org/10.15472/5an5tz. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | EX<br> EW<br> RE<br> CR<br> EN<br> VU<br> NT<br> LC<br> DD<br> NA<br> NE |
+|    |    |
+
+<a name="elem235">**appendixCITES** (Apéndice CITES)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El número de los apéndices CITES- Convention on International Trade in Endangered Species of Wild Fauna and Flora, en el que el taxón es categorizado. Es posible tener diferentes números de los apéndices para diferentes áreas. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | I<br> II<br> III |
+|    |    |
+
+<a name="elem236">**establishmentMeans** (Medios de establecimiento)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una afirmación que de cuenta si un taxón ha sido introducido a un lugar y tiempo determinado a través de actividad humana directa o indirecta. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain |
+|    |    |
+
+<a name="elem237">**eventDate** (Fecha del evento)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Contexto temporal relevante para el registro de la distribución, preferiblemente documentar como un rango de años o un año específico en el que el registro de la distribución es válido. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD, para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD), para un intervalo de años: AAAA/AAAA. |
+| Ejemplo | 1939/1945<br> 1900 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem238">**startDayOfYear** (Día inicial del año)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Subcontexto temporal, útil para especies migratorias. El primer día ordinal del año en el cual hay presencia del taxón. |
+| Comentarios | La numeración comienza con 1 para el 1 de enero y termina con 365 o 366 para el 31 de diciembre, como se muestra a continuación:<br><br> 1 (Para el 1 de enero)<br> 60 (Para el 1 de marzo)<br> 160 (Para el 8 de junio) |
+| Ejemplo | 1<br> 60<br> 160 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem239">**endDayOfYear** (Día final del año)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Subcontexto temporal, útil para especies migratorias. El último día ordinal del año en el cual hay presencia del taxón.  |
+| Comentarios | La numeración comienza con 1 para el 1 de enero y termina con 365 o 366 para el 31 de diciembre, como se muestra a continuación:<br><br> 120 (Para el 29 de abril)<br> 306 (Para el 1 de noviembre)<br> 365 (Para el 31 de diciembre) |
+| Ejemplo | 120<br> 306<br> 365 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem240">**source** (Fuente)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Fuente de la cual se obtuvo la información de distribución. Puede ser una cita bibliográfica (se recomienda formato APA), una URL de página web, etc. |
+| Ejemplo | https://catalogo.biodiversidad.co/file/5f8e304877e76556702a20b8/summary<br> Euro+Med Plantbase - the information resource for Euro-Mediterranean plant diversity (2006). Published on the Internet http://ww2.bgbm.org/EuroPlusMed/ July, 2009 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem241">**occurrenceRemarks** (Comentarios de la distribución)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Comentarios o anotaciones sobre la distribución. Se recomienda que la longitud de la descripción no supere 20 palabras. |
+| Ejemplo | Especie migratoria presente en Colombia durante el mes de junio |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem242">**datasetID** (ID del conjunto de datos)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador del conjunto de datos del cual se deriva el registro de distribución. |
+| Ejemplo | 002_BIO-RRBB_SC_2021032<br> https://doi.org/10.15472/ea8sek |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
 
 ### Descripción del Taxón
 
