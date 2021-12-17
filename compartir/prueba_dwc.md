@@ -1852,6 +1852,26 @@ toc: true
 
 ### Relación del Recurso
 
+|    |    |    |    |
+| ---|--- |--- |--- |
+| [**resourceRelationshipID**<br> (ID de la relación de los recursos)](#elem180) | [**resourceID**<br> (ID del recurso)](#elem181) | [**relatedResourceID**<br> (ID del recurso relacionado)](#elem182) | [**relationshipOfResource**<br> (Tipo de relación del recurso)](#elem183) |
+| [**relationshipOfResourceID**<br> (ID del tipo de relación del recurso)](#elem184) | [**relationshipAccordingTo**<br> (Relación de acuerdo con)](#elem185) | [**relationshipEstablishedDate**<br> (Fecha en que se estableció la relación)](#elem186) | [**relationshipRemarks**<br> (Comentarios de la relación)](#elem188) |
+|    |    |    |    |    |
+
+<br>
+<br>
+
+<a name="elem180">**resourceRelationshipID** (ID de la relación de los recursos)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador para una instancia de relación entre un recurso (resourceID, el sujeto) y otro (relatedResource, el objeto).<br><br> En caso de no contar con un identificador, se puede construir a partir de la concatenación de los occurrenceID separados por /. |
+| Ejemplo | IAvH:CBB:PARAMOS:ANFIBIA:MUESTRA:001/IAvH:CBB:PARAMOS:ANFIBIA:ESPECIMENPRESERVADO:001<br><br> UANDES:ANDES-M:20054/UANDES:ANDES-E:1054<br><br> urn:uuid:bab4d024-b931-42b0-aa34-88e7d7f8a747/urn:catalog:Berggren:KB07001 |
+| Elementos relacionados | occurrenceID, resourceID, relatedResourceID |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+
 ### Medidas o Hechos Extendida
 
 ### Multimedia Simple
