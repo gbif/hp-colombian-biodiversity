@@ -2,7 +2,7 @@
 title:  "Biodiversidad en Cifras 2020"
 date:   2020-06-04
 categories: ["Cifras", "GBIF", "Especies", "Colombia", "2020"]
-background: /assets/images/noticias_eventos/bd-cifras-blog-2020-1000x1000.jpg
+background: /master/assets/images/noticias_eventos/2020/2020-06-04-biodiversidad_en_cifras_2020.jpg
 ---
 
 **Las cifras sobre biodiversidad que comparte el SiB Colombia son dinámicas y cambian a través del tiempo**. Son dinámicas, gracias a la actividad de publicación de nuevos datos abiertos; y cambian, debido a procesos de calidad que mejoran la precisión de los datos a nivel taxonómico y geográfico. Esto implica que no siempre el 100% de los datos publicados son usados para la síntesis de cifras, generando cambios periódicos en **Biodiversidad en Cifras**. En otras palabras: contar con más datos, no equivale a más especies o mejores cifras.
