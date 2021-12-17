@@ -135,10 +135,10 @@ splitActividadPublicacion:
   # img required
   background: /assets/images/landing_page/img_homeInformes.jpg
   overlayColor: "#000033"
-  href: /comunidad/actividadpublicacion
+  href: /comunidad/actividad-de-publicacion
   cta:
   - text: Explorar
-    href: /comunidad/actividadpublicacion
+    href: /comunidad/actividad-de-publicacion
     isPrimary: true
 
 splitAlianzaSectorEmpresarial:
