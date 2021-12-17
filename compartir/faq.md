@@ -463,7 +463,7 @@ Recuerda que si cuentas con credenciales del SiB Colombia en el IPT, puedes acce
 <br>
 Para aportar a la construcción de una ficha, debe enviar un correo a sib@humboldt.org.co indicando su intención y una lista en excel de las especie(s) para las cuales desea aportar ficha, para mas información diríjase al <a href="/compartir/guia-para-publicar#ruta-c-publicación-de-fichas-de-especies" target="_blank">enlace</a>. Después de esto, el equipo coordinador lo guiará en los siguientes pasos:
 <ol>
-        <li>Documentación de fichas en la <a href="/recursos/plantillasplic">plantilla</a></li>
+        <li>Documentación de fichas en la <a href="/recursos/plantillas-plinian-core">plantilla</a></li>
         <li>Acceso a editor y capacitación en el uso de la herramienta</li>
       </ol>
     </details>
