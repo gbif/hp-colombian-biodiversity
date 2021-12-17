@@ -2,7 +2,7 @@
 title:  "Nueva lista de referencia para plantas y líquenes de Colombia"
 date:   2020-08-21
 categories: ["Lista de referencia", "Plantas", "Líquenes", "Colombia", "2020"]
-background: /assets/images/noticias_eventos/CatalogoPlantas-1000x1000.jpg
+background: /assets/images/noticias_eventos/2020/2020-08-21-catalogo_de_plantas_y_liquenes_de_colombia.jpg
 ---
 
 -	Cerca de 30.000 nombres aceptados entre especies, subespecies, híbridos, variedades y formas.
