@@ -12,7 +12,7 @@ cfv2021:
   href: /comunidad/formacion
   cta:
   - text: Aprender
-    href: /comunidad/formacion/cicloformacion2021
+    href: /comunidad/formacion/ciclo-formacion-2021
     isPrimary: true
     
     
@@ -41,7 +41,7 @@ tarjetasFormacion:
       background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
       cta:
       - text: VER MÁS SOBRE EL PROGRAMA
-        href: /comunidad/formacion/programapasantias
+        href: /comunidad/formacion/programa-pasantias
         isPrimary: true
       - text: ALUMNI
         href: /post/2021/alumni/
