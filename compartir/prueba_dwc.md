@@ -2367,6 +2367,27 @@ toc: true
 
 ### Distribución de la Especie
 
+|    |    |    |    |
+| ---|--- |--- |--- |
+| [**locationID**<br> (ID de la ubicación)](#elem229) | [**locality**<br> (Localidad)](#elem230) | [**countryCode**<br> (Código del país)](#elem231) | [**lifeStage**<br> (Etapa de desarrollo)](#elem232) |
+| [**occurrenceStatus**<br> (Estado del registro biológico)](#elem233) | [**threatStatus**<br> (Estado de amenaza)](#elem234) | [**appendixCITES**<br> (Apéndice CITES)](#elem235) | [**establishmentMeans**<br> (Medios de establecimiento)](#elem236) |
+| [**eventDate**<br> (Fecha del evento)](#elem237) | [**startDayOfYear**<br> (Día inicial del año)](#elem238) | [**endDayOfYear**<br> (Día final del año)](#elem239) | [**source**<br> (Fuente)](#elem240) |
+| [**occurrenceRemarks**<br> (Comentarios de la distribución)](#elem241) | [**datasetID**<br> (ID del conjunto de datos)](#elem242) |  |  |
+|    |    |    |    |
+
+<br>
+<br>
+
+<a name="elem229">**locationID** (ID de la ubicación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador de la región geográfica, división político administrativa o del sitio específico donde se distribuye el taxón. |
+| Comentarios | Se sugiere utilizar un identificador persistente, como el código de la División Política Administrativa de Colombia - DANE, [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD) precedida por "CO:" o utilizar MarineRegions [(https://www.marineregions.org/)](https://www.marineregions.org/)) para regiones marinas, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> CO:81 | CO:05 (para el Departamento Arauca y  el Departamento Antioquia)<br> http://marineregions.org/mrgid/32556 (Islas del Rosario)<br><br> Si la ubicación corresponde a varias áreas geográficas, separar por una barra vertical "\|". Para otras áreas o código específicos de lugares nombrados (Topónimos) puede hacer uso de otros estándares. Ver: [http://rs.gbif.org/areas/](http://rs.gbif.org/areas/) |
+| Ejemplo | CO:15572<br> CO:68<br> CO:81 \| CO:05<br> http://marineregions.org/mrgid/32556<br> geonames.org/3674545/ |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
 ### Descripción del Taxón
 
 ### Perfil de la Especie
