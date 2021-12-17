@@ -2508,8 +2508,119 @@ toc: true
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-
 ### Descripción del Taxón
+
+|    |    |    |    |
+| ---|--- |--- |--- |
+| [**description**<br> (Descripción)](#elem242) | [**type**<br> (Tipo)](#elem243) | [**source**<br> (Fuente)](#elem244) | [**language**<br> (Idioma)](#elem245) |
+| [**created**<br> (Fecha de creación)](#elem246) | [**creator**<br> (Creador)](#elem247) | [**contributor**<br> (Contribuidor)](#elem248) | [**audience**<br> (Audiencia)](#elem249) |
+| [**license**<br> (Licencia)](#elem250) | [**rightsHolder**<br> (Titular de los derechos)](#elem251) | [**datasetID**<br> (ID del conjunto de datos)](#elem252) |  |
+|    |    |    |    |
+
+<br>
+<br>
+
+<a name="elem242">**description** (Descripción)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Texto libre y descriptivo del taxón que coincida con la temática de la categoría dada en el elemento type. |
+| Ejemplo | Dimorfismo sexual<br> De 1 a 8 crías por evento reproductivo<br> Las características de las aletas posteriores corresponden a la especie Schistochlamys melanopis<br> Esta especie de rana presenta distribuciones altamente restringidas |
+| Elementos relacionados | type |
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+|    |    |
+
+<a name="elem243">**type** (Tipo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Elemento categórico que mejor se ajuste a lo que se quiera describir del taxón. Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | Morfología<br>Reproducción<br> Fisiología |
+| Elementos relacionados | description |
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+|    |    |
+
+<a name="elem244">**source** (Fuente)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Fuente de la cual se obtuvo la información de la descripción del taxón. Puede ser una cita bibliográfica (se recomienda formato APA), una URL de página web, etc. |
+| Ejemplo | https://catalogo.biodiversidad.co/file/5f8e304b77e76556702a222b/summary<br> Acosta-Galvis, A.R. 2000. Ranas, Salamandras y Caecilias (Tetrapoda: Amphibia) de Colombia. Biota Colombiana: 289-319.a |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem245">**language** (Idioma)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El idioma de la descripción. |
+| Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 639-1 de 2 letras en minúscula, como se muestra a continuación:<br><br> es (=Para español)<br> en (=Para inglés) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php]) |
+|    |    |
+
+<a name="elem246">**created** (Fecha de creación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La fecha o el intervalo en la que se realizó la descripción. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
+| Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem247">**creator** (Creador)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los nombres de las personas responsables de realizar la descripción. |
+| Ejemplo | Eduardo Amat García<br> Javier Maldonado Ocampo<br> Mónica Andrea Sánchez Torres | Esteban Andrés Novoa López |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem248">**contributor** (Contribuidor)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los nombres de las entidades responsables de realizar la descripción. |
+| Ejemplo | Universidad Nacional de Colombia |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem249">**audience** (Audiencia)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La audiencia a quien va dirigida la información de la descripción. Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | Expertos<br> Académicos<br> Científicos<br> Ornitólogos<br> Público en general |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem250">**license** (Licencia)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Información sobre los derechos, licencias o permisos que establece el publicador sobre el uso de la información de la descripción. Se recomienda hacer uso de licencias abiertas o creative commons. |
+| Ejemplo | http://creativecommons.org/licenses/by-nc-sa/2.0/eed.en |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem251">**rightsHolder** (Titular de los derechos)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Persona u organización propietaria o administradora de los derechos de la información de la descripción. |
+| Ejemplo | Secretaria de Agricultura<br> Ministerio de Medio Ambiente<br> Secretaría Distrital de Ambiente |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem252">**datasetID** (ID del conjunto de datos)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador del conjunto de datos del cual se deriva el registro de la descripción. |
+| Ejemplo | 002_BIO-RRBB_SC_2021032<br> https://doi.org/10.15472/v24ppe |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
 
 ### Perfil de la Especie
 
