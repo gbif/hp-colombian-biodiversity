@@ -2,7 +2,7 @@
 title:  "ANDI y SiB Colombia consolidan alianza para robustecer información del país sobre biodiversidad desde las empresas"
 date:   2020-05-05
 categories: ["ANDI", "GBIF", "OpenPSD", "Sector empresarial", "Colombia", "2020", "Convocatorias"]
-background: /assets/images/noticias_eventos/PiezaBlog_Alianza_SiB_ANDI_Mesa-de-trabajo-1-copia-1000x1000.png
+background: /assets/images/noticias_eventos/2020/2020-05-05-alianza_andi_y_sibcolombia.jpg
 ---
 
 - La ANDI y SiB Colombia consolidaron una alianza estratégica que permite robustecer la información y el conocimiento del país sobre Biodiversidad a partir de una mayor contribución del sector empresarial.
