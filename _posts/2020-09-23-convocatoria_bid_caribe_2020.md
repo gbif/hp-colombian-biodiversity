@@ -2,7 +2,7 @@
 title:  "Convocatorias BID Caribe 2020"
 date:   2020-09-23
 categories: ["Convocatorias", "GBIF", "BID Caribe","Publicación", "Sostenibilidad", "Becas", "2020"]
-background: /assets/images/noticias_eventos/BID-Caribe-2020-29-min-1000x1000.jpg
+background: /master/assets/images/noticias_eventos/2020/2020-09-23-convocatoria_bid_caribe_2020.jpg
 ---
 
 El programa Información sobre Biodiversidad para el Desarrollo (BID) tiene como objetivo mejorar las capacidades para la publicación y uso de datos para el desarrollo sostenible.
