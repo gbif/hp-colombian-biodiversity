@@ -2,7 +2,7 @@
 title:  "¡Se busca! – Líder TI"
 date:   2021-03-24
 categories: ["Desarrollador", "Convocatorias", "2021"]
-background: /master/assets/images/noticias_eventos/2021/2021-03-24-se_busca_ti.jpg
+background: /assets/images/noticias_eventos/2021/2021-03-24-se_busca_ti.jpg
 ---
 
 Te invitamos a enviar tu hoja de vida
