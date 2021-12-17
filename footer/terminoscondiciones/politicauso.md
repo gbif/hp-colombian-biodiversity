@@ -22,11 +22,9 @@ El SiB Colombia desarrolla su compromiso con el acceso libre y abierto a los dat
 
 | Plataformas | URL Acceso |
 | ------ | ------ |
-| Portal de Datos |	http://datos.biodiversidad.co/ |
-| Colecciones en Línea | http://colecciones.biodiversidad.co/ |
+| Portal de Datos |	https://biodiversidad.co/data |
 |Listas de Especies |	http://listas.biodiversidad.co/ |
 |Catálogo de la Biodiversidad de Colombia | http://catalogo.biodiversidad.co/ |
-|Certificado de Reporte • CR-SiB	| http://ipt.biodiversidad.co/cr-sib/ |
 |Biodiversidad en Cifras | https://cifras.biodiversidad.co/ |
 |Biodiversidad en Cifras • Santander | https://santander.biodiversidad.co/
 |Biodiversidad en Cifras • Boyacá | https://boyaca.biodiversidad.co/
@@ -77,7 +75,7 @@ Cuando un usuario consulta y descarga cualquiera de estos contenidos contenidos,
 * **OBIS**: Sistema de Información Biogeográfica de los Océanos, es el centro mundial de intercambio de datos e información sobre la biodiversidad marina para la ciencia, la conservación y el desarrollo sostenible.
 
 # Cómo citar datos e información
-El SiB Colombia ha sido muy cuidadoso para desarrollar las recomendaciones de citaciones en sus plataformas para darle crédito a las personas y entidades involucradas en todo el proceso. El usuario debe ser cuidadoso en la citación y reconocer ese trabajo. Conoce más en la guía sobre [Cómo citar](https://hp-colombian-biodiversity.gbif-staging.org/recursos/ComoCitar) los diferentes contenidos disponibles a través de las plataformas del SiB Colombia.
+El SiB Colombia ha sido muy cuidadoso para desarrollar las recomendaciones de citaciones en sus plataformas para darle crédito a las personas y entidades involucradas en todo el proceso. El usuario debe ser cuidadoso en la citación y reconocer ese trabajo. Conoce más en la guía sobre [Cómo citar](https://hp-colombian-biodiversity.gbif-staging.org/recursos/citar) los diferentes contenidos disponibles a través de las plataformas del SiB Colombia.
 
 # Responsabilidad
 Los canales de participación del SiB Colombia;  otras plataformas, sitios web referenciados y el contenido que se comparte tienen el propósito de proveer información para uso general, científico, secundar investigación y conocimiento público, con la finalidad de aportar para el debate y desarrollo de políticas para la gestión del territorio. 
