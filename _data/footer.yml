@@ -7,7 +7,7 @@ columns:
   - name: Acerca de
     links:
     - text: SiB Colombia
-      href: /acercade/SiB-Colombia
+      href: /acercade/sib-colombia
     - text: Preguntas Frecuentes
       href: /compartir/faq
     - text: Términos y Condiciones
