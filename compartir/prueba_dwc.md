@@ -1942,6 +1942,146 @@ toc: true
 
 ### Medidas o Hechos Extendida
 
+|    |    |    |
+| ---|--- |--- |
+| [**occurrenceID**<br> (ID del Registro biológico)](#elem188) | [**measurementID**<br> (ID de la medida)](#elem189) | [**measurementType**<br> (Tipo de medida)](#elem190) | 
+| [**measurementTypeID**<br> (ID del tipo de medida)](#elem191) | [**measurementValue**<br> (Valor de la medida)](#elem192) | [**measurementValueID**<br> (ID del valor de la medida)](#elem193) |
+| [**measurementAccuracy**<br> (Precisión de la medida)](#elem194) | [**measurementUnit**<br> (Unidad de la medida)](#elem195) | [**measurementUnitID**<br> (ID de la unidad de la medida)](#elem196) |
+| [**measurementDeterminedDate**<br> (Fecha de la determinación de la medida)](#elem197) | [**measurementDeterminedBy**<br> (Medida tomada por))](#elem198) | [**measurementMethod**<br> (Método de medida)](#elem199) |
+| [**measurementRemarks**<br> (Comentarios de la medida)](#elem200) |  |  |
+|    |    |    |
+
+<br>
+<br>
+
+<a name="elem188">**occurrenceID** (ID del Registro biológico)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El identificador del registro biológico asociado a la medida o hecho. Se puede utilizar para asociar más de una medida con el mismo registro biológico.<br><br> Puede construirse a partir de la siguiente estructura: [ID del tipo de medida] : [consecutivo] |
+| Ejemplo | ILVO_macro_aggregate_59206<br> ANH-I:2008:EH253:SUP:MHNMC:Consec.71957:Zoo1 |
+| _(Obligatoriedad)_ | _(Obligatorio)_
+|    |    |
+
+<a name="elem189">**measurementID** (ID de la medida)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador para la medida o hecho. Puede ser un identificador único global o un identificador específico para el conjunto de datos.<br><br> Puede construirse a partir de la siguiente estructura: [measurementTypeID]:[consecutivo] |
+| Ejemplo | P01/current/AREABEDS:001 |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem190">**measurementType** (Tipo de medida)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre de la medida, hecho o característica. Puede ser abiótica, biótica o relacionada al protocolo de muestreo. Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | **Bióticos**<br> Estado fitosanitario<br> Peso<br> Longitud total<br> Descripción gónadas<br> Largo de cuerpo<br> Grupo funcional<br> **Abióticos**<br> pH<br> Clima<br> Longitud del tramo muestreado<br> Nombre del instrumento de muestreo<br> Temperatura<br> Superficie del área<br> Altura de la orilla<br> Tamaño del grano<br> Color de muestra |
+| Elementos relacionados | measurementTypeID, measurementValue, measurementUnit |
+| _(Obligatoriedad)_ | _(Obligatorio)_
+|    |    |
+
+<a name="elem191">**measurementTypeID** (ID del tipo de medida)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador para el valor documentado en measurementType (Identificador único global, URI), este identificador debe ser un vocabulario controlado. |
+| Comentarios | Se recomienda el uso del vocabulario NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/), como se muestra a continuación:<br><br> http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/ (= Longitud del tramo muestreado)<br> <http://vocab.nerc.ac.uk/collection/Q01/current/Q0100002/ (= Nombre del instrumento de muestreo)<br> P01/current/AREABEDS (= Área del fondo marino muestreada) |
+| Ejemplo | http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/<br> http://vocab.nerc.ac.uk/collection/Q01/current/Q0100002/<br> P01/current/AREABEDS |
+| Elementos relacionados | measurementType |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem192">**measurementValue** (Valor de la medida)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El valor de la medida, hecho o característica documentada en el elemento measurementType. |
+| Ejemplo | **Bióticos**<br> Bueno<br> Agar sangre<br> 80.1<br> 1.20<br> 38<br> C3743<br> Gónadas en estado inmaduro, con tamaño uniforme<br> **Abióticos**<br> 7.8<br> Nublado<br> 30<br> Balde |
+| Elementos relacionados | measurementValueID, measurementType |
+| _(Obligatoriedad)_ | _(Obligatorio)_
+|    |    |
+
+<a name="elem193">**measurementValueID** (ID del valor de la medida)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador para los hechos documentados en measurementValue. Este puede referenciar un vocabulario controlado o una metodología en un artículo con un DOI. Cuando el campo measurementValue contiene una medida y no un hecho, debe dejarse vacío. |
+| Comentarios | Se recomienda el uso del vocabulario NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/), como se muestra a continuación:<br><br> http://vocab.nerc.ac.uk/collection/L22/current/TOOL0536/ (= Balde)<br> L22/current/TOOL0653/ (= Muestreo Van Veen) |
+| Ejemplo | http://vocab.nerc.ac.uk/collection/L22/current/TOOL0536/<br> L22/current/TOOL0653/ |
+| Elementos relacionados | measurementValue |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem194">**measurementAccuracy** (Precisión de la medida)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La descripción de los errores potenciales asociados con el measurementValue. |
+| Ejemplo | 0.01<br> Distribución normal con variación de 2 m |
+| Elementos relacionados | measurementValue |
+| _(Obligatoriedad)_ | _(Opcional)_
+|    |    |
+
+<a name="elem195">**measurementUnit** (Unidad de la medida)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Las unidades asociadas al measurementValue. Sólo aplica para variables cuantitativas. |
+| Comentarios | La práctica recomendada es utilizar el Sistema Internacional de Unidades (SI) (http://www.sc.ehu.es/sbweb/fisica_/unidades/unidades/unidades_1.html), como se muestra a continuación:<br><br> g (= Gramos)<br> m (= Metros)<br> °C (= Grados Centigrados) |
+| Ejemplo | g<br> m<br> °C<br> cm<br> s |
+| Elementos relacionados | measurementUnitID, measurementValue |
+| _(Obligatoriedad)_ | _(Condicional)_. Obligatorio para variables cuantitativas |
+|    |    |
+
+<a name="elem196">**measurementUnitID** (ID de la unidad de la medida)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador para el valor documentado en measurementUnit (Identificador único global, URI), este identificador debe ser un vocabulario controlado. |
+| Comentarios | Se recomienda el uso del vocabulario NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/)., como se muestra a continuación:<br><br> P06/current/ULAA/ (= Metros)<br> <http://vocab.nerc.ac.uk/collection/P06/current/UGRM (= Gramos)<br> http://vocab.nerc.ac.uk/collection/P06/current/UMSQ/ (= Metros cuadrados) |
+| Ejemplo | P06/current/ULAA/<br> http://vocab.nerc.ac.uk/collection/P06/current/UGRM<br> http://vocab.nerc.ac.uk/collection/P06/current/UMSQ/ |
+| Elementos relacionados | measurementUnit |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem197">**measurementDeterminedDate** (Fecha de la determinación de la medida)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La fecha o el intervalo en la que se realizó la medida o hecho. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
+| Ejemplo | 2010)<br> 2010-01)<br> 2010-01-17)<br> 2009/2010)<br> 2009-02/2010-01)<br> 2009-02/10)<br> 2009-02-12/2009-10-08)<br> 2010-01-17/18 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem198">**measurementDeterminedBy** (Medida tomada por)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por ' | ') de los nombres de las personas, grupos u organizaciones que determinan el measuremenetValue. |
+| Ejemplo | Javier Andrés de la Torre Sánchez<br> Julie Woodruff Paerson| Eileen Lacey Smith |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem199">**measurementMethod** (Método de medida)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una descripción o referencia (publicación, URI) del método o protocolo utilizado para determinar la medida, hecho o característica. |
+| Ejemplo | Polígono alrededor de las madrigueras<br> Altímetro barométrico |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem200">**measurementRemarks** (Comentarios de la medida)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Comentarios o notas que acompañan a la medida o hecho. Se recomienda que la longitud de la descripción no supere 20 palabras. |
+| Ejemplo | Falta la punta de la cola<br> Largo del pico por encima del promedio<br> Aleta dorsal mordida<br> Ejemplar conservado en buen estado<br> El medio de cultivo es modificado |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
 ### Multimedia Simple
 
 ### Referencias de Literatura
