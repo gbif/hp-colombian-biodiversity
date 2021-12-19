@@ -2640,7 +2640,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Elemento que indica si un taxón es (=TRUE), o no es (=FALSE), marino. |
-| Ejemplo | TRUEbr> FALSE |
+| Ejemplo | TRUE<br> FALSE |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2649,7 +2649,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Elemento que indica si un taxón es (=TRUE), o no es (=FALSE), dulceacuícola. |
-| Ejemplo | TRUEbr> FALSE |
+| Ejemplo | TRUE<br> FALSE |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2658,7 +2658,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Elemento que indica si un taxón es (=TRUE), o no es (=FALSE), terrestre. |
-| Ejemplo | TRUEbr> FALSE |
+| Ejemplo | TRUE<br> FALSE |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2667,7 +2667,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Elemento que indica si un taxón es (=TRUE), o no es (=FALSE), invasor. |
-| Ejemplo | TRUEbr> FALSE |
+| Ejemplo | TRUE<br> FALSE |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2676,7 +2676,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Elemento que indica si un taxón es (=TRUE), o no es (=FALSE), híbrido. |
-| Ejemplo | TRUEbr> FALSE |
+| Ejemplo | TRUE<br> FALSE |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2685,7 +2685,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Elemento que indica si un taxón está (=TRUE), o no está (=FALSE), extinto. |
-| Ejemplo | TRUEbr> FALSE |
+| Ejemplo | TRUE<br> FALSE |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2694,7 +2694,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | El periodo geológico en el cual un organismo extinto estuvo vivo. Para tiempo geológicos de fósiles, lo ideal es usar un vocabulario controlado como [https://es.wikipedia.org/wiki/Escala_temporal_geol%C3%B3gica](https://es.wikipedia.org/wiki/Escala_temporal_geol%C3%B3gica). |
-| Ejemplo | Paleógenobr> Cretácicobr> Jurásicobr> Triásicobr> Pérmico |
+| Ejemplo | Paleógeno<br> Cretácico<br> Jurásico<br> Triásicobr> Pérmico |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2703,7 +2703,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Edad máxima del taxón expresada como número de días. |
-| Ejemplo | 29000br> 5 |
+| Ejemplo | 29000<br> 5 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2712,7 +2712,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Tamaño máximo observado del taxón, dado en milímetros. Puede ser la altura, longitud o el ancho, la que sea mayor. |
-| Ejemplo | 10br> 1700 |
+| Ejemplo | 10<br> 1700 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2721,7 +2721,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Peso máximo observado del taxón, dado en gramos. |
-| Ejemplo | 12br> 3000 |
+| Ejemplo | 12<br> 3000 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2730,7 +2730,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Un término describiendo la forma de vida o crecimiento de un taxón. Se recomienda el uso de un vocabulario controlado. |
-| Ejemplo | Epífitabr> Fanerófitobr> Criptófito |
+| Ejemplo | Epífita<br> Fanerófitobr> Criptófito |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2739,7 +2739,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|"), de los hábitats conocidos donde el taxón vive o vivió. |
-| Ejemplo | Sabana de roble Estepa de la pre-cordillerabr> Bosque templadobr> Sabana secabr>Cavernas y hábitats subterráneos |
+| Ejemplo | Sabana de roble Estepa de la pre-cordillerabr> Bosque templado<br> Sabana secabr>Cavernas y hábitats subterráneos |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2748,7 +2748,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") , de los sexos conocidos para el taxón. Se recomienda el uso de un vocabulario controlado. |
-| Ejemplo | Hembrabr> Hermafroditabr> Machobr> Desconocidobr> Indeterminadobr> Ginandromorfo |
+| Ejemplo | Hembra<br> Hermafrodita<br> Macho<br> Desconocido<br> Indeterminado<br> Ginandromorfo |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2757,7 +2757,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Fuente de la cual se obtuvo la información del perfil del taxón. Puede ser una cita bibliográfica (se recomienda formato APA), una URL de página web, etc. |
-| Ejemplo | Acosta-Galvis, A. R. (2000). Ranas, salamandras y caecilias (Tetrapoda: Amphibia) de Colombia. Biota colombiana, 1(3).br> Agarwal S. K. 2018. Fundamentals of Ecology. APH Publishing, 813130342X, 9788131303429, 460 pages |
+| Ejemplo | Acosta-Galvis, A. R. (2000). Ranas, salamandras y caecilias (Tetrapoda: Amphibia) de Colombia. Biota colombiana, 1(3).<br> Agarwal S. K. 2018. Fundamentals of Ecology. APH Publishing, 813130342X, 9788131303429, 460 pages |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2766,11 +2766,196 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Un identificador del conjunto de datos del cual se deriva el registro del perfil del taxón. |
-| Ejemplo | 002_BIO-RRBB_SC_2021032br> https://doi.org/10.15472/ea8sek |
+| Ejemplo | 002_BIO-RRBB_SC_2021032<br> https://doi.org/10.15472/ea8sek |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 ### Tipos y Especímenes
+
+|    |    |    |    |
+| ---|--- |--- |--- |
+| [**typeStatus**<br> (Estado del tipo)](#elem268) | [**typeDesignationType**<br> (Tipo de designación del tipo)](#elem269) | [**typeDesignatedBy**<br> (Tipo designado por)](#elem270) | [**scientificName**<br> (Nombre científico)](#elem271) |
+| [**taxonRank**<br> (Categoría del taxón)](#elem272) | [**bibliographicCitation**<br> (Citación bibliográfica)](#elem273) | [**occurrenceID**<br> (ID del registro biológico)](#elem274) | [**institutionCode**<br> (Código de la institución)](#elem275) |
+| [**collectionCode**<br> (Código de la colección)](#elem276) | [**catalogNumber**<br> (Número de catálogo)](#elem277) | [**locality**<br> (Localidad)](#elem278) | [**sex**<br> (Sexo)](#elem279) |
+| [**recordedBy**<br> (Registrado por)](#elem280) | [**source**<br> (Fuente)](#elem281) | [**verbatimEventDate**<br> (Fecha original del evento)](#elem282) | [**verbatimLabel**<br> (Etiqueta original)](#elem283) |
+| [**verbatimLongitude**<br> (Longitud original)](#elem284) | [**verbatimLatitude**<br> (Latitud original)](#elem285) | [**datasetID**<br> (ID del conjunto de datos)](#elem286) |  |
+|    |    |    |    |
+
+<br>
+<br>
+
+<a name="elem268">**typeStatus** (Estado del tipo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El tipo del espécimen. Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | Alotipo<br> Holotipo<br> Alolectotipo |
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+|    |    |
+
+<a name="elem269">**typeDesignationType** (Tipo de designación del tipo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La razón por la que el espécimen se designa como tipo. Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | Designación original<br> Monotipo<br> Designación presente |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem270">**typeDesignatedBy** (Tipo designado por)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La cita bibliográfica de la publicación donde se encuentra la designación de tipo. |
+| Ejemplo | Sutherland CHN. 2009. Redescubrimiento del holotipo de Epidendrum × doroteae P.H. Allen (Orchidaceae). CEIBA, Vol. 50 Núm. 1. |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem271">**scientificName** (Nombre científico)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Para especímenes tipo, documentar el nombre científico originalmente utilizado en la etiqueta. No necesariamente es el mismo nombre reconocido actualmente. En el caso de especies o géneros tipo, debe ser la especie o el nombre del género que tipifique al taxón superior. |
+| Ejemplo | Ctenomys sociabilis<br> Ctenomys |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem272">**taxonRank** (Categoría del taxón)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La categoría taxonómica del nombre más específico presente en el scientificName. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
+| Ejemplo | Reino<br> Subreino<br> Filo<br> División<br> Subfilo<br> Subdivisión<br> Clase<br> Subclase<br> Orden<br> Subordenv Familia<br> Subfamilia<br> Tribu<br> Subtribu<br> Género<br> Subgénero<br> Sección<br> Subsección<br> Serie<br> Subserie<br> Especiev Subespecie<br> Variedad<br> Subvariedad<br> Forma<br> Subforma |
+| Elementos relacionados | scientificName |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem273">**bibliographicCitation** (Citación bibliográfica)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Citación del espécimen descrito. |
+| Ejemplo | Iraq: Mosul: Jabal Khantur prope Sharanish N. Zakho, in fissures rupium calc., 1200 m, Rech. 12083 (W!) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem274">**occurrenceID** (ID del registro biológico)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador unico para el espécimen, preferiblemente un identificador único global que se pueda resolver.<br><br> En ausencia de un identificador único global persistente, se recomienda construir uno a partir de la combinación: [código corto de la institución]:[código de la colección]:[número de catálogo]. No debe contener espacios en blanco o caracteres especiales. |
+| Ejemplo | UCO:RESCATE_FAUNA_MULATOSII:1<br> UNIVALLE:CRM-UV:1974-001-1 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem275">**institutionCode** (Código de la institución)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre completo de la institución que custodia el espécimen; seguido por su acrónimo en paréntesis, si tiene. |
+| Ejemplo | Ministerio de Ambiente y Desarrollo Sostenible (MADS)<br> Universidad de Antioquia (UdeA)<br> Jardín Botanico de Bogotá José Celestino Mutis (JBB)<br> Universidad de los Andes (UNIANDES) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem276">**collectionCode** (Código de la colección)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre, acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el espécimen. Si corresponde a una colección biológica registrada en el Registro Único Nacional de Colecciones Biológicas-RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones), se debe emplear el acrónimo allí registrado. |
+| Ejemplo | COL<br> ANDES<br> FMB |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem277">**catalogNumber** (Número de catálogo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador (preferiblemente único) asignado al espécimen en la colección biológica. Puede repetirse en caso de que los especímenes están agrupados en la colección (Lote, Frasco, Caja, etc).<br><br> Debe documentarse de la misma forma que está en la etiqueta. |
+| Ejemplo | 00001<br> 1974-001-1<br> 1732a<br> ANDES-E0813<br> Lepid0784 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem278">**locality** (Localidad)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La ubicación donde se colectó el espécimen. En el caso de especímenes tipo, la localidad tipo. |
+| Ejemplo | Ruta del Sol, kilómetro 25 entre Guaduas y La Dorada<br> Vereda Santa Ana<br> Quebrada Aguasclaras<br> Parque Nacional Natural Serranía de Chiribiquete |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem279">**sex** (Sexo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El sexo del espécimen. |
+| Ejemplo | Hembra<br> Hermafrodita<br> Macho<br> Desconocido<br> Indeterminado<br> Ginandromorfo |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem280">**recordedBy** (Registrado por)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los nombres de las personas responsables de la colecta u observacieon del espécimen.<br><br> El colector u observador principal, especialmente si está asociado al recordNumber tomado en campo, se debe listar en primer lugar. Se debe mantener el mismo formato del nombre a lo largo de todos los registros y se recomienda evitar el uso de solo iniciales ya que esto genera ambigüedades para reconocer a las personas que realizaron el registro, de ser posible siempre escriba nombres completos. Documente el nombre de las personas y evite documentar nombres de grupos u organizaciones. |
+| Ejemplo | Eduardo Amat García<br> Javier Maldonado Ocampo<br> Mónica Andrea Sánchez Torres \| Esteban Andrés Novoa López |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem281">**source** (Fuente)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Fuente de la cual se obtuvo la información del espécimen. |
+| Ejemplo | https://camjol.info/index.php/CEIBA/article/view/193 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem282">**verbatimEventDate** (Fecha original del evento)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La fecha o el intervalo en la que se colectó el espécimen. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
+| Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem283">**verbatimLabel** (Etiqueta original)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El texto completo y literal de la etiqueta del espécimen. |
+| Ejemplo | Herbario de la facultad de farmacia \| Universidad de Valencia \| Sideritis juryi \| Peris, Stubing & Figuerola sp.nov \| Valencia: Entre Lliria y Casinos, sobre colina calcaréas degradadas \| Leg.: Stubing & J.B. Peris, 25-V-1989 \| ISOTYPUS |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem284">**verbatimLongitude** (Longitud original)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La longitud original donde se observó o colectó el espécimen. |
+| Ejemplo | 75° 08' 36.83" W<br> 834549 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem285">**verbatimLatitude** (Latitud original)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La latitud original donde se observó o colectó el espécimen. |
+| Ejemplo | 41° 05' 56.03" S<br> 1631599 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem286">**datasetID** (ID del conjunto de datos)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador del conjunto de datos del cual se deriva el registro del especímen. |
+| Ejemplo | I2D-BIO_2015_089<br>001_BIO-RRBB_SC_2019027<br> https://doi.org/10.15472/ympw2s  |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
 
 ### Muestra del Material GGBN
 
