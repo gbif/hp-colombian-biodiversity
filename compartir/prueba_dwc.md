@@ -2694,7 +2694,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | El periodo geológico en el cual un organismo extinto estuvo vivo. Para tiempo geológicos de fósiles, lo ideal es usar un vocabulario controlado como [https://es.wikipedia.org/wiki/Escala_temporal_geol%C3%B3gica](https://es.wikipedia.org/wiki/Escala_temporal_geol%C3%B3gica). |
-| Ejemplo | Paleógeno<br> Cretácico<br> Jurásico<br> Triásicobr> Pérmico |
+| Ejemplo | Paleógeno<br> Cretácico<br> Jurásico<br> Triásico<br> Pérmico |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2730,7 +2730,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Un término describiendo la forma de vida o crecimiento de un taxón. Se recomienda el uso de un vocabulario controlado. |
-| Ejemplo | Epífita<br> Fanerófitobr> Criptófito |
+| Ejemplo | Epífita<br> Fanerófito<br> Criptófito |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2739,7 +2739,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|"), de los hábitats conocidos donde el taxón vive o vivió. |
-| Ejemplo | Sabana de roble Estepa de la pre-cordillerabr> Bosque templado<br> Sabana secabr>Cavernas y hábitats subterráneos |
+| Ejemplo | Sabana de roble Estepa de la pre-cordillera<br> Bosque templado<br> Sabana seca<br> Cavernas y hábitats subterráneos |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
