@@ -2572,8 +2572,8 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los nombres de las personas responsables de realizar la descripción. |
-| Ejemplo | Eduardo Amat García<br> Javier Maldonado Ocampo<br> Mónica Andrea Sánchez Torres | Esteban Andrés Novoa López |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los nombres de las personas responsables de realizar la descripción. |
+| Ejemplo | Eduardo Amat García<br> Javier Maldonado Ocampo<br> Mónica Andrea Sánchez Torres \| Esteban Andrés Novoa López |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2581,7 +2581,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical " | ") de los nombres de las entidades responsables de realizar la descripción. |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los nombres de las entidades responsables de realizar la descripción. |
 | Ejemplo | Universidad Nacional de Colombia |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
@@ -2623,6 +2623,152 @@ toc: true
 |    |    |
 
 ### Perfil de la Especie
+
+|    |    |    |    |
+| ---|--- |--- |--- |
+| [**isMarine**<br> (Es marino)](#elem253) | [**isFreshWater**<br> (Es dulceacuícola)](#elem254) | [**isTerrestrial**<br> (Es terrestre)](#elem255) | [**isInvasive**<br> (Es invasor)](#elem256) |
+| [**isHybrid**<br> (Es híbrido)](#elem257) | [**isExtinct**<br> (Está extinto)](#elem258) | [**livingPeriod**<br> (Periodo en el que vivió)](#elem259) | [**ageInDays**<br> (Edad en días)](#elem260) |
+| [**sizeInMillimeters**<br> (Tamaño en milímetros)](#elem261) | [**massInGrams**<br> (Masa en gramos)](#elem262) | [**lifeForm**<br> (Forma de vida)](#elem263) | [**habitat**<br> (Hábitat)](#elem264) |
+| [**sex**<br> (Sexo)](#elem265) | [**source**<br> (Fuente)](#elem266) | [**datasetID**<br> (ID del conjunto de datos)](#elem267) |  |
+|    |    |    |    |
+
+<br>
+<br>
+
+<a name="elem253">**isMarine** (Es marino)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Elemento que indica si un taxón es (=TRUE), o no es (=FALSE), marino. |
+| Ejemplo | TRUEbr> FALSE |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem254">**isFreshWater** (Es dulceacuícola)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Elemento que indica si un taxón es (=TRUE), o no es (=FALSE), dulceacuícola. |
+| Ejemplo | TRUEbr> FALSE |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem255">**isTerrestrial** (Es terrestre)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Elemento que indica si un taxón es (=TRUE), o no es (=FALSE), terrestre. |
+| Ejemplo | TRUEbr> FALSE |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem256">**isInvasive** (Es invasor)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Elemento que indica si un taxón es (=TRUE), o no es (=FALSE), invasor. |
+| Ejemplo | TRUEbr> FALSE |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem257">**isHybrid** (Es híbrido)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Elemento que indica si un taxón es (=TRUE), o no es (=FALSE), híbrido. |
+| Ejemplo | TRUEbr> FALSE |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem258">**isExtinct** (Está extinto)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Elemento que indica si un taxón está (=TRUE), o no está (=FALSE), extinto. |
+| Ejemplo | TRUEbr> FALSE |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem259">**livingPeriod** (Periodo en el que vivió)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El periodo geológico en el cual un organismo extinto estuvo vivo. Para tiempo geológicos de fósiles, lo ideal es usar un vocabulario controlado como [https://es.wikipedia.org/wiki/Escala_temporal_geol%C3%B3gica](https://es.wikipedia.org/wiki/Escala_temporal_geol%C3%B3gica). |
+| Ejemplo | Paleógenobr> Cretácicobr> Jurásicobr> Triásicobr> Pérmico |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem260">**ageInDays** (Edad en días)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Edad máxima del taxón expresada como número de días. |
+| Ejemplo | 29000br> 5 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem261">**sizeInMillimeters** (Tamaño en milímetros)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Tamaño máximo observado del taxón, dado en milímetros. Puede ser la altura, longitud o el ancho, la que sea mayor. |
+| Ejemplo | 10br> 1700 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem262">**massInGrams** (Masa en gramos)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Peso máximo observado del taxón, dado en gramos. |
+| Ejemplo | 12br> 3000 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem263">**lifeForm** (Forma de vida)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un término describiendo la forma de vida o crecimiento de un taxón. Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | Epífitabr> Fanerófitobr> Criptófito |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem264">**habitat** (Hábitat)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|"), de los hábitats conocidos donde el taxón vive o vivió. |
+| Ejemplo | Sabana de roble Estepa de la pre-cordillerabr> Bosque templadobr> Sabana secabr>Cavernas y hábitats subterráneos |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem265">**sex** (Sexo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") , de los sexos conocidos para el taxón. Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | Hembrabr> Hermafroditabr> Machobr> Desconocidobr> Indeterminadobr> Ginandromorfo |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem266">**source** (Fuente)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Fuente de la cual se obtuvo la información del perfil del taxón. Puede ser una cita bibliográfica (se recomienda formato APA), una URL de página web, etc. |
+| Ejemplo | Acosta-Galvis, A. R. (2000). Ranas, salamandras y caecilias (Tetrapoda: Amphibia) de Colombia. Biota colombiana, 1(3).br> Agarwal S. K. 2018. Fundamentals of Ecology. APH Publishing, 813130342X, 9788131303429, 460 pages |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem267">**datasetID** (ID del conjunto de datos)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador del conjunto de datos del cual se deriva el registro del perfil del taxón. |
+| Ejemplo | 002_BIO-RRBB_SC_2021032br> https://doi.org/10.15472/ea8sek |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
 
 ### Tipos y Especímenes
 
