@@ -2959,6 +2959,30 @@ toc: true
 
 ### Muestra del Material GGBN
 
+|    |    |    |    |
+| ---|--- |--- |--- |
+| [**materialSampleType**<br> (Tipo de muestra)](#elem287) | [**concentration**<br> (Concentración)](#elem288) | [**concentrationUnit**<br> (Unidad de la concentración)](#elem289) | 
+| [**methodDetermination<br>ConcentrationAndRatios**<br> (Método para determinación <br>de la concentración)](#elem290) | [**ratioOfAbsorbance260_230**<br> (Relación de absorbancia<br> 260/230)](#elem291) | [**ratioOfAbsorbance260_280**<br> (Relación de absorbancia<br> 260/280)](#elem292) |
+| [**purificationMethod**<br> (Método de purificación)](#elem293) | [**quality**<br> (Calidad)](#elem294) | [**qualityCheckDate**<br> (Fecha de revisión de la calidad)](#elem295) |
+| [**qualityRemarks**<br> (Comentarios sobre la calidad)](#elem296) | [**volume**<br> (Volumen)](#elem297) | [**volumeUnit**<br> (Unidad del volumen)](#elem298) |
+| [**weigh**<br> (Peso)](#elem299) | [**weighUnit**<br> (Unidad del peso)](#elem300) | [**methodDeterminationWeight**<br> (Método de determinación<br> del peso)](#elem301) |
+| [**samp_size**<br> (Tamaño de la muestra)](#elem302) | [**DNAMeltingPoint**<br> (Temperatura de<br> denaturación del ADN)](#elem303) | [**sieving**<br> (Tamizado)] |
+| [**DNADNAHybridization**<br> (Hibridación ADN-ADN)](#elem304) | [**estimated_size**<br> (Tamaño estimado)](#elem305) | [**pool_dna_extracts**<br> (Combinación de<br> extractos de ADN)](#elem306) | 
+| [**sampleDesignation**<br> (Designación de la muestra)](#elem307) |  |  |
+|    |    |    |    |
+
+<br>
+<br>
+
+<a name="elem287">**materialSampleType** (Tipo de muestra)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El tipo de muestra que representa el registro biológico. Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | Muestra ambiental<br> ADN<br> Tejido<br> Cepa cultivada<br> Cepa conservada <br> Clon |
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+|    |    |
+
 ### Preservación GGBN
 
 ### Permiso GGBN
