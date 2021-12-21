@@ -9,7 +9,7 @@ background: /assets/images/noticias_eventos/2020/2020-11-06-convocatoria_pasanti
 Si eres estudiante de pregrado, estás en los últimos semestres de tu carrera y estás buscando dónde realizar tu práctica laboral, revisa las vacantes disponibles, ¡inscríbete y forma parte del Equipo Coordinador del SiB Colombia!
 
 ## Fecha límite para aplicar: 
-6 de Diciembre de 2021.
+6 de Diciembre de 2020.
 ## Vacantes disponibles: 
 Una por cada perfil, en total son tres (3) perfiles.
 ## Intensidad horaria: 
