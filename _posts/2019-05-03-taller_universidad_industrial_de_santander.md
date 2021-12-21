@@ -2,7 +2,7 @@
 title:  "Taller de gestión y publicación de datos sobre biodiversidad – Universidad Industrial de Santander"
 date:   2019-05-03
 categories: ["Talleres", "Colecciones Biológicas", "Calidad de datos", "Santander", "2019"]
-background: /assets/images/noticias_eventos/t-uis-Blog-SiB-1000x1000.jpg
+background: /assets/images/noticias_eventos/2019/2019-05-03-taller_universidad_industrial_de_santander-a.jpg
 ---
 
 ## Fecha:
@@ -72,4 +72,4 @@ Se espera que en los meses posteriores al taller los datos sobre biodiversidad r
 - [Taller práctico](https://drive.google.com/drive/folders/1icKScrp3kb7LM3JqnFBtXo_UxUAR1UFy){:target="_blank"}
 - [Encuesta final](https://drive.google.com/file/d/1fJaLZFmwxZaA1ILI-pXN3QzlmiPr5o1O/view){:target="_blank"}
 
-![My helpful screenshot](/assets/images/noticias_eventos/universidad_industrial_de_santander/IMG_003-1024x683.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/2019/2019-05-03-taller_universidad_industrial_de_santander-b.jpg)
