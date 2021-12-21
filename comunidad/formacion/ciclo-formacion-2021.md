@@ -651,5 +651,5 @@ Posterior a la introducción del laboratorio deberás realizar la guía de maner
 A través de acuerdos y alianzas con diferentes actores, el Equipo Coordinador del SiB Colombia desarrolla y ofrece talleres dirigidos a grupos focales con alcances específicos en el país o la región de Latinoamérica y el Caribe. Las condiciones de acceso a estos talleres pueden variar según los acuerdos establecidos con terceros.
 
 <img src="/comunidad/formacion/images/CESP_DQ_header_web-1280x400.jpg" width=770>
-[Ver talleres](/comunidad/formacion/tallercalidaddatos){: .button .is-primary :}
+[Ver talleres](/comunidad/formacion/taller-CESP-DQ-2021.md){: .button .is-primary :}
 
