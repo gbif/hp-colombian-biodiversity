@@ -3230,8 +3230,8 @@ toc: true
 
 |    |    |    |
 | ---|--- |--- |
-| [**permitType**<br> (Tipo de permiso)](#elem313) | [**permitStatus**<br> (Estado del permiso)](#elem314) | [**permitStatusQualifier**<br> (Calificador del estado del permiso)](#elem315) | [**permitURI**<br> (Identificador del permiso)](#elem316) |
-| [**permitText**<br> (Texto del permiso)](#elem317) |  |  |  |
+| [**permitType**<br> (Tipo de permiso)](#elem313) | [**permitStatus**<br> (Estado del permiso)](#elem314) | [**permitStatusQualifier**<br> (Calificador del estado del permiso)](#elem315) |
+| [**permitURI**<br> (Identificador del permiso)](#elem316) | [**permitText**<br> (Texto del permiso)](#elem317) |  |
 |    |    |    |
 
 <br>
@@ -3283,6 +3283,60 @@ toc: true
 |    |    |
 
 ### Preparación GGBN
+
+|    |    |    |
+| ---|--- |--- |
+| [**preparationType**<br> (Tipo de preparación](#elem318) | [**preparationProcess**<br> (Proceso de la preparación)](#elem319) | [**preparationMaterials**<br> (Materiales de la preparación)](#elem320) |
+| [**preparedBy**<br> (Preparado por)](#elem321) | [**preparationDate**<br> (Fecha de la preparación)](#elem322) |  |
+|    |    |    |
+
+<br>
+<br>
+
+<a name="elem318">**preparationType** (Tipo de preparación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La descripción del tipo de preparación (muestras, tejidos, ADN). |
+| Ejemplo | Hoja<br> Músculo<br> Sangre<br> gDNA |
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+|    |    |
+
+<a name="elem319">**preparationProcess** (Proceso de la preparación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El proceso utilizado para preparar el espécimen o la muestra. También se puede utilizar para describir la propagación de fagos o plásmidos, o el proceso utilizado para extraer el ADN o ARN. |
+| Ejemplo | Prensado y secado<br> En alcohol<br> Homogeneización química del tejido |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem320">**preparationMaterials** (Materiales de la preparación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Los materiales y/o productos químicos utilizados en la preparación de la muestra, tejido, muestra de ADN o ARN. |
+| Ejemplo | Prensa botánica, cartón corrugado, papel periódico, horno, tijeras, lápiz<br> Kit de Macherey-Nagel<br> Kit sangre y tejido DNeasy |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem321">**preparedBy** (Preparado por)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los nombres de las personas que prepararon el espécimen o la muestra. |
+| Ejemplo | Daniel Enrique Muñoz Silva<br> Ana María Sánchez Ortíz \| Juliana Novoa Gracia |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem322">**preparationDate** (Fecha de la preparación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | ULa fecha o el intervalo durante la cual se realizó la preparación del espécimen o la muestra. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
+| Ejemplo | 2010<br>2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
 
 ### Amplificación GGBN
 
