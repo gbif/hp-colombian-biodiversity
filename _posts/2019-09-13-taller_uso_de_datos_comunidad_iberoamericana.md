@@ -2,7 +2,7 @@
 title:  "Taller de uso de datos para la toma de decisiones: llamado a la comunidad iberoamericana"
 date:   2019-09-13
 categories: ["Ciencia Abierta", "GBIF", "Convocatorias", "Uso de datos", "2019"]
-background: /assets/images/noticias_eventos/pieza-cesp-37-1000x1000.png
+background: /assets/images/noticias_eventos/2019/2019-09-13-taller_uso_de_datos_comunidad_iberoamericana.jpg
 ---
 
 La aparente brecha entre GBIF y los tomadores de decisiones, a nivel nacional, refleja una deficiencia en la implementación de acciones para aumentar el impacto de los datos abiertos sobre biodiversidad que circulan a través de GBIF en la política gubernamental. Es importante mejorar y fortalecer este vínculo, destacando la importancia de la toma de decisiones basada en evidencia a través de la discusión de estrategias y la generación de productos de datos relevantes para las políticas.
