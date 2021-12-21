@@ -1,7 +1,7 @@
 ---
 title:  "Estuvimos en encuentro ‘GLOBIS-B Project’"
 date:   2016-03-15
-categories: ["GLOBIS-B Project", "Calidad de datos", "Cooperación", "Talleres", "2019"]
+categories: ["GLOBIS-B Project", "Calidad de datos", "Cooperación", "Talleres", "2016"]
 background: /assets/images/noticias_eventos/2016/2016-03-15-Globis-b-project.jpg
 
 ---
