@@ -2,7 +2,7 @@
 title:  "Convocatoria para pasantías en el SiB Colombia 2020–1"
 date:   2019-09-30
 categories: ["Pasantías", "Convocatorias", "2019"]
-background: /assets/images/noticias_eventos/pasantias-2020-1-1000x1000.png
+background: /assets/images/noticias_eventos/2019/2019-09-30-convocatoria_para_pasantias_2020-1.jpg
 ---
 
 ¡Está abierta de nuevo la oportunidad para que estudiantes de pregrado desarrollen su práctica laboral en el SiB Colombia!
