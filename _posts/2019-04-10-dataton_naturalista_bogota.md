@@ -2,7 +2,7 @@
 title:  "Datatón Naturalista: Bogotá"
 date:   2019-04-10
 categories: ["Ciencia participativa", "Open Data Day", "Inaturalist", "2019"]
-background: /assets/images/noticias_eventos/dataton-blog-memorias.png
+background: /assets/images/noticias_eventos/2019/2019-04-10-dataton_naturalista_bogota-a.jpg
 ---
 
 # Datos abiertos, naturalistas y pizza fueron parte de la celebración del Open Data Day en Bogotá.
@@ -23,7 +23,7 @@ Finalmente, esta actividad evidenció que cada vez es más la ciudadanía que se
 
 ## Imágenes del evento
 
-![My helpful screenshot](/assets/images/noticias_eventos/memorias_dadaton/IMG_8732-1024x768.jpg)
-![My helpful screenshot](/assets/images/noticias_eventos/memorias_dadaton/WhatsApp-Image-2019-03-02-at-12.44.41-1-1024x1024.jpg)
-![My helpful screenshot](/assets/images/noticias_eventos/memorias_dadaton/WhatsApp-Image-2019-03-25-at-18.32.01-768x1024.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/2019/2019-04-10-dataton_naturalista_bogota-b.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/2019/2019-04-10-dataton_naturalista_bogota-c.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/2019/2019-04-10-dataton_naturalista_bogota-d.jpg)
 
