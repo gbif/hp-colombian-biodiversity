@@ -37,7 +37,7 @@ Si eres usuario de Naturalista Colombia (iNaturalist) y cuentas con experiencia 
 ### Bogotá 
 Si eres usuario de Naturalista Colombia (iNaturalist) y cuentas con experiencia en identificación de especies, diligencia el siguiente formulario y anímate a participar en la identificación de las observaciones que se produzcan durante el reto. ¡La meta es conseguir el mayor número de identificaciones y así obtener más y mejores datos sobre nuestra biodiversidad!
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1PXZ8U0-OJBe98oEOaaJME3g-KEVUWZuY" width="640" height="480" style="pointer-events: none;"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1PXZ8U0-OJBe98oEOaaJME3g-KEVUWZuY" width="640" height="480"></iframe>
 
 
 [Click para ver en Google maps](https://www.google.com/maps/d/u/0/viewer?mid=1PXZ8U0-OJBe98oEOaaJME3g-KEVUWZuY&ll=4.639411196278687%2C-74.10527889110341&z=10){:target="_blank"}
