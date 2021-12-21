@@ -2,14 +2,14 @@
 title:  "Integración de datos provenientes de repositorios globales"
 date:   2019-04-11
 categories: ["Registros biológicos", "Ciencia participativa", "GBIF", "Repatriación", "Datos", "2019"]
-background: /assets/images/noticias_eventos/int-datos-2018-blog-1000x1000.png
+background: /assets/images/noticias_eventos/2019/2019-04-11-integracion_de_datos-a.jpg
 ---
 # ¿En qué consiste esta integración de datos?
 Consiste en integrar los registros biológicos del país, que han sido publicados por otros países o redes internacionales de cooperación, a los canales de participación del SiB Colombia. Desde el Equipo Coordinador del SiB Colombia se han identificado cuatro (4) conjuntos de datos esenciales: eBird, iNaturalist, GBIF y Xeno-canto. Cada una de estas fuentes de datos contiene información valiosa, tomada a partir de colecciones biológicas, iniciativas de ciencia participativa y registros con datos significativos asociados (ej. sonidos, imágenes). En conjunto, el volumen de datos abiertos sobre biodiversidad disponible para ser integrado desde las fuentes mencionadas, es de **3.773.350 de registros**.
 
 ## ¿Quieres conocer en detalle las cifras relacionadas con la integración de datos desde repositorios globales?
 
-<img loading="lazy" class="wp-image-7704 aligncenter" src="/assets/images/noticias_eventos/reporte-integracion.gif" alt="" width="598" height="440">
+<img loading="lazy" class="wp-image-7704 aligncenter" src="/assets/images/noticias_eventos/2019/2019-04-11-integracion_de_datos-b.gif" alt="" width="598" height="440">
 
 [Consulta el reporte anual de integración de datos desde repositorios globales – 2018](https://datastudio.google.com/reporting/1bzQiqjuNY8wgdy5qJKP01yrQWjmn67Pr/page/Ge2V){:target="_blank"}
 
