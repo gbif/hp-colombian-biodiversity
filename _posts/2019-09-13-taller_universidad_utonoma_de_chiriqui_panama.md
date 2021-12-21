@@ -2,7 +2,7 @@
 title:  "Taller de manejo y publicación de datos de biodiversidad en GBIF – Universidad Autónoma de Chiriquí, Panamá"
 date:   2019-09-13
 categories: ["GBIF", "Panamá", "Colecciones Biológicas", "Talleres", "2019"]
-background: /assets/images/noticias_eventos/blog-panama-1000x1000.jpg
+background: /assets/images/noticias_eventos/2019/2019-09-13-taller_universidad_utonoma_de_chiriqui_panama.jpg
 ---
 
 ## Fecha:
