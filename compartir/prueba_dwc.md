@@ -2966,9 +2966,9 @@ toc: true
 | [**purificationMethod**<br> (Método de purificación)](#elem293) | [**quality**<br> (Calidad)](#elem294) | [**qualityCheckDate**<br> (Fecha de revisión de la calidad)](#elem295) |
 | [**qualityRemarks**<br> (Comentarios sobre la calidad)](#elem296) | [**volume**<br> (Volumen)](#elem297) | [**volumeUnit**<br> (Unidad del volumen)](#elem298) |
 | [**weigh**<br> (Peso)](#elem299) | [**weighUnit**<br> (Unidad del peso)](#elem300) | [**methodDeterminationWeight**<br> (Método de determinación<br> del peso)](#elem301) |
-| [**samp_size**<br> (Tamaño de la muestra)](#elem302) | [**DNAMeltingPoint**<br> (Temperatura de<br> denaturación del ADN)](#elem303) | [**sieving**<br> (Tamizado)] |
-| [**DNADNAHybridization**<br> (Hibridación ADN-ADN)](#elem304) | [**estimated_size**<br> (Tamaño estimado)](#elem305) | [**pool_dna_extracts**<br> (Combinación de<br> extractos de ADN)](#elem306) | 
-| [**sampleDesignation**<br> (Designación de la muestra)](#elem307) |  |  |
+| [**samp_size**<br> (Tamaño de la muestra)](#elem302) | [**DNAMeltingPoint**<br> (Temperatura de<br> denaturación del ADN)](#elem303) | [**sieving**<br> (Tamizado)](#elem304) |
+| [**DNADNAHybridization**<br> (Hibridación ADN-ADN)](#elem305) | [**estimated_size**<br> (Tamaño estimado)](#elem306) | [**pool_dna_extracts**<br> (Combinación de<br> extractos de ADN)](#elem307) | 
+| [**sampleDesignation**<br> (Designación de la muestra)](#elem308) |  |  |
 |    |    |    |    |
 
 <br>
@@ -2982,6 +2982,202 @@ toc: true
 | Ejemplo | Muestra ambiental<br> ADN<br> Tejido<br> Cepa cultivada<br> Cepa conservada <br> Clon |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
+
+<a name="elem288">**concentration** (Concentración)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Recuento de la muestra (células totales, unidades formadoras de colonia, cantidad de biomasa o cantidad de ADN) por unidad de volumen. |
+| Comentarios | Se recomienda expresar los valores en notación científica utilizando E como equivalente a x10^n. |
+| Ejemplo | 0.81<br>6.74E8<br> >1E7<br> <1E2 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem289">**concentrationUnit** (Unidad de la concentración)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Unidad en la que fue medida la concentración. |
+| Ejemplo | ng/uL<br> UFC/mL<br> propágulos/mL<br> μg/mL |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem290">**methodDeterminationConcentrationAndRatios** (Método para determinación de la concentración)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Descripción del método utilizado para medir la concentración. |
+| Ejemplo | Espectrofotometría<br> Recuento en placa<br> Recuento en cámara de Neubauer<br> Cuantificación por Nanodrop |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem291">**ratioOfAbsorbance260_230** (Relación de absorbancia 260/230)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Para ADN conservado: Relación de absorbancia a 260 nm y 230 nm para evaluar la pureza del ADN. |
+| Ejemplo | 1.85<br> 1.5 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem292">**ratioOfAbsorbance260_280** (Relación de absorbancia 260/280)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Para ADN conservado: Relación de absorbancia a 260 nm y 280 nm para evaluar la pureza del ADN. |
+| Ejemplo | 1.85<br> 2.0 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem293">**purificationMethod** (Método de purificación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Para ADN conservado: Nombre del kit, institución o protocolo que realizó o se utilizó en la extracción del ADN. |
+| Ejemplo | Extracción orgánica<br>  Fenol-Cloroformo, Purelink Genomic DNA extraction kit (Invitrogen)<br>  DNeasy Blood and Tissue Kit (Qiagen) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem294">**quality** (Calidad)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Calidad en la que se encuentra la muestra. |
+| Ejemplo | Viable<br> Muerto o inviable<br> Contaminada<br> Pura<br> Degradado |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem295">**qualityCheckDate** (Fecha de revisión de la calidad)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La fecha o el intervalo más reciente en la que se revisó la calidad o viabilidad de la muestra. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
+| Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem296">**qualityRemarks** (Comentarios sobre la calidad)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Comentarios o anotaciones sobre la calidad de la muestra. |
+| Ejemplo | Se observó contaminación por un hongo<br> ADN degradado |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem297">**volume** (Volumen)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Volumen de la muestra. |
+| Ejemplo | 8<br> 10 |
+| Elementos relacionados | volumeUnit |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem298">**volumeUnit** (Unidad del volumen)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Unidad en la que fue medido el volumen. |
+| Ejemplo | µL<br> ml |
+| Elementos relacionados | volume |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem299">**weigh** (Peso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Peso de la muestra. |
+| Ejemplo | 1<br> 0.2 |
+| Elementos relacionados | weighUnit |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem300">**weighUnit** (Peso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Unidad en la que fue medido el peso. |
+| Ejemplo | g<br> µg<br> g/mol |
+| Elementos relacionados | weigh |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem301">**methodDeterminationWeight** (Método de determinación del peso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Método que se usó para determinar el peso de la muestra. |
+| Ejemplo | Gel de agarosa<br> Pesa |
+| Elementos relacionados | weigh |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem302">**samp_size** (Tamaño de la muestra)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Cantidad de la muestra colectada. |
+| Ejemplo | 20g de suelo<br> 1g de tejido |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem303">**DNAMeltingPoint** (Temperatura de denaturación del ADN)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Para ADN conservado: Resultado del análisis de la curva de denaturación. Los valores deben estar en °C y 3 cifras decimales. |
+| Ejemplo | 85.347<br> 94.000 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem304">**sieving** (Tamizado)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Diseño de la selección de muestras agrupadas y / o tamaño del tamiz y cantidad de muestra tamizada. |
+| Ejemplo | Tamaño del tamiz: 20 µm<br> Cantidad de muestra tamizada: 2 g |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem305">**DNADNAHybridization** (Hibridación ADN-ADN)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Resultado de la hibridación ADN-ADN. |
+| Ejemplo | 70%<br> 85% |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem306">**estimated_size** (Tamaño estimado)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El tamaño estimado del genoma antes de la secuenciación. |
+| Ejemplo | 400 Mpb<br> 1000 pb<br> 50 Kpb |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem307">**pool_dna_extracts** (Combinación de extractos de ADN)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Cantidad de extracciones de ADN combinados (si es el caso). |
+| Ejemplo | 15<br> 18 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem308">**sampleDesignation** (Designación de la muestra)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Números adicionales de laboratorio o proyecto utilizados para identificar la muestra de ADN o tejido. |
+| Ejemplo | ADN_bac_cep04<br> TEJ_fung_muestra01 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
 
 ### Preservación GGBN
 
