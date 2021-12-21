@@ -8,7 +8,7 @@ background: /assets/images/noticias_eventos/2020/2020-09-23-convocatoria_bid_car
 El programa Información sobre Biodiversidad para el Desarrollo (BID) tiene como objetivo mejorar las capacidades para la publicación y uso de datos para el desarrollo sostenible.
 
 ## FECHA LÍMITE: 26 DE NOVIEMBRE DE 2020
-![My helpful screenshot](/assets/images/noticias_eventos/BID-full-RGB-fullspan-300x66.png)
+![My helpful screenshot](/assets/images/noticias_eventos/2020/2020-09-23-convocatoria_bid_caribe_2020b.png)
 
 GBIF invita a presentar propuestas para el financiamiento de proyectos en la región del Caribe a través del programa [Información sobre Biodiversidad para el Desarrollo](https://www.gbif.org/es/programme/82243/){:target="_blank"}(BID), financiado por la [Dirección General para la Cooperación Internacional](https://ec.europa.eu/international-partnerships/){:target="_blank"} de la [Unión Europea](https://europa.eu/){:target="_blank"}.
 
@@ -129,7 +129,7 @@ Los candidatos recomendados por el Panel de Selección serán invitados a presen
 
 Las propuestas completas serán sometidas al mismo proceso de las propuestas iniciales: revisiones independientes por tres asesores y evaluación por el Panel de Selección. Como en la primera fase del BID, las recomendaciones finales para la financiación pueden tener en cuenta el equilibrio geográfico y temático, el balance entre tipos de subsidios y el equilibrio entre equipos de proyectos experimentados y nuevos, para asegurar el mejor impacto general de la ronda anual de financiación.
 
-![My helpful screenshot](/assets/images/noticias_eventos/7995_union_europea-300x200.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/2020/2020-09-23-convocatoria_bid_caribe_2020c.jpg)
 
 Este programa es financiado por la [Unión Europea](http://www.europa.eu/){:target="_blank"}.
 Nota original en [GBIF.org](https://www.gbif.org/news/1x6rLHzpqkBxSOM1IY7AK5/bid-call-for-proposals-caribbean-2020#eligibility){:target="_blank"}
