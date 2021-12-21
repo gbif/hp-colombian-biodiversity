@@ -2,7 +2,7 @@
 title:  "¡Participa en el Reto Naturalista Urbano 2019!"
 date:   2019-04-10
 categories: ["iNaturalist", "Bogotá", "Medellín", "Ciencia participativa", "2019"]
-background: /assets/images/noticias_eventos/CNC2019-sib-1000x1000.png
+background: /assets/images/noticias_eventos/2019/2019-04-10-reto_naturalista_urbano_2019.jpg
 ---
 
 ## ¿Qué es el Reto Naturalista Urbano?
@@ -75,9 +75,9 @@ Si eres usuario de Naturalista Colombia (iNaturalist) y cuentas con experiencia 
 
 # Medellín
 
-<iframe src="https://www.google.com/maps/d/embed?mid=12AInNN9cebuZBSQoZx5Rh9PDEN2sr04u" width="640" height="480" style="pointer-events: none;"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=12AInNN9cebuZBSQoZx5Rh9PDEN2sr04u" width="640" height="480"></iframe>
 
-[Click para ver en Google maps](https://www.google.com/maps/d/u/0/viewer?mid=12AInNN9cebuZBSQoZx5Rh9PDEN2sr04u&ll=6.2805244414652925%2C-75.65120228613284&z=10){:target="_blank"}
+[Click para ver en Google maps](https://www.google.com/maps/d/u/0/viewer?mid=12AInNN9cebuZBSQoZx5Rh9PDEN2sr04u&ll=6.268238857443786%2C-75.58185108984378&z=12){:target="_blank"}
 
 
 ## Tips para las observaciones
