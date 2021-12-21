@@ -2,7 +2,7 @@
 title:  "Biodiversidad en Cifras 2019"
 date:   2019-05-10
 categories: ["Cifras", "Colombia", "GBIF", "Registros Biológicos", "2019"]
-background: /assets/images/noticias_eventos/bd-cifras-blog-1000x1000.jpg
+background: /assets/images/noticias_eventos/2019/2019-05-10-biodiversidad_en_cifras01.jpg
 ---
 
 **Las cifras sobre biodiversidad que comparte el SiB Colombia son dinámicas y cambian a través del tiempo**.
@@ -52,21 +52,21 @@ En esta nueva versión le hemos dado más protagonismo al número de **especies 
 
 #### Versión 2018 (Cifras de especies estimadas):
 
-![My helpful screenshot](/assets/images/noticias_eventos/biodiversidad_en_cifras_2019/Captura-de-pantalla-2019-05-10-a-las-4.18.39-PM.png)
+![My helpful screenshot](/assets/images/noticias_eventos/2019/2019-05-10-biodiversidad_en_cifras02.jpg)
 
 #### Versión 2019 (Cifras de especies estimadas):
 
-![My helpful screenshot](/assets/images/noticias_eventos/biodiversidad_en_cifras_2019/Captura-de-pantalla-2019-05-10-a-las-4.19.17-PM.png)
+![My helpful screenshot](/assets/images/noticias_eventos/2019/2019-05-10-biodiversidad_en_cifras03.jpg)
 
 Asimismo, en el detalle infográfico para cada grupo biológico, la cifra destacada en la gráfica general ahora es la cifra de especies registradas. Ahora la cifra estimada, para los grupos biológicos que no cuentan con listas de referencia publicadas a través del SiB Colombia, se incluye en la parte inferior de la primera gráfica del detalle de cada grupo biológico.
 
 #### Versión 2018
 
-![My helpful screenshot](/assets/images/noticias_eventos/biodiversidad_en_cifras_2019/Captura-de-pantalla-2019-05-10-a-las-4.21.26-PM.png)
+![My helpful screenshot](/assets/images/noticias_eventos/2019/2019-05-10-biodiversidad_en_cifras04.jpg)
 
 #### Versión 2019
 
-![My helpful screenshot](/assets/images/noticias_eventos/biodiversidad_en_cifras_2019/Captura-de-pantalla-2019-05-10-a-las-4.21.40-PM.png)
+![My helpful screenshot](/assets/images/noticias_eventos/2019/2019-05-10-biodiversidad_en_cifras05.jpg)
 
 En cuanto a contenidos, Biodiversidad en Cifras continúa creciendo gracias a la alianza con el [SiB Marino](https://sibcolombia.net/sibcol-sibm/) concretada en el 2018. Ahora encontrarás más cifras sobre los principales grupos biológicos que habitan nuestros mares:
 
