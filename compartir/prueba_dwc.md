@@ -3226,8 +3226,61 @@ toc: true
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-
 ### Permiso GGBN
+
+|    |    |    |
+| ---|--- |--- |
+| [**permitType**<br> (Tipo de permiso)](#elem313) | [**permitStatus**<br> (Estado del permiso)](#elem314) | [**permitStatusQualifier**<br> (Calificador del estado del permiso)](#elem315) | [**permitURI**<br> (Identificador del permiso)](#elem316) |
+| [**permitText**<br> (Texto del permiso)](#elem317) |  |  |  |
+|    |    |    |
+
+<br>
+<br>
+
+<a name="elem313">**permitType** (Tipo de permiso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El tipo del permiso (documento que le permite a alguien tomar una acción que de otra manera no estaría permitida). Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | Permiso de colecta<br> Permiso de importación<br> Permiso de exportación<br> Derechos de propiedad intelectual<br> Derechos de autor<br> Patente<br> Fitosanitario<br> Acuerdo de transferencia de material<br> Contrato<br> Memorando de entendimiento<br> Organismo modificado genéticamente |
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+|    |    |
+
+<a name="elem314">**permitStatus** (Estado del permiso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La información sobre la presencia, ausencia u otro estado básico de los permisos asociados a la(s) muestra(s). |
+| Ejemplo | Permiso disponible<br> Permiso no requerido<br> Permiso no disponible<br> Desconocido |
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+|    |    |
+
+<a name="elem315">**permitStatusQualifier** (Calificador del estado del permiso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La descripción de por qué no se requirió cierto permiso o por qué se desconoce el estado del permiso. |
+| Ejemplo | Ningún requisito nacional para un permiso en la fecha de acceso<br> Recolectado en tierras privadas<br> Pre-Nagoya |
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+|    |    |
+
+<a name="elem316">**permitURI** (Identificador del permiso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un enlace a la referencia del permiso con la información de recolección o envío. |
+| Ejemplo | https://ipt.biodiversidad.co/cr-sib/resource.do?r=00519_pecesgorgona_20211015<br> https://ipt.biodiversidad.co/cr-sib/resource.do?r=00286_toyo1_20180627<br> https://www.utadeo.edu.co/files/collections/documents/field_attached_file/resolucion_anla_1715.pdf |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem317">**permitText** (Texto del permiso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El texto del permiso con la información de recolección, envío y/o más detalles. |
+| Ejemplo | Permiso de recolección otorgado por la Autoridad Nacional de Licencias Ambientales mediante resolución 1271 del 23 de octubre de 2014 para la recolección es especímenes de especies silvestres de la biodiversidad biológica con fines de investigación científica no comerciales. Vigencia de 10 años. |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
 
 ### Preparación GGBN
 
