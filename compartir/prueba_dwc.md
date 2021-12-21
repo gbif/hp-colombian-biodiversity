@@ -2959,8 +2959,8 @@ toc: true
 
 ### Muestra del Material GGBN
 
-|    |    |    |    |
-| ---|--- |--- |--- |
+|    |    |    |
+| ---|--- |--- |
 | [**materialSampleType**<br> (Tipo de muestra)](#elem287) | [**concentration**<br> (Concentración)](#elem288) | [**concentrationUnit**<br> (Unidad de la concentración)](#elem289) | 
 | [**methodDetermination<br>ConcentrationAndRatios**<br> (Método para determinación <br>de la concentración)](#elem290) | [**ratioOfAbsorbance260_230**<br> (Relación de absorbancia<br> 260/230)](#elem291) | [**ratioOfAbsorbance260_280**<br> (Relación de absorbancia<br> 260/280)](#elem292) |
 | [**purificationMethod**<br> (Método de purificación)](#elem293) | [**quality**<br> (Calidad)](#elem294) | [**qualityCheckDate**<br> (Fecha de revisión de la calidad)](#elem295) |
@@ -2969,7 +2969,7 @@ toc: true
 | [**samp_size**<br> (Tamaño de la muestra)](#elem302) | [**DNAMeltingPoint**<br> (Temperatura de<br> denaturación del ADN)](#elem303) | [**sieving**<br> (Tamizado)](#elem304) |
 | [**DNADNAHybridization**<br> (Hibridación ADN-ADN)](#elem305) | [**estimated_size**<br> (Tamaño estimado)](#elem306) | [**pool_dna_extracts**<br> (Combinación de<br> extractos de ADN)](#elem307) | 
 | [**sampleDesignation**<br> (Designación de la muestra)](#elem308) |  |  |
-|    |    |    |    |
+|    |    |    |
 
 <br>
 <br>
@@ -3181,13 +3181,59 @@ toc: true
 
 ### Preservación GGBN
 
+|    |    |    |
+| ---|--- |--- |
+| [**preservationType**<br> (Tipo de preservación)](#elem309) | [**preservationTemperature**<br> (Temperatura de preservación)](#elem310) | [**preservationDateBegin**<br> (Fecha inicial de preservación)](#elem311) | 
+| [**sequence**<br> (Secuencia)](#elem312) |  |  |
+|    |    |    |
+
+<br>
+<br>
+
+<a name="elem309">**preservationType** (Tipo de preservación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Método utilizado para la preservación de la muestra. |
+| Ejemplo | Crioconservación (Medio BHI + Glicerol 20%)<br> Liofilización<br> Papel |
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+|    |    |
+
+<a name="elem310">**preservationTemperature** (Temperatura de preservación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Temperatura en la que está preservada la muestra. |
+| Ejemplo | -196°C |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem311">**preservationDateBegin** (Fecha inicial de preservación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La fecha o el intervalo en la que inicia la preservación de la muestra. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
+| Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem312">**sequence** (Secuencia)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Descripción de la secuencia (orden) de diferentes observaciones realizadas a la muestra. Por ejemplo como se muestra a continuación:<br><br> 1 (= Más antigua)<br> 4 (= Más reciente) |
+| Ejemplo | 1<br> 4 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+
 ### Permiso GGBN
 
 ### Preparación GGBN
 
 ### Amplificación GGBN
 
-### Preestamo GGBN
+### Prestamo GGBN
 
 
 ## Vocabularios Controlados
