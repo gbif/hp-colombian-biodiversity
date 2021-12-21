@@ -3269,7 +3269,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Un enlace a la referencia del permiso con la información de recolección o envío. |
-| Ejemplo | https://ipt.biodiversidad.co/cr-sib/resource.do?r=00519_pecesgorgona_20211015<br> https://ipt.biodiversidad.co/cr-sib/resource.do?r=00286_toyo1_20180627<br> https://www.utadeo.edu.co/files/collections/documents/field_attached_file/resolucion_anla_1715.pdf |
+| Ejemplo | https://ipt.biodiversidad.co/cr-sib/resource.do?r=00519_pecesgorgona_20211015<br> https://ipt.biodiversidad.co/cr-sib/resource.do?r=00286_toyo1_20180627|
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -3339,6 +3339,34 @@ toc: true
 |    |    |
 
 ### Amplificación GGBN
+
+|    |    |    |
+| ---|--- |--- |
+| [**amplificationDate**<br> (Fecha de la amplificación](#elem323) | [**amplificationStaff**<br> (Amplificado por)](#elem324) | [**amplificationSuccess**<br> (Éxito de la amplificación)](#elem325) |
+| [**amplificationSuccessDetails**<br> (Detalle del éxito de la amplificación)](#elem326) | [**amplificationMethod**<br> (Método de la amplificación)](#elem327) | [**primerSequenceForward**<br> (Cebador directo)](#elem328) |
+| [**primerNameForward**<br> (Nombre del cebador directo)](#elem329) | [**primerReferenceCitationForward**<br> (Citación del cebador directo)](#elem330) | [**primerReferenceLinkForward**<br> (URL del cebador directo)](#elem331) |
+| [**primerSequenceReverse**<br> (Cebador inverso)](#elem332) | [**primerNameForward**<br> (Nombre del cebador inverso)](#elem333) | [**primerReferenceCitationForward**<br> (Citación del cebador inverso)](#elem334) |
+| [**primerReferenceLinkForward**<br> (URL del cebador inverso)](#elem335) | [**purificationMethod**<br> (Método de purificación)](#elem336) | [**consensusSequence**<br> (Secuencia consenso)](#elem337) |
+| [**consensusSequenceLength**<br> (Longitud de la secuencia consenso)](#elem338) | [**consensusSequence<br>ChromatogramFileURI**<br> (Identificador del archivo del<br> cromatograma de la secuencia consenso)](#elem339) | [**barcodeSequence**<br> (Secuencia código de barras)](#elem340) |
+| [**haplotype**<br> (Haplotipo)](#elem341) | [**marker**<br> (Marcador)](#elem342) | [**markerSubfragment**<br> (Subfragmento del marcador](#elem343) |
+| [**geneticAccessionNumber**<br> (Número de accesión genético)](#elem344) | [**BOLDProcessID**<br> (ID del proceso de BOLD)](#elem345) | [**geneticAccessionURI**<br> (Identificador de accesión genético](#elem346) |
+| [**GC-content**<br> (Contenido GC)](#elem347) | [**chimera_check**<br> (Verificación de secuencia quimérica)](#elem348) | [**assembly**<br> (Ensamblaje](#elem349) |
+| [**sop**<br> (Compensación](#elem350) | [**finishing_strategy**<br> (Estrategia de finalización)](#elem351) | [**annot_source**<br> (Fuente de la anotación](#elem352) |
+| [**markerAccordance**<br> (Marcador acordado)](#elem353) | [**seq_quality_check**<br> (Verificación de la calidad de la secuencia)](#elem354) | [**adapters**<br> (Adaptadores](#elem355) |
+| [**mid**<br> (Identificadores multiplex)](#elem356) |  |  |
+|    |    |    |
+
+<br>
+<br>
+
+<a name="elem318">**preparationType** (Tipo de preparación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La descripción del tipo de preparación (muestras, tejidos, ADN). |
+| Ejemplo | Hoja<br> Músculo<br> Sangre<br> gDNA |
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+|    |    |
 
 ### Prestamo GGBN
 
