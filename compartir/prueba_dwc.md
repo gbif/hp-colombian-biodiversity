@@ -3490,7 +3490,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Secuencia consenso derivada de todas las secuencias individuales. |
-| Ejemplo | ATGAACCATATACCTGTGCAATATTTTAACTTAGCAAAGGAAAGTTATTTTAAGTATGGATTATCGGTAA<br> TCCAGCTTATNCAGATTGGTAAGTTCTATGAACTTTGGCATGAGCCTGATACTCCTAGTGTACAACAAGT<br> ATACTCACAAGCCGAGTTATTAGTTGGGCCATCCATGCGAAGTAGGCCTTTGGAGGTGACGCCCCCCATA<br> GAACAAATTGCCTCGTTACTTGATATGAGAATAATATCGCCCGGCAAAAGATCCTTNCTTCAAATGGGGT<br> TTCCAATTTATTCCCTTACTACTCATCTAAGTACTTTGTTGGATAAAGGTTGGACTGTAATAGTTATTGA |
+| Ejemplo | ATGAACCATATACCTGTGCAATATTTTAACTTAGCAAAGGAAAGTTATTTT<br> AAGTATGGATTATCGGTAATCCAGCTTATNCAGATTGGTAAGTTCTAT<br> GAACTTTGGCATGAGCCTGATACTCCTAGTGTACAACAAGTATACTC<br> ACAAGCCGAGTTATTAGTTGGGCCATCCATGCGAAGTAGGCCTTTGG<br> AGGTGACGCCCCCCATAGAACAAATTGCCTCGTTACTTGATATGAGA<br>ATAATATCGCCCGGCAAAAGATCCTTNCTTCAAATGGGGTTTCCAA<br> TTTATTCCCTTACTACTCATCTAAGTACTTTGTTGGATAAAGGTT |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -3517,7 +3517,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Secuencia de código de barras de ADN (parte o el 100% de la secuencia consenso). |
-| Ejemplo | GTTAATGCTGCTATTATGTTTATATCGTTGGGATTAGACTATATAGGCTTAATATTTATAATTGTCTATGTGGGGGCTATCG<br> CGATTTTATTCCTGTTCGTAATTATGTTAATTCAACAGCCTAATAAGGTAGATTCTCAAGATCACTCGCATTTTTTACCTGTAGGATTATCTGTT<br> ATATTTTTATTTTATAGTCTACTAACCAATAGCCCCAAATATATCAGCAATCCTGTTATAGGATCTAGAACTAACATTGGGGCAATTGGAAGTCA<br> TCTTTATACAACTTATTATGAATTAGTGTTAATTGCTAGTTTGGTGCTACTAGTCGCTATGATAGGGGCGATATTATTAGCTAAGCAGCCAAATT<br> CACCTTTTTTATATA |
+| Ejemplo | GTTAATGCTGCTATTATGTTTATATCGTTGGGATTAGACTATATAGGCTT<br>AATATTTATAATTGTCTATGTGGGGGCTATCGCGATTTTATTCCTGTT<br> CGTAATTATGTTAATTCAACAGCCTAATAAGGTAGATTCTCAAGATCAC<br> TCGCATTTTTTACCTGTAGGATTATCTGTTATATTTTTATTTTATAGTC<br> TACTAACCAATAGCCCCAAATATATCAGCAATCCTGTTATAGGATCTAG<br> AACTAACATTGGGGCAATTGGAAGTCATCTTTATACAACTTATTATGAA<br> TTAGTGTTAATTGCTAGTTTGGTGCTACTAGTCGCTATGATAGGGGCGA<br> TATTATTAGCTAAGCAGCCAAATTCACCTTTTTTATATA |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -3665,8 +3665,88 @@ toc: true
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-### Prestamo GGBN
+### Préstamo GGBN
 
+|    |    |    |    |
+| ---|--- |--- |--- |
+| [**blocked**<br> (Bloqueado](#elem357) | [**blockedUntil**<br> (Bloqueado hasta)](#elem358) | [**loanConditions**<br> (Condiciones del préstamo)](#elem359) | [**loanDate**<br> (Fecha del préstamo)](#elem360) |
+| [**loanDestination**<br> (Destino del préstamo](#elem361) | [**loanIdentifier**<br> (Identificador del préstamo)](#elem362) | [**disposition**<br> (Disposición)](#elem363) | [**receivedFrom**<br> (Recibido de)](#elem364) |
+|    |    |    |    |
+
+<br>
+<br>
+
+<a name="elem357">**blocked** (Bloqueado)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Elemento que indica si una muestra o espécimen se puede, o no se puede, prestar. |
+| Ejemplo | Si<br> No |
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+|    |    |
+
+<a name="elem358">**blockedUntil** (Bloqueado hasta)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La fecha a partir de la cual se puede prestar la muestra o espécimen. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
+| Ejemplo | 2010<br> 2010-01<br> 2010-01-17v 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem359">**loanConditions** (Condiciones del préstamo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Condiciones bajo las cuales se puede prestar la muestra o espécimen. |
+| Ejemplo | Unicamente para instituciones no comerciales<br> Únicamente con permiso del proveedor del material |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem360">**loanDate** (Fecha del préstamo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La fecha en la que fue prestada la muestra o espécimen. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
+| Ejemplo | 2010<br> 2010-01<br> 2010-01-17v 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem361">**loanDestination** (Destino del préstamo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre de la persona y/o organización a la que se le prestó la muestra o espécimen. |
+| Ejemplo | Pontificia Universidad Javeriana, Carlos Alberto Prieto López |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem362">**loanIdentifier** (Identificador del préstamo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un identificador asociado al préstamo realizado. |
+| Ejemplo | PRT020 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem363">**disposition** (Disposición)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El estado actual de un espécimen o muestra con respecto a la colección identificada en collectionCode o collectionID. Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | En colección<br> Perdido<br> Voucher en otra parte<br> Duplicado en otra parte<br> Consumido |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem364">**receivedFrom** (Recibido de)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre de la persona y/o organización de la que se recibió y autorizó el préstamo de la muestra o espécimen. |
+| Ejemplo | Universidad de los Andes, María Isabel Cárdenas Contreras |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
 
 ## Vocabularios Controlados
 
