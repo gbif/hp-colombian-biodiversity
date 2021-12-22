@@ -3762,7 +3762,7 @@ toc: true
 
 <a name="elem365">**basisOfRecord** (Base del registro)</a>
 
-|    |    |
+|  Elemento |  Definición  |
 | ---|--- |
 | PreservedSpecimen | El organismo está preservado (muerto), vivió dentro de tiempos históricos y existe (o alguna vez existió) una parte física que podría ser evaluada nuevamente.<br><br> Exclusivo para uso de las colecciones biológicas, las cuales custodian la evidencia física del espécimen preservado.<br><br> Siempre va acompañado del elemento type documentado como “Objeto físico”. |
 | LivingSpecimen | Existe un espécimen vivo (crece o metaboliza) disponible en una colección.<br><br> Exclusivo para uso de las colecciones biológicas vivas y zoológicos, las cuales custodian la evidencia física del espécimen. No aplica para partes dormantes de un espécimen preservado.<br><br> Siempre va acompañado del elemento type documentado como “Objeto físico”. |
@@ -3770,4 +3770,15 @@ toc: true
 | MachineObservation | Se emplea para cualquier tipo de observación indirecta de un organismo por medio de un equipo o medio digital (grabadora de sonido, cámara trampa, entre otros), donde la evidencia del registro puede ser evaluada nuevamente:<br><br> Según el caso, va acompañado del elemento type documentado como “Imagen estática”, “Imagen en movimiento” o “Sonido”. |
 | MaterialSample | Se emplea cuando la evidencia del organismo es indirecta y corresponde solo a una parte de este, por ejemplo: sangre, tejido, pelo, heces, etc.<br><br> Siempre va acompañado del elemento type documentado como “Objeto físico”. |
 | FossilSpecimen | Se emplea con organismos prehistóricos con evidencia fósil que soporta su existencia.<br><br> Siempre va acompañado del elemento type documentado como “Objeto físico”. |
+|    |    |
+
+<a name="elem366">**type** (Tipo)</a>
+
+|  Elemento |  Definición  |
+| ---|--- |
+| Objeto físico | Evidencia física que soporta el registro biológico.<br> Siempre complementa la base del registro (basisOfRecord): PreservedSpecimen, LivingSpecimen, Sample y FossilSpecimen |
+| Imagen estática | Una fotografía.<br> Complementa la base del registro (basisOfRecord): MachineObservation |
+| Imagen movimiento | Un video, puede incluir sonido.<br> Complementa la base del registro (basisOfRecord): MachineObservation |
+| Sonido | Registro de audio.<br> Puede complementar la base del registro (basisOfRecord): MachineObservation y HumanObservation |
+| Evento | Observación de los especímenes en campo.<br> Siempre complementa la base del registro (basisOfRecord): HumanObservation |
 |    |    |
