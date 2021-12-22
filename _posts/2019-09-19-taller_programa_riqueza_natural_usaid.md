@@ -67,4 +67,4 @@ Se espera que en los meses posteriores al taller los datos sobre biodiversidad a
 - [Taller práctico](https://drive.google.com/drive/folders/1PQHC9mZ5iEpSU9hRoqt-oJcxVxRKoTDI?usp=sharing){:target="_blank"}
 - [Encuesta final](https://drive.google.com/open?id=1Otg1lNBPc50ycjBSzFyWjvCAHVbz8Alf){:target="_blank"}
 
-![My helpful screenshot](/assets/images/noticias_eventos/FotoGrupal-1024x768.jpg)
+![My helpful screenshot](/assets/images/noticias_eventos/2019/2019-09-19-taller_programa_riqueza_natural_usaidb.jpg)
