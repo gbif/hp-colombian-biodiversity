@@ -6,9 +6,9 @@ background: /assets/images/noticias_eventos/2012/2012-04-13-taller-colecciones-3
 
 ---
 **Fechas:** 8-11 octubre 2012  
-**Ciudad: Villa de Leyva (Colombia).  
-**Lugar del taller:** Claustro de San Agustín, Instituto Alexander von Humboldt. Dirección: Carrera 8 No. 15-08, Villa de Leyva (Boyacá), Colombia. Sitio web.  
-**Organizadores:** SiB, Sistema de Información sobre Biodiversidad de Colombia (Instituto Alexander von Humboldt) y Nodo Español de GBIF (GBIF.ES).
+**Ciudad: Villa de Leyva (Colombia).**  
+**Lugar del taller:** Claustro de San Agustín, Instituto Alexander von Humboldt. Dirección: Carrera 8 No. 15-08, Villa de Leyva (Boyacá), Colombia.  
+**Organizadores:** SiB Colombia, Sistema de Información sobre Biodiversidad de Colombia (Instituto Alexander von Humboldt) y [Nodo Español de GBIF](https://www.gbif.es/){:target="_blank"}.
 **Idioma:** español.  
 **Número de participantes:** 26.  
 **Ponentes:** Cristina Villaverde (GBIF.ES), Danny Vélez (SiB Colombia), Greg Riccardi (The Florida State University), Francisco Pando (GBIF.ES), Juan Carlos Bello (SiB Colombia), Liliana Lara (CONABIO), María Cecilia Londoño (IAvH), María Fernanda Gómez (SiB Colombia), Maylin González (IAvH), Óscar Orrego (SiB Colombia).  
