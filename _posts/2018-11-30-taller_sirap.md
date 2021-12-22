@@ -37,5 +37,5 @@ background: /assets/images/noticias_eventos/2018/2018-11-30-taller_sirap.jpg
 * [Fotografías](https://drive.google.com/drive/u/0/folders/1v1P2UOr4cBk_IAuCrbGjfordrNsbMeAk){:target="_blank"}
 * [Asistentes](https://drive.google.com/file/d/1ctTrYTrFWWUi6oJUiJ1kV_ziZ4YUxhFD/view){:target="_blank"}
 
-<img src="/assets/images/noticias_eventos/blog-sirap-1000x1000.jpg" width=770>
+<img src="/assets/images/noticias_eventos/2018/2018-11-30-taller_sirap.jpg" width=770>
 
