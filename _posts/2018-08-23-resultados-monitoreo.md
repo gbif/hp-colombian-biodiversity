@@ -7,7 +7,7 @@ background: /assets/images/noticias_eventos/2018/2018-08-23-Resultados-Curso-Mon
 
 ---
 
-El [curso de monitoreo participativo en biodiversidad](https://hp-colombian-biodiversity.gbif-staging.org/post/2017/curso-monitoreo-participativo/) se desarrolló del 23 al 28 de octubre de 2017 en la Reserva natural Cañón del Río Claro en Antioquia. Participaron 48 personas, incluyendo biólogos, líderes comunitarios, expertos internacionales de Argentina, Bolivia, Brasil, Chile y Perú, representantes de la academia, organizaciones no gubernamentales y del Instituto Humboldt.  
+El [curso de monitoreo participativo en biodiversidad](/post/2017/curso-monitoreo-participativo/) se desarrolló del 23 al 28 de octubre de 2017 en la Reserva natural Cañón del Río Claro en Antioquia. Participaron 48 personas, incluyendo biólogos, líderes comunitarios, expertos internacionales de Argentina, Bolivia, Brasil, Chile y Perú, representantes de la academia, organizaciones no gubernamentales y del Instituto Humboldt.  
 
 El curso de monitoreo contó con tres grandes fases de desarrollo, la primera se concentró en convocar a las personas interesadas en intercambiar y aprender sobre procesos y estrategias de monitoreo a nivel nacional e internacional, esta fase comprendió de una postulación sobre las expectativas de aprendizaje del curso y sobre la experiencia previa en monitoreo. La segunda fase se centró en el desarrollo del curso y la evaluación del mismo. La tercera y última fase fue la identificación de la aplicabilidad de aprendizajes del curso por cada uno de los participantes a través de las réplicas y la elaboración de los planes de monitoreo.  
 
