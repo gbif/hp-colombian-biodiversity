@@ -72,3 +72,5 @@ A corto plazo se espera obtener publicaciones de conjuntos de datos de biodivers
 - Alicia Sanjur – Estudiante de Licenciatura en Biología, UNACHI
 - Ana Vissuetti – Estudiante de Licenciatura en Biología, UNACHI
 - Stephanie Samaniego – Estudiante de Licenciatura en Biología, UNACHI
+
+<img src="/assets/images/noticias_eventos/2019/2019-09-13-taller_universidad_utonoma_de_chiriqui_panamab.jpg" width=770>
