@@ -20,7 +20,7 @@ El taller **Calidad de datos + biodiversidad** busca compartir con la comunidad 
 
 <img src="/comunidad/formacion/images/tallercalidaddatos/CESP_DQ_logos.png" width=770>
 
-<img src="/assets/images/noticias_eventos/CESP_DQ_header_web-1280x400.jpg" width=770>
+<img src="/comunidad/formacion/images/CESP_DQ_header_web-1280x400.jpg" width=770>
 
 ### Contexto
 
