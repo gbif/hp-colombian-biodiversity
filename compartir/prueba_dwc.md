@@ -43,7 +43,7 @@ toc: true
 | Definición | Especifica el tipo de evidencia que da origen al registro, ampliando la información presente en el elemento basisOfRecord. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | Elementos relacionados | basisOfRecord |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Opcional)_ |
-| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Stillmage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event |
+| [Vocabulario controlado](elem366) | Stillmage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event |
 |    |    |
 
 <a name="elem003">**institutionCode** (Código de la institución)</a>
@@ -122,7 +122,7 @@ toc: true
 | Definición | El idioma del conjunto de datos. |
 | Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 639-1 de 2 letras en minúscula, como se muestra a continuación:<br><br> es (=Para español)<br> en (=Para inglés) |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_<br> Evento de muestreo _(Opcional)_ |
-| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados#vocabularios-controlados) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
+| [Vocabulario controlado](elem367) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
 |    |    |
 
 <a name="elem011">**license** (Licencia)</a>
@@ -3782,3 +3782,10 @@ toc: true
 | Sonido | Registro de audio.<br> Puede complementar la base del registro (basisOfRecord): MachineObservation y HumanObservation |
 | Evento | Observación de los especímenes en campo.<br> Siempre complementa la base del registro (basisOfRecord): HumanObservation |
 |    |    |
+
+<a name="elem367">**language** (Idioma)</a>
+
+|   |
+| ---|
+| Utilizar el vocabulario contraldo para el idioma en la norma ISO 639-1. Solamenete se usan 2 letras en minúscula, consulte la información en la página oficial de ISO http://www.loc.gov/standards/iso639-2/php/code_list.php |
+|    |
