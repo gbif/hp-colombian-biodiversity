@@ -1,5 +1,5 @@
 ---
-title:  "Seminarios abiertos de Georreferenciación!"
+title:  "Seminarios abiertos de Georreferenciación"
 date:   2020-11-18
 categories: ["Seminario", "GBIF", "Georreferenciación","GBIF CESP", "2020"]
 background: /assets/images/noticias_eventos/2020/2020-11-18-seminarios_abiertos_de_georreferenciacion.jpg
