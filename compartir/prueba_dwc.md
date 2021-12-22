@@ -341,7 +341,7 @@ toc: true
 | Definición | Una afirmación que de cuenta si un organismo ha sido introducido a un lugar y tiempo determinado a través de actividad humana directa o indirecta. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos degreeOfEstablishment y pathway. |
 | Elementos relacionados | degreeOfEstablishment, pathway |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain |
+|  [Vocabulario controlado](elem668) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain |
 |    |    |
 
 <a name="elem033">**degreeOfEstablishment** (Grado de establecimiento)</a>
@@ -3762,7 +3762,7 @@ toc: true
 
 <a name="elem365">**basisOfRecord** (Base del registro)</a>
 
-|  Elemento |  Definición  |
+|  Vocabulario |  Definición  |
 | ---|--- |
 | PreservedSpecimen | El organismo está preservado (muerto), vivió dentro de tiempos históricos y existe (o alguna vez existió) una parte física que podría ser evaluada nuevamente.<br><br> Exclusivo para uso de las colecciones biológicas, las cuales custodian la evidencia física del espécimen preservado.<br><br> Siempre va acompañado del elemento type documentado como “Objeto físico”. |
 | LivingSpecimen | Existe un espécimen vivo (crece o metaboliza) disponible en una colección.<br><br> Exclusivo para uso de las colecciones biológicas vivas y zoológicos, las cuales custodian la evidencia física del espécimen. No aplica para partes dormantes de un espécimen preservado.<br><br> Siempre va acompañado del elemento type documentado como “Objeto físico”. |
@@ -3774,7 +3774,7 @@ toc: true
 
 <a name="elem366">**type** (Tipo)</a>
 
-|  Elemento |  Definición  |
+|  Vocabulario |  Definición  |
 | ---|--- |
 | Objeto físico | Evidencia física que soporta el registro biológico.<br> Siempre complementa la base del registro (basisOfRecord): PreservedSpecimen, LivingSpecimen, Sample y FossilSpecimen |
 | Imagen estática | Una fotografía.<br> Complementa la base del registro (basisOfRecord): MachineObservation |
@@ -3789,3 +3789,45 @@ toc: true
 | ---|
 | Utilizar el vocabulario contraldo para el idioma en la norma ISO 639-1. Solamenete se usan 2 letras en minúscula, consulte la información en la página oficial de ISO http://www.loc.gov/standards/iso639-2/php/code_list.php |
 |    |
+
+<a name="elem368">**establishmentMeans** (Medios de establecimiento)</a>
+
+|  Vocabulario |  Definición  |
+| ---|--- |
+| native | Nativo |
+| nativeReintroduced | Nativo reintroducido |
+| introduced | Introducido |
+| introducedAssistedColonisation | Introducido con colonización asistida |
+| vagrant | Errante |
+| uncertain | Incierto |
+|    |    |
+
+<a name="elem369">**degreeOfEstablishment** (Grado de establecimiento)</a>
+
+|  Vocabulario |  Definición  |
+| ---|--- |
+| native | Nativo |
+| captive | Cautivo |
+| cultivated | Cultivado |
+| released | Liberado |
+| failing | Fallido |
+| casual | Casual |
+| reproducing | Reproduciéndose |
+| established | Establecido |
+| colonising | Colonizando |
+| invasive | Invasor |
+| widespreadInvasive | Invasor ampliamente distribuido |
+|    |    |
+
+<a name="elem370">**pathway** (Ruta de introducción)</a>
+La lista completa de vocabularios controlados se encuentra disponible en https://dwc.tdwg.org/pw/#4-vocabulary. Utilice la palabra en la columna llamada controlled value. Se presentan los vocabularios más comunes a continuación:
+
+|  Vocabulario |  Definición  |
+| ---|--- |
+| releasedForUse | Liberado |
+| otherEscape | Escape accidental |
+| transportContaminant | Contamiación en transporte |
+| transportStowaway | Polizón en transporte |
+| corridor | Corredor |
+| unaided | Sin ayuda |
+|    |    |
