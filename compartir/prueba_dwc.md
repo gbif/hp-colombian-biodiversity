@@ -3821,6 +3821,7 @@ toc: true
 
 <a name="elem370">**pathway** (Ruta de introducción)</a>
 <br>
+<br>
 La lista completa de vocabularios controlados se encuentra disponible en [https://dwc.tdwg.org/pw/#4-vocabulary](https://dwc.tdwg.org/pw/#4-vocabulary). Utilice la palabra en la columna llamada controlled value. Se presentan los vocabularios más comunes a continuación:
 
 |  Vocabulario |  Definición  |
