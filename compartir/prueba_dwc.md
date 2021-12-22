@@ -33,7 +33,7 @@ toc: true
 | Comentarios | Sólo las colecciones biológicas pueden documentar PreservedSpecimen, si el registro corresponde a un espécimen depositado, pero el reporte no lo genera la colección biológica, se documenta HumanObservation y se documentan los elementos collectionCode, catalogNumber y disposition. |
 | Elementos relacionados | type |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_ |
-| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | PreservedSpecimen<br> HumanObservation<br> LivingSpecimen<br> FossilSpecimen<br> MachineObservation<br> MaterialSample<br> MaterialCitation |
+| [Vocabulario controlado](#elem365) | PreservedSpecimen<br> HumanObservation<br> LivingSpecimen<br> FossilSpecimen<br> MachineObservation<br> MaterialSample<br> MaterialCitation |
 |    |    |
 
 <a name="elem002">**type (Tipo)**</a>
@@ -3286,7 +3286,7 @@ toc: true
 
 |    |    |    |
 | ---|--- |--- |
-| [**preparationType**<br> (Tipo de preparación](#elem318) | [**preparationProcess**<br> (Proceso de la preparación)](#elem319) | [**preparationMaterials**<br> (Materiales de la preparación)](#elem320) |
+| [**preparationType**<br> (Tipo de preparación)](#elem318) | [**preparationProcess**<br> (Proceso de la preparación)](#elem319) | [**preparationMaterials**<br> (Materiales de la preparación)](#elem320) |
 | [**preparedBy**<br> (Preparado por)](#elem321) | [**preparationDate**<br> (Fecha de la preparación)](#elem322) |  |
 |    |    |    |
 
@@ -3342,17 +3342,17 @@ toc: true
 
 |    |    |    |
 | ---|--- |--- |
-| [**amplificationDate**<br> (Fecha de la amplificación](#elem323) | [**amplificationStaff**<br> (Amplificado por)](#elem324) | [**amplificationSuccess**<br> (Éxito de la amplificación)](#elem325) |
+| [**amplificationDate**<br> (Fecha de la amplificación)](#elem323) | [**amplificationStaff**<br> (Amplificado por)](#elem324) | [**amplificationSuccess**<br> (Éxito de la amplificación)](#elem325) |
 | [**amplificationSuccessDetails**<br> (Detalle del éxito de la amplificación)](#elem326) | [**amplificationMethod**<br> (Método de la amplificación)](#elem327) | [**primerSequenceForward**<br> (Cebador directo)](#elem328) |
 | [**primerNameForward**<br> (Nombre del cebador directo)](#elem329) | [**primerReferenceCitationForward**<br> (Citación del cebador directo)](#elem330) | [**primerReferenceLinkForward**<br> (URL del cebador directo)](#elem331) |
 | [**primerSequenceReverse**<br> (Cebador inverso)](#elem332) | [**primerNameForward**<br> (Nombre del cebador inverso)](#elem333) | [**primerReferenceCitationForward**<br> (Citación del cebador inverso)](#elem334) |
 | [**primerReferenceLinkForward**<br> (URL del cebador inverso)](#elem335) | [**purificationMethod**<br> (Método de purificación)](#elem336) | [**consensusSequence**<br> (Secuencia consenso)](#elem337) |
 | [**consensusSequenceLength**<br> (Longitud de la secuencia consenso)](#elem338) | [**consensusSequence<br>ChromatogramFileURI**<br> (Identificador del archivo del<br> cromatograma de la secuencia consenso)](#elem339) | [**barcodeSequence**<br> (Secuencia código de barras)](#elem340) |
-| [**haplotype**<br> (Haplotipo)](#elem341) | [**marker**<br> (Marcador)](#elem342) | [**markerSubfragment**<br> (Subfragmento del marcador](#elem343) |
-| [**geneticAccessionNumber**<br> (Número de accesión genético)](#elem344) | [**BOLDProcessID**<br> (ID del proceso de BOLD)](#elem345) | [**geneticAccessionURI**<br> (Identificador de accesión genético](#elem346) |
-| [**GC-content**<br> (Contenido GC)](#elem347) | [**chimera_check**<br> (Verificación de secuencia quimérica)](#elem348) | [**assembly**<br> (Ensamblaje](#elem349) |
-| [**sop**<br> (Compensación](#elem350) | [**finishing_strategy**<br> (Estrategia de finalización)](#elem351) | [**annot_source**<br> (Fuente de la anotación](#elem352) |
-| [**markerAccordance**<br> (Marcador acordado)](#elem353) | [**seq_quality_check**<br> (Verificación de la calidad de la secuencia)](#elem354) | [**adapters**<br> (Adaptadores](#elem355) |
+| [**haplotype**<br> (Haplotipo)](#elem341) | [**marker**<br> (Marcador)](#elem342) | [**markerSubfragment**<br> (Subfragmento del marcador)](#elem343) |
+| [**geneticAccessionNumber**<br> (Número de accesión genético)](#elem344) | [**BOLDProcessID**<br> (ID del proceso de BOLD)](#elem345) | [**geneticAccessionURI**<br> (Identificador de accesión genético)](#elem346) |
+| [**GC-content**<br> (Contenido GC)](#elem347) | [**chimera_check**<br> (Verificación de secuencia quimérica)](#elem348) | [**assembly**<br> (Ensamblaje)](#elem349) |
+| [**sop**<br> (Compensación](#elem350) | [**finishing_strategy**<br> (Estrategia de finalización)](#elem351) | [**annot_source**<br> (Fuente de la anotación)](#elem352) |
+| [**markerAccordance**<br> (Marcador acordado)](#elem353) | [**seq_quality_check**<br> (Verificación de la calidad de la secuencia)](#elem354) | [**adapters**<br> (Adaptadores)](#elem355) |
 | [**mid**<br> (Identificadores multiplex)](#elem356) |  |  |
 |    |    |    |
 
@@ -3669,8 +3669,8 @@ toc: true
 
 |    |    |    |    |
 | ---|--- |--- |--- |
-| [**blocked**<br> (Bloqueado](#elem357) | [**blockedUntil**<br> (Bloqueado hasta)](#elem358) | [**loanConditions**<br> (Condiciones del préstamo)](#elem359) | [**loanDate**<br> (Fecha del préstamo)](#elem360) |
-| [**loanDestination**<br> (Destino del préstamo](#elem361) | [**loanIdentifier**<br> (Identificador del préstamo)](#elem362) | [**disposition**<br> (Disposición)](#elem363) | [**receivedFrom**<br> (Recibido de)](#elem364) |
+| [**blocked**<br> (Bloqueado)](#elem357) | [**blockedUntil**<br> (Bloqueado hasta)](#elem358) | [**loanConditions**<br> (Condiciones del préstamo)](#elem359) | [**loanDate**<br> (Fecha del préstamo)](#elem360) |
+| [**loanDestination**<br> (Destino del préstamo)](#elem361) | [**loanIdentifier**<br> (Identificador del préstamo)](#elem362) | [**disposition**<br> (Disposición)](#elem363) | [**receivedFrom**<br> (Recibido de)](#elem364) |
 |    |    |    |    |
 
 <br>
@@ -3750,3 +3750,24 @@ toc: true
 
 ## Vocabularios Controlados
 
+|    |    |    |    |
+| ---|--- |--- |--- |
+| [**basisOfRecord**<br> (Base del registro)](#elem365) | [**type**<br> (Tipo)](#elem366) | [**language**<br> (Idioma)](#elem367) | [**establishmentMeans**<br> (Medios de establecimiento)](#elem368) |
+| [**degreeOfEstablishment**<br> (Grado de establecimiento](#elem369) | [**pathway**<br> (Ruta de introducción)](#elem370) | [**occurrenceStatus**<br> (Estado del registro biológico)](#elem371) | [**continent**<br> (Continente)](#elem372) |
+| [**countryCode**<br> (Código del país)](#elem373) | [**threatStatus**<br> (Estado de amenaza)](#elem374) | [**appendixCITES**<br> (Apéndice CITES)](#elem375) | [**type**<br> (Tipo)](#elem376) |
+|    |    |    |    |
+
+<br>
+<br>
+
+<a name="elem365">**basisOfRecord** (Base del registro)</a>
+
+|    |    |
+| ---|--- |
+| PreservedSpecimen | El organismo está preservado (muerto), vivió dentro de tiempos históricos y existe (o alguna vez existió) una parte física que podría ser evaluada nuevamente.<br><br> Exclusivo para uso de las colecciones biológicas, las cuales custodian la evidencia física del espécimen preservado.<br><br> Siempre va acompañado del elemento type documentado como “Objeto físico”. |
+| LivingSpecimen | Existe un espécimen vivo (crece o metaboliza) disponible en una colección.<br><br> Exclusivo para uso de las colecciones biológicas vivas y zoológicos, las cuales custodian la evidencia física del espécimen. No aplica para partes dormantes de un espécimen preservado.<br><br> Siempre va acompañado del elemento type documentado como “Objeto físico”. |
+| HumanObservation | Se emplea para observaciones directas de un organismo completo y colectas temporales (captura y liberación del espécimen in situ).<br><br> También se emplea este valor si el espécimen observado fue posteriormente colectado y depositado en una colección biológica, pero el conjunto de datos no corresponde a la publicación de la colección biológica. En dicho caso se deben documentar los elementos collectionID y collectionCode para informar en qué colección se depositó el espécimen, y el Número de Catálogo (catalogNumber) dentro de la colección (o número de catálogo provisional), si este ya fue asignado.<br><br> Por lo general va acompañado del elemento type documentado como “Evento”; en caso de ser un registro sonoro detectado de forma directa por un humano, el elemento type se documenta como “Sonido”. |
+| MachineObservation | Se emplea para cualquier tipo de observación indirecta de un organismo por medio de un equipo o medio digital (grabadora de sonido, cámara trampa, entre otros), donde la evidencia del registro puede ser evaluada nuevamente:<br><br> Según el caso, va acompañado del elemento type documentado como “Imagen estática”, “Imagen en movimiento” o “Sonido”. |
+| MaterialSample | Se emplea cuando la evidencia del organismo es indirecta y corresponde solo a una parte de este, por ejemplo: sangre, tejido, pelo, heces, etc.<br><br> Siempre va acompañado del elemento type documentado como “Objeto físico”. |
+| FossilSpecimen | Se emplea con organismos prehistóricos con evidencia fósil que soporta su existencia.<br><br> Siempre va acompañado del elemento type documentado como “Objeto físico”. |
+|    |    |
