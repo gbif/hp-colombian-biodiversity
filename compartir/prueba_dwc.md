@@ -341,7 +341,7 @@ toc: true
 | Definición | Una afirmación que de cuenta si un organismo ha sido introducido a un lugar y tiempo determinado a través de actividad humana directa o indirecta. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos degreeOfEstablishment y pathway. |
 | Elementos relacionados | degreeOfEstablishment, pathway |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](#elem668) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain |
+|  [Vocabulario controlado](#elem368) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain |
 |    |    |
 
 <a name="elem033">**degreeOfEstablishment** (Grado de establecimiento)</a>
@@ -351,7 +351,7 @@ toc: true
 | Definición | El grado en cual el organismo sobrevive, se reproduce y expande su rango de distribución en un lugar y tiempo determinado. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos establishmentMeans y pathway. |
 | Elementos relacionados | establishmentMeans, pathway |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](#elem669) | native<br> cultivated<br> released<br> established<br> colonising<br> widespreadInvasive |
+|  [Vocabulario controlado](#elem369) | native<br> cultivated<br> released<br> established<br> colonising<br> widespreadInvasive |
 |    |    |
 
 <a name="elem034">**pathway** (Ruta de introducción)</a>
@@ -361,7 +361,7 @@ toc: true
 | Definición | El proceso por el cual un organismo llegó a un lugar y tiempo determinado. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos establishmentMeans y degreeOfEstablishment. |
 | Elementos relacionados | establishmentMeans, degreeOfEstablishment |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](#elem670) | releasedForUse<br> otherEscape<br> transportContaminant<br> transportStowaway<br> corridor<br> unaided |
+|  [Vocabulario controlado](#elem370) | releasedForUse<br> otherEscape<br> transportContaminant<br> transportStowaway<br> corridor<br> unaided |
 |    |    |
 
 <a name="elem035">**occurrenceStatus** (Estado del registro biológico)</a>
@@ -3864,8 +3864,6 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 
 <a name="elem374">**threatStatus** (Estado de amenaza)</a>
 
-|    |
-| ---|--- |
 |  Vocabulario |  Definición  |
 | ---|--- |
 | EX | Especies extintas |
@@ -3883,8 +3881,6 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 
 <a name="elem375">**appendixCITES** (Apéndice CITES)</a>
 
-|    |
-| ---|--- |
 |  Vocabulario |  Definición  |
 | ---|--- |
 | I | Apéndice I que incluye todas las especies en peligro de extinción que están o pueden verse afectadas por el comercio. |
@@ -3895,8 +3891,6 @@ enaza |
 
 <a name="elem376">**type** (Tipo)</a>
 
-|    |
-| ---|--- |
 |  Vocabulario |  Definición  |
 | ---|--- |
 | Collection | Colección |
