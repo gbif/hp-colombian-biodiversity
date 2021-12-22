@@ -26,7 +26,7 @@ background: /assets/images/noticias_eventos/2014/2014-01-13-Taller-georreferenci
 
 El objetivo general de este taller es dar a conocer una metodología para estandarizar y georreferenciar localidades asociadas a datos primarios sobre biodiversidad en colecciones biológicas, que ha venido desarrollando conjuntamente el Instituto Humboldt y el Instituto de Ciencias Naturales.
 
- ## Objetivos específicos
+## Objetivos específicos
 
 - Comprender los conceptos básicos en la estandarización y georreferenciación de localidades.
 - Dar a conocer el protocolo para georreferenciar localidades a partir del método radio-punto.
