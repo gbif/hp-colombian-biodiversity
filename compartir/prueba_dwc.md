@@ -3359,13 +3359,310 @@ toc: true
 <br>
 <br>
 
-<a name="elem318">**preparationType** (Tipo de preparación)</a>
+<a name="elem323">**amplificationDate** (Fecha de la amplificación)</a>
 
 |    |    |
 | ---|--- |
-| Definición | La descripción del tipo de preparación (muestras, tejidos, ADN). |
-| Ejemplo | Hoja<br> Músculo<br> Sangre<br> gDNA |
-| _(Obligatoriedad)_ | _(Obligatorio)_ |
+| Definición | La fecha o el intervalo durante la cual se realizó la amplificación. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
+| Ejemplo | 2010<br> 2010-01<br>2010-01-17<br> 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem324">**amplificationStaff** (Amplificado por)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los nombres de las personas encargadas de realizar la amplificación. |
+| Ejemplo | Daniel Enrique Muñoz Silva<br> Ana María Sánchez Ortíz \| Juliana Novoa Gracia |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem325">**amplificationSuccess** (Éxito de la amplificación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Elemento que indica si el proceso de la amplificación resultó exitoso, o no. Altamente recomendado para documentar amplificaciones fallidas. |
+| Ejemplo | Verdadero<br> Falso<br> Sí<br> No |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem326">**amplificationSuccessDetails** (Detalle del éxito de la amplificación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Texto que describe el éxito o fallido del proceso de amplificación. |
+| Ejemplo | ADN degradado<br> Contaminación |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem327">**amplificationMethod** (Método de la amplificación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El método implementado para el proceso de amplificación. |
+| Ejemplo | Reacción en cadena de la polimerasa (PCR) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem328">**primerSequenceForward** (Cebador directo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La secuencia del cebador directo utilizado para el proceso de amplificación. |
+| Ejemplo | 5′-GGCGGTACCCAAATTCCTGTGAATTAGC-3<br> 5′-CAATGTGGATCAGGATCAACC-3′ |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem329">**primerNameForward** (Nombre del cebador directo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre del cebador directo utilizado para el proceso de amplificación. |
+| Ejemplo | Csp5K<br> Imd5<br> Gfp5 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem330">**primerReferenceCitationForward** (Citación del cebador directo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Citación bibliográfica completa en formato de texto plano, donde se referencia el cebador directo utilizado para el proceso de amplificación. |
+| Ejemplo | Fujikawa T & Iwanami T. 2012. Sensitive and robust detection of citrus greening (huanglongbing) bacterium “Candidatus Liberibacter asiaticus” by DNA amplification with new 16S rDNA-specific primers. Molecular and Cellular Probes, Volume 26, Issue 5, pages 194-197. |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem331">**primerReferenceLinkForward** (URL del cebador directo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un enlace a la referencia, puede ser un DOI, ISBN, URI, donde fue descrito por primera vez el cebador directo utilizado para el proceso de amplificación. |
+| Ejemplo | https://www.sciencedirect.com/science/article/abs/pii/S0890850812000710 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem332">**primerSequenceReverse** (Cebador inverso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | La secuencia del cebador inverso utilizado para el proceso de amplificación. |
+| Ejemplo | 5′-GCCGGATCCCTGAGGGCGGGAACCCCGA-3<br> 5′-GCCGGATCCTGCAGTTATTTGTATAGTTCATC-3′ |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem333">**primerNameForward** (Nombre del cebador inverso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre del cebador inverso utilizado para el proceso de amplificación. |
+| Ejemplo | Csp-Imd<br> Imd3<br> Gfp3 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem334">**primerReferenceCitationForward** (Citación del cebador inverso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Citación bibliográfica completa en formato de texto plano, donde se referencia el cebador inverso utilizado para el proceso de amplificación. |
+| Ejemplo | Fujikawa T & Iwanami T. 2012. Sensitive and robust detection of citrus greening (huanglongbing) bacterium “Candidatus Liberibacter asiaticus” by DNA amplification with new 16S rDNA-specific primers. Molecular and Cellular Probes, Volume 26, Issue 5, pages 194-197. |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem335">**primerReferenceLinkForward** (URL del cebador inverso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un enlace a la referencia, puede ser un DOI, ISBN, URI, donde fue descrito por primera vez el cebador inverso utilizado para el proceso de amplificación. |
+| Ejemplo | https://www.sciencedirect.com/science/article/abs/pii/S0890850812000710 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem336">**purificationMethod** (Método de purificación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El método o protocolo utilizado para purificar el producto de PCR. |
+| Ejemplo | Qiagen<br> Germantown<br> ExoSAP-IT |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem337">**consensusSequence** (Secuencia consenso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Secuencia consenso derivada de todas las secuencias individuales. |
+| Ejemplo | ATGAACCATATACCTGTGCAATATTTTAACTTAGCAAAGGAAAGTTATTTTAAGTATGGATTATCGGTAA<br> TCCAGCTTATNCAGATTGGTAAGTTCTATGAACTTTGGCATGAGCCTGATACTCCTAGTGTACAACAAGT<br> ATACTCACAAGCCGAGTTATTAGTTGGGCCATCCATGCGAAGTAGGCCTTTGGAGGTGACGCCCCCCATA<br> GAACAAATTGCCTCGTTACTTGATATGAGAATAATATCGCCCGGCAAAAGATCCTTNCTTCAAATGGGGT<br> TTCCAATTTATTCCCTTACTACTCATCTAAGTACTTTGTTGGATAAAGGTTGGACTGTAATAGTTATTGA |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem338">**consensusSequenceLength** (Longitud de la secuencia consenso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Longitud de la secuencia consenso dado en número de pares de bases. |
+| Ejemplo | 697<br> 849 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem339">**consensusSequenceChromatogramFileURI** (Identificador del archivo del cromatograma de la secuencia consenso)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un enlace al cromatograma de la secuencia consenso. |
+| Ejemplo | https://www.boldsystems.org/index.php/Public_RecordView?processid=ABBAC141-12 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem340">**barcodeSequence** (Secuencia código de barras)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Secuencia de código de barras de ADN (parte o el 100% de la secuencia consenso). |
+| Ejemplo | GTTAATGCTGCTATTATGTTTATATCGTTGGGATTAGACTATATAGGCTTAATATTTATAATTGTCTATGTGGGGGCTATCG<br> CGATTTTATTCCTGTTCGTAATTATGTTAATTCAACAGCCTAATAAGGTAGATTCTCAAGATCACTCGCATTTTTTACCTGTAGGATTATCTGTT<br> ATATTTTTATTTTATAGTCTACTAACCAATAGCCCCAAATATATCAGCAATCCTGTTATAGGATCTAGAACTAACATTGGGGCAATTGGAAGTCA<br> TCTTTATACAACTTATTATGAATTAGTGTTAATTGCTAGTTTGGTGCTACTAGTCGCTATGATAGGGGCGATATTATTAGCTAAGCAGCCAAATT<br> CACCTTTTTTATATA |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem341">**haplotype** (Haplotipo)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre del haplotipo (si aplica). |
+| Ejemplo | TA + CA |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem342">**marker** (Marcador)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El marcador genético o fragmento de ADN amplificado por PCR. |
+| Ejemplo | COI<br> rbcL<br> 16S<br> ITS2 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem343">**markerSubfragment** (Subfragmento del marcador)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El nombre del subfragmento de un gen o locus. |
+| Ejemplo | V6 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem344">**geneticAccessionNumber** (Número de accesión genético)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El identificador único bajo el cual se deposita la secuencia de ADN en una base de datos pública (número de acceso GenBank / EMBL / DDBJ / Bold Systems). |
+| Ejemplo | AJ675356<br> ABBAC141-12 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem345">**BOLDProcessID** (ID del proceso de BOLD)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El identificador único del proceso (Process ID) con el que se deposita la secuencia de ADN en la base de datos BOLD (https://www.boldsystems.org/). |
+| Ejemplo | CCOIV001-19 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem346">**geneticAccessionURI** (Identificador de accesión genético)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Un enlace del registro relacionado en una base de datos pública (registro GenBank / DDBJ / EMBL / Bold Systems). |
+| Ejemplo | https://www.ncbi.nlm.nih.gov/nuccore/AY126426<br> https://www.boldsystems.org/index.php/Public_RecordView?processid=ABBAC141-12 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem347">**GC-content** (Contenido GC)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Contenido de guanina-citosina dado en mol % |
+| Ejemplo | 35<br> 60 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem348">**chimera_check** (Verificación de secuencia quimérica)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Elemento que indica si hay una secuencia quimérica. Una secuencia quimérica es una secuencia compuesta por dos o más secuencias parentales filogenéticamente distintas. Las quimeras son generalmente artefactos de PCR que se cree que ocurren cuando un amplicón terminado prematuramente se vuelve a sellar en una cadena de ADN extraño y se copia hasta su finalización en los siguientes ciclos de PCR. El punto en el que la secuencia quimérica cambia de un padre al siguiente se llama punto de ruptura o punto de conversión. |
+| Ejemplo | Verdadero<br> Falso<br> Sí<br> No |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem349">**assembly** (Ensamblaje)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Descripción o método en cómo se realizó el ensamblaje (por ejemplo, con un ensamblador basado en texto como phrap o un ensamblador de diagrama de flujo, etc.). |
+| Ejemplo | phrap |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem350">**sop** (Compensación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Procedimientos operativos estándar relevantes. |
+| Ejemplo |  |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem351">**finishing_strategy** (Estrategia de finalización)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Descripción para definir si el proyecto del genoma tenía la intención de producir un genoma completo o en borrador, el pliegue de cobertura de la secuenciación expresada como 2x, 3x, 18x, etc., y cuántos cóntigos se produjeron para el genoma. |
+| Ejemplo | Genoma completo, 2x, 3 cóntigos |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem352">**annot_source** (Fuente de la anotación)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Fuente de la anotación para los casos en que fue proporcionada por un jamboree comunitario o una base de datos de organismos modelo, en lugar de un remitente específico. |
+| Ejemplo |  |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem353">**markerAccordance** (Marcador acordado)</a>
+
+|    |    |
+| ---|--- |
+| Definición | El resultado de la comparación de dos marcadores de dos especímenes o cepas. Se debe proporcionar el nombre o el identificador (NCBI) de los especímenes o cepas comparadas y el porcentaje de identidad relativo. |
+| Ejemplo |  |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem354">**seq_quality_check** (Verificación de la calidad de la secuencia)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Elemento para indicar si la secuencia ha sido nombrada por sistemas automáticos (= Ninguno) o si se ha sometido a un procedimiento de edición manual (por ejemplo, inspeccionando los datos crudos o los cromatogramas). Se aplica solo para secuencias que no se envían a SRA o DRA. |
+| Ejemplo | Ninguno<br> Editado manualmente |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem355">**adapters** (Adaptadores)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Nombre de los adaptadores. Los adaptadores proporcionan secuencias cebador tanto para la amplificación como para la secuenciación de los fragmentos de la librería de muestras. Se deben informar ambos adaptadores; en letras mayúsculas. |
+| Ejemplo | EcoRI-adapterI, EcoRI-adapterIIo<br> Msel forward adapter, Msel reverse adapter |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+|    |    |
+
+<a name="elem356">**mid** (Identificadores multiplex)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Códigos de barras moleculares, denominados Identificadores Multiplex (MIDs), que se utilizan específicamente para etiquetar muestras únicas en un ciclo de secuenciación. La secuencia se debe informar en letras mayúsculas. |
+| Ejemplo | MID1 5′-ACGAGTGCGT-3′ |
+| _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
 ### Prestamo GGBN
