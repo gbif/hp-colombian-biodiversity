@@ -43,7 +43,7 @@ toc: true
 | Definición | Especifica el tipo de evidencia que da origen al registro, ampliando la información presente en el elemento basisOfRecord. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | Elementos relacionados | basisOfRecord |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Opcional)_ |
-| [Vocabulario controlado](elem366) | Stillmage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event |
+| [Vocabulario controlado](#elem366) | Stillmage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event |
 |    |    |
 
 <a name="elem003">**institutionCode** (Código de la institución)</a>
@@ -122,7 +122,7 @@ toc: true
 | Definición | El idioma del conjunto de datos. |
 | Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 639-1 de 2 letras en minúscula, como se muestra a continuación:<br><br> es (=Para español)<br> en (=Para inglés) |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_<br> Evento de muestreo _(Opcional)_ |
-| [Vocabulario controlado](elem367) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
+| [Vocabulario controlado](#elem367) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
 |    |    |
 
 <a name="elem011">**license** (Licencia)</a>
@@ -341,7 +341,7 @@ toc: true
 | Definición | Una afirmación que de cuenta si un organismo ha sido introducido a un lugar y tiempo determinado a través de actividad humana directa o indirecta. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos degreeOfEstablishment y pathway. |
 | Elementos relacionados | degreeOfEstablishment, pathway |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](elem668) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain |
+|  [Vocabulario controlado](#elem668) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain |
 |    |    |
 
 <a name="elem033">**degreeOfEstablishment** (Grado de establecimiento)</a>
@@ -351,7 +351,7 @@ toc: true
 | Definición | El grado en cual el organismo sobrevive, se reproduce y expande su rango de distribución en un lugar y tiempo determinado. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos establishmentMeans y pathway. |
 | Elementos relacionados | establishmentMeans, pathway |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | native<br> cultivated<br> released<br> established<br> colonising<br> widespreadInvasive |
+|  [Vocabulario controlado](#elem669) | native<br> cultivated<br> released<br> established<br> colonising<br> widespreadInvasive |
 |    |    |
 
 <a name="elem034">**pathway** (Ruta de introducción)</a>
@@ -361,7 +361,7 @@ toc: true
 | Definición | El proceso por el cual un organismo llegó a un lugar y tiempo determinado. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos establishmentMeans y degreeOfEstablishment. |
 | Elementos relacionados | establishmentMeans, degreeOfEstablishment |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | releasedForUse<br> otherEscape<br> transportContaminant<br> transportStowaway<br> corridor<br> unaided |
+|  [Vocabulario controlado](#elem670) | releasedForUse<br> otherEscape<br> transportContaminant<br> transportStowaway<br> corridor<br> unaided |
 |    |    |
 
 <a name="elem035">**occurrenceStatus** (Estado del registro biológico)</a>
@@ -370,7 +370,7 @@ toc: true
 | ---|--- |
 | Definición | Estado que da cuenta de la presencia o ausencia de un taxón en una ubicación. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | present<br> absent |
+|  [Vocabulario controlado](#elem371) | present<br> absent |
 |    |    |
 
 <a name="elem036">**preparations** (Preparaciones)</a>
@@ -786,7 +786,7 @@ toc: true
 | ---|--- |
 | Definición | El nombre del continente en el que tiene lugar la ubicación. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
-| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | SA<br> AF<br> AS<br> EU<br> NA<br> OC<br> AN |
+| [Vocabulario controlado](#elem372) | SA<br> AF<br> AS<br> EU<br> NA<br> OC<br> AN |
 |    |    |
 
 <a name="elem074">**waterBody** (Cuerpo de agua)</a>
@@ -834,7 +834,7 @@ toc: true
 | Elementos relacionados | country |
 | Ejemplo | Colombia<br> España<br> Dinamarca |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
-| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Consultar en: [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO) |
+| [Vocabulario controlado](#elem373) | Consultar en: [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO) |
 |    |    |
 
 <a name="elem079">**stateProvince** (Departamento)</a>
@@ -2101,7 +2101,7 @@ toc: true
 | ---|--- |
 | Definición | El tipo de recurso multimedia. Para este elemento se debe emplear el vocabulario controlado en inglés. |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
-| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Collection<br> Dataset<br> Event<br> Image<br> InteractiveResource<br> Service<br> Software<br> Sound<br> Text<br> PhysicalObject<br> StillImage<br> MovingImage |
+| [Vocabulario controlado](#elem376) | Collection<br> Dataset<br> Event<br> Image<br> InteractiveResource<br> Service<br> Software<br> Sound<br> Text<br> PhysicalObject<br> StillImage<br> MovingImage |
 |    |    |
 
 <a name="elem202">**format** (Formato)</a>
@@ -2431,7 +2431,7 @@ toc: true
 | ---|--- |
 | Definición | Estado de amenaza de una especies definido por IUCN (Internation Union for Conservation of Nature): https://www.iucnredlist.org/ o el estado en la lista del MADS (Ministerio de Medio ambiente y Desarrollo Sostenible): https://doi.org/10.15472/5an5tz. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | _(Obligatoriedad)_ | _(Opcional)_ |
-| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | EX<br> EW<br> RE<br> CR<br> EN<br> VU<br> NT<br> LC<br> DD<br> NA<br> NE |
+| [Vocabulario controlado](#elem374) | EX<br> EW<br> RE<br> CR<br> EN<br> VU<br> NT<br> LC<br> DD<br> NA<br> NE |
 |    |    |
 
 <a name="elem235">**appendixCITES** (Apéndice CITES)</a>
@@ -2440,7 +2440,7 @@ toc: true
 | ---|--- |
 | Definición | El número de los apéndices CITES- Convention on International Trade in Endangered Species of Wild Fauna and Flora, en el que el taxón es categorizado. Es posible tener diferentes números de los apéndices para diferentes áreas. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | _(Obligatoriedad)_ | _(Opcional)_ |
-| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | I<br> II<br> III |
+| [Vocabulario controlado](#elem375) | I<br> II<br> III |
 |    |    |
 
 <a name="elem236">**establishmentMeans** (Medios de establecimiento)</a>
@@ -3787,7 +3787,7 @@ toc: true
 
 |   |
 | ---|
-| Utilizar el vocabulario contraldo para el idioma en la norma ISO 639-1. Solamenete se usan 2 letras en minúscula, consulte la información en la página oficial de ISO http://www.loc.gov/standards/iso639-2/php/code_list.php |
+| Utilizar el vocabulario contraldo para el idioma en la norma ISO 639-1. Solamenete se usan 2 letras en minúscula, consulte la información en la página oficial de ISO [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
 |    |
 
 <a name="elem368">**establishmentMeans** (Medios de establecimiento)</a>
@@ -3820,7 +3820,7 @@ toc: true
 |    |    |
 
 <a name="elem370">**pathway** (Ruta de introducción)</a>
-La lista completa de vocabularios controlados se encuentra disponible en https://dwc.tdwg.org/pw/#4-vocabulary. Utilice la palabra en la columna llamada controlled value. Se presentan los vocabularios más comunes a continuación:
+La lista completa de vocabularios controlados se encuentra disponible en [https://dwc.tdwg.org/pw/#4-vocabulary](https://dwc.tdwg.org/pw/#4-vocabulary). Utilice la palabra en la columna llamada controlled value. Se presentan los vocabularios más comunes a continuación:
 
 |  Vocabulario |  Definición  |
 | ---|--- |
@@ -3830,4 +3830,85 @@ La lista completa de vocabularios controlados se encuentra disponible en https:/
 | transportStowaway | Polizón en transporte |
 | corridor | Corredor |
 | unaided | Sin ayuda |
+|    |    |
+
+<a name="elem371">**occurrenceStatus** (Estado del registro biológico)</a>
+
+|  Vocabulario |  Definición  |
+| ---|--- |
+| Presente | Existe al menos un registro bien documentado de la presencia del taxón en el área. |
+| Ausente | Existe evidencia para documentar la ausencia del taxón en el área. |
+| present | Presente. Es obligatorio el uso del vocabulario en ingles para los registros marino-costeros. |
+| absent | Ausente. Es obligatorio el uso del vocabulario en ingles para los registros marino-costeros. |
+|    |    |
+
+<a name="elem372">**continent** (Continente)</a>
+
+|  Vocabulario |  Definición  |
+| ---|--- |
+| SA | Sudamérica |
+| AF | África |
+| AS | Asia |
+| EU | Europa |
+| NA | Norteamérica |
+| OC | Oceanía |
+| AN | Antártida |
+|    |    |
+
+<a name="elem373">**countryCode** (Código del país)</a>
+
+|    |
+| ---|--- |
+| Utilizar el vocabulario contraldo de la norma ISO 3166-1-alfa-2 de códigos de países. Solamenete se usan 2 letras en mayúscula, consulte la información en la página [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO) |
+|    |
+
+<a name="elem374">**threatStatus** (Estado de amenaza)</a>
+
+|    |
+| ---|--- |
+|  Vocabulario |  Definición  |
+| ---|--- |
+| EX | Especies extintas |
+| EW | Especies extintas en vida silvestre |
+| RE | Especies extintas regionalmente |
+| CR | Especies en peligro crítico |
+| EN | Especies en peligro |
+| VU | Especies en estado vulnerable |
+| NT | Especies casi amenazadas |
+| LC | Especies en estado de amenaza de menor preocupación |
+| DD | Especies con datos deficientes del estado de amenaza |
+| NA | Especies que no aplica el estado de amenaza |
+| NE | Especies no evaluadas en términos de estado de amenaza |
+|    |    |
+
+<a name="elem375">**appendixCITES** (Apéndice CITES)</a>
+
+|    |
+| ---|--- |
+|  Vocabulario |  Definición  |
+| ---|--- |
+| I | Apéndice I que incluye todas las especies en peligro de extinción que están o pueden verse afectadas por el comercio. |
+| II | Apéndice II  que incluye las especies que aunque no están amenazadas pueden llegar a estarlo  de no reglamentar su comercio de manera estricta. |
+| III | Apéndice III que incluye las especies que sujetas a regulación dentro de cualqueir jurisdicción con el propósito de prevenir o restringir la explotación, y que necesitan la cooperación de otras Partes en el control del comercio. |
+enaza |
+|    |    |
+
+<a name="elem376">**type** (Tipo)</a>
+
+|    |
+| ---|--- |
+|  Vocabulario |  Definición  |
+| ---|--- |
+| Collection | Colección |
+| Dataset | Conjunto de datos |
+| Event | Evento |
+| Image | Imagen |
+| InteractiveResource | Recurso interactivo |
+| Service | Servicio |
+| Software | Programa |
+| Sound | Sonido |
+| Text | Texto |
+| PhysicalObject  | Objeto físico |
+| StillImage | Fotografía |
+| MovingImage | Video |
 |    |    |
