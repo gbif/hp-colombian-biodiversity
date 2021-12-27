@@ -68,8 +68,12 @@ Elkin Noguera\
 
 # El simposio en imágenes
 
-<img src="/assets/images/noticias_eventos/2018/2018-12-13-Memorias-IVSimposioInformatica-Biodiversidad02.jpg" width=770>
+||||
+|---|---|---|
+|<figure class="image is-128x128"><img src="/assets/images/noticias_eventos/2018/2018-12-13-iv_simposio01.jpg"></figure> |<figure class="image is-128x128"><img src="/assets/images/noticias_eventos/2018/2018-12-13-iv_simposio02.jpg"></figure> |<figure class="image is-128x128"><img src="/assets/images/noticias_eventos/2018/2018-12-13-iv_simposio03.jpg"></figure> |
+|<figure class="image is-128x128"><img src="/assets/images/noticias_eventos/2018/2018-12-13-iv_simposio04.jpg"></figure> |<figure class="image is-128x128"><img src="/assets/images/noticias_eventos/2018/2018-12-13-iv_simposio05.jpg"></figure> |<figure class="image is-128x128"><img src="/assets/images/noticias_eventos/2018/2018-12-13-iv_simposio06.jpg"></figure> |
+|<figure class="image is-128x128"><img src="/assets/images/noticias_eventos/2018/2018-12-13-iv_simposio07.jpg"></figure> |<figure class="image is-128x128"><img src="/assets/images/noticias_eventos/2018/2018-12-13-iv_simposio08.jpg"></figure> |<figure class="image is-128x128"><img src="/assets/images/noticias_eventos/2018/2018-12-13-iv_simposio09.jpg"></figure> |
 
 
-<img src="/assets/images/noticias_eventos/2018/2018-12-13-Memorias-IVSimposioInformatica-Biodiversidad01.png" width=770>
+<img src="/assets/images/noticias_eventos/2018/2018-12-13-iv_simposio10.png" width=770>
 
