@@ -1,7 +1,7 @@
 landinguso:
-  title: Uso de datos
+  title: Proyectos
   description: |      # required
-    Conoce algunos de los usos que tienen los datos e información sobre biodiversidad publicada a través del SiB Colombia.
+    Conoce algunos de los proyectos en los que ha participado el SiB Colombia.
   #background: https://live.staticflickr.com/8483/8205952042_c840217645_h.jpg
   overlayColor: "#E4EEE0" #"#ffffffbb"
   hasWhiteText: false
@@ -10,26 +10,18 @@ stats1:
   background: "#ffffff55"
   features:
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
-    - title: 1.358
-      description: Descargas de datos
+    - title: 25
+      description: Número de proyectos
       background: /comunidad/usodedatos/images/Descargas.png
       #href: /data
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
-    - title: 143
-      description: Consultas totales
-      background: /comunidad/usodedatos/images/Consulta.png
-      #href: https://listas.biodiversidad.co/
-      # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
-    - title: 19.432
-      description: Citaciones acumuladas
-      background: /comunidad/usodedatos/images/Citacion.png
-      #href: /data
+   
   
 stats2:
   background: "#ffffff55"
   features:  
-    - title: 49%
-      description: Investigación
+    - title: 5
+      description: Proyectos CESP
       background: /comunidad/usodedatos/images/Investigacion.png
       #href: https://catalogo.biodiversidad.co/
     - title: 23%
@@ -50,7 +42,7 @@ tarjetasUso:
     
   features:
       #preTitle:  Editorial # optional
-    - title: Informes Nacionales
+    - title: Proyectos nacionales
       description: |      # required
        Informes y reportes de la biodiversidad a partir de los datos publicados a través del SiB Colombia.
       # img required
@@ -62,7 +54,7 @@ tarjetasUso:
       
       
      #preTitle: "Uso en cifras"  # optional
-    - title: Métricas de uso # required
+    - title: ProyectosCESP # required
       description: |      # required
        Cifras destacadas sobre el uso de los datos sobre biodiversidad publicados por nuestra red de socios.
       background: /comunidad/usodedatos/images/CifrasUso.png
