@@ -3888,7 +3888,6 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 | I | Apéndice I que incluye todas las especies en peligro de extinción que están o pueden verse afectadas por el comercio. |
 | II | Apéndice II  que incluye las especies que aunque no están amenazadas pueden llegar a estarlo  de no reglamentar su comercio de manera estricta. |
 | III | Apéndice III que incluye las especies que sujetas a regulación dentro de cualqueir jurisdicción con el propósito de prevenir o restringir la explotación, y que necesitan la cooperación de otras Partes en el control del comercio. |
-enaza |
 |    |    |
 
 <a name="elem376">**type** (Tipo)</a>
