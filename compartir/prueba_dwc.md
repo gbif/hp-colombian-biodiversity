@@ -1,7 +1,7 @@
 ---
 layout: heroImage
-title: Socios publicadores
-description: Conoce a la red de organizaciones que aportan al conocimiento libre y gratuito sobre biodiversidad en el país.
+title: Estándar Darwin Core
+description: Conoce sus elementos, definiciones y extensiones
 background:  https://live.staticflickr.com/6164/6170947918_dc421f3980_b.jpg
 imageLicense: |
   Fotografía de: Luis Alejandro Bernal Romero vía [Flickr](https://flic.kr/p/apiHPL) 
