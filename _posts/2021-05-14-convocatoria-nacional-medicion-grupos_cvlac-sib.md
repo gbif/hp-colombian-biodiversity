@@ -2,7 +2,7 @@
 title:  "Convocatoria Nacional para el reconocimiento y medición de grupos de investigación, desarrollo tecnológico o de innovación."
 date:   2021-05-14
 categories: ["Convocatorias", "CvLAC","2021"]
-background: /assets/images/noticias_eventos/2021/2021-05-14-convocatoria-nacional-medicion-grupos_cvlac-sib.jpg
+background: /assets/images/noticias_eventos/2021/2021-05-14-convocatoria-nacional-medicion-grupos_cvlac-sib1.jpg
 ---
 
 Con el objetivo de contar con información actualizada de los Grupos de Investigación. Se abre la convocatoria nacional para el reconocimiento y medición de grupos de investigación, desarrollo tecnológico o de innovación y para el reconocimiento de investigadores del  SNCTI – 2021.
