@@ -8,7 +8,7 @@ splitCTA:
     
     Deja que el mundo se entere de lo importante que es tu trabajo y conozca la riqueza biológica del departamento.
   # img required
-  background: /assets/images/minga/datosNarino.gif
+  background: /assets/images/minga/datosNarino.png
   overlayColor: "#000033"
   href: https://forms.gle/m61mpPA7fqxaMg5s9
   cta:
