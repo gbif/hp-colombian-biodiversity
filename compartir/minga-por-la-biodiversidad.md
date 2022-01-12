@@ -2,7 +2,7 @@
 layout: compose
 title: Minga por la biodiversidad del departamento de Nariño
 description: La minga por la biodiversidad busca incrementar la disponibilidad de datos sobre la biodiversidad del país.
-background: /assets/images/minga/cabezote.jog
+background: /assets/images/minga/cabezote.jpg
 height: 41vh
 toc: true
 composition:
@@ -11,7 +11,7 @@ composition:
 - type: floatingText
   data: minga.bannerTopMinga
 - type: split
-  data: compose.examples.split1
+  data: minga.splitCTA
 - type: floatingText
   data: minga.bannerMinga
 - type: pageMarkdown # This will render the markdown in this file
@@ -129,7 +129,7 @@ Al hacer [clic en el mapa](https://biodiversidad.co/data?filter=eyJtdXN0Ijp7Imdh
 <img src="/assets/images/minga/resguardo-pialapi.png" width="" alt="Resguardo Indígena Pialapí Pueblo Viejo" title="Resguardo Indígena Pialapí Pueblo Viejo">
    </td>
    <td>
-<img src="/assets/images/minga/inst-humboldt.jpg" width="" alt="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt" title="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt">
+<img src="/assets/images/minga/inst-humboldt.png" width="" alt="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt" title="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt">
    </td>
   </tr>
   <tr>
