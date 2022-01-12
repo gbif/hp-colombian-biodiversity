@@ -30,3 +30,8 @@ bannerTopMinga:
   # background: 
   overlayColor: "#ffffff55"
   hasWhiteText: false
+  
+boxCabezote: 
+  title: ""
+  # description: 
+  background: /assets/images/minga/cabezote.jpg
