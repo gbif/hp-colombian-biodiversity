@@ -7,6 +7,12 @@ imageLicense: |
  
 height: 41vh
 toc: true
+
+composition:
+  - data: minga.splitCTA
+    type: split
+  - data: minga.separador
+    type: floatingText
 ---
 
 ## ¿Tienes datos sobre la diversidad biológica del departamento de Nariño?
@@ -14,7 +20,7 @@ toc: true
 <table>
   <tr>
    <td>
-<img src="images/image3.gif" width="" alt="alt_text" title="image_tooltip">
+<img src="images/minga/datosNarino.gif" width="" alt="datos sobre la diversidad biológica del departamento de Nariño" title="image_tooltip">
    </td>
    <td>Comparte tus datos, te ayudamos a publicarlos a través del <strong>SiB Colombia</strong> y <strong>GBIF</strong>.
 <p>
@@ -25,15 +31,10 @@ Deja que el mundo se entere de lo importante que es tu trabajo y conozca la riqu
   </tr>
 </table>
 
+---
 
-<table>
-  <tr>
-   <td>
+
 [H2] ¡Datos nuevos o antiguos, todos cuentan!
-   </td>
-  </tr>
-</table>
-
 
 
 ---
@@ -42,23 +43,18 @@ Deja que el mundo se entere de lo importante que es tu trabajo y conozca la riqu
 Colombia es uno de los países con mayor biodiversidad en el mundo. **Conocer y conservar la gran riqueza con la que cuenta es importante, **no solo por la innegable relación de las especies con la vida cotidiana de los seres humanos, sino también por sus aportes en distintos niveles al desarrollo de la Nación. En efecto, la diversidad biológica aporta infinidad de servicios ecosistémicos sin los cuales la vida en la Tierra no sería posible, además de incidir en los ámbitos económicos, sociales y culturales.
 
 Por esta razón,** es un deber fundamental conocer la biodiversidad que coexiste con nosotros y los beneficios que representa**, y así tomar las decisiones pertinentes en lo que tiene que ver con el manejo y uso de los recursos naturales.	
-
 **La minga por la biodiversidad busca incrementar la disponibilidad de datos sobre la biodiversidad del país** que, sumados con los ya existentes en el sistema de información, maximicen la cobertura, integridad y resolución de los mismos a nivel taxonómico, geográfico y temporal. El programa cuenta inicialmente con el apoyo del Equipo Coordinador del SiB Colombia, bajo los principios de libre acceso, transparencia, cooperación, reconocimiento y responsabilidad compartida.
 
 
-## [H2] ¿Quiénes pueden participar en la minga por la biodiversidad?
+## ¿Quiénes pueden participar en la minga por la biodiversidad?
 
 **Organizaciones, redes e iniciativas que tengan datos sobre biodiversidad de las áreas geográficas priorizadas**. Los individuos que deseen publicar, deben buscar el respaldo como publicador a través de sus organizaciones. Aquellas personas involucradas en iniciativas de ciencia participativa pueden publicar sus observaciones de manera indirecta participando en alguno de los numerosos proyectos que se desarrollan en el país, como **eBird Colombia** y **iNaturalist Colombia,** y que publican sus conjuntos de datos a través del **SiB Colombia**.
 
-
-### [H3] ¿Cómo participar?
+### ¿Cómo participar?
 
 Para sumarse a la minga por la biodiversidad basta con **manifestar la intención a través de este [formulario](https://forms.gle/m61mpPA7fqxaMg5s9)**. Una vez diligenciado, el Equipo Coordinador del SiB Colombia se pondrá en contacto a la mayor brevedad posible con el fin de organizar un plan de acompañamiento para la publicación de los datos.
 
-
-### [H3] Requerimientos para participar
-
-
+### Requerimientos para participar
 
 * Ser una **organización, red o iniciativa**. Los individuos que deseen participar, deben buscar el respaldo como publicador a través de sus organizaciones. Si la organización aún no es publicadora de datos, debe [registrarse aquí](https://biodiversidad.co/compartir/registro).
 * **Tener digitalizados** **conjuntos de datos** sobre biodiversidad de las áreas priorizadas.
@@ -66,11 +62,9 @@ Para sumarse a la minga por la biodiversidad basta con **manifestar la intenció
 * Seleccionar, según el tipo de datos e información, entre unas opciones preestablecidas de licencias y herramientas _Creative Commons_ que aceptan lectura mecánica ([CC0, CC BY, CC BY-NC](https://biodiversidad.co/terminoscondiciones/politicapublicacion#licencias)). La licencia o herramienta que elija el publicador, determinará la forma como se comparten los datos y las condiciones que se imponen a los usuarios para que los reutilicen.
 
 
-## [H2] ¿Por qué es importante participar en la minga por la biodiversidad?
+## ¿Por qué es importante participar en la minga por la biodiversidad?
 
 Una parte importante de la misión del SiB Colombia es promover una cultura en la que todas **las personas reconozcan los beneficios de publicar datos abiertos sobre biodiversidad**, tanto para quien los publica, como para la sociedad en general. Quienes participen de la minga, colaboran para incrementar el acceso libre y abierto a los datos sobre diversidad biológica del país y, por esta vía, amplían el acceso a esta información para cualquiera, dentro de las condiciones ofrecidas por los publicadores.
-
-
 
 * Al hacer que los datos sean visibles y accesibles a través del SiB Colombia y otras infraestructuras de información como GBIF y OBIS, **se contribuye al conocimiento global sobre la biodiversidad** y, por tanto, a las soluciones que promueven su conservación y uso sostenible.
 * Se facilita la **integración de conjuntos de datos en todo el mundo** y se abre la posibilidad de descubrir nuevas oportunidades de colaboración entre los propietarios de los datos y otros investigadores.
@@ -82,19 +76,16 @@ Una parte importante de la misión del SiB Colombia es promover una cultura en l
 * Permite que instancias intergubernamentales como GEO-BON e IPBES puedan **construir modelos y evaluaciones de la biodiversidad** respectivamente, a diferentes escalas.
 
 
-## [H2] ¿Qué tipos de datos se pueden publicar?
+## ¿Qué tipos de datos se pueden publicar?
 
 Compartir a través del SiB Colombia **tantos datos como sea posible es valioso**, incluso aquellos que puedan considerarse incompletos, aportarán al conocimiento de la biodiversidad y servirán para dar respuesta a preguntas fundamentales.
 
 Los datos sobre biodiversidad provienen de múltiples fuentes: colecciones biológicas, inventarios, monitoreos, EIA, códigos de barra de ADN, cámaras trampa, sensores remotos, ciencia participativa, agrobiodiversidad, tesis de grado, entre muchos otros. **Casi todos pueden ser estructurados para su publicación en tres tipos de conjuntos de datos**, cada uno con diferentes grados de complejidad ([registros biológicos, eventos de muestreo y listas de chequeo](https://biodiversidad.co/compartir/tipos-de-datos)).
 
 
-## [H2] Beneficios de publicar datos sobre biodiversidad
+## Beneficios de publicar datos sobre biodiversidad
 
-
-## La publicación de datos a través del **SiB Colombia** tiene múltiples beneficios, entre los más importantes se encuentran:
-
-
+La publicación de datos a través del **SiB Colombia** tiene múltiples beneficios, entre los más importantes se encuentran:
 
 * Visibilidad de las publicaciones en redes globales como **GBIF** y **OBIS**.
 * Visibilidad de las publicaciones en las instancias nacionales donde el **SiB Colombia** participa o incide.
@@ -108,18 +99,16 @@ Los datos sobre biodiversidad provienen de múltiples fuentes: colecciones biol�
 * Apoyo técnico del Equipo Coordinador del SiB Colombia en la estandarización y publicación de los datos.
 
 
-## [H2] ¿Cuál es el apoyo del Equipo Coordinador del SiB Colombia?
+## ¿Cuál es el apoyo del Equipo Coordinador del SiB Colombia?
 
 **El equipo de trabajo se encargará de recibir los datos digitalizados** (no importa en qué formato se encuentren) y realizar un proceso de limpieza y estandarización para su publicación. Adicionalmente se entregarán credenciales para la administración de éstos y la documentación de los metadatos en línea que permitan responder las cinco preguntas esenciales: quién, qué, cómo, cuándo y dónde. **Una vez publicados, se encargará de la respectiva divulgación de la publicación** y su importancia para el inventario nacional de la biodiversidad.
 
 
-### [H3] ¿Cómo es el proceso de publicación?
+### ¿Cómo es el proceso de publicación?
 
 El proceso de acompañamiento para la publicación de los datos consiste en una conversación continua entre el publicador y el equipo de trabajo para asegurar los mejores resultados.
 
 **El Equipo Coordinador del SiB Colombia se encargará de**:
-
-
 
 * Realizar el mapeo de los datos compartidos al estándar internacional Darwin Core (DwC).
 * Realizar una validación y limpieza de los datos compartidos sobre los elementos que generan mayor valor en un conjunto de datos como la taxonomía y geografía.
@@ -128,8 +117,6 @@ El proceso de acompañamiento para la publicación de los datos consiste en una 
 * Generar un reporte de calidad a partir del cual el publicador de los datos podrá realizar ajustes adicionales, aceptar o rechazar sugerencias.
 
 **El publicador se encargará de**:
-
-
 
 * Documentar la información de contexto sobre sus datos (metadatos).
 * Responder dudas que surjan sobre los datos.
@@ -140,63 +127,39 @@ Una vez finalizado el acompañamiento y **con el visto bueno del publicador se p
 Los datos publicados pueden ser actualizados posteriormente, en cualquier momento y cuantas veces sea necesario.
 
 
-## [H2] ¿Cómo será el manejo de los datos?
+## ¿Cómo será el manejo de los datos?
 
 En el SiB Colombia creemos en la construcción colectiva y participativa del conocimiento. Por eso, **consideramos que el modelo de acceso abierto es el mejor camino para que la sociedad pueda acceder de manera libre y responsable a la información sobre diversidad biológica del país.** Todos los socios y usuarios del SiB Colombia reconocen una serie de [principios orientadores](https://biodiversidad.co/acercade/sib-colombia#principios-orientadores) fundamentales para la participación, así como la Política de publicación, acceso y uso de datos, que se encuentra disponible en: [https://biodiversidad.co/terminoscondiciones/politicapublicacion](https://biodiversidad.co/terminoscondiciones/politicapublicacion)
 
 
-## [H2] ¿Dónde consultar los datos publicados para el departamento de Nariño?
+## ¿Dónde consultar los datos publicados para el departamento de Nariño?
 
 Al hacer [clic en el mapa](https://biodiversidad.co/data?filter=eyJtdXN0Ijp7ImdhZG1HaWQiOlsiQ09MLjIxXzEiXX19&view=MAP) se pueden **consultar los datos sobre biodiversidad del departamento de Nariño**, publicados en el nuevo portal de datos del SiB Colombia. Son cerca de 600.000 registros biológicos disponibles, en 341 conjuntos de datos:
-
-
 
 <p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image4.png "image_tooltip")
-
-
+![alt_text](images/minga/mapaNarino.png "image_tooltip")
 
 ---
 
 
-### [H3] Apoya
+### Apoya
 
 
 <table>
   <tr>
    <td>
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image5.png" width="" alt="alt_text" title="image_tooltip">
-
+<img src="images/minga/gobernacion-narino.png" width="" alt="Gobernación del departamento de Nariño" title="Gobernación del departamento de Nariño">
    </td>
    <td>
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image6.jpg" width="" alt="alt_text" title="image_tooltip">
-
+<img src="images/minga/udenar.png" width="" alt="Universidad de Nariño" title="Universidad de Nariño">
    </td>
    <td>
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image7.png" width="" alt="alt_text" title="image_tooltip">
-
+<img src="images/minga/resguardo-pialapi.png" width="" alt="Resguardo Indígena Pialapí Pueblo Viejo" title="Resguardo Indígena Pialapí Pueblo Viejo">
    </td>
    <td>
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image8.jpg" width="" alt="alt_text" title="image_tooltip">
-
+<img src="images/minga/inst-humboldt.jpg" width="" alt="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt" title="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt">
    </td>
   </tr>
   <tr>
@@ -206,9 +169,7 @@ Al hacer [clic en el mapa](https://biodiversidad.co/data?filter=eyJtdXN0Ijp7Imdh
    </td>
    <td><a href="http://reservalaplanada.blogspot.com/p/resguardo-pialapi.html">Resguardo Indígena Pialapí Pueblo Viejo</a>
    </td>
-   <td><a href="http://www.humboldt.org.co/es/">Instituto de Investigación de Recursos Biológicos</a>
-<p>
-<a href="http://www.humboldt.org.co/es/">Alexander von Humboldt</a>
+   <td><a href="http://www.humboldt.org.co/es/">Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</a>
    </td>
   </tr>
 </table>
