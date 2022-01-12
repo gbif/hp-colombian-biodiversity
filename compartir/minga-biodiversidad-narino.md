@@ -11,9 +11,12 @@ toc: true
 composition:
   - data: minga.splitCTA
     type: split
-  - data: minga.separador
+  - data: minga.bannerMinga
     type: floatingText
+  - data: markdownContent
+    type: markdown
 ---
+markdownContent: | 
 
 ## ¿Tienes datos sobre la diversidad biológica del departamento de Nariño?
 
@@ -136,10 +139,9 @@ En el SiB Colombia creemos en la construcción colectiva y participativa del con
 
 Al hacer [clic en el mapa](https://biodiversidad.co/data?filter=eyJtdXN0Ijp7ImdhZG1HaWQiOlsiQ09MLjIxXzEiXX19&view=MAP) se pueden **consultar los datos sobre biodiversidad del departamento de Nariño**, publicados en el nuevo portal de datos del SiB Colombia. Son cerca de 600.000 registros biológicos disponibles, en 341 conjuntos de datos:
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/minga/mapaNarino.png "image_tooltip")
+<a href="https://biodiversidad.co/data?filter=eyJtdXN0Ijp7ImdhZG1HaWQiOlsiQ09MLjIxXzEiXX19&view=MAP">
+<img src="images/minga/mapaNarino.png" width="" alt="Portal de datos" title="Portal de datos">
+</a>
 
 ---
 
