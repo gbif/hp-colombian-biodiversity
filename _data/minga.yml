@@ -14,3 +14,11 @@ splitCTA:
   - text: ¡Quiero publicar!
     href: https://forms.gle/m61mpPA7fqxaMg5s9
     isPrimary: true
+
+bannerMinga:
+  title: "type: floatingText"
+  description: |      # required
+      ¡Datos nuevos o antiguos, todos cuentan!
+  background: /assets/images/minga/fondoSeparadorNarino.png
+  overlayColor: "#ffffff55"
+  hasWhiteText: false
