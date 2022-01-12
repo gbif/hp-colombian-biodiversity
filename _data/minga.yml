@@ -18,6 +18,7 @@ splitCTA:
 bannerMinga:
   title: "¡Datos nuevos o antiguos, todos cuentan!"
   description: |      # required
+              1
   background: assets/images/minga/fondoSeparadorNarino.png
   overlayColor: "#ffffff55"
   hasWhiteText: false
@@ -25,6 +26,7 @@ bannerMinga:
 bannerTopMinga:
   title: "¿Tienes datos sobre la diversidad biológica del departamento de Nariño?"
   description: |      # required
+              2
   background: 
   overlayColor: "#ffffff55"
   hasWhiteText: false
