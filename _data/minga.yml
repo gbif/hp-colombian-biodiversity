@@ -1,23 +1,15 @@
 splitCTA:
   reverse: false
-  preTitle: "CTA"  # optional
-  title: "título"
+  preTitle:  # optional
+  title: 
   description: |      # required
       Comparte tus datos, te ayudamos a publicarlos a través del SiB Colombia, GBIF y OBIS.
       Deja que el mundo se entere de lo importante que es tu trabajo y conozca la riqueza biológica del departamento.
   # img required
   background: assets/images/minga/datosNarino.gif
-  # overlayColor: "#000033"
+  overlayColor: "#000033"
   href: https://forms.gle/m61mpPA7fqxaMg5s9
   cta:
   - text: ¡Quiero publicar!
     href: https://forms.gle/m61mpPA7fqxaMg5s9
     isPrimary: true
-
-bannerMinga:
-  title: "type: floatingText"
-  description: |      # required
-      ¡Datos nuevos o antiguos, todos cuentan!
-  background: /assets/images/minga/fondoSeparadorNarino.png
-  overlayColor: "#ffffff55"
-  hasWhiteText: false
