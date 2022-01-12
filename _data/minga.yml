@@ -20,7 +20,7 @@ bannerMinga:
   title: "¡Datos nuevos o antiguos, todos cuentan!"
   description: |      # required
               Te ayudamos a publicarlos a través del **SiB Colombia, GBIF y OBIS**
-  background: assets/images/minga/fondoSeparadorNarino.png
+  background: /assets/images/minga/fondoSeparadorNarino.png
   overlayColor: "#ffffff55"
   hasWhiteText: false
 
