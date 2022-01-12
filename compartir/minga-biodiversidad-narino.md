@@ -1,8 +1,9 @@
 ---
-layout: heroImage
+layout: compose
+
 title: Minga por la biodiversidad del departamento de Nariño
 description: La minga por la biodiversidad busca incrementar la disponibilidad de datos sobre la biodiversidad del país.
-background: 
+background: assets/minga/cabezote.jpg
 imageLicense: |
  
 height: 41vh
@@ -23,7 +24,7 @@ markdownContent: |
 <table>
   <tr>
    <td>
-<img src="images/minga/datosNarino.gif" width="" alt="datos sobre la diversidad biológica del departamento de Nariño" title="image_tooltip">
+<img src="assets/images/minga/datosNarino.gif" width="" alt="datos sobre la diversidad biológica del departamento de Nariño" title="image_tooltip">
    </td>
    <td>Comparte tus datos, te ayudamos a publicarlos a través del <strong>SiB Colombia</strong> y <strong>GBIF</strong>.
 <p>
@@ -140,7 +141,7 @@ En el SiB Colombia creemos en la construcción colectiva y participativa del con
 Al hacer [clic en el mapa](https://biodiversidad.co/data?filter=eyJtdXN0Ijp7ImdhZG1HaWQiOlsiQ09MLjIxXzEiXX19&view=MAP) se pueden **consultar los datos sobre biodiversidad del departamento de Nariño**, publicados en el nuevo portal de datos del SiB Colombia. Son cerca de 600.000 registros biológicos disponibles, en 341 conjuntos de datos:
 
 <a href="https://biodiversidad.co/data?filter=eyJtdXN0Ijp7ImdhZG1HaWQiOlsiQ09MLjIxXzEiXX19&view=MAP">
-<img src="images/minga/mapaNarino.png" width="" alt="Portal de datos" title="Portal de datos">
+<img src="assets/images/minga/mapaNarino.png" width="" alt="Portal de datos" title="Portal de datos">
 </a>
 
 ---
@@ -152,16 +153,16 @@ Al hacer [clic en el mapa](https://biodiversidad.co/data?filter=eyJtdXN0Ijp7Imdh
 <table>
   <tr>
    <td>
-<img src="images/minga/gobernacion-narino.png" width="" alt="Gobernación del departamento de Nariño" title="Gobernación del departamento de Nariño">
+<img src="assets/images/minga/gobernacion-narino.png" width="" alt="Gobernación del departamento de Nariño" title="Gobernación del departamento de Nariño">
    </td>
    <td>
-<img src="images/minga/udenar.png" width="" alt="Universidad de Nariño" title="Universidad de Nariño">
+<img src="assets/images/minga/udenar.png" width="" alt="Universidad de Nariño" title="Universidad de Nariño">
    </td>
    <td>
-<img src="images/minga/resguardo-pialapi.png" width="" alt="Resguardo Indígena Pialapí Pueblo Viejo" title="Resguardo Indígena Pialapí Pueblo Viejo">
+<img src="assets/images/minga/resguardo-pialapi.png" width="" alt="Resguardo Indígena Pialapí Pueblo Viejo" title="Resguardo Indígena Pialapí Pueblo Viejo">
    </td>
    <td>
-<img src="images/minga/inst-humboldt.jpg" width="" alt="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt" title="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt">
+<img src="assets/images/minga/inst-humboldt.jpg" width="" alt="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt" title="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt">
    </td>
   </tr>
   <tr>
