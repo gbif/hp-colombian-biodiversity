@@ -6,8 +6,8 @@ background: /assets/images/minga/cabezote.jpg
 height: 41vh
 toc: true
 composition:
-- type: heroImage
-  # data: compose.someFile.someProperty # no data provided, instead page data will be used
+- type: heroBox
+  data: minga.boxCabezote  # property inside yaml file
 - type: floatingText
   data: minga.bannerTopMinga
 - type: split
