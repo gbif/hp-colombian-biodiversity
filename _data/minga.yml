@@ -1,4 +1,4 @@
-splitAnuncioAcompañamientos:
+splitCTA:
   reverse: false
   #preTitle: CTA  # optional
   title:  
