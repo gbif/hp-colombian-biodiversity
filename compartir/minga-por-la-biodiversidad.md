@@ -1,7 +1,7 @@
 ---
 layout: compose
 title: Minga por la biodiversidad del departamento de Nariño
-description: La minga por la biodiversidad busca incrementar la disponibilidad de datos sobre la biodiversidad del país.
+description: La minga por la biodiversidad busca incrementar la disponibilidad de datos sobre la diversidad biológica del país.
 background: /assets/images/minga/cabezote.jpg
 height: 41vh
 toc: true
@@ -132,19 +132,18 @@ Al hacer [clic en el mapa](https://biodiversidad.co/data?filter=eyJtdXN0Ijp7Imdh
 <img src="/assets/images/minga/mingaNarino-logo-reserva.png" width="" alt="Reserva Natural La Planada" title="Reserva Natural La Planada">
    </td>
    <td style="width: 15%;">
-<img src="/assets/images/minga/inst-humboldt.png" width="" alt="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt" title="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt">
+<img src="/assets/images/minga/mingaNarino-logo-IAvH.png" width="" alt="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt" title="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt">
    </td>  </tr>
   <tr>
-   <td><a href="https://www.narino.gov.co/">Gobernación del departamento de Nariño</a>
+   <td style="text-align: center;"><a href="https://www.narino.gov.co/">Gobernación del departamento de Nariño</a>
    </td>
-   <td><a href="https://www.udenar.edu.co/">Universidad de Nariño</a>
+   <td style="text-align: center;"><a href="https://www.udenar.edu.co/">Universidad de Nariño</a>
    </td>
-   <td><a href="http://reservalaplanada.blogspot.com/p/resguardo-pialapi.html">Resguardo Indígena Pialapí Pueblo Viejo</a>
+   <td style="text-align: center;"><a href="http://reservalaplanada.blogspot.com/p/resguardo-pialapi.html">Resguardo Indígena Pialapí Pueblo Viejo</a>
    </td>
-   <td><a href="#none">Reserva Natural La Planada</a>
+   <td style="text-align: center;"><a href="#none">Reserva Natural La Planada</a>
    </td>
-   </td>
-   <td><a href="http://www.humboldt.org.co/es/">Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</a>
+   <td style="text-align: center;"><a href="http://www.humboldt.org.co/es/">Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</a>
    </td>
   </tr>
 </table>
