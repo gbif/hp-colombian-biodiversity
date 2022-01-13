@@ -119,25 +119,30 @@ Al hacer [clic en el mapa](https://biodiversidad.co/data?filter=eyJtdXN0Ijp7Imdh
 
 <table>
   <tr>
-   <td>
-<img src="/assets/images/minga/gobernacion-narino.png" width="" alt="Gobernación del departamento de Nariño" title="Gobernación del departamento de Nariño">
+   <td style="width: 40%;">
+<img src="/assets/images/minga/mingaNarino-logo-gobernacion.png" width="" alt="Gobernación del departamento de Nariño" title="Gobernación del departamento de Nariño">
    </td>
-   <td>
-<img src="/assets/images/minga/udenar.png" width="" alt="Universidad de Nariño" title="Universidad de Nariño">
+   <td style="width: 15%;">
+<img src="/assets/images/minga/mingaNarino-logo-udenar.png" width="" alt="Universidad de Nariño" title="Universidad de Nariño">
    </td>
-   <td>
-<img src="/assets/images/minga/resguardo-pialapi.png" width="" alt="Resguardo Indígena Pialapí Pueblo Viejo" title="Resguardo Indígena Pialapí Pueblo Viejo">
+   <td style="width: 15%;">
+<img src="/assets/images/minga/mingaNarino-logo-resguardo.png" width="" alt="Resguardo Indígena Pialapí Pueblo Viejo" title="Resguardo Indígena Pialapí Pueblo Viejo">
    </td>
-   <td>
+   <td style="width: 15%;">
+<img src="/assets/images/minga/mingaNarino-logo-reserva.png" width="" alt="Reserva Natural La Planada" title="Reserva Natural La Planada">
+   </td>
+   <td style="width: 15%;">
 <img src="/assets/images/minga/inst-humboldt.png" width="" alt="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt" title="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt">
-   </td>
-  </tr>
+   </td>  </tr>
   <tr>
    <td><a href="https://www.narino.gov.co/">Gobernación del departamento de Nariño</a>
    </td>
    <td><a href="https://www.udenar.edu.co/">Universidad de Nariño</a>
    </td>
    <td><a href="http://reservalaplanada.blogspot.com/p/resguardo-pialapi.html">Resguardo Indígena Pialapí Pueblo Viejo</a>
+   </td>
+   <td><a href="#none">Reserva Natural La Planada</a>
+   </td>
    </td>
    <td><a href="http://www.humboldt.org.co/es/">Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</a>
    </td>
