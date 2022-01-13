@@ -50,7 +50,7 @@ estadisticas:
 destacados:
   features:
 
-    - preTitle: publicación de datos
+    - preTitle: Publicación de datos
       title: Datos nuevos o antiguos, ¡todos cuentan!
       description: |      # required
        La minga por la biodiversidad busca incrementar la disponibilidad de datos en el país.
