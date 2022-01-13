@@ -114,31 +114,31 @@ En el SiB Colombia creemos en la construcción colectiva y participativa del con
 
 <table>
   <tr>
-   <td style="width: 40%;">
+   <td style="width: 20%;">
 <img src="/assets/images/minga/mingaNarino-logo-gobernacion.png" width="" alt="Gobernación del departamento de Nariño" title="Gobernación del departamento de Nariño">
    </td>
-   <td style="width: 15%;">
+   <td style="width: 20%;">
 <img src="/assets/images/minga/mingaNarino-logo-udenar.png" width="" alt="Universidad de Nariño" title="Universidad de Nariño">
    </td>
-   <td style="width: 15%;">
+   <td style="width: 20%;">
 <img src="/assets/images/minga/mingaNarino-logo-resguardo.png" width="" alt="Resguardo Indígena Pialapí Pueblo Viejo" title="Resguardo Indígena Pialapí Pueblo Viejo">
    </td>
-   <td style="width: 15%;">
+   <td style="width: 20%;">
 <img src="/assets/images/minga/mingaNarino-logo-reserva.png" width="" alt="Reserva Natural La Planada" title="Reserva Natural La Planada">
    </td>
-   <td style="width: 15%;">
+   <td style="width: 20%;">
 <img src="/assets/images/minga/mingaNarino-logo-IAvH.png" width="" alt="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt" title="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt">
    </td>  </tr>
   <tr>
-   <td style="text-align: center;"><a href="https://www.narino.gov.co/">Gobernación del departamento de Nariño</a>
+   <td style="text-align: center;"><a href="https://www.narino.gov.co/">Gobernación de Nariño</a>
    </td>
    <td style="text-align: center;"><a href="https://www.udenar.edu.co/">Universidad de Nariño</a>
    </td>
    <td style="text-align: center;"><a href="http://reservalaplanada.blogspot.com/p/resguardo-pialapi.html">Resguardo Indígena Pialapí Pueblo Viejo</a>
    </td>
-   <td style="text-align: center;"><a href="#none">Reserva Natural La Planada</a>
+   <td style="text-align: center;"><a href="http://reservalaplanada.blogspot.com">Reserva Natural La Planada</a>
    </td>
-   <td style="text-align: center;"><a href="http://www.humboldt.org.co/es/">Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</a>
+   <td style="text-align: center;"><a href="http://www.humboldt.org.co/es/">Instituto Humboldt</a>
    </td>
   </tr>
 </table>
