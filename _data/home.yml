@@ -50,7 +50,18 @@ estadisticas:
 destacados:
   features:
 
-    - preTitle:  Noticias
+    - preTitle: publicación de datos
+      title: Datos nuevos o antiguos, ¡todos cuentan!
+      description: |      # required
+       La minga por la biodiversidad busca incrementar la disponibilidad de datos en el país.
+      # img required
+      background: assets/images/minga/cabezote.jpg
+      cta:
+      - text: Ver más
+        href: /compartir/minga-por-la-biodiversidad
+        isPrimary: false
+        
+    - preTitle: Noticias
       title: ¡Bienvenido a biodiversidad.co!
       description: |      # required
        El nuevo portal incluye datos, galería de imágenes, mapa y descargas con DOI.
@@ -61,7 +72,7 @@ destacados:
         href: /post/2021/biodiversidad-en-colombia-tiene-nuevo-portal/
         isPrimary: false
         
-    - preTitle:  Red SiB Colombia
+    - preTitle: Red SiB Colombia
       title: Alianza sector empresarial
       description: |      # required
             Un aporte del sector empresarial al conocimiento de la biodiversidad.
@@ -71,7 +82,13 @@ destacados:
       - text: Ver más
         href: /acercade/aliados/andi/
         isPrimary: false
-           
+
+
+# Feature cards
+#cards
+backup:
+  features:
+  
     - preTitle:  Convocatorias
       title: Reconocimiento SNCTI
       description: |      # required
@@ -81,22 +98,7 @@ destacados:
       - text: Ver más
         href: /post/2021/convocatoria-nacional-medicion-grupos-cvlac-sib/
         isPrimary: false
-
-# Feature cards
-#cards
-backup:
-  features:
-  
-    - preTitle:  Red SiB Colombia
-      title: Alianza sector empresarial
-      description: |      # required
-       Un aporte del sector empresarial al conocimiento de la biodiversidad.
-      # img required
-      background: /assets/images/landing_page/imgDest_Andi.jpg
-      cta:
-      - text: Ver más
-        href: /acercade/aliados/andi
-        isPrimary: false
+        
 
 splitAnuncioAcompañamientos:
   reverse: true
