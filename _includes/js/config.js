@@ -4,31 +4,33 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 
 
 var siteConfig = {
-  rootPredicate: {
-    "type": "or",
-    "predicates": [
-      {
-        "key": "publishingCountry",
-        "type": "equals",
-        "value": "CO"
-      },
-      {
-        "type": "and",
-        "predicates": [
-          {
-            "key": "country",
-            "type": "equals",
-            "value": "CO"
-          },
-          {
-            "key": "notIssues",
-            "type": "equals",
-            "value": "COUNTRY_COORDINATE_MISMATCH"
-          }
-        ]
-      }
-    ]
-  },
-  highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince','elevation','year', 'basisOfRecord', 'recordedBy','publishingOrg','datasetKey','datasetName','occurrenceIssue'],
-  occurrenceSearchTabs: ['TABLE',  'MAP','GALLERY', 'DATASETS']
+  occurrence: {
+    rootPredicate: {
+      "type": "or",
+      "predicates": [
+        {
+          "key": "publishingCountry",
+          "type": "equals",
+          "value": "CO"
+        },
+        {
+          "type": "and",
+          "predicates": [
+            {
+              "key": "country",
+              "type": "equals",
+              "value": "CO"
+            },
+            {
+              "key": "notIssues",
+              "type": "equals",
+              "value": "COUNTRY_COORDINATE_MISMATCH"
+            }
+          ]
+        }
+      ]
+    },
+    highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince','elevation','year', 'basisOfRecord', 'recordedBy','publishingOrg','datasetKey','datasetName','occurrenceIssue'],
+    occurrenceSearchTabs: ['TABLE',  'MAP','GALLERY', 'DATASETS']
+  }
 };
