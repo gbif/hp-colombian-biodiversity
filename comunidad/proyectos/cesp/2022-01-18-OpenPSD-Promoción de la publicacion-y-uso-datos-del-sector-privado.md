@@ -1,7 +1,6 @@
 ---
+layout: default
 title:  "OpenPSD: Promoción de la publicación y el uso de datos del sector privado sobre biodiversidad"
-date:   2022-01-18
-
 ---
 
 Cada año, las empresas privadas registran una cantidad significativa de datos de biodiversidad. Recolectados a través de evaluaciones de impacto ambiental y programas nacionales de monitoreo, estos datos generalmente permanecen bloqueados en informes que no están disponibles para la comunidad científica en general y la sociedad en general.  
