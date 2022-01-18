@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "Mejorando la calidad de los datos de biodiversidad en América Latina: documentando las mejores prácticas en los flujos de trabajo y ciclos de vida de los datos"
-toc: true
-height: 41vh
 ---
 
 Casi todos los registros de ocurrencia en GBIF se pueden refinar o mejorar. En América Latina, tanto los profesionales de los datos como los encargados de la toma de decisiones constantemente mencionan la calidad de los datos como una prioridad para garantizar su inclusión en las estrategias y políticas nacionales de conservación.  
