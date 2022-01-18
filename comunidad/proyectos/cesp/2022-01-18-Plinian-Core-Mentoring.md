@@ -1,7 +1,6 @@
 ---
+layout: default
 title:  "Plinian Core Mentoring: fortalecimiento de las mejores prácticas para movilizar información sobre especies"
-date:   2022-01-18
-
 ---
 
 Este proyecto aplicó el estándar Plinian Core como un medio para aumentar la calidad y la interoperabilidad de los datos de especies movilizados a través de la red GBIF. Desarrollado para proporcionar un medio para administrar información integral a nivel de especie, Plinian Core integra información de literatura, registros biológicos y observaciones directas mientras se alinea con otros estándares de datos, incluido [Darwin Core](http://rs.tdwg.org/dwc/){:target="_blank"}. La adopción más amplia de Plinian Core promete mejorar la conservación y validación de los datos de ocurrencia mediados por GBIF por diferentes catalogadores de especies.  
