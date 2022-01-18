@@ -1,7 +1,6 @@
 ---
+layout: default
 title:  "Incrementando capacidades para desarrollar Listas Nacionales de Especies en la Región de América Latina y el Caribe"
-date:   2022-01-18
-
 ---
 
 Las listas de verificación de especies son un componente clave para todos los sistemas de información sobre biodiversidad, ya que son necesarias para intercambiar e integrar información sobre biodiversidad para muchas actividades, científicas y de otro tipo. Dentro de estas listas de verificación, debe haber datos de nomenclatura validados organizados de acuerdo con estándares taxonómicos coherentes. Un problema radica aquí en que la gran mayoría de los países de América Latina y el Caribe carecen de documentación en su idioma nativo para compilar listas de verificación de especies locales o nacionales. Como resultado, actualmente tenemos información fragmentada sin estándares comunes, lo que dificulta la compilación de listas regionales, lo que limita las acciones de investigación y conservación dentro de la región.  
