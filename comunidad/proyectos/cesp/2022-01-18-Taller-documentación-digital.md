@@ -1,7 +1,6 @@
 ---
+layout: default
 title:  "Taller de documentación digital: Vinculación de datos de biodiversidad, publicaciones e imágenes"
-date:   2022-01-18
-
 ---
 
 
