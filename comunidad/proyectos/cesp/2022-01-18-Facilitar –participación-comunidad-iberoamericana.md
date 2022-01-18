@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  "Facilitar la participación de la comunidad iberoamericana"
+
 ---
 
 Sobre la base del éxito anterior de SiB Colombia en el desarrollo de videos elegantes y sustantivos, esta colaboración con GBIF España tiene como objetivo producir nuevos recursos de aprendizaje y promoción que sirvan para cerrar una de las brechas lingüísticas en la red de GBIF. La creación de un conjunto de herramientas dedicado y un video informativo, el proyecto permitirá a los usuarios aprender, compartir y aprovechar los recursos a un mayor nivel.
