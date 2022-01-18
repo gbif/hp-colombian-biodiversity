@@ -1,7 +1,6 @@
 ---
+layout: default
 title:  "Capacitación en monitoreo participativo de la biodiversidad: Construyendo localmente, conectando globalmente"
-date:   2022-01-18
-
 ---
 
 Durante seis días en la Reserva Natural Río Claro en Antioquia, Colombia, el personal de los participantes de GBIF en Colombia, Argentina, México y España se reunirá para recibir instrucción inicial en persona sobre el monitoreo comunitario. Juntos, explorarán la teoría y la práctica mientras aprenden a:
