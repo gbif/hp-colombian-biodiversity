@@ -1,8 +1,8 @@
 ---
+layout: default
 title:  "Mejorando la calidad de los datos de biodiversidad en América Latina: documentando las mejores prácticas en los flujos de trabajo y ciclos de vida de los datos"
-date:   2022-01-18
-
 ---
+
 Casi todos los registros de ocurrencia en GBIF se pueden refinar o mejorar. En América Latina, tanto los profesionales de los datos como los encargados de la toma de decisiones constantemente mencionan la calidad de los datos como una prioridad para garantizar su inclusión en las estrategias y políticas nacionales de conservación.  
 Este proyecto, liderado por GBIF Colombia (SiB Colombia), abordará esta necesidad al documentar las mejores prácticas para mejorar la calidad de los datos en cada etapa del flujo de trabajo de datos típico. Si bien el proyecto se centrará en brindar un conjunto de mejores prácticas adaptadas a las necesidades locales de América Latina, el documento resultante se basará y reunirá materiales existentes de toda la comunidad global.   
 Las actividades girarán en torno a un par de talleres virtuales, y el equipo del proyecto documentará los enfoques recomendados en tres etapas diferentes de los flujos de trabajo típicos de datos: digitalización, publicación y repatriación de datos.  
