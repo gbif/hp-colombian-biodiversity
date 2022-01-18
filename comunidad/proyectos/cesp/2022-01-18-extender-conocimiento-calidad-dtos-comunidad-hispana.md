@@ -1,7 +1,6 @@
 ---
+layout: default
 title:  "Extender el conocimiento sobre la calidad y publicación de datos de biodiversidad en la comunidad de habla hispana"
-date:   2022-01-18
-
 ---
 
 Extender el conocimiento sobre la calidad y publicación de datos de biodiversidad en la comunidad de habla hispana  
