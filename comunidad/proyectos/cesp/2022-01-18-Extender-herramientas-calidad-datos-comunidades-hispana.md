@@ -1,7 +1,6 @@
 ---
+layout: default
 title:  "Extender las herramientas para mejorar la calidad de los datos de biodiversidad a las comunidades de habla hispana"
-date:   2022-01-18
-
 ---
 
 Los procesos para validar y mejorar la calidad de los datos antes de su publicación a menudo requieren herramientas separadas o intervención manual. Además de consumir tiempo y recursos adicionales, estos enfoques pueden ser difíciles, si no imposibles, cuando se trabaja con grandes conjuntos de datos o se publican datos en idiomas distintos al inglés.  
