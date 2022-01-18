@@ -1,8 +1,8 @@
 ---
+layout: default
 title:  "De experiencias compartidas a conocimientos compartidos y soluciones comunes: colaborando para mejorar las herramientas basadas en la web en América Latina y el Caribe"
-date:   2022-01-18
-
 ---
+
 Habiéndose desarrollado en gran medida de forma independiente unos de otros, los [nodos de GBIF de la región de América Latina y el Caribe](https://www.gbif.org/the-gbif-network/latin-america){:target="_blank"} han implementado diferentes soluciones para organizar y mostrar datos de biodiversidad y desplegar servicios de información relacionados. Este enfoque fragmentado a menudo ha tenido altos costos, particularmente en términos de soporte de soluciones individuales a medida.  
 
 Para representar de manera efectiva el capital natural de la región en toda su riqueza, el equipo del proyecto liderado por SiBBr (Sistema de Informação sobre a Biodiversidade Brasileira) organizará un taller para explorar su experiencia, capacidad y desafíos con el objetivo de intercambiar conocimientos, metodologías y herramientas para compartir y utilizar datos e información de biodiversidad en el escenario regional.  
