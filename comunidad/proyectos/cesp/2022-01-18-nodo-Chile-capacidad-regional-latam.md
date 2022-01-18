@@ -1,7 +1,6 @@
 ---
+layout: default
 title:  "Establecimiento de un nodo nacional para Chile para mejorar la capacidad regional de América Latina"
-date:   2022-01-18
-
 ---
 
 El singular aislamiento biogeográfico de Chile y su expansión norte-sur—vastos desiertos del norte, zona central de tipo mediterráneo, bosques templados y estepas del sur, todos delimitados por los Andes al este y el Océano Pacífico al oeste—todos contribuyen a su singular biodiversidad.  
