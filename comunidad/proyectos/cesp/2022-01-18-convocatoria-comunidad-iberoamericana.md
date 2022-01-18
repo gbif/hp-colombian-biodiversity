@@ -1,7 +1,6 @@
 ---
+layout: default
 title:  "Taller de uso de datos para la toma de decisiones: una convocatoria de la comunidad iberoamericana"
-date:   2022-01-18
-
 ---
 
 La aparente brecha entre GBIF y los tomadores de decisiones, a nivel nacional, refleja una deficiencia en la implementación de acciones para mejorar el impacto de los datos mediados por GBIF en la política gubernamental. Es importante mejorar y fortalecer este vínculo, destacando la importancia de la toma de decisiones basada en evidencia a través de la discusión de estrategias y la generación de productos de datos relevantes para las políticas.
