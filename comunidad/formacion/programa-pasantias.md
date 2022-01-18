@@ -15,7 +15,7 @@ La red del SiB Colombia facilita la publicación, acceso y uso de los datos e in
 # Objetivos
 
 * Formar a los profesionales del sector ambiental en manejo y gestión de datos abiertos sobre Biodiversidad.
-* Faciliatar que las entidades que generan datos  sobre biodiversidad cuenten con profesionales con una formación robusta en informática de la biodiversidad.
+* Facilitar que las entidades que generan datos  sobre biodiversidad cuenten con profesionales con una formación robusta en informática de la biodiversidad.
 * Apoyar a los estudiantes en su proyecto profesional y en la transición al mundo laboral en el sector ambiental.
 
 
@@ -171,6 +171,10 @@ La convocatoria se abré  anualmente o semestralmente por el periodo de un mes d
 
 La selección de los pasantes se hace basada unicamente en meritos y en los resultados de su prueba técnica y entrevista. En el SiB Colombia promovemos al diversidad cultural, social y de género, e invitamos a todos los estudiantes a aplicar.
 
+  Recursos útiles para aplicar:
+  * [Hoja de vida](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=101:hoja-de-vida&catid=76&Itemid=169)
+  * [Carta de intención](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=133:guia-para-la-elaboracion-de-cartas-de-presentacion-o-cover-letters&catid=76&Itemid=169)
+
 **Etapa 1 - Revisión de aplicaciones**
 
   El EC-SiB revisa el cumplimiento de los requisitos y la idoneidad de los candidatos para cada perfil a partir de la hoja dde vida y una breve carta de intención. 
@@ -202,7 +206,7 @@ En caso de ser elegido como pasante los estudiantes deberán recopilar los sigui
 
 1. Carta de presentación o respaldo, expedida y firmada por la Universidad, o profesor de la facultad o departamento. En esta carta la universidad debe debe indicar que el estudiante está activo (matriculado) y que cuenta con los requisitos académicos necesarios para realizar la pasantía.
 
-2. Carta de expresión de interés donde el estudiante ratifica su disponibilidad y compromiso para la ejecución de la pasantía, debe ir firmada por el estudiante e incluir sus datos personales y de contacto.
+2. Carta de expresión de interés donde el estudiante ratifica su disponibilidad y compromiso para la ejecución de la pasantía, debe ir firmada por el estudiante e incluir sus datos personales y de contacto (correo electrónico, telefono y dirección).
 
 3. Fotocopia legible del carné estudiantil.
 
@@ -217,6 +221,10 @@ En caso de ser elegido como pasante los estudiantes deberán recopilar los sigui
 8. Certificado de existencia y representación legal de la Universidad con fecha no mayor a 90 días
 
 9. Copia de la cédula de ciudadanía del representante legal de la universidad, o los documentos de la eventual persona que vaya a ser designada para firmar el acuerdo tripartito (poder, autorización o su equivalente en la Universidad, junto con copia de la cédula).
+
+11. Documento que acredíete que la persona indicada en el numeral anterior tiene las facultades para suscribir el acuerdo tripartito.
+
+12. Plan de trabajo de una hoja que incluya: objetivos, actividades y crongrama, o que cumpla con los lineamientos establecidos por la universidad en caso de que esta requiera un plan de trabajo.
 
 Adicionalmente el estudiante debe ponerse en contacto con su universidad para avanzar con el papeleo que esta requeira y debe verificar fechas y requisitos internos.
 
