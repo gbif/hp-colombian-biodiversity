@@ -1,6 +1,6 @@
 ---
 layout: compose
-klass: formacion
+# klass: formacion
 title: Grupos de interés y trabajo
 description: |
    Grupos de la red del SiB Colombia y cómo participar.
