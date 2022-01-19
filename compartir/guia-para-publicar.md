@@ -150,7 +150,7 @@ Consulta el [vídeo sobre cómo preparar los datos para publicación](https://yo
 ### 3. Valida el conjunto de datos estandarizado
 Ahora debes validar el conjunto de datos antes de publicarlo usando el [Procesador de Datos CR-SiB](https://tools.sibcolombia.net/procesador-cr-sib/){:target="_blank"}. La herramienta valida la sintaxis del conjunto de datos, y de ser correcta, transforma la plantilla Excel en un Darwin Core Archive (formato de archivo .zip). Guarda este archivo para el siguiente paso.
 
-Ten en cuenta que la herramienta no hace validaciones de la calidad de los datos, y la responsabilidad de dicha validación es tuya. Ejemplo: identificar datos duplicados, campos incompletos, inconsistencias taxonómicas y geográficas, entre otros. Puedes validar tus conjuntos de datos usando la [caja de herramientas de calidad de datos](/recursos/calidaddedatos) que dispone el SiB Colombia.
+Ten en cuenta que la herramienta no hace validaciones de la calidad de los datos, y la responsabilidad de dicha validación es tuya. Ejemplo: identificar datos duplicados, campos incompletos, inconsistencias taxonómicas y geográficas, entre otros. Puedes validar tus conjuntos de datos usando la [caja de herramientas de calidad de datos](/recursos/calidad-de-datos) que dispone el SiB Colombia.
 
 Consulta los [laboratorios de datos](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios) que explican como usar diversas herramientas para validar y mejorar la calidad de un conjunto de datos.
 
