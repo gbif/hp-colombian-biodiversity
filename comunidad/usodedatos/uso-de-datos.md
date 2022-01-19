@@ -1,7 +1,6 @@
 ---
 layout: compose
-klass: usodatos # necesario?
-permalink: /comunidad/usodedatos
+permalink: /comunidad/uso-de-datos
 title: Uso de datos
 description: |
    El SiB Colombia facilita datos e información para satisfacer las necesidades en procesos de investigación, educación y toma de decisiones. En esta sección El Equipo Coordinador da los primeros pasos para consolidar el uso de datos sobre biodiversidad.
@@ -9,10 +8,6 @@ background: https://live.staticflickr.com/2132/1496964659_6d2bd87a42_b.jpg
 imageLicense: |
   _Acianthera casapensis_ Fotografía de: Quimbaya vía [Flickr](https://flic.kr/p/3hhkrv)
 height: 41vh
-# parallax: true
-# overlayColor: "#ffffffbb" 
-# hasTextShadow: true
-# hasBlackText: true
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
