@@ -1,6 +1,6 @@
 ---
 layout: documentation
-permalink: /terminoscondiciones/politicapublicacion
+permalink: /terminos-y-condiciones/politica-de-publicacion
 title: "Política de publicación"
 description: Política para la publicación de datos a través del SiB Colombia
 sideNavigation: sidenav_terminoscondiciones.terms
