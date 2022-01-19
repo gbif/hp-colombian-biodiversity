@@ -4,8 +4,9 @@ title: Repositorio de publicaciones
 description: Publicaciones a partir de datos y cifras del SiB Colombia
 background: https://live.staticflickr.com/65535/46248684634_a71b42a65c_b.jpg
 imageLicense: |
-  Fotografía: Felipe Rodríguez-Moreno [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) vía [flikr](https://www.flickr.com/photos/feliperodriguez90/) 
+  Fotografía: Felipe Rodríguez-Moreno [by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/3.0/) vía [flikr](https://www.flickr.com/photos/feliperodriguez90/)
 height: 41vh
+
 ---
 
 
