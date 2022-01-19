@@ -9,7 +9,7 @@ height: 41vh
 toc: true
 ---
 
-La red del SiB Colombia facilita la publicación, acceso y uso de los datos e información que son la base para cuantificar, entender y proteger la Biodversidad del país. Para hacerlo contamos con un equipo interdisciplinario de profesionales sin embargo, hemos indentificado que aún hay un desconocimeinto enorme dentro de la comunidad sobre temas relevantes como informática de la biodiversidad, datos abiertos, y buenas prácticas para el manejo y uso de los datos. Es por eso que dentro de nuestra estrategia de formación las pasantías son un eje importante para formar profesionales con habilidades específicas en estos frentes y que a su vez se transmitan los conocimientos adquiridos en los distintos sectores donde se desempeñen profesionalmente en el futuro.
+La red del SiB Colombia facilita la publicación, acceso y uso de los datos e información que son la base para cuantificar, entender y proteger la Biodiversidad del país. Para hacerlo contamos con un equipo interdisciplinario de profesionales, sin embargo, hemos identificado que aún hay un desconocimiento enorme dentro de la comunidad sobre temas relevantes como informática de la biodiversidad, datos abiertos, y buenas prácticas para el manejo y uso de los datos. Es por eso que dentro de nuestra estrategia de formación las pasantías son un eje importante para formar profesionales con habilidades específicas en estos frentes y que a su vez se transmitan los conocimientos adquiridos en los distintos sectores donde se desempeñen profesionalmente en el futuro.
 
 
 # Objetivos
@@ -21,7 +21,7 @@ La red del SiB Colombia facilita la publicación, acceso y uso de los datos e in
 
 # Beneficios
 
-EL Equipo Coordinador del SiB Colombia (EC-SiB) brinda un espacio para el aprendizaje a través de una tutoria cercana donde los pasantes se integran por completo a las actividades del equipo experimentando así un ambiente lleno de estímulos para mejorar sus habilidades profesionales y personales.
+El Equipo Coordinador del SiB Colombia (EC-SiB) brinda un espacio para el aprendizaje a través de una tutoría cercana donde los pasantes se integran por completo a las actividades del equipo experimentando así un ambiente lleno de estímulos para mejorar sus habilidades profesionales y personales.
 
 Nuestros pasantes se benefician de:
 
@@ -29,17 +29,17 @@ Nuestros pasantes se benefician de:
 2. Participación y autoría en documentos de divulgación y/o técnicos generados en el marco de la pasantía según el desempeño del pasante.
 3. Recomendación de trabajo directa con los socios del SiB Colombia según el desempeño del pasante y la demanda de profesionales.
 4. Vinculación laboral con el SiB Colombia después de su pasantía según el desempeño del pasante y la demanda de profesionales.
-5. Entrenamiento intensivo en informática de la biodiversidad (aplica para los perfiles de la línea de Admnistración de Contenidos).
+5. Entrenamiento intensivo en informática de la biodiversidad (aplica para los perfiles de la línea de Administración de Contenidos).
 6. Entrenamiento en diseño y divulgación de la ciencia (aplica para los perfiles de la línea de Productos y servicios).
 
-Más de 18 pasantes que han sido parte del EC-SiB, conoce sus experencias:
+Más de 18 pasantes que han sido parte del EC-SiB, conoce sus experiencias:
 
 [Alumni](/comunidad/formacion/alumni){: .button .is-primary}
 
 # Esquema
 
 - **Semestre**: estudiantes de séptimo semestre en adelante.
-- **Duración**: 5-6 meses a partir de la legalización de la pasantía idelamente bajo el mismo calendario de los 2 semestres académicos del año.
+- **Duración**: 5-6 meses a partir de la legalización de la pasantía idealmente bajo el mismo calendario de los 2 semestres académicos del año.
 - **Apoyo de sostenimiento**: usualmente no hay apoyo, pero facilitamos que los estudiantes apliquen al [Programa Estado Joven](https://www.mintrabajo.gov.co/empleo-y-pensiones/movilidad-y-formacion/estado-joven){:target="_blank"} en caso de estar abierta la convocatoria.
 - **Intensidad horaria** : se define con cada pasante de acuerdo a la carga académica, como mínimo se esperan 22 horas semanales.
 - **Horario**: se maneja un horario flexible, el desarrollo de la pasantía se enfoca en objetivos y no en cumplimiento de horario. Cada pasante deberá gestionar su tiempo de acuerdo a sus compromisos académicos, laborales y personales.
@@ -164,12 +164,12 @@ Esta pasantía busca el diseño e implementar estrategias de divulgación cient�
 
 # Aplicación
 
-La convocatoria se abré  anualmente o semestralmente por el periodo de un mes durante el cuál se recibiran aplicaciones unicamente por medio del formulario dispuesto para ello.
+La convocatoria se abre  anualmente o semestralmente por el periodo de un mes durante el cuál se recibirán aplicaciones únicamente por medio del formulario dispuesto para ello.
   
   - 1er Semestre -  Convocatoria de Marzo a Abril para ejecutar la pasantía de Julio a Diciembre del siguiente semestre.
   - 2do Semestre -  Convocatoria de Agosto a Septiembre para ejecutar la pasantía de Enero a Junio del siguiente semestre.
 
-La selección de los pasantes se hace basada unicamente en meritos y en los resultados de su prueba técnica y entrevista. En el SiB Colombia promovemos al diversidad cultural, social y de género, e invitamos a todos los estudiantes a aplicar.
+La selección de los pasantes se hace basada únicamente en méritos y en los resultados de su prueba técnica y entrevista. En el SiB Colombia promovemos la diversidad cultural, social y de género, e invitamos a todos los estudiantes a aplicar.
 
   Recursos útiles para aplicar:
   * [Hoja de vida](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=101:hoja-de-vida&catid=76&Itemid=169)
@@ -177,20 +177,20 @@ La selección de los pasantes se hace basada unicamente en meritos y en los resu
 
 **Etapa 1 - Revisión de aplicaciones**
 
-  El EC-SiB revisa el cumplimiento de los requisitos y la idoneidad de los candidatos para cada perfil a partir de la hoja dde vida y una breve carta de intención. 
+  El EC-SiB revisa el cumplimiento de los requisitos y la idoneidad de los candidatos para cada perfil a partir de la hoja de vida y una breve carta de intención. 
   Los candidatos serán informados sobre los resultados una semana después del cierre de la convocatoria.
   
 **Etapa 2 -Invitación a prueba técnica** 
 
-  Los candidatos  con los mejores puntaje en la Etapa 1 serán invitados a presentar una prueba técnica que será enviada por correo, esta prueba medirá las
+  Los candidatos  con los mejores puntajes en la Etapa 1 serán invitados a presentar una prueba técnica que será enviada por correo, esta prueba medirá las
   habilidades de los candidatos en el manejo de herramientas informáticas, así como su capacidad de resolver problemas y otras habilidades específicas para cada
   perfil. 
   Normalmente los candidatos tendrán de 3 a 4 días durante un fin de semana para resolver la prueba, y serán informados de los resultados una semana después de su entrega. 
 
 **Etapa 3 – Aplicación a Estado Joven**
 
- Generalmente las pasantías no cuentan con apoyo económico, sin embargo algunos semestres el Ministerio de Trabajo con progrma Estado Joven abre una convocatoria para aplicar a un apoyo económico para los pasantes.
- Cuando la convocatoria esta abierta desde EC-SiB acompaña a los candidatos en la aplicación a este programa, este proceso se realiza en paralelo a la selección dentro del SiB Colombia.
+ Generalmente las pasantías no cuentan con apoyo económico, sin embargo algunos semestres el Ministerio de Trabajo con programa Estado Joven abre una convocatoria para aplicar a un apoyo económico para los pasantes.
+ Cuando la convocatoria está abierta desde EC-SiB acompaña a los candidatos en la aplicación a este programa, este proceso se realiza en paralelo a la selección dentro del SiB Colombia.
 
 **Etapa 4 -Invitación a entrevista** 
 
@@ -199,14 +199,14 @@ Los candidatos que obtuvieron los puntajes más altos en la prueba técnica de l
 
 # Vinculación
 
-De ser seleccionado la vinculación se realiza por medio de un Acuerdo de Vinculación Tripartita expedido por el Instituto Humboldt según lo estipulado en la resolución 623 del 2020 del Ministerio de Trabajo, los estudiantes deben verificar que esta modalidad de vincualación sea aceptada por su Universidad.
+De ser seleccionado la vinculación se realiza por medio de un Acuerdo de Vinculación Tripartita expedido por el Instituto Humboldt según lo estipulado en la resolución 623 del 2020 del Ministerio de Trabajo, los estudiantes deben verificar que esta modalidad de vinculación sea aceptada por su Universidad.
 
 En caso de ser elegido como pasante los estudiantes deberán recopilar los siguientes documentos en un periodo no mayor a 2 semanas:
 
 
 1. Carta de presentación o respaldo, expedida y firmada por la Universidad, o profesor de la facultad o departamento. En esta carta la universidad debe debe indicar que el estudiante está activo (matriculado) y que cuenta con los requisitos académicos necesarios para realizar la pasantía.
 
-2. Carta de expresión de interés donde el estudiante ratifica su disponibilidad y compromiso para la ejecución de la pasantía, debe ir firmada por el estudiante e incluir sus datos personales y de contacto (correo electrónico, telefono y dirección).
+2. Carta de expresión de interés donde el estudiante ratifica su disponibilidad y compromiso para la ejecución de la pasantía, debe ir firmada por el estudiante e incluir sus datos personales y de contacto (correo electrónico, teléfono y dirección).
 
 3. Fotocopia legible del carné estudiantil.
 
@@ -222,9 +222,9 @@ En caso de ser elegido como pasante los estudiantes deberán recopilar los sigui
 
 9. Copia de la cédula de ciudadanía del representante legal de la universidad, o los documentos de la eventual persona que vaya a ser designada para firmar el acuerdo tripartito (poder, autorización o su equivalente en la Universidad, junto con copia de la cédula).
 
-11. Documento que acredíete que la persona indicada en el numeral anterior tiene las facultades para suscribir el acuerdo tripartito.
+11. Documento que acredite que la persona indicada en el numeral anterior tiene las facultades para suscribir el acuerdo tripartito.
 
-12. Plan de trabajo de una hoja que incluya: objetivos, actividades y crongrama, o que cumpla con los lineamientos establecidos por la universidad en caso de que esta requiera un plan de trabajo.
+12. Plan de trabajo de una hoja que incluya: objetivos, actividades y cronograma, o que cumpla con los lineamientos establecidos por la universidad en caso de que esta requiera un plan de trabajo.
 
-Adicionalmente el estudiante debe ponerse en contacto con su universidad para avanzar con el papeleo que esta requeira y debe verificar fechas y requisitos internos.
+Adicionalmente el estudiante debe ponerse en contacto con su universidad para avanzar con el papeleo que esta requiera y debe verificar fechas y requisitos internos.
 
