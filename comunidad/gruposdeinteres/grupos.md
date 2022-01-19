@@ -1,6 +1,5 @@
 ---
 layout: compose
-# klass: formacion
 title: Grupos de interés y trabajo
 description: |
    Grupos de la red del SiB Colombia y cómo participar.
@@ -8,12 +7,13 @@ background: https://live.staticflickr.com/4388/35918846974_b14866f211_b.jpg
 imageLicense: |
   Fotografía de: CIFOR vía [Flickr](https://flic.kr/p/WJ2tP5) 
 height: 41vh
+permalink:comunidad/grupos
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
-  #- data: gruposdeinteres.tarjetasFormacion
+  #- data: gruposdeinteres.tarjetasGrupos
   #  type: features # the block type
-  - data: gruposdeinteres.cfv2021
+  - data: gruposdeinteres.participar
     type: floatingText # the block type
 
 ---
