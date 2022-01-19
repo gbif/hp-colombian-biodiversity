@@ -6,17 +6,17 @@ gobernanza:
         Entidades que lo conforman y sus delegados.
       # img required
       background: /acercade/imagenes/ComiteDirectivo.jpg
-      href: /acercade/gobernanza/comitedirectivo
+      href: /acercade/gobernanza/comite-directivo
     - preTitle:  # optional
       title: Comité Técnico # required
       description: |      # required
         Entidades que lo conforman y sus delegados.
       # img required
       background: /acercade/imagenes/ComiteTecnicoSiB.jpg
-      href: /acercade/gobernanza/comitetecnico
+      href: /acercade/gobernanza/comite-tecnico
     - preTitle:   # optional
       title: Equipo Coordinador    # required
-      href: /acercade/gobernanza/equipocoordinador
+      href: /acercade/gobernanza/equipo-coordinador
       description: |      # required
          Secretaría técnica y nodo GBIF Colombia.
       background: /acercade/imagenes/equipocoordinador/EquipoCoordinador2020_villa.jpg
