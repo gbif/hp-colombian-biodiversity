@@ -1,6 +1,6 @@
 #floatingText 
 
-cfv2021:
+participar:
   title:
   description: | 
     Crea diferentes iniciativas, proyectos y materiales alrededor de la publicación acceso y uso de datos sobre biodiversidad.
@@ -9,14 +9,14 @@ cfv2021:
   hasWhiteText: false
   cta:
   - text: Grupo de Interés
-    href: /comunidad/gruposdeinteres/participagruposinteres
+    href: /comunidad/grupos/participar-grupos-de-interes
     isPrimary: true
   - text: Grupo de Trabajo
-    href: /comunidad/gruposdeinteres/participagrupostrabajo
+    href: /comunidad/grupos/participar-grupos-de-trabajo
     isPrimary: true
 
 #cards
-tarjetasFormacion:
+tarjetasGrupos:
   # title: Ejes de formación
   # description: Ejes de formación:
     
@@ -27,7 +27,7 @@ tarjetasFormacion:
        Grupo de interés
       # img required
       background: /comunidad/gruposdeinteres/images/AtribucionReconocimiento.jpg
-      href: /comunidad/gruposdeinteres/participagruposinteres
+      href: /comunidad/grupos/participar-grupos-de-interes
       
       
      #preTitle: Formación # optional
@@ -35,7 +35,7 @@ tarjetasFormacion:
       description: |      # required
        Grupo de interés
       background: /comunidad/gruposdeinteres/images/CalidadDatos.jpg
-      href: /comunidad/gruposdeinteres/participagruposinteres
+      href: /comunidad/grupos/participar-grupos-de-interes
       
       
      #preTitle: "Histórico"  # optional
@@ -43,7 +43,7 @@ tarjetasFormacion:
       description: |      # required
        Grupo de interés
       background: /comunidad/gruposdeinteres/images/CienciaParticipativa.jpg
-      href: /comunidad/gruposdeinteres/participagruposinteres
+      href: /comunidad/grupos/participar-grupos-de-interes
      
         
       #preTitle:  Formación # optional
@@ -52,7 +52,7 @@ tarjetasFormacion:
        Grupo de interés
       # img required
       background: /comunidad/gruposdeinteres/images/ColeccionesBiologicas.jpg
-      href: /comunidad/gruposdeinteres/participagruposinteres
+      href: /comunidad/grupos/participar-grupos-de-interes
 
       
       #preTitle: Formación # optional
@@ -60,14 +60,14 @@ tarjetasFormacion:
       description: |      # required
        Grupo de interés
       background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
-      href: /comunidad/gruposdeinteres/participagruposinteres
+      href: /comunidad/grupos/participar-grupos-de-interes
      
       #preTitle: "Histórico"  # optional
     - title: Datos moleculares  # required
       description: |      # required
        Grupo de interés
       background: /comunidad/gruposdeinteres/images/DatosMoleculares.jpg
-      href: /comunidad/gruposdeinteres/participagruposinteres
+      href: /comunidad/grupos/participar-grupos-de-interes
 
 
       #preTitle: "Histórico"  # optional
@@ -75,7 +75,7 @@ tarjetasFormacion:
       description: |      # required
        Grupo de interés
       background: /comunidad/gruposdeinteres/images/ListasTaxo.jpg
-      href: /comunidad/gruposdeinteres/participagruposinteres
+      href: /comunidad/grupos/participar-grupos-de-interes
       
       
       #preTitle: "Histórico"  # optional
@@ -83,7 +83,7 @@ tarjetasFormacion:
       description: |      # required
        Grupo de interés
       background: /comunidad/gruposdeinteres/images/Entomologia.jpg
-      href: /comunidad/gruposdeinteres/participagruposinteres
+      href: /comunidad/grupos/participar-grupos-de-interes
 
 
       #preTitle: "Histórico"  # optional
@@ -91,25 +91,25 @@ tarjetasFormacion:
       description: |      # required
        Grupo de trabajo
       background: /comunidad/gruposdeinteres/images/UsoDatos.jpg
-      href: /comunidad/gruposdeinteres/participagrupostrabajo
+      href: /comunidad/grupos/participar-grupos-de-interes
       
       #preTitle: "Histórico"  # optional
     - title: Calidad de datos geográficos # required
       description: |      # required
        Grupo de trabajo
       background: /comunidad/gruposdeinteres/images/DatosGeograficos.jpg
-      href: /comunidad/gruposdeinteres/participagrupostrabajo
+      href: /comunidad/grupos/participar-grupos-de-trabajo
       
       #preTitle: "Histórico"  # optional
     - title: Datos microbiológicos # required
       description: |      # required
        Grupo de trabajo
       background: /comunidad/gruposdeinteres/images/Microbiologia.jpg
-      href: /comunidad/gruposdeinteres/participagrupostrabajo
+      href: /comunidad/grupos/participar-grupos-de-trabajo
       
       #preTitle: "Histórico"  # optional
     - title: Información de evaluación y riesgo de extinción # required
       description: |      # required
        Grupo de trabajo
       background: /comunidad/gruposdeinteres/images/Extinsion.jpg
-      href: /comunidad/gruposdeinteres/participagrupostrabajo
+      href: /comunidad/grupos/participar-grupos-de-trabajo
