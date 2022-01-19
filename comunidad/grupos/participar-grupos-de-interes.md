@@ -1,6 +1,6 @@
 ---
 layout: heroImage
-klass: historicoformacion
+participar-grupos-de-interes
 title: Grupos de interés
 description: 
 background: https://live.staticflickr.com/3936/14976714334_b147ccefd0_h.jpg
