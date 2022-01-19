@@ -1,7 +1,6 @@
 ---
 layout: compose
 klass: formacion # necesario?
-permalink: /comunidad/gruposdeinteres
 title: Grupos de interés y trabajo
 description: |
    Grupos de la red del SiB Colombia y cómo participar.
