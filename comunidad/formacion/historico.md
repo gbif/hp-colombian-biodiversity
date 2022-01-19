@@ -23,7 +23,7 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
     </tr>
   </thead>
   <tbody>
-    <tr><td><a href="/comunidad/formacion/taller-CESP-DQ-2021" title="Ver">Taller-CESP-DQ-2021</a></td>
+    <tr><td><a href="/comunidad/formacion/taller-CESP-DQ-2021" title="Ver">Taller Calidad de datos + biodiversidad </a></td>
       <td>Noviembre</td>
       <td>Virtual</td>
     </tr>
