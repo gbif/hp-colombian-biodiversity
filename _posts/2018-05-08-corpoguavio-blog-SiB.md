@@ -2,7 +2,7 @@
 title:  "Taller de gestión y publicación de datos sobre biodiversidad – CORPOGUAVIO"
 date:   2018-05-08
 categories: ["Corpoguavio", "Corporación Autónoma Regional"," Guavio", "2018","Talleres","Publicación"]
-background: /assets/images/noticias_eventos/2018/2018-05-08-corpoguavio-blog-SiB-01.jpg
+background: /assets/images/noticias_eventos/2018/2018-05-08-corpoguavio-blog-background-01.jpg
 
 ---
 
