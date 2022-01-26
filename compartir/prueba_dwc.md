@@ -1958,7 +1958,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | El identificador del registro biológico asociado a la medida o hecho. Se puede utilizar para asociar más de una medida con el mismo registro biológico.<br><br> Puede construirse a partir de la siguiente estructura: [ID del tipo de medida] : [consecutivo] |
+| Definición | El identificador del registro biológico asociado a la medida o hecho. Se puede utilizar para asociar más de una medida con el mismo registro biológico. |
 | Ejemplo | ILVO_macro_aggregate_59206<br> ANH-I:2008:EH253:SUP:MHNMC:Consec.71957:Zoo1 |
 | _(Obligatoriedad)_ | _(Obligatorio)_
 |    |    |
@@ -1967,7 +1967,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Un identificador para la medida o hecho. Puede ser un identificador único global o un identificador específico para el conjunto de datos.<br><br> Puede construirse a partir de la siguiente estructura: [measurementTypeID]:[consecutivo] |
+| Definición | Un identificador para la medida o hecho. Puede ser un identificador único global o un identificador específico para el conjunto de datos. El identificador puede construirse a partir de tesauros específicos como NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/) comunmente usado para datos marinos.<br><br> Puede construirse a partir de la siguiente estructura: [measurementTypeID]:[consecutivo] |
 | Ejemplo | P01/current/AREABEDS:001 |
 | _(Obligatoriedad)_ | _(Opcional)_
 |    |    |
@@ -1987,7 +1987,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Un identificador para el valor documentado en measurementType (Identificador único global, URI), este identificador debe ser un vocabulario controlado. |
-| Comentarios | Se recomienda el uso del vocabulario NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/), como se muestra a continuación:<br><br> http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/ (= Longitud del tramo muestreado)<br> <http://vocab.nerc.ac.uk/collection/Q01/current/Q0100002/ (= Nombre del instrumento de muestreo)<br> P01/current/AREABEDS (= Área del fondo marino muestreada) |
+| Comentarios | Se recomienda el uso del vocabulario NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/) para datos marinos, como se muestra a continuación:<br><br> http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/ (= Longitud del tramo muestreado)<br> <http://vocab.nerc.ac.uk/collection/Q01/current/Q0100002/ (= Nombre del instrumento de muestreo)<br> P01/current/AREABEDS (= Área del fondo marino muestreada) |
 | Ejemplo | http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/<br> http://vocab.nerc.ac.uk/collection/Q01/current/Q0100002/<br> P01/current/AREABEDS |
 | Elementos relacionados | measurementType |
 | _(Obligatoriedad)_ | _(Opcional)_
@@ -2040,7 +2040,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Un identificador para el valor documentado en measurementUnit (Identificador único global, URI), este identificador debe ser un vocabulario controlado. |
-| Comentarios | Se recomienda el uso del vocabulario NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/)., como se muestra a continuación:<br><br> P06/current/ULAA/ (= Metros)<br> <http://vocab.nerc.ac.uk/collection/P06/current/UGRM (= Gramos)<br> http://vocab.nerc.ac.uk/collection/P06/current/UMSQ/ (= Metros cuadrados) |
+| Comentarios | Se recomienda el uso del vocabulario NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/) para datos marinos, como se muestra a continuación:<br><br> P06/current/ULAA/ (= Metros)<br> <http://vocab.nerc.ac.uk/collection/P06/current/UGRM (= Gramos)<br> http://vocab.nerc.ac.uk/collection/P06/current/UMSQ/ (= Metros cuadrados) |
 | Ejemplo | P06/current/ULAA/<br> http://vocab.nerc.ac.uk/collection/P06/current/UGRM<br> http://vocab.nerc.ac.uk/collection/P06/current/UMSQ/ |
 | Elementos relacionados | measurementUnit |
 | _(Obligatoriedad)_ | _(Opcional)_ |
@@ -2101,7 +2101,7 @@ toc: true
 | ---|--- |
 | Definición | El tipo de recurso multimedia. Para este elemento se debe emplear el vocabulario controlado en inglés. |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
-| [Vocabulario controlado](#elem376) | Collection<br> Dataset<br> Event<br> Image<br> InteractiveResource<br> Service<br> Software<br> Sound<br> Text<br> PhysicalObject<br> StillImage<br> MovingImage |
+| [Vocabulario controlado](#elem376) | StillImage<br> MovingImage<br><br> Sound<br> PhysicalObject<br> Event<br><br> (Para mas opciones, se puede consultar el vocabulario controlado completo en la sigueinte URL: [https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://dublincore.org/documents/dcmi-type-vocabulary/](https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://dublincore.org/documents/dcmi-type-vocabulary/)) |
 |    |    |
 
 <a name="elem202">**format** (Formato)</a>
@@ -2117,7 +2117,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | La URL publica que identifica y localiza el objeto multimedia de forma directa. No se considera valida una página html donde se muestre el objeto. |
+| Definición | Enlace a la página que muestre la imagen o sus metadatos. |
 | Ejemplo | https://live.staticflickr.com/65535/49971003886_9fb3569bf8_b.jpg<br> https://www.xeno-canto.org/sounds/uploaded/DGVLLRYDXS/ZONCAP54.mp3<br> https://web.corral.tacc.utexas.edu/MVZ/audio/mp3/222_6560.mp3<br> https://static.inaturalist.org/sounds/15665.3gp?1506898805 |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
@@ -2244,11 +2244,11 @@ toc: true
 <br>
 <br>
 
-<a name="elem216">**type** (Tipo)</a>
+<a name="elem216">**identifier** (Identificador)</a>
 
 |    |    |
 | ---|--- |
-| Definición | Un enlace a la referencia, puede ser un DOI, ISBN, URI ,etc. Puede estar repetido en multiples filas para incluir multiples identificadores que lleven al artículo o a un pdf del artículo. |
+| Definición | Un enlace a la referencia, puede ser un DOI, ISBN, URI ,etc. La referencia puede ser repetida en multiples filas para incluir multiples identificadores que lleven al artículo o a un pdf del artículo. |
 | Ejemplo | https://link.springer.com/article/10.1007/s10722-020-00960-1<br> https://doi.org/10.15472/jeh0ic<br> http://www.nature.com/ng/journal/v41/n6/pdf/ng0609-637.pdf |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
@@ -2420,9 +2420,9 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Estado que da cuenta de la presencia o ausencia de un taxón en una ubicación. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. |
+| Definición | Estado que da cuenta de la presencia o ausencia de un taxón en una ubicación. Se recomienda el uso de un vocabulario controlado, preferiblemente en inglés. |
+| Ejemplo | present<br> absent<br> Presente<br> Ausente |
 | _(Obligatoriedad)_ | _(Opcional)_ |
-| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | present<br> absent |
 |    |    |
 
 <a name="elem234">**threatStatus** (Estado de amenaza)</a>
@@ -2447,9 +2447,10 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Una afirmación que de cuenta si un taxón ha sido introducido a un lugar y tiempo determinado a través de actividad humana directa o indirecta. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. |
+| Definición | Una afirmación que de cuenta si un taxón ha sido introducido a un lugar y tiempo determinado a través de actividad humana directa o indirecta. Se recomienda el uso de un vocabulario controlado, preferiblemente en inglés. |
+| Comentarios | Este elemento también esta siendo utilizado para documentar endemismo. |
+| Ejemplo | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain<br> Endémica |
 | _(Obligatoriedad)_ | _(Opcional)_ |
-| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain |
 |    |    |
 
 <a name="elem237">**eventDate** (Fecha del evento)</a>
@@ -2512,7 +2513,7 @@ toc: true
 
 |    |    |    |    |
 | ---|--- |--- |--- |
-| [**description**<br> (Descripción)](#elem242) | [**type**<br> (Tipo)](#elem243) | [**source**<br> (Fuente)](#elem244) | [**language**<br> (Idioma)](#elem245) |
+| [**type**<br> (Tipo)](#elem242) | [**description**<br> (Descripción)](#elem243)| [**source**<br> (Fuente)](#elem244) | [**language**<br> (Idioma)](#elem245) |
 | [**created**<br> (Fecha de creación)](#elem246) | [**creator**<br> (Creador)](#elem247) | [**contributor**<br> (Contribuidor)](#elem248) | [**audience**<br> (Audiencia)](#elem249) |
 | [**license**<br> (Licencia)](#elem250) | [**rightsHolder**<br> (Titular de los derechos)](#elem251) | [**datasetID**<br> (ID del conjunto de datos)](#elem252) |  |
 |    |    |    |    |
@@ -2520,23 +2521,23 @@ toc: true
 <br>
 <br>
 
-<a name="elem242">**description** (Descripción)</a>
-
-|    |    |
-| ---|--- |
-| Definición | Texto libre y descriptivo del taxón que coincida con la temática de la categoría dada en el elemento type. |
-| Ejemplo | Dimorfismo sexual<br> De 1 a 8 crías por evento reproductivo<br> Las características de las aletas posteriores corresponden a la especie Schistochlamys melanopis<br> Esta especie de rana presenta distribuciones altamente restringidas |
-| Elementos relacionados | type |
-| _(Obligatoriedad)_ | _(Obligatorio)_ |
-|    |    |
-
-<a name="elem243">**type** (Tipo)</a>
+<a name="elem242">**type** (Tipo)</a>
 
 |    |    |
 | ---|--- |
 | Definición | Elemento categórico que mejor se ajuste a lo que se quiera describir del taxón. Se recomienda el uso de un vocabulario controlado. |
 | Ejemplo | Morfología<br>Reproducción<br> Fisiología |
 | Elementos relacionados | description |
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+|    |    |
+
+<a name="elem243">**description** (Descripción)</a>
+
+|    |    |
+| ---|--- |
+| Definición | Texto libre y descriptivo del taxón que coincida con la temática de la categoría dada en el elemento type. |
+| Ejemplo | Dimorfismo sexual<br> De 1 a 8 crías por evento reproductivo<br> Las características de las aletas posteriores corresponden a la especie Schistochlamys melanopis<br> Esta especie de rana presenta distribuciones altamente restringidas |
+| Elementos relacionados | type |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
@@ -2788,7 +2789,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | El tipo del espécimen. Se recomienda el uso de un vocabulario controlado. |
+| Definición | El tipo nomenclatural del espécimen. Se recomienda el uso de un vocabulario controlado. |
 | Ejemplo | Alotipo<br> Holotipo<br> Alolectotipo |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
@@ -2797,7 +2798,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | La razón por la que el espécimen se designa como tipo. Se recomienda el uso de un vocabulario controlado. |
+| Definición | La razón por la que el espécimen se designa como tipo nomenclatural. Se recomienda el uso de un vocabulario controlado. |
 | Ejemplo | Designación original<br> Monotipo<br> Designación presente |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
@@ -2806,7 +2807,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | La cita bibliográfica de la publicación donde se encuentra la designación de tipo. |
+| Definición | La cita bibliográfica de la publicación donde se encuentra la designación de tipo nomenclatural. |
 | Ejemplo | Sutherland CHN. 2009. Redescubrimiento del holotipo de Epidendrum × doroteae P.H. Allen (Orchidaceae). CEIBA, Vol. 50 Núm. 1. |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
@@ -2815,7 +2816,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Para especímenes tipo, documentar el nombre científico originalmente utilizado en la etiqueta. No necesariamente es el mismo nombre reconocido actualmente. En el caso de especies o géneros tipo, debe ser la especie o el nombre del género que tipifique al taxón superior. |
+| Definición | Para especímenes tipo nomenclatural, documentar el nombre científico originalmente utilizado en la etiqueta. No necesariamente es el mismo nombre reconocido actualmente. En el caso de especies o géneros tipo, debe ser la especie o el nombre del género que tipifique al taxón superior. |
 | Ejemplo | Ctenomys sociabilis<br> Ctenomys |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
@@ -3242,7 +3243,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | El tipo del permiso (documento que le permite a alguien tomar una acción que de otra manera no estaría permitida). Se recomienda el uso de un vocabulario controlado. |
-| Ejemplo | Permiso de colecta<br> Permiso de importación<br> Permiso de exportación<br> Derechos de propiedad intelectual<br> Derechos de autor<br> Patente<br> Fitosanitario<br> Acuerdo de transferencia de material<br> Contrato<br> Memorando de entendimiento<br> Organismo modificado genéticamente |
+| Ejemplo | Permiso de acceso a recursos genéticos<br> Permiso para la recolección de especímenes de especies silvestres<br> Permiso de colecta<br> Permiso de importación<br> Permiso de exportación<br> Derechos de propiedad intelectual<br> Derechos de autor<br> Patente<br> Fitosanitario<br> Acuerdo de transferencia de material<br> Contrato<br> Memorando de entendimiento<br> Organismo modificado genéticamente |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
@@ -3250,7 +3251,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | La información sobre la presencia, ausencia u otro estado básico de los permisos asociados a la(s) muestra(s). |
+| Definición | La información sobre la presencia, ausencia u otro estado básico de los permisos asociados a la(s) muestra(s). Se recomienda el uso de un vocabulario controlado. |
 | Ejemplo | Permiso disponible<br> Permiso no requerido<br> Permiso no disponible<br> Desconocido |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
@@ -3269,7 +3270,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Un enlace a la referencia del permiso con la información de recolección o envío. |
-| Ejemplo | https://ipt.biodiversidad.co/cr-sib/resource.do?r=00519_pecesgorgona_20211015<br> https://ipt.biodiversidad.co/cr-sib/resource.do?r=00286_toyo1_20180627|
+| Ejemplo | https://corponor.gov.co/ACTOSJURIDICOS/RESOLUCIONES/2015/ene0200.pdf |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
