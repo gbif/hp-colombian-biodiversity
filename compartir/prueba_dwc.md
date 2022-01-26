@@ -1867,7 +1867,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Un identificador para una instancia de relación entre un recurso (resourceID, el sujeto) y otro (relatedResource, el objeto).<br><br> En caso de no contar con un identificador, se puede construir a partir de la concatenación de los occurrenceID separados por /. |
-| Ejemplo | IAvH:CBB:PARAMOS:ANFIBIA:MUESTRA:001/IAvH:CBB:PARAMOS:ANFIBIA:ESPECIMENPRESERVADO:001<br><br> UANDES:ANDES-M:20054/UANDES:ANDES-E:1054<br><br> urn:uuid:bab4d024-b931-42b0-aa34-88e7d7f8a747/urn:catalog:Berggren:KB07001 |
+| Ejemplo | UANDES:ANDES-M:20054/UANDES:ANDES-E:1054 |
 | Elementos relacionados | occurrenceID, resourceID, relatedResourceID |
 | _(Obligatoriedad)_ | _(Opcional)_
 |    |    |
@@ -1877,7 +1877,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Un identificador del recurso que es sujeto de la relación. Si el registro se encuentra publicado, se recomienda documentar el mismo occurrenceID o una URL asociada. |
-| Ejemplo | IAvH:CBB:PARAMOS:ANFIBIA:MUESTRA:001<br><br> UANDES:ANDES-M:20054<br><br> urn:uuid:bab4d024-b931-42b0-aa34-88e7d7f8a747 |
+| Ejemplo | IAvH:CBB:PARAMOS:ANFIBIA:MUESTRA:001<br> UANDES:ANDES-M:20054<br> urn:uuid:bab4d024-b931-42b0-aa34-88e7d7f8a747 |
 | Elementos relacionados | occurrenceID |
 | _(Obligatoriedad)_ | _(Obligatorio)_
 |    |    |
@@ -1887,7 +1887,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Un identificador para el recurso biológico que es el objeto de la relación. Si el registro se encuentra publicado, se recomienda documentar el mismo occurrenceID o una URL asociada. |
-| Ejemplo | IAvH:CBB:PARAMOS:ANFIBIA:ESPECIMENPRESERVADO:001<br><br><br><br> UANDES:ANDES-E:1054<br><br><br><br> urn:catalog:Berggren:KB07001 |
+| Ejemplo | IAvH:CBB:PARAMOS:ANFIBIA:ESPECIMENPRESERVADO:001<br> UANDES:ANDES-E:1054<br> urn:catalog:Berggren:KB07001 |
 | Elementos relacionados | occurrenceID |
 | _(Obligatoriedad)_ | _(Obligatorio)_
 |    |    |
@@ -2051,7 +2051,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | La fecha o el intervalo en la que se realizó la medida o hecho. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
-| Ejemplo | 2010)<br> 2010-01)<br> 2010-01-17)<br> 2009/2010)<br> 2009-02/2010-01)<br> 2009-02/10)<br> 2009-02-12/2009-10-08)<br> 2010-01-17/18 |
+| Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/2010-01<br> 2009-02/10<br> 2009-02-12/2009-10-08<br> 2010-01-17/18 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2059,8 +2059,8 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por ' | ') de los nombres de las personas, grupos u organizaciones que determinan el measuremenetValue. |
-| Ejemplo | Javier Andrés de la Torre Sánchez<br> Julie Woodruff Paerson| Eileen Lacey Smith |
+| Definición | Una lista (en una fila continua y separada por "\|") de los nombres de las personas, grupos u organizaciones que determinan el measuremenetValue. |
+| Ejemplo | Javier Andrés de la Torre Sánchez<br> Julie Woodruff Paerson \| Eileen Lacey Smith |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -3691,7 +3691,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | La fecha a partir de la cual se puede prestar la muestra o espécimen. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
-| Ejemplo | 2010<br> 2010-01<br> 2010-01-17v 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
+| Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -3709,7 +3709,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | La fecha en la que fue prestada la muestra o espécimen. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
-| Ejemplo | 2010<br> 2010-01<br> 2010-01-17v 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
+| Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
