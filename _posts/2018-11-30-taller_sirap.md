@@ -35,5 +35,4 @@ Crear capacidad en publicación de datos sobre biodiversidad, a través del SiB 
 * [Fotografías](https://drive.google.com/drive/u/0/folders/1v1P2UOr4cBk_IAuCrbGjfordrNsbMeAk){:target="_blank"}
 * [Asistentes](https://drive.google.com/file/d/1ctTrYTrFWWUi6oJUiJ1kV_ziZ4YUxhFD/view){:target="_blank"}
 
-<img src="/assets/images/noticias_eventos/2018/2018-11-30-taller_sirap.jpg" width=770>
 
