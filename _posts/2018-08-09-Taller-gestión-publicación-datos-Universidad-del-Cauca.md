@@ -6,26 +6,26 @@ background: /assets/images/noticias_eventos/2018/2018-08-09-Taller-gestión-publ
 
 ---
 
-# Fecha:  
-23-25 de mayo de 2018
-
-# Lugar:  
-Universidad del Cauca – Popayán, Cauca
-
-# Descripción:  
-Crear capacidad en la Universidad del Cauca para la publicación de datos a través del SiB Colombia.
-
-# Logros:  
 Los 32 participantes de este taller aprendieron sobre estandarización, manejo y calidad de datos sobre Biodiversidad. Las habilidades adquiridas durante el taller les permitirán mejorar sus prácticas internas de  recolección, manejo y calidad de datos además de herramientas y conocimientos para publicar datos a través del SiB Colombia y así aportar al conocimiento de la Biodiversidad del país.
 
-# Participantes:
+## Fecha:  
+23-25 de mayo de 2018
 
-## Instructores
+## Lugar:  
+Universidad del Cauca – Popayán, Cauca
+
+## Descripción:  
+Crear capacidad en la Universidad del Cauca para la publicación de datos a través del SiB Colombia.
+
+## Participantes:
+
+### Instructores
+
 - Leonardo Buitrago, *Líder de línea, Administración de contenidos – SiB Colombia*.
 - Camila Plata, *Investigadora, Administración de contenidos – SiB Colombia*.
 - Ricardo Ortíz, *Investigador, Administración de contenidos – SiB Colombia*.
 
-## Asistentes
+### Asistentes
 -  Maria del Pilar Rivas Pava, *Profesora*
 - Lara Milena Concha Losada, *Profesora*
 - Maria Cristina Gallego Ropero, *Profesora*
@@ -59,7 +59,7 @@ Los 32 participantes de este taller aprendieron sobre estandarización, manejo y
 - Angie Marcela Silva Samboní, *Estudiante-Monitor Museo*
  
 
-# Enlaces de interés:
+## Enlaces de interés:
 
 - [Agenda y Asistentes](https://drive.google.com/open?id=1AUrL5Q20z9Rw3-oW2A0mIo-40BfbXH9c){:target="_blank"}
 - [Fotografías](https://drive.google.com/open?id=1dZSc0DkhmYAZCej7RyEIjtcxZ-5L619m){:target="_blank"}
