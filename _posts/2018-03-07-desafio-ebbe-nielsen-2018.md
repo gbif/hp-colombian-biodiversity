@@ -2,7 +2,7 @@
 title:  "Desafío Ebbe Nielsen 2018"
 date:   2018-03-07
 categories: ["Convocatorias", "GBIF", "Reto Ebbe Nielsen","Innovación","Datos","2018"]
-background: /assets/images/noticias_eventos/2018/2018-03-07-desafio-ebbe-nielsen-2018.png
+background: /assets/images/noticias_eventos/2018/2018-03-07-desafio-ebbe-nielsen-2018a.jpg
 
 ---
 
