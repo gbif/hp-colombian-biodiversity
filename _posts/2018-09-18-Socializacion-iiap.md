@@ -68,4 +68,4 @@ Por último se hizo una re-inducción al administrador del IPT del IIAP, quien a
 * [Presentaciones](https://drive.google.com/drive/folders/1e5vhfgqjTBZFGS0VqPS2Ke-Duc3ER49J?usp=sharing){:target="_blank"}
 
 
-{% include gallery id="gallery2" caption="Socialización de los resultados" {:target="_blank"} %}
+{% include gallery id="gallery2" caption="Socialización de los resultados" %}
