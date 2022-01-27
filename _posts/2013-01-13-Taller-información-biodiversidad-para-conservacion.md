@@ -2,7 +2,7 @@
 title:  "Taller de información sobre biodiversidad para la conservación medioambiental"
 date:   2013-01-13
 categories: ["Talleres", "Conservación", "Biodiversidad", "2013"]
-background: /assets/images/noticias_eventos/2013/2013-01-13-Taller-información-biodiversidad-para-conservacion.jpg
+background: /assets/images/noticias_eventos/2013/2013-01-13-Taller-información-biodiversidad-para-conservacion-b.jpg
 
 ---
 
