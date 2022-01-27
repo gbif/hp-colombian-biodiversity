@@ -5,6 +5,12 @@ categories: ["Talleres", "Boyacá", "Villa de Leyva", "Colecciones biológicas",
 background: /assets/images/noticias_eventos/2012/2012-04-13-taller-colecciones-3punto0-750x390.jpg
 
 ---
+El propósito de este taller es guiar a los gestores y conservadores de colecciones de historia natural de la región hacia el siguiente nivel en gestión de colecciones. Después del paradigma de considerar a las colecciones como ficheros de papel y bases de datos aisladas adscritas a especímenes, ahora llega el momento de que esas colecciones pasen a formar parte de un sistema de información global en biodiversidad para ciencia y conservación. Para ello, las últimas tecnologías y enfoques serán tratados en el taller.
+
+Interoperabilidad, imágenes, web semántica e identificadores; anotaciones y conexiones a bases de datos ambientales y moleculares – y el rol que GBIF juega en todo esto – son fundamentales en este escenario.
+
+Se hará especial énfasis en cómo esos datos pueden ser utilizados y cómo hacerlo en las mejores condiciones técnicas y sociológicas. Y en promocionar el «formar a formadores» para que estos conceptos y técnicas sean adecuadamente diseminados por toda la región.
+
 **Fechas:** 8-11 octubre 2012  
 **Ciudad: Villa de Leyva (Colombia).**  
 **Lugar del taller:** Claustro de San Agustín, Instituto Alexander von Humboldt. Dirección: Carrera 8 No. 15-08, Villa de Leyva (Boyacá), Colombia.  
