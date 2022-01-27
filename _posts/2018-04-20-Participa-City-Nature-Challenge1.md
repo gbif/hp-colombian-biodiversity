@@ -2,7 +2,7 @@
 title:  "¡Participa en el City Nature Challenge!"
 date:   2018-04-20
 categories: ["Ciencia participativa", "Ciencia ciudadana","Inaturalist", "2018"]
-background: /assets/images/noticias_eventos/2018/2018-04-20-Participa-City-Nature-Challenge1.jpg
+background: /assets/images/noticias_eventos/2018/2018-04-20-Participa-City-Nature-Challenge-fondo.jpg
 
 ---
 
