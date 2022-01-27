@@ -51,4 +51,4 @@ Camila Plata
 * [Taller práctico](https://drive.google.com/open?id=1Tb-j5DPzITfQMWXArRSt-B13tH2npefY){:target="_blank"}
 * [Encuesta Final](https://drive.google.com/open?id=1-ptmSMdXp0j7Rnno9ZdB1kDY27dFFcRs){:target="_blank"}
 
-<img src="/assets/images/noticias_eventos/2018/2018-10-12-taller-gestion-publicacion-salud-publica-ins2.jpg" width=770>
+
