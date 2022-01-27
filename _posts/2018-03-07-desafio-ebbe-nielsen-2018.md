@@ -5,7 +5,6 @@ categories: ["Convocatorias", "GBIF", "Reto Ebbe Nielsen","Innovación","Datos",
 background: /assets/images/noticias_eventos/2018/2018-03-07-desafio-ebbe-nielsen-2018.png
 
 ---
-# Sobre el desafío:
 
 El Desafío Ebbe Nielsen honra la memoria del Dr. Ebbe Schmidt Nielsen, un líder inspirador en los campos de la biosistemática y la informática de la biodiversidad y uno de los principales fundadores de GBIF, que falleció trágicamente justo antes de que se creara. Es un premio que busca alentar aplicaciones y usos innovadores de la infraestructura de investigación abierta sobre biodiversidad respaldada por GBIF, la Infraestructura Global de Información sobre Biodiversidad.  
 
