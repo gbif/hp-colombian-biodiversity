@@ -19,7 +19,7 @@ Crear capacidad en la Universidad Tecnológica y Pedagógica de Colombia  en la 
 
 ## Participantes:
 
-## Instructores  
+### Instructores  
 
 Leonardo Buitrago  
 *Líder de línea, Administración de contenidos – SiB Colombia*  
@@ -27,7 +27,7 @@ Leonardo Buitrago
 Ricardo Ortíz  
 *Investigador, Administración de contenidos – SiB Colombia*  
 
-## Asistentes
+### Asistentes
 
 + Leonardo Andrés Aranguren
 + Alejandro Lopera Toro
@@ -65,4 +65,4 @@ Ricardo Ortíz
 
 <img src="/assets/images/noticias_eventos/2018/2018-07-26-taller-datos-uptc-boyaca-bio2.png" width=770>
 
-<img src="/assets/images/noticias_eventos/2018/2018-07-26-taller-datos-uptc-boyaca-bio3.jpg" width=770>
+<img src="/assets/images/noticias_eventos/2018/2018-07-26-taller-datos-uptc-boyaca-bio4.jpeg" width=770>
