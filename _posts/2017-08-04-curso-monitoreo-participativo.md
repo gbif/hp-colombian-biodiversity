@@ -7,6 +7,10 @@ background: /assets/images/noticias_eventos/2017/2017-08-04-curso-monitoreo-part
 
 ---
 
+Con el fin de potenciar la ciencia participativa y sus impactos en el país y la región, el Curso de Monitoreo Participativo en Biodiversidad abrirá la oportunidad para que 40 personas de Iberoamérica se vinculen y fortalezcan sus conocimientos en integración de herramientas y metodologías, toma de datos usando estándares, plataformas tecnológicas y medios alternativos para facilitar el trabajo colaborativo.  
+
+El curso también explorará las buenas prácticas y los protocolos como insumos necesarios para contribuir a la calidad de los datos, que permita su uso en investigaciones, publicación en sistemas de información abiertos e interoperables y finalmente el aporte en la toma de decisiones.  
+
 # Fecha 
 
 Del 23 al 28 de octubre de 2017
@@ -51,12 +55,6 @@ Infraestructura Mundial de Información en Biodiversidad (GBIF).
 - Acompañamiento a los participantes para la elaboración de los planes de monitoreo y publicación de datos
 30 de octubre de 2017 al 30 de marzo de 2018
  
-
-# Propósito del Curso
-
-Con el fin de potenciar la ciencia participativa y sus impactos en el país y la región, el Curso de Monitoreo Participativo en Biodiversidad abrirá la oportunidad para que 40 personas de Iberoamérica se vinculen y fortalezcan sus conocimientos en integración de herramientas y metodologías, toma de datos usando estándares, plataformas tecnológicas y medios alternativos para facilitar el trabajo colaborativo.  
-
-El curso también explorará las buenas prácticas y los protocolos como insumos necesarios para contribuir a la calidad de los datos, que permita su uso en investigaciones, publicación en sistemas de información abiertos e interoperables y finalmente el aporte en la toma de decisiones.  
 
 # Objetivo general
 
