@@ -15,9 +15,8 @@ Esta propuesta está bien alineada con el [programa de trabajo de GBIF en 2019](
 
 El equipo del proyecto medirá el éxito del taller basándose en encuestas de participantes después del evento, evaluando la relevancia de los temas, las actividades y la usabilidad de los materiales. Para monitorear el impacto a largo plazo, se supervizará la replicación del taller por parte de los participantes (ya sea en parte o en su totalidad). Si bien la replicación del taller se encuentra fuera del alcance temporal del proyecto, el estímulo y el apoyo de estos esfuerzos por parte de los nodos servirá como un indicador de su éxito en la gestión del proyecto.
 
-- Enlace a la página del proyecto GBIF:
-[https://www.gbif.org/project/4dnLgIg7Ih9HekXEIkuG6A/data-use-for-decision-making-workshop-an-iberoamerican-community-call](https://www.gbif.org/project/4dnLgIg7Ih9HekXEIkuG6A/data-use-for-decision-making-workshop-an-iberoamerican-community-call){:target="_blank"}
-- Más información sobre los proyectos CESP:
-[https://www.gbif.org/programme/82219/capacity-enhancement-support-programme](https://www.gbif.org/programme/82219/capacity-enhancement-support-programme){:target="_blank"}
+- [Enlace](https://www.gbif.org/project/4dnLgIg7Ih9HekXEIkuG6A/data-use-for-decision-making-workshop-an-iberoamerican-community-call){:target="_blank"} a la página del proyecto GBIF.
+- Más [información](https://www.gbif.org/programme/82219/capacity-enhancement-support-programme){:target="_blank"} sobre los proyectos CESP.
+
 
 
