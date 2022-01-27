@@ -4,13 +4,6 @@ date:   2019-09-19
 categories: ["Talleres", "Calidad de datos", "Publicación", "2019", "Yopal", "Programa Riqueza Natural", "USAID"]
 background: /assets/images/noticias_eventos/2019/2019-09-19-taller_programa_riqueza_natural_usaid.jpg
 ---
-## Fecha:
-27-29 de Agosto de 2019
-
-## Lugar:
-Oficinas del Programa de Riqueza Natural – Yopal, Casanare.
-
-# Descrpción
 
 El Programa Riqueza Natural de USAID apoya al Gobierno de Colombia en la realización de avances importantes para la preservación de la biodiversidad del país: en el bosque seco tropical de la región Caribe y en los ecosistemas de las sabanas y humedales de los llanos orientales en la región de la Orinoquía. 
 
@@ -29,23 +22,30 @@ Entre las organizaciones que participaron en el taller y que están gestionando 
 
 Al taller asistió adicionalmente la [Corporación Autónoma Regional de Chivor – CORPOCHIVOR](https://www.gbif.org/publisher/6e051633-cbf0-4729-be54-f7be1e078c97){:target="_blank"}, para implementar los conocimientos del taller en sus actividades de gestión y publicación de datos.
 
-# Logros:
+## Fecha:
+
+27-29 de Agosto de 2019
+
+## Lugar:
+Oficinas del Programa de Riqueza Natural – Yopal, Casanare.
+
+## Logros:
 Los participantes del taller aprendieron sobre estandarización, manejo y calidad de datos sobre Biodiversidad. Las habilidades adquiridas durante el taller les permitirán mejorar sus prácticas internas de planeación, recolección y manejo de datos.
 
 Los participantes tuvieron la oportunidad de aplicar las herramientas de calidad vistas en el taller en sus propios datos con el fin de publicarlos a través del SiB Colombia y aportar simultáneamente al a las iniciativas internacionales como GBIF.
 
 Se espera que en los meses posteriores al taller los datos sobre biodiversidad abordados sean publicados a través del SiB Colombia.
 
-# Participantes
+## Participantes
 
-## Facilitadores:
+### Facilitadores:
 
 - Leonardo Buitrago  
   *Líder – Administración de contenidos – SiB Colombia*
 - Camila Plata  
   *Administración de contenidos – SiB Colombia*
 
-## Asistentes:
+### Asistentes:
 - Heidi Perez
 - Daniel Avella
 - Luisa Rojas
@@ -59,7 +59,7 @@ Se espera que en los meses posteriores al taller los datos sobre biodiversidad a
 - Caterin Gantiva
 - Beatriz Ramirez
 
-# Enlaces de interés:
+## Enlaces de interés:
 
 - [Agenda y Asistentes](https://drive.google.com/drive/folders/1zUdvzFFygZAsKKd_FwgafE-a2lb3hZDF?usp=sharing){:target="_blank"}
 - [Fotografías](https://drive.google.com/drive/folders/1yRkdTnjrz9P53-gN-vx2Vfunn7g_glw9?usp=sharing){:target="_blank"}
