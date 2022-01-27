@@ -6,12 +6,6 @@ background: /assets/images/noticias_eventos/2019/2019-01-09-premio_jovenes-2019.
 
 ---
 
-# Premio GBIF a Jóvenes Investigadores 2019
-
-*Convocatoria para aspirantes*  
-
-# Propósito
-
 En nombre de la red de nodos nacionales, el secretariado de la Infraestructura Mundial de Información en Biodiversidad (GBIF, por sus siglas en inglés) se complace en anunciar la apertura de la convocatoria al **[Premio a Jóvenes Investigadores 2019](https://www.gbif.org/article/44SftFORi0A6mwGK4sgAKW/young-researchers-award){:target="_blank"}** (*Young Researchers Award*). Este programa tiene como objetivo fomentar estudios y descubrimientos innovadores, realizados por estudiantes de maestría y/o doctorado en el campo de la informática de la biodiversidad, que se basen en datos disponibles a través de GBIF.  
 
 En el 2019 el programa otorgará premios de €5,000 reconociendo el trabajo de dos estudiantes de postgrado -preferiblemente un estudiante de maestría y un candidato a doctorado- que sean nominados por los nodos de los [países participantes de GBIF](https://www.gbif.org/the-gbif-network){:target="_blank"}.  
