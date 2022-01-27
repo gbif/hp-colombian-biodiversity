@@ -30,11 +30,11 @@ Los 4,059 registros cuentan con su respectiva clasificación taxonómica, recrea
 Otro resultado positivo de este acompañamiento fue la vinculación de estudiantes de pregrado en Biología en los procesos de calidad de datos. Fue la primera vez que se adoptó esta modalidad dentro del equipo coordinador del SiB Colombia en actividades de digitalización y estructuración de datos en el estándar Darwin Core. Con esto se crearon capacidades en informática de la biodiversidad en los pasantes, uno de los campos que está tomando mayor relevancia dentro de la biología.  
  
 
-## Diana Gaviria:  
+### Diana Gaviria:  
 
 *"PISPESCA, sin ser una entidad propiamente académica, refleja la necesidad de compartir los datos sobre biodiversidad, bien sea en la publicación de las observaciones hechas en diferentes concursos o eventos, o para el uso de estos datos como herramienta de monitoreo.”*
 
-## Esteban Marentes:  
+### Esteban Marentes:  
 
 *“Los procesos de acompañamiento en la publicación de datos son muy valiosos para las entidades que quieren compartir sus datos sobre biodiversidad, debido a que muchas entidades pueden tener datos, pero no cuentan con las capacidades y el tiempo para digitalizarlos y publicarlos”*
 
