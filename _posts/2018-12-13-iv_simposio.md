@@ -6,25 +6,23 @@ background: /assets/images/noticias_eventos/2018/2018-12-13-Memorias-IVSimposioI
 
 ---
 
-# IV Simposio Colombiano de Informática de la Biodiversidad
-
 La informática de la biodiversidad consiste en la aplicación de métodos de ciencias de la computación a la organización, acceso, visualización y análisis de datos de biodiversidad. En la última década, Colombia se ha establecido como un líder en la región en la gestión y publicación de datos de biodiversidad catalizando actividades de investigación y nuevas plataformas que hacen uso de dicha información para la generación de nuevo conocimiento.  
 
 En este simposio se espera exponer los avances recientes en informática de la biodiversidad en Colombia, especialmente en cuanto a publicación, acceso, uso y pertinencia de los mismos en la toma de decisiones ambientales. Igualmente, este espacio busca discutir los retos y oportunidades de la disciplina en Colombia en el próximo cuatrienio.  
 
 
-# Fecha:
+## Fecha:
 
 3 al 7 de diciembre de 2018
 
-# Lugar:
+## Lugar:
 
 Ágora
 Centro de Convenciones
 Ac. 24 #38-47
 Bogotá, Colombia
 
-# Comité organizador:
+## Comité organizador:
 
 Dairo Escobar\
 Leonardo Buitrago\
@@ -34,7 +32,7 @@ Jorge Velásquez-Tibatá\
 Elkin Noguera\
 *Laboratorio de Biogeografía Aplicada – Instituto Alexander von Humboldt*
 
-# Agenda:
+## Agenda:
 
 |||
 |:-------|:----|
@@ -57,7 +55,7 @@ Elkin Noguera\
 |[Explorando colecciones entomológicas en Colombia: fuente inagotable de información.](https://drive.google.com/open?id=1K89cyoAYMPiVw5qva2MKL_RCkoCgGTsX){:target="_blank"}|Camilo Flórez Valencia|
 |[Propuesta de integración de metodologías de monitoreo a través del sistema BioTerra.	](https://drive.google.com/open?id=1ETjulIv8Nlo__xzh6z2RZlQV4639JScL){:target="_blank"}|Elkin Alexi Noguera Urbano|
 
-# Carteles:
+## Carteles:
 
 
 |||
@@ -66,7 +64,7 @@ Elkin Noguera\
 |[Gestión y publicación de datos de colecciones biológicas en el marco de la Expedición Histórica por la Biodiversidad – Colombia BIO.](https://drive.google.com/open?id=1cOJ4ecubFQUcehSlDuSNEoUbNSEETVLD){:target="_blank"}|Dairo Escobar|
 |[La biodiversidad en algunas zonas golpeadas por el conflicto armado en Colombia.	](https://drive.google.com/open?id=1aKw5mI1Vjj72qkI4RT0LFFVsU7bkMM73){:target="_blank"}|Leonardo Buitrago|
 
-# El simposio en imágenes
+## El simposio en imágenes
 
 ||||
 |---|---|---|
