@@ -1,5 +1,5 @@
 ---
-title:  "Somos parte del diseño de la Plataforma Nacional de Diversidad Biológica de Perú*"
+title:  "Somos parte del diseño de la Plataforma Nacional de Diversidad Biológica de Perú"
 date:   2016-02-09
 categories: ["Perú", "Calidad de datos", "2016"]
 background: /assets/images/noticias_eventos/2016/2016-02-09-plataforma-biodiversidad-peru-750x390.jpg
