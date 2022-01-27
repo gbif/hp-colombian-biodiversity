@@ -6,7 +6,7 @@ background: /assets/images/noticias_eventos/2018/2018-10-22-taller-gestion-publi
 
 ---
 
-Crear y fortalecer las capacidades para la publicación de datos marino costeros a través del SiBM y el SiB Colombia. 
+El objetivo de este taller es crear y fortalecer las capacidades para la publicación de datos marino costeros a través del SiBM y el SiB Colombia. 
 
 ## Fecha:
 03 – 05 de octubre de 2018
