@@ -6,7 +6,7 @@ background: /assets/images/noticias_eventos/2018/2018-05-08-corpoguavio-blog-bac
 
 ---
 
-Crear capacidad en la Corporación Autónoma Regional Del Guavio para la publicación de datos a través del SiB Colombia.
+El objetivo de este taller es crear capacidad en la Corporación Autónoma Regional Del Guavio para la publicación de datos a través del SiB Colombia.
 
 ## Fecha
 
