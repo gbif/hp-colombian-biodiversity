@@ -27,16 +27,13 @@ A corto plazo se espera obtener publicaciones de conjuntos de datos de biodivers
 ### Facilitadores:
 
 - Dra. Anabela Plos
-  
-  Museo Argentino de Ciencias Naturales, Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Sistema Nacional de Datos Biológicos de Argentina (SNDB), Administradora del Nodo Argentina de GBIF, Representante Regional por Latinoamérica y Caribe GBIF.
+  - Museo Argentino de Ciencias Naturales, Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Sistema Nacional de Datos Biológicos de Argentina (SNDB), Administradora del Nodo Argentina de GBIF, Representante Regional por Latinoamérica y Caribe GBIF.
   
 - Leonardo Buitrago
-  
-  Sistema de Información sobre Biodiversidad de Colombia (SiB), GBIF Colombia, Administrador Nodo GBIF Colombia, Suplente Regional por Latinoamérica y Caribe GBIF.
+  - Sistema de Información sobre Biodiversidad de Colombia (SiB), GBIF Colombia, Administrador Nodo GBIF Colombia, Suplente Regional por Latinoamérica y Caribe GBIF.
   
 - Ricardo Ortiz
-  
-  Sistema de Información sobre Biodiversidad de Colombia (SiB), GBIF Colombia.
+  - Sistema de Información sobre Biodiversidad de Colombia (SiB), GBIF Colombia.
 
 ### Asistentes:
 
