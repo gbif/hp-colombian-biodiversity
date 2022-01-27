@@ -71,11 +71,5 @@ Con los conocimientos adquiridos durante el taller, CORPOGUAVIO podrá aportar a
 <img src="/assets/images/noticias_eventos/2018/2018-05-08-corpoguavio-blog-SiB-02.jpeg" width=770>
 
 
-<img src="/assets/images/noticias_eventos/2018/2018-05-08-corpoguavio-blog-SiB-03.jpeg" width=770>
-
-
-<img src="/assets/images/noticias_eventos/2018/2018-05-08-corpoguavio-blog-SiB-04.jpeg" width=770>
-
-
 <img src="/assets/images/noticias_eventos/2018/2018-05-08-corpoguavio-blog-SiB-05.jpg" width=770>
 
