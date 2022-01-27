@@ -6,7 +6,7 @@ background: /assets/images/noticias_eventos/2018/2018-10-12-taller-gestion-publi
 
 ---
 
-Crear y fortalecer las capacidades de los grupos de investigación del Instituto Nacional de Salud para la gestión y publicación de datos de salud pública a través del SiB Colombia.
+El objetivo de este taller es crear y fortalecer las capacidades de los grupos de investigación del Instituto Nacional de Salud para la gestión y publicación de datos de salud pública a través del SiB Colombia.
 
 ## Fecha:
 20 de Septiembre de 2018
