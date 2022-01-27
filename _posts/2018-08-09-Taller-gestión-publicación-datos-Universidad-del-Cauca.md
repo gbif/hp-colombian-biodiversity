@@ -68,4 +68,4 @@ Crear capacidad en la Universidad del Cauca para la publicación de datos a trav
 - [Encuesta final](https://drive.google.com/file/d/1kltOSYa2_fQ1iTAwXEuh-o3d5JHc3qkX/view?usp=sharing){:target="_blank"}
 
 
-<img src="/assets/images/noticias_eventos/2018/2018-08-09-Taller-gestión-publicación-datos-Universidad-del-Cauca2.png" width=770>
+<img src="/assets/images/noticias_eventos/2018/2018-08-09-Taller-gestión-publicación-datos-Universidad-del-Cauca3.jpg" width=770>
