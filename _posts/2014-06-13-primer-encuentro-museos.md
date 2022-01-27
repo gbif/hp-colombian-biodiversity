@@ -2,7 +2,7 @@
 title:  "Primer encuentro de museos de historia natural"
 date:   2014-06-13
 categories: ["Biodiversidad", "Museos", "2014","Historia natural"]
-background: /assets/images/noticias_eventos/2014/2014-06-13-primer-encuentro-museos.jpg
+background: /assets/images/noticias_eventos/2014/2014-06-13-primer-encuentro-museos-fondo.jpg
 
 ---
 
