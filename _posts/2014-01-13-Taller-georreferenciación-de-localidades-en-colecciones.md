@@ -7,7 +7,7 @@ background: /assets/images/noticias_eventos/2014/2014-01-13-Taller-georreferenci
 
 ---
 
-# Descripción
+El objetivo general de este taller es dar a conocer una metodología para estandarizar y georreferenciar localidades asociadas a datos primarios sobre biodiversidad en colecciones biológicas, que ha venido desarrollando conjuntamente el Instituto Humboldt y el Instituto de Ciencias Naturales.
 
 **Fechas:** 28 al 30 de mayo  de 2014
 
@@ -19,12 +19,8 @@ background: /assets/images/noticias_eventos/2014/2014-01-13-Taller-georreferenci
 
 **Formulario de inscripción:** [Aquí](https://docs.google.com/forms/d/e/1FAIpQLScQi053ZpNL9j5HnKjaXCBzsbrnNLlZu1ENKh6TKlMgwQDt4Q/viewform){:target="_blank"}
 
-
 **Fecha de límite de inscripción:** 30 de abril de 2014
 
-# Presentación y propósito del taller
-
-El objetivo general de este taller es dar a conocer una metodología para estandarizar y georreferenciar localidades asociadas a datos primarios sobre biodiversidad en colecciones biológicas, que ha venido desarrollando conjuntamente el Instituto Humboldt y el Instituto de Ciencias Naturales.
 
 ## Objetivos específicos
 
@@ -35,14 +31,14 @@ El objetivo general de este taller es dar a conocer una metodología para estand
 
 Las 24 horas de trabajo teórico-práctico del taller, serán certificadas por el comité organizador con el respectivo aval académico del ITM, siempre que se asista como mínimo al 80% del taller.
 
-# ¿A quién va dirigido?
+## ¿A quién va dirigido?
 
 Este taller está orientado a las colecciones biológicas que se encuentran publicando registros biológicos, a través del Sistema de Información sobre Biodiversidad de Colombia (SiB), en el marco de los convenios de cooperación suscritos con el Instituto Humboldt y el Convenio 13-014 suscrito con el Fondo Adaptación.  
 
 
 Va dirigido a los responsables de la estructuración, validación y administración de los datos en las colecciones biológicas. Los participantes deberán mostrar la capacidad de aplicar y difundir los contenidos aprendidos en el taller, en sus entornos institucionales.
 
-# Perfil esperado de los participantes
+## Perfil esperado de los participantes
 
 - Contar con el aval de la entidad o universidad que suscribió el convenio con el IAvH.
 - Capacidad de autoaprendizaje.
@@ -53,7 +49,7 @@ Va dirigido a los responsables de la estructuración, validación y administraci
 - Conocimiento de los elementos en la base de datos que contienen la información referente a la localidad de cada uno de los registros biológicos.
 - Capacidad y compromiso de difundir los contenidos del taller al interior de la entidad o universidad a la cual pertenece.
 
-# Conceptos que debe conocer el participante antes del taller
+## Conceptos que debe conocer el participante antes del taller
 
 Datos geográficos: se componen principalmente de una base de datos direccionada a la geometría o representada cartográficamente, la cual, resulta de la relación de datos cualitativos o cuantitativos de los objetos biológicos y la distribución espacial de cada uno, estos deben contar con los siguientes conceptos:
 
@@ -98,16 +94,16 @@ Es fundamental  comprender este término y la diferencia entre las escalas de ma
 - Herramientas de edición: crear y modificar puntos, polígonos y líneas; manejar herramientas de dibujo (creación de círculos).
 
 
-# Información de contexto y soporte
+## Información de contexto y soporte
 
 Es indispensable que los participantes consulten los siguientes documentos de contexto y soporte previamente a la realización del taller:
 
-## Quantum GIS	
+### Quantum GIS	
 
 [Manual Quantum-GIS](http://download.osgeo.org/qgis/doc/manual/qgis-1.6.0_user_guide_es.pdf){:target="_blank"}  
 **Descripción:** Expone las ventajas de QGIS como herramienta de sistemas de  información geográfica, ofrece una guía paso a paso sobre el uso de los métodos integrados, así como el uso indicado para cada herramienta.
 
-## Artículos y presentaciones
+### Artículos y presentaciones
 
 | | |
 | ------------- |:-------------|
@@ -127,6 +123,6 @@ Es indispensable que los participantes consulten los siguientes documentos de co
 |[Tutorial 2: Representación de datos vectoriales y raster.](http://youtu.be/oh_mY5AOji)|Está dirigido a la visualización de datos, vectoriales y raster y herramientas de etiqueta.|
 |[Tutorial 3: Modo de edición de archivos vectoriales](http://youtu.be/200SfBIqA_E)|Explica las herramientas para editar capas tipo vector.|
 
-# Memorias
+## Memorias
 Descargue los [videos](https://www.youtube.com/playlist?list=PL_KzX3Rxxwb0pH2LJ7gj7y7eGoCj7gpkl){:target="_blank"} y consulte el [foro](http://foro.recibio.net/viewforum.php?f=22&sid=7202df4906903fcee554d878c028c250&start=25){:target="_blank"}.
 
