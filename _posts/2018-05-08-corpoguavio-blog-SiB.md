@@ -6,10 +6,19 @@ background: /assets/images/noticias_eventos/2018/2018-05-08-corpoguavio-blog-bac
 
 ---
 
-
 Crear capacidad en la Corporación Autónoma Regional Del Guavio para la publicación de datos a través del SiB Colombia.
 
-## Logros  
+## Fecha
+
+12 y 13 de marzo
+
+## Lugar
+
+Gachalá, Cundinamarca
+
+
+## Logros 
+
 El equipo de profesionales (17) de la subdirección de gestión ambiental de CORPOGUAVIO fue capacitado sobre el modelo de publicación del SiB Colombia. La Corporación cuenta ahora con nuevas herramientas para la gestión, calidad y publicación de datos primarios sobre Biodiversidad.  
 
 Con los conocimientos adquiridos durante el taller, CORPOGUAVIO podrá aportar al conocimiento de la Biodiversidad del país a través del SiB Colombia.  
@@ -59,4 +68,14 @@ Con los conocimientos adquiridos durante el taller, CORPOGUAVIO podrá aportar a
 - [Presentaciones](https://drive.google.com/open?id=18YOjWKeYheSrphoC7ux3S76PEwhaEHAs){:target="_blank"}
 - [Taller práctico](https://drive.google.com/open?id=1OS1INq02-o74q6a3ffXZYwEQhwDYGlDV){:target="_blank}
 
-<img src="/assets/images/noticias_eventos/2018/2018-05-08-corpoguavio-blog-SiB-02.png" width=770>
+<img src="/assets/images/noticias_eventos/2018/2018-05-08-corpoguavio-blog-SiB-02.jpeg" width=770>
+
+
+<img src="/assets/images/noticias_eventos/2018/2018-05-08-corpoguavio-blog-SiB-03.jpeg" width=770>
+
+
+<img src="/assets/images/noticias_eventos/2018/2018-05-08-corpoguavio-blog-SiB-04.jpeg" width=770>
+
+
+<img src="/assets/images/noticias_eventos/2018/2018-05-08-corpoguavio-blog-SiB-05.jpg" width=770>
+
