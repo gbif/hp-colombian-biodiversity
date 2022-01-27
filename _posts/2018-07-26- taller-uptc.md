@@ -5,19 +5,19 @@ categories: ["Talleres", "Publicación","2018","UPTC","Boyacá BIO"]
 background: /assets/images/noticias_eventos/2018/2018-07-26-taller-datos-uptc-boyaca-bio1.jpg
 
 ---
-# Fecha:  
-23 al 25 de Julio de 2018
 
-# Lugar:  
-Universidad Pedagógica y Tecnológica de Colombia – Tunja, Boyacá
-
-# Descripción:  
-Crear capacidad en la Universidad Tecnológica y Pedagógica de Colombia  en la gestión y publicación de datos a través del SiB Colombia en el marco del proyecto Boyacá Bio.  
-
-# Logros:
 Los 24 participantes de este taller aprendieron sobre estandarización, gestión  y publicación de datos sobre Biodiversidad. Las habilidades adquiridas durante el taller les permitirán mejorar sus prácticas internas de  recolección y manejo de datos usando herramientas que facilitaran la gestión y limpieza de los datos. Con estos conocimientos podrán publicar datos a través del SiB Colombia y así aportar al conocimiento de la Biodiversidad del país.  
 
-# Participantes:
+## Fecha:  
+23 al 25 de Julio de 2018
+
+## Lugar:  
+Universidad Pedagógica y Tecnológica de Colombia – Tunja, Boyacá
+
+## Descripción:  
+Crear capacidad en la Universidad Tecnológica y Pedagógica de Colombia  en la gestión y publicación de datos a través del SiB Colombia en el marco del proyecto Boyacá Bio.  
+
+## Participantes:
 
 ## Instructores  
 
