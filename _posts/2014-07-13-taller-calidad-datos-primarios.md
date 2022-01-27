@@ -2,7 +2,7 @@
 title:  "Taller de calidad de datos: mejorando los datos primarios sobre biodiversidad"
 date:   2014-07-13
 categories: ["Talleres", "Calidad de datos", "2014", "Datos"]
-background: /assets/images/noticias_eventos/2014/2014-07-13-publicacion-uso-datos-primarios.jpg
+background: /assets/images/noticias_eventos/2014/2014-07-13-publicacion-uso-datos-primarios1.jpg
 
 ---
 
