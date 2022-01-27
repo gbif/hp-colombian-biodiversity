@@ -6,7 +6,10 @@ background: /assets/images/noticias_eventos/2014/2014-06-13-primer-encuentro-mus
 
 ---
 
-# CONECTANDO CIENCIA Y VIDA
+
+Será un escenario para visibilizar a los Museos de Historia Natural a partir de una estrategia de difusión que incluirá medios masivos de comunicación (periódico, radio, televisión y redes sociales). Se espera una amplia participación de estudiantes y de un público no especializado, que encuentre en el evento una experiencia enriquecedora y motivadora para convertirse en un asiduo visitante de los Museos y sobre todo en un promotor de su valor, importancia y de su opción como un espacio para el aprendizaje y la diversión.  
+
+Además será una oportunidad para intercambiar experiencias entre los coordinadores y personas encargadas del área de comunicación, difusión o educación y un espacio para proponer estrategias que permitan seguir posicionando a los Museos de Historia Natural de un país megadiverso como Colombia, como lugares de estratégicos para la conservación de nuestra memoria natural y escenarios por excelencia para el aprendizaje y la valoración de la biodiversidad tanto en locales como extranjeros.
  
 
 # FECHA:
@@ -38,8 +41,6 @@ Universidad El Bosque, Av. Cra 9 No. 131 A – 02 Bogotá D.C.
 
 Participan: directores o coordinadores de los museos, encargados del área de comunicación, educación o difusión de los museos de historia natural.
 
-
-
 # SOBRE EL ENCUENTRO
 
 ## OBJETIVOS
@@ -48,12 +49,6 @@ Participan: directores o coordinadores de los museos, encargados del área de co
 - Invitar a conocer y valorar la fuente de inspiración y conocimiento que representan los Museos de Historia Natural para la sociedad.
 - Reconocer la existencia, importancia y uso de los Museos de Historia Natural.
 
-
-## ¿POR QUÉ PARTICIPAR EN EL ENCUENTRO?
-
-Será un escenario para visibilizar a los Museos de Historia Natural a partir de una estrategia de difusión que incluirá medios masivos de comunicación (periódico, radio, televisión y redes sociales). Se espera una amplia participación de estudiantes y de un público no especializado, que encuentre en el evento una experiencia enriquecedora y motivadora para convertirse en un asiduo visitante de los Museos y sobre todo en un promotor de su valor, importancia y de su opción como un espacio para el aprendizaje y la diversión.  
-
-Además será una oportunidad para intercambiar experiencias entre los coordinadores y personas encargadas del área de comunicación, difusión o educación y un espacio para proponer estrategias que permitan seguir posicionando a los Museos de Historia Natural de un país megadiverso como Colombia, como lugares de estratégicos para la conservación de nuestra memoria natural y escenarios por excelencia para el aprendizaje y la valoración de la biodiversidad tanto en locales como extranjeros.
 
 ## ¿CÓMO HACER PARTE DEL ENCUENTRO?
 
