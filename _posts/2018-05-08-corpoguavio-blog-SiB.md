@@ -6,10 +6,10 @@ background: /assets/images/noticias_eventos/2018/2018-05-08-corpoguavio-blog-bac
 
 ---
 
-# Descripción  
+
 Crear capacidad en la Corporación Autónoma Regional Del Guavio para la publicación de datos a través del SiB Colombia.
 
-# Logros  
+## Logros  
 El equipo de profesionales (17) de la subdirección de gestión ambiental de CORPOGUAVIO fue capacitado sobre el modelo de publicación del SiB Colombia. La Corporación cuenta ahora con nuevas herramientas para la gestión, calidad y publicación de datos primarios sobre Biodiversidad.  
 
 Con los conocimientos adquiridos durante el taller, CORPOGUAVIO podrá aportar al conocimiento de la Biodiversidad del país a través del SiB Colombia.  
@@ -52,7 +52,7 @@ Con los conocimientos adquiridos durante el taller, CORPOGUAVIO podrá aportar a
 - Jobani Horacio Saavedra
 *Promotor Ambiental Biod. y Ecos. Estratégicos*
 
-# Enlaces de interés
+## Enlaces de interés
 
 - [Agenda y Asistentes](https://drive.google.com/open?id=11T5DwZR1JYiTFP-aJAJxo94nisGgMJhM){:target="_blank"}
 - [Fotografías](https://drive.google.com/open?id=1Gy4xz9FHxzqq2NwllkfFULwNS4rSE7yv){:target="_blank"}
