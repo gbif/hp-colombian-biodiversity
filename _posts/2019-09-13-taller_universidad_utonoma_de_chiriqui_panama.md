@@ -29,9 +29,11 @@ A corto plazo se espera obtener publicaciones de conjuntos de datos de biodivers
 - Dra. Anabela Plos
   
   Museo Argentino de Ciencias Naturales, Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Sistema Nacional de Datos Biológicos de Argentina (SNDB), Administradora del Nodo Argentina de GBIF, Representante Regional por Latinoamérica y Caribe GBIF.
+  
 - Leonardo Buitrago
   
   Sistema de Información sobre Biodiversidad de Colombia (SiB), GBIF Colombia, Administrador Nodo GBIF Colombia, Suplente Regional por Latinoamérica y Caribe GBIF.
+  
 - Ricardo Ortiz
   
   Sistema de Información sobre Biodiversidad de Colombia (SiB), GBIF Colombia.
@@ -72,7 +74,7 @@ A corto plazo se espera obtener publicaciones de conjuntos de datos de biodivers
 - Ana Vissuetti – Estudiante de Licenciatura en Biología, UNACHI
 - Stephanie Samaniego – Estudiante de Licenciatura en Biología, UNACHI
 
----
+## Enlaces de interés
 
 - [Agenda y Asistentes](https://drive.google.com/drive/folders/1mcr3mJsJUemnmxR8whVV6fp4M_0BPHV2?usp=sharing){:target="_blank"}
 - [Fotografías](https://drive.google.com/drive/folders/1kQxoUhxoKBBGPOX6yoLnmwvbsonvtLTO?usp=sharing){:target="_blank"}
