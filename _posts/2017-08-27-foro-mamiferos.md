@@ -7,6 +7,12 @@ background: /assets/images/noticias_eventos/2017/2017-08-27-foro-mamiferos.jpg
 
 ---
 
+Colciencias, el Instituto Humboldt y el SiB Colombia se unieron para facilitar la consolidación de las listas de especies de referencia para Colombia bajo un mismo estándar y su acceso, a través de un mismo lugar.   
+
+En el marco del fortalecimiento de colecciones biológicas del proyecto Colombia BIO, la [Sociedad Colombiana de Mastozoología (SCMas)](http://mamiferoscolombia.org/){:target="_blank"} lideró la construcción de **la lista de mamíferos de Colombia** a través de la publicación de registros biológicos y la documentación de información sobre las especies que la conforman.  
+
+El 11 de septiembre, la SCMas presentará los logros alcanzados durante el proyecto, fruto del trabajo colaborativo entre Universidades, Colecciones Biológicas, Museos, ONG ́s y Socios de la red del SiB Colombia.  
+ 
 # Fecha: 
 
 Lunes 11 de septiembre 2017.  
@@ -21,17 +27,8 @@ foro.scmas@mamiferoscolombia.org (Hasta el 22 de agosto).
 
 # Hora: 
 
-8:00 a.m. a 5:00 p.m.  
+8:00 a.m. a 5:00 p.m.  Contará con transmisión en Vivo el día del evento
 
-# Transmisión en Vivo el día del evento
-
-Colciencias, el Instituto Humboldt y el SiB Colombia se unieron para facilitar la consolidación de las listas de especies de referencia para Colombia bajo un mismo estándar y su acceso, a través de un mismo lugar.   
-
-En el marco del fortalecimiento de colecciones biológicas del proyecto Colombia BIO, la [Sociedad Colombiana de Mastozoología (SCMas)](http://mamiferoscolombia.org/){:target="_blank"} lideró la construcción de **la lista de mamíferos de Colombia** a través de la publicación de registros biológicos y la documentación de información sobre las especies que la conforman.  
-
-El 11 de septiembre, la SCMas presentará los logros alcanzados durante el proyecto, fruto del trabajo colaborativo entre Universidades, Colecciones Biológicas, Museos, ONG ́s y Socios de la red del SiB Colombia.  
-
- 
 
 # Recursos asociados:  
 
