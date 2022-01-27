@@ -72,4 +72,12 @@ A corto plazo se espera obtener publicaciones de conjuntos de datos de biodivers
 - Ana Vissuetti – Estudiante de Licenciatura en Biología, UNACHI
 - Stephanie Samaniego – Estudiante de Licenciatura en Biología, UNACHI
 
-<img src="/assets/images/noticias_eventos/2019/2019-09-13-taller_universidad_utonoma_de_chiriqui_panamab.jpg" width=770>
+---
+
+- [Agenda y Asistentes](https://drive.google.com/drive/folders/1mcr3mJsJUemnmxR8whVV6fp4M_0BPHV2?usp=sharing){:target="_blank"}
+- [Fotografías](https://drive.google.com/drive/folders/1kQxoUhxoKBBGPOX6yoLnmwvbsonvtLTO?usp=sharing){:target="_blank"}
+- [Presentaciones](https://drive.google.com/drive/folders/1IqRGTnTzC1diOEDwMOb4c15k6sANsEhA?usp=sharing){:target="_blank"}
+- [Taller práctico](https://drive.google.com/drive/folders/1hOFU7ufChhEYKmWwHPUQlfPmtSn8maNl?usp=sharing){:target="_blank"}
+- [Encuesta final](https://drive.google.com/file/d/1GZbFJXUhW-GGfEhq5gl_-vqauVM8OnEZ/view?usp=sharing){:target="_blank"}
+
+<img src="/assets/images/noticias_eventos/2019/2019-09-13-taller_universidad_utonoma_de_chiriqui_panamac.jpeg" width=770>
