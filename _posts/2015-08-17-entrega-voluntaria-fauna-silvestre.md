@@ -6,7 +6,6 @@ background: /assets/images/noticias_eventos/2015/2015-08-17-entrega-voluntaria-f
 imageLicense: |
    Fotografía de: Vileberquin vía [wikimedia](https://upload.wikimedia.org/wikipedia/commons/6/60/TURTLE_CIRCLE_NAVY_white_background.jpg)
 ---
-*Fotografía de: Vileberquin vía [wikimedia](https://upload.wikimedia.org/wikipedia/commons/6/60/TURTLE_CIRCLE_NAVY_white_background.jpg)*  
 
 *Más de 100 especímenes fueron recuperados durante el fin de semana gracias a campaña del Ministerio de Ambiente y Desarrollo Sostenible.*  
 
