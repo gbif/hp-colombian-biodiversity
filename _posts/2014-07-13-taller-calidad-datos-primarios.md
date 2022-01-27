@@ -6,18 +6,19 @@ background: /assets/images/noticias_eventos/2014/2014-07-13-publicacion-uso-dato
 
 ---
 
-# Fecha
+El fortalecimiento e implementación de procesos de control de calidad en datos primarios sobre biodiversidad, es fundamental en la construcción de conocimiento sobre diversidad biológica. Los datos sobre biodiversidad que son sometidos a estos procesos, son el pilar para apoyar procesos de investigación, educación y toma de decisiones relacionadas con el conocimiento, la conservación y el uso sostenible de la biodiversidad y los servicios ecosistémicos.  
+
+Por esta razón, este curso tiene como objetivo general dar las bases teóricas y presentar diferentes herramientas para el control de calidad de los datos, desde la captura de los mismos, pasando por la sistematización, identificación taxonómica, documentación, almacenamiento, preservación de la información, y finalizando con la publicación y uso de los datos.
+
+## Fecha
 
 - 18 al 21 de noviembre de 2014.  
  
-
-# Lugar 
+## Lugar 
 - Universidad de los Andes  
 Carrera 1 # 18A-12  Bogotá D.C. – Colombia
 
- 
-
-# Organizadores
+## Organizadores
 
 - Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)
 - Nodo español de la Infraestructura Global de Información sobre Biodiversidad
@@ -30,11 +31,11 @@ Carrera 1 # 18A-12  Bogotá D.C. – Colombia
 - Sistema de Información sobre Biodiversidad de Colombia (SiB Colombia)
  
 
-# Participantes
+## Participantes
 
 - 30.
 
-# Instructores
+## Instructores
 
 - Antonio Saraiva (Universidade de São Paulo – Brasil), saraiva@usp.br
 - Liliana Lara (CONABIO – México), llara@conabio.gob.mx
@@ -42,25 +43,20 @@ Carrera 1 # 18A-12  Bogotá D.C. – Colombia
 - Dairo Escobar (SiB Colombia), descobar@humboldt.org.co
 - Nestor Beltrán (SiB Colombia), nbeltran@humboldt.org.co
 
-# Memorias
+## Memorias
 
 - [Agenda](http://goo.gl/1wVKol){:target="_blank"}
 - [Videos](https://www.youtube.com/playlist?list=PL_KzX3Rxxwb0KMOobIXzgFVQGPrGQODs6){:target="_blank"}  
 
-# Calendario
+## Calendario
 
 - Publicación de la convocatoria:	18 de septiembre de 2014
 - Cierre del plazo de inscripción:	19 de octubre de 2014
 - Anuncio de los participantes:	24 de octubre de 2014
 - Realización del taller:	18 – 21 de noviembre de 2014
 
-# Presentación y propósito del taller
 
-El fortalecimiento e implementación de procesos de control de calidad en datos primarios sobre biodiversidad, es fundamental en la construcción de conocimiento sobre diversidad biológica. Los datos sobre biodiversidad que son sometidos a estos procesos, son el pilar para apoyar procesos de investigación, educación y toma de decisiones relacionadas con el conocimiento, la conservación y el uso sostenible de la biodiversidad y los servicios ecosistémicos.  
-
-Por esta razón, este curso tiene como objetivo general dar las bases teóricas y presentar diferentes herramientas para el control de calidad de los datos, desde la captura de los mismos, pasando por la sistematización, identificación taxonómica, documentación, almacenamiento, preservación de la información, y finalizando con la publicación y uso de los datos.
-
-# Objetivos específicos
+## Objetivos específicos
 
 - Mejorar las habilidades y capacidades en procesos de control de calidad de datos usados por los diferentes nodos latinoamericanos de GBIF.
 - Consolidar un intercambio de información, tecnologías y experiencias entre nodos, que permitan su implementación por parte de potenciales publicadores de datos sobre biodiversidad.
@@ -72,7 +68,7 @@ Por esta razón, este curso tiene como objetivo general dar las bases teóricas 
 - Maximizar la integración e interoperabilidad de la información.
  
 
-# ¿A quién va dirigido?
+## ¿A quién va dirigido?
 
 Este curso está dirigido exclusivamente a personas de países iberoamericanos que están relacionados con la gestión y publicación datos primarios sobre biodiversidad. Generalmente son personas responsables de la estructuración, validación y/o administración de datos biológicos. Pueden aplicar:
 
@@ -81,7 +77,7 @@ Este curso está dirigido exclusivamente a personas de países iberoamericanos q
 - Potenciales publicadores de datos a través del SiB Colombia.
  
 
-# Criterios de selección
+## Criterios de selección
 
 - Para participantes fuera de Colombia, contar con el apoyo de uno de los nodos de GBIF en Latinoamérica. Para participantes por Colombia, estar vinculados con unaentidad publicadora de datos a través del SiB Colombia. Sin embargo, los candidatos que pertenecen a entidades que aún no han publicado, pueden hacerlo si se cumplen los requisitos adicionales.
 - Experiencia y conocimiento en informática de la biodiversidad, particularmente en el manejo de datos sobre biodiversidad.
@@ -95,11 +91,11 @@ Los candidatos serán seleccionados en función de sus méritos y su adecuación
 
  
 
-# Candidatos seleccionados
+## Candidatos seleccionados
 
 Próximamente serán comunicados los miembros seleccionados.  
 
-# Selección de candidatos
+## Selección de candidatos
 
 
 El proceso de selección se llevará a cabo en dos instancias paralelas:
@@ -108,11 +104,11 @@ El proceso de selección se llevará a cabo en dos instancias paralelas:
 - Los coordinadores de los nodos de GBIF en los demás países de Latinoamérica, seleccionarán sus candidatos en los términos que consideren oportunos y establezcan. Se recomienda a los interesados contactar su respectivo nodo de GBIF. Los nodos de GBIF deberán presentar sus participantes antes del 01 de octubre de 2014.
  
 
-# Financiación
+## Financiación
 
 Algunos candidatos seleccionados podrán tener gastos de viaje, alojamiento y/o manutención cubiertos. Sin embargo, asumir parte de estos gastos por cuenta del participante o del nodo GBIF o la entidad que lo apoya, ayudará a que ese candidato sea seleccionado. El taller no tiene gastos de inscripción.
 
-# Requisitos adicionales
+## Requisitos adicionales
 
 En el caso de haber interesados procedentes de países latinoamericanos que no son miembros de GBIF o de entidades que aún no son publicadores del SiB Colombia, se considerará su candidatura siempre y cuando:
 
@@ -124,7 +120,7 @@ En el caso de haber interesados procedentes de países latinoamericanos que no s
 - Existan plazas suficientes.
  
 
-# Compromisos ara candidatos nacionales
+## Compromisos ara candidatos nacionales
 
 El SiB Colombia entiende que es necesario pasar de la capacitación a las acciones concretas de replicación. Partiendo de la alta motivación de los participantes para aplicar en su entidad los conceptos y herramientas adquiridas, cada participante se compromete a:
 
@@ -137,7 +133,7 @@ Para esto el SiB Colombia se compromete a facilitar todas las presentaciones y g
 
  
 
-# ¿Cómo aplicar?
+## ¿Cómo aplicar?
 
 Complete el  [Formulario de Inscripción](https://docs.google.com/forms/d/1LOKP8Yeo01xZSeOacFhbbu6gSL2ClwxtOdz3iyi11n8/closedform){:target="_blank"}.  
 
