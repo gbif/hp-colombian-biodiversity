@@ -6,7 +6,7 @@ background: /assets/images/noticias_eventos/2018/2018-11-30-taller_sirap.jpg
 
 ---
 
-Crear capacidad en publicación de datos sobre biodiversidad, a través del SiB Colombia, en las organizaciones que hacen parte del Sistema Regional de Áreas Protegidas del Eje Cafetero (SIRAP-EC)
+El objetivo de este taller es crear capacidad en publicación de datos sobre biodiversidad, a través del SiB Colombia, en las organizaciones que hacen parte del Sistema Regional de Áreas Protegidas del Eje Cafetero (SIRAP-EC).
 
 ## Fecha:
 - 30 de noviembre de 2018
