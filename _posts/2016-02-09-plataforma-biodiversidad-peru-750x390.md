@@ -10,5 +10,5 @@ Del 24 al 25 de septiembre el SiB Colombia participó en el taller “Diseño de
 
 Este taller tuvo como objetivos principales el intercambio de experiencias nacionales e internacionales vinculadas a la gestión de información sobre la biodiversidad; la evaluación de mecanismos de articulación de la información de biodiversidad con la temática ambiental; y propiciar un espacio de discusión sobre el diseño e implementación de la Plataforma Nacional de Intercambio de Información sobre Diversidad Biológica.
 
-*\* Con información del Ministerio del Ambiente de Perú.*
+* Esta nota se realizó a partir de información del Ministerio del Ambiente de Perú.*
 
