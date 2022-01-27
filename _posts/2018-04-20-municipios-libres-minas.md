@@ -2,7 +2,7 @@
 title:  "La biodiversidad en los 37 municipios libres de minas"
 date:   2018-04-20
 categories: ["Biodiversidad", "Datos abiertos","Posconflicto", "2018","Minería"]
-background: /assets/images/noticias_eventos/2018/2018-04-20-municipios-libres-minas-1.jpg
+background: /assets/images/noticias_eventos/2018/2018-04-20-municipios-libres-minas.jpg
 
 ---
 
