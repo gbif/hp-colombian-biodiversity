@@ -5,17 +5,16 @@ categories: ["GBIF", "Panamá", "Colecciones Biológicas", "Talleres", "2019"]
 background: /assets/images/noticias_eventos/2019/2019-09-13-taller_universidad_utonoma_de_chiriqui_panama.jpg
 ---
 
+El Portal GBIF (Global Biodiversity Information Facility) es el repositorio de información sobre biodiversidad más grande a nivel mundial, pero las contribuciones en GBIF desde Panamá se deben solamente a los esfuerzos de conservadores de colecciones extranjeras quienes digitalizaron la información de sus muestras provenientes de Panamá. Ninguna institución panameña ha contribuido hasta el momento a la red internacional GBIFm, aún cuando se tiene una masa crítica de información disponible en la región occidental del país; incluyendo las colecciones científicas en las universidades y los datos obtenidos por investigadores (observaciones en campo, eventos de muestreos, listas de especies, metadatos). El presente taller facilitó a los participantes las herramientas necesarias para aumentar la visibilidad de sus datos de biodiversidad a través de la red GBIF y mediante artículos de datos, y de esta manera contribuirá a la creación de un repositorio nacional de la biodiversidad de Panamá.
+
 ## Fecha:
 22-26 de julio de 2019
 
 ## Lugar:
 Facultad de Ciencias Naturales y Exactas, Universidad Autónoma de Chiriquí, David, Chiriquí-Panamá.
 
-# Descripción 
 
-El Portal GBIF (Global Biodiversity Information Facility) es el repositorio de información sobre biodiversidad más grande a nivel mundial, pero las contribuciones en GBIF desde Panamá se deben solamente a los esfuerzos de conservadores de colecciones extranjeras quienes digitalizaron la información de sus muestras provenientes de Panamá. Ninguna institución panameña ha contribuido hasta el momento a la red internacional GBIFm, aún cuando se tiene una masa crítica de información disponible en la región occidental del país; incluyendo las colecciones científicas en las universidades y los datos obtenidos por investigadores (observaciones en campo, eventos de muestreos, listas de especies, metadatos). El presente taller facilitó a los participantes las herramientas necesarias para aumentar la visibilidad de sus datos de biodiversidad a través de la red GBIF y mediante artículos de datos, y de esta manera contribuirá a la creación de un repositorio nacional de la biodiversidad de Panamá.
-
-# Logros:
+## Logros:
 
 Los 33 participantes del taller aprendieron sobre estandarización, manejo y calidad de datos sobre Biodiversidad. Las habilidades adquiridas durante el taller les permitirán mejorar sus prácticas internas de planeación, recolección y manejo de datos.
 
@@ -23,9 +22,9 @@ Los participantes tuvieron la oportunidad de conocer la estructura y funcionamie
 
 A corto plazo se espera obtener publicaciones de conjuntos de datos de biodiversidad del occidente de Panamá en GBIF con la posible generación de artículos de datos. A mediano plazo esperamos crear un repositorio de los datos sobre la biodiversidad del occidente de Panamá en la UNACHI y a largo plazo la presente iniciativa puede contribuir a la creación de un repositorio nacional de la biodiversidad del país.
 
-# Participantes:
+## Participantes:
 
-## Facilitadores:
+### Facilitadores:
 
 - Dra. Anabela Plos
   
@@ -37,7 +36,7 @@ A corto plazo se espera obtener publicaciones de conjuntos de datos de biodivers
   
   Sistema de Información sobre Biodiversidad de Colombia (SiB), GBIF Colombia.
 
-## Asistentes:
+### Asistentes:
 
 - Dr. Carlos Iglesias – Director del Museo de Historia Natural UNACHI
 - M.Sc. Rafael Rincón – Director del Herbario UCH, UNACHI
