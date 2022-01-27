@@ -7,8 +7,6 @@ background: /assets/images/noticias_eventos/2013/2013-03-13-Taller-herramientas-
 
 ---
 
-## BOGOTÁ D.C., 11 AL 14 DE JUNIO DE 2013
-
 El taller es organizado por el Instituto de Ciencias Naturales (ICN) de la Universidad Nacional de Colombia junto con el Sistema de Información sobre Biodiversidad de Colombia (SiB), con el apoyo del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, la JRS Biodiversity Foundation y la participación del Nodo Español de la Infraestructura Mundial de Información sobre Biodiversidad (GBIF).
 
 El propósito de este taller teórico-práctico es crear y fortalecer capacidades técnicas para la sistematización de colecciones biológicas en Colombia. El taller desarrollará criterios prácticos y procedimientos sencillos  que permitirán a las colecciones tomar decisiones informadas acerca de la selección de herramientas de sistematización. Las sesiones prácticas estarán orientadas a la capacitación en el uso de una herramienta en particular y a la solución de dudas para los que cuentan con experiencia previa.
