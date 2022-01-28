@@ -34,7 +34,7 @@ Estudiantes e investigadores que trabajen con datos primarios sobre biodiversida
 + Computador portátil.
 + Datos biológicos.  
 
-## Cupos disponibles 
+## CUPOS DISPONIBLES
 
 30
 
