@@ -29,7 +29,7 @@ Bogotá, Colombia
 
 **Más información [aquí](http://vccz.aczcolombia.org/informatica-biodiversidad/){:target="_blank"}**
 
-# Comité organizador:  
+#### Comité organizador:  
 Dairo Escobar  
 Leonardo Buitrago  
 *Sistema de Información sobre Biodiversidad – SiB Colombia*  
@@ -55,7 +55,7 @@ Fecha de notificación de aceptación de resúmenes: 20 de septiembre de 2018.
 - Paso 3. Seleccione la casilla de presentar trabajos que se activa una vez se ha realizado el pago de la inscripción. Después de seleccionar el simposio en el cual va a registrar su resumen, escriba el título e ingrese los autores, co-autores, afiliaciones y correos electrónicos, copie y pegue el texto del resumen en las secciones apropiadas del formulario de envío de resúmenes.
 - Paso 4. Revise, confirme y envíe su resumen
 
-##### FORMATO GUÍA:
+#### FORMATO GUÍA:
 
 **TÍTULO**  
 El título del resumen debe ser corto, informativo, y contener palabras clave importantes. Debe escribirse en mayúscula.  
