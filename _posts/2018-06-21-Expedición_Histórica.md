@@ -9,19 +9,19 @@ background: /assets/images/noticias_eventos/2018/2018-06-21-expedicion-historica
 
 El Sistema Información sobre Biodiversidad de Colombia – SiB Colombia, en alianza con Colciencias, dio inicio en el año 2016 a un proceso de fortalecimiento a colecciones biológicas dentro del proyecto Colombia BIO llamado Expedición Histórica por la Biodiversidad. Esta es una gran oportunidad para conocer los pormenores de este proceso y conocer sus resultados.
 
-Fecha: 21 de junio
-Hora: 4:00pm a 5:30pm
-Lugar: Café Ambiental, Pabellón 4, Corferias.
+**Fecha:** 21 de junio, de 4:00pm a 5:30pm.
+
+**Lugar:** Café Ambiental, Pabellón 4, Corferias.
 
 El conversatorio tendrá tres momentos:
 
-Gestión y publicación de datos.
+1. Gestión y publicación de datos.
 
-Giras de Especialistas.
+2. Giras de Especialistas.
 
-Listas de Especies.
+3. Listas de Especies.
 
-¡Participa!
+**¡Participa!**
 
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FSibColombia%2Fvideos%2F1724641887629842%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
