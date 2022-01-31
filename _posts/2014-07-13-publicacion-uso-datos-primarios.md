@@ -11,32 +11,32 @@ background: /assets/images/noticias_eventos/2014/2014-07-13-publicacion-uso-dato
 
 **Fecha y lugar:** 28 y 29 de noviembre de 2014, Universidad de Cartagena, sede San Agustín (Calle de la Universidad Carrera 6 #36-100) sala de informática. 
 
-#### PROGRAMA DEL TALLER
+#### Programa del taller
 
 [Clic aquí](https://docs.google.com/a/humboldt.org.co/document/d/19kv8OV9Bc3urk7lp6fnU17VfS5rJihL9-CPm-gSsxX8/edit){:target="_blank"}  
 
-#### OBJETIVO GENERAL
+#### Objetivo general
 
 Dar a conocer los retos y oportunidades que existen para la publicación y uso de datos primarios sobre biodiversidad, en el marco global de la informática de la biodiversidad y la comunidad científica.  
 
-#### OBJETIVOS ESPECÍFICOS
+#### Objetivos específicos
 
 Presentar el contexto y las iniciativas globales y locales que se están desarrollando sobre la informática de la biodiversidad Introducir a los participantes en temas relacionados con la gestión de información sobre biodiversidad en Colombia Realizar un taller práctico de publicación de datos biológicos.
 
-#### DIRIGIDO A
+#### Dirigido a
 
 Estudiantes e investigadores que trabajen con datos primarios sobre biodiversidad (registros biológicos y listados taxonómicos)
 
-#### REQUERIMIENTOS
+#### Requerimientos
 
 + Computador portátil.
 + Datos biológicos.  
 
-#### CUPOS DISPONIBLES
+#### Cupos disponibles
 
 30
 
-#### ORGANIZA
+#### Organiza
 
 * SiB Colombia, Instituto Humboldt
 
