@@ -13,12 +13,12 @@ En el 2019 el programa otorgará premios de €5,000 reconociendo el trabajo de 
 
 Los ganadores del premio serán seleccionados del grupo de nominados recibidos por la Secretaría de GBIF antes del **15 de mayo de 2019**. El SiB Colombia, como nodo nacional de GBIF, presentará oficialmente los nominados por Colombia. Los ganadores serán anunciados durante el verano europeo de 2019.  
 
-# Elegibilidad de los estudiantes (Colombia)
+#### Elegibilidad de los estudiantes (Colombia)
 
 Los aspirantes al premio deben estar matriculados en un programa de maestría o doctorado para ser elegibles para el premio. Así mismo, deben ser ciudadanos colombianos o ser estudiantes de una institución que esté ubicada en Colombia. De esta manera, la nominación puede ser realizada por el SiB Colombia como nodo nacional ante GBIF.  
 
 
-# Paquete de nominación al premio
+#### Paquete de nominación al premio
 
 El paquete de nominación y la propuesta de los aspirantes debe incluir (en inglés):
 
@@ -34,11 +34,11 @@ El paquete de nominación y la propuesta de los aspirantes debe incluir (en ingl
     + Una carta oficial de la facultad del mentor/supervisor que certifique que el aspirante es estudiante y se encuentra matriculado en el programa de posgrado de la universidad.  
     + Al menos una, y no más de tres cartas de apoyo de investigadores establecidos y activos en un campo que abarque e incorpore la informática de la biodiversidad (por ejemplo: genética, composición y características de especies, biogeografía, ecología, sistemática, y otros).
  
-# Proceso y criterios de selección (Colombia)
+#### Proceso y criterios de selección (Colombia)
 
 **Revisión de la propuesta por el SiB Colombia (Primera etapa)**. Un jurado conformado por el SiB Colombia, revisará las propuestas de nominación que sean enviadas al correo sib+YRA@humboldt.org.co y pre-seleccionará dos propuestas a finales de abril de 2019 para ser presentadas a GBIF. Se recibirán propuestas de nominación hasta el 21 de abril de 2019.
 
-# Los criterios de selección incluyen:
+#### Los criterios de selección incluyen:
 
 + Originalidad e innovación.
 + Uso y significado estratégico de los datos obtenidos a través de GBIF.
@@ -55,7 +55,7 @@ Los criterios de selección son los mismos aplicados en la primera etapa.
 Se espera que los ganadores reconozcan el apoyo de GBIF cuando difundan los resultados de la investigación a través de publicaciones revisadas por pares, presentaciones en reuniones profesionales y otros medios.  
 
 
-# Conoce las propuestas que han ganado en años anteriores:
+#### Conoce las propuestas que han ganado en años anteriores:
 
 <https://www.gbif.org/article/44SftFORi0A6mwGK4sgAKW/young-researchers-award>
 
