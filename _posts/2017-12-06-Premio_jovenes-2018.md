@@ -2,8 +2,9 @@
 title:  "Premio Jóvenes Investigadores 2018"
 date:   2017-12-06
 categories: ["Convocatorias","2018", "GBIF", "Young Researchers Award"]
-background: /assets/images/noticias_eventos/2017/2017-12-06-convocatoria-jovenes-investigadores.png
-
+background: /assets/images/noticias_eventos/2017/2017-12-06-convocatoria-jovenes-investigadores-2018.png
+imageLicense: |
+  https://pxhere.com/es/photo/1457639
 
 ---
 
@@ -13,36 +14,36 @@ En el 2018 el programa otorgará premios de €5,000 reconociendo el trabajo de 
 
 Los ganadores del premio serán seleccionados del grupo de nominados recibidos por la Secretaría de GBIF antes del 15 de junio de 2018 y donde el SiB Colombia, como nodo nacional de GBIF, presentará oficialmente los nominados por Colombia. Los ganadores serán anunciados justo antes de la 25ª reunión de la Junta Directiva de GBIF, que se celebrará en Kilkenny, Irlanda, en octubre de 2018.  
 
-# Elegibilidad de los estudiantes (Colombia)
+#### Elegibilidad de los estudiantes (Colombia)
 
 Los aspirantes al premio deben estar matriculados en un programa de maestría o doctorado para ser elegibles para el premio. Así mismo, deben ser ciudadanos colombianos o ser estudiantes de una institución que esté ubicada en Colombia. De esta manera, la nominación puede ser realizada por el SiB Colombia como nodo nacional ante GBIF.  
 
-# Paquete de nominación al premio
+#### Paquete de nominación al premio
 
 El paquete de nominación y la propuesta de los aspirantes debe incluir (en inglés):
 
-1. **Resumen de investigación** (200 palabras)  
-2. **Descripción del proyecto** (máximo de 5 páginas, letra Arial -12 puntos) que describa:
+1. **Resumen de investigación**. (200 palabras)  
+2. **Descripción del proyecto**. (máximo de 5 páginas, letra Arial -12 puntos) que describa:
     + La necesidad de la investigación y la(s) pregunta(s) que responde. 
     + **La función de los datos obtenidos a través de GBIF para responder esta(s) pregunta(s)**. Las propuestas de investigación deben demostrar claramente cómo el estudio incorpora datos movilizados a través de GBIF. Los estudiantes con preguntas sobre datos habilitados por GBIF deben trabajar con supervisores académicos, el SiB Colombia, la Secretaría Técnica de GBIF o miembros del Comité de Ciencia para aumentar su comprensión.  
 
     + El alcance de la investigación, el plan, las metodologías, las citas bibliográficas pertinentes y el cronograma.  
     + Si corresponde, una descripción o resumen de un plan de gestión de datos que describa cómo se publican los datos relacionados con la investigación, o cómo serán preparados para su publicación a través de la red de GBIF.  
 
-3.   **Presupuesto** (1 página), detallado y justificado. NOTA: los rubros presupuestarios están restringidos a costos académicos, equipos esenciales, suministros (por ejemplo, hardware, software) y viajes; el apoyo salarial no está permitido.
+3.   **Presupuesto**. (1 página) detallado y justificado. NOTA: los rubros presupuestarios están restringidos a costos académicos, equipos esenciales, suministros (por ejemplo, hardware, software) y viajes; el apoyo salarial no está permitido.
 4.   **Curriculum Vitae** del estudiante que aplica, la cual incluya la información de contacto completa de la institución de origen.
  
 
-* **Documentos de soporte**
+5.  **Documentos de soporte**.
 Una carta oficial de la facultad del mentor/supervisor que certifique que el aspirante es estudiante y se encuentra matriculado en el programa de posgrado de la universidad.
 Al menos una, y no más de tres cartas de apoyo de investigadores establecidos y activos en un campo que abarque e incorpore la informática de la biodiversidad (por ejemplo: genética, composición y características de especies, biogeografía, ecología, sistemática, y otros).  
  
 
-# Proceso y criterios de selección (Colombia)
+#### Proceso y criterios de selección (Colombia)
 
 **Revisión de la propuesta por el SiB Colombia (Primera etapa)**. Un jurado conformado por el SiB Colombia, revisará las propuestas de nominación que sean enviadas al correo sib+YRA@humboldt.org.co y pre-seleccionará dos propuestas a finales de mayo de 2018 para ser presentadas a GBIF. Se recibirán propuestas de nominación hasta el **18 de mayo de 2018**.
 
-# Los criterios de selección incluyen:
+#### Los criterios de selección incluyen:
 
 + Originalidad e innovación.
 + Uso y significado estratégico de los datos obtenidos a través de GBIF.
@@ -58,7 +59,7 @@ Los criterios de selección son los mismos aplicados en la primera etapa.
 
 Se espera que los ganadores reconozcan el apoyo de GBIF cuando difundan los resultados de la investigación a través de publicaciones revisadas por pares, presentaciones en reuniones profesionales y otros medios.  
 
-# Propuestas ganadoras en ediciones anteriores
+#### Propuestas ganadoras en ediciones anteriores
 
 | Año       | Ganador         | País de afiliación  |
 | ------------- |:-------------|:-----:|
@@ -82,4 +83,4 @@ Se espera que los ganadores reconozcan el apoyo de GBIF cuando difundan los resu
 [Descarga lo términos de la convocatoria](https://statics.sibcolombia.net/sib-resources/Docs/YRA-GBIF-2018.pdf){: .button .is-primary :}{:target="_blank"}
 
 
-
+<img src="/assets/images/noticias_eventos/2017/2017-12-06-convocatoria-jovenes-investigadores.png" width=770>
