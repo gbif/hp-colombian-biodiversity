@@ -2,9 +2,9 @@
 title:  "Foro Mamíferos de Colombia"
 date:   2017-08-27
 categories: ["Colecciones biológicas","2017", "Sociedad Colombiana de Mastozoología", "Listas de especies"]
-background: /assets/images/noticias_eventos/2017/2017-08-27-foro-mamiferos1.jpg
+background: /assets/images/noticias_eventos/2017/2017-08-27-foro-mamiferos1a.jpg
 imageLicense: |
-  Chalinolobus dwyeri Fotografía de: Michael Pennay vía [Flickr](https://flic.kr/p/6i8Ppj)
+  https://pxhere.com/es/photo/628006
 ---
 
 Colciencias, el Instituto Humboldt y el SiB Colombia se unieron para facilitar la consolidación de las listas de especies de referencia para Colombia bajo un mismo estándar y su acceso, a través de un mismo lugar.   
