@@ -6,20 +6,15 @@ background: /assets/images/noticias_eventos/2018/2018-07-26-taller-datos-uptc-bo
 
 ---
 
-Los 24 participantes de este taller aprendieron sobre estandarización, gestión  y publicación de datos sobre Biodiversidad. Las habilidades adquiridas durante el taller les permitirán mejorar sus prácticas internas de  recolección y manejo de datos usando herramientas que facilitaran la gestión y limpieza de los datos. Con estos conocimientos podrán publicar datos a través del SiB Colombia y así aportar al conocimiento de la Biodiversidad del país.  
+Los 24 participantes de este taller aprendieron sobre estandarización, gestión  y publicación de datos sobre Biodiversidad. Las habilidades adquiridas durante el taller les permitirán mejorar sus prácticas internas de  recolección y manejo de datos usando herramientas que facilitaran la gestión y limpieza de los datos. Con estos conocimientos podrán publicar datos a través del SiB Colombia y así aportar al conocimiento de la Biodiversidad del país. El objetivo de este taller es crear capacidad en la Universidad Tecnológica y Pedagógica de Colombia  en la gestión y publicación de datos a través del SiB Colombia en el marco del proyecto Boyacá Bio.   
 
-## Fecha:  
-23 al 25 de Julio de 2018
+**Fecha:** 23 al 25 de Julio de 2018.
 
-## Lugar:  
-Universidad Pedagógica y Tecnológica de Colombia – Tunja, Boyacá
+**Lugar:** Universidad Pedagógica y Tecnológica de Colombia – Tunja, Boyacá.
 
-## Descripción:  
-Crear capacidad en la Universidad Tecnológica y Pedagógica de Colombia  en la gestión y publicación de datos a través del SiB Colombia en el marco del proyecto Boyacá Bio.  
+#### Participantes:
 
-## Participantes:
-
-### Instructores  
+##### Instructores  
 
 Leonardo Buitrago  
 *Líder de línea, Administración de contenidos – SiB Colombia*  
@@ -27,7 +22,7 @@ Leonardo Buitrago
 Ricardo Ortíz  
 *Investigador, Administración de contenidos – SiB Colombia*  
 
-### Asistentes
+##### Asistentes
 
 + Leonardo Andrés Aranguren
 + Alejandro Lopera Toro
@@ -55,7 +50,7 @@ Ricardo Ortíz
 + Claudia Yaneth Rivera
  
 
-## Enlaces de interés:
+#### Enlaces de interés:
 
 + [Agenda y Asistentes](https://drive.google.com/drive/folders/1TMnZlSOxpPE0jSwfFQwXbwa86wxQaQG7){:target="_blank"}
 + [Fotografías](https://drive.google.com/open?id=1YmybuwHfBkO8udiIHApGjOTiLJfySeyF){:target="_blank"}
