@@ -17,4 +17,4 @@ Al taller asistieron 24 participantes, entre ellos se encontraron estudiantes, i
 
 Desde el SiB Colombia se adquirió el compromiso de aplicar y compartir con la comunidad los contenidos aprendidos en el taller y contribuir con la labor de brindar acceso libre a información sobre la diversidad biológica del país para la construcción de una sociedad sostenible.
 
-<img src="/assets/images/noticias_eventos/2015/2015-04-18-I3B-documentación-digital-biodiversidad.jpg" width=770>
+<img src="/assets/images/noticias_eventos/2015/2015-04-18-I3B-documentación-digital-biodiversidad-1.jpg" width=770>
