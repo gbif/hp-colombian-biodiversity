@@ -20,3 +20,5 @@ La fecha límite para envío de propuestas es el 5 de septiembre de 2018. Se cie
 
 **Más información en GBIF:**
 <https://www.gbif.org/news/2W274u835u4UAoQqEOyIIA/2018-gbif-ebbe-nielsen-challenge-to-open-on-9-may-2018>{:target="_blank"}
+
+<img src="/assets/images/noticias_eventos/2018/2018-03-07-desafio-ebbe-nielsen-2018.png" width=770>
