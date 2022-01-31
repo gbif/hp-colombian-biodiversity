@@ -2,7 +2,7 @@
 title:  "Taller de calidad de datos: mejorando los datos primarios sobre biodiversidad"
 date:   2014-07-13
 categories: ["Talleres", "Calidad de datos", "2014", "Datos"]
-background: /assets/images/noticias_eventos/2014//assets/images/noticias_eventos/2014/2014-07-13-taller-calidad-datos-primarios1.png
+background: /assets/images/noticias_eventos/2014/2014-07-13-taller-calidad-datos-primarios1.png
 
 imageLicense: |
   <a href="https://commons.wikimedia.org/wiki/File:Albizia_gbif.png">https://www.gbif.org/species/2972897</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
