@@ -14,46 +14,42 @@ El propósito de este taller teórico-práctico es crear y fortalecer capacidade
 
 ***Nota:*** El taller tiene un énfasis en el uso de tres herramientas para la sistematización y gestión de colecciones de historia natural (herbarios y museos de historia natural): Herbar, Zoorbar y Specify. Las sesiones de Specify serán avanzadas, por lo tanto para participar en ellas se requiere que la colección use actualmente esta herramienta.
 
-#### LUGAR 
+**Lugar:** Bogotá, D. C.
 
-BOGOTÁ D.C.
+**Fecha:** 11 al 14 de junio 2013
 
-#### FECHA
-
-11 AL 14 DE JUNIO DE 2013
-
-#### ¿A QUIÉN VA DIRIGIDO?
+#### ¿A quién va dirigido?
 
 El taller está dirigido a personal técnico, académico o científico, responsable en la actualidad o próximamente de la sistematización y administración de información de la colección, en la cual se hayan adelantado actividades (o que esté actualmente en proceso) de selección e implementación de plataformas informáticas y bases de datos.
 Se requiere tener conocimientos generales de informática. Es importante que el participante pueda generar documentación para la colección respectiva, sobre la implementación y uso de la herramienta informática seleccionada, que permita asegurar su sostenibilidad.
 
-#### CONTENIDO
+#### Contenido
 
 El taller se desarrollará mediante presentaciones temáticas, discusiones plenarias y sesiones prácticas para el manejo de las herramientas: 1) Herbar/Zoorbar  2) Specify avanzado (para cada herramienta se realizarán talleres independientes de forma simultánea).
 *Próximamente publicaremos la agenda detallada del evento.*
 
-#### SELECCIÓN DE CANDIDATOS
+#### Selección de candidatos
 
 El proceso de selección de candidatos será realizado por el comité coordinador del taller, conformado por representantes del Instituto de Ciencias Naturales (ICN) y del Equipo Coordinador del SiB Colombia, de acuerdo con los criterios de selección y la documentación remitida por los aspirantes, teniendo en cuenta las siguientes fechas:
 **Fecha de apertura:** 2 de mayo de 2013
 **Fecha de cierre:** 22 de mayo de 2013
 **Fecha de publicación de los seleccionados:** 27 de mayo de 2013
 
-#### CRITERIOS DE SELECCIÓN
+#### Criterios de selección
 
 Diligenciar completamente el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSd0oDzvzh6BxHDKDPXZuK1i3QWRl7rbfVAinDG4zmLGHA4oJw/viewform?formkey=dDVka0FTLVRLd3NWT2w3d1c1azFUYlE6MQ#gid=0){:target="_blank"}
 , incluyendo CV.
 Contar con una carta de aval institucional del director, coordinador o encargado de la colección de la entidad u organización a la que está vinculado el candidato, donde se encuentra la colección biológica.
 Estar a cargo de la sistematización, digitalización o administración de la información en la colección biológica.
 
-#### RESULTADOS DEL PROCESO DE SELECCIÓN
+#### Resultados del proceso de selección
 
 La convocatoria contó con la postulación de 107 candidatos pertenecientes a 38 instituciones, de los cuales se seleccionaron 40 participantes de 14 departamentos del país.
 
 El proceso de selección se ajustó estrictamente a los criterios mencionados en la convocatoria, fue realizado por evaluadores del Instituto de Ciencias Naturales (ICN) de la Universidad Nacional de Colombia, del Equipo Coordinador del Sistema de Información sobre Biodiversidad de Colombia (SiB) y un miembro del Comité Técnico del SiB.
 
 
-#### INSTRUCTORES
+#### Instructores
    
 **Francisco Pando**  
 *Director de la unidad de coordinación GBIF.ES*  
@@ -118,7 +114,7 @@ Laboratorio de Biogeografía Aplicada y Bioacústica
 www.humboldt.org.co  
 mlondono@humboldt.org.co  
 
-#### INFORMACIÓN DE CONTEXTO Y SOPORTE
+#### Información de contexto y soporte
 
 Se recomienda a los participantes consultar los siguientes documentos de contexto y soporte previamente a la realización del taller:
 
@@ -139,5 +135,7 @@ Se recomienda a los participantes consultar los siguientes documentos de context
 
 
 
-#### CONTACTO:  
+#### Contacto
 Para mayor información contáctenos al correo electrónico sib@humboldt.org.co con el asunto: **Taller colecciones biológicas.**
+
+<img src="/assets/images/noticias_eventos/2013/2013-03-13-Taller-herramientas-informáticas-colecciones-biologicas-2.jpg" width=770>
