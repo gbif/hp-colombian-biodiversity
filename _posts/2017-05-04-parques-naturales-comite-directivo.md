@@ -23,3 +23,5 @@ Si bien PNN, como socio publicador del SiB Colombia, ha realizado el aporte de c
 Asimismo, esta nueva alianza abordará el trabajo de monitoreo participativo a través de una estrategia entre PNN y el Instituto Humboldt, y el apoyo del SiB Colombia, con un piloto en tres parques para vincular a la sociedad civil en la consolidación del inventario de estas zonas como factor clave en la toma de decisiones en términos de conservación.  
 
 Finalmente, la directora del Instituto Humboldt destacó los avances del SiB Colombia como un consorcio institucional que provee información robusta y de calidad al gobierno nacional y a todas las entidades públicas y privadas que requieren datos sobre biodiversidad y análisis de los mismos.
+
+<img src="/assets/images/noticias_eventos/2017/2017-05-04-parques-naturales-comite-directivo.jpg" width=770>
