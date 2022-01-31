@@ -3,7 +3,7 @@ title:  "Nuestro Catálogo de la Biodiversidad de Colombia se renueva"
 date:   2016-02-29
 categories: ["Catálogo de la biodiversidad de Colombia
 ", "2016"]
-background: /assets/images/noticias_eventos/2016/2016-02-29-catalogo-biodiversidad-se-renueva.png
+background: /assets/images/noticias_eventos/2016/2016-02-29-catalogo-biodiversidad-colombia-se-renueva.png
 
 ---
 Esta versión del Catálogo de la Biodiversidad de Colombia tuvo un cambio en su apariencia y funcionalidad con el fin de ser mucho más amigable con los usuarios y facilitar la interactividad entre los mismos.
