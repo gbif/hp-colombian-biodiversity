@@ -24,3 +24,5 @@ En cuanto a las organizaciones publicadoras de estos datos (41 en total), lidera
 El SiB Colombia es hoy en día una realidad gracias a la participación de decenas de organizaciones y personas que comparten datos e información bajo los principios de libre acceso, cooperación, transparencia, reconocimiento y responsabilidad compartida.  
 
 Para mas información consulta <https://biodiversidad.co/>
+
+<img src="/assets/images/noticias_eventos/2018/2018-04-20-municipios-libres-minas-2.jpg" width=770>
