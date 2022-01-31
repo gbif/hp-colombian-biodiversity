@@ -2,7 +2,7 @@
 title:  "Colecciones Biológicas 3.0"
 date:   2012-04-13
 categories: ["Talleres", "Boyacá", "Villa de Leyva", "Colecciones biológicas", "2012"]
-background: /assets/images/noticias_eventos/2012/2012-04-13-taller-colecciones-3punto.jpeg
+background: /assets/images/noticias_eventos/2012/2012-04-13-taller-colecciones-3punto0.jpg
 
 ---
 El propósito de este taller es guiar a los gestores y conservadores de colecciones de historia natural de la región hacia el siguiente nivel en gestión de colecciones. Después del paradigma de considerar a las colecciones como ficheros de papel y bases de datos aisladas adscritas a especímenes, ahora llega el momento de que esas colecciones pasen a formar parte de un sistema de información global en biodiversidad para ciencia y conservación. Para ello, las últimas tecnologías y enfoques serán tratados en el taller.
