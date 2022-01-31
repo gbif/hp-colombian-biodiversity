@@ -2,7 +2,7 @@
 title:  "Taller I3B – Documentación digital en biodiversidad"
 date:   2014-12-13
 categories: ["Biodiversidad", "I3B", "2014","Talleres"]
-background: assets/images/noticias_eventos/2014/2014-12-13-taller-i3b-documentacion-digital.jpg
+background: /assets/images/noticias_eventos/2014/2014-12-13-taller-i3b-documentacion-digital-en-biodiversidad.jpg
 
 ---
 
@@ -18,7 +18,7 @@ El propósito de este taller es dar conocer diferentes rutinas y herramientas pa
 
 ***El taller está dirigido a científicos y profesionales con responsabilidades y conocimiento técnico en la gestión de centros documentales, bibliotecas y/o colecciones biológicas con repositorios físicos o virtuales.***
 
-# SELECCIÓN DE CANDIDATOS
+#### Selección de candidatos
 
 El procesos de selección se llevará a cabo en dos pasos:
 
@@ -28,7 +28,7 @@ El procesos de selección se llevará a cabo en dos pasos:
 
  
 
-# CRITERIOS DE SELECCIÓN Y REQUISITOS
+# Criterios de selección
 
 - Diligenciar completamente el formulario de inscripción (puede ser descargado aquí).
 - **Adjuntar hoja de vida y carta de aval** de la entidad o universidad a la cual pertenece el interesado. El aval puede ser a nivel de cualquier instancia siempre y cuando se elabore en papel membreteado de la entidad.
@@ -44,13 +44,13 @@ En el caso de que haya interesados procedentes de entidades que no son socias de
 
 Los candidatos serán seleccionados a partir de sus méritos y su adecuación a los criterios de selección, sobre la base de la información proporcionada en el formulario, su CV y la carta de aval. **Por favor abstenerse de participar si no cumple con los requisitos mencionados.**
 
-# COMPROMISOS 
+# Compromisos 
 
 Los participantes deberán mostrar la capacidad de aplicar y diseminar los contenidos aprendidos en el taller en sus entornos nacionales. Consulte el programa y mas información del taller en: <http://www.recibio.net/taller-i3b-documentacion-digital/>.
 
 Recuerde que la fecha límite de envío de postulaciones es el **25 de enero.**
 
-# FINANCIACIÓN
+# Financiación
 
 Los participantes tendrán todos los gastos de viaje, alojamiento y manutención cubiertos; no obstante, **asumir parte de estos gastos por parte del participante o entidad que lo avala, ayudará a que el candidato sea seleccionado.** El taller no conlleva gastos de inscripción.
 
