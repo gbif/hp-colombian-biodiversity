@@ -60,3 +60,6 @@ En el caso de que haya interesados procedentes de entidades que no son socias de
 
 
 ***Para mayor información consulte la [página del evento](http://www.recibio.net/taller-i3b-documentacion-digital/){:target="_blank"}. Si tienen preguntas o necesitan información adicional sobre esta convocatoria, no duden en contactarnos a través de: sib+i3b@humboldt.org.co***
+
+<img src="/assets/images/noticias_eventos/2014/2014-12-13-taller-i3b-documentacion-digital-en-biodiversidad-4.jpg" width=770>
+
