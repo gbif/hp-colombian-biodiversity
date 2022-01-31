@@ -2,35 +2,32 @@
 title:  "Taller de gestión y publicación de datos sobre biodiversidad – CORPOGUAVIO"
 date:   2018-05-08
 categories: ["Corpoguavio", "Corporación Autónoma Regional"," Guavio", "2018","Talleres","Publicación"]
-background: /assets/images/noticias_eventos/2018/2018-05-08-corpoguavio-blog-background-01.jpg
+background: /assets/images/noticias_eventos/2018/2018-05-08-corpoguavio-blog-background-02.jfif
 
+imageLicense: |
+  <a href="https://commons.wikimedia.org/wiki/File:Embalse_del_Guavio_(2).JPG">Philipp Weigell</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons
 ---
 
 El objetivo de este taller es crear capacidad en la Corporación Autónoma Regional Del Guavio para la publicación de datos a través del SiB Colombia.
 
-## Fecha
+**Fecha:** 12 y 13 de marzo de 2018.
 
-12 y 13 de marzo
+**Lugar:** Gachalá, Cundinamarca.
 
-## Lugar
-
-Gachalá, Cundinamarca
-
-
-## Logros 
+#### Logros 
 
 El equipo de profesionales (17) de la subdirección de gestión ambiental de CORPOGUAVIO fue capacitado sobre el modelo de publicación del SiB Colombia. La Corporación cuenta ahora con nuevas herramientas para la gestión, calidad y publicación de datos primarios sobre Biodiversidad.  
 
 Con los conocimientos adquiridos durante el taller, CORPOGUAVIO podrá aportar al conocimiento de la Biodiversidad del país a través del SiB Colombia.  
 
-## Instructores
+#### Instructores
 
 - Leonardo Buitrago,
 *Líder líneaAdministración de contenidos – SiB Colombia*
 - Camila Plata,
 *Investigadora Administración de contenidos – SiB Colombia*
 
-## Asistentes
+#### Asistentes
 
 - Leydi Johanna Pardo Murillo
 *Coordinadora Biod. y Ecos. Estratégicos*
@@ -61,7 +58,7 @@ Con los conocimientos adquiridos durante el taller, CORPOGUAVIO podrá aportar a
 - Jobani Horacio Saavedra
 *Promotor Ambiental Biod. y Ecos. Estratégicos*
 
-## Enlaces de interés
+#### Enlaces de interés
 
 - [Agenda y Asistentes](https://drive.google.com/open?id=11T5DwZR1JYiTFP-aJAJxo94nisGgMJhM){:target="_blank"}
 - [Fotografías](https://drive.google.com/open?id=1Gy4xz9FHxzqq2NwllkfFULwNS4rSE7yv){:target="_blank"}
