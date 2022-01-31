@@ -2,8 +2,10 @@
 title:  "Taller de información sobre biodiversidad para la conservación medioambiental"
 date:   2013-01-13
 categories: ["Talleres", "Conservación", "Biodiversidad", "2013"]
-background: /assets/images/noticias_eventos/2013/2013-01-13-Taller-información-biodiversidad-para-conservacion-b.jpg
+background: /assets/images/noticias_eventos/2012/2013-01-13-Taller-información-biodiversidad-para-conservacion-c.jpg
 
+imageLicense: |
+  Foto del grupo Taller I3B. Fotografía de: Marco Gaiani vía [Flickr](https://flic.kr/p/ec8CbQ)
 ---
 
 **El jueves 24 de enero se cerró la convocatoria** para participar en el Taller de Información sobre Biodiversidad para la Conservación Medioambiental, organizado en el marco de la Infraestructura Iberoamericana de Información sobre Biodiversidad (I3B), que se realizará en la Estación Biológica La Selva en Costa Rica, del 15 al 18 de abril de 2013.  
