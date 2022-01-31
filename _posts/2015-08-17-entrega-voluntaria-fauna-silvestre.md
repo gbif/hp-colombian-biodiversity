@@ -2,9 +2,9 @@
 title:  "Con éxito se desarrolla la entrega voluntaria de fauna silvestre en el país"
 date:   2015-08-17
 categories: ["Ministerio de Ambiente y Desarrollo Sostenible", "Fauna silvestre", "2015"]
-background: /assets/images/noticias_eventos/2015/2015-08-17-entrega-voluntaria-fauna-silvestre.jpg
+background: /assets/images/noticias_eventos/2015/2015-08-17-entrega-voluntaria-de-fauna-silvestre.jpg
 imageLicense: |
-   Fotografía de: Vileberquin vía [wikimedia](https://upload.wikimedia.org/wikipedia/commons/6/60/TURTLE_CIRCLE_NAVY_white_background.jpg)
+   Green Sea Turtle (Chelonia mydas) Fotografía de: Mark Spangler vía [Flickr](https://flic.kr/p/sUytGj)
 ---
 
 *Más de 100 especímenes fueron recuperados durante el fin de semana gracias a campaña del Ministerio de Ambiente y Desarrollo Sostenible.*  
