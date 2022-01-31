@@ -4,7 +4,8 @@ date:   2017-08-28
 categories: ["Calidad de datos","2017", "GBIF", "Paula Zermoglio
 ", "John Wieczorek"]
 background: /assets/images/noticias_eventos/2017/2017-08-28-bueno-malo-lindo-datos-biodiversidad-fondo.png
-
+imageLicense: |
+  https://pixabay.com/images/id-6774808/
 ---
 
 En las últimas dos décadas se ha incrementado enormemente la disponibilidad de datos de biodiversidad en formato digital, principalmente gracias a esfuerzos de digitalización de colecciones de historia natural, y más recientemente gracias al aporte de iniciativas que capturan información sobre observaciones de organismos en la naturaleza.  
