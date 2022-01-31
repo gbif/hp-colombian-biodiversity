@@ -2,10 +2,7 @@
 title:  "Taller georreferenciación de localidades en colecciones biológicas"
 date:   2014-01-13
 categories: ["Talleres", "Georreferenciación", "2014", "Colecciones biológicas"]
-background: /assets/images/noticias_eventos/2014/2014-01-13-Taller-georreferenciacion-de-localidades-en-colecciones-biologicas.jpg
-imageLicense: |
- <a href="https://commons.wikimedia.org/wiki/File:ITM1.jpg">Camilomed</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
-
+background: /assets/images/noticias_eventos/2014/2014-01-13-Taller-georreferenciacion-de-localidades-en-colecciones-biologicas-1.png
 ---
 
 El objetivo general de este taller es dar a conocer una metodología para estandarizar y georreferenciar localidades asociadas a datos primarios sobre biodiversidad en colecciones biológicas, que ha venido desarrollando conjuntamente el Instituto Humboldt y el Instituto de Ciencias Naturales.
@@ -127,3 +124,5 @@ Es indispensable que los participantes consulten los siguientes documentos de co
 #### Memorias
 Descargue los [videos](https://www.youtube.com/playlist?list=PL_KzX3Rxxwb0pH2LJ7gj7y7eGoCj7gpkl){:target="_blank"} y consulte el [foro](http://foro.recibio.net/viewforum.php?f=22&sid=7202df4906903fcee554d878c028c250&start=25){:target="_blank"}.
 
+
+<img src="/assets/images/noticias_eventos/2014/2014-01-13-Taller-georreferenciacion-de-localidades-en-colecciones-biologicas-2.jpg" width=770>
