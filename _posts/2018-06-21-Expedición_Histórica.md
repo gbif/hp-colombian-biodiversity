@@ -28,7 +28,7 @@ Listas de Especies.
 
 A continuación encontrarás la información sobre los panelistas y moderadores que participarán en este conversatorio.
 
-# Gestión y publicación de datos
+#### Gestión y publicación de datos
 
 |           |            |
 |-----------|------------| 
@@ -38,7 +38,7 @@ A continuación encontrarás la información sobre los panelistas y moderadores 
 |<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/2018/2018-06-21-expedicion-historica-biodiversidad05.jpg"></figure> |**Leonardo Buitrago:** Licenciado en Biología, especialista en Sistemas de Información Geográfica (SIG). Vasta experiencia en ampliar el conocimiento sobre la biodiversidad colombiana y promover el acceso abierto a datos e información a escala nacional y global. Especialista en herpetofauna en Colombia. Desde hace 4 años forma parte del equipo del SiB Colombia donde se ha enfocado en informática de la biodiversidad. Actualmente lidera la línea de Administración de Contenidos del SiB Colombia y ejerce paralelamente el rol como administrador del nodo GBIF-Colombia y como suplente regional de GBIF para Latinoamérica y el Caribe.| 
 |<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/2018/2018-06-21-expedicion-historica-biodiversidad06.png"></figure> |**Claudia Villa, moderadora:** Comunicadora social organizacional, con especialización en recursos publicitarios y maestría en filosofía. Durante seis años trabajó en promoción y prevención de salud y ha estado vinculada al Sina desde 2000 a la fecha. Está vinculada al Instituto Humboldt desde hace quince años y en la actualidad es la coordinadora de Fortalecimiento de Capacidades.|
 
-# Giras de Especialistas
+#### Giras de Especialistas
 
 |           |            |
 |-----------|------------| 
@@ -50,7 +50,7 @@ A continuación encontrarás la información sobre los panelistas y moderadores 
 |<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/2018/2018-06-21-expedicion-historica-biodiversidad12.png"></figure> |**Andrea Lorena García:** Directora del Centro de Estudios e Investigaciones en Biodiversidad y Biotecnología (CIBUQ), Curadora del Museo de Artrópodos (MAUQ). Es Magíster en Ciencias- Entomología (2011) Universidad Nacional de Colombia – Sede Medellín. Bióloga (2003). Universidad del Quindío.|
 |<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/2018/2018-06-21-expedicion-historica-biodiversidad13.png"></figure> |**María Fernanda Gómez, moderadora:** Ha desarrollado investigación en las áreas de conservación y gestión de conocimiento sobre biodiversidad. Perteneció al grupo de investigación que elaboró el Libro Rojo de Aves de Colombia en el 2002 y fue coautora de la Reevaluación del Riesgo de Extinción de Aves para el país (2014), el cual tuvo como resultado tres productos editoriales. Como pasante de la UICN en Cambridge, adelanto procesos para la consolidación de una red regional para impulsar iniciativas de listas rojas en América Latina. Se desempeñó como líder de productos de información del Sistema de Información sobre Biodiversidad de Colombia. Fue autora y editora del Reporte de Estado y Tendencias de la Biodiversidad Continental de Colombia en sus versiones 2014 y 2015, así como de una guía de aves regional. Actualmente está vinculada al Instituto Humboldt desde la Subdirección de Investigaciones.|
 
-# Listas de Especies
+#### Listas de Especies
 
 |           |            |
 |-----------|------------| 
@@ -63,7 +63,7 @@ A continuación encontrarás la información sobre los panelistas y moderadores 
 [Más información sobre el FIMA](https://sibcolombia.net/fima-2018/){: .button .is-primary :}{:target="_blank"}
 
 
-# Aliados
+#### Aliados
 
 + Asociación Colombiana de Ictiólogos – Acictios
 + Comfenalco
