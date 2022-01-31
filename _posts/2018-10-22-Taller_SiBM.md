@@ -8,15 +8,12 @@ background: /assets/images/noticias_eventos/2018/2018-10-22-taller-gestion-publi
 
 El objetivo de este taller es crear y fortalecer las capacidades para la publicación de datos marino costeros a través del SiBM y el SiB Colombia. 
 
-## Fecha:
-03 – 05 de octubre de 2018
+**Fecha:** 03 – 05 de octubre de 2018.
 
-## Lugar:
-
-INVEMAR, Santa Marta, Magdalena.
+**Lugar:** INVEMAR, Santa Marta, Magdalena.
 
  
-## Logros:
+#### Logros:
 
 Los 25 participantes del taller aprendieron sobre estandarización, manejo y calidad de datos sobre Biodiversidad con énfasis en datos marino costeros. Las habilidades adquiridas durante el taller les permitirán mejorar sus prácticas internas de planeación, recolección y manejo de datos.
 
@@ -24,9 +21,9 @@ Los participantes tuvieron la oportunidad de aplicar las herramientas de calidad
 
  
 
-## Participantes:
+#### Participantes:
 
-### Instructores
+##### Instructores
 
 * Leonardo Buitrago
 *Líder de línea. Administración de contenidos – SiB Colombia*
@@ -41,7 +38,7 @@ Los participantes tuvieron la oportunidad de aplicar las herramientas de calidad
 * Felipe Valencia
 *Investigador. INVEMAR*
 
-### Asistentes
+##### Asistentes
 
 Leonel  José Fernández Gómez    Invemar  –  MHNMC  
 Eliana  Marcela Barrios Vasquez	Invemar – MHNMC  
@@ -69,7 +66,7 @@ Mayron Esneider Escárraga Fajardo	U. del Magdalena – Colecciones CBUMAG
 Selene  Rojas Aguirre	Invemar -ODI  
 Luisa Francisca Cardona Acuña	Invemar – ODI  
 
-## Enlaces de interés:
+#### Enlaces de interés:
 
 - [Agenda y Asistentes](https://drive.google.com/drive/folders/1AalOw2ElnEnWtUNAdHwmV9dNdTBkTWA_){:target="_blank"}
 - [Fotografías](https://drive.google.com/drive/folders/12aF7MyQij2pI1hAROjDP6NDhKYeiACj1){:target="_blank"}
