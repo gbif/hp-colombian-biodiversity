@@ -58,6 +58,6 @@ Ricardo Ortíz
 + [Taller práctico](https://drive.google.com/drive/folders/125JHCmaKLGFELU51fGf3sUODAgF_xDvl){:target="_blank"}
 + [Encuesta final](https://drive.google.com/file/d/1Cuys5MhoWFRT6_6S5FRP7RKaNSVLt_qp/view){:target="_blank"}
 
-<img src="/assets/images/noticias_eventos/2018/2018-07-26-taller-datos-uptc-boyaca-bio2.png" width=770>
 
 <img src="/assets/images/noticias_eventos/2018/2018-07-26-taller-datos-uptc-boyaca-bio4.jpeg" width=770>
+<img src="/assets/images/noticias_eventos/2018/2018-07-26-taller-datos-uptc-boyaca-bio2.png" width=770>
