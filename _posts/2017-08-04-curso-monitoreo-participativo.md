@@ -3,25 +3,20 @@ title:  "Curso de monitoreo participativo en biodiversidad"
 date:   2017-08-04
 categories: ["Ciencia participativa","2017", "Antioquia", "Reserva Natural Río Claro","Cursos"]
 
-background: /assets/images/noticias_eventos/2017/2017-08-04-curso-monitoreo-participativo1.png
+background: /assets/images/noticias_eventos/2017/2017-08-04-curso-monitoreo-participativo-en-biodiversidad.jpg
 
+imageLicense: |
+  Río Claro Fotografía de: Quimbaya vía [Flickr](https://flic.kr/p/DAKpfs)
 ---
 
 Con el fin de potenciar la ciencia participativa y sus impactos en el país y la región, el Curso de Monitoreo Participativo en Biodiversidad abrirá la oportunidad para que 40 personas de Iberoamérica se vinculen y fortalezcan sus conocimientos en integración de herramientas y metodologías, toma de datos usando estándares, plataformas tecnológicas y medios alternativos para facilitar el trabajo colaborativo.  
 
 El curso también explorará las buenas prácticas y los protocolos como insumos necesarios para contribuir a la calidad de los datos, que permita su uso en investigaciones, publicación en sistemas de información abiertos e interoperables y finalmente el aporte en la toma de decisiones.  
 
-# Fecha 
+**Fecha:** Del 23 al 28 de octubre de 2017.
+**Lugar:** [Reserva Natural Río Claro](https://www.rioclaroreservanatural.com/es/inicio/){:target="_blank"}, Antioquia (Colombia).
 
-Del 23 al 28 de octubre de 2017
-
-
-# Lugar
-
-[Reserva Natural Río Claro](https://www.rioclaroreservanatural.com/es/inicio/){:target="_blank"}, Antioquia (Colombia):
-
-
-# Organizadores
+#### Organizadores
 
 - Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.
 - Sistema de Información sobre Biodiversidad de Colombia (SiB Colombia).
@@ -31,18 +26,18 @@ Del 23 al 28 de octubre de 2017
 - Fundación Tropenbos Colombia.
 - Tejeredes, España.
 
-# Apoya
+#### Apoya
 
 Infraestructura Mundial de Información en Biodiversidad (GBIF).
 
 
-# Participantes
+#### Participantes
 
 - Cuarenta (40) de Iberoamérica
 - Quince (15) por convocatoria para Colombia
 
 
-# Calendario
+#### Calendario
 
 - Publicación de la convocatoria
 8 de agosto 2017
@@ -56,12 +51,12 @@ Infraestructura Mundial de Información en Biodiversidad (GBIF).
 30 de octubre de 2017 al 30 de marzo de 2018
  
 
-# Objetivo general
+#### Objetivo general
 
 Fortalecer iniciativas de monitoreo participativo de biodiversidad a partir de bases conceptuales, herramientas metodológicas, tecnológicas y el intercambio de experiencias, que permitan expandir su impacto positivo.  
 
 
-# Objetivos específicos
+#### Objetivos específicos
 
 - Presentar bases conceptuales y metodológicas para construir un plan de monitoreo participativo que responda a las necesidades de los diferentes actores (sociedad civil y científicos, principalmente).
 - Exponer de forma práctica tecnologías sociales y herramientas metodológicas que facilitan el trabajo entre científicos y sociedad civil para la construcción de objetivos comunes en el monitoreo participativo.
@@ -71,7 +66,7 @@ Fortalecer iniciativas de monitoreo participativo de biodiversidad a partir de b
 
  
 
-# Programa del curso
+#### Programa del curso
 
 El curso se desarrollará alrededor de cinco ejes temáticos:
 
@@ -84,7 +79,7 @@ El curso se desarrollará alrededor de cinco ejes temáticos:
 Será un curso teórico práctico en el que se abordarán elementos conceptuales y metodológicos por cada eje, que luego serán aplicados. Después del curso habrá una etapa de acompañamiento a los participantes, en la cual generarán el plan de monitoreo participativo de su iniciativa con base en los conocimientos adquiridos. Adicionalmente, realizarán la publicación de un conjunto de datos del proyecto de monitoreo participativo en una de las plataformas interoperables con GBIF, de ser posible.
 
 
-# Perfil de los participantes
+#### Perfil de los participantes
 
 El curso está dirigido a gestores de iniciativas de inventario y/o monitoreo participativo de biodiversidad que adelanten proyectos en Colombia. La selección de los participantes estará a cargo de un comité evaluador, que tendrá en cuenta los siguientes criterios:
 
@@ -94,7 +89,7 @@ El curso está dirigido a gestores de iniciativas de inventario y/o monitoreo pa
 - Experiencia en la publicación de datos de forma abierta a través del SiB Colombia.
 - Documentación de forma amplia de las experiencias de inventario/monitoreo participativo en las que ha participado dentro del Inventario de iniciativas adelantado por el Instituto Humboldt.
 
-# Financiación
+#### Financiación
 
 Los participantes seleccionados recibirán el siguiente apoyo por parte de los organizadores del curso:
 
@@ -104,14 +99,14 @@ Los participantes seleccionados recibirán el siguiente apoyo por parte de los o
 - La inscripción y participación en el curso no tiene costo.
 - Certificado digital de participación en el curso.
 
-# Compromiso de los participantes
+#### Compromiso de los participantes
 
 Dedicar al menos 6 horas de preparación previa para el curso. La información a revisar se enviará a los candidatos seleccionados con anticipación.  
 
 Como resultado del trabajo teórico práctico de seis días en la Reserva Natural Río Claro de Antioquia (Colombia), y al intercambio de experiencias nacionales y regionales, cada uno de los participantes elaborará o actualizará -en el siguiente semestre- el plan de monitoreo participativo de su iniciativa integrando los elementos vistos y publicará un conjunto de datos a través de las plataformas interoperables con GBIF, de ser posible.
 
 
-# ¿Cómo postularse?
+#### ¿Cómo postularse?
 
 Para participar en el curso los postulantes deberán realizar los siguientes pasos:
 
@@ -121,7 +116,7 @@ Para participar en el curso los postulantes deberán realizar los siguientes pas
 A todos los participantes se les informará el resultado de la evaluación, vía correo electrónico, dentro de los plazos establecidos en el calendario de la convocatoria.
 
 
-# Documentación
+#### Documentación
 
 Una vez finalizado el curso, la documentación estará disponible de forma abierta, incluyendo los videos y un documento de criterios y buenas prácticas para la calidad, visibilidad y publicación de datos de ciencia participativa bajo el modelo de publicación de la Infraestructura Mundial de Información en Biodiversidad (GBIF).
 
