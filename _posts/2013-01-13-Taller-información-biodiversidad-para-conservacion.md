@@ -2,7 +2,7 @@
 title:  "Taller de información sobre biodiversidad para la conservación medioambiental"
 date:   2013-01-13
 categories: ["Talleres", "Conservación", "Biodiversidad", "2013"]
-background: /assets/images/noticias_eventos/2012/2013-01-13-Taller-información-biodiversidad-para-conservacion-c.jpg
+background: /assets/images/noticias_eventos/2013/2013-01-13-Taller-información-biodiversidad-para-conservacion-c.jpg
 
 imageLicense: |
   Foto del grupo Taller I3B. Fotografía de: Marco Gaiani vía [Flickr](https://flic.kr/p/ec8CbQ)
@@ -47,3 +47,5 @@ El participante desde Colombia fue seleccionado a partir de sus méritos y su ad
 
 Lea [aquí](http://www.recibio.net/informacion-biodiversidad-conservacion/?postTabs=1){:target="_blank"}
  el programa detallado del taller.
+
+<img src="/assets/images/noticias_eventos/2013/2013-01-13-Taller-información-biodiversidad-para-conservacion-b.jpg" width=770>
