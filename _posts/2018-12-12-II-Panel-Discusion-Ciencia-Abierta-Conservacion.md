@@ -40,3 +40,5 @@ Estas prácticas de ciencia abierta están teniendo cada vez mayor relevancia en
 #### Comité organizador:
 
 + Diego A. Gómez Hoyos
+
+<img src="/assets/images/noticias_eventos/2018/2018-12-12-II-Panel-Discusion-Ciencia-Abierta-Conservacion.png" width=770>
