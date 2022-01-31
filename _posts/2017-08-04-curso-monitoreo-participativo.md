@@ -17,6 +17,8 @@ El curso también explorará las buenas prácticas y los protocolos como insumos
 
 **Lugar:** [Reserva Natural Río Claro](https://www.rioclaroreservanatural.com/es/inicio/){:target="_blank"}, Antioquia (Colombia).
 
+<img src="/assets/images/noticias_eventos/2017/2017-08-04-curso-monitoreo-participativo1.png" width=770>
+
 #### Organizadores
 
 - Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.
