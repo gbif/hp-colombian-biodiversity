@@ -2,7 +2,7 @@
 title:  "Taller para la definición de mecanismos efectivos para la publicación e integración de los listados de especies generados por reservas de la sociedad civil"
 date:   2012-09-13
 categories: ["Resnatur", "Listas de especies", "Calidad de datos", "Talleres", "2012"]
-background: /assets/images/noticias_eventos/2012/2012-09-13-Taller-mecanismos-efectivos-publicación-listados-especies-e.jpg
+background: /assets/images/noticias_eventos/2012/2012-09-13-Taller-mecanismos-efectivos-publicacion-listados-de-especies.jpg
 
 ---
 
