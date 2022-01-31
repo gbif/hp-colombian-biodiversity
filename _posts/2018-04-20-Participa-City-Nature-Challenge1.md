@@ -12,7 +12,7 @@ El CNC es una competencia creada en el 2016 por la Academia de Ciencias de Calif
 - Houston: Mayor número de especies identificadas (2.419)  
 - Los Angeles: Mayor número de participantes (1.034)  
 
-## ¿Cómo participar?
+#### ¿Cómo participar?
 
 1. Descargar el app de Naturalista (Disponible para Iphone y Android)
 2. Registrarse y seleccionar como país Colombia
@@ -23,8 +23,10 @@ Las observaciones las pueden registrar en cualquier lugar de la ciudad, en el Ve
 
  <img src="/assets/images/noticias_eventos/2018/2018-04-20-Participa-City-Nature-Challenge2.png" width=770>
  
-## ¿Qué pasa después del 30 de abril?
+#### ¿Qué pasa después del 30 de abril?
 
 Después del 30 de abril tenemos SÓLO 3 DÍAS (1-3 de mayo) para hacer la curaduría de las observaciones. ¡Los que nos puedan ayudar bienvenidos!
 
 El 4 de mayo saldrán los resultados publicados en la página del evento: <http://citynaturechallenge.org/>{:target="_blank"}
+
+<img src="/assets/images/noticias_eventos/2018/2018-04-20-Participa-City-Nature-Challenge-1.jpg" width=770>
