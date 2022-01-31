@@ -14,6 +14,7 @@ Con el fin de potenciar la ciencia participativa y sus impactos en el país y la
 El curso también explorará las buenas prácticas y los protocolos como insumos necesarios para contribuir a la calidad de los datos, que permita su uso en investigaciones, publicación en sistemas de información abiertos e interoperables y finalmente el aporte en la toma de decisiones.  
 
 **Fecha:** Del 23 al 28 de octubre de 2017.
+
 **Lugar:** [Reserva Natural Río Claro](https://www.rioclaroreservanatural.com/es/inicio/){:target="_blank"}, Antioquia (Colombia).
 
 #### Organizadores
