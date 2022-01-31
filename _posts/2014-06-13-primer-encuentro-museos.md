@@ -3,29 +3,21 @@ title:  "Primer encuentro de museos de historia natural"
 date:   2014-06-13
 categories: ["Biodiversidad", "Museos", "2014","Historia natural"]
 background: /assets/images/noticias_eventos/2014/2014-06-13-primer-encuentro-museos-fondo.jpg
-
 ---
-
 
 Será un escenario para visibilizar a los Museos de Historia Natural a partir de una estrategia de difusión que incluirá medios masivos de comunicación (periódico, radio, televisión y redes sociales). Se espera una amplia participación de estudiantes y de un público no especializado, que encuentre en el evento una experiencia enriquecedora y motivadora para convertirse en un asiduo visitante de los Museos y sobre todo en un promotor de su valor, importancia y de su opción como un espacio para el aprendizaje y la diversión.  
 
 Además será una oportunidad para intercambiar experiencias entre los coordinadores y personas encargadas del área de comunicación, difusión o educación y un espacio para proponer estrategias que permitan seguir posicionando a los Museos de Historia Natural de un país megadiverso como Colombia, como lugares de estratégicos para la conservación de nuestra memoria natural y escenarios por excelencia para el aprendizaje y la valoración de la biodiversidad tanto en locales como extranjeros.
  
 
-# FECHA:
+**Fecha:** 8 y 9 de septiembre de 2014.
 
-8 y 9 de septiembre de 2014.
-
-# LUGAR:
-
-Universidad El Bosque, Av. Cra 9 No. 131 A – 02 Bogotá D.C.  
-
-# ENTRADA LIBRE
+**Lugar:** Universidad El Bosque, Av. Cra 9 No. 131 A – 02, Bogotá D.C.  
 
 [FACEBOOK DEL EVENTO](https://www.facebook.com/Encuentro-Nacional-de-Museos-de-Historia-Natural-321047991405228/){:target="_blank"}  
  
 
-# ORGANIZADORES:
+#### Organizadores:
 
 - Facultad de Ciencias, Universidad El Bosque  
 - Museo de Ciencias Naturales, Universidad El Bosque  
@@ -34,23 +26,23 @@ Universidad El Bosque, Av. Cra 9 No. 131 A – 02 Bogotá D.C.
 - Registro Único Nacional de Colecciones Biológicas (RNC).
 
  
-# ¡SORPRÉNDETE, DESCUBRE, PARTICIPA!
+#### ¡Sorpréndete, descubre y participa!
 
 
-**CURSO MUSEOS DEL SIGLO XXI: POSIBILIDADES Y RETOS**. Los museos trabajarán paralelamente en el intercambio de experiencias, el fortalecimiento de capacidades organizacionales, de comunicación y trabajo en red, durante el curso “Museos del Siglo XXI: Posibilidades y retos”. Un espacio apoyado por la Dirección de Museos y Patrimonio Cultural de la Universidad Nacional de Colombia, que permitirá avanzar en estrategias para seguir posicionando a los museos como lugares estratégicos para la conservación de la memoria natural.  
+**Curso museos del siglo xxi: posibilidades y retos**. Los museos trabajarán paralelamente en el intercambio de experiencias, el fortalecimiento de capacidades organizacionales, de comunicación y trabajo en red, durante el curso “Museos del Siglo XXI: Posibilidades y retos”. Un espacio apoyado por la Dirección de Museos y Patrimonio Cultural de la Universidad Nacional de Colombia, que permitirá avanzar en estrategias para seguir posicionando a los museos como lugares estratégicos para la conservación de la memoria natural.  
 
 Participan: directores o coordinadores de los museos, encargados del área de comunicación, educación o difusión de los museos de historia natural.
 
-# SOBRE EL ENCUENTRO
+#### Sobre el encuentro
 
-## OBJETIVOS
+##### Objetivos
 
 - Resaltar y difundir la labor que adelantan los Museos de Historia Natural, en términos de preservación y difusión del patrimonio natural del país.
 - Invitar a conocer y valorar la fuente de inspiración y conocimiento que representan los Museos de Historia Natural para la sociedad.
 - Reconocer la existencia, importancia y uso de los Museos de Historia Natural.
 
 
-## ¿CÓMO HACER PARTE DEL ENCUENTRO?
+##### ¿Cómo hacer parte del encuentro?
 
 Los Museos que deseen participar con actividades y exposiciones en el Encuentro lo podrán realizar a través de:
 
@@ -65,7 +57,7 @@ En todos los casos es deseable que el Museo participante apoye en la promoción 
 
 *Nota:* si en alguna de las exposiciones se requiere la movilización de especímenes depositados en los Museos, es importante tener en cuenta la disposición del artículo 9 del Decreto 1375 de 2013, que hace explícito que las colecciones biológicas registradas en el RNC no requieren salvoconducto para la movilización de especímenes a nivel nacional, únicamente la constancia de registro en el RNC y una certificación suscrita por el titular, en la que consten los especímenes movilizados.
 
-## PROCESO DE INSCRIPCIÓN
+##### Proceso de inscripción
 
 La orientación para la participación de los Museos con exhibiciones y actividades se realizará por el comité organizador del Encuentro, a partir de la información consignada en el formulario de inscripción, y estará sujeta a los cupos disponibles en los espacios de la Universidad se realizará.
 
@@ -76,7 +68,7 @@ La orientación para la participación de los Museos con exhibiciones y activida
 
 Las especificaciones de los espacios disponibles y demás servicios para las exhibiciones serán coordinadas con los museos seleccionados, con base en las especificaciones descritas en el formulario.
 
-## INFORMACIÓN LOGÍSTICA
+##### Información logística
 
 - Las exhibiciones estarán abiertas al público en general, no tiene costo ni requiere inscripción.
 - El curso y la participación como expositor serán certificados de manera independiente por los organizadores, incluyendo el aval académico de la Universidad El Bosque para el curso sobre “Museos del Siglo XXI: posibilidades y retos”
@@ -88,7 +80,7 @@ Las especificaciones de los espacios disponibles y demás servicios para las exh
 - Adicional al espacio de los espacios de exposición asignados, se tendrán disponibles: mesas y sillas, seguridad para los elementos de exhibición, bodega y maletero.
  
 
- 
+ <img src="/assets/images/noticias_eventos/2014/2014-06-13-primer-encuentro-museos.jpg" width=770>
 
 **Para mayor información escriba a sib+tallermuseos@humboldt.org.co o comuníquese al teléfono (+57 1) 320 2767 ext.2111**
 
