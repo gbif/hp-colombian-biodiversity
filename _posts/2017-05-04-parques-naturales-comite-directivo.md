@@ -3,8 +3,10 @@ title:  "Parques Nacionales Naturales de Colombia se vincula al Comité Directiv
 "
 date:   2017-05-04
 categories: ["PNN", "Portal de datos","Comités", "2017"]
-background: /assets/images/noticias_eventos/2017/2017-05-04-parques-naturales-comite-directivo.jpg
+background: /assets/images/noticias_eventos/2017/2017-05-04-parques-naturales-se-vincula-al-comite-directivo-SiB-Colombia.jpg
 
+imageLicense: |
+  <a href="https://commons.wikimedia.org/wiki/File:Parque_Nacional_Natural_Serran%C3%ADa_de_Chiribiquete.jpg">Ministerio de Ambiente de Colombia</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 ---
 Parques Nacionales Naturales de Colombia (PNN) se vincula como miembro del [Comité Directivo y Técnico](https://biodiversidad.co/acercade/sibcolombia) del Sistema de Información sobre Biodiversidad de Colombia (SiB Colombia), una iniciativa de país que facilita el acceso libre a información sobre la diversidad biológica nacional.  
 
