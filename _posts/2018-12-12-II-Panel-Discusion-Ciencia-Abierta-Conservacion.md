@@ -2,8 +2,10 @@
 title:  "II Panel de Discusión sobre Ciencia Abierta y Conservación de Biodiversidad"
 date:   2018-12-12
 categories: ["Ciencia abierta", "Datos abiertos","2018"]
-background: /assets/images/noticias_eventos/2018/2018-12-12-II-Panel-Discusion-Ciencia-Abierta-Conservacion.png
+background: /assets/images/noticias_eventos/2018/2018-12-12-II-Panel-Discusion-Ciencia-Abierta-Conservacion-de-biodiversidad.jpg
 
+imageLicense: |
+  Government Data Science Community Meetup Fotografía de: gdsteam vía [Flickr](https://flic.kr/p/W7bKPQ)
 ---
 
 La Ciencia Abierta es la práctica científica que fomenta la transparencia, reproducibilidad, disponibilidad y accesibilidad de todos los elementos y herramientas usadas durante los procesos de investigación, aprovechando el uso de los recursos digitales. De esta manera la producción científica y sus procesos están liberados para que el conocimiento generado tenga un mayor impacto en el desarrollo de nuestras sociedades.
@@ -14,10 +16,9 @@ La práctica de la Ciencia Abierta es importante para todos los campos del conoc
 
 Estas prácticas de ciencia abierta están teniendo cada vez mayor relevancia en Europa y Estados Unidos. Debido a que latinoamérica se está consolidando como una región con alto potencial en producción científica, es imperante iniciar la discusión y consolidación de los procesos de ciencia abierta en la región, en especial para tener mayor impacto en nuestros esfuerzos de conservación de la biodiversidad.
 
- 
-**Lugar:** AGORA Centro de Convenciones. Carrera 37 # 24 – 67. Bogotá, Colombia. [Ubicación](https://www.google.com/maps/place/%C3%81gora+Bogot%C3%A1/@4.6298745,-74.0948158,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9bd91908ed1d:0x23880f62017a68ac!8m2!3d4.6298745!4d-74.0926271?shorturl=1){:target="_blank"}.
+**Fecha:** 4 de diciembre de 2018; 17:30 – 19:30 horas.
 
-**Día y hora:** 4 de diciembre de 2018; 17:30 – 19:30 horas
+**Lugar:** AGORA Centro de Convenciones. Carrera 37 # 24 – 67. Bogotá, Colombia. [Ubicación](https://www.google.com/maps/place/%C3%81gora+Bogot%C3%A1/@4.6298745,-74.0948158,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9bd91908ed1d:0x23880f62017a68ac!8m2!3d4.6298745!4d-74.0926271?shorturl=1){:target="_blank"}.
 
 **Organizan:** Sociedad para la Ciencia Abierta y la Conservación de la Biodiversidad (SCiAC) y VCCZ
 
@@ -26,7 +27,7 @@ Estas prácticas de ciencia abierta están teniendo cada vez mayor relevancia en
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XrZGUciymic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-# Panelistas:
+#### Panelistas:
 
 + Santiago Ron (Pontificia Universidad Católica del Ecuador y BioWeb, Ecuador)
 + Manuela Fernández Pinto (Universidad de los Andes, Colombia)
@@ -36,6 +37,6 @@ Estas prácticas de ciencia abierta están teniendo cada vez mayor relevancia en
 + Pilar Sáenz (Fundación Karisma, Colombia)
 + Diego A. Gómez Hoyos (ProCAT / SCiAC, Colombia-Costa Rica) -Moderador-
  
-# Comité organizador:
+#### Comité organizador:
 
 + Diego A. Gómez Hoyos
