@@ -11,20 +11,15 @@ La autoridad ambiental debe ser publicadora de datos a través del SiB Colombia 
 
 ¡Inscríbete y participa en el proceso de selección!
 
-## Fecha límite para aplicar:
-31 de enero de 2020.
+**Fecha límite para aplicar:** 31 de enero de 2020.
 
-## Plazas disponibles: 
-1 (una).
+**Plazas disponibles:** 1 (una).
 
-## Apoyo económico:
+**Apoyo económico:** Sí. Todos los gastos cubiertos.
 
-Sí. Todos los gastos cubiertos.
+**Lugar:** Santiago, Chile.
 
-## Lugar:
-Santiago, Chile.
-
-# Descripción
+#### Descripción
 
 La aparente brecha entre el SiB Colombia y los tomadores de decisiones, a nivel nacional, regional y urbano, refleja una deficiencia en la implementación de acciones para mejorar el impacto de los datos facilitados a través del SiB Colombia en la política. Es importante mejorar y fortalecer este vínculo, destacando la importancia de la toma de decisiones basada en evidencia a través de la discusión de estrategias y la generación de productos de datos relevantes para las políticas.
 
@@ -34,31 +29,31 @@ Para lograrlo, hemos identificado expertos dentro de la comunidad de habla hispa
 
 Mediremos el éxito del curso basándonos en encuestas de participantes que evaluarán la relevancia de los temas, las actividades y la usabilidad de los materiales. Para monitorear el impacto a largo plazo, haremos seguimiento a las réplicas de los participantes del currículo del taller (ya sea en parte o en su totalidad).
 
-### Identificador del proyecto:
+#### Identificador del proyecto:
 
 [CESP2019-005](https://www.gbif.org/project/4dnLgIg7Ih9HekXEIkuG6A/data-use-for-decision-making-workshop-an-iberoamerican-community-call){:target="_blank"}
 
-### Proyectos:
+#### Proyectos:
 
 [Data use for decision-making workshop: an Iberoamerican community call](https://www.gbif.org/project/4dnLgIg7Ih9HekXEIkuG6A/data-use-for-decision-making-workshop-an-iberoamerican-community-call){:target="_blank"}
 
-### Financiado por:
+#### Financiado por:
 
 [GBIF](http://www.gbif.org/){:target="_blank"}
 
-### Cofinanciado por:
+#### Cofinanciado por:
 
 [GBIF Spain](http://www.gbif.es/){:target="_blank"} \| [GBIF Chile](http://www.gbif.org/country/CL/summary){:target="_blank"} \| [GBIF Argentina](http://www.sndb.mincyt.gob.ar/){:target="_blank"} \| [VertNet](http://vertnet.org/index.html){:target="_blank"} \| [GBIF Colombia](/) \| [GBIF Peru](https://www.gbif.org/es/country/PE/about){:target="_blank"}
 
-### Socios:
+#### Socios:
 
 [GBIF Spain](http://www.gbif.es/){:target="_blank"} \| [GBIF Argentina](http://www.sndb.mincyt.gob.ar/){:target="_blank"} \| [VertNet](http://vertnet.org/index.html){:target="_blank"} \| [GBIF Colombia](/) \| [GBIF Peru](https://www.gbif.org/es/country/PE/about){:target="_blank"}
 
-### Líder de proyecto:
+#### Líder de proyecto:
 
 [GBIF Chile](http://www.gbif.org/country/CL/summary){:target="_blank"}
 
-### Instructores:
+#### Instructores:
 
 |Nombre | Afilicación |
 |------------- |:-------------|
@@ -73,16 +68,16 @@ Mediremos el éxito del curso basándonos en encuestas de participantes que eval
 
 <button class="button">[¡Formulación de inscripción!](https://docs.google.com/forms/d/1r5BI8lVCtm4MQSdhhyQnNZXCGQiHdttyEc1N9Gq3LBs/prefill+){:target="_blank"}</button>
 
-## Selección del participante:
+#### Selección del participante:
 Una vez el formulario de aplicación sea revisado por el Equipo de Coordinador del SiB Colombia, se informará el seleccionado para continuar con el proceso, si hay dudas, por favor escríbenos a [sib@humboldt.org.co](sib@humboldt.org.co) con el asunto: “Curso Uso de Datos”.
 
-## Perfil del participante:
+#### Perfil del participante:
 Para aprovechar al máximo las actividades de este taller, se espera que los participantes cuenten con competencias o conocimientos en las siguientes áreas:
 
 - Conocimientos del modelo de publicación del SiB Colombia.
 - Conocimientos en herramientas informáticas de análisis estadísticos y geográficos, p. ej., SIG y R.
 - Conocimientos de la normativa nacional o internacional en materia de biodiversidad, p. ej., el Convenio sobre la Diversidad Biológica, las Metas de Aichi, los Objetivos de Desarrollo Sostenible, la CITES, UICN, entre otros.
 
-## Enlaces de interés:
+#### Enlaces de interés:
 
 [Programa](https://drive.google.com/file/d/1WzpiDDDGix7Lq8lAlD9kOp5EAqmxj5F8/view){:target="_blank"}
