@@ -56,4 +56,4 @@ Descarga: [Click Aquí](https://drive.google.com/drive/folders/0B3k8_AOqMbDzeVRW
 
 ---
 
-<img src="/assets/images/noticias_eventos/2017/2017-08-27-foro-mamiferos2.png" width=770>
+<img src="/assets/images/noticias_eventos/2017/2017-08-27-foro-mamiferos1b.jpg" width=770>
