@@ -3,7 +3,7 @@ title:  "El bueno, el malo y el no tan lindo: ¿Cómo lidiar con datos de biodiv
 date:   2017-08-28
 categories: ["Calidad de datos","2017", "GBIF", "Paula Zermoglio
 ", "John Wieczorek"]
-background: /assets/images/noticias_eventos/2017/2017-08-28-bueno-malo-lindo-datos-biodiversidad3.jpg
+background: /assets/images/noticias_eventos/2017/2017-08-28-bueno-malo-lindo-datos-biodiversidad-fondo.png
 
 ---
 
