@@ -2,7 +2,9 @@
 title:  "Colombiano ganador del Young Researchers Award explora patrones históricos de la fauna mexicana"
 date:   2015-02-13
 categories: ["Young Researchers Award", "Premios", "2015", "GBIF", "México"]
-background: /assets/images/noticias_eventos/2015/2015-02-13-ganador-Young-Researchers-Award.jpg
+background: /assets/images/noticias_eventos/2015/2015-02-13-ganador-Young-Researchers-Award-fondo.jpg
+imageLicense: |
+  https://www.stockvault.net/photo/259697/business-award-illustration
 ---
 
 # Gonzalo Pinilla Buitrago utilizará los registros publicados a través de GBIF para análisis en patrones de distribución de especies
@@ -20,3 +22,5 @@ En una carta de apoyo al Comité Científico de GBIF, Lauren Raz, supervisora de
 Pinilla Buitrago fue nominado ante GBIF para postularse a este reconocimiento por el SiB Colombia.  
 
 Para mayor información contactar a Juan Mauricio Benítez García (jbenitez@humboldt.org.co) del SiB Colombia o a Sampreethi Aipanjiguly (saipanjiguly@gbif.org) de la Secretaría de GBIF.   
+
+<img src="/assets/images/noticias_eventos/2015/2015-02-13-ganador-Young-Researchers-Award.jpg" width=770>
