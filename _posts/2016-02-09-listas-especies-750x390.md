@@ -2,7 +2,7 @@
 title:  "Aportamos a la discusión sobre las listas de especies"
 date:   2016-02-09
 categories: ["Biodiversidad", "Calidad de datos", "Listas de especies", "2016"]
-background: 2016-02-09-aportamos-a-la-discusion-listas-especies.png
+background: /assets/images/noticias_eventos/2016/2016-02-09-aportamos-a-la-discusion-listas-especies.png
 ---
 
 Cerca de cincuenta personas participaron del encuentro que organizaron el SiB Colombia y el Instituto Humboldt, con el apoyo del Fondo de Adaptación, para proponer una ruta que permita consolidar y hacer relevantes las Listas de Especies a nivel nacional.  
