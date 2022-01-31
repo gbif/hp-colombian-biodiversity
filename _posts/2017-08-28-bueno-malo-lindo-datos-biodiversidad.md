@@ -3,7 +3,7 @@ title:  "El bueno, el malo y el no tan lindo: ¿Cómo lidiar con datos de biodiv
 date:   2017-08-28
 categories: ["Calidad de datos","2017", "GBIF", "Paula Zermoglio
 ", "John Wieczorek"]
-background: /assets/images/noticias_eventos/2017/2017-08-28-bueno-malo-lindo-datos-biodiversidad.jpg
+background: /assets/images/noticias_eventos/2017/2017-08-28-bueno-malo-lindo-datos-biodiversidad3.jpg
 
 ---
 
@@ -31,4 +31,5 @@ Investigadora asociada VertNet. Instituto de Ecología, Genética y Evolución d
 **John Wieczorek**  
 Arquitecto de Información VertNet. Museum of Vertebrate Zoology, UC Berkeley y Museum of Comparative Zoology, Harvard University.
 
+<img src="/assets/images/noticias_eventos/2017/2017-08-28-bueno-malo-lindo-datos-biodiversidad.jpg" width=770>
 <img src="/assets/images/noticias_eventos/2017/2017-08-28-bueno-malo-lindo-datos-biodiversidad2.png" width=770>
