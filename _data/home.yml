@@ -170,7 +170,7 @@ productExample:
   background: /assets/img/product-right.png
   
   # Alerta flotante
-  TextoAlerta:
+  textoAlerta:
   title: "⚠️ Aviso de actualización"
   description: |      # required
     **Procedimiento temporal para reportar datos asociados a permisos de recolección**
@@ -192,8 +192,11 @@ splitAlerta:
   title: Procedimiento temporal para reportar datos asociados a permisos de recolección
   description: |      # required
     Estamos trabajando en la actualización de las herramientas para el reporte de datos asociados a permisos de recolección. Este proceso ha tardado más tiempo de lo estimado, por lo cual extendemos nuestras excusas por los inconvenientes presentados.
+    
     Para subsanar la situación, y con fines de dar cumplimiento al requisito de reporte de datos asociados a los permisos de recolección y los contratos de acceso a recursos genéticos, hemos establecido un procedimiento provisional que certifique, vía correo electrónico y de manera temporal, la entrega de la información.
+    
     Para solicitar un certificado, por favor enviar al correo sib@humboldt.org.co las plantillas a reportar, junto con la siguiente información: nombre del proyecto a reportar, permiso de recolección asociado a la publicación y titular del permiso.
+    
     La publicación de los datos se hará posteriormente, una vez las herramientas se encuentren de nuevo al aire; para esto es necesario que se realice la documentación de metadatos. Nuestro compromiso será el de cargar la información, en compensación por la situación presentada.
   # img required
   background: https://images.unsplash.com/photo-1608094920984-5b54ce1bb792
@@ -203,3 +206,24 @@ splitAlerta:
   - text: Solicitar certificado
     href: mailto:sib@humboldt.org.co
     isPrimary: true
+
+
+textoAlerta2:
+  preTitle: Actualización  # optional
+  title: Procedimiento temporal para reportar datos asociados a permisos de recolección
+  description: |      # required
+    Estamos trabajando en la actualización de las herramientas para el reporte de datos asociados a permisos de recolección. Este proceso ha tardado más tiempo de lo estimado, por lo cual extendemos nuestras excusas por los inconvenientes presentados.
+    
+    Para subsanar la situación, y con fines de dar cumplimiento al requisito de reporte de datos asociados a los permisos de recolección y los contratos de acceso a recursos genéticos, hemos establecido un procedimiento provisional que certifique, vía correo electrónico y de manera temporal, la entrega de la información.
+    
+    Para solicitar un certificado, por favor enviar al correo sib@humboldt.org.co las plantillas a reportar, junto con la siguiente información: nombre del proyecto a reportar, permiso de recolección asociado a la publicación y titular del permiso.
+    
+    La publicación de los datos se hará posteriormente, una vez las herramientas se encuentren de nuevo al aire; para esto es necesario que se realice la documentación de metadatos. Nuestro compromiso será el de cargar la información, en compensación por la situación presentada.
+  background: /assets/images/landing_page/FondoRojo.jpg
+  overlayColor: "#ffffff55"
+  hasWhiteText: true
+  cta:                # optional
+  - text: Solicitar certificado
+    href: mailto:sib@humboldt.org.co
+    isPrimary: false
+  center: true
