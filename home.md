@@ -20,6 +20,8 @@ composition:
   - type: heroImage # the block type
   - data: home.stats
     type: stats
+  - data: home.alerta
+    type: floatingText
   - data: home.destacados
     type: features
   - data: home.splitActividadPublicacion
