@@ -9,7 +9,23 @@ height: 41vh
 toc: true
 ---
 
-
+	<article class="message is-danger">
+  <div class="message-header">
+    <p>⚠️ Aviso de actualización de la herramienta de certificados</p>
+    <button class="delete" aria-label="delete"></button>
+  </div>
+  <div class="message-body">
+   <p>Estamos trabajando en la actualización de las herramientas para el reporte de datos asociados a permisos de recolección. Este proceso ha tardado más tiempo de lo estimado, por lo cual extendemos nuestras excusas por los inconvenientes presentados.</p>
+<p>Para subsanar la situación, hemos establecido un procedimiento temporal para dar cumplimiento al requisito de reporte de información de datos asociados a los permisos de recolección y contratos de acceso a recursos genéticos a través del SiB Colombia.</p>
+<p>Para solicitar un certificado, por favor enviar al correo sib@humboldt.org.co las plantillas a reportar, junto con la siguiente información:</p>
+<ul>
+  <li> Nombre del proyecto a reportar</li>
+  <li>Permiso de recolección asociado a la publicación</li>
+  <li>Titular del permiso</li>
+</ul>
+<p>Nuestro compromiso será el de cargar la información una vez las herramientas se encuentren de nuevo al aire. Con fines de cumplimiento, se certificará la entrega de la información vía correo electrónico.</p>
+  </div>
+</article>
 
 Los datos e información sobre la biodiversidad de nuestro país son complejos y contienen información taxonómica, geográfica e histórica única, recopilada durante años por científicos, investigadores a través de observaciones o colectas. Esta información es crucial para el correcto entendimiento y gestión de la biodiversidad y los ecosistemas, pero no siempre es fácilmente accesible, o se presenta en formatos que dificultan su interpretación y la interoperabilidad entre distintas fuentes. Actualmente, las organizaciones públicas y privadas quieren gestionar esta información aprovechando los avances tecnológicos, que hoy en día, nos permiten a todos contribuir al conocimiento de nuestra biodiversidad, facilitando de esta manera unas conexiones más robustas entre toda la información.
 
