@@ -22,8 +22,6 @@ composition:
     type: stats
   - data: home.textoAlerta2
     type: floatingText
-  - data: home.splitAlerta
-    type: split
   - data: home.destacados
     type: features
   - data: home.splitActividadPublicacion
