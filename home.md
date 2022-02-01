@@ -20,7 +20,7 @@ composition:
   - type: heroImage # the block type
   - data: home.stats
     type: stats
-  - data: home.alerta
+  - data: home.TextoAlerta
     type: floatingText
   - data: home.destacados
     type: features
