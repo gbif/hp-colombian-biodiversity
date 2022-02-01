@@ -20,14 +20,14 @@ composition:
   - type: heroImage # the block type
   - data: home.stats
     type: stats
+  - data: home.textoAlerta2
+    type: floatingText
   - data: home.splitAlerta
     type: split
   - data: home.destacados
     type: features
   - data: home.splitActividadPublicacion
     type: split
-  - data: home.TextoAlerta
-    type: floatingText
   #- type: latestPosts
   # data: we_do_not_want_any_header # weird hack as the block layout looks for a data element and falls back to the page if none is present
 
