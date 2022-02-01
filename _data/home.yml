@@ -182,5 +182,5 @@ textoAlerta2:
   cta:                # optional
   - text: Ver procedimiento
     href: /post/2022/novedad-certificados-de-reporte/
-    isPrimary: false
+    isPrimary: true
   center: true
