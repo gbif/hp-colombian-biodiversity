@@ -176,11 +176,11 @@ textoAlerta2:
   title: Procedimiento temporal para reportar datos asociados a permisos de recolección
   description: |      # required
     Las herramientas para el reporte de datos asociados a permisos de recolección están en actualización. Consulte esta información si requiere solicitar un certificado. 
-  # background: /assets/images/minga/fondoSeparadorNarino.png
+  background: /assets/images/minga/fondoSeparadorNarino.png
   overlayColor: "#ffffff55"
-  hasWhiteText: true
+  hasWhiteText: false
   cta:                # optional
   - text: Ver procedimiento
-    href: 2022-02-01-novedad-certificados-de-reporte.md
+    href: /post/2022/novedad-certificados-de-reporte/
     isPrimary: false
   center: true
