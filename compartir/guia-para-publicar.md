@@ -15,14 +15,14 @@ toc: true
   </div>
   <div class="message-body">
    <p>Estamos trabajando en la <strong>actualización de las herramientas para el reporte de datos asociados a permisos de recolección</strong>. Este proceso ha tardado más tiempo de lo estimado, por lo cual extendemos nuestras excusas por los inconvenientes presentados.</p>
-<p>Para subsanar la situación, hemos <strong>establecido un procedimiento temporal para dar cumplimiento</strong> al requisito de reporte de información de datos asociados a los permisos de recolección y contratos de acceso a recursos genéticos a través del SiB Colombia.</p>
+<p>Para subsanar la situación, y con fines de dar cumplimiento al requisito de reporte   de datos asociados a los permisos de recolección y los contratos de acceso a recursos genéticos, hemos establecido un procedimiento provisional que certifique, vía correo electrónico y de manera temporal, la entrega de la información.</p>
 <p>Para solicitar un certificado, por favor <strong>enviar al correo <a href="mailto:sib@humboldt.org.co">sib@humboldt.org.co</a> las plantillas a reportar</strong>, junto con la siguiente información:</p>
 <ul>
   <li> Nombre del proyecto a reportar</li>
   <li>Permiso de recolección asociado a la publicación</li>
   <li>Titular del permiso</li>
 </ul>
-<p>Nuestro compromiso será el de cargar la información una vez las herramientas se encuentren de nuevo al aire. Con fines de cumplimiento, se certificará la entrega de la información vía correo electrónico.</p>
+<p>La publicación de los datos se hará posteriormente, una vez las herramientas se encuentren de nuevo al aire; para esto es necesario que se realice la documentación de metadatos. Nuestro compromiso será el de cargar la información, en compensación por la situación presentada.</p>
   </div>
 </div>
 
