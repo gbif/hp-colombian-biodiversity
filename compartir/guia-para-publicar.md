@@ -9,11 +9,11 @@ height: 41vh
 toc: true
 ---
 
-	<div class="notification is-danger">
-  <div class="notification-header">
+<div class="message is-danger">
+  <div class="message-header">
     <p>⚠️ Aviso de actualización de la herramienta de certificados</p>
   </div>
-  <div class="notification-body">
+  <div class="message-body">
    <p>Estamos trabajando en la <strong>actualización de las herramientas para el reporte de datos asociados a permisos de recolección</strong>. Este proceso ha tardado más tiempo de lo estimado, por lo cual extendemos nuestras excusas por los inconvenientes presentados.</p>
 <p>Para subsanar la situación, hemos <strong>establecido un procedimiento temporal para dar cumplimiento</strong> al requisito de reporte de información de datos asociados a los permisos de recolección y contratos de acceso a recursos genéticos a través del SiB Colombia.</p>
 <p>Para solicitar un certificado, por favor <strong>enviar al correo <a href="mailto:sib@humboldt.org.co">sib@humboldt.org.co</a> las plantillas a reportar</strong>, junto con la siguiente información:</p>
