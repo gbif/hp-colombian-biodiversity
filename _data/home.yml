@@ -171,7 +171,7 @@ productExample:
   
   # Aviso actualización CR-SiB
   
-  alerta:
+  TextoAlerta:
   title: "⚠️ Aviso de actualización"
   description: |      # required
     **Procedimiento temporal para reportar datos asociados a permisos de recolección**
@@ -182,8 +182,8 @@ productExample:
     * Permiso de recolección asociado a la publicación
     * Titular del permiso
     Nuestro compromiso será el de cargar la información una vez las herramientas se encuentren de nuevo al aire. Con fines de cumplimiento, se certificará la entrega de la información vía correo electrónico.
-  #background: /assets/theme/img/patterns/wavy-dots.png
+  background: /assets/images/landing_page/FondoRojo.jpg
   #overlayColor: "#ffffff55"
-  hasWhiteText: false
+  hasWhiteText: true
 
 
