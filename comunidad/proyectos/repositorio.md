@@ -6,8 +6,6 @@ background:  https://live.staticflickr.com/6164/6170947918_dc421f3980_b.jpg
 imageLicense: |
   Fotografía de: Luis Alejandro Bernal Romero vía [Flickr](https://flic.kr/p/apiHPL) 
 height: 41vh
-permalink: comunidad/proyectos/repositorio
-
 ---
 El Programa de apoyo al Fortalecimiento de Capacidades (En inglés *CESP, Capacity Enhancement Support Programme*) tiene como objetivo abordar las necesidades de capacidad específicas identificadas por los participantes de GBIF al facilitar la colaboración regional y global.
 
