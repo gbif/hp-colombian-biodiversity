@@ -3777,9 +3777,9 @@ toc: true
 
 |  Vocabulario |  Definición  |
 | ---|--- |
-| Objeto físico | Evidencia física que soporta el registro biológico.<br> Siempre complementa la base del registro (basisOfRecord): PreservedSpecimen, LivingSpecimen, Sample y FossilSpecimen |
+| Objeto físico | Evidencia física que soporta el registro biológico.<br> Siempre complementa la base del registro (basisOfRecord): PreservedSpecimen, LivingSpecimen, MaterialSample y FossilSpecimen |
 | Imagen estática | Una fotografía.<br> Complementa la base del registro (basisOfRecord): MachineObservation |
-| Imagen movimiento | Un video, puede incluir sonido.<br> Complementa la base del registro (basisOfRecord): MachineObservation |
+| Imagen en movimiento | Un video, puede incluir sonido.<br> Complementa la base del registro (basisOfRecord): MachineObservation |
 | Sonido | Registro de audio.<br> Puede complementar la base del registro (basisOfRecord): MachineObservation y HumanObservation |
 | Evento | Observación de los especímenes en campo.<br> Siempre complementa la base del registro (basisOfRecord): HumanObservation |
 |    |    |
