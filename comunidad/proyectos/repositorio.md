@@ -14,14 +14,16 @@ El Programa de apoyo al Fortalecimiento de Capacidades (En inglés *CESP, Capaci
 Las convocatorias anuales de propuestas bajo este programa brindan cofinanciamiento a los participantes de GBIF para proyectos de mejora de capacidades basados en combinaciones de los siguientes tipos de acción:
 
 **1. Actividades de tutoría:** Interacciones entre dos o más participantes donde el objetivo central es la transferencia de información, tecnología, experiencia y mejores prácticas en pequeños grupos.
+
 **2. Apoyo a eventos regionales y talleres de capacitación:** Cursos y talleres con un componente regional (multinacional) para mejorar la capacidad de las personas o redes para contribuir y beneficiarse de GBIF.
+
 **3. Documentación:** Producción de recursos clave de aprendizaje y promoción o su adaptación al contexto nacional o regional (por ejemplo, mediante traducción o incluyendo perspectivas locales/regionales). La Secretaría de GBIF aboga por la primera documentación digital para brindar orientación técnica y apoyar la capacitación y el desarrollo de habilidades en las comunidades de práctica de GBIF. Las características clave de este sistema incluyen documentación estandarizada, actualizaciones de rutina, versiones, traducciones, aportes de la comunidad, revisión por pares y formato de búsqueda.
 
 ## Lista de proyectos
 
 |    |    |
 | ---|--- |
-| Nombre   |[Extender el conocimiento sobre la calidad y publicación de datos de biodiversidad en la comunidad de habla hispana](comunidad/proyectos/cesp/CESP2021-007)    |
+| Nombre   |[Extender el conocimiento sobre la calidad y publicación de datos de biodiversidad en la comunidad de habla hispana](comunidad/proyectos/cesp/CESP2021-007.md)    |
 | Descripción    | El objetivo de este proyecto es aumentar la disponibilidad de datos de biodiversidad de alta calidad de la comunidad de habla hispana a través de la red GBIF   |
 | País líder   |  Argentina  |
 |Socios| Colombia y  Costa Rica| 
@@ -32,7 +34,7 @@ Las convocatorias anuales de propuestas bajo este programa brindan cofinanciamie
 
 |    |    |
 | ---|--- |
-| Nombre   |[Mejorando la calidad de los datos de biodiversidad en América Latina: documentando las mejores prácticas en los flujos de trabajo y ciclos de vida de los datos](/comunidad/proyectos/cesp/CESP2020-018)    |
+| Nombre   |<a href="/comunidad/proyectos/cesp/CESP2020-018" >- Mejorando la calidad de los datos de biodiversidad en América Latina: documentando las mejores prácticas en los flujos de trabajo y ciclos de vida de los datos</a>  |
 | Descripción    | Este proyecto abordará la necesidad de perfeccionar los registros de ocurrencia, al documentar las mejores prácticas para aumentar la calidad de los datos en cada etapa de un flujo de trabajo de datos típico   |
 | País líder   | Colombia   |
 | Socios  |  Chile, México y Argentina  |
