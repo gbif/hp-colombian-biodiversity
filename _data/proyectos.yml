@@ -20,7 +20,7 @@ stats1:
 stats2:
   background: "#ffffff55"
   features:  
-    - title: 5
+    - title: 14
       description: Proyectos CESP
       background: /comunidad/usodedatos/images/Investigacion.png
       #href: https://catalogo.biodiversidad.co/
@@ -44,7 +44,7 @@ tarjetasUso:
       #preTitle:  Editorial # optional
     - title: Proyectos nacionales
       description: |      # required
-       Informes y reportes de la biodiversidad a partir de los datos publicados a través del SiB Colombia.
+       Listado de proyectos realizados en Colombia
       # img required
       background: /comunidad/usodedatos/images/Cifras_plantas2019.PNG
       cta:
@@ -56,9 +56,9 @@ tarjetasUso:
      #preTitle: "Uso en cifras"  # optional
     - title: ProyectosCESP # required
       description: |      # required
-       Cifras destacadas sobre el uso de los datos sobre biodiversidad publicados por nuestra red de socios.
+       Programa de Apoyo a la Mejora de la Capacidad (CESP,por sus siglas en inglés).
       background: /comunidad/usodedatos/images/CifrasUso.png
       cta:
-      - text: ¡Muy Pronto!
-        href:  
+      - text: Ver listado
+        href: /comunidad/proyectos/repositorio
         isPrimary: true
