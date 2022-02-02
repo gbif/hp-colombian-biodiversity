@@ -3,10 +3,10 @@ layout: compose
 permalink: /comunidad/proyectos
 title: Proyectos
 description: |
-   El SiB Colombia facilita datos e información para satisfacer las necesidades en procesos de investigación, educación y toma de decisiones. En esta sección El Equipo Coordinador da los primeros pasos para consolidar el uso de datos sobre biodiversidad.
-background: https://live.staticflickr.com/2132/1496964659_6d2bd87a42_b.jpg
+   El SiB Colombia participa en un gran número de proyectos, tanto nacionales como internacionales, que buscan fortaleces procesos de investigación, educación y toma de decisiones basadas en datos rigurosos y sistemáticos acerca de la bidiversidad. En esta sección encontrará información acercad de estos proyectcos y sus logros.
+background: /comunidad/proyectos/images/background.jpg
 imageLicense: |
-  _Acianthera casapensis_ Fotografía de: Quimbaya vía [Flickr](https://flic.kr/p/3hhkrv)
+  Río Amazonas Fotografía de: Christian Cruzado vía [Flickr](https://flic.kr/p/wruTxZ)
 height: 41vh
 # parallax: true
 # overlayColor: "#ffffffbb" 
@@ -24,6 +24,4 @@ composition:
 
 ---
 
-Anualmente El Equipo Coordinador del SiB Colombia consolida las cifras sobre el uso de los datos. Durante el 2020 se consolidaron las siguientes cifras sobre descarga, consultas y citación a los datos publicados a través del SiB Colombia. 
-
-Las consultas recibidas por el SiB Colombia se pueden clasificar en 3 grupos de acuerdo a su uso, investigación, educación y toma de decisiones. Las siguientes cifras corresponden al porcentaje de consultas respecto al total de consultas(143) resueltas por el EC-SiB durante el 2020.
+Continuamente El Equipo Coordinador del SiB Colombia consolida el inventario de los proyectos de creación de capacidades, tanto nacionales como internacionales, en los que participa y que son parte fundamental de misión de brindar acceso abierto a la información sobre la diversidad biológica del país para la construcción de una sociedad sostenible. En este sitio podrá encontrar información de interés con respecto a esta labor.
