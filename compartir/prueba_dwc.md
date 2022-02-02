@@ -786,7 +786,7 @@ toc: true
 | ---|--- |
 | Definición | El nombre del continente en el que tiene lugar la ubicación. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
-| [Vocabulario controlado](#elem372) | SA<br> AF<br> AS<br> EU<br> NA<br> OC<br> AN |
+| [Vocabulario controlado](#elem372) | América del Sur<br> América del Norte<br> Europa<br> África<br> Asia<br> Oceanía<br> Antártida |
 |    |    |
 
 <a name="elem074">**waterBody** (Cuerpo de agua)</a>
@@ -3847,16 +3847,16 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 
 <a name="elem372">**continent** (Continente)</a>
 
-|  Vocabulario |  Definición  |
-| ---|--- |
-| SA | Sudamérica |
-| AF | África |
-| AS | Asia |
-| EU | Europa |
-| NA | Norteamérica |
-| OC | Oceanía |
-| AN | Antártida |
-|    |    |
+|  Vocabulario |
+| ---|
+| América del Sur |
+| América del Norte |
+| Europa |
+| África |
+| Asia |
+| Oceanía |
+| Antártida |
+|    |
 
 <a name="elem373">**countryCode** (Código del país)</a>
 
