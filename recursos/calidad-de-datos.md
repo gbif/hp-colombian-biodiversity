@@ -21,7 +21,8 @@ Con el fin de que los datos generados influyan en la toma de decisiones, es impo
 
 Nombre | Uso | Descripción
 ------------ | ------------- | -------------
-[OpenRefine](https://openrefine.org/){:target="_blank"} | Estructuración, estandarización y validación | Permite limpiar, transformar y dar formato a los datos, usar servicios web, corrección masiva campos, entre muchas otras.
+[OpenRefine](https://openrefine.org/){:target="_blank"} | Estructuración, estandarización y validación | Permite limpiar, transformar y dar formato a los datos, usar servicios web, corrección masiva campos, entre muchas otras. <br>[Formación - Uso básico](/formacion/laboratorios/OpenRefine){: .button .is-primary}
+<br>[Formación - Rutinas](/formacion/laboratorios/RutinasOpenRefine){: .button .is-primary}
 [Guía para la limpieza de datos sobre biodiversidad con OpenRefine](https://docs.gbif.org/openrefine-guide/3.0/es/){:target="_blank"} | Estructuración, estandarización y validación | Guía de uso de [OpenRefine](https://openrefine.org/){:target="_blank"} para la validación y limpieza de datos sobre biodiversidad.
 [OpenRefine - Guía  básica](http://repository.humboldt.org.co/handle/20.500.11761/35350){:target="_blank"} | Estructuración, estandarización y validación | Guía básica de uso de [OpenRefine](https://openrefine.org/){:target="_blank"} para la validación y limpieza de datos sobre biodiversidad.
 [OpenRefine - Guía  de validación y limpieza de datos sobre biodiversidad](http://repository.humboldt.org.co/handle/20.500.11761/35350){:target="_blank"} | Estructuración, estandarización y validación | Guía de uso de rutinas de calidad de datos implementando en el entorno del software de código abierto [OpenRefine](https://openrefine.org/){:target="_blank"}, y permiten crear flujos de trabajo específicos para cada conjunto de datos (Registros, Listas, Eventos).
