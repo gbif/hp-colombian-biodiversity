@@ -34,7 +34,7 @@ Las convocatorias anuales de propuestas bajo este programa brindan cofinanciamie
 
 |    |    |
 | ---|--- |
-| Nombre   |<a href="/comunidad/proyectos/cesp/CESP2020-018" >- Mejorando la calidad de los datos de biodiversidad en América Latina: documentando las mejores prácticas en los flujos de trabajo y ciclos de vida de los datos</a>  |
+| Nombre   |<a href="/comunidad/proyectos/cesp/CESP2020-018">Mejorando la calidad de los datos de biodiversidad en América Latina: documentando las mejores prácticas en los flujos de trabajo y ciclos de vida de los datos</a>  |
 | Descripción    | Este proyecto abordará la necesidad de perfeccionar los registros de ocurrencia, al documentar las mejores prácticas para aumentar la calidad de los datos en cada etapa de un flujo de trabajo de datos típico   |
 | País líder   | Colombia   |
 | Socios  |  Chile, México y Argentina  |
