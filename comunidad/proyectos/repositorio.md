@@ -97,7 +97,7 @@ ___
 
 |    |    |
 | ---|--- |
-| Nombre   |[Extender las herramientas para mejorar la calidad de los datos de biodiversidad a las comunidades de habla hispana](/comunidad/proyectos/cesp/CESP2019-0013)    |
+| Nombre   |[Extender las herramientas para mejorar la calidad de los datos de biodiversidad a las comunidades de habla hispana](/comunidad/proyectos/cesp/CESP2017-0013)    |
 | Descripción    |El objetivo de este proyecto fue traducir la interfaz y la documentación del Darwin Core Data Migrator Toolkit. Se obtuvo una versión de la herramienta que llena un importante vacío técnico para el numeroso personal de habla hispana en la comunidad de GBIF    |
 | País líder   |  Colombia  |
 | Socio  |   Red VertNet  |
