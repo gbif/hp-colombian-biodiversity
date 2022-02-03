@@ -21,7 +21,7 @@ Las convocatorias anuales de propuestas bajo este programa brindan cofinanciamie
 
 |    |    |
 | ---|--- |
-| Nombre   |[Extender el conocimiento sobre la calidad y publicación de datos de biodiversidad en la comunidad de habla hispana](comunidad/proyectos/cesp/CESP2021-007)    |
+| Nombre   |[Extender el conocimiento sobre la calidad y publicación de datos de biodiversidad en la comunidad de habla hispana](/comunidad/proyectos/cesp/CESP2021-007)    |
 | Descripción    | El objetivo de este proyecto es aumentar la disponibilidad de datos de biodiversidad de alta calidad de la comunidad de habla hispana a través de la red GBIF   |
 | País líder   |  Argentina  |
 |Socios| Colombia y  Costa Rica| 
@@ -32,7 +32,7 @@ Las convocatorias anuales de propuestas bajo este programa brindan cofinanciamie
 
 |    |    |
 | ---|--- |
-| Nombre   |<a href="/comunidad/proyectos/cesp/CESP2020-018">Mejorando la calidad de los datos de biodiversidad en América Latina: documentando las mejores prácticas en los flujos de trabajo y ciclos de vida de los datos</a>  |
+| Nombre   |[Mejorando la calidad de los datos de biodiversidad en América Latina: documentando las mejores prácticas en los flujos de trabajo y ciclos de vida de los datos](/comunidad/proyectos/cesp/CESP2020-018)  |
 | Descripción    | Este proyecto abordará la necesidad de perfeccionar los registros de ocurrencia, al documentar las mejores prácticas para aumentar la calidad de los datos en cada etapa de un flujo de trabajo de datos típico   |
 | País líder   | Colombia   |
 | Socios  |  Chile, México y Argentina  |
