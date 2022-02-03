@@ -19,7 +19,7 @@ Con el fin de que los datos generados influyan en la toma de decisiones, es impo
 
 # Documentos
 
-### Limpieza y estructuración de datos
+## Limpieza y estructuración de datos
 
 |Nombre       | Año   | Descripción|
 |------------ |-------| ---------|
@@ -32,7 +32,7 @@ Con el fin de que los datos generados influyan en la toma de decisiones, es impo
 
 
 
-### Validación de información geográfica
+## Validación de información geográfica
 
 Nombre | Año | Descripción
 ------------ | ------------- | -------------
@@ -41,7 +41,7 @@ Nombre | Año | Descripción
 [Manual de la calculadora de georreferenciación](https://docs.gbif-uat.org/georeferencing-calculator-manual/translation_1.0/es/"){:target="_blank"} | 2020 | La Calculadora de Georreferenciación (Wieczorek & Wieczorek 2020) descrita en este documento, es una herramienta creada para ayudar en la georreferenciación de localidades descriptivas.
 [Protocolo de georreferenciación de localidades](http://repository.humboldt.org.co/handle/20.500.11761/35180){:target="_blank"} | 2016| Define la metodología para la asignación de coordenadas en datos primarios sobre biodiversidad.
 
-### Otros documentos
+## Otros documentos
 
 Nombre | Año | Descripción
 ------------ | ------------- | -------------
@@ -61,7 +61,7 @@ Nombre | Año | Descripción
 
 # Herramientas
 
-### Limpieza y estructuración de datos 
+## Limpieza y estructuración de datos 
 Nombre | Uso | Descripción
 ------------ | ------------- | -------------
 [OpenRefine](https://openrefine.org/){:target="_blank"} | Estructuración, estandarización y validación | Permite limpiar, transformar y dar formato a los datos, usar servicios web, corrección masiva campos, entre muchas otras. <br><br>[Formación - Uso básico](/formacion/laboratorios/OpenRefine){: .button .is-small}|
@@ -70,17 +70,16 @@ Nombre | Uso | Descripción
 [R Project](https://www.r-project.org/){:target="_blank"} | Estructuración, estandarización y validación | Permite limpiar y transformar datos  a través de paquetes que son cargados al software.
 [R Studio](https://rstudio.com/){:target="_blank"} | Extensión de software |  Facilita la visualización de la herramienta R project Integra distintas ventanas funcionales.
 [LifeWatch - Data Services](https://www.lifewatch.be/data-services/){:target="_blank"} | Validación , servicios geográficos y taxonómicos | A través de la conexión con diferentes servicios web la herramienta permite validar formatos, elementos DwC de publicación en OBIS, taxonomía y geografía.
-[IPT - Integrated Publishing Toolkit](/recursos/ipt){:target="_blank"} |Publicación de datos |La Herramienta de Publicación (IPT) de GBIF es una aplicación web de código abierto, disponible de forma gratuita, que facilita la publicación de datos sobre biodiversidad. Durante el proceso de acompañamiento a la publicación de datos, el Equipo Coordinador del SiB Colombia (EC-SiB) le idicará a cada publicador que IPT usar y le facilitará un usuario y contraseña para la documentación de los metadatos.
-<br><br>[Formación - IPT](/formacion/laboratorios/IPT_Metadatos){: .button .is-small}
+[IPT - Integrated Publishing Toolkit](/recursos/ipt){:target="_blank"} |Publicación de datos |La Herramienta de Publicación (IPT) de GBIF es una aplicación web de código abierto, disponible de forma gratuita, que facilita la publicación de datos sobre biodiversidad. Durante el proceso de acompañamiento a la publicación de datos, el Equipo Coordinador del SiB Colombia (EC-SiB) le idicará a cada publicador que IPT usar y le facilitará un usuario y contraseña para la documentación de los metadatos. <br><br>[Formación - IPT](/formacion/laboratorios/IPT_Metadatos){: .button .is-small}
 
 
-### Limpieza de fechas
+## Limpieza de fechas
 
 Nombre | Uso | Descripción
 ------------ | ------------- | -------------
 [Canadensys - Date parsing](https://data.canadensys.net/tools/dates){:target="_blank"} | Estandarización de fechas | Realiza la conversión masiva de fechas al formato ISO8601: AAAA-MM-DD.<br><br>[Formación - Conversión Fechas](/formacion/laboratorios/ConversionFechas){: .button .is-small}
 
-# Validación de nombres y taxonomía
+## Validación de nombres y taxonomía
 
 Nombre | Uso | Descripción
 ------------ | ------------- | -------------
@@ -93,7 +92,7 @@ Nombre | Uso | Descripción
 [GBIF - Name parser](https://www.gbif.org/tools/name-parser){:target="_blank"} | Estandarización de nombres científicos | Separa los nombres científicos en sus distintos componentes a partir del nombre introducido. Permite interpretar la mayoría de nombres científicos y atomizarlos independientemente de su código nomenclatural.
 [Global Names Index](http://gni.globalnames.org/){:target="_blank"} | Validación de nombres científicos | Permite corregir y/o enlazar la información acerca de cualquier taxón por medio de un proceso de "reconciliación" entre los nombres ya que contiene ejemplos de nombres científicos escritos con alguna variación.
 
-### Limpieza geográfica
+## Limpieza geográfica
 
 Nombre | Uso | Descripción
 ------------ | ------------- | -------------
@@ -108,7 +107,7 @@ Nombre | Uso | Descripción
 [GeoNames](http://www.geonames.org/){:target="_blank"} | Validación geográfica | Facilita la consulta de más de 10 millones de nombres geográficos, disponibles para descargar gratuitamente. Permite georreferenciar y confirmar localidades.
 [OBIS map tool](https://obis.org/maptool/){:target="_blank"} | Validación geográfica | Se puede utilizar para geocodificar ubicaciones para  emparejar pares de coordenadas o cadenas de coordenadas en formato WKT. Las cadenas WKT son representaciones textuales de geometrías como puntos, polígonos y líneas.
 [Calculadora Geodésica](http://sumapa.com/geocalc/geocalc.cfm){:target="_blank"} | Conversión y validación geográfica | Permite la conversión o transformación coordenadas en hasta 18 sistemas diferentes.
-[OBIS Plotter](http://iobis.github.io/plotter/){:target="_blank"} | Visualización geográfica | Es una herramienta muy simple para revisar rápidamente puntos en un mapa. Requiere de entrada un formato de texto delimitado (por ejemplo, CSV o pegado de Excel) y que los datos tengan una columna de longitud decimal: 'decimalLongitude'; y latitud decimal: 'decimalLatitude' para las corrdenadas . Así, es posible seleccionar un campo de interés a partir de la tabla original para cambiar el color de los puntos y la etiqueta que se muestra cuando se hace clic en un punto específico.<br>[Formación - OBIS Plotter](/formacion/laboratorios/SisualizacionOBIS_Plotter){: .button .is-small}
+[OBIS Plotter](http://iobis.github.io/plotter/){:target="_blank"} | Visualización geográfica | Es una herramienta muy simple para revisar rápidamente puntos en un mapa. Requiere de entrada un formato de texto delimitado (por ejemplo, CSV o pegado de Excel) y que los datos tengan una columna de longitud decimal: 'decimalLongitude'; y latitud decimal: 'decimalLatitude' para las corrdenadas . Así, es posible seleccionar un campo de interés a partir de la tabla original para cambiar el color de los puntos y la etiqueta que se muestra cuando se hace clic en un punto específico.<br><br>[Formación - OBIS Plotter](/formacion/laboratorios/SisualizacionOBIS_Plotter){: .button .is-small}
 [geo:truc ](http://www.geotruc.net/?hl=es_ES){:target="_blank"} | Visualización geográfica | Permite obtener las coordenadas de un punto seleccionado en el mapa a través de google maps.
 [CartoDB ](https://carto.com/){:target="_blank"} | Validación y visualización geográfica | Permite importar y visualizar datos geoespaciales mediante la creación de mapas dinámicos.
 [infoXY](http://splink.cria.org.br/infoxy?criaLANG=en){:target="_blank"} | Validación geográfica |Al ingresar coordenadas decimales la herramienta retorna información sobre cada punto, como el nombre del país, departamento y otras divisiones politico-administrativas. Si el punto cae en el mar la herramienta calcula la distancia más cercana a la costa, indicando el nombre del país.
