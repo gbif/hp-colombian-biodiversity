@@ -32,7 +32,7 @@ La región más amplia de América Latina también ha reconocido la necesidad de
 * [Canadensys](http://www.gbif.org/node/4db9cfd2-1191-4b9d-b579-0b68ceabd968){:target="_blank"}
 * [GBIF Argentina](http://www.sndb.mincyt.gob.ar/){:target="_blank"}
 * [GBIF Brasil](https://www.sibbr.gov.br/){:target="_blank"}
-* [GBIF Uruguay](https://www.gbif.org/country/UY/about)* 
+* [GBIF Uruguay](https://www.gbif.org/country/UY/about)/){:target="_blank"}
 
 ### Eventos y noticias
 
