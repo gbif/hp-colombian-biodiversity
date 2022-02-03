@@ -34,7 +34,7 @@ Con el fin de que los datos generados influyan en la toma de decisiones, es impo
 
 ### Validación de información geográfica
 
-Nombre | Uso | Descripción
+Nombre | Año | Descripción
 ------------ | ------------- | -------------
 [Guía de buenas prácticas de georreferenciación](https://docs.gbif-uat.org/georeferencing-best-practices/translation_1.0/es/){:target="_blank"} | 2020 |La Guía de buenas prácticas de georreferenciación provee los lineamientos para la correcta georreferenciación. Aunque está dirigida específicamente a registros biológicos, los conceptos y métodos presentados aquí pueden ser igual de útiles en otras disciplinas.
 [Guía rápida de georreferenciación](https://docs.gbif-uat.org/georeferencing-quick-reference-guide/translation_1.0/es/){:target="_blank"} | 2020 | Este documento ofrece orientaciones sobre cómo georreferenciar usando el método radio punto. También, proporciona los métodos para determinar los límites de entidades geográficas, los cuales son la base del método de forma geométrica en georreferenciación
@@ -51,7 +51,7 @@ Nombre | Año | Descripción
 
 
 # Cursos
-Nombre | Uso | Descripción
+Nombre | Año | Descripción
 ------------ | ------------- | -------------
 [Ciclo de formación virtual](/formacion/laboratorios/) | 2021 |Los laboratorios de datos diseñados e instruidos por el EC-SiB te ayudarán a afianzar tus habilidades en el manejo y publicación de datos a través de SiB Colombia.
 [Introducción a GBIF](https://docs.gbif.org/course-introduction-to-gbif/es/){:target="_blank"} | 2021 |Este curso proporciona una introducción a GBIF, los datos disponibles en el portal de GBIF, cómo acceder a esos datos, e información sobre como participar en GBIF y su comunidad de práctica.
@@ -64,8 +64,8 @@ Nombre | Uso | Descripción
 ### Limpieza y estructuración de datos 
 Nombre | Uso | Descripción
 ------------ | ------------- | -------------
-[OpenRefine](https://openrefine.org/){:target="_blank"} | Estructuración, estandarización y validación | Permite limpiar, transformar y dar formato a los datos, usar servicios web, corrección masiva campos, entre muchas otras. <br><br>[Formación - Uso básico](/formacion/laboratorios/OpenRefine){: .button .is-small}
-[OpenRefine - Scripts for biodiversity Data Quality ](https://github.com/SIB-Colombia/data-quality-open-refine){:target="_blank"} | Estructuración, estandarización y validación | Repositorio de rutinas de calidad de datos implementadas en el software de código abierto [OpenRefine](https://openrefine.org/){:target="_blank"}, basado en herramientas informáticas libres, gratuitas y fáciles de utilizar.<br><br>[Formación - Rutinas](/formacion/laboratorios/RutinasOpenRefine){: .button .is-small}
+[OpenRefine](https://openrefine.org/){:target="_blank"} | Estructuración, estandarización y validación | Permite limpiar, transformar y dar formato a los datos, usar servicios web, corrección masiva campos, entre muchas otras. <br><br>[Formación - Uso básico](/formacion/laboratorios/OpenRefine){: .button .is-small}|
+[OpenRefine - Scripts for biodiversity Data Quality](https://github.com/SIB-Colombia/data-quality-open-refine){:target="_blank"} | Estructuración, estandarización y validación | Repositorio de rutinas de calidad de datos implementadas en el software de código abierto  [OpenRefine](https://openrefine.org/){:target="_blank"}, basado en herramientas informáticas libres, gratuitas y fáciles de utilizar.<br><br>[Formación - Rutinas](/formacion/laboratorios/RutinasOpenRefine){: .button .is-small}
 [Data Validator](https://www.gbif.org/es/tools/data-validator){:target="_blank"} | Estructuración, estandarización y validación | Detecta posibles problemas en la estructura y contenido de los conjuntos de datos, mejorando la calidad de estos para ser publicados a través del SiB Colombia, GBIF y OBIS.(/formacion/laboratorios/DataValidator){: .button .is-small}
 [R Project](https://www.r-project.org/){:target="_blank"} | Estructuración, estandarización y validación | Permite limpiar y transformar datos  a través de paquetes que son cargados al software.
 [R Studio](https://rstudio.com/){:target="_blank"} | Extensión de software |  Facilita la visualización de la herramienta R project Integra distintas ventanas funcionales.
