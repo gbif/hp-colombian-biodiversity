@@ -10,35 +10,20 @@ Este proyecto aplicó el estándar Plinian Core como un medio para aumentar la c
 
 Durante el curso del proyecto se desarrolló una nueva versión del [Modelo Abstracto Básico de Plinian](https://github.com/PlinianCore/Documentation/wiki){:target="_blank"}, se desarrollaron [vocabularios para términos clave](https://github.com/PlinianCore/Documentation/wiki/PlinianCore_Terms){:target="_blank"} y se publicaron conjuntos de datos piloto para probar los nuevos elementos del estándar.  
 
-**Financiación:** €7.000.
-
-**Cofinanciación:** 
-
-€7.000
-
-**Duración:**
-
-Duración 1 noviembre 2014 - 1 octubre 2015
-
-**Programa:** 
-
-[Programa de apoyo a la mejora de capacidades (CESP)](https://www.gbif.org/programme/82219){:target="_blank"}
-
-**Financiado por:** [GBIF](http://www.gbif.org/){:target="_blank"}.
-
-
-**Cofinanciado por:**
-
-* [GBIF España](http://www.gbif.es/){:target="_blank"}
-* [SiB Colombia](https://biodiversidad.co/)
-* [INBio](http://www.inbio.ac.cr/en/){:target="_blank"}
-* [Universidade de São Paulo Brazil](http://www5.usp.br/english/?lang=en){:target="_blank"}
-* [GBIF Mexico](http://www.conabio.gob.mx/){:target="_blank"}
+**Financiación:** €7.000.  
+**Cofinanciación:** €7.000.  
+**Duración:** Duración 1 noviembre 2014 - 1 octubre 2015  
+**Programa:** [Programa de apoyo a la mejora de capacidades (CESP)](https://www.gbif.org/programme/82219){:target="_blank"}.  
+**Financiado por:** [GBIF](http://www.gbif.org/){:target="_blank"}.  
+**Cofinanciado por:**  
+* [GBIF España](http://www.gbif.es/){:target="_blank"}.
+* [SiB Colombia](https://biodiversidad.co/).
+* [INBio](http://www.inbio.ac.cr/en/){:target="_blank"}.
+* [Universidade de São Paulo Brazil](http://www5.usp.br/english/?lang=en){:target="_blank"}.
+* [GBIF Mexico](http://www.conabio.gob.mx/){:target="_blank"}.  
 
 **Líder de proyecto:** [GBIF México](https://www.gob.mx/conabio){:target="_blank"}.
-
 **Socios:**
-
 * [GBIF España](http://www.gbif.es/){:target="_blank"}.
 * [SiB Colombia](https://www.biodiversidad.co).
 * [INBio](http://www.inbio.ac.cr/en/){:target="_blank"}.
@@ -47,11 +32,11 @@ Duración 1 noviembre 2014 - 1 octubre 2015
 
 ### Resultados
 
-- [Informe final del proyecto de mentoring Plinian Core](https://assets.ctfassets.net/uo17ejk9rkwj/yeO8DSoeJwsEgucaw6GgW/5aa17da411a4de4efdce132ca6201a70/Final_report_of_the_Plinian_Core_mentoring_project_-_CESP_2014.pdf){:target="_blank"}.
-- [Mejores prácticas registradas del proyecto de mentoría Plinian Core](https://assets.ctfassets.net/uo17ejk9rkwj/5JFG2JP3lCOiuSMEmkkWmQ/111a020d0fc71b6b8685f71f671d36bd/Best_practice_document_from_the_Plinian_Core_mentoring_project_-_CESP_2014.pdf){:target="_blank.
+- [Informe final](https://assets.ctfassets.net/uo17ejk9rkwj/yeO8DSoeJwsEgucaw6GgW/5aa17da411a4de4efdce132ca6201a70/Final_report_of_the_Plinian_Core_mentoring_project_-_CESP_2014.pdf){:target="_blank"}.
+- [Mejores prácticas registradas](https://assets.ctfassets.net/uo17ejk9rkwj/5JFG2JP3lCOiuSMEmkkWmQ/111a020d0fc71b6b8685f71f671d36bd/Best_practice_document_from_the_Plinian_Core_mentoring_project_-_CESP_2014.pdf){:target="_blank}.
 
 ### Eventos y noticias
 
-1. - [Reunión del proyecto de mentoría Plinian Core](https://www.gbif.org/event/82244/meeting-of-the-plinian-core-mentoring-project){:target="_blank"}
+- [Reunión del proyecto de mentoría Plinian Core](https://www.gbif.org/event/82244/meeting-of-the-plinian-core-mentoring-project){:target="_blank"}
 - [GBIF anuncia a los beneficiarios de subvenciones de mejora de capacidades 2014](https://www.gbif.org/news/82364/gbif-announces-2014-capacity-enhancement-grant-recipients){:target="_blank"}
 
