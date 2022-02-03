@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  "Taller de documentación digital: Vinculación de datos de biodiversidad, publicaciones e imágenes"
-permalink: cesp/CESP2014-DOCUMENTACION-DIGITAL
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 ---
 
