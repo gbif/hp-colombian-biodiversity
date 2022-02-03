@@ -46,5 +46,5 @@ Esta iniciativa regional busca abordar la calidad de los datos paso a paso en to
 
 ### Eventos y noticias
 
-- [GBIF anuncia a los beneficiarios de subvenciones de mejora de capacidad 2014](https://www.gbif.org/news/82364/gbif-announces-2014-capacity-enhancement-grant-recipients){:target="_blank"}
+- [GBIF anuncia a los beneficiarios de subvenciones de mejora de capacidad 2014](https://www.gbif.org/news/82364/gbif-announces-2014-capacity-enhancement-grant-recipients){:target="_blank"}.
 - [Post del Taller de calidad de datos de Bogotá](https://biodiversidad.co/post/2014/taller-calidad-datos-primarios/).
