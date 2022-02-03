@@ -21,7 +21,7 @@ Las convocatorias anuales de propuestas bajo este programa brindan cofinanciamie
 
 |    |    |
 | ---|--- |
-| Nombre   |[Extender el conocimiento sobre la calidad y publicación de datos de biodiversidad en la comunidad de habla hispana](comunidad/proyectos/cesp/CESP2021-007.md)    |
+| Nombre   |[Extender el conocimiento sobre la calidad y publicación de datos de biodiversidad en la comunidad de habla hispana](comunidad/proyectos/cesp/CESP2021-007)    |
 | Descripción    | El objetivo de este proyecto es aumentar la disponibilidad de datos de biodiversidad de alta calidad de la comunidad de habla hispana a través de la red GBIF   |
 | País líder   |  Argentina  |
 |Socios| Colombia y  Costa Rica| 
