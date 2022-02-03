@@ -47,7 +47,7 @@ Los documentos, presentaciones y videos utilizados en el taller están disponibl
 - [Documentos, presentaciones y videos del taller](http://www.recibio.net/taller-i3b-documentacion-digital/?postTabs=2){:target="_blank"}
 
 
-## Eventos y noticias
+### Eventos y noticias
 
 - [Taller I3B sobre documentación digital: vinculando datos de biodiversidad, publicaciones e imágenes](https://www.gbif.org/event/82239/i3b-workshop-on-digital-documentation-linking-biodiversity-data-publications-and-images){:target="_blank"}
 - [Taller I3B – Documentación digital en biodiversidad
