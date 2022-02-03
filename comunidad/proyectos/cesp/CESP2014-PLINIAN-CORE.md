@@ -10,12 +10,18 @@ Este proyecto aplicó el estándar Plinian Core como un medio para aumentar la c
 
 Durante el curso del proyecto se desarrolló una nueva versión del [Modelo Abstracto Básico de Plinian](https://github.com/PlinianCore/Documentation/wiki){:target="_blank"}, se desarrollaron [vocabularios para términos clave](https://github.com/PlinianCore/Documentation/wiki/PlinianCore_Terms){:target="_blank"} y se publicaron conjuntos de datos piloto para probar los nuevos elementos del estándar.  
 
-**Financiación:** €7.000.  
-**Cofinanciación:** €7.000.  
-**Duración:** Duración 1 noviembre 2014 - 1 octubre 2015.  
-**Programa:** [Programa de apoyo a la mejora de capacidades (CESP)](https://www.gbif.org/programme/82219){:target="_blank"}.  
-**Financiado por:** [GBIF](http://www.gbif.org/){:target="_blank"}.  
-**Cofinanciado por:**  
+**Financiación:** €7.000.
+
+**Cofinanciación:** €7.000.
+
+**Duración:** Duración 1 noviembre 2014 - 1 octubre 2015.
+
+**Programa:** [Programa de apoyo a la mejora de capacidades (CESP)](https://www.gbif.org/programme/82219){:target="_blank"}.
+
+**Financiado por:** [GBIF](http://www.gbif.org/){:target="_blank"}.
+
+**Cofinanciado por:**
+
 * [GBIF España](http://www.gbif.es/){:target="_blank"}.
 * [SiB Colombia](https://biodiversidad.co/).
 * [INBio](https://inbio.ac.cr/){:target="_blank"}.
@@ -23,10 +29,12 @@ Durante el curso del proyecto se desarrolló una nueva versión del [Modelo Abst
 * [GBIF Mexico](http://www.conabio.gob.mx/){:target="_blank"}.  
 
 **Líder de proyecto:** [GBIF México](https://www.gob.mx/conabio){:target="_blank"}.
+
 **Socios:**
+
 * [GBIF España](http://www.gbif.es/){:target="_blank"}.
 * [SiB Colombia](https://www.biodiversidad.co).
-* [INBio](http://www.inbio.ac.cr/en/){:target="_blank"}.
+* [INBio](https://inbio.ac.cr/){:target="_blank"}.
 * [Universidade de São Paulo Brazil](http://www5.usp.br/english/?lang=en){:target="_blank"}.
 * [GBIF Costa Rica](http://biodiversidad.go.cr/){:target="_blank"}.
 
