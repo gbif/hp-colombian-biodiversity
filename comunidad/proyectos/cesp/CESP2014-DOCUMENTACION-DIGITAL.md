@@ -23,9 +23,9 @@ Los documentos, presentaciones y videos utilizados en el taller están disponibl
 
 **Financiado por:** [GBIF](http://www.gbif.org/){:target="_blank"}
 
-**Cofinanciado por:** [CYTED - Programa Iberoamericano de ciencia y technologia para el desarrollo](http://www.cyted.org/){:target="_blank"}
+**Cofinanciado por:** [CYTED - Programa Iberoamericano de ciencia y tecnologia para el desarrollo](http://www.cyted.org/){:target="_blank"}
 
-**Líder de proyecto:**: [GBIF Ciencia y Tecnología para el Desarrollo](https://www.gbif.org/country/ES/about){:target="_blank"}
+**Líder de proyecto:** [GBIF Ciencia y Tecnología para el Desarrollo](https://www.gbif.org/country/ES/about){:target="_blank"}
 
 **Socios:**
 
