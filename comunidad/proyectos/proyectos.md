@@ -3,7 +3,7 @@ layout: compose
 permalink: /comunidad/proyectos
 title: Proyectos
 description: |
-   El SiB Colombia participa en un gran número de proyectos, tanto nacionales como internacionales, que buscan fortalecer procesos de investigación, educación y toma de decisiones basadas en datos rigurosos y sistemáticos acerca de la biodiversidad. En esta sección encontrará información acercad de estos proyectcos y de sus logros.
+   El SiB Colombia participa en un gran número de proyectos, tanto nacionales como internacionales, que buscan fortalecer procesos de investigación, educación y toma de decisiones.
 background: /comunidad/proyectos/images/proyectos-fondo8.jpg
 imageLicense: |
   Tortoise Beetle Fotografía de: Yogendra Joshi vía [Flickr](https://flic.kr/p/XVxJSt)
