@@ -1,6 +1,6 @@
 ---
 layout: heroImage
-title: Inventario proyectos SiB Colombia 
+title: Proyectos CESP de los que hace parte SiB Colombia 
 description: Proyectos internacionales
 background:  https://live.staticflickr.com/6164/6170947918_dc421f3980_b.jpg
 imageLicense: |
