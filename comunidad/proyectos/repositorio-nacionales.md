@@ -1,10 +1,10 @@
 ---
 layout: heroImage
-title: Repositorio proyectos nacionales SiB Colombia 
-description: Proyectos internacionales
-background:  /comunidad/proyectos/images/proyectos-fondo2.jpg
+title: Proyectos nacionales de los que hace parte SiB Colombia 
+description: Proyectos nacionales
+background:  /comunidad/proyectos/images/tree-fern.jpg
 imageLicense: |
-  Fotografía de: Luis Alejandro Bernal Romero vía [Flickr](https://flic.kr/p/apiHPL) 
+  Fotografía de: Keith Ewing vía [Flickr](https://flic.kr/p/nZ8oiX) 
 height: 41vh
 permalink: comunidad/proyectos/repositorio-nacionales
 
