@@ -51,26 +51,28 @@ Nombre | Año | Descripción
 
 
 # Cursos
+
 Nombre | Año | Descripción
-|------------ | ------------- | -------------|
-|[Ciclo de formación virtual](/formacion/laboratorios/) | 2021 |Los laboratorios de datos diseñados e instruidos por el EC-SiB te ayudarán a afianzar tus habilidades en el manejo y publicación de datos a través de SiB Colombia.
-|[Introducción a GBIF](https://docs.gbif.org/course-introduction-to-gbif/es/){:target="_blank"} | 2021 |Este curso proporciona una introducción a GBIF, los datos disponibles en el portal de GBIF, cómo acceder a esos datos, e información sobre como participar en GBIF y su comunidad de práctica.
-|[Curso de Movilización de Datos sobre Biodiversidad](https://docs.gbif.org/course-introduction-to-gbif/es/){:target="_blank"} | 2021 |Este curso permitirá a los participantes planificar e implementar de manera eficaz los esfuerzos de movilización de datos de biodiversidad utilizando estándares aceptados por la comunidad. Su objetivo es aumentar el volumen, la riqueza y la calidad de los datos publicados a través de la red GBIF.
+------------ | ------------- | -------------
+[Ciclo de formación virtual](/formacion/laboratorios/) | 2021 |Los laboratorios de datos diseñados e instruidos por el EC-SiB te ayudarán a afianzar tus habilidades en el manejo y publicación de datos a través de SiB Colombia.
+[Introducción a GBIF](https://docs.gbif.org/course-introduction-to-gbif/es/){:target="_blank"} | 2021 |Este curso proporciona una introducción a GBIF, los datos disponibles en el portal de GBIF, cómo acceder a esos datos, e información sobre como participar en GBIF y su comunidad de práctica.
+[Curso de Movilización de Datos sobre Biodiversidad](https://docs.gbif.org/course-introduction-to-gbif/es/){:target="_blank"} | 2021 |Este curso permitirá a los participantes planificar e implementar de manera eficaz los esfuerzos de movilización de datos de biodiversidad utilizando estándares aceptados por la comunidad. Su objetivo es aumentar el volumen, la riqueza y la calidad de los datos publicados a través de la red GBIF.
 
 
 
 # Herramientas
 
 ## Limpieza y estructuración de datos 
+
 Nombre | Uso | Descripción
-|------------ | ------------- | -------------|
-|[OpenRefine](https://openrefine.org/){:target="_blank"} | Estructuración, estandarización y validación | Permite limpiar, transformar y dar formato a los datos, usar servicios web, corrección masiva campos, entre muchas otras. <br><br>[Formación - Uso básico](/formacion/laboratorios/OpenRefine){: .button .is-small}
-|[OpenRefine - Scripts for biodiversity Data Quality](https://github.com/SIB-Colombia/data-quality-open-refine){:target="_blank"} | Estructuración, estandarización y validación | Repositorio de rutinas de calidad de datos implementadas en el software de código abierto  [OpenRefine](https://openrefine.org/){:target="_blank"}, basado en herramientas informáticas libres, gratuitas y fáciles de utilizar.<br><br>[Formación - Rutinas](/formacion/laboratorios/RutinasOpenRefine){: .button .is-small}
-|[Data Validator](https://www.gbif.org/es/tools/data-validator){:target="_blank"} | Estructuración, estandarización y validación | Detecta posibles problemas en la estructura y contenido de los conjuntos de datos, mejorando la calidad de estos para ser publicados a través del SiB Colombia, GBIF y OBIS.(/formacion/laboratorios/DataValidator){: .button .is-small}
-|[R Project](https://www.r-project.org/){:target="_blank"} | Estructuración, estandarización y validación | Permite limpiar y transformar datos  a través de paquetes que son cargados al software.
-|[R Studio](https://rstudio.com/){:target="_blank"} | Extensión de software |  Facilita la visualización de la herramienta R project Integra distintas ventanas funcionales.
-|[LifeWatch - Data Services](https://www.lifewatch.be/data-services/){:target="_blank"} | Validación , servicios geográficos y taxonómicos | A través de la conexión con diferentes servicios web la herramienta permite validar formatos, elementos DwC de publicación en OBIS, taxonomía y geografía.
-|[IPT - Integrated Publishing Toolkit](/recursos/ipt){:target="_blank"} |Publicación de datos |La Herramienta de Publicación (IPT) de GBIF es una aplicación web de código abierto, disponible de forma gratuita, que facilita la publicación de datos sobre biodiversidad. Durante el proceso de acompañamiento a la publicación de datos, el Equipo Coordinador del SiB Colombia (EC-SiB) le idicará a cada publicador que IPT usar y le facilitará un usuario y contraseña para la documentación de los metadatos. <br><br>[Formación - IPT](/formacion/laboratorios/IPT_Metadatos){: .button .is-small}|
+------------ | ------------- | -------------
+[OpenRefine](https://openrefine.org/){:target="_blank"} | Estructuración, estandarización y validación | Permite limpiar, transformar y dar formato a los datos, usar servicios web, corrección masiva campos, entre muchas otras. <br><br>[Formación - Uso básico](/formacion/laboratorios/OpenRefine){: .button .is-small}
+[OpenRefine - Scripts for biodiversity Data Quality](https://github.com/SIB-Colombia/data-quality-open-refine){:target="_blank"} | Estructuración, estandarización y validación | Repositorio de rutinas de calidad de datos implementadas en el software de código abierto [OpenRefine](https://openrefine.org/){:target="_blank"}, basado en herramientas informáticas libres, gratuitas y fáciles de utilizar.<br><br>[Formación - Rutinas](/formacion/laboratorios/RutinasOpenRefine){: .button .is-small}
+[Data Validator](https://www.gbif.org/es/tools/data-validator){:target="_blank"} | Estructuración, estandarización y validación | Detecta posibles problemas en la estructura y contenido de los conjuntos de datos, mejorando la calidad de estos para ser publicados a través del SiB Colombia, GBIF y OBIS.(/formacion/laboratorios/DataValidator){: .button .is-small}
+[R Project](https://www.r-project.org/){:target="_blank"} | Estructuración, estandarización y validación | Permite limpiar y transformar datos  a través de paquetes que son cargados al software.
+[R Studio](https://rstudio.com/){:target="_blank"} | Extensión de software |  Facilita la visualización de la herramienta R project Integra distintas ventanas funcionales.
+[LifeWatch - Data Services](https://www.lifewatch.be/data-services/){:target="_blank"} | Validación , servicios geográficos y taxonómicos | A través de la conexión con diferentes servicios web la herramienta permite validar formatos, elementos DwC de publicación en OBIS, taxonomía y geografía.
+[IPT - Integrated Publishing Toolkit](/recursos/ipt){:target="_blank"} |Publicación de datos |La Herramienta de Publicación (IPT) de GBIF es una aplicación web de código abierto, disponible de forma gratuita, que facilita la publicación de datos sobre biodiversidad. Durante el proceso de acompañamiento a la publicación de datos, el Equipo Coordinador del SiB Colombia (EC-SiB) le idicará a cada publicador que IPT usar y le facilitará un usuario y contraseña para la documentación de los metadatos. <br><br>[Formación - IPT](/formacion/laboratorios/IPT_Metadatos){: .button .is-small}
 
 
 ## Limpieza de fechas
@@ -111,9 +113,6 @@ Nombre | Uso | Descripción
 [geo:truc ](http://www.geotruc.net/?hl=es_ES){:target="_blank"} | Visualización geográfica | Permite obtener las coordenadas de un punto seleccionado en el mapa a través de google maps.
 [CartoDB ](https://carto.com/){:target="_blank"} | Validación y visualización geográfica | Permite importar y visualizar datos geoespaciales mediante la creación de mapas dinámicos.
 [infoXY](http://splink.cria.org.br/infoxy?criaLANG=en){:target="_blank"} | Validación geográfica |Al ingresar coordenadas decimales la herramienta retorna información sobre cada punto, como el nombre del país, departamento y otras divisiones politico-administrativas. Si el punto cae en el mar la herramienta calcula la distancia más cercana a la costa, indicando el nombre del país.
-
-
-
 
 
 
