@@ -4,9 +4,9 @@ permalink: /comunidad/proyectos
 title: Proyectos
 description: |
    El SiB Colombia participa en un gran número de proyectos, tanto nacionales como internacionales, que buscan fortaleces procesos de investigación, educación y toma de decisiones basadas en datos rigurosos y sistemáticos acerca de la bidiversidad. En esta sección encontrará información acercad de estos proyectcos y sus logros.
-background: /comunidad/proyectos/images/proyectos-fondo6.jpg
+background: /comunidad/proyectos/images/proyectos-fondo7.jpg
 imageLicense: |
-  Río Amazonas Fotografía de: Christian Cruzado vía [Flickr](https://flic.kr/p/wruTxZ)
+  Tortoise Beetle Fotografía de: Yogendra Joshi vía [Flickr](https://flic.kr/p/XVxJSt)
 height: 41vh
 # parallax: true
 # overlayColor: "#ffffffbb" 
