@@ -49,7 +49,7 @@ tarjetasUso:
       background: /comunidad/proyectos/images/proyectos-nacionales.png
       cta:
       - text: Ver todos
-        href: 
+        href: /comunidad/proyectos/repositorio-nacionales
         isPrimary: true    
       
       
@@ -60,5 +60,5 @@ tarjetasUso:
       background: /comunidad/proyectos/images/proyectos-cesp.png
       cta:
       - text: Ver todos
-        href: /comunidad/proyectos/repositorio
+        href: /comunidad/proyectos/repositorio-cesp
         isPrimary: true
