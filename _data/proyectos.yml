@@ -33,7 +33,7 @@ stats2:
       description: Proyectos CESP en progreso
       background: /comunidad/usodedatos/images/Consulta.png
       #href: /data
-      - title: 4
+    - title: 4
       description: Proyectos CESP liderados por SiB Colombia
       background: /comunidad/usodedatos/images/Citacion.png
       #href: /data
