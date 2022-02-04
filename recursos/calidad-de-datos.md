@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 title: Calidad de datos
-description: Herramientas para la validación y limpieza de los datos que permiten asegurar el uso de los datos por una amplia variedad de audiencias.
+description: Documentos, herramientas y cursos para la validación y limpieza de datos que permiten asegurar su uso por una amplia variedad de audiencias.
 background: https://static.inaturalist.org/photos/20946687/large.jpg?1530983172
 imageLicense: |
   Salamandra Manchada Fotografía de: Andrés Forero vía [Flickr](https://colombia.inaturalist.org/observations/14136879)
