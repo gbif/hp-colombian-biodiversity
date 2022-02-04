@@ -23,7 +23,7 @@ stats1:
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
     - title: 9999
       description: Proyectos con contrapartidas
-      background: /comunidad/usodedatos/images//Decisiones.png
+      background: /comunidad/usodedatos/images/Decisiones.png
       #href: https://www.gbif.org/publisher/search?country=CO 
    
 stats2:
