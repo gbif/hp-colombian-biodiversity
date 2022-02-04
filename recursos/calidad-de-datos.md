@@ -17,48 +17,6 @@ Con el fin de que los datos generados influyan en la toma de decisiones, es impo
 
 
 
-# Documentos
-
-## Limpieza y estructuración de datos
-
-|Nombre       | Año   | Descripción|
-|------------ |-------| ---------|
-|[Guía para la limpieza de datos sobre biodiversidad con OpenRefine](https://docs.gbif.org/openrefine-guide/3.0/es/){:target="_blank"}|2021|Guía de uso de [OpenRefine](https://openrefine.org/){:target="_blank"} para la validación y limpieza de datos sobre biodiversidad.
-|[OpenRefine - Guía  básica](http://repository.humboldt.org.co/handle/20.500.11761/35350){:target="_blank"} |2020| Guía básica de uso de [OpenRefine](https://openrefine.org/){:target="_blank"} para la validación y limpieza de datos sobre biodiversidad.|
-|[OpenRefine - Guía  de validación y limpieza de datos sobre biodiversidad](http://repository.humboldt.org.co/handle/20.500.11761/35350){:target="_blank"} |2020| Guía de uso de rutinas de calidad de datos implementando en el entorno del software de código abierto [OpenRefine](https://openrefine.org/){:target="_blank"}, y permiten crear flujos de trabajo específicos para cada conjunto de datos (Registros, Listas, Eventos).|
-|[OpenRefine - Guía  de validación y limpieza de datos sobre biodiversidad](http://repository.humboldt.org.co/handle/20.500.11761/35350){:target="_blank"} | 2020 | Guía de uso de rutinas de calidad de datos implementando en el entorno del software de código abierto [OpenRefine](https://openrefine.org/){:target="_blank"}, y permiten crear flujos de trabajo específicos para cada conjunto de datos (Registros, Listas, Eventos).|
-|[Calidad de Datos Guía de herramientas para mejorar los datos primarios de biodiversidad](http://repository.humboldt.org.co/handle/20.500.11761/35351){:target="_blank"} |2015| Este documento es una recopilación de las diversas herramientas y prácticas que intentan facilitar el proceso de dar calidad a los datos primarios sobre biodiversidad a través de distintas metodologías. |
-|[Principios de calidad de datos](https://www.gbif.org/document/80509/principles-of-data-quality){:target="_blank"} |2005| Principios de calidad de datos y mejores practicas aplicables a datos primarios sobre biodiversidad en sus compenentes, taxonómicos, temporales y geográficos.|
-
-
-
-## Validación de información geográfica
-
-Nombre | Año | Descripción
------------- | ------------- | -------------
-[Guía de buenas prácticas de georreferenciación](https://docs.gbif-uat.org/georeferencing-best-practices/translation_1.0/es/){:target="_blank"} | 2020 |La Guía de buenas prácticas de georreferenciación provee los lineamientos para la correcta georreferenciación. Aunque está dirigida específicamente a registros biológicos, los conceptos y métodos presentados aquí pueden ser igual de útiles en otras disciplinas.
-[Guía rápida de georreferenciación](https://docs.gbif-uat.org/georeferencing-quick-reference-guide/translation_1.0/es/){:target="_blank"} | 2020 | Este documento ofrece orientaciones sobre cómo georreferenciar usando el método radio punto. También, proporciona los métodos para determinar los límites de entidades geográficas, los cuales son la base del método de forma geométrica en georreferenciación
-[Manual de la calculadora de georreferenciación](https://docs.gbif-uat.org/georeferencing-calculator-manual/translation_1.0/es/"){:target="_blank"} | 2020 | La Calculadora de Georreferenciación (Wieczorek & Wieczorek 2020) descrita en este documento, es una herramienta creada para ayudar en la georreferenciación de localidades descriptivas.
-[Protocolo de georreferenciación de localidades](http://repository.humboldt.org.co/handle/20.500.11761/35180){:target="_blank"} | 2016| Define la metodología para la asignación de coordenadas en datos primarios sobre biodiversidad.
-
-## Otros documentos
-
-Nombre | Año | Descripción
------------- | ------------- | -------------
-[Buenas prácticas para generalizar datos de especies sensibles](https://docs.gbif-uat.org/sensitive-species-best-practices/translation_master/es/) | 2021 |El objetivo de este documento es proporcionar las buenas prácticas (o las buenas prácticas actuales) para tratar los datos de presencia de especies sensibles, y orientar sobre cómo poner a disposición la mayor cantidad de datos sin que la especie se vea expuesta por el hecho de que los datos se hayan puesto en el dominio público.
-[Buenas prácticas para la publicación de datos sobre biodiversidad procedentes de evaluaciones de impacto ambiental](https://docs.gbif.org/course-introduction-to-gbif/es/){:target="_blank"} | 2021 |Esta guía pretende ayudar a los profesionales, consultores y otras "partes interesadas y afectadas "(I&AP por sus siglas en inglés) que trabajan con evaluaciones de impacto ambiental a mejorar la curaduría, el almacenamiento y la gestión de los datos primarios sobre biodiversidad obtenidos durante los procesos de evaluación de impacto ambiental (EIA) y a compartir los datos de forma libre y abierta en formatos estandarizados, accesibles e interoperables a través del Infraestructura Mundial de Información en Biodiversidad (GBIF por sus siglas en inglés).
-
-
-
-# Cursos
-
-Nombre | Año | Descripción
------------- | ------------- | -------------
-[Ciclo de formación virtual](/formacion/laboratorios/) | 2021 |Los laboratorios de datos diseñados e instruidos por el EC-SiB te ayudarán a afianzar tus habilidades en el manejo y publicación de datos a través de SiB Colombia.
-[Introducción a GBIF](https://docs.gbif.org/course-introduction-to-gbif/es/){:target="_blank"} | 2021 |Este curso proporciona una introducción a GBIF, los datos disponibles en el portal de GBIF, cómo acceder a esos datos, e información sobre como participar en GBIF y su comunidad de práctica.
-[Curso de Movilización de Datos sobre Biodiversidad](https://docs.gbif.org/course-introduction-to-gbif/es/){:target="_blank"} | 2021 |Este curso permitirá a los participantes planificar e implementar de manera eficaz los esfuerzos de movilización de datos de biodiversidad utilizando estándares aceptados por la comunidad. Su objetivo es aumentar el volumen, la riqueza y la calidad de los datos publicados a través de la red GBIF.
-
-
 
 # Herramientas
 
@@ -113,6 +71,49 @@ Nombre | Descripción
 [geo:truc ](http://www.geotruc.net/?hl=es_ES){:target="_blank"} | Permite obtener las coordenadas de un punto seleccionado en el mapa a través de google maps.
 [CartoDB ](https://carto.com/){:target="_blank"} | Permite importar y visualizar datos geoespaciales mediante la creación de mapas dinámicos.
 [infoXY](http://splink.cria.org.br/infoxy?criaLANG=en){:target="_blank"} | Al ingresar coordenadas decimales la herramienta retorna información sobre cada punto, como el nombre del país, departamento y otras divisiones politico-administrativas. Si el punto cae en el mar la herramienta calcula la distancia más cercana a la costa, indicando el nombre del país.
+
+
+# Cursos
+
+Nombre | Año | Descripción
+------------ | ------------- | -------------
+[Ciclo de formación virtual](/formacion/laboratorios/) | 2021 |Los laboratorios de datos diseñados e instruidos por el EC-SiB te ayudarán a afianzar tus habilidades en el manejo y publicación de datos a través de SiB Colombia.
+[Introducción a GBIF](https://docs.gbif.org/course-introduction-to-gbif/es/){:target="_blank"} | 2021 |Este curso proporciona una introducción a GBIF, los datos disponibles en el portal de GBIF, cómo acceder a esos datos, e información sobre como participar en GBIF y su comunidad de práctica.
+[Curso de Movilización de Datos sobre Biodiversidad](https://docs.gbif.org/course-introduction-to-gbif/es/){:target="_blank"} | 2021 |Este curso permitirá a los participantes planificar e implementar de manera eficaz los esfuerzos de movilización de datos de biodiversidad utilizando estándares aceptados por la comunidad. Su objetivo es aumentar el volumen, la riqueza y la calidad de los datos publicados a través de la red GBIF.
+
+
+
+
+# Documentos
+
+## Limpieza y estructuración de datos
+
+|Nombre       | Año   | Descripción|
+|------------ |-------| ---------|
+|[Guía para la limpieza de datos sobre biodiversidad con OpenRefine](https://docs.gbif.org/openrefine-guide/3.0/es/){:target="_blank"}|2021|Guía de uso de [OpenRefine](https://openrefine.org/){:target="_blank"} para la validación y limpieza de datos sobre biodiversidad.
+|[OpenRefine - Guía  básica](http://repository.humboldt.org.co/handle/20.500.11761/35350){:target="_blank"} |2020| Guía básica de uso de [OpenRefine](https://openrefine.org/){:target="_blank"} para la validación y limpieza de datos sobre biodiversidad.|
+|[OpenRefine - Guía  de validación y limpieza de datos sobre biodiversidad](http://repository.humboldt.org.co/handle/20.500.11761/35350){:target="_blank"} |2020| Guía de uso de rutinas de calidad de datos implementando en el entorno del software de código abierto [OpenRefine](https://openrefine.org/){:target="_blank"}, y permiten crear flujos de trabajo específicos para cada conjunto de datos (Registros, Listas, Eventos).|
+|[OpenRefine - Guía  de validación y limpieza de datos sobre biodiversidad](http://repository.humboldt.org.co/handle/20.500.11761/35350){:target="_blank"} | 2020 | Guía de uso de rutinas de calidad de datos implementando en el entorno del software de código abierto [OpenRefine](https://openrefine.org/){:target="_blank"}, y permiten crear flujos de trabajo específicos para cada conjunto de datos (Registros, Listas, Eventos).|
+|[Calidad de Datos Guía de herramientas para mejorar los datos primarios de biodiversidad](http://repository.humboldt.org.co/handle/20.500.11761/35351){:target="_blank"} |2015| Este documento es una recopilación de las diversas herramientas y prácticas que intentan facilitar el proceso de dar calidad a los datos primarios sobre biodiversidad a través de distintas metodologías. |
+|[Principios de calidad de datos](https://www.gbif.org/document/80509/principles-of-data-quality){:target="_blank"} |2005| Principios de calidad de datos y mejores practicas aplicables a datos primarios sobre biodiversidad en sus compenentes, taxonómicos, temporales y geográficos.|
+
+
+
+## Validación de información geográfica
+
+Nombre | Año | Descripción
+------------ | ------------- | -------------
+[Guía de buenas prácticas de georreferenciación](https://docs.gbif-uat.org/georeferencing-best-practices/translation_1.0/es/){:target="_blank"} | 2020 |La Guía de buenas prácticas de georreferenciación provee los lineamientos para la correcta georreferenciación. Aunque está dirigida específicamente a registros biológicos, los conceptos y métodos presentados aquí pueden ser igual de útiles en otras disciplinas.
+[Guía rápida de georreferenciación](https://docs.gbif-uat.org/georeferencing-quick-reference-guide/translation_1.0/es/){:target="_blank"} | 2020 | Este documento ofrece orientaciones sobre cómo georreferenciar usando el método radio punto. También, proporciona los métodos para determinar los límites de entidades geográficas, los cuales son la base del método de forma geométrica en georreferenciación
+[Manual de la calculadora de georreferenciación](https://docs.gbif-uat.org/georeferencing-calculator-manual/translation_1.0/es/"){:target="_blank"} | 2020 | La Calculadora de Georreferenciación (Wieczorek & Wieczorek 2020) descrita en este documento, es una herramienta creada para ayudar en la georreferenciación de localidades descriptivas.
+[Protocolo de georreferenciación de localidades](http://repository.humboldt.org.co/handle/20.500.11761/35180){:target="_blank"} | 2016| Define la metodología para la asignación de coordenadas en datos primarios sobre biodiversidad.
+
+## Buenas prácticas de publicación
+
+Nombre | Año | Descripción
+------------ | ------------- | -------------
+[Buenas prácticas para generalizar datos de especies sensibles](https://docs.gbif-uat.org/sensitive-species-best-practices/translation_master/es/) | 2021 |El objetivo de este documento es proporcionar las buenas prácticas (o las buenas prácticas actuales) para tratar los datos de presencia de especies sensibles, y orientar sobre cómo poner a disposición la mayor cantidad de datos sin que la especie se vea expuesta por el hecho de que los datos se hayan puesto en el dominio público.
+[Buenas prácticas para la publicación de datos sobre biodiversidad procedentes de evaluaciones de impacto ambiental](https://docs.gbif.org/course-introduction-to-gbif/es/){:target="_blank"} | 2021 |Esta guía pretende ayudar a los profesionales, consultores y otras "partes interesadas y afectadas "(I&AP por sus siglas en inglés) que trabajan con evaluaciones de impacto ambiental a mejorar la curaduría, el almacenamiento y la gestión de los datos primarios sobre biodiversidad obtenidos durante los procesos de evaluación de impacto ambiental (EIA) y a compartir los datos de forma libre y abierta en formatos estandarizados, accesibles e interoperables a través del Infraestructura Mundial de Información en Biodiversidad (GBIF por sus siglas en inglés).
 
 
 
