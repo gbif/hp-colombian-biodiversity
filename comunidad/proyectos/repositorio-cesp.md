@@ -1,7 +1,7 @@
 ---
 layout: heroImage
-title: Proyectos CESP de los que hace parte SiB Colombia 
-description: Proyectos internacionales
+title: Proyectos CESP de los cuales hace parte SiB Colombia 
+description: El Programa de Apoyo al Fortalecimiento de Capacidades (CESP, por *Capacity Enhancement Support Programme*) es una iniciativa de GBIF que facilita la colaboración regional y global entre sus miembros.
 background:  https://live.staticflickr.com/6164/6170947918_dc421f3980_b.jpg
 imageLicense: |
   Fotografía de: Luis Alejandro Bernal Romero vía [Flickr](https://flic.kr/p/apiHPL) 
@@ -14,9 +14,7 @@ composition:
     type: stats
   - type: pageMarkdown
 ---
-El Programa de apoyo al Fortalecimiento de Capacidades (En inglés *CESP, Capacity Enhancement Support Programme*) tiene como objetivo abordar las necesidades de capacidad específicas identificadas por los participantes de GBIF al facilitar la colaboración regional y global.
-
-Las convocatorias anuales de propuestas bajo este programa brindan cofinanciamiento a los participantes de GBIF para proyectos de mejora de capacidades basados en combinaciones de los siguientes tipos de acción:
+Las convocatorias anuales de propuestas bajo el programa CESP brindan cofinanciamiento a los participantes de GBIF para proyectos de mejora de capacidades basados en combinaciones de los siguientes estos de acción:
 
 - **1. Actividades de mentoría:** Interacciones entre dos o más participantes donde el objetivo central es la transferencia de información, tecnología, experiencia y mejores prácticas en pequeños grupos.
 
@@ -31,7 +29,7 @@ Las convocatorias anuales de propuestas bajo este programa brindan cofinanciamie
 |    |    |
 | ---|--- |
 | **Proyecto**   |[Extender el conocimiento sobre la calidad y publicación de datos de biodiversidad en la comunidad de habla hispana](/comunidad/proyectos/cesp/cesp2021-007)    |
-| **Descripción**    | El objetivo de este proyecto es aumentar la disponibilidad de datos de biodiversidad de alta calidad de la comunidad de habla hispana a través de la red GBIF   |
+| **Descripción**    | El objetivo de este proyecto es aumentar la disponibilidad de datos de biodiversidad de alta calidad en la comunidad de habla hispana a través de la red GBIF, mediante la realización de seis charlas y cuatro talleres y la generación de nueva documentación consensuada   |
 | **País líder**   |  Argentina  |
 |**Socios**| Colombia y  Costa Rica| 
 |**Duración**    | 1 de agosto de 2021 - En progreso   |
@@ -53,7 +51,7 @@ ___
 |    |    |
 | ---|--- |
 | **Proyecto**   |[De experiencias compartidas a conocimientos compartidos y soluciones comunes: colaborando para mejorar las herramientas basadas en la web en América Latina y el Caribe](/comunidad/proyectos/cesp/cesp2020-006)   |
-| **Descripción**    | El objetivo de este proyecto es representar de manera efectiva el capital natural rgional en toda su riqueza. Para esto, el equipo del proyecto liderado por SiBBr (Sistema de Informação sobre a Biodiversidade Brasileira) organizará un taller con miras a explorar su experiencia, capacidad y desafíos. Se intercambiarán conocimientos, metodologías y herramientas para compartir y utilizar datos e información de biodiversidad    |
+| **Descripción**    | El objetivo de este proyecto es representar de manera efectiva la riqueza del capital natural regional. Para esto, se organizará un taller con miras a explorar la experiencia, capacidad y desafíos de los nodos GUBIF de Latinoamérica y el Caribe, en los que se intercambiarán conocimientos, metodologías y herramientas para compartir datos de biodiversidad.    |
 | **País líder**   |Brasil    |
 | **Socios**  | Colombia, Ecuador, Costa Rica, Perú, Argentina, Chile  y México   |
 |**Duración**    |1 de agosto de 2020 - En progreso   |
@@ -63,7 +61,7 @@ ___
 |    |    |
 | ---|--- |
 | **Proyecto**   | [Mejora de la capacidad regional mediante la creación del portal de datos de Uruguay](/comunidad/proyectos/cesp/cesp2015-portal-uruguay)    |
-| **Descripción**    | Esta fue una colaboración técnica entre Brasil, Canadá y Colombia para el desarrollo de  de un sitio web nacional urugguayo de biodiversidad y un portal de datos   |
+| **Descripción**    | Esta es una colaboración técnica entre Brasil, Canadá y Colombia para el desarrollo de un sitio web nacional uruguayo de biodiversidad y su portal de datos   |
 | **País líder**   |Uruguay    |
 | **Socios**   |  Colombia, Uruguay, Argentina, Brazil y  Canadá      |
 |**Duración**    | 1 de julio de 2015 - En progreso   |
@@ -75,7 +73,7 @@ ___
 |    |    |
 | ---|--- |
 | **Proyecto**   |[OpenPSD: Promoción de la publicación y el uso de datos del sector privado sobre biodiversidad](/comunidad/proyectos/cesp/cesp2019-004)   |
-| **Descripción**    |Este proyecto desarrollará actividades de tutoría, talleres y documentación para involucrar y promover la publicación y el uso de datos de biodiversidad por parte del sector privado    |
+| **Descripción**    |Este proyecto desarrolló actividades de mentoría, talleres y documentación para involucrar y promover la publicación y el uso de datos de biodiversidad por parte del sector privado    |
 | **País líder**   | España   |
 | **Socios**  |  Colombia,  Francia,  Noruega y  Portugal,  |
 |**Duración**    | 1 de junio de 2019 - 31 de enero de 2021   |
@@ -86,7 +84,7 @@ ___
 |    |    |
 | ---|--- |
 | **Proyecto**   |[Taller de uso de datos para la toma de decisiones: una convocatoria-comunidad-iberoamericana](/comunidad/proyectos/cesp/cesp2019-005)   |
-| **Descripción**    | Este taller tiene por objetivo mejorar la coordinación entre los nodos y los administradores de GBIF, para hacer que la toma de decisiones se base en evidencia científica. Esto se logrará a través de la discusión de estrategias y la generación de productos de datos relevantes para las políticas públicas   |
+| **Descripción**    | Este taller promovió la coordinación entre los nodos y los administradores de GBIF para promover la toma de decisiones basada en evidencia científica. Esto se logró a través de la discusión de estrategias y la generación de productos de datos relevantes para las políticas públicas   |
 | **País líder**   | Chile   |
 | **Socios**  | Colombia, Argentina,  España y Perú   |
 |**Duración**    |1 de junio de 2019 - 31 de diciembre de 2020  |
@@ -97,7 +95,7 @@ ___
 |    |    |
 | ---|--- |
 | **Proyecto**   |[Incrementando capacidades para desarrollar Listas Nacionales de Especies en la Región de América Latina y el Caribe](/comunidad/proyectos/cesp/cesp2018-011) |
-| **Descripción**    |El objetivo de este taller fue llevar a cabo un proyecto regional que defiiera los procedimientos de consenso para el desarrollo de listas nacionales de especies. Se generaron: un documento consensuado de procedimientos y requisitos; una lista de verificación de clasificación de tipos y subtipos (con los campos DwC y las extensiones IPT relevantes); directrices para las actividades de tutoría, y un caso de estudio para la publicación efectiva de listas de verificación    |
+| **Descripción**    |El objetivo de este taller fue llevar a cabo un proyecto regional para definir los procedimientos de consenso para el desarrollo de listas nacionales de especies. Se generaron: un documento consensuado de procedimientos y requisitos; una lista de verificación de clasificación de tipos y subtipos (con los campos DwC y las extensiones IPT relevantes); directrices para las actividades de tutoría, y un caso de estudio para la publicación efectiva de listas de verificación    |
 | **País líder**   | Argentina   |
 | **Socios**  | Colombia,  México y Guatemala    |
 |**Duración**    | 1 de junio de 2018 - 1 de agosto de 2019  |
@@ -107,7 +105,7 @@ ___
 |    |    |
 | ---|--- |
 | **Proyecto**   |[Capacitación en monitoreo participativo de la biodiversidad: Construyendo localmente, conectando globalmente](/comunidad/proyectos/cesp/cesp2017-0014)    |
-| **Descripción**    | Esta capacitación primordialmente busca: diseñar un plan de monitoreo participativo; desarrollar metodologías compartidas para colaboraciones entre científicos y comunidades; seleccionar prácticas y tecnologías que aseguren una gestión de datos e información de alta calidad, y supervisar y evaluar el impacto de tales proyectos    |
+| **Descripción**    | Los resultados de esta capacitación primordialmente fueron: diseñar un plan de monitoreo participativo; desarrollar metodologías compartidas para colaboraciones entre científicos y comunidades; seleccionar prácticas y tecnologías que aseguren una gestión de datos e información de alta calidad, y supervisar y evaluar el impacto de tales proyectos    |
 | **País líder**   | Colombia   |
 | **Socios**  | España,  Argentina y México   |
 |**Duración**   |  24 de julio de 2017 - 24 de julio de 2018 |
@@ -127,7 +125,7 @@ ___
 |    |    |
 | ---|--- |
 | **Proyecto**   |[Establecimiento de un nodo nacional para Chile para mejorar la capacidad regional de América Latina](/comunidad/proyectos/cesp/cesp2017-0007)   |
-| **Descripción**    | Este proyecto logró mejorar la capacidad nacional chilena para integrar y proporcionar acceso gratuito a la información sobre la biodiversidad de nacional, mediante el trabajo coordinado  con otros nodos latinoamericanos  |
+| **Descripción**    | Este proyecto logró mejorar las capacidadesd de la nación chilena para integrar y proporcionar acceso gratuito a la información sobre su biodiversidad, mediante el trabajo coordinado con otros nodos latinoamericanos.  |
 | **País líder**   | Chile   |
 | **Socios**  |   Colombia,   España y   Argentina  |
 |**Duración**   | 1 de junio de 2017 - 31 de diciembre de 2018 |
