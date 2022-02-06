@@ -6,7 +6,6 @@ background:  https://live.staticflickr.com/6164/6170947918_dc421f3980_b.jpg
 imageLicense: |
   Fotografía de: Luis Alejandro Bernal Romero vía [Flickr](https://flic.kr/p/apiHPL) 
 height: 41vh
-toc:true
 permalink: comunidad/proyectos/repositorio-cesp
 composition:
   - type: heroImage # the block type
