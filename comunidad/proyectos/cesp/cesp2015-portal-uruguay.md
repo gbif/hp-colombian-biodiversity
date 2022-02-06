@@ -32,10 +32,10 @@ La región más amplia de América Latina también ha reconocido la necesidad de
 * [Canadensys](http://www.gbif.org/node/4db9cfd2-1191-4b9d-b579-0b68ceabd968){:target="_blank"}
 * [GBIF Argentina](http://www.sndb.mincyt.gob.ar/){:target="_blank"}
 * [GBIF Brasil](https://www.sibbr.gov.br/){:target="_blank"}
-* [GBIF Uruguay](https://www.gbif.org/country/UY/about)/){:target="_blank"}
+* [GBIF Uruguay](https://www.gbif.org/country/UY/about){:target="_blank"}
 
 ### Eventos y noticias
 
 - [Técnicos de datos uruguayos capacitados en herramientas de publicación](https://www.gbif.org/news/82597/uruguayan-data-technicians-trained-in-publishing-tools){:target="_blank"}
 - [Taller sobre herramientas de publicación de datos](https://www.gbif.org/event/82572/workshop-on-data-publishing-tools){:target="_blank"}
-- [Taller para la publicación de datos en Uruguay](post/2016/taller-uruguay/)
+- [Taller para la publicación de datos en Uruguay](https://biodiversidad.co/post/2016/taller-uruguay/)
