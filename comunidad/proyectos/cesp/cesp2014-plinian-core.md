@@ -41,7 +41,7 @@ Durante el curso del proyecto se desarrolló una nueva versión del [Modelo Abst
 ### Resultados
 
 - [Informe final](https://assets.ctfassets.net/uo17ejk9rkwj/yeO8DSoeJwsEgucaw6GgW/5aa17da411a4de4efdce132ca6201a70/Final_report_of_the_Plinian_Core_mentoring_project_-_CESP_2014.pdf){:target="_blank"}.
-- [Mejores prácticas registradas](https://assets.ctfassets.net/uo17ejk9rkwj/5JFG2JP3lCOiuSMEmkkWmQ/111a020d0fc71b6b8685f71f671d36bd/Best_practice_document_from_the_Plinian_Core_mentoring_project_-_CESP_2014.pdf){:target="_blank}.
+- [Mejores prácticas registradas](https://assets.ctfassets.net/uo17ejk9rkwj/5JFG2JP3lCOiuSMEmkkWmQ/111a020d0fc71b6b8685f71f671d36bd/Best_practice_document_from_the_Plinian_Core_mentoring_project_-_CESP_2014.pdf){:target="_blank"}.
 
 ### Eventos y noticias
 
