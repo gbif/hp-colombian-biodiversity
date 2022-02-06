@@ -15,8 +15,8 @@ stats1:
       background: /comunidad/proyectos/images/icono4.png
       #href: /data
     - title: 9999
-      description: Proyectos culminados
-      background: /comunidad/proyectos/images/icono5.png
+      description: Proyectos en progreso
+      background: /comunidad/proyectos/images/icono2.png
       #href: /data
    
 stats2:
