@@ -37,7 +37,7 @@ Los documentos, presentaciones y videos utilizados en el taller están disponibl
 * [GBIF España](https://www.gbif.org/country/ES/about){:target="_blank"}
 * [GBIF Biodiversity Heritage Library](https://www.gbif.org/country/CO/abouthttps://www.gbif.org/country/US/about){:target="_blank"}
 * [MIZA - Museo del Instituto de Zoología Agrícola Francisco Fernández Yépez, Venezuela](https://www.museodata.com/museos/85-venezuela/558-miza-francisco-fernandez-yepes.html){:target="_blank"}
-* [El Instituto de Ecología y Sistemática, Cuba](http://www.ecosis.cu/){:target="_blank"}
+* [El Instituto de Ecología y Sistemática, Cuba](https://www.ecured.cu/Instituto_de_Ecolog%C3%ADa_y_Sistem%C3%A1tica){:target="_blank"}
 * [Museo Entomológico de León, Nicaragua](http://bio-nica.info/topic/index.html){:target="_blank"}
 * [Pontificia Universidad Católica Del Ecuador](https://www.puce.edu.ec/){:target="_blank"}
 
@@ -50,9 +50,7 @@ Los documentos, presentaciones y videos utilizados en el taller están disponibl
 ### Eventos y noticias
 
 - [Taller I3B sobre documentación digital: vinculando datos de biodiversidad, publicaciones e imágenes](https://www.gbif.org/event/82239/i3b-workshop-on-digital-documentation-linking-biodiversity-data-publications-and-images){:target="_blank"}
-- [Taller I3B – Documentación digital en biodiversidad
-](post/2014/taller-i3b-documentacion-digital/)
-- [SiB Colombia participó en taller de I3B sobre documentación digital en biodiversidad
-](post/2015/i3b-documentación-digital-biodiversidad/)
+- [Taller I3B – Documentación digital en biodiversidad](https://biodiversidad.co/post/2014/taller-i3b-documentacion-digital/)
+- [SiB Colombia participó en taller de I3B sobre documentación digital en biodiversidad](https://biodiversidad.co/post/2015/i3b-documentaci%C3%B3n-digital-biodiversidad/)
 - [GBIF anuncia a los beneficiarios de subvenciones de mejora de capacidad 2014](https://www.gbif.org/news/82364/gbif-announces-2014-capacity-enhancement-grant-recipients){:target="_blank"}
 
