@@ -1,13 +1,17 @@
 ---
 layout: heroImage
-title: Proyectos nacionales de los que hace parte SiB Colombia 
-description: Proyectos nacionales
+title: Proyectos nacionales 
+description: Listado de proyectos nacionales de los que hace parte SiB Colombia 
 background:  /comunidad/proyectos/images/tree-fern.jpg
 imageLicense: |
   Fotografía de: Keith Ewing vía [Flickr](https://flic.kr/p/nZ8oiX) 
 height: 41vh
 permalink: comunidad/proyectos/repositorio-nacionales
-
+composition:
+  - type: heroImage # the block type
+  - data: proyectos.stats1
+    type: stats
+  - type: pageMarkdown
 ---
 
 ### ¡Esta es una lista *en construcción* de los proyectos nacionales con participación de SiB Colombia!
