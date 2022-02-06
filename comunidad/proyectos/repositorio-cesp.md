@@ -51,7 +51,7 @@ ___
 |    |    |
 | ---|--- |
 | **Proyecto**   |[De experiencias compartidas a conocimientos compartidos y soluciones comunes: colaborando para mejorar las herramientas basadas en la web en América Latina y el Caribe](/comunidad/proyectos/cesp/cesp2020-006)   |
-| **Descripción**    | El objetivo de este proyecto es representar de manera efectiva la riqueza del capital natural regional. Para esto, se organizará un taller con miras a explorar la experiencia, capacidad y desafíos de los nodos GUBIF de Latinoamérica y el Caribe, en los que se intercambiarán conocimientos, metodologías y herramientas para compartir datos de biodiversidad.    |
+| **Descripción**    | El objetivo de este proyecto es representar de manera efectiva la riqueza del capital natural regional. Para esto, se organizará un taller con miras a explorar la experiencia, capacidad y desafíos de los nodos GUBIF de Latinoamérica y el Caribe, en los que se intercambiarán conocimientos, metodologías y herramientas para compartir datos de biodiversidad    |
 | **País líder**   |Brasil    |
 | **Socios**  | Colombia, Ecuador, Costa Rica, Perú, Argentina, Chile  y México   |
 |**Duración**    |1 de agosto de 2020 - En progreso   |
@@ -73,9 +73,9 @@ ___
 |    |    |
 | ---|--- |
 | **Proyecto**   |[OpenPSD: Promoción de la publicación y el uso de datos del sector privado sobre biodiversidad](/comunidad/proyectos/cesp/cesp2019-004)   |
-| **Descripción**    |Este proyecto desarrolló actividades de mentoría, talleres y documentación para involucrar y promover la publicación y el uso de datos de biodiversidad por parte del sector privado    |
+| **Descripción**    |Este proyecto desarrolló mentorías, talleres y una nueva guía publicada en varios idiomas para involucrar al sector privado en la publicación y el uso de datos de biodiversidad  |
 | **País líder**   | España   |
-| **Socios**  |  Colombia,  Francia,  Noruega y  Portugal,  |
+| **Socios**  |  Colombia,  Francia,  Noruega y Portugal  |
 |**Duración**    | 1 de junio de 2019 - 31 de enero de 2021   |
 
 ___
@@ -125,7 +125,7 @@ ___
 |    |    |
 | ---|--- |
 | **Proyecto**   |[Establecimiento de un nodo nacional para Chile para mejorar la capacidad regional de América Latina](/comunidad/proyectos/cesp/cesp2017-0007)   |
-| **Descripción**    | Este proyecto logró mejorar las capacidadesd de la nación chilena para integrar y proporcionar acceso gratuito a la información sobre su biodiversidad, mediante el trabajo coordinado con otros nodos latinoamericanos.  |
+| **Descripción**    | Este proyecto logró mejorar las capacidadesd de la nación chilena para integrar y proporcionar acceso gratuito a la información sobre su biodiversidad, mediante el trabajo coordinado con otros nodos latinoamericanos  |
 | **País líder**   | Chile   |
 | **Socios**  |   Colombia,   España y   Argentina  |
 |**Duración**   | 1 de junio de 2017 - 31 de diciembre de 2018 |
