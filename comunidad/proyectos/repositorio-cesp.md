@@ -5,6 +5,7 @@ description: Proyectos internacionales
 background:  https://live.staticflickr.com/6164/6170947918_dc421f3980_b.jpg
 imageLicense: |
   Fotografía de: Luis Alejandro Bernal Romero vía [Flickr](https://flic.kr/p/apiHPL) 
+toc: true
 height: 41vh
 permalink: comunidad/proyectos/repositorio-cesp
 composition:
@@ -23,7 +24,9 @@ Las convocatorias anuales de propuestas bajo este programa brindan cofinanciamie
 
 - **3. Documentación:** Producción de recursos clave de aprendizaje y promoción o su adaptación al contexto nacional o regional (por ejemplo, mediante traducción o incluyendo perspectivas locales/regionales). La Secretaría de GBIF aboga por la primera documentación digital para brindar orientación técnica y apoyar la capacitación y el desarrollo de habilidades en las comunidades de práctica de GBIF. Las características clave de este sistema incluyen documentación estandarizada, actualizaciones de rutina, versiones, traducciones, aportes de la comunidad, revisión por pares y formato de búsqueda.
 
-## Proyectos en progreso
+## Listado de proyectos
+
+### Proyectos en progreso
 
 |    |    |
 | ---|--- |
@@ -67,7 +70,7 @@ ___
 
 ___
 
-## Proyectos terminados
+### Proyectos terminados
 
 |    |    |
 | ---|--- |
