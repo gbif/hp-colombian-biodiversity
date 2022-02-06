@@ -1,0 +1,43 @@
+---
+title:  "Colecciones Biológicas 3.0"
+date:   2022-01-13
+categories: ["Talleres", "Boyacá", "Villa de Leyva", "Colecciones biológicas", "2012"]
+background: /assets/images/noticias_eventos/2012/2012-04-13-taller-colecciones-3punto0.jpg
+
+---
+
+|---|Empresas|Conjuntos de datos|Registros biológicos|Listas de especies|Citaciones|
+|---|---|---|---|---|---|
+|<figure class="image is-16x16"><img src="/assets/images/logos-socios/logo-aguas-de-bogota.jpg"></figure>|[Aguas de Bogotá S.A. E.S.P.](https://www.gbif.org/publisher/6d1beb45-43bc-499a-85a0-f06f67e81591){:target="_blank"}|1|13.280||11|
+|<figure class="image is-24x24"><img src="/assets/images/logos-socios/logo-aguas-de-bogota.jpg"></figure>|[Aguas de Bogotá S.A. E.S.P.](https://www.gbif.org/publisher/6d1beb45-43bc-499a-85a0-f06f67e81591){:target="_blank"}|1|13.280||11|
+|<figure class="image is-32x32"><img src="/assets/images/logos-socios/logo-aguas-de-bogota.jpg"></figure>|[Aguas de Bogotá S.A. E.S.P.](https://www.gbif.org/publisher/6d1beb45-43bc-499a-85a0-f06f67e81591){:target="_blank"}|1|13.280||11|
+|---|Aïgos S.A.S|---|---|---|---|
+|---|Anadarko Colombia Company|---|---|---|---|
+|---|AngloGold Ashanti Colombia S.A.S|---|---|---|---|
+|---|Aures Bajo|---|---|---|---|
+|---|Biotica Consultores Ltda|---|---|---|---|
+|---|Cunaguaro Consultores LTDA|---|---|---|---|
+|---|Carbones del Cerrejón Limited|---|---|---|---|
+|---|Carsa Gold S.A.S|---|---|---|---|
+|---|Celsia Colombia S.A. E.S.P.|---|---|---|---|
+|---|Cerro Matoso S.A.|---|---|---|---|
+|---|Ciprogress Greenlife|---|---|---|---|
+|---|Concesión La Pintada S.A.S|---|---|---|---|
+|---|Construcciones y Ambiente Conambiente S.A|---|---|---|--|
+|---|Cunaguaro Consultores LTDA|---|---|---|---|
+|---|Ecopetrol S.A.|---|---|---|---|
+|---|Empresas Públicas de Medellín E.S.P.|---|---|---|---|
+|---|Enel Colombia|---|---|---|---|
+|---|Federación Nacional de Cacaoteros|---|---|---|---|
+|---|Federación Nacional de Cafeteros de Colombia|---|---|---|---|
+|---|Grupo Energía Bogotá|---|---|---|---|
+|---|Hatovial S.A.S|---|---|---|---|
+|---|Holcim Colombia S.A.|---|---|---|---|
+|---|INERCO Consultoría Colombia|---|---|---|---|
+|---|Isagen S.A.S.|---|---|---|---|
+|---|Moam Monitoreos Ambientales S.A.S|---|---|---|---|
+|---|Oleoducto Bicentenario|---|---|---|---|
+|---|Promigas S.A E.S.P|---|---|---|---|
+|---|Stratos Consultoría Geológica|---|---|---|---|
+|---|TERRASOS|---|---|---|---|
+
