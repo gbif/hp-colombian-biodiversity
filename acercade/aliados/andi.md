@@ -124,8 +124,10 @@ En el siguiente [enlace](https://www.gbif.org/project/2Zik1tfJoh3C92ZslvhDIr/ope
 
 # Las empresas que ya publican datos a través del SiB Colombia
 
+En la siguiente puede encontrar el listado completo de empresas con a sus perfiles como publicadores en GBIF y de nuestro [Portal de Listas de Especies](https://listas.biodiversidad.co/).
+
 ||Empresas|Conjuntos de datos|Registros biológicos|Listas de especies|Citaciones|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|---:|:---:|---:|
 |<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ab.png"></figure>|[Aguas de Bogotá S.A. E.S.P.](https://www.gbif.org/publisher/6d1beb45-43bc-499a-85a0-f06f67e81591){:target="_blank"}|1|13.280||11|
 |<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-aigos.png"></figure>|[Aïgos S.A.S](https://www.gbif.org/es/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee){:target="_blank"}|3|2.404||22|
 |<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-anadarko.png"></figure>|[Anadarko Colombia Company](https://www.gbif.org/es/publisher/b5904aaf-02c7-4ff3-85a6-0f528dbb632e){:target="_blank"}|5|893||26|
@@ -146,9 +148,9 @@ En el siguiente [enlace](https://www.gbif.org/project/2Zik1tfJoh3C92ZslvhDIr/ope
 |<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-fedecacao.png"></figure>|[Federación Nacional de Cacaoteros](https://www.gbif.org/publisher/37c1c493-782c-4f53-914d-b1f66cdcf61c){:target="_blank"}|1|17||3|
 |<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-fnc.png"></figure>|[Federación Nacional de Cafeteros de Colombia - Cenicafé](https://www.gbif.org/es/publisher/da583013-8a1b-4570-b0e4-c7cb25b2e7bf){:target="_blank"}|4|4.296||32|
 |<figure class="image is-64x64"><img src="https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/geb.jpg"></figure>|[Grupo Energía Bogotá](https://www.gbif.org/publisher/2977895d-3ce2-4fb9-b62e-a775c8fd9304){:target="_blank"}|1|61.111||20|
-|<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-hatovial.png"></figure>|[Hatovial S.A.S](https://www.gbif.org/es/publisher/90d2e455-c279-4bf1-ba87-806495641e18){:target="_blank"}|1|1898||53|
+|<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-hatovial.png"></figure>|[Hatovial S.A.S](https://www.gbif.org/es/publisher/90d2e455-c279-4bf1-ba87-806495641e18){:target="_blank"}|1|1.898||53|
 |<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-holcim.png"></figure>|[Holcim Colombia S.A.](https://www.gbif.org/es/publisher/5e08abdd-46a0-45ec-a2e5-93348975b11d){:target="_blank"}|1||[1](https://listas.biodiversidad.co/provider/5e08abdd-46a0-45ec-a2e5-93348975b11d){:target="_blank"}||
-|<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-inerco.png"></figure>|[INERCO Consultoría Colombia](https://www.gbif.org/es/publisher/67c63221-0c74-4c18-97f9-e2b2acb739ce){:target="_blank"}|1|1090||62|
+|<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-inerco.png"></figure>|[INERCO Consultoría Colombia](https://www.gbif.org/es/publisher/67c63221-0c74-4c18-97f9-e2b2acb739ce){:target="_blank"}|1|1.090||62|
 |<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-isagen.png"></figure>|[Isagen S.A.S.](https://www.gbif.org/es/publisher/04ce62dd-30ec-4d98-8b30-b09cafc3ac38){:target="_blank"}|12|41.665||148|
 |<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-moam.png"></figure>|[Moam Monitoreos Ambientales S.A.S](https://www.gbif.org/es/publisher/9a21807b-b9c5-4071-b393-764f3cd58abc){:target="_blank"}|1|1.781||21|
 |<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-bicentenario.png"></figure>|[Oleoducto Bicentenario](http://www.gbif.org/publisher/c3da1f49-b2c8-4751-b72f-28855546ec4c){:target="_blank"}|3|2.074||121|
