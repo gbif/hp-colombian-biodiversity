@@ -124,10 +124,10 @@ En el siguiente [enlace](https://www.gbif.org/project/2Zik1tfJoh3C92ZslvhDIr/ope
 
 # Las empresas que ya publican datos a través del SiB Colombia
 
-En la siguiente puede encontrar el listado completo de empresas con a sus perfiles como publicadores en GBIF y de nuestro [Portal de Listas de Especies](https://listas.biodiversidad.co/).
+En la siguiente tabla puede encontrar el listado completo de empresas con los respectivos enlaces a sus perfiles como publicadores en GBIF y en nuestro [Portal de Listas de Especies](https://listas.biodiversidad.co/).
 
 ||Empresas|Conjuntos de datos|Registros biológicos|Listas de especies|Citaciones|
-|:---:|:---:|:---:|---:|:---:|---:|
+|---:|:---|---:|---:|---:|---:|
 |<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ab.png"></figure>|[Aguas de Bogotá S.A. E.S.P.](https://www.gbif.org/publisher/6d1beb45-43bc-499a-85a0-f06f67e81591){:target="_blank"}|1|13.280||11|
 |<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-aigos.png"></figure>|[Aïgos S.A.S](https://www.gbif.org/es/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee){:target="_blank"}|3|2.404||22|
 |<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-anadarko.png"></figure>|[Anadarko Colombia Company](https://www.gbif.org/es/publisher/b5904aaf-02c7-4ff3-85a6-0f528dbb632e){:target="_blank"}|5|893||26|
