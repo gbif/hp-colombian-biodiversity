@@ -20,4 +20,4 @@ composition:
 
 ---
 
-Continuamente el Equipo Coordinador del SiB Colombia consolida el inventario de los proyectos de creación de capacidades, tanto nacionales como internacionales, en los que participa; cada uno de estos proyectos es parte fundamental de su misión de brindar acceso abierto a la información sobre la diversidad biológica del país para ayudar a construir una sociedad sostenible. En este sitio podrá encontrar información de interés sobre estos proyectos.
+Continuamente el SiB Colombia consolida el inventario de los proyectos de creación de capacidades en los que participa para brindar acceso abierto a la información sobre la biodiversidad del país. En este sitio encontrará información de interés sobre estos proyectos.
