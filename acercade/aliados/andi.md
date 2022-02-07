@@ -369,7 +369,7 @@ ___
     <summary markdown="span"><b>¿Es posible hacer publicaciones en revistas científicas con los datos publicados a través del SiB Colombia y en esta tarea qué apoyo podría prestar el Equipo Coordinador?</b></summary>
     
 <br>
-Si. Los <a href= "https://www.gbif.org/es/data-papers" target="_blank">Artículos de Datos o Data Papers</a>son una opción para este tipo de publicaciones. El Equipo Coordinador puede orientar al publicador interesado durante el proceso de publicación a través del SiB Colombia que comprende el 90% de una publicación de un artículo de datos. Aquí un ejemplo de una de las publicaciones más recientes: <a href= "https://bdj.pensoft.net/article/33091/" target="_blank">First visual occurrence data for deep-sea cnidarians in the South-western Colombian Caribbean</a>.</details>
+Si. Los <a href= "https://www.gbif.org/es/data-papers" target="_blank">Artículos de Datos o Data Papers</a> son una opción para este tipo de publicaciones. El Equipo Coordinador puede orientar al publicador interesado durante el proceso de publicación a través del SiB Colombia que comprende el 90% de una publicación de un artículo de datos. Aquí un ejemplo de una de las publicaciones más recientes: <a href= "https://bdj.pensoft.net/article/33091/" target="_blank">First visual occurrence data for deep-sea cnidarians in the South-western Colombian Caribbean</a>.</details>
 
     
 ___
