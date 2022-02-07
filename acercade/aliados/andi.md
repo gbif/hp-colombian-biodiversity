@@ -177,7 +177,7 @@ La Infraestructura Mundial de Información en Biodiversidad es una organización
 
 En Colombia, la participación nacional en GBIF es facilitada por el SiB Colombia como representante del país desde el año 2003. En este sentido, todos los esfuerzo nacionales de publicación de datos a través del SiB Colombia, son reflejados en esta plataforma internacional.
 
-Esta alianza cuenta con el respaldo de GBIF y el proyecto [CESP OpenPSD: *Promoting publication and use of private-sector data on biodiversity*](https://www.gbif.org/project/2Zik1tfJoh3C92ZslvhDIr/openpsd-promoting-publication-and-use-of-private-sector-data-on-biodiversity#datasets){:target="_blank"}.
+Esta alianza cuenta con el respaldo de GBIF y el proyecto [CESP OpenPSD: *Promoting publication and use of private-sector data on biodiversity*](https://www.gbif.org/project/2Zik1tfJoh3C92ZslvhDIr/openpsd-promoting-publication-and-use-of-private-sector-data-on-biodiversity#about){:target="_blank"}.
 
 
 # Preguntas frecuentes
