@@ -38,6 +38,4 @@ composition:
 |PIFS - MADS Convenio 15-108 (17-135)|2015||Ministerio de Ambiente y Desarrollo Sostenible|
 |SIAC - MADS Res. 1376 2016|2016||Ministerio de Ambiente y Desarrollo Sostenible|
 |Colombia BIO Proyecto IAvH|2016|||
-|GBIF CESP 2017-0013|2016||Global Biodiversity Information Facility |
-|GBIF CESP 2017-0013|2017||Global Biodiversity Information Facility |
-|GBIF CESP 2018-0011|2018||Global Biodiversity Information Facility |
+
