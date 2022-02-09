@@ -24,6 +24,8 @@ composition:
     type: floatingText
   - data: home.destacados
     type: features
+  - data: home.destacados2
+    type: features
   - data: home.splitActividadPublicacion
     type: split
   #- type: latestPosts
