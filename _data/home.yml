@@ -42,13 +42,13 @@ estadisticas:
 
 # Tarjetas
 
-destacados:
+noticias:
   features:
  
     - preTitle: Convocatorias
       title: Premio Jóvenes Investigadores 2022
       description: |      # required
-      30 de mayo es la fecha límite para presentar candidaturas al el Premio Jóvenes Investigadores. 
+        30 de mayo es la fecha límite para presentar candidaturas al el Premio Jóvenes Investigadores. 
       # img required
       background: /assets/images/noticias_eventos/2022/2022-02-08-jovenes-investigadores-GBIF.png
       cta:
@@ -59,7 +59,7 @@ destacados:
     - preTitle: Actualización
       title: Nuevo procedimiento para reportar datos
       description: |      # required
-      Instrucciones para el reporte de datos asociados a permisos de recolección. 
+        Instrucciones para el reporte de datos asociados a permisos de recolección. 
       # img required
       background: /assets/images/noticias_eventos/2022/2022-02-01-novedad-certificados.jpg
       cta:
@@ -70,7 +70,7 @@ destacados:
     - preTitle: Publicación de datos
       title: Datos nuevos o antiguos, ¡todos cuentan!
       description: |      # required
-      Queremos incrementar la disponibilidad de datos sobre biodiversidad en el país.
+        Queremos incrementar la disponibilidad de datos sobre biodiversidad en el país.
       # img required
       background: assets/images/minga/cabezote.jpg
       cta:
@@ -78,13 +78,13 @@ destacados:
         href: /compartir/minga-por-la-biodiversidad
         isPrimary: false
 
-destacados2:
+destacados:
   features:
   
     - preTitle: Noticias
       title: ¡Bienvenido a biodiversidad.co!
       description: |      # required
-       El nuevo portal incluye datos, galería de imágenes, mapa y descargas con DOI.
+         El nuevo portal incluye datos, galería de imágenes, mapa y descargas con DOI.
       # img required
       background: assets/images/noticias_eventos/2021/2021-11-25-biodiversidad-Colombia-tiene-nuevo-portal.jpg
       cta:
@@ -95,7 +95,7 @@ destacados2:
     - preTitle: Red SiB Colombia
       title: Alianza con el sector empresarial
       description: |      # required
-      Un aporte del sector empresarial al conocimiento de la biodiversidad.
+        Un aporte del sector empresarial al conocimiento de la biodiversidad.
       # img required
       background: /assets/images/landing_page/AlianzaAndiSectorEmpresarial.jpg
       cta:
@@ -106,7 +106,7 @@ destacados2:
     - preTitle: Datos abiertos
       title: Biodiversidad en cifras 2021
       description: |      # required
-      Actualización de las cifras sobre la biodiversidad más importantes del país.
+        Actualización de las cifras sobre la biodiversidad más importantes del país.
       # img required
       background: /assets/images/noticias_eventos/2021/2021-08-01-Biodiversidadencifras_2021.png
       cta:
@@ -121,7 +121,7 @@ splitCicloFormacion:
   #preTitle: Reporte  # optional
   title: Ciclo de Formación 2021
   description: |      # required
-      Conoce diferentes iniciativas, proyectos y materiales alrededor de la publicación acceso y uso de datos sobre biodiversidad.
+    Conoce diferentes iniciativas, proyectos y materiales alrededor de la publicación acceso y uso de datos sobre biodiversidad.
   # img required
   background: /assets/images/landing_page/img_homeFormacion.jpg
   overlayColor: "#000033"
@@ -151,7 +151,7 @@ splitAlianzaSectorEmpresarial:
   #preTitle: Red SiB Colombia  # optional
   title: Alianza sector empresarial
   description: |      # required
-       Los datos sobre biodiversidad son esenciales para planificar, implementar y monitorear estrategias de conservación y uso sostenible.. Un aporte del sector empresarial al conocimiento de la biodiversidad.
+    Los datos sobre biodiversidad son esenciales para planificar, implementar y monitorear estrategias de conservación y uso sostenible.. Un aporte del sector empresarial al conocimiento de la biodiversidad.
   # img required
   background: /assets/images/landing_page/AlianzaAndiSectorEmpresarial.jpg
   overlayColor: "#000033"
