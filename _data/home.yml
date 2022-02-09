@@ -48,7 +48,7 @@ noticias:
     - preTitle: Convocatorias
       title: Premio Jóvenes Investigadores 2022
       description: |      # required
-        30 de mayo es la fecha límite para presentar candidaturas al el Premio Jóvenes Investigadores. 
+        30 de mayo es la fecha límite para presentar candidaturas al Premio. 
       # img required
       background: /assets/images/noticias_eventos/2022/2022-02-08-jovenes-investigadores-GBIF.png
       cta:
@@ -77,9 +77,6 @@ noticias:
       - text: Ver más
         href: /compartir/minga-por-la-biodiversidad
         isPrimary: false
-
-destacados:
-  features:
   
     - preTitle: Noticias
       title: ¡Bienvenido a biodiversidad.co!
