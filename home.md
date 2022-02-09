@@ -22,9 +22,9 @@ composition:
     type: stats
   - data: home.textoAlerta2
     type: floatingText
-  - data: home.destacados
+  - data: home.noticias
     type: features
-  - data: home.destacados2
+  - data: home.destacados
     type: features
   - data: home.splitActividadPublicacion
     type: split
