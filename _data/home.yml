@@ -29,9 +29,6 @@ stats:
       href: https://www.gbif.org/publisher/search?country=CO
       # Hard coded value     
 
-
-
-#
 # Estadisticas ajustadas
 estadisticas:
   markdownContent: | 
@@ -43,10 +40,8 @@ estadisticas:
        # Publicadorees  <span data-ajax-url="https://api.gbif.org/v1/organization?country=CO&limit=0&isEndorsed=true">100,000</span>
          # Conjuntos de datos <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=CO&limit=0">100,000</span>
 
+# Tarjetas
 
-
-# Feature cards
-#cards
 destacados:
   features:
  
@@ -75,7 +70,7 @@ destacados:
     - preTitle: Publicación de datos
       title: Datos nuevos o antiguos, ¡todos cuentan!
       description: |      # required
-       Queremos incrementar la disponibilidad de datos sobre biodiversidad en el país.
+      Queremos incrementar la disponibilidad de datos sobre biodiversidad en el país.
       # img required
       background: assets/images/minga/cabezote.jpg
       cta:
@@ -83,6 +78,9 @@ destacados:
         href: /compartir/minga-por-la-biodiversidad
         isPrimary: false
 
+destacados2:
+  features:
+  
     - preTitle: Noticias
       title: ¡Bienvenido a biodiversidad.co!
       description: |      # required
@@ -97,7 +95,7 @@ destacados:
     - preTitle: Red SiB Colombia
       title: Alianza con el sector empresarial
       description: |      # required
-            Un aporte del sector empresarial al conocimiento de la biodiversidad.
+      Un aporte del sector empresarial al conocimiento de la biodiversidad.
       # img required
       background: /assets/images/landing_page/AlianzaAndiSectorEmpresarial.jpg
       cta:
@@ -108,7 +106,7 @@ destacados:
     - preTitle: Datos abiertos
       title: Biodiversidad en cifras 2021
       description: |      # required
-            Actualización sobre las cifras sobre la biodiversidad más importantes del país.
+      Actualización de las cifras sobre la biodiversidad más importantes del país.
       # img required
       background: /assets/images/noticias_eventos/2021/2021-08-01-Biodiversidadencifras_2021.png
       cta:
@@ -116,6 +114,7 @@ destacados:
         href: post/2021/biodiversidadencifras-2021/
         isPrimary: false     
 
+# Splits
 
 splitCicloFormacion:
   reverse: true
@@ -163,7 +162,7 @@ splitAlianzaSectorEmpresarial:
     isPrimary: true
 
   
-  # Alerta flotante
+# Alerta flotante
 
 textoAlerta2:
   preTitle: ⚠️ Actualización  # optional
