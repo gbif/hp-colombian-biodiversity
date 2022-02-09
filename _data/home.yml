@@ -49,7 +49,29 @@ estadisticas:
 #cards
 destacados:
   features:
+ 
+    - preTitle: Convocatorias
+      title: Premio Jóvenes Investigadores 2022
+      description: |      # required
+      30 de mayo es la fecha límite para presentar candidaturas al el Premio Jóvenes Investigadores. 
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-02-08-jovenes-investigadores-GBIF.png
+      cta:
+      - text: Ver más
+        href: post/2022/convocatoria-premio-jovenes-investigadores-gbif-2022
+        isPrimary: false
 
+    - preTitle: Actualización
+      title: Nuevo procedimiento para reportar datos
+      description: |      # required
+      Instrucciones para el reporte de datos asociados a permisos de recolección. 
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-02-01-novedad-certificados.jpg
+      cta:
+      - text: Ver más
+        href: post/2022/novedad-certificados-de-reporte/
+        isPrimary: false
+        
     - preTitle: Publicación de datos
       title: Datos nuevos o antiguos, ¡todos cuentan!
       description: |      # required
@@ -60,7 +82,7 @@ destacados:
       - text: Ver más
         href: /compartir/minga-por-la-biodiversidad
         isPrimary: false
-        
+
     - preTitle: Noticias
       title: ¡Bienvenido a biodiversidad.co!
       description: |      # required
@@ -83,34 +105,16 @@ destacados:
         href: /acercade/aliados/andi/
         isPrimary: false
 
-
-# Feature cards
-#cards
-backup:
-  features:
-  
-    - preTitle:  Convocatorias
-      title: Reconocimiento SNCTI
+    - preTitle: Datos abiertos
+      title: Biodiversidad en cifras 2021
       description: |      # required
-            Guía para incorporar productos SiB Colombia en el CvLac.
-      background: /assets/images/landing_page/imgDest_MinCiencias.jpg
+            Actualización sobre las cifras sobre la biodiversidad más importantes del país.
+      # img required
+      background: /assets/images/noticias_eventos/2021/2021-08-01-Biodiversidadencifras_2021.png
       cta:
       - text: Ver más
-        href: /post/2021/convocatoria-nacional-medicion-grupos-cvlac-sib/
-        isPrimary: false
-        
-
-splitAnuncioAcompañamientos:
-  reverse: true
-  #preTitle: Reporte  # optional
-  title: Cierre de año 
-  description: |      # required
-      Hasta el lunes 22 de noviembre está abierta la recepción de solicitudes para publicación de datos en el presente año. Las solicitudes hechas después de esta fecha entrarán al proceso de acompañamiento habitual, con la novedad de que la publicación de los datos se hará a inicio de 2022.
-  # img required
-  background: /assets/images/landing_page/img_homeFormacion.jpg
-  overlayColor: "#000033"
-  href: /compartir/guiadepublicacion
-
+        href: post/2021/biodiversidadencifras-2021/
+        isPrimary: false     
 
 
 splitCicloFormacion:
@@ -158,16 +162,6 @@ splitAlianzaSectorEmpresarial:
     href: /acercade/aliados/andi
     isPrimary: true
 
-
-#Ejemplo de tema base
-productExample:
-  align: right
-  preTitle: Publicar  # optional
-  title: Hola!  # required
-  description: |      # required
-    Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is.
-  # img required
-  background: /assets/img/product-right.png
   
   # Alerta flotante
 
