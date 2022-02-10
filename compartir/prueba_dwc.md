@@ -51,7 +51,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | El nombre completo de la institución que custodia el espécimen o la información del registro; seguido por su acrónimo en paréntesis, si tiene. |
-| Ejemplo | Ministerio de Ambiente y Desarrollo Sostenible (MADS)<br> Universidad de Antioquia (UdeA)<br> Jardín Botanico de Bogotá José Celestino Mutis (JBB) |
+| Ejemplo | Ministerio de Ambiente y Desarrollo Sostenible (MADS)<br> Universidad de Antioquia (UdeA)<br> Jardín Botánico de Bogotá José Celestino Mutis (JBB) |
 | Elementos relacionados | institutionID |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
@@ -90,7 +90,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | El nombre del conjunto de datos del cual se deriva el registro biológico (observación, colecta o evento).<br><br> De acuerdo al origen del registro biológico, identifique a cuál de los siguientes casos corresponde y construya este identificador según las indicaciones del caso:<br><br> (i) El registro biológico proviene de una entidad vinculada y adscrita al Ministerio de Medio Ambiente y Desarrollo Sostenible que no requiere un permiso de recolección. Nombre del convenio o proyecto marco de acuerdo a lo documentado en el elemento datasetID<br><br> (ii) El registro biológico proviene de un proyecto amparado por un permiso de recolección de especímenes o acceso a recursos genéticos de acuerdo a lo establecido en el Decreto 1076 de 2015. Nombre del titular del permiso<br><br> (iii) El registro biológico proviene de un espécimen depositado en una colección biológica por solicitud expresa de una autoridad ambiental o gubernamental mediante un acto legal. Por ejemplo, en los casos de incautación de fauna y flora silvestre por tráfico de especies. Se documentan las palabras ‘Acto Legal’<br><br> (iv) El registro biológico proviene de un espécimen preservado en una colección biológica y legalizado a través de una amnistía. Se documentan la palabra ‘Amnistía’<br><br> (v) El registro biológico proviene de un espécimen obtenido por medio de una colecta fortuita, por ejemplo en los casos de pesca accidental, atropellamiento y choqué contra edificaciones, entre otros. Se documentan las palabras ‘Colecta Fortuita’ |
+| Definición | El nombre del conjunto de datos del cual se deriva el registro biológico (observación, colecta o evento).<br><br> De acuerdo al origen del registro biológico, identifique a cuál de los siguientes casos corresponde y construya este identificador según las indicaciones del caso:<br><br> (i) El registro biológico proviene de una entidad vinculada y adscrita al Ministerio de Medio Ambiente y Desarrollo Sostenible que no requiere un permiso de recolección. Nombre del convenio o proyecto marco de acuerdo a lo documentado en el elemento datasetID<br><br> (ii) El registro biológico proviene de un proyecto amparado por un permiso de recolección de especímenes o acceso a recursos genéticos de acuerdo a lo establecido en el Decreto 1076 de 2015. Nombre del titular del permiso<br><br> (iii) El registro biológico proviene de un espécimen depositado en una colección biológica por solicitud expresa de una autoridad ambiental o gubernamental mediante un acto legal. Por ejemplo, en los casos de incautación de fauna y flora silvestre por tráfico de especies. Se documentan las palabras ‘Acto Legal’<br><br> (iv) El registro biológico proviene de un espécimen preservado en una colección biológica y legalizado a través de una amnistía. Se documentan la palabra ‘Amnistía’<br><br> (v) El registro biológico proviene de un espécimen obtenido por medio de una colecta fortuita, por ejemplo, en los casos de pesca accidental, atropellamiento y choqué contra edificaciones, entre otros. Se documentan las palabras ‘Colecta Fortuita’ |
 | Ejemplo | Colombia Bio<br> Fondo Adaptación<br> Boyacá Bio<br><br> Universidad de Caldas<br> Cenipalma<br> Pedro Pérez<br><br> Acto Legal<br><br> Amnistía<br><br> Colecta Fortuita |
 | Elementos relacionados | datasetNameID |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
@@ -396,7 +396,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de números de catálogos anteriores o alternos, u otros identificadores usado por personas para el mismo registro biológico, ya sea en el actual o cualquier otro conjunto de datos o colección. |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de números de catálogos anteriores o alternos, u otros identificadores usados por personas para el mismo registro biológico, ya sea en el actual o cualquier otro conjunto de datos o colección. |
 | Ejemplo | CFMNH:Mammal:1234<br> NPS YELLO6778 \| MBG 33424 |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
@@ -507,7 +507,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de asignaciones taxonómicas que se le han dado al organismo anteriormente. Puede contener la información de quién y cuándo realizó la identificación anterior. Se recomienda hacer uso de la extensión Identification [(https://tools.gbif.org/dwca-validator/extension.do?id=dwc:Identification#Identification)](https://tools.gbif.org/dwca-validator/extension.do?id=dwc:Identification#Identification) para el caso de colecciones bológicas. |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de asignaciones taxonómicas que se le han dado al organismo anteriormente. Puede contener la información de quién y cuándo realizó la identificación anterior. Se recomienda hacer uso de la extensión Identification [(https://tools.gbif.org/dwca-validator/extension.do?id=dwc:Identification#Identification)](https://tools.gbif.org/dwca-validator/extension.do?id=dwc:Identification#Identification) para el caso de colecciones biológicas. |
 | Ejemplo | Pinus abies<br> Anthus sp., identificado en campo por G. Iglesias \| Anthus correndera, Identificado por el experto C. Cicero 2009-02-12 basado en morfología<br> Leptolyngbya cf. polysiphoniae \| Leptolyngbya sp. |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
@@ -558,8 +558,8 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Un identificador único para la categoría superior del evento de muestreo. Por ejemplo el identificador del muestreo de un cuadrante, parcela o transecto independientemente del tiempo o temporada cuando se realice el muestro. Este identificador es más general que el eventID y puede agrupar varios eventID. |
-| Comentarios | Este elemento debe estar acompañado siempre del elemento eventID, como se muestra en el ejemplo a continuación:<br><br> A1 como parentEventID para identificar una parcela, cada sub-parcela con su propio eventID (A1:1, A1:2, etc.)<br> BENTOS como parentEventID para identificar un evento de muestreo y cada parte del evento con us propio eventID (BENTOS:E-1, BENTOS:E-2, etc.) |
+| Definición | Un identificador único para la categoría superior del evento de muestreo. Por ejemplo, el identificador del muestreo de un cuadrante, parcela o transecto independientemente del tiempo o temporada cuando se realice el muestro. Este identificador es más general que el eventID y puede agrupar varios eventID. |
+| Comentarios | Este elemento debe estar acompañado siempre del elemento eventID, como se muestra en el ejemplo a continuación:<br><br> A1 como parentEventID para identificar una parcela, cada sub-parcela con su propio eventID (A1:1, A1:2, etc.)<br> BENTOS como parentEventID para identificar un evento de muestreo y cada parte del evento con su propio eventID (BENTOS:E-1, BENTOS:E-2, etc.) |
 | Ejemplo | A1<br> BENTOS |
 | Elementos relacionados | eventID |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
@@ -569,7 +569,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Un identificador único para el Evento de muestreo, que ocurre en un lugar y tiempo determinado. Por ejemplo el identificador del muestreo de un cuadrante, parcela o transecto en un tiempo o temporada específicos. Este identificador es más específico que el parentEventID. |
+| Definición | Un identificador único para el Evento de muestreo, que ocurre en un lugar y tiempo determinado. Por ejemplo, el identificador del muestreo de un cuadrante, parcela o transecto en un tiempo o temporada específicos. Este identificador es más específico que el parentEventID. |
 | Comentarios | Este elemento puede estar acompañado del elemento parentEventID, como se muestra en el ejemplo a continuación:<br><br> A1:1 \| A1:2 como eventID para identificar cada sub-parcela perteneciente a la parcela A1<br> BENTOS:E-1 \| BENTOS:E-2 como EventID para identificar cada parte del evento de muestreo perteneciente al evento BENTOS |
 | Ejemplo | A1:1<br> BENTOS:E-1 |
 | Elementos relacionados | parentEventID |
@@ -711,7 +711,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Un indicador sobre la existencia o referencia (publicación URI) a las notas de campo; o el texto de las notas tomadas en campo sobre el evento. |
-| Ejemplo | Notas disponibles en la Biblioteca Grinnell-Miller<br> Este espécimen fue colectado en un arbol de caracoli, una nota de campo fue descrita para mencionar este evento, eran depredados por Epicrates maurus |
+| Ejemplo | Notas disponibles en la Biblioteca Grinnell-Miller<br> Este espécimen fue colectado en un árbol de caracolí, una nota de campo fue descrita para mencionar este evento, eran depredados por Epicrates maurus |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
@@ -762,7 +762,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de la geografía inmediatamente superior al sitio o ubicación donde se realizó el registro. Si hay modificaciones en la localidad para estandarizar su contenido puede documentar en este elemento los los datos originales (sin estandarizar) de esos términos. |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de la geografía inmediatamente superior al sitio o ubicación donde se realizó el registro. Si hay modificaciones en la localidad para estandarizar su contenido puede documentar en este elemento los datos originales (sin estandarizar) de esos términos. |
 | Comentarios | Este elemento debe estar acompañado de otros elementos del estándar, como se muestra en el ejemplo a continuación:<br><br> América \| Sudamérica \| Colombia \| Región del Pacífico \| Valle del Cauca \| La Cumbre \| Bitaco (Con los valores resultantes de SA en continent, Colombia en country, Valle del Cauca en stateProvince, La Cumbre en county y Bitaco en municipality). |
 | Ejemplo | América \| Sudamérica \| Colombia \| Región del Pacífico \| Valle del Cauca \| La Cumbre \| Bitaco |
 | Elementos relacionados | higherGeographyID, continent, country, stateProvince, county, municipality |
@@ -1037,7 +1037,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | La latitud geográfica (en grados decimales, utilizando el sistema de referencia espacial provisto en geodeticDatum) del centro geográfico de una ubicación. Los valores positivos se encuentran al norte del ecuador, los valores negativos estan al sur del mismo. Los valores admitidos se encuentran entre -90 y 90. |
+| Definición | La latitud geográfica (en grados decimales, utilizando el sistema de referencia espacial provisto en geodeticDatum) del centro geográfico de una ubicación. Los valores positivos se encuentran al norte del ecuador, los valores negativos están al sur del mismo. Los valores admitidos se encuentran entre -90 y 90. |
 | Ejemplo | 6.05486<br> 12.584877 |
 | Elementos relacionados | geodeticDatum |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
@@ -1172,7 +1172,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Comentarios o anotaciones acerca de la determinación de la descripción espacial, los supuestos hechos que explican las adiciones formalizadas en el método referido en  georeferenceProtocol. Se recomienda que la longitud de la descripción no supere 20 palabras.. |
+| Definición | Comentarios o anotaciones acerca de la determinación de la descripción espacial, los supuestos hechos que explican las adiciones formalizadas en el método referido en  georeferenceProtocol. Se recomienda que la longitud de la descripción no supere 20 palabras. |
 | Ejemplo | Distancia asumida a partir de la carretera (Autopista 101) |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
@@ -1454,7 +1454,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | El grado de incertidumbre de la identificación puede indicarse agregando varios términos, como aff. y cf. al nombre científico. El calificador se aplica a la parte del nombre que sigue inmediatamente al calificador y se pueden colocar delante de cualquier elemento del nombre.<br><br>  cf.  del latín confer significa comparado con. Su uso indica que no hay certeza de la identidad de la especie (o rango taxonómico superior) hasta que se pueda hacer una comparación más detallada, por ejemplo con algún tipo o material de referencia. <br><br>  aff. del latín affinis significa similar o limítrofe. Su uso indica que el material o la evidencia disponible sugiere que la especie propuesta está relacionada, tiene afinidad, pero no es idéntica, a la especie o taxón que le sigue. |
+| Definición | El grado de incertidumbre de la identificación puede indicarse agregando varios términos, como aff. y cf. al nombre científico. El calificador se aplica a la parte del nombre que sigue inmediatamente al calificador y se pueden colocar delante de cualquier elemento del nombre.<br><br>  cf.  del latín confer significa comparado con. Su uso indica que no hay certeza de la identidad de la especie (o rango taxonómico superior) hasta que se pueda hacer una comparación más detallada, por ejemplo, con algún tipo o material de referencia. <br><br>  aff. del latín affinis significa similar o limítrofe. Su uso indica que el material o la evidencia disponible sugiere que la especie propuesta está relacionada, tiene afinidad, pero no es idéntica, a la especie o taxón que le sigue. |
 | Comentarios| Documente este elemento de acuerdo a las siguientes explicaciones:<br><br> cf. agrifolia  (Para Quercus cf. agrifolia, con valores acompañantes scientificName: Quercus , genus: Quercus, taxonRank: Género.)<br><br> aff. Sparassidae (Para cf. Sparassidae, con valores acompañantes  scientificName: Araneae, order: Araneae, taxonRank: Orden.) |
 | Ejemplo | cf. agrifolia<br> aff. Sparassidae |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_
@@ -1619,7 +1619,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | El nombre científico del epíteto infragenérico (por encima de la especie pero por debajo del género) al que pertenece el taxón. |
+| Definición | El nombre científico del epíteto infragenérico (por encima de la especie, pero por debajo del género) al que pertenece el taxón. |
 | Comentarios | Se usa por ejemplo para secciones en botánica como se muestra a continuación:<br><br> Cracca (para scientificName Vicia sect. Cracca |
 | Ejemplo | Cracca |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
@@ -1672,7 +1672,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | La categoría taxonómica del nombre más específico tal y como aparece en el registro original. Se utiliza para documentar abreviaciones que dan cuenta de incertidumbres o morfotipos en el registros. |
+| Definición | La categoría taxonómica del nombre más específico tal y como aparece en el registro original. Se utiliza para documentar abreviaciones que dan cuenta de incertidumbres o morfotipos en el registro. |
 | Ejemplo | sp1.<br> sp2.<br> Morfotipo1.<br> sub-lesus<br> prole<br> apomict<br> spp. |
 | Elementos relacionados | scientificName |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
@@ -1692,7 +1692,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | El estado taxonómico que define el uso del scientificName de acuerdo a un árbol taxnómico u opinión de experto. |
+| Definición | El estado taxonómico que define el uso del scientificName de acuerdo a un árbol taxonómico u opinión de experto. |
 | Ejemplo | Inválido<br> Válido<br> Aceptado<br> Sinónimo<br> Sinónimo homotípico<br> Sinónimo heterotípico<br> Ambiguo<br> Mal aplicado |
 | Elementos relacionados | scientificName |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
@@ -1967,7 +1967,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Un identificador para la medida o hecho. Puede ser un identificador único global o un identificador específico para el conjunto de datos. El identificador puede construirse a partir de tesauros específicos como NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/) comunmente usado para datos marinos.<br><br> Puede construirse a partir de la siguiente estructura: [measurementTypeID]:[consecutivo] |
+| Definición | Un identificador para la medida o hecho. Puede ser un identificador único global o un identificador específico para el conjunto de datos. El identificador puede construirse a partir de tesauros específicos como NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/) comúnmente usado para datos marinos.<br><br> Puede construirse a partir de la siguiente estructura: [measurementTypeID]:[consecutivo] |
 | Ejemplo | P01/current/AREABEDS:001 |
 | _(Obligatoriedad)_ | _(Opcional)_
 |    |    |
@@ -1987,7 +1987,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Un identificador para el valor documentado en measurementType (Identificador único global, URI), este identificador debe ser un vocabulario controlado. |
-| Comentarios | Se recomienda el uso del vocabulario NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/) para datos marinos, como se muestra a continuación:<br><br> http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/ (= Longitud del tramo muestreado)<br> <http://vocab.nerc.ac.uk/collection/Q01/current/Q0100002/ (= Nombre del instrumento de muestreo)<br> P01/current/AREABEDS (= Área del fondo marino muestreada) |
+| Comentarios | Se recomienda el uso del vocabulario NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/) para datos marinos, como se muestra a continuación:<br><br> http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/ (= Longitud del tramo muestreado)<br> http://vocab.nerc.ac.uk/collection/Q01/current/Q0100002/ (= Nombre del instrumento de muestreo)<br> P01/current/AREABEDS (= Área del fondo marino muestreada) |
 | Ejemplo | http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/<br> http://vocab.nerc.ac.uk/collection/Q01/current/Q0100002/<br> P01/current/AREABEDS |
 | Elementos relacionados | measurementType |
 | _(Obligatoriedad)_ | _(Opcional)_
@@ -2029,7 +2029,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Las unidades asociadas al measurementValue. Sólo aplica para variables cuantitativas. |
-| Comentarios | La práctica recomendada es utilizar el Sistema Internacional de Unidades (SI) (http://www.sc.ehu.es/sbweb/fisica_/unidades/unidades/unidades_1.html), como se muestra a continuación:<br><br> g (= Gramos)<br> m (= Metros)<br> °C (= Grados Centigrados) |
+| Comentarios | La práctica recomendada es utilizar el Sistema Internacional de Unidades (SI) (http://www.sc.ehu.es/sbweb/fisica_/unidades/unidades/unidades_1.html), como se muestra a continuación:<br><br> g (= Gramos)<br> m (= Metros)<br> °C (= Grados Centígrados) |
 | Ejemplo | g<br> m<br> °C<br> cm<br> s |
 | Elementos relacionados | measurementUnitID, measurementValue |
 | _(Obligatoriedad)_ | _(Condicional)_. Obligatorio para variables cuantitativas |
@@ -2101,7 +2101,7 @@ toc: true
 | ---|--- |
 | Definición | El tipo de recurso multimedia. Para este elemento se debe emplear el vocabulario controlado en inglés. |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
-| [Vocabulario controlado](#elem376) | StillImage<br> MovingImage<br><br> Sound<br> PhysicalObject<br> Event<br><br> (Para mas opciones, se puede consultar el vocabulario controlado completo en la sigueinte URL: [https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://dublincore.org/documents/dcmi-type-vocabulary/](https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://dublincore.org/documents/dcmi-type-vocabulary/)) |
+| [Vocabulario controlado](#elem376) | StillImage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event<br><br> (Para mas opciones, se puede consultar el vocabulario controlado completo en la siguiente URL: [https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://dublincore.org/documents/dcmi-type-vocabulary/](https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://dublincore.org/documents/dcmi-type-vocabulary/)) |
 |    |    |
 
 <a name="elem202">**format** (Formato)</a>
@@ -2248,7 +2248,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Un enlace a la referencia, puede ser un DOI, ISBN, URI ,etc. La referencia puede ser repetida en multiples filas para incluir multiples identificadores que lleven al artículo o a un pdf del artículo. |
+| Definición | Un enlace a la referencia, puede ser un DOI, ISBN, URI ,etc. La referencia puede ser repetida en múltiples filas para incluir multiples identificadores que lleven al artículo o a un pdf del artículo. |
 | Ejemplo | https://link.springer.com/article/10.1007/s10722-020-00960-1<br> https://doi.org/10.15472/jeh0ic<br> http://www.nature.com/ng/journal/v41/n6/pdf/ng0609-637.pdf |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
@@ -2352,7 +2352,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Usado para asignar una referencia bibliográfica a la lista de categorías taxonómicas o nomenclaturales. Se recomienda el uso de un vocabulario controlado. |
-| Ejemplo | Publicación<br> Original<br> Combinación<br> Monografia<br> Flora-Fauna<br> Lista de chequeo<br> Legal<br> Sitio web<br> Experto<br> Otro |
+| Ejemplo | Publicación<br> Original<br> Combinación<br> Monografía<br> Flora-Fauna<br> Lista de chequeo<br> Legal<br> Sitio web<br> Experto<br> Otro |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2429,7 +2429,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Estado de amenaza de una especies definido por IUCN (Internation Union for Conservation of Nature): https://www.iucnredlist.org/ o el estado en la lista del MADS (Ministerio de Medio ambiente y Desarrollo Sostenible): https://doi.org/10.15472/5an5tz. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
+| Definición | Estado de amenaza de una especie de acuerdo a la IUCN (International Union for Conservation of Nature): https://www.iucnredlist.org/ o el estado en la lista del MADS (Ministerio de Medio ambiente y Desarrollo Sostenible): https://doi.org/10.15472/5an5tz. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 | [Vocabulario controlado](#elem374) | EX<br> EW<br> RE<br> CR<br> EN<br> VU<br> NT<br> LC<br> DD<br> NA<br> NE |
 |    |    |
@@ -2826,7 +2826,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | La categoría taxonómica del nombre más específico presente en el scientificName. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
-| Ejemplo | Reino<br> Subreino<br> Filo<br> División<br> Subfilo<br> Subdivisión<br> Clase<br> Subclase<br> Orden<br> Subordenv Familia<br> Subfamilia<br> Tribu<br> Subtribu<br> Género<br> Subgénero<br> Sección<br> Subsección<br> Serie<br> Subserie<br> Especiev Subespecie<br> Variedad<br> Subvariedad<br> Forma<br> Subforma |
+| Ejemplo | Reino<br> Subreino<br> Filo<br> División<br> Subfilo<br> Subdivisión<br> Clase<br> Subclase<br> Orden<br> Suborden<br> Familia<br> Subfamilia<br> Tribu<br> Subtribu<br> Género<br> Subgénero<br> Sección<br> Subsección<br> Serie<br> Subserie<br> Especie<br> Subespecie<br> Variedad<br> Subvariedad<br> Forma<br> Subforma |
 | Elementos relacionados | scientificName |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
@@ -2844,7 +2844,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Un identificador unico para el espécimen, preferiblemente un identificador único global que se pueda resolver.<br><br> En ausencia de un identificador único global persistente, se recomienda construir uno a partir de la combinación: [código corto de la institución]:[código de la colección]:[número de catálogo]. No debe contener espacios en blanco o caracteres especiales. |
+| Definición | Un identificador único para el espécimen, preferiblemente un identificador único global que se pueda resolver.<br><br> En ausencia de un identificador único global persistente, se recomienda construir uno a partir de la combinación: [código corto de la institución]:[código de la colección]:[número de catálogo]. No debe contener espacios en blanco o caracteres especiales. |
 | Ejemplo | UCO:RESCATE_FAUNA_MULATOSII:1<br> UNIVALLE:CRM-UV:1974-001-1 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
@@ -2854,7 +2854,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | El nombre completo de la institución que custodia el espécimen; seguido por su acrónimo en paréntesis, si tiene. |
-| Ejemplo | Ministerio de Ambiente y Desarrollo Sostenible (MADS)<br> Universidad de Antioquia (UdeA)<br> Jardín Botanico de Bogotá José Celestino Mutis (JBB)<br> Universidad de los Andes (UNIANDES) |
+| Ejemplo | Ministerio de Ambiente y Desarrollo Sostenible (MADS)<br> Universidad de Antioquia (UdeA)<br> Jardín Botánico de Bogotá José Celestino Mutis (JBB)<br> Universidad de los Andes (UNIANDES) |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2898,7 +2898,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los nombres de las personas responsables de la colecta u observacieon del espécimen.<br><br> El colector u observador principal, especialmente si está asociado al recordNumber tomado en campo, se debe listar en primer lugar. Se debe mantener el mismo formato del nombre a lo largo de todos los registros y se recomienda evitar el uso de solo iniciales ya que esto genera ambigüedades para reconocer a las personas que realizaron el registro, de ser posible siempre escriba nombres completos. Documente el nombre de las personas y evite documentar nombres de grupos u organizaciones. |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los nombres de las personas responsables de la colecta u observación del espécimen.<br><br> El colector u observador principal, especialmente si está asociado al recordNumber tomado en campo, se debe listar en primer lugar. Se debe mantener el mismo formato del nombre a lo largo de todos los registros y se recomienda evitar el uso de solo iniciales ya que esto genera ambigüedades para reconocer a las personas que realizaron el registro, de ser posible siempre escriba nombres completos. Documente el nombre de las personas y evite documentar nombres de grupos u organizaciones. |
 | Ejemplo | Eduardo Amat García<br> Javier Maldonado Ocampo<br> Mónica Andrea Sánchez Torres \| Esteban Andrés Novoa López |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
@@ -2952,7 +2952,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Un identificador del conjunto de datos del cual se deriva el registro del especímen. |
+| Definición | Un identificador del conjunto de datos del cual se deriva el registro del espécimen. |
 | Ejemplo | I2D-BIO_2015_089<br>001_BIO-RRBB_SC_2019027<br> https://doi.org/10.15472/ympw2s  |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
@@ -3700,7 +3700,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Condiciones bajo las cuales se puede prestar la muestra o espécimen. |
-| Ejemplo | Unicamente para instituciones no comerciales<br> Únicamente con permiso del proveedor del material |
+| Ejemplo | Únicamente para instituciones no comerciales<br> Únicamente con permiso del proveedor del material |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -3788,7 +3788,7 @@ toc: true
 
 |   |
 | ---|
-| Utilizar el vocabulario contraldo para el idioma en la norma ISO 639-1. Solamenete se usan 2 letras en minúscula, consulte la información en la página oficial de ISO [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
+| Utilizar el vocabulario controlado para el idioma en la norma ISO 639-1. Solamente se usan 2 letras en minúscula, consulte la información en la página oficial de ISO [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
 |    |
 
 <a name="elem368">**establishmentMeans** (Medios de establecimiento)</a>
@@ -3829,7 +3829,7 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 | ---|--- |
 | releasedForUse | Liberado |
 | otherEscape | Escape accidental |
-| transportContaminant | Contamiación en transporte |
+| transportContaminant | Contaminación en transporte |
 | transportStowaway | Polizón en transporte |
 | corridor | Corredor |
 | unaided | Sin ayuda |
@@ -3862,7 +3862,7 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 
 |    |
 | ---|--- |
-| Utilizar el vocabulario contraldo de la norma ISO 3166-1-alfa-2 de códigos de países. Solamenete se usan 2 letras en mayúscula, consulte la información en la página [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO) |
+| Utilizar el vocabulario controlado de la norma ISO 3166-1-alfa-2 de códigos de países. Solamente se usan 2 letras en mayúscula, consulte la información en la página [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO) |
 |    |
 
 <a name="elem374">**threatStatus** (Estado de amenaza)</a>
@@ -3888,7 +3888,7 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 | ---|--- |
 | I | Apéndice I que incluye todas las especies en peligro de extinción que están o pueden verse afectadas por el comercio. |
 | II | Apéndice II  que incluye las especies que aunque no están amenazadas pueden llegar a estarlo  de no reglamentar su comercio de manera estricta. |
-| III | Apéndice III que incluye las especies que sujetas a regulación dentro de cualqueir jurisdicción con el propósito de prevenir o restringir la explotación, y que necesitan la cooperación de otras Partes en el control del comercio. |
+| III | Apéndice III que incluye las especies que sujetas a regulación dentro de cualquier jurisdicción con el propósito de prevenir o restringir la explotación, y que necesitan la cooperación de otras Partes en el control del comercio. |
 |    |    |
 
 <a name="elem376">**type** (Tipo)</a>
