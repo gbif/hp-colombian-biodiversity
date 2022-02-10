@@ -147,7 +147,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Información sobre los derechos de acceso o restricciones basadas en políticas de privacidad, seguridad, u otras. |
-| Ejemplo | Sólo para uso no comercial |
+| Ejemplo | Sólo para uso no comercial. |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
@@ -192,7 +192,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Medidas adoptadas para que los datos compartidos sean menos específicos o completos. Sugiere que los datos con mayor detalle existen y pueden estar disponibles bajo petición. |
-| Ejemplo | Coordenadas generalizadas a partir de las coordenadas originales del GPS a la celda más cercana de la grilla. |
+| Ejemplo | Coordenadas generalizadas a partir de las coordenadas originales del GPS a la celda más cercana de la grilla |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
@@ -1409,7 +1409,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|")  de las referencias (publicación, identificador único global, URI) usadas en la identificación. |
-| Ejemplo | Aves del Noroeste Patagónico. Christie et al. 2004. |
+| Ejemplo | Aves del Noroeste Patagónico. Christie et al. 2004 |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
@@ -1652,7 +1652,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | El nombre de un cultivar, grupo de cultivares, o grex (horticultura) que sigue al nombre científico.<br><br> De acuerdo con las Reglas del Código de Plantas Cultivadas, el nombre de un cultivar consiste en un nombre botánico seguido de un epíteto de cultivar. |
-| Comentarios | Documentar de acuerdo a como se muestra a continuación:<br><br> King Edward (para el scientificName "Solanum tuberosum 'King Edward'" y taxonRank "cultivar")<br> Mishmiense (para el scientificName "Rhododendron boothii Mishmiense Group" y taxonRank "grupo de cultivares")<br> Atlantis (para scientificName "Paphiopedilum Atlantis grex" y taxonRank "grex"). |
+| Comentarios | Documentar de acuerdo a como se muestra a continuación:<br><br> King Edward (para el scientificName "Solanum tuberosum 'King Edward'" y taxonRank "cultivar")<br> Mishmiense (para el scientificName "Rhododendron boothii Mishmiense Group" y taxonRank "grupo de cultivares")<br> Atlantis (para scientificName "Paphiopedilum Atlantis grex" y taxonRank "grex") |
 | Ejemplo | King Edward<br> Mishmiense<br> Atlantis |
 | Elementos relacionados | scientificName, taxonRank |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
@@ -1763,7 +1763,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | La referencia a la fuente en la que está definida o implícita la definición conceptual del taxón documentado en scientificName, tradicionalmente representado por el Latín "sensu" o "sec." (de secundum, que significa "según"). Para los taxones que resultan de las identificaciones, una referencia a las claves, monografías, expertos y otras fuentes debe ser provista. |
-| Ejemplo | Franz NM, Cardona-Duque J (2013) Description of two new species and phylogenetic reassessment of Perelleschus Wibmer & O’Brien, 1986 (Coleoptera:<br> Curculionidae), with a complete taxonomic concept history of Perelleschus sec. Franz & Cardona-Duque, 2013. Syst Biodivers. 11: 209–236. |
+| Ejemplo | Franz NM, Cardona-Duque J (2013) Description of two new species and phylogenetic reassessment of Perelleschus Wibmer & O’Brien, 1986 (Coleoptera:<br> Curculionidae), with a complete taxonomic concept history of Perelleschus sec. Franz & Cardona-Duque, 2013. Syst Biodivers. 11: 209–236 |
 | Elementos relacionados | scientificName |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
@@ -1967,7 +1967,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Un identificador para la medida o hecho. Puede ser un identificador único global o un identificador específico para el conjunto de datos. El identificador puede construirse a partir de tesauros específicos como NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/) comúnmente usado para datos marinos.<br><br> Puede construirse a partir de la siguiente estructura: [measurementTypeID]:[consecutivo] |
+| Definición | Un identificador para la medida o hecho. Puede ser un identificador único global o un identificador específico para el conjunto de datos. El identificador puede construirse a partir de tesauros específicos como NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/) comúnmente usado para datos marinos.<br><br> Puede construirse a partir de la siguiente estructura: [measurementTypeID]:[consecutivo]. |
 | Ejemplo | P01/current/AREABEDS:001 |
 | _(Obligatoriedad)_ | _(Opcional)_
 |    |    |
@@ -2258,7 +2258,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Citación bibliográfica completa en formato de texto plano. |
-| Ejemplo | Granados-Martínez, C. y A. Batista. 2017. Macroinvertebrados acuáticos. Pp. 47-65. En: Lasso, C. A. y M. A. Morales-Betancourt (Eds.). III. Fauna de Caño Cristales, sierra La Macarena, Meta, Colombia. Serie Editorial Fauna Silvestre Neotropical. Instituto de Investigación de Recursos Biológicos Alexander von<br> Humboldt (IAvH). Bogotá, D. C., Colombia.<br> Brander, K. (2015). Improving the Reliability of Fishery Predictions Under Climate Change. Current Climate Change Reports, 1(1): 40-48.  doi: 10.1007/s40641-015-0005-7 |
+| Ejemplo | Granados-Martínez, C. y A. Batista. 2017. Macroinvertebrados acuáticos. Pp. 47-65. En: Lasso, C. A. y M. A. Morales-Betancourt (Eds.). III. Fauna de Caño Cristales, sierra La Macarena, Meta, Colombia. Serie Editorial Fauna Silvestre Neotropical. Instituto de Investigación de Recursos Biológicos Alexander von<br> Humboldt (IAvH). Bogotá, D. C., Colombia<br> Brander, K. (2015). Improving the Reliability of Fishery Predictions Under Climate Change. Current Climate Change Reports, 1(1): 40-48.  doi: 10.1007/s40641-015-0005-7 |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
@@ -2306,7 +2306,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Resumen, notas o comentarios de la publicación referenciada. |
-| Ejemplo | La Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena-Cormacarena y el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, decidieron realizar estudios sobre la fauna en Caño Cristales (sierra de La Macarena). Se realizó entonces una evaluación rápida de la biodiversidad de Caño Cristales en octubre 2016 a fin de caracterizar los siguientes grupos: macroinvertebrados acuáticos, peces, anfibios, reptiles, aves y mamíferos. |
+| Ejemplo | La Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena-Cormacarena y el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, decidieron realizar estudios sobre la fauna en Caño Cristales (sierra de La Macarena). Se realizó entonces una evaluación rápida de la biodiversidad de Caño Cristales en octubre 2016 a fin de caracterizar los siguientes grupos: macroinvertebrados acuáticos, peces, anfibios, reptiles, aves y mamíferos |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2334,7 +2334,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Información de los derechos de autor de la publicación referenciada. |
-| Ejemplo | Todos los derechos reservados, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena Cormacarena 2017. |
+| Ejemplo | Todos los derechos reservados, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena Cormacarena 2017 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2546,7 +2546,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Fuente de la cual se obtuvo la información de la descripción del taxón. Puede ser una cita bibliográfica (se recomienda formato APA), una URL de página web, etc. |
-| Ejemplo | https://catalogo.biodiversidad.co/file/5f8e304b77e76556702a222b/summary<br> Acosta-Galvis, A.R. 2000. Ranas, Salamandras y Caecilias (Tetrapoda: Amphibia) de Colombia. Biota Colombiana: 289-319.a |
+| Ejemplo | https://catalogo.biodiversidad.co/file/5f8e304b77e76556702a222b/summary<br> Acosta-Galvis, A.R. 2000. Ranas, Salamandras y Caecilias (Tetrapoda: Amphibia) de Colombia. Biota Colombiana: 289-319 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2808,7 +2808,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | La cita bibliográfica de la publicación donde se encuentra la designación de tipo nomenclatural. |
-| Ejemplo | Sutherland CHN. 2009. Redescubrimiento del holotipo de Epidendrum × doroteae P.H. Allen (Orchidaceae). CEIBA, Vol. 50 Núm. 1. |
+| Ejemplo | Sutherland CHN. 2009. Redescubrimiento del holotipo de Epidendrum × doroteae P.H. Allen (Orchidaceae). CEIBA, Vol. 50 Núm. 1 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -3279,7 +3279,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | El texto del permiso con la información de recolección, envío y/o más detalles. |
-| Ejemplo | Permiso de recolección otorgado por la Autoridad Nacional de Licencias Ambientales mediante resolución 1271 del 23 de octubre de 2014 para la recolección es especímenes de especies silvestres de la biodiversidad biológica con fines de investigación científica no comerciales. Vigencia de 10 años. |
+| Ejemplo | Permiso de recolección otorgado por la Autoridad Nacional de Licencias Ambientales mediante resolución 1271 del 23 de octubre de 2014 para la recolección es especímenes de especies silvestres de la biodiversidad biológica con fines de investigación científica no comerciales. Vigencia de 10 años |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -3346,8 +3346,8 @@ toc: true
 | [**amplificationDate**<br> (Fecha de la amplificación)](#elem323) | [**amplificationStaff**<br> (Amplificado por)](#elem324) | [**amplificationSuccess**<br> (Éxito de la amplificación)](#elem325) |
 | [**amplificationSuccessDetails**<br> (Detalle del éxito de la amplificación)](#elem326) | [**amplificationMethod**<br> (Método de la amplificación)](#elem327) | [**primerSequenceForward**<br> (Cebador directo)](#elem328) |
 | [**primerNameForward**<br> (Nombre del cebador directo)](#elem329) | [**primerReferenceCitationForward**<br> (Citación del cebador directo)](#elem330) | [**primerReferenceLinkForward**<br> (URL del cebador directo)](#elem331) |
-| [**primerSequenceReverse**<br> (Cebador inverso)](#elem332) | [**primerNameForward**<br> (Nombre del cebador inverso)](#elem333) | [**primerReferenceCitationForward**<br> (Citación del cebador inverso)](#elem334) |
-| [**primerReferenceLinkForward**<br> (URL del cebador inverso)](#elem335) | [**purificationMethod**<br> (Método de purificación)](#elem336) | [**consensusSequence**<br> (Secuencia consenso)](#elem337) |
+| [**primerSequenceReverse**<br> (Cebador inverso)](#elem332) | [**primerNameReverse**<br> (Nombre del cebador inverso)](#elem333) | [**primerReferenceCitationReverse**<br> (Citación del cebador inverso)](#elem334) |
+| [**primerReferenceLinkReverse**<br> (URL del cebador inverso)](#elem335) | [**purificationMethod**<br> (Método de purificación)](#elem336) | [**consensusSequence**<br> (Secuencia consenso)](#elem337) |
 | [**consensusSequenceLength**<br> (Longitud de la secuencia consenso)](#elem338) | [**consensusSequence<br>ChromatogramFileURI**<br> (Identificador del archivo del<br> cromatograma de la secuencia consenso)](#elem339) | [**barcodeSequence**<br> (Secuencia código de barras)](#elem340) |
 | [**haplotype**<br> (Haplotipo)](#elem341) | [**marker**<br> (Marcador)](#elem342) | [**markerSubfragment**<br> (Subfragmento del marcador)](#elem343) |
 | [**geneticAccessionNumber**<br> (Número de accesión genético)](#elem344) | [**BOLDProcessID**<br> (ID del proceso de BOLD)](#elem345) | [**geneticAccessionURI**<br> (Identificador de accesión genético)](#elem346) |
@@ -3428,7 +3428,7 @@ toc: true
 |    |    |
 | ---|--- |
 | Definición | Citación bibliográfica completa en formato de texto plano, donde se referencia el cebador directo utilizado para el proceso de amplificación. |
-| Ejemplo | Fujikawa T & Iwanami T. 2012. Sensitive and robust detection of citrus greening (huanglongbing) bacterium “Candidatus Liberibacter asiaticus” by DNA amplification with new 16S rDNA-specific primers. Molecular and Cellular Probes, Volume 26, Issue 5, pages 194-197. |
+| Ejemplo | Fujikawa T & Iwanami T. 2012. Sensitive and robust detection of citrus greening (huanglongbing) bacterium “Candidatus Liberibacter asiaticus” by DNA amplification with new 16S rDNA-specific primers. Molecular and Cellular Probes, Volume 26, Issue 5, pages 194-197 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -3450,7 +3450,7 @@ toc: true
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem333">**primerNameForward** (Nombre del cebador inverso)</a>
+<a name="elem333">**primerNameReverse** (Nombre del cebador inverso)</a>
 
 |    |    |
 | ---|--- |
@@ -3459,16 +3459,16 @@ toc: true
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem334">**primerReferenceCitationForward** (Citación del cebador inverso)</a>
+<a name="elem334">**primerReferenceCitationReverse** (Citación del cebador inverso)</a>
 
 |    |    |
 | ---|--- |
 | Definición | Citación bibliográfica completa en formato de texto plano, donde se referencia el cebador inverso utilizado para el proceso de amplificación. |
-| Ejemplo | Fujikawa T & Iwanami T. 2012. Sensitive and robust detection of citrus greening (huanglongbing) bacterium “Candidatus Liberibacter asiaticus” by DNA amplification with new 16S rDNA-specific primers. Molecular and Cellular Probes, Volume 26, Issue 5, pages 194-197. |
+| Ejemplo | Fujikawa T & Iwanami T. 2012. Sensitive and robust detection of citrus greening (huanglongbing) bacterium “Candidatus Liberibacter asiaticus” by DNA amplification with new 16S rDNA-specific primers. Molecular and Cellular Probes, Volume 26, Issue 5, pages 194-197 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem335">**primerReferenceLinkForward** (URL del cebador inverso)</a>
+<a name="elem335">**primerReferenceLinkReverse** (URL del cebador inverso)</a>
 
 |    |    |
 | ---|--- |
@@ -3580,7 +3580,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Contenido de guanina-citosina dado en mol % |
+| Definición | Contenido de guanina-citosina dado en mol %. |
 | Ejemplo | 35<br> 60 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
