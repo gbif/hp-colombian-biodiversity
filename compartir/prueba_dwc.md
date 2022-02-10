@@ -70,7 +70,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | El nombre, acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el organismo. Si corresponde a una colección biológica registrada en el Registro Único Nacional de Colecciones Biológicas - RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones), se puede emplear el acrónimo allí registrado, aunque también es válido el uso del acrónimo que implemente la colección internamente. |
+| Definición | El nombre, acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el organismo. Aunque es válido el uso del acrónimo que implemente la colección internamente se recomienda hacer uso del acrónimo registrado en:<br><br> - GBIF Registry of Scientific Collections [(https://www.gbif.org/grscicoll/collection/search)](https://www.gbif.org/grscicoll/collection/search)<br> - Registro Único Nacional de Colecciones Biológicas-RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones) |
 | Ejemplo | COL<br> ANDES-E<br> FMB |
 | Elementos relacionados | collectionID |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
@@ -80,8 +80,8 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Un identificador de la colección registrada en el elemento collectionCode. Si corresponde a una colección biológica registrada en el Registro Único Nacional de Colecciones Biológicas - RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones), se debe emplear el identificador allí registrado. En tal caso documentar: [RNC:]+[Número de la colección], sin espacios. |
-| Ejemplo | RNC:001<br> RNC:010<br> RNC:250 |
+| Definición | Un identificador de la colección registrada en el elemento collectionCode. Se recomienda hacer uso de los identificadores registrados en:<br><br> - GBIF Registry of Scientific Collections [(https://www.gbif.org/grscicoll/collection/search)](https://www.gbif.org/grscicoll/collection/search)<br> - Registro Único Nacional de Colecciones Biológicas-RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones) |
+| Ejemplo | GRSciColl:223644<br> RNC:250 |
 | Elementos relacionados | collectionCode |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
 |    |    |
@@ -2248,7 +2248,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | Un enlace a la referencia, puede ser un DOI, ISBN, URI ,etc. La referencia puede ser repetida en múltiples filas para incluir multiples identificadores que lleven al artículo o a un pdf del artículo. |
+| Definición | Un enlace a la referencia, puede ser un DOI, ISBN, URI ,etc. La referencia puede ser repetida en múltiples filas para incluir múltiples identificadores que lleven al artículo o a un pdf del artículo. |
 | Ejemplo | https://link.springer.com/article/10.1007/s10722-020-00960-1<br> https://doi.org/10.15472/jeh0ic<br> http://www.nature.com/ng/journal/v41/n6/pdf/ng0609-637.pdf |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
@@ -2862,7 +2862,7 @@ toc: true
 
 |    |    |
 | ---|--- |
-| Definición | El nombre, acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el espécimen. Si corresponde a una colección biológica registrada en el Registro Único Nacional de Colecciones Biológicas-RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones), se debe emplear el acrónimo allí registrado. |
+| Definición | El nombre, acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el organismo. Aunque es válido el uso del acrónimo que implemente la colección internamente se recomienda hacer uso del acrónimo registrado en:<br><br> - GBIF Registry of Scientific Collections [(https://www.gbif.org/grscicoll/collection/search)](https://www.gbif.org/grscicoll/collection/search)<br> - Registro Único Nacional de Colecciones Biológicas-RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones). |
 | Ejemplo | COL<br> ANDES<br> FMB |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
