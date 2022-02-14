@@ -19,5 +19,6 @@ La participación del Equipo Coordinador del SiB Colombia en este proyecto está
 |Evaluación de los datos hidrobiológicos| 68.000| Hidrobiológicos| En proceso|
 |Reubicación de fauna terrestre y acuática| 42.000| Fauna| En proceso|
 
-
-<a title="Dr Brains (GFDL 1.2 &lt;http://www.gnu.org/licenses/old-licenses/fdl-1.2.html&gt; or GFDL 1.3 &lt;www.gnu.org/licenses/fdl-1.3.html&gt;), via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Antioquia_Topographic_2.png"><img width="512" alt="Antioquia Topographic 2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Antioquia_Topographic_2.png/512px-Antioquia_Topographic_2.png"></a>
+<img src="/comunidad/proyectos/images/hidroituango-zona-obras-principales.jpg" width=770>
+*Hidroituango-Zona de las obras principales. Foto: John Jairo Jaramillo* <https://flic.kr/p/8m6QSM>
+ 
