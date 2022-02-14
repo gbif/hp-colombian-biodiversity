@@ -15,12 +15,14 @@ composition:
 ---
 
 
+
 ### ¡Esta es una lista en construcción de los proyectos nacionales con participación de SiB Colombia!
 
 
 
 | Nombre| Vigencia | Objetivo del proyecto |
 | -------- | -------- | -------- |
+|[Proyecto EPM - HidroItuango](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/epm)|2021 - en progreso|Hacer un análisis integral del territorio en la cuenca media y baja del río Cauca con énfasis en la Gestión Integral de la Biodiversidad y Servicios Ecosistémicos|
 |[Mapa de Vegetación de Colombia](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/mapa-vegetacion)|2021 - en progreso|Aportar al conocimiento básico de la flora nacional y servir como insumo para la protección y conservación de los suelos |
 |[GBIF BID CARIBE: Dípteros  descomponedores: aplicación de su diversidad en aspectos forenses, de conservación y sanitarios](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/dipteros-descomponedores)|2021 - en progreso|Movilizar datos de las moscas descomponedoras a través de las plataformas del SiB Colombia y la red de GBIF para brindar información de libre acceso y generar impactos positivos en salud|
 |[GBIF BID CARIBE: Movilizar los datos marinos de las Colecciones de Historia Natural de Colombia](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/informacion-marina)|2021 - en progreso|Aumentar la accesibilidad de la información marina de las Colecciones de Historia Natural de Colombia mediante la movilización de datos, capacitaciones y fortalecimiento de la infraestructura|
@@ -31,4 +33,5 @@ composition:
 |[Experiencia piloto para la construcción de la línea base regional del área priorizada en los departamentos de Putumayo, Caquetá y Nariño - Medio Biótico](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/anh-putumayo)|2020|Construir la línea base regional del Putumayo para facilitar procesos de planeación productivos y sostenibles|
 |[Boyacá BIO](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/boyaca-bio)|2019|Responder preguntas fundamentales sobre el estado de la biodiversidad en la región de Boyacá de manera eficaz, sencilla y oportuna|
 |[Santander BIO](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/santander-bio)|2018-2019|Responder preguntas fundamentales sobre el estado de la biodiversidad en la región de Santander de manera eficaz, sencilla y oportuna|
+
 
