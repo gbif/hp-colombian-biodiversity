@@ -36,20 +36,20 @@ Se espera que en los meses posteriores al taller los datos sobre biodiversidad r
    
 ##### Asistentes:
 
- - Andres Felipe Ordoñez Casadiego
- - Angie Lizeth Sanchez Alvarez
+ - Andrés Felipe Ordóñez Casadiego
+ - Angie Lizeth Sánchez Álvarez
  - Carlos Javier Díaz Acevedo
- - Carlos Mario Beltran Castaño
- - Daniel Felipe Rodriguez Rueda
- - Diana Marcela Sanchez Lobo
+ - Carlos Mario Beltrán Castaño
+ - Daniel Felipe Rodríguez Rueda
+ - Diana Marcela Sánchez Lobo
  - Ramiro Andrés Cubides
  - Jhon Alexander Mantilla Carreño
- - Vladimir Andres Beltran Tirado
+ - Vladimir Andrés Beltrán Tirado
  - Elson Meneses Pelayo
- - Lineth Velasquez Quintero
- - Lissette Karina Liñan Duran
- - Jhon Alexander Suescun Sepulveda
- - Jessica Sarmiento
+ - Lineth Velásquez Quintero
+ - Lissette Karina Liñán Durán
+ - Jhon Alexander Suescún Sepúlveda
+ - Jéssica Sarmiento
  - Juan Camilo Manrique Pinto
  - Angie Nurien Duarte Moreno
  - Adriana Gómez Reyes
@@ -58,7 +58,7 @@ Se espera que en los meses posteriores al taller los datos sobre biodiversidad r
  - Mauricio Jerez Guerrero
  - Sonia Adame
  - Daniela Pachón Prada
- - Jerson Jair Gomez
+ - Jerson Jair Gómez
  
 #### Enlaces de interés:
 
