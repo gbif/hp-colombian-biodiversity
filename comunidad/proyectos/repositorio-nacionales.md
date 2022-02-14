@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 title: Proyectos nacionales 
-description: Listado de proyectos nacionales de los que hace parte SiB Colombia 
+description: El SiB Colombia articula alianzas con diferentes socios publicadores a nivel nacional 
 background:  /comunidad/proyectos/images/tree-fern.jpg
 imageLicense: |
   Fotografía de: Keith Ewing vía [Flickr](https://flic.kr/p/nZ8oiX) 
