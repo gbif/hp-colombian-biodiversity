@@ -11,3 +11,5 @@ El Equipo Coordinador desarrolló la primera ventana regional de datos sobre bio
 Este es el primer paso en la regionalización del SiB Colombia. Como herramienta, su objetivo principal es el de responder preguntas fundamentales sobre el estado de la biodiversidad a nivel regional de manera eficaz, sencilla y oportuna
 
 El lanzamiento de esta ventana ocurrió en el marco del Foro sobre Biodiversidad del Departamento de Santander, evento central de cierre del proyecto Santander BIO, que se llevó a cabo en la ciudad de Bucaramanga en el mes de febrero de 2019.
+
+**Contenido relacionado en nuestra sección de [noticias](https://biodiversidad.co/post/2019/taller-universidad-industrial-de-santander/).**
