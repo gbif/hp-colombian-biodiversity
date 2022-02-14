@@ -21,9 +21,13 @@ Solamente el sector empresarial representado por la ANDI, agrupa cerca de 1200 e
 
 Esta alianza surge como una gran oportunidad para garantizar la participación del sector empresarial a nivel nacional e internacional, acelerando la generación de conocimiento de nuestra biodiversidad a partir de la publicación de datos a través del SiB Colombia de una manera organizada y sistemática.
 
-# Conoce la guía para compartir datos a través de SiB Colombia y GBIF
+# Conoce la guía para compartir datos a través del SiB Colombia y GBIF
 
-<div><iframe src="/acercade/imagenes/libro-andi.pdf" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+<div class="container is-max-desktop">
+  <div class="notification is-primary">
+    <a href= "/acercade/imagenes/libro-andi.pdf" target="_blank">Descarga la guía aquí</a>
+  </div>
+</div>
 
 # ¿Qué se busca con la alianza?
 
@@ -243,7 +247,7 @@ ___
     <summary markdown="span"><b>¿Puede llegar a haber duplicidad de la información si la consultora quien realiza el EIA pública la información y la empresa quiere reportar la información ahora con esta alianza?</b></summary>
     
 <br>
-Si. Sin embargo, esta duplicidad potencial no es una limitante para la publicación. De llegarse a presentar es posible identificarla con identificadores únicos. Otra opción es realizar una actualización del conjunto de datos publicado por la consultora donde se incluya como coautor de la publicación a la empresa para asegurar su visibilidad y atribución.</details>
+Sí. Sin embargo, esta duplicidad potencial no es una limitante para la publicación. De llegarse a presentar es posible identificarla con identificadores únicos. Otra opción es realizar una actualización del conjunto de datos publicado por la consultora donde se incluya como coautor de la publicación a la empresa para asegurar su visibilidad y atribución.</details>
 
 
 ___
@@ -253,7 +257,7 @@ ___
     <summary markdown="span"><b>¿La publicación de información incluye comunidades hidrobiológicas e información relacionada con insectos de importancia en salud pública?</b></summary>
     
 <br>
-Si, todos los datos de las diferentes especies son bienvenidos, en especial los de estos grupos biológicos que tienen una baja representatividad en el SiB Colombia.</details>
+Sí, todos los datos de las diferentes especies son bienvenidos, en especial los de estos grupos biológicos que tienen una baja representatividad en el SiB Colombia.</details>
 
 ___
 
@@ -262,7 +266,7 @@ ___
     <summary markdown="span"><b>¿La plataforma puede adicionar también imágenes de las cámaras trampa? es decir, la plataforma soporta imágenes y video para también enviar esta información?</b></summary>
     
 <br>
-Si. La plataforma puede integrar imágenes, audios y videos que estén asociadas a los datos publicados. Es importante precisar que estos contenidos multimedia deben estar en un repositorio de la organización porque el SiB Colombia no funciona como repositorio de estos contenidos. Algunos ejemplos:
+Sí. La plataforma puede integrar imágenes, audios y videos que estén asociadas a los datos publicados. Es importante precisar que estos contenidos multimedia deben estar en un repositorio de la organización porque el SiB Colombia no funciona como repositorio de estos contenidos. Algunos ejemplos:
 
 <ul>    
  <li><a href= "https://www.gbif.org/es/dataset/2d1ecede-c4ac-47fd-aef1-34cee9dfd85a" target="_blank">Genética de la Conservación del Oso Andino en los Parques Nacionales Naturales (PNN) del Subsistema de Áreas Protegidas Andes Orientales de Colombia</a>.</li>
@@ -282,7 +286,7 @@ ___
     <summary markdown="span"><b>¿Podemos incluir toda la información de monitoreo asociada a los proyectos de reducción de emisiones tipo REDD+ y restauración de ecosistemas? Ellos arrojan indicadores específicos basados en estándares como CCB y FSC.</b></summary>
     
 <br>
-No toda la información es apropiada para integrar al SiB Colombia, pero si la mayoría. Aquí hay algunos ejemplos de información generada en proyectos REDD+:
+No toda la información es apropiada para integrar al SiB Colombia, pero sí la mayoría. Aquí hay algunos ejemplos de información generada en proyectos REDD+:
 
 <ul>    
 <li><a href= "https://www.gbif.org/es/dataset/e8e716a0-201a-49af-85a1-c21101c6b9d3" target="_blank">Cbosques húmedos tropicales de Bahía Málaga, municipio de Buenaventura, Valle del Cauca</a>.</li>
@@ -342,7 +346,7 @@ ___
     <summary markdown="span"><b>¿Existe la posibilidad de capacitaciones para las empresas que se encuentran interesadas en participar?</b></summary>
     
 <br>
-Si. Justamente es parte de los objetivos de la alianza, generar espacios de creación y transferencia de capacidades para los equipos de trabajo de las empresas.</details>
+Sí. Justamente es parte de los objetivos de la alianza, generar espacios de creación y transferencia de capacidades para los equipos de trabajo de las empresas.</details>
 
 ___
 
@@ -360,7 +364,7 @@ ___
     <summary markdown="span"><b>¿Se pueden generar restricciones de uso a la información que se publique? ¿Los "publicadores" tendrán acceso preferencial a la información del SiB Colombia?</b></summary>
     
 <br>
-Si, siempre y cuando estas restricciones permitan su reúso el algún nivel. El SiB Colombia cuenta con una política de datos abiertos y unas opciones de licenciamiento preestablecidas, a partir de las cuales el publicador determina la forma como los comparten y las condiciones que imponen a los usuarios que los reutilicen. Cualquier usuario tiene el mismo acceso preferencial a los datos una vez hayan sido publicados a través del SiB Colombia.</details>
+Sí, siempre y cuando estas restricciones permitan su reúso el algún nivel. El SiB Colombia cuenta con una política de datos abiertos y unas opciones de licenciamiento preestablecidas, a partir de las cuales el publicador determina la forma como los comparten y las condiciones que imponen a los usuarios que los reutilicen. Cualquier usuario tiene el mismo acceso preferencial a los datos una vez hayan sido publicados a través del SiB Colombia.</details>
 
 ___
 
@@ -369,7 +373,7 @@ ___
     <summary markdown="span"><b>¿Es posible hacer publicaciones en revistas científicas con los datos publicados a través del SiB Colombia y en esta tarea qué apoyo podría prestar el Equipo Coordinador?</b></summary>
     
 <br>
-Si. Los <a href= "https://www.gbif.org/es/data-papers" target="_blank">Artículos de Datos o Data Papers</a> son una opción para este tipo de publicaciones. El Equipo Coordinador puede orientar al publicador interesado durante el proceso de publicación a través del SiB Colombia que comprende el 90% de una publicación de un artículo de datos. Aquí un ejemplo de una de las publicaciones más recientes: <a href= "https://bdj.pensoft.net/article/33091/" target="_blank">First visual occurrence data for deep-sea cnidarians in the South-western Colombian Caribbean</a>.</details>
+Sí. Los <a href= "https://www.gbif.org/es/data-papers" target="_blank">Artículos de Datos o Data Papers</a> son una opción para este tipo de publicaciones. El Equipo Coordinador puede orientar al publicador interesado durante el proceso de publicación a través del SiB Colombia que comprende el 90% de una publicación de un artículo de datos. Aquí un ejemplo de una de las publicaciones más recientes: <a href= "https://bdj.pensoft.net/article/33091/" target="_blank">First visual occurrence data for deep-sea cnidarians in the South-western Colombian Caribbean</a>.</details>
 
     
 ___
