@@ -23,7 +23,8 @@ Esta alianza surge como una gran oportunidad para garantizar la participación d
 
 # Conoce la guía para compartir datos a través del SiB Colombia y GBIF
 
-[Desacargue aquí la guía](/acercade/imagenes/libro-andi.pdf){: .button .is-primary :}
+
+[Descargue aquí la guía](/acercade/imagenes/libro-andi.pdf){: .button .is-primary :}
 
 # ¿Qué se busca con la alianza?
 
