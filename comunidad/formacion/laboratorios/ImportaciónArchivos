@@ -1,7 +1,7 @@
 ---
 layout: documentation
 permalink: /formacion/laboratorios/ImportaciónArchivos
-title: "Estandarización de datos usando las extensiones del Darwin Core"
+title: "Importación de archivos"
 description: "Objetivo: Realizar la correcta importación de datos en formato de texto plano a Excel."
 sideNavigation: sidenav_laboratorios.terms
 toc: true
