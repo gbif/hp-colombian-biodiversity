@@ -11,24 +11,19 @@ background: /assets/images/noticias_eventos/2022/2022-02-08-jovenes-investigador
 
 <div><iframe src="http://portal.strm.net/documentos/Volante_ejemplo.pdf" width="640" height="360" frameborder="0" allow="autoplay; picture-in-picture"></iframe></div>
 
-
 <div><iframe src="http://portal.strm.net/documentos/Volante_ejemplo.pdf" width="640" height="360" frameborder="0" allow="autoplay; fullscreen"></iframe></div>
-
 
 <div><iframe src="http://portal.strm.net/documentos/Volante_ejemplo.pdf" width="640" height="360" frameborder="0" allow="autoplay"></iframe></div>
 
 <div><iframe src="http://portal.strm.net/documentos/Volante_ejemplo.pdf" width="640" height="360" frameborder="0" allow="fullscreen"></iframe></div>
 
-
 <div><iframe src="http://portal.strm.net/documentos/Volante_ejemplo.pdf" width="640" height="360" frameborder="0" allow="picture-in-picture"></iframe></div>
 
 <div><iframe src="http://portal.strm.net/documentos/Volante_ejemplo.pdf" width="640" height="360" frameborder="0" allow="autoplay; picture-in-picture"></iframe></div>
-
 
 <iframe src="http://docs.google.com/gview?url=http://example.com/mypdf.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
 
 <object data="/acercade/imagenes/libro-andi.pdf" type="application/pdf" width="750px" height="750px">
     <embed src="/acercade/imagenes/libro-andi.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
+        <p>Este navegador no suporta PDF.Descárguelo <a href="/acercade/imagenes/libro-andi.pdf">aquí</a>.</p>
 </object>
