@@ -6,7 +6,9 @@ description: GBIF BID CARIBE
 
 ## Catálogo de peces de Colombia
 
-### Contexto
+El SiB Colombia participa en este proyecto, seleccinado en el marco de la [convocatoria del programa Información sobre Biodiversidad para el Desarrollo (BID)](https://biodiversidad.co/post/2020/convocatoria-bid-caribe-2020/), y que es financiado por la Dirección General para la Cooperación Internacional de la Unión Europea.
+
+### Contexto del proyecto
 
 El Catálogo de Peces de Colombia será una herramienta digital que agregará conocimiento sobre todas las especies de peces marinos y de agua dulce en Colombia. Esta iniciativa, que reúne a más de 50 especialistas en ictiología neotropical de siete países, creará una lista nacional y páginas de especies para todas las 3.800 especies de peces estimadas en Colombia, incluida información sobre taxonomía, distribución, información trófica y reproductiva, estado de conservación y literatura relevante.
 
@@ -18,7 +20,7 @@ Como recurso de referencia para obtener información completa y actualizada sobr
 
 Se planea la integración de sistemas con el Ministerio del Ambiente (MADS), la Autoridad Nacional de Pesca (AUNAP) y los Parques Nacionales Naturales (PNN). El Catálogo también será de utilidad para las Corporaciones Autónomas Regionales (CAR) de Colombia, la comunidad científica y el público en general.
 
-### Objetivo 
+### Objetivo del proyecto
 
 El proyecto del Catálogo de Peces de Colombia tendrá como resultado la construcción de una herramienta digital que agregará conocimiento sobre todas las especies de peces marinos y de agua dulce en Colombia. Esta iniciativa, que reúne a más de 50 especialistas en ictiología neotropical de siete países, creará una lista nacional y páginas de especies para todas las 3.800 especies de peces estimadas en Colombia, incluida información sobre taxonomía, distribución, información tróﬁca y reproductiva, estado de conservación y literatura relevante.
 
