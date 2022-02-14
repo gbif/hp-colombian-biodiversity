@@ -25,5 +25,5 @@ background: /assets/images/noticias_eventos/2022/2022-02-08-jovenes-investigador
 
 <object data="/acercade/imagenes/libro-andi.pdf" type="application/pdf" width="750px" height="750px">
     <embed src="/acercade/imagenes/libro-andi.pdf" type="application/pdf">
-        <p>Este navegador no suporta PDF.Descárguelo <a href="/acercade/imagenes/libro-andi.pdf">aquí</a>.</p>
+        <p>Este navegador no soporta PDF.Descárguelo <a href="/acercade/imagenes/libro-andi.pdf">aquí</a>.</p>
 </object>
