@@ -6,7 +6,7 @@ description: GBIF BID CARIBE
 
 ## Dípteros  descomponedores: aplicación de su diversidad en aspectos forenses, de conservación y sanitarios
 
-El SiB Colombia participa en este proyecto, seleccinado en el marco de la [convocatoria del programa Información sobre Biodiversidad para el Desarrollo (BID)](https://biodiversidad.co/post/2020/convocatoria-bid-caribe-2020/), y que es financiado por la Dirección General para la Cooperación Internacional de la Unión Europea.
+El SiB Colombia participa en este proyeco, que fue seleccionado en el marco de la [convocatoria del programa Información sobre Biodiversidad para el Desarrollo (BID)](https://biodiversidad.co/post/2020/convocatoria-bid-caribe-2020/) 2020, y que es financiado por la Dirección General para la Cooperación Internacional de la Unión Europea.
 
 ### Contexto del proyecto
 
