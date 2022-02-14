@@ -4,6 +4,8 @@ title:  "Mapa de Vegetación de Colombia"
 description: Convenio 21-270
 ---
 
+## Mapa de la Vegetación de Colombia
+
 A ﬁnales de agosto del 2021 dio inicio la ejecución del Convenio 21-270 celebrado entre el Ministerio de Ambiente y Desarrollo Sostenible - MADS, el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, el Instituto Amazónico de Investigaciones Cientiﬁcas - SINCHI, el Instituto de Hidrología, Meteorología y Estudios Ambientales de Colombia - Ideam, el Instituto de Investigaciones Ambientales del Pacíﬁco – IIAP y el Instituto de Ciencias Naturales - ICN de la Universidad Nacional de Colombia.
 Este proyecto que ﬁnaliza en abril de 2022, tiene como por objetivo la construcción del mapa de vegetación de Colombia que será el insumo principal para la orientación de acciones para la protección de los suelos, restauración, conservación, y demás estrategias encaminadas a los objetivos del Desarrollo Sostenible y contribuirá con la meta del país de promover 701.900 hectáreas de sistemas sostenibles de conservación.
  
