@@ -1,6 +1,6 @@
 ---
 layout: documentation
-permalink: /formacion/laboratorios/ImportaciónArchivos
+permalink: /formacion/laboratorios/ImportacionArchivos
 title: "Importación de archivos"
 description: "Objetivo: Realizar la correcta importación de datos en formato de texto plano a Excel."
 sideNavigation: sidenav_laboratorios.terms
@@ -135,4 +135,4 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) te permite usa
 **Citación sugerida**
 
  > Plata C., Ortíz R., Marentes E., Lozano J. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
->
+
