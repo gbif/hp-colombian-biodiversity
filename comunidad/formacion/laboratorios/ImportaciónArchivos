@@ -15,27 +15,26 @@ Realizar la correcta importación de datos en formato de texto plano a Excel.
 
 **Sobre la actividad**
 
-Existen dos formatos para el almacenamiento de archivos de texto ques son ampliamente usados para compartir datos, y que **no** corresponden al formato de **Microsoft Office Excel ®** (.xls, .xlsx, etc), estos archivos son los **delimitados por tabulaciones** y los **separados por comas**.
+Existen dos formatos para el almacenamiento de archivos de texto, los cuales son ampliamente usados para compartir datos y  **no** corresponden al formato de _Microsoft Office Excel®_ (.xls, .xlsx, etc). Estos archivos son los **delimitados por tabulaciones** y los **separados por comas**.
 
-- **Archivos de texto delimitados por tabulaciones (.txt)**: en este formato el carácter de tabulación (tab) delimita cada campo de contenido almacenado en un archivo de texto. 
-- **Archivos de valores separados por comas (.csv)**: en este formato el carácter de coma (,) o de punto y coma (;) separa cada campo de contenido almacenado.
+- **Archivos de texto delimitados por tabulaciones (.txt)**: en este formato, el carácter de tabulación (tab) delimita cada campo de contenido almacenado en un archivo de texto. 
+- **Archivos de valores separados por comas (.csv)**: en este formato, el carácter de coma (,) o de punto y coma (;) separa cada campo de contenido almacenado.
 
-En este laboratorio vamos la forma que [Microsoft Office Excel®](https://www.microsoft.com/es-co/microsoft-365/excel) provee para importar correctamente un archivo de formato  **.txt** o **.csv**. 
+En este laboratorio, se evidencia la forma que [_Microsoft Office Excel®_](https://www.microsoft.com/es-co/microsoft-365/excel) provee para importar correctamente un archivo de formato  **.txt** o **.csv**. 
 
 **Requerimientos** 
 
-* Para realizar este ejercicio debe contar con Microsoft Excel.
+* Para realizar este ejercicio, es necesario contar con _Microsoft Excel_.
 
 **Archivo de trabajo**
 
-Descargue el archivo [```Datos.zip```](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/otros/_docs/Datos.zip). Deberá descomprimir el archivo para poder acceder a los contenidos que necesitará para realizar la guía: ```Datos.txt``` y ```Datos.csv```.
+Descargue el archivo [<FONT FACE="monospace"><b>«Datos.zip»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/otros/_docs/Datos.zip). Luego, descomprima el archivo para poder acceder a los contenidos que necesitará para realizar la guía: <FONT FACE="monospace"><b>«Datos.txt»</b></FONT> y <FONT FACE="monospace"><b>«Datos.csv»</b></FONT>.
 
 --------
 
-
 ## Paso 1 - Cargar datos
 
-En el menu superior, seleccione la pestaña *Datos* > *Obtener datos externos* > *Desde texto* (Fig. 1).
+En el menú superior, seleccione la pestaña  <span class="tag is-warning is-light"><b><i>Datos > Obtener datos externos > Desde texto</i></b></span> (Fig. 1).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/otros/_images/Fig.1_Datos-Importartexto.PNG" width=600>
 
@@ -44,9 +43,9 @@ En el menu superior, seleccione la pestaña *Datos* > *Obtener datos externos* >
 
 ## Paso 2 - Selección del archivo
 
-En el desplegable inferior seleccione la opción: Todos los archivos (*.*). Esto le permitira ver todos los archivos presentes en el directorio y seleccionar el adecuado (Fig. 2).
+En el desplegable inferior, seleccione la opción <span class="tag is-warning is-light"><i>Todos los archivos (*.*)</i></span>. Esto le permitira ver todos los archivos presentes en el directorio y seleccionar el adecuado (Fig. 2).
 
-Y seleccione su archivo ```Datos.txt``` con terminación .txt y de clic en *Importar*(Fig. 2). 
+Posteriormente, seleccione el archivo <FONT FACE="monospace"><b>«Datos.txt»</b></FONT> y haga clic en <span class="tag is-warning is-light"><i>Importar</i></span>(Fig. 2). 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/otros/_images/Fig.2_SeleccionArchivo.PNG" width=600>
 
