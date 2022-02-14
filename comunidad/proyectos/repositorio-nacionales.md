@@ -14,28 +14,19 @@ composition:
   - type: pageMarkdown
 ---
 
-### ¡Esta es una lista *en construcción* de los proyectos nacionales con participación de SiB Colombia!
+### ¡Esta es una lista en construcción de los proyectos nacionales con participación de SiB Colombia!
 
-|Nombre|Año|Objetivo del proyecto|Contrapatre|
-|---|---|---|---|
-|CSIC Convenio 10-191|2010||Consejo Superior de Investigaciones Científicas - CSIC |
-|GBIF 10-244|2010||Global Biodiversity Information Facility |
-|Isagen Convenio 10-224|2011||Isagen|
-|GBIF 10-244|2011||Global Biodiversity Information Facility |
-|GBIF 11-013|2011||Global Biodiversity Information Facility |
-|MAVDT Convenio 11-020|2011||Ministerio de Ambiente Vivienda y Desarrollo Territorial|
-|Patrimonio Natural Convenio 11-089|2011||Patrimonio Natural|
-|Fundación Andrew W. Mellow Convenio 11-018|2011||Fundación Andrew W. Mellow|
-|MAVDT Convenio 11-103|2012||Ministerio de Ambiente Vivienda y Desarrollo Territorial|
-|MADS Convenio 12-024|2012||Ministerio de Ambiente y Desarrollo Sostenible|
-|Colciencias Convenio 12-151|2012||Colciencias|
-|GBIF 12-127|2012||Global Biodiversity Information Facility |
-|Carbones Cerrejón Limited Convenio 11-251|2013||Carbones Cerrejón Limited | Colciencias|
-|Fondo Adaptación Convenio 13-014|2013||Fondo Adaptación|
-|GBIF 12-250|2013||Global Biodiversity Information Facility |
-|GBIF 14-276|2014||Global Biodiversity Information Facility |
-|GBIF 14-276|2015||Global Biodiversity Information Facility |
-|PIFS - MADS Convenio 15-108 (17-135)|2015||Ministerio de Ambiente y Desarrollo Sostenible|
-|SIAC - MADS Res. 1376 2016|2016||Ministerio de Ambiente y Desarrollo Sostenible|
-|Colombia BIO Proyecto IAvH|2016|||
+
+
+| Nombre| Vigencia | Objetivo del proyecto |
+| -------- | -------- | -------- |
+|[Mapa de Vegetación de Colombia](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/mapa-vegetacion)|2021 - en progreso|Aportar al conocimiento básico de la flora nacional y servi como insumo para la protección y conservación de los suelos |
+|[GBIF BID CARIBE: Dípteros  descomponedores: aplicación de su diversidad en aspectos forenses, de conservación y sanitarios](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/dipteros-descomponedores)|2021 - en progreso|Movilizar datos de las moscas descomponedoras a través de las plataformas del SiB Colombia y la red de GBIF para brindar información de libre acceso y generar impactos positivos en salud|
+|[GBIF BID CARIBE: Movilizar los datos marinos de las Colecciones de Historia Natural de Colombia](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/informacion-marina)|2021 - en progreso|Aumentar la accesibilidad de la información marina de las Colecciones de Historia Natural de Colombia mediante la movilización de datos, capacitaciones y el fortalecimiento de la infraestructura|
+|[GBIF BID CARIBE: Catálogo de peces de Colombia](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/catalogo-peces)|2021 - en progreso|Construir de una herramienta digital de agregación de datos de todas las especies de peces marinos y de agua dulce en Colombia|
+|[Proyecto de turismo cientíﬁco de naturaleza - Nariño Bio](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/turismo-científico)|2020 - en progreso|Crear de la estrategia de innovación social de turismo de naturaleza cientíﬁco en la Reserva Natural La Planada |
+| [Alianza ANDI -SiB Colombia](https://biodiversidad.co/acercade/aliados/andi)    | 2020 - en progreso    | Incentivar la participación del sector empresarial en la creación de datos sobre biodiversidad en Colombia     ||[Portal de Información de Tráfico Ilegal de Fauna Silvestre - PIFS](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/pifs)|2019 - 2020|Apoyar la toma de decisiones con respecto al tráfico ilegal de fauna silvestre con información rigurosa para dar cumplimiento a lo establecido por ley 1333 de 2009|
+|[Experiencia piloto para la construcción de la línea base regional del área priorizada en los departamentos de Putumayo, Caquetá y Nariño - Medio Biótico](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/anh-putumayo)|2020|Construir de la línea base regional del Putumayo para facilitar procesos de planeación productivos y sostenibles|
+|[Boyacá BIO](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/boyaca-bio)|2019|Responder preguntas fundamentales sobre el estado de la biodiversidad en la región de Boyacá de manera eficaz, sencilla y oportuna|
+|[Santander BIO](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/santander-bio)|2018-2019|Responder preguntas fundamentales sobre el estado de la biodiversidad en la región de Santander de manera eficaz, sencilla y oportuna|
 
