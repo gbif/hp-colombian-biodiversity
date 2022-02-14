@@ -5,6 +5,8 @@ title:  "Proyecto de turismo científico de naturaleza - Nariño Bio
 description: NariñoBio 
 ---
 
+## Proyecto de turismo científico de la naturaleza - Nariño Bio
+
 Este proyecto, que comenzó su ejecución en el 2020 tiene vigencia hasta el segundo trimestre del 2022, tiene por objetivo la cocreación de la estrategia de innovación social de turismo de naturaleza cientíﬁco en la Reserva Natural La Planada y en el cual el Equipo Coordinador del SiB Colombia participa con la creación de la ventana regional del departamento del Nariño. En la vigencia del 2021 los principales resultados fueron:
 - Programa de capacitación con la Universidad de Nariño: Se capacitó a los investigadores del proyecto en la gestión y publicación de datos sobre biodiversidad en el marco del Ciclo de Formación 2021 del SiB Colombia.
 - Actualización de la metodología de síntesis de cifras regionales: Se actualizó el script elaborado en lenguaje de programación Python, que permite la síntesis de cifras sobre biodiversidad a nivel regional. La actualización permitió incluir cifras sobre biodiversidad marina y la generación de listas de especies con evidencia para la región.
