@@ -18,6 +18,14 @@ composition:
 
 Consulta los reportes históricos de actividad de publicación desde el año 2016 hasta la fecha.
 
+# 2022
+
+
+| [![](/assets/images/reportes/rep-mes-1-40x40_rojo.png)](https://datastudio.google.com/u/0/reporting/a9b34708-4ef6-4255-8019-7c49ee54d10f/page/Ge2V){:target="_blank"}|  |  |   |  |  |   |  |  |  |  |  | 
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Ene|Feb|Mar|Abr|May|Jun|Jul|Ago|Sep|Oct|Nov|Dic|
+
+
 # 2021
 
 
