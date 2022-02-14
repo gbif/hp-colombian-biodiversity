@@ -5,7 +5,7 @@
   - text: Registros biológicos
     href: /data
   - text: Listas de chequeo
-    href: https://listas.biodiversidad.co/
+    href: https://www.gbif.org/dataset/search?type=CHECKLIST&publishing_country=CO
     target: _blank
   - text: Fichas
     href: https://catalogo.biodiversidad.co/
