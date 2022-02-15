@@ -48,10 +48,9 @@ En el desplegable inferior, seleccione la opción <span class="tag is-warning is
 
 Posteriormente, seleccione el archivo <FONT FACE="monospace"><b>«Datos.txt»</b></FONT> y haga clic en <span class="tag is-warning is-light"><i>Importar</i></span>(Fig. 2). 
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/otros/_images/Fig.2_SeleccionArchivo.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ImportacionArchivos/Fig.2_SeleccionArchivo.png" width=600>
 
 <sup>_Figura 2. Selección del archivo._</sup>.
-
 
 <div class="notification is-info is-light">
   <b>Nota:</b> Si al dar clic al botón de <span class="tag is-warning is-light"><i>Importar</i></span> le aparecen mensajes referentes al formato de importación, haga clic en <span class="tag is-warning is-light"><i>Sí</i></span> o <span class="tag is-warning is-light"><i>Aceptar</i></span>.
@@ -69,7 +68,7 @@ Si no ve ningún tipo de carácter extraño en la vista previa, puede dejar sele
 
 Si ve algun caracter extraño donde deben ir tildes (') o eñes (ñ), vaya a la sección **"Origen del archivo:"** y seleccione la codificación correcta de los datos en el desplegable. La codificación más común es <span class="tag is-warning is-light"><i>Unicode (UTF-8)</i></span>. Luego, utilice la vista previa de los datos para revisar que no hayan más carácteres extraños (Fig. 3). 
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/otros/_images/Fig.3_SeleccionCodificacion.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ImportacionArchivos/Fig.3_SeleccionCodificacion.png" width=600>
 
 <sup>_Figura 3. Configuración del asistente para importar texto._</sup>.
 
@@ -87,7 +86,7 @@ Adicionalmente, debe revisar la opción **"Calificador de texto"**. Para este ej
   Normalmente, el separador de los archivos .CSV es una coma (,), pero también pueden separarse por punto y coma (;) si los datos están en español. Por otro lado, el separador en archivos .TXT puede ser cualquier valor.
 </div>
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/otros/_images/Fig.4_SeleccionSeparador.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ImportacionArchivos/Fig.4_SeleccionSeparador.png" width=600>
 
 <sup>_Figura 4. Configuración del asistente para importar texto paso 2._</sup>.
 
@@ -97,7 +96,7 @@ En el tercer paso del **"Asistente para importar texto"**, haga clic sobre la pr
 
 Finalmente, seleccione <span class="tag is-warning is-light"><i>Texto</i></span> en la opción **"Formato de los datos en columnas"** y haga clic en <span class="tag is-warning is-light"><i>Finalizar</i></span> (Fig. 5). 
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/otros/_images/Fig.5_SeleccionSitio.PNG" width=300>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ImportacionArchivos/Fig.5_SeleccionSitio.png" width=300>
 
 <sup>_Figura 5. Configuración del asistente para importar texto paso 3._</sup>.
 
@@ -107,18 +106,17 @@ Finalmente, seleccione <span class="tag is-warning is-light"><i>Texto</i></span>
 Se abrirá una nueva ventana que le solicita indicar el lugar donde va a importar los datos. Por defecto, se importan en la primera hoja, fila 1, columna A. (Fig. 6). Es recomendable importar los datos en este lugar, pero puede seleccionar otra hoja o posición.
 Dé clic en <span class="tag is-warning is-light"><i>Aceptar</i></span> para terminar el proceso de importación.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/otros/_images/Fig.6_SeleccionTexto.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ImportacionArchivos/Fig.6_SeleccionTexto.png" width=600>
 
 <sup>_Figura 6. Configuración del asistente para importar texto paso 3._</sup>.
 
 ## Paso 8 - Importación de los datos en formato .csv
 
-Repita este laboratorio usando los datos **".csv"**. La única diferencia es en el paso 5, donde debe seleccionar como separador la opción <span class="tag is-warning is-light"><i>,</i></span> (Fig. 8).
+Repita este laboratorio usando los datos **".csv"**. La única diferencia es en el paso 5, donde debe seleccionar como separador la opción <span class="tag is-warning is-light"><i>Coma</i></span> (Fig. 7).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/otros/_images/Fig.7_SeleccionSeparadorCSV.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_ImportacionArchivos/Fig.7_SeleccionSeparadorCSV.png" width=600>
 
-<sup>_Figura 8. Selección de separador por coma para los archivos de .csv._</sup>
-
+<sup>_Figura 7. Selección de separador por coma para los archivos de .csv._</sup>
 
 ****
 **¡Felicitaciones!**
@@ -135,6 +133,3 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) te permite usa
 **Citación sugerida**
 
  > Plata C., Ortíz R., Marentes E., Lozano J. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
-
-
-
