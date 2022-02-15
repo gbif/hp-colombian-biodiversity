@@ -6,11 +6,11 @@ description: El SiB Colombia realiza acompañamieno ambiental al [Proyecto Hidro
 
 ## Proyecto EPM - HidroItuango
 
-El SiB Colombia apoya la supervisión ambiental del [Proyecto Hidroeléctrico Ituango](https://cu.epm.com.co/institucional/proyectos/proyecto-hidroelectrico-ituango){:target="_blank"}, la más grande iniciativa de generación de energía que actualmente está en marcha en Colombia.
+El SiB Colombia apoya los compromisos ambientales del [Proyecto Hidroeléctrico Ituango](https://cu.epm.com.co/institucional/proyectos/proyecto-hidroelectrico-ituango){:target="_blank"}, la más grande iniciativa de generación de energía que actualmente está en marcha en Colombia.
 
-El proyecto ambiental alrededor de HidroItuango dio inicio en el segundo semestre de 2021. Tiene por objeto desarrollar un análisis integral territorial en la cuenca media y baja del río Cauca, con énfasis en la Gestión Integral de la Biodiversidad y Servicios Ecosistémicos. Dentro del trabajo se incluye el análisis de las tendencias de la biodiversidad y la cuantificación de la No Pérdida Neta de Biodiversidad, como medida de las acciones implementadas en el marco de las compensaciones ambientales en el área de influencia del proyecto.
+El proyecto ambiental relacinoado con el proyecto de HidroItuango inició en el segundo semestre de 2021. Su objetivo principal es desarrollar un análisis integral territorial de la cuenca media y baja del Río Cauca, con énfasis en la Gestión Integral de la Biodiversidad y Servicios Ecosistémicos. Dentro de este trabajo se incluye un análisis de las tendencias de la biodiversidad y la cuantificación de la No Pérdida Neta de Biodiversidad como medida de las acciones implementadas en el marco de las compensaciones ambientales en el área de influencia del proyecto.
 
-La participación del Equipo Coordinador del SiB Colombia en este proyecto está enfocada en la estandarización, validación, limpieza y publicación de los datos de la cuenca media y baja del río Cauca generados por las Empresas Públicas de Medellín -EPM- y sus aliados, y tuvo los siguientes resultados en la vigencia 2021:
+La participación del Equipo Coordinador del SiB Colombia en este proyecto está enfocada en la estandarización, validación, limpieza y publicación de los datos de la cuenca media y baja del Río Cauca generados por las Empresas Públicas de Medellín -EPM- y sus aliados, y tuvo los siguientes resultados para la vigencia 2021:
 
 
 | Conjunto de datos| No. Registros biológicos | Grupo biológico |Estado|
