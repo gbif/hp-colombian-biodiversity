@@ -6,13 +6,13 @@ description: GBIF BID CARIBE
 
 ## Aumentar la accesibilidad de la información marina de las Colecciones de Historia Natural de Colombia mediante la movilización de datos, el fortalecimiento de la infraestructura y la capacitación
 
-El SiB Colombia participa en este proyeco, que fue seleccionado en el marco de la [convocatoria del programa Información sobre Biodiversidad para el Desarrollo (BID)](https://biodiversidad.co/post/2020/convocatoria-bid-caribe-2020/) 2020 y que es financiado por la Dirección General para la Cooperación Internacional de la Unión Europea.
+El SiB Colombia participa en este proyecto seleccionado por la [convocatoria del programa Información sobre Biodiversidad para el Desarrollo (BID) 2020](https://biodiversidad.co/post/2020/convocatoria-bid-caribe-2020/), y que es financiado por la Dirección General para la Cooperación Internacional de la Unión Europea.
 
-### Contexto del proyecto
+### Contexto 
 
 Considerado uno de los países megadiversos del mundo, Colombia y su extensión de 2 millones de km2 es reconocida por su riqueza de especies terrestres estudiadas desde hace más de 200 años. Por el contrario, la investigación en las áreas marinas de casi 900.000 km2 es relativamente reciente y el conocimiento de la diversidad aún es escaso.
 
-El SiB Colombia cuenta actualmente con más de 8 millones de registros, de los cuales solo unos 69 000 son de origen marino y solo el 10 % proviene de colecciones de historia natural, lo que demuestra la brecha crítica en la representatividad y la subestimación de los inventarios marinos nacionales. . Las colecciones del país cuentan con numerosos especímenes marinos, pero debido a la falta de infraestructura, recursos técnicos y humanos tienen una capacidad mínima para el manejo de datos.
+El SiB Colombia cuenta actualmente con más de 8 millones de registros, de los cuales solo unos 69.000 son de origen marino y solo el 10 % proviene de colecciones de historia natural, lo que demuestra la brecha crítica en la representatividad y la subestimación de los inventarios marinos nacionales. Las colecciones del país cuentan con numerosos especímenes marinos, pero debido a la falta de infraestructura, recursos técnicos y humanos, tienen poca capacidad para manejar estos datos.
 
 ### Objetivo del proyecto
 
