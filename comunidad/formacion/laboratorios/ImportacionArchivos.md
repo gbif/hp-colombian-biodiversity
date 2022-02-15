@@ -53,39 +53,39 @@ Posteriormente, seleccione el archivo <FONT FACE="monospace"><b>«Datos.txt»</b
 <sup>_Figura 2. Selección del archivo._</sup>.
 
 
-```note
-Si al darle clic al botón de _Importar_, le aparecen mensajes referentes al formato de importación, de clic en _Sí_ o _Aceptar_.
-```
+<div class="notification is-info is-light">
+  <b>Nota:</b> Si al dar clic al botón de <span class="tag is-warning is-light"><i>Importar</i></span> le aparecen mensajes referentes al formato de importación, haga clic en <span class="tag is-warning is-light"><i>Sí</i></span> o <span class="tag is-warning is-light"><i>Aceptar</i></span>.
+</div>
+
 
 ## Paso 4 - Configuración del asistente para importar texto
 
-Microsoft Office Excel® abrirá el ```Asistente para importar texto```, el cual cuenta con tres pasos principales.
-En el primer paso, debera seleccionar el tipo de archivo y la codificación.
+_Microsoft Office Excel®_ abrirá el **"Asistente para importar texto"**, el cual cuenta con tres pasos principales.
+En el primer paso, deberá seleccionar el tipo de archivo y la codificación:
 
-Seleccione ```Delimitados``` en la opción ```Tipo de los datos originales```.
+Seleccione <span class="tag is-warning is-light"><i>Delimitados</i></span> en la sección **"Tipo de los datos originales"**.
 
-Si no ve ningún tipo de carácter extraño en la vista previa, puede dejar seleccionada la opción por defecto en Windows ```Windows ANSI``` o ```Mancintosh``` para MacOS.
+Si no ve ningún tipo de carácter extraño en la vista previa, puede dejar seleccionada la opción <span class="tag is-warning is-light"><i>Windows ANSI</i></span> por defecto en _Windows_ o <span class="tag is-warning is-light"><i>Mancintosh</i></span> en MacOS.
 
-Si ve algun caracter extraño donde deben ir tíldes o ñ's principalmente, haga clic en la sección ```Origen del archivo:``` y en el desplegable seleccione la codificación correcta de los datos. La codificación más común es ```Unicode (UTF-8)```, luego de seleccionada debe revisar la Vista previa de los datos para revisar que no hayan más carácteres extraños (Fig. 3). 
+Si ve algun caracter extraño donde deben ir tildes (') o eñes (ñ), vaya a la sección **"Origen del archivo:"** y seleccione la codificación correcta de los datos en el desplegable. La codificación más común es <span class="tag is-warning is-light"><i>Unicode (UTF-8)</i></span>. Luego, utilice la vista previa de los datos para revisar que no hayan más carácteres extraños (Fig. 3). 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/otros/_images/Fig.3_SeleccionCodificacion.PNG" width=600>
 
 <sup>_Figura 3. Configuración del asistente para importar texto._</sup>.
 
-En caso de persistir el problema, debe probar más configuraciones hasta encontrar la adecuada.
+En caso de persistir el problema, será necesario probar más configuraciones hasta encontrar la adecuada.
 
 ## Paso 5 - Configuración del los delimitadores
 
-En el segundo paso del ```Asistente para importar texto``` debe escoger el tipo de separadore de sus datos. 
+En el segundo paso del **"Asistente para importar texto"**, debe escoger el tipo de separadores de sus datos. 
 
-Para importar el archivo ```Datos.txt``` seleccione la opción ```Tabulación``` y revise en la vista previa que se separen las columnas adecudamente, luego de clic en ```Siguiente >``` (Fig. 4). 
+Para importar el archivo <FONT FACE="monospace"><b>«Datos.txt»</b></FONT>, seleccione la opción <span class="tag is-warning is-light"><i>Tabulación</i></span> y revise que la separación de las columnas sea adecuada en la vista previa. Posteriormente, dé clic en <span class="tag is-warning is-light"><i>Siguiente ></i></span> (Fig. 4). 
 
-Adicionalmente, debe revisar la opción Calificador de texto, para este ejercicio lo va a dejar configurado automáticamente con comillas dobles (").
+Adicionalmente, debe revisar la opción **"Calificador de texto"**. Para este ejercicio, se debe dejar configurado automáticamente con comillas dobles (").
 
-
-```tip
-Normalmente para los archivos .CSV el separador es una Coma, pero tambien pueden estar separados por Punto y coma si tiene los datos en español. Para archivos .TXT puede ser cualquier valor.
-```
+<div class="notification is-info is-light">
+  Normalmente, el separador de los archivos .CSV es una coma (,), pero también pueden separarse por punto y coma (;) si los datos están en español. Por otro lado, el separador en archivos .TXT puede ser cualquier valor.
+</div>
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/otros/_images/Fig.4_SeleccionSeparador.PNG" width=600>
 
@@ -93,9 +93,9 @@ Normalmente para los archivos .CSV el separador es una Coma, pero tambien pueden
 
 ## Paso 6 - Configuración del formato de los datos
 
-En el tercer paso del ```Asistente para importar texto```, en la Vista previa debe hacer clic sobre la primer columna de su conjunto de datos, luego presione la tecla ```Shift``` y sin soltarla arrastre la barra de deslizamiento hasta el límite derecho donde observará la última columna del conjunto de datos, de clic sobre esta columna y suelte la tecla ```Shift```. Esto le permite seleccionar todas las columnas del conjunto de datos.
+En el tercer paso del **"Asistente para importar texto"**, haga clic sobre la primer columna del conjunto de datos en la vista previa. Luego, presione la tecla <span class="tag is-warning is-light"><i>Shift</i></span> y, sin soltarla, arrastre la barra de deslizamiento hasta el límite derecho, donde observará la última columna del conjunto de datos. Dé clic sobre esta columna y suelte la tecla <span class="tag is-warning is-light"><i>Shift</i></span>. Esto le permitirá seleccionar todas las columnas del conjunto de datos.
 
-Finalmente seleccione ```Texto``` en la opción ```Formato de los datos en columnas``` y haga clic en ```Finalizar``` (Fig. 5). 
+Finalmente, seleccione <span class="tag is-warning is-light"><i>Texto</i></span> en la opción **"Formato de los datos en columnas"** y haga clic en <span class="tag is-warning is-light"><i>Finalizar</i></span> (Fig. 5). 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/otros/_images/Fig.5_SeleccionSitio.PNG" width=300>
 
@@ -104,9 +104,8 @@ Finalmente seleccione ```Texto``` en la opción ```Formato de los datos en colum
 
 ## Paso 7 - Importar datos
 
-Se abrira una nueva ventana que le solicita indicar el lugar donde va a importar los datos, por defecto se importan en la primera hoja, fila 1, columna A. (Fig. 6). La recomendación es importar los datos en este lugar, pero puede seleccionar otra hoja o posición.
-De clic en ```Aceptar``` para terminar el proceso de importación.
-
+Se abrirá una nueva ventana que le solicita indicar el lugar donde va a importar los datos. Por defecto, se importan en la primera hoja, fila 1, columna A. (Fig. 6). Es recomendable importar los datos en este lugar, pero puede seleccionar otra hoja o posición.
+Dé clic en <span class="tag is-warning is-light"><i>Aceptar</i></span> para terminar el proceso de importación.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/otros/_images/Fig.6_SeleccionTexto.PNG" width=600>
 
@@ -114,11 +113,11 @@ De clic en ```Aceptar``` para terminar el proceso de importación.
 
 ## Paso 8 - Importación de los datos en formato .csv
 
-Repita este laboratorio usando los datos ```.csv```, la única diferencia es en el paso 5 donde debe seleccionar como separador la opción ```,``` (Fig. 8).
+Repita este laboratorio usando los datos **".csv"**. La única diferencia es en el paso 5, donde debe seleccionar como separador la opción <span class="tag is-warning is-light"><i>,</i></span> (Fig. 8).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/otros/_images/Fig.7_SeleccionSeparadorCSV.PNG" width=600>
 
-<sup>_Figura 8. Selección de separador por Coma para los archivos de .csv._</sup>
+<sup>_Figura 8. Selección de separador por coma para los archivos de .csv._</sup>
 
 
 ****
