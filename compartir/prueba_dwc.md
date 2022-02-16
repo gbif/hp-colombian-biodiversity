@@ -15,14 +15,14 @@ El modelo de datos conceptual del **DwC** es un esquema en estrella con una úni
   
 Adicionalmente, existen **extensiones** que se pueden asociar opcionalmente al _core_. No es posible vincular tablas de **extensión** a otras tablas de **extensión** y por eso se cataloga como un modelo en estrella. Las **extensiones** también están conformadas por **elementos** los cuales son usados para documentar información adicional y específica que no se relaciona dentro del _core_ (ej., descripción de las especies, rasgos funcionales, información genética, entre otros). Las **extensiones** pueden ser compatibles con todos o algunos de los _core_.
 
-A continuación se presenta una descripción fácil del **DwC**, la cual contiene a mano derecha una tabla de contenido con las **categorías** y **extensiones** del estándar, que llevan a su vez al listado de **elementos** que conforman cada **categoría** o **extensión**. Dentro del listado de **elementos** es posible dirigirse directamente al **elemento** de interés en donde se encontrará la siguiente información detallada:
+En esta página se presenta una descripción fácil del **DwC**, la cual contiene a mano derecha una tabla de contenido con las **categorías** y **extensiones** del estándar, que llevan a su vez al listado de **elementos** que conforman cada **categoría** o **extensión**. Dentro del listado de **elementos** es posible dirigirse directamente al **elemento** de interés en donde se encontrará la siguiente información detallada:
 
 -	**Definición**: Texto que permite la comprensión del **elemento**.
 -	**Comentarios**:  Texto adicional que complementa, a manera de anotación, la información de la definición.
 -	**Ejemplo**: Ejemplos textuales que hacen referencia a cómo se puede documentar el **elemento**.
 -	**Elementos relacionados**: **Elementos** del estándar **DwC** que tienen relación estrecha con el **elemento** que esta siendo descrito.
--	_**Core (Obligatoriedad)**_: _core_ al que hace parte el elemento y su obligatoriedad dentro de cada uno de estos (opcional, condicional, obligatorio). 
--	**Vocabulario controlado**: Opciones de textos preestablecidos que deben documentarse de manera obligatoria dentro del elemento. No se puede documentar información diferente a la relacionada en los vocabularios controlado.
+-	_**Core (Obligatoriedad)**_: _core_ al que hace parte el **elemento** y su obligatoriedad dentro de cada uno de estos (opcional, condicional, obligatorio). 
+-	**Vocabulario controlado**: Opciones de textos preestablecidos que deben documentarse de manera obligatoria dentro del elemento. No se puede documentar información diferente a la relacionada en los vocabularios controlados.
 
 ## Categorías DwC
 
@@ -30,17 +30,17 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |    |
 | ---|--- |--- |--- |
-| [**basisOfRecord**<br> (Base del registro)](#elem001) | [**type**<br> (Tipo)](#elem002) | [**institutionCode**<br> (Código de la institución)](#elem003) | [**institutionID**<br> (ID de la institución)](#elem004) |
-| [**collectionCode**<br> (Código de la colección)](#elem005) | [**collectionID**<br> (ID de la colección)](#elem006) | [**datasetName**<br> (Nombre del conjunto de datos)](#elem007) | [**datasetID**<br> (ID del conjunto de datos)](#elem008) |
-| [**modified**<br> (Modificado)](#elem009) | [**language**<br> (Idioma)](#elem010) | [**license**<br> (Licencia)](#elem011) | [**rightsHolder**<br> (Titular de los derechos)](#elem012) | 
-| [**accessRights**<br> (Derechos de acceso)](#elem013) | [**bibliographicCitation**<br> (Citación bibliográfica)](#elem014) | [**references**<br> (Referencias)](#elem015) | [**ownerInstitutionCode**<br> (Código de la institución propietaria)](#elem016) |
-| [**informationWithheld**<br> (Información retenida)](#elem017) | [**dataGeneralizations**<br> (Generalización de los datos)](#elem018) | [**dynamicProperties**<br> (Propiedades dinámicas)](#elem019) | |
+| [**basisOfRecord**<br> (Base del registro)](#basisOfRecord) | [**type**<br> (Tipo)](#type) | [**institutionCode**<br> (Código de la institución)](#institutionCode) | [**institutionID**<br> (ID de la institución)](#institutionID) |
+| [**collectionCode**<br> (Código de la colección)](#collectionCode) | [**collectionID**<br> (ID de la colección)](#collectionID) | [**datasetName**<br> (Nombre del conjunto de datos)](#datasetName) | [**datasetID**<br> (ID del conjunto de datos)](#datasetID) |
+| [**modified**<br> (Modificado)](#modified) | [**language**<br> (Idioma)](#language) | [**license**<br> (Licencia)](#license) | [**rightsHolder**<br> (Titular de los derechos)](#rightsHolder) | 
+| [**accessRights**<br> (Derechos de acceso)](#accessRights) | [**bibliographicCitation**<br> (Citación bibliográfica)](#bibliographicCitation) | [**references**<br> (Referencias)](#references) | [**ownerInstitutionCode**<br> (Código de la institución propietaria)](#ownerInstitutionCode) |
+| [**informationWithheld**<br> (Información retenida)](#informationWithheld) | [**dataGeneralizations**<br> (Generalización de los datos)](#dataGeneralizations) | [**dynamicProperties**<br> (Propiedades dinámicas)](#dynamicProperties) | |
 |    |    |    |    |
 
 <br>
 <br>
 
-<a name="elem001">**basisOfRecord** (Base del registro)</a>
+<a name="basisOfRecord">**basisOfRecord** (Base del registro)</a>
 
 |    |    |
 | ---|--- |
@@ -51,7 +51,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | [Vocabulario controlado](#elem365) | PreservedSpecimen<br> HumanObservation<br> LivingSpecimen<br> FossilSpecimen<br> MachineObservation<br> MaterialSample<br> MaterialCitation |
 |    |    |
 
-<a name="elem002">**type (Tipo)**</a>
+<a name="type">**type** (Tipo)</a>
 
 |    |    |
 | ---|--- |
@@ -61,7 +61,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | [Vocabulario controlado](#elem366) | Stillmage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event |
 |    |    |
 
-<a name="elem003">**institutionCode** (Código de la institución)</a>
+<a name="institutionCode">**institutionCode** (Código de la institución)</a>
 
 |    |    |
 | ---|--- |
@@ -71,7 +71,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem004">**institutionID** (ID de la institución)</a>
+<a name="institutionID">**institutionID** (ID de la institución)</a>
 
 |    |    |
 | ---|--- |
@@ -81,7 +81,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem005">**collectionCode** (Código de la colección)</a>
+<a name="collectionCode">**collectionCode** (Código de la colección)</a>
 
 |    |    |
 | ---|--- |
@@ -91,7 +91,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
 |    |    |
 
-<a name="elem006">**collectionID** (ID de la colección)</a>
+<a name="collectionID">**collectionID** (ID de la colección)</a>
 
 |    |    |
 | ---|--- |
@@ -101,7 +101,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
 |    |    |
 
-<a name="elem007">**datasetName** (Nombre del conjunto de datos)</a>
+<a name="datasetName">**datasetName** (Nombre del conjunto de datos)</a>
 
 |    |    |
 | ---|--- |
@@ -110,7 +110,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | Elementos relacionados | datasetNameID |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
-<a name="elem008">**datasetID** (ID del conjunto de datos)</a>
+<a name="datasetID">**datasetID** (ID del conjunto de datos)</a>
 
 |    |    |
 | ---|--- |
@@ -120,7 +120,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem009">**modified** (Modificado)</a>
+<a name="modified">**modified** (Modificado)</a>
 
 |    |    |
 | ---|--- |
@@ -129,7 +129,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem010">**language** (Idioma)</a>
+<a name="language">**language** (Idioma)</a>
 
 |    |    |
 | ---|--- |
@@ -139,7 +139,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | [Vocabulario controlado](#elem367) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
 |    |    |
 
-<a name="elem011">**license** (Licencia)</a>
+<a name="license">**license** (Licencia)</a>
 
 |    |    |
 | ---|--- |
@@ -147,7 +147,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem012">**rightsHolder** (Titular de los derechos)</a>
+<a name="rightsHolder">**rightsHolder** (Titular de los derechos)</a>
 
 |    |    |
 | ---|--- |
@@ -156,7 +156,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem013">**accessRights** (Derechos de acceso)</a>
+<a name="accessRights">**accessRights** (Derechos de acceso)</a>
 
 |    |    |
 | ---|--- |
@@ -165,7 +165,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem014">**bibliographicCitation** (Citación bibliográfica)</a>
+<a name="bibliographicCitation">**bibliographicCitation** (Citación bibliográfica)</a>
 
 |    |    |
 | ---|--- |
@@ -174,7 +174,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem015">**references** (Referencias)</a>
+<a name="references">**references** (Referencias)</a>
 
 |    |    |
 | ---|--- |
@@ -183,7 +183,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem016">**ownerInstitutionCode** (Código de la institución propietaria)</a>
+<a name="ownerInstitutionCode">**ownerInstitutionCode** (Código de la institución propietaria)</a>
 
 |    |    |
 | ---|--- |
@@ -192,7 +192,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem017">**informationWithheld** (Información retenida)</a>
+<a name="informationWithheld">**informationWithheld** (Información retenida)</a>
 
 |    |    |
 | ---|--- |
@@ -201,7 +201,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem018">**dataGeneralizations** (Generalización de los datos)</a>
+<a name="dataGeneralizations">**dataGeneralizations** (Generalización de los datos)</a>
 
 |    |    |
 | ---|--- |
@@ -210,7 +210,7 @@ A continuación se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem019">**dynamicProperties** (Propiedades dinámicas)</a>
+<a name="dynamicProperties">**dynamicProperties** (Propiedades dinámicas)</a>
 
 |    |    |
 | ---|--- |
