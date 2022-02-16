@@ -8,7 +8,7 @@ imageLicense: |
   <a href="https://commons.wikimedia.org/wiki/File:Universidad_Icesi.jpg">Universidad Icesi</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 ---
 
-Del 12 al 13 de julio, se llevó a cabo el taller de publicación de datos sobre biodiversidad para el Valle  del Cauca en las instalaciones de la Universidad Icesi de Cali. Este evento fue organizado por la Corporación Autónoma Regional del Valle del Cauca, en asocio con el Equipo Coordinador del SiB Colombia.  
+Del 12 al 13 de julio se llevó a cabo el taller de publicación de datos sobre biodiversidad para el Valle del Cauca en las instalaciones de la Universidad Icesi de Cali. Este evento fue organizado por la Corporación Autónoma Regional del Valle del Cauca en asocio con el Equipo Coordinador del SiB Colombia.  
 
 El taller buscaba fortalecer las capacidades regionales en el manejo práctico de herramientas para facilitar la gestión y publicación de registros biológicos, a partir de las experiencias de los participantes y de sus datos de trabajo como insumos fundamentales. El evento convocó a 26 representantes de las entidades públicas y privadas más representativas de la región que trabajan conjuntamente para consolidar la base del conocimiento de la biodiversidad del Valle del Cauca.
 
