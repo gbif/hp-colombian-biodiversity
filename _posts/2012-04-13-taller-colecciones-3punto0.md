@@ -12,7 +12,7 @@ Interoperabilidad, imágenes, web semántica e identificadores; anotaciones y co
 Se hará especial énfasis en cómo esos datos pueden ser utilizados y cómo hacerlo en las mejores condiciones técnicas y sociológicas. Y en promocionar el «formar a formadores» para que estos conceptos y técnicas sean adecuadamente diseminados por toda la región.
 
 **Fechas:** 8-11 octubre 2012  
-**Ciudad: Villa de Leyva (Colombia).**  
+**Ciudad:** Villa de Leyva (Colombia).
 **Lugar del taller:** Claustro de San Agustín, Instituto Alexander von Humboldt. Dirección: Carrera 8 No. 15-08, Villa de Leyva (Boyacá), Colombia.  
 **Organizadores:** 
 - SiB Colombia
