@@ -20,7 +20,7 @@ Coordinadores técnicos de programas de conservación y manejo de biodiversidad 
 
 #### Participante por Colombia
 
-**Martha Cecilia Salazar** – Corporación Autónoma Regional del Valle del Cauca (CVC)
+**Martha Cecilia Salazar** – Corporación Autónoma Regional del Valle del Cauca (CVC).
 
 #### Selección de candidatos
 
@@ -32,15 +32,16 @@ El proceso de selección se llevó a cabo en dos pasos:
 
 #### Criterios de selección y perfil esperado
 
-- Diligenciar completamente el formulario de inscripción (incluyendo CV y cartas de recomendación)
+- Diligenciar completamente el formulario de inscripción (incluyendo CV y cartas de recomendación).
 - Contar con el aval de la entidad u organización a la cual pertenece el interesado, que realice actividades de conservación y manejo de la biodiversidad.
 - Contar con experiencia y conocimientos en el manejo de información sobre biodiversidad o en informática de la biodiversidad.
 - Estar vinculado con procesos de gestión de información y temas relacionados con conservación y manejo de la biodiversidad, ya sea en los ámbitos nacional, regional o local.
 
 #### Compromisos
 
-- Los candidatos seleccionados se comprometen a publicar datos sobre biodiversidad (registros biológicos o listas de especies) a través de la red nacional del SiB Colombia y de la infraestructura global GBIF.
-- Los candidatos seleccionados se comprometen a participar como instructores en las actividades de creación y fortalecimiento de capacidad organizadas por el SiB Colombia, con el propósito de difundir ampliamente en el país los contenidos desarrollados durante el Taller de I3B en Costa Rica 2013.
+Los candidatos seleccionados se comprometen a:
+- Publicar datos sobre biodiversidad (registros biológicos o listas de especies) a través de la red nacional del SiB Colombia y de la infraestructura global GBIF.
+- Participar como instructores en las actividades de creación y fortalecimiento de capacidad organizadas por el SiB Colombia, con el propósito de difundir ampliamente en el país los contenidos desarrollados durante el Taller de I3B en Costa Rica 2013.
  
 
 El participante desde Colombia fue seleccionado a partir de sus méritos y su adecuación a los criterios de selección, sobre la base de la información proporcionada en el formulario de inscripción y la información adjunta requerida.  
