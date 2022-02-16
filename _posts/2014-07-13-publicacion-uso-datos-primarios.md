@@ -25,7 +25,7 @@ Presentar el contexto y las iniciativas globales y locales que se están desarro
 
 #### Dirigido a
 
-Estudiantes e investigadores que trabajen con datos primarios sobre biodiversidad (registros biológicos y listados taxonómicos)
+Estudiantes e investigadores que trabajen con datos primarios sobre biodiversidad (registros biológicos y listados taxonómicos).
 
 #### Requerimientos
 
@@ -34,13 +34,13 @@ Estudiantes e investigadores que trabajen con datos primarios sobre biodiversida
 
 #### Cupos disponibles
 
-30
++ 30
 
 #### Organiza
 
-* SiB Colombia, Instituto Humboldt
+* SiB Colombia, Instituto Humboldt.
 
-* Instituto de Biología, Universidad de Antioquia
+* Instituto de Biología, Universidad de Antioquia.
 
 
 <img src="/assets/images/noticias_eventos/2014/2014-07-13-publicacion-uso-datos-primarios2.jpg" width=770>
