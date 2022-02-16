@@ -31,14 +31,14 @@ El taller se desarrollará mediante presentaciones temáticas, discusiones plena
 #### Selección de candidatos
 
 El proceso de selección de candidatos será realizado por el comité coordinador del taller, conformado por representantes del Instituto de Ciencias Naturales (ICN) y del Equipo Coordinador del SiB Colombia, de acuerdo con los criterios de selección y la documentación remitida por los aspirantes, teniendo en cuenta las siguientes fechas:
-**Fecha de apertura:** 2 de mayo de 2013
-**Fecha de cierre:** 22 de mayo de 2013
-**Fecha de publicación de los seleccionados:** 27 de mayo de 2013
+
+- **Apertura:** 2 de mayo de 2013
+- **Cierre:** 22 de mayo de 2013
+- **Publicación de los seleccionados:** 27 de mayo de 2013
 
 #### Criterios de selección
 
-Diligenciar completamente el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSd0oDzvzh6BxHDKDPXZuK1i3QWRl7rbfVAinDG4zmLGHA4oJw/viewform?formkey=dDVka0FTLVRLd3NWT2w3d1c1azFUYlE6MQ#gid=0){:target="_blank"}
-, incluyendo CV.
+Diligenciar completamente el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSd0oDzvzh6BxHDKDPXZuK1i3QWRl7rbfVAinDG4zmLGHA4oJw/viewform?formkey=dDVka0FTLVRLd3NWT2w3d1c1azFUYlE6MQ#gid=0){:target="_blank"}, incluyendo el CV.
 Contar con una carta de aval institucional del director, coordinador o encargado de la colección de la entidad u organización a la que está vinculado el candidato, donde se encuentra la colección biológica.
 Estar a cargo de la sistematización, digitalización o administración de la información en la colección biológica.
 
@@ -136,6 +136,6 @@ Se recomienda a los participantes consultar los siguientes documentos de context
 
 
 #### Contacto
-Para mayor información contáctenos al correo electrónico sib@humboldt.org.co con el asunto: **Taller colecciones biológicas.**
+Para mayor información contáctenos al correo electrónico <a href="mailto:sib@humboldt.org.co">sib@humboldt.org.co</a> con el asunto: **Taller colecciones biológicas.**
 
 <img src="/assets/images/noticias_eventos/2013/2013-03-13-Taller-herramientas-informáticas-colecciones-biologicas-2.jpg" width=770>
