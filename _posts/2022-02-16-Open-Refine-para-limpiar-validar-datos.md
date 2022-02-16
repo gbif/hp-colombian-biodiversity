@@ -1,5 +1,5 @@
 ---
-preTitle: 16 de febrero de 2022
+preTitle: 2022-02-16
 title: "Open Refine para limpiar y validar datos sobre biodiversidad de Colombia"
 date: 2022-02-16
 categories: ["Tutoriales", "Open Refine", "Datos", "Formación"]
