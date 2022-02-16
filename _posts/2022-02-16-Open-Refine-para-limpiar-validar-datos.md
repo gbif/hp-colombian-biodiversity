@@ -17,7 +17,7 @@ Open Refine puede usarse para depurar todo tipo de datos y, lo mejor, es de cód
 Si quiere conocer más sobre este estándar, consulte la sección sobre [plantillas Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc).
 
 
-## [H2] ¿Cómo usar Open Refine para corregir datos de biodiversidad?
+## ¿Cómo usar Open Refine para corregir datos de biodiversidad?
 
 Con Open Refine se pueden corregir errores de digitación, espacios en blanco innecesarios (que afecten la interpretación del archivo), duplicados, elementos con la misma información pero en formatos distintos y muchos otros de manera masiva. Es decir, con la aplicación de diversos filtros, conjuntos y rutinas (secuencia de instrucciones), **es posible corregir, con un solo clic, un error que se repite múltiples veces en un archivo**.
 
