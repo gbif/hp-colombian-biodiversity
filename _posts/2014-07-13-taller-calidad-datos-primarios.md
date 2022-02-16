@@ -8,7 +8,7 @@ imageLicense: |
   <a href="https://commons.wikimedia.org/wiki/File:Albizia_gbif.png">https://www.gbif.org/species/2972897</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 ---
 
-El fortalecimiento e implementación de procesos de control de calidad en datos primarios sobre biodiversidad, es fundamental en la construcción de conocimiento sobre diversidad biológica. Los datos sobre biodiversidad que son sometidos a estos procesos, son el pilar para apoyar procesos de investigación, educación y toma de decisiones relacionadas con el conocimiento, la conservación y el uso sostenible de la biodiversidad y los servicios ecosistémicos.  
+El fortalecimiento e implementación de procesos de control de calidad en datos primarios sobre biodiversidad es fundamental en la construcción de conocimiento sobre diversidad biológica. Los datos sobre biodiversidad que son sometidos a estos procesos son el pilar para apoyar procesos de investigación, educación y toma de decisiones relacionadas con el conocimiento, la conservación y el uso sostenible de la biodiversidad y los servicios ecosistémicos.  
 
 Por esta razón, este curso tiene como objetivo general dar las bases teóricas y presentar diferentes herramientas para el control de calidad de los datos, desde la captura de los mismos, pasando por la sistematización, identificación taxonómica, documentación, almacenamiento, preservación de la información, y finalizando con la publicación y uso de los datos.
 
