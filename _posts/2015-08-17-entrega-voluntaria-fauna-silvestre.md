@@ -17,4 +17,4 @@ Por su parte, en Bogotá se recuperó una amplia variedad de especímenes y vari
 
 Dentro de los animales recogidos, que en su mayoría fueron aves y reptiles, se identificaron dos tipos de tortugas, la Terecay (*Podocnemis unifilis*) y la Morrocoy (*Geochelone carbonaria*), ambas en estado crítico en Colombia; una Boa arcoíris (*Epicrates cenchria*) y una Cotorra cabeciazul (*Pionus menstruus*), entre otras.  
 
-Es importante entregar los animales en cautiverio a las personas competentes pues cada animal hace parte de su ecosistema, así aportamos al cuidado de nuestra #Biodiversidad.
+Es importante entregar los animales en cautiverio a las personas competentes pues cada animal hace parte de su ecosistema, así aportamos al cuidado de nuestra biodiversidad.
