@@ -48,7 +48,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Comentarios | Sólo las colecciones biológicas pueden documentar PreservedSpecimen, si el registro corresponde a un espécimen depositado, pero el reporte no lo genera la colección biológica, se documenta HumanObservation y se documentan los elementos collectionCode, catalogNumber y disposition. |
 | Elementos relacionados | type |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_ |
-| [Vocabulario controlado](#elem365) | PreservedSpecimen<br> HumanObservation<br> LivingSpecimen<br> FossilSpecimen<br> MachineObservation<br> MaterialSample<br> MaterialCitation |
+| [Vocabulario controlado](#vc_basisOfRecord) | PreservedSpecimen<br> HumanObservation<br> LivingSpecimen<br> FossilSpecimen<br> MachineObservation<br> MaterialSample<br> MaterialCitation |
 |    |    |
 
 <a name="type">**type** (Tipo)</a>
@@ -58,7 +58,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Definición | Especifica el tipo de evidencia que da origen al registro, ampliando la información presente en el elemento basisOfRecord. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | Elementos relacionados | basisOfRecord |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Opcional)_ |
-| [Vocabulario controlado](#elem366) | Stillmage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event |
+| [Vocabulario controlado](#vc_type) | Stillmage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event |
 |    |    |
 
 <a name="institutionCode">**institutionCode** (Código de la institución)</a>
@@ -136,7 +136,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Definición | El idioma del conjunto de datos. |
 | Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 639-1 de 2 letras en minúscula, como se muestra a continuación:<br><br> es (=Para español)<br> en (=Para inglés) |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_<br> Evento de muestreo _(Opcional)_ |
-| [Vocabulario controlado](#elem367) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
+| [Vocabulario controlado](#vc_language) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
 |    |    |
 
 <a name="license">**license** (Licencia)</a>
@@ -223,19 +223,19 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |    |
 | ---|--- |--- |--- |
-| [**occurrenceID**<br> (ID del Registro biológico)](#elem020) | [**catalogNumber**<br> (Número de catálogo)](#elem021) | [**recordNumber**<br> (Número del registro)](#elem022) | [**recordedBy**<br> (Registrado por)](#elem023) |
-| [**recordedByID**<br> (ID del registrador)](#elem024) | [**individualCount**<br> (Número de individuos)](#elem025) | [**organismQuantity**<br> (Cantidad del organismo)](#elem026) | [**organismQuantityType**<br> (Tipo de cantidad del organismo)](#elem027) |
-| [**sex**<br> (Sexo)](#elem028) | [**lifeStage**<br> (Etapa de desarrollo)](#elem029) | [**reproductiveCondition**<br> (Condición reproductiva)](#elem030) | [**behavior**<br> (Comportamiento)](#elem031) | 
-| [**establishmentMeans**<br> (Medios de establecimiento)](#elem032) | [**degreeOfEstablishment**<br> (Grado de establecimiento)](#elem033) | [**pathway**<br> (Ruta de introducción)](#elem034) | [**occurrenceStatus**<br> (Estado del registro biológico)](#elem035) |
-| [**preparations**<br> (Preparaciones)](#elem036) | [**disposition**<br> (Disposición)](#elem037) | [**otherCatalogNumbers**<br> (Otros números de catálogo)](#elem038) | [**associatedMedia**<br> (Medios asociados)](#elem039) |
-| [**associatedOccurrences**<br> (Registros biológicos asociados)](#elem040) | [**associatedReferences**<br> (Referencias asociadas)](#elem041) | [**associatedSequences**<br> (Secuencias asociadas)](#elem042) | [**associatedTaxa**<br> (Taxones asociados)](#elem043) |
-| [**occurrenceRemarks**<br> (Comentarios del registro biológico)](#elem044) |  |  |  |
+| [**occurrenceID**<br> (ID del Registro biológico)](#occurrenceID) | [**catalogNumber**<br> (Número de catálogo)](#catalogNumber) | [**recordNumber**<br> (Número del registro)](#recordNumber) | [**recordedBy**<br> (Registrado por)](#recordedBy) |
+| [**recordedByID**<br> (ID del registrador)](#recordedByID) | [**individualCount**<br> (Número de individuos)](#individualCount) | [**organismQuantity**<br> (Cantidad del organismo)](#organismQuantity) | [**organismQuantityType**<br> (Tipo de cantidad del organismo)](#organismQuantityType) |
+| [**sex**<br> (Sexo)](#sex) | [**lifeStage**<br> (Etapa de desarrollo)](#lifeStage) | [**reproductiveCondition**<br> (Condición reproductiva)](#reproductiveCondition) | [**behavior**<br> (Comportamiento)](#behavior) | 
+| [**establishmentMeans**<br> (Medios de establecimiento)](#establishmentMeans) | [**degreeOfEstablishment**<br> (Grado de establecimiento)](#degreeOfEstablishment) | [**pathway**<br> (Ruta de introducción)](#pathway) | [**occurrenceStatus**<br> (Estado del registro biológico)](#occurrenceStatus) |
+| [**preparations**<br> (Preparaciones)](#preparations) | [**disposition**<br> (Disposición)](#disposition) | [**otherCatalogNumbers**<br> (Otros números de catálogo)](#otherCatalogNumbers) | [**associatedMedia**<br> (Medios asociados)](#associatedMedia) |
+| [**associatedOccurrences**<br> (Registros biológicos asociados)](#associatedOccurrences) | [**associatedReferences**<br> (Referencias asociadas)](#associatedReferences) | [**associatedSequences**<br> (Secuencias asociadas)](#associatedSequences) | [**associatedTaxa**<br> (Taxones asociados)](#associatedTaxa) |
+| [**occurrenceRemarks**<br> (Comentarios del registro biológico)](#occurrenceRemarks) |  |  |  |
 |    |    |    |    |
 
 <br>
 <br>
 
-<a name="elem020">**occurrenceID** (ID del Registro biológico)</a>
+<a name="occurrenceID">**occurrenceID** (ID del Registro biológico)</a>
 
 |    |    |
 | ---|--- |
@@ -244,7 +244,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_ |
 |    |    |
 
-<a name="elem021">**catalogNumber** (Número de catálogo)</a>
+<a name="catalogNumber">**catalogNumber** (Número de catálogo)</a>
 
 |    |    |
 | ---|--- |
@@ -253,7 +253,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
 |    |    |
 
-<a name="elem022">**recordNumber** (Número del registro)</a>
+<a name="recordNumber">**recordNumber** (Número del registro)</a>
 
 |    |    |
 | ---|--- |
@@ -262,7 +262,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
-<a name="elem023">**recordedBy** (Registrado por)</a>
+<a name="recordedBy">**recordedBy** (Registrado por)</a>
 
 |    |    |
 | ---|--- |
@@ -271,7 +271,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico |
 |    |    |
 
-<a name="elem024">**recordedByID** (ID del registrador)</a>
+<a name="recordedByID">**recordedByID** (ID del registrador)</a>
 
 |    |    |
 | ---|--- |
@@ -280,7 +280,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
-<a name="elem025">**individualCount** (Número de individuos)</a>
+<a name="individualCount">**individualCount** (Número de individuos)</a>
 
 |    |    |
 | ---|--- |
@@ -289,7 +289,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
 |    |    |
 
-<a name="elem026">**organismQuantity** (Cantidad del organismo)</a>
+<a name="organismQuantity">**organismQuantity** (Cantidad del organismo)</a>
 
 |    |    |
 | ---|--- |
@@ -300,7 +300,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico |
 |    |    |
 
-<a name="elem027">**organismQuantityType** (Tipo de cantidad del organismo)</a>
+<a name="organismQuantityType">**organismQuantityType** (Tipo de cantidad del organismo)</a>
 
 |    |    |
 | ---|--- |
@@ -312,7 +312,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 |    |    |
 
 
-<a name="elem028">**sex** (Sexo)</a>
+<a name="sex">**sex** (Sexo)</a>
 
 |    |    |
 | ---|--- |
@@ -321,7 +321,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
 |    |    |
 
-<a name="elem029">**lifeStage** (Etapa de desarrollo)</a>
+<a name="lifeStage">**lifeStage** (Etapa de desarrollo)</a>
 
 |    |    |
 | ---|--- |
@@ -330,7 +330,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
 |    |    |
 
-<a name="elem030">**reproductiveCondition** (Condición reproductiva)</a>
+<a name="reproductiveCondition">**reproductiveCondition** (Condición reproductiva)</a>
 
 |    |    |
 | ---|--- |
@@ -339,7 +339,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
-<a name="elem031">**behavior** (Comportamiento)</a>
+<a name="behavior">**behavior** (Comportamiento)</a>
 
 |    |    |
 | ---|--- |
@@ -348,46 +348,46 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
-<a name="elem032">**establishmentMeans** (Medios de establecimiento)</a>
+<a name="establishmentMeans">**establishmentMeans** (Medios de establecimiento)</a>
 
 |    |    |
 | ---|--- |
 | Definición | Una afirmación que de cuenta si un organismo ha sido introducido a un lugar y tiempo determinado a través de actividad humana directa o indirecta. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos degreeOfEstablishment y pathway. |
 | Elementos relacionados | degreeOfEstablishment, pathway |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](#elem368) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain |
+|  [Vocabulario controlado](#vc_establishmentMeans) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain |
 |    |    |
 
-<a name="elem033">**degreeOfEstablishment** (Grado de establecimiento)</a>
+<a name="degreeOfEstablishment">**degreeOfEstablishment** (Grado de establecimiento)</a>
 
 |    |    |
 | ---|--- |
 | Definición | El grado en cual el organismo sobrevive, se reproduce y expande su rango de distribución en un lugar y tiempo determinado. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos establishmentMeans y pathway. |
 | Elementos relacionados | establishmentMeans, pathway |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](#elem369) | native<br> cultivated<br> released<br> established<br> colonising<br> widespreadInvasive |
+|  [Vocabulario controlado](#vc_degreeOfEstablishment) | native<br> cultivated<br> released<br> established<br> colonising<br> widespreadInvasive |
 |    |    |
 
-<a name="elem034">**pathway** (Ruta de introducción)</a>
+<a name="pathway">**pathway** (Ruta de introducción)</a>
 
 |    |    |
 | ---|--- |
 | Definición | El proceso por el cual un organismo llegó a un lugar y tiempo determinado. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos establishmentMeans y degreeOfEstablishment. |
 | Elementos relacionados | establishmentMeans, degreeOfEstablishment |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](#elem370) | releasedForUse<br> otherEscape<br> transportContaminant<br> transportStowaway<br> corridor<br> unaided |
+|  [Vocabulario controlado](#vc_pathway) | releasedForUse<br> otherEscape<br> transportContaminant<br> transportStowaway<br> corridor<br> unaided |
 |    |    |
 
-<a name="elem035">**occurrenceStatus** (Estado del registro biológico)</a>
+<a name="occurrenceStatus">**occurrenceStatus** (Estado del registro biológico)</a>
 
 |    |    |
 | ---|--- |
 | Definición | Estado que da cuenta de la presencia o ausencia de un taxón en una ubicación. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](#elem371) | present<br> absent |
+|  [Vocabulario controlado](#vc_occurrenceStatus) | present<br> absent |
 |    |    |
 
-<a name="elem036">**preparations** (Preparaciones)</a>
+<a name="preparations">**preparations** (Preparaciones)</a>
 
 |    |    |
 | ---|--- |
@@ -396,7 +396,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos |
 |    |    |
 
-<a name="elem037">**disposition** (Disposición)</a>
+<a name="disposition">**disposition** (Disposición)</a>
 
 |    |    |
 | ---|--- |
@@ -406,7 +406,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos |
 |    |    |
 
-<a name="elem038">**otherCatalogNumbers** (Otros números de catálogo)</a>
+<a name="otherCatalogNumbers">**otherCatalogNumbers** (Otros números de catálogo)</a>
 
 |    |    |
 | ---|--- |
@@ -415,7 +415,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
-<a name="elem039">**associatedMedia** (Medios asociados)</a>
+<a name="associatedMedia">**associatedMedia** (Medios asociados)</a>
 
 |    |    |
 | ---|--- |
@@ -424,7 +424,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
-<a name="elem040">**associatedOccurrences** (Registros biológicos asociados)</a>
+<a name="associatedOccurrences">**associatedOccurrences** (Registros biológicos asociados)</a>
 
 |    |    |
 | ---|--- |
@@ -434,7 +434,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
-<a name="elem041">**associatedReferences** (Referencias asociadas)</a>
+<a name="associatedReferences">**associatedReferences** (Referencias asociadas)</a>
 
 |    |    |
 | ---|--- |
@@ -443,7 +443,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
-<a name="elem042">**associatedSequences** (Secuencias asociadas)</a>
+<a name="associatedSequences">**associatedSequences** (Secuencias asociadas)</a>
 
 |    |    |
 | ---|--- |
@@ -452,7 +452,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
-<a name="elem043">**associatedTaxa** (Taxones asociados)</a>
+<a name="associatedTaxa">**associatedTaxa** (Taxones asociados)</a>
 
 |    |    |
 | ---|--- |
@@ -461,7 +461,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
-<a name="elem044">**occurrenceRemarks** (Comentarios del registro biológico)</a>
+<a name="occurrenceRemarks">**occurrenceRemarks** (Comentarios del registro biológico)</a>
 
 |    |    |
 | ---|--- |
@@ -474,14 +474,14 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |    |
 | ---|--- |--- |--- |
-| [**organismID**<br> (ID del organismo)](#elem045) | [**organismName**<br> (Nombre del organismo)](#elem046) | [**organismScope**<br> (Alcance del organismo)](#elem047) | [**associatedOrganisms**<br> (Organismos asociados)](#elem048) |
-| [**previousIdentifications**<br> (Identificaciones previas)](#elem049) | [**organismRemarks**<br> (Comentarios del organismo)](#elem050) |  |  |
+| [**organismID**<br> (ID del organismo)](#organismID) | [**organismName**<br> (Nombre del organismo)](#organismName) | [**organismScope**<br> (Alcance del organismo)](#organismScope) | [**associatedOrganisms**<br> (Organismos asociados)](#associatedOrganisms) |
+| [**previousIdentifications**<br> (Identificaciones previas)](#previousIdentifications) | [**organismRemarks**<br> (Comentarios del organismo)](#organismRemarks) |  |  |
 |    |    |    |    |
 
 <br>
 <br>
 
-<a name="elem045">**organismID** (ID del organismo)</a>
+<a name="organismID">**organismID** (ID del organismo)</a>
 
 |    |    |
 | ---|--- |
@@ -490,7 +490,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
-<a name="elem046">**organismName** (Nombre del organismo)</a>
+<a name="organismName">**organismName** (Nombre del organismo)</a>
 
 |    |    |
 | ---|--- |
@@ -499,7 +499,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
-<a name="elem047">**organismScope** (Alcance del organismo)</a>
+<a name="organismScope">**organismScope** (Alcance del organismo)</a>
 
 |    |    |
 | ---|--- |
@@ -508,7 +508,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
-<a name="elem048">**associatedOrganisms** (Organismos asociados)</a>
+<a name="associatedOrganisms">**associatedOrganisms** (Organismos asociados)</a>
 
 |    |    |
 | ---|--- |
@@ -517,7 +517,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
-<a name="elem049">**previousIdentifications** (Identificaciones previas)</a>
+<a name="previousIdentifications">**previousIdentifications** (Identificaciones previas)</a>
 
 |    |    |
 | ---|--- |
@@ -526,7 +526,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
 
-<a name="elem050">**organismRemarks** (Comentarios del organismo)</a>
+<a name="organismRemarks">**organismRemarks** (Comentarios del organismo)</a>
 
 |    |    |
 | ---|--- |
@@ -539,13 +539,13 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |    |
 | ---|--- |--- |--- |
-| [**materialSampleID**<br> (ID de muestra del material)](#elem051) |  |  |  |
+| [**materialSampleID**<br> (ID de muestra del material)](#materialSampleID) |  |  |  |
 |    |    |    |    |
 
 <br>
 <br>
 
-<a name="elem051">**materialSampleID** (ID de muestra del material)</a>
+<a name="materialSampleID">**materialSampleID** (ID de muestra del material)</a>
 
 |    |    |
 | ---|--- |
@@ -558,17 +558,17 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |    |
 | ---|--- |--- |--- |
-| [**parentEventID**<br> (ID parental del evento)](#elem052) | [**eventID**<br> (ID del evento)](#elem053) | [**samplingProtocol**<br> (Protocolo de muestreo)](#elem054) | [**sampleSizeValue**<br> (Valor del tamaño de la muestra)](#elem055) |
-| [**sampleSizeUnit**<br> (Unidad del tamaño de la muestra)](#elem056) | [**samplingEffort**<br> (Esfuerzo de muestreo)](#elem057) | [**eventDate**<br> (Fecha del evento)](#elem058) | [**startDayOfYear**<br> (Día inicial del año)](#elem059) |
-| [**endDayOfYear**<br> (Día final del año)](#elem060) | [**year**<br> (Año)](#elem061) | [**month**<br> (Mes)](#elem062) | [**day**<br> (Día)](#elem063) | 
-| [**verbatimEventDate**<br> (Fecha original del evento)](#elem064) | [**eventTime**<br> (Hora del evento)](#elem065) | [**habitat**<br> (Hábitat)](#elem066) | [**fieldNumber**<br> (Número de campo)](#elem067) |
-| [**fieldNotes**<br> (Notas de campo)](#elem068) | [**eventRemarks**<br> (Comentarios del evento)](#elem069) |  |  |
+| [**parentEventID**<br> (ID parental del evento)](#parentEventID) | [**eventID**<br> (ID del evento)](#eventID) | [**samplingProtocol**<br> (Protocolo de muestreo)](#samplingProtocol) | [**sampleSizeValue**<br> (Valor del tamaño de la muestra)](#sampleSizeValue) |
+| [**sampleSizeUnit**<br> (Unidad del tamaño de la muestra)](#sampleSizeUnit) | [**samplingEffort**<br> (Esfuerzo de muestreo)](#samplingEffort) | [**eventDate**<br> (Fecha del evento)](#eventDate) | [**startDayOfYear**<br> (Día inicial del año)](#startDayOfYear) |
+| [**endDayOfYear**<br> (Día final del año)](#endDayOfYear) | [**year**<br> (Año)](#year) | [**month**<br> (Mes)](#month) | [**day**<br> (Día)](#day) | 
+| [**verbatimEventDate**<br> (Fecha original del evento)](#verbatimEventDate) | [**eventTime**<br> (Hora del evento)](#eventTime) | [**habitat**<br> (Hábitat)](#habitat) | [**fieldNumber**<br> (Número de campo)](#fieldNumber) |
+| [**fieldNotes**<br> (Notas de campo)](#fieldNotes) | [**eventRemarks**<br> (Comentarios del evento)](#eventRemarks) |  |  |
 |    |    |    |    |    |
 
 <br>
 <br>
 
-<a name="elem052">**parentEventID** (ID parental del evento)</a>
+<a name="parentEventID">**parentEventID** (ID parental del evento)</a>
 
 |    |    |
 | ---|--- |
@@ -579,7 +579,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem053">**eventID** (ID del evento)</a>
+<a name="eventID">**eventID** (ID del evento)</a>
 
 |    |    |
 | ---|--- |
@@ -590,7 +590,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro es marino - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Obligatorio)_ |
 |    |    |
 
-<a name="elem054">**samplingProtocol** (Protocolo de muestreo)</a>
+<a name="samplingProtocol">**samplingProtocol** (Protocolo de muestreo)</a>
 
 |    |    |
 | ---|--- |
@@ -600,7 +600,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem055">**sampleSizeValue** (Valor del tamaño de la muestra)</a>
+<a name="sampleSizeValue">**sampleSizeValue** (Valor del tamaño de la muestra)</a>
 
 |    |    |
 | ---|--- |
@@ -610,7 +610,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem056">**sampleSizeUnit** (Unidad del tamaño de la muestra)</a>
+<a name="sampleSizeUnit">**sampleSizeUnit** (Unidad del tamaño de la muestra)</a>
 
 |    |    |
 | ---|--- |
@@ -620,7 +620,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem057">**samplingEffort** (Esfuerzo de muestreo)</a>
+<a name="samplingEffort">**samplingEffort** (Esfuerzo de muestreo)</a>
 
 |    |    |
 | ---|--- |
@@ -630,7 +630,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem058">**eventDate** (Fecha del evento)</a>
+<a name="eventDate">**eventDate** (Fecha del evento)</a>
 
 |    |    |
 | ---|--- |
@@ -639,7 +639,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Obligatorio)_ |
 |    |    |
 
-<a name="elem059">**startDayOfYear** (Día inicial del año)</a>
+<a name="startDayOfYear">**startDayOfYear** (Día inicial del año)</a>
 
 |    |    |
 | ---|--- |
@@ -648,7 +648,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem060">**endDayOfYear** (Día final del año)</a>
+<a name="endDayOfYear">**endDayOfYear** (Día final del año)</a>
 
 |    |    |
 | ---|--- |
@@ -657,7 +657,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem061">**year** (Año)</a>
+<a name="year">**year** (Año)</a>
 
 |    |    |
 | ---|--- |
@@ -666,7 +666,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem062">**month** (Mes)</a>
+<a name="month">**month** (Mes)</a>
 
 |    |    |
 | ---|--- |
@@ -675,7 +675,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem063">**day** (Día)</a>
+<a name="day">**day** (Día)</a>
 
 |    |    |
 | ---|--- |
@@ -684,7 +684,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem064">**verbatimEventDate** (Fecha original del evento)</a>
+<a name="verbatimEventDate">**verbatimEventDate** (Fecha original del evento)</a>
 
 |    |    |
 | ---|--- |
@@ -693,7 +693,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem065">**eventTime** (Hora del evento)</a>
+<a name="eventTime">**eventTime** (Hora del evento)</a>
 
 |    |    |
 | ---|--- |
@@ -702,7 +702,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem066">**habitat** (Hábitat)</a>
+<a name="habitat">**habitat** (Hábitat)</a>
 
 |    |    |
 | ---|--- |
@@ -711,7 +711,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem067">**fieldNumber** (Número de campo)</a>
+<a name="fieldNumber">**fieldNumber** (Número de campo)</a>
 
 |    |    |
 | ---|--- |
@@ -720,7 +720,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem068">**fieldNotes** (Notas de campo)</a>
+<a name="fieldNotes">**fieldNotes** (Notas de campo)</a>
 
 |    |    |
 | ---|--- |
@@ -729,7 +729,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem069">**eventRemarks** (Comentarios del evento)</a>
+<a name="eventRemarks">**eventRemarks** (Comentarios del evento)</a>
 
 |    |    |
 | ---|--- |
@@ -742,27 +742,27 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |
 | ---|--- |--- |
-| [**locationID**<br> (ID de la ubicación)](#elem070) | [**higherGeography**<br> (Geografía superior)](#elem071) | [**higherGeographyID**<br> (ID de la geografía superior)](#elem072) |
-| [**continent**<br> (Continente)](#elem073) | [**waterBody**<br> (Cuerpo de agua)](#elem074) | [**islandGroup**<br> (Grupo de islas)](#elem075) | 
-| [**island**<br> (Isla)](#elem076) | [**country**<br> (País)](#elem077) | [**countryCode**<br> (Código del país)](#elem078) |
-| [**stateProvince**<br> (Departamento)](#elem079) | [**county**<br> (Municipio)](#elem080) | [**municipality**<br> (Cabecera municipal/<br>Centro poblado)](#elem081) | 
-| [**locality**<br> (Localidad)](#elem082) | [**verbatimLocality**<br> (Localidad original)](#elem083) | [**verbatimElevation**<br> (Elevación original)](#elem084) | 
-| [**minimumElevationInMeters**<br> (Elevación mínima en metros)](#elem085) | [**maximumElevationInMeters**<br> (Elevación máxima en metros)](#elem086) | [**verticalDatum**<br> (Datum vertical)](#elem087) |
-| [**verbatimDepth**<br> (Profundidad original)](#elem088) | [**minimumDepthInMeters**<br> (Profundidad mínima en metros)](#elem089) | [**maximumDepthInMeters**<br> (Profundidad máxima en metros)](#elem090) | 
-| [**minimumDistanceAbove<br>SurfaceInMeters**<br> (Distancia mínima de la superficie en metros)](#elem091) | [**maximumDistanceAbove<br>SurfaceInMeters**<br> (Distancia máxima de la superficie en metros)](#elem092) | [**locationAccordingTo**<br> (Ubicación de acuerdo con)](#elem093) |
-| [**locationRemarks**<br> (Comentarios de la ubicación)](#elem094) | [**verbatimLatitude**<br> (Latitud original)](#elem095) | [**verbatimLongitude**<br> (Longitud original)](#elem096) |
-| [**verbatimCoordinates**<br> (Coordenadas originales)](#elem097) | [**verbatimCoordinateSystem**<br> (Sistema original de coordenadas)](#elem098) | [**verbatimSRS**<br> (SRS original)](#elem099) |
-| [**decimalLatitude**<br> (Latitud decimal)](#elem100) | [**decimalLongitude**<br> (Longitud decimal)](#elem101) | [**geodeticDatum**<br> (Datum geodésico)](#elem102) |
-| [**coordinateUncertaintyInMeters**<br> (Incertidumbre de las coordenadas en metros)](#elem103) | [**coordinatePrecision**<br> (Precisión de las coordenadas)](#elem104) | [**pointRadiusSpatialFit**<br> (Ajuste espacial del radio-punto)](#elem105) |
-| [**footprintWKT**<br> (WKT footprint)](#elem106) | [**footprintSRS**<br> (SRS footprint)](#elem107) | [**footprintSpatialFit**<br> (Ajuste espacial de footprint)](#elem108) |
-| [**georeferencedBy**<br> (Georreferenciado por)](#elem109) | [**georeferencedDate**<br> (Fecha de georreferenciación)](#elem110) | [**georeferenceProtocol**<br> (Protocolo de georreferenciaciónt)](#elem111) |
-| [**georeferenceSources**<br> (Fuentes de georreferenciación)](#elem112) | [**georeferenceVerificationStatus**<br> (Estado de la verificación de la georreferenciación)](#elem113) | [**georeferenceRemarks**<br> (Comentarios de la georreferenciación)](#elem114) |
+| [**locationID**<br> (ID de la ubicación)](#locationID) | [**higherGeography**<br> (Geografía superior)](#higherGeography) | [**higherGeographyID**<br> (ID de la geografía superior)](#higherGeographyID) |
+| [**continent**<br> (Continente)](#continent) | [**waterBody**<br> (Cuerpo de agua)](#waterBody) | [**islandGroup**<br> (Grupo de islas)](#islandGroup) | 
+| [**island**<br> (Isla)](#island) | [**country**<br> (País)](#country) | [**countryCode**<br> (Código del país)](#countryCode) |
+| [**stateProvince**<br> (Departamento)](#stateProvince) | [**county**<br> (Municipio)](#county) | [**municipality**<br> (Cabecera municipal/<br>Centro poblado)](#municipality) | 
+| [**locality**<br> (Localidad)](#locality) | [**verbatimLocality**<br> (Localidad original)](#verbatimLocality) | [**verbatimElevation**<br> (Elevación original)](#verbatimElevation) | 
+| [**minimumElevationInMeters**<br> (Elevación mínima en metros)](#minimumElevationInMeters) | [**maximumElevationInMeters**<br> (Elevación máxima en metros)](#maximumElevationInMeters) | [**verticalDatum**<br> (Datum vertical)](#verticalDatum) |
+| [**verbatimDepth**<br> (Profundidad original)](#verbatimDepth) | [**minimumDepthInMeters**<br> (Profundidad mínima en metros)](#minimumDepthInMeters) | [**maximumDepthInMeters**<br> (Profundidad máxima en metros)](#maximumDepthInMeters) | 
+| [**minimumDistanceAbove<br>SurfaceInMeters**<br> (Distancia mínima de la superficie en metros)](#minimumDistanceAboveSurfaceInMeters) | [**maximumDistanceAbove<br>SurfaceInMeters**<br> (Distancia máxima de la superficie en metros)](#maximumDistanceAboveSurfaceInMeters) | [**locationAccordingTo**<br> (Ubicación de acuerdo con)](#locationAccordingTo) |
+| [**locationRemarks**<br> (Comentarios de la ubicación)](#locationRemarks) | [**verbatimLatitude**<br> (Latitud original)](#verbatimLatitude) | [**verbatimLongitude**<br> (Longitud original)](#verbatimLongitude) |
+| [**verbatimCoordinates**<br> (Coordenadas originales)](#verbatimCoordinates) | [**verbatimCoordinateSystem**<br> (Sistema original de coordenadas)](#verbatimCoordinateSystem) | [**verbatimSRS**<br> (SRS original)](#verbatimSRS) |
+| [**decimalLatitude**<br> (Latitud decimal)](#decimalLatitude) | [**decimalLongitude**<br> (Longitud decimal)](#decimalLongitude) | [**geodeticDatum**<br> (Datum geodésico)](#geodeticDatum) |
+| [**coordinateUncertaintyInMeters**<br> (Incertidumbre de las coordenadas en metros)](#coordinateUncertaintyInMeters) | [**coordinatePrecision**<br> (Precisión de las coordenadas)](#coordinatePrecision) | [**pointRadiusSpatialFit**<br> (Ajuste espacial del radio-punto)](#pointRadiusSpatialFit) |
+| [**footprintWKT**<br> (WKT footprint)](#footprintWKT) | [**footprintSRS**<br> (SRS footprint)](#footprintSRS) | [**footprintSpatialFit**<br> (Ajuste espacial de footprint)](#footprintSpatialFit) |
+| [**georeferencedBy**<br> (Georreferenciado por)](#georeferencedBy) | [**georeferencedDate**<br> (Fecha de georreferenciación)](#georeferencedDate) | [**georeferenceProtocol**<br> (Protocolo de georreferenciaciónt)](#georeferenceProtocol) |
+| [**georeferenceSources**<br> (Fuentes de georreferenciación)](#georeferenceSources) | [**georeferenceVerificationStatus**<br> (Estado de la verificación de la georreferenciación)](#georeferenceVerificationStatus) | [**georeferenceRemarks**<br> (Comentarios de la georreferenciación)](#georeferenceRemarks) |
 |    |    |    |
 
 <br>
 <br>
 
-<a name="elem070">**locationID** (ID de la ubicación)</a>
+<a name="locationID">**locationID** (ID de la ubicación)</a>
 
 |    |    |
 | ---|--- |
@@ -772,7 +772,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem071">**higherGeography** (Geografía superior)</a>
+<a name="higherGeography">**higherGeography** (Geografía superior)</a>
 
 |    |    |
 | ---|--- |
@@ -783,7 +783,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem072">**higherGeographyID** (ID de la geografía superior)</a>
+<a name="higherGeographyID">**higherGeographyID** (ID de la geografía superior)</a>
 
 |    |    |
 | ---|--- |
@@ -794,16 +794,16 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem073">**continent** (Continente)</a>
+<a name="continent">**continent** (Continente)</a>
 
 |    |    |
 | ---|--- |
 | Definición | El nombre del continente en el que tiene lugar la ubicación. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
-| [Vocabulario controlado](#elem372) | América del Sur<br> América del Norte<br> Europa<br> África<br> Asia<br> Oceanía<br> Antártida |
+| [Vocabulario controlado](#vc_continent) | América del Sur<br> América del Norte<br> Europa<br> África<br> Asia<br> Oceanía<br> Antártida |
 |    |    |
 
-<a name="elem074">**waterBody** (Cuerpo de agua)</a>
+<a name="waterBody">**waterBody** (Cuerpo de agua)</a>
 
 |    |    |
 | ---|--- |
@@ -812,7 +812,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem075">**islandGroup** (Grupo de islas)</a>
+<a name="islandGroup">**islandGroup** (Grupo de islas)</a>
 
 |    |    |
 | ---|--- |
@@ -821,7 +821,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem076">**island** (Isla)</a>
+<a name="island">**island** (Isla)</a>
 
 |    |    |
 | ---|--- |
@@ -830,7 +830,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem077">**country** (País)</a>
+<a name="country">**country** (País)</a>
 
 |    |    |
 | ---|--- |
@@ -839,7 +839,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Obligatorio)_ |
 |    |    |
 
-<a name="elem078">**countryCode** (Código del país)</a>
+<a name="countryCode">**countryCode** (Código del país)</a>
 
 |    |    |
 | ---|--- |
@@ -848,10 +848,10 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Elementos relacionados | country |
 | Ejemplo | Colombia<br> España<br> Dinamarca |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
-| [Vocabulario controlado](#elem373) | Consultar en: [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO) |
+| [Vocabulario controlado](#vc_countryCode) | Consultar en: [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO) |
 |    |    |
 
-<a name="elem079">**stateProvince** (Departamento)</a>
+<a name="stateProvince">**stateProvince** (Departamento)</a>
 
 |    |    |
 | ---|--- |
@@ -860,7 +860,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem080">**county** (Municipio)</a>
+<a name="county">**county** (Municipio)</a>
 
 |    |    |
 | ---|--- |
@@ -869,7 +869,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem081">**municipality** (Cabecera municipal / Centro poblado)</a>
+<a name="municipality">**municipality** (Cabecera municipal / Centro poblado)</a>
 
 |    |    |
 | ---|--- |
@@ -878,7 +878,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem082">**locality** (Localidad)</a>
+<a name="locality">**locality** (Localidad)</a>
 
 |    |    |
 | ---|--- |
@@ -887,7 +887,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem083">**verbatimLocality** (Localidad original)</a>
+<a name="verbatimLocality">**verbatimLocality** (Localidad original)</a>
 
 |    |    |
 | ---|--- |
@@ -896,7 +896,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem084">**verbatimElevation** (Elevación original)</a>
+<a name="verbatimElevation">**verbatimElevation** (Elevación original)</a>
 
 |    |    |
 | ---|--- |
@@ -905,7 +905,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem085">**minimumElevationInMeters** (Elevación mínima en metros)</a>
+<a name="minimumElevationInMeters">**minimumElevationInMeters** (Elevación mínima en metros)</a>
 
 |    |    |
 | ---|--- |
@@ -914,7 +914,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem086">**maximumElevationInMeters** (Elevación máxima en metros)</a>
+<a name="maximumElevationInMeters">**maximumElevationInMeters** (Elevación máxima en metros)</a>
 
 |    |    |
 | ---|--- |
@@ -923,7 +923,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem087">**verticalDatum** (Datum vertical)</a>
+<a name="verticalDatum">**verticalDatum** (Datum vertical)</a>
 
 |    |    |
 | ---|--- |
@@ -932,7 +932,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem088">**verbatimDepth** (Profundidad original)</a>
+<a name="verbatimDepth">**verbatimDepth** (Profundidad original)</a>
 
 |    |    |
 | ---|--- |
@@ -941,7 +941,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem089">**minimumDepthInMeters** (Profundidad mínima en metros)</a>
+<a name="minimumDepthInMeters">**minimumDepthInMeters** (Profundidad mínima en metros)</a>
 
 |    |    |
 | ---|--- |
@@ -950,7 +950,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem090">**maximumDepthInMeters** (Profundidad máxima en metros)</a>
+<a name="maximumDepthInMeters">**maximumDepthInMeters** (Profundidad máxima en metros)</a>
 
 |    |    |
 | ---|--- |
@@ -959,7 +959,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem091">**minimumDistanceAboveSurfaceInMeters** (Distancia mínima de la superficie en metros)</a>
+<a name="minimumDistanceAboveSurfaceInMeters">**minimumDistanceAboveSurfaceInMeters** (Distancia mínima de la superficie en metros)</a>
 
 |    |    |
 | ---|--- |
@@ -969,7 +969,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem092">**maximumDistanceAboveSurfaceInMeters** (Distancia máxima de la superficie en metros)</a>
+<a name="maximumDistanceAboveSurfaceInMeters">**maximumDistanceAboveSurfaceInMeters** (Distancia máxima de la superficie en metros)</a>
 
 |    |    |
 | ---|--- |
@@ -979,7 +979,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem093">**locationAccordingTo** (Ubicación de acuerdo con)</a>
+<a name="locationAccordingTo">**locationAccordingTo** (Ubicación de acuerdo con)</a>
 
 |    |    |
 | ---|--- |
@@ -988,7 +988,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem094">**locationRemarks** (Comentarios de la ubicación)</a>
+<a name="locationRemarks">**locationRemarks** (Comentarios de la ubicación)</a>
 
 |    |    |
 | ---|--- |
@@ -997,7 +997,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem095">**verbatimLatitude** (Latitud original)</a>
+<a name="verbatimLatitude">**verbatimLatitude** (Latitud original)</a>
 
 |    |    |
 | ---|--- |
@@ -1007,7 +1007,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem096">**verbatimLongitude** (Longitud original)</a>
+<a name="verbatimLongitude">**verbatimLongitude** (Longitud original)</a>
 
 |    |    |
 | ---|--- |
@@ -1017,7 +1017,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem097">**verbatimCoordinates** (Coordenadas originales)</a>
+<a name="verbatimCoordinates">**verbatimCoordinates** (Coordenadas originales)</a>
 
 |    |    |
 | ---|--- |
@@ -1027,7 +1027,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem098">**verbatimCoordinateSystem** (Sistema original de coordenadas)</a>
+<a name="verbatimCoordinateSystem">**verbatimCoordinateSystem** (Sistema original de coordenadas)</a>
 
 |    |    |
 | ---|--- |
@@ -1037,7 +1037,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem099">**verbatimSRS** (SRS original)</a>
+<a name="verbatimSRS">**verbatimSRS** (SRS original)</a>
 
 |    |    |
 | ---|--- |
@@ -1047,7 +1047,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem100">**decimalLatitude** (Latitud decimal)</a>
+<a name="decimalLatitude">**decimalLatitude** (Latitud decimal)</a>
 
 |    |    |
 | ---|--- |
@@ -1057,7 +1057,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem101">**decimalLongitude** (Longitud decimal)</a>
+<a name="decimalLongitude">**decimalLongitude** (Longitud decimal)</a>
 
 |    |    |
 | ---|--- |
@@ -1067,7 +1067,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem102">**geodeticDatum** (Datum geodésico)</a>
+<a name="geodeticDatum">**geodeticDatum** (Datum geodésico)</a>
 
 |    |    |
 | ---|--- |
@@ -1077,7 +1077,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem103">**coordinateUncertaintyInMeters** (Incertidumbre de las coordenadas en metros)</a>
+<a name="coordinateUncertaintyInMeters">**coordinateUncertaintyInMeters** (Incertidumbre de las coordenadas en metros)</a>
 
 |    |    |
 | ---|--- |
@@ -1088,7 +1088,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem104">**coordinatePrecision** (Precisión de las coordenadas)</a>
+<a name="coordinatePrecision">**coordinatePrecision** (Precisión de las coordenadas)</a>
 
 |    |    |
 | ---|--- |
@@ -1099,7 +1099,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem105">**pointRadiusSpatialFit** (Ajuste espacial del radio-punto)</a>
+<a name="pointRadiusSpatialFit">**pointRadiusSpatialFit** (Ajuste espacial del radio-punto)</a>
 
 |    |    |
 | ---|--- |
@@ -1109,7 +1109,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem106">**footprintWKT** (WKT footprint)</a>
+<a name="footprintWKT">**footprintWKT** (WKT footprint)</a>
 
 |    |    |
 | ---|--- |
@@ -1119,7 +1119,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem107">**footprintSRS** (SRS footprint)</a>
+<a name="footprintSRS">**footprintSRS** (SRS footprint)</a>
 
 |    |    |
 | ---|--- |
@@ -1128,7 +1128,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem108">**footprintSpatialFit** (Ajuste espacial de footprint)</a>
+<a name="footprintSpatialFit">**footprintSpatialFit** (Ajuste espacial de footprint)</a>
 
 |    |    |
 | ---|--- |
@@ -1137,7 +1137,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem109">**georeferencedBy** (Georreferenciado por)</a>
+<a name="georeferencedBy">**georeferencedBy** (Georreferenciado por)</a>
 
 |    |    |
 | ---|--- |
@@ -1146,7 +1146,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
 
-<a name="elem110">**georeferencedDate** (Fecha de georreferenciación)</a>
+<a name="georeferencedDate">**georeferencedDate** (Fecha de georreferenciación)</a>
 
 |    |    |
 | ---|--- |
@@ -1155,7 +1155,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem111">**georeferenceProtocol** (Protocolo de georreferenciación)</a>
+<a name="georeferenceProtocol">**georeferenceProtocol** (Protocolo de georreferenciación)</a>
 
 |    |    |
 | ---|--- |
@@ -1164,7 +1164,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem112">**georeferenceSources** (Fuentes de georreferenciación)</a>
+<a name="georeferenceSources">**georeferenceSources** (Fuentes de georreferenciación)</a>
 
 |    |    |
 | ---|--- |
@@ -1173,7 +1173,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem113">**georeferenceVerificationStatus** (Estado de la verificación de la georreferenciación)</a>
+<a name="georeferenceVerificationStatus">**georeferenceVerificationStatus** (Estado de la verificación de la georreferenciación)</a>
 
 |    |    |
 | ---|--- |
@@ -1182,7 +1182,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
 
-<a name="elem114">**georeferenceRemarks** (Comentarios de la georreferenciación)</a>
+<a name="georeferenceRemarks">**georeferenceRemarks** (Comentarios de la georreferenciación)</a>
 
 |    |    |
 | ---|--- |
@@ -1195,18 +1195,18 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |
 | ---|--- |--- |
-| [**geologicalContextID**<br> (ID del contexto geológico)](#elem115) | [**earliestEonOrLowestEonothem**<br> (Eón temprano o eonotema inferior)](#elem116) | [**latestEonOrHighestEonothem**<br> (Eón tardío o eonotema superior)](#elem117) |
-| [**earliestEraOrLowestErathem**<br> (Era temprana o eratema inferior)](#elem118) | [**latestEraOrHighestErathem**<br> (Era tardía o eratema superior)](#elem119) | [**earliestPeriodOrLowestSystem**<br> (Periodo temprano o sistema inferior)](#elem120) | 
-| [**latestPeriodOrHighestSystem**<br> (Periodo tardío o sistema superior)](#elem121) | [**earliestEpochOrLowestSeries**<br> (Época temprana o serie inferior)](#elem122) | [**latestEpochOrHighestSeries**<br> (Época tardía o serie superior)](#elem123) |
-| [**earliestAgeOrLowestStage**<br> (Edad temprana o piso inferior)](#elem124) | [**latestAgeOrHighestStage**<br> (Edad tardía o piso superior)](#elem125) | [**lowestBiostratigraphicZone**<br> (Zona bioestratigráfica inferior)](#elem126) | 
-| [**highestBiostratigraphicZone**<br> (Zona bioestratigráfica superior)](#elem127) | [**lithostratigraphicTerms**<br> (Términos litoestratigráficos)](#elem128) | [**group**<br> (Grupo)](#elem129) | 
-| [**formation**<br> (Formación)](#elem130) | [**member**<br> (Miembro)](#elem131) | [**bed**<br> (Capa)](#elem132) |
+| [**geologicalContextID**<br> (ID del contexto geológico)](#geologicalContextID) | [**earliestEonOrLowestEonothem**<br> (Eón temprano o eonotema inferior)](#earliestEonOrLowestEonothem) | [**latestEonOrHighestEonothem**<br> (Eón tardío o eonotema superior)](#latestEonOrHighestEonothem) |
+| [**earliestEraOrLowestErathem**<br> (Era temprana o eratema inferior)](#earliestEraOrLowestErathem) | [**latestEraOrHighestErathem**<br> (Era tardía o eratema superior)](#latestEraOrHighestErathem) | [**earliestPeriodOrLowestSystem**<br> (Periodo temprano o sistema inferior)](#earliestPeriodOrLowestSystem) | 
+| [**latestPeriodOrHighestSystem**<br> (Periodo tardío o sistema superior)](#latestPeriodOrHighestSystem) | [**earliestEpochOrLowestSeries**<br> (Época temprana o serie inferior)](#earliestEpochOrLowestSeries) | [**latestEpochOrHighestSeries**<br> (Época tardía o serie superior)](#latestEpochOrHighestSeries) |
+| [**earliestAgeOrLowestStage**<br> (Edad temprana o piso inferior)](#earliestAgeOrLowestStage) | [**latestAgeOrHighestStage**<br> (Edad tardía o piso superior)](#latestAgeOrHighestStage) | [**lowestBiostratigraphicZone**<br> (Zona bioestratigráfica inferior)](#lowestBiostratigraphicZone) | 
+| [**highestBiostratigraphicZone**<br> (Zona bioestratigráfica superior)](#highestBiostratigraphicZone) | [**lithostratigraphicTerms**<br> (Términos litoestratigráficos)](#lithostratigraphicTerms) | [**group**<br> (Grupo)](#group) | 
+| [**formation**<br> (Formación)](#formation) | [**member**<br> (Miembro)](#member) | [**bed**<br> (Capa)](#bed) |
 |    |    |    |
 
 <br>
 <br>
 
-<a name="elem115">**geologicalContextID** (ID del contexto geológico)</a>
+<a name="geologicalContextID">**geologicalContextID** (ID del contexto geológico)</a>
 
 |    |    |
 | ---|--- |
@@ -1215,7 +1215,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem116">**earliestEonOrLowestEonothem** (Eón temprano o eonotema inferior)</a>
+<a name="earliestEonOrLowestEonothem">**earliestEonOrLowestEonothem** (Eón temprano o eonotema inferior)</a>
 
 |    |    |
 | ---|--- |
@@ -1224,7 +1224,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem117">**latestEonOrHighestEonothem** (Eón tardío o eonotema superior)</a>
+<a name="latestEonOrHighestEonothem">**latestEonOrHighestEonothem** (Eón tardío o eonotema superior)</a>
 
 |    |    |
 | ---|--- |
@@ -1233,7 +1233,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem118">**earliestEraOrLowestErathem** (Era temprana o eratema inferior)</a>
+<a name="earliestEraOrLowestErathem">**earliestEraOrLowestErathem** (Era temprana o eratema inferior)</a>
 
 |    |    |
 | ---|--- |
@@ -1242,7 +1242,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem119">**latestEraOrHighestErathem** (Era tardía o eratema superior)</a>
+<a name="latestEraOrHighestErathem">**latestEraOrHighestErathem** (Era tardía o eratema superior)</a>
 
 |    |    |
 | ---|--- |
@@ -1251,7 +1251,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem120">**earliestPeriodOrLowestSystem** (Periodo temprano o sistema inferior)</a>
+<a name="earliestPeriodOrLowestSystem">**earliestPeriodOrLowestSystem** (Periodo temprano o sistema inferior)</a>
 
 |    |    |
 | ---|--- |
@@ -1260,7 +1260,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem121">**latestPeriodOrHighestSystem** (Periodo tardío o sistema superior)</a>
+<a name="latestPeriodOrHighestSystem">**latestPeriodOrHighestSystem** (Periodo tardío o sistema superior)</a>
 
 |    |    |
 | ---|--- |
@@ -1269,7 +1269,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem122">**earliestEpochOrLowestSeries** (Época temprana o serie inferior)</a>
+<a name="earliestEpochOrLowestSeries">**earliestEpochOrLowestSeries** (Época temprana o serie inferior)</a>
 
 |    |    |
 | ---|--- |
@@ -1278,7 +1278,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem123">**latestEpochOrHighestSeries** (Época tardía o serie superior)</a>
+<a name="latestEpochOrHighestSeries">**latestEpochOrHighestSeries** (Época tardía o serie superior)</a>
 
 |    |    |
 | ---|--- |
@@ -1287,7 +1287,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem124">**earliestAgeOrLowestStage** (Edad temprana o piso inferior)</a>
+<a name="earliestAgeOrLowestStage">**earliestAgeOrLowestStage** (Edad temprana o piso inferior)</a>
 
 |    |    |
 | ---|--- |
@@ -1296,7 +1296,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem125">**latestAgeOrHighestStage** (Edad tardía o piso superior)</a>
+<a name="latestAgeOrHighestStage">**latestAgeOrHighestStage** (Edad tardía o piso superior)</a>
 
 |    |    |
 | ---|--- |
@@ -1305,7 +1305,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem126">**lowestBiostratigraphicZone** (Zona bioestratigráfica inferior)</a>
+<a name="lowestBiostratigraphicZone">**lowestBiostratigraphicZone** (Zona bioestratigráfica inferior)</a>
 
 |    |    |
 | ---|--- |
@@ -1314,7 +1314,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem127">**highestBiostratigraphicZone** (Zona bioestratigráfica superior)</a>
+<a name="highestBiostratigraphicZone">**highestBiostratigraphicZone** (Zona bioestratigráfica superior)</a>
 
 |    |    |
 | ---|--- |
@@ -1323,7 +1323,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem128">**lithostratigraphicTerms** (Términos litoestratigráficos)</a>
+<a name="lithostratigraphicTerms">**lithostratigraphicTerms** (Términos litoestratigráficos)</a>
 
 |    |    |
 | ---|--- |
@@ -1332,7 +1332,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem129">**group** (Grupo)</a>
+<a name="group">**group** (Grupo)</a>
 
 |    |    |
 | ---|--- |
@@ -1341,7 +1341,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem130">**formation** (Formación)</a>
+<a name="formation">**formation** (Formación)</a>
 
 |    |    |
 | ---|--- |
@@ -1350,7 +1350,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem131">**member** (Miembro)</a>
+<a name="member">**member** (Miembro)</a>
 
 |    |    |
 | ---|--- |
@@ -1359,7 +1359,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem132">**bed** (Capa)</a>
+<a name="bed">**bed** (Capa)</a>
 
 |    |    |
 | ---|--- |
@@ -1372,15 +1372,15 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |    |
 | ---|--- |--- |--- |
-| [**identificationID**<br> (ID de la identificación)](#elem133) | [**identifiedBy**<br> (Identificado por)](#elem134) | [**identifiedByID**<br> (ID del identificador)](#elem135) | [**dateIdentified**<br> (Fecha de la identificación)](#elem136) |
-| [**identificationReferences**<br> (Referencias de la identificación)](#elem137) | [**identificationVerification<br>Status**<br> (Estado de la verificación de la identificación)](#elem138) | [**typeStatus**<br> (Tipo nomeclatural)](#elem139) | [**verbatimIdentification**<br> (Identificación original)](#elem140) |
-|  [**identificationRemarks**<br> (Comentarios de la identificación)](#elem141) | [**identificationQualifier**<br> (Calificador de la identificación)](#elem142) |  |  |
+| [**identificationID**<br> (ID de la identificación)](#identificationID) | [**identifiedBy**<br> (Identificado por)](#identifiedBy) | [**identifiedByID**<br> (ID del identificador)](#identifiedByID) | [**dateIdentified**<br> (Fecha de la identificación)](#dateIdentified) |
+| [**identificationReferences**<br> (Referencias de la identificación)](#identificationReferences) | [**identificationVerification<br>Status**<br> (Estado de la verificación de la identificación)](#identificationVerificationStatus) | [**typeStatus**<br> (Tipo nomeclatural)](#typeStatus) | [**verbatimIdentification**<br> (Identificación original)](#verbatimIdentification) |
+|  [**identificationRemarks**<br> (Comentarios de la identificación)](#identificationRemarks) | [**identificationQualifier**<br> (Calificador de la identificación)](#identificationQualifier) |  |  |
 |    |    |    |    |
 
 <br>
 <br>
 
-<a name="elem133">**identificationID** (ID de la identificación)</a>
+<a name="identificationID">**identificationID** (ID de la identificación)</a>
 
 |    |    |
 | ---|--- |
@@ -1389,7 +1389,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem134">**identifiedBy** (Identificado por)</a>
+<a name="identifiedBy">**identifiedBy** (Identificado por)</a>
 
 |    |    |
 | ---|--- |
@@ -1399,7 +1399,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_
 |    |    |
 
-<a name="elem135">**identifiedByID** (ID del identificador)</a>
+<a name="identifiedByID">**identifiedByID** (ID del identificador)</a>
 
 |    |    |
 | ---|--- |
@@ -1409,7 +1409,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_
 |    |    |
 
-<a name="elem136">**dateIdentified** (Fecha de la identificación)</a>
+<a name="dateIdentified">**dateIdentified** (Fecha de la identificación)</a>
 
 |    |    |
 | ---|--- |
@@ -1418,7 +1418,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_
 |    |    |
 
-<a name="elem137">**identificationReferences** (Referencias de la identificación)</a>
+<a name="identificationReferences">**identificationReferences** (Referencias de la identificación)</a>
 
 |    |    |
 | ---|--- |
@@ -1427,7 +1427,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem138">**identificationVerificationStatus** (Estado de la verificación de la identificación)</a>
+<a name="identificationVerificationStatus">**identificationVerificationStatus** (Estado de la verificación de la identificación)</a>
 
 |    |    |
 | ---|--- |
@@ -1437,7 +1437,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem139">**typeStatus** (Tipo nomeclatural)</a>
+<a name="typeStatus">**typeStatus** (Tipo nomeclatural)</a>
 
 |    |    |
 | ---|--- |
@@ -1446,7 +1446,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem140">**verbatimIdentification** (Identificación original)</a>
+<a name="verbatimIdentification">**verbatimIdentification** (Identificación original)</a>
 
 |    |    |
 | ---|--- |
@@ -1455,7 +1455,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 |    |    |
 
-<a name="elem141">**identificationRemarks** (Comentarios de la identificación)</a>
+<a name="identificationRemarks">**identificationRemarks** (Comentarios de la identificación)</a>
 
 |    |    |
 | ---|--- |
@@ -1464,7 +1464,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_
 |    |    |
 
-<a name="elem142">**identificationQualifier** (Calificador de la identificación)</a>
+<a name="identificationQualifier">**identificationQualifier** (Calificador de la identificación)</a>
 
 |    |    |
 | ---|--- |
@@ -1478,22 +1478,22 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |    |
 | ---|--- |--- |--- |
-| [**scientificName**<br> (Nombre científico)](#elem143) | [**scientificNameAuthorship**<br> (Autoría del nombre científico)](#elem144) | [**taxonID**<br> (ID del Taxón)](#elem145) | [**scientificNameID**<br> (ID del nombre científico)](#elem146) |
-| [**higherClassification**<br> (Clasificación superior)](#elem147) | [**kingdom**<br> (Reino)](#elem148) | [**phylum**<br> (Filo)](#elem149) | [**class**<br> (Clase)](#elem150) |
-| [**order**<br> (Orden)](#elem151) | [**family**<br> (Familia)](#elem152) | [**subfamily**<br> (Subfamilia)](#elem153) | [**genus**<br> (Género)](#elem154) | 
-| [**genericName**<br> (Nombre genérico)](#elem155) | [**subgenus**<br> (Subgénero)](#elem156) | [**infragenericEpithet**<br> (Epíteto infragenérico)](#elem157) | [**specificEpithet**<br> (Epíteto Específico)](#elem158) |
-| [**infraspecificEpithet**<br> (Epíteto infraespecífico)](#elem159) | [**cultivarEpithet**<br> (Epíteto cultivar)](#elem160) | [**taxonRank**<br> (Categoría del taxón)](#elem161) | [**verbatimTaxonRank**<br> (Categoría original del taxón)](#elem162) |
-| [**vernacularName**<br> (Nombre común)](#elem163) | [**taxonomicStatus**<br> (Estado taxonómico)](#elem164) | [**acceptedNameUsage**<br> (Nombre aceptado usado)](#elem165) | [**acceptedNameUsageID**<br> (ID del nombre aceptado usado)](#elem166) |
-| [**parentNameUsage**<br> (Nombre parental usado)](#elem167) | [**parentNameUsageID**<br> (ID del Nombre Parental usado)](#elem168) | [**originalNameUsage**<br> (Nombre original usado)](#elem169) | [**originalNameUsageID**<br> (ID del Nombre original usado)](#elem170) |
-| [**nameAccordingTo**<br> (Nombre de acuerdo con)](#elem171) | [**nameAccordingToID**<br> (ID del nombre de acuerdo con)](#elem172) | [**namePublishedIn**<br> (Nombre publicado en)](#elem173) | [**namePublishedInID**<br> (ID del nombre publicado en)](#elem174) |
-| [**namePublishedInYear**<br> (Nombre publicado en el año)](#elem175) | [**taxonConceptID**<br> (ID del concepto del taxón)](#elem176) | [**nomenclaturalCode**<br> (Código nomenclatural)](#elem177) | [**nomenclaturalStatus**<br> (Estado nomenclatural)](#elem178) |
-| [**taxonRemarks**<br> (Comentarios del taxón)](#elem179) |  |  |  |
+| [**scientificName**<br> (Nombre científico)](#scientificName) | [**scientificNameAuthorship**<br> (Autoría del nombre científico)](#scientificNameAuthorship) | [**taxonID**<br> (ID del Taxón)](#taxonID) | [**scientificNameID**<br> (ID del nombre científico)](#scientificNameID) |
+| [**higherClassification**<br> (Clasificación superior)](#higherClassification) | [**kingdom**<br> (Reino)](#kingdom) | [**phylum**<br> (Filo)](#phylum) | [**class**<br> (Clase)](#class) |
+| [**order**<br> (Orden)](#order) | [**family**<br> (Familia)](#family) | [**subfamily**<br> (Subfamilia)](#subfamily) | [**genus**<br> (Género)](#genus) | 
+| [**genericName**<br> (Nombre genérico)](#genericName) | [**subgenus**<br> (Subgénero)](#subgenus) | [**infragenericEpithet**<br> (Epíteto infragenérico)](#infragenericEpithet) | [**specificEpithet**<br> (Epíteto Específico)](#specificEpithet) |
+| [**infraspecificEpithet**<br> (Epíteto infraespecífico)](#infraspecificEpithet) | [**cultivarEpithet**<br> (Epíteto cultivar)](#cultivarEpithet) | [**taxonRank**<br> (Categoría del taxón)](#taxonRank) | [**verbatimTaxonRank**<br> (Categoría original del taxón)](#verbatimTaxonRank) |
+| [**vernacularName**<br> (Nombre común)](#vernacularName) | [**taxonomicStatus**<br> (Estado taxonómico)](#taxonomicStatus) | [**acceptedNameUsage**<br> (Nombre aceptado usado)](#acceptedNameUsage) | [**acceptedNameUsageID**<br> (ID del nombre aceptado usado)](#acceptedNameUsageID) |
+| [**parentNameUsage**<br> (Nombre parental usado)](#parentNameUsage) | [**parentNameUsageID**<br> (ID del Nombre Parental usado)](#parentNameUsageID) | [**originalNameUsage**<br> (Nombre original usado)](#originalNameUsage) | [**originalNameUsageID**<br> (ID del Nombre original usado)](#originalNameUsageID) |
+| [**nameAccordingTo**<br> (Nombre de acuerdo con)](#nameAccordingTo) | [**nameAccordingToID**<br> (ID del nombre de acuerdo con)](#nameAccordingToID) | [**namePublishedIn**<br> (Nombre publicado en)](#namePublishedIn) | [**namePublishedInID**<br> (ID del nombre publicado en)](#namePublishedInID) |
+| [**namePublishedInYear**<br> (Nombre publicado en el año)](#namePublishedInYear) | [**taxonConceptID**<br> (ID del concepto del taxón)](#taxonConceptID) | [**nomenclaturalCode**<br> (Código nomenclatural)](#nomenclaturalCode) | [**nomenclaturalStatus**<br> (Estado nomenclatural)](#nomenclaturalStatus) |
+| [**taxonRemarks**<br> (Comentarios del taxón)](#taxonRemarks) |  |  |  |
 |    |    |    |    |    |
 
 <br>
 <br>
 
-<a name="elem143">**scientificName** (Nombre científico)</a>
+<a name="scientificName">**scientificName** (Nombre científico)</a>
 
 |    |    |
 | ---|--- |
@@ -1504,7 +1504,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Lista de chequeo _(Obligatorio)_
 |    |    |
 
-<a name="elem144">**scientificNameAuthorship** (Autoría del nombre científico)</a>
+<a name="scientificNameAuthorship">**scientificNameAuthorship** (Autoría del nombre científico)</a>
 
 |    |    |
 | ---|--- |
@@ -1514,7 +1514,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
 |    |    |
 
-<a name="elem145">**taxonID** (ID del Taxón)</a>
+<a name="taxonID">**taxonID** (ID del Taxón)</a>
 
 |    |    |
 | ---|--- |
@@ -1524,7 +1524,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Obligatorio)_
 |    |    |
 
-<a name="elem146">**scientificNameID** (ID del nombre científico)</a>
+<a name="scientificNameID">**scientificNameID** (ID del nombre científico)</a>
 
 |    |    |
 | ---|--- |
@@ -1534,7 +1534,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Condicinal)_. Obligatorio cuando el registro es marino<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem147">**higherClassification** (Clasificación superior)</a>
+<a name="higherClassification">**higherClassification** (Clasificación superior)</a>
 
 |    |    |
 | ---|--- |
@@ -1544,7 +1544,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem148">**kingdom** (Reino)</a>
+<a name="kingdom">**kingdom** (Reino)</a>
 
 |    |    |
 | ---|--- |
@@ -1553,7 +1553,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
 |    |    |
 
-<a name="elem149">**phylum** (Filo)</a>
+<a name="phylum">**phylum** (Filo)</a>
 
 |    |    |
 | ---|--- |
@@ -1562,7 +1562,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
 |    |    |
 
-<a name="elem150">**class** (Clase)</a>
+<a name="class">**class** (Clase)</a>
 
 |    |    |
 | ---|--- |
@@ -1571,7 +1571,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
 |    |    |
 
-<a name="elem151">**order** (Orden)</a>
+<a name="order">**order** (Orden)</a>
 
 |    |    |
 | ---|--- |
@@ -1580,7 +1580,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
 |    |    |
 
-<a name="elem152">**family** (Familia)</a>
+<a name="family">**family** (Familia)</a>
 
 |    |    |
 | ---|--- |
@@ -1589,7 +1589,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
 |    |    |
 
-<a name="elem153">**subfamily** (Subfamilia)</a>
+<a name="subfamily">**subfamily** (Subfamilia)</a>
 
 |    |    |
 | ---|--- |
@@ -1599,7 +1599,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 |    |    |
 
 
-<a name="elem154">**genus** (Género)</a>
+<a name="genus">**genus** (Género)</a>
 
 |    |    |
 | ---|--- |
@@ -1608,7 +1608,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
 |    |    |
 
-<a name="elem155">**genericName** (Nombre genérico)</a>
+<a name="genericName">**genericName** (Nombre genérico)</a>
 
 |    |    |
 | ---|--- |
@@ -1619,7 +1619,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem156">**subgenus** (Subgénero)</a>
+<a name="subgenus">**subgenus** (Subgénero)</a>
 
 |    |    |
 | ---|--- |
@@ -1629,7 +1629,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
 |    |    |
 
-<a name="elem157">**infragenericEpithet** (Epíteto infragenérico)</a>
+<a name="infragenericEpithet">**infragenericEpithet** (Epíteto infragenérico)</a>
 
 |    |    |
 | ---|--- |
@@ -1639,7 +1639,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem158">**specificEpithet** (Epíteto Específico)</a>
+<a name="specificEpithet">**specificEpithet** (Epíteto Específico)</a>
 
 |    |    |
 | ---|--- |
@@ -1650,7 +1650,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
 |    |    |
 
-<a name="elem159">**infraspecificEpithet** (Epíteto infraespecífico)</a>
+<a name="infraspecificEpithet">**infraspecificEpithet** (Epíteto infraespecífico)</a>
 
 |    |    |
 | ---|--- |
@@ -1661,7 +1661,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
 |    |    |
 
-<a name="elem160">**cultivarEpithet** (Epíteto cultivar)</a>
+<a name="cultivarEpithet">**cultivarEpithet** (Epíteto cultivar)</a>
 
 |    |    |
 | ---|--- |
@@ -1672,7 +1672,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem161">**taxonRank** (Categoría del taxón)</a>
+<a name="taxonRank">**taxonRank** (Categoría del taxón)</a>
 
 |    |    |
 | ---|--- |
@@ -1682,7 +1682,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Lista de chequeo _(Recomendado)_
 |    |    |
 
-<a name="elem162">**verbatimTaxonRank** (Categoría original del taxón)</a>
+<a name="verbatimTaxonRank">**verbatimTaxonRank** (Categoría original del taxón)</a>
 
 |    |    |
 | ---|--- |
@@ -1692,7 +1692,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem163">**vernacularName** (Nombre común)</a>
+<a name="vernacularName">**vernacularName** (Nombre común)</a>
 
 |    |    |
 | ---|--- |
@@ -1702,7 +1702,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
 |    |    |
 
-<a name="elem164">**taxonomicStatus** (Estado taxonómico)</a>
+<a name="taxonomicStatus">**taxonomicStatus** (Estado taxonómico)</a>
 
 |    |    |
 | ---|--- |
@@ -1712,7 +1712,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem165">**acceptedNameUsage** (Nombre aceptado usado)</a>
+<a name="acceptedNameUsage">**acceptedNameUsage** (Nombre aceptado usado)</a>
 
 |    |    |
 | ---|--- |
@@ -1722,7 +1722,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem166">**acceptedNameUsageID** (ID del nombre aceptado usado)</a>
+<a name="acceptedNameUsageID">**acceptedNameUsageID** (ID del nombre aceptado usado)</a>
 
 |    |    |
 | ---|--- |
@@ -1732,7 +1732,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem167">**parentNameUsage** (Nombre parental usado)</a>
+<a name="parentNameUsage">**parentNameUsage** (Nombre parental usado)</a>
 
 |    |    |
 | ---|--- |
@@ -1742,7 +1742,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem168">**parentNameUsageID** (ID del Nombre Parental usado)</a>
+<a name="parentNameUsageID">**parentNameUsageID** (ID del Nombre Parental usado)</a>
 
 |    |    |
 | ---|--- |
@@ -1752,7 +1752,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem169">**originalNameUsage** (Nombre original usado)</a>
+<a name="originalNameUsage">**originalNameUsage** (Nombre original usado)</a>
 
 |    |    |
 | ---|--- |
@@ -1762,7 +1762,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem170">**originalNameUsageID** (ID del Nombre original usado)</a>
+<a name="originalNameUsageID">**originalNameUsageID** (ID del Nombre original usado)</a>
 
 |    |    |
 | ---|--- |
@@ -1772,7 +1772,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem171">**nameAccordingTo** (Nombre de acuerdo con)</a>
+<a name="nameAccordingTo">**nameAccordingTo** (Nombre de acuerdo con)</a>
 
 |    |    |
 | ---|--- |
@@ -1782,7 +1782,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem172">**nameAccordingToID** (ID del nombre de acuerdo con)</a>
+<a name="nameAccordingToID">**nameAccordingToID** (ID del nombre de acuerdo con)</a>
 
 |    |    |
 | ---|--- |
@@ -1792,7 +1792,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem173">**namePublishedIn** (Nombre publicado en)</a>
+<a name="namePublishedIn">**namePublishedIn** (Nombre publicado en)</a>
 
 |    |    |
 | ---|--- |
@@ -1802,7 +1802,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem174">**namePublishedInID** (ID del nombre publicado en)</a>
+<a name="namePublishedInID">**namePublishedInID** (ID del nombre publicado en)</a>
 
 |    |    |
 | ---|--- |
@@ -1812,7 +1812,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem175">**namePublishedInYear** (Nombre publicado en el año)</a>
+<a name="namePublishedInYear">**namePublishedInYear** (Nombre publicado en el año)</a>
 
 |    |    |
 | ---|--- |
@@ -1822,7 +1822,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem176">**taxonConceptID** (ID del concepto del taxón)</a>
+<a name="taxonConceptID">**taxonConceptID** (ID del concepto del taxón)</a>
 
 |    |    |
 | ---|--- |
@@ -1832,7 +1832,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem177">**nomenclaturalCode** (Código nomenclatural)</a>
+<a name="nomenclaturalCode">**nomenclaturalCode** (Código nomenclatural)</a>
 
 |    |    |
 | ---|--- |
@@ -1842,7 +1842,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem178">**nomenclaturalStatus** (Estado nomenclatural)</a>
+<a name="nomenclaturalStatus">**nomenclaturalStatus** (Estado nomenclatural)</a>
 
 |    |    |
 | ---|--- |
@@ -1852,7 +1852,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
 |    |    |
 
-<a name="elem179">**taxonRemarks** (Comentarios del taxón)</a>
+<a name="taxonRemarks">**taxonRemarks** (Comentarios del taxón)</a>
 
 |    |    |
 | ---|--- |
@@ -1868,15 +1868,15 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |
 | ---|--- |--- |
-| [**resourceRelationshipID**<br> (ID de la relación de los recursos)](#elem180) | [**resourceID**<br> (ID del recurso)](#elem181) | [**relatedResourceID**<br> (ID del recurso relacionado)](#elem182) | 
-| [**relationshipOfResource**<br> (Tipo de relación del recurso)](#elem183) | [**relationshipOfResourceID**<br> (ID del tipo de relación del recurso)](#elem184) | [**relationshipAccordingTo**<br> (Relación de acuerdo con)](#elem185) |
-| [**relationshipEstablishedDate**<br> (Fecha en que se estableció la relación)](#elem186) | [**relationshipRemarks**<br> (Comentarios de la relación)](#elem187) |  |
+| [**resourceRelationshipID**<br> (ID de la relación de los recursos)](#resourceRelationshipID) | [**resourceID**<br> (ID del recurso)](#resourceID) | [**relatedResourceID**<br> (ID del recurso relacionado)](#relatedResourceID) | 
+| [**relationshipOfResource**<br> (Tipo de relación del recurso)](#relationshipOfResource) | [**relationshipOfResourceID**<br> (ID del tipo de relación del recurso)](#relationshipOfResourceID) | [**relationshipAccordingTo**<br> (Relación de acuerdo con)](#relationshipAccordingTo) |
+| [**relationshipEstablishedDate**<br> (Fecha en que se estableció la relación)](#relationshipEstablishedDate) | [**relationshipRemarks**<br> (Comentarios de la relación)](#relationshipRemarks) |  |
 |    |    |    |
 
 <br>
 <br>
 
-<a name="elem180">**resourceRelationshipID** (ID de la relación de los recursos)</a>
+<a name="resourceRelationshipID">**resourceRelationshipID** (ID de la relación de los recursos)</a>
 
 |    |    |
 | ---|--- |
@@ -1886,7 +1886,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_
 |    |    |
 
-<a name="elem181">**resourceID** (ID del recurso)</a>
+<a name="resourceID">**resourceID** (ID del recurso)</a>
 
 |    |    |
 | ---|--- |
@@ -1896,7 +1896,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_
 |    |    |
 
-<a name="elem182">**relatedResourceID** (ID del recurso relacionado)</a>
+<a name="relatedResourceID">**relatedResourceID** (ID del recurso relacionado)</a>
 
 |    |    |
 | ---|--- |
@@ -1906,7 +1906,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_
 |    |    |
 
-<a name="elem183">**relationshipOfResource** (Tipo de relación del recurso)</a>
+<a name="relationshipOfResource">**relationshipOfResource** (Tipo de relación del recurso)</a>
 
 |    |    |
 | ---|--- |
@@ -1916,7 +1916,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_
 |    |    |
 
-<a name="elem184">**relationshipOfResourceID** (ID del tipo de relación del recurso)</a>
+<a name="relationshipOfResourceID">**relationshipOfResourceID** (ID del tipo de relación del recurso)</a>
 
 |    |    |
 | ---|--- |
@@ -1927,7 +1927,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_
 |    |    |
 
-<a name="elem185">**relationshipAccordingTo** (Relación de acuerdo con)</a>
+<a name="relationshipAccordingTo">**relationshipAccordingTo** (Relación de acuerdo con)</a>
 
 |    |    |
 | ---|--- |
@@ -1936,7 +1936,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_
 |    |    |
 
-<a name="elem186">**relationshipEstablishedDate** (Fecha en que se estableció la relación)</a>
+<a name="relationshipEstablishedDate">**relationshipEstablishedDate** (Fecha en que se estableció la relación)</a>
 
 |    |    |
 | ---|--- |
@@ -1945,7 +1945,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_
 |    |    |
 
-<a name="elem187">**relationshipRemarks** (Comentarios de la relación)</a>
+<a name="relationshipRemarks">**relationshipRemarks** (Comentarios de la relación)</a>
 
 |    |    |
 | ---|--- |
@@ -1958,17 +1958,17 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |
 | ---|--- |--- |
-| [**occurrenceID**<br> (ID del Registro biológico)](#elem188) | [**measurementID**<br> (ID de la medida)](#elem189) | [**measurementType**<br> (Tipo de medida)](#elem190) | 
-| [**measurementTypeID**<br> (ID del tipo de medida)](#elem191) | [**measurementValue**<br> (Valor de la medida)](#elem192) | [**measurementValueID**<br> (ID del valor de la medida)](#elem193) |
-| [**measurementAccuracy**<br> (Precisión de la medida)](#elem194) | [**measurementUnit**<br> (Unidad de la medida)](#elem195) | [**measurementUnitID**<br> (ID de la unidad de la medida)](#elem196) |
-| [**measurementDeterminedDate**<br> (Fecha de la determinación de la medida)](#elem197) | [**measurementDeterminedBy**<br> (Medida tomada por)](#elem198) | [**measurementMethod**<br> (Método de medida)](#elem199) |
-| [**measurementRemarks**<br> (Comentarios de la medida)](#elem200) |  |  |
+| [**occurrenceID**<br> (ID del Registro biológico)](#medidas_occurrenceID) | [**measurementID**<br> (ID de la medida)](#measurementID) | [**measurementType**<br> (Tipo de medida)](#measurementType) | 
+| [**measurementTypeID**<br> (ID del tipo de medida)](#measurementTypeID) | [**measurementValue**<br> (Valor de la medida)](#measurementValue) | [**measurementValueID**<br> (ID del valor de la medida)](#measurementValueID) |
+| [**measurementAccuracy**<br> (Precisión de la medida)](#measurementAccuracy) | [**measurementUnit**<br> (Unidad de la medida)](#measurementUnit) | [**measurementUnitID**<br> (ID de la unidad de la medida)](#measurementUnitID) |
+| [**measurementDeterminedDate**<br> (Fecha de la determinación de la medida)](#measurementDeterminedDate) | [**measurementDeterminedBy**<br> (Medida tomada por)](#measurementDeterminedBy) | [**measurementMethod**<br> (Método de medida)](#measurementMethod) |
+| [**measurementRemarks**<br> (Comentarios de la medida)](#measurementRemarks) |  |  |
 |    |    |    |
 
 <br>
 <br>
 
-<a name="elem188">**occurrenceID** (ID del Registro biológico)</a>
+<a name="medidas_occurrenceID">**occurrenceID** (ID del Registro biológico)</a>
 
 |    |    |
 | ---|--- |
@@ -1977,7 +1977,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_
 |    |    |
 
-<a name="elem189">**measurementID** (ID de la medida)</a>
+<a name="measurementID">**measurementID** (ID de la medida)</a>
 
 |    |    |
 | ---|--- |
@@ -1986,7 +1986,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_
 |    |    |
 
-<a name="elem190">**measurementType** (Tipo de medida)</a>
+<a name="measurementType">**measurementType** (Tipo de medida)</a>
 
 |    |    |
 | ---|--- |
@@ -1996,7 +1996,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_
 |    |    |
 
-<a name="elem191">**measurementTypeID** (ID del tipo de medida)</a>
+<a name="measurementTypeID">**measurementTypeID** (ID del tipo de medida)</a>
 
 |    |    |
 | ---|--- |
@@ -2007,7 +2007,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_
 |    |    |
 
-<a name="elem192">**measurementValue** (Valor de la medida)</a>
+<a name="measurementValue">**measurementValue** (Valor de la medida)</a>
 
 |    |    |
 | ---|--- |
@@ -2017,7 +2017,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_
 |    |    |
 
-<a name="elem193">**measurementValueID** (ID del valor de la medida)</a>
+<a name="measurementValueID">**measurementValueID** (ID del valor de la medida)</a>
 
 |    |    |
 | ---|--- |
@@ -2028,7 +2028,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_
 |    |    |
 
-<a name="elem194">**measurementAccuracy** (Precisión de la medida)</a>
+<a name="measurementAccuracy">**measurementAccuracy** (Precisión de la medida)</a>
 
 |    |    |
 | ---|--- |
@@ -2038,7 +2038,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_
 |    |    |
 
-<a name="elem195">**measurementUnit** (Unidad de la medida)</a>
+<a name="measurementUnit">**measurementUnit** (Unidad de la medida)</a>
 
 |    |    |
 | ---|--- |
@@ -2049,7 +2049,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Condicional)_. Obligatorio para variables cuantitativas |
 |    |    |
 
-<a name="elem196">**measurementUnitID** (ID de la unidad de la medida)</a>
+<a name="measurementUnitID">**measurementUnitID** (ID de la unidad de la medida)</a>
 
 |    |    |
 | ---|--- |
@@ -2060,7 +2060,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem197">**measurementDeterminedDate** (Fecha de la determinación de la medida)</a>
+<a name="measurementDeterminedDate">**measurementDeterminedDate** (Fecha de la determinación de la medida)</a>
 
 |    |    |
 | ---|--- |
@@ -2069,7 +2069,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem198">**measurementDeterminedBy** (Medida tomada por)</a>
+<a name="measurementDeterminedBy">**measurementDeterminedBy** (Medida tomada por)</a>
 
 |    |    |
 | ---|--- |
@@ -2078,7 +2078,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem199">**measurementMethod** (Método de medida)</a>
+<a name="measurementMethod">**measurementMethod** (Método de medida)</a>
 
 |    |    |
 | ---|--- |
@@ -2087,7 +2087,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem200">**measurementRemarks** (Comentarios de la medida)</a>
+<a name="measurementRemarks">**measurementRemarks** (Comentarios de la medida)</a>
 
 |    |    |
 | ---|--- |
@@ -2100,25 +2100,25 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |    |
 | ---|--- |--- |--- |
-| [**type**<br> (Tipo)](#elem201) | [**format**<br> (Formato)](#elem202) | [**identifier**<br> (Identificador)](#elem203) | [**references**<br> (Referencias)](#elem204) |
-| [**title**<br> (Título)](#elem205) | [**description**<br> (Descripción)](#elem206) | [**created**<br> (Fecha de creación)](#elem207) | [**creator**<br> (Creador)](#elem208) |
-| [**contributor**<br> (Contribuidor)](#elem209) | [**publisher**<br> (Publicador)](#elem210) | [**audience**<br> (Audiencia)](#elem211) | [**source**<br> (Fuente)](#elem212) |
-| [**license**<br> (Licencia)](#elem213) | [**rightsHolder**<br> (Titular de los derechos)](#elem214) | [**datasetID**<br> (ID del conjunto de datos)](#elem215) |  |
+| [**type**<br> (Tipo)](#multimedia_type) | [**format**<br> (Formato)](#format) | [**identifier**<br> (Identificador)](#multimedia_identifier) | [**references**<br> (Referencias)](#multimedia_references) |
+| [**title**<br> (Título)](#multimedia_title) | [**description**<br> (Descripción)](#multimedia_description) | [**created**<br> (Fecha de creación)](#multimedia_created) | [**creator**<br> (Creador)](#multimedia_creator) |
+| [**contributor**<br> (Contribuidor)](#multimedia_contributor) | [**publisher**<br> (Publicador)](#multimedia_publisher) | [**audience**<br> (Audiencia)](#multimedia_audience) | [**source**<br> (Fuente)](#multimedia_source) |
+| [**license**<br> (Licencia)](#multimedia_license) | [**rightsHolder**<br> (Titular de los derechos)](#multimedia_rightsHolder) | [**datasetID**<br> (ID del conjunto de datos)](#multimedia_datasetID) |  |
 |    |    |    |    |
 
 <br>
 <br>
 
-<a name="elem201">**type** (Tipo)</a>
+<a name="multimedia_type">**type** (Tipo)</a>
 
 |    |    |
 | ---|--- |
 | Definición | El tipo de recurso multimedia. Para este elemento se debe emplear el vocabulario controlado en inglés. |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
-| [Vocabulario controlado](#elem376) | StillImage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event<br><br> (Para mas opciones, se puede consultar el vocabulario controlado completo en la siguiente URL: [https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://dublincore.org/documents/dcmi-type-vocabulary/](https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://dublincore.org/documents/dcmi-type-vocabulary/)) |
+| [Vocabulario controlado](#vc_type) | StillImage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event<br><br> (Para mas opciones, se puede consultar el vocabulario controlado completo en la siguiente URL: [https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://dublincore.org/documents/dcmi-type-vocabulary/](https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://dublincore.org/documents/dcmi-type-vocabulary/)) |
 |    |    |
 
-<a name="elem202">**format** (Formato)</a>
+<a name="format">**format** (Formato)</a>
 
 |    |    |
 | ---|--- |
@@ -2127,7 +2127,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem203">**identifier** (Identificador)</a>
+<a name="multimedia_identifier">**identifier** (Identificador)</a>
 
 |    |    |
 | ---|--- |
@@ -2136,7 +2136,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
-<a name="elem204">**references** (Referencias)</a>
+<a name="multimedia_references">**references** (Referencias)</a>
 
 |    |    |
 | ---|--- |
@@ -2145,7 +2145,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem205">**title** (Título)</a>
+<a name="multimedia_title">**title** (Título)</a>
 
 |    |    |
 | ---|--- |
@@ -2154,7 +2154,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem206">**description** (Descripción)</a>
+<a name="multimedia_description">**description** (Descripción)</a>
 
 |    |    |
 | ---|--- |
@@ -2163,7 +2163,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem207">**created** (Fecha de creación)</a>
+<a name="multimedia_created">**created** (Fecha de creación)</a>
 
 |    |    |
 | ---|--- |
@@ -2172,7 +2172,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem208">**creator** (Creador)</a>
+<a name="multimedia_creator">**creator** (Creador)</a>
 
 |    |    |
 | ---|--- |
@@ -2181,7 +2181,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem209">**contributor** (Contribuidor)</a>
+<a name="multimedia_contributor">**contributor** (Contribuidor)</a>
 
 |    |    |
 | ---|--- |
@@ -2190,7 +2190,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem210">**publisher** (Publicador)</a>
+<a name="multimedia_publisher">**publisher** (Publicador)</a>
 
 |    |    |
 | ---|--- |
@@ -2199,7 +2199,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem211">**audience** (Audiencia)</a>
+<a name="multimedia_audience">**audience** (Audiencia)</a>
 
 |    |    |
 | ---|--- |
@@ -2208,7 +2208,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem212">**source** (Fuente)</a>
+<a name="multimedia_source">**source** (Fuente)</a>
 
 |    |    |
 | ---|--- |
@@ -2217,7 +2217,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem213">**license** (Licencia)</a>
+<a name="multimedia_license">**license** (Licencia)</a>
 
 |    |    |
 | ---|--- |
@@ -2226,7 +2226,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem214">**rightsHolder** (ID del conjunto de datos)</a>
+<a name="multimedia_rightsHolder">**rightsHolder** (ID del conjunto de datos)</a>
 
 |    |    |
 | ---|--- |
@@ -2235,7 +2235,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem215">**datasetID** (Titular de los derechos)</a>
+<a name="multimedia_datasetID">**datasetID** (Titular de los derechos)</a>
 
 |    |    |
 | ---|--- |
@@ -2249,16 +2249,16 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |    |
 | ---|--- |--- |--- |
-| [**identifier**<br> (Identificador)](#elem216) | [**bibliographicCitation**<br> (Citación bibliográfica)](#elem217) | [**title**<br> (Título)](#elem218) | [**creator**<br> (Creador)](#elem219) |
-| [**date**<br> (Fecha)](#elem220) | [**source**<br> (Fuente)](#elem221) | [**description**<br> (Descripción)](#elem222) | [**subject**<br> (Tema)](#elem223) |
-| [**language**<br> (Idioma)](#elem224) | [**rights**<br> (Derechos)](#elem225) | [**taxonRemarks**<br> (Comentarios del taxón)](#elem226) | [**type**<br> (Tipo)](#elem227) |
-| [**datasetID**<br> (ID del conjunto de datos)](#elem228) |  |  |  |
+| [**identifier**<br> (Identificador)](#referencias_identifier) | [**bibliographicCitation**<br> (Citación bibliográfica)](#referencias_bibliographicCitation) | [**title**<br> (Título)](#referencias_title) | [**creator**<br> (Creador)](#referencias_creator) |
+| [**date**<br> (Fecha)](#date) | [**source**<br> (Fuente)](#referencias_source) | [**description**<br> (Descripción)](#referencias_description) | [**subject**<br> (Tema)](#subject) |
+| [**language**<br> (Idioma)](#referencias_language) | [**rights**<br> (Derechos)](#rights) | [**taxonRemarks**<br> (Comentarios del taxón)](#referencias_taxonRemarks) | [**type**<br> (Tipo)](#referencias_type) |
+| [**datasetID**<br> (ID del conjunto de datos)](#referencias_datasetID) |  |  |  |
 |    |    |    |    |
 
 <br>
 <br>
 
-<a name="elem216">**identifier** (Identificador)</a>
+<a name="referencias_identifier">**identifier** (Identificador)</a>
 
 |    |    |
 | ---|--- |
@@ -2267,7 +2267,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem217">**bibliographicCitation** (Citación bibliográfica)</a>
+<a name="referencias_bibliographicCitation">**bibliographicCitation** (Citación bibliográfica)</a>
 
 |    |    |
 | ---|--- |
@@ -2276,7 +2276,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
-<a name="elem218">**title** (Título)</a>
+<a name="referencias_title">**title** (Título)</a>
 
 |    |    |
 | ---|--- |
@@ -2285,7 +2285,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem219">**creator** (Creador)</a>
+<a name="referencias_creator">**creator** (Creador)</a>
 
 |    |    |
 | ---|--- |
@@ -2295,7 +2295,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem220">**date** (Fecha)</a>
+<a name="date">**date** (Fecha)</a>
 
 |    |    |
 | ---|--- |
@@ -2305,7 +2305,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem221">**source** (Fuente)</a>
+<a name="referencias_source">**source** (Fuente)</a>
 
 |    |    |
 | ---|--- |
@@ -2315,7 +2315,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem222">**description** (Descripción)</a>
+<a name="referencias_description">**description** (Descripción)</a>
 
 |    |    |
 | ---|--- |
@@ -2324,7 +2324,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem223">**subject** (Tema)</a>
+<a name="subject">**subject** (Tema)</a>
 
 |    |    |
 | ---|--- |
@@ -2333,7 +2333,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem224">**language** (Idioma)</a>
+<a name="referencias_language">**language** (Idioma)</a>
 
 |    |    |
 | ---|--- |
@@ -2343,7 +2343,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
 |    |    |
 
-<a name="elem225">**rights** (Derechos)</a>
+<a name="rights">**rights** (Derechos)</a>
 
 |    |    |
 | ---|--- |
@@ -2352,7 +2352,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem226">**taxonRemarks** (Comentarios del taxón)</a>
+<a name="referencias_taxonRemarks">**taxonRemarks** (Comentarios del taxón)</a>
 
 |    |    |
 | ---|--- |
@@ -2361,7 +2361,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem227">**type** (Tipo)</a>
+<a name="referencias_type">**type** (Tipo)</a>
 
 |    |    |
 | ---|--- |
@@ -2370,7 +2370,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem228">**datasetID** (ID del conjunto de datos)</a>
+<a name="referencias_datasetID">**datasetID** (ID del conjunto de datos)</a>
 
 |    |    |
 | ---|--- |
@@ -2383,16 +2383,16 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |    |
 | ---|--- |--- |--- |
-| [**locationID**<br> (ID de la ubicación)](#elem229) | [**locality**<br> (Localidad)](#elem230) | [**countryCode**<br> (Código del país)](#elem231) | [**lifeStage**<br> (Etapa de desarrollo)](#elem232) |
-| [**occurrenceStatus**<br> (Estado del registro biológico)](#elem233) | [**threatStatus**<br> (Estado de amenaza)](#elem234) | [**appendixCITES**<br> (Apéndice CITES)](#elem235) | [**establishmentMeans**<br> (Medios de establecimiento)](#elem236) |
-| [**eventDate**<br> (Fecha del evento)](#elem237) | [**startDayOfYear**<br> (Día inicial del año)](#elem238) | [**endDayOfYear**<br> (Día final del año)](#elem239) | [**source**<br> (Fuente)](#elem240) |
-| [**occurrenceRemarks**<br> (Comentarios de la distribución)](#elem241) | [**datasetID**<br> (ID del conjunto de datos)](#elem242) |  |  |
+| [**locationID**<br> (ID de la ubicación)](#distribucion_locationID) | [**locality**<br> (Localidad)](#distribucion_locality) | [**countryCode**<br> (Código del país)](#distribucion_countryCode) | [**lifeStage**<br> (Etapa de desarrollo)](#distribucion_lifeStage) |
+| [**occurrenceStatus**<br> (Estado del registro biológico)](#distribucion_occurrenceStatus) | [**threatStatus**<br> (Estado de amenaza)](#threatStatus) | [**appendixCITES**<br> (Apéndice CITES)](#appendixCITES) | [**establishmentMeans**<br> (Medios de establecimiento)](#distribucion_establishmentMeans) |
+| [**eventDate**<br> (Fecha del evento)](#distribucion_eventDate) | [**startDayOfYear**<br> (Día inicial del año)](#distribucion_startDayOfYear) | [**endDayOfYear**<br> (Día final del año)](#distribucion_endDayOfYear) | [**source**<br> (Fuente)](#distribucion_source) |
+| [**occurrenceRemarks**<br> (Comentarios de la distribución)](#distribucion_occurrenceRemarks) | [**datasetID**<br> (ID del conjunto de datos)](#distribucion_datasetID) |  |  |
 |    |    |    |    |
 
 <br>
 <br>
 
-<a name="elem229">**locationID** (ID de la ubicación)</a>
+<a name="distribucion_locationID">**locationID** (ID de la ubicación)</a>
 
 |    |    |
 | ---|--- |
@@ -2402,7 +2402,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem230">**locality** (Localidad)</a>
+<a name="distribucion_locality">**locality** (Localidad)</a>
 
 |    |    |
 | ---|--- |
@@ -2411,7 +2411,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem231">**countryCode** (Código del país)</a>
+<a name="distribucion_countryCode">**countryCode** (Código del país)</a>
 
 |    |    |
 | ---|--- |
@@ -2421,7 +2421,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Consultar en: [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO) |
 |    |    |
 
-<a name="elem232">**lifeStage** (Etapa de desarrollo)</a>
+<a name="distribucion_lifeStage">**lifeStage** (Etapa de desarrollo)</a>
 
 |    |    |
 | ---|--- |
@@ -2430,7 +2430,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem233">**occurrenceStatus** (Estado del registro biológico)</a>
+<a name="distribucion_occurrenceStatus">**occurrenceStatus** (Estado del registro biológico)</a>
 
 |    |    |
 | ---|--- |
@@ -2439,25 +2439,25 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem234">**threatStatus** (Estado de amenaza)</a>
+<a name="threatStatus">**threatStatus** (Estado de amenaza)</a>
 
 |    |    |
 | ---|--- |
 | Definición | Estado de amenaza de una especie de acuerdo a la IUCN (International Union for Conservation of Nature): https://www.iucnredlist.org/ o el estado en la lista del MADS (Ministerio de Medio ambiente y Desarrollo Sostenible): https://doi.org/10.15472/5an5tz. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | _(Obligatoriedad)_ | _(Opcional)_ |
-| [Vocabulario controlado](#elem374) | EX<br> EW<br> RE<br> CR<br> EN<br> VU<br> NT<br> LC<br> DD<br> NA<br> NE |
+| [Vocabulario controlado](#vc_threatStatus) | EX<br> EW<br> RE<br> CR<br> EN<br> VU<br> NT<br> LC<br> DD<br> NA<br> NE |
 |    |    |
 
-<a name="elem235">**appendixCITES** (Apéndice CITES)</a>
+<a name="appendixCITES">**appendixCITES** (Apéndice CITES)</a>
 
 |    |    |
 | ---|--- |
 | Definición | El número de los apéndices CITES- Convention on International Trade in Endangered Species of Wild Fauna and Flora, en el que el taxón es categorizado. Es posible tener diferentes números de los apéndices para diferentes áreas. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | _(Obligatoriedad)_ | _(Opcional)_ |
-| [Vocabulario controlado](#elem375) | I<br> II<br> III |
+| [Vocabulario controlado](#vc_appendixCITES) | I<br> II<br> III |
 |    |    |
 
-<a name="elem236">**establishmentMeans** (Medios de establecimiento)</a>
+<a name="distribucion_establishmentMeans">**establishmentMeans** (Medios de establecimiento)</a>
 
 |    |    |
 | ---|--- |
@@ -2467,7 +2467,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem237">**eventDate** (Fecha del evento)</a>
+<a name="distribucion_eventDate">**eventDate** (Fecha del evento)</a>
 
 |    |    |
 | ---|--- |
@@ -2476,7 +2476,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem238">**startDayOfYear** (Día inicial del año)</a>
+<a name="distribucion_startDayOfYear">**startDayOfYear** (Día inicial del año)</a>
 
 |    |    |
 | ---|--- |
@@ -2486,7 +2486,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem239">**endDayOfYear** (Día final del año)</a>
+<a name="distribucion_endDayOfYear">**endDayOfYear** (Día final del año)</a>
 
 |    |    |
 | ---|--- |
@@ -2496,7 +2496,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem240">**source** (Fuente)</a>
+<a name="distribucion_source">**source** (Fuente)</a>
 
 |    |    |
 | ---|--- |
@@ -2505,7 +2505,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem241">**occurrenceRemarks** (Comentarios de la distribución)</a>
+<a name="distribucion_occurrenceRemarks">**occurrenceRemarks** (Comentarios de la distribución)</a>
 
 |    |    |
 | ---|--- |
@@ -2514,7 +2514,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem242">**datasetID** (ID del conjunto de datos)</a>
+<a name="distribucion_datasetID">**datasetID** (ID del conjunto de datos)</a>
 
 |    |    |
 | ---|--- |
@@ -2527,15 +2527,15 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |    |
 | ---|--- |--- |--- |
-| [**type**<br> (Tipo)](#elem242) | [**description**<br> (Descripción)](#elem243)| [**source**<br> (Fuente)](#elem244) | [**language**<br> (Idioma)](#elem245) |
-| [**created**<br> (Fecha de creación)](#elem246) | [**creator**<br> (Creador)](#elem247) | [**contributor**<br> (Contribuidor)](#elem248) | [**audience**<br> (Audiencia)](#elem249) |
-| [**license**<br> (Licencia)](#elem250) | [**rightsHolder**<br> (Titular de los derechos)](#elem251) | [**datasetID**<br> (ID del conjunto de datos)](#elem252) |  |
+| [**type**<br> (Tipo)](#descripcion_type) | [**description**<br> (Descripción)](#descripcion_description)| [**source**<br> (Fuente)](#descripcion_source) | [**language**<br> (Idioma)](#descripcion_language) |
+| [**created**<br> (Fecha de creación)](#descripcion_created) | [**creator**<br> (Creador)](#descripcion_creator) | [**contributor**<br> (Contribuidor)](#descripcion_contributor) | [**audience**<br> (Audiencia)](#descripcion_audience) |
+| [**license**<br> (Licencia)](#descripcion_license) | [**rightsHolder**<br> (Titular de los derechos)](#descripcion_rightsHolder) | [**datasetID**<br> (ID del conjunto de datos)](#descripcion_datasetID) |  |
 |    |    |    |    |
 
 <br>
 <br>
 
-<a name="elem242">**type** (Tipo)</a>
+<a name="descripcion_type">**type** (Tipo)</a>
 
 |    |    |
 | ---|--- |
@@ -2545,7 +2545,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
-<a name="elem243">**description** (Descripción)</a>
+<a name="descripcion_description">**description** (Descripción)</a>
 
 |    |    |
 | ---|--- |
@@ -2555,7 +2555,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
-<a name="elem244">**source** (Fuente)</a>
+<a name="descripcion_source">**source** (Fuente)</a>
 
 |    |    |
 | ---|--- |
@@ -2564,7 +2564,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem245">**language** (Idioma)</a>
+<a name="descripcion_language">**language** (Idioma)</a>
 
 |    |    |
 | ---|--- |
@@ -2574,7 +2574,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php]) |
 |    |    |
 
-<a name="elem246">**created** (Fecha de creación)</a>
+<a name="descripcion_created">**created** (Fecha de creación)</a>
 
 |    |    |
 | ---|--- |
@@ -2583,7 +2583,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem247">**creator** (Creador)</a>
+<a name="descripcion_creator">**creator** (Creador)</a>
 
 |    |    |
 | ---|--- |
@@ -2592,7 +2592,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem248">**contributor** (Contribuidor)</a>
+<a name="descripcion_contributor">**contributor** (Contribuidor)</a>
 
 |    |    |
 | ---|--- |
@@ -2601,7 +2601,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem249">**audience** (Audiencia)</a>
+<a name="descripcion_audience">**audience** (Audiencia)</a>
 
 |    |    |
 | ---|--- |
@@ -2610,7 +2610,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem250">**license** (Licencia)</a>
+<a name="descripcion_license">**license** (Licencia)</a>
 
 |    |    |
 | ---|--- |
@@ -2619,7 +2619,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem251">**rightsHolder** (Titular de los derechos)</a>
+<a name="descripcion_rightsHolder">**rightsHolder** (Titular de los derechos)</a>
 
 |    |    |
 | ---|--- |
@@ -2628,7 +2628,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem252">**datasetID** (ID del conjunto de datos)</a>
+<a name="descripcion_datasetID">**datasetID** (ID del conjunto de datos)</a>
 
 |    |    |
 | ---|--- |
@@ -2641,16 +2641,16 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |    |
 | ---|--- |--- |--- |
-| [**isMarine**<br> (Es marino)](#elem253) | [**isFreshWater**<br> (Es dulceacuícola)](#elem254) | [**isTerrestrial**<br> (Es terrestre)](#elem255) | [**isInvasive**<br> (Es invasor)](#elem256) |
-| [**isHybrid**<br> (Es híbrido)](#elem257) | [**isExtinct**<br> (Está extinto)](#elem258) | [**livingPeriod**<br> (Periodo en el que vivió)](#elem259) | [**ageInDays**<br> (Edad en días)](#elem260) |
-| [**sizeInMillimeters**<br> (Tamaño en milímetros)](#elem261) | [**massInGrams**<br> (Masa en gramos)](#elem262) | [**lifeForm**<br> (Forma de vida)](#elem263) | [**habitat**<br> (Hábitat)](#elem264) |
-| [**sex**<br> (Sexo)](#elem265) | [**source**<br> (Fuente)](#elem266) | [**datasetID**<br> (ID del conjunto de datos)](#elem267) |  |
+| [**isMarine**<br> (Es marino)](#isMarine) | [**isFreshWater**<br> (Es dulceacuícola)](#isFreshWater) | [**isTerrestrial**<br> (Es terrestre)](#isTerrestrial) | [**isInvasive**<br> (Es invasor)](#isInvasive) |
+| [**isHybrid**<br> (Es híbrido)](#isHybrid) | [**isExtinct**<br> (Está extinto)](#isExtinct) | [**livingPeriod**<br> (Periodo en el que vivió)](#livingPeriod) | [**ageInDays**<br> (Edad en días)](#ageInDays) |
+| [**sizeInMillimeters**<br> (Tamaño en milímetros)](#sizeInMillimeters) | [**massInGrams**<br> (Masa en gramos)](#massInGrams) | [**lifeForm**<br> (Forma de vida)](#lifeForm) | [**habitat**<br> (Hábitat)](#perfil_habitat) |
+| [**sex**<br> (Sexo)](#perfil_sex) | [**source**<br> (Fuente)](#perfil_source) | [**datasetID**<br> (ID del conjunto de datos)](#perfil_datasetID) |  |
 |    |    |    |    |
 
 <br>
 <br>
 
-<a name="elem253">**isMarine** (Es marino)</a>
+<a name="isMarine">**isMarine** (Es marino)</a>
 
 |    |    |
 | ---|--- |
@@ -2659,7 +2659,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem254">**isFreshWater** (Es dulceacuícola)</a>
+<a name="isFreshWater">**isFreshWater** (Es dulceacuícola)</a>
 
 |    |    |
 | ---|--- |
@@ -2668,7 +2668,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem255">**isTerrestrial** (Es terrestre)</a>
+<a name="isTerrestrial">**isTerrestrial** (Es terrestre)</a>
 
 |    |    |
 | ---|--- |
@@ -2677,7 +2677,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem256">**isInvasive** (Es invasor)</a>
+<a name="isInvasive">**isInvasive** (Es invasor)</a>
 
 |    |    |
 | ---|--- |
@@ -2686,7 +2686,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem257">**isHybrid** (Es híbrido)</a>
+<a name="isHybrid">**isHybrid** (Es híbrido)</a>
 
 |    |    |
 | ---|--- |
@@ -2695,7 +2695,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem258">**isExtinct** (Está extinto)</a>
+<a name="isExtinct">**isExtinct** (Está extinto)</a>
 
 |    |    |
 | ---|--- |
@@ -2704,7 +2704,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem259">**livingPeriod** (Periodo en el que vivió)</a>
+<a name="livingPeriod">**livingPeriod** (Periodo en el que vivió)</a>
 
 |    |    |
 | ---|--- |
@@ -2713,7 +2713,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem260">**ageInDays** (Edad en días)</a>
+<a name="ageInDays">**ageInDays** (Edad en días)</a>
 
 |    |    |
 | ---|--- |
@@ -2722,7 +2722,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem261">**sizeInMillimeters** (Tamaño en milímetros)</a>
+<a name="sizeInMillimeters">**sizeInMillimeters** (Tamaño en milímetros)</a>
 
 |    |    |
 | ---|--- |
@@ -2731,7 +2731,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem262">**massInGrams** (Masa en gramos)</a>
+<a name="massInGrams">**massInGrams** (Masa en gramos)</a>
 
 |    |    |
 | ---|--- |
@@ -2740,7 +2740,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem263">**lifeForm** (Forma de vida)</a>
+<a name="lifeForm">**lifeForm** (Forma de vida)</a>
 
 |    |    |
 | ---|--- |
@@ -2749,7 +2749,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem264">**habitat** (Hábitat)</a>
+<a name="perfil_habitat">**habitat** (Hábitat)</a>
 
 |    |    |
 | ---|--- |
@@ -2758,7 +2758,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem265">**sex** (Sexo)</a>
+<a name="perfil_sex">**sex** (Sexo)</a>
 
 |    |    |
 | ---|--- |
@@ -2767,7 +2767,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem266">**source** (Fuente)</a>
+<a name="perfil_source">**source** (Fuente)</a>
 
 |    |    |
 | ---|--- |
@@ -2776,7 +2776,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem267">**datasetID** (ID del conjunto de datos)</a>
+<a name="perfil_datasetID">**datasetID** (ID del conjunto de datos)</a>
 
 |    |    |
 | ---|--- |
@@ -2789,17 +2789,17 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |    |
 | ---|--- |--- |--- |
-| [**typeStatus**<br> (Estado del tipo)](#elem268) | [**typeDesignationType**<br> (Tipo de designación del tipo)](#elem269) | [**typeDesignatedBy**<br> (Tipo designado por)](#elem270) | [**scientificName**<br> (Nombre científico)](#elem271) |
-| [**taxonRank**<br> (Categoría del taxón)](#elem272) | [**bibliographicCitation**<br> (Citación bibliográfica)](#elem273) | [**occurrenceID**<br> (ID del registro biológico)](#elem274) | [**institutionCode**<br> (Código de la institución)](#elem275) |
-| [**collectionCode**<br> (Código de la colección)](#elem276) | [**catalogNumber**<br> (Número de catálogo)](#elem277) | [**locality**<br> (Localidad)](#elem278) | [**sex**<br> (Sexo)](#elem279) |
-| [**recordedBy**<br> (Registrado por)](#elem280) | [**source**<br> (Fuente)](#elem281) | [**verbatimEventDate**<br> (Fecha original del evento)](#elem282) | [**verbatimLabel**<br> (Etiqueta original)](#elem283) |
-| [**verbatimLongitude**<br> (Longitud original)](#elem284) | [**verbatimLatitude**<br> (Latitud original)](#elem285) | [**datasetID**<br> (ID del conjunto de datos)](#elem286) |  |
+| [**typeStatus**<br> (Estado del tipo)](#tipos_typeStatus) | [**typeDesignationType**<br> (Tipo de designación del tipo)](#typeDesignationType) | [**typeDesignatedBy**<br> (Tipo designado por)](#typeDesignatedBy) | [**scientificName**<br> (Nombre científico)](#tipos_scientificName) |
+| [**taxonRank**<br> (Categoría del taxón)](#tipos_taxonRank) | [**bibliographicCitation**<br> (Citación bibliográfica)](#tipos_bibliographicCitation) | [**occurrenceID**<br> (ID del registro biológico)](#tipos_occurrenceID) | [**institutionCode**<br> (Código de la institución)](#tipos_institutionCode) |
+| [**collectionCode**<br> (Código de la colección)](#tipos_collectionCode) | [**catalogNumber**<br> (Número de catálogo)](#tipos_catalogNumber) | [**locality**<br> (Localidad)](#tipos_locality) | [**sex**<br> (Sexo)](#tipos_sex) |
+| [**recordedBy**<br> (Registrado por)](#tipos_recordedBy) | [**source**<br> (Fuente)](#tipos_source) | [**verbatimEventDate**<br> (Fecha original del evento)](#tipos_verbatimEventDate) | [**verbatimLabel**<br> (Etiqueta original)](#verbatimLabel) |
+| [**verbatimLongitude**<br> (Longitud original)](#tipos_verbatimLongitude) | [**verbatimLatitude**<br> (Latitud original)](#tipos_verbatimLatitude) | [**datasetID**<br> (ID del conjunto de datos)](#tipos_datasetID) |  |
 |    |    |    |    |
 
 <br>
 <br>
 
-<a name="elem268">**typeStatus** (Estado del tipo)</a>
+<a name="tipos_typeStatus">**typeStatus** (Estado del tipo)</a>
 
 |    |    |
 | ---|--- |
@@ -2808,7 +2808,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
-<a name="elem269">**typeDesignationType** (Tipo de designación del tipo)</a>
+<a name="typeDesignationType">**typeDesignationType** (Tipo de designación del tipo)</a>
 
 |    |    |
 | ---|--- |
@@ -2817,7 +2817,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem270">**typeDesignatedBy** (Tipo designado por)</a>
+<a name="typeDesignatedBy">**typeDesignatedBy** (Tipo designado por)</a>
 
 |    |    |
 | ---|--- |
@@ -2826,7 +2826,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem271">**scientificName** (Nombre científico)</a>
+<a name="tipos_scientificName">**scientificName** (Nombre científico)</a>
 
 |    |    |
 | ---|--- |
@@ -2835,7 +2835,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem272">**taxonRank** (Categoría del taxón)</a>
+<a name="tipos_taxonRank">**taxonRank** (Categoría del taxón)</a>
 
 |    |    |
 | ---|--- |
@@ -2845,7 +2845,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem273">**bibliographicCitation** (Citación bibliográfica)</a>
+<a name="tipos_bibliographicCitation">**bibliographicCitation** (Citación bibliográfica)</a>
 
 |    |    |
 | ---|--- |
@@ -2854,7 +2854,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem274">**occurrenceID** (ID del registro biológico)</a>
+<a name="tipos_occurrenceID">**occurrenceID** (ID del registro biológico)</a>
 
 |    |    |
 | ---|--- |
@@ -2863,7 +2863,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem275">**institutionCode** (Código de la institución)</a>
+<a name="tipos_institutionCode">**institutionCode** (Código de la institución)</a>
 
 |    |    |
 | ---|--- |
@@ -2872,7 +2872,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem276">**collectionCode** (Código de la colección)</a>
+<a name="tipos_collectionCode">**collectionCode** (Código de la colección)</a>
 
 |    |    |
 | ---|--- |
@@ -2881,7 +2881,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem277">**catalogNumber** (Número de catálogo)</a>
+<a name="tipos_catalogNumber">**catalogNumber** (Número de catálogo)</a>
 
 |    |    |
 | ---|--- |
@@ -2890,7 +2890,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem278">**locality** (Localidad)</a>
+<a name="tipos_locality">**locality** (Localidad)</a>
 
 |    |    |
 | ---|--- |
@@ -2899,7 +2899,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem279">**sex** (Sexo)</a>
+<a name="tipos_sex">**sex** (Sexo)</a>
 
 |    |    |
 | ---|--- |
@@ -2908,7 +2908,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem280">**recordedBy** (Registrado por)</a>
+<a name="tipos_recordedBy">**recordedBy** (Registrado por)</a>
 
 |    |    |
 | ---|--- |
@@ -2917,7 +2917,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem281">**source** (Fuente)</a>
+<a name="tipos_source">**source** (Fuente)</a>
 
 |    |    |
 | ---|--- |
@@ -2926,7 +2926,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem282">**verbatimEventDate** (Fecha original del evento)</a>
+<a name="tipos_verbatimEventDate">**verbatimEventDate** (Fecha original del evento)</a>
 
 |    |    |
 | ---|--- |
@@ -2935,7 +2935,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem283">**verbatimLabel** (Etiqueta original)</a>
+<a name="verbatimLabel">**verbatimLabel** (Etiqueta original)</a>
 
 |    |    |
 | ---|--- |
@@ -2944,7 +2944,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem284">**verbatimLongitude** (Longitud original)</a>
+<a name="tipos_verbatimLongitude">**verbatimLongitude** (Longitud original)</a>
 
 |    |    |
 | ---|--- |
@@ -2953,7 +2953,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem285">**verbatimLatitude** (Latitud original)</a>
+<a name="tipos_verbatimLatitude">**verbatimLatitude** (Latitud original)</a>
 
 |    |    |
 | ---|--- |
@@ -2962,7 +2962,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem286">**datasetID** (ID del conjunto de datos)</a>
+<a name="tipos_datasetID">**datasetID** (ID del conjunto de datos)</a>
 
 |    |    |
 | ---|--- |
@@ -2976,20 +2976,20 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |
 | ---|--- |--- |
-| [**materialSampleType**<br> (Tipo de muestra)](#elem287) | [**concentration**<br> (Concentración)](#elem288) | [**concentrationUnit**<br> (Unidad de la concentración)](#elem289) | 
-| [**methodDetermination<br>ConcentrationAndRatios**<br> (Método para determinación <br>de la concentración)](#elem290) | [**ratioOfAbsorbance260_230**<br> (Relación de absorbancia<br> 260/230)](#elem291) | [**ratioOfAbsorbance260_280**<br> (Relación de absorbancia<br> 260/280)](#elem292) |
-| [**purificationMethod**<br> (Método de purificación)](#elem293) | [**quality**<br> (Calidad)](#elem294) | [**qualityCheckDate**<br> (Fecha de revisión de la calidad)](#elem295) |
-| [**qualityRemarks**<br> (Comentarios sobre la calidad)](#elem296) | [**volume**<br> (Volumen)](#elem297) | [**volumeUnit**<br> (Unidad del volumen)](#elem298) |
-| [**weigh**<br> (Peso)](#elem299) | [**weighUnit**<br> (Unidad del peso)](#elem300) | [**methodDeterminationWeight**<br> (Método de determinación<br> del peso)](#elem301) |
-| [**samp_size**<br> (Tamaño de la muestra)](#elem302) | [**DNAMeltingPoint**<br> (Temperatura de<br> denaturación del ADN)](#elem303) | [**sieving**<br> (Tamizado)](#elem304) |
-| [**DNADNAHybridization**<br> (Hibridación ADN-ADN)](#elem305) | [**estimated_size**<br> (Tamaño estimado)](#elem306) | [**pool_dna_extracts**<br> (Combinación de<br> extractos de ADN)](#elem307) | 
-| [**sampleDesignation**<br> (Designación de la muestra)](#elem308) |  |  |
+| [**materialSampleType**<br> (Tipo de muestra)](#materialSampleType) | [**concentration**<br> (Concentración)](#concentration) | [**concentrationUnit**<br> (Unidad de la concentración)](#concentrationUnit) | 
+| [**methodDetermination<br>ConcentrationAndRatios**<br> (Método para determinación <br>de la concentración)](#methodDeterminationConcentrationAndRatios) | [**ratioOfAbsorbance260_230**<br> (Relación de absorbancia<br> 260/230)](#ratioOfAbsorbance260_230) | [**ratioOfAbsorbance260_280**<br> (Relación de absorbancia<br> 260/280)](#ratioOfAbsorbance260_280) |
+| [**purificationMethod**<br> (Método de purificación)](#purificationMethod) | [**quality**<br> (Calidad)](#quality) | [**qualityCheckDate**<br> (Fecha de revisión de la calidad)](#qualityCheckDate) |
+| [**qualityRemarks**<br> (Comentarios sobre la calidad)](#qualityRemarks) | [**volume**<br> (Volumen)](#volume) | [**volumeUnit**<br> (Unidad del volumen)](#volumeUnit) |
+| [**weigh**<br> (Peso)](#weigh) | [**weighUnit**<br> (Unidad del peso)](#weighUnit) | [**methodDeterminationWeight**<br> (Método de determinación<br> del peso)](#methodDeterminationWeight) |
+| [**samp_size**<br> (Tamaño de la muestra)](#samp_size) | [**DNAMeltingPoint**<br> (Temperatura de<br> denaturación del ADN)](#DNAMeltingPoint) | [**sieving**<br> (Tamizado)](#sieving) |
+| [**DNADNAHybridization**<br> (Hibridación ADN-ADN)](#DNADNAHybridization) | [**estimated_size**<br> (Tamaño estimado)](#estimated_size) | [**pool_dna_extracts**<br> (Combinación de<br> extractos de ADN)](#pool_dna_extracts) | 
+| [**sampleDesignation**<br> (Designación de la muestra)](#sampleDesignation) |  |  |
 |    |    |    |
 
 <br>
 <br>
 
-<a name="elem287">**materialSampleType** (Tipo de muestra)</a>
+<a name="materialSampleType">**materialSampleType** (Tipo de muestra)</a>
 
 |    |    |
 | ---|--- |
@@ -2998,7 +2998,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
-<a name="elem288">**concentration** (Concentración)</a>
+<a name="concentration">**concentration** (Concentración)</a>
 
 |    |    |
 | ---|--- |
@@ -3008,7 +3008,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem289">**concentrationUnit** (Unidad de la concentración)</a>
+<a name="concentrationUnit">**concentrationUnit** (Unidad de la concentración)</a>
 
 |    |    |
 | ---|--- |
@@ -3017,7 +3017,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem290">**methodDeterminationConcentrationAndRatios** (Método para determinación de la concentración)</a>
+<a name="methodDeterminationConcentrationAndRatios">**methodDeterminationConcentrationAndRatios** (Método para determinación de la concentración)</a>
 
 |    |    |
 | ---|--- |
@@ -3026,7 +3026,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem291">**ratioOfAbsorbance260_230** (Relación de absorbancia 260/230)</a>
+<a name="ratioOfAbsorbance260_230">**ratioOfAbsorbance260_230** (Relación de absorbancia 260/230)</a>
 
 |    |    |
 | ---|--- |
@@ -3035,7 +3035,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem292">**ratioOfAbsorbance260_280** (Relación de absorbancia 260/280)</a>
+<a name="ratioOfAbsorbance260_280">**ratioOfAbsorbance260_280** (Relación de absorbancia 260/280)</a>
 
 |    |    |
 | ---|--- |
@@ -3044,7 +3044,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem293">**purificationMethod** (Método de purificación)</a>
+<a name="purificationMethod">**purificationMethod** (Método de purificación)</a>
 
 |    |    |
 | ---|--- |
@@ -3053,7 +3053,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem294">**quality** (Calidad)</a>
+<a name="quality">**quality** (Calidad)</a>
 
 |    |    |
 | ---|--- |
@@ -3062,7 +3062,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem295">**qualityCheckDate** (Fecha de revisión de la calidad)</a>
+<a name="qualityCheckDate">**qualityCheckDate** (Fecha de revisión de la calidad)</a>
 
 |    |    |
 | ---|--- |
@@ -3071,7 +3071,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem296">**qualityRemarks** (Comentarios sobre la calidad)</a>
+<a name="qualityRemarks">**qualityRemarks** (Comentarios sobre la calidad)</a>
 
 |    |    |
 | ---|--- |
@@ -3080,7 +3080,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem297">**volume** (Volumen)</a>
+<a name="volume">**volume** (Volumen)</a>
 
 |    |    |
 | ---|--- |
@@ -3090,7 +3090,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem298">**volumeUnit** (Unidad del volumen)</a>
+<a name="volumeUnit">**volumeUnit** (Unidad del volumen)</a>
 
 |    |    |
 | ---|--- |
@@ -3100,7 +3100,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem299">**weigh** (Peso)</a>
+<a name="weigh">**weigh** (Peso)</a>
 
 |    |    |
 | ---|--- |
@@ -3110,7 +3110,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem300">**weighUnit** (Peso)</a>
+<a name="weighUnit">**weighUnit** (Peso)</a>
 
 |    |    |
 | ---|--- |
@@ -3120,7 +3120,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem301">**methodDeterminationWeight** (Método de determinación del peso)</a>
+<a name="methodDeterminationWeight">**methodDeterminationWeight** (Método de determinación del peso)</a>
 
 |    |    |
 | ---|--- |
@@ -3130,7 +3130,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem302">**samp_size** (Tamaño de la muestra)</a>
+<a name="samp_size">**samp_size** (Tamaño de la muestra)</a>
 
 |    |    |
 | ---|--- |
@@ -3139,7 +3139,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem303">**DNAMeltingPoint** (Temperatura de denaturación del ADN)</a>
+<a name="DNAMeltingPoint">**DNAMeltingPoint** (Temperatura de denaturación del ADN)</a>
 
 |    |    |
 | ---|--- |
@@ -3148,7 +3148,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem304">**sieving** (Tamizado)</a>
+<a name="sieving">**sieving** (Tamizado)</a>
 
 |    |    |
 | ---|--- |
@@ -3157,7 +3157,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem305">**DNADNAHybridization** (Hibridación ADN-ADN)</a>
+<a name="DNADNAHybridization">**DNADNAHybridization** (Hibridación ADN-ADN)</a>
 
 |    |    |
 | ---|--- |
@@ -3166,7 +3166,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem306">**estimated_size** (Tamaño estimado)</a>
+<a name="estimated_size">**estimated_size** (Tamaño estimado)</a>
 
 |    |    |
 | ---|--- |
@@ -3175,7 +3175,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem307">**pool_dna_extracts** (Combinación de extractos de ADN)</a>
+<a name="pool_dna_extracts">**pool_dna_extracts** (Combinación de extractos de ADN)</a>
 
 |    |    |
 | ---|--- |
@@ -3184,7 +3184,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem308">**sampleDesignation** (Designación de la muestra)</a>
+<a name="sampleDesignation">**sampleDesignation** (Designación de la muestra)</a>
 
 |    |    |
 | ---|--- |
@@ -3198,14 +3198,14 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |
 | ---|--- |--- |
-| [**preservationType**<br> (Tipo de preservación)](#elem309) | [**preservationTemperature**<br> (Temperatura de preservación)](#elem310) | [**preservationDateBegin**<br> (Fecha inicial de preservación)](#elem311) | 
-| [**sequence**<br> (Secuencia)](#elem312) |  |  |
+| [**preservationType**<br> (Tipo de preservación)](#preservationType) | [**preservationTemperature**<br> (Temperatura de preservación)](#preservationTemperature) | [**preservationDateBegin**<br> (Fecha inicial de preservación)](#preservationDateBegin) | 
+| [**sequence**<br> (Secuencia)](#sequence) |  |  |
 |    |    |    |
 
 <br>
 <br>
 
-<a name="elem309">**preservationType** (Tipo de preservación)</a>
+<a name="preservationType">**preservationType** (Tipo de preservación)</a>
 
 |    |    |
 | ---|--- |
@@ -3214,7 +3214,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
-<a name="elem310">**preservationTemperature** (Temperatura de preservación)</a>
+<a name="preservationTemperature">**preservationTemperature** (Temperatura de preservación)</a>
 
 |    |    |
 | ---|--- |
@@ -3223,7 +3223,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem311">**preservationDateBegin** (Fecha inicial de preservación)</a>
+<a name="preservationDateBegin">**preservationDateBegin** (Fecha inicial de preservación)</a>
 
 |    |    |
 | ---|--- |
@@ -3232,7 +3232,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem312">**sequence** (Secuencia)</a>
+<a name="sequence">**sequence** (Secuencia)</a>
 
 |    |    |
 | ---|--- |
@@ -3245,14 +3245,14 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |
 | ---|--- |--- |
-| [**permitType**<br> (Tipo de permiso)](#elem313) | [**permitStatus**<br> (Estado del permiso)](#elem314) | [**permitStatusQualifier**<br> (Calificador del estado del permiso)](#elem315) |
-| [**permitURI**<br> (Identificador del permiso)](#elem316) | [**permitText**<br> (Texto del permiso)](#elem317) |  |
+| [**permitType**<br> (Tipo de permiso)](#permitType) | [**permitStatus**<br> (Estado del permiso)](#permitStatus) | [**permitStatusQualifier**<br> (Calificador del estado del permiso)](#permitStatusQualifier) |
+| [**permitURI**<br> (Identificador del permiso)](#permitURI) | [**permitText**<br> (Texto del permiso)](#permitText) |  |
 |    |    |    |
 
 <br>
 <br>
 
-<a name="elem313">**permitType** (Tipo de permiso)</a>
+<a name="permitType">**permitType** (Tipo de permiso)</a>
 
 |    |    |
 | ---|--- |
@@ -3261,7 +3261,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
-<a name="elem314">**permitStatus** (Estado del permiso)</a>
+<a name="permitStatus">**permitStatus** (Estado del permiso)</a>
 
 |    |    |
 | ---|--- |
@@ -3270,7 +3270,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
-<a name="elem315">**permitStatusQualifier** (Calificador del estado del permiso)</a>
+<a name="permitStatusQualifier">**permitStatusQualifier** (Calificador del estado del permiso)</a>
 
 |    |    |
 | ---|--- |
@@ -3279,7 +3279,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
-<a name="elem316">**permitURI** (Identificador del permiso)</a>
+<a name="permitURI">**permitURI** (Identificador del permiso)</a>
 
 |    |    |
 | ---|--- |
@@ -3288,7 +3288,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem317">**permitText** (Texto del permiso)</a>
+<a name="permitText">**permitText** (Texto del permiso)</a>
 
 |    |    |
 | ---|--- |
@@ -3301,14 +3301,14 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |
 | ---|--- |--- |
-| [**preparationType**<br> (Tipo de preparación)](#elem318) | [**preparationProcess**<br> (Proceso de la preparación)](#elem319) | [**preparationMaterials**<br> (Materiales de la preparación)](#elem320) |
-| [**preparedBy**<br> (Preparado por)](#elem321) | [**preparationDate**<br> (Fecha de la preparación)](#elem322) |  |
+| [**preparationType**<br> (Tipo de preparación)](#preparationType) | [**preparationProcess**<br> (Proceso de la preparación)](#preparationProcess) | [**preparationMaterials**<br> (Materiales de la preparación)](#preparationMaterials) |
+| [**preparedBy**<br> (Preparado por)](#preparedBy) | [**preparationDate**<br> (Fecha de la preparación)](#preparationDate) |  |
 |    |    |    |
 
 <br>
 <br>
 
-<a name="elem318">**preparationType** (Tipo de preparación)</a>
+<a name="preparationType">**preparationType** (Tipo de preparación)</a>
 
 |    |    |
 | ---|--- |
@@ -3317,7 +3317,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
-<a name="elem319">**preparationProcess** (Proceso de la preparación)</a>
+<a name="preparationProcess">**preparationProcess** (Proceso de la preparación)</a>
 
 |    |    |
 | ---|--- |
@@ -3326,7 +3326,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem320">**preparationMaterials** (Materiales de la preparación)</a>
+<a name="preparationMaterials">**preparationMaterials** (Materiales de la preparación)</a>
 
 |    |    |
 | ---|--- |
@@ -3335,7 +3335,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem321">**preparedBy** (Preparado por)</a>
+<a name="preparedBy">**preparedBy** (Preparado por)</a>
 
 |    |    |
 | ---|--- |
@@ -3344,7 +3344,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem322">**preparationDate** (Fecha de la preparación)</a>
+<a name="preparationDate">**preparationDate** (Fecha de la preparación)</a>
 
 |    |    |
 | ---|--- |
@@ -3357,24 +3357,24 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |
 | ---|--- |--- |
-| [**amplificationDate**<br> (Fecha de la amplificación)](#elem323) | [**amplificationStaff**<br> (Amplificado por)](#elem324) | [**amplificationSuccess**<br> (Éxito de la amplificación)](#elem325) |
-| [**amplificationSuccessDetails**<br> (Detalle del éxito de la amplificación)](#elem326) | [**amplificationMethod**<br> (Método de la amplificación)](#elem327) | [**primerSequenceForward**<br> (Cebador directo)](#elem328) |
-| [**primerNameForward**<br> (Nombre del cebador directo)](#elem329) | [**primerReferenceCitationForward**<br> (Citación del cebador directo)](#elem330) | [**primerReferenceLinkForward**<br> (URL del cebador directo)](#elem331) |
-| [**primerSequenceReverse**<br> (Cebador inverso)](#elem332) | [**primerNameReverse**<br> (Nombre del cebador inverso)](#elem333) | [**primerReferenceCitationReverse**<br> (Citación del cebador inverso)](#elem334) |
-| [**primerReferenceLinkReverse**<br> (URL del cebador inverso)](#elem335) | [**purificationMethod**<br> (Método de purificación)](#elem336) | [**consensusSequence**<br> (Secuencia consenso)](#elem337) |
-| [**consensusSequenceLength**<br> (Longitud de la secuencia consenso)](#elem338) | [**consensusSequence<br>ChromatogramFileURI**<br> (Identificador del archivo del<br> cromatograma de la secuencia consenso)](#elem339) | [**barcodeSequence**<br> (Secuencia código de barras)](#elem340) |
-| [**haplotype**<br> (Haplotipo)](#elem341) | [**marker**<br> (Marcador)](#elem342) | [**markerSubfragment**<br> (Subfragmento del marcador)](#elem343) |
-| [**geneticAccessionNumber**<br> (Número de accesión genético)](#elem344) | [**BOLDProcessID**<br> (ID del proceso de BOLD)](#elem345) | [**geneticAccessionURI**<br> (Identificador de accesión genético)](#elem346) |
-| [**GC-content**<br> (Contenido GC)](#elem347) | [**chimera_check**<br> (Verificación de secuencia quimérica)](#elem348) | [**assembly**<br> (Ensamblaje)](#elem349) |
-| [**sop**<br> (Compensación](#elem350) | [**finishing_strategy**<br> (Estrategia de finalización)](#elem351) | [**annot_source**<br> (Fuente de la anotación)](#elem352) |
-| [**markerAccordance**<br> (Marcador acordado)](#elem353) | [**seq_quality_check**<br> (Verificación de la calidad de la secuencia)](#elem354) | [**adapters**<br> (Adaptadores)](#elem355) |
-| [**mid**<br> (Identificadores multiplex)](#elem356) |  |  |
+| [**amplificationDate**<br> (Fecha de la amplificación)](#amplificationDate) | [**amplificationStaff**<br> (Amplificado por)](#amplificationStaff) | [**amplificationSuccess**<br> (Éxito de la amplificación)](#amplificationSuccess) |
+| [**amplificationSuccessDetails**<br> (Detalle del éxito de la amplificación)](#amplificationSuccessDetails) | [**amplificationMethod**<br> (Método de la amplificación)](#amplificationMethod) | [**primerSequenceForward**<br> (Cebador directo)](#primerSequenceForward) |
+| [**primerNameForward**<br> (Nombre del cebador directo)](#primerNameForward) | [**primerReferenceCitationForward**<br> (Citación del cebador directo)](#primerReferenceCitationForward) | [**primerReferenceLinkForward**<br> (URL del cebador directo)](#primerReferenceLinkForward) |
+| [**primerSequenceReverse**<br> (Cebador inverso)](#primerSequenceReverse) | [**primerNameReverse**<br> (Nombre del cebador inverso)](#primerNameReverse) | [**primerReferenceCitationReverse**<br> (Citación del cebador inverso)](#primerReferenceCitationReverse) |
+| [**primerReferenceLinkReverse**<br> (URL del cebador inverso)](#primerReferenceLinkReverse) | [**purificationMethod**<br> (Método de purificación)](#purificationMethod) | [**consensusSequence**<br> (Secuencia consenso)](#consensusSequence) |
+| [**consensusSequenceLength**<br> (Longitud de la secuencia consenso)](#consensusSequenceLength) | [**consensusSequence<br>ChromatogramFileURI**<br> (Identificador del archivo del<br> cromatograma de la secuencia consenso)](#consensusSequenceChromatogramFileURI) | [**barcodeSequence**<br> (Secuencia código de barras)](#barcodeSequence) |
+| [**haplotype**<br> (Haplotipo)](#haplotype) | [**marker**<br> (Marcador)](#marker) | [**markerSubfragment**<br> (Subfragmento del marcador)](#markerSubfragment) |
+| [**geneticAccessionNumber**<br> (Número de accesión genético)](#geneticAccessionNumber) | [**BOLDProcessID**<br> (ID del proceso de BOLD)](#BOLDProcessID) | [**geneticAccessionURI**<br> (Identificador de accesión genético)](#geneticAccessionURI) |
+| [**GC-content**<br> (Contenido GC)](#GC-content) | [**chimera_check**<br> (Verificación de secuencia quimérica)](#chimera_check) | [**assembly**<br> (Ensamblaje)](#assembly) |
+| [**sop**<br> (Compensación](#sop) | [**finishing_strategy**<br> (Estrategia de finalización)](#finishing_strategy) | [**annot_source**<br> (Fuente de la anotación)](#annot_source) |
+| [**markerAccordance**<br> (Marcador acordado)](#markerAccordance) | [**seq_quality_check**<br> (Verificación de la calidad de la secuencia)](#seq_quality_check) | [**adapters**<br> (Adaptadores)](#adapters) |
+| [**mid**<br> (Identificadores multiplex)](#mid) |  |  |
 |    |    |    |
 
 <br>
 <br>
 
-<a name="elem323">**amplificationDate** (Fecha de la amplificación)</a>
+<a name="amplificationDate">**amplificationDate** (Fecha de la amplificación)</a>
 
 |    |    |
 | ---|--- |
@@ -3383,7 +3383,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem324">**amplificationStaff** (Amplificado por)</a>
+<a name="amplificationStaff">**amplificationStaff** (Amplificado por)</a>
 
 |    |    |
 | ---|--- |
@@ -3392,7 +3392,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem325">**amplificationSuccess** (Éxito de la amplificación)</a>
+<a name="amplificationSuccess">**amplificationSuccess** (Éxito de la amplificación)</a>
 
 |    |    |
 | ---|--- |
@@ -3401,7 +3401,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem326">**amplificationSuccessDetails** (Detalle del éxito de la amplificación)</a>
+<a name="amplificationSuccessDetails">**amplificationSuccessDetails** (Detalle del éxito de la amplificación)</a>
 
 |    |    |
 | ---|--- |
@@ -3410,7 +3410,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem327">**amplificationMethod** (Método de la amplificación)</a>
+<a name="amplificationMethod">**amplificationMethod** (Método de la amplificación)</a>
 
 |    |    |
 | ---|--- |
@@ -3419,7 +3419,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem328">**primerSequenceForward** (Cebador directo)</a>
+<a name="primerSequenceForward">**primerSequenceForward** (Cebador directo)</a>
 
 |    |    |
 | ---|--- |
@@ -3428,7 +3428,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem329">**primerNameForward** (Nombre del cebador directo)</a>
+<a name="primerNameForward">**primerNameForward** (Nombre del cebador directo)</a>
 
 |    |    |
 | ---|--- |
@@ -3437,7 +3437,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem330">**primerReferenceCitationForward** (Citación del cebador directo)</a>
+<a name="primerReferenceCitationForward">**primerReferenceCitationForward** (Citación del cebador directo)</a>
 
 |    |    |
 | ---|--- |
@@ -3446,7 +3446,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem331">**primerReferenceLinkForward** (URL del cebador directo)</a>
+<a name="primerReferenceLinkForward">**primerReferenceLinkForward** (URL del cebador directo)</a>
 
 |    |    |
 | ---|--- |
@@ -3455,7 +3455,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem332">**primerSequenceReverse** (Cebador inverso)</a>
+<a name="primerSequenceReverse">**primerSequenceReverse** (Cebador inverso)</a>
 
 |    |    |
 | ---|--- |
@@ -3464,7 +3464,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem333">**primerNameReverse** (Nombre del cebador inverso)</a>
+<a name="primerNameReverse">**primerNameReverse** (Nombre del cebador inverso)</a>
 
 |    |    |
 | ---|--- |
@@ -3473,7 +3473,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem334">**primerReferenceCitationReverse** (Citación del cebador inverso)</a>
+<a name="primerReferenceCitationReverse">**primerReferenceCitationReverse** (Citación del cebador inverso)</a>
 
 |    |    |
 | ---|--- |
@@ -3482,7 +3482,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem335">**primerReferenceLinkReverse** (URL del cebador inverso)</a>
+<a name="primerReferenceLinkReverse">**primerReferenceLinkReverse** (URL del cebador inverso)</a>
 
 |    |    |
 | ---|--- |
@@ -3491,7 +3491,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem336">**purificationMethod** (Método de purificación)</a>
+<a name="purificationMethod">**purificationMethod** (Método de purificación)</a>
 
 |    |    |
 | ---|--- |
@@ -3500,7 +3500,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem337">**consensusSequence** (Secuencia consenso)</a>
+<a name="consensusSequence">**consensusSequence** (Secuencia consenso)</a>
 
 |    |    |
 | ---|--- |
@@ -3509,7 +3509,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem338">**consensusSequenceLength** (Longitud de la secuencia consenso)</a>
+<a name="consensusSequenceLength">**consensusSequenceLength** (Longitud de la secuencia consenso)</a>
 
 |    |    |
 | ---|--- |
@@ -3518,7 +3518,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem339">**consensusSequenceChromatogramFileURI** (Identificador del archivo del cromatograma de la secuencia consenso)</a>
+<a name="consensusSequenceChromatogramFileURI">**consensusSequenceChromatogramFileURI** (Identificador del archivo del cromatograma de la secuencia consenso)</a>
 
 |    |    |
 | ---|--- |
@@ -3527,7 +3527,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem340">**barcodeSequence** (Secuencia código de barras)</a>
+<a name="barcodeSequence">**barcodeSequence** (Secuencia código de barras)</a>
 
 |    |    |
 | ---|--- |
@@ -3536,7 +3536,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem341">**haplotype** (Haplotipo)</a>
+<a name="haplotype">**haplotype** (Haplotipo)</a>
 
 |    |    |
 | ---|--- |
@@ -3545,7 +3545,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem342">**marker** (Marcador)</a>
+<a name="marker">**marker** (Marcador)</a>
 
 |    |    |
 | ---|--- |
@@ -3554,7 +3554,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem343">**markerSubfragment** (Subfragmento del marcador)</a>
+<a name="markerSubfragment">**markerSubfragment** (Subfragmento del marcador)</a>
 
 |    |    |
 | ---|--- |
@@ -3563,7 +3563,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem344">**geneticAccessionNumber** (Número de accesión genético)</a>
+<a name="geneticAccessionNumber">**geneticAccessionNumber** (Número de accesión genético)</a>
 
 |    |    |
 | ---|--- |
@@ -3572,7 +3572,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem345">**BOLDProcessID** (ID del proceso de BOLD)</a>
+<a name="BOLDProcessID">**BOLDProcessID** (ID del proceso de BOLD)</a>
 
 |    |    |
 | ---|--- |
@@ -3581,7 +3581,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem346">**geneticAccessionURI** (Identificador de accesión genético)</a>
+<a name="geneticAccessionURI">**geneticAccessionURI** (Identificador de accesión genético)</a>
 
 |    |    |
 | ---|--- |
@@ -3590,7 +3590,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem347">**GC-content** (Contenido GC)</a>
+<a name="GC-content">**GC-content** (Contenido GC)</a>
 
 |    |    |
 | ---|--- |
@@ -3599,7 +3599,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem348">**chimera_check** (Verificación de secuencia quimérica)</a>
+<a name="chimera_check">**chimera_check** (Verificación de secuencia quimérica)</a>
 
 |    |    |
 | ---|--- |
@@ -3608,7 +3608,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem349">**assembly** (Ensamblaje)</a>
+<a name="assembly">**assembly** (Ensamblaje)</a>
 
 |    |    |
 | ---|--- |
@@ -3617,7 +3617,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem350">**sop** (Compensación)</a>
+<a name="sop">**sop** (Compensación)</a>
 
 |    |    |
 | ---|--- |
@@ -3626,7 +3626,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem351">**finishing_strategy** (Estrategia de finalización)</a>
+<a name="finishing_strategy">**finishing_strategy** (Estrategia de finalización)</a>
 
 |    |    |
 | ---|--- |
@@ -3635,7 +3635,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem352">**annot_source** (Fuente de la anotación)</a>
+<a name="annot_source">**annot_source** (Fuente de la anotación)</a>
 
 |    |    |
 | ---|--- |
@@ -3644,7 +3644,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem353">**markerAccordance** (Marcador acordado)</a>
+<a name="markerAccordance">**markerAccordance** (Marcador acordado)</a>
 
 |    |    |
 | ---|--- |
@@ -3653,7 +3653,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem354">**seq_quality_check** (Verificación de la calidad de la secuencia)</a>
+<a name="seq_quality_check">**seq_quality_check** (Verificación de la calidad de la secuencia)</a>
 
 |    |    |
 | ---|--- |
@@ -3662,7 +3662,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem355">**adapters** (Adaptadores)</a>
+<a name="adapters">**adapters** (Adaptadores)</a>
 
 |    |    |
 | ---|--- |
@@ -3671,7 +3671,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem356">**mid** (Identificadores multiplex)</a>
+<a name="mid">**mid** (Identificadores multiplex)</a>
 
 |    |    |
 | ---|--- |
@@ -3684,14 +3684,14 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |    |
 | ---|--- |--- |--- |
-| [**blocked**<br> (Bloqueado)](#elem357) | [**blockedUntil**<br> (Bloqueado hasta)](#elem358) | [**loanConditions**<br> (Condiciones del préstamo)](#elem359) | [**loanDate**<br> (Fecha del préstamo)](#elem360) |
-| [**loanDestination**<br> (Destino del préstamo)](#elem361) | [**loanIdentifier**<br> (Identificador del préstamo)](#elem362) | [**disposition**<br> (Disposición)](#elem363) | [**receivedFrom**<br> (Recibido de)](#elem364) |
+| [**blocked**<br> (Bloqueado)](#blocked) | [**blockedUntil**<br> (Bloqueado hasta)](#blockedUntil) | [**loanConditions**<br> (Condiciones del préstamo)](#loanConditions) | [**loanDate**<br> (Fecha del préstamo)](#loanDate) |
+| [**loanDestination**<br> (Destino del préstamo)](#loanDestination) | [**loanIdentifier**<br> (Identificador del préstamo)](#loanIdentifier) | [**disposition**<br> (Disposición)](#disposition) | [**receivedFrom**<br> (Recibido de)](#receivedFrom) |
 |    |    |    |    |
 
 <br>
 <br>
 
-<a name="elem357">**blocked** (Bloqueado)</a>
+<a name="blocked">**blocked** (Bloqueado)</a>
 
 |    |    |
 | ---|--- |
@@ -3700,7 +3700,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
-<a name="elem358">**blockedUntil** (Bloqueado hasta)</a>
+<a name="blockedUntil">**blockedUntil** (Bloqueado hasta)</a>
 
 |    |    |
 | ---|--- |
@@ -3709,7 +3709,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem359">**loanConditions** (Condiciones del préstamo)</a>
+<a name="loanConditions">**loanConditions** (Condiciones del préstamo)</a>
 
 |    |    |
 | ---|--- |
@@ -3718,7 +3718,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem360">**loanDate** (Fecha del préstamo)</a>
+<a name="loanDate">**loanDate** (Fecha del préstamo)</a>
 
 |    |    |
 | ---|--- |
@@ -3727,7 +3727,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem361">**loanDestination** (Destino del préstamo)</a>
+<a name="loanDestination">**loanDestination** (Destino del préstamo)</a>
 
 |    |    |
 | ---|--- |
@@ -3736,7 +3736,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem362">**loanIdentifier** (Identificador del préstamo)</a>
+<a name="loanIdentifier">**loanIdentifier** (Identificador del préstamo)</a>
 
 |    |    |
 | ---|--- |
@@ -3745,7 +3745,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem363">**disposition** (Disposición)</a>
+<a name="disposition">**disposition** (Disposición)</a>
 
 |    |    |
 | ---|--- |
@@ -3754,7 +3754,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
-<a name="elem364">**receivedFrom** (Recibido de)</a>
+<a name="receivedFrom">**receivedFrom** (Recibido de)</a>
 
 |    |    |
 | ---|--- |
@@ -3767,15 +3767,15 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 
 |    |    |    |    |
 | ---|--- |--- |--- |
-| [**basisOfRecord**<br> (Base del registro)](#elem365) | [**type**<br> (Tipo)](#elem366) | [**language**<br> (Idioma)](#elem367) | [**establishmentMeans**<br> (Medios de establecimiento)](#elem368) |
-| [**degreeOfEstablishment**<br> (Grado de establecimiento](#elem369) | [**pathway**<br> (Ruta de introducción)](#elem370) | [**occurrenceStatus**<br> (Estado del registro biológico)](#elem371) | [**continent**<br> (Continente)](#elem372) |
-| [**countryCode**<br> (Código del país)](#elem373) | [**threatStatus**<br> (Estado de amenaza)](#elem374) | [**appendixCITES**<br> (Apéndice CITES)](#elem375) | [**type**<br> (Tipo)](#elem376) |
+| [**basisOfRecord**<br> (Base del registro)](#vc_basisOfRecord) | [**type**<br> (Tipo)](#vc_type) | [**language**<br> (Idioma)](#vc_language) | [**establishmentMeans**<br> (Medios de establecimiento)](#vc_establishmentMeans) |
+| [**degreeOfEstablishment**<br> (Grado de establecimiento](#vc_degreeOfEstablishment) | [**pathway**<br> (Ruta de introducción)](#vc_pathway) | [**occurrenceStatus**<br> (Estado del registro biológico)](#vc_occurrenceStatus) | [**continent**<br> (Continente)](#vc_continent) |
+| [**countryCode**<br> (Código del país)](#vc_countryCode) | [**threatStatus**<br> (Estado de amenaza)](#vc_threatStatus) | [**appendixCITES**<br> (Apéndice CITES)](#vc_appendixCITES) | [**type**<br> (Tipo)](#vc_multimedia_type) |
 |    |    |    |    |
 
 <br>
 <br>
 
-<a name="elem365">**basisOfRecord** (Base del registro)</a>
+<a name="vc_basisOfRecord">**basisOfRecord** (Base del registro)</a>
 
 |  Vocabulario |  Definición  |
 | ---|--- |
@@ -3787,7 +3787,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | FossilSpecimen | Se emplea con organismos prehistóricos con evidencia fósil que soporta su existencia.<br><br> Siempre va acompañado del elemento type documentado como “Objeto físico”. |
 |    |    |
 
-<a name="elem366">**type** (Tipo)</a>
+<a name="vc_type">**type** (Tipo)</a>
 
 |  Vocabulario |  Definición  |
 | ---|--- |
@@ -3798,14 +3798,14 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | Evento | Observación de los especímenes en campo.<br> Siempre complementa la base del registro (basisOfRecord): HumanObservation |
 |    |    |
 
-<a name="elem367">**language** (Idioma)</a>
+<a name="vc_language">**language** (Idioma)</a>
 
 |   |
 | ---|
 | Utilizar el vocabulario controlado para el idioma en la norma ISO 639-1. Solamente se usan 2 letras en minúscula, consulte la información en la página oficial de ISO [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
 |    |
 
-<a name="elem368">**establishmentMeans** (Medios de establecimiento)</a>
+<a name="vc_establishmentMeans">**establishmentMeans** (Medios de establecimiento)</a>
 
 |  Vocabulario |  Definición  |
 | ---|--- |
@@ -3817,7 +3817,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | uncertain | Incierto |
 |    |    |
 
-<a name="elem369">**degreeOfEstablishment** (Grado de establecimiento)</a>
+<a name="vc_degreeOfEstablishment">**degreeOfEstablishment** (Grado de establecimiento)</a>
 
 |  Vocabulario |  Definición  |
 | ---|--- |
@@ -3834,7 +3834,7 @@ En esta página se presenta una descripción fácil del **DwC**, la cual contien
 | widespreadInvasive | Invasor ampliamente distribuido |
 |    |    |
 
-<a name="elem370">**pathway** (Ruta de introducción)</a>
+<a name="vc_pathway">**pathway** (Ruta de introducción)</a>
 <br>
 <br>
 La lista completa de vocabularios controlados se encuentra disponible en [https://dwc.tdwg.org/pw/#4-vocabulary](https://dwc.tdwg.org/pw/#4-vocabulary). Utilice la palabra en la columna llamada controlled value. Se presentan los vocabularios más comunes a continuación:
@@ -3849,7 +3849,7 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 | unaided | Sin ayuda |
 |    |    |
 
-<a name="elem371">**occurrenceStatus** (Estado del registro biológico)</a>
+<a name="vc_occurrenceStatus">**occurrenceStatus** (Estado del registro biológico)</a>
 
 |  Vocabulario |  Definición  |
 | ---|--- |
@@ -3859,7 +3859,7 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 | absent | Ausente. Es obligatorio el uso del vocabulario en ingles para los registros marino-costeros. |
 |    |    |
 
-<a name="elem372">**continent** (Continente)</a>
+<a name="vc_continent">**continent** (Continente)</a>
 
 |  Vocabulario |
 | ---|
@@ -3872,14 +3872,14 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 | Antártida |
 |    |
 
-<a name="elem373">**countryCode** (Código del país)</a>
+<a name="vc_countryCode">**countryCode** (Código del país)</a>
 
 |    |
 | ---|--- |
 | Utilizar el vocabulario controlado de la norma ISO 3166-1-alfa-2 de códigos de países. Solamente se usan 2 letras en mayúscula, consulte la información en la página [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO) |
 |    |
 
-<a name="elem374">**threatStatus** (Estado de amenaza)</a>
+<a name="vc_threatStatus">**threatStatus** (Estado de amenaza)</a>
 
 |  Vocabulario |  Definición  |
 | ---|--- |
@@ -3896,7 +3896,7 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 | NE | Especies no evaluadas en términos de estado de amenaza |
 |    |    |
 
-<a name="elem375">**appendixCITES** (Apéndice CITES)</a>
+<a name="vc_appendixCITES">**appendixCITES** (Apéndice CITES)</a>
 
 |  Vocabulario |  Definición  |
 | ---|--- |
@@ -3905,7 +3905,7 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 | III | Apéndice III que incluye las especies que sujetas a regulación dentro de cualquier jurisdicción con el propósito de prevenir o restringir la explotación, y que necesitan la cooperación de otras Partes en el control del comercio. |
 |    |    |
 
-<a name="elem376">**type** (Tipo)</a>
+<a name="vc_multimedia_type">**type** (Tipo)</a>
 
 |  Vocabulario |  Definición  |
 | ---|--- |
