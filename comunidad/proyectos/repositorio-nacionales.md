@@ -16,7 +16,7 @@ composition:
 
 
 
-### ¡Esta es una lista en construcción de los proyectos nacionales con participación de SiB Colombia!
+### Esta es una lista en construcción de los proyectos nacionales con participación del SiB Colombia
 
 
 
