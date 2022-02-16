@@ -44,7 +44,7 @@ estadisticas:
 
 noticias:
   features:
-   - preTitle: Blog
+    - preTitle: Blog
     title: Tutorial para limpiar y validar datos
     description: |      # required
       Open Refine es un software abierto que procesa datos de manera masiva. 
