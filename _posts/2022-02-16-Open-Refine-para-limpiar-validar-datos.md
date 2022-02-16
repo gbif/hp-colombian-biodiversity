@@ -3,7 +3,7 @@ preTitle: 2022-02-16
 title:  "Open Refine para limpiar y validar datos sobre biodiversidad de Colombia"
 date: 16 de febrero de 2022
 categories: ["Tutoriales", "Open Refine", "Datos", "Formación"]
-background: /assets/images/noticias_eventos/2022/2022-02-16-open-refine.png
+background: /assets/images/noticias_eventos/2022/2022-02-16-open-refine.jpg
 
 ---
 El estudio de la biodiversidad de Colombia se hace desde múltiples frentes distintos. Desde el SiB Colombia nos encargamos de estudiarla a través de los datos abiertos, donde buscamos facilitar el procesamiento y la publicación de los mismos. **Una de las herramientas que utilizamos para limpiar y validar datos es Open Refine, un software abierto para el procesamiento masivo y automatizado**. Mediante la aplicación de filtros y rutas de limpieza, se optimiza el tiempo de trabajo cuando se revisa de manera exhaustiva un conjunto de datos para su publicación.
@@ -27,4 +27,4 @@ También es posible conectar Open Refine con muchos otros servicios externos uti
 
 Por último, el video [¿Cómo usar Open Refine?](https://www.youtube.com/watch?v=etfFcchjP1Q) es una introducción a las funciones más utilizadas de este software.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/etfFcchjP1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/etfFcchjP1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
