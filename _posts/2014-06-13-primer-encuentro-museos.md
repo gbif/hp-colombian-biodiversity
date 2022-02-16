@@ -5,9 +5,9 @@ categories: ["Biodiversidad", "Museos", "2014","Historia natural"]
 background: /assets/images/noticias_eventos/2014/2014-06-13-primer-encuentro-museos-fondo.jpg
 ---
 
-Será un escenario para visibilizar a los Museos de Historia Natural a partir de una estrategia de difusión que incluirá medios masivos de comunicación (periódico, radio, televisión y redes sociales). Se espera una amplia participación de estudiantes y de un público no especializado, que encuentre en el evento una experiencia enriquecedora y motivadora para convertirse en un asiduo visitante de los Museos y sobre todo en un promotor de su valor, importancia y de su opción como un espacio para el aprendizaje y la diversión.  
+Este encuentro será un escenario para visibilizar a los Museos de Historia Natural a partir de una estrategia de difusión que incluirá medios masivos de comunicación (periódico, radio, televisión y redes sociales). Se espera una amplia participación de estudiantes y de un público no especializado, que encuentre en el evento una experiencia enriquecedora y motivadora para convertirse en un asiduo visitante de los museos y sobre todo en un promotor de su valor, importancia y de su opción como un espacio para el aprendizaje y la diversión.  
 
-Además será una oportunidad para intercambiar experiencias entre los coordinadores y personas encargadas del área de comunicación, difusión o educación y un espacio para proponer estrategias que permitan seguir posicionando a los Museos de Historia Natural de un país megadiverso como Colombia, como lugares de estratégicos para la conservación de nuestra memoria natural y escenarios por excelencia para el aprendizaje y la valoración de la biodiversidad tanto en locales como extranjeros.
+Además, será una oportunidad para intercambiar experiencias entre los coordinadores y personas encargadas del área de comunicación, difusión o educación y un espacio para proponer estrategias que permitan seguir posicionando a los Museos de Historia Natural de un país megadiverso como Colombia, como lugares de estratégicos para la conservación de nuestra memoria natural y escenarios por excelencia para el aprendizaje y la valoración de la biodiversidad tanto en locales como extranjeros.
  
 
 **Fecha:** 8 y 9 de septiembre de 2014.
