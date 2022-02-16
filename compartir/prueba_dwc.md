@@ -9,6 +9,21 @@ height: 41vh
 toc: true
 ---
 
+El estándar **Darwin Core (DwC)** permite la consolidación de datos sobre biodiversidad para compartir, usar y rehusar la información de manera organizada, clara y completa.
+
+El modelo de datos conceptual del **DwC** es un esquema en estrella con una única tabla, mejor conocida como _core_. Los _core_ del **DwC** son: **listas de especies**, **registros biológicos** o registros de **eventos de muestreo**. El **DwC** está compuesto por **categorías** que se utilizan para agrupar conjuntos de **elementos** de acuerdo a su naturaleza. Cada **elemento** a su vez, está compuesto por una definición, especificaciones y requerimientos. Los **elementos** pueden hacer parte de todos o algunos de los _core_.
+  
+Adicionalmente, existen **extensiones** que se pueden asociar opcionalmente al _core_. No es posible vincular tablas de **extensión** a otras tablas de **extensión** y por eso se cataloga como un modelo en estrella. Las **extensiones** también están conformadas por **elementos** los cuales son usados para documentar información adicional y específica que no se relaciona dentro del _core_ (ej., descripción de las especies, rasgos funcionales, información genética, entre otros). Las **extensiones** pueden ser compatibles con todos o algunos de los _core_.
+
+A continuación se presenta una descripción fácil del **DwC**, la cual contiene a mano derecha una tabla de contenido con las **categorías** y **extensiones** del estándar, que llevan a su vez al listado de **elementos** que conforman cada **categoría** o **extensión**. Dentro del listado de **elementos** es posible dirigirse directamente al **elemento** de interés en donde se encontrará la siguiente información detallada:
+
+-	**Definición**: Texto que permite la comprensión del **elemento**.
+-	**Comentarios**:  Texto adicional que complementa, a manera de anotación, la información de la definición.
+-	**Ejemplo**: Ejemplos textuales que hacen referencia a cómo se puede documentar el **elemento**.
+-	**Elementos relacionados**: **Elementos** del estándar **DwC** que tienen relación estrecha con el **elemento** que esta siendo descrito.
+-	_**Core (Obligatoriedad)**_: _core_ al que hace parte el elemento y su obligatoriedad dentro de cada uno de estos (opcional, condicional, obligatorio). 
+-	**Vocabulario controlado**: Opciones de textos preestablecidos que deben documentarse de manera obligatoria dentro del elemento. No se puede documentar información diferente a la relacionada en los vocabularios controlado.
+
 ## Categorías DwC
 
 ### Elementos de Registro
@@ -96,7 +111,6 @@ toc: true
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <a name="elem008">**datasetID** (ID del conjunto de datos)</a>
-
 
 |    |    |
 | ---|--- |
