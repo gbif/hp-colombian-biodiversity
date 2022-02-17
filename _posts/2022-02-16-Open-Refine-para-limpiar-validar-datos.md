@@ -12,7 +12,7 @@ El estudio de la biodiversidad de Colombia se hace desde múltiples frentes dist
 
 A menudo, **Open Refine es comparado con Excel**; pero, en realidad, son herramientas diferentes. La primera diferencia, es que en Open Refine no se pueden agregar nuevas filas de datos, como en Excel; resulta ser más adecuado para explorar, limpiar y vincular datos. Excel es útil para reorganizar información en conjuntos de datos que ya están limpios; por otra parte para conjuntos de datos desorganizados y difíciles de homogeneizar, donde las columnas contienen formatos distintos de números y texto, **Open Refine es la herramienta indicada.** 
 
-Al validar y limpiar datos sobre biodiversidad, estos pueden encontrarse en formatos, idiomas y estándares diferentes. ¿**Cómo organizar un conjunto de datos** que contiene información no estandarizada, por ejemplo: en la celda donde se cita un autor, este aparece como “Juan García”, “juan garvía” (sic), “J. García” o “García, J”? Open Refine permite solucionar este tipo de problemas, y muchos otros, de manera rápida y fácil. 
+Al validar y limpiar datos sobre biodiversidad, estos pueden encontrarse en formatos, idiomas y estándares diferentes. ¿**Cómo organizar un conjunto de datos que contiene información no estandarizada**, por ejemplo: en la celda donde se cita un autor, este aparece como “Juan García”, “juan garvía” (sic), “J. García” o “García, J”? Open Refine permite solucionar este tipo de problemas, y muchos otros, de manera rápida y fácil. 
 
 Open Refine puede usarse para depurar todo tipo de datos y, lo mejor, es de código abierto. En el contexto del manejo de información sobre biodiversidad, **es recomendable que se siga el estándar Darwin Core.**
 
