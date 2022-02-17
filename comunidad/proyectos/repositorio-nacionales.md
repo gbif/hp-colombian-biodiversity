@@ -31,7 +31,7 @@ composition:
 | [Alianza ANDI -SiB Colombia](https://biodiversidad.co/acercade/aliados/andi)    | 2020 - en progreso    | Incentivar la participación del sector empresarial en la creación de datos sobre biodiversidad en Colombia     |
 |[Portal de Información de Tráfico Ilegal de Fauna Silvestre - PIFS](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/pifs)|2019 - 2020|Apoyar la toma de decisiones con respecto al tráfico ilegal de fauna silvestre con información rigurosa y dar cumplimiento a lo establecido por ley 1333 de 2009|
 |[Experiencia piloto para la construcción de la línea base regional del área priorizada en los departamentos de Putumayo, Caquetá y Nariño - Medio Biótico](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/anh-putumayo)|2020|Construir la línea base regional del medio biótico del Putumayo para facilitar procesos de planeación productivos y sostenibles|
-|[Boyacá BIO](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/boyaca-bio)|2019|Responder preguntas fundamentales sobre el estado de la biodiversidad en la región de Boyacá de manera eficaz y oportuna|
+|[Boyacá BIO](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/boyaca-bio)|2018-2019|Responder preguntas fundamentales sobre el estado de la biodiversidad en la región de Boyacá de manera eficaz y oportuna|
 |[Santander BIO](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/santander-bio)|2018-2019|Responder preguntas fundamentales sobre el estado de la biodiversidad en la región de Santander de manera eficaz y oportuna|
 
 
