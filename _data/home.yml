@@ -50,7 +50,7 @@ noticias:
       description: |      # required
         Open Refine es un software abierto que procesa datos de manera masiva. 
       # img required
-      background: /assets/images/noticias_eventos/2022-02-16-open-refine.jpg
+      background: /assets/images/noticias_eventos/2022/noticias_eventos/2022-02-16-open-refine.jpg
       cta:
       - text: Ver más
         href: post/2022/open-refine-para-limpiar-validar-datos/
