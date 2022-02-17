@@ -2,7 +2,7 @@
 preTitle: 2022-02-08
 title: "Convocatoria 2022 al Premio GBIF para Jóvenes Investigadores"
 date:  2022-02-08
-categories: ["GBIF", "Young Researchers Award", "Convocatorias"]
+categories: ["GBIF", "Young Researchers Award", "Convocatorias", "2022"]
 background: /assets/images/noticias_eventos/2022/2022-02-08-jovenes-investigadores-GBIF.png
 
 ---
