@@ -14,7 +14,7 @@ stats:
       description: Conjuntos de datos
       background: /assets/images/landing_page/iconos_cifras/ico_conjuntoDatos_gris.png
       href: https://www.gbif.org/dataset/search?publishing_country=CO
-    - title: 4,919
+    - title: 5,348
       description: Fichas de especies
       background: /assets/images/landing_page/iconos_cifras/ico_fichaEspecies_gris.png
       href: https://catalogo.biodiversidad.co/
