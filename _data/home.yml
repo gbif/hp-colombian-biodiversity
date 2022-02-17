@@ -46,15 +46,15 @@ noticias:
   features:
 
     - preTitle: Blog
-    title: Tutorial para limpiar y validar datos
-    description: |      # required
-      Open Refine es un software abierto que procesa datos de manera masiva. 
-    # img required
-    background: /assets/images/noticias_eventos/2022-02-16-open-refine.jpg
-    cta:
-    - text: Ver más
-      href: post/2022/open-refine-para-limpiar-validar-datos/
-      isPrimary: false
+      title: Tutorial para limpiar y validar datos
+      description: |      # required
+        Open Refine es un software abierto que procesa datos de manera masiva. 
+      # img required
+      background: /assets/images/noticias_eventos/2022-02-16-open-refine.jpg
+      cta:
+      - text: Ver más
+        href: post/2022/open-refine-para-limpiar-validar-datos/
+        isPrimary: false
  
     - preTitle: Convocatorias
       title: Premio GBIF a Jóvenes Investigadores 2022
