@@ -10,7 +10,7 @@ La práctica de extraer datos de biodiversidad de la literatura científica sigu
 
 Los documentos, presentaciones y videos utilizados en el taller están disponibles [en línea](http://www.recibio.net/taller-i3b-documentacion-digital/?postTabs=2){:target="_blank"}.  
 
-<img src="/comunidad/proyectos/images/CESP2014-DOCUMENTACION-DIGITAL-BIOTA-COLOMBIANA.jpg" width=770>
+<img src="/comunidad/proyectos/images/cesp2014-documentacion-digital-biota-colombiana.jpg" width=770>
 
 **Financiación:** €8.000
 
