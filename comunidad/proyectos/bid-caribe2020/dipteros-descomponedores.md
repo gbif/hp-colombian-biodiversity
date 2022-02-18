@@ -24,7 +24,7 @@ Este proyecto contribuirá a movilizar datos biológicos de moscas descomponedor
 **Tipo de subvención:** Subvención pequeña  
 **Duración:** 1 de julio de 2021 - 30 de junio de 2023  
 **Programa BID:** [Biodiversity Information for Development](https://www.gbif.org/es/programme/82243){:target="_blank"}  
-**Identificador del proyecto:** BID-CA2020-030-USE  
+**Identificador del proyecto:**  BID-CA2020-056-INS
 **Financiado por:** Unión Europea y GBIF  
 **Socios:**
 - Universidad de Campinas  
