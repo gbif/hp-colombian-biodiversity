@@ -4,6 +4,8 @@ title:  "Santander BIO "
 description: Ventana Regional para Santander
 ---
 
+<img src="/comunidad/proyectos/images/home-ventana-santander.jpg" width=770>
+
 ## Santander BIO 
 
 El Equipo Coordinador del SiB Colombia desarrolló la primera ventana regional del país de datos sobre biodiversidad. La región para la cuál se hizo esto es el departamento de Santander, como parte de su estrategia de regionalización. La ventana es una instancia web que sintetiza el estado del conocimiento de la biodiversidad a nivel departamental a partir de la actividad de publicación a través del SiB Colombia.
