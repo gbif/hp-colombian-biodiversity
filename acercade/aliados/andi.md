@@ -33,7 +33,7 @@ Esta alianza cree en la construcción, uso y democratización del conocimiento a
 
 En este sentido, la alianza busca:
 
-1. Incrementar la contribución del sector empresarial al conocimiento de la biodiversidad a través de los datos abiertos:
+1. Incrementar la contribución del sector empresarial al conocimiento de la biodiversidad a través de los datos abiertos.<br></br>
  
 2. Mejorar las capacidades de las empresas en los procesos de gestión, estandarización y publicación de datos a través del SiB Colombia.
 
@@ -182,6 +182,8 @@ Los conjuntos de datos publicados a la fecha, en el marco de esta alianza, está
 ### Las empresas que ya publican datos a través del SiB Colombia
 
 En la siguiente tabla puede encontrar el listado completo de empresas con los respectivos enlaces a sus perfiles como publicadores en GBIF y en nuestro [Portal de Listas de Especies](https://listas.biodiversidad.co/).
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vScY_Y13XaKRGz4Zkbbv2Da_lba-p4QdN9W6QNarJ7wfNZC4nmIW98jPz9t5LJ_r9H9PBwNbS3eGB77/pubhtml" width="98%" height="920" style="border:none;"></iframe>
 
 ||Empresas|Conjuntos de datos|Registros biológicos|Listas de especies|Citaciones|
 |---:|:---|---:|---:|---:|---:|
