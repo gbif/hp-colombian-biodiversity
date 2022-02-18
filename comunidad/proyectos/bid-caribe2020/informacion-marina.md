@@ -24,8 +24,8 @@ Los datos se movilizarán a la red OBIS-GBIF, lo que ayudará a cumplir la meta 
 **Tipo de subvención:** Subvención nacional  
 **Duración:** 1 de julio de 2021 - 30 de junio de 2023  
 **Programa BID:** [Biodiversity Information for Development](https://www.gbif.org/es/programme/82243){:target="_blank"}  
-**Identificador del proyecto:** BID-CA2020-055-NAC  
-**Financiado por:** Unión Euriopea y GBIF  
+**Identificador del proyecto:** BID-CA2020-055-NAC 
+**Financiado por:** Unión Europea y GBIF  
 **Socios:**
 - Colección Estuarina y Marina de la Universidad de Antioquia - CEMUA   
 - Colección de Biología Universidad del Magdalena - CBUMAG  
