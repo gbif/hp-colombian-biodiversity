@@ -1,5 +1,6 @@
 ---
 layout: heroImage
+permalink: /empresas
 title: Datos abiertos sobre biodiversidad desde el sector empresarial
 description: Una contribución al conocimiento de la biodiversidad
 background: https://live.staticflickr.com/1639/24849064810_c404bc7e0b_h.jpg
@@ -11,22 +12,22 @@ toc: true
 
 <img src="/acercade/imagenes/FooterAlianzaANDI.png">
 
-Los datos sobre biodiversidad son esenciales para planificar, implementar y monitorear estrategias de conservación y uso sostenible. De igual forma son piedra angular para entender los factores que contribuyen a la pérdida de la biodiversidad,  permitiendo identificar patrones y cambios a través del tiempo y el espacio. Sin embargo, estos datos no siempre son fácilmente accesible, o se presentan en formatos que dificultan su interpretación y la interoperabilidad entre distintas fuentes.
+Los datos sobre biodiversidad son esenciales para planificar, implementar y monitorear estrategias de conservación y uso sostenible. De igual forma son piedra angular para entender los factores que contribuyen a la pérdida de la biodiversidad,  permitiendo identificar patrones y cambios a través del tiempo y el espacio. Sin embargo, estos datos no siempre son fácilmente accesibles, o se presentan en formatos que dificultan su interpretación y la interoperabilidad entre distintas fuentes.
 
-Por esta razón, el SiB Colombia y la Asociación Nacional de Empresarios de Colombia (ANDI) a través de su iniciativa “Biodiversidad y Desarrollo”, consolidan esta alianza que busca elevar la contribución del sector empresarial al conocimiento de la biodiversidad, convocando, facilitando e integrando su participación como sector productivo.
+Por esta razón, el SiB Colombia y la Asociación Nacional de Empresarios de Colombia (ANDI) a través de su iniciativa “Biodiversidad y Desarrollo”, consolidan esta alianza que busca elevar la contribución del sector empresarial al conocimiento de la biodiversidad; convocando, facilitando e integrando su participación como sector productivo.
 
 Junto con las universidades, los institutos de investigación y las agencias gubernamentales, el sector empresarial puede desempeñar un rol clave, a través de las cientos de evaluaciones de impacto ambiental, inventarios, colectas, monitoreo de áreas de compensación, entre otros, que anualmente producen miles de datos sobre biodiversidad.
 
-Solamente el sector empresarial representado por la ANDI, agrupa cerca de 1200 empresas (35 – 55% del PIB), de los cuales, 80 son empresas del sector minero-energético (8.4% PIB). Sin embargo, los datos disponibles a través del SiB Colombia por parte del sector productivo representan menos del 0.5% del total de datos.
+Solamente el sector empresarial representado por la ANDI, agrupa cerca de 1.200 empresas (35 - 55% del PIB), de los cuales, 80 son empresas del sector minero-energético (8,4% PIB). Sin embargo, los datos disponibles a través del SiB Colombia por parte del sector productivo representan menos del 0,5% del total de datos.
 
 Esta alianza surge como una gran oportunidad para garantizar la participación del sector empresarial a nivel nacional e internacional, acelerando la generación de conocimiento de nuestra biodiversidad a partir de la publicación de datos a través del SiB Colombia de una manera organizada y sistemática.
 
-# Conoce la guía para compartir datos a través del SiB Colombia y GBIF
+## Guía para compartir datos a través del SiB Colombia y GBIF
+Las empresas que publican a través de GBIF son parte de una amplia lista de organizaciones que siguen principios de conservación y uso sostenible.
 
+[Descargar guía](/acercade/imagenes/libro-andi.pdf){: .button .is-primary :}{:target="_blank"}
 
-[Descargue aquí la guía](/acercade/imagenes/libro-andi.pdf){: .button .is-primary :}
-
-# ¿Qué se busca con la alianza?
+## ¿Qué se busca con la alianza?
 
 Esta alianza cree en la construcción, uso y democratización del conocimiento a partir de los datos sobre biodiversidad compartidos por el sector empresarial, mejorando la toma de decisiones y la calidad de vida de las personas.
 
@@ -35,13 +36,19 @@ En este sentido, la alianza busca:
 1. Incrementar la contribución del sector empresarial al conocimiento de la biodiversidad a través de los datos abiertos:
  
 2. Mejorar las capacidades de las empresas en los procesos de gestión, estandarización y publicación de datos a través del SiB Colombia.
-3. Facilitar la creación de sinergias que permitan evitar la duplicación de esfuerzos y deriven en datos con mejor calidad y alcance.
-4. Visibilizar y reconocer al sector como una de las fuentes más importantes de datos sobre biodiversidad del país.
-5. Apoyar la ciencia abierta y los datos abiertos, eliminando las barreras al acceso libre de los datos y adoptando los principios FAIR.
-6. Proporcionar una plataforma para el conocimiento de la biodiversidad a través de la conservación y el desarrollo.
-7. Adelantar análisis temáticos, sectoriales y regionales frente a la contribución del sector empresarial al conocimiento de la biodiversidad.
 
-# Arquitectura
+3. Facilitar la creación de sinergias que permitan evitar la duplicación de esfuerzos y deriven en datos con mejor calidad y alcance.
+
+5. Visibilizar y reconocer al sector como una de las fuentes más importantes de datos sobre biodiversidad del país.
+
+6. Apoyar la ciencia abierta y los datos abiertos, eliminando las barreras al acceso libre de los datos y adoptando los principios FAIR.
+
+7. Proporcionar una plataforma para el conocimiento de la biodiversidad a través de la conservación y el desarrollo.
+
+8. Adelantar análisis temáticos, sectoriales y regionales frente a la contribución del sector empresarial al conocimiento de la biodiversidad.
+
+
+## Arquitectura
 
 La alianza cuenta con la siguiente arquitectura:
 
@@ -52,78 +59,127 @@ El SiB Colombia como iniciativa nacional formaliza una agenda 2020-2022 con la A
 En esta alianza cada actor cumple un rol, así:
 
 - **SIB Colombia**: orienta, facilita, integra y visibiliza la información sobre  biodiversidad del sector empresarial a través de las instancias nacionales e internacionales en las que participa. Promueve de la mano con la ANDI y ANLA, análisis estratégicos y espacios de diálogo.
+
 - **ANDI**: articula, representa y promueve la participación colectiva y en red del sector empresarial, la generación de espacios de conocimiento, diálogo y desarrollo de instrumentos alrededor del SiB Colombia.
+
 - **ANLA**: acompaña el esquema a través de la Agenda ANLA–ANDI 2019-2022 y mesas de trabajo técnicas con SiB Colombia y empresas. Orienta la mejora continua de instrumentos que facilitan y promueven la generación de datos abiertos del sector empresarial en el marco del licenciamiento ambiental.
+
 - **Empresas**: participan, contribuyen y generan datos abiertos sobre biodiversidad para el país a través del SiB Colombia.
 
 Esta alianza por los datos abiertos sobre biodiversidad desde el sector empresarial, inicia colectivamente con ANDI, e invita a otras empresas y sectores a sumarse a esta iniciativa, en pro de una gestión oportuna y eficiente de datos sobre biodiversidad en el país.
 
 
-# ¿Te perdiste nuestro webinar? revívelo aquí
+## Webinar de la alianza Datos abiertos sobre biodiversidad desde el sector empresarial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UwQLU27jFa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+¿Te perdiste nuestro webinar? revívelo aquí:
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/UwQLU27jFa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 
-# Ventajas de publicar datos a través del SiB Colombia
+## Ventajas de publicar datos a través del SiB Colombia
 
-La publicación de datos sobre biodiversidad a través del SiB Colombia es una actividad que podría ser altamente visible a nivel nacional e internacional, ayudando a consolidar la reputación de la empresa como referencia en el área de sostenibilidad ambiental. De hecho, la publicación de datos a través del SiB Colombia se considera muy importante dentro del CDB e incluso ha sido elegida como uno de los indicadores de las Metas Aichi 2010-2020 (Meta 19). Los datos publicados a través del SiB Colombia también contribuyen a las Metas Aichi 9 (especies invasoras), 11 (áreas protegidas) y 12 (especies amenazadas). Asimismo, estos datos son relevantes también para la evaluación de los ODS 14 (vida submarina) y 15 (vida de ecosistemas terrestres). Al contribuir a estos objetivos, la empresa también mejorará su perfil ambiental y social al aumentar el retorno de la inversión inicialmente realizada para obtener estos datos. El SiB Colombia está muy interesado en consolidar y difundir nuevos estudios de caso, y la movilización de datos desde el sector empresarial es actualmente un objetivo importante de la iniciativa nacional y para GBIF. Este proceso podría contribuir favorablemente al desempeño de la organización en el Índice de Sostenibilidad Dow Jones y la evaluación de la empresa en el marco de los Principios del Ecuador.
+La publicación de datos sobre biodiversidad, a través del SiB Colombia, es una actividad con un **alto potencial de visibilidad a nivel nacional e internacional** y puede, además, ayudar a consolidar la reputación de la empresa como referencia en el área de sostenibilidad ambiental. 
 
-Otra ventaja relevante de este proceso será sentar las bases para mejorar el modelo de gestión de datos recopilados en los procesos de evaluación del impacto ambiental, así como el monitoreo del impacto y las medidas compensatorias. La recolección de estos datos implica estudios muy costosos, sin embargo el valor agregado de los recolectados, en muchas ocasiones, es escaso debido a la forma ineficiente en que posteriormente se maneja. Por esta razón, la información generalmente se pierde o es de difícil acceso y, por lo tanto, no contribuye a los procesos internos de aprendizaje, al reuso de la información recopilada, ni a la gestión ambientalmente sostenible de las infraestructuras en operación.
+De hecho, la publicación de datos a través del SiB Colombia se considera importante dentro del CDB e incluso ha sido elegida como uno de los indicadores de las Metas Aichi 2010-2020 (Meta 19), estos contribuyen a las Metas Aichi 9 (especies invasoras), 11 (áreas protegidas) y 12 (especies amenazadas). 
+
+Asimismo, estos datos son relevantes para la evaluación de los ODS 14 (vida submarina) y 15 (vida de ecosistemas terrestres). 
+
+Al contribuir a estos objetivos, la empresa también mejorará su perfil ambiental y social, al aumentar el retorno de la inversión inicialmente realizada para obtener los datos. 
+
+El SiB Colombia está muy interesado en consolidar y difundir nuevos estudios de caso, y la movilización de datos desde el sector empresarial es actualmente un objetivo importante de la iniciativa nacional y para GBIF. 
+
+**Este proceso podría contribuir favorablemente al desempeño de la organización en el Índice de Sostenibilidad Dow Jones y la evaluación de la empresa en el marco de los Principios del Ecuador.**
+
+Otra ventaja relevante de este proceso será sentar las bases para mejorar el modelo de gestión de datos recopilados en los procesos de evaluación del impacto ambiental, así como el monitoreo del impacto y las medidas compensatorias. La recolección de estos datos implica estudios muy costosos, sin embargo el valor agregado de los recolectados, en muchas ocasiones, es escaso debido a la forma ineficiente en que posteriormente se maneja. 
+
+Por esta razón, la información generalmente se pierde o es de difícil acceso y, por lo tanto, no contribuye a los procesos internos de aprendizaje, al reuso de la información recopilada, ni a la gestión ambientalmente sostenible de las infraestructuras en operación.
 
 La publicación de datos a través del SiB Colombia en interconexión con GBIF, ofrece motivación y herramientas adicionales para los procesos de gestión de este tipo de datos, lo que podría ser potencialmente escalable para la empresa a nivel nacional e internacional.
 
 En resumen, de acuerdo con el informe *Digitally Transforming Environmental Assessment*, cuando las empresas privadas publican sus datos sobre biodiversidad, los resultados que se obtienen son los siguientes:
 
 1. Mayor facilidad en la búsqueda de información.
+
 2. Optimización de los muestreos detallados en campo.
+
 3. Información más completa en las etapas previas de una EIA, reduciendo la necesidad de una EIA formal (ahorro de tiempo de 6 a 18 meses).
+
 4. Mejoramiento en los datos de monitoreo, minimizando el riesgo de suspensión temporal en las operaciones debido a un incumplimiento de la legislación.
+
 5. Aumento de la confianza en las empresas con conciencia ambiental para la inversión empresarial y futuras asociaciones.
+
 6. Mejoramiento de las probabilidades de acceso a los mercados.
+
 7. Confianza y seguridad en las decisiones ambientales, con el uso de herramientas y datos abiertos que las hará más transparentes.
+
 8. Aumento en la confianza de los inversores y la comunidad, generando un interés continuo en el desarrollo empresarial otorgado por organismos públicos.
+
 9. Mejoramiento en las herramientas para evaluar la escala del impacto, el valor, el tipo y éxito de cualquier compensación propuesta, al procesar datos de fácil acceso.
 
-# Datos que podría publicar la empresa a través del SiB Colombia
+## Datos que podría publicar la empresa a través del SiB Colombia
 
-Las empresas que realizan Estudios de Impacto Ambiental (EIA), Diagnósticos Ambientales de Alternativas (DAA), Planes de Manejo Ambiental (PMA), Informes de Cumplimiento Ambiental (ICA), monitoreo de áreas de compensación, entre otros, recolectan datos de abundancia y presencia de especies que podrían ser publicarlos a través del SiB Colombia. Muchos de estos datos son recolectados en áreas que carecen de esfuerzos de muestreo y son menos conocidas, o tienen grupos biológicos que están subrepresentados y, por lo tanto, serían valiosos para la comunidad científica, para agencia de gobierno nacional,  y para organizaciones internacionales como CDB, IPBES o GEO BON. Incluso los datos de estudios en áreas más conocidas podrían ser de gran valor, permitiendo llenar los vacíos de información y mejorar las representaciones en el tiempo. Por lo tanto, todos los datos recolectados por la empresa como parte de su operación, podrían publicarse a través del SiB Colombia sin perjuicio de la necesidad de proteger la propiedad intelectual o la confidencialidad transitoria o permanente de la información. Si los datos incluyen información sensible, como la ubicación de especies amenazadas o con algún valor económico, se recomienda aplicar prácticas para generalizar esta información. De este modo, los datos recolectados por empresas privadas pueden ser publicados a través del SiB Colombia en un período relativamente corto, siempre que se siga el modelo de publicación y el formato de los datos sea adaptado a la estructura requerida (Darwin Core). Además, el SiB Colombia puede proporcionar toda la asistencia técnica necesaria durante el proceso de estandarización a través de su Equipo Coordinador.
+Las empresas que realizan Estudios de Impacto Ambiental (EIA), Diagnósticos Ambientales de Alternativas (DAA), Planes de Manejo Ambiental (PMA), Informes de Cumplimiento Ambiental (ICA), monitoreo de áreas de compensación, entre otros, recolectan datos de abundancia y presencia de especies que podrían ser publicarlos a través del SiB Colombia. 
 
-# Requisitos para que una empresa sea publicadora de datos a través del SiB Colombia
+Muchos de estos datos son recolectados en áreas que carecen de esfuerzos de muestreo y son menos conocidas, o tienen grupos biológicos que están subrepresentados y, por lo tanto, serían valiosos para la comunidad científica, para agencias de gobierno nacional, y para organizaciones internacionales como CDB, IPBES o GEO BON. Incluso los datos de estudios en áreas más conocidas podrían ser de gran valor, permitiendo llenar los vacíos de información y mejorar las representaciones en el tiempo. 
+
+Por lo tanto, todos los datos recolectados por la empresa como parte de su operación, podrían publicarse a través del SiB Colombia sin perjuicio de la necesidad de proteger la propiedad intelectual o la confidencialidad transitoria o permanente de la información. 
+
+Si los datos incluyen información sensible, como la ubicación de especies amenazadas o con algún valor económico, se recomienda aplicar prácticas para generalizar esta información. De este modo, los datos recolectados por empresas privadas pueden ser publicados a través del SiB Colombia en un período relativamente corto, siempre que se siga el modelo de publicación y el formato de los datos sea adaptado a la estructura requerida (Darwin Core). 
+
+Además, el SiB Colombia puede proporcionar toda la asistencia técnica necesaria durante el proceso de estandarización a través de su Equipo Coordinador.
+
+## Requisitos para que una empresa sea publicadora de datos a través del SiB Colombia
 
 Para llegar a ser un publicador de datos sobre biodiversidad a través del SiB Colombia, es necesario que primero haya una decisión de las directivas de la empresa. Posteriormente, es necesario completar una serie de pasos que son comunes para cualquier organización que desee publicar datos a través del SiB Colombia:
 
-- Garantizar una gestión institucional para asegurar que todas las partes involucradas en el proceso, desde la coordinación de los socios que generan los datos, estén de acuerdo en la publicación de los datos y los términos por los cuales se lleva a cabo;
-- Reconocer y aceptar la política para la publicación de datos;
-- Tener conocimiento de la política para el uso de datos, el cual los usuarios de datos del SiB Colombia aceptan previamente;
+- Garantizar una gestión institucional para asegurar que todas las partes involucradas en el proceso, desde la coordinación de los socios que generan los datos, estén de acuerdo en la publicación de los datos y los términos por los cuales se lleva a cabo.
+
+- Reconocer y aceptar la política para la publicación de datos.
+
+- Tener conocimiento de la política para el uso de datos, el cual los usuarios de datos del SiB Colombia aceptan previamente.
+
 - Solicitar el registro de la organización en SiB Colombia y GBIF como publicador de datos. La solicitud de registro y aprobación se realiza en línea diligenciando un formulario.
 
 
-# Participación de diferentes partes en el proceso de publicación
+## Participación de diferentes partes en el proceso de publicación
 
-Dependiendo del tamaño de los proyectos en los que se originaron los conjuntos de datos, es posible que los datos sobre biodiversidad de la empresa hayan sido obtenidos a través de la contratación de otras empresas u organizaciones que llevaron a cabo el trabajo de muestreo. Esta es la situación más común en una EIA o estudio de monitoreo, donde los servicios de muestreo son subcontratados. La participación en el proceso de publicación de datos por parte de estos contratistas y técnicos de campo, que han observado o identificado especies, es deseable en la medida de lo posible. Estos técnicos pueden desempeñar un papel relevante, especialmente en la revisión de datos y metadatos, contribuyendo a una mejor descripción y calidad de los conjuntos de datos que se van a publicar. Por otro lado, es igualmente importante para ellos ser reconocidos y acreditados por su trabajo, asociandolos en los conjuntos de datos. Otra forma de asociar a los técnicos y a sus organizaciones con el conjunto de datos, es mediante la identificación de las partes asociadas al preparar los metadatos. Además, deben incluirse como coautores de los conjuntos de datos y en la citación recomendada al momento de su uso.
+Dependiendo del tamaño de los proyectos en los que se originaron los conjuntos de datos, es posible que los datos sobre biodiversidad de la empresa hayan sido obtenidos a través de la contratación de otras empresas u organizaciones que llevaron a cabo el trabajo de muestreo. Esta es la situación más común en una EIA o estudio de monitoreo, donde los servicios de muestreo son subcontratados. 
 
-# Desarrollando una fase piloto
+La participación en el proceso de publicación de datos por parte de estos contratistas y técnicos de campo, que han observado o identificado especies, es deseable en la medida de lo posible. Estos técnicos pueden desempeñar un papel relevante, especialmente en la revisión de datos y metadatos, contribuyendo a una mejor descripción y calidad de los conjuntos de datos que se van a publicar. 
+
+Por otro lado, es igualmente importante para ellos ser reconocidos y acreditados por su trabajo, asociandolos en los conjuntos de datos. Otra forma de asociar a los técnicos y a sus organizaciones con el conjunto de datos, es mediante la identificación de las partes asociadas al preparar los metadatos. Además, deben incluirse como coautores de los conjuntos de datos y en la citación recomendada al momento de su uso.
+
+## Desarrollando una fase piloto
 
 Una fase piloto de la publicación de datos a través del SiB Colombia permitirá identificar los pasos que hacen falta para realizar una publicación, generando una apropiación interna del modelo de publicación de datos, que va desde el procesamiento de datos sobre biodiversidad de la empresa, incluida la evaluación de los recursos internos y externos que deben asignarse.
 
 Esta fase podría desarrollarse con los siguientes pasos:
 
 1. Desarrollar los procesos internos de la empresa que conduzcan a la decisión de publicar datos sobre biodiversidad a través del SiB Colombia en una fase experimental.
+
 2. Solicitar el registro de la organización en el SiB Colombia y GBIF como publicador de datos.
+
 3. Desarrollar un estudio de caso sobre la participación de la empresa como publicador de datos con el SiB Colombia a escala nacional y con GBIF a escala internacional, dando visibilidad al proceso en todo el mundo y alentar la participación de otras empresas como publicadores de datos de biodiversidad.
+
 4. Seleccionar un conjunto de datos inicial para ser publicado a través del SiB Colombia. Este  debería proporcionar una buena representación de la diversidad de grupos taxonómicos y las tipologías de datos, con el fin de evaluar diferentes tipos de barreras potenciales relacionadas con la organización y la disponibilidad de la información.
+
 5. Definir el tipo de información que se publicará y cualquier restricción para su publicación, por ejemplo, debido a la presencia de especies amenazadas, información confidencial, datos pendientes de validación por agencias gubernamentales, etc. Se pueden publicar observaciones y colectas de una especie en un lugar y fecha  determinados, así como datos de abundancia.
+
 6. Establecer acuerdos con los productores de datos para salvaguardar los derechos de propiedad intelectual. Los productores de datos son las organizaciones y el personal contratado por la empresa para recolectar los datos para algún estudio.
+
 7. Estandarizar los datos que se publicarán de acuerdo con el estándar Darwin Core promovido por el SiB Colombia y GBIF.
+
 8. Seleccionar un tipo de licencia Creative Commons para los datos que serán publicados, que puede ser una de los siguientes: CC0, CC-BY, CC-BY-NC. Dependiendo de sus características, se puede asignar una de estas licencias para cada conjunto de datos.
+
 9. Publicar los datos y metadatos para cada conjunto de datos a través del portal  del SiB Colombia y GBIF. Se evaluarán las opciones de publicación de datos, en todos los casos utilizando la plataforma tecnológica desarrollada por GBIF, el IPT (Integrated Publishing Toolkit). El SiB Colombia dispone un IPT para alojar los conjuntos de datos de las organizaciones publicadoras en el país. Es importante precisar que el publicador de los datos es siempre la organización, no el SiB Colombia, y la organización es responsable de administrar los datos de forma autónoma (por ejemplo, cambiar, actualizar, etc.).
+
 10. Monitorear el uso de los datos publicados a través del SiB Colombia y GBIF, con la generación de estadísticas proporcionadas al publicador. Además, se hará seguimiento al uso que se haga de estos datos en publicaciones científicas, mediante la asignación de un identificador único (DOI) a cada conjuntos de datos publicado y también a cada conjunto de datos descargado.
 
 ## Resultados de publicación
 
-En el siguiente [enlace](https://www.gbif.org/project/2Zik1tfJoh3C92ZslvhDIr/openpsd-promoting-publication-and-use-of-private-sector-data-on-biodiversity#datasets){:target="_blank"} puede encontrar los conjuntos de datos publicados en el marco de la alianza a la fecha.
+Los conjuntos de datos publicados a la fecha, en el marco de esta alianza, están disponibles para consula el siguiente [enlace](https://www.gbif.org/project/2Zik1tfJoh3C92ZslvhDIr/openpsd-promoting-publication-and-use-of-private-sector-data-on-biodiversity#datasets){:target="_blank"}.
 
-# Las empresas que ya publican datos a través del SiB Colombia
+### Las empresas que ya publican datos a través del SiB Colombia
 
 En la siguiente tabla puede encontrar el listado completo de empresas con los respectivos enlaces a sus perfiles como publicadores en GBIF y en nuestro [Portal de Listas de Especies](https://listas.biodiversidad.co/).
 
@@ -160,11 +216,13 @@ En la siguiente tabla puede encontrar el listado completo de empresas con los re
 |<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-terrasos.png"></figure>|[TERRASOS](https://www.gbif.org/es/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825){:target="_blank"}|5|16.099||74|
 
 
-# El costo para las empresas
+## El costo para las empresas
 
-A parte del tiempo que pueda dedicar el personal de la empresa en la preparación de los datos para su publicación, no hay costos para la empresa. En todo caso, el trabajo necesario puede ser apoyado por el Equipo Coordinador del SiB Colombia, que tiene el conocimiento y la infraestructura necesaria para facilitar esta publicación. Además, este Equipo Coordinador podría crear capacidad sobre la publicación de datos a través del SiB Colombia, contribuyendo al fortalecimiento de capacidades de la empresa en las áreas de gestión de información sobre biodiversidad y calidad de datos.
+A parte del tiempo que pueda dedicar el personal de la empresa en la preparación de los datos para su publicación, no hay costos para la empresa. En todo caso, el trabajo necesario puede ser apoyado por el Equipo Coordinador del SiB Colombia, que tiene el conocimiento y la infraestructura necesaria para facilitar esta publicación. 
 
-# Acerca de la iniciativa Biodiversidad y Desarrollo de la ANDI
+Además, este Equipo Coordinador podría crear capacidad sobre la publicación de datos a través del SiB Colombia, contribuyendo al fortalecimiento de capacidades de la empresa en las áreas de gestión de información sobre biodiversidad y calidad de datos.
+
+## Acerca de la iniciativa Biodiversidad y Desarrollo de la ANDI
 
 La Iniciativa “Biodiversidad y Desarrollo” nace en el año 2014 en la ANDI como plataforma público-privada para conectar y contribuir desde la gestión empresarial con los planes, políticas y prioridades de la conservación de la biodiversidad del país, a través de acuerdos colectivos de trabajo, inversión, compensación y nuevos negocios, entre instituciones, grupos locales y empresas.
 
@@ -172,7 +230,7 @@ Esta iniciativa con sus socios nacionales, Parques Nacionales Naturales de Colom
 
 Biodiversidad y Desarrollo busca consolidarse como la Plataforma Nacional Biodiversidad y Negocios para Colombia, creando una red de redes de empresas, que contribuyan a los objetivos nacionales e internacionales de gestión de la conservación y uso sostenible de la biodiversidad en los territorios.
 
-# Acerca de GBIF
+## Acerca de GBIF
 
 La Infraestructura Mundial de Información en Biodiversidad es una organización intergubernamental establecida en 2001 para facilitar el intercambio libre y el acceso abierto a datos sobre biodiversidad, donde actualmente hay 59 países signatarios. GBIF proporciona un único punto de acceso ([www.gbif.org](www.gbif.org){:target="_blank"}) a más de mil millones de datos globales y es la red de biodiversidad más grande disponible a través de Internet. Los datos accesibles a través de GBIF se relacionan con registros de más de 1.6 millones de especies recolectadas durante tres siglos de exploración, custodiadas por Museos de Historia Natural, e incluyen observaciones recientes de ciudadanos, investigadores y programas de monitoreo automatizado, entre otros. Los datos descargados a través de GBIF se usaron entre 2018 y 2019 en más de 1.300 artículos científicos en revistas internacionales. A nivel mundial, GBIF tiene acuerdos y presta servicios directamente a iniciativas de formulación de políticas mundiales para la evaluación y conservación de la biodiversidad y el ambiente, como el Convenio sobre la Diversidad Biológica (CDB), la Plataforma Intergubernamental sobre Biodiversidad y Servicios Ecosistémicos (IPBES) y la Red de Observación de la Biodiversidad del Grupo de Observaciones de la Tierra (GEO BON).
 
@@ -181,7 +239,7 @@ En Colombia, la participación nacional en GBIF es facilitada por el SiB Colombi
 Esta alianza cuenta con el respaldo de GBIF y el proyecto [CESP OpenPSD: *Promoting publication and use of private-sector data on biodiversity*](https://www.gbif.org/project/2Zik1tfJoh3C92ZslvhDIr/openpsd-promoting-publication-and-use-of-private-sector-data-on-biodiversity#about){:target="_blank"}.
 
 
-# Preguntas frecuentes
+## Preguntas frecuentes
 
 Aquí puedes encontrar las preguntas que surgieron durante el webinar en el que se presentó la alianza al sector empresarial.
 
