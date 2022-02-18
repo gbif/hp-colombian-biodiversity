@@ -21,7 +21,7 @@ A través de los laboratorios obtendrá herramientas robustas para el manejo de 
 * Aplicar protocolos para la captura de datos con fines de publicación a través del SiB Colombia.
 * Aplicar protocolos y herramientas de estructuración, validación y limpieza para su publicación a través del SiB Colombia.
 
-### Fundamentos sobre la pulicación de datos
+### Fundamentos sobre la publicación de datos
 
 Para obetner el mayor provecho de los laboratiorios se recomienda ver los siguientes seminarios que dan un contexto sobre la publicación de los datos:
 
