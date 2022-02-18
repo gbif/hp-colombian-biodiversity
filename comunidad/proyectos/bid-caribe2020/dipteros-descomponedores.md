@@ -6,7 +6,6 @@ description: GBIF BID CARIBE
 
 ## Dípteros descomponedores: aplicación de su diversidad en aspectos forenses, de conservación y sanitarios
 
-El SiB Colombia participa en este proyecto seleccionado por la [convocatoria del programa Información sobre Biodiversidad para el Desarrollo (BID) 2020](https://biodiversidad.co/post/2020/convocatoria-bid-caribe-2020/), y que es financiado por la Dirección General para la Cooperación Internacional de la Unión Europea.
 
 ### Contexto
 
@@ -19,5 +18,27 @@ Los registros geográficos permiten el conocer los patrones de distribución bio
 ### Objetivo del proyecto
 
 Este proyecto contribuirá a movilizar datos biológicos de moscas descomponedoras a través de las plataformas del nodo colombiano y la red de GBIF para brindar información de libre acceso. El equipo del proyecto publicará artículos de datos para proporcionar más visibilidad a los datos. Los datos publicados se pueden utilizar para tomar decisiones que apoyen el desarrollo sostenible.
+
+**Financiamiento:** € 19.000  
+**Cofinanciamiento:** € 17.308  
+**Tipo de subvención:** Subvención pequeña  
+**Duración:** 1 de julio de 2021 - 30 de junio de 2023  
+**Programa BID:** [Biodiversity Information for Development](https://www.gbif.org/es/programme/82243){:target="_blank"}  
+**Identificador del proyecto:** BID-CA2020-030-USE  
+**Financiado por:** Unión Europea y GBIF  
+**Socios:**
+- Universidad de Campinas  
+- Universidad Mayor, Real y Pontificia de San Francisco Xavier de Chuquisaca  
+- Conicet  
+- SiB Colombia  
+- Universidad Nacional Autónoma de México   
+
+
+**Detalles del contacto:**  
+Luz Gomez  
+Tecnologico de Antioquia  
+Cl. 78b 72 A-220  
+50034 Medellín  
+Colombia
 
 Encuentre más detalles de este proyecto [aquí](https://www.gbif.org/project/BID-CA2020-056-INS/data-on-dipterans-in-colombia-with-relevance-to-human-and-animal-health){:target="_blank"}
