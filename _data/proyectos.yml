@@ -10,13 +10,13 @@ landinguso:
 stats1:
   background: "#ffffff55"
   features:  
-    - title: 9999
+    - title: ---
       description: Proyectos totales
-      background: /comunidad/proyectos/images/icono4.png
+      background: /comunidad/proyectos/images/icono01.png
       #href: /data
-    - title: 9999
+    - title: ---
       description: Proyectos en progreso
-      background: /comunidad/proyectos/images/icono2.png
+      background: /comunidad/proyectos/images/icono02.png
       #href: /data
    
 stats2:
@@ -24,15 +24,15 @@ stats2:
   features:
     - title: 14
       description: Proyectos CESP totales
-      background: /comunidad/proyectos/images/icono1.png
+      background: /comunidad/proyectos/images/icono01.png
       #href: /data
     - title: 4
       description: Proyectos CESP en progreso
-      background: /comunidad/proyectos/images/icono2.png
+      background: /comunidad/proyectos/images/icono02.png
       #href: /data
     - title: 4
       description: Proyectos CESP liderados por SiB Colombia
-      background: /comunidad/proyectos/images/icono3.png
+      background: /comunidad/proyectos/images/icono03.png
       #href: /data
 
 #cards
