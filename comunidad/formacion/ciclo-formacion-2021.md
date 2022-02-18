@@ -362,6 +362,8 @@ Puedes encontrar más información sobre la serie de documentos de georeferencia
 <details>
   <summary markdown="span">18. Biovirtual: un ecosistema de productos y servicios de información sobre biodiversidad a partir de las colecciones biológicas de la Universidad Nacional.</summary>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w2TGHgkxnMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
 <br>
 <i>28 de Octubre de 2021 | Hora: 7:30 am – 8:30 am </i>
 <br> 
