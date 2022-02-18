@@ -26,8 +26,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 -	_**Core (Obligatoriedad)**_: _core_ al que hace parte el **elemento** y su obligatoriedad dentro de cada uno de estos (opcional, condicional, obligatorio). 
 -	**Vocabulario controlado**: Opciones de textos preestablecidos que deben documentarse de manera obligatoria dentro del elemento. No se puede documentar información diferente a la relacionada en los vocabularios controlados. Adicionalmente, en este campo se puede hacer un redireccionamiento al listado y definiciones de los vocabularios controlados del **elemento**.
 
-La documenteación oficial y en inglés del estándar se puede consultar en: [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/)
-La documenteación oficial y en inglés de las extensiones:[https://tools.gbif.org/dwca-validator/extensions.do](https://tools.gbif.org/dwca-validator/extensions.do)
+- La documenteación oficial y en inglés del estándar se puede consultar en: [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/)
+- La documenteación oficial y en inglés de las extensiones:[https://tools.gbif.org/dwca-validator/extensions.do](https://tools.gbif.org/dwca-validator/extensions.do)
 
 ## Categorías DwC
 
