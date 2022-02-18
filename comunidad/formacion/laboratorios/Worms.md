@@ -15,10 +15,8 @@ Realizar la validación taxonómica automática de los nombres científicos de e
 
 **Introducción**
 
-Video introductorio de las tres guías de validación taxonómica, el cual da un contexto general sobre las herramientas y su uso. Si lo prefiere, puede seguir el paso a paso de la guía directamente.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9SFPYe6h14I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ve7CgZlZhj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
 **Convenciones**
 
 - Los elementos del estándar *Darwin Core* aparecen en color verde y cursiva. Por ejemplo: <span class="tag is-success is-light"><i>measurementUnit</i></span>.
