@@ -2,7 +2,7 @@
 layout: heroImage
 title: Estándar Darwin Core
 description: Conoce sus elementos, definiciones y extensiones
-background:  https://live.staticflickr.com/3312/3624354133_1ff6035134_h.jpg
+background:  https://live.staticflickr.com/8362/8324738633_63da9ea6ce_h.jpg
 imageLicense: |
   Fotografía de: Luis Alejandro Bernal Romero vía [Flickr](https://flic.kr/p/apiHPL) 
 height: 41vh
