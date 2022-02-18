@@ -1,7 +1,7 @@
 ---
 layout: documentation
 permalink: /formacion/laboratorios
-title: "Ciclo de formación virtual"
+title: "Formación virtual"
 description: "Laboratorios de datos del ciclo de formación del SiB Colombia para la gestión y publicación de datos sobre biodiversidad."
 sideNavigation: sidenav_laboratorios.terms
 toc: true
@@ -11,12 +11,12 @@ toc: true
 
 Tradicionalmente, el Equipo Coordinador del SiB Colombia ha liderado talleres presenciales para la **publicación y gestión de los datos sobre biodiversidad**. El gran interés de la **comunidad** por estos temas y la alta demanda de los talleres ha motivado la creación de una estrategía virtual con objetivo general llegar a una mayor cantidad de personas y regiones del país.  
 
-A través de los laboratorios obtendrá herramientas robustas para el manejo de sus datos sobre biodiversidad, asegurar su calidad y posterór publciación a través del SiB Colombia, GBIF y OBIS.
+A través de los laboratorios obtendrá herramientas robustas para el manejo de sus datos sobre biodiversidad, asegurar su calidad y posterior publicación a través del SiB Colombia, GBIF y OBIS.
 
 **Objetivos específicos**
 
-* Conocer los fundamentos de la calidad de datos sobre biodiversidad.
-* Conocer los estándares y herramientas para estructurar datos sobre biodiversidad
+* Conocer los fundamentos de la calidad de los datos sobre biodiversidad.
+* Conocer los estándares y herramientas para estructurar datos sobre biodiversidad.
 * Conocer y aplicar herramientas para mejorar la calidad de los datos sobre biodiversidad.
 * Aplicar protocolos para la captura de datos con fines de publicación a través del SiB Colombia.
 * Aplicar protocolos y herramientas de estructuración, validación y limpieza para su publicación a través del SiB Colombia.
@@ -29,10 +29,11 @@ Para obetner el mayor provecho de los laboratiorios se recomienda ver los siguie
 2. [¿Qué datos sobre nuestra biodiversidad se pueden publicar a través del SiB Colombia?](https://youtu.be/_f4gGfIBN3U)
 3. [Aprendiendo un nuevo idioma, *Darwin Core*: reglas gramaticales y ortográficas para la publicación de datos sobre biodiversidad](https://youtu.be/nYGu8KY_K6U)
 4. [Extensiones *Darwin Core*: ¿qué son y cómo funcionan?](https://youtu.be/Gu7Z8irxW7k)
-5. [Crear, compartir, transformar: ¿cómo publicar a través del SiB Colombia?](https://youtu.be/Q83XpNQwyEc)
-6. [Mejores datos mejores decisiones: la importancia de la calidad en los datos sobre biodiversidad](https://youtu.be/_JBbEjG1wAU)
-7. [Validación y limpieza de datos sobre biodiversidad: ¿Cuáles son los retos más comunes y cómo solucionarlos?](https://youtu.be/M8AgoWnLkrg)
-8. [Datos abiertos sobre biodiversidad: ¿Cómo acceder y usar los datos publicados a través del SiB Colombia?](https://www.youtube.com/watch?v=4x8ReO55d2s)
+5. [Eventos de muestreo: ¿cómo publicarlos usando el estándar Darwin Core?](https://youtu.be/gC2WCfeuZxo)
+6. [Crear, compartir, transformar: ¿cómo publicar a través del SiB Colombia?](https://youtu.be/Q83XpNQwyEc)
+7. [Mejores datos mejores decisiones: la importancia de la calidad en los datos sobre biodiversidad](https://youtu.be/_JBbEjG1wAU)
+8. [Validación y limpieza de datos sobre biodiversidad: ¿Cuáles son los retos más comunes y cómo solucionarlos?](https://youtu.be/M8AgoWnLkrg)
+9. [Datos abiertos sobre biodiversidad: ¿Cómo acceder y usar los datos publicados a través del SiB Colombia?](https://www.youtube.com/watch?v=4x8ReO55d2s)
 
 Aprendá más en las series de seminarios del [2020](https://www.youtube.com/playlist?list=PL_KzX3Rxxwb0ON-iZSZMI2fOF_xaSir8l) y [2021](https://www.youtube.com/playlist?list=PL_KzX3Rxxwb3MA55uX9105Y89QWAbMiKu).
 
@@ -58,7 +59,7 @@ El **libre acceso** y la **cooperación** son dos de los principios orientadores
 >
 
 **Nuestro equipo**
-* Los laboratorios en línea fueron realizados por Camila Plata, Ricardo Ortíz, Esteban Marentes Y Juan Sebastián Lozano.
+* Los laboratorios en línea fueron realizados por Camila Plata, Ricardo Ortíz, Esteban Marentes y Juan Sebastián Lozano.
 
 * Los contenidos de los laboratorios han sido contruidos con base en múltiples talleres dictados por el equipo coordinador del SiB Colombia. 
   * Miembros actuales: Camila Plata, Ricardo Ortíz, Esteban Marentes y Dairo Escobar.
