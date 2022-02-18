@@ -26,10 +26,11 @@ Encuentre [aquí](https://www.researchgate.net/project/Vegetation-Ecology-of-Col
 **Identificador del proyecto:** BID-CA2020-024-INS  
 **Financiado por:** Unión Europea y GBIF  
 **Socios:** Academia Colombiana de Ciencias Exactas, Físicas y Naturales  
-**Detalles del contacto**  
+**Detalles del contacto:**  
 Jaime Bernal-Hadad  
 Fundación Desarrollo y Ambiente  
 Calle 30 A # 4-19  
 110311 Bogotá DC  
 Colombia
 
+Encuentre más detalles de este proyecto [aquí](https://www.gbif.org/es/project/BID-CA2020-024-INS/plant-communities-of-tropical-dry-forests-in-caribbean-colombia#about){:target="_blank"}
