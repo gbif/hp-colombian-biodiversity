@@ -4,6 +4,8 @@ title:  "Boyacá BIO"
 description: Ventana Regional para Boyacá
 ---
 
+<img src="/comunidad/proyectos/images/home-ventana-boyaca.jpg" width=770>
+
 ## Boyacá BIO
 
 En el marco de este proyecto, el Equipo Coordinador del SiB Colombia desarrolló la ventana regional sobre la biodiversidad del departamento de Boyacá a partir del portal Biodiversidad en Cifras. La ventana es una instancia web que sintetiza el estado del conocimiento de la biodiversidad a nivel departamental.
