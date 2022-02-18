@@ -23,7 +23,7 @@ Se planea la integración de sistemas con el Ministerio del Ambiente (MADS), la 
 **Duración:** 1 de julio de 2021 - 30 de junio de 2023  
 **Programa BID:** [Biodiversity Information for Development](https://www.gbif.org/es/programme/82243){:target="_blank"}  
 **Identificador del proyecto:** BID-CA2020-030-USE  
-**Financiado por:** Unión Euriopea y GBIF  
+**Financiado por:** Unión Europea y GBIF  
 **Socios:**
 - Ministerio de Ambiente y Desarrollo Sostenible  
 - Parques Naturales Nacionales de Colombia  
