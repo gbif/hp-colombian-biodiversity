@@ -4,7 +4,7 @@ title:  "Santander BIO "
 description: Ventana Regional para Santander
 ---
 
-<img src="/comunidad/proyectos/images/home-ventana-santander.jpg" width=770>
+<img src="/comunidad/proyectos/images/home-ventana-santander2.jpg" width=770>
 
 ## Santander BIO 
 
