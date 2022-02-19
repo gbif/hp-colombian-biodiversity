@@ -157,16 +157,16 @@ splitActividadPublicacion:
 splitAlianzaSectorEmpresarial:
   reverse: true
   #preTitle: Red SiB Colombia  # optional
-  title: Alianza sector empresarial
+  title: Alianza con el sector empresarial
   description: |      # required
-    Los datos sobre biodiversidad son esenciales para planificar, implementar y monitorear estrategias de conservación y uso sostenible.. Un aporte del sector empresarial al conocimiento de la biodiversidad.
+    Los datos sobre biodiversidad son esenciales para planificar, implementar y monitorear estrategias de conservación y uso sostenible. Un aporte del sector empresarial al conocimiento de la biodiversidad.
   # img required
   background: /assets/images/landing_page/AlianzaAndiSectorEmpresarial.jpg
-  overlayColor: "#000033"
-  href: /acercade/aliados/andi
+  #overlayColor: "#000033"
+  href: /empresas
   cta:
   - text: Ver más
-    href: /acercade/aliados/andi
+    href: /empresas
     isPrimary: true
 
   
