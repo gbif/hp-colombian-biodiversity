@@ -184,7 +184,7 @@ En la siguiente tabla puede encontrar el listado completo de empresas con los re
 | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-fnc.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-geb.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-hatovial.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-holcim.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-inerco.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-isagen.png"> |
 | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-moam.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-bicentenario.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-promigas.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-stratos.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-terrasos.png"> |  |
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vScY_Y13XaKRGz4Zkbbv2Da_lba-p4QdN9W6QNarJ7wfNZC4nmIW98jPz9t5LJ_r9H9PBwNbS3eGB77/pubhtml" width="98%" height="950" style="border:none;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vScY_Y13XaKRGz4Zkbbv2Da_lba-p4QdN9W6QNarJ7wfNZC4nmIW98jPz9t5LJ_r9H9PBwNbS3eGB77/pubhtml?gid=0&single=true" width="98%" height="960" style="border:none;"></iframe>
 
 ## El costo para las empresas
 
