@@ -99,7 +99,12 @@ noticias:
       - text: Ver más
         href: /post/2021/biodiversidad-en-colombia-tiene-nuevo-portal/
         isPrimary: false
-        
+
+# Noticias viejas 
+
+noticiasViejas:
+  features:
+  
     - preTitle: Red SiB Colombia
       title: Alianza con el sector empresarial
       description: |      # required
@@ -110,17 +115,7 @@ noticias:
       - text: Ver más
         href: /acercade/aliados/andi/
         isPrimary: false
-
-    - preTitle: Datos abiertos
-      title: Biodiversidad en cifras 2021
-      description: |      # required
-        Actualización de las cifras sobre la biodiversidad más importantes del país.
-      # img required
-      background: /assets/images/noticias_eventos/2021/2021-08-01-Biodiversidadencifras_2021.png
-      cta:
-      - text: Ver más
-        href: post/2021/biodiversidadencifras-2021/
-        isPrimary: false     
+    
 
 # Splits
 
