@@ -39,12 +39,14 @@
     href: /recursos/citar
   - text: Estandarización
     href: /recursos/estandarizacion
-  - text: Calidad de datos
-    href: /recursos/calidad-de-datos
+  - text: Estándar Darwin Core
+    href: /compartir/estandar-darwin-core
   - text: Plantillas Darwin Core
     href: /recursos/plantillas-dwc
   - text: Plantillas Plinian Core
     href: /recursos/plantillas-plinian-core
+  - text: Calidad de datos
+    href: /recursos/calidad-de-datos
 
   
 - text: Comunidad
