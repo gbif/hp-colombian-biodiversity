@@ -16,7 +16,7 @@ La participación del Equipo Coordinador del SiB Colombia en este proyecto está
 | Conjunto de datos| No. Registros biológicos | Grupo biológico |Estado|
 | -------- | -------- | -------- | -------- |
 |Aprovechamiento forestal| 665.000| Flora| Estructurado y validado|
-|Flora presente en las parcelas de regeneración|13.745|Flora|Estructurado y Validado|
+|Flora presente en las parcelas de regeneración|13.745|Flora|Estructurado y validado|
 |Monitoreo de epífitas reubicadas| 715.000| Epífitas| En proceso|
 |Árboles plantados| 155.000| Flora| En proceso|
 |Evaluación de los datos hidrobiológicos| 68.000| Hidrobiológicos| En proceso|
