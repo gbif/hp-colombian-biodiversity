@@ -14,6 +14,9 @@ Información sobre Biodiversidad para el Desarrollo (BID, siglas en inglés de *
 
 La financiación de la primera fase del programa ha apoyado actividades y proyectos de mejora de la capacidad para movilizar datos sobre biodiversidad y ha fortalecido las instalaciones de información sobre biodiversidad nacionales y regionales en estas regiones. Sus impactos hasta la fecha se han centrado en datos que respaldan las necesidades de política de las regiones, particularmente en relación con áreas protegidas, especies amenazadas y especies exóticas invasoras. A continuación se presretan los programas de los cuales el SiB Colombia hace parte.
 
+<img src="/comunidad/proyectos/images/logo-BID.png" width=770>
+
+
 #### Lista de proyectos
 
 |    |    |
@@ -71,7 +74,3 @@ La financiación de la primera fase del programa ha apoyado actividades y proyec
 | **Objetivo**    |Compartir la información científica del Jardín Botánico de Cartagena mediante la publicación de los datos de sus colecciones y las listas de verificación de flora y fauna de su parche forestal.    |
 |**Socios**| - Jardín Botánico de Cartagena “Guillermo Piñeres”  | 
 |**Duración**    |  1 de julio de 2021 - en progreso   |
-
-
-
-<img src="/comunidad/proyectos/images/logo-BID.png" width=770>
