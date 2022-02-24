@@ -4,6 +4,8 @@ title:  "entomológicos-caribe"
 description: Movilización de datos para grupos entomológicos clave en el Caribe colombiano
 ---
 
+## Movilización de datos para grupos entomológicos clave en el Caribe colombiano
+
 A pesar de su diversidad y altos niveles de endemismo, la región Caribe de Colombia (CRC) se mantiene como una de las áreas con menos registros y estudios de biodiversidad, particularmente de insectos. Esta situación se refleja en la baja representación de la CRC en los registros de GBIF, donde solo el 14,4% de los insectos colombianos registrados provienen de esta región, descendiendo al 9,6% si solo se toman en cuenta los ejemplares preservados. Parte del problema surge de la falta de infraestructura en las colecciones locales para procesar los datos de las muestras.
 
 Este proyecto es un esfuerzo concertado que involucra a ocho colecciones colombianas certificadas, alineado con la Política de Crecimiento Verde para promover y mejorar el conocimiento de la biodiversidad colombiana debido al bajo número de especímenes digitalizados de las colecciones y el sesgo en el conocimiento de la biodiversidad. Esta visión es apoyada por el Gobierno Nacional de Colombia a través de la Estrategia Nacional para el Inventario de Biodiversidad.
