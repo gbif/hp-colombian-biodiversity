@@ -33,7 +33,7 @@ Se realizará una revisión por expertos de cada grupo, así como por estudiante
 **Detalles del contacto:**  
 Neis Jose Martinez Hernandez  
 Universidad del Atlántico  
-VKm 7, Via Puerto Colombia.Oficina 301C  
+Km 7, Via Puerto Colombia. 
 480001 Barranquilla  
 Colombia
 
