@@ -4,6 +4,8 @@ title:  "jardin-botanico-cartagena"
 description: Movilización de datos de las colecciones del Jardín Botánico de Cartagena
 ---
 
+## Movilización de datos de las colecciones del Jardín Botánico de Cartagena
+
 Fundado en 1978, el [Jardín Botánico de Cartagena (JBC)](http://www.jbgp.org.co/){:target="_blank"} es una institución científica histórica de Colombia que atesora una cantidad considerable de información biológica crítica sobre la región del Caribe colombiano.
 
 El objetivo principal de JBC es educar para conservar la diversidad vegetal de la región del Caribe. Sus colecciones contienen ejemplares de los departamentos colombianos de Bolívar, Atlántico, Magdalena, La Guajira, Cesar, Córdoba, Sucre e islas del Caribe. Estos están distribuidos en tres colecciones de plantas: el Herbario Jardín Botánico «Guillermo Piñeres», una colección viva y un banco de semillas. El JBC también ha desarrollado inventarios biológicos de uno de los últimos parches de bosque seco tropical cerca de Cartagena; además, tiene un vivero de investigación y una parcela permanente de una hectárea recientemente instalada que contribuye a la investigación y la educación.
