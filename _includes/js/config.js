@@ -2,8 +2,14 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
   primary: themeStyle.colors.primary
 }});
 
-
 var siteConfig = {
+  routeConfig: {
+    occurrenceSearch: {
+      url: ({basename}) => `${basename ? `/${basename}` : ''}/data`,
+      isHref: true,
+      route: '/data' // the route you are currently using for occurrence search
+    },
+  },
   occurrence: {
      mapSettings: {
       lat: 4.6482836,
@@ -36,6 +42,13 @@ var siteConfig = {
       ]
     },
     highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince','elevation','year', 'basisOfRecord', 'recordedBy','publishingOrg','datasetKey','datasetName','occurrenceIssue'],
-    occurrenceSearchTabs: ['TABLE',  'MAP','GALLERY', 'DATASETS']
+    occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY', 'DATASETS'],
+    // availableCatalogues: ['OCCURRENCE', 'DATASET']
+  },
+  dataset: {
+    rootFilter: {publishingCountry: 'CO'},
+    highlightedFilters: ['q', 'publisherKey', 'datasetType', 'license'],
+    excludedFilters: ['publishingCountryCode'],
+    // availableCatalogues: ['OCCURRENCE', 'DATASET']
   }
 };
