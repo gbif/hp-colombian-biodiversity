@@ -30,7 +30,7 @@ El objetivo es al menos duplicar la cantidad de registros en GBIF de la CRC y, a
 - Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH)
 - Laboratorio de Sistemática y Biología Comparada de Insectos, Instituto de Ciencias Naturales, Universidad Nacional de Colombia  
 - Natural Science Research Laboratory (NSRL), Museum of Texas Tech University  
-- Entomological Collection of the Universidad de Antioquia (CEUA)  
+- Colección entomológica de la Universidad de Antioquia (CEUA)  
 - Instituto de Ecología, A.C. (INECOL)    
 - Universidad del Magdalena  
 - Universidad CES
