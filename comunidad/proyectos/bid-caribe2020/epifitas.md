@@ -48,4 +48,4 @@ Carrera 32 No 22 – 08
 Colombia
 
 
-Encuentre más detalles de este proyecto [aquí](https://www.gbif.org/es/project/BID-CA2020-045-NAC/data-mobilization-for-key-entomological-groups-across-caribbean-colombia){:target="_blank"}.
+Encuentre más detalles de este proyecto [aquí](https://www.gbif.org/es/project/BID-CA2020-047-USE/collections-based-engagement-of-decision-makers-to-save-globally-threatened-epiphytes-in-colombia#about){:target="_blank"}.
