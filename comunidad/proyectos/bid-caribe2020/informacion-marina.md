@@ -10,7 +10,7 @@ description: GBIF BID CARIBE
 
 Considerado uno de los países megadiversos del mundo, Colombia y su extensión de 2 millones de km2 es reconocida por la riqueza de especies terrestres estudiadas desde hace más de 200 años. Por el contrario, la investigación en las áreas marinas de casi 900.000 km2 es relativamente reciente y el conocimiento de su diversidad aún es escaso.
 
-El SiB Colombia cuenta actualmente con más de 8 millones de registros, de los cuales solo unos 69 000 son de origen marino y solo el 10 % proviene de colecciones de historia natural, lo que demuestra la brecha crítica en la representatividad y la subestimación de los inventarios marinos nacionales. Las colecciones del país cuentan con numerosos especímenes marinos, pero debido a la falta de infraestructura, recursos técnicos y humanos, tienen una capacidad aún limitada para el manejo de datos.
+El SiB Colombia cuenta actualmente con más de 8 millones de registros, de los cuales solo unos 69.000 son de origen marino y solo el 10 % proviene de colecciones de historia natural, lo que demuestra la brecha crítica en la representatividad y la subestimación de los inventarios marinos nacionales. Las colecciones del país cuentan con numerosos especímenes marinos, pero debido a la falta de infraestructura, recursos técnicos y humanos, tienen una capacidad aún limitada para el manejo de datos.
 
 ### Objetivo
 
