@@ -25,7 +25,7 @@ La financiación de la primera fase del programa ha apoyado actividades y proyec
 
 |    |    |
 | ---|--- |
-| **Nombre**   |[Listas preliminares de artrópodos y ocurrencias del Caribe colombiano](comunidad/proyectos/bid-caribe2020/artropodos)    |
+| **Nombre**   |[Listas preliminares de artrópodos y ocurrencias del Caribe colombiano](/comunidad/proyectos/bid-caribe2020/artropodos)    |
 | **Objetivo**    |   Explorar la diversidad de una selección de grupos  de artrópodos (Cerambycoidea, Formicidae, Opiliones, Araneae, Odonata, Mantodea, entre ortos) en la región caribeña de Colombia.  |
 |**Socios**| - Facultad de Ciencias Básicas, Universidad del Atlántico<br> - Museu de Zoologia da Universidade de São Paulo<br> - Red de Biología Evolutiva, Instituto de Ecología, A.C<br> - Universidad de Sucre| 
 |**Duración**    |  10 de agosto de 2021 - en progreso  |
