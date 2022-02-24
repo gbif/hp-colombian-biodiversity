@@ -49,4 +49,3 @@ Los resultados principales del apoyo del SiB Colombia a la construcción de la l
 
 
 
-<img src="https://sibcolombia.net/wp-content/uploads/2017/07/logo-uquindio-160x160.png" width=770>
