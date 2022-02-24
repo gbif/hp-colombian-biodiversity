@@ -47,3 +47,6 @@ Los resultados principales del apoyo del SiB Colombia a la construcción de la l
 | Monitoreo de la abundancia, riqueza y biodiversidad de aves del Santuario de Flora y Fauna Galeras de 2009 a 2014                                                                                                               | Eventos de muestreo  | 2.316     (taxa)          | Nuevo            | [https://doi.org/10.15472/prvdv7](https://doi.org/10.15472/prvdv7){:target="_blank"}    |
 | Monitoreo de la abundancia, riqueza y biodiversidad de aves del Santuario de Flora y Fauna Galeras en 2019                                                                                                                      | Eventos de muestreo  | 942 (taxa)| Nuevo            | [https://doi.org/10.15472/t9audu](https://doi.org/10.15472/t9audu){:target="_blank"}     |
 
+
+
+<img src="https://sibcolombia.net/wp-content/uploads/2017/07/logo-uquindio-160x160.png" width=770>
