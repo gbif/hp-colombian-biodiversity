@@ -14,7 +14,7 @@ En general, solo 62.000 registros correspondientes a 2.000 especies de un total 
 
 Una comunidad nacional de especialistas en epífitas ahora está trabajando para investigar y proteger esta comunidad de plantas con algunas iniciativas ya otorgadas por agencias nacionales e internacionales. Un ejemplo de esto es el caso de NatGeo, que otorgó un proyecto liderado por el Jardín Botánico de Medellín para rescatar epífitas en Antioquia).
 
-Este proyecto combina las capacidades de cinco de los herbarios más grandes de Colombia y sus instituciones anfitrionas para conocer la utilidad en ytérmminos de conservación de las colecciones de epífitas y sus socios comensalistas mediante:
+Este proyecto combina las capacidades de cinco de los herbarios más grandes de Colombia y sus instituciones anfitrionas para conocer la utilidad, en términos de conservación, de las colecciones de epífitas y sus socios comensalistas mediante:
 
 - la puesta a disposición de 20.000 registros basados en colecciones,
 - las evaluaciones de conservación de seis grupos priorizados,
