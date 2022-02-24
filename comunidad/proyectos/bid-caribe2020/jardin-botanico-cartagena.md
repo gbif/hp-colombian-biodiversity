@@ -10,7 +10,7 @@ Fundado en 1978, el [Jardín Botánico de Cartagena (JBC)](http://www.jbgp.org.c
 
 El objetivo principal de JBC es educar para conservar la diversidad vegetal de la región del Caribe. Sus colecciones contienen ejemplares de los departamentos colombianos de Bolívar, Atlántico, Magdalena, La Guajira, Cesar, Córdoba, Sucre e islas del Caribe. Estos están distribuidos en tres colecciones de plantas: el Herbario Jardín Botánico «Guillermo Piñeres», una colección viva y un banco de semillas. El JBC también ha desarrollado inventarios biológicos de uno de los últimos parches de bosque seco tropical cerca de Cartagena; además, tiene un vivero de investigación y una parcela permanente de una hectárea recientemente instalada que contribuye a la investigación y la educación.
 
-El objetivo principal de este proyecto es compartir la información científica del CBG mediante la publicación de los datos de sus colecciones y las listas de verificación de flora y fauna de su parche forestal. Esta información es vital ya que existe un desconocimiento de la flora y fauna nativa cerca de Cartagena. El continuo desarrollo de la ciudad amenaza la diversidad del bosque seco tropical, uno de los ecosistemas más amenazados del mundo.
+El objetivo principal de este proyecto es compartir la información científica del JBC mediante la publicación de los datos de sus colecciones y las listas de verificación de flora y fauna de su parche forestal. Esta información es vital ya que existe un desconocimiento de la flora y fauna nativa cerca de Cartagena. El continuo desarrollo de la ciudad amenaza la diversidad del bosque seco tropical, uno de los ecosistemas más amenazados del mundo.
 
 Los objetivos específicos del proyecto son:
 
@@ -29,18 +29,6 @@ Los objetivos específicos del proyecto son:
 **Programa BID:** [Biodiversity Information for Development](https://www.gbif.org/es/programme/82243){:target="_blank"}  
 **Identificador del proyecto:**  BID-CA2020-048-INS  
 **Financiado por:** Unión Europea y GBIF  
-**Socios:**
-- Universidad de Sucre   
-- Universidad del Atlántico  
-- Colección Entomológica - Museo Javeriano de Historia Natural   
-- SiB Colombia  
-- Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH)
-- Laboratorio de Sistemática y Biología Comparada de Insectos, Instituto de Ciencias Naturales, Universidad Nacional de Colombia  
-- Natural Science Research Laboratory (NSRL), Museum of Texas Tech University  
-- Entomological Collection of the Universidad de Antioquia (CEUA)  
-- Instituto de Ecología, A.C. (INECOL)    
-- Universidad del Magdalena  
-- Universidad CES
 
 **Detalles del contacto:**  
 Santiago Madriñán  
@@ -49,4 +37,4 @@ Sector Matute, km 9 Autopista I-90
 131001 Turbaco  
 Colombia
 
-Encuentre más detalles de este proyecto [aquí](https://www.gbif.org/es/project/BID-CA2020-048-INS/data-mobilization-of-the-cartagena-botanical-garden-collections){:target="_bla
+Encuentre más detalles de este proyecto [aquí](https://www.gbif.org/es/project/BID-CA2020-048-INS/data-mobilization-of-the-cartagena-botanical-garden-collections){:target="_blank"}
