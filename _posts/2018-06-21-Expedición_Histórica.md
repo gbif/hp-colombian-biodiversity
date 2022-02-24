@@ -85,14 +85,16 @@ A continuación encontrarás la información sobre los panelistas y moderadores 
 + Universidad Pedagógica y Tecnológica de Colombia
 
 
-| <figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-uniquindio.png"></figure>  | 
+||
 | :--------: | 
+| <figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-uniquindio.png"></figure>  | 
 |<a href="http://ipt.biodiversidad.co/sib/resource?r=herpetologia-uq">Conoce el recurso</a>  | 
 
 ---
 
-| <figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ut.png"></figure>  | 
+|  | 
 | :--------: | 
+| <figure class="image is-256x256"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ut.png"></figure>  |
 |[Conoce el recurso](http://ipt.biodiversidad.co/sib/resource?r=herpetologia-uq){: .button .is-link :}  | 
 
 #### Las localidades de los registros
@@ -101,10 +103,13 @@ A continuación encontrarás la información sobre los panelistas y moderadores 
 
 <p class="has-text-primary">texto</p>
 
-<p class="has-text-info is-size-3">texto</p>
+E asunto es que el <p class="has-text-info is-size-3">texto</p> sea diferente
 
 
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | <p class="has-text-info is-size-4">texto</p>     | <p class="has-text-link is-size-2">texto</p>     | <p class="has-text-grey is-size-1">texto</p>     |
+|E asunto es que el <p class="has-text-info is-size-3">texto</p> sea diferente|E asunto es que el <p class="has-text-info is-size-3">texto</p> sea diferente|E asunto es que el <p class="has-text-info is-size-3">texto</p> sea diferente|
+
+	
