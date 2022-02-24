@@ -33,7 +33,7 @@ Este proyecto está dirigido por un consorcio de expertos nacionales con una exp
 **Socios:**
 - Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH)   
 - Universidad del Valle-Herbario CUVC  
-- National Herbarium of Colombia (COL)   
+- Herbario Nacional de Colombia (COL)   
 - SiB Colombia  
 - Herbario Universidad de Antioquia - HUA
 - Universidad de San Buenaventura  
