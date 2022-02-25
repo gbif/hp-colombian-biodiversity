@@ -7,6 +7,7 @@ background:   https://live.staticflickr.com/672/21163241529_69cc39346b_b.jpg
 imageLicense: |
   Fotografía de: Stanley Zimny vía [Flickr](https://flic.kr/p/yf89oD) 
 height: 41vh
+toc: true
 ---
 
 En esta sección puede explorar el histórico de talleres y eventos en los que ha participado el Equipo Coordinador y la red de Socios del SiB Colombia. Ingrese a cada uno para explorar sus contenidos, agenda, presentaciones y fotos. 
@@ -231,34 +232,60 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
       <td>Bogotá, D.C.</td>
     </tr>
     <tr>
-     <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Fortalecimiento de Colecciones Biológicas - MEPB</a></td>
+     <td><a href="/comunidad/colombiabio/museo-entomologico-piedras-blancas" title="Ver">Fortalecimiento de Colecciones Biológicas - Museo Entomológico de Piedras Blancas</a></td>
       <td>Julio</td>
       <td>COL</td>
       <td>Guarne (Antioquia)</td>
     </tr>
     <tr>
-    <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Fortalecimiento de Colecciones Biológicas - Universidad del Tolima</a></td>
+    <td><a href="/comunidad/colombiabio/museo-laboratorio-entomologico-de-la-universidad-del-tolima" title="Ver">Fortalecimiento de Colecciones Biológicas - Museo Laboratorio Entomológico - Universidad del Tolima</a></td>
+      <td>Julio</td>
+      <td>COL</td>
+      <td>Ibagué (Tolima)</td>
+    </tr>
+          <tr>
+    <td><a href="/comunidad/colombiabio/coleccion-zoologica-universidad-de-tolima" title="Ver">Fortalecimiento de Colecciones Biológicas - Colección Zoológica - Universidad del Tolima</a></td>
       <td>Julio</td>
       <td>COL</td>
       <td>Ibagué (Tolima)</td>
     </tr>
     <tr>
-    <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Fortalecimiento de Colecciones Biológicas - Universidad de Caldas</a></td>
+    <td><a href="/comunidad/colombiabio/herbario-de-la-universidad-de-caldas" title="Ver">Fortalecimiento de Colecciones Biológicas - Herbario - Universidad de Caldas</a></td>
       <td>Julio</td>
       <td>COL</td>
       <td>Manizales (Caldas)</td>
     </tr>
     <tr>       
-    <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Fortalecimiento de Colecciones Biológicas - Universidad Nacional de Colombia - sede Orinoquía</a></td>
+    <td><a href="/comunidad/colombiabio/coleccion-entomologica-de-la-universidad-nacional-de-colombia-sede-orinoquia" title="Ver">Fortalecimiento de Colecciones Biológicas - Colección Entomológica - Universidad Nacional de Colombia
+ - sede Orinoquía</a></td>
+      <td>Junio</td>
+      <td>COL</td>
+      <td>Arauca (Arauca)</td>
+    </tr>
+          <tr>       
+    <td><a href="//comunidad/colombiabio/herbario-orinocense-colombiano" title="Ver">Fortalecimiento de Colecciones Biológicas - Herbario Orinocense Colombiano - Universidad Nacional de Colombia
+ - sede Orinoquía</a></td>
       <td>Junio</td>
       <td>COL</td>
       <td>Arauca (Arauca)</td>
     </tr>
     <tr>
-    <td><a href="/comunidad/formacion/enconstruccion" title="Ver">Fortalecimiento de Colecciones Biológicas - Universidad de Quindío</a></td>
+    <td><a href="/comunidad/colombiabio/herbario-universidad-de-quindio" title="Ver">Fortalecimiento de Colecciones Biológicas - Herbario - Universidad de Quindío</a></td>
       <td>Junio</td>
       <td>COL</td>
-      <td>Manizales (Caldas)</td>
+      <td>Armenia (Quindío)</td>
+    </tr>
+          <tr>
+    <td><a href="/comunidad/colombiabio/coleccion-entomologica-de-la-universidad-del-quindio" title="Ver">Fortalecimiento de Colecciones Biológicas - Colección Entomológica - Universidad de Quindío</a></td>
+      <td>Junio</td>
+      <td>COL</td>
+      <td>Armenia (Quindío)</td>
+    </tr>
+         <tr>
+    <td><a href="/comunidad/colombiabio/coleccion-herpetologica-de-la-universidad-del-quindio" title="Ver">Fortalecimiento de Colecciones Biológicas - Colección Herpetológica - Universidad de Quindío</a></td>
+      <td>Junio</td>
+      <td>COL</td>
+      <td>Armenia (Quindío)</td>
     </tr>
        </tbody>
 </table>
