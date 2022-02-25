@@ -263,7 +263,7 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
       <td>Arauca (Arauca)</td>
     </tr>
           <tr>       
-    <td><a href="//comunidad/colombiabio/herbario-orinocense-colombiano" title="Ver">Fortalecimiento de Colecciones Biológicas - Herbario Orinocense Colombiano - Universidad Nacional de Colombia
+    <td><a href="/comunidad/colombiabio/herbario-orinocense-colombiano" title="Ver">Fortalecimiento de Colecciones Biológicas - Herbario Orinocense Colombiano - Universidad Nacional de Colombia
  - sede Orinoquía</a></td>
       <td>Junio</td>
       <td>COL</td>
