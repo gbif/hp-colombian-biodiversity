@@ -11,7 +11,7 @@ height: 41 vh
 
 Para la publicación de datos sobre biodiversidad se han creado tres plantillas de acuerdo a los [tipo de datos](/compartir/tipos-de-datos) que se pueden compartir a través del SiB Colombia. Estas plantilla están estructuradas bajo el estándar [Darwin Core](/compartir/estandares) y cuenta con los elementos necesarios del _Core_ del estándar para la publicación. 
 
-Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, referencias bibliográficas, secuencias genéticas, imágenes, vídeo, sonidos, entre otros, y deseas que hagan parte de la publicación, recuerda mencionarlo en el correo que envíes para inciar el [proceso de acompañamiento a la publicación](/compartir/guia-para-publicar) y se te apoyará en la estructuración y ajuste de estos datos adicionales, posiblemente con el uso de las [extensiones](https://tools.gbif.org/dwca-validator/extensions.do) del estándar Darwin Core.
+Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, referencias bibliográficas, secuencias genéticas, imágenes, vídeo, sonidos, entre otros, y deseas que hagan parte de la publicación, recuerda mencionarlo en el correo que envíes para inciar el [proceso de acompañamiento a la publicación](/compartir/guia-para-publicar) y se te apoyará en la estructuración y ajuste de estos datos adicionales, posiblemente con el uso de las [extensiones](https://tools.gbif.org/dwca-validator/extensions.do){:target="_blank"} del estándar Darwin Core.
 
 
 ## Recomendaciones
