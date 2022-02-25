@@ -50,17 +50,18 @@ Esta colección cuenta con 1.591 registros que están clasificados así:
 
 ### Consulta los conjuntos de datos de forma libre y gratuita:
 
-|||
-|---|---|
-|<figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-unal.png"></figure>|[Consulta el recurso](http://ipt.biodiversidad.co/sib/resource?r=hori){: .button .is-link :}{:target="_blank"}|
+||
+|:---:|
+|<figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-unal.png"></figure>|
+|[Consulta el recurso](http://ipt.biodiversidad.co/sib/resource?r=hori){: .button .is-link :}{:target="_blank"}|
 
 ### Las localidades de los registros
 
 <img src="/comunidad/colombiabio/imagenes/herbario-orinocense-colombiano/mapa-her-unal.png" width=770>
 
-<p class="is-size-7 has-text-grey">En negro se indican los registros disponibles previamente a través de GBIF: 8.947.</p>
+<p class="is-size-7 has-text-grey has-text-centered">En negro se indican los registros disponibles previamente a través de GBIF: 8.947.</p>
 
-<p class="is-size-7 has-text-grey">En verde se indican los registros  que aportó el herbario para el departamento: 1.457.</p>
+<p class="is-size-7 has-text-grey has-text-centered">En verde se indican los registros  que aportó el herbario para el departamento: 1.457.</p>
 
 Hay 1.456 localidades únicas ubicadas así:
 
@@ -72,6 +73,7 @@ Hay 1.456 localidades únicas ubicadas así:
 - 4 en Boyacá
 - 2 en Meta
 - 2 en Norte de Santander
+
 
 ### Conoce más sobre el herbario
 
