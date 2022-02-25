@@ -51,8 +51,6 @@ gallery2:
     alt: "placeholder image 14"
 ---
 
-### Los registros de la colección
-
 Esta colección cuenta con 43.387 registros que están clasificados así:
 
 |  |  | 
@@ -62,7 +60,7 @@ Esta colección cuenta con 43.387 registros que están clasificados así:
 |4.169|Identificados a nivel de familia.|
 |2.959|Identificados a otros niveles taxonómicos.|
 
-<img src="/comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/map-c-z-t.jpg" width=770>
+<img src="/comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/map-c-z-t3.jpg" width=770>
 
 
 ### Consulta los conjuntos de datos de forma libre y gratuita:
@@ -78,21 +76,21 @@ Esta colección cuenta con 43.387 registros que están clasificados así:
 
 <img src="/comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/mapa-zoo-ut-768x362.png" width=770>
 
-<p class="is-size-7 has-text-grey">En negro se indican los registros disponibles previamente a través de GBIF: 14.828.</p>
+<p class="is-size-7 has-text-grey has-text-centered">En negro se indican los registros disponibles previamente a través de GBIF: 14.828.</p>
 
-<p class="is-size-7 has-text-grey">En rojo se indican los registros que aportaron las Colecciones de la Universidad para el departamento: 29.933.</p>
+<p class="is-size-7 has-text-grey has-text-centered">En rojo se indican los registros que aportaron las Colecciones de la Universidad para el departamento: 29.933.</p>
 
 
 Hay 3.783 localidades únicas ubicadas así:
 
-2.479 en Tolima
-211 en Huila
-169 en Caldas
-169 en Casanare
-82 en Magdalena
-82 en Valle del Cauca
-573 repartidos en otros 26 departamentos del país
-24 en otros países (Venezuela, Brasil, Ecuador y Perú)
+- 2.479 en Tolima
+- 211 en Huila
+- 169 en Caldas
+- 169 en Casanare
+- 82 en Magdalena
+- 82 en Valle del Cauca
+- 573 repartidos en otros 26 departamentos del país
+- 24 en otros países (Venezuela, Brasil, Ecuador y Perú)
 
 ### Conoce más sobre la colección
 
