@@ -37,9 +37,9 @@ stats2:
 
 
 #cards
-tarjetasUso:
+tarjetasColombiabio:
   # title: Fortalecimiento de colecciones biológicas
-  # description: Ejes de formación:
+  # description: Fortalecimiento de colecciones biológicas:
     
   features:
       #preTitle:  Listado # optional
@@ -63,7 +63,6 @@ tarjetasUso:
       - text: Gira UCES
         href: /comunidad/colombiabio/gira-especialistas
         isPrimary: true
-      cta:
       - text: Gira UniQuindío 
         href: /comunidad/colombiabio/gira-uniquindio
         isPrimary: true
