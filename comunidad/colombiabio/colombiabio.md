@@ -19,7 +19,7 @@ composition:
     type: stats
   - data: colombiabio.stats2
     type: stats
-  - data: colombiabio.tarjetasUso
+  - data: colombiabio.tarjetasColombiabio
     type: features # the block type
 
 ---
