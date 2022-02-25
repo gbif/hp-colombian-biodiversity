@@ -3,7 +3,7 @@ layout: heroImage
 klass: actividad
 title: Herramienta de publicación
 description: IPT - una herramienta para la publicación de datos sobre biodiversidad
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Finaturalist-open-data.s3.amazonaws.com%2Fphotos%2F61266839%2Foriginal.jpeg%3F1581437869
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/61266827/large.jpeg
 imageLicense: |
   Mono Aullador Rojo Fotografía de: guyincognito vía [iNaturalist](https://www.inaturalist.org/observations/38539800) 
 height: 41vh
