@@ -1,0 +1,91 @@
+landinguso:
+  title: ColombiaBio
+  description: |      # required
+    Fortalecimiento de colecciones biológicas
+  #background: https://live.staticflickr.com/8483/8205952042_c840217645_h.jpg
+  overlayColor: "#E4EEE0" #"#ffffffbb"
+  hasWhiteText: false
+
+   
+stats1:
+  background: "#ffffff55"
+  features:  
+    - title: 
+      description: Identificar y actualizar los especímenes depositados en las colecciones biológicas a nivel taxonómico, ecológico, y geográfico.
+      background: /comunidad/colombiabio/imagenes/landing/icono1.png
+      #href: /data
+    - title: 
+      description: Mejorar las capacidades de las colecciones biológicas en los procesos de gestión, estandarización y publicación de los datos.
+      background: /comunidad/colombiabio/imagenes/landing/icono2.png
+      #href: /data
+    - title: 
+      description: Propiciar la creación de redes de trabajo de expertos y colecciones, generales o especializadas, que permitan evitar la duplicación de esfuerzos y deriven en información con mejor resolución, calidad y alcance.
+      background: /comunidad/colombiabio/imagenes/landing/icono3.png
+      #href: /data
+      
+stats2:
+  background: "#ffffff55"
+  features:
+    - title: 
+      description: Crear portales que contengan la información de las colecciones biológicas de forma unificada y permitan la consulta libre por parte de las autoridades ambientales y demás usuarios.
+      background: /comunidad/colombiabio/imagenes/landing/icono4.png
+      #href: /data
+    - title: 
+      description: Facilitar a las autoridades ambientales y nacionales listas de especies de referencia para la toma de decisiones asociadas con la conservación y el uso sostenible de los recursos naturales.
+      background: /comunidad/colombiabio/imagenes/landing/icono5.png
+      #href: /data
+
+
+#cards
+tarjetasUso:
+  # title: Fortalecimiento de colecciones biológicas
+  # description: Ejes de formación:
+    
+  features:
+      #preTitle:  Listado # optional
+    - title: Gestión y publicación de datos
+      description: |      # required
+       Busca mejorar la información de las colecciones en los ámbitos geográfico y taxonómico. Para ello, un equipo de especialistas trabaja con los datos de nueve colecciones biológicas, seleccionadas a partir de una convocatoria abierta.
+      # img required
+      background: /comunidad/proyectos/images/proyectos-nacionales.png
+      cta:
+      - text: Ver más
+        href: /comunidad/colombiabio/pais-megadiverso
+        isPrimary: true    
+      
+      
+     #preTitle: Listado  # optional
+    - title: Giras de Especialistas # required
+      description: |      # required
+       Se desarrollaron dos giras de especialistas: la primera, liderada por la Universidad CES, reúne a varios de los entomólogos mejor cualificados del país, expertos en diferentes grupos de insectos, para que visiten nueve colecciones de Colombia y realicen procesos de identificación taxonómica, catalogación y transferencia de capacidades, la segunda, liderada por la Universidad de Quindío, reúne varios expertos en diferentes grupos biológicos para adelantar procesos de identificación taxonómica en varias colecciones biológicas del país.
+      background: /comunidad/proyectos/images/proyectos-cesp.png
+      cta:
+      - text: Gira UCES
+        href: /comunidad/colombiabio/gira-especialistas
+        isPrimary: true
+      cta:
+      - text: Gira UniQuindío 
+        href: /comunidad/colombiabio/gira-uniquindio
+        isPrimary: true
+        
+     #preTitle:  Listado # optional
+    - title: Listas de Especies
+      description: |      # required
+       El propósito de esta línea es la consolidación de las listas de especies de referencia para Colombia bajo un mismo estándar y en un sólo lugar. Este desarrollo posibilita la construcción colaborativa de las listas mediante el trabajo de expertos y otros actores, incluyendo a simples aficionados.
+      # img required
+      background: /comunidad/proyectos/images/proyectos-bid-caribe2020.png
+      cta:
+      - text: Ver mas
+        href: /comunidad/colombiabio/listas
+        isPrimary: true  
+      
+     #preTitle:  Listado # optional
+    - title: Colecciones Biológicas en Línea
+      description: |      # required
+       Esta línea busca conectar a los colombianos con las colecciones biológicas del país a través de un Catálogo en Línea, que inicia con las colecciones del Instituto Humboldt. En este sitio, es posible explorar los datos y la información custodiada por estas bibliotecas de la vida.
+      # img required
+      background: /comunidad/proyectos/images/proyectos-bid-caribe2020.png
+      cta:
+      - text: Ver mas
+        href: /comunidad/colombiabio/colecciones-en-linea
+        isPrimary: true    
