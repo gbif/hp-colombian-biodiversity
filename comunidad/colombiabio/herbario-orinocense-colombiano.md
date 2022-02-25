@@ -45,15 +45,9 @@ Esta colección cuenta con 1.591 registros que están clasificados así:
 |1|Identificados a nivel de familia.|
 |13|Identificados a otros niveles taxonómicos.|
 
-<img src="/comunidad/colombiabio/imagenes/herbario-orinocense-colombiano/ficha-col-map-1.png" width=770>
+<img src="/comunidad/colombiabio/imagenes/herbario-orinocense-colombiano/ficha-col-map-2.png" width=770>
 
-
-### Consulta los conjuntos de datos de forma libre y gratuita:
-
-||
-|:---:|
-|<figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-unal.png"></figure>|
-|[Consulta el recurso](http://ipt.biodiversidad.co/sib/resource?r=hori){: .button .is-link :}{:target="_blank"}|
+[Consulta los conjuntos de datos de forma libre y gratuita](http://ipt.biodiversidad.co/sib/resource?r=hori){: .button .is-link :}{:target="_blank"}
 
 ### Las localidades de los registros
 
