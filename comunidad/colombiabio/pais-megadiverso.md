@@ -1,7 +1,7 @@
 ---
 layout: heroImage
-title: Herbario 
-description: Universidad del Quindío
+title: Gestión y publicación de datos
+description: 
 background: /comunidad/colombiabio/imagenes/layout-colecciones.jpg
 imageLicense: |
   _Heliconius erato petiverana_ Fotografía de: Katja Schulz via [Flickr](https://flic.kr/p/bmS9bM)
@@ -22,15 +22,15 @@ Un comité conformado por las instituciones organizadoras analizó detalladament
 
 |||
 |---|---|
-|<figure class="image is-64x64"><img src=""></figure>|[Colección Zoológica Universidad del Tolima]()|
-|<figure class="image is-64x64"><img src=""></figure>|[Herbario Orinocense Colombiano]()|
-|<figure class="image is-64x64"><img src=""></figure>|[Museo Laboratorio Entomológico Universidad del Tolima]()|
-|<figure class="image is-64x64"><img src=""></figure>|[Herbario de la Universidad de Caldas]()|
-|<figure class="image is-64x64"><img src=""></figure>|[Museo Entomológico Piedras Blancas]()|
-|<figure class="image is-64x64"><img src=""></figure>|[Colección Herpetológica Universidad del Quindío]()|
-|<figure class="image is-64x64"><img src=""></figure>|[Colección Entomológica de la Universidad Nacional de Colombia Sede Orinoquia](/comunidad/colombiabio/coleccion-entomologica-de-la-universidad-nacional-de-colombia-sede-orinoquia.md)|
-|<figure class="image is-64x64"><img src=""></figure>|[Colección Entomológica – Universidad del Quindío](/comunidad/colombiabio/coleccion-entomologica-de-la-universidad-del-quindio)|
-|<figure class="image is-64x64"><img src=""></figure>|[Herbario Universidad del Quindío]()|
+|<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/zoologica.png"></figure>|[Colección Zoológica Universidad del Tolima](/comunidad/colombiabio/coleccion-zoologica-universidad-de-tolima)|
+|<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/herbario.png"></figure>|[Herbario Orinocense Colombiano](/comunidad/colombiabio/herbario-orinocense-colombiano)|
+|<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Museo Laboratorio Entomológico Universidad del Tolima](/colombiabio/museo-laboratorio-entomologico-de-la-universidad-del-tolima)|
+|<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/herbario.png"></figure>|[Herbario de la Universidad de Caldas](/comunidad/colombiabio/herbario-de-la-universidad-de-caldas)|
+|<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Museo Entomológico Piedras Blancas](/comunidad/colombiabio/museo-entomologico-piedras-blancas)|
+|<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/herpeto.png"></figure>|[Colección Herpetológica Universidad del Quindío](/comunidad/colombiabio/coleccion-herpetologica-de-la-universidad-del-quindio)|
+|<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Colección Entomológica de la Universidad Nacional de Colombia Sede Orinoquia](/comunidad/colombiabio/coleccion-entomologica-de-la-universidad-nacional-de-colombia-sede-orinoquia.md)|
+|<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Colección Entomológica – Universidad del Quindío](/comunidad/colombiabio/coleccion-entomologica-de-la-universidad-del-quindio)|
+|<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/herbario.png"></figure>|[Herbario Universidad del Quindío](/comunidad/colombiabio/herbario-universidad-de-quindio)|
 
 ### Por qué es importante que la información se convierta en registros útiles
 
@@ -41,6 +41,52 @@ Para que los datos de las colecciones biológicas sean verdaderamente útiles a 
 
 [Descarga la infografía](https://statics.sibcolombia.net/sib-resources/images/portal-sib-colombia/imgs/g-p-d-amazinc-1.png){: .button .is-link :}{:target="_blank"}
 
-<img src="" width=770>
+<img src="/comunidad/colombiabio/imagenes/pais-megadiverso/screenshot.png" width=770>
 
-Espacializar la biodiversidad: la georreferenciación
+### Espacializar la biodiversidad: la georreferenciación
+
+|||
+|---|---|
+|![](/comunidad/colombiabio/imagenes/pais-megadiverso/geo-1b.png)|Los datos estandarizados se envían a las colecciones para que completen la información de colecta|
+|![](/comunidad/colombiabio/imagenes/pais-megadiverso/geo-2b.png)|Reducir el número de localidades unificando las que son redundantes|
+|![](/comunidad/colombiabio/imagenes/pais-megadiverso/geo-3b.png)|Determinar el punto de colecta de registro a partir de la descripción de la localidad|
+|![](/comunidad/colombiabio/imagenes/pais-megadiverso/geo-4b.png)|Los datos estandarizados se envían a las colecciones para que completen la información de colecta|
+
+##### Ricardo Ortiz
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VLGS8NHFJEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Daniel Suárez
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qcGsSQD-noA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Primero la calidad: estandarización y estructuración
+
+<img src="/comunidad/colombiabio/imagenes/pais-megadiverso/screenshot2.png" width=770>
+
+##### Edgar Herrera
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h9htfX67-2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Fortalecimiento de capacidades
+
+Como parte de los compromisos adquiridos por Colombia BIO con las colecciones biológicas seleccionadas, un equipo de expertos visitó estos repositorios de información y compartió con sus responsables la metodología usada para llevar a cabo la georreferenciación y la estructuración de los datos durante todo el proceso. De esta manera, se aseguró que las personas que trabajan en las colecciones puedan replicar esta metodología de ahora en adelante y que los datos que produzcan puedan ser precisos, útiles y visibles.  
+
+Las visitas fueron acompañadas por [Amazink Studio](https://www.amazink.co/){:target="_blank"}, que elaboró facilitaciones gráficas del proceso para hacer que la información fuera más clara y comprensible.
+
+
+<img src="https://statics.sibcolombia.net/sib-resources/images/portal-sib-colombia/imgs/g-p-d-amazinc-2.png" width=770>
+
+[Descarga la infografía](https://statics.sibcolombia.net/sib-resources/images/portal-sib-colombia/imgs/g-p-d-amazinc-2.png){: .button .is-link :}{:target="_blank"}
+
+---
+
+<img src="https://statics.sibcolombia.net/sib-resources/images/portal-sib-colombia/imgs/g-p-d-amazinc-3.png" width=770>
+
+[Descarga la infografía](https://statics.sibcolombia.net/sib-resources/images/portal-sib-colombia/imgs/g-p-d-amazinc-3.png){: .button .is-link :}{:target="_blank"}
+
+### Resultados generales del apoyo en gestión y publicación de datos
+
+
+<img src="/comunidad/colombiabio/imagenes/pais-megadiverso/piechart.png" width=770>
