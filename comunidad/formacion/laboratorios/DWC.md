@@ -33,7 +33,7 @@ Estructurar un conjunto de datos de prueba según el estándar DwC, usando la pl
 
 **Archivo de trabajo**
 * Descargue el archivo [<FONT FACE="monospace"><b>«Datos_Caso1_20reg.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_docs/Datos_Caso1_20reg.xlsx) para realizar el laboratorio.
-* Descargue la última versión de la [<FONT FACE="monospace"><b>«Plantilla de publicación»</b></FONT>](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0) de registros biológicos.
+* Descargue la última versión de la [<FONT FACE="monospace"><b>«Plantilla de publicación»</b></FONT>](https://drive.google.com/u/0/uc?id=16oIiR09yAbm8B63CpR0h2phY7tqsFXSk&export=download) de registros biológicos.
 
 --------
 
