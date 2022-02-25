@@ -6,7 +6,7 @@ categories: ["Certificados", "Publicación de datos", "2022"]
 background: /assets/images/noticias_eventos/2022/2022-02-01-novedad-certificados.jpg
 
 ---
-Las herramientas para el reporte de datos asociados a permisos de recolección ([https://ipt.biodiversidad.co/cr-sib/](https://ipt.biodiversidad.co/cr-sib/) y [https://tools.sibcolombia.net/procesador-cr-sib/](https://tools.sibcolombia.net/procesador-cr-sib/)) entraron en actualización el pasado mes de noviembre. Durante este período se han presentado algunos imprevistos, lo que ha llevado a que **el proceso tome más tiempo del estimado y que las herramientas estén fuera de línea**.
+Las herramientas para el reporte de datos asociados a permisos de recolección ([https://ipt.biodiversidad.co/cr-sib/](https://ipt.biodiversidad.co/cr-sib/){:target="_blank"} y [https://tools.sibcolombia.net/procesador-cr-sib/](https://tools.sibcolombia.net/procesador-cr-sib/){:target="_blank"}) entraron en actualización el pasado mes de noviembre. Durante este período se han presentado algunos imprevistos, lo que ha llevado a que **el proceso tome más tiempo del estimado y que las herramientas estén fuera de línea**.
 
 Se ha establecido un procedimiento temporal para subsanar la situación, **certificando vía correo electrónico, y de manera provisional, la entrega de la información**. 
 
