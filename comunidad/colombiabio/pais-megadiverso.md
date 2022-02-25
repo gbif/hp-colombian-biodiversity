@@ -24,18 +24,17 @@ Un comité conformado por las instituciones organizadoras analizó detalladament
 |---|---|
 |<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/zoologica.png"></figure>|[Colección Zoológica Universidad del Tolima](/comunidad/colombiabio/coleccion-zoologica-universidad-de-tolima)|
 |<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/herbario.png"></figure>|[Herbario Orinocense Colombiano](/comunidad/colombiabio/herbario-orinocense-colombiano)|
-|<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Museo Laboratorio Entomológico Universidad del Tolima](/colombiabio/museo-laboratorio-entomologico-de-la-universidad-del-tolima)|
+|<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Museo Laboratorio Entomológico Universidad del Tolima](/comunidad/colombiabio/museo-laboratorio-entomologico-de-la-universidad-del-tolima)|
 |<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/herbario.png"></figure>|[Herbario de la Universidad de Caldas](/comunidad/colombiabio/herbario-de-la-universidad-de-caldas)|
 |<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Museo Entomológico Piedras Blancas](/comunidad/colombiabio/museo-entomologico-piedras-blancas)|
 |<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/herpeto.png"></figure>|[Colección Herpetológica Universidad del Quindío](/comunidad/colombiabio/coleccion-herpetologica-de-la-universidad-del-quindio)|
-|<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Colección Entomológica de la Universidad Nacional de Colombia Sede Orinoquia](/comunidad/colombiabio/coleccion-entomologica-de-la-universidad-nacional-de-colombia-sede-orinoquia.md)|
+|<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Colección Entomológica de la Universidad Nacional de Colombia Sede Orinoquia](/comunidad/colombiabio/coleccion-entomologica-de-la-universidad-nacional-de-colombia-sede-orinoquia)|
 |<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Colección Entomológica – Universidad del Quindío](/comunidad/colombiabio/coleccion-entomologica-de-la-universidad-del-quindio)|
 |<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/herbario.png"></figure>|[Herbario Universidad del Quindío](/comunidad/colombiabio/herbario-universidad-de-quindio)|
 
 ### Por qué es importante que la información se convierta en registros útiles
 
-Para que los datos de las colecciones biológicas sean verdaderamente útiles a la hora de tomar decisiones que nos ayuden a proteger y conservar nuestros recursos naturales, es necesario que cumplan con una serie de requisitos. [Amazink Studio](https://www.amazink.co/)
-{:target="_blank"} apoyó al SiB Colombia elaborando esta pieza gráfica, en la que se explica el proceso básico que deben seguir los datos para convertirse en información útil e integrada.
+Para que los datos de las colecciones biológicas sean verdaderamente útiles a la hora de tomar decisiones que nos ayuden a proteger y conservar nuestros recursos naturales, es necesario que cumplan con una serie de requisitos. [Amazink Studio](https://www.amazink.co/){:target="_blank"} apoyó al SiB Colombia elaborando esta pieza gráfica, en la que se explica el proceso básico que deben seguir los datos para convertirse en información útil e integrada.
 
 <img src="https://statics.sibcolombia.net/sib-resources/images/portal-sib-colombia/imgs/g-p-d-amazinc-1.png" width=770>
 
