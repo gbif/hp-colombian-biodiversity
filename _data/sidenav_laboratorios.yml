@@ -55,3 +55,8 @@ terms:
     path: /formacion/laboratorios/IPT_CargaDatos
   - title: "Mapeo de los datos"
     path: /formacion/laboratorios/IPT_MapeoDatos
+    
+- grouptitle: "Importación de archivos"
+  content:
+  - title: "Importar archivos .txt o .csv en Excel"
+    path: /formacion/laboratorios/ImportacionArchivos
