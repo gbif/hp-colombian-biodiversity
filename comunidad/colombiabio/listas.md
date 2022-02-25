@@ -32,8 +32,7 @@ Revisión de la riqueza de mamíferos de Colombia. La lista cuenta con 528 espec
 
 [Explorar la lista](http://listas.biodiversidad.co/list/e8b9ed9b-f715-4eac-ae24-772fbf40d7ae){: .button .is-link :}
 
-<img src="https://sibcolombia.net/wp-content/uploads/2017/11/logo-scmas.png" width=770>
-     
+    
      
 ### Lista de peces de agua dulce de Colombia
      
@@ -44,7 +43,6 @@ Depuración y actualización del listado de peces de agua dulce del país, que a
 
 [Explorar la lista](http://listas.biodiversidad.co/list/7e3a2242-46d6-4b90-b80c-42c5d27ed93b){: .button .is-link :}
 
-<img src="https://sibcolombia.net/wp-content/uploads/2017/09/logo-acictios.png" width=770>
      
 ### El rol del SiB Colombia
 
