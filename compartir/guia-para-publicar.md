@@ -155,7 +155,7 @@ Si deseas estos beneficios en la publicación de tus conjuntos de datos, usa la 
  
 ### 1. Registra al titular del permiso
 
-Una vez hayas revisado la [política de publicación](/terminoscondiciones/politicapublicacion), y estés de acuerdo en compartir datos, debes solicitar el registro del titular en el SiB Colombia como publicador de datos. La solicitud de registro y credenciales se realiza en línea.
+Una vez hayas revisado la [política de publicación](/terminos-y-condiciones/politica-de-publicacion), y estés de acuerdo en compartir datos, debes solicitar el registro del titular en el SiB Colombia como publicador de datos. La solicitud de registro y credenciales se realiza en línea.
 
 El registro de un titular de permiso de colecta se realiza por una sola vez. Verifica si el titular de tu permiso ya se encuentra registrado [aquí](https://drive.google.com/file/d/1xaoIuBBtQioqxtxHqk1AOUDyLlnPNB0S/view){:target="_blank"}. Si el titular ya está registrado, debes acercarte a uno de los contactos allí registrados para obtener información sobre la publicación de tus datos y las credenciales de acceso.
 
@@ -218,7 +218,7 @@ El Equipo Coordinador realiza un acompañamiento a los publicadores para selecci
 <br />
 
 ### 1. Registra tu organización
-Para llegar a ser un publicador de información a través del SiB Colombia, tu organización debe solicitar un aval y registro a través del Equipo Coordinador del SiB Colombia. Una vez hayas revisado la [política de publicación](/terminoscondiciones/politicapublicacion), y estés de acuerdo en compartir, debes informar a las directivas de tu organización sobre la importancia de ser un publicador del SiB Colombia y los beneficios para la organización. Es desde esa instancia que una organización toma la decisión de ser publicadora.
+Para llegar a ser un publicador de información a través del SiB Colombia, tu organización debe solicitar un aval y registro a través del Equipo Coordinador del SiB Colombia. Una vez hayas revisado la [política de publicación](/terminos-y-condiciones/politica-de-publicacion), y estés de acuerdo en compartir, debes informar a las directivas de tu organización sobre la importancia de ser un publicador del SiB Colombia y los beneficios para la organización. Es desde esa instancia que una organización toma la decisión de ser publicadora.
 
 De ser positiva la decisión, debes solicitar el registro de la organización en el SiB Colombia como publicador de datos e información. La solicitud de registro y aprobación se realiza se realiza [en línea](/compartir/registro).
 
