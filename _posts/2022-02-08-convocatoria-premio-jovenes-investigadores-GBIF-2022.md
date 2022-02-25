@@ -7,7 +7,7 @@ background: /assets/images/noticias_eventos/2022/2022-02-08-jovenes-investigador
 
 ---
 
-El Secretariado de GBIF abrió la invitación a presentar candidaturas para el [Premio Jóvenes Investigadores 2022](https://www.gbif.org/article/44SftFORi0A6mwGK4sgAKW/young-researchers-award) (contenido del enlace en inglés). **La fecha límite de Colombia es el 30 de mayo** y pueden participar los investigadores que reciban las nominaciones formales de los jefes de delegación y los directores de nodo de los países participantes en GBIF. En el caso de Colombia, a través del Equipo Coordinador del SiB Colombia.
+El Secretariado de GBIF abrió la invitación a presentar candidaturas para el [Premio Jóvenes Investigadores 2022](https://www.gbif.org/article/44SftFORi0A6mwGK4sgAKW/young-researchers-award){:target="_blank"} (contenido del enlace en inglés). **La fecha límite de Colombia es el 30 de mayo** y pueden participar los investigadores que reciban las nominaciones formales de los jefes de delegación y los directores de nodo de los países participantes en GBIF. En el caso de Colombia, a través del Equipo Coordinador del SiB Colombia.
 
 Este es un programa anual que tiene como objetivo **fomentar y reconocer la investigación y los descubrimientos innovadores en el ámbito de la informática de la biodiversidad** por parte de los estudiantes de postgrado, cuyos proyectos de maestría y doctorado se basen en los datos mediados por GBIF.
 
@@ -61,4 +61,4 @@ Se espera que los premiados reconozcan el apoyo de GBIF cuando difundan los resu
     5. Una carta oficial del mentor/supervisor de la facultad del estudiante que certifique que el solicitante es un estudiante en buen estado en el programa de postgrado de la universidad.
     6. Al menos una, y no más de tres, cartas de apoyo de investigadores establecidos activos en un campo que abarque e incorpore la informática de la biodiversidad (por ejemplo, genética, composición y rasgos de las especies, biogeografía, ecología, sistemática, etc.)
 
-Convocatoria internacional disponible en la [página web de GBIF](https://www.gbif.org/es/news/6PzaBymtwAEvbpXYtb4d1y/convocatoria-de-candidaturas-al-premio-gbif-para-jovenes-investigadores-2022).
+Convocatoria internacional disponible en la [página web de GBIF](https://www.gbif.org/es/news/6PzaBymtwAEvbpXYtb4d1y/convocatoria-de-candidaturas-al-premio-gbif-para-jovenes-investigadores-2022){:target="_blank"}.
