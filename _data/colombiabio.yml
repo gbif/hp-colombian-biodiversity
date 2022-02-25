@@ -60,7 +60,7 @@ tarjetasColombiabio:
        Se desarrollaron dos giras de especialistas: la primera, liderada por la Universidad CES, reúne a varios de los entomólogos mejor cualificados del país, expertos en diferentes grupos de insectos, para que visiten nueve colecciones de Colombia y realicen procesos de identificación taxonómica, catalogación y transferencia de capacidades, la segunda, liderada por la Universidad de Quindío, reúne varios expertos en diferentes grupos biológicos para adelantar procesos de identificación taxonómica en varias colecciones biológicas del país.
       background: /comunidad/colombiabio/imagenes/landing/fondo2.jpg
       cta:
-      - text: Gira UCES
+      - text: Gira Universidad CES
         href: /comunidad/colombiabio/gira-especialistas
         isPrimary: true
       - text: Gira UniQuindío 
@@ -74,7 +74,7 @@ tarjetasColombiabio:
       # img required
       background: /comunidad/colombiabio/imagenes/landing/fondo3.jpg
       cta:
-      - text: Ver mas
+      - text: Ver más
         href: /comunidad/colombiabio/listas
         isPrimary: true  
       
@@ -85,6 +85,6 @@ tarjetasColombiabio:
       # img required
       background: /comunidad/colombiabio/imagenes/landing/fondo4.jpg
       cta:
-      - text: Ver mas
+      - text: Ver más
         href: /comunidad/colombiabio/colecciones-en-linea
         isPrimary: true    
