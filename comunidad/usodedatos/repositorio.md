@@ -31,5 +31,5 @@ Publicaciones en las que se ha participado:
 
 |           |            |              |
 |-----------|------------| -------------|
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/IEARN.png"></figure> |2019| <a href="" target="_blank">Biodiversidad y Autoriddes Ambientales: ¿Qué nos dicen los datos abiertos? _(Pag.)_</a> |
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/IEARN.png"></figure> |2017 <br> 2018| <a href="http://reporte.humboldt.org.co/biodiversidad/2014/" target="_blank">Biodiversidad y Autoriddes Ambientales: ¿Qué nos dicen los datos abiertos? _(Pag. 73 -77)_</a> |
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/IEARN.png"></figure> |2019| <a href="" target="_blank">Biodiversidad y Autoridades Ambientales: ¿Qué nos dicen los datos abiertos? _(Pag.)_</a> |
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/usodedatos/images/IEARN.png"></figure> |2017 <br> 2018| <a href="http://reporte.humboldt.org.co/biodiversidad/2014/" target="_blank">Biodiversidad y Autoridades Ambientales: ¿Qué nos dicen los datos abiertos? _(Pag. 73 -77)_</a> |
