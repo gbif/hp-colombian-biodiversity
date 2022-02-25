@@ -28,7 +28,7 @@ gallery2:
   - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-15-1024x682.jpg
     image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-15-280x280.jpg
     alt: "placeholder image 7"
-  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-2-1024x682.jpg
+  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-2-1024x812.jpg
     image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-2-280x280.jpg
     alt: "placeholder image 8"
   - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-3-1024x682.jpg
@@ -40,7 +40,7 @@ gallery2:
   - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-5-1024x682.jpg
     image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-5-280x280.jpg
     alt: "placeholder image 11"
-  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-6-1024x682.jpg
+  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-6-1024x742.jpg
     image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-6-280x280.jpg
     alt: "placeholder image 12"
   - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-8-1024x682.jpg
@@ -51,10 +51,9 @@ gallery2:
     alt: "placeholder image 14"
 ---
 
-#### Los registros de la colección
+### Los registros de la colección
 
 Esta colección cuenta con 43.387 registros que están clasificados así:
-
 
 |  |  | 
 | --------: | :-------- | 
@@ -66,38 +65,25 @@ Esta colección cuenta con 43.387 registros que están clasificados así:
 <img src="/comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/map-c-z-t.jpg" width=770>
 
 
-#### Consulta los conjuntos de datos de forma libre y gratuita:
+### Consulta los conjuntos de datos de forma libre y gratuita:
 
-||
-| :--------: | 
-| <figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ut.png"></figure>  | 
-|<a href="http://ipt.biodiversidad.co/sib/resource?r=czut-a">Anfibios (2.068)</a>  | 
-|<a href="http://ipt.biodiversidad.co/sib/resource?r=czut-ara">Arácnidos (565)</a>  | 
-|<a href="http://ipt.biodiversidad.co/sib/resource?r=ut_ictio">Peces (15.590)</a>  | 
-|<a href="http://ipt.biodiversidad.co/sib/resource?r=czut-lp">Lepidópteros (5.735)</a>  | 
-|<a href="http://ipt.biodiversidad.co/sib/resource?r=czut-ma">Macroinvertebrados (15.759)</a>  | 
-|<a href="http://ipt.biodiversidad.co/sib/resource?r=czut-mast">Mamíferos (1.800)</a>  | 
-|<a href="http://ipt.biodiversidad.co/sib/resource?r=czut-or">Aves (1.450)</a>  | 
-|<a href="http://ipt.biodiversidad.co/sib/resource?r=czut-r">Reptiles (420)</a>  | 
 
-|||
-|---|---|
-|<figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ut.png"></figure>|<a href="http://ipt.biodiversidad.co/sib/resource?r=czut-a">Anfibios (2.068)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=czut-ara">Arácnidos (565)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=ut_ictio">Peces (15.590)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=czut-lp">Lepidópteros (5.735)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=czut-ma">Macroinvertebrados (15.759)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=czut-mast">Mamíferos (1.800)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=czut-or">Aves (1.450)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=czut-r">Reptiles (420)</a> |
+||||
+|---|---|---|
+|<figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ut.png"></figure>|<a href="http://ipt.biodiversidad.co/sib/resource?r=czut-a" target="_blank">Anfibios (2.068)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=czut-ara" target="_blank">Arácnidos (565)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=ut_ictio" target="_blank">Peces (15.590)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=czut-lp" target="_blank">Lepidópteros (5.735)</a> |<a href="http://ipt.biodiversidad.co/sib/resource?r=czut-ma" target="_blank">Macroinvertebrados (15.759)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=czut-mast" target="_blank">Mamíferos (1.800)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=czut-or" target="_blank">Aves (1.450)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=czut-r" target="_blank">Reptiles (420)</a> |
 
-|||
-|---|---|
-|<figure class="image is-256x256"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ut.png"></figure>|<a href="http://ipt.biodiversidad.co/sib/resource?r=czut-a">Anfibios (2.068)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=czut-ara">Arácnidos (565)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=ut_ictio">Peces (15.590)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=czut-lp">Lepidópteros (5.735)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=czut-ma">Macroinvertebrados (15.759)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=czut-mast">Mamíferos (1.800)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=czut-or">Aves (1.450)</a> <br> <a href="http://ipt.biodiversidad.co/sib/resource?r=czut-r">Reptiles (420)</a> |
 
-#### Las localidades de los registros
+
+### Las localidades de los registros
 
 <img src="/comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/mapa-zoo-ut-768x362.png" width=770>
 
-<p class="is-size-6">En negro se indican los registros disponibles previamente a través de GBIF: 14.828.</p>
+<p class="is-size-7 has-text-grey">En negro se indican los registros disponibles previamente a través de GBIF: 14.828.</p>
 
-<p class="has-text-grey is-size-6">En rojo se indican los registros que aportaron las Colecciones de la Universidad para el departamento: 29.933.</p>
+<p class="is-size-7 has-text-grey">En rojo se indican los registros que aportaron las Colecciones de la Universidad para el departamento: 29.933.</p>
 
 
-Hay 3.783 localidades únicas que se reparten así:
+Hay 3.783 localidades únicas ubicadas así:
 
 |||
 |---:|:---|
@@ -110,9 +96,8 @@ Hay 3.783 localidades únicas que se reparten así:
 |573|Repartidos en otros 26 departamentos del país|
 |24|En otros países (Venezuela, Brasil, Ecuador y Perú)|
 
-#### Conoce más sobre la colección
+### Conoce más sobre la colección
 
-{% include gallery id="gallery2" caption="Fotografías de Santiago Llano" %}
 
 La Colección Zoológica de la Universidad del Tolima (CZUT) nació a partir del grupo de investigación en zoología, conformado por profesores que en 2002 comenzaron a recolectar individuos de distintos grupos zoológicos a través de diferentes proyectos de investigación.
 
@@ -122,7 +107,9 @@ En un principio, el apoyo institucional era muy poco, así que los muestreos y p
 
 Sin embargo, la dedicación y perseverancia de los curadores ha hecho que la CZUT sea hoy una colección de referencia para el Tolima y para todo el país, debido a la calidad de sus datos y el gran volumen de registros que custodia en cada uno de los grupos biológicos que trabaja (macroinvertebrados, aves, peces, herpetos y mamíferos).
 
-#### ¿Quiénes trabajan en la colección?
+{% include gallery id="gallery2" caption="Fotografías de Santiago Llano" %}
+
+### ¿Quiénes trabajan en la colección?
 
 | | |  |
 | :-------------: |:-------------:| :-----|
