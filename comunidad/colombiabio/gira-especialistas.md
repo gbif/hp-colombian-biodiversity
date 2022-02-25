@@ -7,6 +7,7 @@ imageLicense: |
   _Heliconius erato petiverana_ Fotografía de: Katja Schulz via [Flickr](https://flic.kr/p/bmS9bM)
 height: 41vh
 ---
+
 ### ¿Por qué una Gira de Especialistas?
 
 Las colecciones biológicas, bibliotecas de la vida, custodian información valiosa sobre las especies de la fauna y la flora de nuestro país. Más allá de la importancia innegable de la biodiversidad en sí misma, el proceso de inventariarla nos permite adelantar estudios para conservar y usar nuestros recursos naturales de la manera más adecuada.
@@ -31,6 +32,7 @@ Por otro lado, hay grandes vacíos en el conocimiento de este grupo, debido a su
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SAGtW0EmIk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
 
 <img src="/comunidad/colombiabio/imagenes/gira-especialistas/gira-especialistas.png" width=770>
 
@@ -52,15 +54,15 @@ Por otro lado, hay grandes vacíos en el conocimiento de este grupo, debido a su
 
 |||
 |---|---|
-|<figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-udea.png"></figure>|Colección Entomológica de la Universidad de Antioquia|
-|<figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-iavh.png"></figure>|Colecciones Biológicas Instituto de Investigación en Recursos Biológicos Alexander von Humboldt|
-|<figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ces.png"></figure>|Colecciones Biológicas Universidad CES|
-|<figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-unal.png"></figure>|Instituto de Ciencias Naturales (ICN), Universidad Nacional de Colombia|
-|<figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-uptc.png"></figure>|Museo de Historia Natural Luis Gonzalo Andrade (UPTC), Universidad Pedagógica y Tecnológica de Colombia|
-|<figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-unal.png"></figure>|Museo Entomológico Francisco Luis Gallego, Universidad Nacional de Colombia|
-|<figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-comfenalco.png"></figure>|Museo Entomológico Piedras Blancas|
-|<figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-puj.png"></figure>|Museo Javeriano de Historia Natural (MPUJ), Pontificia Universidad Javeriana|
-|<figure class="image is-128x128"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-udea.png"></figure>|Museo Universitario Universidad de Antioquia (MUUA) – Medellín|
+|<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-udea.png"></figure>|Colección Entomológica de la Universidad de Antioquia|
+|<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-iavh.png"></figure>|Colecciones Biológicas Instituto de Investigación en Recursos Biológicos Alexander von Humboldt|
+|<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ces.png"></figure>|Colecciones Biológicas Universidad CES|
+|<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-unal.png"></figure>|Instituto de Ciencias Naturales (ICN), Universidad Nacional de Colombia|
+|<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-uptc.png"></figure>|Museo de Historia Natural Luis Gonzalo Andrade (UPTC), Universidad Pedagógica y Tecnológica de Colombia|
+|<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-unal.png"></figure>|Museo Entomológico Francisco Luis Gallego, Universidad Nacional de Colombia|
+|<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-comfenalco.png"></figure>|Museo Entomológico Piedras Blancas|
+|<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-puj.png"></figure>|Museo Javeriano de Historia Natural (MPUJ), Pontificia Universidad Javeriana|
+|<figure class="image is-64x64"><img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-udea.png"></figure>|Museo Universitario Universidad de Antioquia (MUUA) – Medellín|
 
 ### "La vida en el planeta reposa sobre los insectos..."
 
