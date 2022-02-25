@@ -21,11 +21,11 @@ Si quiere conocer más sobre este estándar, consulte la sección sobre [plantil
 
 Con Open Refine se pueden corregir errores de digitación, espacios en blanco innecesarios (que afecten la interpretación del archivo), duplicados, elementos con la misma información pero en formatos distintos y muchos otros de manera masiva. Es decir, con la aplicación de diversos filtros, conjuntos y rutinas (secuencia de instrucciones), **es posible corregir, con un solo clic, un error que se repite múltiples veces en un archivo**.
 
-Adicional a las funciones ya mencionadas, **es posible validar la taxonomía de un conjunto de datos utilizando Open Refine**. Esto se logra a través del [API de GBIF](https://www.gbif.org/es/developer/summary), el cual facilita un árbol taxonómico actualizado, robusto y respaldado por la comunidad científica. 
+Adicional a las funciones ya mencionadas, **es posible validar la taxonomía de un conjunto de datos utilizando Open Refine**. Esto se logra a través del [API de GBIF](https://www.gbif.org/es/developer/summary){:target="_blank"}, el cual facilita un árbol taxonómico actualizado, robusto y respaldado por la comunidad científica. 
 
 También es posible conectar Open Refine con muchos otros servicios externos utilizando sus API. Una guía paso a paso se encuentra disponible en los [Laboratorios del Ciclo de Formación del SiB Colombia](https://biodiversidad.co/formacion/laboratorios/OpenRefine).
 
-Por último, el video [¿Cómo usar Open Refine?](https://www.youtube.com/watch?v=etfFcchjP1Q) es una introducción a las funciones más utilizadas de este software.
+Por último, el video [¿Cómo usar Open Refine?](https://www.youtube.com/watch?v=etfFcchjP1Q){:target="_blank"} es una introducción a las funciones más utilizadas de este software.
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/etfFcchjP1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
