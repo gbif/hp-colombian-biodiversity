@@ -85,19 +85,16 @@ Esta colección cuenta con 43.387 registros que están clasificados así:
 
 Hay 3.783 localidades únicas ubicadas así:
 
-|||
-|---:|:---|
-|2.479|En Tolima|
-|211|En Huila|
-|169|En Caldas|
-|169|En Casanare|
-|82|En Magdalena|
-|82|En Valle del Cauca|
-|573|Repartidos en otros 26 departamentos del país|
-|24|En otros países (Venezuela, Brasil, Ecuador y Perú)|
+2.479 en Tolima
+211 en Huila
+169 en Caldas
+169 en Casanare
+82 en Magdalena
+82 en Valle del Cauca
+573 repartidos en otros 26 departamentos del país
+24 en otros países (Venezuela, Brasil, Ecuador y Perú)
 
 ### Conoce más sobre la colección
-
 
 La Colección Zoológica de la Universidad del Tolima (CZUT) nació a partir del grupo de investigación en zoología, conformado por profesores que en 2002 comenzaron a recolectar individuos de distintos grupos zoológicos a través de diferentes proyectos de investigación.
 
