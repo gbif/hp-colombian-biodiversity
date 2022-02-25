@@ -30,5 +30,6 @@ composition:
 |[Experiencia piloto para la construcción de la línea base regional del área priorizada en los departamentos de Putumayo, Caquetá y Nariño - Medio Biótico](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/anh-putumayo)|2020|Construir la línea base regional del medio biótico del Putumayo para facilitar procesos de planeación productivos y sostenibles|
 |[Boyacá BIO](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/boyaca-bio)|2018-2019|Responder preguntas fundamentales sobre el estado de la biodiversidad en la región de Boyacá de manera eficaz y oportuna|
 |[Santander BIO](https://hp-colombian-biodiversity.gbif-staging.org/comunidad/proyectos/nacionales/santander-bio)|2018-2019|Responder preguntas fundamentales sobre el estado de la biodiversidad en la región de Santander de manera eficaz y oportuna|
+|[Colombia BIO](/comunidad/colombiabio)|2016-2018| Fortalecer los conocimientos de la biodiversidad del país y en consecuencia la comprensión de sus posibles usos y aplicaciones|
 
 
