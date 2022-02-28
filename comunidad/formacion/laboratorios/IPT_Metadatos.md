@@ -22,7 +22,7 @@ Si es la primera vez que va a documentar metadatos utilizando la herramienta de 
 <br>
 **Sobre la herramienta**
 
-El [IPT](https://www.gbif.org/es/ipt) (del inglés Integrated Publishing Toolkit) es un _software_ gratuito y de código abierto que se utiliza para publicar y compartir conjuntos de datos de biodiversidad a través del [SiB Colombia](https://sibcolombia.net/), [GBIF](https://www.gbif.org/) y [OBIS](https://obis.org/). Este _software_ permite integrar datos y metadatos en un mismo formato de archivo, conocido como _Darwin Core Archive_ (DwC-A). Una de las ventajas de esta herramienta, frente a otros mecanismos de publicación, es que provee una interfaz para documentar fácilmente los metadatos. Además, contempla la documentación de los autores del recurso, promoviendo así el adecuado reconocimiento a quienes publican datos sobre biodiversidad.
+El [IPT](https://www.gbif.org/es/ipt){:target="_blank"} (del inglés Integrated Publishing Toolkit) es un _software_ gratuito y de código abierto que se utiliza para publicar y compartir conjuntos de datos de biodiversidad a través del [SiB Colombia](https://biodiversidad.co), [GBIF](https://www.gbif.org/){:target="_blank"} y [OBIS](https://obis.org/){:target="_blank"}. Este _software_ permite integrar datos y metadatos en un mismo formato de archivo, conocido como _Darwin Core Archive_ (DwC-A). Una de las ventajas de esta herramienta, frente a otros mecanismos de publicación, es que provee una interfaz para documentar fácilmente los metadatos. Además, contempla la documentación de los autores del recurso, promoviendo así el adecuado reconocimiento a quienes publican datos sobre biodiversidad.
 
 La instancia de publicación principal es el [IPT SiB](https://ipt.biodiversidad.co/sib/). Adicionalmente, los institutos del SINA administran su propio IPT.
 
@@ -50,7 +50,7 @@ Credeniales de ingreso al [IPT _test_](https://ipt.biodiversidad.co/sib-test/):
 
 Esta guía provee un caso de ejemplo para realizar el ejercicio. Sin embargo, se recomienda realizar el laboratorio con base en un informe o artículo de sus propios datos.
 
-- Descargue el caso de ejemplo [<FONT FACE="monospace"><b>«Informe Expedición Parulidae 2001.pdf»</b></FONT>](https://drive.google.com/file/d/10ygXD9rD4_mmQhTrLn3VnM0OXUnNJt4h/view?usp=sharing) 
+- Descargue el caso de ejemplo [<FONT FACE="monospace"><b>«Informe Expedición Parulidae 2001.pdf»</b></FONT>](https://drive.google.com/file/d/10ygXD9rD4_mmQhTrLn3VnM0OXUnNJt4h/view?usp=sharing){:target="_blank"} 
 
 
 --------
@@ -113,7 +113,7 @@ Finalmente, dé clic en la opción <span class="tag is-warning is-light"><i>Crea
 
 Después de crear el recurso, el IPT lo dirigirá a la **"Vista General"**, donde encontrará 6 secciones para la administración del recurso (Fig. 5). Para este laboratorio, solo debe utilizar la sección **"Metadatos"**, ya que el Equipo Coordinador del SiB Colombia (EC-SiB) se encarga de configurar y administrar las demás secciones durante el proceso de publicación.
 
-Puede conocer más sobre las seciones de la **"Vista General"** del recurso en la [Guía de referencia rápida del IPT - Vista general](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#vista-general-del-recurso).
+Puede conocer más sobre las seciones de la **"Vista General"** del recurso en la [Guía de referencia rápida del IPT - Vista general](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#vista-general-del-recurso){:target="_blank"}.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig5_meta_vistageneral.png" width=800>
 
@@ -131,7 +131,7 @@ Desde la **"Vista General"** del recurso, ubique la sección de **"Metadatos"** 
 Por ejemplo, si usted realizó un estudio filogenético y desea publicar los datos de las muestras de tejido que tomó en campo, describa solo las muestras y observaciones asociadas, no el estudio filogenético.
 >
 
-Esta guía comprende una serie de recomendaciones basadas en las preguntas y errores más frecuentes sobre los metadatos. Por lo tanto, solo encontrará explicaciones para algunos campos. Para complementar este laboratorio y tener acceso a un seguimiento paso a paso, se recomienda revisar la [Guía de referencia rápida del IPT - Metadatos.](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#metadatos-b%C3%A1sicos)
+Esta guía comprende una serie de recomendaciones basadas en las preguntas y errores más frecuentes sobre los metadatos. Por lo tanto, solo encontrará explicaciones para algunos campos. Para complementar este laboratorio y tener acceso a un seguimiento paso a paso, se recomienda revisar la [Guía de referencia rápida del IPT - Metadatos.](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#metadatos-b%C3%A1sicos){:target="_blank"}
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig6_meta_secciones.png" width=600>
 
@@ -157,7 +157,7 @@ Seleccione la organización principal que respalda la publicación de los datos 
 
 **"Licencia de los datos"**
 
-Para asegurar que sus datos sean abiertos, estos deben contar de manera explícita con una licencia que permita su reutilización. En este sentido, escoja una de las licencias [_Creative Commons_](https://co.creativecommons.net/) que regule hasta dónde quiere que lleguen sus datos (Fig. 7C). Puede usar la [guía interactiva de acceso abierto](https://sibcolombia.net/acceso-abierto/) para realizar la elección (Fig. 8).
+Para asegurar que sus datos sean abiertos, estos deben contar de manera explícita con una licencia que permita su reutilización. En este sentido, escoja una de las licencias [_Creative Commons_](https://co.creativecommons.net/){:target="_blank"} que regule hasta dónde quiere que lleguen sus datos (Fig. 7C). Puede usar la [guía interactiva de acceso abierto](https://biodiversidad.co/recursos/acceso-abierto) para realizar la elección (Fig. 8).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig8_meta_licencias.png" width=600>
 
@@ -179,7 +179,7 @@ En esta sección debe incluir a todas las personas que aportaron significativame
 
 <sub>_Figura 9. Creadores del recurso, sección para documentar los autores del recurso._</sub>
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Metadatos básicos](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#metadatos-b%C3%A1sicos).
+Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Metadatos básicos](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#metadatos-b%C3%A1sicos){:target="_blank"}.
 
 ### 4.2. Cobertura geográfica
 
@@ -195,7 +195,7 @@ Ingrese la **"Descripción"** de la cobertura geográfica, de acuerdo al área d
 
 <sub>_Figura 10. Sección cobertura geográfica. A. Selección de cobertura en mapa, B. Descripción_.</sub>
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Cobertura geográfica](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#cobertura-geogr%C3%A1fica).
+Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Cobertura geográfica](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#cobertura-geogr%C3%A1fica){:target="_blank"}.
 
 ### 4.3. Cobertura taxonómica
 
@@ -223,7 +223,7 @@ Cuando se haya añadido la lista de taxa, recuerde completar la **"Categoría"**
 
 <sub>*Figura 11. Sección cobertura taxonómica. A. Añadir varios taxa, B. Documentación de la categoría y nombre común de cada taxa.*</sub>
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Cobertura taxonómica](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#cobertura-taxon%C3%B3mica).
+Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Cobertura taxonómica](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#cobertura-taxon%C3%B3mica){:target="_blank"}.
 
 ### 4.4. Cobertura temporal
 
@@ -237,11 +237,11 @@ Recuerde documentar el rango de fechas con el formato del estándar ISO 8601 (AA
 
 <sub>*Figura 12. Sección cobertura temporal.*</sub>
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Cobertura temporal](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#cobertura-temporal).
+Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Cobertura temporal](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#cobertura-temporal{:target="_blank"}).
 
 ### 4.5 Palabras clave
 
-El IPT crea unas palabras clave por defecto con base en el [tesauro de GBIF](http://rs.gbif.org/vocabulary/gbif/dataset_type.xml). Es importante que **no** borre estos tesauros ni los modifique. En cambio, dé clic en <span class="tag is-warning is-light"><i>Añadir nuevo(a) palabras clave</i></span> para crear un nuevo campo y agregar palabras clave (Fig. 13).
+El IPT crea unas palabras clave por defecto con base en el [tesauro de GBIF](http://rs.gbif.org/vocabulary/gbif/dataset_type.xml){:target="_blank"}{:target="_blank"}{:target="_blank"}. Es importante que **no** borre estos tesauros ni los modifique. En cambio, dé clic en <span class="tag is-warning is-light"><i>Añadir nuevo(a) palabras clave</i></span> para crear un nuevo campo y agregar palabras clave (Fig. 13).
 
 Si sus palabras clave provienen de un tesauro como [este](http://vocabularies.unesco.org/browser/thesaurus/es/page/mt2.70), indique el nombre del tesauro seguido por la URL en el campo **"Tesauro/Vocabulario"**. Si no esta usando un tesauro para seleccionar las palabras clave, documente el campo **"Tesauro/Vocabulario"** con <span class="tag is-light"><b>n/a</b></span> (No Aplica).
 
@@ -269,7 +269,7 @@ En esta sección, se documenta la información de las personas u organizaciones 
 
 Se recomienda que las partes (personas e instituciones) involucradas en la generación de los datos sean reconocidas en los metadatos, idealmente como "Creadores del recurso" en la sección de **"Metadatos básicos"** (si se consideran autores del recurso) y en **"Partes asociadas"** (si estuvieron involucradas en la generación del recurso y cumplen alguno de los roles del campo **"Rol"**).
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Partes asociadas](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#partes-asociadas).
+Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Partes asociadas](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#partes-asociadas){:target="_blank"}.
 
 
 ### 4.7. Datos del proyecto
@@ -283,7 +283,7 @@ Los campos **"Identificador"** y **"Personas asociadas al proyecto"** no están 
 
 - En el campo **"Personas Asociadas al Proyecto"**, se documentan las personas involucradas si estas no fueron mencionadas en los metadatos básicos o como partes asocidas. Si ingresa personas en este campo, debe añadir obligatoriamente el campo **"Rol"**. De lo contrario, se pueden generar inconvenientes al momento de publicar el recurso.
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Datos del proyecto](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#datos-del-proyecto).
+Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Datos del proyecto](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#datos-del-proyecto{:target="_blank"}).
 
 ### 4.8. Métodos de muestreo
 
@@ -303,7 +303,7 @@ Puede ver más detalles acerca de esta sección en la [Guía de referencia rápi
 
 En el campo **"¿Cómo referenciar este recurso?"**, asegurese de que esté activada la opción <span class="tag is-warning is-light"><i>Generación automática</i></span>. De esta forma, dicha sección se diligenciará según lo documentado en los apartados de **"Creadores del Recurso"** y **"Proveedores de los Metadatos"**, compilados en la sección **"Metadatos Básicos"** (Fig. 15). 
 
-El formato de la referencia utilizado en la generación automática se basa en el formato recomendado (referencia de _DataCite_) y satisface la [_Joint Declaration of Data Citation Principle_](https://www.force11.org/datacitationprinciples). Este formato incluye un número de versión, el cual es particularmente importante para los conjuntos de datos que se actualizan continuamente.
+El formato de la referencia utilizado en la generación automática se basa en el formato recomendado (referencia de _DataCite_) y satisface la [_Joint Declaration of Data Citation Principle_](https://www.force11.org/datacitationprinciples){:target="_blank"}. Este formato incluye un número de versión, el cual es particularmente importante para los conjuntos de datos que se actualizan continuamente.
 
 <div class="notification is-info is-light">
   <b>Nota:</b> si está activada la referencia automática, la citación incluirá el DOI (previamente asignado a la publicación), lo cual facilitará el rastreo del historial de uso del conjunto de datos.
@@ -315,7 +315,7 @@ Cuando se genere la citación, asegúrese de que todos los autores involucrados 
 
 <sub>*Figura 15. Sección Referencias.*</sub>
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Referencias](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#referencias).
+Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Referencias](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#referencias){:target="_blank"}.
 
 ### 4.10. Datos de la Colección
 
@@ -324,18 +324,18 @@ Documente esta sección con base en la información sobre la colección de la po
 1. El conjunto de datos corresponde a una colección biológica.
 2. Una o varias de las observaciones del conjunto de datos está asociada a un especímen que fue entregado y depositado en una colección biológica.
 
-Es recomendable documentar los campos de acuerdo al [Registro Nacional de Colecciones Biológicas](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones). Puede añadir tantas coleciones como sea necesario (Fig. 16).
+Es recomendable documentar los campos de acuerdo al [Registro Nacional de Colecciones Biológicas](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones){:target="_blank"}. Puede añadir tantas coleciones como sea necesario (Fig. 16).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig16_meta_colecciones.png" width=600>
 
 <sub>*Figura 16. Sección datos de la colección documentados de acuerdo al Registro Nacional de Colecciones Biológicas.*</sub>
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Datos de la Colección](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#datos-de-la-colecci%C3%B3n).
+Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Datos de la Colección](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#datos-de-la-colecci%C3%B3n){:target="_blank"}.
 
 ### 4.11 Enlaces Externos
-Esta es una sección opcional. Puede incluir la URL de otro repositorio donde también se encuentren los datos publicados. Por ejemplo, [DRYAD](https://datadryad.org/stash), [NCBI](https://www.ncbi.nlm.nih.gov/), [BOLD](https://boldsystems.org/), entre otros.
+Esta es una sección opcional. Puede incluir la URL de otro repositorio donde también se encuentren los datos publicados. Por ejemplo, [DRYAD](https://datadryad.org/stash){:target="_blank"}, [NCBI](https://www.ncbi.nlm.nih.gov/){:target="_blank"}{:target="_blank"}, [BOLD](https://boldsystems.org/), entre otros.
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Enlaces Externos](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#enlaces-externos).
+Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Enlaces Externos](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#enlaces-externos){:target="_blank"}.
 
 ### 4.12 Metadatos Adicionales
 Esta es una sección opcional. Generalmente, el publicador no debe documentar ningún campo. El EC-SiB añadirá el logo de la organización publicadora principal (Fig. 17A) y el IPT completará automáticamente los **"Identificadores Alternativos"**, que incluyen la url del recurso en el IPT, el DOI y el ID del recurso en el SiB Colombia y GBIF, una vez que se publique el recurso (Fig. 17B).
@@ -344,7 +344,7 @@ Esta es una sección opcional. Generalmente, el publicador no debe documentar ni
 
 <sub>_Figura 17. Sección metadatos adicionales. A. Logo estandarizado del publicador, B. identificadores alternativos._</sub>
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Metadatos Adicionales](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#metadatos-adicionales).
+Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Metadatos Adicionales](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#metadatos-adicionales){:target="_blank"}.
 
 ## Paso 5 - Datos propios
 
@@ -359,7 +359,7 @@ Si realizó este laboratorio con el caso de ejemplo, ahora intente crear un nuev
 
 ![](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/)  permite usar, redistribuir y construir sobre estos contenidos libremente. 
+La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} permite usar, redistribuir y construir sobre estos contenidos libremente. 
 
 ¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
 
