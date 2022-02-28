@@ -183,7 +183,7 @@ Una vez identificados el sistema de coordenadas y el _datum_, utilice un softwar
 Las versiones de software SIG actuales aún no cuentan con el nuevo sistema de referencia espacial CTM 12 incorporado, por lo que es necesario crearlo antes de poder convertir nuestras coordenadas originales en el nuevo origen al sistema de referencia WGS84. A continuación, se comparten algunos recursos que explican cómo incorporar este sistema de referencia espacial para visualizar las coordenadas:
 
 **QGIS**:
-[Configurando la proyección CTM12 en QGIS](https://qgisusers.co/es/blog/configurando-la-proyeccion-ctm12-en-qgis/) {:target="_blank"}
+[Configurando la proyección CTM12 en QGIS](https://qgisusers.co/es/blog/configurando-la-proyeccion-ctm12-en-qgis/){:target="_blank"}
 
 **ArcGIS (ArcMap)**:
 [Tutorial ARCGIS Cap.27-01 - Crear sistema de coordenadas proyectadas en ARCGIS](https://www.youtube.com/watch?v=jteR27jFlYg){:target="_blank"}
