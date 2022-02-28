@@ -15,7 +15,7 @@ Realizar la estandarización y conversión de fechas al formato ISO 8601 (AAAA-M
 
 **Sobre la herramienta**
 
-La herramienta [_Date parsing_](https://data.canadensys.net/tools/dates), desarrollada por [_Canadensys_](http://www.canadensys.net/) (nodo GBIF de Canadá), permite transformar y estandarizar fechas de forma masiva, de acuerdo al estándar ISO 8601 (AAAA-MM-DD), requerido para la documentación de fechas en el estándar _Darwin Core_.
+La herramienta [_Date parsing_](https://data.canadensys.net/tools/dates){:target="_blank"}, desarrollada por [_Canadensys_](http://www.canadensys.net/){:target="_blank"} (nodo GBIF de Canadá), permite transformar y estandarizar fechas de forma masiva, de acuerdo al estándar ISO 8601 (AAAA-MM-DD), requerido para la documentación de fechas en el estándar _Darwin Core_.
 
 **Enlace**
 
@@ -41,7 +41,7 @@ Descargue el archivo [<FONT FACE="monospace"><b>«datos_canadensys.xlsx»</b></F
 --------
 
 ## Paso 1 - Ingreso
-Ingrese a la aplicación en línea [_Date parsing_](https://data.canadensys.net/tools/dates) y revise cuidadosamente las opciones disponibles para ingresar las fechas.
+Ingrese a la aplicación en línea [_Date parsing_](https://data.canadensys.net/tools/dates){:target="_blank"} y revise cuidadosamente las opciones disponibles para ingresar las fechas.
 
 <div class="notification is-info is-light">
   <b>Tip:</b> las fechas pueden estar escritas en múltiples formatos, siempre y cuando no haya ambiguedades. Por ejemplo, cuando el año no se puede distinguir del mes o del día. Opcionalmente, las fechas pueden cargarse a la herramienta por medio del identificador de registro, seguido por una tabulación o una barra vertical, como se muestra en los siguientes ejemplos.
@@ -167,7 +167,7 @@ Si tiene datos propios y desea publicarlos, intente seguir los pasos de este lab
 
 ![](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, redistribuir y construir sobre estos contenidos libremente. 
+La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} permite usar, redistribuir y construir sobre estos contenidos libremente. 
 
 ¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
 
