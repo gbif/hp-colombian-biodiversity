@@ -11,7 +11,7 @@ toc: true
 
 **Objetivo**
 
-Realizar la validación taxonómica automática de los nombres científicos de especies marino-costeras para detectar posibles errores de formato y precisión. La validación se hará por medio del servicio [WoRMS *TaxonMatch*](http://www.marinespecies.org/aphia.php?p=match).
+Realizar la validación taxonómica automática de los nombres científicos de especies marino-costeras para detectar posibles errores de formato y precisión. La validación se hará por medio del servicio [WoRMS *TaxonMatch*](http://www.marinespecies.org/aphia.php?p=match){:target="_blank"}.
 
 **Introducción**
 
@@ -28,14 +28,14 @@ Realizar la validación taxonómica automática de los nombres científicos de e
 
 **Sobre la Herramienta**
 
-La herramienta [WoRMS TaxonMatch](http://www.marinespecies.org/aphia.php?p=match) es un servicio del Registro Mundial de especies Marinas ([WoRMS](https://www.marinespecies.org/)) que permite validar de manera automática y masiva hasta 1 500 nombres científicos. La herramienta compara los nombres científicos sometidos contra la base de datos _**Aphia**_, la cual combina múltiples [bases de datos marinas](http://www.marinespecies.org/subregisters.php) verificadas por taxónomos de los diferentes grupos marinos documentados en WoRMS. 
+La herramienta [WoRMS TaxonMatch](http://www.marinespecies.org/aphia.php?p=match){:target="_blank"} es un servicio del Registro Mundial de especies Marinas ([WoRMS](https://www.marinespecies.org/){:target="_blank"}) que permite validar de manera automática y masiva hasta 1 500 nombres científicos. La herramienta compara los nombres científicos sometidos contra la base de datos _**Aphia**_, la cual combina múltiples [bases de datos marinas](http://www.marinespecies.org/subregisters.php){:target="_blank"} verificadas por taxónomos de los diferentes grupos marinos documentados en WoRMS. 
 
-Esta herramienta le permite al usuario obtener el nombre válido con sus fuentes y la clasificación de cada taxón (<span class="tag is-success is-light"><i>kingdom</i></span>,  <span class="tag is-success is-light"><i>phylum</i></span>, <span class="tag is-success is-light"><i>class</i></span>, <span class="tag is-success is-light"><i>order</i></span>, <span class="tag is-success is-light"><i>family</i></span>, <span class="tag is-success is-light"><i>genus</i></span>) y su estatus taxonómico (Sinónimo, Aceptado o Dudoso). Adicionalmente, le permite obtener los identificadores de WoRMS (equivalente al campo DwC <span class="tag is-success is-light"><i>scientificNameID</i></span>), los cuales son requeridos para la publicación de datos en el [SiB Marino](https://siam.invemar.org.co/sibm) y el [_Ocean Biogeographic Information System_ - OBIS](https://obis.org/).
+Esta herramienta le permite al usuario obtener el nombre válido con sus fuentes y la clasificación de cada taxón (<span class="tag is-success is-light"><i>kingdom</i></span>,  <span class="tag is-success is-light"><i>phylum</i></span>, <span class="tag is-success is-light"><i>class</i></span>, <span class="tag is-success is-light"><i>order</i></span>, <span class="tag is-success is-light"><i>family</i></span>, <span class="tag is-success is-light"><i>genus</i></span>) y su estatus taxonómico (Sinónimo, Aceptado o Dudoso). Adicionalmente, le permite obtener los identificadores de WoRMS (equivalente al campo DwC <span class="tag is-success is-light"><i>scientificNameID</i></span>), los cuales son requeridos para la publicación de datos en el [SiB Marino](https://siam.invemar.org.co/sibm){:target="_blank"} y el [_Ocean Biogeographic Information System_ - OBIS](https://obis.org/){:target="_blank"}.
 
 
 **Enlace**
 
-WoRMS *TaxonMatch*: [http://www.marinespecies.org/aphia.php?p=match](http://www.marinespecies.org/aphia.php?p=match)
+WoRMS *TaxonMatch*: [http://www.marinespecies.org/aphia.php?p=match](http://www.marinespecies.org/aphia.php?p=match){:target="_blank"}
 
 **Requerimientos** 
 
@@ -70,7 +70,7 @@ Abra el archivo [<FONT FACE="monospace"><b>«datos_CasoMarinoCosteros.xls»</b><
 
 ## Paso 2 - Configuración de la herramienta 
 
-En [WoRMS](https://www.marinespecies.org/index.php) vaya al módulo <span class="tag is-warning is-light"><b><i>Tools > MatchTaxa</i></b></span> o ingrese directamente al vínculo [https://www.marinespecies.org/aphia.php?p=match](https://www.marinespecies.org/aphia.php?p=match).
+En [WoRMS](https://www.marinespecies.org/index.php){:target="_blank"} vaya al módulo <span class="tag is-warning is-light"><b><i>Tools > MatchTaxa</i></b></span> o ingrese directamente al vínculo [https://www.marinespecies.org/aphia.php?p=match](https://www.marinespecies.org/aphia.php?p=match){:target="_blank"}.
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_Worms/Fig.1_WoRMS.png" width=800>
 
@@ -159,7 +159,7 @@ Revise  los nombres de la columna <span class="tag is-warning is-light">WoRMS <i
 
 <sup>_Figura 5. Ejemplo de un nombre ambiguo "Apogon" que requiere revisión. En la lista desplegable se muestran las coincidencias con WoRMS._</sup>
 
-Usando la barra de búsqueda general de WoRMS ([https://www.marinespecies.org/index.php](https://www.marinespecies.org/index.php)), busque los dos nombres que aparecen en la lista desplegable (Fig. 6). 
+Usando la barra de búsqueda general de WoRMS ([https://www.marinespecies.org/index.php](https://www.marinespecies.org/index.php){:target="_blank"}), busque los dos nombres que aparecen en la lista desplegable (Fig. 6). 
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_Worms/Fig.6_WoRMS.png" width=600>
 
@@ -167,8 +167,8 @@ Usando la barra de búsqueda general de WoRMS ([https://www.marinespecies.org/in
 
 Tras la búsqueda, obtendrá los siguientes enlaces:
 
-- [_Apogon Lacepède, 1801_](https://www.marinespecies.org/aphia.php?p=taxdetails&id=125913)
-- [_Apogon Elliott_](https://www.marinespecies.org/aphia.php?p=taxdetails&id=1077675) _accepted as_ [_Krigia Schreb_](https://www.marinespecies.org/aphia.php?p=taxdetails&id=1076104)
+- [_Apogon Lacepède, 1801_](https://www.marinespecies.org/aphia.php?p=taxdetails&id=125913){:target="_blank"}
+- [_Apogon Elliott_](https://www.marinespecies.org/aphia.php?p=taxdetails&id=1077675){:target="_blank"} _accepted as_ [_Krigia Schreb_](https://www.marinespecies.org/aphia.php?p=taxdetails&id=1076104){:target="_blank"}
 
 Al ver en detalle cada una de las opciones, notará que la segunda corresponde a una planta y no a un pez. Se sabe que este género es un pez, ya que en el conjunto de datos se documenta bajo la clase Actinopterygii. Por lo tanto, se descarta la segunda opción.
 
@@ -246,7 +246,7 @@ Abra el archivo de resultados con Excel u _OpenRefine_ y explore las columnas ob
 
  - Nuevamente, revise los nombres que están vacíos y no tuvieron ninguna coincidencia con WoRMS en la columna _**"Match type"**_. ¿Podría explicar por qué no hubo coindicencia?
 
-> Es posible que algunos nombres de taxones marinos no esten aún en WoRMS. Para agregarlos, es necesario seguir las recomendaciones de la documentación de WoRMS en las secciones [_Add a new accepted taxon_](https://www.marinespecies.org/aphia.php?p=manual#topic2) y [_Add a new unaccepted taxon_](https://www.marinespecies.org/aphia.php?p=manual#topic3).
+> Es posible que algunos nombres de taxones marinos no esten aún en WoRMS. Para agregarlos, es necesario seguir las recomendaciones de la documentación de WoRMS en las secciones [_Add a new accepted taxon_](https://www.marinespecies.org/aphia.php?p=manual#topic2){:target="_blank"} y [_Add a new unaccepted taxon_](https://www.marinespecies.org/aphia.php?p=manual#topic3){:target="_blank"}.
 >
     
  - Explore la columna _**"Taxon status"**_ y revise los nombres que tengan valores distintos a <span class="tag is-light"><b><i>accepted</i></b></span> y los que estén vacíos. Compare dichos nombres con la columna _**"ScientificName_accepted"**_ y realice los respectivos ajustes.
@@ -274,7 +274,7 @@ Descargue y compare el siguiente archivo, validado según las definiciones del e
 
 ![](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, redistribuir y construir sobre estos contenidos libremente.
+La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} permite usar, redistribuir y construir sobre estos contenidos libremente.
     
 ¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
 
