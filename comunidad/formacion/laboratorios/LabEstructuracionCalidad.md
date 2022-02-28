@@ -23,9 +23,9 @@ Las metas de aprendizaje de este laboratorio son:
  
 ## Guías
 
-1. [Estandarización de datos en Darwin Core](comunidad/formacion/laboratorios/DWC)
-2. [Estandarización de datos usando las extensiones del Darwin Core](comunidad/formacion/laboratorios/DWCextensiones)
-3. [Validador de datos - GBIF](comunidad/formacion/laboratorios/DataValidator)
+1. [Estandarización de datos en Darwin Core](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/DWC)
+2. [Estandarización de datos usando las extensiones del Darwin Core](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/DWCextensiones)
+3. [Validador de datos - GBIF](/comunidad/formacion/laboratorios/DataValidator)
 
 ## Glosario
 
