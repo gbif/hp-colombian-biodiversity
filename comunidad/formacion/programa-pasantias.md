@@ -82,7 +82,7 @@ ___
     
 <br>
 <p>
-Esta pasantía se enmarca en la normativa ambiental del país <a href="https://www.minambiente.gov.co/images/normativa/app/decretos/4e-DECRETO%201076%20DE%202015%20MINAMBIENTE%20EXPIDE%20DECRETO%20%C3%9ANICO%20REGLAM.%20SECTOR%20AMBIENTE%20Y%20DESARROLLO%20SOSTENIBLE.pdf">decretos 1376 y 3016 de 2013 -hoy compilados en el[decreto 1076 de 2015</a> que regula la recolección de especímenes; y busca facilitar que los datos sobre biodiversidad generados bajo esta normativa se transformen en una herramienta de conocimiento más allá de los obligaciones legales y que a su ves les permita a los publicadores recibir crédito académido y demás beneficios asociados a la publciación a través del SiB Colombia.
+Esta pasantía se enmarca en la normativa ambiental del país (decretos 1376 y 3016 de 2013, hoy compilados en el <a href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153" target="_blank"> decreto 1076 de 2015</a>) que regula la recolección de especímenes; y busca facilitar que los datos sobre biodiversidad generados bajo esta normativa se transformen en una herramienta de conocimiento más allá de los obligaciones legales y que a su ves les permita a los publicadores recibir crédito académido y demás beneficios asociados a la publciación a través del SiB Colombia.
 </p>
   
 <ul>
@@ -113,7 +113,7 @@ ___
     
 <br>
 <p>
-Esta pasantía busca facilitar la publicación de datos de diferentes grupos biológicos, zonas geográficas  o temáticas para los cuales existe muy poca o ningun tipo de información publciada de manera libre y gratuita. En cada convocatoria identificamos un aliado estratégico para trabajar sobre sus datos y asegurar que estos sean publicados con la mejor calidad posible. A la fecha hemos trabajado de la mano con la <a href="https://www.gbif.org/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5">Pontificia Universidad Javeriana</a> facilitando la publicación de datos de colecciones biológicas de microoganismos y con el <a href="https://obis.org/node/d2f71b1b-9138-4aba-ad8f-8327ac3d041e">INVEMAR</a> para la publicación de datos marino-costeros.
+Esta pasantía busca facilitar la publicación de datos de diferentes grupos biológicos, zonas geográficas  o temáticas para los cuales existe muy poca o ningun tipo de información publciada de manera libre y gratuita. En cada convocatoria identificamos un aliado estratégico para trabajar sobre sus datos y asegurar que estos sean publicados con la mejor calidad posible. A la fecha hemos trabajado de la mano con la <a href="https://www.gbif.org/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5" target="_blank">Pontificia Universidad Javeriana</a> facilitando la publicación de datos de colecciones biológicas de microoganismos y con el <a href="https://obis.org/node/d2f71b1b-9138-4aba-ad8f-8327ac3d041e" target="_blank">INVEMAR</a> para la publicación de datos marino-costeros.
 </p>
   
 <ul>
@@ -172,8 +172,8 @@ La convocatoria se abre  anualmente o semestralmente por el periodo de un mes du
 La selección de los pasantes se hace basada únicamente en méritos y en los resultados de su prueba técnica y entrevista. En el SiB Colombia promovemos la diversidad cultural, social y de género, e invitamos a todos los estudiantes a aplicar.
 
   Recursos útiles para aplicar:
-  * [Hoja de vida](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=101:hoja-de-vida&catid=76&Itemid=169)
-  * [Carta de intención](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=133:guia-para-la-elaboracion-de-cartas-de-presentacion-o-cover-letters&catid=76&Itemid=169)
+  * [Hoja de vida](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=101:hoja-de-vida&catid=76&Itemid=169){:target="_blank"}
+  * [Carta de intención](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=133:guia-para-la-elaboracion-de-cartas-de-presentacion-o-cover-letters&catid=76&Itemid=169){:target="_blank"}
 
 **Etapa 1 - Revisión de aplicaciones**
 
