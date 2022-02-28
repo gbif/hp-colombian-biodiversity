@@ -2,9 +2,9 @@
 layout: heroImage
 title: Colección Herpetológica
 description: Universidad del Quindío
-background: /comunidad/colombiabio/imagenes/layout-colecciones.jpg
+background: /comunidad/colombiabio/imagenes/layout-herpeto.jpg
 imageLicense: |
-  _Heliconius erato petiverana_ Fotografía de: Katja Schulz via [Flickr](https://flic.kr/p/bmS9bM)
+  _Anolis danieli_ macho Fotografía de: Maria del Rosario Castaneda via [Flickr](https://flic.kr/p/f89XP6)
 height: 41vh
 gallery2:
   - url: /comunidad/colombiabio/imagenes/coleccion-herpetologica-de-la-universidad-del-quindio/h-u-q-001-1024x682.jpg
