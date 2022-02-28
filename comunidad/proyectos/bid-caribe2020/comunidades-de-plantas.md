@@ -19,7 +19,7 @@ Dirigido a científicos, agencias, organizaciones no gubernamentales y ciudadano
 
 Durante el proyecto, el impacto se mide por el interés en el proyecto por parte de los funcionarios gubernamentales y los participantes en el taller de formación, mientras que los resultados a largo plazo se evaluarán por la diversidad entre los usos de los datos del proyecto y la incorporación a la política.  
 
-Encuentre [aquí](https://www.researchgate.net/project/Vegetation-Ecology-of-Colombia-Ecologia-de-la-vegetacion-de-Colombia-2){:target="_blank"} investigación de trasfonfo de este proyecto.
+Encuentre [aquí](https://www.researchgate.net/project/Vegetation-Ecology-of-Colombia-Ecologia-de-la-vegetacion-de-Colombia-2){:target="_blank"} una investigación de trasfonfo de este proyecto.
 
 **Financiamiento:** € 19.671  
 **Co-financiamiento:** € 23.008  
