@@ -21,11 +21,11 @@ Video introductorio de la herramienta, el cual da un contexto general sobre su u
 <br>
 **Sobre la herramienta**
 
-La herramienta [_Coordinate conversion_](https://data.canadensys.net/tools/coordinates), desarrollada por [_Canadensys_](http://www.canadensys.net/) (nodo GBIF de Canadá), es una aplicación sencilla con una interfaz amigable que permite convertir coordenadas geográficas en sistema de grados minutos a grados decimales.
+La herramienta [_Coordinate conversion_](https://data.canadensys.net/tools/coordinates){:target="_blank"}, desarrollada por [_Canadensys_](http://www.canadensys.net/){:target="_blank"} (nodo GBIF de Canadá), es una aplicación sencilla con una interfaz amigable que permite convertir coordenadas geográficas en sistema de grados minutos a grados decimales.
 
 **Enlace**
 
-_Coordinate conversion_: [https://data.canadensys.net/tools/coordinates](https://data.canadensys.net/tools/coordinates)
+_Coordinate conversion_: [https://data.canadensys.net/tools/coordinates](https://data.canadensys.net/tools/coordinates){:target="_blank"}
 
 **Convenciones**
 
@@ -48,7 +48,7 @@ Descargue el archivo [<FONT FACE="monospace"><b>«datos_canadensys.xlsx»</b></F
 
 ## Paso 1 - Exploración de la herramienta
 
-Ingrese a la aplicación en línea [_Coordinate conversion_](https://data.canadensys.net/tools/coordinates) y revise cuidadosamente las opciones disponibles para ingresar las coordenadas.
+Ingrese a la aplicación en línea [_Coordinate conversion_](https://data.canadensys.net/tools/coordinates){:target="_blank"} y revise cuidadosamente las opciones disponibles para ingresar las coordenadas.
 
 Las coordenadas deben estar escritas en pares de coordenadas, un par por línea. Opcionalmente, pueden estar precedidas por un identificador propio seguido por una tabulación o una barra vertical.
 
@@ -170,12 +170,12 @@ Si tiene datos propios y desea publicarlos, intente seguir los pasos de este lab
 
 Identifique en que sistema están las coordenadas (UTM, cartesiano) y si es un sistema de coordenadas planas, identifique el _datum_ y su origen (Ej. Bogotá, _MAGNA-SIRGAS_ origen Bogotá, Este central, Oeste, etc). 
 
-Si no conoce el sistema de coordenadas ni el _datum_, se requiere hacer **pruebas de ensayo y error** hasta determinar estos parámetros, que finalmente permitirán transformar las coordenadas. Para hacer estas pruebas, utilice una calculadora geodésica como [Sumapa](http://www.sumapa.com/).
+Si no conoce el sistema de coordenadas ni el _datum_, se requiere hacer **pruebas de ensayo y error** hasta determinar estos parámetros, que finalmente permitirán transformar las coordenadas. Para hacer estas pruebas, utilice una calculadora geodésica como [Sumapa](http://www.sumapa.com/){:target="_blank"}.
 
 
  * **2. Transformación de coordenadas**
 
-Una vez identificados el sistema de coordenadas y el _datum_, utilice un software GIS como [_Quantum_ GIS](https://www.qgis.org/es/site/) o [ArcGIS](https://esri.co/arcgis/) para transformarlas todas de manera simultánea.
+Una vez identificados el sistema de coordenadas y el _datum_, utilice un software GIS como [_Quantum_ GIS](https://www.qgis.org/es/site/){:target="_blank"} o [ArcGIS](https://esri.co/arcgis/){:target="_blank"} para transformarlas todas de manera simultánea.
 
 
 ### ¿Cómo transformar el nuevo origen CTM12 a WGS84?
@@ -183,20 +183,20 @@ Una vez identificados el sistema de coordenadas y el _datum_, utilice un softwar
 Las versiones de software SIG actuales aún no cuentan con el nuevo sistema de referencia espacial CTM 12 incorporado, por lo que es necesario crearlo antes de poder convertir nuestras coordenadas originales en el nuevo origen al sistema de referencia WGS84. A continuación, se comparten algunos recursos que explican cómo incorporar este sistema de referencia espacial para visualizar las coordenadas:
 
 **QGIS**:
-[Configurando la proyección CTM12 en QGIS](https://qgisusers.co/es/blog/configurando-la-proyeccion-ctm12-en-qgis/) 
+[Configurando la proyección CTM12 en QGIS](https://qgisusers.co/es/blog/configurando-la-proyeccion-ctm12-en-qgis/) {:target="_blank"}
 
 **ArcGIS (ArcMap)**:
-[Tutorial ARCGIS Cap.27-01 - Crear sistema de coordenadas proyectadas en ARCGIS](https://www.youtube.com/watch?v=jteR27jFlYg)
+[Tutorial ARCGIS Cap.27-01 - Crear sistema de coordenadas proyectadas en ARCGIS](https://www.youtube.com/watch?v=jteR27jFlYg){:target="_blank"}
 
 **ArcGIS Pro**:
-[Crear origen nacional, CTM12, en ArcGis Pro](https://www.youtube.com/watch?v=ozg_DHkBXzE)
+[Crear origen nacional, CTM12, en ArcGis Pro](https://www.youtube.com/watch?v=ozg_DHkBXzE){:target="_blank"}
 
 Una vez que se haya incorporado el nuevo sistema de coordenadas y los datos estén cargados, es posible convertirlos con las respectivas herramientas de proyección o exportación en QGIS o ArcGIS.
 
 
 ### Tome las coordenadas en otro sistema de referencia y necesito proyectarlas al nuevo sistema CTM12
 
-Para ello, puede hacer la conversión a CTM12 por medio de una herramienta SIG o usar el [Servicio de conversión de coordenadas](https://origen.igac.gov.co/herramientas.html). Este último permite realizar conversiones individuales o masivas.
+Para ello, puede hacer la conversión a CTM12 por medio de una herramienta SIG o usar el [Servicio de conversión de coordenadas](https://origen.igac.gov.co/herramientas.html){:target="_blank"}. Este último permite realizar conversiones individuales o masivas.
 
 ****
 **¡Felicitaciones!** Terminó la conversión de coordenadas del conjunto de datos al formato grados decimales.
@@ -207,7 +207,7 @@ Para ello, puede hacer la conversión a CTM12 por medio de una herramienta SIG o
 
 ![](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, redistribuir y construir sobre estos contenidos libremente.
+La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} permite usar, redistribuir y construir sobre estos contenidos libremente.
 
 ¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
 
