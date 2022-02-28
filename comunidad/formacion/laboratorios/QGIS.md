@@ -22,7 +22,7 @@ Video introductorio de la herramienta, el cual da un contexto general sobre su u
 <br>
 **Sobre la herramienta**
 
-[QGIS](https://qgis.org/es/site/about/index.html) es un _software_ de gestión de información geográfica que se ejecuta en múltiples sistemas operativos como _Linux_, _Unix_, _Mac OSX_, _Windows_ y _Android_. También soporta numerosos formatos y funcionalidades de datos vector, datos ráster y bases de datos. Esta herramienta proporciona una creciente gama de servicios, a través de sus funciones básicas y complementos, para visualizar, gestionar, editar, analizar datos y diseñar mapas imprimibles. 
+[QGIS](https://qgis.org/es/site/about/index.html){:target="_blank"} es un _software_ de gestión de información geográfica que se ejecuta en múltiples sistemas operativos como _Linux_, _Unix_, _Mac OSX_, _Windows_ y _Android_. También soporta numerosos formatos y funcionalidades de datos vector, datos ráster y bases de datos. Esta herramienta proporciona una creciente gama de servicios, a través de sus funciones básicas y complementos, para visualizar, gestionar, editar, analizar datos y diseñar mapas imprimibles. 
 
 QGIS es un _software_ libre y de código abierto, licenciado bajo una GNU (_General Public License_) y soportado como un proyecto de la _Open Source Geospatial Foundation_ (OSGeo). Por lo tanto, no requiere el pago de licencias. Adicionalmente, es impulsado por un grupo de voluntarios que mantienen el _software_ actualizado y las versiones estables, lo cual sostiene a QGIS como uno de los _software_ geográficos mas conocidos.
 
@@ -55,7 +55,7 @@ QGIS es un _software_ libre y de código abierto, licenciado bajo una GNU (_Gene
 
 ## Paso 1 - Instalación de QGIS
 
-1. Diríjase al [enlace de descarga de QGIS](https://qgis.org/es/site/forusers/download.html), donde encontrará los instaladores para todos los sistemas operativos. 
+1. Diríjase al [enlace de descarga de QGIS](https://qgis.org/es/site/forusers/download.html){:target="_blank"}, donde encontrará los instaladores para todos los sistemas operativos. 
 2. Preferiblemente, descargue la versión disponible con **soporte a largo plazo (más estable)**, de acuerdo al sistema operativo de su ordenador. Si es usuario de _Windows_, seleccione la opción de descarga de 32 o 64 bits, según la versión de su sistema operativo. Para estar seguro de esto, abra el explorador de archivos, diríjase a <span class="tag is-warning is-light"><i>Este equipo</i></span>, haga clic derecho y seleccione la opción <span class="tag is-warning is-light"><i>Propiedades</i></span>. Luego, revise la sección _**"Tipo de sistema"**_.
 3. Una vez que finalice la descarga, haga clic sobre el archivo para ejecutar el instalador del programa.
 4. Siga los pasos de instalación en su ordenador.
@@ -311,21 +311,21 @@ Si tiene datos propios y desea publicarlos, intente seguir los pasos de este lab
 
 ![](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, redistribuir y construir sobre estos contenidos libremente.
+La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} permite usar, redistribuir y construir sobre estos contenidos libremente.
 
 ¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
 
 **Citación sugerida**
 
-> Plata C., Ortíz R., Marentes E., Lozano J. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
+> Plata C., Ortíz R., Marentes E., Lozano J. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios){:target="_blank"}.
 >
 
 **Fuentes:**
 
-* Departamento Administrativo Nacional de Estadística DANE (2018). Marco Geoestadístico Nacional, Escala: No definida. _Datum_: _MAGNA-SIRGAS), Recuperado de: [https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-mgn-marco-geoestadistico-nacional/](https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-mgn-marco-geoestadistico-nacional/)
+* Departamento Administrativo Nacional de Estadística DANE (2018). Marco Geoestadístico Nacional, Escala: No definida. _Datum_: _MAGNA-SIRGAS), Recuperado de: [https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-mgn-marco-geoestadistico-nacional/](https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-mgn-marco-geoestadistico-nacional/){:target="_blank"}
 
-* Parques Nacionales Naturales de Colombia (2020), Límite de los Parques Nacionales Naturales de Colombia, Multiescala (1:1.000 y 1:100.000). Datum: MAGNA-SIRGAS, Recuperado de: [http://mapas.parquesnacionales.gov.co/services/pnn/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=pnn:runap2&maxFeatures=10000&outputFormat=SHAPE-ZIP](http://mapas.parquesnacionales.gov.co/services/pnn/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=pnn:runap2&maxFeatures=10000&outputFormat=SHAPE-ZIP). Fecha, 2020-07-08.
+* Parques Nacionales Naturales de Colombia (2020), Límite de los Parques Nacionales Naturales de Colombia, Multiescala (1:1.000 y 1:100.000). Datum: MAGNA-SIRGAS, Recuperado de: [http://mapas.parquesnacionales.gov.co/services/pnn/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=pnn:runap2&maxFeatures=10000&outputFormat=SHAPE-ZIP](http://mapas.parquesnacionales.gov.co/services/pnn/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=pnn:runap2&maxFeatures=10000&outputFormat=SHAPE-ZIP){:target="_blank"}. Fecha, 2020-07-08.
 
-* Departamento Administrativo Nacional de Estadística (DANE). Descarga Nivel de referencia de veredas. Recuperado de: (https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-nivel-de-referencia-de-veredas/)[https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-nivel-de-referencia-de-veredas/](https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-nivel-de-referencia-de-veredas/), fecha de consulta: 2020-02-24.
+* Departamento Administrativo Nacional de Estadística (DANE). Descarga Nivel de referencia de veredas. Recuperado de: (https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-nivel-de-referencia-de-veredas/)[https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-nivel-de-referencia-de-veredas/](https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-nivel-de-referencia-de-veredas/){:target="_blank"}, fecha de consulta: 2020-02-24.
 
-* [Marco Geoestadístico Nacional - Guía de descarga y visualización](https://geoportal.dane.gov.co/descargas/metadatos/descarga_mgn/descargas/GuiaDescargaVisualiz_CO.pdf)
+* [Marco Geoestadístico Nacional - Guía de descarga y visualización](https://geoportal.dane.gov.co/descargas/metadatos/descarga_mgn/descargas/GuiaDescargaVisualiz_CO.pdf){:target="_blank"}
