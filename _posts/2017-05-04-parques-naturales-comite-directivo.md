@@ -14,7 +14,7 @@ Desde hace dos años, PNN participa como socio publicador de datos en esta inici
 
 Brigitte Baptiste –directora del Instituto Humboldt (entidad que coordina el SiB Colombia) –, consideró trascendental la vinculación de PNN y manifestó la necesidad de articular esfuerzos para que la información que se produzca en Parques se integre rápidamente en la red, además de ser accesible a través del [Sistema de Información Ambiental de Colombia, Siac](http://www.siac.gov.co/){:target="_blank"}, como una contribución fundamental para la toma de decisiones sobre biodiversidad en el país.  
 
-La participación de PNN en estas instancias permitirá que se fortalezca la gestión de información sobre la biodiversidad de las áreas protegidas del país, haciéndola visible a través de los diferentes canales de participación del SiB Colombia como el [Portal de Datos](http://datos.biodiversidad.co/){:target="_blank"} y el [Catálogo de la Biodiversidad](http://catalogo.biodiversidad.co/){:target="_blank"}, aseguró Dairo Escobar, coordinador del SiB Colombia.  
+La participación de PNN en estas instancias permitirá que se fortalezca la gestión de información sobre la biodiversidad de las áreas protegidas del país, haciéndola visible a través de los diferentes canales de participación del SiB Colombia como el [Portal de Datos](http://datos.biodiversidad.co/) y el [Catálogo de la Biodiversidad](http://catalogo.biodiversidad.co/), aseguró Dairo Escobar, coordinador del SiB Colombia.  
 
 Según Julia Miranda -directora general de PNN- este cambio mejorará la tarea de monitoreo y reporte de la biodiversidad de los parques, lo que implicará el desarrollo de una estrategia interna para aportar información y datos de acuerdo con las políticas y estándares del SiB Colombia.  
 
