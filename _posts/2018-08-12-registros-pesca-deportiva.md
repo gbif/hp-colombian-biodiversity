@@ -54,10 +54,10 @@ Otro resultado positivo de este acompañamiento fue la vinculación de estudiant
 
 #### Enlaces de interés:  
 
-- **Enlace a IPT**:  <http://ipt.biodiversidad.co/sib/resource?r=pispesca-riometa>
-- **Portal GBIF**: <https://www.gbif.org/dataset/00d324d6-5211-47a1-a84d-82175f84e678>
-- **Trino sobre la publicación**: <https://twitter.com/sibcolombia/status/1019672797210083329>
-- **[Fotografías](https://drive.google.com/open?id=180BjTK3VF0iHiDTNg6W0Z-Ijlz8x6Fxx)**
+- **[Enlace](http://ipt.biodiversidad.co/sib/resource?r=pispesca-riometa){:target="_blank"} a IPT**.
+- **[Portal](https://www.gbif.org/dataset/00d324d6-5211-47a1-a84d-82175f84e678){:target="_blank"} GBIF**.
+- **[Trino](https://twitter.com/sibcolombia/status/1019672797210083329){:target="_blank"} sobre la publicación**.
+- **[Fotografías](https://drive.google.com/open?id=180BjTK3VF0iHiDTNg6W0Z-Ijlz8x6Fxx){:target="_blank"}**.
 
 
 <img src="/assets/images/noticias_eventos/2018/2018-08-12-registros-pesca-deportiva4.jpg" width=770>
