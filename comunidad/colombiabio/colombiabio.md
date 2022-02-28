@@ -26,7 +26,7 @@ composition:
 
 ### Fortalecimiento de colecciones biológicas
 
-Colombia BIO es un proyecto de interés nacional, liderado por Colciencias, cuyo principal objetivo es propiciar condiciones para conocer, valorar, conservar y aprovechar sosteniblemente los recursos naturales del país.
+Colombia BIO es un proyecto de interés nacional, liderado por Colciencias, ahora Ministerio  de  Ciencia,  Tecnología  e  Innovación, cuyo principal objetivo es propiciar condiciones para conocer, valorar, conservar y aprovechar sosteniblemente los recursos naturales del país.
 
 Para el cumplimiento de este objetivo, es fundamental el proceso de inventariar la biodiversidad que habita en nuestro territorio, que representa innumerables servicios ecosistémicos para todas las esferas de nuestra vida. Por esta razón Colciencias, en alianza con el Instituto Humboldt y el Sistema de Información sobre Biodiversidad de Colombia (SiB Colombia), dio inicio al **Fortalecimiento de Colecciones Biológicas** dentro del proyecto Colombia BIO.
 
