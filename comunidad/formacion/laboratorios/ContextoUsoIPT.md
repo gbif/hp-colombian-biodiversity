@@ -29,11 +29,11 @@ Las metas de aprendizaje de este laboratorio son:
 - **Metadatos**: información de contexto para un conjunto de datos, organización publicadora o colección biológica.
 <br>
 <br>
-- **IPT**: es un software gratuito y de código abierto que se utiliza para publicar y compartir conjuntos de datos de biodiversidad a través del SiB Colombia, GBIF y OBIS. Además, permite integrar datos y metadatos en un mismo archivo conocido como DwC-A (_Darwin Core Archive_). Para una definición más detallada, puede consultar el artículo de GBIF sobre esta  herramienta de publicación:[https://www.gbif.org/es/ipt](https://www.gbif.org/es/ipt).
+- **IPT**: es un software gratuito y de código abierto que se utiliza para publicar y compartir conjuntos de datos de biodiversidad a través del SiB Colombia, GBIF y OBIS. Además, permite integrar datos y metadatos en un mismo archivo conocido como DwC-A (_Darwin Core Archive_). Para una definición más detallada, puede consultar el artículo de GBIF sobre esta  herramienta de publicación:[https://www.gbif.org/es/ipt](https://www.gbif.org/es/ipt){:target="_blank"}.
 <br>
 <br>
 - **EML**: es un estándar para metadatos que consolida información sobre conjuntos de datos ecológicos en una serie de documentos XML modulares y extensibles. Todas las descripciones de los conjuntos de datos disponibles a través del SiB Colombia se basan en "metadatos" —es decir, la información sobre los datos— y utilizan el estándar EML de código abierto, eñ cual administra y mantiene _The Knowledge Network for Biocomplexity_.
-Cada _Darwin Core Archive_ incluye un archivo EML (escrito en formato XML) en sus componentes, el cual contiene un perfil específico para estos conjuntos de datos. Este perfil es conocido como **Perfil de Metadatos de GBIF o GMP** ([GBIF Metadata Profile](https://eml.ecoinformatics.org/)).
+Cada _Darwin Core Archive_ incluye un archivo EML (escrito en formato XML) en sus componentes, el cual contiene un perfil específico para estos conjuntos de datos. Este perfil es conocido como **Perfil de Metadatos de GBIF o GMP** ([GBIF Metadata Profile](https://eml.ecoinformatics.org/){:target="_blank"}).
 <br>
 <br>
 - **DwC-A**: acrónimo del formato de archivo de intercambio de datos más utilizado en datos sobre biodiversidad. El formato corresponde a un archivo comprimido que contiene:
@@ -50,7 +50,7 @@ Cada _Darwin Core Archive_ incluye un archivo EML (escrito en formato XML) en su
   - Estar publicados bajo una licencia que permita explícitamente su reutilización
 <br>
 <br>
-- **Atribución**: dar crédito de manera adecuada. Esto se hace reconociendo la autoría de los publicadores (a través de sus nombres) y sus partes atribuidas, brindando un enlace a la licencia e indicando si se han realizado cambios. Ver [CCBY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es).
+- **Atribución**: dar crédito de manera adecuada. Esto se hace reconociendo la autoría de los publicadores (a través de sus nombres) y sus partes atribuidas, brindando un enlace a la licencia e indicando si se han realizado cambios. Ver [CCBY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es){:target="_blank"}.
 <br>
 <br>
 - **Licencias Creative Commons**: _Creative Commons_ (**CC**) es una organización sin ánimo de lucro creada en Estados Unidos, la cual cuenta con una red de afiliados voluntarios en todo el mundo. Desarrolló una serie de licencias que facilitan compartir legalmente el conocimiento y la creatividad. A continuación, se listan las licencias disponibles a través del IPT.
@@ -68,11 +68,11 @@ Cada _Darwin Core Archive_ incluye un archivo EML (escrito en formato XML) en su
 
 **Recursos**
 
-* [Video documentación de metadatos en la herramienta de publicación IPT](https://youtu.be/9WkH9hoHc8w)
+* [Video documentación de metadatos en la herramienta de publicación IPT](https://youtu.be/9WkH9hoHc8w){:target="_blank"}{:target="_blank"}{:target="_blank"}
 * [Guía de referencia rápida del IPT](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#gu%C3%ADa-de-referencia-r%C3%A1pida)
 * [Video _Introduction to publishing using the GBIF Integrated Publishing Toolkit (IPT)_](https://youtu.be/eDH9IoTrMVE)
 
 **Lecturas**
 
-* [Guía de acceso abierto del SiB Colombia](http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35015/abc-sibcolombia.pdf?sequence=1&isAllowed=y)
+* [Guía de acceso abierto del SiB Colombia](http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35015/abc-sibcolombia.pdf?sequence=1&isAllowed=y){:target="_blank"}
 
