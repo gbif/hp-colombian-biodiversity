@@ -22,7 +22,7 @@ El taller está dirigido a estudiantes de posgrado y jóvenes investigadores en 
 
 #### Participantes por Colombia
 
-Catherine Agudelo Rico y Mateo Fernandez Lucero
+Catherine Agudelo Rico y Mateo Ferández Lucero
 
 #### Selección de candidatos
 
@@ -54,7 +54,7 @@ Los participantes deberán mostrar la capacidad de aplicar y diseminar los conte
 
 **Recuerde que la fecha límite de envío de postulaciones es el 24 de febrero** del presente año.
 
-Consulte el **programa** del taller: <http://www.recibio.net/taller-modelos-distribucion-especies/> Si tiene preguntas o necesita información adicional sobre esta convocatoria, no duden en contactar a sib+i3b@humboldt.org
+Consulte el **[programa](http://www.recibio.net/taller-modelos-distribucion-especies/){:target="_blank"}** del taller. Si tiene preguntas o necesita información adicional sobre esta convocatoria, no duden en contactar a sib+i3b@humboldt.org
 
 <img src="/assets/images/noticias_eventos/2014/2014-03-13-taller-modelos-distribucion-especies-3.jpg" width=770>
 <img src="/assets/images/noticias_eventos/2014/2014-03-13-taller-modelos-distribucion-especies-4.jpg" width=770>
