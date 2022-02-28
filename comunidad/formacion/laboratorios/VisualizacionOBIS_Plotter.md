@@ -15,7 +15,7 @@ Visualizar y validar las coordenadas con ayuda de un proceso de espacialización
 
 **Sobre la herramienta**
 
-La herramienta [OBIS _Plotter_](http://iobis.github.io/plotter/), desarrollada por [OBIS](https://obis.org/) (Sistema Oceánico de Información sobre biodiversidad),  permite la visualización de datos en un mapa para verificar la correcta espacialización de estos. 
+La herramienta [OBIS _Plotter_](http://iobis.github.io/plotter/){:target="_blank"}, desarrollada por [OBIS](https://obis.org/){:target="_blank"} (Sistema Oceánico de Información sobre biodiversidad),  permite la visualización de datos en un mapa para verificar la correcta espacialización de estos. 
 
 **Convenciones**
 
@@ -30,7 +30,7 @@ En este ejercicio, deberá convertir las coordenadas al formato de grados decima
 
 **Enlace**
 
-OBIS _Plotter_: [http://iobis.github.io/plotter/](http://iobis.github.io/plotter/)
+OBIS _Plotter_: [http://iobis.github.io/plotter/](http://iobis.github.io/plotter/){:target="_blank"}
 
 **Requerimientos** 
 
@@ -44,7 +44,7 @@ Descargue el archivo [<FONT FACE="monospace"><b>«datos_geografia.xlsx»</b></FO
 
 ## Paso 1 - Ingreso a OBIS Plotter
 
-Ingrese a la herramienta en linea [OBIS _Plotter_](http://iobis.github.io/plotter/), allí encontrará unos datos precargados de prueba. Para explorar el resultado, dé clic en el botón <span class="tag is-warning is-light"><i>PLOT</i></span> (Fig. 1).
+Ingrese a la herramienta en linea [OBIS _Plotter_](http://iobis.github.io/plotter/){:target="_blank"}, allí encontrará unos datos precargados de prueba. Para explorar el resultado, dé clic en el botón <span class="tag is-warning is-light"><i>PLOT</i></span> (Fig. 1).
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_VisualizacionOBIS_Plotter/Fig.1_valCoordenadas.jpg" width=500>
 
@@ -54,7 +54,7 @@ Despues de explorar el resultado, borre los datos de prueba presentes en _**"Sou
 
 ## Paso 2 - Carga de datos
   
-Abra el archivo <FONT FACE="monospace"><b>«datos_geografia.xlsx»</b></FONT> en Excel y detalle la información que contiene. Luego, haga clic en la esquina superior izquierda del archivo para seleccionar todas las filas y columnas, de forma que pueda copiarlas con <span class="tag is-warning is-light"><i>Ctrl + C</i></span> (Fig. 2).
+Abra el archivo [<FONT FACE="monospace"><b>«datos_geografia.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/datos_geografia.xlsx) en Excel y detalle la información que contiene. Luego, haga clic en la esquina superior izquierda del archivo para seleccionar todas las filas y columnas, de forma que pueda copiarlas con <span class="tag is-warning is-light"><i>Ctrl + C</i></span> (Fig. 2).
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_VisualizacionOBIS_Plotter/Fig.2_valCoordenadas.jpg" width=500>
 
@@ -122,7 +122,7 @@ Si tiene datos propios y desea publicarlos, intente seguir los pasos de este lab
 
 ![](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, redistribuir y construir sobre estos contenidos libremente.
+La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} permite usar, redistribuir y construir sobre estos contenidos libremente.
 
 ¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
 
