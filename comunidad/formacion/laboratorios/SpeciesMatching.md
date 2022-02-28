@@ -33,7 +33,7 @@ La herramienta [_Species Matching_](https://www.gbif.org/es/tools/species-lookup
 <div class="notification is-info is-light">
   <i>GBIF Backbone Taxonomy</i>, el árbol taxonómico de GBIF, está basado en 56 fuentes taxonómicas mundiales, permitiendo la integración de nombres científicos independientemente de la fuente de los datos (registros biológicos, taxa, eventos o listas de especies).
 </div>
-Fuente: [doi.org/10.15468/39omei](https://doi.org/10.15468/39omei)doi.org/10.15468/39omei
+Fuente: [doi.org/10.15468/39omei](https://doi.org/10.15468/39omei){:target="_blank"}
 
 **Convenciones**
 
