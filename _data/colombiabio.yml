@@ -12,15 +12,15 @@ stats1:
   features:  
     - title: 
       description: Identificar y actualizar los especímenes depositados en las colecciones biológicas a nivel taxonómico, ecológico, y geográfico.
-      background: /comunidad/colombiabio/imagenes/landing/icono1.png
+      background: /comunidad/colombiabio/imagenes/landing/icono01.png
       #href: /data
     - title: 
       description: Mejorar las capacidades de las colecciones biológicas en los procesos de gestión, estandarización y publicación de los datos.
-      background: /comunidad/colombiabio/imagenes/landing/icono2.png
+      background: /comunidad/colombiabio/imagenes/landing/icono02.png
       #href: /data
     - title: 
       description: Propiciar la creación de redes de trabajo de expertos y colecciones, generales o especializadas, que permitan evitar la duplicación de esfuerzos y deriven en información con mejor resolución, calidad y alcance.
-      background: /comunidad/colombiabio/imagenes/landing/icono3.png
+      background: /comunidad/colombiabio/imagenes/landing/icono03.png
       #href: /data
       
 stats2:
@@ -28,11 +28,11 @@ stats2:
   features:
     - title: 
       description: Crear portales que contengan la información de las colecciones biológicas de forma unificada y permitan la consulta libre por parte de las autoridades ambientales y demás usuarios.
-      background: /comunidad/colombiabio/imagenes/landing/icono4.png
+      background: /comunidad/colombiabio/imagenes/landing/icono04.png
       #href: /data
     - title: 
       description: Facilitar a las autoridades ambientales y nacionales listas de especies de referencia para la toma de decisiones asociadas con la conservación y el uso sostenible de los recursos naturales.
-      background: /comunidad/colombiabio/imagenes/landing/icono5.png
+      background: /comunidad/colombiabio/imagenes/landing/icono05.png
       #href: /data
 
 
