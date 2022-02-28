@@ -6,7 +6,7 @@ background: /assets/images/noticias_eventos/2016/2016-02-10-taller-uruguay.png
 
 ---
 
-Del 30 de noviembre al 2 de diciembre se llevó a cabo en Uruguay el taller “Fortalecimiento de Capacidades para Publicación de Datos de Biodiversidad” como parte del [Proyecto de Mentoring de GBIF](http://www.gbif.org/programme/capacity-support){:target="_blank"}, propuesto por el país anfitrión. Participaron como instructores:  
+Del 30 de noviembre al 2 de diciembre se llevó a cabo en Uruguay el taller “Fortalecimiento de Capacidades para Publicación de Datos de Biodiversidad” como parte del [Proyecto de Mentoring de GBIF](https://www.gbif.org/es/programme/82219/capacity-enhancement-support-programme){:target="_blank"}, propuesto por el país anfitrión. Participaron como instructores:  
 
 + Néstor Beltrán (SiB Colombia)  
 + Leonardo Buitrago (SiB Colombia)  
