@@ -192,7 +192,7 @@ Por eso, hablamos de “todos los derechos reservados”.
 
 ## Descarga las postales
 
-|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034"><img src="/recursos/images/reverso-postal-libre-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034"><img src="/recursos/images/reverso-postal-datos-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034"><img src="/recursos/images/reverso-postal-publico-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034"><img src="/recursos/images/reverso-postal-cc-212x300.jpg">|
+|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034" target="_blank"><img src="/recursos/images/reverso-postal-libre-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034" target="_blank"><img src="/recursos/images/reverso-postal-datos-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034" target="_blank"><img src="/recursos/images/reverso-postal-publico-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034" target="_blank"><img src="/recursos/images/reverso-postal-cc-212x300.jpg">|
 |---|---|---|---| 
 |   |   |   |   |
  
