@@ -21,15 +21,15 @@ Profundizar en el uso de _OpenRefine_ para validar de datos sobre biodiversidad 
 
 **Sobre la Herramienta**
 
-[_OpenRefine_](https://openrefine.org/) es un _software_ creado con el objetivo de pulir datos crudos hasta convertirlos en diamantes, los cuales son activos valiosos en la era del _BigData_.
+[_OpenRefine_](https://openrefine.org/){:target="_blank"} es un _software_ creado con el objetivo de pulir datos crudos hasta convertirlos en diamantes, los cuales son activos valiosos en la era del _BigData_.
 
 Este programa permite visualizar y manipular datos tabulares, facilitando el mejoramiento de la calidad general de un conjunto de datos. Tiene la apariencia de un software tradicional de hoja de cálculo (similar a Excel), pero funciona como una base de datos. Esto significa que _OpenRefine_ no es adecuado para adicionar nuevas filas de datos, pero **es extremadamente poderoso cuando se trata de explorar, limpiar y vincular datos**.
 
 _OpenRefine_ es un _software_ de código abierto bajo una licencia BSD y se instala localmente, por lo que funciona como una aplicación web personal y de acceso privado a la que se accede desde un navegador web.
 
-Esta herramienta sirve para **todo tipo de datos**. Sin embargo, en este laboratorio se explica su funcionamiento en el contexto de datos sobre biodiversidad, estandarizados en Darwin Core. Puede consultar más información de la herramienta en el [manual de usuario](https://docs.openrefine.org/) (en inglés).
+Esta herramienta sirve para **todo tipo de datos**. Sin embargo, en este laboratorio se explica su funcionamiento en el contexto de datos sobre biodiversidad, estandarizados en Darwin Core. Puede consultar más información de la herramienta en el [manual de usuario](https://docs.openrefine.org/){:target="_blank"} (en inglés).
 
-Para saber más acerca de GREL, el lenguaje de programación de _OpenRefine_ que se utiliza en las rutinas, consulte el [manual de usuario](https://docs.openrefine.org/manual/grel) (en inglés).
+Para saber más acerca de GREL, el lenguaje de programación de _OpenRefine_ que se utiliza en las rutinas, consulte el [manual de usuario](https://docs.openrefine.org/manual/grel){:target="_blank"} (en inglés).
 
 **Convenciones**
 
@@ -40,14 +40,14 @@ Para saber más acerca de GREL, el lenguaje de programación de _OpenRefine_ que
 - Las secuencias de instrucciones y pasos se muestran en color amarillo, cursiva y negrita. Por ejemplo: <span class="tag is-warning is-light"><b><i>Paso 1 > Paso 2</i></b></span>.
 - Las líneas que se escriben directamente en las herramientas, para programar o realizar algún proceso en específico, aparecen en formato de código, con una tipografía distinta de color negro. Por ejemplo: <span class="tag is-light"><b>value.replace(" sp.","")</b></span>.
 
->Esta guía adapta y profundiza en los procesos correspondientes a la sección 5 de la [Guía para la limpieza de datos sobre biodiversidad con _OpenRefine_](https://docs.gbif.org/openrefine-guide/3.0/es/).
+>Esta guía adapta y profundiza en los procesos correspondientes a la sección 5 de la [Guía para la limpieza de datos sobre biodiversidad con _OpenRefine_](https://docs.gbif.org/openrefine-guide/3.0/es/){:target="_blank"}.
 >
 
 **Requerimientos** 
 
 - _Google Chrome_ instalado y configurado como navegador predeterminado.
-- Haber realizado la [Guía general de _Open Refine_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine).
-- Para obtener mejores resultados, se recomienda ampliar la memoria RAM disponible para el uso de _OpenRefine_. Para ello, siga las instrucciones del [manual de usuario](https://docs.openrefine.org/manual/installing#increasing-memory-allocation) (en inglés) para permitir que el programa utilice hasta el 75% de la memoria RAM de su computador, siempre y cuando reserve como mínimo 2GB para el funcionamiento básico del equipo. Por ejemplo:
+- Haber realizado la [Guía general de _Open Refine_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine){:target="_blank"}.
+- Para obtener mejores resultados, se recomienda ampliar la memoria RAM disponible para el uso de _OpenRefine_. Para ello, siga las instrucciones del [manual de usuario](https://docs.openrefine.org/manual/installing#increasing-memory-allocation){:target="_blank"} (en inglés) para permitir que el programa utilice hasta el 75% de la memoria RAM de su computador, siempre y cuando reserve como mínimo 2GB para el funcionamiento básico del equipo. Por ejemplo:
     -  Si su computador tiene 4GB de RAM, disponga hasta 2GB para _OpenRefine_ y reserve los 2GB restantes para el funcionamiento del equipo.
     -  Si su computador tiene 8GB de RAM, disponga hasta 6GB para _OpenRefine_ y reserve los 2GB restantes para el funcionamiento del equipo.
 
@@ -80,9 +80,9 @@ Hay seis rutinas disponibles (Tabla 1), en esta guía se profundizará en 4 de e
 
 | Nombre | Uso | Requerimientos 
 | -------- | -------- | -------- |
-| Validación taxonómica con el API de GBIF | Validación taxonómica que usa como referencia el [árbol taxonómico de GBIF](https://doi.org/10.15468/39omei). Permite validar registros de varios grupos biológicos a la vez, así como obtener la taxonomía superior de cada taxa.| Requiere como mínimo la documentación de los elementos DwC <span class="tag is-success is-light"><i>scientificName</i></span> y <span class="tag is-success is-light"><i>kingdom</i></span> y acceso a Internet para hacer la solicitud al API de GBIF.
-|Validación taxonómica con _Species Matching_ de GBIF| Validación taxonómica que usa como referencia el [árbol taxonómico de GBIF](https://doi.org/10.15468/39omei). A diferencia de la rutina anterior, realiza la validación con base en el archivo de resultados <FONT FACE="monospace"><b>«<i>normalized</i>»</b></FONT>, obtenido de [_Species Matching_](https://www.gbif.org/es/tools/species-lookup). Por lo tanto, permite aprovechar las funcionalidades de validación y limpieza de esta herramienta. La rutina facilita el cruce de los resultados obtenidos con [_Species Matching_](https://www.gbif.org/es/tools/species-lookup) respecto al conjunto de datos original. | Requiere como mínimo que el elemento DwC <span class="tag is-success is-light"><i>scientificName</i></span> esté documentado y que el archivo <FONT FACE="monospace"><b>«<i>normalized</i>»</b></FONT> sea previamente cargado en _OpenRefine_ para ejecutar la rutina.
-| Validación taxonómica con el API de WoRMS | Validación taxonómica específica para organismos marinos, que usa como referencia el [árbol taxonómico de _LifeWatch_ (LW-SIBb)](https://www.lifewatch.be/en/lifewatch-species-information-backbone) por medio de la API de [WoRMS (_World Register of Marine Species_)](http://www.marinespecies.org/aphia.php?p=webservice). Permite obtener la taxonomía superior de cada taxa, así como elementos taxonómicos obligatorios para la publicación de datos a través de [OBIS](https://obis.org/).| Requiere como mínimo la documentación del elemento DwC <span class="tag is-success is-light"><i>scientificName</i></span> y acceso a Internet para hacer la solicitud al API de GBIF.
+| Validación taxonómica con el API de GBIF | Validación taxonómica que usa como referencia el [árbol taxonómico de GBIF](https://doi.org/10.15468/39omei){:target="_blank"}. Permite validar registros de varios grupos biológicos a la vez, así como obtener la taxonomía superior de cada taxa.| Requiere como mínimo la documentación de los elementos DwC <span class="tag is-success is-light"><i>scientificName</i></span> y <span class="tag is-success is-light"><i>kingdom</i></span> y acceso a Internet para hacer la solicitud al API de GBIF.
+|Validación taxonómica con _Species Matching_ de GBIF| Validación taxonómica que usa como referencia el [árbol taxonómico de GBIF](https://doi.org/10.15468/39omei){:target="_blank"}. A diferencia de la rutina anterior, realiza la validación con base en el archivo de resultados <FONT FACE="monospace"><b>«<i>normalized</i>»</b></FONT>, obtenido de [_Species Matching_](https://www.gbif.org/es/tools/species-lookup){:target="_blank"}. Por lo tanto, permite aprovechar las funcionalidades de validación y limpieza de esta herramienta. La rutina facilita el cruce de los resultados obtenidos con [_Species Matching_](https://www.gbif.org/es/tools/species-lookup){:target="_blank"} respecto al conjunto de datos original. | Requiere como mínimo que el elemento DwC <span class="tag is-success is-light"><i>scientificName</i></span> esté documentado y que el archivo <FONT FACE="monospace"><b>«<i>normalized</i>»</b></FONT> sea previamente cargado en _OpenRefine_ para ejecutar la rutina.
+| Validación taxonómica con el API de WoRMS | Validación taxonómica específica para organismos marinos, que usa como referencia el [árbol taxonómico de _LifeWatch_ (LW-SIBb)](https://www.lifewatch.be/en/lifewatch-species-information-backbone){:target="_blank"} por medio de la API de [WoRMS (_World Register of Marine Species_)](http://www.marinespecies.org/aphia.php?p=webservice){:target="_blank"}. Permite obtener la taxonomía superior de cada taxa, así como elementos taxonómicos obligatorios para la publicación de datos a través de [OBIS](https://obis.org/){:target="_blank"}.| Requiere como mínimo la documentación del elemento DwC <span class="tag is-success is-light"><i>scientificName</i></span> y acceso a Internet para hacer la solicitud al API de GBIF.
 |Validación de elevaciones con el API de _GeoNames_ | Validación y obtención de la elevación a partir de las coordenadas con el servicio geográfico de _GeoNames_. | Requiere como mínimo la documentación de los elementos DwC <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span> y acceso a Internet para hacer la solicitud al API de _GeoNames_.
 |Validación de nombres geográficos con DIVIPOLA | Validación de los nombres oficiales de departamentos, municipios y centros poblados | Requiere como mínimo que el elemento DwC <span class="tag is-success is-light"><i>stateProvince</i></span> (departamento) esté documentado. Adicionalmente, valida los elementos <span class="tag is-success is-light"><i>county</i></span> (municipio) y <span class="tag is-success is-light"><i>municipality</i></span> (centro poblado) si están documentados.|
 |Transformación de fechas con el API de _Canadensys_| Transformación de fechas en múltiples formatos al estándar ISO 8601.| Requiere la documentación del elemento DwC <span class="tag is-success is-light"><i>eventDate</i></span> y acceso a Internet para hacer la solicitud al API de _Canadensys_.|
@@ -96,18 +96,18 @@ Todas las rutinas se ejecutan de manera similar, los detalles específicos para 
 
 ## Parte 1 - Validación taxonómica con GBIF y WoRMS en _OpenRefine_
 
-La primera parte de la guía aborda la validación taxonómica con el API de GBIF y WoRMS, lo cual permite consultar estos árboles taxonómicos de manera directa, sin utilizar las aplicaciones en línea [_Species Matching_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/SpeciesMatching) o [WoRMS _TaxonMatch_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/Worms). Esta ruta directa también le permite hacer consultas para una mayor cantidad datos y elementos, sin los limitantes de las aplicaciones en línea.
+La primera parte de la guía aborda la validación taxonómica con el API de GBIF y WoRMS, lo cual permite consultar estos árboles taxonómicos de manera directa, sin utilizar las aplicaciones en línea [_Species Matching_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/SpeciesMatching){:target="_blank"} o [WoRMS _TaxonMatch_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/Worms){:target="_blank"}. Esta ruta directa también le permite hacer consultas para una mayor cantidad datos y elementos, sin los limitantes de las aplicaciones en línea.
 
 Dependiendo de su interés particular, realice esta guía con alguna de las suguientes opciones:
 
 **Datos de grupos biológicos principalmente continentales**
 
 - Descargue el archivo [<FONT FACE="monospace"><b>«datos_Estructurados.xlsx»</b></FONT>](https://github.com/SIB-Colombia/Formacion/raw/master/LAB/lab02/_docs/datos_Estructurados.xlsx) para realizar el laboratorio.
-- Utilice la rutina [Validación taxonómica con el API de GBIF](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValTaxonomicAPIGBIF_ValTaxonomicaAPIGBIF.txt)
+- Utilice la rutina [Validación taxonómica con el API de GBIF](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValTaxonomicAPIGBIF_ValTaxonomicaAPIGBIF.txt){:target="_blank"}
 
 **Datos de grupos biológicos marino-costeros**
 - Descargue el archivo [<FONT FACE="monospace"><b>«datos_CasoMarinoCosteros.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/datos_casomarinocosteros.xlsx) para realizar el laboratorio.
-- Utilice la rutina [Validación taxonómica con el API de WoRMS](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValTaxonomicAPIWoRMS_ValTaxonomicaAPIWoRMS.txt)
+- Utilice la rutina [Validación taxonómica con el API de WoRMS](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValTaxonomicAPIWoRMS_ValTaxonomicaAPIWoRMS.txt){:target="_blank"}
 
 ### Paso 1 - Carga del archivo
 
@@ -140,8 +140,8 @@ Observe que el conjunto de datos no tiene documentado el elemento <span class="t
 
 Haga una limpieza previa del elemento <span class="tag is-success is-light"><i>scientificName</i></span> para obtener mejores resultados:
 
-1. Eliminar elementos que no correspondan a la estructura del nombre cientÍfico, como **sp.**. Si necesita ayuda, siga el **paso 4.1.1** de la [guía general](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#41-correcci%C3%B3n-combinando-filtros-y-funciones).
-3. Elimine los calificadores de la identificación y ubíquelos en el elemento correspondiente. Si necesita ayuda, siga el **paso 4.2.2** de la [guía general](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#42-filtros-con-expresiones-regulares).
+1. Eliminar elementos que no correspondan a la estructura del nombre cientÍfico, como **sp.**. Si necesita ayuda, siga el **paso 4.1.1** de la [guía general](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#41-correcci%C3%B3n-combinando-filtros-y-funciones){:target="_blank"}.
+3. Elimine los calificadores de la identificación y ubíquelos en el elemento correspondiente. Si necesita ayuda, siga el **paso 4.2.2** de la [guía general](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#42-filtros-con-expresiones-regulares){:target="_blank"}.
 
 
 **Validación taxonómica con el API de WoRMS - Datos marino-costeros**
@@ -154,9 +154,9 @@ Haga una limpieza previa del elemento <span class="tag is-success is-light"><i>s
 
 Seleccione la rutina de interés según la validación que desee realizar:
 
-- Rutina de [Validación taxonómica con el API de GBIF](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValTaxonomicAPIGBIF_ValTaxonomicaAPIGBIF.txt) - Datos continentales.
+- Rutina de [Validación taxonómica con el API de GBIF](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValTaxonomicAPIGBIF_ValTaxonomicaAPIGBIF.txt){:target="_blank"} - Datos continentales.
 
-- Rutina de [Validación taxonómica con el API de WoRMS](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValTaxonomicAPIWoRMS_ValTaxonomicaAPIWoRMS.txt) - Datos marino-costeros.
+- Rutina de [Validación taxonómica con el API de WoRMS](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValTaxonomicAPIWoRMS_ValTaxonomicaAPIWoRMS.txt){:target="_blank"} - Datos marino-costeros.
 
 Haga clic en el enlace a la rutina y será redirigido a GitHub, donde encontrará un archivo de texto plano con la rutina. Luego, copie el texto de la rutina de validación (Fig. 4). Asegúrese de seleccionar solo la rutina -sin las instrucciones- y copiar todos los corchetes iniciales (<span class="tag is-light"><b>{</b></span>) y finales (<span class="tag is-light"><b>}</b></span>), ya que estos son fundamentales para que la rutina se ejecute correctamente.
 
@@ -363,11 +363,11 @@ El archivo oficial de referencia del repositorio se genera con la información g
     
 - Descargue el archivo [<FONT FACE="monospace"><b>«datos_ValidacionGeografia.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/datos_ValidacionGeografia.xlsx).
 - Descargue el archivo [<FONT FACE="monospace"><b>«DIVIPOLA_2021-0416.xls»</b></FONT>](https://github.com/SIB-Colombia/data-quality-open-refine/raw/master/DIVIPOLA_20210416.zip).
-- Utilice la rutina [Validación de nombres geográficos con DIVIPOLA](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValNamesGeo_ValNombresGeo.txt).
+- Utilice la rutina [Validación de nombres geográficos con DIVIPOLA](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValNamesGeo_ValNombresGeo.txt){:target="_blank"}.
 
 ### Paso 1 - Carga del archivo
 
-Cree un proyecto en _OpenRefine_ a partir del conjunto de datos <FONT FACE="monospace"><b>«datos_ValidacionGeografia.xlsx»</b></FONT> y asígnele el nombre de <span class="tag is-light"><b>datos_ValidacionGeografia</b></span>. Si tiene dudas sobre cómo hacerlo, revise el **paso 2** de la [guía general de _OpenRefine_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#paso-2---crear-un-proyecto).
+Cree un proyecto en _OpenRefine_ a partir del conjunto de datos <FONT FACE="monospace"><b>«datos_ValidacionGeografia.xlsx»</b></FONT> y asígnele el nombre de <span class="tag is-light"><b>datos_ValidacionGeografia</b></span>. Si tiene dudas sobre cómo hacerlo, revise el **paso 2** de la [guía general de _OpenRefine_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#paso-2---crear-un-proyecto){:target="_blank"}.
 
 ### Paso 2 - Revisión de elementos requeridos
 
@@ -379,7 +379,7 @@ Asegúrese de que el conjunto de datos o los elementos a validar estén estructu
 
 ### Paso 3 - Carga del archivo Divipola para la validación
 
-Para ejecutar esta rutina, es necesario que cargue el archivo <FONT FACE="monospace"><b>«DIVIPOLA_2021-0416.xls»</b></FONT> en _OpenRefine_. Si tiene dudas sobre cómo hacerlo, revise el **paso 2** de la [guía general de _OpenRefine_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#paso-2---crear-un-proyecto).
+Para ejecutar esta rutina, es necesario que cargue el archivo <FONT FACE="monospace"><b>«DIVIPOLA_2021-0416.xls»</b></FONT> en _OpenRefine_. Si tiene dudas sobre cómo hacerlo, revise el **paso 2** de la [guía general de _OpenRefine_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#paso-2---crear-un-proyecto){:target="_blank"}.
 
 Luego, nombre el proyecto en OpenRefine como <span class="tag is-light"><b>DIVIPOLA_20210416</b></span> (Fig. 9). 
 
@@ -391,7 +391,7 @@ Luego, nombre el proyecto en OpenRefine como <span class="tag is-light"><b>DIVIP
 
 **4.1. Copiado de la rutina**
 
-Diríjase a la rutina de [Validación de nombres geográficos con DIVIPOLA](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValNamesGeo_ValNombresGeo.txt). Será redirigido a GitHub, donde encontrará un archivo de texto plano. Copie el texto de la rutina de validación (Fig. 10), asegurándose de seleccionar solo la rutina -sin las instrucciones- y de copiar todos los corchetes iniciales (<span class="tag is-light"><b>{</b></span>) y finales (<span class="tag is-light"><b>}</b></span>), ya que estos son fundamentales para que la rutina se ejecute correctamente.
+Diríjase a la rutina de [Validación de nombres geográficos con DIVIPOLA](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValNamesGeo_ValNombresGeo.txt){:target="_blank"}. Será redirigido a GitHub, donde encontrará un archivo de texto plano. Copie el texto de la rutina de validación (Fig. 10), asegurándose de seleccionar solo la rutina -sin las instrucciones- y de copiar todos los corchetes iniciales (<span class="tag is-light"><b>{</b></span>) y finales (<span class="tag is-light"><b>}</b></span>), ya que estos son fundamentales para que la rutina se ejecute correctamente.
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig10.OR_avanzado_CopiaRutinaGeoNames.png">
 
@@ -464,11 +464,11 @@ Compare sus resultados con el siguiente archivo, validado según las definicione
 
 Realiza un llamado al API de GeoNames (servicio SRTM-1) a partir de los elementos _Darwin Core_ de latitud (<span class="tag is-success is-light"><i>decimalLatitude</i></span>) y longitud (<span class="tag is-success is-light"><i>decimalLongitude</i></span>) en grados decimales. En este sentido, retorna la elevación con una resolución de 30 metros por pixel y la compara con los elementos documentados en el archivo base, generando los indicadores de validación.
 
-Para esta parte, utilice la rutina [Validación y recuperación de elevaciones a partir del API de Geonames](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValElevationAPIGeoNames_ValElevacionAPIGeoNames.txt)
+Para esta parte, utilice la rutina [Validación y recuperación de elevaciones a partir del API de Geonames](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValElevationAPIGeoNames_ValElevacionAPIGeoNames.txt){:target="_blank"}
 
 ### Paso 1 - Cargar el archivo
 
-Descargue el archivo [<FONT FACE="monospace"><b>«datos_ValidacionElevaciones.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/datos_ValidacionElevaciones.xlsx) y cárguelo en _OpenRefine_. Si tiene dudas sobre cómo hacerlo, revise el **paso 2** de la [guía general de _OpenRefine_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#paso-2---crear-un-proyecto).
+Descargue el archivo [<FONT FACE="monospace"><b>«datos_ValidacionElevaciones.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab02/_docs/datos_ValidacionElevaciones.xlsx) y cárguelo en _OpenRefine_. Si tiene dudas sobre cómo hacerlo, revise el **paso 2** de la [guía general de _OpenRefine_](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/OpenRefine#paso-2---crear-un-proyecto){:target="_blank"}.
 
 ### Paso 2 - Revisar elementos requeridos
 
@@ -478,7 +478,7 @@ Si cuenta con elevaciones, es importante que estas estén documentadas en el ele
 
 ### Paso 3 - Registro en Geonames
 
-Para este paso, es necesario tener una cuenta activa en _GeoNames_. Si no tiene una, regístrese [aquí](http://www.geonames.org/login) antes de correr la rutina.
+Para este paso, es necesario tener una cuenta activa en _GeoNames_. Si no tiene una, regístrese [aquí](http://www.geonames.org/login){:target="_blank"} antes de correr la rutina.
 
 Es muy importante tener en cuenta las siguientes indicaciones para habilitar su cuenta y poder usar los servicios _web_.
 
@@ -510,7 +510,7 @@ Es muy importante tener en cuenta las siguientes indicaciones para habilitar su 
 
 **4.1 Copiado de la rutina**
     
-Diríjase a la rutina de [Validación y recuperación de elevaciones a partir del API de _Geonames_](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValElevationAPIGeoNames_ValElevacionAPIGeoNames.txt). Será redirigido a GitHub, donde encontrará un archivo de texto plano. Copie el texto de la rutina de validación (Fig. 18), asegurándose de seleccionar solo la rutina -sin las instrucciones- y de copiar todos los corchetes iniciales (<span class="tag is-light"><b>{</b></span>) y finales (<span class="tag is-light"><b>}</b></span>), ya que estos son fundamentales para que la rutina se ejecute correctamente.
+Diríjase a la rutina de [Validación y recuperación de elevaciones a partir del API de _Geonames_](https://github.com/SIB-Colombia/data-quality-open-refine/blob/master/ValElevationAPIGeoNames_ValElevacionAPIGeoNames.txt){:target="_blank"}. Será redirigido a GitHub, donde encontrará un archivo de texto plano. Copie el texto de la rutina de validación (Fig. 18), asegurándose de seleccionar solo la rutina -sin las instrucciones- y de copiar todos los corchetes iniciales (<span class="tag is-light"><b>{</b></span>) y finales (<span class="tag is-light"><b>}</b></span>), ya que estos son fundamentales para que la rutina se ejecute correctamente.
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_RutinasOpenRefine/Fig18.OR_Avanzado_Geonames_CopiaRutina.png">
 
@@ -615,7 +615,7 @@ Si tiene datos propios que desea publicar, intente realizar la validación corre
 
 ![](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, redistribuir y construir sobre estos contenidos libremente. 
+La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} permite usar, redistribuir y construir sobre estos contenidos libremente. 
     
 ¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
     
