@@ -23,9 +23,9 @@ Las metas de aprendizaje de este laboratorio son:
  
 ## Guías
 
-1. [Estandarización de datos en Darwin Core](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/DWC)
-2. [Estandarización de datos usando las extensiones del Darwin Core](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/DWCextensiones)
-3. [Validador de datos - GBIF](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/DataValidator)
+1. [Estandarización de datos en Darwin Core](comunidad/formacion/laboratorios/DWC)
+2. [Estandarización de datos usando las extensiones del Darwin Core](comunidad/formacion/laboratorios/DWCextensiones)
+3. [Validador de datos - GBIF](comunidad/formacion/laboratorios/DataValidator)
 
 ## Glosario
 
@@ -44,12 +44,12 @@ Las metas de aprendizaje de este laboratorio son:
 ## Lecturas y recursos externos
 
 **Recursos**
-* [*Darwin Core quick reference guide*](https://dwc.tdwg.org/terms/)
-* [Plantillas de publicación](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0)
-* [Extensiones del estándar DwC](https://tools.gbif.org/dwca-validator/extensions.do)
-* [*Darwin Core Hour*](https://vimeo.com/showcase/4407185?page=2) 
-* [*Darwin Core for OBIS schema*](https://obis.org/manual/darwincore/)
+* [*Darwin Core quick reference guide*](https://dwc.tdwg.org/terms/){:target="_blank"}
+* [Plantillas de publicación](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0){:target="_blank"}
+* [Extensiones del estándar DwC](https://tools.gbif.org/dwca-validator/extensions.do){:target="_blank"}
+* [*Darwin Core Hour*](https://vimeo.com/showcase/4407185?page=2){:target="_blank"}
+* [*Darwin Core for OBIS schema*](https://obis.org/manual/darwincore/){:target="_blank"}
 
 **Lecturas**
 
-* [*Darwin Core: An Evolving Community-Developed Biodiversity Data Standard*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029715)
+* [*Darwin Core: An Evolving Community-Developed Biodiversity Data Standard*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029715){:target="_blank"}
