@@ -60,7 +60,7 @@ A continuación encontrarás la información sobre los panelistas y moderadores 
 |<figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/2018/2018-06-21-expedicion-historica-biodiversidad17.png"></figure> |**Gabriel Pantoja:** Miembro de ACICTIOS.| 
 | <figure class="image is-128x128"><img class="is-rounded" src="/assets/images/noticias_eventos/2018/2018-06-21-expedicion-historica-biodiversidad18.jpg"></figure> |**Dairo Escobar, moderador:** Biólogo colombiano enfocado en informática de la biodiversidad y datos abiertos. Ha desarrollado investigaciones en la línea de biología evolutiva, sistemática filogenética molecular y conservación de especies marinas del Caribe y Pacífico colombiano. Durante los últimos 6 años sus intereses y trabajo se han enfocado en el desarrollo, implementación y uso de herramientas informáticas que faciliten la gestión de datos e información sobre biodiversidad a una escala de país bajos los principios del acceso abierto que garanticen una democratización del conocimiento. En su posición actual, coordina la secretaría técnica del SiB Colombia (EC-SiB).|
 
-[Más información sobre el FIMA](https://sibcolombia.net/fima-2018/){: .button .is-primary :}{:target="_blank"}
+[Más información sobre el FIMA](/post/2018/fima/){: .button .is-primary :}
 
 
 #### Aliados
