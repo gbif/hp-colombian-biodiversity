@@ -6,49 +6,6 @@ background: /comunidad/colombiabio/imagenes/layout-colecciones.jpg
 imageLicense: |
   _Heliconius erato petiverana_ Fotografía de: Katja Schulz via [Flickr](https://flic.kr/p/bmS9bM)
 height: 41vh
-gallery2:
-  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-1-1024x682.jpg
-    image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-1-280x280.jpg
-    alt: "placeholder image 1"
-  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-10-1024x682.jpg
-    image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-10-280x280.jpg
-    alt: "placeholder image 2"
-  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-11-1024x580.jpg
-    image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-11-280x280.jpg
-    alt: "placeholder image 3"
-  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-12-1024x682.jpg
-    image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-12-280x280.jpg
-    alt: "placeholder image 4"
-  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-15-1024x682.jpg
-    image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-15-280x280.jpg
-    alt: "placeholder image 5"
-  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-18-1024x682.jpg
-    image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-18-280x280.jpg
-    alt: "placeholder image 6"
-  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-15-1024x682.jpg
-    image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-15-280x280.jpg
-    alt: "placeholder image 7"
-  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-2-1024x812.jpg
-    image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-2-280x280.jpg
-    alt: "placeholder image 8"
-  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-3-1024x682.jpg
-    image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-3-280x280.jpg
-    alt: "placeholder image 9"
-  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-4-1024x682.jpg
-    image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-4-280x280.jpg
-    alt: "placeholder image 10"
-  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-5-1024x682.jpg
-    image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-5-280x280.jpg
-    alt: "placeholder image 11"
-  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-6-1024x742.jpg
-    image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-6-280x280.jpg
-    alt: "placeholder image 12"
-  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-8-1024x682.jpg
-    image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-8-280x280.jpg
-    alt: "placeholder image 13"
-  - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-9-1024x682.jpg
-    image_path: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-9-280x280.jpg
-    alt: "placeholder image 14"
 
 ---
 
@@ -94,9 +51,6 @@ A principios de los setentas, tuvo lugar la primera expedición de colecta al Pa
 En 1979, tras un fuerte terremoto que azotó al país y en medio de una difícil situación política, el Ejército se tomó la Universidad y el Herbario fue destruido. Tiempo después, recuperado el orden, estudiantes de arquitectura lograron salvar algunos ejemplares.
 
 Desde los noventas, el objetivo central del herbario ha sido inventariar la flora caldense, y en la actualidad custodia más de 20.000 especímenes provenientes de este departamento.
-
-{% include gallery id="gallery2" caption="Fotografías de Santiago Llano" %}
-
 
 ### ¿Quiénes trabajan en el herbario?
 
