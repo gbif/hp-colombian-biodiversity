@@ -186,22 +186,22 @@ Si tiene datos propios que desee publicar, estandarícelos siguiendo los pasos d
 
 En este ejercicio, notará que las imágenes se encuentran en un repositorio. Si a futuro desea publicar imágenes asociadas a un registro biológico, es recomendable usar el recurso que mejor se adapte a sus necesidades. Algunos de los repositorios disponibles son:
 
-* [*Wikimedia Commons*](https://commons.wikimedia.org/wiki/Main_Page)
+* [*Wikimedia Commons*](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}
     * Fotografías ilimitadas.
-    * Sobre las galerías: [https://commons.wikimedia.org/wiki/Commons:Galleries](https://commons.wikimedia.org/wiki/Commons:Galleries).
-    * Ejemplo galería: [https://commons.wikimedia.org/wiki/London](https://commons.wikimedia.org/wiki/London).
+    * Sobre las galerías: [https://commons.wikimedia.org/wiki/Commons:Galleries](https://commons.wikimedia.org/wiki/Commons:Galleries){:target="_blank"}.
+    * Ejemplo galería: [https://commons.wikimedia.org/wiki/London](https://commons.wikimedia.org/wiki/London){:target="_blank"}.
     
-* [Internet Archive](https://archive.org/index.php)
+* [Internet Archive](https://archive.org/index.php){:target="_blank"}
     * Fotografías ilimitadas.
-    * Sobre las colecciones: [https://help.archive.org/hc/en-us/articles/360017502272-How-to-request-a-collection-](https://help.archive.org/hc/en-us/articles/360017502272-How-to-request-a-collection-).
-    * Ejemplo colecciones: [https://archive.org/details/brooklynmuseum](https://archive.org/details/brooklynmuseum).
+    * Sobre las colecciones: [https://help.archive.org/hc/en-us/articles/360017502272-How-to-request-a-collection-](https://help.archive.org/hc/en-us/articles/360017502272-How-to-request-a-collection-){:target="_blank"}.
+    * Ejemplo colecciones: [https://archive.org/details/brooklynmuseum](https://archive.org/details/brooklynmuseum){:target="_blank"}.
     
-* [Flickr](https://www.flickr.com/)
+* [Flickr](https://www.flickr.com/){:target="_blank"}
     * Opción de almacenamiento gratuito.
     * Limitado a 1000 fotografías.
-    * Ejemplo: [https://www.flickr.com/photos/98788120@N02/](https://www.flickr.com/photos/98788120@N02/).
+    * Ejemplo: [https://www.flickr.com/photos/98788120@N02/](https://www.flickr.com/photos/98788120@N02/){:target="_blank"}.
     
-* [SmugMug](https://www.smugmug.com/)
+* [SmugMug](https://www.smugmug.com/){:target="_blank"}
     * El almacenamiento está sujeto a pago, puede consultar aquí los planes disponibles.
     * Almacenamiento ilimitado en cualquier plan.
 
@@ -215,7 +215,7 @@ Ha aprendido a estructurar datos adicionales con las extensiones del estándar *
 
 ![](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, redistribuir y construir sobre estos contenidos libremente.
+La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} permite usar, redistribuir y construir sobre estos contenidos libremente.
 
 ¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
 
@@ -227,8 +227,8 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, 
 **Fuentes:**
 
 * _Datos y caso de uso del Ejercicio 2 basado en_: 
-Asociación Bogotana de Ornitología (2011). Aves del Pantano de Martos, Guatavita, Cundinamarca, 94 especies aportadas por Ruiz-Ovalle, J. (Coordinador de Proyecto), Camargo, P. (Investigador Principal, Proveedor de Contenido, Proveedor de Metadatos y Publicador), En línea, [https://doi.org/10.15472/7p2n83](https://doi.org/10.15472/7p2n83).
+Asociación Bogotana de Ornitología (2011). Aves del Pantano de Martos, Guatavita, Cundinamarca, 94 especies aportadas por Ruiz-Ovalle, J. (Coordinador de Proyecto), Camargo, P. (Investigador Principal, Proveedor de Contenido, Proveedor de Metadatos y Publicador), En línea, [https://doi.org/10.15472/7p2n83](https://doi.org/10.15472/7p2n83){:target="_blank"}.
 
 * _Datos y caso de uso del Ejercicio 3 basado en_:
-Alvarado Fernández A M, Rodríguez Gómez E R, Palacios Calderón L M, Trespalacios Rangel A A, Ballesteros Ballesteros J A (2021): Colección de Microorganismos-Pontificia Universidad Javeriana. v1.7. Pontificia Universidad Javeriana. Dataset/Occurrence. [https://doi.org/10.15472/ppbz1y](https://doi.org/10.15472/ppbz1y).
+Alvarado Fernández A M, Rodríguez Gómez E R, Palacios Calderón L M, Trespalacios Rangel A A, Ballesteros Ballesteros J A (2021): Colección de Microorganismos-Pontificia Universidad Javeriana. v1.7. Pontificia Universidad Javeriana. Dataset/Occurrence. [https://doi.org/10.15472/ppbz1y](https://doi.org/10.15472/ppbz1y){:target="_blank"}.
 
