@@ -29,13 +29,13 @@ Los documentos, presentaciones y videos utilizados en el taller están disponibl
 
 **Socios:**
 
-* [GBIF Costa Rica](http://biodiversidad.go.cr/){:target="_blank"}
+* [GBIF Costa Rica](https://www.gbif.org/es/country/CR/summary){:target="_blank"}
 * [GBIF Argentina](http://www.sndb.mincyt.gob.ar/){:target="_blank"}
 * [CRIA - Centro de Referência em Informaçao Ambiental, Brazil](http://www.cria.org.br/){:target="_blank"}
 * [GBIF Uruguay](https://www.gbif.org/country/UY/about){:target="_blank"}
 * [GBIF Chile](https://gbifchile.mma.gob.cl/){:target="_blank"}
 * [GBIF España](https://www.gbif.org/country/ES/about){:target="_blank"}
-* [GBIF Biodiversity Heritage Library](https://www.gbif.org/country/CO/abouthttps://www.gbif.org/country/US/about){:target="_blank"}
+* [GBIF Biodiversity Heritage Library](https://www.gbif.org/es/participant/366){:target="_blank"}
 * [MIZA - Museo del Instituto de Zoología Agrícola Francisco Fernández Yépez, Venezuela](https://www.museodata.com/museos/85-venezuela/558-miza-francisco-fernandez-yepes.html){:target="_blank"}
 * [El Instituto de Ecología y Sistemática, Cuba](https://www.ecured.cu/Instituto_de_Ecolog%C3%ADa_y_Sistem%C3%A1tica){:target="_blank"}
 * [Museo Entomológico de León, Nicaragua](http://bio-nica.info/topic/index.html){:target="_blank"}
