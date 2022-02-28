@@ -16,8 +16,5 @@ Para avanzar en estos primeros compromisos, estamos consolidando un panorama de 
  
 Adicionalmente, extendemos una invitación a sumarse en este proceso de consolidación de una red que nos permita movilizar experiencias, visibilizar los avances y trabajar conjuntamente para seguir integrando la ciencia participativa en la toma de decisiones a diferentes niveles en la región. 
  
-Si te interesa, diligencia este breve [formulario](https://docs.google.com/forms/d/e/1FAIpQLSdMH1zH61Rvb07ar2yVBZ0EK6IpwCTUKY9vbMizTuHRuZ1a9w/viewform).
- 
- 
 *Grupo de trabajo de mapeo de experiencias*
 **Red Iberoamericana de Ciencia Participativa (RICAP)**
