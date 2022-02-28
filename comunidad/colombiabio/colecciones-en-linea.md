@@ -16,7 +16,7 @@ El primer inventario de la biodiversidad de Colombia se remonta a 1783, año en 
 
 La primera colección biológica colombiana, el Museo de la Salle, fue creada en 1904, y desde entonces estos repositorios de vida han servido como testigos de las especies de nuestro territorio. Actualmente, en Colombia existen 214 colecciones legalizadas y actualizadas ante el [Registro Único Nacional de Colecciones (RNC)](http://rnc.humboldt.org.co/wp/){:target="_blank"}, que custodian más de 60 millones de especímenes de todos los grupos biológicos de nuestra biodiversidad.
 
-### Para qué un catálogo de colecciones
+### ¿Para qué un catálogo de colecciones?
 
 <img src="/comunidad/colombiabio/imagenes/colecciones-en-linea/stats1.png" width=770>
 
