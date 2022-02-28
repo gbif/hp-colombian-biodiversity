@@ -25,17 +25,17 @@ A través de los laboratorios obtendrá herramientas robustas para el manejo de 
 
 Para obetner el mayor provecho de los laboratiorios se recomienda ver los siguientes seminarios que dan un contexto sobre la publicación de los datos:
 
-1. [SiB Colombia: una iniciativa nacional para la publicación, acceso y uso de datos sobre biodiversidad](https://youtu.be/ImptmviMXgI)
-2. [¿Qué datos sobre nuestra biodiversidad se pueden publicar a través del SiB Colombia?](https://youtu.be/_f4gGfIBN3U)
-3. [Aprendiendo un nuevo idioma, *Darwin Core*: reglas gramaticales y ortográficas para la publicación de datos sobre biodiversidad](https://youtu.be/nYGu8KY_K6U)
-4. [Extensiones *Darwin Core*: ¿qué son y cómo funcionan?](https://youtu.be/Gu7Z8irxW7k)
-5. [Eventos de muestreo: ¿cómo publicarlos usando el estándar Darwin Core?](https://youtu.be/gC2WCfeuZxo)
-6. [Crear, compartir, transformar: ¿cómo publicar a través del SiB Colombia?](https://youtu.be/Q83XpNQwyEc)
-7. [Mejores datos mejores decisiones: la importancia de la calidad en los datos sobre biodiversidad](https://youtu.be/_JBbEjG1wAU)
-8. [Validación y limpieza de datos sobre biodiversidad: ¿Cuáles son los retos más comunes y cómo solucionarlos?](https://youtu.be/M8AgoWnLkrg)
-9. [Datos abiertos sobre biodiversidad: ¿Cómo acceder y usar los datos publicados a través del SiB Colombia?](https://www.youtube.com/watch?v=4x8ReO55d2s)
+1. [SiB Colombia: una iniciativa nacional para la publicación, acceso y uso de datos sobre biodiversidad](https://youtu.be/ImptmviMXgI){:target="_blank"}
+2. [¿Qué datos sobre nuestra biodiversidad se pueden publicar a través del SiB Colombia?](https://youtu.be/_f4gGfIBN3U){:target="_blank"}
+3. [Aprendiendo un nuevo idioma, *Darwin Core*: reglas gramaticales y ortográficas para la publicación de datos sobre biodiversidad](https://youtu.be/nYGu8KY_K6U){:target="_blank"}
+4. [Extensiones *Darwin Core*: ¿qué son y cómo funcionan?](https://youtu.be/Gu7Z8irxW7k){:target="_blank"}
+5. [Eventos de muestreo: ¿cómo publicarlos usando el estándar Darwin Core?](https://youtu.be/gC2WCfeuZxo){:target="_blank"}
+6. [Crear, compartir, transformar: ¿cómo publicar a través del SiB Colombia?](https://youtu.be/Q83XpNQwyEc){:target="_blank"}
+7. [Mejores datos mejores decisiones: la importancia de la calidad en los datos sobre biodiversidad](https://youtu.be/_JBbEjG1wAU){:target="_blank"}
+8. [Validación y limpieza de datos sobre biodiversidad: ¿Cuáles son los retos más comunes y cómo solucionarlos?](https://youtu.be/M8AgoWnLkrg){:target="_blank"}
+9. [Datos abiertos sobre biodiversidad: ¿Cómo acceder y usar los datos publicados a través del SiB Colombia?](https://www.youtube.com/watch?v=4x8ReO55d2s){:target="_blank"}
 
-Aprendá más en las series de seminarios del [2020](https://www.youtube.com/playlist?list=PL_KzX3Rxxwb0ON-iZSZMI2fOF_xaSir8l) y [2021](https://www.youtube.com/playlist?list=PL_KzX3Rxxwb3MA55uX9105Y89QWAbMiKu).
+Aprenda más en las series de seminarios del [2020](https://www.youtube.com/playlist?list=PL_KzX3Rxxwb0ON-iZSZMI2fOF_xaSir8l){:target="_blank"} y [2021](https://www.youtube.com/playlist?list=PL_KzX3Rxxwb3MA55uX9105Y89QWAbMiKu){:target="_blank"}.
 
 
 ### Laboratorios
@@ -49,7 +49,7 @@ Aprendá más en las series de seminarios del [2020](https://www.youtube.com/pla
 
 ![](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-El **libre acceso** y la **cooperación** son dos de los principios orientadores del SiB Colombia. Por tal motivo, todos los contenidos del ciclo de formación se encuentran bajo una licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) que permite usar, redistribuir y construir sobre estos contenidos libremente.
+El **libre acceso** y la **cooperación** son dos de los principios orientadores del SiB Colombia. Por tal motivo, todos los contenidos del ciclo de formación se encuentran bajo una licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} que permite usar, redistribuir y construir sobre estos contenidos libremente.
 
 ¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
 
@@ -70,10 +70,10 @@ El **libre acceso** y la **cooperación** son dos de los principios orientadores
 
 Los contenidos de los laboratorios son posibles gracias a los aportes de otras iniciativas que trabajan en conjunto con el SiB Colombia:
 
-* [GBIF](https://www.gbif.org/es/) - *Global Biodiversity Information Facility*.
+* [GBIF](https://www.gbif.org/es/){:target="_blank"}{:target="_blank"} - *Global Biodiversity Information Facility*.
 * [OBIS](https://obis.org/) - *Ocean Biodiversity Information System*.
-* [GBIF España](https://www.gbif.es/) - Nodo español de GBIF.
-* [CANADENSYS](https://www.canadensys.net/) - Nodo de GBIF en Canadá.
-* [VerNet](http://vertnet.org/) - Nodo GBIF.
-* [SiBM](https://siam.invemar.org.co/sibm) - Sistema de Información sobre Biodiversidad Marina de Colombia.
-* [WoRMS](http://marinespecies.org/) - *World Register of Marine Species*.
+* [GBIF España](https://www.gbif.es/){:target="_blank"} - Nodo español de GBIF.
+* [CANADENSYS](https://www.canadensys.net/){:target="_blank"} - Nodo de GBIF en Canadá.
+* [VerNet](http://vertnet.org/){:target="_blank"} - Nodo GBIF.
+* [SiBM](https://siam.invemar.org.co/sibm){:target="_blank"} - Sistema de Información sobre Biodiversidad Marina de Colombia.
+* [WoRMS](http://marinespecies.org/){:target="_blank"} - *World Register of Marine Species*.
