@@ -32,7 +32,7 @@ Un comité conformado por las instituciones organizadoras analizó detalladament
 |<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Colección Entomológica – Universidad del Quindío](/comunidad/colombiabio/coleccion-entomologica-de-la-universidad-del-quindio)|
 |<figure class="image is-64x64"><img src="/comunidad/colombiabio/imagenes/pais-megadiverso/herbario.png"></figure>|[Herbario Universidad del Quindío](/comunidad/colombiabio/herbario-universidad-de-quindio)|
 
-### Por qué es importante que la información se convierta en registros útiles
+### ¿Por qué es importante que la información se convierta en registros útiles?
 
 Para que los datos de las colecciones biológicas sean verdaderamente útiles a la hora de tomar decisiones que nos ayuden a proteger y conservar nuestros recursos naturales, es necesario que cumplan con una serie de requisitos. [Amazink Studio](https://www.amazink.co/){:target="_blank"} apoyó al SiB Colombia elaborando esta pieza gráfica, en la que se explica el proceso básico que deben seguir los datos para convertirse en información útil e integrada.
 
@@ -40,16 +40,18 @@ Para que los datos de las colecciones biológicas sean verdaderamente útiles a 
 
 [Descarga la infografía](https://statics.sibcolombia.net/sib-resources/images/portal-sib-colombia/imgs/g-p-d-amazinc-1.png){: .button .is-link :}{:target="_blank"}
 
-<img src="/comunidad/colombiabio/imagenes/pais-megadiverso/screenshot.png" width=770>
+### ¿Cómo se fortalecen las colecciones biológicas?
+
+<img src="/comunidad/colombiabio/imagenes/pais-megadiverso/fortalecer-colecciones.png" width=770>
 
 ### Espacializar la biodiversidad: la georreferenciación
 
 |||
 |---|---|
-|![](/comunidad/colombiabio/imagenes/pais-megadiverso/geo-1b.png)|Los datos estandarizados se envían a las colecciones para que completen la información de colecta|
-|![](/comunidad/colombiabio/imagenes/pais-megadiverso/geo-2b.png)|Reducir el número de localidades unificando las que son redundantes|
-|![](/comunidad/colombiabio/imagenes/pais-megadiverso/geo-3b.png)|Determinar el punto de colecta de registro a partir de la descripción de la localidad|
-|![](/comunidad/colombiabio/imagenes/pais-megadiverso/geo-4b.png)|Los datos estandarizados se envían a las colecciones para que completen la información de colecta|
+|![](/comunidad/colombiabio/imagenes/pais-megadiverso/geo-1b.png)|<b>Los datos estandarizados se envían a las colecciones para que completen la información de colecta</b>|
+|![](/comunidad/colombiabio/imagenes/pais-megadiverso/geo-2b.png)|<b>Reducir el número de localidades unificando las que son redundantes</b>|
+|![](/comunidad/colombiabio/imagenes/pais-megadiverso/geo-3b.png)|<b>Determinar el punto de colecta de registro a partir de la descripción de la localidad</b>|
+|![](/comunidad/colombiabio/imagenes/pais-megadiverso/geo-4b.png)|<b>Los datos estandarizados se envían a las colecciones para que completen la información de colecta</b>|
 
 ##### Ricardo Ortiz
 
