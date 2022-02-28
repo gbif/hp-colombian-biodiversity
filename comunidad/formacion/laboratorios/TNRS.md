@@ -28,7 +28,7 @@ Realizar una validación taxonómica automática de los nombres científicos de 
 
 **Sobre la herramienta**
 
-La herramienta TNRS, por su sigla en inglés (_Taxonomic Name Resolution Service_), es una aplicación originalmente desarrollada por _iPlant_ que permite estandarizar los nombres científicos botánicos a partir de fuentes taxonómicas como [_Tropicos_](https://www.tropicos.org/home), [USDA](https://plants.sc.egov.usda.gov/home/) y [TPL](http://www.theplantlist.org/). La validación taxonómica con TNRS sirve para:
+La herramienta TNRS, por su sigla en inglés (_Taxonomic Name Resolution Service_), es una aplicación originalmente desarrollada por _iPlant_ que permite estandarizar los nombres científicos botánicos a partir de fuentes taxonómicas como [_Tropicos_](https://www.tropicos.org/home){:target="_blank"}, [USDA](https://plants.sc.egov.usda.gov/home/){:target="_blank"} y [TPL](http://www.theplantlist.org/){:target="_blank"}. La validación taxonómica con TNRS sirve para:
 - Identificar errores ortográficos o de tipeo.
 - Separar el nombre científico en diferentes elementos _Darwin Core_ (<span class="tag is-success is-light"><i>genus</i></span>, <span class="tag is-success is-light"><i>specificEpithet</i></span>, <span class="tag is-success is-light"><i>scientificNameAuthorship</i></span>).
 - Evaluar la coincidencia del nombre científico, familia, género, epiteto específico e infraespecífico y autoría, al comparar los datos con las fuentes taxonómicas de referencia.
@@ -37,7 +37,7 @@ La herramienta TNRS, por su sigla en inglés (_Taxonomic Name Resolution Service
 
 **Enlace**
 
-_Taxonomic Name Resolution Service_ (TNRS): [https://tnrs.biendata.org/](https://tnrs.biendata.org/)
+_Taxonomic Name Resolution Service_ (TNRS): [https://tnrs.biendata.org/](https://tnrs.biendata.org/){:target="_blank"}
 
 **Requerimientos** 
 
@@ -51,7 +51,7 @@ Descargue el archivo [<FONT FACE="monospace"><b>«Datos_TNRS.xlsx»</b></FONT>](
 
 ## Paso 1 - Ingreso
 
-Ingrese a la aplicación [TNRS](https://tnrs.biendata.org/) y familiarícese con las opciones. La herramienta está divida en dos partes: la primera (Fig. 1A) parmite colocar la lista de nombres científicos; la segunda (Fig. 1B) permite seleccionar las configuraciones.
+Ingrese a la aplicación [TNRS](https://tnrs.biendata.org/){:target="_blank"} y familiarícese con las opciones. La herramienta está divida en dos partes: la primera (Fig. 1A) parmite colocar la lista de nombres científicos; la segunda (Fig. 1B) permite seleccionar las configuraciones.
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_TNRS/Fig.1_TNRS_Aplicacion.png" width=800>
 
@@ -94,9 +94,9 @@ La configuración de _**"Family Classification"**_ permite seleccionar las famil
 ### 3.3. Fuente
 
 En la configuración de _**"Source"**_, puede elegir las fuentes base para contrastar los datos. Es posible elegir una o varias fuentes: 
-* [_Tropicos_](https://www.tropicos.org/home)
-* [USDA](https://plants.sc.egov.usda.gov/home/) 
-* [TPL](http://www.theplantlist.org/)
+* [_Tropicos_](https://www.tropicos.org/home){:target="_blank"}
+* [USDA](https://plants.sc.egov.usda.gov/home/){:target="_blank"} 
+* [TPL](http://www.theplantlist.org/){:target="_blank"}
 
 Mantenga todas las fuentes seleccionadas. Por último, haga clic en el botón <span class="tag is-warning is-light"><i>submit</i></span> para iniciar la validación y espere a que se generen los resultados.
 
@@ -193,7 +193,7 @@ Configure las descargas como se muestra en la Figura 7 y haga clic en <span clas
 
 ## Paso 6 - Visualización de resultados
 
-Los resultados se descargarán como un archivo de texto plano. Por consiguiente, puede abrirlos en un editor de texto como Excel u _OpenRefine_. Si necesita una guía de cómo abrir este tipo de archivo en Excel, lo invitamos a consultar la [Guía de importación de resultados en Excel](https://sib-colombia.github.io/Formacion/LAB/otros/txt_to_excel.html).
+Los resultados se descargarán como un archivo de texto plano. Por consiguiente, puede abrirlos en un editor de texto como Excel u _OpenRefine_. Si necesita una guía de cómo abrir este tipo de archivo en Excel, lo invitamos a consultar la [Guía de importación de resultados en Excel](https://sib-colombia.github.io/Formacion/LAB/otros/txt_to_excel.html){:target="_blank"}.
 
 ## Paso 7 - Revisión de resultados y modificación de datos
 
@@ -256,7 +256,7 @@ Descargue y compare el siguiente archivo, validado según las definiciones del e
 
 ![](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, redistribuir y construir sobre estos contenidos libremente. 
+La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} permite usar, redistribuir y construir sobre estos contenidos libremente. 
 
 ¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
   
