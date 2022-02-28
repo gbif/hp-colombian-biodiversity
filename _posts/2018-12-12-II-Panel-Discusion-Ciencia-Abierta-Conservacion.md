@@ -16,13 +16,10 @@ La práctica de la Ciencia Abierta es importante para todos los campos del conoc
 
 Estas prácticas de ciencia abierta están teniendo cada vez mayor relevancia en Europa y Estados Unidos. Debido a que latinoamérica se está consolidando como una región con alto potencial en producción científica, es imperante iniciar la discusión y consolidación de los procesos de ciencia abierta en la región, en especial para tener mayor impacto en nuestros esfuerzos de conservación de la biodiversidad.
 
-**Fecha:** 4 de diciembre de 2018; 17:30 – 19:30 horas.
-
-**Lugar:** AGORA Centro de Convenciones. Carrera 37 # 24 – 67. Bogotá, Colombia. [Ubicación](https://www.google.com/maps/place/%C3%81gora+Bogot%C3%A1/@4.6298745,-74.0948158,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9bd91908ed1d:0x23880f62017a68ac!8m2!3d4.6298745!4d-74.0926271?shorturl=1){:target="_blank"}.
-
-**Organizan:** Sociedad para la Ciencia Abierta y la Conservación de la Biodiversidad (SCiAC) y VCCZ
-
-**Patrocinan:** [ProCAT Internacional](https://procat-conservation.org/){:target="_blank"} & [Fundación Karisma](https://karisma.org.co/){:target="_blank"}
+**Fecha:** 4 de diciembre de 2018; 17:30 – 19:30 horas.<br>
+**Lugar:** AGORA Centro de Convenciones. Carrera 37 # 24 – 67. Bogotá, Colombia. [Ubicación](https://www.google.com/maps/place/%C3%81gora+Bogot%C3%A1/@4.6298745,-74.0948158,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9bd91908ed1d:0x23880f62017a68ac!8m2!3d4.6298745!4d-74.0926271?shorturl=1){:target="_blank"}.<br>
+**Organizan:** Sociedad para la Ciencia Abierta y la Conservación de la Biodiversidad (SCiAC) y VCCZ<br>
+**Patrocinan:** ProCAT Internacional & [Fundación Karisma](https://karisma.org.co/){:target="_blank"}<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XrZGUciymic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
