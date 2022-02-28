@@ -29,11 +29,11 @@ Detectar posibles problemas en la estructura y contenido de los conjuntos de dat
 
 **Sobre la Herramienta**
 
-El [validador de datos](https://www.gbif.org/es/tools/data-validator/) es un servicio de [GBIF](https://www.gbif.org) que permite evaluar de manera automática la completitud y otros aspectos de la calidad en los conjuntos de datos estructurados bajo el estándar [*Darwin Core* (DwC)](https://dwc.tdwg.org/terms/). El validador genera un informe sobre la sintaxis y la calidad de los datos. Esto permite detectar posibles problemas en la información antes de publicarla. Por consiguiente, si se somete un [DwC-A](https://www.gbif.org/darwin-core), el validador también evalúa la completitud y estructura de los metadatos en el estándar [EML](https://www.gbif.org/sites/default/files/gbif_resource/resource-80640/gbif_metadata_profile_guide_en_v1.pdf).
+El [validador de datos](https://www.gbif.org/es/tools/data-validator/){:target="_blank"} es un servicio de [GBIF](https://www.gbif.org){:target="_blank"} que permite evaluar de manera automática la completitud y otros aspectos de la calidad en los conjuntos de datos estructurados bajo el estándar [*Darwin Core* (DwC)](https://dwc.tdwg.org/terms/){:target="_blank"}. El validador genera un informe sobre la sintaxis y la calidad de los datos. Esto permite detectar posibles problemas en la información antes de publicarla. Por consiguiente, si se somete un [DwC-A](https://www.gbif.org/darwin-core){:target="_blank"}, el validador también evalúa la completitud y estructura de los metadatos en el estándar [EML](https://www.gbif.org/sites/default/files/gbif_resource/resource-80640/gbif_metadata_profile_guide_en_v1.pdf){:target="_blank"}.
 
 **Enlace**
 
-*Data validator*: [gbif.org/es/tools/data-validator/](https://www.gbif.org/es/tools/data-validator/)
+*Data validator*: [gbif.org/es/tools/data-validator/](https://www.gbif.org/es/tools/data-validator/){:target="_blank"}
 
 **Requerimientos** 
 * La primera fila del conjunto de datos a validar debe tener el nombre de los elementos DwC en inglés.
@@ -53,7 +53,7 @@ Descargue el archivo [<FONT FACE="monospace"><b>«datos_Estructurados.xls»</b><
 
 ## Paso 1 - Ingreso a GBIF 
 
-Cree una cuenta de usuario en [GBIF](https://www.gbif.org) o ingrese con sus credenciales al [validador de datos](https://www.gbif.org/es/tools/data-validator/) si ya se encuentra registrado (Fig. 1).
+Cree una cuenta de usuario en [GBIF](https://www.gbif.org){:target="_blank"} o ingrese con sus credenciales al [validador de datos](https://www.gbif.org/es/tools/data-validator/){:target="_blank"} si ya se encuentra registrado (Fig. 1).
 
 ![Figura 1. Ingreso/registro en la página de GBIF](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_DataValidator/Fig.1_dataValidator.png)
 
@@ -187,7 +187,7 @@ También puede obtener el mensaje «Se presume longitud negativa», pero es meno
 
 <span class="tag is-warning"><b>Alerta</b></span> **Coincidencia aproximada del taxón**
 
-- **Problema**: hay una coincidencia parcial del nombre cíentífico y el [árbol taxonómico de GBIF](https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c). Por lo general, esta alerta aparece cuando hay errores de tipeo menores en el nombre científico.
+- **Problema**: hay una coincidencia parcial del nombre cíentífico y el [árbol taxonómico de GBIF](https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c){:target="_blank"}. Por lo general, esta alerta aparece cuando hay errores de tipeo menores en el nombre científico.
 
 - **Solución**: asegúrese de que el nombre científico esté escrito correctamente.
 
@@ -226,7 +226,7 @@ Si tiene datos propios que desee publicar, pruebe validarlos siguiendo los pasos
 
 Recomendaciones:
 
-Según el origen de sus datos (colecciones biológicas, permisos de recolección, datos marinos, eventos de muestreo), compruebe que los elementos obligatorios estén documentados al 100%. Para ello, utilice como referencia la última [<FONT FACE="monospace"><b>«Plantilla DwC Registros biológicos»</b></FONT>](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0) y la sección **"Frecuencia del término"** del [validador de datos](https://www.gbif.org/es/tools/data-validator/) (Fig. 3B). 
+Según el origen de sus datos (colecciones biológicas, permisos de recolección, datos marinos, eventos de muestreo), compruebe que los elementos obligatorios estén documentados al 100%. Para ello, utilice como referencia la última [<FONT FACE="monospace"><b>«Plantilla DwC Registros biológicos»</b></FONT>](https://sites.google.com/humboldt.org.co/wikisib/publicar/plantillas?authuser=0){:target="_blank"} y la sección **"Frecuencia del término"** del [validador de datos](https://www.gbif.org/es/tools/data-validator/){:target="_blank"} (Fig. 3B). 
 
 ****
 **¡Felicitaciones!** Ha mejorado la calidad de su conjunto de datos.
@@ -237,7 +237,7 @@ Según el origen de sus datos (colecciones biológicas, permisos de recolección
 
 ![](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, redistribuir y construir sobre estos contenidos libremente.
+La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} permite usar, redistribuir y construir sobre estos contenidos libremente.
 ¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
 
 
