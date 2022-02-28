@@ -14,8 +14,7 @@ El SiB Colombia participó activamente en el bloque de charlas de experiencias c
 
 Por otro lado, compartimos con el Invemar y el Instituto Humboldt en el Conversatorio de normativa ambiental, donde hablamos sobre del rol del SiB Colombia en el marco de la legislación nacional vigente y las oportunidades y retos que la red enfrenta en el cumplimiento de la misma.  
 
-**Fecha:** 05 – 08 de septiembre de 2018.
-
+**Fecha:** 05 – 08 de septiembre de 2018.<br>
 **Lugar:** Santa Marta, Magdalena / Invemar.
 
 #### Participantes:
@@ -32,8 +31,6 @@ Por otro lado, compartimos con el Invemar y el Instituto Humboldt en el Conversa
 
 #### Enlaces de interés
 
-[Video cápsulas](https://www.youtube.com/results?search_query=%23AltaMonta%C3%B1aAlProfundoMar){:target="_blank"}
-
-[Presentaciones](https://drive.google.com/open?id=1SffrZgccMnrLuHurFnNDgz4UARLgH-3z){:target="_blank"}
-
-[Fotos del evento](https://twitter.com/hashtag/altamonta%C3%B1aalprofundomar?f=images&vertical=default&src=hash){:target="_blank"}
+- [Video cápsulas](https://www.youtube.com/results?search_query=%23AltaMonta%C3%B1aAlProfundoMar){:target="_blank"}
+- [Presentaciones](https://drive.google.com/open?id=1SffrZgccMnrLuHurFnNDgz4UARLgH-3z){:target="_blank"}
+- [Fotos del evento](https://twitter.com/hashtag/altamonta%C3%B1aalprofundomar?f=images&vertical=default&src=hash){:target="_blank"}
