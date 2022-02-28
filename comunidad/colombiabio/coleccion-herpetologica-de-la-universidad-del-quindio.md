@@ -2,7 +2,7 @@
 layout: heroImage
 title: Colección Herpetológica
 description: Universidad del Quindío
-background: /comunidad/colombiabio/imagenes/layout-herpeto.jpg
+background: /comunidad/colombiabio/imagenes/layout-herpeto2.jpg
 imageLicense: |
   _Anolis danieli_ macho Fotografía de: Maria del Rosario Castaneda via [Flickr](https://flic.kr/p/f89XP6)
 height: 41vh
