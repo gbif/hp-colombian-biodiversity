@@ -16,7 +16,7 @@ Por esta razón, tenemos el deber fundamental de conocer la biodiversidad que co
 
 ### Conoce las colecciones que participan y sus resultados
 
-Conscientes de la importancia de la información que custodian las colecciones biológicas del país, Colciencias, el Instituto Humboldt y el SiB Colombia lanzaron, en julio de 2016, una convocatoria abierta para fortalecer a algunas de ellas en materia de estructuración, georreferenciación y publicación de datos. Aplicaron más de cincuenta colecciones registradas y actualizadas ante el [Registro Nacional de Colecciones Biológicas (RNC)](http://www.humboldt.org.co/es/servicios/registro-unico-nacional-de-colecciones-biologicas-rnc){:target="_blank"}.
+Conscientes de la importancia de la información que custodian las colecciones biológicas del país, Colciencias, el Instituto Humboldt y el SiB Colombia lanzaron, en julio de 2016, una convocatoria abierta para fortalecer a algunas de ellas en materia de estructuración, georreferenciación y publicación de datos. Aplicaron más de cincuenta colecciones registradas y actualizadas ante el [Registro Nacional de Colecciones Biológicas (RNC)](http://www.humboldt.org.co/es/servicios/servicios-y-recursos/registro-unico-nacional-de-colecciones-biologicas-rnc){:target="_blank"}.
 
 Un comité conformado por las instituciones organizadoras analizó detalladamente todas las aplicaciones. Posteriormente, visitó las preseleccionadas y, con base en los términos de la convocatoria, eligió nueve de ellas para participar en el proceso.
 
@@ -88,4 +88,4 @@ Las visitas fueron acompañadas por [Amazink Studio](https://www.amazink.co/){:t
 ### Resultados generales del apoyo en gestión y publicación de datos
 
 
-<img src="/comunidad/colombiabio/imagenes/pais-megadiverso/piechart.png" width=770>
+<img src="/comunidad/colombiabio/imagenes/pais-megadiverso/piechart2.png" width=770>
