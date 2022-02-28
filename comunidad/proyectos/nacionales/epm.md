@@ -23,5 +23,5 @@ La participación del Equipo Coordinador del SiB Colombia en este proyecto está
 |Reubicación de fauna terrestre y acuática| 42.000| Fauna| En proceso|
 
 <img src="/comunidad/proyectos/images/hidroituango-zona-obras-principales.jpg" width=770>
-*Hidroituango-Zona de las obras principales. Foto: John Jairo Jaramillo* <https://flic.kr/p/8m6QSM>
+*Hidroituango-Zona de las obras principales. Foto: John Jairo Jaramillo vía [Flickr](https://flic.kr/p/8m6QSM){:target="_blank"}*
  
