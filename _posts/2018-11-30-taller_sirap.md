@@ -8,13 +8,12 @@ background: /assets/images/noticias_eventos/2018/2018-11-30-taller_sirap.jpg
 
 El objetivo de este taller es crear capacidad en publicación de datos sobre biodiversidad, a través del SiB Colombia, en las organizaciones que hacen parte del Sistema Regional de Áreas Protegidas del Eje Cafetero (SIRAP-EC).
 
-**Fecha:** 30 de noviembre de 2018.
-
+**Fecha:** 30 de noviembre de 2018.<br>
 **Lugar:** Corporación autónoma Regional de Risaralda – Pereira, Risaralda.
 
 #### Logros:
 
-* La realización de este taller, como iniciativa y liderazgo del SIRAP-EC, refleja el compromiso y apropiación del modelo de publicación del SiB Colombia por diferentes actores del país y el interés por articularse con base en una política de datos y ciencia abierta. El taller logró convocar a nueve (9) entidades de la red del SIRAP-EC: Corporación Autónoma Regional del Quindío, Corporación Autónoma Regional de Risaralda, Fecomar (ONG), Parques Nacionales Naturales de Colombia, Gobernación del Quindío, Asociación Soledad de Montaña,  Fundación Las Mellizas, Wildlife Conservation Society, y la Universidad de Caldas. Los participantes se comprometieron a participar activamente en la publicación de datos a través del SiB Colombia y fortalecer así la disponibilidad de información sobre la región, enmarcada en la red del SIRAP-EC. Este compromiso, permitirá a su vez soportar y dar mayor visibilidad a las actividades relacionadas con la conservación de la áreas protegidas en la región del Eje Cafetero.
+La realización de este taller, como iniciativa y liderazgo del SIRAP-EC, refleja el compromiso y apropiación del modelo de publicación del SiB Colombia por diferentes actores del país y el interés por articularse con base en una política de datos y ciencia abierta. El taller logró convocar a nueve (9) entidades de la red del SIRAP-EC: Corporación Autónoma Regional del Quindío, Corporación Autónoma Regional de Risaralda, Fecomar (ONG), Parques Nacionales Naturales de Colombia, Gobernación del Quindío, Asociación Soledad de Montaña,  Fundación Las Mellizas, Wildlife Conservation Society, y la Universidad de Caldas. Los participantes se comprometieron a participar activamente en la publicación de datos a través del SiB Colombia y fortalecer así la disponibilidad de información sobre la región, enmarcada en la red del SIRAP-EC. Este compromiso, permitirá a su vez soportar y dar mayor visibilidad a las actividades relacionadas con la conservación de la áreas protegidas en la región del Eje Cafetero.
 
  
 
