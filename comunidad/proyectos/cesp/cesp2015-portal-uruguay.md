@@ -22,7 +22,7 @@ La región más amplia de América Latina también ha reconocido la necesidad de
 
 **Cofinanciado por:** 
 
-* [Dirección de Innovación, Ciencia y Tecnología para el Desarrollo (DICYT)](http://mec.gub.uy/innovaportal/v/303/11/mecweb/direccion_de_innovacion_ciencia_y_tecnologia?contid=302){:target="_blank"}
+* [Dirección de Innovación, Ciencia y Tecnología para el Desarrollo (DICYT)](https://www.gub.uy/ministerio-educacion-cultura/direccion-innovacion-ciencia-tecnologia){:target="_blank"}
 * [SiB Colombia](https://biodiversidad.co/)
 * [Canadensys](http://www.gbif.org/node/4db9cfd2-1191-4b9d-b579-0b68ceabd968){:target="_blank"}
 
