@@ -38,8 +38,8 @@ Las metas de aprendizaje de este laboratorio son:
 - **API**: funciona como un mensajero que hace solicitudes a un programa o base de datos, generando una respuesta apropiada a dichas solicitudes. Técnicamente, son un conjunto de comandos, funciones y protocolos informáticos que las aplicaciones siguen para comunicarse entre ellas, asegurando la conectividad entre distintas páginas y portales. De esta manera, las APIs permiten hacer uso de funciones preexistentes en otras plataformas sin necesidad de crearlas desde cero.
 
 Para más información, consulte los siguientes videos:
-- [Video en inglés](https://youtu.be/s7wmiS2mSXY)
-- [Video en español](https://youtu.be/rq6gdwEbowU)
+- [Video en inglés](https://youtu.be/s7wmiS2mSXY){:target="_blank"}
+- [Video en español](https://youtu.be/rq6gdwEbowU){:target="_blank"}
 
 
 
@@ -50,10 +50,10 @@ Para más información, consulte los siguientes videos:
 
 **Recursos**
 
-* [El bueno, el malo y el no tan lindo: ¿Cómo lidiar con datos de Biodiversidad?](https://www.youtube.com/watch?v=om1TdHOj5B8)
-* [*OpenRefine - GREL functions*](https://github.com/OpenRefine/OpenRefine/wiki/GREL-Functions)
+* [El bueno, el malo y el no tan lindo: ¿Cómo lidiar con datos de Biodiversidad?](https://www.youtube.com/watch?v=om1TdHOj5B8){:target="_blank"}
+* [*OpenRefine - GREL functions*](https://github.com/OpenRefine/OpenRefine/wiki/GREL-Functions){:target="_blank"}
 
 **Lecturas**
 
-* [Lectura *Principles of Data Quality*, Chapman 2005](https://www.gbif.org/document/80509/principles-of-data-quality).
+* [Lectura *Principles of Data Quality*, Chapman 2005](https://www.gbif.org/document/80509/principles-of-data-quality){:target="_blank"}.
 
