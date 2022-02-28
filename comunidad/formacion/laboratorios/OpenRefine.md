@@ -20,9 +20,9 @@ Utilizar _OpenRefine_ para administrar, validar y limpiar de manera eficiente da
 <br>
 **Sobre la Herramienta**
 
-[_OpenRefine_](https://openrefine.org/) es un _software_ creado con el objetivo de pulir datos crudos hasta convertirlos en diamantes, los cuales son activos valiosos en la era del _BigData_. Este programa permite visualizar y manipular datos tabulares, facilitando el mejoramiento de la calidad general de un conjunto de datos. Tiene la apariencia de un _software_ tradicional de hoja de cálculo (similar a Excel), pero funciona como una base de datos. Esto significa que _OpenRefine_ no es adecuado para adicionar nuevas filas de datos, pero **es extremadamente poderoso cuando se trata de explorar, limpiar y vincular datos**. 
+[_OpenRefine_](https://openrefine.org/){:target="_blank"} es un _software_ creado con el objetivo de pulir datos crudos hasta convertirlos en diamantes, los cuales son activos valiosos en la era del _BigData_. Este programa permite visualizar y manipular datos tabulares, facilitando el mejoramiento de la calidad general de un conjunto de datos. Tiene la apariencia de un _software_ tradicional de hoja de cálculo (similar a Excel), pero funciona como una base de datos. Esto significa que _OpenRefine_ no es adecuado para adicionar nuevas filas de datos, pero **es extremadamente poderoso cuando se trata de explorar, limpiar y vincular datos**. 
 
-_OpenRefine_ es un _software_ de código abierto que trabaja bajo una [licencia BSD](https://github.com/OpenRefine/OpenRefine/blob/master/LICENSE.txt) y se instala localmente, por lo que funciona como una aplicación web personal y de acceso privado a la que se accede desde un navegador _web_. Esta herramienta sirve para **todo tipo de datos**. Sin embargo, en este laboratorio se explica su funcionamiento en el contexto de datos sobre biodiversidad, estandarizados en _Darwin Core_. Puede consultar más información de la herramienta en el [manual de usuario](https://docs.openrefine.org/) (en inglés).
+_OpenRefine_ es un _software_ de código abierto que trabaja bajo una [licencia BSD](https://github.com/OpenRefine/OpenRefine/blob/master/LICENSE.txt){:target="_blank"} y se instala localmente, por lo que funciona como una aplicación web personal y de acceso privado a la que se accede desde un navegador _web_. Esta herramienta sirve para **todo tipo de datos**. Sin embargo, en este laboratorio se explica su funcionamiento en el contexto de datos sobre biodiversidad, estandarizados en _Darwin Core_. Puede consultar más información de la herramienta en el [manual de usuario](https://docs.openrefine.org/){:target="_blank"} (en inglés).
 
 **Convenciones**
 
@@ -318,7 +318,7 @@ Al finalizar este ejercicio, diríjase al menú lateral y seleccione la opción 
 
 ## Paso 6 - Servicios externos vía API's
 
-En este ejercicio se utiliza el [API](https://www.gbif.org/developer/species) (ver definición en el [glosario](/Formacion/LAB/lab02/#glosario)) de [GBIF](https://www.gbif.org) para validar la taxonomía de una lista de nombres.
+En este ejercicio se utiliza el [API](https://www.gbif.org/developer/species){:target="_blank"} (ver definición en el [glosario](/Formacion/LAB/lab02/#glosario)) de [GBIF](https://www.gbif.org){:target="_blank"} para validar la taxonomía de una lista de nombres.
 
 **Árbol taxonómico GBIF**
 
@@ -326,17 +326,17 @@ GBIF fácilita un árbol taxonómico robusto a partir de la agrupación de recon
 
 <sup>Tabla 1. Principales fuentes que contribuyen a la consolidación del árbol taxonómico de GBIF.</sup>
 
-| Proveedor * | Enlace | 
+| Proveedor  | Enlace | 
 | -------- | -------- | 
-| CoL | [http://www.catalogueoflife.org/](http://www.catalogueoflife.org/) |
-| _International Barcode of Life project_ (iBOL)   | [https://ibol.org/](https://ibol.org/)  |
-| _World Register of Marine Species_ (WoRMS)   | [http://www.marinespecies.org/](http://www.marinespecies.org/)   |
-| _Index Fungorum_	   | [http://www.indexfungorum.org/](http://www.indexfungorum.org/)   |
-| _Integrated Taxonomic Information System_ (ITIS)  | [http://www.itis.gov/](http://www.itis.gov/)  |
-| _International Plant Names Index_	   | [http://www.ipni.org/](http://www.ipni.org/)   |
-| _The Paleobiology Database_   | [http://www.paleodb.org/](http://www.paleodb.org/)   |
+| CoL | [http://www.catalogueoflife.org/](http://www.catalogueoflife.org/){:target="_blank"} |
+| _International Barcode of Life project_ (iBOL)   | [https://ibol.org/](https://ibol.org/){:target="_blank"}  |
+| _World Register of Marine Species_ (WoRMS)   | [http://www.marinespecies.org/](http://www.marinespecies.org/){:target="_blank"}   |
+| _Index Fungorum_	   | [http://www.indexfungorum.org/](http://www.indexfungorum.org/){:target="_blank"}   |
+| _Integrated Taxonomic Information System_ (ITIS)  | [http://www.itis.gov/](http://www.itis.gov/){:target="_blank"}  |
+| _International Plant Names Index_	   | [http://www.ipni.org/](http://www.ipni.org/){:target="_blank"}   |
+| _The Paleobiology Database_   | [http://www.paleodb.org/](http://www.paleodb.org/){:target="_blank"}   |
 
-> Para acceder a una lista completa de los proveedores y descripción de los mismos, ingrese al [GBIF _Backbone Taxonomy_](http://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c).
+> Para acceder a una lista completa de los proveedores y descripción de los mismos, ingrese al [GBIF _Backbone Taxonomy_](http://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c){:target="_blank"}.
 >
 
 **Preparación de los datos**
@@ -465,7 +465,7 @@ Vaya a la pestaña _**Download**_, allí podrá configurar el formano en el cuá
 
 - **_Line-based text formats/Other formats_**: permite ajustar el separado de las columnas si se van a descargar los datos en formato de texto plano.
 - **_Line separator_**: permite seleccionar el separador de las filas si se van a descargar los datos en formato de texto plano.
-- **_Character encoding_**: permite seleccionar la codificación de los datos. Se recomienda siempre utilizar [**UTF-8**](https://es.wikipedia.org/wiki/UTF-8).
+- **_Character encoding_**: permite seleccionar la codificación de los datos. Se recomienda siempre utilizar [**UTF-8**](https://es.wikipedia.org/wiki/UTF-8){:target="_blank"}.
 
 Para este caso, ubique el menú _**"Other formats"**_ y elija la opción <span class="tag is-warning is-light"><i>Excel in XML(.xlsx)</i></span>. Por último, haga clic en <span class="tag is-warning is-light"><i>Download</i></span> y guarde su archivo (Fig. 32).
 
@@ -510,7 +510,7 @@ Ha aprendido a utilizar _OpenRefine_ para validar y limpiar sus datos sobre biod
 
 ![](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) te permite usar, redistribuir y construir sobre estos contenidos libremente.
+La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} te permite usar, redistribuir y construir sobre estos contenidos libremente.
   
 ¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
 
