@@ -43,7 +43,7 @@ La encontrarás [acá](https://karisma.org.co/disenar-las-politicas-de-ciencias-
 
 - [IPANDETEC](https://www.ipandetec.org/){:target="_blank"}, Instituto Panameño de Derechos y Nuevas Tecnologías.
 
-- [ISUR](http://isur.co/){:target="_blank"}, Centro de Internet y Sociedad de la Universidad del Rosario.
+- [ISUR](https://centroisur.co/){:target="_blank"}, Centro de Internet y Sociedad de la Universidad del Rosario.
 
 - [SiB Colombia](https://biodiversidad.co/) Sistema de Información sobre Biodiversidad de Colombia.
 
