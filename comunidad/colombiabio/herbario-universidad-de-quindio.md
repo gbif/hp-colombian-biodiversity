@@ -2,9 +2,9 @@
 layout: heroImage
 title: Herbario 
 description: Universidad del Quindío
-background: /comunidad/colombiabio/imagenes/layout-colecciones.jpg
+background: /comunidad/colombiabio/imagenes/layout-herbario.jpg
 imageLicense: |
-  _Heliconius erato petiverana_ Fotografía de: Katja Schulz via [Flickr](https://flic.kr/p/bmS9bM)
+  Antonius Münchenbergs Herbarium vivum Fotografía de: alpros via [Flickr](https://flic.kr/p/FUn28M)
 height: 41vh
 gallery2:
   - url: /comunidad/colombiabio/imagenes/herbario-universidad-de-quindio/he-u-q-015-1024x682.jpg
