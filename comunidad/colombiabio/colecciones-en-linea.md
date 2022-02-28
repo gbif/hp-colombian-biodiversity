@@ -18,7 +18,7 @@ La primera colección biológica colombiana, el Museo de la Salle, fue creada en
 
 ### ¿Para qué un catálogo de colecciones?
 
-<img src="/comunidad/colombiabio/imagenes/colecciones-en-linea/stats1.png" width=770>
+<img src="/comunidad/colombiabio/imagenes/colecciones-en-linea/stats01.png" width=770>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MO9S94BmJ-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
