@@ -92,9 +92,3 @@ Evalúe el mérito del trabajo para ser presentado en el marco del Congreso a pa
 #### ACEPTACIÓN
 El autor entiende que la modalidad en la cual es aceptado su trabajo puede variar con respecto a la modalidad enviada. El comité científico de cada simposio evalúa esta situación en relación a la pertenencia del trabajo en el tema central del simposio, el estado de avance de la investigación, la calidad del resumen y en ocasiones por fuerza mayor en la cantidad de espacios disponibles. Una vez sea surtido el proceso de evaluación será notificado del resultado y así mismo de  
 
-
-<div class="container is-max-desktop">
-  <div class="notification is-primary">
-    <a href= "https://docs.google.com/forms/d/e/1FAIpQLScYNJM4TJqY64Q_qhRB2s3F02VH2aSX5-aiQAXtOV1fq8lfdA/closedform" target="_blank">Registro y envío de resúmenes</a>
-  </div>
-</div>
