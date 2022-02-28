@@ -2,9 +2,9 @@
 layout: heroImage
 title: Colección Zoológica
 description: Universidad del Tolima
-background: /comunidad/colombiabio/imagenes/layout-colecciones.jpg
+background: /comunidad/colombiabio/imagenes/layout-herpeto.jpg
 imageLicense: |
-  _Heliconius erato petiverana_ Fotografía de: Katja Schulz via [Flickr](https://flic.kr/p/bmS9bM)
+  _Anolis danieli_ macho Fotografía de: Maria del Rosario Castaneda via [Flickr](https://flic.kr/p/f89XP6)
 height: 41vh
 gallery2:
   - url: /comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/c-z-t-1-1024x682.jpg
