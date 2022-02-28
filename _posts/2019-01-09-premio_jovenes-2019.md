@@ -57,7 +57,7 @@ Se espera que los ganadores reconozcan el apoyo de GBIF cuando difundan los resu
 
 #### Conoce las propuestas que han ganado en años anteriores:
 
-<https://www.gbif.org/article/44SftFORi0A6mwGK4sgAKW/young-researchers-award>
+[Ganadores pasados del YRA](https://www.gbif.org/article/44SftFORi0A6mwGK4sgAKW/young-researchers-award){:target="_blank"}
 
  [Descarga los términos de la convocatoria](https://drive.google.com/open?id=111ucmrIowCxj4M6cj1PE1p66-U8W5Sfx){: .button .is-primary :}{:target="_blank"}
 
