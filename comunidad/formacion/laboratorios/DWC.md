@@ -12,7 +12,7 @@ toc: true
 
 **Objetivo**
 
-Estructurar un conjunto de datos bajo el estándar [*Darwin Core* (DwC)](https://dwc.tdwg.org/terms/), siguiendo sus vocabularios controlados y las buenas prácticas de documentación.
+Estructurar un conjunto de datos bajo el estándar [*Darwin Core* (DwC)](https://dwc.tdwg.org/terms/){:target="_blank"}, siguiendo sus vocabularios controlados y las buenas prácticas de documentación.
 
 **Convenciones**
 
@@ -25,7 +25,7 @@ Estructurar un conjunto de datos bajo el estándar [*Darwin Core* (DwC)](https:/
 
 **Sobre la actividad**
 
-Estructurar un conjunto de datos de prueba según el estándar DwC, usando la plantilla de publicación de registros biológicos del [SiB Colombia](https://sibcolombia.net/). El conjunto de datos tiene problemas de completitud y formato, los cuales deben ser resueltos para que el conjunto se ajuste a las definiciones y contenga los elementos mínimos requeridos por el estándar.
+Estructurar un conjunto de datos de prueba según el estándar DwC, usando la plantilla de publicación de registros biológicos del [SiB Colombia](https://biodiversidad.co/). El conjunto de datos tiene problemas de completitud y formato, los cuales deben ser resueltos para que el conjunto se ajuste a las definiciones y contenga los elementos mínimos requeridos por el estándar.
 
 **Requisitos** 
 * Para realizar este ejercicio, es necesario contar con un programa que procese archivos de texto. Por ejemplo, Excel.
@@ -119,7 +119,7 @@ Su conjunto de datos ha sido estandarizado según el *Darwin Core*.
 
 ![](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/) permite usar, redistribuir y construir sobre estos contenidos libremente.
+La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} permite usar, redistribuir y construir sobre estos contenidos libremente.
 
 ¡La difusión de estos laboratorios contribuirá a la publicación de más y mejores conjuntos de datos sobre biodiversidad!
 
