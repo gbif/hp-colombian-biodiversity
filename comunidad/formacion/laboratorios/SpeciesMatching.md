@@ -28,12 +28,12 @@ Realizar la validación taxonómica de los nombres científicos para detectar po
 
 **Sobre la herramienta**
 
-La herramienta [_Species Matching_](https://www.gbif.org/es/tools/species-lookup) es un servicio de [GBIF](https://www.gbif.org) que permite validar de manera automática y masiva hasta 5000 nombres científicos en un conjunto de datos. _Species Matching_ compara los nombres científicos del conjunto con el árbol taxonómico de GBIF, a partir del cual obtiene la clasificación de cada taxón (Reino, Filo, Clase, Orden, Familia, Género) y su estatus taxonómico (Sinónimo, Aceptado, Dudoso). 
+La herramienta [_Species Matching_](https://www.gbif.org/es/tools/species-lookup){:target="_blank"} es un servicio de [GBIF](https://www.gbif.org){:target="_blank"} que permite validar de manera automática y masiva hasta 5000 nombres científicos en un conjunto de datos. _Species Matching_ compara los nombres científicos del conjunto con el árbol taxonómico de GBIF, a partir del cual obtiene la clasificación de cada taxón (Reino, Filo, Clase, Orden, Familia, Género) y su estatus taxonómico (Sinónimo, Aceptado, Dudoso). 
 
 <div class="notification is-info is-light">
   <i>GBIF Backbone Taxonomy</i>, el árbol taxonómico de GBIF, está basado en 56 fuentes taxonómicas mundiales, permitiendo la integración de nombres científicos independientemente de la fuente de los datos (registros biológicos, taxa, eventos o listas de especies).
 </div>
-Fuente: [doi.org/10.15468/39omei](doi.org/10.15468/39omei)
+Fuente: [doi.org/10.15468/39omei](https://doi.org/10.15468/39omei)doi.org/10.15468/39omei
 
 **Convenciones**
 
@@ -46,7 +46,7 @@ Fuente: [doi.org/10.15468/39omei](doi.org/10.15468/39omei)
 
 **Enlace**
 
-_Species Matching_ - GBIF: [https://www.gbif.org/es/tools/species-lookup](https://www.gbif.org/es/tools/species-lookup)
+_Species Matching_ - GBIF: [https://www.gbif.org/es/tools/species-lookup](https://www.gbif.org/es/tools/species-lookup){:target="_blank"}
 
 **Requerimientos**
 
@@ -61,7 +61,7 @@ Descargue el archivo comprimido [<FONT FACE="monospace"><b>«Datos_speciesmatchi
 --------
 
 ## Paso 1 - Carga de archivos en Species-Matching
-Ingrese a la herramienta en línea [_Species Matching_]( https://www.gbif.org/es/tools/species-lookup) y cargue el archivo <FONT FACE="monospace"><b>«Datos_speciesmatching.csv»</b></FONT> (Fig. 1). Para ello, tiene dos opciones:
+Ingrese a la herramienta en línea [_Species Matching_]( https://www.gbif.org/es/tools/species-lookup){:target="_blank"} y cargue el archivo <FONT FACE="monospace"><b>«Datos_speciesmatching.csv»</b></FONT> (Fig. 1). Para ello, tiene dos opciones:
 
 * Haga clic en <span class="tag is-warning is-light"><i>SELECT FILE</i></span> y seleccione el archivo desde la ubicación en su ordenador.
 * Arrastre el archivo desde su explorador de archivos y suéltelo en el ícono <span class="tag is-warning is-light"><i>DROP HERE</i></span>.
