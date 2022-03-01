@@ -58,7 +58,7 @@ Los cupos son limitados con un registro único a través de la plataforma Zoom y
 <br> 
 <i>A pesar de la importancia mundial de las colecciones biológicas, muchas están en riesgo por estar críticamente subfinanciadas o subvaloradas. Si las personas a lo largo de la cadena de valor recibieran crédito profesional por sus esfuerzos, idealmente reconocidos por sus administradores y organismos de financiación, éstas priorizarían tareas tradicionalmente no recompensadas y podrían abogar por sí mismas de manera convincente. Bionomía intenta mostrar la experiencia de los colectores e identificadores de especímenes con métodos adecuados de atribución, tanto a nivel individual como institucional, independiente del tamaño y la especialidad de sus colecciones.
 <br>
-Puedes encontrar más información sobre esta herramienta en: <a href="https://es.bionomia.net/">https://es.bionomia.net/</a></i>
+Puedes encontrar más información sobre esta herramienta en: <a href="https://es.bionomia.net/" target="_blank">https://es.bionomia.net/</a></i>
 <br>
 <br>
 <b>Presenta:</b>  Jennifer Girón & David Shorthouse
@@ -77,7 +77,7 @@ Puedes encontrar más información sobre esta herramienta en: <a href="https://e
 <br> 
 <i> <a href="https://symbiota.org/">Symbiota</a> es una plataforma de código abierto para movilizar, integrar y utilizar datos basados en especímenes observaciones y productos derivados. La premisa central de esta plataforma es que, a través de una asociación entre los motores de software y la comunidad científica, se pueden construir portales sobre biodiversidad de mayor calidad y utilidad pública. Un marco de software de código abierto permite a los técnicos crear las herramientas, liberando así a los especialistas para que concentren sus esfuerzos en la curación de conjuntos de datos de calidad. De este modo, se puede crear algo mucho más grande de lo que una sola entidad es capaz de hacer por sí sola.
 <br>
-Puedes encontrar más información sobre esta herramienta en este artículo de la revista Pensoft Biodiversity Data Journal: https://doi.org/10.3897/BDJ.2.e1114</i>
+Puedes encontrar más información sobre esta herramienta en este artículo de la revista Pensoft Biodiversity Data Journal: <a href="https://doi.org/10.3897/BDJ.2.e1114" target="_blank">doi.org/10.3897/BDJ.2.e1114</a></i>
 <br>
 <br>
 <b>Presenta:</b> Samanta Orellana
@@ -94,9 +94,9 @@ Puedes encontrar más información sobre esta herramienta en este artículo de l
 <i> 13 de Mayo de 2021 | Hora: 7:30 am – 8:30 am </i>
 <br> 
 <br> 
-    <i>Specify es una plataforma para procesar los datos asociados a los especímenes de las colecciones biológicas. Como consorcio global tiene el objetivo ofrecer servicios para la digitalización, integración y curación de datos de colecciones biológicas a través de un software innovador de código abierto. Lleva más de 30 años colaborando con museos de historia natural y, en la actualidad, Specify es utilizado por más de 450 colecciones biológicas de 38 países.</i>i>
+    <i><a href="https://www.specifysoftware.org/" target="_blank">Specify</a> es una plataforma para procesar los datos asociados a los especímenes de las colecciones biológicas. Como consorcio global tiene el objetivo ofrecer servicios para la digitalización, integración y curación de datos de colecciones biológicas a través de un software innovador de código abierto. Lleva más de 30 años colaborando con museos de historia natural y, en la actualidad, Specify es utilizado por más de 450 colecciones biológicas de 38 países.</i>
 <br>
-Puedes encontrar más información sobre esta herramienta en: https://www.specifysoftware.org/
+Puedes encontrar más información sobre esta herramienta en: <a href="https://www.specifysoftware.org/" target="_blank">https://www.specifysoftware.org/</a>
 <br>
 <b>Presenta:</b> Kevin Borja
     
@@ -112,9 +112,9 @@ Puedes encontrar más información sobre esta herramienta en: https://www.specif
 <i>27 de Mayo de 2021 | Hora: 7:30 am – 8:30 am </i>
 <br> 
 <br> 
-<i>Elysia es una aplicación informática desarrollada por la Unidad de Coordinación de GBIF España para informatizar y gestionar tanto colecciones botánicas como zoológicas. Elysia está generada con Microsoft Office Access para una completa gestión de colecciones biológicas y consta de un fichero mdb de configuración (herbarsys.mdb) y otro fichero mdb que contiene los formularios para gestionar fichas de especímenes (también observaciones), nombres científicos, elaborar etiquetas, realizar consultas y confeccionar listados de material.
+<i><a href="https://www.gbif.es/software/elysia/" target="_blank">Elysia</a> es una aplicación informática desarrollada por la Unidad de Coordinación de GBIF España para informatizar y gestionar tanto colecciones botánicas como zoológicas. Elysia está generada con Microsoft Office Access para una completa gestión de colecciones biológicas y consta de un fichero mdb de configuración (herbarsys.mdb) y otro fichero mdb que contiene los formularios para gestionar fichas de especímenes (también observaciones), nombres científicos, elaborar etiquetas, realizar consultas y confeccionar listados de material.
 
-Puedes encontrar más información sobre esta herramienta en: https://www.gbif.es/software/elysia/</i>
+Puedes encontrar más información sobre esta herramienta en: <a href="https://www.gbif.es/software/elysia/" target="_blank">www.gbif.es/software/elysia/</a></i>
 <br>
 <br>
 <b>Presenta:</b> Francisco Pando
@@ -134,7 +134,7 @@ Puedes encontrar más información sobre esta herramienta en: https://www.gbif.e
 <br> 
 <i>En la Estrategia Nacional para el Inventario de la Biodiversidad (Enibio) se considera que las listas de especies son un producto estratégico para avanzar en la respuesta a estas necesidades de información. Para estudios ecológicos, evaluaciones de biodiversidad, informes de conservación y otra documentación y análisis relacionados con la biodiversidad. Desde el SiB Colombia se considera que la ruta a seguir para diseñar e implementar un proceso en el país que permita consolidar y facilitar la consulta de listas de especies, debe ser construida de forma colaborativa a partir de la experiencia de los actores que generan y usan la información. Así que en los últimos años hemos recojimos las reflexiones, lecciones aprendidas, proyecciones y recomendaciones alrededor de la construcción, consulta y uso de las listas de especies.
 <br> 
-Puedes encontrar más información sobre las listas en: https://www.sibcolombia.net/</i>
+Puedes encontrar más información sobre las listas en: <a href="https://listas.biodiversidad.co/">listas.biodiversidad.co/</a></i>
 <br>
 <br>
 <b>Presenta:</b> Dairo Escobar
@@ -153,7 +153,7 @@ Puedes encontrar más información sobre las listas en: https://www.sibcolombia.
 <br> 
 <i>El estándar internacional Darwin Core es utilizado para estructurar los datos sobre biodiversidad y es una de las principales herramientas del SiB Colombia para la publicación de datos. Además de sus elementos base, el estándar cuenta con 30 extensiones que permiten expandir el tipo de datos a publicar, como imágenes, datos genéticos, nombres comunes y ejemplares tipo entre muchos otros. Aunque el estándar Darwin Core es cada vez es más conocido y utilizado, sus extensiones aún son desconocidas y muchos datos se dejan de publicar por este desconocimiento. Aquí te daremos un contexto amplio de las posibilidades que ofrecen las extensiones y cómo utilizarlas para estructurar y publicar tus datos.
 <br> 
-En preparación a este webinar te recomendamos revisar el contexto general del estándar: https://youtu.be/nYGu8KY_K6U Puedes encontrar la lista completa de extensiones en: https://tools.gbif.org/dwca-validator/extensions.do</i>
+En preparación a este webinar te recomendamos revisar el <a href="https://youtu.be/nYGu8KY_K6U" target="_blank">contexto general del estándar</a>. Puedes encontrar la lista completa de extensiones <a href="https://tools.gbif.org/dwca-validator/extensions.do" target="_blank">aquí</a></i>
 <br>
 <br>
 <b>Presenta:</b> Camila Plata
@@ -172,7 +172,7 @@ En preparación a este webinar te recomendamos revisar el contexto general del e
 <br> 
 <i>La biodiversidad es un elemento dinámico que se transforma en respuesta a una amplia variedad de fuerzas externas e internas, muchos de estos cambios no son neutrales algunos benefician los ecosistemas otros tienen un impacto negativo. Por ello el monitoreo de la biodiversidad cobra cada vez más relevancia para lograr una gestión adecuada de la biodiversidad. Ya sea que utilices parcelas, transectos, cámaras trampas u otras metodologías de muestreo, a la hora de publciar datos de monitoreo o muestreo es importante que conozcas la mejor manera de estructuralos usando el estándar Darwin Core lo cuál te facilitará su gestión y publicación. Aquí conoceras las generalidades de los eventos de muestreo en el contexto del estándar Darwin Core y los elementos clave para maximizar su uso para la gestión y conservación de la biodiversidad.
 <br>
-En preparación a este webinar te recomendamos revisar el contexto general del estándar: https://youtu.be/nYGu8KY_K6U</i>
+En preparación a este webinar te recomendamos revisar el contexto general del estándar Darwin Core <a href="https://youtu.be/nYGu8KY_K6U" target="_blank">aquí</a></i>
 <br>
 <br>
 <b>Presenta:</b> Camila Plata
@@ -191,7 +191,7 @@ En preparación a este webinar te recomendamos revisar el contexto general del e
 <br> 
 <i>Cuando la información genética se utiliza para describir o clasificar un taxón, la mayoría de los usuarios prevén su uso en el contexto de la ecología molecular o la investigación filogenética. Es importante tener en cuenta que una secuencia de ADN asociada a un lugar y tiempo determinado se convierte en una valiosa observación de la biodiversidad que es útil en un contexto mucho más amplio que su propósito original. Para aprovechar este potencial, los datos sobre biodiversidad derivados de muestras de ADN deben poder ser accesibles a través de plataformas de datos sobre biodiversidad. Aquí compartiremos los principios y enfoques para exponer “secuencias con fechas y coordenadas” en el contexto amplio de los datos sobre biodiversidad.
 <br> 
-En preparación a este webinar te recomendamos revisar el contexto general del estándar Darwin Core: https://youtu.be/nYGu8KY_K6U</i>
+En preparación a este webinar te recomendamos revisar el contexto general del estándar Darwin Core <a href="https://youtu.be/nYGu8KY_K6U" target="_blank">aquí</a></i>
 <br>
 <br>
 <b>Presenta:</b> Camila Plata
@@ -209,7 +209,7 @@ En preparación a este webinar te recomendamos revisar el contexto general del e
 <i>29 de Julio de 2021 | Hora: 7:30 am – 8:30 am </i>
 <br> 
 <br> 
-<i>OBIS construye y mantiene una alianza mundial que colabora con las comunidades científicas para facilitar el acceso libre y abierto a los datos e información sobre biodiversidad de la vida marina. Colombia es uno de los más de 20 nodos OBIS en todo el mundo que conectan 500 instituciones de 56 países. La publicación de este tipo de datos es crucial para entender la diversidad de Colombia cuyo territorio es 50% mar, acá conocerás cómo funciona el nodo OBIS Colombia y los elementos clave del estándar Darwin Core para disponer de manera libre y gratuita datos desde bacterias hasta ballenas que habitan desde la superficie hasta los 10.900 metros de profundidad. En preparación a este webinar te recomendamos revisar el contexto general del estándar Darwin Core: https://youtu.be/nYGu8KY_K6U Puedes encontrar más información sobre OBIS en: https://obis.org/</i>
+<i><a href="https://obis.org" target="_blank">OBIS</a> construye y mantiene una alianza mundial que colabora con las comunidades científicas para facilitar el acceso libre y abierto a los datos e información sobre biodiversidad de la vida marina. Colombia es uno de los más de 20 nodos OBIS en todo el mundo que conectan 500 instituciones de 56 países. La publicación de este tipo de datos es crucial para entender la diversidad de Colombia cuyo territorio es 50% mar, acá conocerás cómo funciona el nodo OBIS Colombia y los elementos clave del estándar Darwin Core para disponer de manera libre y gratuita datos desde bacterias hasta ballenas que habitan desde la superficie hasta los 10.900 metros de profundidad. En preparación a este webinar te recomendamos revisar el contexto general del estándar Darwin Core <a href="https://youtu.be/nYGu8KY_K6U" target="_blank">aquí</a></i>.
 <br>
 <br>
 <b>Presenta:</b> Érika Montoya
@@ -247,7 +247,7 @@ En preparación a este webinar te recomendamos revisar el contexto general del e
 <br> 
 <i>Esta iniciativa coordina esfuerzos para diseñar e implementar programas interoperables de monitoreo de la biodiversidad a diferentes escalas. A través de su red global de organizaciones y expertos, GEO BON apoya el intercambio y la difusión de información y tecnología para las observaciones de biodiversidad. GEO BON también apoya la aplicación del conocimiento científico más reciente para avanzar en la recopilación, integración e interpretación de observaciones de biodiversidad. Aquí abordaremos los retos existentes y cómo fortalecer las observaciones de biodiversidad.
 
-Puedes encontrar más información sobre esta iniciativa en: https://geobon.org/</i>
+Puedes encontrar más información sobre esta iniciativa en <a href="https://geobon.org/" target="_blank">geobon.org/</a></i>
 <br>
 <br>
 <b>Presenta:</b> María Cecilia Londoño
@@ -267,7 +267,7 @@ Puedes encontrar más información sobre esta iniciativa en: https://geobon.org/
 <br> 
 <i>El componente geográfico genera un valor agregado en los datos sobre biodiversidad para su uso en modelos de distribución, análisis de presencia/ausencia de especies en áreas geográficas específicas, etc., sin embargo, cuando los datos carecen de coordenadas hay métodos que nos permiten asignar una ubicación específica espacializable a partir de la descripción de la localidad. Uno de estos es el método Radio-Punto. Aquí abordaremos los diferentes documentos que nos brindan una guía para la aplicación del método Radio-Punto y las herramientas que nos permitirán su aplicación en nuestros datos.
 
-Puedes encontrar más información sobre la serie de documentos de georeferenciación en: https://doi.org/10.15468/doc-gg7h-s853 https://geobon.org/</i>
+Puedes encontrar más información sobre la serie de documentos de georeferenciación <a href="https://doi.org/10.15468/doc-gg7h-s853" target="_blank">aquí</a></i>
 <br>
 <br>
 <b>Presenta:</b> Ricardo Ortiz
@@ -317,7 +317,7 @@ Puedes encontrar más información sobre la serie de documentos de georeferencia
 <i>30 de Septiembre de 2021 | Hora: 7:30 am – 8:30 am </i>
 <br> 
 <br> 
-<i>Wallace es una aplicación modular, fácil de usar y basada en R para el modelado reproducible de nichos y distribuciones de especies. La aplicación está ampliamente documentada y guía a los usuarios a través de un análisis completo, desde la adquisición de datos hasta la visualización de las predicciones geográficas del modelo en un mapa interactivo. Aquí conocerás i) las principales cualidades de Wallace mediante una demostración de su uso y ii) las nuevas funcionalidades que estarán disponibles en las próximas versiones de la aplicación.</i>
+<i><a href="https://wallaceecomod.github.io/" target="_blank">Wallace</a> es una aplicación modular, fácil de usar y basada en R para el modelado reproducible de nichos y distribuciones de especies. La aplicación está ampliamente documentada y guía a los usuarios a través de un análisis completo, desde la adquisición de datos hasta la visualización de las predicciones geográficas del modelo en un mapa interactivo. Aquí conocerás i) las principales cualidades de Wallace mediante una demostración de su uso y ii) las nuevas funcionalidades que estarán disponibles en las próximas versiones de la aplicación.</i>
 <br>
 <br>
 <b>Presenta:</b> Elkin Noguera-Urbano
@@ -334,7 +334,7 @@ Puedes encontrar más información sobre la serie de documentos de georeferencia
 <i>07 de Octubre de 2021 | Hora: 7:30 am – 8:30 am </i>
 <br> 
 <br> 
-<i>WhereNext es un sistema de recomendación diseñado para optimizar el proceso de llenar vacíos en el conocimiento de la biodiversidad. Aunque su principal aplicación es en la planeación de inventarios biológicos también puede ser utilizado para priorizar el muestreo de una lista de sitios preseleccionados e incluso identificar áreas prioritarias para la movilización de datos de biodiversidad. En este seminario presentaré la fundamentación estadística detrás de la priorización de muestreo basada en WhereNext así como las funciones implementadas en el paquete de R, las cuales poseen varias funciones auxiliares que pueden ser útiles en otros análisis de datos de biodiversidad.</i>
+<i><a href="https://rpubs.com/jivelasquezt/516782" target="_blank">WhereNext</a> es un sistema de recomendación diseñado para optimizar el proceso de llenar vacíos en el conocimiento de la biodiversidad. Aunque su principal aplicación es en la planeación de inventarios biológicos también puede ser utilizado para priorizar el muestreo de una lista de sitios preseleccionados e incluso identificar áreas prioritarias para la movilización de datos de biodiversidad. En este seminario presentaré la fundamentación estadística detrás de la priorización de muestreo basada en WhereNext así como las funciones implementadas en el paquete de R, las cuales poseen varias funciones auxiliares que pueden ser útiles en otros análisis de datos de biodiversidad.</i>
 <br>
 <br>
 <b>Presenta:</b> Jorge Velasquez
@@ -351,7 +351,7 @@ Puedes encontrar más información sobre la serie de documentos de georeferencia
 <i>21 de Octubre de 2021 | Hora: 7:30 am – 8:30 am </i>
 <br> 
 <br> 
-<i>La implementación de SMART, como herramienta de monitoreo y análisis espacial en Parques Nacionales Naturales de Colombia se ha realizado con el apoyo técnico de Wildlife Conservation Society (WCS), mediante el módulo de patrullajes desde 2015 apoya la sistematización de labores de prevención, vigilancia y control y desde 2020 se implementa el módulo de registros ecológicos, que permite registrar, gestionar, mapear y analizar datos de muestreos sistemáticos de especies, sus hábitats y alteraciones, para apoyar las labores de monitoreo e investigación.</i>
+<i>La implementación de <a href="https://smartconservationtools.org/" target="_blank">SMART</a> como herramienta de monitoreo y análisis espacial en Parques Nacionales Naturales de Colombia se ha realizado con el apoyo técnico de Wildlife Conservation Society (WCS), mediante el módulo de patrullajes desde 2015 apoya la sistematización de labores de prevención, vigilancia y control y desde 2020 se implementa el módulo de registros ecológicos, que permite registrar, gestionar, mapear y analizar datos de muestreos sistemáticos de especies, sus hábitats y alteraciones, para apoyar las labores de monitoreo e investigación.</i>
 <br>
 <br>
 <b>Presenta:</b> Margarita Rozo y Manuel Rodríguez-Rocha
@@ -368,7 +368,7 @@ Puedes encontrar más información sobre la serie de documentos de georeferencia
 <i>28 de Octubre de 2021 | Hora: 7:30 am – 8:30 am </i>
 <br> 
 <br> 
-<i>El Instituto de Ciencias Naturales alberga las colecciones biológicas más grandes y representativas de Colombia. La sistematización de estas inició en los años 1970 y ha evolucionado continuamente, culminando en la creación de las Colecciones en Línea en 2004. En 2008 se constituyó el Programa de Informática de la Biodiversidad del ICN y desde entonces nuestro portafolio de productos y servicios en línea se ha ampliado para incluir diversos recursos sobre flora y fauna, una aplicación para dispositivos móviles y próximamente interfaces de programación de aplicaciones (API) para conectar los usuarios con nuestros productos. Los invitamos a visitarnos: www.biovirtual.unal.edu.co.</i>
+<i>El Instituto de Ciencias Naturales alberga las colecciones biológicas más grandes y representativas de Colombia. La sistematización de estas inició en los años 1970 y ha evolucionado continuamente, culminando en la creación de las Colecciones en Línea en 2004. En 2008 se constituyó el Programa de Informática de la Biodiversidad del ICN y desde entonces nuestro portafolio de productos y servicios en línea se ha ampliado para incluir diversos recursos sobre flora y fauna, una aplicación para dispositivos móviles y próximamente interfaces de programación de aplicaciones (API) para conectar los usuarios con nuestros productos. Los invitamos a visitarnos: <a href="http://www.biovirtual.unal.edu.co./es/" target="_blank">biovirtual.unal.edu.co</a></i>.
 <br>
 <br>
 <b>Presenta:</b> Lauren Raz
@@ -420,18 +420,15 @@ _**Inician**: jueves 10 de junio de 2021_ | _**Finalizan**: martes 03 de agosto 
 Posterior a la introducción del laboratorio deberás realizar las guías de manera asincrónica, esto te tomará en un tiempo máximo de 3 horas.</p>
 <br>
 <br>
-<b>Presenta:</b> Camila Plata & Ricardo Ortiz
+<b>Presenta:</b> Camila Plata & Ricardo Ortiz<br>
 
-<b>Memorias del laboratorio disponibles en:</b>
-
-https://sib-colombia.github.io/Formacion/LAB/lab01/   
-    
+ 
 </details>
 
 ---
 
 <details>
-  <summary markdown="span">2.1. Q&amp;sobre el laboratorio de Estructuración y calidad</summary>
+  <summary markdown="span">2.1. Q&A sobre el laboratorio de Estructuración y calidad</summary>
 <br>
 <i>22 de junio de 2021 | Hora: 5:00 pm – 6:00 pm </i>
 <br>
@@ -468,7 +465,7 @@ Posterior a la introducción del laboratorio deberás realizar la guía de maner
 ---
 
 <details>
-  <summary markdown="span">3.1. Q&amp; sobre el laboratorio de validación y limpieza - Open Refine</summary>
+  <summary markdown="span">3.1. Q&A sobre el laboratorio de validación y limpieza - Open Refine</summary>
 <br>
 <i>06 de octubre de 2020 | Hora: 5:00 pm – 6:00 pm </i>
 <br>
@@ -501,7 +498,7 @@ Posterior a la introducción del laboratorio deberás realizar las guías de man
 ---
 
 <details>
-  <summary markdown="span">4.1. Q&amp; laboratorio de validación y limpieza - Validación taxónomica</summary>
+  <summary markdown="span">4.1. Q&A laboratorio de validación y limpieza - Validación taxónomica</summary>
 <br>
 <i>06 de julio de 2020 | Hora: 5:00 pm – 6:00 pm </i>
 <br>
@@ -534,7 +531,7 @@ Posterior a la introducción del laboratorio deberás realizar las guías de man
 ---
 
 <details>
-  <summary markdown="span">5.1. Q&amp; laboratorio de validación y limpieza - Conversión y visualización de coordenadas</summary>
+  <summary markdown="span">5.1. Q&A laboratorio de validación y limpieza - Conversión y visualización de coordenadas</summary>
 <br>
 <i>13 de julio de 2021 | Hora: 5:00 pm – 6:00 pm </i>
 <br>
@@ -568,7 +565,7 @@ Posterior a la introducción del laboratorio deberás realizar las guías de man
 ---
 
 <details>
-<summary markdown="span">6.1. Q&amp; laboratorio de validación y limpieza - Validación geográfica con QGIS</summary>
+<summary markdown="span">6.1. Q&A laboratorio de validación y limpieza - Validación geográfica con QGIS</summary>
 <br>
 <i>13 de julio de 2021 | Hora: 5:00 pm – 6:00 pm </i>
 <br>
@@ -601,7 +598,7 @@ Posterior a la introducción del laboratorio deberás realizar la guía de maner
 ---
 
 <details>
-<summary markdown="span">7.1. Q&amp; laboratorio de validación y limpieza - Uso avanzado de Open Refine</summary>
+<summary markdown="span">7.1. Q&A laboratorio de validación y limpieza - Uso avanzado de Open Refine</summary>
 <br>
 <i>27 de julio de 2021 | Hora: 5:00 pm – 6:00 pm </i>
 <br>
@@ -634,7 +631,7 @@ Posterior a la introducción del laboratorio deberás realizar la guía de maner
 ---
 
 <details>
-<summary markdown="span">8.1. Q&amp; laboratorio datos en contexto</summary>
+<summary markdown="span">8.1. Q&A; laboratorio datos en contexto</summary>
 <br>
 <i>03 de agosto de 2021 | Hora: 5:00 pm – 6:00 pm </i>
 <br>
