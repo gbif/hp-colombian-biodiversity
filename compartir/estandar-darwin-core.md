@@ -26,8 +26,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 -	_**Core (Obligatoriedad)**_: _core_ al que hace parte el **elemento** y su obligatoriedad dentro de cada uno de estos (opcional, condicional, obligatorio). 
 -	**Vocabulario controlado**: Opciones de textos preestablecidos que deben documentarse de manera obligatoria dentro del elemento. No se puede documentar información diferente a la relacionada en los vocabularios controlados. Adicionalmente, en este campo se puede hacer un redireccionamiento al listado y definiciones de los vocabularios controlados del **elemento**.
 
-- La documenteación oficial y en inglés del estándar se puede consultar en: [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/)
-- La documenteación oficial y en inglés de las extensiones:[https://tools.gbif.org/dwca-validator/extensions.do](https://tools.gbif.org/dwca-validator/extensions.do)
+- La documenteación oficial y en inglés del estándar se puede consultar en: [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/){:target="_blank"}
+- La documenteación oficial y en inglés de las extensiones:[https://tools.gbif.org/dwca-validator/extensions.do](https://tools.gbif.org/dwca-validator/extensions.do){:target="_blank"}
 
 ## Categorías DwC
 
@@ -90,7 +90,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 |    |    |
 | ---|--- |
-| Definición | El nombre, acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el organismo. Aunque es válido el uso del acrónimo que implemente la colección internamente se recomienda hacer uso del acrónimo registrado en:<br><br> - GBIF Registry of Scientific Collections [(https://www.gbif.org/grscicoll/collection/search)](https://www.gbif.org/grscicoll/collection/search)<br> - Registro Único Nacional de Colecciones Biológicas-RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones) |
+| Definición | El nombre, acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el organismo. Aunque es válido el uso del acrónimo que implemente la colección internamente se recomienda hacer uso del acrónimo registrado en:<br><br> - GBIF Registry of Scientific Collections [(https://www.gbif.org/grscicoll/collection/search)](https://www.gbif.org/grscicoll/collection/search){:target="_blank"}<br> - Registro Único Nacional de Colecciones Biológicas-RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones){:target="_blank"} |
 | Ejemplo | COL<br> ANDES-E<br> FMB |
 | Elementos relacionados | collectionID |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
@@ -100,7 +100,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 |    |    |
 | ---|--- |
-| Definición | Un identificador de la colección registrada en el elemento collectionCode. Se recomienda hacer uso de los identificadores registrados en:<br><br> - GBIF Registry of Scientific Collections [(https://www.gbif.org/grscicoll/collection/search)](https://www.gbif.org/grscicoll/collection/search)<br> - Registro Único Nacional de Colecciones Biológicas-RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones) |
+| Definición | Un identificador de la colección registrada en el elemento collectionCode. Se recomienda hacer uso de los identificadores registrados en:<br><br> - GBIF Registry of Scientific Collections [(https://www.gbif.org/grscicoll/collection/search)](https://www.gbif.org/grscicoll/collection/search){:target="_blank"}<br> - Registro Único Nacional de Colecciones Biológicas-RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones){:target="_blank"} |
 | Ejemplo | GRSciColl:223644<br> RNC:250 |
 | Elementos relacionados | collectionCode |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
@@ -141,7 +141,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El idioma del conjunto de datos. |
 | Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 639-1 de 2 letras en minúscula, como se muestra a continuación:<br><br> es (=Para español)<br> en (=Para inglés) |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_<br> Evento de muestreo _(Opcional)_ |
-| [Vocabulario controlado](#vc_language) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
+| [Vocabulario controlado](#vc_language) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php){:target="_blank"} |
 |    |    |
 
 <a name="license">**license** (Licencia)</a>
@@ -526,7 +526,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 |    |    |
 | ---|--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de asignaciones taxonómicas que se le han dado al organismo anteriormente. Puede contener la información de quién y cuándo realizó la identificación anterior. Se recomienda hacer uso de la extensión Identification [(https://tools.gbif.org/dwca-validator/extension.do?id=dwc:Identification#Identification)](https://tools.gbif.org/dwca-validator/extension.do?id=dwc:Identification#Identification) para el caso de colecciones biológicas. |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de asignaciones taxonómicas que se le han dado al organismo anteriormente. Puede contener la información de quién y cuándo realizó la identificación anterior. Se recomienda hacer uso de la extensión Identification [(https://tools.gbif.org/dwca-validator/extension.do?id=dwc:Identification#Identification)](https://tools.gbif.org/dwca-validator/extension.do?id=dwc:Identification#Identification) {:target="_blank"}para el caso de colecciones biológicas. |
 | Ejemplo | Pinus abies<br> Anthus sp., identificado en campo por G. Iglesias \| Anthus correndera, Identificado por el experto C. Cicero 2009-02-12 basado en morfología<br> Leptolyngbya cf. polysiphoniae \| Leptolyngbya sp. |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |    |    |
@@ -772,7 +772,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 |    |    |
 | ---|--- |
 | Definición | Un identificador de la región geográfica, división político administrativa o del sitio específico donde se realizó el registro. |
-| Comentarios | Se sugiere utilizar un identificador persistente, como el código de la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD) precedida por "CO:" o utilizar MarineRegions [(https://www.marineregions.org/)](https://www.marineregions.org/) para regiones marinas, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> http://marineregions.org/mrgid/32556 (Islas del Rosario) |
+| Comentarios | Se sugiere utilizar un identificador persistente, como el código de la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"} precedida por "CO:" o utilizar MarineRegions [(https://www.marineregions.org/)](https://www.marineregions.org/){:target="_blank"} para regiones marinas, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> http://marineregions.org/mrgid/32556 (Islas del Rosario) |
 | Ejemplo | CO:15572<br> CO:68<br> http://marineregions.org/mrgid/32556<br> geonames.org/3674545/ |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 |    |    |
@@ -793,7 +793,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 |    |    |
 | ---|--- |
 | Definición | Un identificador de la región geográfica inmediatamente superior a la ubicación donde se realizó el registro. Este identificador debe ser acorde con la geografía superior documentada en el elemento higherGeography. |
-| Comentarios | Se recomienda utilizar un identificador persistente de un vocabulario controlado como el código de la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD) precedida por "CO:" o el Tesauro Getty de Nombres Geográficos, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> TGN: 7005075 (San Agustín (Huila), Colombia) |
+| Comentarios | Se recomienda utilizar un identificador persistente de un vocabulario controlado como el código de la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"} precedida por "CO:" o el Tesauro Getty de Nombres Geográficos, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> TGN: 7005075 (San Agustín (Huila), Colombia) |
 | Ejemplo | CO:15572<br> CO:68<br> TGN: 7005075 |
 | Elementos relacionados | higherGeography, continent, country, stateProvince, county, municipality |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
@@ -853,14 +853,14 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Elementos relacionados | country |
 | Ejemplo | Colombia<br> España<br> Dinamarca |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
-| [Vocabulario controlado](#vc_countryCode) | Consultar en: [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO) |
+| [Vocabulario controlado](#vc_countryCode) | Consultar en: [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO){:target="_blank"} |
 |    |    |
 
 <a name="stateProvince">**stateProvince** (Departamento)</a>
 
 |    |    |
 | ---|--- |
-| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que País de la ubicación (Departamento). Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD). |
+| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que País de la ubicación (Departamento). Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"}. |
 | Ejemplo | Antioquia<br> Atlántico<br> Bogotá, D.C. |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
@@ -869,7 +869,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 |    |    |
 | ---|--- |
-| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Departamento de la ubicación (Municipio). Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD). |
+| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Departamento de la ubicación (Municipio). Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"}. |
 | Ejemplo | Medellín<br> Puerto Colombia<br> Bogotá, D.C. |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 |    |    |
@@ -878,7 +878,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 |    |    |
 | ---|--- |
-| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Municipio de la ubicación. Puede ser un centro poblado, cabecera municipal, corregimiento o inspección de policía. No utilice este elemento para el nombre de un lugar cercano que no contiene la ubicación real. Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD). |
+| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Municipio de la ubicación. Puede ser un centro poblado, cabecera municipal, corregimiento o inspección de policía. No utilice este elemento para el nombre de un lugar cercano que no contiene la ubicación real. Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"}. |
 | Ejemplo | Palmitas<br> Puerto Colombia<br> Bogotá, D.C. |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Opcional)_ |
 |    |    |
@@ -2059,7 +2059,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 |    |    |
 | ---|--- |
 | Definición | Un identificador para el valor documentado en measurementUnit (Identificador único global, URI), este identificador debe ser un vocabulario controlado. |
-| Comentarios | Se recomienda el uso del vocabulario NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/) para datos marinos, como se muestra a continuación:<br><br> P06/current/ULAA/ (= Metros)<br> <http://vocab.nerc.ac.uk/collection/P06/current/UGRM (= Gramos)<br> http://vocab.nerc.ac.uk/collection/P06/current/UMSQ/ (= Metros cuadrados) |
+| Comentarios | Se recomienda el uso del vocabulario NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/) para datos marinos, como se muestra a continuación:<br><br> P06/current/ULAA/ (= Metros)<br> http://vocab.nerc.ac.uk/collection/P06/current/UGRM (= Gramos)<br> http://vocab.nerc.ac.uk/collection/P06/current/UMSQ/ (= Metros cuadrados) |
 | Ejemplo | P06/current/ULAA/<br> http://vocab.nerc.ac.uk/collection/P06/current/UGRM<br> http://vocab.nerc.ac.uk/collection/P06/current/UMSQ/ |
 | Elementos relacionados | measurementUnit |
 | _(Obligatoriedad)_ | _(Opcional)_ |
@@ -2120,14 +2120,14 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---|--- |
 | Definición | El tipo de recurso multimedia. Para este elemento se debe emplear el vocabulario controlado en inglés. |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
-| [Vocabulario controlado](#vc_type) | StillImage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event<br><br> (Para mas opciones, se puede consultar el vocabulario controlado completo en la siguiente URL: [https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://dublincore.org/documents/dcmi-type-vocabulary/](https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://dublincore.org/documents/dcmi-type-vocabulary/)) |
+| [Vocabulario controlado](#vc_type) | StillImage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event<br><br> (Para mas opciones, se puede consultar el vocabulario controlado completo en la siguiente URL: [https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://dublincore.org/documents/dcmi-type-vocabulary/](https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://dublincore.org/documents/dcmi-type-vocabulary/){:target="_blank"}) |
 |    |    |
 
 <a name="format">**format** (Formato)</a>
 
 |    |    |
 | ---|--- |
-| Definición | Formato en el que se encuentra la información multimedia asociada. Es recomendado usar un formato que esté registrado en IANA [(http://www.iana.org/assignments/media-types/media-types.xhtml)](http://www.iana.org/assignments/media-types/media-types.xhtml). |
+| Definición | Formato en el que se encuentra la información multimedia asociada. Es recomendado usar un formato que esté registrado en IANA [(http://www.iana.org/assignments/media-types/media-types.xhtml)](http://www.iana.org/assignments/media-types/media-types.xhtml){:target="_blank"}. |
 | Ejemplo | jpeg<br> tiff<br> mp4<br> mp3<br> MPV<br> 3gp |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
@@ -2345,7 +2345,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Idioma de la publicación referenciada. |
 | Ejemplo | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 639-1 de 2 letras en minúscula, como se muestra a continuación:<br><br> es (=Para español)<br> en (=Para inglés) |
 | _(Obligatoriedad)_ | _(Opcional)_ |
-| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
+| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php){:target="_blank"} |
 |    |    |
 
 <a name="rights">**rights** (Derechos)</a>
@@ -2402,7 +2402,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 |    |    |
 | ---|--- |
 | Definición | Un identificador de la región geográfica, división político administrativa o del sitio específico donde se distribuye el taxón. |
-| Comentarios | Se sugiere utilizar un identificador persistente, como el código de la División Política Administrativa de Colombia - DANE, [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD) precedida por "CO:" o utilizar MarineRegions [(https://www.marineregions.org/)](https://www.marineregions.org/)) para regiones marinas, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> CO:81 \| CO:05 (para el Departamento Arauca y  el Departamento Antioquia)<br> http://marineregions.org/mrgid/32556 (Islas del Rosario)<br><br> Si la ubicación corresponde a varias áreas geográficas, separar por una barra vertical "\|". Para otras áreas o código específicos de lugares nombrados (Topónimos) puede hacer uso de otros estándares. Ver: [http://rs.gbif.org/areas/](http://rs.gbif.org/areas/) |
+| Comentarios | Se sugiere utilizar un identificador persistente, como el código de la División Política Administrativa de Colombia - DANE, [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"} precedida por "CO:" o utilizar MarineRegions [(https://www.marineregions.org/)](https://www.marineregions.org/){:target="_blank"}) para regiones marinas, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> CO:81 \| CO:05 (para el Departamento Arauca y  el Departamento Antioquia)<br> http://marineregions.org/mrgid/32556 (Islas del Rosario)<br><br> Si la ubicación corresponde a varias áreas geográficas, separar por una barra vertical "\|". Para otras áreas o código específicos de lugares nombrados (Topónimos) puede hacer uso de otros estándares. Ver: [http://rs.gbif.org/areas/](http://rs.gbif.org/areas/){:target="_blank"} |
 | Ejemplo | CO:15572<br> CO:68<br> CO:81 \| CO:05<br> http://marineregions.org/mrgid/32556<br> geonames.org/3674545/ |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
@@ -2423,7 +2423,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El código estándar para el país de la ubicación. |
 | Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 3166-1-alfa-2 de códigos de países, como se muestra a continuación:<br><br> CO (=Para Colombia)<br> AR (=Para Argentina) |
 | _(Obligatoriedad)_ | _(Opcional)_ |
-| [Vocabulario controlado](https://biodiversidad.co/compartir/dwc#vocabularios-controlados) | Consultar en: [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO) |
+| [Vocabulario controlado](https://biodiversidad.co/compartir/estandar-darwin-core#vocabularios-controlados) | Consultar en: [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO){:target="_blank"} |
 |    |    |
 
 <a name="distribucion_lifeStage">**lifeStage** (Etapa de desarrollo)</a>
@@ -2713,7 +2713,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 |    |    |
 | ---|--- |
-| Definición | El periodo geológico en el cual un organismo extinto estuvo vivo. Para tiempo geológicos de fósiles, lo ideal es usar un vocabulario controlado como [https://es.wikipedia.org/wiki/Escala_temporal_geol%C3%B3gica](https://es.wikipedia.org/wiki/Escala_temporal_geol%C3%B3gica). |
+| Definición | El periodo geológico en el cual un organismo extinto estuvo vivo. Para tiempo geológicos de fósiles, lo ideal es usar un vocabulario controlado como [https://es.wikipedia.org/wiki/Escala_temporal_geol%C3%B3gica](https://es.wikipedia.org/wiki/Escala_temporal_geol%C3%B3gica){:target="_blank"}. |
 | Ejemplo | Paleógeno<br> Cretácico<br> Jurásico<br> Triásico<br> Pérmico |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
@@ -2881,7 +2881,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 |    |    |
 | ---|--- |
-| Definición | El nombre, acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el organismo. Aunque es válido el uso del acrónimo que implemente la colección internamente se recomienda hacer uso del acrónimo registrado en:<br><br> - GBIF Registry of Scientific Collections [(https://www.gbif.org/grscicoll/collection/search)](https://www.gbif.org/grscicoll/collection/search)<br> - Registro Único Nacional de Colecciones Biológicas-RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones). |
+| Definición | El nombre, acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el organismo. Aunque es válido el uso del acrónimo que implemente la colección internamente se recomienda hacer uso del acrónimo registrado en:<br><br> - GBIF Registry of Scientific Collections [(https://www.gbif.org/grscicoll/collection/search)](https://www.gbif.org/grscicoll/collection/search){:target="_blank"}<br> - Registro Único Nacional de Colecciones Biológicas-RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones){:target="_blank"}. |
 | Ejemplo | COL<br> ANDES<br> FMB |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
@@ -3842,7 +3842,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a name="vc_pathway">**pathway** (Ruta de introducción)</a>
 <br>
 <br>
-La lista completa de vocabularios controlados se encuentra disponible en [https://dwc.tdwg.org/pw/#4-vocabulary](https://dwc.tdwg.org/pw/#4-vocabulary). Utilice la palabra en la columna llamada controlled value. Se presentan los vocabularios más comunes a continuación:
+La lista completa de vocabularios controlados se encuentra disponible en [https://dwc.tdwg.org/pw/#4-vocabulary](https://dwc.tdwg.org/pw/#4-vocabulary){:target="_blank"}. Utilice la palabra en la columna llamada controlled value. Se presentan los vocabularios más comunes a continuación:
 
 |  Vocabulario |  Definición  |
 | ---|--- |
@@ -3881,7 +3881,7 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 
 |    |
 | ---|--- |
-| Utilizar el vocabulario controlado de la norma ISO 3166-1-alfa-2 de códigos de países. Solamente se usan 2 letras en mayúscula, consulte la información en la página [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO) |
+| Utilizar el vocabulario controlado de la norma ISO 3166-1-alfa-2 de códigos de países. Solamente se usan 2 letras en mayúscula, consulte la información en la página [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO){:target="_blank"} |
 |    |
 
 <a name="vc_threatStatus">**threatStatus** (Estado de amenaza)</a>
