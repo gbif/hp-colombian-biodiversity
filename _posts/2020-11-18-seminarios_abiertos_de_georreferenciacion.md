@@ -12,9 +12,9 @@ Del 23 al 27 de Noviembre 2020 a las 11:00 am hora Colombia /16:00 hr UTC / 13hr
 
 Registrate [aquí](https://tiny.cc/GeorefSemReg){:target="_blank"}
 
-### Planeando un Proyecto de Georreferenciación. 
+### Planeando un proyecto de georreferenciación. 
 
-**Paula Zermoglio (VertNet Argentina)**
+**Paula Zermoglio (VertNet Argentina)**<br>
 **Fecha:** 23 de noviembre.<br>
 **Hora:** 11:00 Colombia | 13:00 Argentina y Chile.
 
@@ -23,12 +23,11 @@ Registrate [aquí](https://tiny.cc/GeorefSemReg){:target="_blank"}
 Los datos de localización que acompañan a los registros de biodiversidad son indispensables para permitir el uso de dichos registros en investigación y toma de decisiones. Para incrementar los usos potenciales, es imperioso contar con una buena georreferenciación de los datos. La georreferenciación puede ser un proceso que insume mucho tiempo y recursos, por lo que los proyectos de georreferenciación a distintas escalas pueden ser muy útiles si se llevan a cabo de manera eficiente. Pero… ¿Por dónde empezar? En este seminario en línea daremos lineamientos sobre los siguientes tópicos a considerar cuando se planea un proyecto de georreferenciación:
 
 - **Cómo construir un flujo de trabajo eficiente para un proyecto de georreferenciación: proyectos locales, nacionales y regionales.**
-
-1.	Caracterización del problema. Datos a georreferenciar, qué tengo y qué me gustaría tener. Priorización.
-2.	Métodos a emplear. Cómo escoger los mejores métodos.
-3.	Recursos: equipamiento y herramientas básicas.
-4.	Recursos: personal y su entrenamiento.
-5.	Cómo evaluar un proyecto de georreferenciación. Métricas.
+  1.	Caracterización del problema. Datos a georreferenciar, qué tengo y qué me gustaría tener. Priorización.
+  2.	Métodos a emplear. Cómo escoger los mejores métodos.
+  3.	Recursos: equipamiento y herramientas básicas.
+  4.	Recursos: personal y su entrenamiento.
+  5.	Cómo evaluar un proyecto de georreferenciación. Métricas.
 
 - **Cómo incrementar el impacto de los proyectos de georreferenciación.**
 
@@ -36,7 +35,7 @@ Los datos de localización que acompañan a los registros de biodiversidad son i
 
 ### Documentación y herramientas de georreferenciación. 
 
-**Paula Zermoglio y John Wieczorek (VertNet Argentina)**
+**Paula Zermoglio y John Wieczorek (VertNet Argentina)**<br>
 **Fecha:** 25 de noviembre.<br>
 **Hora:** 11:00 Colombia | 13:00 Argentina y Chile.
 
@@ -46,7 +45,7 @@ Existen numerosas herramientas y documentos que pueden ayudar al proceso de geor
 
 ### Uso de Google Maps y Google Earth. 
 
-**Catalina Merino (Museo de Historia Natural, Chile)**
+**Catalina Merino (Museo de Historia Natural, Chile)**<br>
 **Fecha:** 27 de noviembre.<br>
 **Hora:** 11:00 Colombia | 13:00 Argentina y Chile.
 
