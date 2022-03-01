@@ -98,7 +98,7 @@ Los datos publicados pueden ser actualizados posteriormente, en cualquier moment
 
 ## Manejo de los datos a publicar
 
-En el SiB Colombia creemos en la construcción colectiva y participativa del conocimiento. Por eso, **consideramos que el modelo de acceso abierto es el mejor camino para que la sociedad pueda acceder de manera libre y responsable a la información sobre diversidad biológica del país.** Todos los socios y usuarios del SiB Colombia reconocen una serie de [principios orientadores](https://biodiversidad.co/acercade/sib-colombia#principios-orientadores) fundamentales para la participación, así como la Política de publicación, acceso y uso de datos, que se encuentra disponible en: [https://biodiversidad.co/terminoscondiciones/politicapublicacion](https://biodiversidad.co/terminoscondiciones/politicapublicacion)
+En el SiB Colombia creemos en la construcción colectiva y participativa del conocimiento. Por eso, **consideramos que el modelo de acceso abierto es el mejor camino para que la sociedad pueda acceder de manera libre y responsable a la información sobre diversidad biológica del país.** Todos los socios y usuarios del SiB Colombia reconocen una serie de [principios orientadores](https://biodiversidad.co/acercade/sib-colombia#principios-orientadores) fundamentales para la participación, así como la Política de publicación, acceso y uso de datos, que se encuentra disponible [aquí](/terminos-y-condiciones/politica-de-publicacion).
 
 
 ## Datos publicados actualmente
