@@ -25,6 +25,6 @@ IIAP | [https://ipt.biodiversidad.co/iiap/](https://ipt.biodiversidad.co/iiap/){
 IAvH | [https://ipt.biodiversidad.co/iavh/](https://ipt.biodiversidad.co/iavh/){:target="_blank"} |  Para datos del Instituto Humboldt.
 SINCHI | [https://ipt.biodiversidad.co/sinchi/](https://ipt.biodiversidad.co/sinchi/){:target="_blank"} | Para datos del SINCHI.
 Parques Nacionales | [https://ipt.biodiversidad.co/parquesnacionales/](https://ipt.biodiversidad.co/parquesnacionales/){:target="_blank"} | Para datos de Parques Nacionales.
-Permisos de Recolección | [https://ipt.biodiversidad.co/cr-sib/](https://ipt.biodiversidad.co/cr-sib/){:target="_blank"} | Para datos del [modelo transicional](/compartir/guia-para-publicar#ruta-b-publicación-de-datos-por-permiso-de-recolección){:target="_blank"}.
+Permisos de Recolección | [https://ipt.biodiversidad.co/cr-sib/](https://ipt.biodiversidad.co/cr-sib/){:target="_blank"} | Para datos del [modelo transicional](/compartir/guia-para-publicar#ruta-b-publicación-de-datos-por-permiso-de-recolección).
 
 
