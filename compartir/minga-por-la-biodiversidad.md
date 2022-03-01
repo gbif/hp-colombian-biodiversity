@@ -34,7 +34,7 @@ Para sumarse a la minga por la biodiversidad basta con **manifestar la intenció
 * Ser una **organización, red o iniciativa**. Los individuos que deseen participar, deben buscar el respaldo como publicador a través de sus organizaciones. Si la organización aún no es publicadora de datos, debe [registrarse aquí](https://biodiversidad.co/compartir/registro).
 * **Tener digitalizados** **conjuntos de datos** sobre biodiversidad de las áreas priorizadas.
 * **Contar con los derechos, licencias o permisos requeridos** para la publicación y asegurar que ha realizado los esfuerzos necesarios para que estos sean válidos al momento de la recolección, creación y publicación a través del SiB Colombia.
-* Seleccionar, según el tipo de datos e información, entre unas opciones preestablecidas de licencias y herramientas _Creative Commons_ que aceptan lectura mecánica ([CC0, CC BY, CC BY-NC](https://biodiversidad.co/terminoscondiciones/politicapublicacion#licencias)). La licencia o herramienta que elija el publicador, determinará la forma como se comparten los datos y las condiciones que se imponen a los usuarios para que los reutilicen.
+* Seleccionar, según el tipo de datos e información, entre unas opciones preestablecidas de licencias y herramientas _Creative Commons_ que aceptan lectura mecánica ([CC0, CC BY, CC BY-NC](/terminos-y-condiciones/politica-de-publicacion#licencias)). La licencia o herramienta que elija el publicador, determinará la forma como se comparten los datos y las condiciones que se imponen a los usuarios para que los reutilicen.
 
 ## ¿Por qué participar?
 
@@ -130,15 +130,15 @@ En el SiB Colombia creemos en la construcción colectiva y participativa del con
 <img src="/assets/images/minga/mingaNarino-logo-IAvH.png" width="" alt="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt" title="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt">
    </td>  </tr>
   <tr>
-   <td style="text-align: center;"><a href="https://www.narino.gov.co/">Gobernación de Nariño</a>
+   <td style="text-align: center;"><a href="https://www.narino.gov.co/" target="_blank">Gobernación de Nariño</a>
    </td>
-   <td style="text-align: center;"><a href="https://www.udenar.edu.co/">Universidad de Nariño</a>
+   <td style="text-align: center;"><a href="https://www.udenar.edu.co/" target="_blank">Universidad de Nariño</a>
    </td>
-   <td style="text-align: center;"><a href="http://reservalaplanada.blogspot.com/p/resguardo-pialapi.html">Resguardo Indígena Pialapí Pueblo Viejo</a>
+   <td style="text-align: center;"><a href="http://reservalaplanada.blogspot.com/p/resguardo-pialapi.html" target="_blank">Resguardo Indígena Pialapí Pueblo Viejo</a>
    </td>
-   <td style="text-align: center;"><a href="http://reservalaplanada.blogspot.com">Reserva Natural La Planada</a>
+   <td style="text-align: center;"><a href="http://reservalaplanada.blogspot.com" target="_blank">Reserva Natural La Planada</a>
    </td>
-   <td style="text-align: center;"><a href="http://www.humboldt.org.co/es/">Instituto Humboldt</a>
+   <td style="text-align: center;"><a href="http://www.humboldt.org.co/es/" target="_blank">Instituto Humboldt</a>
    </td>
   </tr>
 </table>
