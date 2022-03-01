@@ -258,7 +258,7 @@ ___
     <summary markdown="span"><b>¿Hay alguna limitante en términos de temporalidad de la información?, es decir, ¿se podrían aportar resultados de monitoreo de años anteriores?</b></summary>
     
 <br>
-No existen limitaciones en la cobertura temporal de la información. Los datos de monitoreos históricos o de años anteriores son también bienvenidos. El dato más antiguo publicado corresponde a una planta colectada en 1640 por José Cuatrecasas en el departamento de Caldas y publicado por la Universidad Nacional de Colombia en el año 2016: <i><a href= "https://www.gbif.org/es/occurrence/1844950902" target="_blank">Calceolaria perfoliata</a></i> L.f.</details>
+No existen limitaciones en la cobertura temporal de la información. Los datos de monitoreos históricos o de años anteriores son también bienvenidos. El dato más antiguo publicado corresponde a una planta colectada en 1640 por José Cuatrecasas en el departamento de Caldas y publicado por la Universidad Nacional de Colombia en el año 2016: <a href= "https://www.gbif.org/es/occurrence/1844950902" target="_blank"><i>Calceolaria perfoliata L.f.</i></a></details>
 
 ___
 
