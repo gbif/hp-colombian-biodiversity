@@ -73,7 +73,7 @@ La fichas de especies generalmente incluyen información sobre historia natural,
 * **Mapas, fotografías y videos**: Cualquier contenido multimedia sobre nuestras especies puede ser integrado y visible para el conocimiento de todos.
 
 * Consulta la [plantilla Plinian Core para fichas de especies.](/recursos/plantillas-plinian-core)
-* Explorar fichas de especies en el [Catálogo de la Biodiversidad.](https://catalogo.biodiversidad.co/){:target="_blank"}
+* Explorar fichas de especies en el [Catálogo de la Biodiversidad.](https://catalogo.biodiversidad.co/)
 
 ---
 
