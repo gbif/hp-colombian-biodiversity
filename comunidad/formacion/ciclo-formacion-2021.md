@@ -58,7 +58,7 @@ Los cupos son limitados con un registro único a través de la plataforma Zoom y
 <br> 
 <i>A pesar de la importancia mundial de las colecciones biológicas, muchas están en riesgo por estar críticamente subfinanciadas o subvaloradas. Si las personas a lo largo de la cadena de valor recibieran crédito profesional por sus esfuerzos, idealmente reconocidos por sus administradores y organismos de financiación, éstas priorizarían tareas tradicionalmente no recompensadas y podrían abogar por sí mismas de manera convincente. Bionomía intenta mostrar la experiencia de los colectores e identificadores de especímenes con métodos adecuados de atribución, tanto a nivel individual como institucional, independiente del tamaño y la especialidad de sus colecciones.
 <br>
-Puedes encontrar más información sobre esta herramienta en: <https://es.bionomia.net/></i>
+Puedes encontrar más información sobre esta herramienta en: <a href="https://es.bionomia.net/">https://es.bionomia.net/</a></i>
 <br>
 <br>
 <b>Presenta:</b>  Jennifer Girón & David Shorthouse
@@ -75,7 +75,7 @@ Puedes encontrar más información sobre esta herramienta en: <https://es.bionom
 <i>29 de abril de 2021 | Hora: 7:30 am – 8:30 am </i>
 <br> 
 <br> 
-<i>Symbiota (https://symbiota.org/) es una plataforma de código abierto para movilizar, integrar y utilizar datos basados en especímenes observaciones y productos derivados. La premisa central de esta plataforma es que, a través de una asociación entre los motores de software y la comunidad científica, se pueden construir portales sobre biodiversidad de mayor calidad y utilidad pública. Un marco de software de código abierto permite a los técnicos crear las herramientas, liberando así a los especialistas para que concentren sus esfuerzos en la curación de conjuntos de datos de calidad. De este modo, se puede crear algo mucho más grande de lo que una sola entidad es capaz de hacer por sí sola.
+<i> <a href="https://symbiota.org/">Symbiota</a> es una plataforma de código abierto para movilizar, integrar y utilizar datos basados en especímenes observaciones y productos derivados. La premisa central de esta plataforma es que, a través de una asociación entre los motores de software y la comunidad científica, se pueden construir portales sobre biodiversidad de mayor calidad y utilidad pública. Un marco de software de código abierto permite a los técnicos crear las herramientas, liberando así a los especialistas para que concentren sus esfuerzos en la curación de conjuntos de datos de calidad. De este modo, se puede crear algo mucho más grande de lo que una sola entidad es capaz de hacer por sí sola.
 <br>
 Puedes encontrar más información sobre esta herramienta en este artículo de la revista Pensoft Biodiversity Data Journal: https://doi.org/10.3897/BDJ.2.e1114</i>
 <br>
