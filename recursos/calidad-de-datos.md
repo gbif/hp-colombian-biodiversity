@@ -30,7 +30,7 @@ Nombre | Descripción
 [R Project](https://www.r-project.org/){:target="_blank"} | Permite limpiar y transformar datos  a través de paquetes que son cargados al software.
 [R Studio](https://rstudio.com/){:target="_blank"} |  Facilita la visualización de la herramienta R project Integra distintas ventanas funcionales.
 [LifeWatch - Data Services](https://www.lifewatch.be/data-services/){:target="_blank"} | A través de la conexión con diferentes servicios web la herramienta permite validar formatos, elementos DwC de publicación en OBIS, taxonomía y geografía.
-[IPT - Integrated Publishing Toolkit](/recursos/ipt){:target="_blank"}|La Herramienta de Publicación (IPT) de GBIF es una aplicación web de código abierto, disponible de forma gratuita, que facilita la publicación de datos sobre biodiversidad. Durante el proceso de acompañamiento a la publicación de datos, el Equipo Coordinador del SiB Colombia (EC-SiB) le idicará a cada publicador que IPT usar y le facilitará un usuario y contraseña para la documentación de los metadatos. <br><br>[Aprende más](/formacion/laboratorios/IPT_Metadatos){: .button .is-small}
+[IPT - Integrated Publishing Toolkit](/recursos/ipt)|La Herramienta de Publicación (IPT) de GBIF es una aplicación web de código abierto, disponible de forma gratuita, que facilita la publicación de datos sobre biodiversidad. Durante el proceso de acompañamiento a la publicación de datos, el Equipo Coordinador del SiB Colombia (EC-SiB) le idicará a cada publicador que IPT usar y le facilitará un usuario y contraseña para la documentación de los metadatos. <br><br>[Aprende más](/formacion/laboratorios/IPT_Metadatos){: .button .is-small}
 
 
 ## Limpieza de fechas
