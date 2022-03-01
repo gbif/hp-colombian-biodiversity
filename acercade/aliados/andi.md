@@ -340,7 +340,7 @@ ___
     
 <br>
 Es muy fácil, súmate a través de este 
-<a href= "/compartir/registrate">formulario</a> y nos pondremos en contacto contigo para iniciar el proceso.</details>
+<a href= "/compartir/registro">formulario</a> y nos pondremos en contacto contigo para iniciar el proceso.</details>
 
 ___
 
