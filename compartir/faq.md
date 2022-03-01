@@ -150,7 +150,7 @@ Si lo que deseas es publicar imágenes asociadas a un registro biológico debes 
 Ten en cuenta que para poder visualizar tus fotos en Portales de datos Nacionales e internacionales es necesario que al compartir la imagen, la URL estática cuente con el formato de la imagen (jpg, png entre otros).
     Ejemplo Imagen: ("<a href="https://farm1.staticflickr.com/966/41777088842_ae24e9bb55_h.jpg" target="_blank">https://farm1.staticflickr.com/966/41777088842_ae24e9bb55_h.jpg</a>").
    </ul></li>
-      <li>Documenta la extensión <a href="/recursos/plantillas-dwc#extensiones">Multimedia Simple</a> del estándar Darwin Core para la publicación de imágenes, videos y sonidos. <a href="https://ipt.biodiversidad.co/sibm/archive.do?r=anadarko_colombia_002&v=1.1" target="_blank">Aquí</a> encontrarás un ejemplo del uso de la extensión de Simple Multimedia en una publicación.</li>
+      <li>Documenta la extensión <a href="/recursos/plantillas-dwc#extensiones">Multimedia Simple</a> del estándar Darwin Core para la publicación de imágenes, videos y sonidos. <a href="https://ipt.biodiversidad.co/sibm/archive.do?r=anadarko_colombia_002&v=1.1">Aquí</a> encontrarás un ejemplo del uso de la extensión de Simple Multimedia en una publicación.</li>
       <li>Cuando te comuniques con el SiB Colombia (<a href="mailto:sib@humboldt.org.co">sib@humboldt.org.co</a>) para comenzar tu proceso de publicación no olvides mencionar que deseas compartir imágenes, te daremos las indicaciones que haga falta para la publicación.</li>
 </ol>
 </details>
