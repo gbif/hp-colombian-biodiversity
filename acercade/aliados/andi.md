@@ -222,7 +222,7 @@ Aquí puedes encontrar las preguntas que surgieron durante el webinar en el que 
     <summary markdown="span"><b>Para publicar los datos a través del SiB Colombia es necesario tener un permiso de colecta vigente?</b></summary>
     
 <br>
-No es necesario. Los datos de colectas son solo una de las fuentes de datos asociados al tipo de datos denominado <a href= "/compartir/TiposDeDatos#registros-biologicos">Registros Biológicos</a>. El permiso de colecta solo aplica para las autoridades ambientales y para el depósito de especímenes en colecciones biológicas.</details>
+No es necesario. Los datos de colectas son solo una de las fuentes de datos asociados al tipo de datos denominado <a href= "/compartir/tipos-de-datos#registros-biológicos">Registros Biológicos</a>. El permiso de colecta solo aplica para las autoridades ambientales y para el depósito de especímenes en colecciones biológicas.</details>
 
 ___
 
