@@ -83,4 +83,4 @@ Los publicadores de datos deben elegir, según el tipo de datos e información, 
 | CC BY-SA |	 | 	 | 		 |  | 	✓ | 	✓  |
 | CC BY-SA-NC |	 | 	 |  |  | 			✓	  |
 
-Para más información consulta la [guía de acceso abierto](recursos/acceso-abierto/).
+Para más información consulta la [guía de acceso abierto](/recursos/acceso-abierto/).
