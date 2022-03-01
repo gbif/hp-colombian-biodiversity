@@ -231,7 +231,7 @@ ___
     <summary markdown="span"><b>¿Las muestras biológicas colectadas por las empresas deben ingresar a una colección biológica registrada para publicar la información a través del SiB Colombia?</b></summary>
     
 <br>
-No es condicional. Las empresas publican a través del SiB Colombia este tipo de Registros Biológicos como “observaciones” que tienen como evidencia una muestra biológica. La única excepción es cuando la empresa requiere un certificado de publicación para cumplir con un permiso de colecta. Véase <a href= "/compartir/GuiaPublicacion#ruta-b-publicacion-de-datos-por-permiso-de-recoleccion">Ruta B de publicación</a>.</details>
+No es condicional. Las empresas publican a través del SiB Colombia este tipo de Registros Biológicos como “observaciones” que tienen como evidencia una muestra biológica. La única excepción es cuando la empresa requiere un certificado de publicación para cumplir con un permiso de colecta. Véase <a href= "/compartir/guia-para-publicar#ruta-b-publicación-de-datos-por-permiso-de-recolección">Ruta B de publicación</a>.</details>
 
 ___
 
@@ -249,7 +249,7 @@ ___
     <summary markdown="span"><b>En el caso de la información pública, ¿existe algún validador o nivel de confianza que se le asigne a los datos?</b></summary>
     
 <br>
-El SiB Colombia cuenta con una <a href= "/recursos/CalidadDeDatos">caja de herramientas</a>  para validaciones externas al Portal de Datos, que los usuarios pueden usar luego de descargar el resultado de una búsqueda. A nivel de GBIF se cuenta con métricas que dan un nivel de confianza a nivel taxonómico y geográfico. Ejemplo: <a href= "https://www.gbif.org/es/dataset/db191f3a-48ed-4b94-93ef-5c0517fb1b58/metrics" target="_blank">Estudio de Biodiversidad Mina Calenturitas, Temporada de Lluvias</a>.</details>
+El SiB Colombia cuenta con una <a href= "/recursos/calidad-de-datos">caja de herramientas</a>  para validaciones externas al Portal de Datos, que los usuarios pueden usar luego de descargar el resultado de una búsqueda. A nivel de GBIF se cuenta con métricas que dan un nivel de confianza a nivel taxonómico y geográfico. Ejemplo: <a href= "https://www.gbif.org/es/dataset/db191f3a-48ed-4b94-93ef-5c0517fb1b58/metrics" target="_blank">Estudio de Biodiversidad Mina Calenturitas, Temporada de Lluvias</a>.</details>
 
 ___
 
@@ -258,7 +258,7 @@ ___
     <summary markdown="span"><b>¿Hay alguna limitante en términos de temporalidad de la información?, es decir, ¿se podrían aportar resultados de monitoreo de años anteriores?</b></summary>
     
 <br>
-No existen limitaciones en la cobertura temporal de la información. Los datos de monitoreos históricos o de años anteriores son también bienvenidos. El dato más antiguo publicado corresponde a una planta colectada en 1640 por José Cuatrecasas en el departamento de Caldas y publicado por la Universidad Nacional de Colombia en el año 2016:<a href= "https://www.gbif.org/es/occurrence/1844950902" target="_blank">Calceolaria perfoliata L.f</a>.</details>
+No existen limitaciones en la cobertura temporal de la información. Los datos de monitoreos históricos o de años anteriores son también bienvenidos. El dato más antiguo publicado corresponde a una planta colectada en 1640 por José Cuatrecasas en el departamento de Caldas y publicado por la Universidad Nacional de Colombia en el año 2016: <i><a href= "https://www.gbif.org/es/occurrence/1844950902" target="_blank">Calceolaria perfoliata</a></i> L.f.</details>
 
 ___
 
@@ -318,7 +318,8 @@ ___
 No toda la información es apropiada para integrar al SiB Colombia, pero sí la mayoría. Aquí hay algunos ejemplos de información generada en proyectos REDD+:
 
 <ul>    
-<li><a href= "https://www.gbif.org/es/dataset/e8e716a0-201a-49af-85a1-c21101c6b9d3" target="_blank">Cbosques húmedos tropicales de Bahía Málaga, municipio de Buenaventura, Valle del Cauca</a>.</li>
+<li><a href= "https://www.gbif.org/es/dataset/e8e716a0-201a-49af-85a1-c21101c6b9d3" target="_blank">Composición florística y estructura de una parcela permanente en bosques húmedos tropicales de Bahía Málaga, municipio de Buenaventura, Valle del Cauca
+</a>.</li>
     <li><a href= "https://www.gbif.org/project/82753/publishing-metadata-for-biodiversity-data-generated-from-redd-projects-in-tanzania#datasets" target="_blank">Publishing metadata for biodiversity data generated from REDD+ projects in Tanzania</a>.</li>
 </ul></details>
     
@@ -329,7 +330,7 @@ ___
     <summary markdown="span"><b>¿Cuáles son los niveles y componentes de la biodiversidad que está sistematizando el SiB Colombia? ¿Hay perspectivas de incrementar la información, incluyendo datos de estructura y función? ¿Algo más que listados de especies?</b></summary>
     
 <br>
-El SiB Colombia facilita la publicación de datos sobre la biodiversidad a nivel de poblaciones, especies y genes. Algunas variables de estructura y función pueden ser hoy publicados teniendo como eje central la presencia o ausencia de individuos de una especie particular. A pesar que son variables de interés, este tipo de datos presentan una gran variabilidad generando grandes retos a nivel informático. Además de listas de especies se facilita la publicación de dos tipos más de datos, Registros Biológicos y Eventos de Muestreo. Véase <a href= "/compartir/TiposDeDatos#registros-biologicos">Tipos de Datos</a>.</details>
+El SiB Colombia facilita la publicación de datos sobre la biodiversidad a nivel de poblaciones, especies y genes. Algunas variables de estructura y función pueden ser hoy publicados teniendo como eje central la presencia o ausencia de individuos de una especie particular. A pesar que son variables de interés, este tipo de datos presentan una gran variabilidad generando grandes retos a nivel informático. Además de listas de especies se facilita la publicación de dos tipos más de datos, Registros Biológicos y Eventos de Muestreo. Véase <a href= "/compartir/tipos-de-datos">Tipos de Datos</a>.</details>
 
 ___
 
