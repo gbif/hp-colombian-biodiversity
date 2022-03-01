@@ -22,9 +22,9 @@ En este año continuaremos mejorando las capacidades para organizar y preparar d
 
 Para lograrlo usaremos tres formatos diferentes de acuerdo a los intereses de la comunidad, su disponibilidad de tiempo y compromisos establecidos en diferentes proyectos. La diversidad de formatos también busca sacar el mejor provecho de la virtualidad y adaptarse a las nuevas dinámicas de cada interesado.
 
-- [Webinars](/comunidad/formacion/cicloformacion2021#webinars)
-- [Laboratorios](/comunidad/formacion/cicloformacion2021#laboratorios)
-- [Talleres](/comunidad/formacion/cicloformacion2021#talleres)
+- [Webinars](/comunidad/formacion/ciclo-formacion-2021#webinars)
+- [Laboratorios](/comunidad/formacion/ciclo-formacion-2021#laboratorios)
+- [Talleres](/comunidad/formacion/ciclo-formacion-2021#talleres)
 
 {: .notification .is-info }
 # Webinars
@@ -58,7 +58,7 @@ Los cupos son limitados con un registro único a través de la plataforma Zoom y
 <br> 
 <i>A pesar de la importancia mundial de las colecciones biológicas, muchas están en riesgo por estar críticamente subfinanciadas o subvaloradas. Si las personas a lo largo de la cadena de valor recibieran crédito profesional por sus esfuerzos, idealmente reconocidos por sus administradores y organismos de financiación, éstas priorizarían tareas tradicionalmente no recompensadas y podrían abogar por sí mismas de manera convincente. Bionomía intenta mostrar la experiencia de los colectores e identificadores de especímenes con métodos adecuados de atribución, tanto a nivel individual como institucional, independiente del tamaño y la especialidad de sus colecciones.
 <br>
-Puedes encontrar más información sobre esta herramienta en: https://es.bionomia.net/</i>
+Puedes encontrar más información sobre esta herramienta en: <https://es.bionomia.net/></i>
 <br>
 <br>
 <b>Presenta:</b>  Jennifer Girón & David Shorthouse
