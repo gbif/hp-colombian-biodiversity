@@ -421,7 +421,7 @@ Posterior a la introducción del laboratorio deberás realizar las guías de man
 <br>
 <br>
 <b>Presenta:</b> Camila Plata & Ricardo Ortiz<br>
-
+ Memorias del laboratorio disponibles [aquí](https://biodiversidad.co/formacion/laboratorios/LabEstructuracionCalidad)
  
 </details>
 
@@ -457,7 +457,8 @@ Posterior a la introducción del laboratorio deberás realizar la guía de maner
 <p>Recuerda que puedes aplicar la guía práctica sobre tu propio conjunto de datos.</p>
 <br>
 <br>
-<b>Presenta:</b> Camila Plata & Ricardo Ortiz
+<b>Presenta:</b> Camila Plata & Ricardo Ortiz<br>
+
 
 </details>
 
