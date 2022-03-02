@@ -30,7 +30,7 @@ Los especialistas en datos, investigadores y tomadores de decisiones resaltan de
 
 Iniciará con conceptos generales sobre qué es la calidad de datos sobre biodiversidad, pasando por su aplicación en procesos tempranos como la toma de datos y la digitalización, para finalizar en procesos de publicación a través de plataformas de acceso abierto como GBIF y de repatriación de los mismos a nivel nacional.
 
-Este taller es posible gracias al proyecto [GBIF CESP2020-018](https://www.gbif.org/es/project/5JJH6ZKCjztKrqT50OAadQ/mejorando-la-calidad-de-datos-sobre-biodiversidad-en-latinoamerica-documentacion-de-buenas-practicas-para-los-flujos-de-trabajo-y-ciclos-de-vida-de-los-datos){:target="_blank"}.
+Este taller es posible gracias al proyecto [GBIF CESP2020-018](/comunidad/proyectos/cesp/cesp2020-018).
 
 ### Objetivo
 
