@@ -417,11 +417,12 @@ _**Inician**: jueves 10 de junio de 2021_ | _**Finalizan**: martes 03 de agosto 
 <p>Introducción a las guías para la estructuración de datos sobre biodiversidad usando el estándar Darwin Core. Las guías te permitiran interactuar con el estándar Darwin Core y sus extensiones por medio de plantillas que facilitan el uso del estándar. También conoceras el Validador de datos, una herramienta en línea para ayudarte a identificar rápidamente potenciales problemas de estructura y calidad en tu conjunto de datos.
 <br>
 <br>
-Posterior a la introducción del laboratorio deberás realizar las guías de manera asincrónica, esto te tomará en un tiempo máximo de 3 horas.</p>
+Posterior a la introducción del laboratorio deberás realizar las guías de manera asincrónica, esto te tomará en un tiempo máximo de 3 horas.<br>
+Las memorias del laboratorio están disponibles <a href="https://biodiversidad.co/formacion/laboratorios/LabEstructuracionCalidad">aquí</a>
+</p>
 <br>
 <br>
 <b>Presenta:</b> Camila Plata & Ricardo Ortiz<br>
- Memorias del laboratorio disponibles [aquí](https://biodiversidad.co/formacion/laboratorios/LabEstructuracionCalidad)
  
 </details>
 
