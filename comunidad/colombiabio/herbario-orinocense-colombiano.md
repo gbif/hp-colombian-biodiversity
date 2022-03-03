@@ -36,14 +36,15 @@ gallery2:
     alt: "placeholder image 9" 
 ---
 
-Esta colección cuenta con 1.591 registros que están clasificados así:
+Esta colección cuenta con <span class="tag is-success  is-light"><b>1.591</b></span> registros que están clasificados así:
 
-|  |  | 
-| --------: | :-------- | 
-| 1.378    | Identificados a nivel de especie, con un total de 999 especies únicas.     | 
-|199|Identificados a nivel de género.|
-|1|Identificados a nivel de familia.|
-|13|Identificados a otros niveles taxonómicos.|
+<span class="tag is-success  is-light"><b>1.378</b></span> a nivel de especie, con un total de 999 especies únicas.   
+
+<span class="tag is-success  is-light"><b>199</b></span>199 a nivel de género.
+
+<span class="tag is-success  is-light"><b>1</b></span> a nivel de familia.
+
+<span class="tag is-success  is-light"><b>13</b></span>a otros niveles taxonómicos.
 
 <img src="/comunidad/colombiabio/imagenes/herbario-orinocense-colombiano/ficha-col-map-2.png" width=770>
 
@@ -57,16 +58,23 @@ Esta colección cuenta con 1.591 registros que están clasificados así:
 
 <p class="is-size-7 has-text-grey has-text-centered">En verde se indican los registros  que aportó el herbario para el departamento: 1.457.</p>
 
-Hay 1.456 localidades únicas ubicadas así:
+Hay <span class="tag is-success  is-light"><b>1.456</b></span> localidades únicas ubicadas así:
 
-- 1.369 en Arauca
-- 14 en Bolívar
-- 12 en Vichada
-- 9 en Cundinamarca
-- 6 en Casanare
-- 4 en Boyacá
-- 2 en Meta
-- 2 en Norte de Santander
+<span class="tag is-success  is-light"><b>1.369</b></span> en Arauca
+
+<span class="tag is-success  is-light"><b>14</b></span> en Bolívar
+
+<span class="tag is-success  is-light"><b>12</b></span> en Vichada
+
+<span class="tag is-success  is-light"><b>9</b></span> en Cundinamarca
+
+<span class="tag is-success  is-light"><b>6</b></span> en Casanare
+
+<span class="tag is-success  is-light"><b>4</b></span> en Boyacá
+
+<span class="tag is-success  is-light"><b>2</b></span> en Meta
+
+<span class="tag is-success  is-light"><b>2</b></span> en Norte de Santander
 
 
 ### Conoce más sobre el herbario
