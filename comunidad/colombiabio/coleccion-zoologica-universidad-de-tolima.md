@@ -51,7 +51,7 @@ gallery2:
     alt: "placeholder image 14"
 ---
 
-Esta colección cuenta con <span class="tag is-danger is-light"><b>43.387</b></span> registros que están clasificados e identificados de la siguiente manera manera:
+Esta colección cuenta con <span class="tag is-danger"><b>43.387</b></span> registros que están clasificados e identificados de la siguiente manera manera:
 
 <span class="tag is-danger"><b>23.303</b></span> a nivel de especie, con un total de 2.226 especies únicas.     
   
@@ -59,10 +59,10 @@ Esta colección cuenta con <span class="tag is-danger is-light"><b>43.387</b></s
 <span class="tag is-danger"><b>12.956</b></span> a nivel de género.
 
 
-<span class="tag is-danger is-light"><b>4.169</b></span> a nivel de familia.
+<span class="tag is-danger"><b>4.169</b></span> a nivel de familia.
 
 
-<span class="tag is-danger is-light"><b>2.959</b></span> a otros niveles taxonómicos.
+<span class="tag is-danger"><b>2.959</b></span> a otros niveles taxonómicos.
 
 
 <img src="/comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/map-c-z-t3.jpg" width=770>
@@ -86,23 +86,23 @@ Esta colección cuenta con <span class="tag is-danger is-light"><b>43.387</b></s
 <p class="is-size-7 has-text-grey has-text-centered">En rojo se indican los registros que aportaron las Colecciones de la Universidad para el departamento: 29.933.</p>
 
 
-Hay <span class="tag is-danger is-light"><b>3.783</b></span> localidades únicas ubicadas así:
+Hay <span class="tag is-danger"><b>3.783</b></span> localidades únicas ubicadas así:
 
-<span class="tag is-danger is-light"><b>2.479</b></span> en Tolima
+<span class="tag is-danger"><b>2.479</b></span> en Tolima
 
-<span class="tag is-danger is-light"><b>211</b></span> en Huila
+<span class="tag is-danger"><b>211</b></span> en Huila
 
-<span class="tag is-danger is-light"><b>169</b></span> en Caldas
+<span class="tag is-danger"><b>169</b></span> en Caldas
 
-<span class="tag is-danger is-light"><b>169</b></span> en Casanare
+<span class="tag is-dangert"><b>169</b></span> en Casanare
 
-<span class="tag is-danger is-light"><b>82</b></span> en Magdalena
+<span class="tag is-danger"><b>82</b></span> en Magdalena
 
-<span class="tag is-danger is-light"><b>82</b></span> en Valle del Cauca
+<span class="tag is-danger"><b>82</b></span> en Valle del Cauca
 
-<span class="tag is-danger is-light"><b>573</b></span> repartidos en otros 26 departamentos del país
+<span class="tag is-danger"><b>573</b></span> repartidos en otros 26 departamentos del país
 
-<span class="tag is-danger is-light"><b>24</b></span> en otros países (Venezuela, Brasil, Ecuador y Perú)
+<span class="tag is-danger"><b>24</b></span> en otros países (Venezuela, Brasil, Ecuador y Perú)
 
 ### Conoce más sobre la colección
 
