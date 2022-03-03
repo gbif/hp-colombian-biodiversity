@@ -9,14 +9,15 @@ height: 41vh
 
 ---
 
-Esta colección cuenta con 20.481 registros que están clasificados así:
+Esta colección cuenta con <span class="tag is-success  is-light"><b>20.481</b></span> registros que están clasificados así:
 
-|  |  | 
-| --------: | :-------- | 
-| 15.343   | Identificados a nivel de especie, con un total de 3.745 especies únicas.     | 
-|4.231|Identificados a nivel de género.|
-|636|Identificados a nivel de familia.|
-|271|Identificados a otros niveles taxonómicos.|
+<span class="tag is-success  is-light"><b15.343</b></span> a nivel de especie, con un total de 3.745 especies únicas.   
+
+<span class="tag is-success  is-light"><b>4.231</b></span> a nivel de género.
+
+<span class="tag is-success  is-light"><b>636</b></span> a nivel de familia.
+
+<span class="tag is-success  is-light"><b>271</b></span>a otros niveles taxonómicos.
 
 <img src="/comunidad/colombiabio/imagenes/herbario-de-la-universidad-de-caldas/map-he-u-c.png" width=770>
 
@@ -30,16 +31,23 @@ Esta colección cuenta con 20.481 registros que están clasificados así:
 
 <p class="is-size-7 has-text-grey has-text-centered">En verde se indican los registros que aportó el herbario para el departamento: 12.837.</p>
 
-Hay 4.167 localidades únicas ubicadas así:
+Hay <span class="tag is-success  is-light"><b>4.167</b></span> localidades únicas ubicadas así:
 
-- 2.038 en Caldas
-- 386 en Cundinamarca
-- 388 en Valle del Cauca
-- 317 en Antioquia
-- 220 en Risaralda
-- 213 en Tolima
-- 585 repartidos en otros 22 departamentos del país.
-- 58 en otros países (Venezuela, Ecuador, Brasil, Bolivia, Perú, Puerto Rico y Tailandia).
+<span class="tag is-success  is-light"><b>2.038</b></span> en Caldas
+
+<span class="tag is-success  is-light"><b>386</b></span> en Cundinamarca
+
+<span class="tag is-success  is-light"><b>388</b></span> en Valle del Cauca
+
+<span class="tag is-success  is-light"><b>317</b></span> en Antioquia
+
+<span class="tag is-success  is-light"><b>220</b></span> en Risaralda
+
+<span class="tag is-success  is-light"><b>213</b></span> en Tolima
+
+<span class="tag is-success  is-light"><b>585</b></span> repartidos en otros 22 departamentos del país.
+
+<span class="tag is-success  is-light"><b>58</b></span> en otros países (Venezuela, Ecuador, Brasil, Bolivia, Perú, Puerto Rico y Tailandia).
 
 
 ### Conoce más sobre el herbario
