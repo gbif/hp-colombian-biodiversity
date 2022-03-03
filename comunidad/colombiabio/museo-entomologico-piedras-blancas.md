@@ -57,7 +57,7 @@ Hay <span class="tag is-warning is-light"><b>552</b></span> localidades únicas 
 
 <span class="tag is-warning is-light"><b>395</b></span> en Antioquia
 
-<span class="tag is-warning is-light"><b>38</b></span> en Chocó
+<span class="tag is-warning is-light"><b>37</b></span> en Chocó
 
 <span class="tag is-warning is-light"><b>24</b></span> en Santander
 
