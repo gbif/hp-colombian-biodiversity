@@ -2659,8 +2659,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 |    |    |
 | ---|--- |
-| Definición | Elemento que indica si un taxón es (=TRUE), o no es (=FALSE), marino. |
-| Ejemplo | TRUE<br> FALSE |
+| Definición | Elemento que indica si un taxón es (=VERDADERO), o no es (=FALSO), marino. |
+| Ejemplo | VERDADERO<br> FALSO |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2668,8 +2668,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 |    |    |
 | ---|--- |
-| Definición | Elemento que indica si un taxón es (=TRUE), o no es (=FALSE), dulceacuícola. |
-| Ejemplo | TRUE<br> FALSE |
+| Definición | Elemento que indica si un taxón es (=VERDADERO), o no es (=FALSO), dulceacuícola. |
+| Ejemplo | VERDADERO<br> FALSO |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2677,8 +2677,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 |    |    |
 | ---|--- |
-| Definición | Elemento que indica si un taxón es (=TRUE), o no es (=FALSE), terrestre. |
-| Ejemplo | TRUE<br> FALSE |
+| Definición | Elemento que indica si un taxón es (=VERDADERO), o no es (=FALSO), terrestre. |
+| Ejemplo | VERDADERO<br> FALSO |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2686,8 +2686,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 |    |    |
 | ---|--- |
-| Definición | Elemento que indica si un taxón es (=TRUE), o no es (=FALSE), invasor. |
-| Ejemplo | TRUE<br> FALSE |
+| Definición | Elemento que indica si un taxón es (=VERDADERO), o no es (=FALSO), invasor. |
+| Ejemplo | VERDADERO<br> FALSO |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2695,8 +2695,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 |    |    |
 | ---|--- |
-| Definición | Elemento que indica si un taxón es (=TRUE), o no es (=FALSE), híbrido. |
-| Ejemplo | TRUE<br> FALSE |
+| Definición | Elemento que indica si un taxón es (=VERDADERO), o no es (=FALSO), híbrido. |
+| Ejemplo | VERDADERO<br> FALSO |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
@@ -2704,8 +2704,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 |    |    |
 | ---|--- |
-| Definición | Elemento que indica si un taxón está (=TRUE), o no está (=FALSE), extinto. |
-| Ejemplo | TRUE<br> FALSE |
+| Definición | Elemento que indica si un taxón está (=VERDADERO), o no está (=FALSO), extinto. |
+| Ejemplo | VERDADERO<br> FALSO |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 |    |    |
 
