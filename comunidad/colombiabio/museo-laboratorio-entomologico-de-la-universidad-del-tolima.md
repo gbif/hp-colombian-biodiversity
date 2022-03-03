@@ -34,7 +34,7 @@ gallery2:
 
 ---
 
-Esta colección cuenta con <span class="tag is-warning is-light"><b>2.197</b></span> registros que están clasificados e identificados de la siguiente manera manera:
+Esta colección cuenta con <span class="tag is-danger is-light"><b>2.197</b></span> registros que están clasificados e identificados de la siguiente manera manera:
 
 <span class="tag is-danger is-light"><b>480</b></span> a nivel de especie, con un total de 67 especies únicas.     
   
@@ -60,15 +60,21 @@ Esta colección cuenta con <span class="tag is-warning is-light"><b>2.197</b></s
 
 <p class="is-size-7 has-text-grey has-text-centered">En rojo se indican los registros que aportó la Colección para el departamento: 29.933.</p>
 
-Hay <span class="tag is-warning is-light"><b>1.352</b></span> localidades únicas ubicadas así:
+Hay <span class="tag is-danger is-light"><b>110</b></span> localidades únicas ubicadas así:
 
-- 53 en Tolima
-- 10 en Huila
-- 12 en Quindío
-- 8 en Valle del Cauca
-- 4 en Cundinamarca
-- 4 en Caldas
-- 18 repartidas en otros 14 departamentos del país.
+<span class="tag is-danger is-light"><b>53</b></span> en Tolima
+
+<span class="tag is-danger is-light"><b>10</b></span> en Huila
+
+<span class="tag is-danger is-light"><b>12</b></span> en Quindío
+
+<span class="tag is-danger is-light"><b>8</b></span> en Valle del Cauca
+
+<span class="tag is-danger is-light"><b>4</b></span> en Cundinamarca
+
+<span class="tag is-danger is-light"><b>4</b></span> en Caldas
+
+<span class="tag is-danger is-light"><b>18</b></span> repartidas en otros 14 departamentos del país.
 
 
 ### Conoce más sobre el herbario
