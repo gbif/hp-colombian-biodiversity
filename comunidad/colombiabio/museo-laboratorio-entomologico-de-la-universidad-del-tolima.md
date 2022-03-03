@@ -77,7 +77,7 @@ Hay <span class="tag is-danger is-light"><b>110</b></span> localidades únicas u
 <span class="tag is-danger is-light"><b>18</b></span> repartidas en otros 14 departamentos del país.
 
 
-### Conoce más sobre el herbario
+### Conoce más sobre el museo-laboratorio
 
 El Museo Entomológico inició en 1974, año en el que se empezaron a recolectar insectos con fines académicos. Asociado al programa de Ingeniería Agronómica de la Universidad del Tolima, custodiaba únicamente grupos con importancia económica para los cultivos del departamento.
 
@@ -90,7 +90,7 @@ Se calcula que sólo el 8 % de los ejemplares están identificados, y hay alrede
 {% include gallery id="gallery2" caption="Fotografías de Santiago Llano" %}
 
 
-### ¿Quiénes trabajan en el herbario?
+### ¿Quiénes trabajan en el museo-laboratorio?
 
 | | |  |
 | :-------------: |:-------------:| :-----|
