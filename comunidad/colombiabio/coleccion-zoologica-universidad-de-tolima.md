@@ -53,10 +53,10 @@ gallery2:
 
 Esta colección cuenta con <span class="tag is-danger is-light"><b>43.387</b></span> registros que están clasificados e identificados de la siguiente manera manera:
 
-<span class="tag is-danger is-light"><b>23.303</b></span> a nivel de especie, con un total de 2.226 especies únicas.     
+<span class="tag is-danger"><b>23.303</b></span> a nivel de especie, con un total de 2.226 especies únicas.     
   
 
-<span class="tag is-danger is-light"><b>12.956</b></span> a nivel de género.
+<span class="tag is-danger"><b>12.956</b></span> a nivel de género.
 
 
 <span class="tag is-danger is-light"><b>4.169</b></span> a nivel de familia.
