@@ -27,15 +27,44 @@ gallery2:
     alt: "placeholder image 6"
 ---
 
-Esta colección cuenta con 10.837 registros que están clasificados así:
+Esta colección cuenta con 10.837 registros que están clasificados e identificados de esta manera:
 
-|  |  | 
-| --------: | :-------- | 
-|<span class="tag is-warning is-light"><b>3.463</b></span>  | Identificados a nivel de especie, con un total de 546  especies únicas.     | 
-|<span class="tag is-warning is-light"><b>2.178</b></span>|Identificados a nivel de género.|
-|<span class="tag is-warning is-light"><b>3.680</b></span>|Identificados a nivel de familia.|
-|<span class="tag is-warning is-light"><b>1.516</b></span>|Identificados a otros niveles taxonómicos.|
+<span class="tag is-warning is-light"><b>3.463</b></span> a nivel de especie, con un total de 546  especies únicas.     
+<span class="tag is-warning is-light"><b>2.178</b></span> a nivel de género.
+<span class="tag is-warning is-light"><b>3.680</b></span> a nivel de familia.
+<span class="tag is-warning is-light"><b>1.516</b></span> a otros niveles taxonómicos.
 
+
+- <span class="tag is-warning is-light"><b>3.463</b></span> a nivel de especie, con un total de 546  especies únicas.     
+- <span class="tag is-warning is-light"><b>2.178</b></span> a nivel de género.
+- <span class="tag is-warning is-light"><b>3.680</b></span> a nivel de familia.
+- <span class="tag is-warning is-light"><b>1.516</b></span> a otros niveles taxonómicos.
+
+
+<span class="tag is-warning is-light"><b>3.463</b></span> a nivel de especie, con un total de 546  especies únicas.     
+
+
+<span class="tag is-warning is-light"><b>2.178</b></span> a nivel de género.
+
+
+<span class="tag is-warning is-light"><b>3.680</b></span> a nivel de familia.
+
+
+<span class="tag is-warning is-light"><b>1.516</b></span> a otros niveles taxonómicos.
+
+
+- <span class="tag is-warning is-light"><b>3.463</b></span> a nivel de especie, con un total de 546  especies únicas.     
+
+
+- <span class="tag is-warning is-light"><b>2.178</b></span> a nivel de género.
+
+
+- <span class="tag is-warning is-light"><b>3.680</b></span> a nivel de familia.
+
+
+- <span class="tag is-warning is-light"><b>1.516</b></span> a otros niveles taxonómicos.
+
+ 
 <img src="/comunidad/colombiabio/imagenes/coleccion-entomologica-de-la-universidad-del-quindio/map-e-u-q.png" width=770>
 
 [Consulta el recurso de forma libre y gratuita aquí](http://ipt.biodiversidad.co/sib/resource?r=ciuq){: .button .is-link :}{:target="_blank"}
