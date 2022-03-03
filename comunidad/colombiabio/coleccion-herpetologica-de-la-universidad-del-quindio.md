@@ -25,14 +25,16 @@ gallery2:
 
 ---
 
-Esta colección cuenta con 600 registros que están clasificados así:
+Esta colección cuenta con <span class="tag is-info is-light"><b>600</b></span> que están clasificados e identificados de la siguiente manera manera:
 
-|  |  | 
-| --------: | :-------- | 
-| 545   | Identificados a nivel de especie, con un total de 546  especies únicas.     | 
-|53|Identificados a nivel de género.|
-|1|Identificados a nivel de familia.|
-|1|Identificados a otros niveles taxonómicos.|
+
+<span class="tag is-info is-light"><b>545</b></span> a nivel de especie, con un total de 94 especies únicas. 
+
+<span class="tag is-info is-light"><b>53</b></span>a nivel de género.
+
+<span class="tag is-info is-light"><b>1</b></span> a nivel de familia.
+
+<span class="tag is-info is-light"><b>1</b></span> a otros niveles taxonómicos.
 
 <img src="/comunidad/colombiabio/imagenes/coleccion-herpetologica-de-la-universidad-del-quindio/map-h-u-q.png" width=770>
 
@@ -46,12 +48,15 @@ Esta colección cuenta con 600 registros que están clasificados así:
 
 <p class="is-size-7 has-text-grey has-text-centered">En azul se indican los registros que aportó la Colección para el departamento: 512.</p>
 
-Hay 179 localidades únicas ubicadas así:
+Hay <span class="tag is-info is-light"><b>179</b></span> localidades únicas ubicadas así:
 
-- 163 en Quindío
-- 12 en Valle del Cauca
-- 3 en Huila
-- 1 en Chocó
+<span class="tag is-info is-light"><b>163</b></span> en Quindío
+
+<span class="tag is-info is-light"><b>12</b></span> en Valle del Cauca
+
+<span class="tag is-info is-light"><b>3</b></span>3 en Huila
+
+<span class="tag is-info is-light"><b>1</b></span>1 en Chocó
 
 
 ### Conoce más sobre la colección
