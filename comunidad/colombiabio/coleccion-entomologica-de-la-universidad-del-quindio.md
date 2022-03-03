@@ -31,8 +31,8 @@ Esta colección cuenta con 10.837 registros que están clasificados así:
 
 |  |  | 
 | --------: | :-------- | 
-| 3.463   | Identificados a nivel de especie, con un total de 546  especies únicas.     | 
-|2.178|Identificados a nivel de género.|
+|<span class="tag is-warning is-large"><b>3.463</b></span>  | Identificados a nivel de especie, con un total de 546  especies únicas.     | 
+|<span class="tag is-warning is-large">2.178</span>|Identificados a nivel de género.|
 |3.680|Identificados a nivel de familia.|
 |1.516|Identificados a otros niveles taxonómicos.|
 
