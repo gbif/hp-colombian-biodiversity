@@ -27,18 +27,7 @@ gallery2:
     alt: "placeholder image 6"
 ---
 
-Esta colección cuenta con 10.837 registros que están clasificados e identificados de esta manera:
-
-<span class="tag is-warning is-light"><b>3.463</b></span> a nivel de especie, con un total de 546  especies únicas.     
-<span class="tag is-warning is-light"><b>2.178</b></span> a nivel de género.
-<span class="tag is-warning is-light"><b>3.680</b></span> a nivel de familia.
-<span class="tag is-warning is-light"><b>1.516</b></span> a otros niveles taxonómicos.
-
-
-- <span class="tag is-warning is-light"><b>3.463</b></span> a nivel de especie, con un total de 546  especies únicas.     
-- <span class="tag is-warning is-light"><b>2.178</b></span> a nivel de género.
-- <span class="tag is-warning is-light"><b>3.680</b></span> a nivel de familia.
-- <span class="tag is-warning is-light"><b>1.516</b></span> a otros niveles taxonómicos.
+Esta colección cuenta con <span class="tag is-warning is-light"><b>10.837</b></span> registros que están clasificados e identificados de la siguiente manera manera:
 
 
 <span class="tag is-warning is-light"><b>3.463</b></span> a nivel de especie, con un total de 546  especies únicas.     
@@ -53,18 +42,6 @@ Esta colección cuenta con 10.837 registros que están clasificados e identifica
 <span class="tag is-warning is-light"><b>1.516</b></span> a otros niveles taxonómicos.
 
 
-- <span class="tag is-warning is-light"><b>3.463</b></span> a nivel de especie, con un total de 546  especies únicas.     
-
-
-- <span class="tag is-warning is-light"><b>2.178</b></span> a nivel de género.
-
-
-- <span class="tag is-warning is-light"><b>3.680</b></span> a nivel de familia.
-
-
-- <span class="tag is-warning is-light"><b>1.516</b></span> a otros niveles taxonómicos.
-
- 
 <img src="/comunidad/colombiabio/imagenes/coleccion-entomologica-de-la-universidad-del-quindio/map-e-u-q.png" width=770>
 
 [Consulta el recurso de forma libre y gratuita aquí](http://ipt.biodiversidad.co/sib/resource?r=ciuq){: .button .is-link :}{:target="_blank"}
@@ -73,18 +50,22 @@ Esta colección cuenta con 10.837 registros que están clasificados e identifica
 
 <img src="/comunidad/colombiabio/imagenes/coleccion-entomologica-de-la-universidad-del-quindio/mapa-ent-uq.png" width=770>
 
-<p class="is-size-7 has-text-grey has-text-centered">En negro se indican los registros  disponibles previamente a través de GBIF: 5.185.</p>
-
+<p class="is-size-7 has-text-grey has-text-centered">En negro se indican los registros  disponibles previamente a través de GBIF: 5.185.</p><br>
 <p class="is-size-7 has-text-grey has-text-centered">En amarillo se indican los registros que aportó la Colección para el departamento: 8.142.</p>
 
-Hay 1.352 localidades únicas ubicadas así:
+Hay <span class="tag is-warning is-light"><b></b></span> 1.352 localidades únicas ubicadas así:
 
-- 1.110 en Quindío
-- 125 en Valle del Cauca
-- 41 en Chocó
-- 39 en Risaralda
-- 15 en Tolima
-- 2 en Venezuela
+<span class="tag is-warning is-light"><b>1.110</b></span> en Quindío
+
+<span class="tag is-warning is-light"><b>125</b></span> en Valle del Cauca
+
+<span class="tag is-warning is-light"><b>41</b></span> en Chocó
+
+<span class="tag is-warning is-light"><b>39</b></span> en Risaralda
+
+<span class="tag is-warning is-light"><b>15</b></span> en Tolima
+
+<span class="tag is-warning is-light"><b>2</b></span> en Venezuela
 
 
 ### Conoce más sobre la colección
