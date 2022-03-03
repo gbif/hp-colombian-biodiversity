@@ -55,11 +55,17 @@ Esta colección cuenta con <span class="tag is-warning is-light"><b>4.081</b></s
 
 <p class="is-size-7 has-text-grey has-text-centered">En amarillo se indican los registros que aportó la Colección para el departamento: 3.938.</p>
 
-<span class="tag is-warning is-light"><b>831</b></span>
+Hay <span class="tag is-warning is-light"><b>831</b></span> localidades únicas ubicadas así:
 
 <span class="tag is-warning is-light"><b>793</b></span> en Arauca
+
+
 <span class="tag is-warning is-light"><b>25</b></span> en Casanare
+
+
 <span class="tag is-warning is-light"><b>12</b></span> en Norte de Santander
+
+
 <span class="tag is-warning is-light"><b>1</b></span> en Magdalena
 
 
