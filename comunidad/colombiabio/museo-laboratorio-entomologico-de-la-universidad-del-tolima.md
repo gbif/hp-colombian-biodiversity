@@ -34,14 +34,19 @@ gallery2:
 
 ---
 
-Esta colección cuenta con 2.197 registros que están clasificados así:
+Esta colección cuenta con <span class="tag is-warning is-light"><b>2.197</b></span> registros que están clasificados e identificados de la siguiente manera manera:
 
-|  |  | 
-| --------: | :-------- | 
-| 480   | Identificados a nivel de especie, con un total de 999 especies únicas.     | 
-|169|Identificados a nivel de género.|
-|1.227|Identificados a nivel de familia.|
-|321|Identificados a otros niveles taxonómicos.|
+<span class="tag is-danger is-light"><b>480</b></span> a nivel de especie, con un total de 67 especies únicas.     
+  
+
+<span class="tag is-danger is-light"><b>169</b></span> a nivel de género.
+
+
+<span class="tag is-danger is-light"><b>1.227</b></span> a nivel de familia.
+
+
+<span class="tag is-danger is-light"><b>321</b></span> a otros niveles taxonómicos.
+
 
 <img src="/comunidad/colombiabio/imagenes/museo-laboratorio-entomologico-de-la-universidad-del-tolima/map-l-o-t2.png" width=770>
 
@@ -55,7 +60,7 @@ Esta colección cuenta con 2.197 registros que están clasificados así:
 
 <p class="is-size-7 has-text-grey has-text-centered">En rojo se indican los registros que aportó la Colección para el departamento: 29.933.</p>
 
-Hay 110 localidades únicas ubicadas así:
+Hay <span class="tag is-warning is-light"><b>1.352</b></span> localidades únicas ubicadas así:
 
 - 53 en Tolima
 - 10 en Huila
