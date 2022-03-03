@@ -30,7 +30,7 @@ gallery2:
 Esta colección cuenta con <span class="tag is-warning is-light"><b>10.837</b></span> registros que están clasificados e identificados de la siguiente manera manera:
 
 
-<span class="tag is-warning is-light"><b>3.463</b></span> a nivel de especie, con un total de 546  especies únicas.     
+<span class="tag is-warning is-light"><b>3.463</b></span> a nivel de especie, con un total de 367 especies únicas.     
 
 
 <span class="tag is-warning is-light"><b>2.178</b></span> a nivel de género.
