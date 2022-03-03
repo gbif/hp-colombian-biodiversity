@@ -31,10 +31,10 @@ Esta colección cuenta con 10.837 registros que están clasificados así:
 
 |  |  | 
 | --------: | :-------- | 
-|<span class="tag is-warning is-large"><b>3.463</b></span>  | Identificados a nivel de especie, con un total de 546  especies únicas.     | 
-|<span class="tag is-warning is-large">2.178</span>|Identificados a nivel de género.|
-|3.680|Identificados a nivel de familia.|
-|1.516|Identificados a otros niveles taxonómicos.|
+|<span class="tag is-warning is-light"><b>3.463</b></span>  | Identificados a nivel de especie, con un total de 546  especies únicas.     | 
+|<span class="tag is-warning is-light"><b>2.178</b></span>|Identificados a nivel de género.|
+|<span class="tag is-warning is-light"><b>3.680</b></span>|Identificados a nivel de familia.|
+|<span class="tag is-warning is-light"><b>1.516</b></span>|Identificados a otros niveles taxonómicos.|
 
 <img src="/comunidad/colombiabio/imagenes/coleccion-entomologica-de-la-universidad-del-quindio/map-e-u-q.png" width=770>
 
