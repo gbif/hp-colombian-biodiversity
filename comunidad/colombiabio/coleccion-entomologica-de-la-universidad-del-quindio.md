@@ -53,7 +53,7 @@ Esta colección cuenta con <span class="tag is-warning is-light"><b>10.837</b></
 <p class="is-size-7 has-text-grey has-text-centered">En negro se indican los registros  disponibles previamente a través de GBIF: 5.185.</p><br>
 <p class="is-size-7 has-text-grey has-text-centered">En amarillo se indican los registros que aportó la Colección para el departamento: 8.142.</p>
 
-Hay <span class="tag is-warning is-light"><b></b></span> 1.352 localidades únicas ubicadas así:
+Hay <span class="tag is-warning is-light"><b>1.352</b></span> localidades únicas ubicadas así:
 
 <span class="tag is-warning is-light"><b>1.110</b></span> en Quindío
 
