@@ -28,14 +28,16 @@ gallery2:
 
 ---
 
-Esta colección cuenta con 4.544 registros que están clasificados así:
 
-|  |  | 
-| --------: | :-------- | 
-| 4.046    | Identificados a nivel de especie, con un total de 999 especies únicas.     | 
-|337|Identificados a nivel de género.|
-|134|Identificados a nivel de familia.|
-|27|Identificados a otros niveles taxonómicos.|
+Esta colección cuenta con <span class="tag is-success  is-light"><b>4.544</b></span> registros que están clasificados así:
+
+<span class="tag is-success  is-light"><b>4.046</b></span> a nivel de especie, con un total de 563  especies únicas.   
+
+<span class="tag is-success  is-light"><b>337</b></span> a nivel de género.
+
+<span class="tag is-success  is-light"><b>134</b></span> a nivel de familia.
+
+<span class="tag is-success  is-light"><b>27</b></span>a otros niveles taxonómicos.
 
 <img src="/comunidad/colombiabio/imagenes/herbario-universidad-de-quindio/map-he-u-q.png" width=770>
 
@@ -49,13 +51,17 @@ Esta colección cuenta con 4.544 registros que están clasificados así:
 
 <p class="is-size-7 has-text-grey has-text-centered">En verde se indican los registros  que aportó el herbario para el departamento: 3.407.</p>
 
-Hay 1.417 localidades únicas ubicadas así:
+Hay <span class="tag is-success  is-light"><b>1.417</b></span> localidades únicas ubicadas así:
 
-- 1.196 en Quindío
-- 55 en Valle del Cauca
-- 45 en Risaralda
-- 35 en Caldas
-- 25 en Antioquia
+<span class="tag is-success  is-light"><b>1.196</b></span> en Quindío
+
+<span class="tag is-success  is-light">55<b></b></span> en Valle del Cauca
+
+<span class="tag is-success  is-light"><b>45</b></span> en Risaralda
+
+<span class="tag is-success  is-light"><b>35</b></span> en Caldas
+
+<span class="tag is-success  is-light"><b>25</b></span> en Antioquia
 
 
 ### Conoce más sobre el herbario
