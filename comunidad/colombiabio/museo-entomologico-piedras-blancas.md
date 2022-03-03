@@ -28,14 +28,19 @@ gallery2:
 
 ---
 
-Esta colección cuenta con 15.339 registros que están clasificados así:
+Esta colección cuenta con <span class="tag is-warning is-light"><b>15.339</b></span> registros que están clasificados e identificados de la siguiente manera manera:
 
-|  |  | 
-| --------: | :-------- | 
-| 4.693   | Identificados a nivel de especie, con un total de 546  especies únicas.     | 
-|3.318|Identificados a nivel de género.|
-|4.076|Identificados a nivel de familia.|
-|3.252|Identificados a otros niveles taxonómicos.|
+
+<span class="tag is-warning is-light"><b>4.693</b></span> a nivel de especie, con un total de 546 especies únicas.     
+
+
+<span class="tag is-warning is-light"><b>3.318</b></span> a nivel de género.
+
+
+<span class="tag is-warning is-light"><b>4.076</b></span> a nivel de familia.
+
+
+<span class="tag is-warning is-light"><b>3.252</b></span> a otros niveles taxonómicos.
 
 <img src="/comunidad/colombiabio/imagenes/museo-entomologico-piedras-blancas/map-m-p-b.png" width=770>
 
@@ -46,17 +51,21 @@ Esta colección cuenta con 15.339 registros que están clasificados así:
 <img src="/comunidad/colombiabio/imagenes/museo-entomologico-piedras-blancas/mapa-ent-mepb.png" width=770>
 
 <p class="is-size-7 has-text-grey has-text-centered">En negro se indican los registros  disponibles previamente a través de GBIF: 4.123.</p>
-
 <p class="is-size-7 has-text-grey has-text-centered">En amarillo se indican los registros que aportó la Colección para el departamento: 11.237.</p>
 
-Hay 552 localidades únicas ubicadas así:
+Hay <span class="tag is-warning is-light"><b>552</b></span> localidades únicas ubicadas así:
 
-- 395 en Antioquia
-- 38 en Chocó
-- 24 en Santander
-- 11 en Valle del Cauca
-- 4 en San Andrés, Providencia y Sta. Catalina
-- 4 en otros países (Perú, Ecuador y Panamá)
+<span class="tag is-warning is-light"><b>395</b></span> en Antioquia
+
+<span class="tag is-warning is-light"><b>38</b></span> en Chocó
+
+<span class="tag is-warning is-light"><b>24</b></span> en Santander
+
+<span class="tag is-warning is-light"><b>11</b></span> en Valle del Cauca
+
+<span class="tag is-warning is-light"><b>4</b></span> en San Andrés, Providencia y Sta. Catalina
+
+<span class="tag is-warning is-light"><b>4</b></span> en otros países (Perú, Ecuador y Panamá)
 
 
 
