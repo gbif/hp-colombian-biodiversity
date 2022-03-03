@@ -28,14 +28,20 @@ gallery2:
 
 ---
 
-Esta colección cuenta con 4.081 registros que están clasificados así:
 
-|  |  | 
-| --------: | :-------- | 
-| 618   | Identificados a nivel de especie, con un total de 546  especies únicas.     | 
-|134|Identificados a nivel de género.|
-|556|Identificados a nivel de familia.|
-|2.773|Identificados a otros niveles taxonómicos.|
+Esta colección cuenta con <span class="tag is-warning is-light"><b>4.081</b></span> registros que están clasificados e identificados de la siguiente manera manera:
+
+
+<span class="tag is-warning is-light"><b>618</b></span> a nivel de especie, con un total de 85 especies únicas.     
+
+
+<span class="tag is-warning is-light"><b>134</b></span> a nivel de género.
+
+
+<span class="tag is-warning is-light"><b>556</b></span> a nivel de familia.
+
+
+<span class="tag is-warning is-light"><b>2.773</b></span> a otros niveles taxonómicos.
 
 <img src="/comunidad/colombiabio/imagenes/coleccion-entomologica-de-la-universidad-nacional-de-colombia-sede-orinoquia/map-e-a2.png" width=770>
 
@@ -49,12 +55,12 @@ Esta colección cuenta con 4.081 registros que están clasificados así:
 
 <p class="is-size-7 has-text-grey has-text-centered">En amarillo se indican los registros que aportó la Colección para el departamento: 3.938.</p>
 
-Hay 831 localidades únicas ubicadas así:
+<span class="tag is-warning is-light"><b>831</b></span>
 
-- 793 en Arauca
-- 25 en Casanare
-- 12 en Norte de Santander
-- 1 en Magdalena
+<span class="tag is-warning is-light"><b>793</b></span> en Arauca
+<span class="tag is-warning is-light"><b>25</b></span> en Casanare
+<span class="tag is-warning is-light"><b>12</b></span> en Norte de Santander
+<span class="tag is-warning is-light"><b>1</b></span> en Magdalena
 
 
 ### Conoce más sobre la colección
