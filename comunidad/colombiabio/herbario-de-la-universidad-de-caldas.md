@@ -11,7 +11,7 @@ height: 41vh
 
 Esta colección cuenta con <span class="tag is-success  is-light"><b>20.481</b></span> registros que están clasificados así:
 
-<span class="tag is-success  is-light"><b15.343</b></span> a nivel de especie, con un total de 3.745 especies únicas.   
+<span class="tag is-success  is-light"><b>15.343</b></span> a nivel de especie, con un total de 3.745 especies únicas.   
 
 <span class="tag is-success  is-light"><b>4.231</b></span> a nivel de género.
 
@@ -37,7 +37,7 @@ Hay <span class="tag is-success  is-light"><b>4.167</b></span> localidades únic
 
 <span class="tag is-success  is-light"><b>386</b></span> en Cundinamarca
 
-<span class="tag is-success  is-light"><b>388</b></span> en Valle del Cauca
+<span class="tag is-success  is-light"><b>338</b></span> en Valle del Cauca
 
 <span class="tag is-success  is-light"><b>317</b></span> en Antioquia
 
