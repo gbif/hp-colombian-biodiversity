@@ -55,10 +55,10 @@ Esta colección cuenta con 43.387 registros que están clasificados así:
 
 |  |  | 
 | --------: | :-------- | 
-| 23.303    | Identificados a nivel de especie, con un total de 2.226 especies únicas.     | 
-|12.956|Identificados a nivel de género.|
-|4.169|Identificados a nivel de familia.|
-|2.959|Identificados a otros niveles taxonómicos.|
+|<span class="tag is-danger is-large"><b>23.303</b></span>    | Identificados a nivel de especie, con un total de 2.226 especies únicas.     | 
+|<span class="tag is-danger is-large"><b>12.956</b></span>|Identificados a nivel de género.|
+|<span class="tag is-danger is-large"><b>4.169</b></span>|Identificados a nivel de familia.|
+|<span class="tag is-danger is-large"><b>2.959</b></span>|Identificados a otros niveles taxonómicos.|
 
 <img src="/comunidad/colombiabio/imagenes/coleccion-zoologica-universidad-del-tolima/map-c-z-t3.jpg" width=770>
 
