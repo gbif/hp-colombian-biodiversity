@@ -55,7 +55,7 @@ Hay <span class="tag is-success  is-light"><b>1.417</b></span> localidades únic
 
 <span class="tag is-success  is-light"><b>1.196</b></span> en Quindío
 
-<span class="tag is-success  is-light">55<b></b></span> en Valle del Cauca
+<span class="tag is-success  is-light"><b>55</b></span> en Valle del Cauca
 
 <span class="tag is-success  is-light"><b>45</b></span> en Risaralda
 
