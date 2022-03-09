@@ -21,7 +21,7 @@ Consulta los reportes históricos de actividad de publicación desde el año 201
 # 2022
 
 
-| [![](/assets/images/reportes/rep-mes-1-40x40_rojo.png)](https://datastudio.google.com/u/0/reporting/a9b34708-4ef6-4255-8019-7c49ee54d10f/page/Ge2V){:target="_blank"}|  |  |   |  |  |   |  |  |  |  |  | 
+| [![](/assets/images/reportes/rep-mes-1-40x40_rojo.png)](https://datastudio.google.com/u/0/reporting/a9b34708-4ef6-4255-8019-7c49ee54d10f/page/Ge2V){:target="_blank"}|  [![](/assets/images/reportes/rep-mes-2-40x40_amarillo.png)](https://datastudio.google.com/u/0/reporting/0673c051-bba0-41c8-a858-a87480e55114/page/Ge2V){:target="_blank"} |  |   |  |  |   |  |  |  |  |  | 
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |Ene|Feb|Mar|Abr|May|Jun|Jul|Ago|Sep|Oct|Nov|Dic|
 
