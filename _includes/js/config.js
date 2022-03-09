@@ -3,12 +3,12 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 }});
 
 var siteConfig = {
-  routeConfig: {
+  routes: {
     occurrenceSearch: {
       url: ({basename}) => `${basename ? `/${basename}` : ''}/data`,
       isHref: true,
       route: '/data' // the route you are currently using for occurrence search
-    },
+    }
   },
   occurrence: {
      mapSettings: {
