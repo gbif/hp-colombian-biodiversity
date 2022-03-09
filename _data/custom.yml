@@ -6,7 +6,7 @@ gacetero:
 reporte_actual:
   klass: iframe-box
   markdownContent: |
-   <iframe width="600" height="4620" src="https://datastudio.google.com/embed/reporting/a9b34708-4ef6-4255-8019-7c49ee54d10f/page/Ge2V" frameborder="0" style="border:0" allowfullscreen></iframe>
+   <iframe width="600" height="4750" src="https://datastudio.google.com/embed/reporting/0673c051-bba0-41c8-a858-a87480e55114/page/Ge2V" frameborder="0" style="border:0" allowfullscreen></iframe>
     
 markdown_reporte:
   markdownContent: |
