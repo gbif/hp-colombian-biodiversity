@@ -43,7 +43,7 @@ estadisticas:
 # Tarjetas
 
 noticias:
-  features
+  features:
  
     - preTitle: Convocatorias
       title: Premio GBIF a Jóvenes Investigadores 2022
