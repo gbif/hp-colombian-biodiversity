@@ -43,18 +43,7 @@ estadisticas:
 # Tarjetas
 
 noticias:
-  features:
-
-    - preTitle: Blog
-      title: Tutorial para limpiar y validar datos
-      description: |      # required
-        Open Refine es un software abierto que procesa datos de manera masiva. 
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-02-16-open-refine.jpg
-      cta:
-      - text: Ver más
-        href: post/2022/open-refine-para-limpiar-validar-datos/
-        isPrimary: false
+  features
  
     - preTitle: Convocatorias
       title: Premio GBIF a Jóvenes Investigadores 2022
@@ -65,17 +54,6 @@ noticias:
       cta:
       - text: Ver más
         href: post/2022/convocatoria-premio-jovenes-investigadores-gbif-2022
-        isPrimary: false
-
-    - preTitle: Actualización
-      title: Nuevo procedimiento para reportar datos
-      description: |      # required
-        Instrucciones para el reporte de datos asociados a permisos de recolección. 
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-02-01-novedad-certificados.jpg
-      cta:
-      - text: Ver más
-        href: post/2022/novedad-certificados-de-reporte/
         isPrimary: false
         
     - preTitle: Publicación de datos
@@ -88,17 +66,18 @@ noticias:
       - text: Ver más
         href: /compartir/minga-por-la-biodiversidad
         isPrimary: false
-  
-    - preTitle: Noticias
-      title: ¡Bienvenido a biodiversidad.co!
+        
+    - preTitle: Blog
+      title: Tutorial para limpiar y validar datos
       description: |      # required
-         El nuevo portal incluye datos, galería de imágenes, mapa y descargas con DOI.
+        Open Refine es un software abierto que procesa datos de manera masiva. 
       # img required
-      background: assets/images/noticias_eventos/2021/2021-11-25-biodiversidad-Colombia-tiene-nuevo-portal.jpg
+      background: /assets/images/noticias_eventos/2022/2022-02-16-open-refine.jpg
       cta:
       - text: Ver más
-        href: /post/2021/biodiversidad-en-colombia-tiene-nuevo-portal/
+        href: post/2022/open-refine-para-limpiar-validar-datos/
         isPrimary: false
+ 
 
 # Noticias viejas 
 
