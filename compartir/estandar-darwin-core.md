@@ -3262,7 +3262,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 |    |    |
 | ---|--- |
 | Definición | El tipo del permiso (documento que le permite a alguien tomar una acción que de otra manera no estaría permitida). Se recomienda el uso de un vocabulario controlado. |
-| Ejemplo | Permiso de acceso a recursos genéticos<br> Permiso para la recolección de especímenes de especies silvestres<br> Permiso de colecta<br> Permiso de importación<br> Permiso de exportación<br> Derechos de propiedad intelectual<br> Derechos de autor<br> Patente<br> Fitosanitario<br> Acuerdo de transferencia de material<br> Contrato<br> Memorando de entendimiento<br> Organismo modificado genéticamente |
+| Ejemplo | Permiso de acceso a recursos genéticos<br> Permiso para la recolección de especímenes de especies silvestres<br> Permiso de colecta<br> Permiso de importación<br> Permiso de exportación<br> Acto legal <br> Amnistía <br> Derechos de propiedad intelectual<br> Derechos de autor<br> Patente<br> Fitosanitario<br> Acuerdo de transferencia de material<br> Contrato<br> Memorando de entendimiento<br> Organismo modificado genéticamente |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 |    |    |
 
