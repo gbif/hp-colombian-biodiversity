@@ -44,27 +44,16 @@ estadisticas:
 
 noticias:
   features:
- 
+  
     - preTitle: Convocatorias
-      title: Premio GBIF a Jóvenes Investigadores 2022
+      title: GBIF abre convocatoria al Reto Ebbe Nielsen 2022
       description: |      # required
-        30 de mayo es la fecha límite para presentar candidaturas al Premio. 
+        La fecha límite para presentar propuestas es el 14 de agosto de 2022.
       # img required
-      background: /assets/images/noticias_eventos/2022/2022-02-08-jovenes-investigadores-GBIF.png
+      background: /assets/images/noticias_eventos/2022/2022-03-11-reto-Ebbe-Nielsen.png
       cta:
       - text: Ver más
-        href: post/2022/convocatoria-premio-jovenes-investigadores-gbif-2022
-        isPrimary: false
-        
-    - preTitle: Publicación de datos
-      title: Datos nuevos o antiguos, ¡todos cuentan!
-      description: |      # required
-        Queremos incrementar la disponibilidad de datos sobre biodiversidad en el país.
-      # img required
-      background: assets/images/minga/cabezote.jpg
-      cta:
-      - text: Ver más
-        href: /compartir/minga-por-la-biodiversidad
+        href: post/2022/convocatoria-reto-ebbe-nielsen-2022
         isPrimary: false
         
     - preTitle: Blog
@@ -77,12 +66,34 @@ noticias:
       - text: Ver más
         href: post/2022/open-refine-para-limpiar-validar-datos/
         isPrimary: false
+
+    - preTitle: Convocatorias
+      title: Premio GBIF a Jóvenes Investigadores 2022
+      description: |      # required
+        30 de mayo es la fecha límite para presentar candidaturas al Premio. 
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-02-08-jovenes-investigadores-GBIF.png
+      cta:
+      - text: Ver más
+        href: post/2022/convocatoria-premio-jovenes-investigadores-gbif-2022
+        isPrimary: false
  
 
 # Noticias viejas 
 
 noticiasViejas:
   features:
+        
+    - preTitle: Publicación de datos
+      title: Datos nuevos o antiguos, ¡todos cuentan!
+      description: |      # required
+        Queremos incrementar la disponibilidad de datos sobre biodiversidad en el país.
+      # img required
+      background: assets/images/minga/cabezote.jpg
+      cta:
+      - text: Ver más
+        href: /compartir/minga-por-la-biodiversidad
+        isPrimary: false
   
     - preTitle: Red SiB Colombia
       title: Alianza con el sector empresarial
