@@ -10,9 +10,9 @@ _La convocatoria anual busca proyectos de innovación con datos abiertos de la r
 
 El [Reto Ebbe Nielsen](https://www.gbif.org/es/article/1G82GL7jw08kS0g6k6MuSa/reto-ebbe-nielsen) 2022 busca reconocer a proyectos innovadores, que aporten al desarrollo y avance de la ciencia abierta y aprovechen las herramientas y los datos sobre biodiversidad de la red de GBIF.
 
-Un jurado conformado por expertos evaluará las propuestas teniendo en cuenta cualidades como repetibilidad, apertura, relevancia y novedad; seleccionará las ganadoras que accederán a **una bolsa de premios por 20.000 euros. **
+Un jurado conformado por expertos evaluará las propuestas teniendo en cuenta cualidades como repetibilidad, apertura, relevancia y novedad; seleccionará las ganadoras que accederán a **una bolsa de premios por 20.000 euros**.
 
-**La recepción de propuestas cierra el 14 de agosto de 2022.** Hasta esta fecha las personas y equipos podrán preparar herramientas y técnicas que mejoren el acceso, usabilidad y calidad de los datos abiertos sobre biodiversidad para presentarlos en esta competencia anual de iniciativas abiertas.
+**La recepción de propuestas cierra el 14 de agosto de 2022**. Hasta esta fecha las personas y equipos podrán preparar herramientas y técnicas que mejoren el acceso, usabilidad y calidad de los datos abiertos sobre biodiversidad para presentarlos en esta competencia anual de iniciativas abiertas.
 
 **Las propuestas pueden tomar múltiples formas**, las que los participantes elijan desarrollar, como nuevas aplicaciones, visualizaciones, métodos, flujos de trabajo o análisis a menudo, (pero no siempre) que hacen uso de la [API de GBIF](https://www.gbif.org/es/developer/summary) (contenido en inglés) para acceder a los datos. Las entradas también pueden proponer expandir las capacidades o construir a partir de herramientas existentes disponibles en la red de GBIF. 
 
@@ -22,7 +22,7 @@ Revisar los [ganadores de las ediciones anteriores](https://www.gbif.org/es/news
 
 **Los ganadores serán anunciados en octubre de 2022** en la 29ª reunión de la junta de gobernanza de GBIF, en Bruselas.
 
-Este reto **honra la memoria del doctor [Ebbe Schmidt Nielsen](https://en.wikipedia.org/wiki/Ebbe_Nielsen),** líder inspirador en los campos de la biosistemática y la informática de la biodiversidad. También uno de los principales fundadores de GBIF, que falleció inesperadamente antes del establecimiento de la organización.
+Este reto **honra la memoria del doctor [Ebbe Schmidt Nielsen](https://en.wikipedia.org/wiki/Ebbe_Nielsen)**, líder inspirador en los campos de la biosistemática y la informática de la biodiversidad. También uno de los principales fundadores de GBIF, que falleció inesperadamente antes del establecimiento de la organización.
 
 
 ## Enlaces del reto Ebbe Nielsen 2022
