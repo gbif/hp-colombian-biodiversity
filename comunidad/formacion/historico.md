@@ -80,12 +80,6 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
     </tr>
   </thead>
   <tbody>
-      <tr>
-      <td><a href="/post/2018/iv-simposio" title="Ver">IV Simposio Colombiano de Informática de la Biodiversidad</a></td>
-      <td>Diciembre</td>
-      <td>COL</td>
-      <td>Bogotá, D.C.</td>
-    </tr>
     <tr>
       <td><a href="/post/2019/taller-programa-riqueza-natural-usaid" title="Ver">Taller de gestión y publicación de datos sobre biodiversidad – Programa Riqueza Natural – USAID</a></td>
         <td>Agosto</td>
@@ -143,7 +137,13 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
     </tr>
   </thead>
   <tbody>
-      <tr>
+    <tr>
+      <td><a href="/post/2018/iv-simposio" title="Ver">IV Simposio Colombiano de Informática de la Biodiversidad</a></td>
+      <td>Diciembre</td>
+      <td>COL</td>
+      <td>Bogotá, D.C.</td>
+    </tr>
+           <tr>
       <td><a href="/post/2018/ii-panel-discusion-ciencia-abierta-conservacion/" title="Ver">II Panel de Discusión sobre Ciencia Abierta y Conservación de Biodiversidad
 </a></td>
       <td>Diciembre</td>
