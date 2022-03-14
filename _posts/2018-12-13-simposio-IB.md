@@ -1,7 +1,7 @@
 ---
 title:  "IV Simposio Colombiano de Informática de la Biodiversidad
 "
-date:   2018-06-03
+date:   2018-12-13
 categories: ["Simposios", "Datos","2018","Congresos"]
 background: /assets/images/noticias_eventos/2018/2018-06-03-simposio-IB-1.jpg
 
