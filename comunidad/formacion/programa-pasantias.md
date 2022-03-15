@@ -222,7 +222,33 @@ Esta pasantía busca facilitar la publicación de datos de diferentes grupos bio
 
 ___
 
+<details>
+    <summary markdown="span"><B>AC04 - Catálogo de la biodiversidad de Colombia</B></summary>
+    
+<br>
+<p>
+Esta pasantía busca facilitar la publicación de datos de diferentes grupos biológicos, zonas geográficas  o temáticas para los cuales existe muy poca o ningun tipo de información publicada de manera libre y gratuita. En cada convocatoria identificamos un aliado estratégico para trabajar sobre sus datos y asegurar que estos sean publicados con la mejor calidad posible. A la fecha hemos trabajado de la mano con la <a href="https://www.gbif.org/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5" target="_blank">Pontificia Universidad Javeriana</a> facilitando la publicación de datos de colecciones biológicas de microoganismos y con el <a href="https://obis.org/node/d2f71b1b-9138-4aba-ad8f-8327ac3d041e" target="_blank">INVEMAR</a> para la publicación de datos marino-costeros.
+</p>
+  
+<ul>
+  <li><b>Carreras</b>: biología, ecología, ingeniería forestal, y afines.</li>
+  <li><b>Habilidades</b>: buena redacción, coprensión lectora, recopilación bibliográfica, uso de gestores bibliográficos</li>
+  <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
+</ul>
+ 
+<p>
+<b>Actividades</b>:
+<ul>
+  <li>Apoyar la administración de los contenidos del catálogo de la biodiversidad de Colombia.</li>
+  <li>Curar y mejorar las fichas existentes.</li>
+  <li>Generar nuevas fichas de temáticas o grupos con vacios de información. </li>
+  <li>Generar nuevas fichas de interes y autoría del pasante.</li>
+</ul>
+</p>
+  
+</details>
 
+___
 # Aplicación
 
 La convocatoria se abre  anualmente o semestralmente por el periodo de un mes durante el cuál se recibirán aplicaciones únicamente por medio del formulario dispuesto para ello.
