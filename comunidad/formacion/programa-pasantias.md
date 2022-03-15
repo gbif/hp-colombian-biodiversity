@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 title: Programa de pasantías SiB Colombia
-description: Desde el 2015  más de 18 pasantes se han formado con el programa de pasantías.
+description: Desde el 2015  más de 20 pasantes se han formado con el programa de pasantías.
 background: https://live.staticflickr.com/2916/32850527984_dbf3cbee9d_b.jpg
 imageLicense: |
   Fotografía de: Luis Alveart vía [Flickr](https://flic.kr/p/S3Txtw) 
@@ -32,7 +32,7 @@ Nuestros pasantes se benefician de:
 5. Entrenamiento intensivo en informática de la biodiversidad (aplica para los perfiles de la línea de Administración de Contenidos).
 6. Entrenamiento en diseño y divulgación de la ciencia (aplica para los perfiles de la línea de Productos y servicios).
 
-Más de 18 pasantes que han sido parte del EC-SiB, conoce sus experiencias:
+Más de 20 pasantes que han sido parte del EC-SiB, conoce sus experiencias:
 
 [Alumni](/comunidad/formacion/alumni){: .button .is-primary}
 
@@ -48,6 +48,92 @@ Más de 18 pasantes que han sido parte del EC-SiB, conoce sus experiencias:
 # Perfiles de Pasantía
 <sub>*Algunos perfiles pueden variar entre convocatorias.</sub>
 
+
+<details>
+    <summary markdown="span"><B>PS01 - Creación y edición de contenidos en plataformas digitales</B></summary>
+    
+<br>
+<p>
+[Andrés, revisar y complementar] Esta pasantía busca la elaboración de  contenidos textuales, gráficos o audiovisuales de divulgación, que apoyen la publicación, acceso y uso de datos abiertos sobre biodiversidad.
+</p>
+  
+<ul>
+  <li><b>Carreras</b>: periodismo, literatura, comunicación social, comunicación o producción audiovisual, diseño gráfico, artes visuales y afines.</li>
+  <li><b>Habilidades</b>: manejo plataforma adobe, redes sociales, páginas web y aplicativos móviles.</li>
+  <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
+</ul>
+  
+<p>
+<b>Actividades</b>:
+<ul>
+  <li>Crear, maquetar, preparar, editar y optimizar publicaciones en distintos canales digitales (web, blog y redes sociales).</li>
+  <li>Añadir.</li>
+  <li>Añadir.</li>
+</ul>
+</p>
+  
+</details>
+
+___
+
+<details>
+    <summary markdown="span"><B>PS02 - Diseño y diagramación de contenidos gráficos para plataformas digitales</B></summary>
+    
+<br>
+<p>
+[Andrés, revisar y complementar] Esta pasantía busca el diseño e implementar estrategias de divulgación científica sobre la publicación, acceso y uso de datos abiertos sobre biodiversidad.
+</p>
+  
+<ul>
+  <li><b>Carreras</b>: diseño Gráfico, diseño Industrial, diseño interactivo, artes visuales, animación.</li>
+  <li><b>Habilidades</b>: diagramación y diseño gráfico, teoría del color, manejo plataforma adobe </li>
+  <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
+</ul>
+  
+<p>
+<b>Actividades</b>:
+<ul>
+  <li>Añadir</li>
+  <li>Añadir.</li>
+  <li>Añadir</li>
+  
+  
+</ul>
+</p>
+  
+</details>
+
+___
+
+<details>
+    <summary markdown="span"><B>GC01 - Administración del proceso de certificación de permisos de recolección </B></summary>
+    
+<br>
+<p>
+[Jeimmy, revisar y complementar] Esta pasantía se enmarca en la normativa ambiental del país (decretos 1376 y 3016 de 2013, hoy compilados en el <a href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153" target="_blank"> decreto 1076 de 2015</a>) que regula la recolección de especímenes; y busca apoyar a los  los titulares de permisos en el proceso de reporte de datos al SiB Colombia y al uso de la plataforma de generación de certificados CR-SiB.
+</p>
+  
+<ul>
+  <li><b>Carreras</b>: administración ambiental, biología, ecología y afines .</li>
+  <li><b>Habilidades</b>: buenas comunicaciones interpersonales, comunicación verbal y escrita, empatía, resolución de problemas. </li>
+  <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
+</ul>
+  
+<p>
+<b>Actividades</b>:
+<ul>
+  <li>Prestar orientación a los usuarios de la plataforma CR-SiB</li>
+  <li>Documentación y resoluciñon de pregutnas frecuentes del procedimeinto asociado a CR-SiB</li>
+  <li>Añadir</li>
+  
+  
+</ul>
+</p>
+  
+</details>
+
+___
+
 <details>
     <summary markdown="span"><B>AC01 - Mejores datos mejores decisiones</B></summary>
     
@@ -58,7 +144,7 @@ Esta pasantía se enmarca en la temática de <b>Informática de la Biodiversidad
 
 
 <ul>
-  <li><b>Carreras</b>: Biología, Ecología y afines.</li>
+  <li><b>Carreras</b>: biología, ecología y afines.</li>
   <li><b>Habilidades</b>: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, creatividad para la resolución de problemas.</li>
   <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
 </ul> 
@@ -86,8 +172,8 @@ Esta pasantía se enmarca en la normativa ambiental del país (decretos 1376 y 3
 </p>
   
 <ul>
-  <li><b>Carreras</b>: Biología, Ingeniería ambiental y afines.</li>
-  <li><b>Habilidades</b>: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, conocimientos sobre gestión.</li> ambiental,creatividad para la resolución de problemas.</li>
+  <li><b>Carreras</b>: biología, ingeniería ambiental y afines.</li>
+  <li><b>Habilidades</b>: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, conocimientos sobre gestión ambiental,creatividad para la resolución de problemas.</li>
   <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
 </ul>
   
@@ -113,11 +199,11 @@ ___
     
 <br>
 <p>
-Esta pasantía busca facilitar la publicación de datos de diferentes grupos biológicos, zonas geográficas  o temáticas para los cuales existe muy poca o ningun tipo de información publciada de manera libre y gratuita. En cada convocatoria identificamos un aliado estratégico para trabajar sobre sus datos y asegurar que estos sean publicados con la mejor calidad posible. A la fecha hemos trabajado de la mano con la <a href="https://www.gbif.org/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5" target="_blank">Pontificia Universidad Javeriana</a> facilitando la publicación de datos de colecciones biológicas de microoganismos y con el <a href="https://obis.org/node/d2f71b1b-9138-4aba-ad8f-8327ac3d041e" target="_blank">INVEMAR</a> para la publicación de datos marino-costeros.
+Esta pasantía busca facilitar la publicación de datos de diferentes grupos biológicos, zonas geográficas  o temáticas para los cuales existe muy poca o ningun tipo de información publicada de manera libre y gratuita. En cada convocatoria identificamos un aliado estratégico para trabajar sobre sus datos y asegurar que estos sean publicados con la mejor calidad posible. A la fecha hemos trabajado de la mano con la <a href="https://www.gbif.org/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5" target="_blank">Pontificia Universidad Javeriana</a> facilitando la publicación de datos de colecciones biológicas de microoganismos y con el <a href="https://obis.org/node/d2f71b1b-9138-4aba-ad8f-8327ac3d041e" target="_blank">INVEMAR</a> para la publicación de datos marino-costeros.
 </p>
   
 <ul>
-  <li><b>Carreras</b>: Biología, Ecología y afines.</li>
+  <li><b>Carreras</b>: biología, ecología y afines.</li>
   <li><b>Habilidades</b>: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, conocimientos sobre gestión ambiental,creatividad para la resolución de problemas.</li>
   <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
 </ul>
@@ -136,31 +222,6 @@ Esta pasantía busca facilitar la publicación de datos de diferentes grupos bio
 
 ___
 
-<details>
-    <summary markdown="span"><B>PS01 - Creación y edición de contenidos en plataformas digitales</B></summary>
-    
-<br>
-<p>
-Esta pasantía busca el diseño e implementar estrategias de divulgación científica sobre la publicación, acceso y uso de datos abiertos sobre biodiversidad.
-</p>
-  
-<ul>
-  <li><b>Carreras</b>: Diseño Gráfico, Diseño Industrial, Diseño interactivo, Artes visuales, Animación.</li>
-  <li><b>Habilidades</b>: manejo plataforma adobe, eedes sociales, páginas web y aplicativos móviles.</li>
-  <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
-</ul>
-  
-<p>
-<b>Actividades</b>:
-<ul>
-  <li>Crear, maquetar, preparar, editar y optimizar piezas de divulgación.</li>
-  <li>Gestión de redes sociales.</li>
-  <li>Creación de material fotográfico y/o audiovisual</li>
-</ul>
-</p>
-  
-</details>
-
 
 # Aplicación
 
@@ -169,11 +230,12 @@ La convocatoria se abre  anualmente o semestralmente por el periodo de un mes du
   - 1er Semestre -  Convocatoria de Marzo a Abril para ejecutar la pasantía de Julio a Diciembre del siguiente semestre.
   - 2do Semestre -  Convocatoria de Agosto a Septiembre para ejecutar la pasantía de Enero a Junio del siguiente semestre.
 
-La selección de los pasantes se hace basada únicamente en méritos y en los resultados de su prueba técnica y entrevista. En el SiB Colombia promovemos la diversidad cultural, social y de género, e invitamos a todos los estudiantes a aplicar.
+La selección de los pasantes se hace basada únicamente en méritos y en los resultados de la prueba técnica y entrevista. En el SiB Colombia promovemos la diversidad cultural, social y de género, e invitamos a todos los estudiantes a aplicar.
 
   Recursos útiles para aplicar:
   * [Hoja de vida](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=101:hoja-de-vida&catid=76&Itemid=169){:target="_blank"}
   * [Carta de intención](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=133:guia-para-la-elaboracion-de-cartas-de-presentacion-o-cover-letters&catid=76&Itemid=169){:target="_blank"}
+
 
 **Etapa 1 - Revisión de aplicaciones**
 
@@ -220,11 +282,11 @@ En caso de ser elegido como pasante los estudiantes deberán recopilar los sigui
 
 8. Certificado de existencia y representación legal de la Universidad con fecha no mayor a 90 días
 
-9. Copia de la cédula de ciudadanía del representante legal de la universidad, o los documentos de la eventual persona que vaya a ser designada para firmar el acuerdo tripartito (poder, autorización o su equivalente en la Universidad, junto con copia de la cédula).
+9. Copia de la cédula de ciudadanía del representante legal de la universidad, o los documentos de la eventual persona que vaya a ser designada para firmar el acuerdo tripartito.
 
-11. Documento que acredite que la persona indicada en el numeral anterior tiene las facultades para suscribir el acuerdo tripartito.
+11. Documento que acredite que la persona indicada en el numeral anterior - en caso de no ser el representante legal- tiene las facultades para suscribir el acuerdo tripartito, poder, autorización o su equivalente en la Universidad, junto con copia de la cédula.
 
 12. Plan de trabajo de una hoja que incluya: objetivos, actividades y cronograma, o que cumpla con los lineamientos establecidos por la universidad en caso de que esta requiera un plan de trabajo.
 
-Adicionalmente el estudiante debe ponerse en contacto con su universidad para avanzar con el papeleo que esta requiera y debe verificar fechas y requisitos internos.
+Adicionalmente el estudiante debe ponerse en contacto con su universidad para avanzar con los trámites administraticos que esta requiera y debe verificar fechas y requisitos internos.
 
