@@ -227,7 +227,7 @@ ___
     
 <br>
 <p>
-Esta pasantía busca facilitar la publicación de datos de diferentes grupos biológicos, zonas geográficas  o temáticas para los cuales existe muy poca o ningun tipo de información publicada de manera libre y gratuita. En cada convocatoria identificamos un aliado estratégico para trabajar sobre sus datos y asegurar que estos sean publicados con la mejor calidad posible. A la fecha hemos trabajado de la mano con la <a href="https://www.gbif.org/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5" target="_blank">Pontificia Universidad Javeriana</a> facilitando la publicación de datos de colecciones biológicas de microoganismos y con el <a href="https://obis.org/node/d2f71b1b-9138-4aba-ad8f-8327ac3d041e" target="_blank">INVEMAR</a> para la publicación de datos marino-costeros.
+Esta pasantía busca fortalecer el <a href="https://catalogo.biodiversidad.co/" target="_blank">Catálogo de la Biodiversidad de Colombia</a>, el cual ofrece información general y específica sobre las especies que habitan el país y es un recurso de consulta para muchos estudiantes y profesores de colegios y universidades. Los contenidos del catálogo están siendo constantemente curados y enriquecidos con información de nuevas especies.
 </p>
   
 <ul>
