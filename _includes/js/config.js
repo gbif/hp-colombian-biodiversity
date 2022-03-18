@@ -46,7 +46,7 @@ var siteConfig = {
     // availableCatalogues: ['OCCURRENCE', 'DATASET']
   },
   dataset: {
-    rootFilter: {publishingCountry: 'CO'},
+    rootFilter: {publishingCountry: 'CO', type: 'CHECKLIST'},
     highlightedFilters: ['q', 'publisherKey', 'datasetType', 'license'],
     excludedFilters: ['publishingCountryCode'],
     // availableCatalogues: ['OCCURRENCE', 'DATASET']
