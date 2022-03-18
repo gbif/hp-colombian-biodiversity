@@ -1,25 +1,30 @@
 ---
 layout: heroImage
-title: Programa de pasantías SiB Colombia
-description: Desde el 2015  más de 20 pasantes se han formado con el programa de pasantías.
-background: https://live.staticflickr.com/2916/32850527984_dbf3cbee9d_b.jpg
+title: Programa de pasantías
+description: Más de 20 pasantes han enriquecido su formación profesional al hacer parte del equipo del SiB Colombia desde que se abrió el programa en 2015.
+background: https://live.staticflickr.com/523/32621791422_b8f67ee8ad_k.jpg
 imageLicense: |
-  Fotografía de: Luis Alveart vía [Flickr](https://flic.kr/p/S3Txtw) 
+  Fotografía de: Bryant Olsen vía [Flickr](https://www.flickr.com/photos/bryanto/32621791422/){:target="_blank"}
 height: 41vh
 toc: true
 ---
 
-La red del SiB Colombia facilita la publicación, acceso y uso de los datos e información que son la base para cuantificar, entender y proteger la Biodiversidad del país. Para hacerlo contamos con un equipo interdisciplinario de profesionales, sin embargo, hemos identificado que aún hay un desconocimiento enorme dentro de la comunidad sobre temas relevantes como informática de la biodiversidad, datos abiertos, y buenas prácticas para el manejo y uso de los datos. Es por eso que dentro de nuestra estrategia de formación las pasantías son un eje importante para formar profesionales con habilidades específicas en estos frentes y que a su vez se transmitan los conocimientos adquiridos en los distintos sectores donde se desempeñen profesionalmente en el futuro.
+Colombia es uno de los pocos países megadiversos en el mundo. Ocupa el primer lugar en diversidad de aves, orquídeas y mariposas; el segundo en plantas, anfibios y peces dulceacuícolas; el tercer en palmas y reptiles y el sexto en mamíferos. Esto significa que **manejar la información sobre la biodiversidad del país es un esfuerzo permanente de magnitud mayúscula**.
 
+El SiB Colombia aporta a esta labor al **facilitar la publicación, el acceso y el uso de datos e información sobre biodiversidad**; estos son entendidos como la base para cuantificar, entender y proteger la riqueza biológica del país. Para lograrlo, cuenta con un equipo interdisciplinario de profesionales, que se ha encargado de acompañar el registro de más de [63.000 especies](https://cifras.biodiversidad.co/){:target="_blank"}.
 
-# Objetivos
+Pese a los esfuerzos para ampliar el conocimiento de la biodiversidad, se ha identificado que aún **existen vacíos en temas fundamentales** para llevar a cabo esta tarea, como la informática de la biodiversidad, los datos abiertos, y las buenas prácticas para el manejo y uso de estos.
+
+Por ese motivo se ha creado el programa de pasantías del SiB Colombia. **Una estrategia que aporta habilidades específicas en estos frentes a los profesionales en formación** y, a su vez, los empodera para convertirse en multiplicadores de estos conocimientos en la academia y los espacios donde se desempeñen profesionalmente en el futuro.
+
+## Objetivos
 
 * Formar a los profesionales del sector ambiental en manejo y gestión de datos abiertos sobre Biodiversidad.
 * Facilitar que las entidades que generan datos  sobre biodiversidad cuenten con profesionales con una formación robusta en informática de la biodiversidad.
 * Apoyar a los estudiantes en su proyecto profesional y en la transición al mundo laboral en el sector ambiental.
 
 
-# Beneficios
+## Beneficios
 
 El Equipo Coordinador del SiB Colombia (EC-SiB) brinda un espacio para el aprendizaje a través de una tutoría cercana donde los pasantes se integran por completo a las actividades del equipo experimentando así un ambiente lleno de estímulos para mejorar sus habilidades profesionales y personales.
 
@@ -36,7 +41,7 @@ Más de 20 pasantes que han sido parte del EC-SiB, conoce sus experiencias:
 
 [Alumni](/comunidad/formacion/alumni){: .button .is-primary}
 
-# Esquema
+## Esquema
 
 - **Semestre**: estudiantes de séptimo semestre en adelante.
 - **Duración**: 5-6 meses a partir de la legalización de la pasantía idealmente bajo el mismo calendario de los 2 semestres académicos del año.
@@ -45,7 +50,7 @@ Más de 20 pasantes que han sido parte del EC-SiB, conoce sus experiencias:
 - **Horario**: se maneja un horario flexible, el desarrollo de la pasantía se enfoca en objetivos y no en cumplimiento de horario. Cada pasante deberá gestionar su tiempo de acuerdo a sus compromisos académicos, laborales y personales.
 - **Formato**: virtual con algunas reuniones presenciales en Bogotá y Villa de Leyva (Boyacá), este formato facilita que estudiantes de todo el país puedan hacer parte de nuestro equipo.
 
-# Perfiles de Pasantía
+## Perfiles de Pasantía
 <sub>*Algunos perfiles pueden variar entre convocatorias.</sub>
 
 
@@ -249,7 +254,7 @@ Esta pasantía busca fortalecer el <a href="https://catalogo.biodiversidad.co/" 
 </details>
 
 ___
-# Aplicación
+## Aplicación
 
 La convocatoria se abre  anualmente o semestralmente por el periodo de un mes durante el cuál se recibirán aplicaciones únicamente por medio del formulario dispuesto para ello.
   
@@ -285,7 +290,7 @@ La selección de los pasantes se hace basada únicamente en méritos y en los re
 Los candidatos que obtuvieron los puntajes más altos en la prueba técnica de la Etapa 2 serán invitados a una entrevista para definir a los pasantes que serán vinculados, y serán informados de los resultados una semana después de la entrevista.
   
 
-# Vinculación
+## Vinculación
 
 De ser seleccionado la vinculación se realiza por medio de un Acuerdo de Vinculación Tripartita expedido por el Instituto Humboldt según lo estipulado en la resolución 623 del 2020 del Ministerio de Trabajo, los estudiantes deben verificar que esta modalidad de vinculación sea aceptada por su Universidad.
 
