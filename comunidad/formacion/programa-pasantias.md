@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 title: Programa de pasantías
-description: Más de 20 pasantes han enriquecido su formación profesional al hacer parte del equipo del SiB Colombia desde que se abrió el programa en 2015.
+description: Más de 20 pasantes han enriquecido su formación profesional desde que se abrió el programa en 2015.
 background: https://live.staticflickr.com/523/32621791422_b8f67ee8ad_k.jpg
 imageLicense: |
   Fotografía de: Bryant Olsen vía [Flickr](https://www.flickr.com/photos/bryanto/32621791422/){:target="_blank"}
