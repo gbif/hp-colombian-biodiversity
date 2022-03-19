@@ -7,6 +7,74 @@ boxCabezote:
     Fotografía de: Bryant Olsen vía [Flickr](https://www.flickr.com/photos/bryanto/32621791422/){:target="_blank"}
   height: 41vh
 
+markdownIntro: |
+  Colombia es uno de los pocos países megadiversos en el mundo. Ocupa el primer lugar en diversidad de aves, orquídeas y mariposas; el segundo en plantas, anfibios y peces dulceacuícolas; el tercer en palmas y reptiles y el sexto en mamíferos. Esto significa que **manejar la información sobre la biodiversidad del país es un esfuerzo permanente de magnitud mayúscula**.
+
+  El SiB Colombia aporta a esta labor al **facilitar la publicación, el acceso y el uso de datos e información sobre biodiversidad**; estos son entendidos como la base para cuantificar, entender y proteger la riqueza biológica del país. Para lograrlo, cuenta con un equipo interdisciplinario de profesionales, que se ha encargado de acompañar el registro de más de [63.000 especies](https://cifras.biodiversidad.co/){:target="_blank"}.
+
+  Pese a los esfuerzos para ampliar el conocimiento de la biodiversidad, se ha identificado que aún **existen vacíos en temas fundamentales** para llevar a cabo esta tarea, como la informática de la biodiversidad, los datos abiertos, y las buenas prácticas para el manejo y uso de estos.
+
+  Por ese motivo se ha creado el programa de pasantías del SiB Colombia. **Una estrategia que aporta habilidades específicas en estos frentes a los profesionales en formación** y, a su vez, los empodera para convertirse en multiplicadores de estos conocimientos en la academia y los espacios donde se desempeñen profesionalmente en el futuro.
+
+floatingtextObjetivos:
+  title: Objetivos
+  description: |      # required
+    * Formar a los profesionales del sector ambiental en manejo de gestión de datos abiertos sobre Biodiversidad.
+    * Apoyar a los estudiantes en su proyecto profesional y en la transición al mundo laboral en el sector ambiental. 
+    * Facilitar a las entidades que generan datos sobre biodiversidad que cuenten con profesionales con una formación robusta en informática de la biodiversidad.
+  background: /assets/theme/img/patterns/wavy-dots.png
+  overlayColor: "#ffffff55"
+  hasWhiteText: false
+
+markdownBeneficios: |
+  ## ¿Cuáles son los beneficios?
+
+  El SiB Colombia brinda a los pasantes un espacio para el aprendizaje, a través de una tutoría cercana en la que pueden integrarse por completo a las actividades del [Equipo Coordinador](https://biodiversidad.co/acercade/gobernanza/equipo-coordinador/){:target="_blank"}. De esta manera, experimentan los retos a los que se verán enfrentados en la vida laboral; en un ambiente seguro, donde es bienvenida la diversidad cultural, social y de género, lleno de estímulos para mejorar sus habilidades, orientado hacia el aprendizaje y la retroalimentación constructiva.
+
+  Los pasantes cuentan con los siguientes beneficios:
+
+  1. Participación en el seminario de pasantías anual del SiB Colombia.
+  2. Participación y autoría en documentos de divulgación y técnicos generados en el marco de la pasantía, según el desempeño del pasante. 
+  3. Recomendación de trabajo directo con los socios del SiB Colombia, según el desempeño del pasante y la demanda de profesionales.
+  4. Vinculación laboral con el SiB Colombia después de su pasantía, según el desempeño del pasante y la demanda de profesionales.
+  5. Entrenamiento intensivo en informática de la biodiversidad (aplica para los perfiles de la línea de Administración de Contenidos).
+  6. Entrenamiento en comunicación y divulgación de la ciencia (aplica para los perfiles de la línea de Productos y servicios).
+
+  Esta es la experiencia de algunos de los pasantes que han hecho parte del SiB Colombia.
+
+splitAlumni:
+  reverse: false
+  title: Alumni
+  description: |      # required
+    El SiB Colombia brinda a los pasantes un espacio para el aprendizaje, a través de una tutoría cercana en la que pueden integrarse por completo a las actividades del [Equipo Coordinador](https://biodiversidad.co/acercade/gobernanza/equipo-coordinador/){:target="_blank"}. De esta manera, experimentan los retos a los que se verán enfrentados en la vida laboral; en un ambiente seguro, donde es bienvenida la diversidad cultural, social y de género, lleno de estímulos para mejorar sus habilidades, orientado hacia el aprendizaje y la retroalimentación constructiva.
+  # img required
+  background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
+  href: /comunidad/formacion/alumni
+  cta:
+  - text: VER LAS EXPERIENCIAS DE LAS PASANTÍAS ANTERIORES
+    href: /comunidad/formacion/alumni
+    isPrimary: false
+
+markdownEsquema: |
+  ## ¿Cuál es el esquema de la pasantía?
+
+  * **Semestre**: a partir de séptimo semestre en adelante.
+  * **Duración**: de cinco (5) a seis (6) meses, a partir de la legalización de la pasantía. Idealmente bajo el mismo calendario de los dos semestres académicos del año.
+  * **Apoyo de sostenimiento**: usualmente no se cuenta con auxilio económico; pero, en caso de estar abierta la convocatoria, facilitamos la aplicación de los estudiantes al programa [Estado Joven](https://www.mintrabajo.gov.co/empleo-y-pensiones/movilidad-y-formacion/estado-joven){:target="_blank"}.
+  * **Intensidad horaria**: se define con cada pasante, de acuerdo a la carga académica. Como mínimo se esperan 22 horas semanales o 38 máximas, si se cuenta con el apoyo de Estado Joven.
+  * **Horario**: los pasantes podrán manejar un horario flexible. El desarrollo de la pasantía se enfoca en objetivos y no en el cumplimiento del horario. Cada pasante deberá gestionar su tiempo de acuerdo a sus compromisos académicos, laborales y personales.
+  * **Formato:** virtual con algunas reuniones presenciales ocasionales en Bogotá o Villa de Leyva, Boyacá. Este formato facilita que los estudiantes de todo el país puedan aplicar al programa de pasantías.
+
+markdownPerfiles: |
+  ## ¿Cuáles son los perfiles idóneos para la pasantía? 
+
+  Los siguientes son algunos de los perfiles recurrentes en las pasantías del SiB Colombia, pero pueden variar según las características de cada convocatoria.
+
+  Los adscritos al área de **Administración de Contenidos** son ideales para estudiantes de biología, ecología y afines. El del área de **Gestión y Cooperación** ideal para estudiantes de administración, ingeniería, biología y afines. Los del área de **Productos y Servicios**, ideales para estudiantes de comunicación social, periodismo, producción audiovisual o diseño gráfico.
+
+
+
+
 cardPerfiles:
   features:
   
@@ -135,52 +203,6 @@ cardPerfiles:
       # img required
       background: /assets/images/noticias_eventos/2022/2022-03-11-reto-Ebbe-Nielsen.png
 
-markdownIntro: |
-  Colombia es uno de los pocos países megadiversos en el mundo. Ocupa el primer lugar en diversidad de aves, orquídeas y mariposas; el segundo en plantas, anfibios y peces dulceacuícolas; el tercer en palmas y reptiles y el sexto en mamíferos. Esto significa que **manejar la información sobre la biodiversidad del país es un esfuerzo permanente de magnitud mayúscula**.
 
-  El SiB Colombia aporta a esta labor al **facilitar la publicación, el acceso y el uso de datos e información sobre biodiversidad**; estos son entendidos como la base para cuantificar, entender y proteger la riqueza biológica del país. Para lograrlo, cuenta con un equipo interdisciplinario de profesionales, que se ha encargado de acompañar el registro de más de [63.000 especies](https://cifras.biodiversidad.co/){:target="_blank"}.
-
-  Pese a los esfuerzos para ampliar el conocimiento de la biodiversidad, se ha identificado que aún **existen vacíos en temas fundamentales** para llevar a cabo esta tarea, como la informática de la biodiversidad, los datos abiertos, y las buenas prácticas para el manejo y uso de estos.
-
-  Por ese motivo se ha creado el programa de pasantías del SiB Colombia. **Una estrategia que aporta habilidades específicas en estos frentes a los profesionales en formación** y, a su vez, los empodera para convertirse en multiplicadores de estos conocimientos en la academia y los espacios donde se desempeñen profesionalmente en el futuro.
-
-floatingtextObjetivos:
-  title: Objetivos
-  description: |      # required
-    * Formar a los profesionales del sector ambiental en manejo de gestión de datos abiertos sobre Biodiversidad.
-    * Apoyar a los estudiantes en su proyecto profesional y en la transición al mundo laboral en el sector ambiental. 
-    * Facilitar a las entidades que generan datos sobre biodiversidad que cuenten con profesionales con una formación robusta en informática de la biodiversidad.
-  background: /assets/theme/img/patterns/wavy-dots.png
-  overlayColor: "#ffffff55"
-  hasWhiteText: false
-
-markdownBeneficios: |
-  ## ¿Cuáles son los beneficios?
-
-  El SiB Colombia brinda a los pasantes un espacio para el aprendizaje, a través de una tutoría cercana en la que pueden integrarse por completo a las actividades del [Equipo Coordinador](https://biodiversidad.co/acercade/gobernanza/equipo-coordinador/){:target="_blank"}. De esta manera, experimentan los retos a los que se verán enfrentados en la vida laboral; en un ambiente seguro, donde es bienvenida la diversidad cultural, social y de género, lleno de estímulos para mejorar sus habilidades, orientado hacia el aprendizaje y la retroalimentación constructiva.
-
-  Los pasantes cuentan con los siguientes beneficios:
-
-  1. Participación en el seminario de pasantías anual del SiB Colombia.
-  2. Participación y autoría en documentos de divulgación y técnicos generados en el marco de la pasantía, según el desempeño del pasante. 
-  3. Recomendación de trabajo directo con los socios del SiB Colombia, según el desempeño del pasante y la demanda de profesionales.
-  4. Vinculación laboral con el SiB Colombia después de su pasantía, según el desempeño del pasante y la demanda de profesionales.
-  5. Entrenamiento intensivo en informática de la biodiversidad (aplica para los perfiles de la línea de Administración de Contenidos).
-  6. Entrenamiento en comunicación y divulgación de la ciencia (aplica para los perfiles de la línea de Productos y servicios).
-
-  Esta es la experiencia de algunos de los pasantes que han hecho parte del SiB Colombia.
-
-splitAlumni:
-  reverse: false
-  title: Alumni
-  description: |      # required
-    El SiB Colombia brinda a los pasantes un espacio para el aprendizaje, a través de una tutoría cercana en la que pueden integrarse por completo a las actividades del [Equipo Coordinador](https://biodiversidad.co/acercade/gobernanza/equipo-coordinador/){:target="_blank"}. De esta manera, experimentan los retos a los que se verán enfrentados en la vida laboral; en un ambiente seguro, donde es bienvenida la diversidad cultural, social y de género, lleno de estímulos para mejorar sus habilidades, orientado hacia el aprendizaje y la retroalimentación constructiva.
-  # img required
-  background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
-  href: /comunidad/formacion/alumni
-  cta:
-  - text: VER LAS EXPERIENCIAS DE LAS PASANTÍAS ANTERIORES
-    href: /comunidad/formacion/alumni
-    isPrimary: false
-
+ 
 
