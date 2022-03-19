@@ -19,305 +19,240 @@ Por ese motivo se ha creado el programa de pasantías del SiB Colombia. **Una es
 
 ## Objetivos
 
-* Formar a los profesionales del sector ambiental en manejo y gestión de datos abiertos sobre Biodiversidad.
-* Facilitar que las entidades que generan datos  sobre biodiversidad cuenten con profesionales con una formación robusta en informática de la biodiversidad.
-* Apoyar a los estudiantes en su proyecto profesional y en la transición al mundo laboral en el sector ambiental.
+* Formar a los profesionales del sector ambiental en manejo de gestión de datos abiertos sobre Biodiversidad.
+* Apoyar a los estudiantes en su proyecto profesional y en la transición al mundo laboral en el sector ambiental. 
+* Facilitar a las entidades que generan datos sobre biodiversidad que cuenten con profesionales con una formación robusta en informática de la biodiversidad.
 
 
-## Beneficios
+## ¿Cuáles son los beneficios?
 
-El Equipo Coordinador del SiB Colombia (EC-SiB) brinda un espacio para el aprendizaje a través de una tutoría cercana donde los pasantes se integran por completo a las actividades del equipo experimentando así un ambiente lleno de estímulos para mejorar sus habilidades profesionales y personales.
+El SiB Colombia brinda a los pasantes un espacio para el aprendizaje, a través de una tutoría cercana en la que pueden integrarse por completo a las actividades del [Equipo Coordinador](https://biodiversidad.co/acercade/gobernanza/equipo-coordinador/){:target="_blank"}. De esta manera, experimentan los retos a los que se verán enfrentados en la vida laboral; en un ambiente seguro, donde es bienvenida la diversidad cultural, social y de género, lleno de estímulos para mejorar sus habilidades, orientado hacia el aprendizaje y la retroalimentación constructiva.
 
-Nuestros pasantes se benefician de:
+Los pasantes cuentan con los siguientes beneficios:
 
-1. Participar en el seminario de pasantías anual del SiB Colombia.
-2. Participación y autoría en documentos de divulgación y/o técnicos generados en el marco de la pasantía según el desempeño del pasante.
-3. Recomendación de trabajo directa con los socios del SiB Colombia según el desempeño del pasante y la demanda de profesionales.
-4. Vinculación laboral con el SiB Colombia después de su pasantía según el desempeño del pasante y la demanda de profesionales.
+1. Participación en el seminario de pasantías anual del SiB Colombia.
+2. Participación y autoría en documentos de divulgación y técnicos generados en el marco de la pasantía, según el desempeño del pasante. 
+3. Recomendación de trabajo directo con los socios del SiB Colombia, según el desempeño del pasante y la demanda de profesionales.
+4. Vinculación laboral con el SiB Colombia después de su pasantía, según el desempeño del pasante y la demanda de profesionales.
 5. Entrenamiento intensivo en informática de la biodiversidad (aplica para los perfiles de la línea de Administración de Contenidos).
-6. Entrenamiento en diseño y divulgación de la ciencia (aplica para los perfiles de la línea de Productos y servicios).
+6. Entrenamiento en comunicación y divulgación de la ciencia (aplica para los perfiles de la línea de Productos y servicios).
 
-Más de 20 pasantes que han sido parte del EC-SiB, conoce sus experiencias:
+Esta es la experiencia de algunos de los pasantes que han hecho parte del SiB Colombia.
 
-[Alumni](/comunidad/formacion/alumni){: .button .is-primary}
-
-## Esquema
-
-- **Semestre**: estudiantes de séptimo semestre en adelante.
-- **Duración**: 5-6 meses a partir de la legalización de la pasantía idealmente bajo el mismo calendario de los 2 semestres académicos del año.
-- **Apoyo de sostenimiento**: usualmente no hay apoyo, pero facilitamos que los estudiantes apliquen al [Programa Estado Joven](https://www.mintrabajo.gov.co/empleo-y-pensiones/movilidad-y-formacion/estado-joven){:target="_blank"} en caso de estar abierta la convocatoria.
-- **Intensidad horaria** : se define con cada pasante de acuerdo a la carga académica, como mínimo se esperan 22 horas semanales.
-- **Horario**: se maneja un horario flexible, el desarrollo de la pasantía se enfoca en objetivos y no en cumplimiento de horario. Cada pasante deberá gestionar su tiempo de acuerdo a sus compromisos académicos, laborales y personales.
-- **Formato**: virtual con algunas reuniones presenciales en Bogotá y Villa de Leyva (Boyacá), este formato facilita que estudiantes de todo el país puedan hacer parte de nuestro equipo.
-
-## Perfiles de Pasantía
-<sub>*Algunos perfiles pueden variar entre convocatorias.</sub>
+[VER LAS EXPERIENCIAS DE LAS PASANTÍAS](/comunidad/formacion/alumni){:target="_blank" .button}
 
 
-<details>
-    <summary markdown="span"><B>PS01 - Creación y edición de contenidos en plataformas digitales</B></summary>
-    
-<br>
-<p>
-[Andrés, revisar y complementar] Esta pasantía busca la elaboración de  contenidos textuales, gráficos o audiovisuales de divulgación, que apoyen la publicación, acceso y uso de datos abiertos sobre biodiversidad.
-</p>
-  
-<ul>
-  <li><b>Carreras</b>: periodismo, literatura, comunicación social, comunicación o producción audiovisual, diseño gráfico, artes visuales y afines.</li>
-  <li><b>Habilidades</b>: manejo plataforma adobe, redes sociales, páginas web y aplicativos móviles.</li>
-  <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
-</ul>
-  
-<p>
-<b>Actividades</b>:
-<ul>
-  <li>Crear, maquetar, preparar, editar y optimizar publicaciones en distintos canales digitales (web, blog y redes sociales).</li>
-  <li>Añadir.</li>
-  <li>Añadir.</li>
-</ul>
-</p>
-  
-</details>
+## ¿Cuál es el esquema de la pasantía?
 
-___
+* **Semestre**: a partir de séptimo semestre en adelante.
+* **Duración**: de cinco (5) a seis (6) meses, a partir de la legalización de la pasantía. Idealmente bajo el mismo calendario de los dos semestres académicos del año.
+* **Apoyo de sostenimiento**: usualmente no se cuenta con auxilio económico; pero, en caso de estar abierta la convocatoria, facilitamos la aplicación de los estudiantes al programa [Estado Joven](https://www.mintrabajo.gov.co/empleo-y-pensiones/movilidad-y-formacion/estado-joven){:target="_blank"}.
+* **Intensidad horaria**: se define con cada pasante, de acuerdo a la carga académica. Como mínimo se esperan 22 horas semanales o 38 máximas, si se cuenta con el apoyo de Estado Joven.
+* **Horario**: los pasantes podrán manejar un horario flexible. El desarrollo de la pasantía se enfoca en objetivos y no en el cumplimiento del horario. Cada pasante deberá gestionar su tiempo de acuerdo a sus compromisos académicos, laborales y personales.
+* **Formato:** virtual con algunas reuniones presenciales ocasionales en Bogotá o Villa de Leyva, Boyacá. Este formato facilita que los estudiantes de todo el país puedan aplicar al programa de pasantías.
+
+
+## ¿Cuáles son los perfiles idóneos para la pasantía? 
+
+Los siguientes son algunos de los perfiles recurrentes en las pasantías del SiB Colombia, pero pueden variar según las características de cada convocatoria.
+
+Adscritas al área de **Administración de Contenidos** del SiB Colombia, ideales para estudiantes de biología, ecología y afines.
 
 <details>
-    <summary markdown="span"><B>PS02 - Diseño y diagramación de contenidos gráficos para plataformas digitales</B></summary>
-    
-<br>
-<p>
-[Andrés, revisar y complementar] Esta pasantía busca el diseño e implementar estrategias de divulgación científica sobre la publicación, acceso y uso de datos abiertos sobre biodiversidad.
-</p>
-  
-<ul>
-  <li><b>Carreras</b>: diseño Gráfico, diseño Industrial, diseño interactivo, artes visuales, animación.</li>
-  <li><b>Habilidades</b>: diagramación y diseño gráfico, teoría del color, manejo plataforma adobe </li>
-  <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
-</ul>
-  
-<p>
-<b>Actividades</b>:
-<ul>
-  <li>Añadir</li>
-  <li>Añadir.</li>
-  <li>Añadir</li>
-  
-  
-</ul>
-</p>
-  
-</details>
+    <summary><H3><B>AC01</B> · Mejores datos, mejores decisiones</H3></summary>
 
-___
+Esta pasantía se enmarca en la **Informática de la Biodiversidad**. Los/las pasantes deben realizar una **revisión retrospectiva de calidad de los datos sobre biodiversidad** que son publicados a través del SiB Colombia. Esto con el objetivo de llevar a cabo una serie de actualizaciones y ajustes que aumenten el potencial del uso de los datos, lo que permitirá que puedan ser aprovechados en procesos de investigación, educación y la toma de decisiones.
 
-<details>
-    <summary markdown="span"><B>GC01 - Administración del proceso de certificación de permisos de recolección </B></summary>
-    
-<br>
-<p>
-[Jeimmy, revisar y complementar] Esta pasantía se enmarca en la normativa ambiental del país (decretos 1376 y 3016 de 2013, hoy compilados en el <a href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153" target="_blank"> decreto 1076 de 2015</a>) que regula la recolección de especímenes; y busca apoyar a los  los titulares de permisos en el proceso de reporte de datos al SiB Colombia y al uso de la plataforma de generación de certificados CR-SiB.
-</p>
-  
-<ul>
-  <li><b>Carreras</b>: administración ambiental, biología, ecología y afines .</li>
-  <li><b>Habilidades</b>: buenas comunicaciones interpersonales, comunicación verbal y escrita, empatía, resolución de problemas. </li>
-  <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
-</ul>
-  
-<p>
-<b>Actividades</b>:
-<ul>
-  <li>Prestar orientación a los usuarios de la plataforma CR-SiB</li>
-  <li>Documentación y resoluciñon de pregutnas frecuentes del procedimeinto asociado a CR-SiB</li>
-  <li>Añadir</li>
-  
-  
-</ul>
-</p>
-  
-</details>
+* **Carreras**: biología, ecología y afines.
+* **Habilidades**: uso de herramientas informáticas y de programación (Excel, R, Python, entre otros).
+* **Idiomas**: español, manejo básico o intermedio de inglés.
 
-___
+**Actividades**:
 
-<details>
-    <summary markdown="span"><B>AC01 - Mejores datos mejores decisiones</B></summary>
-    
-<br>
-<p>
-Esta pasantía se enmarca en la temática de <b>Informática de la Biodiversidad</b> y busca realizar una <b>revisión retrospectiva de calidad</b>  de los datos sobre biodiversidad publicados a través del SiB Colombia con el objetivo de hacer actualizaciones y ajustes que aumenten el potencial de uso de estos datos, permitiendo así que estos sirvan para apoyar procesos de investigación, educación y la toma de decisiones.
-</p>
-
-
-<ul>
-  <li><b>Carreras</b>: biología, ecología y afines.</li>
-  <li><b>Habilidades</b>: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, creatividad para la resolución de problemas.</li>
-  <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
-</ul> 
-  
-<p>
-<b>Actividades</b>:
-<ul>
-  <li>Administrar e integrar datos e información sobre biodiversidad a través de diferentes herramientas de publicación en línea.</li>
-  <li>Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. </li>
-  <li>Participar en los procesos de publicación y el acceso libre a datos e información sobre biodiversidad.</li>
-</ul> 
-</p>
-
+* Administración e integración de los datos y la información sobre biodiversidad a través de diversas herramientas de publicación en línea. 
+* Implementación de herramientas informáticas para validar, limpiar y mejorar la calidad de los datos sobre biodiversidad.
+* Participación en los procesos de publicación y acceso libre de los datos e información sobre biodiversidad.
 
 </details>
 
 ___
 
 <details>
-    <summary markdown="span"><B>AC02 - Datos abiertos sobre biodiversidad para la gestión ambiental</B></summary>
-    
-<br>
-<p>
-Esta pasantía se enmarca en la normativa ambiental del país (decretos 1376 y 3016 de 2013, hoy compilados en el <a href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153" target="_blank"> decreto 1076 de 2015</a>) que regula la recolección de especímenes; y busca facilitar que los datos sobre biodiversidad generados bajo esta normativa se transformen en una herramienta de conocimiento más allá de los obligaciones legales y que a su ves les permita a los publicadores recibir crédito académido y demás beneficios asociados a la publciación a través del SiB Colombia.
-</p>
-  
-<ul>
-  <li><b>Carreras</b>: biología, ingeniería ambiental y afines.</li>
-  <li><b>Habilidades</b>: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, conocimientos sobre gestión ambiental,creatividad para la resolución de problemas.</li>
-  <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
-</ul>
-  
-<p>
-<b>Actividades</b>:
-  
-<ul>
- <li>Administrar e integrar datos e información sobre biodiversidad asociados a diferentes permisos de recolección, facilitando el cumplimiento de la normativa ambiental.</li>
- <li>Generación de inventarios de los datos asociados a los permisos de recolección usando el lenguaje de programación de python.</li>
- <li>Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. </li>
- <li>Migrar datos sobre biodiversidad asociados a la normativa para que tengan mayor visibilidad y potencial de uso.</li>
-</ul>
-</p> 
+    <summary><H3><B>AC02</B> · Datos abiertos sobre biodiversidad para la gestión ambiental</H3></summary>
 
+Esta pasantía se enmarca en la normativa ambiental del país que regula la [recolección](https://storymaps.arcgis.com/stories/431f0c39b31541ab85f9ee6395d2ebf6){:target="_blank"} de especímenes (Decretos 1376 y 3016 de 2013, hoy compilados en el [Decreto 1076 de 2015](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153){:target="_blank"}). Busca **facilitar la transformación de los datos sobre biodiversidad,** generados bajo esta normativa, en herramientas para el conocimiento, más allá de las obligaciones legales. Así mismo, que le permita a los publicadores obtener el crédito académico y los demás beneficios asociados a la publicación a través del SiB Colombia.
 
+* **Carreras**: biología, ingeniería ambiental y afines.
+* **Habilidades**: uso de herramientas informáticas y de programación (Excel, R, Python, entre otros), buena redacción, conocimientos sobre gestión ambiental y creatividad para la resolución de problemas.
+* **Idiomas:** español, manejo básico o intermedio de inglés.
+
+**Actividades**:
+
+* Administración e integración de los datos y la información sobre biodiversidad, asociados a permisos de recolección, para facilitar el cumplimiento de la normatividad ambiental. 
+* Generación de inventarios de los datos asociados a los permisos de recolección usando el lenguaje de programación Python.
+* Implementación de herramientas informáticas para validar, limpiar y mejorar la calidad de los datos sobre biodiversidad.
+* Migración de datos sobre biodiversidad asociados a la normativa para mejorar su visibilidad y potencial de uso.
 
 </details>
 
 ___
 
 <details>
-    <summary markdown="span"><B>AC03 - Cerrando vacios de información sobre la biodiversidad colombiana</B></summary>
-    
-<br>
-<p>
-Esta pasantía busca facilitar la publicación de datos de diferentes grupos biológicos, zonas geográficas  o temáticas para los cuales existe muy poca o ningun tipo de información publicada de manera libre y gratuita. En cada convocatoria identificamos un aliado estratégico para trabajar sobre sus datos y asegurar que estos sean publicados con la mejor calidad posible. A la fecha hemos trabajado de la mano con la <a href="https://www.gbif.org/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5" target="_blank">Pontificia Universidad Javeriana</a> facilitando la publicación de datos de colecciones biológicas de microoganismos y con el <a href="https://obis.org/node/d2f71b1b-9138-4aba-ad8f-8327ac3d041e" target="_blank">INVEMAR</a> para la publicación de datos marino-costeros.
-</p>
-  
-<ul>
-  <li><b>Carreras</b>: biología, ecología y afines.</li>
-  <li><b>Habilidades</b>: uso de herramientas informáticas y de programación (excel, R, python, otros), buena redacción, conocimientos sobre gestión ambiental,creatividad para la resolución de problemas.</li>
-  <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
-</ul>
- 
-<p>
-<b>Actividades</b>:
-<ul>
-  <li>Generación de perfiles para la publicación de un tipo de datos o fuente específica.</li>
-  <li>Administrar e integrar datos e información sobre biodiversidad a través de diferentes herramientas de publicación en línea</li>
-  <li>Implementar herramientas informáticas para la validación, limpieza y mejora de la calidad de datos sobre biodiversidad. </li>
-  <li>Participar en los procesos de publicación y el acceso libre a datos e información sobre biodiversidad.</li>
-</ul>
-</p>
+    <summary><H3><B>AC03</B> · Cerrando vacíos de información sobre la biodiversidad colombiana</H3></summary>
+
+Esta pasantía busca **apoyar la publicación libre y gratuita **de datos sobre grupos biológicos, zonas geográficas o temáticas **para los cuales existe muy poca o ningún tipo de información**. Para cada convocatoria se identifica un aliado estratégico dispuesto a trabajar sobre sus datos para asegurar que estos sean publicados con la mejor calidad posible.
+
+A la fecha se ha trabajado junto con la [Pontificia Universidad Javeriana](https://www.gbif.org/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5){:target="_blank"}, facilitando la publicación de datos sobre colecciones biológicas de Microorganismos, y con el [INVEMAR](https://obis.org/node/d2f71b1b-9138-4aba-ad8f-8327ac3d041e){:target="_blank"} (Instituto de Investigaciones Marinas y Costeras José Benito Vives de Andréis), para la publicación de datos marino-costeros.
+
+* **Carreras**: biología, ecología y afines.
+* **Habilidades**: uso de herramientas informáticas y de programación (Excel, R, Python, entre otros), buena redacción, conocimientos sobre la gestión ambiental, creatividad para la resolución de problemas.
+* **Idiomas**: español, manejo básico o intermedio de inglés.
+
+**Actividades**:
+
+* Generación de perfiles para la publicación de un tipo de datos o fuente específica.
+* Administración e integración de los datos y la información sobre biodiversidad a través de diversas herramientas de publicación en línea.
+* Implementación de herramientas informáticas para validar, limpiar y mejorar la calidad de los datos sobre biodiversidad.
+* Participación en los procesos de publicación y acceso libre a datos e información sobre biodiversidad.
   
 </details>
 
 ___
 
 <details>
-    <summary markdown="span"><B>AC04 - Catálogo de la biodiversidad de Colombia</B></summary>
-    
-<br>
-<p>
-Esta pasantía busca fortalecer el <a href="https://catalogo.biodiversidad.co/" target="_blank">Catálogo de la Biodiversidad de Colombia</a>, el cual ofrece información general y específica sobre las especies que habitan el país y es un recurso de consulta para muchos estudiantes y profesores de colegios y universidades. Los contenidos del catálogo están siendo constantemente curados y enriquecidos con información de nuevas especies.
-</p>
-  
-<ul>
-  <li><b>Carreras</b>: biología, ecología, ingeniería forestal, y afines.</li>
-  <li><b>Habilidades</b>: buena redacción, coprensión lectora, recopilación bibliográfica, uso de gestores bibliográficos</li>
-  <li><b>Idiomas</b>: manejo básico-intermedio de Inglés.</li>
-</ul>
- 
-<p>
-<b>Actividades</b>:
-<ul>
-  <li>Apoyar la administración de los contenidos del catálogo de la biodiversidad de Colombia.</li>
-  <li>Curar y mejorar las fichas existentes.</li>
-  <li>Generar nuevas fichas de temáticas o grupos con vacios de información. </li>
-  <li>Generar nuevas fichas de interes y autoría del pasante.</li>
-</ul>
-</p>
+    <summary><H3><B>AC04</B> · Catálogo de la biodiversidad de Colombia</H3></summary>
+
+Esta pasantía busca **robustecer el [Catálogo de la Biodiversidad de Colombia](https://catalogo.biodiversidad.co/)**{:target="_blank"}, mediante la curación constante de contenidos y el enriquecimiento de información sobre nuevas especies. 
+
+El catálogo ofrece información detallada sobre las especies que habitan el país, es un recurso de consulta para estudiantes y profesores en colegios y universidades. 
+
+* **Carreras**: biología, ecología, ingeniería forestal, y afines.
+* **Habilidades**: buena redacción, comprensión lectora, recopilación bibliográfica, uso de gestores bibliográficos.
+* **Idiomas**: español manejo básico o intermedio de inglés.
+
+**Actividades**:
+
+* Administración de los contenidos del catálogo de la biodiversidad de Colombia.
+* Curatoría y mejora de las fichas existentes.
+* Generación de nuevas fichas sobre temáticas o grupos con vacíos de información.
+* Generación de nuevas fichas de interés y de autoría del pasante.
   
 </details>
 
 ___
-## Aplicación
 
-La convocatoria se abre  anualmente o semestralmente por el periodo de un mes durante el cuál se recibirán aplicaciones únicamente por medio del formulario dispuesto para ello.
-  
-  - 1er Semestre -  Convocatoria de Marzo a Abril para ejecutar la pasantía de Julio a Diciembre del siguiente semestre.
-  - 2do Semestre -  Convocatoria de Agosto a Septiembre para ejecutar la pasantía de Enero a Junio del siguiente semestre.
+Adscritas al área de **Gestión y Cooperación** del SiB Colombia, ideal para estudiantes de administración, ingeniería, biología y afines:
 
-La selección de los pasantes se hace basada únicamente en méritos y en los resultados de la prueba técnica y entrevista. En el SiB Colombia promovemos la diversidad cultural, social y de género, e invitamos a todos los estudiantes a aplicar.
+<details>
+    <summary><H3><B>GC01</B> · Administración del proceso de certificación de permisos de recolección</H3></summary>
 
-  Recursos útiles para aplicar:
-  * [Hoja de vida](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=101:hoja-de-vida&catid=76&Itemid=169){:target="_blank"}
-  * [Carta de intención](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=133:guia-para-la-elaboracion-de-cartas-de-presentacion-o-cover-letters&catid=76&Itemid=169){:target="_blank"}
+Esta pasantía se enmarca en la normativa ambiental del país que regula la [recolección](https://storymaps.arcgis.com/stories/431f0c39b31541ab85f9ee6395d2ebf6){:target="_blank"} de especímenes (Decretos 1376 y 3016 de 2013, hoy compilados en el [Decreto 1076 de 2015](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153){:target="_blank"}). Busca **apoyar a los titulares de permisos de recolección** en el proceso de reporte de datos al SiB Colombia y en el uso de la plataforma de generación de certificados CR-SiB.
+
+* **Carreras**: administración ambiental, ingeniería ambiental, biología, ecología y afines.
+* **Habilidades**: buena capacidad de relacionamiento y comunicación interpersonal, buena comunicación oral y escrita, empatía, gestión y resolución de problemas.
+* **Idiomas**: español, manejo básico o intermedio de inglés.
+
+**Actividades**:
+
+* Acompañamiento y orientación a los usuarios de la plataforma CR-SiB.
+* Documentación y solución de preguntas frecuentes sobre procedimiento asociado a CR-SiB.
+* Documentación del proceso de generación de certificados.
+
+</details>
+
+___
+
+Adscritas al área de **Productos y Servicios** del SiB Colombia, ideal para estudiantes de comunicación social, periodismo, producción audiovisual o diseño gráfico:
+
+<details>
+    <summary><H3><B>PS01</B> · Creación y edición de contenidos en plataformas digitales</H3></summary>
+
+Esta pasantía apoya la publicación, acceso y uso de datos abiertos sobre biodiversidad mediante la **elaboración de contenidos escritos o audiovisuales** para la comunicación y amplificación de estas acciones. Así mismo, el diseño e implementación de estrategias que mejoren la divulgación de las actividades del SiB Colombia. 
+
+* **Carreras**: periodismo, literatura, comunicación social, comunicación o producción audiovisual y afines.
+* **Habilidades**: buena redacción, capacidad investigativa, creatividad, manejo de la _suite_ Adobe, conocimiento sobre redes sociales.
+* **Idiomas:** español, manejo básico o intermedio de inglés.
+
+Actividades:
+
+* Creación, edición y optimización de contenidos y piezas de divulgación.
+* Gestión de redes sociales.
+* Creación de material fotográfico y/o audiovisual.
+
+</details>
+
+___
+
+<details>
+    <summary><H3><B>PS02</B> · Diseño y diagramación de contenidos gráficos para plataformas digitales</H3></summary>
+
+Esta pasantía apoya la publicación, acceso y uso de datos abiertos sobre biodiversidad mediante la **creación de piezas gráficas o de comunicación visual** para la comunicación y amplificación de estas acciones y la divulgación de las actividades del SiB Colombia.
+
+* **Carreras**: diseño gráfico, diseño Industrial, diseño interactivo, artes visuales y afines.
+* **Habilidades**: creatividad, diseño gráfico y diagramación, teoría del color, manejo la _suite_ Adobe
+* **Idiomas**: español, manejo básico o intermedio de inglés.
+
+**Actividades**:
+
+* Implementación de la identidad visual del SiB Colombia en la diagramación de documentos y piezas de comunicación.
+* Creación de piezas de comunicación visual para la divulgación de las actividades del SiB Colombia.
+* Diseño de contenidos que faciliten la visualización de datos e información sobre biodiversidad.
+
+</details>
+
+___
 
 
-**Etapa 1 - Revisión de aplicaciones**
+## ¿Cuándo y cómo aplicar?
 
-  El EC-SiB revisa el cumplimiento de los requisitos y la idoneidad de los candidatos para cada perfil a partir de la hoja de vida y una breve carta de intención. 
-  Los candidatos serán informados sobre los resultados una semana después del cierre de la convocatoria.
-  
-**Etapa 2 -Invitación a prueba técnica** 
+La convocatoria se abre durante un mes, ya sea semestral o anualmente. Solo en este periodo de tiempo se reciben las aplicaciones a través del formulario dispuesto para ello.
 
-  Los candidatos  con los mejores puntajes en la Etapa 1 serán invitados a presentar una prueba técnica que será enviada por correo, esta prueba medirá las
-  habilidades de los candidatos en el manejo de herramientas informáticas, así como su capacidad de resolver problemas y otras habilidades específicas para cada
-  perfil. 
-  Normalmente los candidatos tendrán de 3 a 4 días durante un fin de semana para resolver la prueba, y serán informados de los resultados una semana después de su entrega. 
+**Primera convocatoria<sup> </sup>del año**: está abierta entre marzo y abril, para iniciar la pasantía en julio, con finalización en diciembre.
 
-**Etapa 3 – Aplicación a Estado Joven**
+**Segunda convocatoria del año**: está abierta entre agosto y septiembre, para iniciar la pasantía en enero del siguiente año, con finalización en junio.
 
- Generalmente las pasantías no cuentan con apoyo económico, sin embargo algunos semestres el Ministerio de Trabajo con programa Estado Joven abre una convocatoria para aplicar a un apoyo económico para los pasantes.
- Cuando la convocatoria está abierta desde EC-SiB acompaña a los candidatos en la aplicación a este programa, este proceso se realiza en paralelo a la selección dentro del SiB Colombia.
+Recursos útiles para aplicar:
 
-**Etapa 4 -Invitación a entrevista** 
+* [Recomendaciones par ala elaboración de una hoja de vida](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=101:hoja-de-vida&catid=76&Itemid=169){:target="_blank"}
+* [Formato de carta de postulación](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=133:guia-para-la-elaboracion-de-cartas-de-presentacion-o-cover-letters&catid=76&Itemid=169){:target="_blank"}
 
-Los candidatos que obtuvieron los puntajes más altos en la prueba técnica de la Etapa 2 serán invitados a una entrevista para definir a los pasantes que serán vinculados, y serán informados de los resultados una semana después de la entrevista.
-  
+### Etapas del proceso de selección
 
-## Vinculación
+**Etapa 1: revisión de aplicaciones**
 
-De ser seleccionado la vinculación se realiza por medio de un Acuerdo de Vinculación Tripartita expedido por el Instituto Humboldt según lo estipulado en la resolución 623 del 2020 del Ministerio de Trabajo, los estudiantes deben verificar que esta modalidad de vinculación sea aceptada por su Universidad.
+El Equipo Coordinador del SiB Colombia será el encargado de revisar el cumplimiento de todos los requisitos y de la idoneidad de la hoja de vida de todos los candidatos, incluyendo, su carta de presentación. Los resultados de la convocatoria se informarán a los candidatos una semana después del cierre de la misma.
 
-En caso de ser elegido como pasante los estudiantes deberán recopilar los siguientes documentos en un periodo no mayor a 2 semanas:
+**Etapa 2: prueba técnica**
+
+Los candidatos que obtengan los mejores puntajes en la Etapa 1 serán invitados a realizar una prueba técnica. Esta será enviada vía correo electrónico y servirá para medir las habilidades de los candidatos para el manejo de herramientas informáticas, así como su capacidad para resolver problemas y otras habilidades específicas de cada perfil. Por lo general, los candidatos cuentan con 3 o 4 días para resolver la prueba. Los resultados se entregan una semana después de realizada.
+
+**Etapa 3 - aplicación a Estado Joven**
+
+Por lo general, las pasantías no cuentan con un apoyo económico; sin embargo, es posible acceder a uno a través del programa [Estado Joven](https://www.mintrabajo.gov.co/empleo-y-pensiones/movilidad-y-formacion/estado-joven){:target="_blank"} del Ministerio de Trabajo. Cuando esta convocatoria está abierta, el Equipo Coordinador acompaña a los candidatos en la aplicación y se realiza simultáneamente al proceso de selección al interior del SiB Colombia.
+
+**Etapa 4 - entrevista**
+
+Los candidatos que obtengan los puntajes más altos de la prueba técnica de la Etapa 2, se convocan a una entrevista donde se define el candidato que será vinculado como pasante. El resultado se informa una semana después de realizada.
+
+La vinculación como pasante se logra mediante los méritos y los resultados obtenidos en la prueba técnica y demás etapas del proceso.
 
 
-1. Carta de presentación o respaldo, expedida y firmada por la Universidad, o profesor de la facultad o departamento. En esta carta la universidad debe debe indicar que el estudiante está activo (matriculado) y que cuenta con los requisitos académicos necesarios para realizar la pasantía.
+## ¿Cómo es el proceso de vinculación?
 
-2. Carta de expresión de interés donde el estudiante ratifica su disponibilidad y compromiso para la ejecución de la pasantía, debe ir firmada por el estudiante e incluir sus datos personales y de contacto (correo electrónico, teléfono y dirección).
+La vinculación de los candidatos seleccionados se realiza por medio de un Acuerdo de Vinculación Tripartita, expedido por el Instituto Humboldt, según lo estipulado en la [Resolución 623 de 2020 del Ministerio de Trabajo](https://www.irc.gov.co/webcenter/ShowProperty?nodeId=%2FConexionContent%2FWCC_CLUSTER-140102%2F%2FidcPrimaryFile&revision=latestreleased#:~:text=La%20presente%20resoluci%C3%B3n%20regula%20las,y%20desarrollo%20humano%20y%20la){:target="_blank"}. Los estudiantes deben verificar que esta modalidad de vinculación sea aceptada por su universidad.
 
+En caso de ser elegido como pasantes, los estudiantes deberán recopilar los siguientes documentos en un periodo no mayor a dos (2) semanas:
+
+1. Carta de presentación o respaldo, expedida y firmada por la universidad o profesor de la facultad o departamento. En esta, la universidad debe indicar que el estudiante se encuentra activo.
+2. Carta de expresión de interés donde el estudiante ratifica su disponibilidad y compromiso para la ejecución de la pasantía. Esta debe ir firmada por el estudiante e incluir sus datos personales y de contacto (correo electrónico, teléfono y dirección).
 3. Fotocopia legible del carné estudiantil.
-
 4. Fotocopia del recibo de matrícula del semestre en curso o del semestre en que se ejecutará la pasantía.
+5. Constancia de afiliación del estudiante al Sistema de Riesgos Laborales (ARL). La afiliación la debe realizar la universidad o el Instituto Humboldt, en el caso de las pasantías con apoyo del programa Estado Joven.
+6. Nombre, cédula, cargo y datos de contacto (teléfono y correo electrónico) del tutor/monitor dentro de la universidad.
+7. RUT (Registro Único Tributario) de la universidad.
+8. Certificado de existencia y representación legal de la universidad, con fecha mayor a 90 días.
+9. Copia de la cédula de ciudadanía del representante legal de la universidad, o los documentos de la eventual persona que vaya a ser designada para firmar el acuerdo tripartito (poder, autorización o su equivalente en la universidad, junto con copia de la cédula).
+10. Documento que acredite que la persona indicada en el numeral anterior tiene las facultades para suscribir el acuerdo tripartito.
+11. Plan de trabajo de una hoja que incluya: objetivos, actividades y cronograma, o que cumpla con los lineamientos establecidos por la universidad en caso de que esta requiera un plan de trabajo.
 
-5. Constancia de afiliación del estudiante al Sistema de Riesgos Laborales (ARL), **la afiliación la debe realizar la universidad**.
-
-6. Nombre, cédula, cargo y datos de contacto (teléfono y correo electrónico) del tutor dentro de la universidad.
-
-7. RUT de la Universidad.
-
-8. Certificado de existencia y representación legal de la Universidad con fecha no mayor a 90 días
-
-9. Copia de la cédula de ciudadanía del representante legal de la universidad, o los documentos de la eventual persona que vaya a ser designada para firmar el acuerdo tripartito.
-
-11. Documento que acredite que la persona indicada en el numeral anterior - en caso de no ser el representante legal- tiene las facultades para suscribir el acuerdo tripartito, poder, autorización o su equivalente en la Universidad, junto con copia de la cédula.
-
-12. Plan de trabajo de una hoja que incluya: objetivos, actividades y cronograma, o que cumpla con los lineamientos establecidos por la universidad en caso de que esta requiera un plan de trabajo.
-
-Adicionalmente el estudiante debe ponerse en contacto con su universidad para avanzar con los trámites administraticos que esta requiera y debe verificar fechas y requisitos internos.
-
+**Nota**: El estudiante debe ponerse en contacto con la universidad para avanzar con los trámites administrativos requeridos por la institución y verificar tanto las fechas como los requisitos internos.
