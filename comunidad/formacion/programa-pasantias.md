@@ -1,5 +1,6 @@
 ---
 layout: compose
+klass: compositionBlocks
 title: Programa de pasantías
 description: Más de 20 pasantes han enriquecido su formación profesional desde que se abrió el programa en 2015.
 background: https://live.staticflickr.com/523/32621791422_b8f67ee8ad_k.jpg
