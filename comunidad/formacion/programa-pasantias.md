@@ -38,8 +38,8 @@ Los pasantes cuentan con los siguientes beneficios:
 5. Entrenamiento intensivo en informática de la biodiversidad (aplica para los perfiles de la línea de Administración de Contenidos).
 6. Entrenamiento en comunicación y divulgación de la ciencia (aplica para los perfiles de la línea de Productos y servicios).
 
-| <img src="https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg">  | <h3>ALUMNI</h3> <p>El SiB Colombia ofrece a los pasantes un espacio orientado hacia el aprendizaje y la retroalimentación constructiva.</p> [VER LAS EXPERIENCIAS DE LAS PASANTÍAS ANTERIORES](/comunidad/formacion/alumni){:target="_blank" .button} |
-|------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg"> | <h3>ALUMNI</h3> <p>El SiB Colombia ofrece a los pasantes un espacio orientado hacia el aprendizaje y la retroalimentación constructiva.</p> [VER LAS EXPERIENCIAS DE LAS PASANTÍAS ANTERIORES](/comunidad/formacion/alumni){:target="_blank" .button} |
+| --- | --- |
 
 
 
