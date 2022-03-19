@@ -153,3 +153,34 @@ floatingtextObjetivos:
   background: /assets/theme/img/patterns/wavy-dots.png
   overlayColor: "#ffffff55"
   hasWhiteText: false
+
+markdownBeneficios: |
+  ## ¿Cuáles son los beneficios?
+
+  El SiB Colombia brinda a los pasantes un espacio para el aprendizaje, a través de una tutoría cercana en la que pueden integrarse por completo a las actividades del [Equipo Coordinador](https://biodiversidad.co/acercade/gobernanza/equipo-coordinador/){:target="_blank"}. De esta manera, experimentan los retos a los que se verán enfrentados en la vida laboral; en un ambiente seguro, donde es bienvenida la diversidad cultural, social y de género, lleno de estímulos para mejorar sus habilidades, orientado hacia el aprendizaje y la retroalimentación constructiva.
+
+  Los pasantes cuentan con los siguientes beneficios:
+
+  1. Participación en el seminario de pasantías anual del SiB Colombia.
+  2. Participación y autoría en documentos de divulgación y técnicos generados en el marco de la pasantía, según el desempeño del pasante. 
+  3. Recomendación de trabajo directo con los socios del SiB Colombia, según el desempeño del pasante y la demanda de profesionales.
+  4. Vinculación laboral con el SiB Colombia después de su pasantía, según el desempeño del pasante y la demanda de profesionales.
+  5. Entrenamiento intensivo en informática de la biodiversidad (aplica para los perfiles de la línea de Administración de Contenidos).
+  6. Entrenamiento en comunicación y divulgación de la ciencia (aplica para los perfiles de la línea de Productos y servicios).
+
+  Esta es la experiencia de algunos de los pasantes que han hecho parte del SiB Colombia.
+
+splitAlumni:
+  reverse: false
+  title: Alumni
+  description: |      # required
+    El SiB Colombia brinda a los pasantes un espacio para el aprendizaje, a través de una tutoría cercana en la que pueden integrarse por completo a las actividades del [Equipo Coordinador](https://biodiversidad.co/acercade/gobernanza/equipo-coordinador/){:target="_blank"}. De esta manera, experimentan los retos a los que se verán enfrentados en la vida laboral; en un ambiente seguro, donde es bienvenida la diversidad cultural, social y de género, lleno de estímulos para mejorar sus habilidades, orientado hacia el aprendizaje y la retroalimentación constructiva.
+  # img required
+  background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
+  href: /comunidad/formacion/alumni
+  cta:
+  - text: VER LAS EXPERIENCIAS DE LAS PASANTÍAS ANTERIORES
+    href: /comunidad/formacion/alumni
+    isPrimary: false
+
+
