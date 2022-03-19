@@ -9,7 +9,13 @@ height: 41vh
 toc: true
 composition:
 - type: heroBox
-  data: pasantias.boxCabezote  # property inside yaml file
+  # no data provided, instead page data will be used
+- type: pageMarkdown
+  data: pasantias.markdownIntro
+- type: floatingText
+  data: pasantias.floatingtextObjetivos
+- type: features
+  data: pasantias.cardPerfiles
 - type: pageMarkdown # This will render the markdown in this file
 
 ---
