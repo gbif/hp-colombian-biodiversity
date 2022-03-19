@@ -16,6 +16,10 @@ composition:
   data: pasantias.floatingtextObjetivos
 - type: features
   data: pasantias.cardPerfiles
+- type: pageMarkdown
+  data: pasantias.markdownBeneficios
+- type: split
+  data: pasantias.splitAlumni
 - type: pageMarkdown # This will render the markdown in this file
 
 ---
