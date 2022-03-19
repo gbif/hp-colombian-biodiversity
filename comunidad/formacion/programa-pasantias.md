@@ -1,5 +1,5 @@
 ---
-layout: heroImage
+layout: compose
 title: Programa de pasantías
 description: Más de 20 pasantes han enriquecido su formación profesional desde que se abrió el programa en 2015.
 background: https://live.staticflickr.com/523/32621791422_b8f67ee8ad_k.jpg
@@ -7,6 +7,11 @@ imageLicense: |
   Fotografía de: Bryant Olsen vía [Flickr](https://www.flickr.com/photos/bryanto/32621791422/){:target="_blank"}
 height: 41vh
 toc: true
+composition:
+- type: heroBox
+  data: pasantias.boxCabezote  # property inside yaml file
+- type: pageMarkdown # This will render the markdown in this file
+
 ---
 
 Colombia es uno de los pocos países megadiversos en el mundo. Ocupa el primer lugar en diversidad de aves, orquídeas y mariposas; el segundo en plantas, anfibios y peces dulceacuícolas; el tercer en palmas y reptiles y el sexto en mamíferos. Esto significa que **manejar la información sobre la biodiversidad del país es un esfuerzo permanente de magnitud mayúscula**.
