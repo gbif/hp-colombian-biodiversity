@@ -27,9 +27,7 @@ Por ese motivo se ha creado el programa de pasantías del SiB Colombia. **Una es
 
 ## ¿Cuáles son los beneficios?
 
-El SiB Colombia ofrece a los pasantes un espacio orientado hacia el aprendizaje y la retroalimentación constructiva.
-
-A través de una tutoría cercana, estímulos para mejorar sus habilidades, los pasantes pueden integrarse por completo a las actividades del [Equipo Coordinador](https://biodiversidad.co/acercade/gobernanza/equipo-coordinador/){:target="_blank"}. De esta manera, experimentan los retos a los que se verán enfrentados en la vida laboral en un ambiente seguro, donde es bienvenida la diversidad cultural, social y de género.
+A través de una tutoría cercana, con estímulos para mejorar sus habilidades, los pasantes pueden integrarse por completo a las actividades del [Equipo Coordinador](https://biodiversidad.co/acercade/gobernanza/equipo-coordinador/){:target="_blank"}. De esta manera, experimentan los retos a los que se verán enfrentados en la vida laboral en un ambiente seguro, donde es bienvenida la diversidad cultural, social y de género.
 
 Los pasantes cuentan con los siguientes beneficios:
 
@@ -40,7 +38,10 @@ Los pasantes cuentan con los siguientes beneficios:
 5. Entrenamiento intensivo en informática de la biodiversidad (aplica para los perfiles de la línea de Administración de Contenidos).
 6. Entrenamiento en comunicación y divulgación de la ciencia (aplica para los perfiles de la línea de Productos y servicios).
 
-[VER LAS EXPERIENCIAS DE LAS PASANTÍAS ANTERIORES](/comunidad/formacion/alumni){:target="_blank" .button}
+| <img src="https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg">  | <h3>ALUMNI</h3> <p>El SiB Colombia ofrece a los pasantes un espacio orientado hacia el aprendizaje y la retroalimentación constructiva.</p> [VER LAS EXPERIENCIAS DE LAS PASANTÍAS ANTERIORES](/comunidad/formacion/alumni){:target="_blank" .button} |
+|------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------|
+
+
 
 
 ## ¿Cuál es el esquema de la pasantía?
@@ -60,7 +61,7 @@ Los siguientes son algunos de los perfiles recurrentes en las pasantías del SiB
 Los adscritos al área de **Administración de Contenidos** son ideales para estudiantes de biología, ecología y afines. El del área de **Gestión y Cooperación** ideal para estudiantes de administración, ingeniería, biología y afines. Los del área de **Productos y Servicios**, ideales para estudiantes de comunicación social, periodismo, producción audiovisual o diseño gráfico.
 
 <details>
-    <summary><B>AC01</B> · Mejores datos, mejores decisiones</summary>
+    <summary><B>AC01</B> · Mejores datos, mejores decisiones</summary><br>
   
       Esta pasantía se enmarca en la **Informática de la Biodiversidad**. Los/las pasantes deben realizar una **revisión retrospectiva de calidad de los datos sobre biodiversidad** que son publicados a través del SiB Colombia. Esto con el objetivo de llevar a cabo una serie de actualizaciones y ajustes que aumenten el potencial del uso de los datos, lo que permitirá que puedan ser aprovechados en procesos de investigación, educación y la toma de decisiones.
   
@@ -77,7 +78,7 @@ Los adscritos al área de **Administración de Contenidos** son ideales para est
 ___
 
 <details>
-    <summary><B>AC02</B> · Datos abiertos sobre biodiversidad para la gestión ambiental</summary>
+    <summary><B>AC02</B> · Datos abiertos sobre biodiversidad para la gestión ambiental</summary><br>
   
       Esta pasantía se enmarca en la normativa ambiental del país que regula la [recolección](https://storymaps.arcgis.com/stories/431f0c39b31541ab85f9ee6395d2ebf6){:target="_blank"} de especímenes (Decretos 1376 y 3016 de 2013, hoy compilados en el [Decreto 1076 de 2015](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153){:target="_blank"}). Busca **facilitar la transformación de los datos sobre biodiversidad,** generados bajo esta normativa, en herramientas para el conocimiento, más allá de las obligaciones legales. Así mismo, que le permita a los publicadores obtener el crédito académico y los demás beneficios asociados a la publicación a través del SiB Colombia.
   
@@ -94,7 +95,7 @@ ___
 ___
 
 <details>
-    <summary><B>AC03</B> · Cerrando vacíos de información sobre la biodiversidad colombiana</summary>
+    <summary><B>AC03</B> · Cerrando vacíos de información sobre la biodiversidad colombiana</summary><br>
   
       Esta pasantía busca **apoyar la publicación libre y gratuita **de datos sobre grupos biológicos, zonas geográficas o temáticas **para los cuales existe muy poca o ningún tipo de información**. Para cada convocatoria se identifica un aliado estratégico dispuesto a trabajar sobre sus datos para asegurar que estos sean publicados con la mejor calidad posible.
   
@@ -114,7 +115,7 @@ ___
 ___
 
 <details>
-    <summary><B>AC04</B> · Catálogo de la biodiversidad de Colombia</summary>
+    <summary><B>AC04</B> · Catálogo de la biodiversidad de Colombia</summary><br>
   
       Esta pasantía busca **robustecer el [Catálogo de la Biodiversidad de Colombia](https://catalogo.biodiversidad.co/)**{:target="_blank"}, mediante la curación constante de contenidos y el enriquecimiento de información sobre nuevas especies. 
 
@@ -134,7 +135,7 @@ ___
 ___
 
 <details>
-    <summary><B>GC01</B> · Administración del proceso de certificación de permisos de recolección</summary>
+    <summary><B>GC01</B> · Administración del proceso de certificación de permisos de recolección</summary><br>
   
       Esta pasantía se enmarca en la normativa ambiental del país que regula la [recolección](https://storymaps.arcgis.com/stories/431f0c39b31541ab85f9ee6395d2ebf6){:target="_blank"} de especímenes (Decretos 1376 y 3016 de 2013, hoy compilados en el [Decreto 1076 de 2015](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153){:target="_blank"}). Busca **apoyar a los titulares de permisos de recolección** en el proceso de reporte de datos al SiB Colombia y en el uso de la plataforma de generación de certificados CR-SiB.
   
@@ -151,7 +152,7 @@ ___
 ___
 
 <details>
-    <summary><B>PS01</B> · Creación y edición de contenidos en plataformas digitales</summary>
+    <summary><B>PS01</B> · Creación y edición de contenidos en plataformas digitales</summary><br>
   
       Esta pasantía apoya la publicación, acceso y uso de datos abiertos sobre biodiversidad mediante la **elaboración de contenidos escritos o audiovisuales** para la comunicación y amplificación de estas acciones. Así mismo, el diseño e implementación de estrategias que mejoren la divulgación de las actividades del SiB Colombia.
   
@@ -168,7 +169,7 @@ ___
 ___
 
 <details>
-    <summary><B>PS02</B> · Diseño y diagramación de contenidos gráficos para plataformas digitales</summary>
+    <summary><B>PS02</B> · Diseño y diagramación de contenidos gráficos para plataformas digitales</summary><br>
   
       Esta pasantía apoya la publicación, acceso y uso de datos abiertos sobre biodiversidad mediante la **creación de piezas gráficas o de comunicación visual** para la comunicación y amplificación de estas acciones y la divulgación de las actividades del SiB Colombia.
   
