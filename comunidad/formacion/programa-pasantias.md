@@ -38,11 +38,7 @@ Los pasantes cuentan con los siguientes beneficios:
 5. Entrenamiento intensivo en informática de la biodiversidad (aplica para los perfiles de la línea de Administración de Contenidos).
 6. Entrenamiento en comunicación y divulgación de la ciencia (aplica para los perfiles de la línea de Productos y servicios).
 
-| <img src="https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg"  width="45%"> | <h3>ALUMNI</h3> <p>El SiB Colombia ofrece a los pasantes un espacio orientado hacia el aprendizaje y la retroalimentación constructiva.</p> [VER LAS EXPERIENCIAS DE LAS PASANTÍAS ANTERIORES](/comunidad/formacion/alumni){:target="_blank" .button} |
-| ---- | ---- |
-
-| otra | tabla |
-| ---- | ---- |
+<img src="/assets/images/comunidad/formacion/card_alumni.png" alt="El SiB Colombia ofrece a los pasantes un espacio orientado hacia el aprendizaje y la retroalimentación constructiva." width="100%">
 
 
 ## ¿Cuál es el esquema de la pasantía?
@@ -95,23 +91,26 @@ ___
 
 ___
 
-<details>
-    <summary><B>AC03</B> · Cerrando vacíos de información sobre la biodiversidad colombiana</summary><br>
-  
-      Esta pasantía busca **apoyar la publicación libre y gratuita **de datos sobre grupos biológicos, zonas geográficas o temáticas **para los cuales existe muy poca o ningún tipo de información**. Para cada convocatoria se identifica un aliado estratégico dispuesto a trabajar sobre sus datos para asegurar que estos sean publicados con la mejor calidad posible.
-  
-      A la fecha se ha trabajado junto con la [Pontificia Universidad Javeriana](https://www.gbif.org/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5){:target="_blank"}, facilitando la publicación de datos sobre colecciones biológicas de Microorganismos, y con el [INVEMAR](https://obis.org/node/d2f71b1b-9138-4aba-ad8f-8327ac3d041e){:target="_blank"} (Instituto de Investigaciones Marinas y Costeras José Benito Vives de Andréis), para la publicación de datos marino-costeros.
-  
-      * **Carreras**: biología, ecología y afines.
-      * **Habilidades**: uso de herramientas informáticas y de programación (Excel, R, Python, entre otros), buena redacción, conocimientos sobre la gestión ambiental, creatividad para la resolución de problemas.
-      * **Idiomas**: español, manejo básico o intermedio de inglés.
-      **Actividades**:
-      * Generación de perfiles para la publicación de un tipo de datos o fuente específica.
-      * Administración e integración de los datos y la información sobre biodiversidad a través de diversas herramientas de publicación en línea.
-      * Implementación de herramientas informáticas para validar, limpiar y mejorar la calidad de los datos sobre biodiversidad.
-      * Participación en los procesos de publicación y acceso libre a datos e información sobre biodiversidad.
-  
-</details>
+<details><article class="message">
+  <div class="message-header">
+    <summary><p><B>AC03</B> · Cerrando vacíos de información sobre la biodiversidad colombiana</p></summary>
+  </div>
+  <div class="message-body">
+	
+<p>Esta pasantía se enmarca en la <strong>Informática de la Biodiversidad</strong>. Los/las pasantes deben realizar una <strong>revisión retrospectiva de calidad de los datos sobre biodiversidad</strong> que son publicados a través del SiB Colombia. Esto con el objetivo de llevar a cabo una serie de actualizaciones y ajustes que aumenten el potencial del uso de los datos, lo que permitirá que puedan ser aprovechados en procesos de investigación, educación y la toma de decisiones.</p>
+<ul>
+<li><strong>Carreras</strong>: biología, ecología y afines.</li>
+<li><strong>Habilidades</strong>: uso de herramientas informáticas y de programación (Excel, R, Python, entre otros).</li>
+<li><strong>Idiomas</strong>: español, manejo básico o intermedio de inglés.</li>
+</ul>
+<p><strong>Actividades</strong>:</p>
+<ul>
+<li>Administración e integración de los datos y la información sobre biodiversidad a través de diversas herramientas de publicación en línea.</li>
+<li>Implementación de herramientas informáticas para validar, limpiar y mejorar la calidad de los datos sobre biodiversidad.</li>
+<li>Participación en los procesos de publicación y acceso libre de los datos e información sobre biodiversidad.</li>
+</ul>
+
+</div></article></details>
 
 ___
 
