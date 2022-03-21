@@ -57,20 +57,67 @@ Los siguientes son algunos de los perfiles recurrentes en las pasantías del SiB
 
 Los adscritos al área de **Administración de Contenidos** son ideales para estudiantes de biología, ecología y afines. El del área de **Gestión y Cooperación** ideal para estudiantes de administración, ingeniería, biología y afines. Los del área de **Productos y Servicios**, ideales para estudiantes de comunicación social, periodismo, producción audiovisual o diseño gráfico.
 
-<details>
-    <summary><B>AC01</B> · Mejores datos, mejores decisiones</summary><br>
-  
-      Esta pasantía se enmarca en la **Informática de la Biodiversidad**. Los/las pasantes deben realizar una **revisión retrospectiva de calidad de los datos sobre biodiversidad** que son publicados a través del SiB Colombia. Esto con el objetivo de llevar a cabo una serie de actualizaciones y ajustes que aumenten el potencial del uso de los datos, lo que permitirá que puedan ser aprovechados en procesos de investigación, educación y la toma de decisiones.
-  
-      * **Carreras**: biología, ecología y afines.
-      * **Habilidades**: uso de herramientas informáticas y de programación (Excel, R, Python, entre otros).
-      * **Idiomas**: español, manejo básico o intermedio de inglés.
-      **Actividades**:
-      * Administración e integración de los datos y la información sobre biodiversidad a través de diversas herramientas de publicación en línea. 
-      * Implementación de herramientas informáticas para validar, limpiar y mejorar la calidad de los datos sobre biodiversidad.
-      * Participación en los procesos de publicación y acceso libre de los datos e información sobre biodiversidad.
-  
-</details>
+
+
+
+<section class="accordions">
+  <article class="accordion is-active">
+    <div class="accordion-header toggle">
+      <p>Hello World</p>
+    </div>
+    <div class="accordion-body">
+      <div class="accordion-content">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
+      </div>
+    </div>
+  </article>
+  <article class="accordion">
+    <div class="accordion-header">
+      <p>Hello World</p>
+      <button class="toggle" aria-label="toggle"></button>
+    </div>
+    <div class="accordion-body">
+      <div class="accordion-content">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
+      </div>
+    </div>
+  </article>
+  <article class="accordion">
+    <div class="accordion-header">
+      <p>Hello World</p>
+      <button class="toggle" aria-label="toggle"></button>
+    </div>
+    <div class="accordion-body">
+      <div class="accordion-content">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
+      </div>
+    </div>
+  </article>
+</section>
+
+
+
+
+<article class="message">
+	
+		<details>
+			<summary><div class="message-header"><b>AC01</b> · CMejores datos, mejores decisiones</div></summary>
+		<div class="message-body">
+			<p>Esta pasantía se enmarca en la <strong>Informática de la Biodiversidad</strong>. Los/las pasantes deben realizar una <strong>revisión retrospectiva de calidad de los datos sobre biodiversidad</strong> que son publicados a través del SiB Colombia. Esto con el objetivo de llevar a cabo una serie de actualizaciones y ajustes que aumenten el potencial del uso de los datos, lo que permitirá que puedan ser aprovechados en procesos de investigación, educación y la toma de decisiones.</p>
+			<ul>
+				<li><strong>Carreras</strong>: biología, ecología y afines.</li>
+				<li><strong>Habilidades</strong>: uso de herramientas informáticas y de programación (Excel, R, Python, entre otros).</li>
+				<li><strong>Idiomas</strong>: español, manejo básico o intermedio de inglés.</li>
+			</ul>
+			<p><strong>Actividades</strong>:</p>
+			<ul>
+				<li>Administración e integración de los datos y la información sobre biodiversidad a través de diversas herramientas de publicación en línea.</li>
+				<li>Implementación de herramientas informáticas para validar, limpiar y mejorar la calidad de los datos sobre biodiversidad.</li>
+				<li>Participación en los procesos de publicación y acceso libre de los datos e información sobre biodiversidad.</li>
+			</ul>
+		</div>
+	</details>
+</article>
 
 ___
 
@@ -91,26 +138,23 @@ ___
 
 ___
 
-<article class="message">
-  <div class="message-header">
-    <details><summary><p><B>AC03</B> · Cerrando vacíos de información sobre la biodiversidad colombiana</p></summary>
-  </div>
-  <div class="message-body">
-	
-<p>Esta pasantía se enmarca en la <strong>Informática de la Biodiversidad</strong>. Los/las pasantes deben realizar una <strong>revisión retrospectiva de calidad de los datos sobre biodiversidad</strong> que son publicados a través del SiB Colombia. Esto con el objetivo de llevar a cabo una serie de actualizaciones y ajustes que aumenten el potencial del uso de los datos, lo que permitirá que puedan ser aprovechados en procesos de investigación, educación y la toma de decisiones.</p>
-<ul>
-<li><strong>Carreras</strong>: biología, ecología y afines.</li>
-<li><strong>Habilidades</strong>: uso de herramientas informáticas y de programación (Excel, R, Python, entre otros).</li>
-<li><strong>Idiomas</strong>: español, manejo básico o intermedio de inglés.</li>
-</ul>
-<p><strong>Actividades</strong>:</p>
-<ul>
-<li>Administración e integración de los datos y la información sobre biodiversidad a través de diversas herramientas de publicación en línea.</li>
-<li>Implementación de herramientas informáticas para validar, limpiar y mejorar la calidad de los datos sobre biodiversidad.</li>
-<li>Participación en los procesos de publicación y acceso libre de los datos e información sobre biodiversidad.</li>
-</ul>
+<details>
+    <summary><B>AC03</B> · Cerrando vacíos de información sobre la biodiversidad colombiana</summary><br>
+  
+      Esta pasantía busca **apoyar la publicación libre y gratuita **de datos sobre grupos biológicos, zonas geográficas o temáticas **para los cuales existe muy poca o ningún tipo de información**. Para cada convocatoria se identifica un aliado estratégico dispuesto a trabajar sobre sus datos para asegurar que estos sean publicados con la mejor calidad posible.
+  
+      A la fecha se ha trabajado junto con la [Pontificia Universidad Javeriana](https://www.gbif.org/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5){:target="_blank"}, facilitando la publicación de datos sobre colecciones biológicas de Microorganismos, y con el [INVEMAR](https://obis.org/node/d2f71b1b-9138-4aba-ad8f-8327ac3d041e){:target="_blank"} (Instituto de Investigaciones Marinas y Costeras José Benito Vives de Andréis), para la publicación de datos marino-costeros.
+  
+      * **Carreras**: biología, ecología y afines.
+      * **Habilidades**: uso de herramientas informáticas y de programación (Excel, R, Python, entre otros), buena redacción, conocimientos sobre la gestión ambiental, creatividad para la resolución de problemas.
+      * **Idiomas**: español, manejo básico o intermedio de inglés.
+      **Actividades**:
+      * Generación de perfiles para la publicación de un tipo de datos o fuente específica.
+      * Administración e integración de los datos y la información sobre biodiversidad a través de diversas herramientas de publicación en línea.
+      * Implementación de herramientas informáticas para validar, limpiar y mejorar la calidad de los datos sobre biodiversidad.
+      * Participación en los procesos de publicación y acceso libre a datos e información sobre biodiversidad.
+  
 </details>
-</div></article>
 
 ___
 
