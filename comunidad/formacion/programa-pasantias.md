@@ -58,66 +58,25 @@ Los siguientes son algunos de los perfiles recurrentes en las pasantías del SiB
 Los adscritos al área de **Administración de Contenidos** son ideales para estudiantes de biología, ecología y afines. El del área de **Gestión y Cooperación** ideal para estudiantes de administración, ingeniería, biología y afines. Los del área de **Productos y Servicios**, ideales para estudiantes de comunicación social, periodismo, producción audiovisual o diseño gráfico.
 
 
-
-
-<section class="accordions">
-  <article class="accordion is-active">
-    <div class="accordion-header toggle">
-      <p>Hello World</p>
-    </div>
-    <div class="accordion-body">
-      <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
-      </div>
-    </div>
-  </article>
-  <article class="accordion">
-    <div class="accordion-header">
-      <p>Hello World</p>
-      <button class="toggle" aria-label="toggle"></button>
-    </div>
-    <div class="accordion-body">
-      <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
-      </div>
-    </div>
-  </article>
-  <article class="accordion">
-    <div class="accordion-header">
-      <p>Hello World</p>
-      <button class="toggle" aria-label="toggle"></button>
-    </div>
-    <div class="accordion-body">
-      <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
-      </div>
-    </div>
-  </article>
-</section>
-
-
-
-
+<details>
 <article class="message">
-	
-		<details>
-			<summary><div class="message-header"><b>AC01</b> · CMejores datos, mejores decisiones</div></summary>
-		<div class="message-body">
-			<p>Esta pasantía se enmarca en la <strong>Informática de la Biodiversidad</strong>. Los/las pasantes deben realizar una <strong>revisión retrospectiva de calidad de los datos sobre biodiversidad</strong> que son publicados a través del SiB Colombia. Esto con el objetivo de llevar a cabo una serie de actualizaciones y ajustes que aumenten el potencial del uso de los datos, lo que permitirá que puedan ser aprovechados en procesos de investigación, educación y la toma de decisiones.</p>
-			<ul>
-				<li><strong>Carreras</strong>: biología, ecología y afines.</li>
-				<li><strong>Habilidades</strong>: uso de herramientas informáticas y de programación (Excel, R, Python, entre otros).</li>
-				<li><strong>Idiomas</strong>: español, manejo básico o intermedio de inglés.</li>
-			</ul>
-			<p><strong>Actividades</strong>:</p>
-			<ul>
-				<li>Administración e integración de los datos y la información sobre biodiversidad a través de diversas herramientas de publicación en línea.</li>
-				<li>Implementación de herramientas informáticas para validar, limpiar y mejorar la calidad de los datos sobre biodiversidad.</li>
-				<li>Participación en los procesos de publicación y acceso libre de los datos e información sobre biodiversidad.</li>
-			</ul>
-		</div>
-	</details>
+<div class="message-header"><summary><b>AC01</b> · Mejores datos, mejores decisiones</summary></div>
+<div class="message-body">
+<p>Esta pasantía se enmarca en la <strong>Informática de la Biodiversidad</strong>. Los/las pasantes deben realizar una <strong>revisión retrospectiva de calidad de los datos sobre biodiversidad</strong> que son publicados a través del SiB Colombia. Esto con el objetivo de llevar a cabo una serie de actualizaciones y ajustes que aumenten el potencial del uso de los datos, lo que permitirá que puedan ser aprovechados en procesos de investigación, educación y la toma de decisiones.</p>
+<ul>
+<li><strong>Carreras</strong>: biología, ecología y afines.</li>
+<li><strong>Habilidades</strong>: uso de herramientas informáticas y de programación (Excel, R, Python, entre otros).</li>
+<li><strong>Idiomas</strong>: español, manejo básico o intermedio de inglés.</li>
+</ul>
+<p><strong>Actividades</strong>:</p>
+<ul>
+<li>Administración e integración de los datos y la información sobre biodiversidad a través de diversas herramientas de publicación en línea.</li>
+<li>Implementación de herramientas informáticas para validar, limpiar y mejorar la calidad de los datos sobre biodiversidad.</li>
+<li>Participación en los procesos de publicación y acceso libre de los datos e información sobre biodiversidad.</li>
+</ul>
+</div>
 </article>
+</details>
 
 ___
 
