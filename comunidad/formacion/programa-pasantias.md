@@ -166,7 +166,7 @@ ___
 <p><strong>Actividades</strong>:</p>
 <ul>
 <li>Acompañamiento y orientación a los usuarios de la plataforma CR-SiB.</li>
-<li>Documentación y solución de preguntas frecuentes sobre procedimiento asociado a CR-SiB.
+<li>Documentación y solución de preguntas frecuentes sobre procedimiento asociado a CR-SiB.</li>
 <li>Documentación del proceso de generación de certificados.</li>
 </ul>	
 </div>
@@ -184,7 +184,6 @@ ___
 <li><strong>Carreras</strong>: periodismo, literatura, comunicación social, comunicación o producción audiovisual y afines.</li>
 <li><strong>Habilidades</strong>: buena redacción, capacidad investigativa, creatividad, manejo de la <em>suite</em> Adobe, conocimiento sobre redes sociales.</li>
 <li><strong>Idiomas:</strong> español, manejo básico o intermedio de inglés.</li>
-</li>
 </ul>
 <p><strong>Actividades</strong>:</p>
 <ul>
