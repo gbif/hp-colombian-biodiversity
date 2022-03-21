@@ -59,8 +59,8 @@ Los adscritos al área de **Administración de Contenidos** son ideales para est
 
 
 <details>
+<summary><b>AC01</b> · Mejores datos, mejores decisiones</summary>
 <article class="message">
-<div class="message-header"><summary><b>AC01</b> · Mejores datos, mejores decisiones</summary></div>
 <div class="message-body">
 <p>Esta pasantía se enmarca en la <strong>Informática de la Biodiversidad</strong>. Los/las pasantes deben realizar una <strong>revisión retrospectiva de calidad de los datos sobre biodiversidad</strong> que son publicados a través del SiB Colombia. Esto con el objetivo de llevar a cabo una serie de actualizaciones y ajustes que aumenten el potencial del uso de los datos, lo que permitirá que puedan ser aprovechados en procesos de investigación, educación y la toma de decisiones.</p>
 <ul>
@@ -77,6 +77,7 @@ Los adscritos al área de **Administración de Contenidos** son ideales para est
 </div>
 </article>
 </details>
+
 
 ___
 
