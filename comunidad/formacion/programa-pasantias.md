@@ -112,10 +112,9 @@ ___
 <p>Esta pasantía busca <strong>apoyar la publicación libre y gratuita </strong>de datos sobre grupos biológicos, zonas geográficas o temáticas <strong>para los cuales existe muy poca o ningún tipo de información</strong>. Para cada convocatoria se identifica un aliado estratégico dispuesto a trabajar sobre sus datos para asegurar que estos sean publicados con la mejor calidad posible.</p>
 <p>A la fecha se ha trabajado junto con la <a href="https://www.gbif.org/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5" target="_blank">Pontificia Universidad Javeriana</a>, facilitando la publicación de datos sobre colecciones biológicas de Microorganismos, y con el <a href="https://obis.org/node/d2f71b1b-9138-4aba-ad8f-8327ac3d041e" target="_blank">INVEMAR</a> (Instituto de Investigaciones Marinas y Costeras José Benito Vives de Andréis), para la publicación de datos marino-costeros.</p>
 <ul>
-<li><strong>Carreras</strong>: biología, ecología y afines.
-<li><strong>Habilidades</strong>: uso de herramientas informáticas y de programación (Excel, R, Python, entre otros), buena redacción, conocimientos sobre la gestión ambiental, creatividad para la resolución de problemas.
-<li><strong>Idiomas</strong>: español, manejo básico o intermedio de inglés.
-</li>
+<li><strong>Carreras</strong>: biología, ecología y afines.</li>
+<li><strong>Habilidades</strong>: uso de herramientas informáticas y de programación (Excel, R, Python, entre otros), buena redacción, conocimientos sobre la gestión ambiental, creatividad para la resolución de problemas.</li>
+<li><strong>Idiomas</strong>: español, manejo básico o intermedio de inglés.</li>
 </ul>
 <p><strong>Actividades</strong>:</p>
 <ul>
@@ -135,7 +134,7 @@ ___
 <article class="message">
 <div class="message-body">
 <p>Esta pasantía busca <strong>robustecer el <a href="https://catalogo.biodiversidad.co/" target="_blank">Catálogo de la Biodiversidad de Colombia</a></strong>, mediante la curación constante de contenidos y el enriquecimiento de información sobre nuevas especies.</p>
-<p>El catálogo ofrece información detallada sobre las especies que habitan el país, es un recurso de consulta para estudiantes y profesores en colegios y universidades. </p>
+<p>El catálogo ofrece información detallada sobre las especies que habitan el país, es un recurso de consulta para estudiantes y profesores en colegios y universidades.</p>
 <ul>
 <li><strong>Carreras</strong>: biología, ecología, ingeniería forestal, y afines.</li>
 <li><strong>Habilidades</strong>: buena redacción, comprensión lectora, recopilación bibliográfica, uso de gestores bibliográficos.</li>
