@@ -57,7 +57,6 @@ Los siguientes son algunos de los perfiles recurrentes en las pasantías del SiB
 
 Los adscritos al área de **Administración de Contenidos** son ideales para estudiantes de biología, ecología y afines. El del área de **Gestión y Cooperación** ideal para estudiantes de administración, ingeniería, biología y afines. Los del área de **Productos y Servicios**, ideales para estudiantes de comunicación social, periodismo, producción audiovisual o diseño gráfico.
 
-#Empieza el html de los perfiles
 
 <details>
 <summary><b>AC01</b> · Mejores datos, mejores decisiones</summary>
@@ -83,122 +82,141 @@ Los adscritos al área de **Administración de Contenidos** son ideales para est
 ___
 
 <details>
-    <summary><B>AC02</B> · Datos abiertos sobre biodiversidad para la gestión ambiental</summary><br>
-
-
-Esta pasantía se enmarca en la normativa ambiental del país que regula la [recolección](https://storymaps.arcgis.com/stories/431f0c39b31541ab85f9ee6395d2ebf6){:target="_blank"} de especímenes (Decretos 1376 y 3016 de 2013, hoy compilados en el [Decreto 1076 de 2015](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153){:target="_blank"}). Busca **facilitar la transformación de los datos sobre biodiversidad,** generados bajo esta normativa, en herramientas para el conocimiento, más allá de las obligaciones legales. Así mismo, que le permita a los publicadores obtener el crédito académico y los demás beneficios asociados a la publicación a través del SiB Colombia.
-
-* **Carreras**: biología, ingeniería ambiental y afines.
-* **Habilidades**: uso de herramientas informáticas y de programación (Excel, R, Python, entre otros), buena redacción, conocimientos sobre gestión ambiental y creatividad para la resolución de problemas.
-* **Idiomas:** español, manejo básico o intermedio de inglés.
-**Actividades**:
-* Administración e integración de los datos y la información sobre biodiversidad, asociados a permisos de recolección, para facilitar el cumplimiento de la normatividad ambiental. 
-* Generación de inventarios de los datos asociados a los permisos de recolección usando el lenguaje de programación Python.
-* Implementación de herramientas informáticas para validar, limpiar y mejorar la calidad de los datos sobre biodiversidad.
-* Migración de datos sobre biodiversidad asociados a la normativa para mejorar su visibilidad y potencial de uso.
-
-
+<summary><B>AC02</B> · Datos abiertos sobre biodiversidad para la gestión ambiental</summary><br>
+<article class="message">
+<div class="message-body">
+<p>
+Esta pasantía se enmarca en la normativa ambiental del país que regula la <a href="https://storymaps.arcgis.com/stories/431f0c39b31541ab85f9ee6395d2ebf6" target="_blank">recolección</a> de especímenes (Decretos 1376 y 3016 de 2013, hoy compilados en el <a href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153" target="_blank">Decreto 1076 de 2015</a>). Busca <strong>facilitar la transformación de los datos sobre biodiversidad,</strong> generados bajo esta normativa, en herramientas para el conocimiento, más allá de las obligaciones legales. Así mismo, que le permita a los publicadores obtener el crédito académico y los demás beneficios asociados a la publicación a través del SiB Colombia.</p>
+<ul>
+<li><strong>Carreras</strong>: biología, ingeniería ambiental y afines.</li>
+<li><strong>Habilidades</strong>: uso de herramientas informáticas y de programación (Excel, R, Python, entre otros), buena redacción, conocimientos sobre gestión ambiental y creatividad para la resolución de problemas.</li>
+<li><strong>Idiomas:</strong> español, manejo básico o intermedio de inglés.</li>
+</ul>
+<p><strong>Actividades</strong>:</p>
+<ul>
+<li>Administración e integración de los datos y la información sobre biodiversidad, asociados a permisos de recolección, para facilitar el cumplimiento de la normatividad ambiental.</li>
+<li>Generación de inventarios de los datos asociados a los permisos de recolección usando el lenguaje de programación Python.</li>
+<li>Implementación de herramientas informáticas para validar, limpiar y mejorar la calidad de los datos sobre biodiversidad.</li>
+<li>Migración de datos sobre biodiversidad asociados a la normativa para mejorar su visibilidad y potencial de uso.</li>
+</ul>	
+</div>
+</article>
 </details>
 
 ___
 
 <details>
 <summary><B>AC03</B> · Cerrando vacíos de información sobre la biodiversidad colombiana</summary><br>
-
-
-Esta pasantía busca **apoyar la publicación libre y gratuita **de datos sobre grupos biológicos, zonas geográficas o temáticas **para los cuales existe muy poca o ningún tipo de información**. Para cada convocatoria se identifica un aliado estratégico dispuesto a trabajar sobre sus datos para asegurar que estos sean publicados con la mejor calidad posible.
-
-A la fecha se ha trabajado junto con la [Pontificia Universidad Javeriana](https://www.gbif.org/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5){:target="_blank"}, facilitando la publicación de datos sobre colecciones biológicas de Microorganismos, y con el [INVEMAR](https://obis.org/node/d2f71b1b-9138-4aba-ad8f-8327ac3d041e){:target="_blank"} (Instituto de Investigaciones Marinas y Costeras José Benito Vives de Andréis), para la publicación de datos marino-costeros.
-
-* **Carreras**: biología, ecología y afines.
-* **Habilidades**: uso de herramientas informáticas y de programación (Excel, R, Python, entre otros), buena redacción, conocimientos sobre la gestión ambiental, creatividad para la resolución de problemas.
-* **Idiomas**: español, manejo básico o intermedio de inglés.
-**Actividades**:
-* Generación de perfiles para la publicación de un tipo de datos o fuente específica.
-* Administración e integración de los datos y la información sobre biodiversidad a través de diversas herramientas de publicación en línea.
-* Implementación de herramientas informáticas para validar, limpiar y mejorar la calidad de los datos sobre biodiversidad.
-* Participación en los procesos de publicación y acceso libre a datos e información sobre biodiversidad.
-
-
+<article class="message">
+<div class="message-body">
+<p>Esta pasantía busca <strong>apoyar la publicación libre y gratuita </strong>de datos sobre grupos biológicos, zonas geográficas o temáticas <strong>para los cuales existe muy poca o ningún tipo de información</strong>. Para cada convocatoria se identifica un aliado estratégico dispuesto a trabajar sobre sus datos para asegurar que estos sean publicados con la mejor calidad posible.</p>
+<p>A la fecha se ha trabajado junto con la <a href="https://www.gbif.org/dataset/9f99a46b-d812-45a2-b51a-3f48f65357b5" target="_blank">Pontificia Universidad Javeriana</a>, facilitando la publicación de datos sobre colecciones biológicas de Microorganismos, y con el <a href="https://obis.org/node/d2f71b1b-9138-4aba-ad8f-8327ac3d041e" target="_blank">INVEMAR</a> (Instituto de Investigaciones Marinas y Costeras José Benito Vives de Andréis), para la publicación de datos marino-costeros.</p>
+<ul>
+<li><strong>Carreras</strong>: biología, ecología y afines.
+<li><strong>Habilidades</strong>: uso de herramientas informáticas y de programación (Excel, R, Python, entre otros), buena redacción, conocimientos sobre la gestión ambiental, creatividad para la resolución de problemas.
+<li><strong>Idiomas</strong>: español, manejo básico o intermedio de inglés.
+</li>
+</ul>
+<p><strong>Actividades</strong>:</p>
+<ul>
+<li>Generación de perfiles para la publicación de un tipo de datos o fuente específica.</li>
+<li>Administración e integración de los datos y la información sobre biodiversidad a través de diversas herramientas de publicación en línea.</li>
+<li>Implementación de herramientas informáticas para validar, limpiar y mejorar la calidad de los datos sobre biodiversidad.</li>
+<li>Participación en los procesos de publicación y acceso libre a datos e información sobre biodiversidad.</li>
+</ul>	
+</div>
+</article>
 </details>
 
 ___
 
 <details>
 <summary><B>AC04</B> · Catálogo de la biodiversidad de Colombia</summary><br>
-
-
-Esta pasantía busca **robustecer el [Catálogo de la Biodiversidad de Colombia](https://catalogo.biodiversidad.co/)**{:target="_blank"}, mediante la curación constante de contenidos y el enriquecimiento de información sobre nuevas especies. 
-
-El catálogo ofrece información detallada sobre las especies que habitan el país, es un recurso de consulta para estudiantes y profesores en colegios y universidades.
-
-* **Carreras**: biología, ecología, ingeniería forestal, y afines.
-* **Habilidades**: buena redacción, comprensión lectora, recopilación bibliográfica, uso de gestores bibliográficos.
-* **Idiomas**: español manejo básico o intermedio de inglés.
-**Actividades**:
-* Administración de los contenidos del catálogo de la biodiversidad de Colombia.
-* Curatoría y mejora de las fichas existentes.
-* Generación de nuevas fichas sobre temáticas o grupos con vacíos de información.
-* Generación de nuevas fichas de interés y de autoría del pasante.
-
-
+<article class="message">
+<div class="message-body">
+<p>Esta pasantía busca <strong>robustecer el <a href="https://catalogo.biodiversidad.co/" target="_blank">Catálogo de la Biodiversidad de Colombia</a></strong>, mediante la curación constante de contenidos y el enriquecimiento de información sobre nuevas especies.</p>
+<p>El catálogo ofrece información detallada sobre las especies que habitan el país, es un recurso de consulta para estudiantes y profesores en colegios y universidades. </p>
+<ul>
+<li><strong>Carreras</strong>: biología, ecología, ingeniería forestal, y afines.</li>
+<li><strong>Habilidades</strong>: buena redacción, comprensión lectora, recopilación bibliográfica, uso de gestores bibliográficos.</li>
+<li><strong>Idiomas</strong>: español manejo básico o intermedio de inglés.</li>
+</ul>
+<p><strong>Actividades</strong>:</p>
+<ul>
+<li>Administración de los contenidos del catálogo de la biodiversidad de Colombia.</li>
+<li>Curatoría y mejora de las fichas existentes.</li>
+<li>Generación de nuevas fichas sobre temáticas o grupos con vacíos de información.</li>
+<li>Generación de nuevas fichas de interés y de autoría del pasante.</li>
+</ul>	
+</div>
+</article>
 </details>
 
 ___
 
 <details>
 <summary><B>GC01</B> · Administración del proceso de certificación de permisos de recolección</summary><br>
-
-
-Esta pasantía se enmarca en la normativa ambiental del país que regula la [recolección](https://storymaps.arcgis.com/stories/431f0c39b31541ab85f9ee6395d2ebf6){:target="_blank"} de especímenes (Decretos 1376 y 3016 de 2013, hoy compilados en el [Decreto 1076 de 2015](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153){:target="_blank"}). Busca **apoyar a los titulares de permisos de recolección** en el proceso de reporte de datos al SiB Colombia y en el uso de la plataforma de generación de certificados CR-SiB.
-
-* **Carreras**: administración ambiental, ingeniería ambiental, biología, ecología y afines.
-* **Habilidades**: buena capacidad de relacionamiento y comunicación interpersonal, buena comunicación oral y escrita, empatía, gestión y resolución de problemas.
-* **Idiomas**: español, manejo básico o intermedio de inglés.
-**Actividades**:
-* Acompañamiento y orientación a los usuarios de la plataforma CR-SiB.
-* Documentación y solución de preguntas frecuentes sobre procedimiento asociado a CR-SiB.
-* Documentación del proceso de generación de certificados.
-
-
+<article class="message">
+<div class="message-body">
+<p>Esta pasantía se enmarca en la normativa ambiental del país que regula la <a href="https://storymaps.arcgis.com/stories/431f0c39b31541ab85f9ee6395d2ebf6" target="_blank">recolección</a> de especímenes (Decretos 1376 y 3016 de 2013, hoy compilados en el <a href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153" target="">Decreto 1076 de 2015</a>). Busca <strong>apoyar a los titulares de permisos de recolección</strong> en el proceso de reporte de datos al SiB Colombia y en el uso de la plataforma de generación de certificados CR-SiB.</p>
+<ul>
+<li><strong>Carreras</strong>: administración ambiental, ingeniería ambiental, biología, ecología y afines.</li>
+<li><strong>Habilidades</strong>: buena capacidad de relacionamiento y comunicación interpersonal, buena comunicación oral y escrita, empatía, gestión y resolución de problemas.</li>
+<li><strong>Idiomas</strong>: español, manejo básico o intermedio de inglés.</li>
+</ul>
+<p><strong>Actividades</strong>:</p>
+<ul>
+<li>Acompañamiento y orientación a los usuarios de la plataforma CR-SiB.</li>
+<li>Documentación y solución de preguntas frecuentes sobre procedimiento asociado a CR-SiB.
+<li>Documentación del proceso de generación de certificados.</li>
+</ul>	
+</div>
+</article>
 </details>
 
 ___
 
 <details>
 <summary><B>PS01</B> · Creación y edición de contenidos en plataformas digitales</summary><br>
-
-
-Esta pasantía apoya la publicación, acceso y uso de datos abiertos sobre biodiversidad mediante la **elaboración de contenidos escritos o audiovisuales** para la comunicación y amplificación de estas acciones. Así mismo, el diseño e implementación de estrategias que mejoren la divulgación de las actividades del SiB Colombia.
-
-* **Carreras**: periodismo, literatura, comunicación social, comunicación o producción audiovisual y afines.
-* **Habilidades**: buena redacción, capacidad investigativa, creatividad, manejo de la _suite_ Adobe, conocimiento sobre redes sociales.
-* **Idiomas:** español, manejo básico o intermedio de inglés.
-Actividades:
-* Creación, edición y optimización de contenidos y piezas de divulgación.
-* Gestión de redes sociales.
-* Creación de material fotográfico y/o audiovisual.
-
-
+<article class="message">
+<div class="message-body">
+<p>Esta pasantía apoya la publicación, acceso y uso de datos abiertos sobre biodiversidad mediante la <strong>elaboración de contenidos escritos o audiovisuales</strong> para la comunicación y amplificación de estas acciones. Así mismo, el diseño e implementación de estrategias que mejoren la divulgación de las actividades del SiB Colombia.</p>
+<ul>
+<li><strong>Carreras</strong>: periodismo, literatura, comunicación social, comunicación o producción audiovisual y afines.</li>
+<li><strong>Habilidades</strong>: buena redacción, capacidad investigativa, creatividad, manejo de la <em>suite</em> Adobe, conocimiento sobre redes sociales.</li>
+<li><strong>Idiomas:</strong> español, manejo básico o intermedio de inglés.</li>
+</li>
+</ul>
+<p><strong>Actividades</strong>:</p>
+<ul>
+<li>Creación, edición y optimización de contenidos y piezas de divulgación.</li>
+<li>Gestión de redes sociales.</li>
+<li>Creación de material fotográfico y/o audiovisual.</li>
+</ul>	
+</div>
+</article>
 </details>
 
 ___
 
 <details>
 <summary><B>PS02</B> · Diseño y diagramación de contenidos gráficos para plataformas digitales</summary><br>
-
-
-Esta pasantía apoya la publicación, acceso y uso de datos abiertos sobre biodiversidad mediante la **creación de piezas gráficas o de comunicación visual** para la comunicación y amplificación de estas acciones y la divulgación de las actividades del SiB Colombia.
-
-* **Carreras**: diseño gráfico, diseño Industrial, diseño interactivo, artes visuales y afines.
-* **Habilidades**: creatividad, diseño gráfico y diagramación, teoría del color, manejo la _suite_ Adobe
-* **Idiomas**: español, manejo básico o intermedio de inglés.
-**Actividades**:
-* Implementación de la identidad visual del SiB Colombia en la diagramación de documentos y piezas de comunicación.
-* Creación de piezas de comunicación visual para la divulgación de las actividades del SiB Colombia.
-* Diseño de contenidos que faciliten la visualización de datos e información sobre biodiversidad.
-
-
+<article class="message">
+<div class="message-body">
+<p>Esta pasantía apoya la publicación, acceso y uso de datos abiertos sobre biodiversidad mediante la <strong>creación de piezas gráficas o de comunicación visual</strong> para la comunicación y amplificación de estas acciones y la divulgación de las actividades del SiB Colombia.</p>
+<ul>
+<li><strong>Carreras</strong>: diseño gráfico, diseño Industrial, diseño interactivo, artes visuales y afines.</li>
+<li><strong>Habilidades</strong>: creatividad, diseño gráfico y diagramación, teoría del color, manejo la <em>suite</em> Adobe.</li>
+<li><strong>Idiomas</strong>: español, manejo básico o intermedio de inglés.</li>
+</ul>
+<p><strong>Actividades</strong>:</p>
+<ul>
+<li>Implementación de la identidad visual del SiB Colombia en la diagramación de documentos y piezas de comunicación.</li>
+<li>Creación de piezas de comunicación visual para la divulgación de las actividades del SiB Colombia.</li>
+<li>Diseño de contenidos que faciliten la visualización de datos e información sobre biodiversidad.</li>
+</ul>	
+</div>
+</article>
 </details>
 
 ___
