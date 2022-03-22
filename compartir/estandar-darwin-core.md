@@ -1475,7 +1475,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 |    |    |
 | ---|--- |
 | Definición | El grado de incertidumbre de la identificación puede indicarse agregando varios términos, como aff. y cf. al nombre científico. El calificador se aplica a la parte del nombre que sigue inmediatamente al calificador y se pueden colocar delante de cualquier elemento del nombre.<br><br>  cf.  del latín confer significa comparado con. Su uso indica que no hay certeza de la identidad de la especie (o rango taxonómico superior) hasta que se pueda hacer una comparación más detallada, por ejemplo, con algún tipo o material de referencia. <br><br>  aff. del latín affinis significa similar o limítrofe. Su uso indica que el material o la evidencia disponible sugiere que la especie propuesta está relacionada, tiene afinidad, pero no es idéntica, a la especie o taxón que le sigue. |
-| Comentarios| Documente este elemento de acuerdo a las siguientes explicaciones:<br><br> cf. agrifolia  (Para Quercus cf. agrifolia, con valores acompañantes scientificName: Quercus , genus: Quercus, taxonRank: Género.)<br><br> aff. Sparassidae (Para cf. Sparassidae, con valores acompañantes  scientificName: Araneae, order: Araneae, taxonRank: Orden.) |
+| Comentarios| Documente este elemento de acuerdo a las siguientes explicaciones:<br><br> cf. agrifolia  (Para Quercus cf. agrifolia, con valores acompañantes scientificName: Quercus , genus: Quercus, taxonRank: Género.)<br><br> aff. Sparassidae (Para aff. Sparassidae, con valores acompañantes  scientificName: Araneae, order: Araneae, taxonRank: Orden.) |
 | Ejemplo | cf. agrifolia<br> aff. Sparassidae |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_
 |    |    |
