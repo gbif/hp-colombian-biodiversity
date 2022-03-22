@@ -26,7 +26,7 @@ Así, Frailejón Ernesto Pérez se presenta como un amigo y habla, entre otras c
 
 * El **frailejón de Belén** (_[Espeletia brachyaxiantha](http://repository.humboldt.org.co/handle/20.500.11761/35925){:target="_blank"}_) puede llegar hasta los seis metros de altura, tiene hojas que miden entre 21 y 29 cm y también da flores amarillas. Esta especie es otra de las amenazadas.
 
-* Otro nombre curioso es el **_frailejón de los estupendos_** (_[Espeletia mirabilis](http://repository.humboldt.org.co/handle/20.500.11761/35925)_){:target="_blank"}, crece hasta 1,2 metros de altura, tiene hojas suaves de 26 a 35 cm de largo y también da flores amarillas. Es otra de las especies amenazadas y se encuentra en peligro crítico.
+* Otro nombre curioso es el **_frailejón de los estupendos_** (_[Espeletia mirabilis](http://repository.humboldt.org.co/handle/20.500.11761/35925){:target="_blank"}_), crece hasta 1,2 metros de altura, tiene hojas suaves de 26 a 35 cm de largo y también da flores amarillas. Es otra de las especies amenazadas y se encuentra en peligro crítico.
 
 * **Los frailejones son torres vivientes de agua.** Sus tallos y hojas carnosas actúan como esponjas que acumulan agua y luego liberan en el ecosistema.[^1]
 
