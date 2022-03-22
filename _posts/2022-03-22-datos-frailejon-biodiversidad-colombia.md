@@ -1,9 +1,10 @@
 ---
-preTitle: 2022-03-22
+preTitle: 22 de marzo, 2022
 title: "Lo que dicen los datos sobre los frailejones"
 date: 2022-03-22
 categories: ["Plantas", "Páramos", "Datos Abiertos", "2022"]
 background: /assets/images/noticias_eventos/2022/2022-03-22-frailejon.jpg
+imageLicense: Foto: Felipe Villegas, Instituto Humboldt.
 ---
 
 Una de las plantas insignia de la biodiversidad de Colombia es el frailejón. Está presente en la moneda de 100 pesos que circula desde el 2012 y, recientemente, se ha hecho viral en las redes sociales gracias a la pegajosa letra de una canción. Frailejón Ernesto Pérez es un personaje de la serie animada infantil _[Cuentitos Mágicos](https://www.senalcolombia.tv/programa/cuentitos-magicos){:target="_blank"}_ de Señal Colombia y, como ellos mismos la describen, ubica a los niños en «un imaginario mágico lleno de personajes inusuales y situaciones inesperadas».
