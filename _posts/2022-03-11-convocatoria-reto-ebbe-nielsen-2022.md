@@ -1,5 +1,5 @@
 ---
-preTitle: 2022-03-11
+preTitle: 11 de marzzo, 2022
 title: "GBIF abre convocatoria al Reto Ebbe Nielsen 2022"
 date:  2022-03-11
 categories: ["GBIF", "Ebbe Nielsen", "Convocatorias", "2022"]
@@ -43,11 +43,9 @@ El reto está abierto a personas, equipos de personas, empresas con sus empleado
 
 Los siguientes perfiles no pueden participar del reto: miembros actuales del Secretariado de GBIF, personas que actualmente tengan contratos con el Secretariado de GBIF, miembros del Comité de Ciencia de GBIF y jefes de delegación ante GBIF.
 
-Requisitos de participación
+**Requisitos de participación**
 
 Los participantes deben completar el [formulario de inscripción](http://j.mp/ebbe-2022), que provee información acerca de la propuesta, incluyendo: 
-
-
 
 * Nombre o título de la propuesta
 * Miembros del equipo y su participación
@@ -55,6 +53,8 @@ Los participantes deben completar el [formulario de inscripción](http://j.mp/eb
 * Instrucciones de operación
 * Enlaces a recursos visuales (prototipo, demo, video, capturas de pantalla, diapositivas, etc.)
 * Enlaces a materiales necesarios para la propuesta o cualquier repositorio en línea apropiado
+
+[INSCRIBIRSE EN EL RETO](http://j.mp/ebbe-2022){:target="_blank" .button .is-primary}
 
 El jurado y el Secretariado de GBIF deben poder hacer lo siguiente con la propuesta:
 
@@ -67,8 +67,6 @@ Repetir cualesquiera procesos o rutinas, si la propuesta es un _script_ u otro t
 Los participantes pueden preparar y documentar sus entradas en un repositorio o plataforma de su elección: [GitHub](https://github.com/), [Jupyter Notebook](http://jupyter.org/), [Dryad](https://www.datadryad.org/), [FigShare](https://figshare.com/), [Open Science Framework](https://osf.io/) o su propio sitio web.
 
 Al fomentar el uso de herramientas conocidas y con las que los participantes se sientan cómodos, se espera que cualquier interesado en presentar propuesta pueda concentrarse en las preguntas qué, por qué y cómo.
-
-
 
 * Qué es la propuesta
 * Por qué es importante para las comunidades de GBIF a las que pretende prestar servicio
