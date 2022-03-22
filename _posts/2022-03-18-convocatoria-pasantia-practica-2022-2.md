@@ -5,10 +5,7 @@ description: _Siete vacantes se han abierto para la convocatoria 2022-2, se reci
 date: 2022-03-18
 categories: ["Pasantías", "Prácticas", "Convocatorias", "Instituto Humboldt", "Estado Joven", "2022"]
 background: https://thumbnails.production.thenounproject.com/75OvdqdWdJgXAESAtjUhqiSfZ1M=/fit-in/1000x1000/photos.production.thenounproject.com/photos/527BCD7C-61CD-4CE5-8594-6F50D4114137.jpg
-cta: # OPTIONAL list of buttons
-- text: POSTULARSE A LA PASANTÍA
-  href: https://docs.google.com/forms/d/e/1FAIpQLSfUbJzeCJm4lsHz50SVjsLv1hGChDbpiPw4TWl8ciZd4mQ12w/viewform
-  isPrimary: true # OPTIONAL
+
 ---
 
 Abierta la **convocatoria para hacer pasantías o prácticas laborales en el SiB Colombia durante el segundo semestre de 2022**. Esta es una excelente oportunidad para que profesionales en formación, de diferentes áreas del conocimiento, hagan parte de un equipo de trabajo que les permita experimentar los retos a los que se verán enfrentados en su vida laboral, en un ambiente seguro, orientado hacia el aprendizaje y la retroalimentación constructiva. 
