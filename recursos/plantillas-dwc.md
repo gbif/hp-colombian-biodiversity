@@ -61,7 +61,7 @@ Use esta plantilla si sus datos:
       <li>subfamily (Subfamilia)</li>
       <li>genericName (Nombre genérico)</li>
       <li>infragenericEpithet (Epíteto infragenérico)</li>
-      <li>cultivarEpithet (Epíteto cultivar)
+      <li>cultivarEpithet (Epíteto cultivar)</li>
     </ul>
   </li>
 
