@@ -24,7 +24,7 @@ Así, Frailejón Ernesto Pérez se presenta como un amigo y habla, entre otras c
 
 * Una de las especies se llama **_frailejón orejas de burro_**. Se trata de _[Espeletia grandiflora](https://catalogo.biodiversidad.co/file/56d7c4923c16479905cba942/summary){:target="_blank"}_, tiene hojas largas y suaves, de ahí su nombre común, puede crecer hasta tres metros de altura y da flores amarillas. Esta es una de las especies amenazadas.
 
-* El **frailejón de Belén** (_[Espeletia brachyaxiantha](http://repository.humboldt.org.co/handle/20.500.11761/35925){:target="_blank"}_) puede llegar hasta los seis metros de altura, tiene hojas que miden entre 21 y 29 cm y también da flores amarillas. Esta especie es otra de las amenazadas.
+* El **_frailejón de Belén_** (_[Espeletia brachyaxiantha](http://repository.humboldt.org.co/handle/20.500.11761/35925){:target="_blank"}_) puede llegar hasta los seis metros de altura, tiene hojas que miden entre 21 y 29 cm y también da flores amarillas. Esta especie es otra de las amenazadas.
 
 * Otro nombre curioso es el **_frailejón de los estupendos_** (_[Espeletia mirabilis](http://repository.humboldt.org.co/handle/20.500.11761/35925){:target="_blank"}_), crece hasta 1,2 metros de altura, tiene hojas suaves de 26 a 35 cm de largo y también da flores amarillas. Es otra de las especies amenazadas y se encuentra en peligro crítico.
 
