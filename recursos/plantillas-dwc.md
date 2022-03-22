@@ -69,7 +69,7 @@ Use esta plantilla si sus datos:
     <ul>
       <li>El elemento <i>datasetId</i> deja de ser obligatorio para datos asociados a un permiso de recolección o acceso a recursos genéticos.</li>
       <li>El elemento <i>datasetName</i> deja de ser obligatorio para datos asociados a un permiso de recolección o acceso a recursos genéticos.</li>
-      <li>La Extensión de permisos GGBN pasa a ser obligatoria para registros biológicos colectados bajo un permiso de recolección de especímenes o acceso a recursos genéticos y remplaza el uso de los elementos <i>datasetId<i> y <i>datasetName</i>.</li>
+      <li>La Extensión de permisos GGBN pasa a ser obligatoria para registros biológicos colectados bajo un permiso de recolección de especímenes o acceso a recursos genéticos y remplaza el uso de los elementos <i>datasetId</i> y <i>datasetName</i>.</li>
       <li>El elemento <i>disposition</i> deja de ser opcional y pasa a ser obligatorio para registros biológicos colectados bajo un permiso de recolección de especímenes o acceso a recursos genéticos.</li>
     </ul>   
   </li> 
