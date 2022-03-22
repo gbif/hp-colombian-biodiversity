@@ -42,7 +42,7 @@ De las 98 especies de frailejones registradas, más de la mitad (51) crece en lo
 
 * Una cuarta parte (5.610) de los registros biológicos publicados a través del SiB Colombia sobre frailejones, son de Boyacá.<sup>3</sup>
 
-* En total, en Boyacá se han observado 1620 especies de frailejones en alguna categoría de amenaza; 62 Vulnerables, 810 En Peligro, y 28 En Peligro Crítico.<sup>3</sup>
+* En total, en Boyacá se han observado 16 especies de frailejones en alguna categoría de amenaza; 6 Vulnerables, 8 En Peligro, y 2 En Peligro Crítico.<sup>3 (corte 2021-T4)</sup>
 
 
 ## [H2] Sobre los páramos, el ecosistema del frailejón
