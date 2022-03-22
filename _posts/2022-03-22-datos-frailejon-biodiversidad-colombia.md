@@ -68,7 +68,7 @@ Sigue las redes sociales del SiB Colombia para aprender más sobre la biodiversi
 Redacción: Juan Manuel Rodríguez
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+### Fuentes de la información
 
 [^1]:
      [Frailejones en peligro](http://repository.humboldt.org.co/handle/20.500.11761/35925){:target="_blank"}
