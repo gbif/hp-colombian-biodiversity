@@ -1,12 +1,12 @@
 ---
 preTitle: 11 de marzzo, 2022
 title: "GBIF abre convocatoria al Reto Ebbe Nielsen 2022"
+description: _La convocatoria anual busca proyectos de innovación con datos abiertos de la red de GBIF y cuenta con una bolsa de incentivos por 20.000 euros. La fecha límite para presentar propuestas es el 14 de agosto de 2022._
 date:  2022-03-11
 categories: ["GBIF", "Ebbe Nielsen", "Convocatorias", "2022"]
 background: /assets/images/noticias_eventos/2022/2022-03-11-reto-Ebbe-Nielsen.png
 
 ---
-_La convocatoria anual busca proyectos de innovación con datos abiertos de la red de GBIF y cuenta con una bolsa de incentivos por 20.000 euros. La fecha límite para presentar propuestas es el 14 de agosto de 2022._
 
 El [Reto Ebbe Nielsen](https://www.gbif.org/es/article/1G82GL7jw08kS0g6k6MuSa/reto-ebbe-nielsen) 2022 busca reconocer a proyectos innovadores, que aporten al desarrollo y avance de la ciencia abierta y aprovechen las herramientas y los datos sobre biodiversidad de la red de GBIF.
 
