@@ -64,7 +64,8 @@ Use esta plantilla si sus datos:
       <li>cultivarEpithet (Epíteto cultivar)
     </ul>
   </li>
-  <li>Todas las definiciones y vocabularios controlados fueron actualizadas incluyendo comentarios para facilitar la compresión de los elementos</li>
+  <li>Todas las definiciones y vocabularios controlados fueron actualizadas incluyendo comentarios para facilitar la compresión de los elementos
+  </li>
   <li>Cambio de obligatoriedad
     <ul>
       <li>El elemento <i>datasetId<i> deja de ser obligatorio para datos asociados a un permiso de recolección o acceso a recursos genéticos.</li>
