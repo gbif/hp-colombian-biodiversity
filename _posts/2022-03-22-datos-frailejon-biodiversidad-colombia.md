@@ -1,6 +1,6 @@
 ---
+preTitle: 2022-03-22
 title: "Lo que dicen los datos sobre los frailejones"
-pretitle: 2022-03-22
 date: 2022-03-22
 categories: ["Plantas", "Páramos", "Datos Abiertos", "2022"]
 background: /assets/images/noticias_eventos/2022/2022-03-22-frailejon.jpg
@@ -34,7 +34,7 @@ Así, Frailejón Ernesto Pérez se presenta como un amigo y habla, entre otras c
 
 * Los frailejones son el hogar de unas 150 especies, se ha reportado que arácnidos, insectos, moluscos, anfibios, reptiles, aves y mamíferos se alimentan o habitan en ellos.[^1]
 
-## [H2] Boyacá, el rey de los frailejones
+## Boyacá, el rey de los frailejones
 
 De las 98 especies de frailejones registradas, más de la mitad (51) crece en los páramos del departamento de [Boyacá](https://boyaca.biodiversidad.co/#/grupos?name=FRAILEJONES&id=30).[^3]
 
@@ -45,7 +45,7 @@ De las 98 especies de frailejones registradas, más de la mitad (51) crece en lo
 * En total, en Boyacá se han observado 16 especies de frailejones en alguna categoría de amenaza; 6 Vulnerables, 8 En Peligro, y 2 En Peligro Crítico.[^3]<sup>(corte 2021-T4)</sup>
 
 
-## [H2] Sobre los páramos, el ecosistema del frailejón
+## Sobre los páramos, el ecosistema del frailejón
 
 **Colombia tiene [37 complejos de páramos](http://repository.humboldt.org.co/handle/20.500.11761/31406), 82 descritos individualmente**. 21 en el Cauca, 14 en Boyacá, 10 en Antioquia, 7 en Nariño, 7 en el Valle del Cauca, 6 en Bogotá con otros departamentos, 5 en Cundinamarca, 5 en Tolima, 2 en Quindío, 2 en los Santanderes, 1 en Caldas, 1 en Risaralda y 1 en La Guajira.[^4]
 
