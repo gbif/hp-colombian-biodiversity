@@ -50,7 +50,7 @@ Use esta plantilla si sus datos:
 </p>
 
 <ul>
-  <li>Se incluyen 10 nuevos elementos incorporados en la úlrima versión del estándar (2021-08-24).
+  <li>Se incluyen 10 nuevos elementos incorporados en la última versión del estándar (2021-08-24).
     <ul>
       <li>degreeOfEstablishment (Medios de establecimiento)</li>
       <li>pathway (Medios de establecimiento)</li>
@@ -64,7 +64,8 @@ Use esta plantilla si sus datos:
       <li>cultivarEpithet (Epíteto cultivar)</li>
     </ul>
   </li>
-
+  <li>Todas las definiciones y vocabularios controlados fueron actualizadas incluyendo comentarios para facilitar la compresión de los elementos
+  </li>
   <li>Cambio de obligatoriedad
     <ul>
       <li>El elemento <i>datasetId</i> deja de ser obligatorio para datos asociados a un permiso de recolección o acceso a recursos genéticos.</li>
@@ -232,6 +233,12 @@ Use esta plantillas si sus datos:
 * Incluyen rasgos funcionales (medidas) del organismo representado en los registros biológicos.
 * Incluyen recursos multimedia como imágenes, videos, sonidos, etc. almacenados en un repositorio externo y cuyos contenidos pueden ser accedidos vía URL. 
 * Corresponde a listas de especies con información de distribución de la especie, tales como país, localidad, habitat, estado de amenaza, etc.
+
+<details>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?export=download&id=1vwX9JUx_219CVTF2HrDj7eEukFJyZd2P">Permisos GGBN</a></b></summary>
+    <p><i>Revisada y editada 2022-03</i></p>
+    
+</details>
 
 <details>
     <summary markdown="span"><b><a href="https://drive.google.com/uc?export=download&id=1s05MAYDixYt6wPp9V8de8qrCHxuOOw-o">Medidas o Hechos</a></b></summary>
