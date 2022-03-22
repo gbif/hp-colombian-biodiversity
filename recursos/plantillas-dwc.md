@@ -44,34 +44,39 @@ Use esta plantilla si sus datos:
 
 
 <details>
-    <summary markdown="span"><b><a href="https://drive.google.com/u/0/uc?id=16oIiR09yAbm8B63CpR0h2phY7tqsFXSk&export=download">Descargar última versión v4.0</a></b></summary>
+    <summary markdown="span"><b><a href="https://drive.google.com/u/0/uc?id=1mj0XG8GcABmTcZefQfHdHi8_ugJV3roA&export=download">Descargar última versión v4.0</a></b></summary>
 <p>
-    <i>Cambios realizados respecto a la versión 3.4:</i>
+    <i>Cambios realizados respecto a la versión 3.5:</i>
 </p>
 
 <ul>
-  <li>Definiciones actualizadas
+  <li>Se incluyen 10 nuevos elementos incorporados en la úlrima versión del estándar (2021-08-24).
     <ul>
-      <li>basisOfrecord</li>
-      <li>disposition</li>
-      <li>preparations</li>
-      <li>organismQuantity</li>
-      <li>organismQuantityType</li>
+      <li>degreeOfEstablishment (Medios de establecimiento)</li>
+      <li>pathway (Medios de establecimiento)</li>
+      <li>recordedByID (ID del organismo)</li>
+      <li>identifiedByID (ID de la identificación)</li>
+      <li>verticalDatum (Datum vertical)</li>
+      <li>verbatimIdentification (Identificación original)</li>
+      <li>subfamily (Subfamilia)</li>
+      <li>genericName (Nombre genérico)</li>
+      <li>infragenericEpithet (Epíteto infragenérico)</li>
+      <li>cultivarEpithet (Epíteto cultivar)
     </ul>
   </li>
+  <li>Todas las definiciones y vocabularios controlados fueron actualizadas incluyendo comentarios para facilitar la compresión de los elementos</li>
   <li>Cambio de obligatoriedad
     <ul>
-      <li>El elemento individualCount deja de ser obligatorio y pasa a ser recomendado.</li>
-      <li>El elemento <i>organismQuantity</i> deja de ser opcional y pasa a ser obligatorio para registros biológicos colectados bajo un permiso de recolección de especímenes o acceso a recursos genéticos.</li>
-      <li>El elemento <i>organismQuantityType</i> deja de ser opcional y pasa a ser obligatorio para registros biológicos colectados bajo un permiso de recolección de especímenes o acceso a recursos genéticos.</li>
+      <li>El elemento <i>datasetId<i> deja de ser obligatorio para datos asociados a un permiso de recolección o acceso a recursos genéticos.</li>
+      <li>El elemento <i>datasetName</i> deja de ser obligatorio para datos asociados a un permiso de recolección o acceso a recursos genéticos.</li>
+      <li>La Extensión de permisos GGBN pasa a ser obligatoria para registros biológicos colectados bajo un permiso de recolección de especímenes o acceso a recursos genéticos y remplaza el uso de los elementos <i>datasetId<i> y <i>datasetName</i>.</li>
       <li>El elemento <i>disposition</i> deja de ser opcional y pasa a ser obligatorio para registros biológicos colectados bajo un permiso de recolección de especímenes o acceso a recursos genéticos.</li>
-      <li>El elemento <i>preparations</i> deja  de ser recomendado y pasa a ser obligatorio para registros biológicos colectados bajo un permiso de recolección de especímenes o acceso a recursos genéticos.</li>
     </ul>   
   </li> 
       <li>Cambios en las instrucciones
     <ul>
-      <li>Se añaden elementos obligatorios a la tabla de instrucciones</li>
-      <li>Actualización citación</li>
+      <li>Se mejoran las instrucciones</li>
+      <li>Se incluye enlaces a la documentación oficial del estándar</li>
     </ul>
   </li>      
 
