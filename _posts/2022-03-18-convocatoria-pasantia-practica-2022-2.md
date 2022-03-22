@@ -201,7 +201,7 @@ ___
 
 Las pasantías en el SiB Colombia no cuentan con un auxilio económico directo; sin embargo, se incentiva a los candidatos a **aplicar por apoyo de sostenimiento a través del programa [Estado Joven](https://www.mintrabajo.gov.co/empleo-y-pensiones/movilidad-y-formacion/estado-joven)**{:target="_blank"} del Ministerio de trabajo.
 
-[POSTULARSE A LA PASANTÍA](https://docs.google.com/forms/d/e/1FAIpQLSfUbJzeCJm4lsHz50SVjsLv1hGChDbpiPw4TWl8ciZd4mQ12w/viewform){:target="_blank"} .button .is-primary}
+[POSTULARSE A LA PASANTÍA](https://docs.google.com/forms/d/e/1FAIpQLSfUbJzeCJm4lsHz50SVjsLv1hGChDbpiPw4TWl8ciZd4mQ12w/viewform){:target="_blank" .button .is-primary}
 
 <div class="notification">
 ¿Dudas o preguntas sobre la convocatoria?, escribe a sib@humboldt.org.co con el asunto: “Pasantías 2022-2”.
