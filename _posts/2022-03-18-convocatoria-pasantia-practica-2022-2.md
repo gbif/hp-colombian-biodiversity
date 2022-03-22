@@ -7,7 +7,7 @@ categories: ["Pasantías", "Prácticas", "Convocatorias", "Instituto Humboldt", 
 background: https://thumbnails.production.thenounproject.com/75OvdqdWdJgXAESAtjUhqiSfZ1M=/fit-in/1000x1000/photos.production.thenounproject.com/photos/527BCD7C-61CD-4CE5-8594-6F50D4114137.jpg
 cta: # OPTIONAL list of buttons
 - text: POSTULARSE A LA PASANTÍA
-  href: https://docs.google.com/forms/d/e/1FAIpQLSfUbJzeCJm4lsHz50SVjsLv1hGChDbpiPw4TWl8ciZd4mQ12w/viewform{:target="_blank"}
+  href: https://docs.google.com/forms/d/e/1FAIpQLSfUbJzeCJm4lsHz50SVjsLv1hGChDbpiPw4TWl8ciZd4mQ12w/viewform
   isPrimary: true # OPTIONAL
 ---
 
