@@ -358,9 +358,10 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 |    |    |
 | ---|--- |
 | Definición | Una afirmación que de cuenta si un organismo ha sido introducido a un lugar y tiempo determinado a través de actividad humana directa o indirecta. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos degreeOfEstablishment y pathway. |
+| Comentarios| Actualmente el estándar DwC no posee un elemento que permita documentar de manera adecuada la información de endemismos, este elemento es el más cercano para la documentación de esta información por lo cual se incluye el vocabulario 'Endémica'.|
 | Elementos relacionados | degreeOfEstablishment, pathway |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](#vc_establishmentMeans) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain |
+|  [Vocabulario controlado](#vc_establishmentMeans) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain<br> Endémica |
 |    |    |
 
 <a name="degreeOfEstablishment">**degreeOfEstablishment** (Grado de establecimiento)</a>
@@ -388,7 +389,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 |    |    |
 | ---|--- |
 | Definición | Estado que da cuenta de la presencia o ausencia de un taxón en una ubicación. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para registros marinos - Recomendado para la buena documentación de un registro biológico |
 |  [Vocabulario controlado](#vc_occurrenceStatus) | present<br> absent |
 |    |    |
 
