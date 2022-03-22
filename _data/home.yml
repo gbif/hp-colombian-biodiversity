@@ -46,6 +46,28 @@ noticias:
   features:
   
     - preTitle: Convocatorias
+      title: Lo que dicen los datos sobre los frailejones
+      description: |      # required
+        Frailejón Ernesto Pérez se hizo popular gracias a su canción. Aquí algunos datos de esta planta.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-03-22-frailejon.jpg
+      cta:
+      - text: Ver más
+        href: post/2022/datos-frailejon-biodiversidad-colombia/
+        isPrimary: false
+   
+    - preTitle: Convocatorias
+      title: Haz tu pasantía o práctica laboral en el SiB Colombia
+      description: |      # required
+        Siete vacantes se han abierto para el período 2022-2, aplicaciones hasta el 17 de abril del 2022.
+      # img required
+      background: https://thumbnails.production.thenounproject.com/75OvdqdWdJgXAESAtjUhqiSfZ1M=/fit-in/1000x1000/photos.production.thenounproject.com/photos/527BCD7C-61CD-4CE5-8594-6F50D4114137.jpg
+      cta:
+      - text: Ver más
+        href: post/2022/convocatoria-pasantia-practica-2022-2
+        isPrimary: false
+ 
+    - preTitle: Convocatorias
       title: GBIF abre convocatoria al Reto Ebbe Nielsen 2022
       description: |      # required
         La fecha límite para presentar propuestas es el 14 de agosto de 2022.
@@ -77,7 +99,17 @@ noticias:
       - text: Ver más
         href: post/2022/convocatoria-premio-jovenes-investigadores-gbif-2022
         isPrimary: false
- 
+        
+    - preTitle: Publicación de datos
+      title: Datos nuevos o antiguos, ¡todos cuentan!
+      description: |      # required
+        Queremos incrementar la disponibilidad de datos sobre biodiversidad en el país.
+      # img required
+      background: assets/images/minga/cabezote.jpg
+      cta:
+      - text: Ver más
+        href: /compartir/minga-por-la-biodiversidad
+        isPrimary: false 
 
 # Noticias viejas 
 
