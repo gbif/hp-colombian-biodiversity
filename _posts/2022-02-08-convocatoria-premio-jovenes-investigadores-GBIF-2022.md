@@ -1,7 +1,8 @@
 ---
-preTitle: 2022-02-08
+preTitle: 08 de febrero, 2022
 title: "Convocatoria 2022 al Premio GBIF para Jóvenes Investigadores"
-date:  2022-02-08
+description: _Hasta el 30 de mayo se reciben aplicaciones de estudiantes de posgrado que deseen ser nominados._
+date: 2022-02-08
 categories: ["GBIF", "Young Researchers Award", "Convocatorias", "2022"]
 background: /assets/images/noticias_eventos/2022/2022-02-08-jovenes-investigadores-GBIF.png
 
@@ -22,6 +23,7 @@ Este año, el programa otorgará **dos premios de 5.000 euros** para reconocer e
 3. Un jurado organizado por el Comité Científico de GBIF selecciona, entre los nominados globales, a los dos ganadores del Premio Jóvenes Investigadores 2022.
 4. **Los ganadores se anunciarán a final de septiembre de 2022** y se presentarán en la 29ª reunión del Comité de Dirección de GBIF (GB29), prevista en Bruselas en octubre.
 
+[ENVIAR CORREO CON INSCRIPCIÓN](mailto:sib@humboldt.org.co){:target="_blank" .button .is-primary}
 
 ## Elegibilidad Colombia
 
