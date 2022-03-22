@@ -1,6 +1,7 @@
 ---
 preTitle: 22 de marzo, 2022
 title: "Lo que dicen los datos sobre los frailejones"
+description: _Frailejón Ernesto Pérez es un personaje que se hizo popular gracias a su pegajosa canción. ¿Qué dicen los datos de biodiversidad de Colombia sobre esta planta?_
 date: 2022-03-22
 categories: ["Plantas", "Páramos", "Datos Abiertos", "2022"]
 background: /assets/images/noticias_eventos/2022/2022-03-22-frailejon.jpg
