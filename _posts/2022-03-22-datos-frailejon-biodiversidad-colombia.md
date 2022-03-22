@@ -18,7 +18,7 @@ Así, Frailejón Ernesto Pérez se presenta como un amigo y habla, entre otras c
 
 * De las especies de frailejones observadas, **cerca de 74 % se han catalogado como endémicas** (73), es decir, solo crecen en Colombia.
 
-* A nivel nacional, 55 especies de frailejones se encuentran en alguna categoría de amenaza: 15 En Peligro Crítico, 25 En Peligro y 15 Vulnerables (según las [categorías y criterios de la lista roja de la UICN](https://www.iucn.org/es/content/categorias-y-criterios-de-la-lista-roja-de-la-uicn-version-31-segunda-edicion)).<sup>1</sup>
+* A nivel nacional, 55 especies de frailejones se encuentran en alguna categoría de amenaza: 15 En Peligro Crítico, 25 En Peligro y 15 Vulnerables (según las [categorías y criterios de la lista roja de la UICN](https://www.iucn.org/es/content/categorias-y-criterios-de-la-lista-roja-de-la-uicn-version-31-segunda-edicion)).[^1]
 
 * El SiB Colombia cuenta con más de **[22.000](https://biodiversidad.co/data/?taxonKey=7943829&taxonKey=3105048&taxonKey=6301145&taxonKey=6301146&taxonKey=3105073&taxonKey=3105099&taxonKey=11161330&taxonKey=8992864&taxonKey=3122344&taxonKey=3122354&taxonKey=3122380&taxonKey=3105060&taxonKey=3105075&taxonKey=3105076&taxonKey=3105087&taxonKey=3105088&taxonKey=3105089&taxonKey=3105108&taxonKey=3105124&taxonKey=3091969) observaciones de frailejones**, publicados por profesionales de la biología; las más antiguas datan de 1953 y las más recientes, de 2021.
 
@@ -28,21 +28,21 @@ Así, Frailejón Ernesto Pérez se presenta como un amigo y habla, entre otras c
 
 * Otro nombre curioso es el **_frailejón de los estupendos_** (_[Espeletia mirabilis](http://repository.humboldt.org.co/handle/20.500.11761/35925)_), crece hasta 1,2 metros de altura, tiene hojas suaves de 26 a 35 cm de largo y también da flores amarillas. Es otra de las especies amenazadas y se encuentra en peligro crítico.
 
-* **Los frailejones son torres vivientes de agua.** Sus tallos y hojas carnosas actúan como esponjas que acumulan agua y luego liberan en el ecosistema.<sup>1</sup>
+* **Los frailejones son torres vivientes de agua.** Sus tallos y hojas carnosas actúan como esponjas que acumulan agua y luego liberan en el ecosistema.[^1]
 
-* **El metabolismo de los frailejones contribuye con la regulación hídrica** del ecosistema, ya que responden rápidamente a las variaciones climáticas y regulan su tasa de transpiración.<sup>1</sup>
+* **El metabolismo de los frailejones contribuye con la regulación hídrica** del ecosistema, ya que responden rápidamente a las variaciones climáticas y regulan su tasa de transpiración.[^1]
 
-* Los frailejones son el hogar de unas 150 especies, se ha reportado que arácnidos, insectos, moluscos, anfibios, reptiles, aves y mamíferos se alimentan o habitan en ellos.<sup>1</sup>
+* Los frailejones son el hogar de unas 150 especies, se ha reportado que arácnidos, insectos, moluscos, anfibios, reptiles, aves y mamíferos se alimentan o habitan en ellos.[^1]
 
 ## [H2] Boyacá, el rey de los frailejones
 
 De las 98 especies de frailejones registradas, más de la mitad (51) crece en los páramos del departamento de [Boyacá](https://boyaca.biodiversidad.co/#/grupos?name=FRAILEJONES&id=30).[^3]
 
-* De las 73 especies endémicas del país, casi la mitad (47) se han registrado en Boyacá.<sup>2</sup>
+* De las 73 especies endémicas del país, casi la mitad (47) se han registrado en Boyacá.[^2]
 
-* Una cuarta parte (5.610) de los registros biológicos publicados a través del SiB Colombia sobre frailejones, son de Boyacá.<sup>3</sup>
+* Una cuarta parte (5.610) de los registros biológicos publicados a través del SiB Colombia sobre frailejones, son de Boyacá.[^3]
 
-* En total, en Boyacá se han observado 16 especies de frailejones en alguna categoría de amenaza; 6 Vulnerables, 8 En Peligro, y 2 En Peligro Crítico.<sup>3 (corte 2021-T4)</sup>
+* En total, en Boyacá se han observado 16 especies de frailejones en alguna categoría de amenaza; 6 Vulnerables, 8 En Peligro, y 2 En Peligro Crítico.[^3]<sup>(corte 2021-T4)</sup>
 
 
 ## [H2] Sobre los páramos, el ecosistema del frailejón
@@ -51,13 +51,13 @@ De las 98 especies de frailejones registradas, más de la mitad (51) crece en lo
 
 * 49 % de los páramos de Sudamérica se encuentran en [Colombia](https://www.wwf.org.co/?331410/Cinco-datos-sobre-Colombia-natural#:~:text=El%20nuestro%20es%20un%20pa%C3%ADs,colombianos%20proviene%20de%20los%20p%C3%A1ramos.).
 
-* En un páramo típico de Colombia en buen estado de conservación puede haber **entre 2000 y  20.000 frailejones adultos por hectárea**.<sup>1</sup>
+* En un páramo típico de Colombia en buen estado de conservación puede haber **entre 2000 y  20.000 frailejones adultos por hectárea**.[^1]
 
-* Algunos de los páramos del departamento de Boyacá,** donde más frailejones se han observado**, son: La Rusia, Rechiniga, Guantiva, Tota-vijagual, Cristales y Castillejo.
+* Algunos de los páramos del departamento de Boyacá, **donde más frailejones se han observado**, son: La Rusia, Rechiniga, Guantiva, Tota-vijagual, Cristales y Castillejo.
 
 * Los páramos también son el hábitat de especies como el oso de Anteojos, el cóndor de los Andes, conejos, comadrejas, águilas, patos y alondras, entre otras 4.700 especies de plantas que son claves para el control del dióxido de carbono.
 
-* Los frailejones son importantes para Colombia y la [vida](https://www.wwf.org.co/?204268/Soy-pramosoy-vida#:~:text=La%20importancia%20del%20p%C3%A1ramo,a%20evitar%20el%20calentamiento%20global.) en general. Ayudan a la regulación hídrica de los ecosistemas, captan agua y moderan su escorrentía. También brindan hogar y alimento a algunos animales y protegen los suelos de los páramos de la erosión.<sup>1</sup>
+* Los frailejones son importantes para Colombia y la [vida](https://www.wwf.org.co/?204268/Soy-pramosoy-vida#:~:text=La%20importancia%20del%20p%C3%A1ramo,a%20evitar%20el%20calentamiento%20global.) en general. Ayudan a la regulación hídrica de los ecosistemas, captan agua y moderan su escorrentía. También brindan hogar y alimento a algunos animales y protegen los suelos de los páramos de la erosión.[^1]
 
 ___
 
