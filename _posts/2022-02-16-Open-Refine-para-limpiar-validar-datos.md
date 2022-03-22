@@ -1,7 +1,8 @@
 ---
-preTitle: 2022-02-16
+preTitle: 16 de febrero, 2022
 title: "Open Refine para limpiar y validar datos sobre biodiversidad de Colombia"
-date:  2022-02-16
+description: _Herramientas para mejorar la calidad de los datos sobre biodiversidad usadas en el SiB Colombia._
+date: 2022-02-16
 categories: ["Tutoriales", "Open Refine", "Datos", "Formación", "2022"]
 background: /assets/images/noticias_eventos/2022/2022-02-16-open-refine.jpg
 
@@ -14,7 +15,7 @@ Al validar y limpiar datos sobre biodiversidad, estos pueden encontrarse en form
 
 Open Refine puede usarse para depurar todo tipo de datos y, lo mejor, es de código abierto. En el contexto del manejo de información sobre biodiversidad, **es recomendable que se siga el estándar Darwin Core.**
 
-Si quiere conocer más sobre este estándar, consulte la sección sobre [plantillas Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc).
+Si quiere conocer más sobre este estándar, consulte la sección sobre [plantillas Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc){:target="_blank"}.
 
 
 ## ¿Cómo usar Open Refine para corregir datos de biodiversidad?
@@ -23,7 +24,7 @@ Con Open Refine se pueden corregir errores de digitación, espacios en blanco in
 
 Adicional a las funciones ya mencionadas, **es posible validar la taxonomía de un conjunto de datos utilizando Open Refine**. Esto se logra a través del [API de GBIF](https://www.gbif.org/es/developer/summary){:target="_blank"}, el cual facilita un árbol taxonómico actualizado, robusto y respaldado por la comunidad científica. 
 
-También es posible conectar Open Refine con muchos otros servicios externos utilizando sus API. Una guía paso a paso se encuentra disponible en los [Laboratorios del Ciclo de Formación del SiB Colombia](https://biodiversidad.co/formacion/laboratorios/OpenRefine).
+También es posible conectar Open Refine con muchos otros servicios externos utilizando sus API. Una guía paso a paso se encuentra disponible en los [Laboratorios del Ciclo de Formación del SiB Colombia](https://biodiversidad.co/formacion/laboratorios/OpenRefine){:target="_blank"}.
 
 Por último, el video [¿Cómo usar Open Refine?](https://www.youtube.com/watch?v=etfFcchjP1Q){:target="_blank"} es una introducción a las funciones más utilizadas de este software.
 
