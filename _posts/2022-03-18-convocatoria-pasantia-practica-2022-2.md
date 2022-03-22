@@ -1,7 +1,7 @@
 ---
-title:  "Haz tu pasantía o práctica laboral en el SiB Colombia"
-pretitle: 2022-03-18
-date:   2022-03-18
+preTitle: 2022-03-18
+title: "Haz tu pasantía o práctica laboral en el SiB Colombia"
+date: 2022-03-18
 categories: ["Pasantías", "Prácticas", "Convocatorias", "Instituto Humboldt", "Estado Joven", "2022"]
 background: https://thumbnails.production.thenounproject.com/75OvdqdWdJgXAESAtjUhqiSfZ1M=/fit-in/1000x1000/photos.production.thenounproject.com/photos/527BCD7C-61CD-4CE5-8594-6F50D4114137.jpg
 ---
