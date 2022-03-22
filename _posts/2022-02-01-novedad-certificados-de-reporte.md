@@ -1,7 +1,8 @@
 ---
-preTitle: 2022-02-01
+preTitle: 1 de febrero, 2022
 title: "Procedimiento temporal para reportar datos asociados a permisos de recolección"
-date:  2022-02-01
+description: _La expedición de certificados de reporte de datos sobre biodiversidad, asociados a permisos de recolección y contratos de acceso a recursos genéticos, tiene un nuevo procedimiento._
+date: 2022-02-01
 categories: ["Certificados", "Publicación de datos", "2022"]
 background: /assets/images/noticias_eventos/2022/2022-02-01-novedad-certificados.jpg
 
