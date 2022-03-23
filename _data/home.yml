@@ -45,7 +45,7 @@ estadisticas:
 noticias:
   features:
   
-    - preTitle: Convocatorias
+    - preTitle: Datos abiertos
       title: Lo que dicen los datos sobre los frailejones
       description: |      # required
         Frailejón Ernesto Pérez es el personaje de moda. Aquí algunos datos de esta planta.
@@ -78,7 +78,7 @@ noticias:
         href: post/2022/convocatoria-reto-ebbe-nielsen-2022
         isPrimary: false
         
-    - preTitle: Blog
+    - preTitle: Videos
       title: Tutorial para limpiar y validar datos
       description: |      # required
         Open Refine es un software abierto que procesa datos de manera masiva. 
