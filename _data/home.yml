@@ -48,7 +48,7 @@ noticias:
     - preTitle: Convocatorias
       title: Lo que dicen los datos sobre los frailejones
       description: |      # required
-        Frailejón Ernesto Pérez se hizo popular gracias a su canción. Aquí algunos datos de esta planta.
+        Frailejón Ernesto Pérez es el personaje de moda. Aquí algunos datos de esta planta.
       # img required
       background: /assets/images/noticias_eventos/2022/2022-03-22-frailejon.jpg
       cta:
@@ -59,7 +59,7 @@ noticias:
     - preTitle: Convocatorias
       title: Haz tu pasantía o práctica laboral en el SiB Colombia
       description: |      # required
-        Siete vacantes se han abierto para el período 2022-2, aplicaciones hasta el 17 de abril del 2022.
+        Siete vacantes disponibles para el período 2022-2, aplicaciones hasta el 17 de abril.
       # img required
       background: https://thumbnails.production.thenounproject.com/75OvdqdWdJgXAESAtjUhqiSfZ1M=/fit-in/1000x1000/photos.production.thenounproject.com/photos/527BCD7C-61CD-4CE5-8594-6F50D4114137.jpg
       cta:
