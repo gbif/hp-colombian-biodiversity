@@ -20,12 +20,12 @@ composition:
   - type: heroImage # the block type
   - data: home.stats
     type: stats
+  - data: home.noticias
+    type: features
   - data: home.textoAlerta2
     type: floatingText
   - data: home.splitAlianzaSectorEmpresarial
     type: split
-  - data: home.noticias
-    type: features
   - data: home.splitActividadPublicacion
     type: split
   #- type: latestPosts
