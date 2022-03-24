@@ -16,11 +16,8 @@ composition:
 
 
 
-### Esta es una lista en construcción de los proyectos nacionales con participación del SiB Colombia
 
-
-
-| Nombre| Vigencia | Objetivo del proyecto |
+| Nombre del proyecto | Vigencia | Objetivo |
 | -------- | -------- | -------- |
 |[Proyecto EPM - Cuenca media y baja del río Cauca](/comunidad/proyectos/nacionales/epm)|2021 - en progreso|Hacer un análisis integral del territorio en la cuenca media y baja del Río Cauca con énfasis en la Gestión Integral de la Biodiversidad y Servicios Ecosistémicos|
 |[Mapa de Vegetación de Colombia](/comunidad/proyectos/nacionales/mapa-vegetacion)|2021 - en progreso|Aportar al conocimiento básico de la flora nacional y servir como insumo para la protección y conservación de los suelos |
