@@ -6,8 +6,7 @@ background:  /comunidad/proyectos/images/Arcyria-denudata.jpg
 imageLicense: |
   Fotografía de: Rocky Houghtby vía [Flickr](https://flic.kr/p/eLLGh9) 
 height: 41vh
-permalink: comunidad/proyectos/repositorio-bid-caribe2020
-
+permalink: comunidad/proyectos/repositorio-bid
 ---
 
 **Información sobre Biodiversidad para el Desarrollo** (BID, siglas en inglés de *Biodiversity Information for Development*) es un programa plurianual financiado por la Unión Europea y dirigido por GBIF con el objetivo de mejorar la capacidad para la movilización y el uso efectivos de datos sobre biodiversidad en investigación y políticas en las naciones del Caribe, el Pacífico y el África Subsahariana.
