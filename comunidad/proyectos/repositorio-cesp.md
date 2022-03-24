@@ -20,7 +20,7 @@ Las convocatorias anuales de propuestas bajo el programa CESP brindan cofinancia
 
 - **2. Apoyo a eventos regionales y talleres de capacitación:** Cursos y talleres con un componente regional (multinacional) para mejorar la capacidad de las personas o redes para contribuir y beneficiarse de GBIF.
 
-- **3. Documentación:** Producción de recursos clave de aprendizaje y promoción o su adaptación al contexto nacional o regional (por ejemplo, mediante traducción o incluyendo perspectivas locales/regionales). La Secretaría de GBIF aboga por la primera documentación digital para brindar orientación técnica y apoyar la capacitación y el desarrollo de habilidades en las comunidades de práctica de GBIF. Las características clave de este sistema incluyen documentación estandarizada, actualizaciones de rutina, versiones, traducciones, aportes de la comunidad, revisión por pares y formato de búsqueda.
+- **3. Documentación:** Producción de recursos clave de aprendizaje o su adaptación al contexto nacional o regional (por ejemplo, mediante traducción o incluyendo perspectivas locales/regionales). El secretariado de GBIF promuebe por la documentación digital para brindar orientación técnica y apoyar la capacitación y el desarrollo de habilidades en las comunidades de práctica de GBIF. Las características clave de este sistema incluyen documentación estandarizada, actualizaciones de rutina, versiones, traducciones, aportes de la comunidad y revisión por pares.
 
 
 ### En progreso
