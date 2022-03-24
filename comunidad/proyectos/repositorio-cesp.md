@@ -1,6 +1,6 @@
 ---
 layout: heroImage
-title: Proyectos CESP de los cuales hace parte SiB Colombia 
+title: Proyectos CESP 
 description: El Programa de Apoyo al Fortalecimiento de Capacidades (CESP, por *Capacity Enhancement Support Programme*) es una iniciativa de GBIF que facilita la colaboración regional y global entre sus miembros.
 background:  https://live.staticflickr.com/6164/6170947918_dc421f3980_b.jpg
 imageLicense: |
@@ -22,9 +22,8 @@ Las convocatorias anuales de propuestas bajo el programa CESP brindan cofinancia
 
 - **3. Documentación:** Producción de recursos clave de aprendizaje y promoción o su adaptación al contexto nacional o regional (por ejemplo, mediante traducción o incluyendo perspectivas locales/regionales). La Secretaría de GBIF aboga por la primera documentación digital para brindar orientación técnica y apoyar la capacitación y el desarrollo de habilidades en las comunidades de práctica de GBIF. Las características clave de este sistema incluyen documentación estandarizada, actualizaciones de rutina, versiones, traducciones, aportes de la comunidad, revisión por pares y formato de búsqueda.
 
-## Listado de proyectos
 
-### Proyectos en progreso
+### En progreso
 
 |    |    |
 | ---|--- |
@@ -68,7 +67,7 @@ ___
 
 ___
 
-### Proyectos terminados
+### Proyectos finalizados
 
 |    |    |
 | ---|--- |
