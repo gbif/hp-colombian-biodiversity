@@ -22,7 +22,7 @@ composition:
 
 | Nombre| Vigencia | Objetivo del proyecto |
 | -------- | -------- | -------- |
-|[Proyecto EPM - HidroItuango](/comunidad/proyectos/nacionales/epm)|2021 - en progreso|Hacer un análisis integral del territorio en la cuenca media y baja del Río Cauca con énfasis en la Gestión Integral de la Biodiversidad y Servicios Ecosistémicos|
+|[Proyecto EPM - Cuenca media y baja del río Cauca](/comunidad/proyectos/nacionales/epm)|2021 - en progreso|Hacer un análisis integral del territorio en la cuenca media y baja del Río Cauca con énfasis en la Gestión Integral de la Biodiversidad y Servicios Ecosistémicos|
 |[Mapa de Vegetación de Colombia](/comunidad/proyectos/nacionales/mapa-vegetacion)|2021 - en progreso|Aportar al conocimiento básico de la flora nacional y servir como insumo para la protección y conservación de los suelos |
 |[Proyecto de turismo cientíﬁco de naturaleza - Nariño Bio](/comunidad/proyectos/nacionales/turismo-científico)|2020 - en progreso|Crear de la estrategia de innovación social de turismo cientíﬁco de naturaleza en la Reserva Natural La Planada |
 | [Alianza ANDI -SiB Colombia](https://biodiversidad.co/empresas)    | 2020 - en progreso    | Incentivar la participación del sector empresarial en la creación de datos sobre biodiversidad en Colombia     |
