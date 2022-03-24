@@ -44,7 +44,7 @@ tarjetasUso:
       #preTitle:  Listado # optional
     - title: Proyectos nacionales
       description: |      # required
-       Listado (en progreso) de proyectos realizados en Colombia
+       Proyectos nacionales con participación del SiB Colombia
       # img required
       background: /comunidad/proyectos/images/proyectos-nacionales.png
       cta:
@@ -56,7 +56,7 @@ tarjetasUso:
      #preTitle: Listado  # optional
     - title: Proyectos CESP # required
       description: |      # required
-       Programa de Apoyo a la Mejora de la Capacidad (CESP, por sus siglas en inglés).
+       Programa de GBIF encofado en el apoyo y mejora de capacidades en gestión y publicación de datos sobre biodiversidad.
       background: /comunidad/proyectos/images/proyectos-cesp.png
       cta:
       - text: Ver todos
@@ -66,7 +66,7 @@ tarjetasUso:
      #preTitle:  Listado # optional
     - title: Proyectos BID
       description: |      # required
-       Programa de Información sobre Biodiversidad para el Desarrollo (BID, por sus siglas en inglés)
+       Programa de Información sobre Biodiversidad para el Desarrollo.
       # img required
       background: /comunidad/proyectos/images/proyectos-bid-caribe2020.png
       cta:
