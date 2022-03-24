@@ -64,12 +64,12 @@ tarjetasUso:
         isPrimary: true
       
      #preTitle:  Listado # optional
-    - title: Proyectos BID-Caribe 2020
+    - title: Proyectos BID
       description: |      # required
        Programa de Información sobre Biodiversidad para el Desarrollo (BID, por sus siglas en inglés)
       # img required
       background: /comunidad/proyectos/images/proyectos-bid-caribe2020.png
       cta:
       - text: Ver todos
-        href: /comunidad/proyectos/repositorio-bid-caribe2020
+        href: /comunidad/proyectos/repositorio-bid
         isPrimary: true    
