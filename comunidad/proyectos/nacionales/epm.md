@@ -4,9 +4,9 @@ title:  "Proyecto EPM"
 description: El SiB Colombia realiza acompañamieno ambiental al [Proyecto Hidroeléctrico Ituango]
 ---
 
-## Proyecto EPM - HidroItuango
+## Proyecto EPM - Cuenca baja y media del río Cauca
 
-El SiB Colombia apoya los compromisos ambientales del [Proyecto Hidroeléctrico Ituango](https://cu.epm.com.co/institucional/proyectos/proyecto-hidroelectrico-ituango){:target="_blank"}, la más grande iniciativa de generación de energía que actualmente está en marcha en Colombia.
+El SiB Colombia apoya los compromisos ambientales del [Proyecto Hidroeléctrico de Ituango](https://cu.epm.com.co/institucional/proyectos/proyecto-hidroelectrico-ituango){:target="_blank"}, la más grande iniciativa de generación de energía que actualmente está en marcha en Colombia.
 
 El proyecto ambiental relacionado con el proyecto de HidroItuango inició en el segundo semestre de 2021. Su objetivo principal es desarrollar un análisis integral territorial de la cuenca media y baja del Río Cauca, con énfasis en la Gestión Integral de la Biodiversidad y Servicios Ecosistémicos. Dentro de este trabajo se incluye un análisis de las tendencias de la biodiversidad y la cuantificación de la No Pérdida Neta de Biodiversidad como medida de las acciones implementadas en el marco de las compensaciones ambientales en el área de influencia del proyecto.
 
