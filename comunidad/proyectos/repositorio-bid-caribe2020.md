@@ -1,7 +1,7 @@
 ---
 layout: heroImage
-title: Proyectos BID Caribe 2020 de los cuales hace parte SiB Colombia 
-description: Movilizar datos para proteger la bioidversiad
+title: Proyectos BID 
+description: Mejora de capacidades para la movilización de datos sobre biodiversidad
 background:  /comunidad/proyectos/images/Arcyria-denudata.jpg
 imageLicense: |
   Fotografía de: Rocky Houghtby vía [Flickr](https://flic.kr/p/eLLGh9) 
@@ -10,14 +10,12 @@ permalink: comunidad/proyectos/repositorio-bid-caribe2020
 
 ---
 
-**Información sobre Biodiversidad para el Desarrollo** (BID, siglas en inglés de *Biodiversity Information for Development*) es un programa plurianual financiado por la Unión Europea y dirigido por GBIF con el objetivo de mejorar la capacidad para la movilización y el uso efectivos de datos de biodiversidad en investigación y políticas en las naciones del Caribe, el Pacífico y el África Subsahariana.
+**Información sobre Biodiversidad para el Desarrollo** (BID, siglas en inglés de *Biodiversity Information for Development*) es un programa plurianual financiado por la Unión Europea y dirigido por GBIF con el objetivo de mejorar la capacidad para la movilización y el uso efectivos de datos sobre biodiversidad en investigación y políticas en las naciones del Caribe, el Pacífico y el África Subsahariana.
 
-La financiación de la primera fase del programa ha apoyado actividades y proyectos de mejora de la capacidad para movilizar datos sobre biodiversidad y ha fortalecido las instalaciones e infraestructura de información sobre biodiversidad nacionales y regionales. Sus impactos hasta la fecha se han centrado en datos que respaldan las necesidades de política de las regiones, particularmente en relación con áreas protegidas, especies amenazadas y especies exóticas invasoras. A continuación se presentan los programas de los cuales el SiB Colombia hace parte.
+La financiación de la primera fase del programa ha apoyado actividades y proyectos de mejora de la capacidad para movilizar datos sobre biodiversidad y ha fortalecido las instalaciones e infraestructura de información sobre biodiversidad nacionales y regionales. Sus impactos hasta la fecha se han centrado en datos que respaldan las necesidades de política de las regiones, particularmente en relación con áreas protegidas, especies amenazadas y especies exóticas invasoras. A continuación se presentan los proyectos del programa BID de los cuales el SiB Colombia hace parte.
 
 <img src="/comunidad/proyectos/images/logo-BID.png" width=770>
 
-
-#### Lista de proyectos
 
 |    |    |
 | ---|--- |
