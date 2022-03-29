@@ -1,8 +1,10 @@
 ---
 layout: compose
+klass: compositionBlocks
 title: Consulta de datos e información
 description: Estas herramientas facilitan el acceso y la descarga de todos los registros biológicos, incluidos los datos de los especímenes de colecciones biológicas y eventos de muestreo.
-background: 
+hasTextShadow: true
+permalink: /consultar
 height: 41vh
 toc: false
 composition:
