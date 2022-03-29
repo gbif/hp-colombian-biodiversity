@@ -13,13 +13,46 @@ textPortal:
   title: Portal de datos
   description: |      # required
     Consulta de registros biológicos y conjuntos de datos con alto nivel de detalle. El portal de datos está conectado con GBIF y ofrece evidencia de la presencia de una especie o taxón en un lugar y una fecha determinados.
-  background: https://live.staticflickr.com/6070/6057060507_b4a6c5d794_k.jpg
+  background: https://live.staticflickr.com/6070/6057060507_b06d9a8871_o.jpg
   # overlayColor: "#ffffff"
-  hasWhiteText: false
+  hasWhiteText: true
   cta:      # optional
   - text: Explorar
     href: https://biodiversidad.co/data/
     isPrimary: true
-  center: false
+  center: true
   
-  
+featuresAplicaciones:
+  features:
+
+    - preTitle: Portal de datos
+      title: Listas de chequeo
+      description: Datos categorizados a nivel taxonómico, junto con información geográfica o temática.
+      background: /assets/images/consultar/orquidea.jpg
+      cta:
+      - text: Consultar listas
+        href: https://biodiversidad.co/dataset/search?type=CHECKLIST
+        isPrimary: true
+
+    - preTitle: Catálogo de la biodiversidad
+      title: Fichas de especies
+      description: Contienen información sobre historia natural, distribución, hábitat, usos, taxonomía, entre otros. 
+      background: /assets/images/consultar/ranaChocolate.jpg
+      cta:
+      - text: Consultar fichas
+        href: https://catalogo.biodiversidad.co/
+        isPrimary: true
+
+    - preTitle: Gacetero
+      title: Localidades
+      description: Mapa con puntos de localización donde se recolectaron especímenes y fueron georreferenciados.      
+      background: /assets/images/consultar/saltamontes.jpg
+      cta:
+      - text: Consultar localidades
+        href: https://hp-colombian-biodiversity.gbif-staging.org/consultar/gacetero/
+        isPrimary: true
+
+        
+        
+        
+        
