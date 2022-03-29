@@ -1,0 +1,25 @@
+# Landing consultar
+
+textConsulta:
+  title: Consulta de datos e información
+  description: |      # required
+    Estas herramientas facilitan el acceso y la descarga de todos los registros biológicos, incluidos los datos de los especímenes de colecciones biológicas y eventos de muestreo.
+  # background: 
+  # overlayColor: "#ffffff"
+  hasWhiteText: false
+  
+textPortal:
+  preTitle: Consulta avanzada
+  title: Portal de datos
+  description: |      # required
+    Consulta de registros biológicos y conjuntos de datos con alto nivel de detalle. El portal de datos está conectado con GBIF y ofrece evidencia de la presencia de una especie o taxón en un lugar y una fecha determinados.
+  background: https://live.staticflickr.com/6070/6057060507_b4a6c5d794_k.jpg
+  # overlayColor: "#ffffff"
+  hasWhiteText: false
+  cta:      # optional
+  - text: Explorar
+    href: https://biodiversidad.co/data/
+    isPrimary: true
+  center: false
+  
+  
