@@ -13,7 +13,7 @@ textPortal:
   title: Portal de datos
   description: |      # required
     Consulta de registros biológicos y conjuntos de datos con alto nivel de detalle. El portal de datos está conectado con GBIF y ofrece evidencia de la presencia de una especie o taxón en un lugar y una fecha determinados.
-  background: https://live.staticflickr.com/6070/6057060507_b06d9a8871_o.jpg
+  background: https://live.staticflickr.com/6070/6057060507_b4a6c5d794_k.jpg
   # overlayColor: "#ffffff"
   hasWhiteText: true
   cta:      # optional
@@ -27,7 +27,7 @@ featuresAplicaciones:
 
     - preTitle: Portal de datos
       title: Listas de chequeo
-      description: Datos categorizados a nivel taxonómico, junto con información geográfica o temática.
+      description: Datos categorizados a nivel taxonómico, junto con información geográfica, temática, entre otros.
       background: /assets/images/consultar/orquidea.jpg
       cta:
       - text: Consultar listas
