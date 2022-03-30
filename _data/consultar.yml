@@ -13,7 +13,9 @@ textPortal:
   title: Portal de datos
   description: |      # required
     Consulta de registros biológicos y conjuntos de datos con alto nivel de detalle. El portal de datos está conectado con GBIF y ofrece evidencia de la presencia de una especie o taxón en un lugar y una fecha determinados.
-  background: https://live.staticflickr.com/6070/6057060507_b4a6c5d794_k.jpg
+  background: /assets/images/consultar/guacamaya.jpg
+  imageLicense: |
+    Foto: il_baro vía [Flickr](https://www.flickr.com/photos/baro/6057060507/in/photostream/)
   # overlayColor: "#ffffff"
   hasWhiteText: true
   cta:      # optional
@@ -52,7 +54,66 @@ featuresAplicaciones:
         href: https://hp-colombian-biodiversity.gbif-staging.org/consultar/gacetero/
         isPrimary: true
 
-        
-        
-        
-        
+textCifras:
+  title: Biodiversidad en cifras
+  description: |      # required
+    Aquí se presenta, de manera sintetizada, el estado del conocimiento de la biodiversidad del país a partir de los datos disponibles en el SiB Colombia y otras fuentes secundarias. Las cifras son una aproximación a la riqueza conocida que tiene Colombia y están en constante actualización.
+  # background: 
+  # overlayColor: "#ffffff"
+  hasWhiteText: false
+
+textColombia:
+  preTitle: Biodiversidad en cifras
+  title: Colombia
+  description: |      # required
+    Colombia es uno de los pocos países megadiversos del mundo, ocupa el primer lugar en aves, orquídeas y mariposas; el segundo en plantas anfibios y peces dulceacuícolas; el tercero en palmas y reptiles y el sexto en variedad de mamíferos.
+  background: /assets/images/consultar/orquidea.jpg
+  imageLicense: |
+    Foto: il_baro vía [Flickr](https://www.flickr.com/photos/baro/6057060507/in/photostream/)
+  # overlayColor: "#ffffff"
+  hasWhiteText: true
+  cta:      # optional
+  - text: Explorar
+    href: https://cifras.biodiversidad.co/
+    isPrimary: true
+  center: true
+
+featuresVentanas:
+  features:
+
+    - preTitle: Biodiversidad en cifras
+      title: Boyacá
+      description: ¡Y dele con el Sirirí! Esta ave, con un nombre científico muy particular: _Tyranus melancholicus_, tiene el mayor número de observaciones en Boyacá.
+      background: /assets/images/consultar/orquidea.jpg
+      cta:
+      - text: Ver más
+        href: https://boyaca.biodiversidad.co/#/
+        isPrimary: true
+
+    - preTitle: Biodiversidad en cifras
+      title: Nariño
+      description: La biodiversidad del sur del país tiene unas características únicas, pronto conocerás más sobre esta zona, especialmente del territorio ancestrál Awá. 
+      background: /assets/images/consultar/orquidea.jpg
+      cta:
+      - text: Ver más
+        href: "#none"
+        isPrimary: true
+
+    - preTitle: Biodiversidad en cifras
+      title: Santander
+      description: ¡Hormigas culonas y mucho más! Solo en Santander se han registrado más de 700 especies de insectos, hasta un escarabajo llamado _Cyclocephala santandereana_.      
+      background: /assets/images/consultar/orquidea.jpg
+      cta:
+      - text: Ver más
+        href: https://santander.biodiversidad.co/
+        isPrimary: true
+
+    - preTitle: Biodiversidad en cifras
+      title: Tolima
+      description: Este departamento fluye con el río Magdalena. Su biodiversidad es el reflejo desde los interandinos de Colombia, hasta los páramos.
+      background: /assets/images/consultar/orquidea.jpg
+      cta:
+      - text: Ver más
+        href: https://tolima.biodiversidad.co/
+        isPrimary: true
+
