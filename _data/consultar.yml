@@ -3,16 +3,15 @@
 textConsulta:
   title: Consulta de datos e información
   description: |      # required
-    Estas herramientas facilitan el acceso y la descarga de todos los registros biológicos, incluidos los datos de los especímenes de colecciones biológicas y eventos de muestreo.
+    El modelo de acceso abierto es el mejor camino para que la sociedad pueda acceder de manera libre y responsable a la información sobre biodiversidad del país. Estas herramientas facilitan su acceso y descarga gratuita.
   # background: 
   # overlayColor: "#ffffff"
   hasWhiteText: false
   
 textPortal:
-  preTitle: Consulta avanzada
   title: Portal de datos
   description: |      # required
-    Consulta de registros biológicos y conjuntos de datos con alto nivel de detalle. El portal de datos está conectado con GBIF y ofrece evidencia de la presencia de una especie o taxón en un lugar y una fecha determinados.
+    Explora diferentes tipos de conjuntos de datos sobre biodiversidad provenientes de múltiples fuentes. Este portal está sincronizado con GBIF y ofrece evidencia de la presencia de una especie o taxón en un lugar y una fecha determinados.
   background: /assets/images/consultar/guacamaya.jpg
   imageLicense: |
     Foto: il_baro vía [Flickr](https://www.flickr.com/photos/baro/6057060507/in/photostream/)
@@ -30,7 +29,7 @@ featuresAplicaciones:
     - preTitle: Portal de datos
       title: Listas de chequeo
       description: |      # required
-        Datos categorizados a nivel taxonómico, junto con información geográfica, temática, entre otros.
+        Listas o catálogos de nombres científicos que generalmente tienen información categorizada a nivel taxonómico, junto con información geográfica o temática.
       background: /assets/images/consultar/orquidea.jpg
       cta:
       - text: Consultar listas
@@ -40,7 +39,7 @@ featuresAplicaciones:
     - preTitle: Catálogo de la biodiversidad
       title: Fichas de especies
       description: |      # required
-        Contienen información sobre historia natural, distribución, hábitat, usos, taxonomía, entre otros. 
+        Información sobre historia natural, distribución, hábitat, usos, taxonomía, nombres comunes, amenazas, usos, conservación, bibliografía relacionada, entre otros. 
       background: /assets/images/consultar/ranaChocolate.jpg
       cta:
       - text: Consultar fichas
@@ -50,7 +49,7 @@ featuresAplicaciones:
     - preTitle: Gacetero
       title: Localidades
       description: |      # required
-        Georreferenciación, obtenida bajo el método de Radio-Punto, de los lugares donde se recolectaron especímenes.
+        Localidades georreferenciadas a partir de registros biológicos publicados por las colecciones biológicas del país.
       background: /assets/images/consultar/saltamontes.jpg
       cta:
       - text: Consultar localidades
@@ -60,7 +59,7 @@ featuresAplicaciones:
 textCifras:
   title: Biodiversidad en cifras
   description: |      # required
-    Aquí se presenta, de manera sintetizada, el estado del conocimiento de la biodiversidad del país a partir de los datos disponibles en el SiB Colombia y otras fuentes secundarias. Las cifras son una aproximación a la riqueza conocida que tiene Colombia y están en constante actualización.
+    Una síntesis del estado del conocimiento de la biodiversidad del país a partir de los datos disponibles en el SiB Colombia y otras fuentes secundarias. Las cifras son una aproximación a la riqueza conocida que tiene Colombia y están en constante actualización.
   # background: 
   # overlayColor: "#ffffff"
   hasWhiteText: false
@@ -69,14 +68,14 @@ textColombia:
   preTitle: Biodiversidad en cifras
   title: Colombia
   description: |      # required
-    Colombia es uno de los pocos países megadiversos del mundo, ocupa el primer lugar en aves, orquídeas y mariposas; el segundo en plantas anfibios y peces dulceacuícolas; el tercero en palmas y reptiles y el sexto en variedad de mamíferos.
+    Una síntesis del estado del conocimiento de la biodiversidad del país a partir de los datos disponibles en el SiB Colombia y otras fuentes secundarias. Las cifras son una aproximación a la riqueza conocida que tiene Colombia y están en constante actualización.
   background: /assets/images/consultar/montanasTolima.jpg
   imageLicense: |
     Foto: Felipe Villegas, Instituto Humboldt.
   # overlayColor: "#ffffff"
   hasWhiteText: true
   cta:      # optional
-  - text: Explorar
+  - text: Explorar Colombia
     href: https://cifras.biodiversidad.co/
     isPrimary: true
   center: true
