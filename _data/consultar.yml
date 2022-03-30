@@ -29,7 +29,7 @@ featuresAplicaciones:
     - preTitle: Portal de datos
       title: Listas de chequeo
       description: |      # required
-        Listas o catálogos de nombres científicos que generalmente tienen información categorizada a nivel taxonómico, junto con información geográfica o temática.<br/>
+        Listas o catálogos de nombres científicos que generalmente tienen información categorizada a nivel taxonómico, junto con información geográfica o temática.
       background: /assets/images/consultar/orquidea.jpg
       cta:
       - text: Consultar listas
@@ -39,7 +39,7 @@ featuresAplicaciones:
     - preTitle: Catálogo de la biodiversidad
       title: Fichas de especies
       description: |      # required
-        Información sobre historia natural, distribución, hábitat, usos, taxonomía, nombres comunes, amenazas, usos, conservación, bibliografía relacionada, entre otros. 
+        Información sobre historia natural, distribución, hábitat, usos, taxonomía, nombres comunes, amenazas, conservación, bibliografía relacionada, entre otros. 
       background: /assets/images/consultar/ranaChocolate.jpg
       cta:
       - text: Consultar fichas
