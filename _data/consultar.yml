@@ -29,7 +29,7 @@ featuresAplicaciones:
     - preTitle: Portal de datos
       title: Listas de chequeo
       description: |      # required
-        Listas o catálogos de nombres científicos que generalmente tienen información categorizada a nivel taxonómico, junto con información geográfica o temática.
+        Listas o catálogos de nombres científicos que generalmente tienen información categorizada a nivel taxonómico, junto con información geográfica o temática.<br/>
       background: /assets/images/consultar/orquidea.jpg
       cta:
       - text: Consultar listas
@@ -49,7 +49,7 @@ featuresAplicaciones:
     - preTitle: Gacetero
       title: Localidades
       description: |      # required
-        Localidades georreferenciadas a partir de registros biológicos publicados por las colecciones biológicas del país.
+        Localidades georreferenciadas a partir de registros biológicos publicados por las colecciones biológicas del país.<br/><br/>
       background: /assets/images/consultar/saltamontes.jpg
       cta:
       - text: Consultar localidades
