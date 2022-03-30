@@ -101,7 +101,7 @@ featuresVentanas:
       background: https://live.staticflickr.com/1638/24388557685_0017cb6f98_b.jpg
       cta:
       - text: Pronto
-        href: 
+        # href: 
         isPrimary: false
 
     - preTitle: Biodiversidad en cifras
@@ -135,6 +135,6 @@ featuresVentanas:
         Foto: Felipe Villegas, Instituto Humboldt.
       cta:
       - text: Pronto
-        href: 
+        # href: 
         isPrimary: false
  
