@@ -50,7 +50,7 @@ featuresAplicaciones:
     - preTitle: Gacetero
       title: Localidades
       description: |      # required
-        Mapa con puntos de localización donde se recolectaron especímenes y fueron georreferenciados.      
+        Georreferenciación, obtenida bajo el método de Radio-Punto, de los lugares donde se recolectaron especímenes.
       background: /assets/images/consultar/saltamontes.jpg
       cta:
       - text: Consultar localidades
