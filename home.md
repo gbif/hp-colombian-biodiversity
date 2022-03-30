@@ -13,7 +13,7 @@ navbar:
   hasWhiteText: false
 cta:
   - text: CONSULTAR
-    href: /data
+    href: /consultar
     isPrimary: true
 permalink: /
 composition:
