@@ -15,8 +15,6 @@ composition:
 - type: features
   data: consultar.featuresAplicaciones
 - type: floatingText
-  data: consultar.textCifras
-- type: floatingText
   data: consultar.textColombia
 - type: features
   data: consultar.featuresVentanas
