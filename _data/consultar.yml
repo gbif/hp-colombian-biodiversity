@@ -29,7 +29,8 @@ featuresAplicaciones:
 
     - preTitle: Portal de datos
       title: Listas de chequeo
-      description: Datos categorizados a nivel taxonómico, junto con información geográfica, temática, entre otros.
+      description: |      # required
+        Datos categorizados a nivel taxonómico, junto con información geográfica, temática, entre otros.
       background: /assets/images/consultar/orquidea.jpg
       cta:
       - text: Consultar listas
@@ -38,7 +39,8 @@ featuresAplicaciones:
 
     - preTitle: Catálogo de la biodiversidad
       title: Fichas de especies
-      description: Contienen información sobre historia natural, distribución, hábitat, usos, taxonomía, entre otros. 
+      description: |      # required
+        Contienen información sobre historia natural, distribución, hábitat, usos, taxonomía, entre otros. 
       background: /assets/images/consultar/ranaChocolate.jpg
       cta:
       - text: Consultar fichas
@@ -47,7 +49,8 @@ featuresAplicaciones:
 
     - preTitle: Gacetero
       title: Localidades
-      description: Mapa con puntos de localización donde se recolectaron especímenes y fueron georreferenciados.      
+      description: |      # required
+        Mapa con puntos de localización donde se recolectaron especímenes y fueron georreferenciados.      
       background: /assets/images/consultar/saltamontes.jpg
       cta:
       - text: Consultar localidades
@@ -83,7 +86,8 @@ featuresVentanas:
 
     - preTitle: Biodiversidad en cifras
       title: Boyacá
-      description: ¡Y dele con el Sirirí! Esta ave, con un nombre científico muy particular: _Tyranus melancholicus_, tiene el mayor número de observaciones en Boyacá.
+      description: |      # required
+        ¡Y dele con el Sirirí! Esta ave, con un nombre científico muy particular: _Tyranus melancholicus_, tiene el mayor número de observaciones en Boyacá.
       background: https://live.staticflickr.com/7046/6931380311_b2e363eabc_c.jpg
       cta:
       - text: Ver más
@@ -92,7 +96,8 @@ featuresVentanas:
 
     - preTitle: Biodiversidad en cifras
       title: Nariño
-      description: La biodiversidad del sur del país tiene unas características únicas, pronto conocerás más sobre esta zona, especialmente del territorio ancestrál Awá. 
+      description: |      # required
+        La biodiversidad del sur del país tiene unas características únicas, pronto conocerás más sobre esta zona, especialmente del territorio ancestrál Awá. 
       background: https://live.staticflickr.com/1638/24388557685_0017cb6f98_b.jpg
       cta:
       - text: Ver más
@@ -101,7 +106,8 @@ featuresVentanas:
 
     - preTitle: Biodiversidad en cifras
       title: Santander
-      description: ¡Hormigas culonas y mucho más! Solo en Santander se han registrado más de 700 especies de insectos, hasta un escarabajo llamado _Cyclocephala santandereana_.      
+      description: |      # required
+        ¡Hormigas culonas y mucho más! Solo en Santander se han registrado más de 700 especies de insectos, hasta un escarabajo llamado _Cyclocephala santandereana_.      
       background: https://live.staticflickr.com/7219/7245219732_bfe058f97f_z.jpg
       cta:
       - text: Ver más
@@ -110,7 +116,8 @@ featuresVentanas:
 
     - preTitle: Biodiversidad en cifras
       title: Tolima
-      description: Este departamento fluye con el río Magdalena. Su biodiversidad es el reflejo desde los interandinos de Colombia, hasta los páramos.
+      description: |      # required
+        Este departamento fluye con el río Magdalena. Su biodiversidad es el reflejo desde los interandinos de Colombia, hasta los páramos.
       background: /assets/images/consultar/ranaTolima.jpg
       imageLicense: |
         Foto: Felipe Villegas, Instituto Humboldt.
@@ -121,7 +128,8 @@ featuresVentanas:
 
     - preTitle: Biodiversidad en cifras
       title: Otras regiones
-      description: Próximamente se podrán explorar cifras por áreas geográficas, grupos biológicos y temáticas de conservación, uso y manejo a nivel nacional; junto con algunas cifras departamentales más detalladas producto de un ejercicio de regionalización que está en construcción.
+      description: |      # required
+        Próximamente se podrán explorar cifras por áreas geográficas, grupos biológicos y temáticas de conservación, uso y manejo a nivel nacional; junto con algunas cifras departamentales más detalladas producto de un ejercicio de regionalización que está en construcción.
       background: /assets/images/consultar/frailejon.jpg
       imageLicense: |
         Foto: Felipe Villegas, Instituto Humboldt.
@@ -129,3 +137,4 @@ featuresVentanas:
       - text: Ver más
         href: https://tolima.biodiversidad.co/
         isPrimary: true
+ 
