@@ -70,9 +70,9 @@ textColombia:
   title: Colombia
   description: |      # required
     Colombia es uno de los pocos países megadiversos del mundo, ocupa el primer lugar en aves, orquídeas y mariposas; el segundo en plantas anfibios y peces dulceacuícolas; el tercero en palmas y reptiles y el sexto en variedad de mamíferos.
-  background: /assets/images/consultar/orquidea.jpg
+  background: /assets/images/consultar/montanasTolima.jpg
   imageLicense: |
-    Foto: il_baro vía [Flickr](https://www.flickr.com/photos/baro/6057060507/in/photostream/)
+    Foto: Felipe Villegas, Instituto Humboldt.
   # overlayColor: "#ffffff"
   hasWhiteText: true
   cta:      # optional
@@ -100,9 +100,9 @@ featuresVentanas:
         La biodiversidad del sur del país tiene unas características únicas, pronto conocerás más sobre esta zona, especialmente del territorio ancestrál Awá. 
       background: https://live.staticflickr.com/1638/24388557685_0017cb6f98_b.jpg
       cta:
-      - text: Ver más
-        href: "#none"
-        isPrimary: true
+      - text: Pronto
+        href: 
+        isPrimary: false
 
     - preTitle: Biodiversidad en cifras
       title: Santander
@@ -134,7 +134,7 @@ featuresVentanas:
       imageLicense: |
         Foto: Felipe Villegas, Instituto Humboldt.
       cta:
-      - text: Ver más
-        href: https://tolima.biodiversidad.co/
-        isPrimary: true
+      - text: Pronto
+        href: 
+        isPrimary: false
  
