@@ -122,7 +122,7 @@ featuresVentanas:
         Foto: Felipe Villegas, Instituto Humboldt.
       cta:
       - text: Ver más
-        href: https://tolima.biodiversidad.co/
+        href: http://tolima.biodiversidad.co/#/
         isPrimary: true
 
     - preTitle: Biodiversidad en cifras
