@@ -18,7 +18,7 @@ toc: true
 
 **Enlaces a las herramientas para reportar los datos y generar el certificado de reporte.**
 
-[Herramienta IPT](http://ipt.biodiversidad.co/permisos){:target="_blank" .button .is-primary}  [Herramienta CR-SiB](http://biodiversidad.co//certificados/publicacion-permisos/){:target="_blank" .button .is-primary}
+[Herramienta IPT](http://ipt.biodiversidad.co/permisos){:target="_blank" .button .is-primary}   [Herramienta CR-SiB](http://biodiversidad.co//certificados/publicacion-permisos/){:target="_blank" .button .is-primary}
 
 
 ## 1. Crear el nuevo recurso
