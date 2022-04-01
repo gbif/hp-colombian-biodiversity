@@ -30,7 +30,7 @@ La creación del recurso se hace mediante la herramienta de publicación integra
 
 Las credenciales de acceso, compuestas por el nombre de usuario y la contraseña, se obtienen **registrando al titular del permiso de recolección como proveedor de datos**. Esto se solicita en la sección de [registro](https://biodiversidad.co/compartir/registro){:target="_blank"} de nuestro sitio web.
 
-Este paso **solo hay que hacerlo la primera vez que se van a reportar datos**. Para verificar si un titular del permiso ya es proveedor, se puede consultar este enlace:[https://docs.google.com/spreadsheets/d/1RAVjVpb0pt2eWEiscqqbWObb7m-Oqqdu2NAt_qJNLiQ/edit#gid=0](https://docs.google.com/spreadsheets/d/1RAVjVpb0pt2eWEiscqqbWObb7m-Oqqdu2NAt_qJNLiQ/edit#gid=0){:target="_blank"}  
+Este paso **solo hay que hacerlo la primera vez que se van a reportar datos**. Para verificar si un titular del permiso ya es proveedor, se puede consultar este [enlace](https://docs.google.com/spreadsheets/d/1RAVjVpb0pt2eWEiscqqbWObb7m-Oqqdu2NAt_qJNLiQ/edit#gid=0){:target="_blank"}.
 
 En caso de ya ser proveedor y desconocer las credenciales de acceso, comunícate con el contacto consignado en el registro para obtenerlas.
 
