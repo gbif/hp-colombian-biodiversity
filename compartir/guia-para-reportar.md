@@ -1,6 +1,6 @@
 ---
 layout: heroImage
-title: Guía para reportar datos e información
+title: Guía para reportar datos
 description: Procedimiento para reportar datos sobre biodiversidad derivados de permisos de recolección y contratos de acceso a recursos genéticos.
 background: https://live.staticflickr.com/687/31549418194_3fd0b768f8_h.jpg
 imageLicense: |
@@ -9,15 +9,17 @@ height: 41vh
 toc: true
 ---
 
+## Guía para reportar
+
+<img src="/compartir/Imagenes/guia-para-reportar-datos.png">
+
 <p align=”center”><iframe width="560" height="315" src="https://www.youtube.com/embed/tGzANPQWi7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> 
 
-## Guía para reportar
 
 Enlaces a las herramientas para reportar los datos y generar el certificado de reporte.
 
-[Herramienta IPT](http://ipt.biodiversidad.co/permisos){:target="_blank" .button}
-
-[Herramienta CR-SiB](http://biodiversidad.co//certificados/publicacion-permisos/){:target="_blank" .button}
+| [Herramienta IPT](http://ipt.biodiversidad.co/permisos){:target="_blank" .button .is-primary} | [Herramienta CR-SiB](http://biodiversidad.co//certificados/publicacion-permisos/){:target="_blank" .button .is-primary} |
+|:-----:|:-----:|
 
 
 ## 1. Crear el nuevo recurso
