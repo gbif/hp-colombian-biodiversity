@@ -48,7 +48,7 @@ noticias:
     - preTitle: Permisos de recolección
       title: Reportar datos de ahora es más fácil
       description: |      # required
-        Nuevo modelo para reportar datos derivados de permisos de recolección y contratos...
+        Nuevo modelo para reportar datos derivados de permisos de recolección y...
       # img required
       background: /assets/images/noticias_eventos/2022/2022-04-01-nuevo-procedimiento-reportar-datos.png
       cta:
