@@ -30,14 +30,14 @@ La creación del recurso se hace mediante la herramienta de publicación integra
 
 Las credenciales de acceso, compuestas por el nombre de usuario y la contraseña, se obtienen **registrando al titular del permiso de recolección como proveedor de datos**. Esto se solicita en la sección de [registro](https://biodiversidad.co/compartir/registro){:target="_blank"} de nuestro sitio web.
 
-Este paso **solo hay que hacerlo la primera vez que se van a reportar datos**. Para verificar si un titular del permiso ya es proveedor, se puede consultar este enlace:  
+Este paso **solo hay que hacerlo la primera vez que se van a reportar datos**. Para verificar si un titular del permiso ya es proveedor, se puede consultar este enlace:[https://docs.google.com/spreadsheets/d/1RAVjVpb0pt2eWEiscqqbWObb7m-Oqqdu2NAt_qJNLiQ/edit#gid=0](https://docs.google.com/spreadsheets/d/1RAVjVpb0pt2eWEiscqqbWObb7m-Oqqdu2NAt_qJNLiQ/edit#gid=0){:target="_blank"}  
 
 En caso de ya ser proveedor y desconocer las credenciales de acceso, comunícate con el contacto consignado en el registro para obtenerlas.
 
 
 ### 1.2 Preparar los datos para el reporte 
 
-Los datos deben ser organizados en una estructura de tabla utilizando el estándar Darwin Core (DwC). Para esto se puede usar la versión más reciente de la [plantilla](https://drive.google.com/u/0/uc?id=1mj0XG8GcABmTcZefQfHdHi8_ugJV3roA&export=download){:target="_blank"} de Excel creada para registros biológicos, disponible en la sección [Plantillas Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc/){:target="_blank"} de este sitio. 
+Los datos deben ser organizados en una estructura de tabla utilizando el estándar Darwin Core (DwC). Para esto se puede usar la versión más reciente de la [plantilla](https://drive.google.com/u/0/uc?id=1mj0XG8GcABmTcZefQfHdHi8_ugJV3roA&export=download){:target="_blank"} de Excel creada para registros biológicos y la [extensión de permisos](https://drive.google.com/uc?export=download&id=1vwX9JUx_219CVTF2HrDj7eEukFJyZd2P){:target="_blank"}, disponible en la sección [Plantillas Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc/){:target="_blank"} de este sitio. 
 
 ¿Necesitas ayuda para poner los datos en la plantilla? Consulta el [laboratorio de estandarización de datos en DwC](https://biodiversidad.co/formacion/laboratorios/DWC){:target="_blank"}.
 
@@ -55,8 +55,7 @@ Con esos dos aspectos definidos, solo falta hacer clic en el botón _Crear_.
 
 ## 2. Cargar el conjunto de datos y la extensión de permisos
 
-Una vez creado el recurso, se debe cargar la plantilla DwC, con los datos validados y estandarizados, y la extensión de permisos. 
-
+Una vez creado el recurso, se debe cargar la plantilla DwC, con los datos validados y estandarizados, y la extensión de permisos. Antes de hacer la carga se debe eliminar de la plantilla la traducción en español de los encabezados.
 
 ### 2.1 Cargar los archivos
 
@@ -71,9 +70,11 @@ Es indispensable que los archivos cargados solo contengan los **encabezados con 
 
 La carga del conjunto de datos no está completa hasta que se haga el mapeo DwC. Esta verificación está **automatizada en la herramienta, siempre y cuando los encabezados del archivo coincidan con el estándar en inglés**.
 
-Para iniciar esta verificación, desde la franja _Mapeo Darwin Core_ es necesario hacer clic en el botón _Agregar_, validar que se aplicará sobre el archivo que se está cargando y hacer clic en _Guardar_.
+Para iniciar esta verificación, desde la franja _Mapeo Darwin Core_ se debe seleccionar de la lista desplegable la opción _Darwin Core Occurrence_ y hacer clic en el botón _Agregar_, validar que se aplicará sobre el archivo que se está cargando y hacer clic en _Guardar_. 
 
 En caso de que un encabezado presente algún problema, éste se mostrará en la parte inferior de la página, después de las columnas automapeadas. Esto servirá para verificar la correspondencia de las columnas con los elementos del estándar y hacer las correcciones pertinentes.
+
+Para mapear la extensión se deben seguir los mismos pasos pero seleccionando de la lista desplegable la opción _GGBN Permit Extension_.
 
 La verificación que hace el mapeo DwC, en los archivos de la plantilla con los datos y la extensión de permisos, es necesaria para garantizar la correcta carga de toda la información.
 
