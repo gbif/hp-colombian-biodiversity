@@ -13,13 +13,12 @@ toc: true
 
 <img src="/compartir/Imagenes/guia-para-reportar-datos.png">
 
-<p align=”center”><iframe width="560" height="315" src="https://www.youtube.com/embed/tGzANPQWi7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tGzANPQWi7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Enlaces a las herramientas para reportar los datos y generar el certificado de reporte.
 
-| [Herramienta IPT](http://ipt.biodiversidad.co/permisos){:target="_blank" .button .is-primary} | [Herramienta CR-SiB](http://biodiversidad.co//certificados/publicacion-permisos/){:target="_blank" .button .is-primary} |
-|:-----:|:-----:|
+[Herramienta IPT](http://ipt.biodiversidad.co/permisos){:target="_blank" .button .is-primary}  [Herramienta CR-SiB](http://biodiversidad.co//certificados/publicacion-permisos/){:target="_blank" .button .is-primary}
 
 
 ## 1. Crear el nuevo recurso
