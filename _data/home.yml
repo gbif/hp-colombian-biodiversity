@@ -44,7 +44,18 @@ estadisticas:
 
 noticias:
   features:
-  
+
+    - preTitle: Permisos de recolección
+      title: Reportar datos de ahora es más fácil
+      description: |      # required
+        Nuevo modelo para reportar datos derivados de permisos de recolección y contratos...
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-04-01-nuevo-procedimiento-reportar-datos.png
+      cta:
+      - text: Ver más
+        href: post/2022/nuevo-procedimiento-reportar-datos-sib-colombia/
+        isPrimary: false
+
     - preTitle: Datos abiertos
       title: Lo que dicen los datos sobre los frailejones
       description: |      # required
@@ -99,17 +110,7 @@ noticias:
       - text: Ver más
         href: post/2022/convocatoria-premio-jovenes-investigadores-gbif-2022
         isPrimary: false
-        
-    - preTitle: Publicación de datos
-      title: Datos nuevos o antiguos, ¡todos cuentan!
-      description: |      # required
-        Queremos incrementar la disponibilidad de datos sobre biodiversidad en el país.
-      # img required
-      background: assets/images/minga/cabezote.jpg
-      cta:
-      - text: Ver más
-        href: /compartir/minga-por-la-biodiversidad
-        isPrimary: false 
+         
 
 # Noticias viejas 
 
@@ -186,10 +187,10 @@ splitAlianzaSectorEmpresarial:
     href: /empresas
     isPrimary: true
 
-  
-# Alerta flotante
 
-textoAlerta2:
+# Backup Alerta flotante
+
+textoAlerta3:
   preTitle: ⚠️ Actualización  # optional
   title: Procedimiento temporal para reportar datos asociados a permisos de recolección
   description: |      # required
@@ -202,3 +203,4 @@ textoAlerta2:
     href: /post/2022/novedad-certificados-de-reporte/
     isPrimary: true
   center: true
+  
