@@ -46,7 +46,7 @@ noticias:
   features:
 
     - preTitle: Permisos de recolección
-      title: Reportar datos de ahora es más fácil
+      title: Reportar datos ahora es más fácil
       description: |      # required
         Nuevo modelo para reportar datos derivados de permisos de recolección y...
       # img required
