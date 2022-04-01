@@ -11,18 +11,11 @@ toc: true
 
 <div class="message is-danger">
   <div class="message-header">
-    <p>⚠️ Aviso de actualización de la herramienta de certificados</p>
+    <p>⚠️ Nuevo modelo para reportar datos de permisos de recolección y contratos de acceso a recursos genéticos</p>
   </div>
   <div class="message-body">
-   <p>Estamos trabajando en la <strong>actualización de las herramientas para el reporte de datos asociados a permisos de recolección</strong>. Este proceso ha tardado más tiempo de lo estimado, por lo cual extendemos nuestras excusas por los inconvenientes presentados.</p>
-<p>Para subsanar la situación, y con fines de dar cumplimiento al requisito de reporte   de datos asociados a los permisos de recolección y los contratos de acceso a recursos genéticos, hemos establecido un procedimiento provisional que certifique, vía correo electrónico y de manera temporal, la entrega de la información.</p>
-<p>Para solicitar un certificado, por favor <strong>enviar al correo <a href="mailto:sib@humboldt.org.co">sib@humboldt.org.co</a> las plantillas a reportar</strong>, junto con la siguiente información:</p>
-<ul>
-  <li> Nombre del proyecto a reportar</li>
-  <li>Permiso de recolección asociado a la publicación</li>
-  <li>Titular del permiso</li>
-</ul>
-<p>La publicación de los datos se hará posteriormente, una vez las herramientas se encuentren de nuevo al aire; para esto es necesario que se realice la documentación de metadatos. Nuestro compromiso será el de cargar la información, en compensación por la situación presentada.</p>
+   <p>El nuevo procedimiento incluye herramientas informáticas escalables, actualización de las plantillas con el estándar Darwin Core, mejores posibilidades de gestión de la información y más posibilidades de integración con el modelo de publicación.</p>
+<p>Conoce el paso a paso del nuevo modelo en la <a href="https://biodiversidad.co/compartir/guia-para-reportar/">Guía para reportar</a>.</p>
   </div>
 </div>
 
@@ -59,7 +52,7 @@ Una parte importante de la misión del SiB Colombia es promover una cultura en e
 
 ---
 
-## Ruta A. Publicación de datos voluntaria
+## Publicación de datos voluntaria
 
 Esta es la ruta de publicación más frecuente, usada para compartir [registros biológicos, eventos de muestreo y listas de especies](/compartir/tipos-de-datos). Al ser una ruta voluntaria, el Equipo Coordinador del SiB Colombia ofrece un acompañamiento para la publicación exitosa de los datos, asegurando que los conjuntos de datos cuentan con la mayor calidad posible.
 
@@ -135,79 +128,8 @@ Cuando el conjunto de datos y sus metadatos se encuentran listos, se procede a s
 
 ---
 
-## Ruta B. Publicación de datos por permiso de recolección
 
-Esta es la ruta de publicación para aquellos datos asociados a los permisos de recolección de acuerdo a las obligaciones establecidas en los decretos 1376 y 3016 de 2013 -hoy compilados en el [decreto 1076 de 2015](https://www.suin-juriscol.gov.co/viewDocument.asp?id=30019960){:target="_blank"} de la normativa colombiana-, y que no desean seguir la ruta voluntaria. La acción de compartir datos a través de esta ruta se conoce como “Publicación CR-SiB” y se diferencia de la ruta anterior principalmente porque no sucede bajo un esquema voluntario y es un proceso de autogestión que no involucra un acompañamiento directo el Equipo Coordinador.
-
-Los datos que se reportan a través de esta ruta generalmente corresponden a [registros biológicos](/compartir/tipos-de-datos#registros-biológicos).
-
-Si eres titular de un permiso de recolección y usas esta ruta de publicación, debes tener en cuenta que tus conjuntos de datos:
-
-- No contarán con un Identificador Único Digital (DOI).
-- No será indexados en los portales de datos del SiB Colombia y GBIF.
-- No se verán reflejados en la actividad de publicación mensual que genera el SiB Colombia.
-- 
-Si deseas estos beneficios en la publicación de tus conjuntos de datos, usa la **Ruta A** y el Equipo Coordinador te garantizará el certificado de publicación al final del proceso.
-
-<br />
-<img src="/compartir/Imagenes/RutasDePublicacion_B.png">
-<br />
- 
-### 1. Registra al titular del permiso
-
-Una vez hayas revisado la [política de publicación](/terminos-y-condiciones/politica-de-publicacion), y estés de acuerdo en compartir datos, debes solicitar el registro del titular en el SiB Colombia como publicador de datos. La solicitud de registro y credenciales se realiza en línea.
-
-El registro de un titular de permiso de colecta se realiza por una sola vez. Verifica si el titular de tu permiso ya se encuentra registrado [aquí](https://drive.google.com/file/d/1xaoIuBBtQioqxtxHqk1AOUDyLlnPNB0S/view){:target="_blank"}. Si el titular ya está registrado, debes acercarte a uno de los contactos allí registrados para obtener información sobre la publicación de tus datos y las credenciales de acceso.
-
-### 2. Prepara los datos para la publicación
-Tus datos deben ser organizados en una estructura de tabla utilizando el estándar Darwin Core (DwC). Para familiarizarte con el formato, debes utilizar las [plantilla Excel creada para registros biológicos](/recursos/plantillas-dwc#registros-biológicos).
-
-Consulta el [vídeo sobre cómo preparar los datos para publicación](https://youtu.be/YAoc9QZ9cBw){:target="_blank"}.
-
-### 3. Valida el conjunto de datos estandarizado
-Ahora debes validar el conjunto de datos antes de publicarlo usando el [Procesador de Datos CR-SiB](https://tools.sibcolombia.net/procesador-cr-sib/){:target="_blank"}. La herramienta valida la sintaxis del conjunto de datos, y de ser correcta, transforma la plantilla Excel en un Darwin Core Archive (formato de archivo .zip). Guarda este archivo para el siguiente paso.
-
-Ten en cuenta que la herramienta no hace validaciones de la calidad de los datos, y la responsabilidad de dicha validación es tuya. Ejemplo: identificar datos duplicados, campos incompletos, inconsistencias taxonómicas y geográficas, entre otros. Puedes validar tus conjuntos de datos usando la [caja de herramientas de calidad de datos](/recursos/calidad-de-datos) que dispone el SiB Colombia.
-
-Consulta los [laboratorios de datos](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios) que explican como usar diversas herramientas para validar y mejorar la calidad de un conjunto de datos.
-
-### 4. Publica el conjunto de datos
-Con las credenciales asignadas por el Equipo Coordinador, debes acceder a la [Plataforma CR-SiB](https://ipt.biodiversidad.co/cr-sib/){:target="_blank"} y hacer la carga del Darwin Core Archive generado en el Procesador de Datos CR-SiB.
-
-Una vez cargados los datos, debes realizar la documentación de los metadatos del conjunto de datos que acabas de cargar. Cuando hayas completado los metadatos, se habilita un botón de descarga del certificado de publicación.
-
-Ten en cuenta que, una vez finalizado el proceso no podrás hacer modificaciones a la publicación. Si llegara a ser el caso, debes ponerte en contacto con el Equipo Coordinador a través del correo electrónico [sib@humboldt.org.co]() solicitando la anulación de la publicación e iniciar nuevamente el proceso desde el paso 2.
-
- 
-Modelo de correo electrónico:
-
->**Asunto:** Anulación publicación CR-SiB – [Número del certificado de la publicación]
->
->Apreciado Equipo Coordinador,
->
-> Mi nombre es [nombre de la persona encargada de la publicación], trabajo para [nombre del titular del permiso] y deseo solicitar la anulación de un conjunto de datos que previamente publiqué a través de la plataforma CR-SiB.
->
-> La anulación de esta publicación se debe a…[una breve explicación de la razón por la que se requiere eliminar el recurso (ej. error en el número de permiso, datos duplicados, campos vacíos, error en los metadatos, etc.). Debe proveer suficiente información para ayudar al Equipo Coordinador y la Autoridad Ambiental a entender el por qué de su anulación].
->
-> Los datos asociados a la publicación que debe ser anulada son:
->
-> Titular del permiso: [nombre del titular del permiso]
-Identificación del titular: [NIT. o CC. del titular del permiso]
-> Número del permiso: [número del permiso que ampara la publicación]
-> Autoridad ambiental:  [nombre de la AA que otorgó el >permiso]
-> Nombre de la publicación: [Título asignado a la publicación]
-> Número del certificado: [Número del certificado de la publicación]
-> URL: [Enlace web a la publicación]
-Saludo cordial,
->
->[nombre de la persona encargada de la publicación]
-
-### 5. Descarga el certificado de publicación
-Una vez hayas finalizado el proceso, puedes descargar el **certificado de publicación** (archivo PDF). Este certificado indica que los datos, generados en el marco de un permiso de recolección, han sido publicados a través de la plataforma CR-SiB. Este certificado es el soporte exigido por parte de la autoridad ambiental como evidencia de la publicación de los datos a través del SiB Colombia.
-
----
-
-## Ruta C. Publicación de fichas de especies
+## Publicación de fichas de especies
 
 Esta es la ruta de publicación usada para compartir información sintetizada confiable y robusta sobre el conocimiento existente de nuestras especies. Las [fichas de especies](/compartir/tipos-de-datos#fichas-de-especies) generalmente incluyen información sobre historia natural, distribución, hábitat, usos, taxonomía, nombres comunes, videos, imágenes, sonidos, bibliografía relacionada, entre otros.
 
