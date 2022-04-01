@@ -3,10 +3,11 @@ preTitle: 1 de abril, 2022
 title: "Reportar datos de permisos de recolección a través del SiB Colombia ahora es más fácil"
 description: |
   _El SiB Colombia, entidad dedicada a facilitar acceso abierto a información sobre la diversidad biológica del país, estrena un **nuevo modelo para reportar datos sobre biodiversidad derivados de permisos de recolección y contratos de acceso a recursos genéticos**._
+  
   _El nuevo procedimiento incluye herramientas informáticas escalables, actualización de las plantillas con el estándar Darwin Core, mejores posibilidades de gestión de la información y más posibilidades de integración con el modelo de publicación._
 date: 2022-04-01
 categories: ["Reportar datos", "Cartificados", "2022"]
-background: /assets/images/noticias_eventos/2022-04-01-nuevo-procedimiento-reportar-datos.png
+background: /assets/images/noticias_eventos/2022/2022-04-01-nuevo-procedimiento-reportar-datos.png
 
 ---
 
@@ -23,11 +24,14 @@ Desde el SiB Colombia, se han preparado diferentes insumos para que los usuarios
 * [Guía para reportar datos](https://biodiversidad.co/compartir/guia-para-reportar){:target="_blank"}
 * [Video sobre el nuevo procedimiento](https://youtu.be/tGzANPQWi7Y){:target="_blank"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tGzANPQWi7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/tGzANPQWi7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<br/>
+La invitación para los titulares es **aprovechar este reporte para agregar valor a sus datos con la publicación**, un modelo mucho más interesante que suele confundirse. El reporte responde a una obligación para obtener un certificado; mientras que la publicación permite un mayor alcance de los datos, como aporte a la generación de nuevo conocimiento en un escenario de ciencia abierta.
 
-La invitación para los titulares es aprovechar este reporte para agregar valor a sus datos  con la publicación, un modelo mucho más interesante que suele confundirse. El reporte responde a una obligación para obtener un certificado; mientras que la publicación permite un mayor alcance de los datos, como aporte a la generación de nuevo conocimiento en un escenario de ciencia abierta.
+_____
 
-Contacto:
+**Contacto**:
 
 Equipo Coordinador del SiB Colombia
 
