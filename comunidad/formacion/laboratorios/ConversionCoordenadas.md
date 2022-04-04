@@ -15,10 +15,10 @@ Convertir las coordenadas geográficas que están en sistema de grados, minutos,
 
 **Introducción**
 
-Video introductorio de la herramienta, el cual da un contexto general sobre su uso. Si lo prefiere, puede seguir el paso a paso de la guía directamente.
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CRoGC3JsuxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
+
 **Sobre la herramienta**
 
 La herramienta [_Coordinate conversion_](https://data.canadensys.net/tools/coordinates){:target="_blank"}, desarrollada por [_Canadensys_](http://www.canadensys.net/){:target="_blank"} (nodo GBIF de Canadá), es una aplicación sencilla con una interfaz amigable que permite convertir coordenadas geográficas en sistema de grados minutos a grados decimales.
