@@ -19,6 +19,7 @@ Visualizar y validar la coherencia de la ubicación de las coordenadas con respe
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qV__3Y_o4cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
+
 **Sobre la herramienta**
 
 [QGIS](https://qgis.org/es/site/about/index.html){:target="_blank"} es un _software_ de gestión de información geográfica que se ejecuta en múltiples sistemas operativos como _Linux_, _Unix_, _Mac OSX_, _Windows_ y _Android_. También soporta numerosos formatos y funcionalidades de datos vector, datos ráster y bases de datos. Esta herramienta proporciona una creciente gama de servicios, a través de sus funciones básicas y complementos, para visualizar, gestionar, editar, analizar datos y diseñar mapas imprimibles. 
