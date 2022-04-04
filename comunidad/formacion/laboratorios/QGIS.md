@@ -16,9 +16,8 @@ Visualizar y validar la coherencia de la ubicación de las coordenadas con respe
 
 **Introducción**
 
-Video introductorio de la herramienta, el cual da un contexto general sobre su uso. Si lo prefiere, puede seguir el paso a paso de la guía directamente.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Fy6aa7pR9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qV__3Y_o4cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 **Sobre la herramienta**
 
