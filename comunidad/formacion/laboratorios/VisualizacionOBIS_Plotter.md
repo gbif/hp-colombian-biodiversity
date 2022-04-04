@@ -13,6 +13,11 @@ toc: true
 
 Visualizar y validar las coordenadas con ayuda de un proceso de espacialización en un mapa.
 
+**Introducción**
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cyi_YrTsMLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
 **Sobre la herramienta**
 
 La herramienta [OBIS _Plotter_](http://iobis.github.io/plotter/){:target="_blank"}, desarrollada por [OBIS](https://obis.org/){:target="_blank"} (Sistema Oceánico de Información sobre biodiversidad),  permite la visualización de datos en un mapa para verificar la correcta espacialización de estos. 
