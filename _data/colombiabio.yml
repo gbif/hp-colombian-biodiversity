@@ -18,10 +18,7 @@ stats1:
       description: Mejorar las capacidades de las colecciones biológicas en los procesos de gestión, estandarización y publicación de los datos.
       background: /comunidad/colombiabio/imagenes/landing/icono02.png
       #href: /data
-    - title: 
-      description: Propiciar la creación de redes de trabajo de expertos y colecciones, generales o especializadas, que permitan evitar la duplicación de esfuerzos y deriven en información con mejor resolución, calidad y alcance.
-      background: /comunidad/colombiabio/imagenes/landing/icono03.png
-      #href: /data
+
       
 stats2:
   background: "#ffffff55"
@@ -34,7 +31,10 @@ stats2:
       description: Facilitar a las autoridades ambientales y nacionales listas de especies de referencia para la toma de decisiones asociadas con la conservación y el uso sostenible de los recursos naturales.
       background: /comunidad/colombiabio/imagenes/landing/icono05.png
       #href: /data
-
+    - title: 
+      description: Crear redes de trabajo de expertos y colecciones, generales o especializadas, para evitar la duplicación de esfuerzos al crear información con mejor resolución, calidad y alcance.
+      background: /comunidad/colombiabio/imagenes/landing/icono03.png
+      #href: /data
 
 #cards
 tarjetasColombiabio:
