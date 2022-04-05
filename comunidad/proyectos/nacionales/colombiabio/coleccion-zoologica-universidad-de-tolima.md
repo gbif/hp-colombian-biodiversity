@@ -94,7 +94,7 @@ Hay <span class="tag is-danger"><b>3.783</b></span> localidades únicas ubicadas
 
 <span class="tag is-danger"><b>169</b></span> en Caldas
 
-<span class="tag is-dangert"><b>169</b></span> en Casanare
+<span class="tag is-danger"><b>169</b></span> en Casanare
 
 <span class="tag is-danger"><b>82</b></span> en Magdalena
 
