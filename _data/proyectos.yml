@@ -11,28 +11,28 @@ stats1:
   background: "#ffffff55"
   features:  
     - title: ---
-      description: Proyectos totales
-      background: /comunidad/proyectos/images/icono01.png
+      description: Totales
+      background: /comunidad/proyectos/images/icono1.jpg
       #href: /data
     - title: ---
-      description: Proyectos en progreso
-      background: /comunidad/proyectos/images/icono02.png
+      description: En progreso
+      background: /comunidad/proyectos/images/icono2.jpg
       #href: /data
    
 stats2:
   background: "#ffffff55"
   features:
     - title: 14
-      description: Proyectos CESP totales
-      background: /comunidad/proyectos/images/icono01.png
+      description: Totales
+      background: /comunidad/proyectos/images/icono1.jpg
       #href: /data
     - title: 4
-      description: Proyectos CESP en progreso
-      background: /comunidad/proyectos/images/icono02.png
+      description: En progreso
+      background: /comunidad/proyectos/images/icono2.jpg
       #href: /data
     - title: 4
-      description: Proyectos CESP liderados por SiB Colombia
-      background: /comunidad/proyectos/images/icono03.png
+      description: Liderados por el SiB Colombia
+      background: /comunidad/proyectos/images/icono3.png
       #href: /data
 
 #cards
@@ -42,9 +42,9 @@ tarjetasUso:
     
   features:
       #preTitle:  Listado # optional
-    - title: Proyectos nacionales
+    - title: Nacionales
       description: |      # required
-       Proyectos nacionales con participación del SiB Colombia
+       Iniciativas nacionales con la participación del SiB Colombia
       # img required
       background: /comunidad/proyectos/images/proyectos-nacionales.png
       cta:
@@ -54,7 +54,7 @@ tarjetasUso:
       
       
      #preTitle: Listado  # optional
-    - title: Proyectos CESP # required
+    - title: CESP # required
       description: |      # required
        Programa de GBIF encofado en el apoyo y mejora de capacidades en gestión y publicación de datos sobre biodiversidad.
       background: /comunidad/proyectos/images/proyectos-cesp.png
@@ -64,7 +64,7 @@ tarjetasUso:
         isPrimary: true
       
      #preTitle:  Listado # optional
-    - title: Proyectos BID
+    - title: BID
       description: |      # required
        Programa de Información sobre Biodiversidad para el Desarrollo.
       # img required
