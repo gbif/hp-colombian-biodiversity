@@ -12,11 +12,11 @@ stats1:
   features:  
     - title: 
       description: Identificar y actualizar los especímenes depositados en las colecciones biológicas a nivel taxonómico, ecológico, y geográfico.
-      background: /comunidad/colombiabio/imagenes/landing/icono01.png
+      background: /comunidad/proyectos/nacionales/colombiabio/imagenes/landing/icono01.png
       #href: /data
     - title: 
       description: Mejorar las capacidades de las colecciones biológicas en los procesos de gestión, estandarización y publicación de los datos.
-      background: /comunidad/colombiabio/imagenes/landing/icono02.png
+      background: /comunidad/proyectos/nacionales/colombiabio/imagenes/landing/icono02.png
       #href: /data
 
       
@@ -25,15 +25,15 @@ stats2:
   features:
     - title: 
       description: Crear portales que contengan la información de las colecciones biológicas de forma unificada y permitan la consulta libre por parte de las autoridades ambientales y demás usuarios.
-      background: /comunidad/colombiabio/imagenes/landing/icono04.png
+      background: /comunidad/proyectos/nacionales/colombiabio/imagenes/landing/icono04.png
       #href: /data
     - title: 
       description: Facilitar a las autoridades ambientales y nacionales listas de especies de referencia para la toma de decisiones asociadas con la conservación y el uso sostenible de los recursos naturales.
-      background: /comunidad/colombiabio/imagenes/landing/icono05.png
+      background: /comunidad/proyectos/nacionales/colombiabio/imagenes/landing/icono05.png
       #href: /data
     - title: 
       description: Crear redes de trabajo de expertos y colecciones, generales o especializadas, para evitar la duplicación de esfuerzos al crear información con mejor resolución, calidad y alcance.
-      background: /comunidad/colombiabio/imagenes/landing/icono03.png
+      background: /comunidad/proyectos/nacionales/colombiabio/imagenes/landing/icono03.png
       #href: /data
 
 #cards
@@ -47,10 +47,10 @@ tarjetasColombiabio:
       description: |      # required
        Busca mejorar la información de las colecciones en los ámbitos geográfico y taxonómico. Para ello, un equipo de especialistas trabaja con los datos de nueve colecciones biológicas, seleccionadas a partir de una convocatoria abierta.
       # img required
-      background: /comunidad/colombiabio/imagenes/landing/fondo1.jpg
+      background: /assets/images/fondos_layout/PAU01047_Villegas-Velez-Felipe.jpg
       cta:
       - text: Ver más
-        href: /comunidad/colombiabio/pais-megadiverso
+        href: /comunidad/proyectos/nacionales/colombiabio/pais-megadiverso
         isPrimary: true    
       
       
@@ -58,13 +58,13 @@ tarjetasColombiabio:
     - title: Giras de Especialistas # required
       description: |      # required
        Se desarrollaron dos giras de especialistas: la primera, liderada por la Universidad CES, reúne a varios de los entomólogos mejor cualificados del país, expertos en diferentes grupos de insectos, para que visiten nueve colecciones de Colombia y realicen procesos de identificación taxonómica, catalogación y transferencia de capacidades, la segunda, liderada por la Universidad de Quindío, reúne varios expertos en diferentes grupos biológicos para adelantar procesos de identificación taxonómica en varias colecciones biológicas del país.
-      background: /comunidad/colombiabio/imagenes/landing/fondo2.jpg
+      background: /assets/images/fondos_layout/O7A9614_Villegas-Velez-Felipe.jpg
       cta:
       - text: Gira Universidad CES
-        href: /comunidad/colombiabio/gira-especialistas
+        href: /comunidad/proyectos/nacionales/colombiabio/gira-especialistas
         isPrimary: true
       - text: Gira UniQuindío 
-        href: /comunidad/colombiabio/gira-uniquindio
+        href: /comunidad/proyectos/nacionales/colombiabio/gira-uniquindio
         isPrimary: true
         
      #preTitle:  Listado # optional
@@ -72,10 +72,10 @@ tarjetasColombiabio:
       description: |      # required
        El propósito de esta línea es la consolidación de las listas de especies de referencia para Colombia bajo un mismo estándar y en un sólo lugar. Este desarrollo posibilita la construcción colaborativa de las listas mediante el trabajo de expertos y otros actores, incluyendo a simples aficionados.
       # img required
-      background: /comunidad/colombiabio/imagenes/landing/fondo3.jpg
+      background: /assets/images/fondos_layout/PAU01047_Villegas-Velez-Felipe.jpg
       cta:
       - text: Ver más
-        href: /comunidad/colombiabio/listas
+        href: /comunidad/proyectos/nacionales/colombiabio/listas
         isPrimary: true  
       
      #preTitle:  Listado # optional
@@ -83,8 +83,8 @@ tarjetasColombiabio:
       description: |      # required
        Esta línea busca conectar a los colombianos con las colecciones biológicas del país a través de un Catálogo en Línea, que inicia con las colecciones del Instituto Humboldt. En este sitio, es posible explorar los datos y la información custodiada por estas bibliotecas de la vida.
       # img required
-      background: /comunidad/colombiabio/imagenes/landing/fondo4.jpg
+      background: /comunidad/proyectos/nacionales/colombiabio/imagenes/landing/fondo-colecciones.jpg
       cta:
       - text: Ver más
-        href: /comunidad/colombiabio/colecciones-en-linea
+        href: /comunidad/proyectos/nacionales/colombiabio/colecciones-en-linea
         isPrimary: true    
