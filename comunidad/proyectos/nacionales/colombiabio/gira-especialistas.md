@@ -8,7 +8,7 @@ imageLicense: |
 height: 41vh
 ---
 
-### ¿Por qué una Gira de Especialistas?
+### ¿Por qué una gira de especialistas?
 
 Las colecciones biológicas, bibliotecas de la vida, custodian información valiosa sobre las especies de la fauna y la flora de nuestro país. Más allá de la importancia innegable de la biodiversidad en sí misma, el proceso de inventariarla nos permite adelantar estudios para conservar y usar nuestros recursos naturales de la manera más adecuada.
 
