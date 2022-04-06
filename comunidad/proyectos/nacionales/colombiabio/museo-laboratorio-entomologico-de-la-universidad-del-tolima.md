@@ -70,7 +70,7 @@ Hay <span class="tag is-danger"><b>110</b></span> localidades únicas ubicadas a
 
 <span class="tag is-danger"><b>10</b></span> en Huila
 
-<span class="tag is-danger"><b>12</b></span> en Quindío
+<span class="tag is-danger"><b>8</b></span> en Quindío
 
 <span class="tag is-danger"><b>8</b></span> en Valle del Cauca
 
