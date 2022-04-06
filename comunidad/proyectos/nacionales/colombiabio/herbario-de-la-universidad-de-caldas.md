@@ -40,7 +40,7 @@ Hay <span class="tag is-success  is-light"><b>4.167</b></span> localidades únic
 
 <span class="tag is-success  is-light"><b>2.038</b></span> en Caldas
 
-<span class="tag is-success  is-light"><b>386</b></span> en Cundinamarca
+<span class="tag is-success  is-light"><b>396</b></span> en Cundinamarca
 
 <span class="tag is-success  is-light"><b>338</b></span> en Valle del Cauca
 
