@@ -3,7 +3,7 @@ layout: compose
 permalink: /comunidad/proyectos
 title: Proyectos
 description: |
-   El SiB Colombia participa en un gran número de proyectos, tanto nacionales como internacionales, que buscan fortalecer procesos de investigación, educación y toma de decisiones.
+   El SiB Colombia participa en un gran número de iniciativas, tanto nacionales como internacionales, que buscan fortalecer procesos de investigación, educación y toma de decisiones.
 background: /comunidad/proyectos/images/proyectos-fondo8.jpg
 imageLicense: |
   Tortoise Beetle Fotografía de: Yogendra Joshi vía [Flickr](https://flic.kr/p/XVxJSt)
