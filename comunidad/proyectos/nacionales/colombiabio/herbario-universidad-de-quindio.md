@@ -28,6 +28,10 @@ gallery2:
 
 ---
 
+Colciencias, en alianza con el Instituto Humboldt y el SiB Colombia, dio inicio al Fortalecimiento de Colecciones Biológicas en el marco del proyecto Colombia BIO. En total se seleccionaron nueve colecciones nacionales para promover mejoras en la estructuración, georreferenciación y publicación de datos. Esta publicación muestra un resumen de los logros obtenidos por una de ellas: el **Herbario de la Universidad del Quindío**.
+
+###  Resultados
+
 
 Esta colección cuenta con <span class="tag is-success  is-light"><b>4.544</b></span> registros que están clasificados así:
 
