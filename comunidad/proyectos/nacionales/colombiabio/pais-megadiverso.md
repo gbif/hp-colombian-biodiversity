@@ -22,15 +22,15 @@ Un comité conformado por las instituciones organizadoras analizó detalladament
 
 |||
 |---|---|
-|<figure class="image is-64x64"><img src="/comunidad/proyectos/nacionales/colombiabio/imagenes/pais-megadiverso/zoologica.png"></figure>|[Colección Zoológica Universidad del Tolima](/comunidad/proyectos/nacionales/colombiabio/coleccion-zoologica-universidad-de-tolima)|
+|<figure class="image is-64x64"><img src="/comunidad/proyectos/nacionales/colombiabio/imagenes/pais-megadiverso/zoologica.png"></figure>|[Colección Zoológica de la Universidad del Tolima](/comunidad/proyectos/nacionales/colombiabio/coleccion-zoologica-universidad-de-tolima)|
 |<figure class="image is-64x64"><img src="/comunidad/proyectos/nacionales/colombiabio/imagenes/pais-megadiverso/herbario.png"></figure>|[Herbario Orinocense Colombiano](/comunidad/proyectos/nacionales/colombiabio/herbario-orinocense-colombiano)|
-|<figure class="image is-64x64"><img src="/comunidad/proyectos/nacionales/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Museo Laboratorio Entomológico Universidad del Tolima](/comunidad/proyectos/nacionales/colombiabio/museo-laboratorio-entomologico-de-la-universidad-del-tolima)|
+|<figure class="image is-64x64"><img src="/comunidad/proyectos/nacionales/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Museo Laboratorio Entomológico de la Universidad del Tolima](/comunidad/proyectos/nacionales/colombiabio/museo-laboratorio-entomologico-de-la-universidad-del-tolima)|
 |<figure class="image is-64x64"><img src="/comunidad/proyectos/nacionales/colombiabio/imagenes/pais-megadiverso/herbario.png"></figure>|[Herbario de la Universidad de Caldas](/comunidad/proyectos/nacionales/colombiabio/herbario-de-la-universidad-de-caldas)|
-|<figure class="image is-64x64"><img src="/comunidad/proyectos/nacionales/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Museo Entomológico Piedras Blancas](/comunidad/proyectos/nacionales/colombiabio/museo-entomologico-piedras-blancas)|
-|<figure class="image is-64x64"><img src="/comunidad/proyectos/nacionales/colombiabio/imagenes/pais-megadiverso/herpeto.png"></figure>|[Colección Herpetológica Universidad del Quindío](/comunidad/proyectos/nacionales/colombiabio/coleccion-herpetologica-de-la-universidad-del-quindio)|
+|<figure class="image is-64x64"><img src="/comunidad/proyectos/nacionales/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Museo Entomológico de Piedras Blancas](/comunidad/proyectos/nacionales/colombiabio/museo-entomologico-piedras-blancas)|
+|<figure class="image is-64x64"><img src="/comunidad/proyectos/nacionales/colombiabio/imagenes/pais-megadiverso/herpeto.png"></figure>|[Colección Herpetológica de la Universidad del Quindío](/comunidad/proyectos/nacionales/colombiabio/coleccion-herpetologica-de-la-universidad-del-quindio)|
 |<figure class="image is-64x64"><img src="/comunidad/proyectos/nacionales/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Colección Entomológica de la Universidad Nacional de Colombia Sede Orinoquia](/comunidad/proyectos/nacionales/colombiabio/coleccion-entomologica-de-la-universidad-nacional-de-colombia-sede-orinoquia)|
-|<figure class="image is-64x64"><img src="/comunidad/proyectos/nacionales/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Colección Entomológica – Universidad del Quindío](/comunidad/proyectos/nacionales/colombiabio/coleccion-entomologica-de-la-universidad-del-quindio)|
-|<figure class="image is-64x64"><img src="/comunidad/proyectos/nacionales/colombiabio/imagenes/pais-megadiverso/herbario.png"></figure>|[Herbario Universidad del Quindío](/comunidad/proyectos/nacionales/colombiabio/herbario-universidad-de-quindio)|
+|<figure class="image is-64x64"><img src="/comunidad/proyectos/nacionales/colombiabio/imagenes/pais-megadiverso/entomolo.png"></figure>|[Colección Entomológica de la Universidad del Quindío](/comunidad/proyectos/nacionales/colombiabio/coleccion-entomologica-de-la-universidad-del-quindio)|
+|<figure class="image is-64x64"><img src="/comunidad/proyectos/nacionales/colombiabio/imagenes/pais-megadiverso/herbario.png"></figure>|[Herbario de la Universidad del Quindío](/comunidad/proyectos/nacionales/colombiabio/herbario-universidad-de-quindio)|
 
 ### ¿Por qué es importante que la información se convierta en registros útiles?
 
