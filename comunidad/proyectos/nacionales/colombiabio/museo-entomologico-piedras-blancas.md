@@ -28,6 +28,10 @@ gallery2:
 
 ---
 
+Colciencias, en alianza con el Instituto Humboldt y el SiB Colombia, dio inicio al Fortalecimiento de Colecciones Biológicas en el marco del proyecto Colombia BIO. En total se seleccionaron nueve colecciones nacionales para promover mejoras en la estructuración, georreferenciación y publicación de datos. Esta publicación muestra un resumen de los logros obtenidos por una de ellas: el **Museo Entomológico de Piedras Blancas**.
+
+###  Resultados
+
 Esta colección cuenta con <span class="tag is-warning is-light"><b>15.339</b></span> registros que están clasificados e identificados de la siguiente manera manera:
 
 
