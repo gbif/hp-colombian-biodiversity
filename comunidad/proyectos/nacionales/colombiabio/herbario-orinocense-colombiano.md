@@ -36,7 +36,7 @@ gallery2:
     alt: "placeholder image 9" 
 ---
 
-Colciencias, en alianza con el Instituto Humboldt y el SiB Colombia, dio inicio al Fortalecimiento de Colecciones Biológicas en el marco del proyecto Colombia BIO. En total se seleccionaron nueve colecciones nacionales para promover mejoras en la estructuración, georreferenciación y publicación de datos. Esta publicación muestra un resumen de los logros obtenidos por una de ellas: el **Herbario Orinocense Colombiano**.
+Colciencias, en alianza con el Instituto Humboldt y el SiB Colombia, dio inicio al Fortalecimiento de Colecciones Biológicas en el marco del proyecto [Colombia BIO](/comunidad/proyectos/nacionales/colombiabio/). En total se seleccionaron nueve colecciones nacionales para promover mejoras en la estructuración, georreferenciación y publicación de datos. Esta publicación muestra un resumen de los logros obtenidos por una de ellas: el **Herbario Orinocense Colombiano**.
 
 ###  Resultados
 
