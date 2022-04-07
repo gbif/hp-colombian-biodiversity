@@ -495,7 +495,7 @@ ___
   <summary markdown="span"><B>¿Cómo puedo obtener el certificado de reporte a través del SiB Colombia de los especímenes derivados de un permiso de colecta?</B></summary>
 
 <br>
-En este <a href="/compartir/guia-para-publicar">enlace</a> podrás encontrar información sobre los pasos a seguir para la publicación de datos asociados a permisos de recolección (ruta B).    
+En este <a href="https://biodiversidad.co/compartir/guia-para-reportar/">enlace</a> podrás encontrar información sobre los pasos a seguir para la publicación de datos asociados a permisos de recolección.
 </details>
 
 ___
@@ -550,37 +550,38 @@ ___
   <summary markdown="span"><B>¿Cómo publicar datos de especímenes preservados y depositados en una colección biológica?</B></summary>
     
 <br>
-Las colecciones biológicas son quienes custodian y mantienen los especímenes colectados y preservados, por eso solo estas pueden publicarlos como especímenes preservados; mientras que quienes realizan la colecta - y no pertenecen a la colección- deben publicar la colecta como una observación humana y con suficiente información para conocer que el espécimen se depositó en una colección.
+Las colecciones solo pueden publicar los datos como especímenes preservados; mientras que quienes realizan la recolección - y no pertenecen a la colección- deben publicar la recolecta como una observación humana y con suficiente información para conocer que el espécimen se depositó en una colección.
 
 Si perteneces a una <B>entidad que colecta pero no posee una colección</B> sigue estas indicaciones: 
     <ol>
-  <li><B>En los datos del recurso.</B></li>
+  <li><B>1. En los datos del recurso.</B></li>
     <ul>
         <li>Documentar el elemento <i>basisOfRecord</i> para todos los registros como “HumanObservation”.</li>
-        <li>Documentar el elemento <i>type</i> como “Evento”.</li>
+        <li>Documentar el elemento <i>type</i> como “Event”.</li>
         <li>Documentar el elemento <i>disposition</i> como “En colección”, haciendo uso del vocabulario controlado de este elemento.</li>
         <li>Documentar el campo <i>preparations</i> como “Colecta Definitiva” seguido por el tipo de preparación.</li>
         <li>Documentar el elemento <i>collectionCode</i> con el código de la colección donde se depositaron los especímenes.</li>
         <li>Si la colección ya le entregó el número de catálogo definitivo del espécimen en la colección. Documentar el elemento <i>catalogNumber</i> con el número asignado en la colección. Sino es el caso deje este elemento vacío.</li>
-        <li>Documentar el elemento <i>datasetID</i> con la información del permiso de recolección</li>
+        <li>Documentar el elemento <i><a href="https://biodiversidad.co/compartir/estandar-darwin-core/#collectionID" target="_blank">CollectionID</a></i> con el código del GBIF Registry of Scientific Collections o del Registro Nacional de colecciones.</li>
+        <li>Si la colección ya le entregó el número de catálogo definitivo del espécimen en la colección. Documentar el elemento <i>catalogueNumber</i> con el número asignado en la colección. Sino es el caso deje este elemento vacío.</li>
       </ul> 
-  <li><B>En los metadatos del recurso.</B></li>
+  <li><B>2. En los metadatos del recurso.</B></li>
         <ul>
         <li>Metadatos básicos: Documentar <i>Subtipo</i> como “Observación”.</li>
         <li>Palabras clave: “PERMISO_COLECTA”</li>
-        <li>Métodos de muestreo: Incluir los pasos para la preservación de los especímenes y su disposición en la colección biológica.</li>
         <li>Datos de la colección: Documentar todas las colecciones donde haya depositado los especímenes, de acuerdo al <a href="http://rnc.humboldt.org.co/admin/index.php/registros/colecciones" target="_blank">Registro Nacional de Colecciones</a>.</li>
       </ul>
 </ol>
 
-Si por el contrario, perteneces a una colección biológica sigue estas indicaciones: 
+Si perteneces a una colección biológica sigue estas indicaciones: 
 <ol>
   <li><B>En los datos del recurso.</B></li>
     <ul>
-        <li>Documentar el elemento <i>basisOfRecord</i> para todos los registros como “PreservedSpecimen”.</li>
-        <li>Documentar el elemento <i>type</i> como “Objeto físico”.</li>
+        <li>Documentar el elemento <i>basisOfRecord</i> para todos los registros como “PreservedSpecimen”, “LivingSpecimen ” para colecciones vivas, o “MaterialSample para colecciónes de tejidos”.</li>
+        <li>Documentar el elemento <i>type</i> como “PhysicalObject”.</li>
+        <li>Documentar el elemento <i>disposition</i> como “En colección”, o haciendo uso del vocabulario controlado de este elemento.</li>
         <li>Documentar el elemento <i>collectionCode</i> con el código de la colección donde se depositaron los especímenes. </li>
-        <li>Documentar el elemento <i>collectionID</i> con el código del Registro Nacional de colecciones de la siguiente forma: RNC:005</li>
+        <li>Documentar el elemento <i><a href="https://biodiversidad.co/compartir/estandar-darwin-core/#collectionID" target="_blank">CollectionID</a></i> con el código del GBIF Registry of Scientific Collections o del Registro Nacional de colecciones.</li>
         <li>Documentar el elemento <i>catalogNumber</i> con el número asignado en la colección. Este elemento no puede estar vacío. Si aún no se ha catalogado puede registrar un número de catálogo provisional y actualizar la publicación una vez tenga los número de catálogo definitivos.</li>
         <li>Documentar el elemento <i>datasetID</i> con la información del permiso de marco de recolección o la amnistía de la colección</li>
       </ul>
