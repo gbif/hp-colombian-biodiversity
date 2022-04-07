@@ -483,10 +483,10 @@ Consulte más acerca del estándar en el nodo de <a href="https://www.gbif.es/pr
 ## Certificado de reporte
 
  <details>
-  <summary markdown="span"><B>¿Qué es el modelo de publicación CR.SiB?</B></summary>
+  <summary markdown="span"><B>¿Qué es el modelo de reporte?</B></summary>
     
 <br>
-El SiB Colombia facilita la publicación de múltiples datos, entre ellos los datos asociados a permisos de recolección de especímenes de especies silvestre de acuerdo a los Decretos 1376 y 3016 de 2013 hoy compilados en el decreto 1076 de 2015, mediante el modelo transicional se hace posible la publicación de estos datos.
+El SiB Colombia facilita la publicación y reporte de múltiples datos, entre ellos los datos asociados a permisos de recolección de especímenes de especies silvestre de acuerdo a los Decretos 1376 y 3016 de 2013 hoy compilados en el decreto 1076 de 2015, mediante  este modelo se hace posible la publicación de estos datos.
     </details>
     
 ___
@@ -502,16 +502,16 @@ ___
 
 
  <details>
-  <summary markdown="span"><B>¿En cuales casos debo publicar datos a través de CR-SiB?</B></summary>
+  <summary markdown="span"><B>¿En cuáles casos debo reportar datos a través del SiB Colombia?</B></summary>
 
 <br>
-A través de CR-SiB se realiza la publicación de los datos asociados y derivados de salidas de campo amparadas por un permiso de recolección o contrato de acceso a recursos genéticos, como parte de lo establecido en los Decretos 1376 y 3016 de 2013 hoy compilados en el decreto 1076 de 2015 y de acuerdo a lo establecido en los mismos, el titular del permiso deberá realizar la publicación de las colectas temporales y definitivas que hayan tenido lugar en la actividad de campo.
+Cando los datos asociados y derivados de salidas de campo amparadas por un permiso de recolección o contrato de acceso a recursos genéticos, como parte de lo establecido en los Decretos 1376 y 3016 de 2013 hoy compilados en el decreto 1076 de 2015 y de acuerdo a lo establecido en los mismos. El titular del permiso deberá realizar el reporte de las colectas temporales y definitivas que hayan tenido lugar en la actividad de campo.
     </details>
 
 ___
 
 <details>
-  <summary markdown="span"><B>¿Puedo publicar datos a través de CR-SiB y SiB Colombia?</B></summary>
+  <summary markdown="span"><B>¿Puedo reportar datos sobre biodiversidad y obtener los beneficios del modelo de publicación?</B></summary>
 
 <br>
 Sí, el Equipo Coordinador del SiB Colombia brinda el apoyo requerido a los titulares permisos de recolección que deseen publicar sus datos con los beneficios del modelo voluntario, lo anterior garantizando el cumplimiento de la norma y la expedición del certificado de publicación
@@ -520,10 +520,19 @@ Sí, el Equipo Coordinador del SiB Colombia brinda el apoyo requerido a los titu
 ___
 
 <details>
-  <summary markdown="span"><B>Las colecciones que contacté no están interesadas en recibir los ejemplares ¿Qué debo hacer?</B></summary>
+  <summary markdown="span"><B>¿Si los especímenes recolectados no son recibidos por ninguna colección, los debo reportar?</B></summary>
 
 <br>
-Para estos casos es necesario contactarse con el equipo del Registro Único Nacional de Colecciones, quienes le indicarán al titular del permiso la disposición final que deben darle a los especímenes que no fueron recibidos en ninguna colección biológica
+Sí, la disposición final de los especímenes no afecta el reporte de los mismos. 
+    </details>
+
+___
+
+<details>
+  <summary markdown="span"><B>Las colecciones que contacté no están interesadas en recibir los ejemplares, ¿qué debo hacer?</B></summary>
+
+<br>
+Para estos casos es necesario contactar con el equipo del <a href="Registro Único Nacional de Colecciones" target="_blank">http://rnc.humboldt.org.co/wp/</a>, quienes le indicarán al titular del permiso la disposición final que deben darle a los especímenes que no fueron recibidos en ninguna colección biológica.
     </details>
 
 ___
@@ -534,30 +543,11 @@ ___
 <br>
 El listado de colección registradas ante el Registro Único Nacional de Colecciones coordinado por el Instituto Humboldt, lo puede encontrar en: <a href="http://rnc.humboldt.org.co/" target="_blank">http://rnc.humboldt.org.co/</a>
     </details>
-
-___
-
-<details>
-  <summary markdown="span"><B>¿Qué debo hacer para modificar o eliminar un recurso publicado a través de CR-SiB?</B></summary>
     
-<br>
-Las publicaciones realizadas a través de CR.SiB no pueden ser eliminadas ni modificadas con el ánimo de garantizar la trazabilidad de la información ante la autoridad ambiental, sin embargo es posible anularlas. Para este proceso es necesario ponerse en contacto con el Equipo Coordinador del SiB Colombia a través del correo sib@humboldt.org.co suministrando la siguiente información: 
-
- <ul>
-        <li>Titular del permiso: [Nombre del titular del permiso]</li>
-        <li>Identificación del titular: [NIT. o CC. del titular del permiso]</li>
-        <li>Número del permiso: [Número del permiso que ampara la publicación]</li>
-     <li>Autoridad ambiental:  [Nombre de la AA que otorgó el permiso]</li>
-        <li>Nombre de la publicación: [Título asignado a la publicación]</li>
-        <li>Número del certificado: [Número del certificado de la publicación]</li>
-        <li>URL: [Enlace web a la publicación]</li>
-  </ul>    
-</details>
-
 ___
 
  <details>
-  <summary markdown="span"><B>¿Cómo publicar datos de especímenes preservados depositados en una colección biológica?</B></summary>
+  <summary markdown="span"><B>¿Cómo publicar datos de especímenes preservados y depositados en una colección biológica?</B></summary>
     
 <br>
 Las colecciones biológicas son quienes custodian y mantienen los especímenes colectados y preservados, por eso solo estas pueden publicarlos como especímenes preservados; mientras que quienes realizan la colecta - y no pertenecen a la colección- deben publicar la colecta como una observación humana y con suficiente información para conocer que el espécimen se depositó en una colección.
