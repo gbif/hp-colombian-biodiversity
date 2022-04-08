@@ -63,7 +63,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Especifica el tipo de evidencia que da origen al registro, ampliando la información presente en el elemento basisOfRecord. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | Elementos relacionados | basisOfRecord |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Opcional)_ |
-| [Vocabulario controlado](#vc_type) | Stillmage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event |
+| [Vocabulario controlado](#vc_type) | StillImage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event |
 |    |    |
 
 <a name="institutionCode">**institutionCode** (Código de la institución)</a>
@@ -3788,7 +3788,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | PreservedSpecimen | El organismo está preservado (muerto), vivió dentro de tiempos históricos y existe (o alguna vez existió) una parte física que podría ser evaluada nuevamente.<br><br> Exclusivo para uso de las colecciones biológicas, las cuales custodian la evidencia física del espécimen preservado.<br><br> Siempre va acompañado del elemento type documentado como “PhysicalObject”. |
 | LivingSpecimen | Existe un espécimen vivo (crece o metaboliza) disponible en una colección.<br><br> Exclusivo para uso de las colecciones biológicas vivas y zoológicos, las cuales custodian la evidencia física del espécimen. No aplica para partes dormantes de un espécimen preservado.<br><br> Siempre va acompañado del elemento type documentado como “PhysicalObject”. |
 | HumanObservation | Se emplea para observaciones directas de un organismo completo y colectas temporales (captura y liberación del espécimen in situ).<br><br> También se emplea este valor si el espécimen observado fue posteriormente colectado y depositado en una colección biológica, pero el conjunto de datos no corresponde a la publicación de la colección biológica. En dicho caso se deben documentar los elementos collectionID y collectionCode para informar en qué colección se depositó el espécimen, y el Número de Catálogo (catalogNumber) dentro de la colección (o número de catálogo provisional), si este ya fue asignado.<br><br> Por lo general va acompañado del elemento type documentado como “Event”; en caso de ser un registro sonoro detectado de forma directa por un humano, el elemento type se documenta como “Sound”. |
-| MachineObservation | Se emplea para cualquier tipo de observación indirecta de un organismo por medio de un equipo o medio digital (grabadora de sonido, cámara trampa, entre otros), donde la evidencia del registro puede ser evaluada nuevamente:<br><br> Según el caso, va acompañado del elemento type documentado como “Stillmage”, “MovingImage” o “Sound”. |
+| MachineObservation | Se emplea para cualquier tipo de observación indirecta de un organismo por medio de un equipo o medio digital (grabadora de sonido, cámara trampa, entre otros), donde la evidencia del registro puede ser evaluada nuevamente:<br><br> Según el caso, va acompañado del elemento type documentado como “StillImage”, “MovingImage” o “Sound”. |
 | MaterialSample | Se emplea cuando la evidencia del organismo es indirecta y corresponde solo a una parte de este, por ejemplo: sangre, tejido, pelo, heces, etc.<br><br> Siempre va acompañado del elemento type documentado como “PhysicalObject”. |
 | FossilSpecimen | Se emplea con organismos prehistóricos con evidencia fósil que soporta su existencia.<br><br> Siempre va acompañado del elemento type documentado como “PhysicalObject”. |
 |    |    |
@@ -3798,7 +3798,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 |  Vocabulario |  Definición  |
 | ---|--- |
 | PhysicalObject | Evidencia física que soporta el registro biológico.<br> Siempre complementa la base del registro (basisOfRecord): PreservedSpecimen, LivingSpecimen, MaterialSample y FossilSpecimen |
-| Stillmage | Una fotografía.<br> Complementa la base del registro (basisOfRecord): MachineObservation |
+| StillImage | Una fotografía.<br> Complementa la base del registro (basisOfRecord): MachineObservation |
 | MovingImage | Un video, puede incluir sonido.<br> Complementa la base del registro (basisOfRecord): MachineObservation |
 | Sound | Registro de audio.<br> Puede complementar la base del registro (basisOfRecord): MachineObservation y HumanObservation |
 | Event | Observación de los especímenes en campo.<br> Siempre complementa la base del registro (basisOfRecord): HumanObservation |
