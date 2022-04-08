@@ -6,7 +6,7 @@ description: |
   
   _El nuevo procedimiento incluye herramientas informáticas escalables, actualización de las plantillas con el estándar Darwin Core, mejores posibilidades de gestión de la información y más posibilidades de integración con el modelo de publicación._
 date: 2022-04-01
-categories: ["Reportar datos", "Cartificados", "2022"]
+categories: ["Reportar datos", "Certificados", "2022"]
 background: /assets/images/noticias_eventos/2022/2022-04-01-nuevo-procedimiento-reportar-datos.png
 
 ---
