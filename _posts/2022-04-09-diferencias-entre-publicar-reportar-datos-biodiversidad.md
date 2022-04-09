@@ -4,7 +4,7 @@ title: "Reportar y publicar datos sobre biodiversidad tiene alcances diferentes:
 description: |
  _¿Sabías que publicar y reportar datos sobre biodiversidad a través del SiB Colombia tienen alcances distintos? Conoce aquí los detalles._
 date: 2022-04-09
-categories: ["Reportar datos", "Datos abiertos" "Certificados", "2022"]
+categories: ["Reportar datos", "Datos abiertos", "Certificados", "2022"]
 background: /assets/images/noticias_eventos/2022/2022-04-09-publicar-reportar-datos-biodiversidad.png
 
 ---
