@@ -45,6 +45,17 @@ estadisticas:
 noticias:
   features:
 
+    - preTitle: Datos abiertos
+      title: ¿Conoces la diferencia entre publicar y reportar datos?
+      description: |      # required
+        El modelo de publicación de datos está basado en los principios de acceso abierto.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-04-09-publicar-reportar-datos-biodiversidad.jpg
+      cta:
+      - text: Ver más
+        href: post/2022/diferencias-entre-publicar-reportar-datos-biodiversidad/
+        isPrimary: false
+
     - preTitle: Permisos de recolección
       title: Reportar datos ahora es más fácil
       description: |      # required
@@ -110,7 +121,17 @@ noticias:
       - text: Ver más
         href: post/2022/convocatoria-premio-jovenes-investigadores-gbif-2022
         isPrimary: false
-         
+
+    - preTitle: Datos abiertos
+      title: Datos nuevos o antiguos, ¡todos cuentan!
+      description: |      # required
+        Queremos incrementar la disponibilidad de datos sobre biodiversidad en el país.
+      # img required
+      background: assets/images/minga/cabezote.jpg
+      cta:
+      - text: Ver más
+        href: /compartir/minga-por-la-biodiversidad
+        isPrimary: false
 
 # Noticias viejas 
 
