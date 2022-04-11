@@ -181,14 +181,16 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
     border-collapse: collapse;
     margin: 25px 0;
     font-size: 0.9em;
-    font-family: sans-serif;
     min-width: 400px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 }
 .tabla-noticias thead tr {
-    background-color: #009879;
+    background-color: #3253A1;
+}
+.tabla-noticias thead td {
+    font-weight: bold;
     color: #ffffff;
-    text-align: left;
+    text-align: center;
 }
 .tabla-noticias th,
 .tabla-noticias td {
@@ -203,7 +205,7 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
 }
 
 .tabla-noticias tbody tr:last-of-type {
-    border-bottom: 2px solid #009879;
+    border-bottom: 2px solid #3253A1;
 }
 .tabla-noticias tbody tr.active-row {
     font-weight: bold;
