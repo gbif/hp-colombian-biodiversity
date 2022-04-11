@@ -35,7 +35,7 @@ La publicación tiene como finalidad compartir datos en un formato estandarizado
 * **Conoce más sobre el [estándar Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc/){:target="_blank"}.** 
 
 
- <table class=tabla-noticias">
+ <table class="tabla-noticias">
   <thead>
    <tr>
     <td>Modelo de publicación de datos e información</td>
@@ -149,5 +149,4 @@ Aprende más sobre las diferencias entre publicar y reportar en este webinar sob
 
 La mayoría de los datos sobre biodiversidad se encuentran dispersos y son poco accesibles, por eso desde el SiB Colombia **queremos que todos los titulares que reportan datos le den un valor agregado sus hallazgos** y se animen a publicarlos ya que de este modo se facilita su análisis, uso y reuso, siendo un capital vital para la generación de conocimiento.
 
-| **Encuentra una guía completa para publicar estos datos [aquí](https://biodiversidad.co/compartir/guia-para-reportar/){:target="_blank"}.** |
-| :--- |
+* **Encuentra una guía completa para publicar estos datos [aquí](https://biodiversidad.co/compartir/guia-para-reportar/){:target="_blank"}.**
