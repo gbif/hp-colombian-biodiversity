@@ -33,14 +33,12 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Elementos de Registro
 
-|    |    |    |    |
-| ---|--- |--- |--- |
 | [**basisOfRecord**<br> (Base del registro)](#basisOfRecord) | [**type**<br> (Tipo)](#type) | [**institutionCode**<br> (Código de la institución)](#institutionCode) | [**institutionID**<br> (ID de la institución)](#institutionID) |
 | [**collectionCode**<br> (Código de la colección)](#collectionCode) | [**collectionID**<br> (ID de la colección)](#collectionID) | [**datasetName**<br> (Nombre del conjunto de datos)](#datasetName) | [**datasetID**<br> (ID del conjunto de datos)](#datasetID) |
 | [**modified**<br> (Modificado)](#modified) | [**language**<br> (Idioma)](#language) | [**license**<br> (Licencia)](#license) | [**rightsHolder**<br> (Titular de los derechos)](#rightsHolder) | 
 | [**accessRights**<br> (Derechos de acceso)](#accessRights) | [**bibliographicCitation**<br> (Citación bibliográfica)](#bibliographicCitation) | [**references**<br> (Referencias)](#references) | [**ownerInstitutionCode**<br> (Código de la institución propietaria)](#ownerInstitutionCode) |
 | [**informationWithheld**<br> (Información retenida)](#informationWithheld) | [**dataGeneralizations**<br> (Generalización de los datos)](#dataGeneralizations) | [**dynamicProperties**<br> (Propiedades dinámicas)](#dynamicProperties) | |
-|    |    |    |    |
+| ---|--- |--- |--- |
 
 <br>
 <br>
