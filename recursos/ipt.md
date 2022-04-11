@@ -16,7 +16,6 @@ Si desea conocer más sobre el IPT consulte el [manual de usuario](https://ipt.g
 
 Los IPT alojados por el SiB Colombia son:
 
-<div class="tablaContenido">
 
 Nombre  | Enlace  | Descripción
 ------------ | ------------- | -------------
@@ -28,5 +27,5 @@ SINCHI | [https://ipt.biodiversidad.co/sinchi/](https://ipt.biodiversidad.co/sin
 Parques Nacionales | [https://ipt.biodiversidad.co/parquesnacionales/](https://ipt.biodiversidad.co/parquesnacionales/){:target="_blank"} | Para datos de Parques Nacionales.
 Permisos de Recolección | [https://ipt.biodiversidad.co/cr-sib/](https://ipt.biodiversidad.co/cr-sib/){:target="_blank"} | Para datos del [modelo transicional](/compartir/guia-para-publicar#ruta-b-publicación-de-datos-por-permiso-de-recolección).
 
-</div>
+
 
