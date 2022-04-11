@@ -37,7 +37,7 @@ La publicación tiene como finalidad compartir datos en un formato estandarizado
    </tr>
   </thead>
   <tr>
-   <td>¿Qué tipo de datos se pueden publicar?
+   <td><b>¿Qué tipo de datos se pueden publicar?</b>
     <ul>
      <li>Registros biológicos</li>
      <li>Eventos de muestreo</li>
@@ -51,7 +51,7 @@ La publicación tiene como finalidad compartir datos en un formato estandarizado
    </td>
   </tr>
   <tr>
-   <td>Opciones de licencias para publicación, uso y atribución:
+   <td><b>Opciones de licencias para publicación, uso y atribución:</b>
     <ul>
      <li>CC0</li>
      <li>CC-BY</li>
@@ -65,7 +65,7 @@ La publicación tiene como finalidad compartir datos en un formato estandarizado
    </td>
   </tr>
   <tr>
-   <td>Visibilidad de los datos e instancias de consulta:
+   <td><b>Visibilidad de los datos e instancias de consulta:</b>
     <ul>
      <li>Portal de datos SiB Colombia</li>
      <li>Portal permisos de recolección</li>
@@ -80,7 +80,7 @@ La publicación tiene como finalidad compartir datos en un formato estandarizado
    </td>
   </tr>
   <tr>
-   <td>Cuentas de usuario por organización:
+   <td><b>Cuentas de usuario por organización:</b>
     <ul>
      <li>Múltiples</li>
      <li>Posibilidad de actualizaciones en los conjuntos de datos</li>
@@ -93,7 +93,7 @@ La publicación tiene como finalidad compartir datos en un formato estandarizado
    </td>
   </tr>
   <tr>
-   <td>Acompañamiento técnico:
+   <td><b>Acompañamiento técnico:</b>
     <ul>
      <li>Generación de credenciales</li>
      <li>Curaduría de datos y metadatos</li>
@@ -106,7 +106,7 @@ La publicación tiene como finalidad compartir datos en un formato estandarizado
    </td>
   </tr>
   <tr>
-   <td>Valor agregado e impacto:
+   <td><b>Valor agregado e impacto:</b>
     <ul>
      <li>Reconocimiento SNCTeI</li>
      <li>Artículos de datos</li>
