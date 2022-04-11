@@ -177,37 +177,40 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
 
 // Tabla pada contenido NOTICIAS
 
-.tabla-noticias {
+.tablaNoticias {
     border-collapse: collapse;
     margin: 25px 0;
     font-size: 0.9em;
     min-width: 400px;
+    text-align: left;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    border-radius: 10px 10px 0 0;
+    overflow: hiden;
 }
-.tabla-noticias thead tr {
-    background-color: #3253A1;
+.tablaNoticias thead tr {
+    background-color: #9EC649;
 }
-.tabla-noticias thead td {
+.tablaNoticias thead td {
     font-weight: bold;
     color: #ffffff;
-    text-align: center;
 }
-.tabla-noticias th,
-.tabla-noticias td {
+.tablaNoticias th,
+.tablaNoticias td {
     padding: 12px 15px;
+
 }
-.tabla-noticias tbody tr {
+.tablaNoticias tbody tr {
     border-bottom: 1px solid #dddddd;
 }
 
-.tabla-noticias tbody tr:nth-of-type(even) {
+.tablaNoticias tbody tr:nth-of-type(even) {
     background-color: #f3f3f3;
 }
 
-.tabla-noticias tbody tr:last-of-type {
-    border-bottom: 2px solid #3253A1;
+.tablaNoticias tbody tr:last-of-type {
+    border-bottom: 2px solid #9EC649;
 }
-.tabla-noticias tbody tr.active-row {
+.tablaNoticias tbody tr.active-row {
     font-weight: bold;
-    color: #009879;
+    color: #214F53;
 }
