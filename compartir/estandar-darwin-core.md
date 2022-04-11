@@ -223,6 +223,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Ejemplo | {"pesoEnGramos":"120", "evidenciaDeLaIdentificación": "secuencia de citocromo B"}<br> {"alturaEnMetros":"1.5", "distribuciónDelTaxón": "Amazonas, Colombia", "temperaturaDelAireEnCelsius": "22"}<br> {"naturalezaDelID":"identificación de experto"} |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
+<br>
+<br>
 
 ### Registro Biológico
 
@@ -472,6 +474,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Ejemplo | Muerto en la vía<br> Registrado en el campus de la Universidad |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
 
+<br>
+<br>
 
 ### Organismo
 
@@ -535,11 +539,10 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Ejemplo | Uno de una camada de seis<br> Fruto inmaduro cubierto por un indumento rojizo |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
-### Muestra del Material
+<br>
+<br>
 
-|    |    |    |    |
-| ---|--- |--- |--- |
-| [**materialSampleID**<br> (ID de muestra del material)](#materialSampleID) |  |  |  |
+### Muestra del Material
 
 <br>
 <br>
@@ -553,7 +556,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Evento
 
-|    |    |    |    |
+| Índice |    |    |    |
 | ---|--- |--- |--- |
 | [**parentEventID**<br> (ID parental del evento)](#parentEventID) | [**eventID**<br> (ID del evento)](#eventID) | [**samplingProtocol**<br> (Protocolo de muestreo)](#samplingProtocol) | [**sampleSizeValue**<br> (Valor del tamaño de la muestra)](#sampleSizeValue) |
 | [**sampleSizeUnit**<br> (Unidad del tamaño de la muestra)](#sampleSizeUnit) | [**samplingEffort**<br> (Esfuerzo de muestreo)](#samplingEffort) | [**eventDate**<br> (Fecha del evento)](#eventDate) | [**startDayOfYear**<br> (Día inicial del año)](#startDayOfYear) |
@@ -731,6 +734,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Comentarios o anotaciones sobre el evento. Se recomienda que la longitud de la descripción no supere 20 palabras. |
 | Ejemplo | Después de las lluvias recientes, el río estuvo cercano a un estado de desbordamiento |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
+
+<br>
+<br>
 
 ### Ubicación
 
@@ -1182,6 +1188,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Ejemplo | Distancia asumida a partir de la carretera (Autopista 101) |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
+<br>
+<br>
+
 ### Contexto Geológico
 
 | Índice |    |    |
@@ -1201,127 +1210,163 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | Un identificador para el conjunto de la información asociada con un contexto geológico (la ubicación dentro de un contexto geológico, tal como estratigrafía). Puede ser un identificador único global o un identificador específico para el conjunto de datos. |
 | Ejemplo | https://opencontext.org/subjects/e54377f7-4452-4315-b676-40679b10c4d9 |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="earliestEonOrLowestEonothem">**earliestEonOrLowestEonothem** (Eón temprano o eonotema inferior)</a>
 
 | ---: | :--- |
 | Definición | El nombre completo del eón geocronológico más temprano o el eratema cronoestratigráfico más bajo, o el nombre informal ("Precámbrico") atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
 | Ejemplo | Fanerozoico<br> Proterozoico |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="latestEonOrHighestEonothem">**latestEonOrHighestEonothem** (Eón tardío o eonotema superior)</a>
 
 | ---: | :--- |
 | Definición | El nombre completo del eón geocronológico más tardío o el eratema cronoestratigráfico más alto posible, o el nombre informal ("Precámbrico") atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
 | Ejemplo | Fanerozoico<br> Proterozoico |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="earliestEraOrLowestErathem">**earliestEraOrLowestErathem** (Era temprana o eratema inferior)</a>
 
 | ---: | :--- |
 | Definición | El nombre completo de la era geocronológica más temprana o el eratema cronoestratigráfico más bajo, atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
 | Ejemplo | Cenozoicoo<br> Mesozoico |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="latestEraOrHighestErathem">**latestEraOrHighestErathem** (Era tardía o eratema superior)</a>
 
 | ---: | :--- |
 | Definición | El nombre completo de la era geocronológica más tardía o el eratema cronoestratigráfico más alto posible, atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
 | Ejemplo | Cenozoicoo<br> Mesozoico |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="earliestPeriodOrLowestSystem">**earliestPeriodOrLowestSystem** (Periodo temprano o sistema inferior)</a>
 
 | ---: | :--- |
 | Definición | El nombre completo del periodo geocronológico más temprano posible o el sistema cronoestratigráfico más bajo, atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
 | Ejemplo | Neógeno<br> Terciario<br> Cuaternario |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="latestPeriodOrHighestSystem">**latestPeriodOrHighestSystem** (Periodo tardío o sistema superior)</a>
 
 | ---: | :--- |
 | Definición | El nombre completo del período geocronológico más tardío posible o del sistema cronoestratigráfico más alto, atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
 | Ejemplo | Neógeno<br> Terciario<br> Cuaternario |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="earliestEpochOrLowestSeries">**earliestEpochOrLowestSeries** (Época temprana o serie inferior)</a>
 
 | ---: | :--- |
 | Definición | El nombre completo de la época geocronológica más temprana o la serie cronoestratigráfica más baja posible, atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
 | Ejemplo | Holoceno<br> Pleistoceno<br> Serie Ibexian |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="latestEpochOrHighestSeries">**latestEpochOrHighestSeries** (Época tardía o serie superior)</a>
 
 | ---: | :--- |
 | Definición | El nombre completo de la época geocronológica más tardía posible o la serie cronoestratigráfica más alta, atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
 | Ejemplo | Holoceno<br> Pleistoceno<br> Serie Ibexian |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="earliestAgeOrLowestStage">**earliestAgeOrLowestStage** (Edad temprana o piso inferior)</a>
 
 | ---: | :--- |
 | Definición | El nombre completo de la edad geocronológica más temprana posible o piso cronoestratigráfico más bajo, atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
 | Ejemplo | Atlántico<br> Boreal |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="latestAgeOrHighestStage">**latestAgeOrHighestStage** (Edad tardía o piso superior)</a>
 
 | ---: | :--- |
 | Definición | El nombre completo de la edad geocronológica más tardía posible o piso cronoestratigráfico más alto, atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
 | Ejemplo | Atlántico<br> Boreal |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="lowestBiostratigraphicZone">**lowestBiostratigraphicZone** (Zona bioestratigráfica inferior)</a>
 
 | ---: | :--- |
 | Definición | El nombre completo de la zona geológica bioestratigráfica más baja posible del horizonte estratigráfico donde se recolectó el objeto catalogado. |
 | Ejemplo | Maastrichtiense |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="highestBiostratigraphicZone">**highestBiostratigraphicZone** (Zona bioestratigráfica superior)</a>
 
 | ---: | :--- |
 | Definición | El nombre completo de la zona geológica bioestratigráfica más alta posible del horizonte estratigráfico donde se recolectó el objeto catalogado. |
 | Ejemplo | Blancan |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="lithostratigraphicTerms">**lithostratigraphicTerms** (Términos litoestratigráficos)</a>
 
 | ---: | :--- |
 | Definición | La combinación de todos los nombres litoestratigráficos de la roca de donde se colectó el objeto catalogado. |
 | Ejemplo | Pleistoceno-Weichseliense |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="group">**group** (Grupo)</a>
 
 | ---: | :--- |
 | Definición | El nombre completo del grupo litoestratigráfico del cual se colectó el objeto catalogado. |
 | Ejemplo | Grupo Bathurst |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="formation">**formation** (Formación)</a>
 
 | ---: | :--- |
 | Definición | El nombre completo de la formación litoestratigráfica de la cual se colectó el objeto catalogado. |
 | Ejemplo | Formación Notch Peak<br> Formación Fillmore |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="member">**member** (Miembro)</a>
 
 | ---: | :--- |
 | Definición | El nombre completo del miembro litoestratigráfico del cual se colectó el elemento catalogado. |
 | Ejemplo | Miembro Hellnmaria |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="bed">**bed** (Capa)</a>
 
 | ---: | :--- |
 | Definición | El nombre completo de la capa litoestratigráfica de la cual se colectó el elemento catalogado. |
 | Ejemplo | Carbón Harlem |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
+<br>
+<br>
 
 ### Identificación
 
@@ -1339,7 +1384,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | Un identificador para la identificación (el cuerpo de la información asociada con la asignación de un nombre científico) del organismo. Puede ser un identificador único global o un identificador específico para el conjunto de datos. |
 | Ejemplo | 1231135<br> 10560964 |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="identifiedBy">**identifiedBy** (Identificado por)</a>
 
@@ -1347,7 +1394,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los nombres de las personas responsables de identificar el organismo.<br><br> Se debe mantener el mismo formato del nombre a lo largo de todos los registros y se recomienda evitar el uso de solo iniciales ya que esto genera ambigüedades para reconocer a las personas que realizaron la identificación, de ser posible siempre escriba nombres completos. Documente el nombre de las personas y evite documentar nombres de grupos u organizaciones. |
 | Ejemplo | Luis Gabriel Pérez Salamanca<br> Jennifer Andrea Parra Ortíz \| Jaime Enrique Correa Sánchez |
 | Elementos relacionados | identifiedByID |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
+
+<br>
 
 <a id="identifiedByID">**identifiedByID** (ID del identificador)</a>
 
@@ -1355,21 +1404,27 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores (ORCID o Wikidata) de las personas que identificaron el organismo. Mantenga el mismo orden de las personas documentadas en el elemento identifiedBy; el orden en este campo no indica una prioridad en la citación ni ningún otro tipo de relación jerárquica. |
 | Ejemplo | https://orcid.org/0000-0001-6215-3617 \| https://orcid.org/0000-0003-1691-239X<br> https://www.wikidata.org/entity/Q28913658 |
 | Elementos relacionados | identifiedBy |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
+
+<br>
 
 <a id="dateIdentified">**dateIdentified** (Fecha de la identificación)</a>
 
 | ---: | :--- |
 | Definición | La fecha o el intervalo durante la cual fue identificado taxonómicamente la observación, colecta o muestra. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
 | Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
+
+<br>
 
 <a id="identificationReferences">**identificationReferences** (Referencias de la identificación)</a>
 
 | ---: | :--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|")  de las referencias (publicación, identificador único global, URI) usadas en la identificación. |
 | Ejemplo | Aves del Noroeste Patagónico. Christie et al. 2004 |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="identificationVerificationStatus">**identificationVerificationStatus** (Estado de la verificación de la identificación)</a>
 
@@ -1377,28 +1432,36 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Un indicador sobre el nivel de verificación de la identificación taxonómica. Puede ser un valor categórico o un porcentaje para los registros identificados con métodos genéticos. |
 | Comentarios | Se recomienda el uso de categorías claras o un vocabulario controlado como el de [HISPID/ABCD](https://hiscom.rbg.vic.gov.au/wiki/Talk:HISPID/ABCD_Workshop_Executive_Summary#Verification_Level_Flag_.28vlev.29), como se muestra a continuación:<br><br> 0 - El nombre del registro no ha sido revisado por ninguna autoridad (del vocabulario HISPID/ABCD)<br> 1 - El nombre del registro se determinó por medio de comparación contra otro ejemplar (del vocabulario HISPID/ABCD)<br> 2 - El nombre del registro fue determinado por un taxónomo usando material de una colección (del vocabulario HISPID/ABCD)<br> 3 - El nombre del registro fue determinado por un taxónomo involucrado en la revisión sistemática del grupo (del vocabulario HISPID/ABCD)<br> 4 - El registros es derivado de forma asexual de un material tipo (del vocabulario HISPID/ABCD)<br> Verificado |
 | Ejemplo | 0<br> 1<br> 2<br> 3<br> 4<br> Verificado<br> No verificado<br> 97.3% a género |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="typeStatus">**typeStatus** (Tipo nomeclatural)</a>
 
 | ---: | :--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los tipos de nomenclatura (estado del tipo, nombre científico tipificado, publicación) aplicados al organismo. Se recomienda el uso del vocabulario sugerido disponible para este elemento con traducción a español (https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://rs.gbif.org/vocabulary/gbif/type_status). |
 | Ejemplo | Holotipo de Ctenomys sociabilis. Pearson O. P.; y M. I. Christie. 1985. Historia Natural; 5(37):388<br> Paratipo<br> Alotipo<br> Isotipo<br> Neotipo<br> Plastotipo<br> Sintipo<br> Topotipo |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="verbatimIdentification">**verbatimIdentification** (Identificación original)</a>
 
 | ---: | :--- |
 | Definición | La identificación original del organismo (como fue tomada en campo o documentada en el voucher). Este elemento permite documentar la identificación o determinación original inalterada, incluidos los calificadores de identificación, fórmulas híbridas, incertidumbres, etc. |
 | Ejemplo | Peromyscus sp.<br> Ministrymon sp. nov. 1 <br> Anser anser X Branta canadensis<br> Pachyporidae? |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
 
 <a id="identificationRemarks">**identificationRemarks** (Comentarios de la identificación)</a>
 
 | ---: | :--- |
 | Definición | Comentarios o anotaciones sobre la identificación. Se recomienda que la longitud de la descripción no supere 20 palabras. |
 | Ejemplo | Se distingue entre Anthus correndera y Anthus hellmayri basado en las longitudes comparativas de las uñas<br> Amplificación del gen 16S rRNA \| Identificación bioquímica |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
+
+<br>
 
 <a id="identificationQualifier">**identificationQualifier** (Calificador de la identificación)</a>
 
@@ -1406,7 +1469,10 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El grado de incertidumbre de la identificación puede indicarse agregando varios términos, como aff. y cf. al nombre científico. El calificador se aplica a la parte del nombre que sigue inmediatamente al calificador y se pueden colocar delante de cualquier elemento del nombre.<br><br>  cf.  del latín confer significa comparado con. Su uso indica que no hay certeza de la identidad de la especie (o rango taxonómico superior) hasta que se pueda hacer una comparación más detallada, por ejemplo, con algún tipo o material de referencia. <br><br>  aff. del latín affinis significa similar o limítrofe. Su uso indica que el material o la evidencia disponible sugiere que la especie propuesta está relacionada, tiene afinidad, pero no es idéntica, a la especie o taxón que le sigue. |
 | Comentarios| Documente este elemento de acuerdo a las siguientes explicaciones:<br><br> cf. agrifolia  (Para Quercus cf. agrifolia, con valores acompañantes scientificName: Quercus , genus: Quercus, taxonRank: Género.)<br><br> aff. Sparassidae (Para aff. Sparassidae, con valores acompañantes  scientificName: Araneae, order: Araneae, taxonRank: Orden.) |
 | Ejemplo | cf. agrifolia<br> aff. Sparassidae |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
+
+<br>
+<br>
 
 ### Taxón
 
@@ -1433,7 +1499,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Comentarios| Para tener en cuenta:<br><br> - El nombre científico puede pertenecer a cualquier categoría taxonómica (reino, filo, clase, orden, familia, género, especie entre otros), en ningún caso es obligatorio la identificación a nivel de especie.<br> - No debe documentar la autoría del taxón en este elemento, para ello utilice el elemento scientificNameAuthorship.<br> - No debe documentar calificadores de identificación (“cf.”, “aff.”, etc.), para ello utilice el elemento identificationQualifier y deje en el nombre científico la categoría superior sobre la cual se tiene certeza.<br> - No debe documentar abreviaciones que no dan cuenta de el nombre específico o hacen referencia  a morfotipos (“sp.”, “sp1.”, “spp.”), para ello utilice el elemento verbatimTaxonRank.<br><br> *Aunque oficialmente scientificName se define como el "nombre científico completo, con información de autoría y fecha si se conoce", desde el SiB Colombia se recomienda documentar solo el nombre canónico ya que hemos notado un detrimento de la calidad de este elemento por errores de tipeo cuando se incluye siguiendo la definición oficial. |
 | Ejemplo | Coleoptera<br> Bacteria<br> Ctenomys sociabilis<br> Abrus pulchellus subsp. tenuiflorus |
 | Elementos relacionados | taxonRank, scientificNameAuthorship, identificationQualifier, verbatimTaxonRank |
-| Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Lista de chequeo _(Obligatorio)_
+| Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Lista de chequeo _(Obligatorio)_ |
+
+<br>
 
 <a id="scientificNameAuthorship">**scientificNameAuthorship** (Autoría del nombre científico)</a>
 
@@ -1441,7 +1509,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | La información de autoría correspondiente al scientificName, usando el formato acorde a las convenciones del Código Nomenclatural aplicable. |
 | Ejemplo | (Torr.) J.T. Howell<br> (Martinovský) Tzvelev<br> (Györfi, 1952) |
 | Elementos relacionados | scientificName |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
+
+<br>
 
 <a id="taxonID">**taxonID** (ID del Taxón)</a>
 
@@ -1449,7 +1519,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Un identificador único global del taxón (datos asociados a la clasificación del Taxón) de acuerdo al nombre científico documentado en el elemento scientificName. Puede ser un identificador único global o un identificador específico para el conjunto de datos.<br><br> Este puede ser obtenido de bases de datos o catálogos taxonómicos globales. |
 | Ejemplo | (gbif.org/species/3056437<br> urn:lsid:marinespecies.org:taxname:124821<br> urn:lsid:gbif.org:usages:32567<br> 8fa58e08-08de-4ac1-b69c-1235340b7001 |
 | Elementos relacionados | scientificName |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Obligatorio)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Obligatorio)_ |
+
+<br>
 
 <a id="scientificNameID">**scientificNameID** (ID del nombre científico)</a>
 
@@ -1457,7 +1529,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Un identificador de los detalles de la nomenclatura (no taxonómica) de acuerdo al nombre científico documentado en el elemento scientificName.<br><br><br> Este puede ser obtenido de catálogos taxonómicos globales. |
 | Ejemplo | (urn:lsid:ipni.org:names:37829-1:1.3<br> urn:lsid:marinespecies.org:taxname:493567 |
 | Elementos relacionados | scientificName |
-| Core _(Obligatoriedad)_ | Registros _(Condicinal)_. Obligatorio cuando el registro es marino<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Condicinal)_. Obligatorio cuando el registro es marino<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="higherClassification">**higherClassification** (Clasificación superior)</a>
 
@@ -1465,49 +1539,63 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Una lista de los nombres de los taxones inmediatamente superiores a la categoría del taxón del scientificName. Se recomienda ordenar la lista comenzando con la categoría más alta y separando los nombres de cada categoría, con una barra vertical "\|". Permite documentar categorías taxonómicas que no incluye el estándar (suborden, superfamilia, etc). |
 | Ejemplo | Animalia \| Chordata \| Vertebrata \| Mammalia \| Theria \| Eutheria \| Rodentia \| Hystricognatha \| Hystricognathi \| Ctenomyidae \| Ctenomyini \| Ctenomys<br> Animalia \| Arthropoda \| Arachnida \| Araneae \| Paratropididae \| Paratropis |
 | Elementos relacionados | scientificName |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="kingdom">**kingdom** (Reino)</a>
 
 | ---: | :--- |
 | Definición | El nombre científico completo del reino al que pertenece el taxón. |
 | Ejemplo | Animalia<br> Plantae<br> Bacteria<br> Chromista<br> Fungi<br> Protozoa<br> Archaea |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
+
+<br>
 
 <a id="phylum">**phylum** (Filo)</a>
 
 | ---: | :--- |
 | Definición | El nombre científico completo del filo o división al que pertenece el taxón. |
 | Ejemplo | Chordata<br> Bryophyta |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
+
+<br>
 
 <a id="class">**class** (Clase)</a>
 
 | ---: | :--- |
 | Definición | El nombre científico completo de la clase al que pertenece el taxón. |
 | Ejemplo | Mammalia<br> Hepaticopsida |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
+
+<br>
 
 <a id="order">**order** (Orden)</a>
 
 | ---: | :--- |
 | Definición | El nombre científico completo del orden al que pertenece el taxón. |
 | Ejemplo | Carnivora<br> Monocleales |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
+
+<br>
 
 <a id="family">**family** (Familia)</a>
 
 | ---: | :--- |
 | Definición | El nombre científico completo de la familia al que pertenece el taxón. |
 | Ejemplo | Felidae<br> Monocleaceae |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
+
+<br>
 
 <a id="subfamily">**subfamily** (Subfamilia)</a>
 
 | ---: | :--- |
 | Definición | El nombre científico completo de la subfamilia al que pertenece el taxón. |
 | Ejemplo | Periptyctinae<br> Orchidoideae<br> Sphindociinae |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
+
+<br>
 
 
 <a id="genus">**genus** (Género)</a>
@@ -1515,7 +1603,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | El nombre científico completo del género al que pertenece el taxón. |
 | Ejemplo | Puma<br> Monoclea |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
+
+<br>
 
 <a id="genericName">**genericName** (Nombre genérico)</a>
 
@@ -1524,7 +1614,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Comentarios | El elemento genericName solo debe usarse para combinaciones como se muestra a continuación:<br><br> Felis (para el scientificName "Felis concolor", con los valores correspondientes de "Puma concolor" en acceptNameUsage y "Puma" en genus). |
 | Ejemplo | Felis |
 | Elementos relacionados | scientificName, acceptNameUsage, genus |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="subgenus">**subgenus** (Subgénero)</a>
 
@@ -1532,7 +1624,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El nombre científico completo del subgénero al que pertenece el taxón. Se debe incluir el género para evitar la confusión de homonimia. |
 | Ejemplo | Strobus (Pinus)<br> Puma (Puma)<br> Loligo (Amerigo)<br> Hieracium subgen. Pilosella |
 | Elementos relacionados | genus |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
+
+<br>
 
 <a id="infragenericEpithet">**infragenericEpithet** (Epíteto infragenérico)</a>
 
@@ -1540,7 +1634,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El nombre científico del epíteto infragenérico (por encima de la especie, pero por debajo del género) al que pertenece el taxón. |
 | Comentarios | Se usa por ejemplo para secciones en botánica como se muestra a continuación:<br><br> Cracca (para scientificName Vicia sect. Cracca |
 | Ejemplo | Cracca |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="specificEpithet">**specificEpithet** (Epíteto Específico)</a>
 
@@ -1549,7 +1645,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Comentarios | Se usa por ejemplo para secciones en botánica como se muestra a continuación:<br><br> Cracca (para scientificName Vicia sect. Cracca |
 | Ejemplo | concolor<br> gottsche |
 | Elementos relacionados | scientificName |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
+
+<br>
 
 <a id="infraspecificEpithet">**infraspecificEpithet** (Epíteto infraespecífico)</a>
 
@@ -1558,7 +1656,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Comentarios | Se usa por ejemplo para secciones en botánica como se muestra a continuación:<br><br> Cracca (para scientificName Vicia sect. Cracca |
 | Ejemplo | concolor<br> oxyadenia<br> sayi |
 | Elementos relacionados | scientificName |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
+
+<br>
 
 <a id="cultivarEpithet">**cultivarEpithet** (Epíteto cultivar)</a>
 
@@ -1567,7 +1667,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Comentarios | Documentar de acuerdo a como se muestra a continuación:<br><br> King Edward (para el scientificName "Solanum tuberosum 'King Edward'" y taxonRank "cultivar")<br> Mishmiense (para el scientificName "Rhododendron boothii Mishmiense Group" y taxonRank "grupo de cultivares")<br> Atlantis (para scientificName "Paphiopedilum Atlantis grex" y taxonRank "grex") |
 | Ejemplo | King Edward<br> Mishmiense<br> Atlantis |
 | Elementos relacionados | scientificName, taxonRank |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="taxonRank">**taxonRank** (Categoría del taxón)</a>
 
@@ -1575,7 +1677,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | La categoría taxonómica del nombre más específico presente en el scientificName. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
 | Ejemplo | Reino<br> Subreino<br> Filo<br> División<br> Subfilo<br> Subdivisión<br> Clase<br> Subclase<br> Orden<br> Suborden<br> Familia<br> Subfamilia<br> Tribu<br> Subtribu<br> Género<br> Subgénero<br> Sección<br> Subsección<br> Serie<br> Subserie<br> Especie<br> Subespecie<br> Variedad<br> Subvariedad<br> Forma<br> Subforma |
 | Elementos relacionados | scientificName |
-| Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Lista de chequeo _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Lista de chequeo _(Recomendado)_ |
+
+<br>
 
 <a id="verbatimTaxonRank">**verbatimTaxonRank** (Categoría original del taxón)</a>
 
@@ -1583,7 +1687,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | La categoría taxonómica del nombre más específico tal y como aparece en el registro original. Se utiliza para documentar abreviaciones que dan cuenta de incertidumbres o morfotipos en el registro. |
 | Ejemplo | sp1.<br> sp2.<br> Morfotipo1.<br> sub-lesus<br> prole<br> apomict<br> spp. |
 | Elementos relacionados | scientificName |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="vernacularName">**vernacularName** (Nombre común)</a>
 
@@ -1591,7 +1697,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El nombre o nombres comunes del taxón (en una fila continua y separada por una barra vertical "\|"). |
 | Ejemplo | Cóndor Andino<br> Águila Americana<br> Buitre \| Chulo |
 | Elementos relacionados | scientificName |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
+
+<br>
 
 <a id="taxonomicStatus">**taxonomicStatus** (Estado taxonómico)</a>
 
@@ -1599,7 +1707,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El estado taxonómico que define el uso del scientificName de acuerdo a un árbol taxonómico u opinión de experto. |
 | Ejemplo | Inválido<br> Válido<br> Aceptado<br> Sinónimo<br> Sinónimo homotípico<br> Sinónimo heterotípico<br> Ambiguo<br> Mal aplicado |
 | Elementos relacionados | scientificName |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="acceptedNameUsage">**acceptedNameUsage** (Nombre aceptado usado)</a>
 
@@ -1607,7 +1717,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El nombre completo, con autoría e información de fecha si se conoce, del taxón actualmente válido (zoológico) o aceptado (botánico) cuando el nombre documentado en scientificName no corresponda al nombre válido o aceptado. |
 | Ejemplo | Tamias minimus Bachman, 1839 |
 | Elementos relacionados | scientificName |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="acceptedNameUsageID">**acceptedNameUsageID** (ID del nombre aceptado usado)</a>
 
@@ -1615,7 +1727,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Un identificador para el acceptedNameUsage (significado del nombre, documentado de acuerdo con alguna fuente) del taxón actualmente válido (zoológico) o aceptado (botánico).<br><br> Este elemento debe usarse cuando el elemento scientificName hace referencia a un sinónimo o a un nombre ambiguo mal aplicado, para dar claridad sobre el taxón válido al que hace referencia. <br><br> Este puede ser obtenido de bases de datos o catálogos taxonómicos globales. |
 | Ejemplo | gbif.org/species/2435099<br> tsn:552479<br> urn:lsid:ipni.org:names:320035-2 |
 | Elementos relacionados | acceptedNameUsage |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="parentNameUsage">**parentNameUsage** (Nombre parental usado)</a>
 
@@ -1623,7 +1737,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El nombre completo, con autoría e información de fecha si se conoce, del taxón parental directo válido (zoológico) o aceptado (botánico), más próximo de nivel superior (en una clasificación) del elemento más específico presente en el scientificName. |
 | Ejemplo | Rubiaceae<br> Arcytophyllum Willd.<br> Testudinae |
 | Elementos relacionados | scientificName |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="parentNameUsageID">**parentNameUsageID** (ID del Nombre Parental usado)</a>
 
@@ -1631,7 +1747,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Un identificador para el uso del nombre (significado del nombre, documentado de acuerdo con alguna fuente) del taxón parental directo del taxón indicado en el scientificName.<br><br> Por ejemplo si el scientificName corresponde a una especie, el parentNameUsageID corresponder al nombre científico del género si este hace referencia a un sinónimo o a un nombre ambiguo mal aplicado<br><br> Este puede ser obtenido de bases de datos o catálogos taxonómicos globales. |
 | Ejemplo | gbif.org/species/2435099<br> tsn:552479<br> urn:lsid:ipni.org:names:320035-2 |
 | Elementos relacionados | parentNameUsage |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="originalNameUsage">**originalNameUsage** (Nombre original usado)</a>
 
@@ -1639,7 +1757,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El nombre del taxón, con autoría e información de fecha si se conoce, tal como apareció originalmente cuando se estableció por primera vez bajo las reglas del nomenclaturalCode asociado. El basiónimo (botánica) o basónimo (bacteriología) correspondiente al scientificName o el homónimo anterior de los nombres sustituidos. |
 | Ejemplo | Gasterosteus saltatrix Linnaeus 1768 |
 | Elementos relacionados | scientificName, nomeclaturalCode |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="originalNameUsageID">**originalNameUsageID** (ID del Nombre original usado)</a>
 
@@ -1647,7 +1767,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Un identificador para el uso del nombre (significado del nombre, documentado de acuerdo con alguna fuente) en el que se estableció originalmente el scientificName, bajo las reglas del nomenclaturalCode asociado (el protónimo en zoología, basiónimo en botánica).<br><br> Este puede ser obtenido de bases de datos o catálogos taxonómicos globales. |
 | Ejemplo | gbif.org/species/2435099<br> tsn:552479<br> urn:lsid:ipni.org:names:320035-2 |
 | Elementos relacionados | originalNameUsage |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="nameAccordingTo">**nameAccordingTo** (Nombre de acuerdo con)</a>
 
@@ -1655,7 +1777,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | La referencia a la fuente en la que está definida o implícita la definición conceptual del taxón documentado en scientificName, tradicionalmente representado por el Latín "sensu" o "sec." (de secundum, que significa "según"). Para los taxones que resultan de las identificaciones, una referencia a las claves, monografías, expertos y otras fuentes debe ser provista. |
 | Ejemplo | Franz NM, Cardona-Duque J (2013) Description of two new species and phylogenetic reassessment of Perelleschus Wibmer & O’Brien, 1986 (Coleoptera:<br> Curculionidae), with a complete taxonomic concept history of Perelleschus sec. Franz & Cardona-Duque, 2013. Syst Biodivers. 11: 209–236 |
 | Elementos relacionados | scientificName |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="nameAccordingToID">**nameAccordingToID** (ID del nombre de acuerdo con)</a>
 
@@ -1663,7 +1787,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Un identificador de la fuente/publicación en la que está definida o implícita la definición conceptual del taxón específico. Véase nameAccordingTo.<br><br> Este término debe usarse para referirse al ID de taxón de un registro de taxón que representa la combinación original del nombre (el protónimo en zoología, el basiónimo en botánica).  |
 | Ejemplo | doi:10.1016/S0269-915X(97)80026-2<br> 19thcenturyscience.org/HMSC/HMSC-Reports/Zool-40/README.htm |
 | Elementos relacionados | nameAccordingTo |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="namePublishedIn">**namePublishedIn** (Nombre publicado en)</a>
 
@@ -1671,7 +1797,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Una referencia para la publicación en que se estableció originalmente el taxón presente en el scientificName, bajo las reglas del nomeclaturalCode asociado. |
 | Ejemplo | Pearson O. P., and M. I. Christie. 1985. Historia Natural, 5(37):388; Forel, Auguste, Diagnosies provisoires de quelques espèces nouvelles de fourmis de Madagascar, récoltées par M. Grandidier., Annales de la Societe Entomologique de Belgique, Comptes-rendus des Seances 30, 1886 |
 | Elementos relacionados | scientificName, nomeclaturalCode |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="namePublishedInID">**namePublishedInID** (ID del nombre publicado en)</a>
 
@@ -1679,7 +1807,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Un identificador de la publicación en que se estableció originalmente el taxón presente en el scientificName, bajo las reglas del nomeclaturalCode asociado. |
 | Ejemplo | doi:10.1016/S0269-915X(97)80026-2<br> 19thcenturyscience.org/HMSC/HMSC-Reports/Zool-40/README.htm |
 | Elementos relacionados | namePublishedIn |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="namePublishedInYear">**namePublishedInYear** (Nombre publicado en el año)</a>
 
@@ -1687,7 +1817,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El año de cuatro dígitos en el que se publicó el taxón presente en el scientificName. |
 | Ejemplo | 1915<br> 2008 |
 | Elementos relacionados | namePublishedIn |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="taxonConceptID">**taxonConceptID** (ID del concepto del taxón)</a>
 
@@ -1695,7 +1827,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Un identificador para el concepto taxonómico al que se refiere el registro, no para los detalles de nomenclatura de un taxón. |
 | Ejemplo | urn:lsid:zoobank.org:act:040832DB-2A58-4EFE-B234-AEBF222586FC |
 | Elementos relacionados | scientificName |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="nomenclaturalCode">**nomenclaturalCode** (Código nomenclatural)</a>
 
@@ -1703,7 +1837,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El código nomenclatural (o códigos en el caso de un nombre ambireinal) en virtud del cual se construye el scientificName. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
 | Ejemplo | ICBN<br> ICZN<br> BC<br> ICNCP<br> BioCode<br> PhyloCode |
 | Elementos relacionados | scientificName |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="nomenclaturalStatus">**nomenclaturalStatus** (Estado nomenclatural)</a>
 
@@ -1711,14 +1847,19 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El estado nomenclarural en la publicación original del scientificName y su conformidad con las normas pertinentes de nomenclatura. Está basado en las definiciones del nomenclaturalCode en uso y no requiere una opinión taxonómica. |
 | Ejemplo | nom. ambig.<br> nom. illeg.<br> nom. subnud. |
 | Elementos relacionados | scientificName, nomenclaturalCode |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
 
 <a id="taxonRemarks">**taxonRemarks** (Comentarios del taxón)</a>
 
 | ---: | :--- |
 | Definición | Comentarios o anotaciones sobre el taxón o nombre. Se recomienda que la longitud de la descripción no supere 20 palabras. |
 | Ejemplo | Este nombre está mal escrito en uso común<br> Sin estado de amenaza reportada |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
+
+<br>
+<br>
 
 
 ## Extensiones DwC
@@ -1741,7 +1882,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Un identificador para una instancia de relación entre un recurso (resourceID, el sujeto) y otro (relatedResource, el objeto).<br><br> En caso de no contar con un identificador, se puede construir a partir de la concatenación de los occurrenceID separados por /. |
 | Ejemplo | UANDES:ANDES-M:20054/UANDES:ANDES-E:1054 |
 | Elementos relacionados | occurrenceID, resourceID, relatedResourceID |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
 
 <a id="resourceID">**resourceID** (ID del recurso)</a>
 
@@ -1749,7 +1892,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Un identificador del recurso que es sujeto de la relación. Si el registro se encuentra publicado, se recomienda documentar el mismo occurrenceID o una URL asociada. |
 | Ejemplo | IAvH:CBB:PARAMOS:ANFIBIA:MUESTRA:001<br> UANDES:ANDES-M:20054<br> urn:uuid:bab4d024-b931-42b0-aa34-88e7d7f8a747 |
 | Elementos relacionados | occurrenceID |
-| _(Obligatoriedad)_ | _(Obligatorio)_
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+
+<br>
 
 <a id="relatedResourceID">**relatedResourceID** (ID del recurso relacionado)</a>
 
@@ -1757,7 +1902,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Un identificador para el recurso biológico que es el objeto de la relación. Si el registro se encuentra publicado, se recomienda documentar el mismo occurrenceID o una URL asociada. |
 | Ejemplo | IAvH:CBB:PARAMOS:ANFIBIA:ESPECIMENPRESERVADO:001<br> UANDES:ANDES-E:1054<br> urn:catalog:Berggren:KB07001 |
 | Elementos relacionados | occurrenceID |
-| _(Obligatoriedad)_ | _(Obligatorio)_
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+
+<br>
 
 <a id="relationshipOfResource">**relationshipOfResource** (Tipo de relación del recurso)</a>
 
@@ -1765,7 +1912,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | La relación del objeto respecto al sujeto. Se recomienda el uso de un vocabulario controlado. |
 | Ejemplo | Duplicado de<br> Madre de<br> Secuencia de<br> Huésped de<br> Tejido de<br> Sinonimia válida de<br> Ubicado dentro de<br> Muestra de<br> Parásito de<br> Cría de<br> Simbionte con |
 | Elementos relacionados | relationshipOfResourceID |
-| _(Obligatoriedad)_ | _(Obligatorio)_
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+
+<br>
 
 <a id="relationshipOfResourceID">**relationshipOfResourceID** (ID del tipo de relación del recurso)</a>
 
@@ -1774,28 +1923,37 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Comentarios | Se recomienda hacer uso de los identificadores de los términos en vocabularios controlados, como la ontología de relación OBO., como se muestra a continuación:<br><br> http://purl.obolibrary.org/obo/RO_0002456 (para la relación "polinizado por")<br> https://www.inaturalist.org/observation_fields/879 (para la relación "comido por") |
 | Ejemplo | http://purl.obolibrary.org/obo/RO_0002456br> https://www.inaturalist.org/observation_fields/879 |
 | Elementos relacionados | relationshipOfResource |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
 
 <a id="relationshipAccordingTo">**relationshipAccordingTo** (Relación de acuerdo con)</a>
 
 | ---: | :--- |
 | Definición | La fuente (persona, organización, publicación, referencia) que establece la relación entre los dos registros. |
 | Ejemplo | Paola Andrea Salamanca Torres<br> Luis Alejandro Morales Mina |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
 
 <a id="relationshipEstablishedDate">**relationshipEstablishedDate** (Fecha en que se estableció la relación)</a>
 
 | ---: | :--- |
 | Definición | La fecha o el intervalo en la que se estableció la relación. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
 | Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/2010-01<br> 2009-02/10<br> 2009-02-12/2009-10-08<br> 2010-01-17/18 |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
 
 <a id="relationshipRemarks">**relationshipRemarks** (Comentarios de la relación)</a>
 
 | ---: | :--- |
 | Definición | Comentarios o anotaciones sobre la relación entre los dos registros. Se recomienda que la longitud de la descripción no supere 20 palabras. |
 | Ejemplo | Madre y cría colectadas del mismo nido<br> Polinizador capturado en el acto<br> Ejemplar bien conservado para extracción de ADN<br> Parásito que genera enfermedad mortal para la especie |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+<br>
 
 ### Medidas o Hechos Extendida
 
@@ -1815,14 +1973,18 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | El identificador del registro biológico asociado a la medida o hecho. Se puede utilizar para asociar más de una medida con el mismo registro biológico. |
 | Ejemplo | ILVO_macro_aggregate_59206<br> ANH-I:2008:EH253:SUP:MHNMC:Consec.71957:Zoo1 |
-| _(Obligatoriedad)_ | _(Obligatorio)_
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+
+<br>
 
 <a id="measurementID">**measurementID** (ID de la medida)</a>
 
 | ---: | :--- |
 | Definición | Un identificador para la medida o hecho. Puede ser un identificador único global o un identificador específico para el conjunto de datos. El identificador puede construirse a partir de tesauros específicos como NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/) comúnmente usado para datos marinos.<br><br> Puede construirse a partir de la siguiente estructura: [measurementTypeID]:[consecutivo]. |
 | Ejemplo | P01/current/AREABEDS:001 |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
 
 <a id="measurementType">**measurementType** (Tipo de medida)</a>
 
@@ -1830,7 +1992,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El nombre de la medida, hecho o característica. Puede ser abiótica, biótica o relacionada al protocolo de muestreo. Se recomienda el uso de un vocabulario controlado. |
 | Ejemplo | **Bióticos**<br> Estado fitosanitario<br> Peso<br> Longitud total<br> Descripción gónadas<br> Largo de cuerpo<br> Grupo funcional<br> **Abióticos**<br> pH<br> Clima<br> Longitud del tramo muestreado<br> Nombre del instrumento de muestreo<br> Temperatura<br> Superficie del área<br> Altura de la orilla<br> Tamaño del grano<br> Color de muestra |
 | Elementos relacionados | measurementTypeID, measurementValue, measurementUnit |
-| _(Obligatoriedad)_ | _(Obligatorio)_
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+
+<br>
 
 <a id="measurementTypeID">**measurementTypeID** (ID del tipo de medida)</a>
 
@@ -1839,7 +2003,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Comentarios | Se recomienda el uso del vocabulario NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/) para datos marinos, como se muestra a continuación:<br><br> http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/ (= Longitud del tramo muestreado)<br> http://vocab.nerc.ac.uk/collection/Q01/current/Q0100002/ (= Nombre del instrumento de muestreo)<br> P01/current/AREABEDS (= Área del fondo marino muestreada) |
 | Ejemplo | http://vocab.nerc.ac.uk/collection/P01/current/LENTRACK/<br> http://vocab.nerc.ac.uk/collection/Q01/current/Q0100002/<br> P01/current/AREABEDS |
 | Elementos relacionados | measurementType |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
 
 <a id="measurementValue">**measurementValue** (Valor de la medida)</a>
 
@@ -1847,7 +2013,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El valor de la medida, hecho o característica documentada en el elemento measurementType. |
 | Ejemplo | **Bióticos**<br> Bueno<br> Agar sangre<br> 80.1<br> 1.20<br> 38<br> C3743<br> Gónadas en estado inmaduro, con tamaño uniforme<br> **Abióticos**<br> 7.8<br> Nublado<br> 30<br> Balde |
 | Elementos relacionados | measurementValueID, measurementType |
-| _(Obligatoriedad)_ | _(Obligatorio)_
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+
+<br>
 
 <a id="measurementValueID">**measurementValueID** (ID del valor de la medida)</a>
 
@@ -1856,7 +2024,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Comentarios | Se recomienda el uso del vocabulario NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/), como se muestra a continuación:<br><br> http://vocab.nerc.ac.uk/collection/L22/current/TOOL0536/ (= Balde)<br> L22/current/TOOL0653/ (= Muestreo Van Veen) |
 | Ejemplo | http://vocab.nerc.ac.uk/collection/L22/current/TOOL0536/<br> L22/current/TOOL0653/ |
 | Elementos relacionados | measurementValue |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
 
 <a id="measurementAccuracy">**measurementAccuracy** (Precisión de la medida)</a>
 
@@ -1864,7 +2034,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | La descripción de los errores potenciales asociados con el measurementValue. |
 | Ejemplo | 0.01<br> Distribución normal con variación de 2 m |
 | Elementos relacionados | measurementValue |
-| _(Obligatoriedad)_ | _(Opcional)_
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
 
 <a id="measurementUnit">**measurementUnit** (Unidad de la medida)</a>
 
@@ -1921,6 +2093,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Comentarios o notas que acompañan a la medida o hecho. Se recomienda que la longitud de la descripción no supere 20 palabras. |
 | Ejemplo | Falta la punta de la cola<br> Largo del pico por encima del promedio<br> Aleta dorsal mordida<br> Ejemplar conservado en buen estado<br> El medio de cultivo es modificado |
 | _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+<br>
 
 ### Multimedia Simple
 
@@ -2067,6 +2242,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Ejemplo | Jardín Botánico de Quindío |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
+<br>
+<br>
 
 ### Referencias de Literatura
 
@@ -2198,6 +2375,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Un identificador del conjunto de datos del cual se deriva el registro de la publicación referenciada. |
 | Ejemplo | 002_BIO-RRBB_SC_2021032<br> https://doi.org/10.15472/v24ppe |
 | _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+<br>
 
 ### Distribución de la Especie
 
@@ -2340,6 +2520,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Ejemplo | 002_BIO-RRBB_SC_2021032<br> https://doi.org/10.15472/ea8sek |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
+<br>
+<br>
+
 ### Descripción del Taxón
 
 | Índice |    |    |    |
@@ -2450,6 +2633,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Un identificador del conjunto de datos del cual se deriva el registro de la descripción. |
 | Ejemplo | 002_BIO-RRBB_SC_2021032<br> https://doi.org/10.15472/v24ppe |
 | _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+<br>
 
 ### Perfil de la Especie
 
@@ -2595,6 +2781,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Un identificador del conjunto de datos del cual se deriva el registro del perfil del taxón. |
 | Ejemplo | 002_BIO-RRBB_SC_2021032<br> https://doi.org/10.15472/ea8sek |
 | _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+<br>
 
 ### Tipos y Especímenes
 
@@ -2779,6 +2968,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Ejemplo | I2D-BIO_2015_089<br>001_BIO-RRBB_SC_2019027<br> https://doi.org/10.15472/ympw2s  |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
+<br>
+<br>
 
 ### Muestra del Material GGBN
 
@@ -2998,6 +3189,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Ejemplo | ADN_bac_cep04<br> TEJ_fung_muestra01 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
+<br>
+<br>
 
 ### Preservación GGBN
 
@@ -3042,6 +3235,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Descripción de la secuencia (orden) de diferentes observaciones realizadas a la muestra. Por ejemplo como se muestra a continuación:<br><br> 1 (= Más antigua)<br> 4 (= Más reciente) |
 | Ejemplo | 1<br> 4 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+<br>
 
 ### Permiso GGBN
 
@@ -3096,6 +3292,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Ejemplo | Permiso de recolección otorgado por la Autoridad Nacional de Licencias Ambientales mediante resolución 1271 del 23 de octubre de 2014 para la recolección es especímenes de especies silvestres de la biodiversidad biológica con fines de investigación científica no comerciales. Vigencia de 10 años |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
+<br>
+<br>
+
 ### Preparación GGBN
 
 | Índice |    |    |
@@ -3148,6 +3347,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | ULa fecha o el intervalo durante la cual se realizó la preparación del espécimen o la muestra. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
 | Ejemplo | 2010<br>2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+<br>
 
 ### Amplificación GGBN
 
@@ -3473,6 +3675,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Ejemplo | MID1 5′-ACGAGTGCGT-3′ |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
+<br>
+<br>
+
 ### Préstamo GGBN
 
 | Índice |    |    |    |
@@ -3553,6 +3758,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Ejemplo | Universidad de los Andes, María Isabel Cárdenas Contreras |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
+<br>
+<br>
+
 ## Vocabularios Controlados
 
 | Índice |    |    |    |
@@ -3591,7 +3799,6 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 <a id="vc_language">**language** (Idioma)</a>
 
-|    |
 | ---|
 | Utilizar el vocabulario controlado para el idioma en la norma ISO 639-1. Solamente se usan 2 letras en minúscula, consulte la información en la página oficial de ISO [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
 
@@ -3629,8 +3836,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <br>
 
 <a id="vc_pathway">**pathway** (Ruta de introducción)</a>
-<br>
-<br>
+
 La lista completa de vocabularios controlados se encuentra disponible en [https://dwc.tdwg.org/pw/#4-vocabulary](https://dwc.tdwg.org/pw/#4-vocabulary){:target="_blank"}. Utilice la palabra en la columna llamada controlled value. Se presentan los vocabularios más comunes a continuación:
 
 |  Vocabulario |  Definición  |
@@ -3667,6 +3873,7 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 | Oceanía |
 | Antártida |
 
+<br>
 
 <a id="vc_countryCode">**countryCode** (Código del país)</a>
 
