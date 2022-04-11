@@ -51,7 +51,7 @@ La publicación tiene como finalidad compartir datos en un formato estandarizado
    </td>
   </tr>
   <tr>
-   <td><b>Opciones de licencias para publicación, uso y atribución:</b>
+   <td><b>Licencias para publicación, uso y atribución:</b>
     <ul>
      <li>CC0</li>
      <li>CC-BY</li>
