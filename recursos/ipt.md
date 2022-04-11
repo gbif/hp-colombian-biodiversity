@@ -17,7 +17,7 @@ Si desea conocer más sobre el IPT consulte el [manual de usuario](https://ipt.g
 Los IPT alojados por el SiB Colombia son:
 
 
-**Nombre**  | **Enlace**  | **Descripción**
+Nombre  | Enlace  | Descripción
 ------------ | ------------- | -------------
 SiB Colombia | [https://ipt.biodiversidad.co/sib/](https://ipt.biodiversidad.co/sib/){:target="_blank"} | Para datos continentales.
 SiB Marino | [https://ipt.biodiversidad.co/sibm/](https://ipt.biodiversidad.co/sibm/){:target="_blank"} | Para datos marino-costeros con conexión [SiBM](https://siam.invemar.org.co/sibm){:target="_blank"} y [OBIS](https://obis.org/){:target="_blank"}.
