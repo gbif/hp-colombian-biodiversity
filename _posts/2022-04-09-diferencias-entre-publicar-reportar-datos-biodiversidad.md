@@ -17,13 +17,11 @@ Sin embargo, estrenamos recientemente un **nuevo procedimiento para el reporte d
 
 **Desde el año 2013, el [Ministerio de Ambiente y Desarrollo Sostenible](https://www.minambiente.gov.co/){:target="_blank"} expidió los decretos 1376 y 3016, compilados en el decreto 1076 de 2015**, los cuales buscan reglamentar los permisos de recolección de especímenes con fines de investigación científica y con fines de elaboración de estudios ambientales.
 
-| **Consulta la [guía para reportar datos](https://biodiversidad.co/compartir/guia-para-reportar/){:target="_blank"}.** |
-| :--- |
+* **Consulta la [guía para reportar datos](https://biodiversidad.co/compartir/guia-para-reportar/){:target="_blank"}.**
 
 **Luego del establecimiento de esta ley, el reporte se convirtió en un proceso transaccional y, desde el SiB Colombia, queremos cambiar esa dinámica** para fortalecer nuestra comunidad que cree en el acceso abierto de los datos y garantizar la calidad de los mismos a través del acompañamiento personalizado al que pueden acceder nuestros socios publicadores, con el fin de que sean reconocidos y citados por otros profesionales del medio.
 
-| **Consulta la [guía de publicación de datos](https://biodiversidad.co/compartir/guia-para-publicar/){:target="_blank"}.** |
-| :--- |
+* **Consulta la [guía de publicación de datos](https://biodiversidad.co/compartir/guia-para-publicar/){:target="_blank"}.** 
 
 Ahora, **pasar de reportar a publicar no requiere de esfuerzos adicionales. La plantilla de extensión de permisos no solo sirve para cumplir con el proceso normativo**, y una vez se obtenga el certificado de reporte de datos, la persona estará a un solo paso de la publicación a través del SiB Colombia y redes internacionales como [GBIF](https://www.gbif.org/){:target="_blank"} y [OBIS](https://obis.org/){:target="_blank"}.
 
@@ -34,38 +32,29 @@ Las anteriores herramientas no tenían la posibilidad de ser actualizadas en el 
 
 La publicación tiene como finalidad compartir datos en un formato estandarizado, permitiendo que estos sean accesibles para su libre consulta y uso, siempre respetando las licencias de atribución y uso establecidas por el publicador. Si se queda en el paso de la normatividad se está perdiendo estos beneficios y muchos más. Le explicamos en detalle:
 
-| **Conoce más sobre el [estándar Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc/){:target="_blank"}.** |
-| :--- |
+* **Conoce más sobre el [estándar Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc/){:target="_blank"}.** 
 
 
-
-| **Modelo de publicación de datos e información** | **Modelo de reporte de datos derivados de permisos de recolección** |
-| :----------------------------------------------: | :-----------------------------------------------------------------: |
-| ¿Qué tipo de datos se pueden publicar? |
-| • Registros biológicos<br/>• Eventos de muestreo<br/>• Listas de especies | • Registros biológicos |
-| Licencias para publicación, uso y atribución: |
-| • CC0<br/>• CC-BY<br/>• CC-BY-NC | • CC-BY-NC |
-| :----------------------------------------------- | :------------------------------------------------------------------ |
-
- <table>
+ <table class=tabla-noticias">
+  <thead>
+   <tr>
+    <td>Modelo de publicación de datos e información</td>
+    <td>Modelo de reporte de datos derivados de permisos de recolección</td>
+   </tr>
+  </thead>
   <tr>
-   <td><strong>Modelo de publicación de datos e información</strong></td>
-   <td><strong>Modelo de reporte de datos derivados de permisos de recolección</strong></td>
-  </tr>
-  <tr>
-<td>
-
-¿Qué tipo de datos se pueden publicar?
-* Registros biológicos
-* Eventos de muestreo
-* Listas de especies
-
-</td><td>
- 
-¿Qué tipo de datos se pueden publicar?
-* Registros biológicos
-    
-</td>
+   <td>¿Qué tipo de datos se pueden publicar?
+    <ul>
+     <li>Registros biológicos</li>
+     <li>Eventos de muestreo</li>
+     <li>Listas de especies</li>
+    </ul>
+   </td>
+   <td><br/>
+    <ul>
+     <li>Registros biológicos</li>
+    </ul>
+   </td>
   </tr>
   <tr>
    <td>Tres opciones de licencias para publicación, uso y atribución:
