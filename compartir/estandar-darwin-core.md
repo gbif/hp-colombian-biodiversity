@@ -47,16 +47,18 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 <a name="basisOfRecord">**basisOfRecord** (Base del registro)</a>
 
-| ---|--- |
+| ---: | :--- |
 | Definición | Denota el origen o evidencia específica de la que se deriva el organismo. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. |
 | Comentarios | Sólo las colecciones biológicas pueden documentar PreservedSpecimen, si el registro corresponde a un espécimen depositado, pero el reporte no lo genera la colección biológica, se documenta HumanObservation y se documentan los elementos collectionCode, catalogNumber y disposition. |
 | Elementos relacionados | type |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_ |
 | [Vocabulario controlado](#vc_basisOfRecord) | PreservedSpecimen<br> HumanObservation<br> LivingSpecimen<br> FossilSpecimen<br> MachineObservation<br> MaterialSample<br> MaterialCitation |
 
+<br>
+
 <a name="type">**type** (Tipo)</a>
 
-| ---|--- |
+| ---: | :--- |
 | Definición | Especifica el tipo de evidencia que da origen al registro, ampliando la información presente en el elemento basisOfRecord. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | Elementos relacionados | basisOfRecord |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Opcional)_ |
@@ -64,7 +66,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 <a name="institutionCode">**institutionCode** (Código de la institución)</a>
 
-| ---|--- |
+| ---: | :--- |
 | Definición | El nombre completo de la institución que custodia el espécimen o la información del registro; seguido por su acrónimo en paréntesis, si tiene. |
 | Ejemplo | Ministerio de Ambiente y Desarrollo Sostenible (MADS)<br> Universidad de Antioquia (UdeA)<br> Jardín Botánico de Bogotá José Celestino Mutis (JBB) |
 | Elementos relacionados | institutionID |
