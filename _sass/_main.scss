@@ -177,41 +177,43 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
 
 // Tabla pada contenido NOTICIAS
 
-.tablaNoticias {
+.tablaNoticias table {
     border-collapse: collapse;
     margin: 25px 0;
     font-size: 0.9em;
     min-width: 400px;
     text-align: left;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.10);
     border-radius: 10px 10px 0 0;
     overflow: hidden;
 }
-.tablaNoticias thead tr {
+.tablaNoticias table thead tr {
     background-color: #9EC649;
 }
-.tablaNoticias thead td,
-.tablaNoticias thead th {
+.tablaNoticias table thead td,
+.tablaNoticias table thead th {
+    border-width: 0;
+    border: none;
     font-weight: bold;
     color: #ffffff;
     padding: 12px 15px;
 }
-.tablaNoticias th,
-.tablaNoticias td {
+.tablaNoticias table th,
+.tablaNoticias table td {
     padding: 12px 15px;
 }
-.tablaNoticias tbody tr {
+.tablaNoticias table tbody tr {
     border-bottom: 1px solid #dddddd;
 }
 
-.tablaNoticias tbody tr:nth-of-type(even) {
-    background-color: #f3f3f3;
+.tablaNoticias table tbody tr:nth-of-type(even) {
+    background-color: #f9f9f9;
 }
 
-.tablaNoticias tbody tr:last-of-type {
+.tablaNoticias table tbody tr:last-of-type {
     border-bottom: 2px solid #9EC649;
 }
-.tablaNoticias tbody tr.active-row {
+.tablaNoticias table tbody tr.active-row {
     font-weight: bold;
     color: #214F53;
 }
