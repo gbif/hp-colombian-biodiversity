@@ -28,8 +28,8 @@ Las anteriores herramientas no tenían la posibilidad de ser actualizadas en el 
 
 La publicación tiene como finalidad compartir datos en un formato estandarizado, permitiendo que estos sean accesibles para su libre consulta y uso, siempre respetando las licencias de atribución y uso establecidas por el publicador. Si se queda en el paso de la normatividad se está perdiendo estos beneficios y muchos más. Le explicamos en detalle:
 
-
- <table class="tablaContenido"> 
+<div class="tablaContenido">
+ <table> 
   <thead>
    <tr>
     <td>Modelo de publicación de datos e información</td>
@@ -120,7 +120,7 @@ La publicación tiene como finalidad compartir datos en un formato estandarizado
    </td>
   </tr>
  </table>
-
+</div>
 
 ## ¿Por qué es importante publicar datos sobre biodiversidad?
 
