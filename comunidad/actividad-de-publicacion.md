@@ -6,7 +6,7 @@ background: https://live.staticflickr.com/65535/5730740301_39ffae8b5e_b.jpg
 imageLicense: |
   _Stolas_ Fotografía de: U.Schmidt vía [Flickr](https://flic.kr/p/9Jpxrg)
 height: 41vh
-toc: true
+toc: false
 composition:
   - type: heroImage
   - type: markdown
@@ -19,7 +19,7 @@ composition:
 Histórico de los reportes de la actividad de publicación desde 2016 a la fecha.
 
 
-|Ene|Feb|Mar|Abr|May|Jun|Jul|Ago|Sep|Oct|Nov|Dic|
+|   |Ene|Feb|Mar|Abr|May|Jun|Jul|Ago|Sep|Oct|Nov|Dic|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **2022** | [![](/assets/images/reportes/rep-mes-1-40x40_rojo.png)](https://datastudio.google.com/u/0/reporting/a9b34708-4ef6-4255-8019-7c49ee54d10f/page/Ge2V){:target="_blank"}|  [![](/assets/images/reportes/rep-mes-2-40x40_amarillo.png)](https://datastudio.google.com/u/0/reporting/0673c051-bba0-41c8-a858-a87480e55114/page/Ge2V){:target="_blank"} | [![](/assets/images/reportes/rep-mes-3-40x40_naranja.png)](https://datastudio.google.com/u/0/reporting/b01f1e09-2065-432e-a19d-e2cd097717c8/page/Ge2V){:target="_blank"} |   |  |  |   |  |  |  |  |  | 
 | **2021** | [![](/assets/images/reportes/rep-mes-1-40x40_rojo.png)](https://datastudio.google.com/u/0/reporting/63dcd1a8-3316-4d50-9053-a93a67aa8dfa/page/Ge2V){:target="_blank"}| [![](/assets/images/reportes/rep-mes-2-40x40_amarillo.png)](https://datastudio.google.com/u/0/reporting/c8f98154-44fb-4839-b03b-a2681d1d26d2/page/Ge2V){:target="_blank"}  | [![](/assets/images/reportes/rep-mes-3-40x40_naranja.png)](https://datastudio.google.com/u/0/reporting/1wRyC7mGv3kt4e0x6cAoeEAnTjBIhX6TR/page/Ge2V){:target="_blank"}  | [![](/assets/images/reportes/rep-mes-4-40x40_azul.png)](https://datastudio.google.com/u/0/reporting/6a0964f8-0371-4839-a03d-84854ad028ff/page/Ge2V){:target="_blank"}   | [![](/assets/images/reportes/rep-mes-5-40x40_oliva.png)](https://datastudio.google.com/u/0/reporting/f830e4a9-71e3-4c8a-b524-034321746ea2/page/Ge2V){:target="_blank"} | [![](/assets/images/reportes/rep-mes-6-40x40_verde.png)](https://datastudio.google.com/u/0/reporting/a13cced0-4148-4d7e-937e-4866a22bd6a0/page/Ge2V){:target="_blank"}  | [![](/assets/images/reportes/rep-mes-1-40x40_rojo.png)](https://datastudio.google.com/u/0/reporting/6800eab3-f92c-4a65-8458-8fdac137de0e/page/Ge2V){:target="_blank"}  | [![](/assets/images/reportes/rep-mes-2-40x40_amarillo.png)](https://datastudio.google.com/u/0/reporting/a92bbb7e-f5f5-4413-9a9d-e025e5c283bc/page/Ge2V){:target="_blank"} | [![](/assets/images/reportes/rep-mes-3-40x40_naranja.png)](https://datastudio.google.com/u/0/reporting/928be53b-e7f6-4ce9-88da-307158e940d9/page/Ge2V){:target="_blank"} | [![](/assets/images/reportes/rep-mes-4-40x40_azul.png)](https://datastudio.google.com/u/0/reporting/b75fbb0d-cbb5-4a2e-9f9b-ebd0fdcef347/page/Ge2V){:target="_blank"} | [![](/assets/images/reportes/rep-mes-5-40x40_oliva.png)](https://datastudio.google.com/u/0/reporting/aa4a4333-2da1-4c22-b769-29c98de18504/page/Ge2V){:target="_blank"} | [![](/assets/images/reportes/rep-mes-6-40x40_verde.png)](https://datastudio.google.com/u/0/reporting/8a6cc796-5f95-4b0f-9314-b48471082349/page/Ge2V){:target="_blank"} | 
