@@ -237,9 +237,13 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
 .table thead th {
     border-width: 0;
     border: none;
-    font-weight: bold;
+    //font-weight: bold;
     color: #ffffff;
     padding: 12px 15px;
+}
+.table thead td a,
+.table thead th a {
+    color: #ffffff;
 }
 .table th,
 .table td {
