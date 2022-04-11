@@ -29,7 +29,7 @@ Las anteriores herramientas no tenían la posibilidad de ser actualizadas en el 
 La publicación tiene como finalidad compartir datos en un formato estandarizado, permitiendo que estos sean accesibles para su libre consulta y uso, siempre respetando las licencias de atribución y uso establecidas por el publicador. Si se queda en el paso de la normatividad se está perdiendo estos beneficios y muchos más. Le explicamos en detalle:
 
 
- <table class="tabla-noticias"> 
+ <table class="tablaContenido"> 
   <thead>
    <tr>
     <td>Modelo de publicación de datos e información</td>
@@ -51,21 +51,21 @@ La publicación tiene como finalidad compartir datos en un formato estandarizado
    </td>
   </tr>
   <tr>
-   <td>Tres opciones de licencias para publicación, uso y atribución:
+   <td>Opciones de licencias para publicación, uso y atribución:
     <ul>
      <li>CC0</li>
      <li>CC-BY</li>
      <li>CC-BY-NC</li>
     </ul>
    </td>
-   <td>Una sola licencia disponible para publicación, uso y atribución:
+   <td><br/>
     <ul>
      <li>CC-BY-NC</li>
     </ul>
    </td>
   </tr>
   <tr>
-   <td>Datos públicos, accesibles, visibles:
+   <td>Visibilidad de los datos e instancias de consulta:
     <ul>
      <li>Portal de datos SiB Colombia</li>
      <li>Portal permisos de recolección</li>
@@ -73,9 +73,9 @@ La publicación tiene como finalidad compartir datos en un formato estandarizado
      <li>Portal OBIS</li>
     </ul>
    </td>
-   <td>Datos públicos, accesibles, pero no visibles:
+   <td><br/>
     <ul>
-    <li>Portal permisos de recolección</li>
+    <li>IPT de permisos de recolección</li>
     </ul>
    </td>
   </tr>
@@ -86,7 +86,7 @@ La publicación tiene como finalidad compartir datos en un formato estandarizado
      <li>Posibilidad de actualizaciones en los conjuntos de datos</li>
     </ul>
    </td>
-   <td>Cuentas de usuario por organización:
+   <td><br/>
     <ul>
      <li>Una sola</li>
     </ul>
@@ -99,7 +99,7 @@ La publicación tiene como finalidad compartir datos en un formato estandarizado
      <li>Curaduría de datos y metadatos</li>
     </ul>
    </td>
-   <td>Acompañamiento técnico:
+   <td><br/>
     <ul>
      <li>Generación de credenciales</li>
     </ul>
@@ -113,21 +113,7 @@ La publicación tiene como finalidad compartir datos en un formato estandarizado
      <li>Certificado de publicación AA</li>
     </ul>
    </td>
-   <td>Valor agregado e impacto:
-    <ul>
-     <li>Certificado de publicación AA</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td>Valor agregado e impacto:
-    <ul>
-     <li>Reconocimiento SNCTeI</li>
-     <li>Artículos de Datos</li>
-     <li>Certificado de publicación AA</li>
-    </ul>
-   </td>
-   <td>Valor agregado e impacto:
+   <td><br/>
     <ul>
      <li>Certificado de publicación AA</li>
     </ul>
