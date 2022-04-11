@@ -237,7 +237,7 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
 .table thead th {
     border-width: 0;
     border: none;
-    //font-weight: bold;
+    font-weight: bold;
     color: #ffffff;
     padding: 12px 15px;
 }
@@ -265,6 +265,7 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
     color: #214F53;
 }
 
-.content table thead th {
-    color: #FFFFFF;
+.content table thead th,
+.content table thead td {
+    color: #ffffff;
 }
