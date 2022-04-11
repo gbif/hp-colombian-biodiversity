@@ -15,7 +15,7 @@ Sin embargo, estrenamos recientemente un **nuevo procedimiento para el reporte d
 
 ¿Sabías que cada uno de estos procesos: publicación y reporte, tiene alcances distintos? Aquí lo explicamos…
 
-**Desde el año 2013, el [Ministerio de Ambiente y Desarrollo Sostenible](https://www.minambiente.gov.co/){:target="_blank"}** expidió los decretos 1376 y 3016 compilados en el decreto 1076 de 2015**, los cuales buscan reglamentar los permisos de recolección de especímenes con fines de investigación científica y con fines de elaboración de estudios ambientales.
+**Desde el año 2013, el [Ministerio de Ambiente y Desarrollo Sostenible](https://www.minambiente.gov.co/){:target="_blank"} expidió los decretos 1376 y 3016, compilados en el decreto 1076 de 2015**, los cuales buscan reglamentar los permisos de recolección de especímenes con fines de investigación científica y con fines de elaboración de estudios ambientales.
 
 Consulta la [guía para reportar datos](https://biodiversidad.co/compartir/guia-para-reportar/){:target="_blank"}.
 
@@ -23,7 +23,7 @@ Consulta la [guía para reportar datos](https://biodiversidad.co/compartir/guia-
 
 Consulta la [guía de publicación de datos](https://biodiversidad.co/compartir/guia-para-publicar/){:target="_blank"}.
 
-Ahora, **pasar de reportar a publicar no requiere de esfuerzos adicionales. La plantilla de extensión de permisos ya no solo sirve para cumplir con el proceso normativo**, ya que una vez se obtenga el certificado de reporte de datos, la persona estará a un solo paso de la publicación.
+Ahora, **pasar de reportar a publicar no requiere de esfuerzos adicionales. La plantilla de extensión de permisos no solo sirve para cumplir con el proceso normativo**, y una vez se obtenga el certificado de reporte de datos, la persona estará a un solo paso de la publicación a través del SiB Colombia y redes internacionales como [GBIF](https://www.gbif.org/){:target="_blank"} y [OBIS](https://obis.org/){:target="_blank"}.
 
 Las anteriores herramientas no tenían la posibilidad de ser actualizadas en el tiempo. La nueva herramienta cuenta con soporte de la comunidad internacional, lo que permite que se actualice periódicamente y sea escalable en el tiempo.
 
@@ -41,139 +41,102 @@ Conoce más sobre el [estándar Darwin Core](https://biodiversidad.co/recursos/p
    <td><strong>Modelo de reporte de datos derivados de permisos de recolección</strong></td>
   </tr>
   <tr>
-   <td>¿Qué tipo de datos se pueden publicar?
-  <ul>
-   <li>Registros biológicos
-   <li>Eventos de muestreo
-   <li>Listas de especies
-  </li>
-  </ul>
-  </td>
-  <td>¿Qué tipo de datos se pueden publicar?
-  <ul>
+<td>
 
-  <li>Registros biológicos
-  </li>
-  </ul>
-  </td>
+ ¿Qué tipo de datos se pueden publicar?
+ * Registros biológicos
+ * Eventos de muestreo
+ * Listas de especies
+
+</td><td>
+ 
+ ¿Qué tipo de datos se pueden publicar?
+ * Registros biológicos
+    
+</td>
   </tr>
   <tr>
-  <td>Tres opciones de licencias para publicación, uso y atribución:
-  <ul>
-
-  <li>CC0
-
-  <li>CC-BY
-
-  <li>CC-BY-NC
-  </li>
-  </ul>
-  </td>
-  <td>Una  sola licencia disponible para publicación, uso y atribución:
-  <ul>
-
-  <li>CC-BY-NC
-  </li>
-  </ul>
-  </td>
+   <td>Tres opciones de licencias para publicación, uso y atribución:
+    <ul>
+     <li>CC0</li>
+     <li>CC-BY</li>
+     <li>CC-BY-NC</li>
+    </ul>
+   </td>
+   <td>Una  sola licencia disponible para publicación, uso y atribución:
+    <ul>
+     <li>CC-BY-NC</li>
+    </ul>
+   </td>
   </tr>
   <tr>
-  <td>Datos públicos, accesibles, visibles:
-  <ul>
-
-  <li>Portal de datos SiB Colombia
-
-  <li>Portal permisos de recolección
-
-  <li>Portal GBIF
-
-  <li>Portal OBIS
-  </li>
-  </ul>
-  </td>
-  <td>Datos públicos, accesibles, pero no visibles:
-  <ul>
-
-  <li>Portal permisos de recolección
-  </li>
-  </ul>
-  </td>
+   <td>Datos públicos, accesibles, visibles:
+    <ul>
+     <li>Portal de datos SiB Colombia</li>
+     <li>Portal permisos de recolección</li>
+     <li>Portal GBIF</li>
+     <li>Portal OBIS</li>
+    </ul>
+   </td>
+   <td>Datos públicos, accesibles, pero no visibles:
+    <ul>
+    <li>Portal permisos de recolección</li>
+    </ul>
+   </td>
   </tr>
   <tr>
-  <td>Cuentas de usuario por organización:
-  <ul>
-
-  <li>Múltiples
-
-  <li>Posibilidad de actualizaciones en los conjuntos de datos
-  </li>
-  </ul>
-  </td>
-  <td>Cuentas de usuario por organización:
-  <ul>
-
-  <li>Una sola
-  </li>
-  </ul>
-  </td>
+   <td>Cuentas de usuario por organización:
+    <ul>
+     <li>Múltiples</li>
+     <li>Posibilidad de actualizaciones en los conjuntos de datos</li>
+    </ul>
+   </td>
+   <td>Cuentas de usuario por organización:
+    <ul>
+     <li>Una sola</li>
+    </ul>
+   </td>
   </tr>
   <tr>
-  <td>Acompañamiento técnico:
-  <ul>
-
-  <li>Generación de credenciales
-
-  <li>Curaduría de datos y metadatos
-  </li>
-  </ul>
-  </td>
-  <td>Acompañamiento técnico:
-  <ul>
-
-  <li>Generación de credenciales
-  </li>
-  </ul>
-  </td>
+   <td>Acompañamiento técnico:
+    <ul>
+     <li>Generación de credenciales</li>
+     <li>Curaduría de datos y metadatos</li>
+    </ul>
+   </td>
+   <td>Acompañamiento técnico:
+    <ul>
+     <li>Generación de credenciales</li>
+    </ul>
+   </td>
   </tr>
   <tr>
-  <td>Valor agregado e impacto:
-  <ul>
-
-  <li>Reconocimiento SNCTeI
-
-  <li>Artículos de datos
-
-  <li>Certificado de publicación AA
-  </li>
-  </ul>
-  </td>
-  <td>Valor agregado e impacto:
-  <ul>
-
-  <li>Certificado de publicación AA
-  </li>
-  </ul>
-  </td>
+   <td>Valor agregado e impacto:
+    <ul>
+     <li>Reconocimiento SNCTeI</li>
+     <li>Artículos de datos</li>
+     <li>Certificado de publicación AA</li>
+    </ul>
+   </td>
+   <td>Valor agregado e impacto:
+    <ul>
+     <li>Certificado de publicación AA</li>
+    </ul>
+   </td>
   </tr>
   <tr>
-  <td>Valor agregado e impacto:
-  <ul>
-
-  <li>Reconocimiento SNCTeI
-
-  <li>Artículos de Datos
-
-  <li>Certificado de publicación AA
-  </li>
-  </ul>
-  </td>
-  <td>Valor agregado e impacto:
-  <ul>
-
-  <li>Certificado de publicación AA
-  </li>
-  </ul>
-  </td>
+   <td>Valor agregado e impacto:
+    <ul>
+     <li>Reconocimiento SNCTeI</li>
+     <li>Artículos de Datos</li>
+     <li>Certificado de publicación AA</li>
+    </ul>
+   </td>
+   <td>Valor agregado e impacto:
+    <ul>
+     <li>Certificado de publicación AA</li>
+    </ul>
+   </td>
   </tr>
  </table>
 
