@@ -32,8 +32,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 ## Categorías DwC
 
 ### Elementos de Registro
-| Índice  |  |  |  |
-| --- | --- | --- | --- |
+
+|  Índice  |    |    |    |
+| ---|--- |--- |--- |
 | [**basisOfRecord**<br> (Base del registro)](#basisOfRecord) | [**type**<br> (Tipo)](#type) | [**institutionCode**<br> (Código de la institución)](#institutionCode) | [**institutionID**<br> (ID de la institución)](#institutionID) |
 | [**collectionCode**<br> (Código de la colección)](#collectionCode) | [**collectionID**<br> (ID de la colección)](#collectionID) | [**datasetName**<br> (Nombre del conjunto de datos)](#datasetName) | [**datasetID**<br> (ID del conjunto de datos)](#datasetID) |
 | [**modified**<br> (Modificado)](#modified) | [**language**<br> (Idioma)](#language) | [**license**<br> (Licencia)](#license) | [**rightsHolder**<br> (Titular de los derechos)](#rightsHolder) | 
@@ -44,7 +45,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <br>
 <br>
 
-| <a name="basisOfRecord">**basisOfRecord** (Base del registro)</a>  |  |
+<a name="basisOfRecord">**basisOfRecord** (Base del registro)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Denota el origen o evidencia específica de la que se deriva el organismo. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. |
 | Comentarios | Sólo las colecciones biológicas pueden documentar PreservedSpecimen, si el registro corresponde a un espécimen depositado, pero el reporte no lo genera la colección biológica, se documenta HumanObservation y se documentan los elementos collectionCode, catalogNumber y disposition. |
@@ -52,116 +55,152 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_ |
 | [Vocabulario controlado](#vc_basisOfRecord) | PreservedSpecimen<br> HumanObservation<br> LivingSpecimen<br> FossilSpecimen<br> MachineObservation<br> MaterialSample<br> MaterialCitation |
 
-| <a name="type">**type** (Tipo)</a> |    |
+<a name="type">**type** (Tipo)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Especifica el tipo de evidencia que da origen al registro, ampliando la información presente en el elemento basisOfRecord. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | Elementos relacionados | basisOfRecord |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Opcional)_ |
 | [Vocabulario controlado](#vc_type) | StillImage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event |
 
-| <a name="institutionCode">**institutionCode** (Código de la institución)</a> |    |
+<a name="institutionCode">**institutionCode** (Código de la institución)</a>
+
+|    |    |
 | ---|--- |
 | Definición | El nombre completo de la institución que custodia el espécimen o la información del registro; seguido por su acrónimo en paréntesis, si tiene. |
 | Ejemplo | Ministerio de Ambiente y Desarrollo Sostenible (MADS)<br> Universidad de Antioquia (UdeA)<br> Jardín Botánico de Bogotá José Celestino Mutis (JBB) |
 | Elementos relacionados | institutionID |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Opcional)_ |
 
-| <a name="institutionID">**institutionID** (ID de la institución)</a> |    |
+<a name="institutionID">**institutionID** (ID de la institución)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Un identificador, preferiblemente el NIT, de la institución registrada en el elemento institutionCode. |
 | Ejemplo | 586.697.465-1<br> 890.105.528-3<br> 860.030.197-0 |
 | Elementos relacionados | institutionCode |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Opcional)_ |
 
-| <a name="collectionCode">**collectionCode** (Código de la colección)</a> |    |
+<a name="collectionCode">**collectionCode** (Código de la colección)</a>
+
+|    |    |
 | ---|--- |
 | Definición | El nombre, acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el organismo. Aunque es válido el uso del acrónimo que implemente la colección internamente se recomienda hacer uso del acrónimo registrado en:<br><br> - GBIF Registry of Scientific Collections [(https://www.gbif.org/grscicoll/collection/search)](https://www.gbif.org/grscicoll/collection/search){:target="_blank"}<br> - Registro Único Nacional de Colecciones Biológicas-RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones){:target="_blank"} |
 | Ejemplo | COL<br> ANDES-E<br> FMB |
 | Elementos relacionados | collectionID |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
 
-| <a name="collectionID">**collectionID** (ID de la colección)</a> |    |
+<a name="collectionID">**collectionID** (ID de la colección)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Un identificador de la colección registrada en el elemento collectionCode. Se recomienda hacer uso de los identificadores registrados en:<br><br> - GBIF Registry of Scientific Collections [(https://www.gbif.org/grscicoll/collection/search)](https://www.gbif.org/grscicoll/collection/search){:target="_blank"}<br> - Registro Único Nacional de Colecciones Biológicas-RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones){:target="_blank"} |
 | Ejemplo | GRSciColl:223644<br> RNC:250 |
 | Elementos relacionados | collectionCode |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
 
-| <a name="datasetName">**datasetName** (Nombre del conjunto de datos)</a> |    |
+<a name="datasetName">**datasetName** (Nombre del conjunto de datos)</a>
+
+|    |    |
 | ---|--- |
 | Definición | El nombre del conjunto de datos del cual se deriva el registro biológico (observación, colecta o evento).<br><br> De acuerdo al origen del registro biológico, identifique a cuál de los siguientes casos corresponde y construya este identificador según las indicaciones del caso:<br><br> (i) El registro biológico proviene de una entidad vinculada y adscrita al Ministerio de Medio Ambiente y Desarrollo Sostenible que no requiere un permiso de recolección. Nombre del convenio o proyecto marco de acuerdo a lo documentado en el elemento datasetID<br><br> (ii) El registro biológico proviene de un proyecto amparado por un permiso de recolección de especímenes o acceso a recursos genéticos de acuerdo a lo establecido en el Decreto 1076 de 2015. Nombre del titular del permiso<br><br> (iii) El registro biológico proviene de un espécimen depositado en una colección biológica por solicitud expresa de una autoridad ambiental o gubernamental mediante un acto legal. Por ejemplo, en los casos de incautación de fauna y flora silvestre por tráfico de especies. Se documentan las palabras ‘Acto Legal’<br><br> (iv) El registro biológico proviene de un espécimen preservado en una colección biológica y legalizado a través de una amnistía. Se documentan la palabra ‘Amnistía’<br><br> (v) El registro biológico proviene de un espécimen obtenido por medio de una colecta fortuita, por ejemplo, en los casos de pesca accidental, atropellamiento y choqué contra edificaciones, entre otros. Se documentan las palabras ‘Colecta Fortuita’ |
 | Ejemplo | Colombia Bio<br> Fondo Adaptación<br> Boyacá Bio<br><br> Universidad de Caldas<br> Cenipalma<br> Pedro Pérez<br><br> Acto Legal<br><br> Amnistía<br><br> Colecta Fortuita |
 | Elementos relacionados | datasetNameID |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
-| <a name="datasetID">**datasetID** (ID del conjunto de datos)</a> |    |
+<a name="datasetID">**datasetID** (ID del conjunto de datos)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Un identificador del conjunto de datos del cual se deriva el registro biológico (observación, colecta o evento).<br><br> De acuerdo al origen del registro biológico, identifique a cuál de los siguientes casos corresponde y construya este identificador según las indicaciones del caso:<br><br> (i) El registro biológico proviene de una entidad vinculada y adscrita al Ministerio de Medio Ambiente y Desarrollo Sostenible que no requiere un permiso de recolección.<br> Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios:<br> - Acrónimo de la entidad<br> - Número del convenio, proyecto marco o programa<br> - Número del sub-proyecto, o sub-convenio, si existen<br> - Año de inicio del convenio o proyecto.<br><br> (ii) El registro biológico proviene de un proyecto amparado por un permiso de recolección de especímenes o acceso a recursos genéticos de acuerdo a lo establecido en el Decreto 1076 de 2015.<br> Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios:<br> - Acrónimo de la autoridad ambiental que otorgó el permiso<br> - Número de la resolución donde se otorga el permiso<br> - Año de expedición del permiso<br><br> (iii) El registro biológico proviene de un espécimen depositado en una colección biológica por solicitud expresa de una autoridad ambiental o gubernamental mediante un acto legal. Por ejemplo, en los casos de incautación de fauna y flora silvestre por tráfico de especies.<br> Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios:<br> -La palabra ‘ACTO_LEGAL’<br> -  Acrónimo de la autoridad ambiental o gubernamental que genera el acto legal<br> - Identificador del proceso, corresponde el número del acto legal emitido por la autoridad competente. Cuando la autoridad no genere un identificador del acto legal, corresponde al identificador del proceso asignado internamente por la colección<br> - Año de expedición del acto legal.<br><br> (iv) El registro biológico proviene de un espécimen preservado en una colección biológica y legalizado a través de una amnistía.<br> Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios:<br> - La palabra ‘AMNISTÍA’<br> - Número de la resolución donde se otorga la amnistía<br> - Año de expedición de la amnistía |
 | Ejemplo | IAvH:CE16-062:8956:2016<br> SINCHI:CE17-845:2017<br><br> ANLA:1608:2017<br>CORNARE:5D800FGH:2015<br><br> ACTO_LEGAL:CORMACARENA:34f-19:2017<br>ACTO_LEGAL:POLICIA_AMBIENTAL:PF-19075C:201<br><br> AMNISTÍA:8962:2019<br>AMNISTÍA:59VI-196:2018 |
 | Elementos relacionados | datasetName |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
-| <a name="modified">**modified** (Modificado)</a> |    |
+<a name="modified">**modified** (Modificado)</a>
+
+|    |    |
 | ---|--- |
 | Definición | La fecha más reciente en la que se haya modificado el registro. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
 | Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/2010-01<br> 2009-02/10 <br>2009-02-12/2009-10-08<br> 2010-01-17/18 |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
-| <a name="language">**language** (Idioma)</a> |    |
+<a name="language">**language** (Idioma)</a>
+
+|    |    |
 | ---|--- |
 | Definición | El idioma del conjunto de datos. |
 | Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 639-1 de 2 letras en minúscula, como se muestra a continuación:<br><br> es (=Para español)<br> en (=Para inglés) |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_<br> Evento de muestreo _(Opcional)_ |
 | [Vocabulario controlado](#vc_language) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php){:target="_blank"} |
 
-| <a name="license">**license** (Licencia)</a> |    |
+<a name="license">**license** (Licencia)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Información sobre los derechos, licencias o permisos que establece el publicador sobre el uso del recurso. Se recomienda no documentar este elemento debido a que la licencia se especifica con mayor detalle en los metadatos que acompañan la publicación del conjunto de datos. |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
-| <a name="rightsHolder">**rightsHolder** (Titular de los derechos)</a> |    |
+<a name="rightsHolder">**rightsHolder** (Titular de los derechos)</a>
+
+|    |    |
 | ---|--- |
 | Definición | El nombre de persona u organización propietaria o administradora de los derechos sobre el recurso. |
 | Ejemplo | Secretaria de Agricultura<br> Ministerio de Medio Ambiente<br> Secretaría Distrital de Ambiente |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
-| <a name="accessRights">**accessRights** (Derechos de acceso)</a> |    |
+<a name="accessRights">**accessRights** (Derechos de acceso)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Información sobre los derechos de acceso o restricciones basadas en políticas de privacidad, seguridad, u otras. |
 | Ejemplo | Sólo para uso no comercial. |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
-| <a name="bibliographicCitation">**bibliographicCitation** (Citación bibliográfica)</a> |    |
+<a name="bibliographicCitation">**bibliographicCitation** (Citación bibliográfica)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Indica la manera de citar el registro cuando sea utilizado, incluyendo la referencia del recurso al que pertenece el registro. Se recomienda incluir el doi si se tiene junto con los detalles bibliográficos para identificar el recurso claramente. |
 | Ejemplo | Raz L, Agudelo H (2019). Herbario Nacional Colombiano (COL). Versión 13.12. Universidad Nacional de Colombia. Occurrence dataset https://doi.org/10.15472/ea8sek. occurrenceID: 1a399be0-9ca9-4efe-84be-b8974a5548fc |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
-| <a name="references">**references** (Referencias)</a> |    |
+<a name="references">**references** (Referencias)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Una URL a un recurso asociado, el cual es de alguna forma referenciado o citado por el registro descrito. |
 | Ejemplo | http://arctos.database.museum/guid/MVZ:Mamm:165861<br> https://www.gbif.org/species/2474724 |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
-| <a name="ownerInstitutionCode">**ownerInstitutionCode** (Código de la institución propietaria)</a> |    |
+<a name="ownerInstitutionCode">**ownerInstitutionCode** (Código de la institución propietaria)</a>
+
+|    |    |
 | ---|--- |
 | Definición | El nombre completo (o acrónimo) de la institución que tiene la propiedad del objeto o de la información consignada en el registro. Usar sólo si la organización propietaria de los datos es diferente a la organización publicadora consignada en el elemento institutionCode. |
 | Ejemplo | Ministerio de Ambiente y Desarrollo Sostenible (MADS)<br> Celsia S.A. E.S.P. |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
-| <a name="informationWithheld">**informationWithheld** (Información retenida)</a> |    |
+<a name="informationWithheld">**informationWithheld** (Información retenida)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Información adicional que existe sobre el registro, pero que no ha sido compartida en la publicación. |
 | Ejemplo | La información de ubicación no es provista para especies amenazadas<br> La identidad de los colectores es retenida<br> Pregunte acerca de muestras de tejido |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
-| <a name="dataGeneralizations">**dataGeneralizations** (Generalización de los datos)</a> |    |
+<a name="dataGeneralizations">**dataGeneralizations** (Generalización de los datos)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Medidas adoptadas para que los datos compartidos sean menos específicos o completos. Sugiere que los datos con mayor detalle existen y pueden estar disponibles bajo petición. |
 | Ejemplo | Coordenadas generalizadas a partir de las coordenadas originales del GPS a la celda más cercana de la grilla |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
-| <a name="dynamicProperties">**dynamicProperties** (Propiedades dinámicas)</a> |    |
+<a name="dynamicProperties">**dynamicProperties** (Propiedades dinámicas)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Una lista de las medidas, hechos o características adicionales sobre el organismo. Su intención es proporcionar un mecanismo estructurado para la representación de los datos. Debe estar documentado en el esquema de codificación JSON {"Medida":"Valor"}. Por facilidad en la documentación se recomienda el uso de la extensión del estándar Darwin Core de Medidas y Hechos en lugar de este elemento. |
 | Ejemplo | {"pesoEnGramos":"120", "evidenciaDeLaIdentificación": "secuencia de citocromo B"}<br> {"alturaEnMetros":"1.5", "distribuciónDelTaxón": "Amazonas, Colombia", "temperaturaDelAireEnCelsius": "22"}<br> {"naturalezaDelID":"identificación de experto"} |
@@ -170,7 +209,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Registro Biológico
 
-|  Índice de regístro biológico  |    |    |    |
+|  Índice  |    |    |    |
 | ---|--- |--- |--- |
 | [**occurrenceID**<br> (ID del Registro biológico)](#occurrenceID) | [**catalogNumber**<br> (Número de catálogo)](#catalogNumber) | [**recordNumber**<br> (Número del registro)](#recordNumber) | [**recordedBy**<br> (Registrado por)](#recordedBy) |
 | [**recordedByID**<br> (ID del registrador)](#recordedByID) | [**individualCount**<br> (Número de individuos)](#individualCount) | [**organismQuantity**<br> (Cantidad del organismo)](#organismQuantity) | [**organismQuantityType**<br> (Tipo de cantidad del organismo)](#organismQuantityType) |
@@ -183,43 +222,57 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <br>
 <br>
 
-| <a name="occurrenceID">**occurrenceID** (ID del Registro biológico)</a> |    |
+<a name="occurrenceID">**occurrenceID** (ID del Registro biológico)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Un identificador único del registro biológico (observación, ejemplar, fotografía, etc.).<br><br> En ausencia de un identificador único global persistente, se recomienda construir uno a partir de la combinación:<br><br> Cuando pertenece a una observación: [código corto de la institución]:[palabra(s) clave del recurso]:[número de campo/número consecutivo]<br> Cuando pertenece a una colección: [código corto de la institución]:[código de la colección]:[número de catálogo].<br> No debe contener espacios en blanco o caracteres especiales.<br><br> Si usted ya maneja en su conjunto de datos un identificador único por registros biológico, puede usarlo como identificador en el conjunto de datos. |
 | Ejemplo | Promigas:Compensacion-SanJuan:Fauna-00001<br> UCO:RESCATE_FAUNA_MULATOSII:1<br> UNIVALLE:CRM-UV:1974-001-1 |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_ |
 
-| <a name="catalogNumber">**catalogNumber** (Número de catálogo)</a> |    |
+<a name="catalogNumber">**catalogNumber** (Número de catálogo)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Un identificador (preferiblemente único) asignado al espécimen, muestra o lote en la colección biológica. Puede repetirse en caso de que los especímenes están agrupados en la colección (Lote, Frasco, Caja, etc).<br><br> Debe documentarse de la misma forma que está en la etiqueta. |
 | Ejemplo | 00001<br> 1974-001-1<br> 1732a<br> ANDES-E0813<br> Lepid0784 |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
 
-| <a name="recordNumber">**recordNumber** (Número del registro)</a> |    |
+<a name="recordNumber">**recordNumber** (Número del registro)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Un identificador dado al registro biológico en el momento en que fue registrado, sirve como un vínculo entre las anotaciones de campo y el registro biológico. No es el mismo catalogNumber, el cual es usualmente asignado una vez el espécimen ingresa a la colección. |
 | Ejemplo | OPP 7107<br>  JARM-0008<br>  AFT 143 |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
-| <a name="recordedBy">**recordedBy** (Registrado por)</a> |    |
+<a name="recordedBy">**recordedBy** (Registrado por)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los nombres de las personas (observadores o recolectores) responsables de realizar el registro.<br><br> El colector u observador principal, especialmente si está asociado al recordNumber tomado en campo, se debe listar en primer lugar. Se debe mantener el mismo formato del nombre a lo largo de todos los registros y se recomienda evitar el uso de solo iniciales ya que esto genera ambigüedades para reconocer a las personas que realizaron el registro, de ser posible siempre escriba nombres completos. Documente el nombre de las personas y evite documentar nombres de grupos u organizaciones. |
 | Ejemplo | Eduardo Amat García<br> Javier Maldonado Ocampo<br> Mónica Andrea Sánchez Torres \| Esteban Andrés Novoa López |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico |
 
-| <a name="recordedByID">**recordedByID** (ID del registrador)</a> |    |
+<a name="recordedByID">**recordedByID** (ID del registrador)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los ID de las personas (observadores o recolectores), grupos u organizaciones responsables de realizar el registro. Estos identificadores deben corresponder al ORCID, Wikidata u algún otro identificador único controlado. El orden en este elemento no indica una prioridad en la citación ni ningún otro tipo de relación jerárquica. |
 | Ejemplo | https://orcid.org/0000-0001-6215-3617 \| https://orcid.org/0000-0003-1691-239X<br> https://www.wikidata.org/entity/Q28913658 |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
-| <a name="individualCount">**individualCount** (Número de individuos)</a> |    |
+<a name="individualCount">**individualCount** (Número de individuos)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Número de individuos presentes en el momento del registro biológico (observación, ejemplar, fotografía, etc.). Utilice este elemento si todos los conteos corresponden a individuos, de lo contrario utilice organismQuantity y organismQuanitityType. |
 | Ejemplo | 1<br> 25<br> 282 |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
 
-| <a name="organismQuantity">**organismQuantity** (Cantidad del organismo)</a> |    |
+<a name="organismQuantity">**organismQuantity** (Cantidad del organismo)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Valor que representa una cantidad colectada u observada del organismo, expresada en un sistema de medida estándar para el organismo como cepas, células, porcentaje de biomasa, etc. Documentar este elemento junto con el elemento organismQuantityType. |
 | Comentarios| El sistema de medida se debe documentar en el elemento organismQuantityType, como se muestra en el ejemplo a continuación:<br><br> Para el registro de cobertura de líquenes: organismQuantity: 30 / organismQuantityType: Porcentaje de cobertura<br> Para la abundancia de fitoplancton: organismQuantity: 253 / organismQuantityType: Células por litro<br> Para comunidades vegetales: organismQuantity: r / organismQuantityType: Escala Braun-Blanquet |
@@ -227,7 +280,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Elementos relacionados | organismQuantityType |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico |
 
-| <a name="organismQuantityType">**organismQuantityType** (Tipo de cantidad del organismo)</a> |    |
+<a name="organismQuantityType">**organismQuantityType** (Tipo de cantidad del organismo)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Sistema de medida estándar asociado a la cantidad de organismos. Documentar este elemento junto con el elemento organismQuantity. |
 | Comentarios| La cantidad de organismos se debe documentar en el elemento organismQuantity, como se muestra a continuación:<br><br> Para el registro de cobertura de líquenes: organismQuantity: 30 / organismQuantityType: Porcentaje de cobertura<br> Para la abundancia de fitoplancton: organismQuantity: 253 / organismQuantityType: Células por litro<br> Para comunidades vegetales: organismQuantity: r / organismQuantityType: Escala Braun-Blanquet |
@@ -235,31 +290,41 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Elementos relacionados | organismQuantity |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico |
 
-| <a name="sex">**sex** (Sexo)</a> |    |
+<a name="sex">**sex** (Sexo)</a>
+
+|    |    |
 | ---|--- |
 | Definición | El sexo de el(los) organismo(s) representado(s) en el registro. Si en un mismo registro cuenta con varios organismos de diferentes sexos, genere registros (filas) diferentes por cada sexo. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
 | Ejemplo | Hembra<br> Hermafrodita<br> Macho<br> Desconocido<br> Indeterminado<br> Ginandromorfo |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
 
-| <a name="lifeStage">**lifeStage** (Etapa de desarrollo)</a> |    |
+<a name="lifeStage">**lifeStage** (Etapa de desarrollo)</a>
+
+|    |    |
 | ---|--- |
 | Definición | La etapa de vida de el(los) organismo(s) en el momento del registro. Si en un mismo registro cuenta con varios organismos en diferentes etapas de vida, genere registros (filas) diferentes por cada etapa de vida. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
 | Ejemplo | Huevo<br> Juvenil<br> Adulto<br> Cigoto<br> Embrión<br> Larva<br> Esporófito<br> Espora<br> Gametofito<br> Gameto<br> Pupa<br> Plántula<br> Floración<br> Fructificación |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
 
-| <a name="reproductiveCondition">**reproductiveCondition** (Condición reproductiva)</a> |    |
+<a name="reproductiveCondition">**reproductiveCondition** (Condición reproductiva)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Condición reproductiva de el(los) organismo(s) en el momento del registro. Se recomienda el uso de un vocabulario controlado. |
 | Ejemplo | No reproductiva<br> En gestación<br> Floración<br> Fructificación |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
-| <a name="behavior">**behavior** (Comportamiento)</a> |    |
+<a name="behavior">**behavior** (Comportamiento)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Descripción del comportamiento de el(los) organismo(s) en el momento del registro. Se recomienda el uso de un vocabulario controlado. |
 | Ejemplo | Posando<br> Alimentándose<br> Corriendo |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
-| <a name="establishmentMeans">**establishmentMeans** (Medios de establecimiento)</a> |    |
+<a name="establishmentMeans">**establishmentMeans** (Medios de establecimiento)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Una afirmación que de cuenta si un organismo ha sido introducido a un lugar y tiempo determinado a través de actividad humana directa o indirecta. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos degreeOfEstablishment y pathway. |
 | Comentarios| Actualmente el estándar DwC no posee un elemento que permita documentar de manera adecuada la información de endemismos, este elemento es el más cercano para la documentación de esta información por lo cual se incluye el vocabulario 'Endémica'.|
@@ -267,77 +332,101 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |  [Vocabulario controlado](#vc_establishmentMeans) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain<br> Endémica |
 
-| <a name="degreeOfEstablishment">**degreeOfEstablishment** (Grado de establecimiento)</a> |    |
+<a name="degreeOfEstablishment">**degreeOfEstablishment** (Grado de establecimiento)</a>
+
+|    |    |
 | ---|--- |
 | Definición | El grado en cual el organismo sobrevive, se reproduce y expande su rango de distribución en un lugar y tiempo determinado. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos establishmentMeans y pathway. |
 | Elementos relacionados | establishmentMeans, pathway |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |  [Vocabulario controlado](#vc_degreeOfEstablishment) | native<br> cultivated<br> released<br> established<br> colonising<br> widespreadInvasive |
 
-| <a name="pathway">**pathway** (Ruta de introducción)</a> |    |
+<a name="pathway">**pathway** (Ruta de introducción)</a>
+
+|    |    |
 | ---|--- |
 | Definición | El proceso por el cual un organismo llegó a un lugar y tiempo determinado. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos establishmentMeans y degreeOfEstablishment. |
 | Elementos relacionados | establishmentMeans, degreeOfEstablishment |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 |  [Vocabulario controlado](#vc_pathway) | releasedForUse<br> otherEscape<br> transportContaminant<br> transportStowaway<br> corridor<br> unaided |
 
-| <a name="occurrenceStatus">**occurrenceStatus** (Estado del registro biológico)</a> |    |
+<a name="occurrenceStatus">**occurrenceStatus** (Estado del registro biológico)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Estado que da cuenta de la presencia o ausencia de un taxón en una ubicación. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para registros marinos - Recomendado para la buena documentación de un registro biológico |
 |  [Vocabulario controlado](#vc_occurrenceStatus) | present<br> absent |
 
-| <a name="preparations">**preparations** (Preparaciones)</a> |    |
+<a name="preparations">**preparations** (Preparaciones)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de las preparaciones y los métodos de conservación de un ejemplar o una muestra del ejemplar.<br><br> Adicionalmente, si el espécimen fue colectado bajo un permiso de recolección de especímenes o acceso a recursos genéticos, debe indicar si fue una colecta temporal o una colecta definitiva seguido por el tipo de preparación. |
 | Ejemplo | Colecta definitiva: Animal completo (ETOH)<br> Colecta definitiva: Preparación de muestra microbiológica<br> Colecta temporal: Extracción de ADN<br> Piel \| Cráneo \| Esqueleto<br> Animal completo (ETOH) \| Tejido (EDTA)<br> Fósil<br> Molde<br> Fotografía |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos |
 
-| <a name="disposition">**disposition** (Disposición)</a> |    |
+<a name="disposition">**disposition** (Disposición)</a>
+
+|    |    |
 | ---|--- |
 | Definición | El estado actual de un espécimen en relación a la colección identificada en collectionCode o collectionID. Se recomienda el uso de un vocabulario controlado. Si el espécimen fue colectado bajo un permiso de recolección de especímenes o acceso a recursos genéticos y fue entregado a una colección biológica se debe documentar "En colección", de lo contrario dejar vacío el elemento. |
 | Ejemplo | En colección<br> Extraviado<br> Ejemplar testigo<br> Duplicados en otro lugar |
 | Elementos relacionados| collectionCode, collectionID |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos |
 
-| <a name="otherCatalogNumbers">**otherCatalogNumbers** (Otros números de catálogo)</a> |    |
+<a name="otherCatalogNumbers">**otherCatalogNumbers** (Otros números de catálogo)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de números de catálogos anteriores o alternos, u otros identificadores usados por personas para el mismo registro biológico, ya sea en el actual o cualquier otro conjunto de datos o colección. |
 | Ejemplo | CFMNH:Mammal:1234<br> NPS YELLO6778 \| MBG 33424 |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
-| <a name="associatedMedia">**associatedMedia** (Medios asociados)</a> |    |
+<a name="associatedMedia">**associatedMedia** (Medios asociados)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores (publicación, referencia bibliográfica, identificador único global, URI) de los medios asociados al registro biológico. Se recomienda usar la extensión Simple Multimedia o Audobon Media Description las cuales cuentan con más elementos para describir la información multimedia asociada. |
 | Ejemplo | https://sinchi.org.co/ciacol/ficha/24/Hypoclinemus%20mentalis<br> https://ia801004.us.archive.org/0/items/staphylococcusaureus.JPG \| https://ia903100.us.archive.org/33/items/CMPUJH012-macro.jpg |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
-| <a name="associatedOccurrences">**associatedOccurrences** (Registros biológicos asociados)</a> |    |
+<a name="associatedOccurrences">**associatedOccurrences** (Registros biológicos asociados)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores de otros registros biológicos y su relación con este registro. Aplica para relaciones con organismos de diferente grupo taxonómico y se recomiendo documentar junto a el elemento associatedTaxa. Se recomienda hacer uso de la extensión Resource Relationship para documentar en más detalle la relación entre los registros biológicos asociados. |
 | Ejemplo | http://arctos.database.museum/guid/MSB:Mamm:292063?seid=3175067 \| http://arctos.database.museum/guid/MSB:Mamm:292063?seid=3177393<br>  SELVA:Anillamiento:AA7330a |
 | Elementos relacionados| associatedTaxa |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
-| <a name="associatedReferences">**associatedReferences** (Referencias asociadas)</a> |    |
+<a name="associatedReferences">**associatedReferences** (Referencias asociadas)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores (publicación, referencia bibliográfica, identificador único global, URI) de la literatura asociada al registro biológico. Se recomienda hacer uso de la extensión Literature References la cual cuenta con más elementos para describir la información de referencias asociada. |
 | Ejemplo | http://www.sciencemag.org/cgi/content/abstract/322/5899/261<br> Christopher J. Conroy, Jennifer L. Neuwald. 2008. Phylogeographic study of the California vole, Microtus californicus Journal of Mammalogy, 89(3):755-767. |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
-| <a name="associatedSequences">**associatedSequences** (Secuencias asociadas)</a> |    |
+<a name="associatedSequences">**associatedSequences** (Secuencias asociadas)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores (publicación, identificador único global, URI) de la información de la secuencia genética asociada al registro biológico. Se recomienda hacer uso de la extensión GGBN Amplification Extension la cual cuenta con más elementos para describir la información de secuencia genética asociada. |
 | Ejemplo | https://www.ncbi.nlm.nih.gov/nuccore/U34853.1<br>  https://www.boldsystems.org/index.php/Public_RecordView?processid=ABBAC141-12 |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
-| <a name="associatedTaxa">**associatedTaxa** (Taxones asociados)</a> |    |
+<a name="associatedTaxa">**associatedTaxa** (Taxones asociados)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores o nombres de taxones y su asociación con el registro biológico. |
 | Ejemplo | Huésped: Quercus alba<br> Parásito: Apis mellifera |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
-| <a name="occurrenceRemarks">**occurrenceRemarks** (Comentarios del registro biológico)</a> |    |
+<a name="occurrenceRemarks">**occurrenceRemarks** (Comentarios del registro biológico)</a>
+
+|    |    |
 | ---|--- |
 | Definición | Comentarios o anotaciones sobre el registro biológico. Se recomienda que la longitud de la descripción no supere 20 palabras. |
 | Ejemplo | Muerto en la vía<br> Registrado en el campus de la Universidad |
@@ -346,7 +435,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Organismo
 
-| Índice de Organismo |    |    |    |
+| Índice |    |    |    |
 | ---|--- |--- |--- |
 | [**organismID**<br> (ID del organismo)](#organismID) | [**organismName**<br> (Nombre del organismo)](#organismName) | [**organismScope**<br> (Alcance del organismo)](#organismScope) | [**associatedOrganisms**<br> (Organismos asociados)](#associatedOrganisms) |
 | [**previousIdentifications**<br> (Identificaciones previas)](#previousIdentifications) | [**organismRemarks**<br> (Comentarios del organismo)](#organismRemarks) |  |  |
@@ -586,7 +675,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Ubicación
 
-| Íncice   |    |    |
+| Íncice |    |    |
 | ---|--- |--- |
 | [**locationID**<br> (ID de la ubicación)](#locationID) | [**higherGeography**<br> (Geografía superior)](#higherGeography) | [**higherGeographyID**<br> (ID de la geografía superior)](#higherGeographyID) |
 | [**continent**<br> (Continente)](#continent) | [**waterBody**<br> (Cuerpo de agua)](#waterBody) | [**islandGroup**<br> (Grupo de islas)](#islandGroup) | 
@@ -993,7 +1082,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Contexto Geológico
 
-|    |    |    |
+| Índice |    |    |
 | ---|--- |--- |
 | [**geologicalContextID**<br> (ID del contexto geológico)](#geologicalContextID) | [**earliestEonOrLowestEonothem**<br> (Eón temprano o eonotema inferior)](#earliestEonOrLowestEonothem) | [**latestEonOrHighestEonothem**<br> (Eón tardío o eonotema superior)](#latestEonOrHighestEonothem) |
 | [**earliestEraOrLowestErathem**<br> (Era temprana o eratema inferior)](#earliestEraOrLowestErathem) | [**latestEraOrHighestErathem**<br> (Era tardía o eratema superior)](#latestEraOrHighestErathem) | [**earliestPeriodOrLowestSystem**<br> (Periodo temprano o sistema inferior)](#earliestPeriodOrLowestSystem) | 
@@ -1149,9 +1238,10 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Ejemplo | Carbón Harlem |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_
 
+
 ### Identificación
 
-|    |    |    |    |
+| Índice |    |    |    |
 | ---|--- |--- |--- |
 | [**identificationID**<br> (ID de la identificación)](#identificationID) | [**identifiedBy**<br> (Identificado por)](#identifiedBy) | [**identifiedByID**<br> (ID del identificador)](#identifiedByID) | [**dateIdentified**<br> (Fecha de la identificación)](#dateIdentified) |
 | [**identificationReferences**<br> (Referencias de la identificación)](#identificationReferences) | [**identificationVerification<br>Status**<br> (Estado de la verificación de la identificación)](#identificationVerificationStatus) | [**typeStatus**<br> (Tipo nomeclatural)](#typeStatus) | [**verbatimIdentification**<br> (Identificación original)](#verbatimIdentification) |
@@ -1593,6 +1683,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Ejemplo | Este nombre está mal escrito en uso común<br> Sin estado de amenaza reportada |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_
 
+
 ## Extensiones DwC
 
 
@@ -1807,7 +1898,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Multimedia Simple
 
-|    |    |    |    |
+| Índice |    |    |    |
 | ---|--- |--- |--- |
 | [**type**<br> (Tipo)](#multimedia_type) | [**format**<br> (Formato)](#format) | [**identifier**<br> (Identificador)](#multimedia_identifier) | [**references**<br> (Referencias)](#multimedia_references) |
 | [**title**<br> (Título)](#multimedia_title) | [**description**<br> (Descripción)](#multimedia_description) | [**created**<br> (Fecha de creación)](#multimedia_created) | [**creator**<br> (Creador)](#multimedia_creator) |
@@ -1940,7 +2031,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Referencias de Literatura
 
-|    |    |    |    |
+| Índice |    |    |    |
 | ---|--- |--- |--- |
 | [**identifier**<br> (Identificador)](#referencias_identifier) | [**bibliographicCitation**<br> (Citación bibliográfica)](#referencias_bibliographicCitation) | [**title**<br> (Título)](#referencias_title) | [**creator**<br> (Creador)](#referencias_creator) |
 | [**date**<br> (Fecha)](#date) | [**source**<br> (Fuente)](#referencias_source) | [**description**<br> (Descripción)](#referencias_description) | [**subject**<br> (Tema)](#subject) |
@@ -2831,7 +2922,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Permiso GGBN
 
-|    |    |    |
+| Índice |    |    |
 | ---|--- |--- |
 | [**permitType**<br> (Tipo de permiso)](#permitType) | [**permitStatus**<br> (Estado del permiso)](#permitStatus) | [**permitStatusQualifier**<br> (Calificador del estado del permiso)](#permitStatusQualifier) |
 | [**permitURI**<br> (Identificador del permiso)](#permitURI) | [**permitText**<br> (Texto del permiso)](#permitText) |  |
@@ -3327,7 +3418,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Sound | Registro de audio.<br> Puede complementar la base del registro (basisOfRecord): MachineObservation y HumanObservation |
 | Event | Observación de los especímenes en campo.<br> Siempre complementa la base del registro (basisOfRecord): HumanObservation |
 
-| <a name="vc_language">**language** (Idioma)</a> |
+<a name="vc_language">**language** (Idioma)</a>
+
+|    |
 | ---|
 | Utilizar el vocabulario controlado para el idioma en la norma ISO 639-1. Solamente se usan 2 letras en minúscula, consulte la información en la página oficial de ISO [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
 
@@ -3394,7 +3487,9 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 | Antártida |
 
 
-| <a name="vc_countryCode">**countryCode** (Código del país)</a> |
+<a name="vc_countryCode">**countryCode** (Código del país)</a>
+
+|    |    |
 | ---|--- |
 | Utilizar el vocabulario controlado de la norma ISO 3166-1-alfa-2 de códigos de países. Solamente se usan 2 letras en mayúscula, consulte la información en la página [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO){:target="_blank"} |
 
