@@ -190,11 +190,10 @@ El derecho de autor es un concepto legal, que concede a los autores y titulares 
 Limita quién puede copiar, cambiar, ejecutar o compartir esas creaciones.
 Por eso, hablamos de “todos los derechos reservados”.
 
-## Descarga las postales
-
-|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034" target="_blank"><img src="/recursos/images/reverso-postal-libre-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034" target="_blank"><img src="/recursos/images/reverso-postal-datos-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034" target="_blank"><img src="/recursos/images/reverso-postal-publico-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034" target="_blank"><img src="/recursos/images/reverso-postal-cc-212x300.jpg">|
+| Descarga las postales |   |   |   |
 |---|---|---|---| 
-|   |   |   |   |
+|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034" target="_blank"><img src="/recursos/images/reverso-postal-libre-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034" target="_blank"><img src="/recursos/images/reverso-postal-datos-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034" target="_blank"><img src="/recursos/images/reverso-postal-publico-212x300.jpg">|<a href="http://repository.humboldt.org.co/handle/20.500.11761/35034" target="_blank"><img src="/recursos/images/reverso-postal-cc-212x300.jpg">|
+
  
     
 
@@ -203,7 +202,7 @@ Por eso, hablamos de “todos los derechos reservados”.
 *"Si he visto más lejos es porque estoy sentado sobre los hombros de  gigantes". (Isaac Newton parafraseando a Bernardo de Chartres)*
   
   
-|   |   |  
+| Descarga los _gifs_ animados |   |
 |---|---|
 |<figure class="image is-480x480"><img src="/recursos/images/AccesoAbierto.gif"></figure>|**Acceso Abierto**<br>El acceso abierto es un movimiento que busca:<br>Facilitar el acceso a contenidos educativos, académicos, científicos, ¡o de cualquier tipo! Sin barreras económicas, tecnológicas y legales<br>[Descarga](http://repository.humboldt.org.co/handle/20.500.11761/35132){: .button .is-primary}{:target="_blank"}|    
 | <figure class="image is-480x480"><img src="/recursos/images/DatosAbiertos.gif"></figure>|**Datos Abiertos**<br>Los datos abiertos no solo son datos que cualquiera puede usar, también representan una filosofía y una práctica.<br>Para que un dato sea verdaderamente abierto debe cumplir ciertas características:<br> - **Uno**: se pueden usar para lo que quieras, no tienen restricciones legales, ni técnicas.<br>- **Dos**: El acceso debe ser gratuito<br>- **Tres**: Su formato debe ser accesible, y legible por computadores.<br>- **Cuatro**: Es explícito que cuenta con una licencia que permite su reutilización<br>[Descarga](http://repository.humboldt.org.co/handle/20.500.11761/35133){: .button .is-primary}{:target="_blank"}|
