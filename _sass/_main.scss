@@ -9,6 +9,7 @@ $navbar-breakpoint: 1100px;
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
 //Cambia último elemento del menú
+
 .navbar-top-item.navbar-item:last-child {
 	cursor: default;
 	text-transform: uppercase;
@@ -26,11 +27,13 @@ $navbar-breakpoint: 1100px;
 }
 
 //Se define el tipo de letra para el sitio
+
 body, button, input, select, textarea {
   font-family: 'Lato', sans-serif;
 }
 
 //Define la barra de menú fija
+
 .navbar {
 	background-color: white;
 	//position: sticky;
@@ -44,12 +47,14 @@ body, button, input, select, textarea {
 }
 
 //Pone la barra de menú en el centro
+
 .navbar-content {
   flex-grow: unset;
 	margin: auto;
 }
 
 //Ajusta peso del texto del banner
+
 .feature-content h3 strong {
 	color: #ffffff;
 	text-transform: uppercase;
@@ -70,26 +75,34 @@ section.splitBanner {
 	max-width: $navbar-breakpoint;
 }
 
-//CARDS
+//Qitar líneas divisorias
+
+section.features, section.splitBanner, section.product, section.textBanner, .feature.feature-img {
+    border-bottom: none;
+}
+.postHeader.feature-img {
+	border: none;
+}
+
+//Tarjetas destacadas
 
 article.feature {
 	border: none;
 	box-shadow: 0px 0px 15px rgba(0,0,0,0.10);
 	border-radius: 20px 20px 0 0;
 }
-.feature-pre-title {
+.has-8-elements .feature-pre-title {
 	background: #FFFFFF;
 	position: absolute;
 	top: -230px;
-	right: -10px;
+	left: -15px;
 	border-radius: 15px;
-	padding: 5px 15px;
-	box-shadow: 0px 0px 10px rgba(0,0,0,0.15);
+	font-size: 0.8em;
+	padding: 3px 12px;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.10);
 }
 
-section.features, section.splitBanner, section.product, section.textBanner {
-    border-bottom: none;
-}
+
 
 //Le da el estilo redondeado a los botones y la letra siempre mayúscula
 .button{
