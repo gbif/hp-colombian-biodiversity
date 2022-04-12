@@ -216,6 +216,7 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
 .table tbody tr:last-of-type {
     border-bottom: 2px solid #9EC649;
 }
+
 .table tbody tr.active-row {
     font-weight: bold;
     color: #214F53;
@@ -235,20 +236,21 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
 .tablaAzul table thead tr {
     background-color: #3D67AF;
 }
-.tablaAzul table tbody tr:nth-of-type(even) {
-    background-color: #3D67AF;
+.tablaAzul table tbody tr:last-of-type {
+    border-bottom: 2px solid #3D67AF;
 }
 
 .tablaMorada table thead tr {
     background-color: #9BBBE4;
 }
-.tablaMorada table tbody tr:nth-of-type(even) {
-    background-color: #f9f9f9;
+
+.tablaMorada table tbody tr:last-of-type {
+    border-bottom: 2px solid #9BBBE4;
 }
+
 .tablaNaranjada table thead tr {
     background-color: #F5B858;
 }
-
-.tablaNaranjada table tbody tr:nth-of-type(even) {
-    background-color: #F5B858;
+.tablaNaranjada table tbody tr:last-of-type {
+    border-bottom: 2px solid #F5B858;
 }
