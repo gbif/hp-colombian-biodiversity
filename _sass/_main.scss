@@ -77,11 +77,8 @@ section.splitBanner {
 
 //Qitar líneas divisorias
 
-section.features, section.splitBanner, section.product, section.textBanner, .feature.feature-img {
+section.features, section.splitBanner, section.product, section.textBanner {
     border-bottom: none;
-}
-.postHeader.feature-img {
-	border: none;
 }
 
 //Tarjetas destacadas
@@ -89,8 +86,22 @@ section.features, section.splitBanner, section.product, section.textBanner, .fea
 article.feature {
 	border: none;
 	box-shadow: 0px 0px 15px rgba(0,0,0,0.10);
-	border-radius: 20px 20px 0 0;
+	border-radius: 3px;
+//	border-radius: 20px 20px 0 0;
 }
+
+// LOS CAMBIOS PARA APLICACIÖN DE IDENTIDAD VISUAL
+
+/*
+
+.postHeader .feature-img {
+	border: none;
+}
+
+.feature .feature-img {
+    border-bottom: none;
+}
+
 .has-8-elements .feature-pre-title {
 	background: #FFFFFF;
 	position: absolute;
@@ -100,103 +111,6 @@ article.feature {
 	font-size: 0.8em;
 	padding: 3px 12px;
 	box-shadow: 0px 0px 10px rgba(0,0,0,0.10);
-}
-
-
-
-//Le da el estilo redondeado a los botones y la letra siempre mayúscula
-.button{
-	text-transform: uppercase;
-	border-radius: 100px;
-	padding-bottom: 1.5em;
-	padding-top: 1.5em;
-	padding-left: 1.5em;
-	padding-right: 1.5em;
-	margin-bottom: 20px;
-}
-
-//Tamaño de íconos de cifras
-.statistic .feature-img {
-    width: 30%;
-}
-
-//Texto del banner home a la izquierda y ancho de esa zona
-//.floatingHero .feature-content {
-//	text-align: left;
-//	margin: auto;
-//	max-width: $navbar-breakpoint;
-//	min-width: $navbar-breakpoint;
-//}
-
-//.floatingHero .feature-content p {
-//    display: block;
-//    margin-block-start: 0px;
-//    margin-block-end: 0px;
-//    margin-inline-start: 0px;
-//    margin-inline-end: 0px;
-//}
-
-//Corrige el ancho de la tabla de datos de GBIF
-//.css-13kxine {
-//	max-width: 1100px;
-//	margin: auto;
-//}
-
-//Los estilos que ya estaban
-
-@media screen and (min-width: $navbar-breakpoint) {
-  .navbar {
-    .navbar-brand {
-      opacity: none;
-      background-image: none;
-    }
-  }
-}
-
-// You can add additional styling here
-.iframe-box {
-  padding: 24px;
-  iframe {
-    @extend .box;
-    width: 80%;
-    max-height: 80vh;
-    margin-left: auto;   /* Automatic margin from left */ 
-    margin-right: auto; /* Automatic margin from right */ 
-    border: 1px solid #00000011;
-  }
-}
-
-
-// for usage on /Gobernanza/ComiteDirectivo # Tabla para las entidades del comité directivo
-.directivo table img {
-  width: 60px;
-  min-width: 60px; /* Selección del ancho y alto de las celdas*/
-  height: 150px;
-  min-height: 150px;
-}
-th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se puede fijar por individual cada una con un % diferente o en grupo*/
-  width: 25%;
-  border: 0px;
-}
-
-// for usage on /home cifras de publicación
-
-.cifras table img {
-  width: 100px;
-  min-width: 100px;
-  height: 100px;
-  min-height: 100px;
-  background: white;
-}
-
-
-// Ajuste de color para el features = cards de post y otros card incluidos via yml
-
-.features {
-  // background-image: url('/assets/images/carlo_test_2a1.png');
-  // background-size: cover;
-  background-attachment: fixed; // Imagen fija, que no se duplique para ocupar el espacio
-  background-color: #FFFFFF // Fondo blanco
 }
 
 // TODAS LAS TABLAS EN EL CONTENIDO
@@ -279,3 +193,108 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
 .tablaNaranjada table tbody tr:last-of-type {
     border-bottom: 2px solid #F5B858;
 }
+
+*/
+
+
+//Le da el estilo redondeado a los botones y la letra siempre mayúscula
+.button{
+	text-transform: uppercase;
+	border-radius: 100px;
+	padding-bottom: 1.5em;
+	padding-top: 1.5em;
+	padding-left: 1.5em;
+	padding-right: 1.5em;
+	margin-bottom: 20px;
+}
+
+//Tamaño de íconos de cifras
+.statistic .feature-img {
+    width: 30%;
+}
+
+//Texto del banner home a la izquierda y ancho de esa zona
+/*
+.floatingHero .feature-content {
+	text-align: left;
+	margin: auto;
+	max-width: $navbar-breakpoint;
+	min-width: $navbar-breakpoint;
+}
+
+.floatingHero .feature-content p {
+    display: block;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+*/
+
+//Corrige el ancho de la tabla de datos de GBIF
+
+/*
+.css-13kxine {
+	max-width: 1100px;
+	margin: auto;
+}
+*/
+
+//Los estilos que ya estaban
+
+@media screen and (min-width: $navbar-breakpoint) {
+  .navbar {
+    .navbar-brand {
+      opacity: none;
+      background-image: none;
+    }
+  }
+}
+
+// You can add additional styling here
+.iframe-box {
+  padding: 24px;
+  iframe {
+    @extend .box;
+    width: 80%;
+    max-height: 80vh;
+    margin-left: auto;   /* Automatic margin from left */ 
+    margin-right: auto; /* Automatic margin from right */ 
+    border: 1px solid #00000011;
+  }
+}
+
+
+// for usage on /Gobernanza/ComiteDirectivo # Tabla para las entidades del comité directivo
+.directivo table img {
+  width: 60px;
+  min-width: 60px; /* Selección del ancho y alto de las celdas*/
+  height: 150px;
+  min-height: 150px;
+}
+th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se puede fijar por individual cada una con un % diferente o en grupo*/
+  width: 25%;
+  border: 0px;
+}
+
+// for usage on /home cifras de publicación
+
+.cifras table img {
+  width: 100px;
+  min-width: 100px;
+  height: 100px;
+  min-height: 100px;
+  background: white;
+}
+
+
+// Ajuste de color para el features = cards de post y otros card incluidos via yml
+
+.features {
+  // background-image: url('/assets/images/carlo_test_2a1.png');
+  // background-size: cover;
+  background-attachment: fixed; // Imagen fija, que no se duplique para ocupar el espacio
+  background-color: #FFFFFF // Fondo blanco
+}
+
+
