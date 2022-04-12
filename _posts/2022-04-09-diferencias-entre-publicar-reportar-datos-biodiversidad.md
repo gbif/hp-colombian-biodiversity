@@ -28,7 +28,7 @@ Las anteriores herramientas no tenían la posibilidad de ser actualizadas en el 
 
 La publicación tiene como finalidad compartir datos en un formato estandarizado, permitiendo que estos sean accesibles para su libre consulta y uso, siempre respetando las licencias de atribución y uso establecidas por el publicador. Si se queda en el paso de la normatividad se está perdiendo estos beneficios y muchos más. Le explicamos en detalle:
 
-<div class="tablaContenido">
+<div class="tablaMorada">
  <table> 
   <thead>
    <tr>
