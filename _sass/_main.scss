@@ -174,51 +174,7 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
   background-color: #FFFFFF // Fondo blanco
 }
 
-
-// Tabla pada contenido NOTICIAS
-
-.tablaContenido table {
-    border-collapse: collapse;
-    margin: 25px 0;
-    font-size: 0.9em;
-    min-width: 400px;
-    //text-align: left;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.10);
-    border-radius: 10px 10px 0 0;
-    overflow: hidden;
-}
-.tablaContenido table thead tr {
-    background-color: #9BBBE4;
-}
-.tablaContenido table thead td,
-.tablaContenido table thead th {
-    border-width: 0;
-    border: none;
-    font-weight: bold;
-    color: #ffffff;
-    padding: 12px 15px;
-}
-.tablaContenido table th,
-.tablaContenido table td {
-    padding: 12px 15px;
-}
-.tablaContenido table tbody tr {
-    border-bottom: 1px solid #dddddd;
-}
-
-.tablaContenido table tbody tr:nth-of-type(even) {
-    background-color: #f9f9f9;
-}
-
-.tablaContenido table tbody tr:last-of-type {
-    border-bottom: 2px solid #9BBBE4;
-}
-.tablaContenido table tbody tr.active-row {
-    font-weight: bold;
-    color: #214F53;
-}
-
-// TODAS LAS TABLAS
+// TODAS LAS TABLAS EN EL CONTENIDO
 
 .table {
     border-collapse: collapse;
@@ -271,4 +227,28 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
 }
 .content table td, .feature-content table td, .content table th, .feature-content table th {
         padding: 12px 15px;
+}
+
+
+// TABLAS DE COLORES
+
+.tablaAzul table thead tr {
+    background-color: #3D67AF;
+}
+.tablaAzul table tbody tr:nth-of-type(even) {
+    background-color: #3D67AF;
+}
+
+.tablaMorada table thead tr {
+    background-color: #9BBBE4;
+}
+.tablaMorada table tbody tr:nth-of-type(even) {
+    background-color: #f9f9f9;
+}
+.tablaNaranjada table thead tr {
+    background-color: #F5B858;
+}
+
+.tablaNaranjada table tbody tr:nth-of-type(even) {
+    background-color: #F5B858;
 }
