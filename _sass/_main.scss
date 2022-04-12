@@ -188,7 +188,7 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
     overflow: hidden;
 }
 .tablaContenido table thead tr {
-    background-color: #9EC649;
+    background-color: #9BBBE4;
 }
 .tablaContenido table thead td,
 .tablaContenido table thead th {
@@ -211,7 +211,7 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
 }
 
 .tablaContenido table tbody tr:last-of-type {
-    border-bottom: 2px solid #9EC649;
+    border-bottom: 2px solid #9BBBE4;
 }
 .tablaContenido table tbody tr.active-row {
     font-weight: bold;
@@ -268,4 +268,7 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
 .content table thead th,
 .content table thead td {
     color: #ffffff;
+}
+.content table td, .feature-content table td, .content table th, .feature-content table th {
+        padding: 12px 15px;
 }
