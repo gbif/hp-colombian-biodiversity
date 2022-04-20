@@ -19,7 +19,7 @@ Lo que antes eran datos aislados, hoy se encuentran disponibles para su libre co
 En el siguiente video algunas de las empresas participantes cuentan su experiencia tras el primer año de la alianza[^1]: 
 
 
-<p align=”center”> <iframe width="100%" height="400" src="https://www.youtube.com/embed/273Ze_cyPOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/273Ze_cyPOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <!-- Footnotes themselves at the bottom. -->
@@ -91,8 +91,8 @@ Todas estas acciones, resultado de la publicación de datos, son fundamentales p
 La publicación de datos sobre biodiversidad es **reconocida a escala mundial por los [Objetivos de Desarrollo Sostenible de las Naciones Unidas](https://sdgs.un.org/es/goals)**{:target="_blank"}, en concreto los objetivos SDG14 y SDG15, donde este tipo de publicaciones se convierten en un instrumento fundamental para la evaluación hacia el cumplimiento de dichos objetivos. De igual manera, el Convenio sobre la Diversidad Biológica (CDB) utiliza la **publicación de datos como uno de los [indicadores para medir el cumplimiento](http://www.bipindicators.net/numberofgbifrecordsovertime)**{:target="_blank"} de la meta Aichi 19 (hoy metas post-2020) y contribuye de manera indirecta al cumplimineto de otras metas asociadas a las especies invasoras (9), áreas protegidas (11) y especies amenazadas (12).
 
 
-| ![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-14-200x200.png) | ![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-15-200x200.png) |
-|:----:|:----:|
+|   | ![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-14-200x200.png) | ![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-15-200x200.png) |   |
+| ---- | ---- | ---- | ---- |
 
 
 ## Beneficios de compartir datos sobre biodiversidad
@@ -242,7 +242,7 @@ Esta alianza cuenta con el respaldo de GBIF que inició con el proyecto _[CESP O
 Este brochure informativo contiene un resumen ejecutivo de la información sobre la alianza y está disponible para la descarga.
 
 
-<p align=”center”> <embed src="https://biodiversidad.co/acercade/imagenes/libro-andi.pdf" width="560" height="315" type="application/pdf"></p>
+<embed src="https://biodiversidad.co/acercade/imagenes/libro-andi.pdf" width="700" height="400" type="application/pdf">
 
 _____
 
@@ -251,7 +251,7 @@ _____
 Este video es una invitación del Secretariado de GIBIF al sector empresarial para compartir datos sobre biodiversidad.
 
 
-<p align=”center”> <iframe width="560" height="315" src="https://www.youtube.com/embed/RpekFNVIM64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/RpekFNVIM64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _____
 
@@ -260,7 +260,7 @@ _____
 Este webinar contó con la asistencia de 156 personas, representantes de diferentes empresas de diversos sectores, incluyendo delegados del Comité Nacional Ambiental, Comité Ambiental Minero-energético y cámaras sectoriales de la Asociación como Procultivos, Industria Cosmética y de Aseo, entre otros.
 
 
-<p align=”center”> <iframe width="560" height="315" src="https://www.youtube.com/embed/UwQLU27jFa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/UwQLU27jFa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
