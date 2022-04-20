@@ -82,7 +82,7 @@ En esta alianza cada actor cumple un rol, así:
 Esta **alianza por los datos abiertos sobre biodiversidad desde el sector empresarial**, inicia colectivamente con ANDI, e invita a otras empresas y sectores a sumarse a esta iniciativa en pro de una gestión oportuna y eficiente de datos sobre biodiversidad en Colombia.
 
 
-## Por qué compartir datos sobre biodiversidad
+## Por qué compartir datos
 
 Las empresas que publican a través del SiB Colombia son parte de una amplia lista de **organizaciones que siguen principios de conservación y uso sostenible**. Al compartir información sobre las especies de Colombia, ayudan a comprender y evaluar la biodiversidad. Su contribución también **optimiza la gestión ambiental, promueve la investigación científica y aumenta la conciencia social**.
 
@@ -91,11 +91,15 @@ Todas estas acciones, resultado de la publicación de datos, son fundamentales p
 La publicación de datos sobre biodiversidad es **reconocida a escala mundial por los [Objetivos de Desarrollo Sostenible de las Naciones Unidas](https://sdgs.un.org/es/goals)**{:target="_blank"}, en concreto los objetivos SDG14 y SDG15, donde este tipo de publicaciones se convierten en un instrumento fundamental para la evaluación hacia el cumplimiento de dichos objetivos. De igual manera, el Convenio sobre la Diversidad Biológica (CDB) utiliza la **publicación de datos como uno de los [indicadores para medir el cumplimiento](http://www.bipindicators.net/numberofgbifrecordsovertime)**{:target="_blank"} de la meta Aichi 19 (hoy metas post-2020) y contribuye de manera indirecta al cumplimineto de otras metas asociadas a las especies invasoras (9), áreas protegidas (11) y especies amenazadas (12).
 
 
+
+
 |   | ![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-14-200x200.png) | ![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-15-200x200.png) |   |
 | --- | --- | --- | --- |
+|  |  |  |  |
 
 
-## Beneficios de compartir datos sobre biodiversidad
+
+## Beneficios de compartir datos
 
 La publicación de datos sobre biodiversidad tiene numerosos beneficios para las empresas, desde la **responsabilidad ambiental**, hasta su aplicación en **estudios de viabilidad**. Al compartir datos a través del SiB Colombia, producto de Evaluaciones de Impacto Ambiental (EIA) y programas de monitoreo, pueden por ejemplo, **incrementar los beneficios operativos y de reputación como referente en sostenibilidad**.
 
@@ -132,9 +136,9 @@ Si los datos incluyen información sensible, como la ubicación de especies amen
 Además, **el SiB Colombia puede proporcionar la asistencia técnica** necesaria durante el proceso de estandarización a través de su Equipo Coordinador.
 
 
-## Requisitos para que una empresa sea publicadora de datos 
+## Requisitos para ser publicador 
 
-Para llegar a ser un publicador de datos sobre biodiversidad a través del SiB Colombia, es necesario que primero haya una decisión de las directivas de la empresa. Posteriormente, se requiere completar una serie de pasos que son comunes para cualquier organización que desee publicar datos sobre biodiversidad:
+Para llegar a ser un publicador de datos sobre biodiversidad a través del SiB Colombia es necesario que primero haya una decisión de las directivas de la empresa. Posteriormente, se requiere completar una serie de pasos que son comunes para cualquier organización que desee publicar datos sobre biodiversidad:
 
 * Garantizar una gestión institucional para asegurar que todas las partes involucradas en el proceso, desde la coordinación de los socios que generan los datos, estén de acuerdo en la publicación de los datos y los términos por los cuales se lleva a cabo.
 
@@ -147,7 +151,7 @@ Para llegar a ser un publicador de datos sobre biodiversidad a través del SiB C
 ![](/acercade/imagenes/requisitosANDI.png)
 
 
-## Participación de diferentes organizaciones en el proceso de publicación
+## Participación de otras organizaciones en el proceso
 
 Dependiendo del tamaño de los proyectos en los que se originaron los datos, **es posible que estos hayan sido obtenidos a través de la contratación de otras empresas u organizaciones que llevaron a cabo el trabajo de muestreo**. Esta es la situación más común en una EIA o estudio de monitoreo, donde los servicios de muestreo son subcontratados.
 
