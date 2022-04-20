@@ -246,7 +246,7 @@ Esta alianza cuenta con el respaldo de GBIF que inició con el proyecto _[CESP O
 Este brochure informativo contiene un resumen ejecutivo de la información sobre la alianza y está disponible para la descarga.
 
 
-<embed src="https://biodiversidad.co/acercade/imagenes/libro-andi.pdf" width="700" height="400" type="application/pdf">
+<embed src="https://biodiversidad.co/acercade/imagenes/brochure-alianza-andi-sib-colombia.pdf" width="700" height="400" type="application/pdf">
 
 _____
 
