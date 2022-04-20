@@ -94,7 +94,7 @@ La publicación de datos sobre biodiversidad es **reconocida a escala mundial po
 
 
 |   | ![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-14-200x200.png) | ![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-15-200x200.png) |   |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 |  |  |  |  |
 
 
