@@ -16,13 +16,15 @@ Tras el primer año de la **alianza datos abiertos sobre biodiversidad desde el 
 
 Lo que antes eran datos aislados, hoy se encuentran disponibles para su libre consulta y uso, para **facilitar la toma de decisiones y aportar de manera significativa, desde el sector empresarial, al llenado de vacíos de información** sobre la biodiversidad en Colombia. 
 
-En el siguiente video algunas de las empresas participantes cuentan su experiencia tras el primer año de la alianza[^*]: 
+En el siguiente video algunas de las empresas participantes cuentan su experiencia tras el primer año de la alianza[^1]: 
 
-<p align=”center”><iframe width="100%" height="400" src="https://www.youtube.com/embed/273Ze_cyPOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<p align=”center”> <iframe width="100%" height="400" src="https://www.youtube.com/embed/273Ze_cyPOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
 
 <!-- Footnotes themselves at the bottom. -->
 
-[^*]:
+[^1]:
      Hablan: Ana Cristina Sánchez, de Ecopetrol S.A.; Carlos Quiceno, de Celsia Colombia S.A. E.S.P.;  Edwin Arango de AngloGold Ashanti Colombia, S.A.S.; Diego Pérez, de Gran Tierra Energy Inc.; Alejandro Giranldo, del Grupo de Energía de Bogotá; Diana Cuevas, de Concesión La Pintada S.A.S.; Luis Madriñan, de Carbones del Cerrejón Limited; Lucía Ruiz, de Promigas S.A. E.S.P.; Gian Paolo Daguer, de Enel Colombia; Laura Ramírez, de Inerco Consultoría Colombia. 
 
 _____
@@ -87,6 +89,7 @@ Las empresas que publican a través del SiB Colombia son parte de una amplia lis
 Todas estas acciones, resultado de la publicación de datos, son fundamentales para aumentar la confianza de los inversionistas y clientes en futuros proyectos, crear sinergias entre organizaciones y promover iniciativas en el sector. **Las empresas que publican datos a través del SiB Colombia tienen mayores oportunidades para mejorar sus Índices de Sostenibilidad Dow Jones y demostrar su compromiso para frenar la pérdida de la biodiversidad**.
 
 La publicación de datos sobre biodiversidad es **reconocida a escala mundial por los [Objetivos de Desarrollo Sostenible de las Naciones Unidas](https://sdgs.un.org/es/goals)**{:target="_blank"}, en concreto los objetivos SDG14 y SDG15, donde este tipo de publicaciones se convierten en un instrumento fundamental para la evaluación hacia el cumplimiento de dichos objetivos. De igual manera, el Convenio sobre la Diversidad Biológica (CDB) utiliza la **publicación de datos como uno de los [indicadores para medir el cumplimiento](http://www.bipindicators.net/numberofgbifrecordsovertime)**{:target="_blank"} de la meta Aichi 19 (hoy metas post-2020) y contribuye de manera indirecta al cumplimineto de otras metas asociadas a las especies invasoras (9), áreas protegidas (11) y especies amenazadas (12).
+
 
 | ![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-14-200x200.png) | ![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-15-200x200.png) |
 |:----:|:----:|
@@ -187,12 +190,14 @@ Más de 30 empresas colombianas de diferentes sectores ya publican datos sobre b
 
 A continuación se presenta un inventario de aquellas empresas, junto con el volumen de datos y conjuntos de datos publicados a la fecha, así como un indicador de uso de los datos en publicaciones académicas. Actualmente la alianza se encuentra trabajando para que todas las organizaciones co-autoras también sean visibles en estos logros.
 
+
 | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ab.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-aigos.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-anadarko.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-anglogoldashanti.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-aures.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-biotica.png) |
 |:----:|:----:|:----:|:----:|:----:|:----:|
 | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-cerrejon.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-carsa.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-celsia.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-cerromatoso.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-chec.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ciprogress.png) |
 | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-lapintada.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-Conambiente.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-cunaguaro.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ecopetrol.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-epm.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-enel.png) |
 | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-fedecacao.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-fnc.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-geb.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-hatovial.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-holcim.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-inerco.png) |
 | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-isagen.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-moam.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-bicentenario.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-promigas.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-stratos.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-terrasos.png) |
+
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vScY_Y13XaKRGz4Zkbbv2Da_lba-p4QdN9W6QNarJ7wfNZC4nmIW98jPz9t5LJ_r9H9PBwNbS3eGB77/pubhtml?gid=0&single=true" width="98%" height="970" style="border:none;"></iframe>
 
@@ -205,6 +210,8 @@ Además, este Equipo Coordinador podría crear capacidad sobre la publicación d
 
 
 ## Acerca del Centro Nacional del Agua y la Biodiversidad de la ANDI
+
+![](/acercade/imagenes/logo-CNAB.png)
 
 El Centro Nacional del Agua y la Biodiversidad - CNAB, es el aliado de las empresas, seccionales y cámaras de la ANDI para la gestión corporativa y territorial del agua y la biodiversidad en el país. **Una de sus iniciativas, denominada “Biodiversidad y Desarrollo”, funciona como plataforma público-privada para conectar y contribuir desde la gestión empresarial con los planes, políticas y prioridades de la conservación de la biodiversidad del país**, a través de acuerdos colectivos de trabajo, inversión, compensación y nuevos negocios, entre instituciones, grupos locales y empresas.
 
@@ -234,15 +241,17 @@ Esta alianza cuenta con el respaldo de GBIF que inició con el proyecto _[CESP O
 
 Este brochure informativo contiene un resumen ejecutivo de la información sobre la alianza y está disponible para la descarga.
 
-<p align=”center”><embed src="https://biodiversidad.co/acercade/imagenes/libro-andi.pdf" width="560" height="315" type="application/pdf"></p>
+
+<p align=”center”> <embed src="https://biodiversidad.co/acercade/imagenes/libro-andi.pdf" width="560" height="315" type="application/pdf"></p>
 
 _____
 
-**Invitación en video **
+**Invitación en video**
 
 Este video es una invitación del Secretariado de GIBIF al sector empresarial para compartir datos sobre biodiversidad.
 
-<p align=”center”><iframe width="560" height="315" src="https://www.youtube.com/embed/RpekFNVIM64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<p align=”center”> <iframe width="560" height="315" src="https://www.youtube.com/embed/RpekFNVIM64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 _____
 
@@ -250,7 +259,8 @@ _____
 
 Este webinar contó con la asistencia de 156 personas, representantes de diferentes empresas de diversos sectores, incluyendo delegados del Comité Nacional Ambiental, Comité Ambiental Minero-energético y cámaras sectoriales de la Asociación como Procultivos, Industria Cosmética y de Aseo, entre otros.
 
-<p align=”center”><iframe width="560" height="315" src="https://www.youtube.com/embed/UwQLU27jFa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<p align=”center”> <iframe width="560" height="315" src="https://www.youtube.com/embed/UwQLU27jFa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 
 
