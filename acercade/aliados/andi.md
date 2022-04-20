@@ -2,7 +2,7 @@
 layout: heroImage
 permalink: /empresas
 title: Datos abiertos sobre biodiversidad desde el sector empresarial
-description: Una contribución al conocimiento de la biodiversidad
+description: Una contribución al conocimiento de la biodiversidad.
 background: https://live.staticflickr.com/1639/24849064810_c404bc7e0b_h.jpg
 imageLicense: |
   _Theobroma cacao_ Fotografía de: Forest and Kim Starr vía [Flickr](https://flic.kr/p/DRPXeU) 
@@ -11,6 +11,8 @@ toc: true
 ---
 
 <img src="/acercade/imagenes/FooterAlianzaANDI.png">
+
+![](/acercade/imagenes/FooterAlianzaANDI.png)
 
 Los datos sobre biodiversidad son esenciales para planificar, implementar y monitorear estrategias de conservación y uso sostenible. De igual forma son piedra angular para entender los factores que contribuyen a la pérdida de la biodiversidad,  permitiendo identificar patrones y cambios a través del tiempo y el espacio. Sin embargo, estos datos no siempre son fácilmente accesibles, o se presentan en formatos que dificultan su interpretación y la interoperabilidad entre distintas fuentes.
 
@@ -184,7 +186,7 @@ En la siguiente tabla puede encontrar el listado completo de empresas con los re
 | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-fnc.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-geb.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-hatovial.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-holcim.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-inerco.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-isagen.png"> |
 | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-moam.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-bicentenario.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-promigas.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-stratos.png"> | <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-terrasos.png"> |  |
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vScY_Y13XaKRGz4Zkbbv2Da_lba-p4QdN9W6QNarJ7wfNZC4nmIW98jPz9t5LJ_r9H9PBwNbS3eGB77/pubhtml?gid=0&single=true" width="98%" height="960" style="border:none;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vScY_Y13XaKRGz4Zkbbv2Da_lba-p4QdN9W6QNarJ7wfNZC4nmIW98jPz9t5LJ_r9H9PBwNbS3eGB77/pubhtml?gid=0&single=true" width="98%" height="970" style="border:none;"></iframe>
 
 ## El costo para las empresas
 
@@ -415,3 +417,5 @@ ___
 <br>
 Para dar respuesta a esta pregunta es importante primero hacer una diferenciación entre “datos públicos” y “datos abiertos”. No todos los datos públicos son datos abiertos, aunque todos los datos abiertos están publicados. Es decir, un dato publicado es cualquier dato que podemos ver, incluso si no lo podemos reutilizar. Un dato abierto está disponible al público y, además, tiene una licencia y un formato que facilitan su utilización. Los datos abiertos son puestos a disposición de forma libre, con una licencia y un formato que permite su reutilización y la creación de obras derivadas de los mismos sin que esto genere cobro alguno. Un dato abierto es información disponible y lista para reusar sin restricciones técnicas, económicas y legales. Dicho esto, la alianza puede ser una plataforma útil de conversación con ANLA para identificar los retos y oportunidades asociadas a la publicación desde esta agencia de los datos sobre biodiversidad de una EIA radicada.</details>
 
+
+<embed src="https://biodiversidad.co/acercade/imagenes/libro-andi.pdf" width="100%" height="700" type="application/pdf">
