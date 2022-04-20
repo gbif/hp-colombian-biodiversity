@@ -221,10 +221,10 @@ Aquí puedes encontrar las preguntas que surgieron durante el webinar en el que 
 
 
 <details>
-    <summary markdown="span"><b>Para publicar los datos a través del SiB Colombia es necesario tener un permiso de colecta vigente?</b></summary>
+    <summary markdown="span"><b>¿Es necesario tener un permiso de recolección de especímenes vigente para publicar los datos a través del SiB Colombia?</b></summary>
     
 <br>
-No es necesario. Los datos de colectas son solo una de las fuentes de datos asociados al tipo de datos denominado <a href= "/compartir/tipos-de-datos#registros-biológicos">Registros Biológicos</a>. El permiso de colecta solo aplica para las autoridades ambientales y para el depósito de especímenes en colecciones biológicas.</details>
+No es necesario. Los datos asociados a permisos de recolección de especímenes son solo una de las fuentes de datos que es posible integrar a través del SiB Colombia. Véase los <a href="https://biodiversidad.co/compartir/tipos-de-datos" target="_blank">tipos de datos publicables a través del SiB Colombia</a>.</details>
 
 ___
 
@@ -233,7 +233,7 @@ ___
     <summary markdown="span"><b>¿Las muestras biológicas colectadas por las empresas deben ingresar a una colección biológica registrada para publicar la información a través del SiB Colombia?</b></summary>
     
 <br>
-No es condicional. Las empresas publican a través del SiB Colombia este tipo de Registros Biológicos como “observaciones” que tienen como evidencia una muestra biológica. La única excepción es cuando la empresa requiere un certificado de publicación para cumplir con un permiso de colecta. Véase <a href= "/compartir/guia-para-publicar#ruta-b-publicación-de-datos-por-permiso-de-recolección">Ruta B de publicación</a>.</details>
+No es condicional. Las empresas publican a través del SiB Colombia este tipo de Registros Biológicos como “observaciones” que tienen como evidencia una muestra biológica. La única excepción es cuando la empresa requiere un certificado de publicación para cumplir con un permiso de colecta. Véase la <a href="https://biodiversidad.co/compartir/guia-para-reportar/" target="_blank">guía para reportar datos</a>.</details>
 
 ___
 
@@ -251,7 +251,7 @@ ___
     <summary markdown="span"><b>En el caso de la información pública, ¿existe algún validador o nivel de confianza que se le asigne a los datos?</b></summary>
     
 <br>
-El SiB Colombia cuenta con una <a href= "/recursos/calidad-de-datos">caja de herramientas</a>  para validaciones externas al Portal de Datos, que los usuarios pueden usar luego de descargar el resultado de una búsqueda. A nivel de GBIF se cuenta con métricas que dan un nivel de confianza a nivel taxonómico y geográfico. Ejemplo: <a href= "https://www.gbif.org/es/dataset/db191f3a-48ed-4b94-93ef-5c0517fb1b58/metrics" target="_blank">Estudio de Biodiversidad Mina Calenturitas, Temporada de Lluvias</a>.</details>
+El SiB Colombia cuenta con una <a href= "/recursos/calidad-de-datos" target="_blank">caja de herramientas</a>  para validaciones externas al Portal de Datos, que los usuarios pueden usar luego de descargar el resultado de una búsqueda. A nivel de GBIF se cuenta con métricas que dan un nivel de confianza a nivel taxonómico y geográfico. Ejemplo: <a href= "https://www.gbif.org/es/dataset/db191f3a-48ed-4b94-93ef-5c0517fb1b58/metrics" target="_blank">Estudio de Biodiversidad Mina Calenturitas, Temporada de Lluvias</a>.</details>
 
 ___
 
@@ -269,7 +269,7 @@ ___
     <summary markdown="span"><b>¿Al considerar datos y registros de más de 5 años, la actualización taxonómica estaría a cargo del Equipo Coordinador del SiB Colombia?</b></summary>
     
 <br>
-Al momento de realizar la validación taxonómica de aquellos datos, el Equipo Coordinador recomienda una taxonomía actualizada a la fecha que puede ser aceptada no por el publicador. Si el publicador está de acuerdo, el Equipo Coordinador puede proceder con dicha actualización previo a la publicación.</details>
+Al momento de realizar la validación taxonómica de aquellos datos, el Equipo Coordinador recomienda una taxonomía actualizada a la fecha que puede ser aceptada o no por el publicador. Si el publicador está de acuerdo, el Equipo Coordinador puede proceder con dicha actualización previo a la publicación.</details>
 
 ___
 
@@ -332,7 +332,7 @@ ___
     <summary markdown="span"><b>¿Cuáles son los niveles y componentes de la biodiversidad que está sistematizando el SiB Colombia? ¿Hay perspectivas de incrementar la información, incluyendo datos de estructura y función? ¿Algo más que listados de especies?</b></summary>
     
 <br>
-El SiB Colombia facilita la publicación de datos sobre la biodiversidad a nivel de poblaciones, especies y genes. Algunas variables de estructura y función pueden ser hoy publicados teniendo como eje central la presencia o ausencia de individuos de una especie particular. A pesar que son variables de interés, este tipo de datos presentan una gran variabilidad generando grandes retos a nivel informático. Además de listas de especies se facilita la publicación de dos tipos más de datos, Registros Biológicos y Eventos de Muestreo. Véase <a href= "/compartir/tipos-de-datos">Tipos de Datos</a>.</details>
+El SiB Colombia facilita la publicación de datos sobre la biodiversidad a nivel de poblaciones, especies y genes. Algunas variables de estructura y función pueden ser hoy publicados teniendo como eje central la presencia o ausencia de individuos de una especie particular. A pesar que son variables de interés, este tipo de datos presentan una gran variabilidad generando grandes retos a nivel informático. Además de listas de especies se facilita la publicación de dos tipos más de datos, Registros Biológicos y Eventos de Muestreo. Véase <a href= "/compartir/tipos-de-datos" target="_blank">Tipos de Datos</a>.</details>
 
 ___
 
@@ -417,5 +417,3 @@ ___
 <br>
 Para dar respuesta a esta pregunta es importante primero hacer una diferenciación entre “datos públicos” y “datos abiertos”. No todos los datos públicos son datos abiertos, aunque todos los datos abiertos están publicados. Es decir, un dato publicado es cualquier dato que podemos ver, incluso si no lo podemos reutilizar. Un dato abierto está disponible al público y, además, tiene una licencia y un formato que facilitan su utilización. Los datos abiertos son puestos a disposición de forma libre, con una licencia y un formato que permite su reutilización y la creación de obras derivadas de los mismos sin que esto genere cobro alguno. Un dato abierto es información disponible y lista para reusar sin restricciones técnicas, económicas y legales. Dicho esto, la alianza puede ser una plataforma útil de conversación con ANLA para identificar los retos y oportunidades asociadas a la publicación desde esta agencia de los datos sobre biodiversidad de una EIA radicada.</details>
 
-
-<embed src="https://biodiversidad.co/acercade/imagenes/libro-andi.pdf" width="100%" height="700" type="application/pdf">
