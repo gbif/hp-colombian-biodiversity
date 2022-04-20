@@ -203,7 +203,7 @@ A continuación se presenta un inventario de aquellas empresas, junto con el vol
 | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-isagen.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-moam.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-bicentenario.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-promigas.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-stratos.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-terrasos.png) |
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vScY_Y13XaKRGz4Zkbbv2Da_lba-p4QdN9W6QNarJ7wfNZC4nmIW98jPz9t5LJ_r9H9PBwNbS3eGB77/pubhtml?gid=0&single=true" width="98%" height="970" style="border:none;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vScY_Y13XaKRGz4Zkbbv2Da_lba-p4QdN9W6QNarJ7wfNZC4nmIW98jPz9t5LJ_r9H9PBwNbS3eGB77/pubhtml?gid=0&single=true" width="98%" height="1000" style="border:none;"></iframe>
 
 
 ## Cuál es el costo para las empresas
@@ -246,7 +246,7 @@ Esta alianza cuenta con el respaldo de GBIF que inició con el proyecto _[CESP O
 Este brochure informativo contiene un resumen ejecutivo de la información sobre la alianza y está disponible para la descarga.
 
 
-<embed src="https://biodiversidad.co/acercade/imagenes/brochure-alianza-andi-sib-colombia.pdf" width="700" height="400" type="application/pdf">
+<embed src="/acercade/imagenes/brochure-alianza-andi-sib-colombia.pdf" width="700" height="400" type="application/pdf">
 
 _____
 
