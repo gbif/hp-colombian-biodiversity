@@ -92,7 +92,7 @@ La publicación de datos sobre biodiversidad es **reconocida a escala mundial po
 
 
 |   | ![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-14-200x200.png) | ![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-15-200x200.png) |   |
-| ---- | ---- | ---- | ---- |
+| --- | --- | --- | --- |
 
 
 ## Beneficios de compartir datos sobre biodiversidad
@@ -262,6 +262,7 @@ Este webinar contó con la asistencia de 156 personas, representantes de diferen
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/UwQLU27jFa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+_____
 
 
 ## Preguntas frecuentes
@@ -465,4 +466,6 @@ ___
     
 <br>
 Para dar respuesta a esta pregunta es importante primero hacer una diferenciación entre “datos públicos” y “datos abiertos”. No todos los datos públicos son datos abiertos, aunque todos los datos abiertos están publicados. Es decir, un dato publicado es cualquier dato que podemos ver, incluso si no lo podemos reutilizar. Un dato abierto está disponible al público y, además, tiene una licencia y un formato que facilitan su utilización. Los datos abiertos son puestos a disposición de forma libre, con una licencia y un formato que permite su reutilización y la creación de obras derivadas de los mismos sin que esto genere cobro alguno. Un dato abierto es información disponible y lista para reusar sin restricciones técnicas, económicas y legales. Dicho esto, la alianza puede ser una plataforma útil de conversación con ANLA para identificar los retos y oportunidades asociadas a la publicación desde esta agencia de los datos sobre biodiversidad de una EIA radicada.</details>
+
+_____
 
