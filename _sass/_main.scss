@@ -69,6 +69,12 @@ body, button, input, select, textarea {
 	font-size: 1.2em;
 }
 
+//Corrige separación entre elementos de listas
+
+.content li, .feature-content li {
+    margin-bottom: 0.6em;
+}
+
 //Corrige el ancho de la sección split
 
 section.splitBanner {
