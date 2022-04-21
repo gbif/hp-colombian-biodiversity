@@ -36,38 +36,160 @@ Ya que está clara la diferencia entre los dos modelos: el de publicación —ba
 
 
 
+|                     Características                       | Publicación | Reporte |
+|:----------------------------------------------------------|:-----------:|:-------:|
+| _[Tipos de datos](https://biodiversidad.co/compartir/tipos-de-datos/)_{:target="_blank"} | | |
+|    Registros biológicos                                   |      ✓      |    ✓    |
+|    Eventos de muestreo                                    |      ✓      |         |
+|    Listas de chequeo                                      |      ✓      |         |
+| _[Licencias de atribución y uso](https://biodiversidad.co/terminos-y-condiciones/politica-de-publicacion#licencias)_{:target="_blank"} | | |
+|    CC0                                                    |      ✓      |    ✓    |
+|    CC BY                                                  |      ✓      |    ✓    |
+|    CC BY-NC                                               |      ✓      |    ✓    |
+| _Apoyo técnico_                                           |             |         |
+|    Múltiples cuentas de usuario                           |      ✓      |         |
+|    Curaduría de datos y metadatos                         |      ✓      |         |
+|    Actualizaciones de datos o metadatos en el tiempo      |      ✓      |         |
+| _Valor agregado e impacto_                                |             |         |
+|    Certificado de reporte para autoridades ambientales    |      ✓      |    ✓    |
+|    Asignación de DOI por conjunto de datos                |      ✓      |         |
+|    Reconocimiento por el SNCTeI como producto científico  |      ✓      |         |
+|    Posibilidad de publicar un artículo de datos           |      ✓      |         |
+|    Métricas de impacto y uso de los datos                 |      ✓      |         |
+| _Visibilidad de los datos e instancias de consulta_       |             |         |
+|    Repositorio IPT                                        |      ✓      |    ✓    |
+|    Portal de datos SiB Colombia                           |      ✓      |         |
+|    Portal de datos GBIF                                   |      ✓      |         |
+|    Portal de datos OBIS (solo para datos marino costeros) |      ✓      |         |
+
+
+
+
 <div class="tablaMorada">
-
-
-
-|                     Características                     | Publicación | Reporte |
-|:--------------------------------------------------------|:-----------:|:-------:|
-| **_[Tipos de datos](https://biodiversidad.co/compartir/tipos-de-datos/)_{:target="_blank"}** |             |         |
-|    Registros biológicos                                    |      ✓      |    ✓    |
-|    Eventos de muestreo                                     |      ✓      |         |
-|    Listas de chequeo                                       |      ✓      |         |
-| **_[Licencias de atribución y uso](https://biodiversidad.co/terminos-y-condiciones/politica-de-publicacion#licencias)_{:target="_blank"}** |             |         |
-|    CC0                                                     |      ✓      |    ✓    |
-|    CC BY                                                   |      ✓      |    ✓    |
-|    CC BY-NC                                                |      ✓      |    ✓    |
-| **_Visibilidad de los datos e instancias de consulta_** |             |         |
-|    Repositorio IPT                                         |      ✓      |    ✓    |
-|    Portal de datos SiB Colombia                            |      ✓      |         |
-|    Portal de datos GBIF                                    |      ✓      |         |
-|    Portal de datos OBIS (solo para datos marino costeros)  |      ✓      |         |
-| **_Apoyo técnico_**                                     |             |         |
-|    Múltiples cuentas de usuario                            |      ✓      |         |
-|    Curaduría de datos y metadatos                          |      ✓      |         |
-|    Actualizaciones de datos o metadatos en el tiempo       |      ✓      |         |
-| **_Valor agregado e impacto_**                          |             |         |
-|    Certificado de reporte para autoridades ambientales     |      ✓      |    ✓    |
-|    Asignación de DOI por conjunto de datos                 |      ✓      |         |
-|    Reconocimiento por el SNCTeI como producto científico   |      ✓      |         |
-|    Posibilidad de publicar un artículo de datos            |      ✓      |         |
-|    Métricas de impacto y uso de los datos                  |      ✓      |         |
-
-
-
+ <table><thead>
+   <tr>
+    <th>Características</td>
+    <th>Publicación</td>
+    <th>Reporte</td>
+   </tr></thead>
+   <tbody><tr>
+    <td><em><a href="https://biodiversidad.co/compartir/tipos-de-datos/" target="_blank">Tipos de datos</a></em></td>
+    <td> </td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Registros biológicos</td>
+    <td>✓</td>
+    <td>✓</td>
+   </tr>
+   <tr>
+    <td>   Eventos de muestreo</td>
+    <td>✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Listas de chequeo</td>
+    <td>✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td><em><a href="https://biodiversidad.co/terminos-y-condiciones/politica-de-publicacion#licencias">Licencias de atribución y uso</a></em></td>
+    <td> </td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   CC0</td>
+    <td>✓</td>
+    <td>✓</td>
+   </tr>
+   <tr>
+    <td>   CC BY</td>
+    <td>✓</td>
+    <td>✓</td>
+   </tr>
+   <tr>
+    <td>   CC BY-NC</td>
+    <td>✓</td>
+    <td>✓</td>
+   </tr>
+   <tr>
+    <td><em>Apoyo técnico</em></td>
+    <td> </td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Múltiples cuentas de usuario</td>
+    <td>✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Curaduría de datos y metadatos</td>
+    <td>✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Actualizaciones de datos o metadatos en el tiempo</td>
+    <td>✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td><em>Valor agregado e impacto</em></td>
+    <td> </td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Certificado de reporte para autoridades ambientales</td>
+    <td>✓</td>
+    <td>✓</td>
+   </tr>
+   <tr>
+    <td>   Asignación de DOI por conjunto de datos</td>
+    <td>✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Reconocimiento por el SNCTeI como producto científico</td>
+    <td>✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Posibilidad de publicar un artículo de datos</td>
+    <td>✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Métricas de impacto y uso de los datos</td>
+    <td>✓</td>
+    <td> </td>
+   </tr>
+ 
+ 
+   <tr>
+    <td><em>Visibilidad de los datos e instancias de consulta</em></td>
+    <td> </td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Repositorio IPT</td>
+    <td>✓</td>
+    <td>✓</td>
+   </tr>
+   <tr>
+    <td>   Portal de datos SiB Colombia</td>
+    <td>✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Portal de datos GBIF</td>
+    <td>✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Portal de datos OBIS (solo para datos marino costeros)</td>
+    <td>✓ </td>
+    <td> </td>
+   </tr></tbody>
+ </table>
 </div>
 
 
