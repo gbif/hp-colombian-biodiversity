@@ -152,7 +152,9 @@ article.feature {
 }
 
 .table td,
-.table tbody td{
+.table tbody td,
+.content table td,
+.feature-content table td {
     border: none;
     border-width: 0 0 0px;
     padding: 7px 20px;
