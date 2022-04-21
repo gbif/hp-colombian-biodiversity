@@ -66,13 +66,16 @@ Ya que está clara la diferencia entre los dos modelos: el de publicación —ba
 
 
 <div class="tablaMorada">
- <table><thead>
+ <table>
+  <thead>
    <tr>
     <th>Características</td>
     <th>Publicación</td>
     <th>Reporte</td>
-   </tr></thead>
-   <tbody><tr>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
     <td><em><a href="https://biodiversidad.co/compartir/tipos-de-datos/" target="_blank">Tipos de datos</a></em></td>
     <td> </td>
     <td> </td>
@@ -186,7 +189,8 @@ Ya que está clara la diferencia entre los dos modelos: el de publicación —ba
     <td>   Portal de datos OBIS (solo para datos marino costeros)</td>
     <td>✓ </td>
     <td> </td>
-   </tr></tbody>
+   </tr>
+  </tbody>
  </table>
 </div>
 
