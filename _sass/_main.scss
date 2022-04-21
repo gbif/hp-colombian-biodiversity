@@ -130,13 +130,14 @@ article.feature {
     font-size: 0.9em;
     min-width: 400px;
     //text-align: left;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.10);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
     border-radius: 10px 10px 0 0;
     overflow: hidden;
 }
 .table thead tr {
     background-color: #9EC649;
 }
+.table th,
 .table thead td,
 .table thead th {
     border-width: 0;
@@ -149,12 +150,17 @@ article.feature {
 .table thead th a {
     color: #ffffff;
 }
-.table th,
-.table td {
-    padding: 12px 15px;
+
+.table td,
+.table tbody td{
+    border: none;
+    border-width: 0 0 0px;
+    padding: 7px 20px;
 }
+
 .table tbody tr {
-    border-bottom: 1px solid #dddddd;
+//*    border-bottom: 1px solid #dddddd;
+    border: none;
 }
 
 .table tbody tr:nth-of-type(even) {
