@@ -90,13 +90,7 @@ Todas estas acciones, resultado de la publicación de datos, son fundamentales p
 
 La publicación de datos sobre biodiversidad es **reconocida a escala mundial por los [Objetivos de Desarrollo Sostenible de las Naciones Unidas](https://sdgs.un.org/es/goals)**{:target="_blank"}, en concreto los objetivos SDG14 y SDG15, donde este tipo de publicaciones se convierten en un instrumento fundamental para la evaluación hacia el cumplimiento de dichos objetivos. De igual manera, el Convenio sobre la Diversidad Biológica (CDB) utiliza la **publicación de datos como uno de los [indicadores para medir el cumplimiento](http://www.bipindicators.net/numberofgbifrecordsovertime)**{:target="_blank"} de la meta Aichi 19 (hoy metas post-2020) y contribuye de manera indirecta al cumplimineto de otras metas asociadas a las especies invasoras (9), áreas protegidas (11) y especies amenazadas (12).
 
-
-
-
-|   | ![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-14-200x200.png) | ![](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/09/S-WEB-Goal-15-200x200.png) |   |
-| :---: | :---: | :---: | :---: |
-|  |  |  |  |
-
+![](/acercade/imagenes/ODS-ANDI.png)
 
 
 ## Beneficios de compartir datos
@@ -194,9 +188,8 @@ Más de 30 empresas colombianas de diferentes sectores ya publican datos sobre b
 
 A continuación se presenta un inventario de aquellas empresas, junto con el volumen de datos y conjuntos de datos publicados a la fecha, así como un indicador de uso de los datos en publicaciones académicas. Actualmente la alianza se encuentra trabajando para que todas las organizaciones co-autoras también sean visibles en estos logros.
 
-
-| ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ab.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-aigos.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-anadarko.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-anglogoldashanti.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-aures.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-biotica.png) |
 |:----:|:----:|:----:|:----:|:----:|:----:|
+| ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ab.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-aigos.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-anadarko.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-anglogoldashanti.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-aures.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-biotica.png) |
 | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-cerrejon.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-carsa.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-celsia.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-cerromatoso.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-chec.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ciprogress.png) |
 | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-lapintada.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-Conambiente.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-cunaguaro.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ecopetrol.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-epm.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-enel.png) |
 | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-fedecacao.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-fnc.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-geb.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-hatovial.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-holcim.png) | ![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-inerco.png) |
