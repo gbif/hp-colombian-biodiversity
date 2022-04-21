@@ -79,7 +79,7 @@ La recomendación, desde el SiB Colombia, es que **tanto las organizaciones como
 **¿Por qué es importante publicar datos abiertos sobre biodiversidad?** La mayoría se encuentran dispersos y son poco accesibles, por eso desde el SiB Colombia **queremos que todos los titulares que reportan datos le den un valor agregado a sus hallazgos** y se animen a publicarlos, de este modo se facilita su análisis, uso y reuso, siendo un capital vital para la generación de conocimiento.
 
 
----
+_____
 
 
 ## Enlaces de utilidad
@@ -89,19 +89,16 @@ La recomendación, desde el SiB Colombia, es que **tanto las organizaciones como
 * Nuevo modelo para [reportar datos derivados de permisos de recolección](https://biodiversidad.co/compartir/guia-para-reportar/){:target="_blank"}.
 * Consulta la [guía de publicación de datos](https://biodiversidad.co/compartir/guia-para-publicar/){:target="_blank"}.
 
-
+_____
 
 
 <div class="tablaMorada">
  <table>
-  <thead>
    <tr>
     <th>Características</td>
     <th>Publicación</td>
     <th>Reporte</td>
    </tr>
-  </thead>
-  <tbody>
    <tr>
     <td><em><a href="https://biodiversidad.co/compartir/tipos-de-datos/" target="_blank">Tipos de datos</a></em></td>
     <td> </td>
@@ -217,6 +214,5 @@ La recomendación, desde el SiB Colombia, es que **tanto las organizaciones como
     <td>✓ </td>
     <td> </td>
    </tr>
-  </tbody>
  </table>
 </div>
