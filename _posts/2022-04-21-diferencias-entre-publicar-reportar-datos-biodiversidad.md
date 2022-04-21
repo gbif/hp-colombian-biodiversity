@@ -162,8 +162,6 @@ Ya que está clara la diferencia entre los dos modelos: el de publicación —ba
     <td>✓</td>
     <td> </td>
    </tr>
- 
- 
    <tr>
     <td><em>Visibilidad de los datos e instancias de consulta</em></td>
     <td> </td>
