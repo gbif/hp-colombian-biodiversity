@@ -63,6 +63,33 @@ Ya que está clara la diferencia entre los dos modelos: el de publicación —ba
 |    Portal de datos OBIS (solo para datos marino costeros) |      ✓      |         |
 
 
+## ¿Cómo pasar de reportar a publicar?
+
+**Hoy, pasar de reportar a publicar no requiere de esfuerzos adicionales**. La plantilla Darwin Core y la extensión de permisos dispuestas para el reporte ahora son multipropósito, y son las mismas para hacer una publicación o un reporte.
+
+Si luego de reportar datos se está interesado en los beneficios de la publicación, **las herramientas informáticas dispuestas para el reporte facilitan el tránsito y el Equipo Coordinador del SiB Colombia activará el proceso de acompañamiento** para que esto suceda en pocos pasos.
+
+**¿Es necesario REPORTAR antes de PUBLICAR? La respuesta corta es: no**. Puede resultar más costoso para una organización, en términos de dedicación, primero reportar y luego pasar a publicar. Se puede PUBLICAR desde un inicio y notificar al Equipo Coordinador que se tiene la necesidad de obtener el certificado, con fines de dar cumplimiento a la norma. De esta manera, se optimizan los procesos. 
+
+La recomendación, desde el SiB Colombia, es que **tanto las organizaciones como las personas titulares de permisos de recolección se decanten por publicar** los datos resultado de estos permisos y accedan a los beneficios del modelo, como la visibilidad en redes de alcance internacional y el reconocimiento del publicador. De esta manera, todos aportamos al conocimiento de la biodiversidad del país.
+
+
+## Una invitación a publicar
+
+**¿Por qué es importante publicar datos abiertos sobre biodiversidad?** La mayoría se encuentran dispersos y son poco accesibles, por eso desde el SiB Colombia **queremos que todos los titulares que reportan datos le den un valor agregado a sus hallazgos** y se animen a publicarlos, de este modo se facilita su análisis, uso y reuso, siendo un capital vital para la generación de conocimiento.
+
+
+---
+
+
+## Enlaces de utilidad
+
+* Conoce más sobre el [estándar Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc/){:target="_blank"}.
+* Aprende más sobre las diferencias entre publicar y reportar en este [webinar sobre permisos de recolección](https://youtu.be/XzMTOOns3yo){:target="_blank"}.
+* Nuevo modelo para [reportar datos derivados de permisos de recolección](https://biodiversidad.co/compartir/guia-para-reportar/){:target="_blank"}.
+* Consulta la [guía de publicación de datos](https://biodiversidad.co/compartir/guia-para-publicar/){:target="_blank"}.
+
+
 
 
 <div class="tablaMorada">
@@ -193,31 +220,3 @@ Ya que está clara la diferencia entre los dos modelos: el de publicación —ba
   </tbody>
  </table>
 </div>
-
-
-
-## ¿Cómo pasar de reportar a publicar?
-
-**Hoy, pasar de reportar a publicar no requiere de esfuerzos adicionales**. La plantilla Darwin Core y la extensión de permisos dispuestas para el reporte ahora son multipropósito, y son las mismas para hacer una publicación o un reporte.
-
-Si luego de reportar datos se está interesado en los beneficios de la publicación, **las herramientas informáticas dispuestas para el reporte facilitan el tránsito y el Equipo Coordinador del SiB Colombia activará el proceso de acompañamiento** para que esto suceda en pocos pasos.
-
-**¿Es necesario REPORTAR antes de PUBLICAR? La respuesta corta es: no**. Puede resultar más costoso para una organización, en términos de dedicación, primero reportar y luego pasar a publicar. Se puede PUBLICAR desde un inicio y notificar al Equipo Coordinador que se tiene la necesidad de obtener el certificado, con fines de dar cumplimiento a la norma. De esta manera, se optimizan los procesos. 
-
-La recomendación, desde el SiB Colombia, es que **tanto las organizaciones como las personas titulares de permisos de recolección se decanten por publicar** los datos resultado de estos permisos y accedan a los beneficios del modelo, como la visibilidad en redes de alcance internacional y el reconocimiento del publicador. De esta manera, todos aportamos al conocimiento de la biodiversidad del país.
-
-
-## Una invitación a publicar
-
-**¿Por qué es importante publicar datos abiertos sobre biodiversidad?** La mayoría se encuentran dispersos y son poco accesibles, por eso desde el SiB Colombia **queremos que todos los titulares que reportan datos le den un valor agregado a sus hallazgos** y se animen a publicarlos, de este modo se facilita su análisis, uso y reuso, siendo un capital vital para la generación de conocimiento.
-
-
----
-
-
-## Enlaces de utilidad
-
-* Conoce más sobre el [estándar Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc/){:target="_blank"}.
-* Aprende más sobre las diferencias entre publicar y reportar en este [webinar sobre permisos de recolección](https://youtu.be/XzMTOOns3yo){:target="_blank"}.
-* Nuevo modelo para [reportar datos derivados de permisos de recolección](https://biodiversidad.co/compartir/guia-para-reportar/){:target="_blank"}.
-* Consulta la [guía de publicación de datos](https://biodiversidad.co/compartir/guia-para-publicar/){:target="_blank"}.
