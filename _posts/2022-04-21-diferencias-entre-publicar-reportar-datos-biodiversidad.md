@@ -163,8 +163,7 @@ Ya que está clara la diferencia entre los dos modelos: el de publicación —ba
 </div>
 
 
-{::comment}
-
+<!--- This is an HTML comment in Markdown
 |                     Características                       | Publicación | Reporte |
 |:----------------------------------------------------------|:-----------:|:-------:|
 | _[Tipos de datos](https://biodiversidad.co/compartir/tipos-de-datos/)_{:target="_blank"} | | |
@@ -190,9 +189,9 @@ Ya que está clara la diferencia entre los dos modelos: el de publicación —ba
 |    Portal de datos SiB Colombia                           |      ✓      |         |
 |    Portal de datos GBIF                                   |      ✓      |         |
 |    Portal de datos OBIS (solo para datos marino costeros) |      ✓      |         |
+This is an HTML comment in Markdown -->
 
 
-{:comment}
 
 ## ¿Cómo pasar de reportar a publicar?
 
