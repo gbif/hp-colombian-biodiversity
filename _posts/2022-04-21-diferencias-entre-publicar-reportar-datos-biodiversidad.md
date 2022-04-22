@@ -33,8 +33,137 @@ En resumen, **REPORTAR** es un proceso transaccional para dar cumplimento a la r
 ## ¿Publicar o reportar? He ahí la cuestión
 
 Ya que está clara la diferencia entre los dos modelos: el de publicación —basado en los principios de libre acceso y permite que los datos estén disponibles para su libre consulta y uso— y el de reporte —que da cumplimiento a la norma—, se puede apreciar con claridad la ventaja en términos de beneficios del primero. Acá una tabla comparativa.
+<div class="tablaMorada">
+ <table>
+  <thead>
+   <tr>
+    <th>Características</th>
+    <th>Publicación</th>
+    <th>Reporte</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+    <td><em><a href="https://biodiversidad.co/compartir/tipos-de-datos/" target="_blank">Tipos de datos</a></em></td>
+    <td> </td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Registros biológicos</td>
+    <td align="center">✓</td>
+    <td align="center">✓</td>
+   </tr>
+   <tr>
+    <td>   Eventos de muestreo</td>
+    <td align="center">✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Listas de chequeo</td>
+    <td align="center">✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td><em><a href="https://biodiversidad.co/terminos-y-condiciones/politica-de-publicacion#licencias" target="_blank">Licencias de atribución y uso</a></em></td>
+    <td> </td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   CC0</td>
+    <td align="center">✓</td>
+    <td align="center">✓</td>
+   </tr>
+   <tr>
+    <td>   CC BY</td>
+    <td align="center">✓</td>
+    <td align="center">✓</td>
+   </tr>
+   <tr>
+    <td>   CC BY-NC</td>
+    <td align="center">✓</td>
+    <td align="center">✓</td>
+   </tr>
+   <tr>
+    <td><em>Apoyo técnico</em></td>
+    <td> </td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Múltiples cuentas de usuario</td>
+    <td align="center">✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Curaduría de datos y metadatos</td>
+    <td align="center">✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Actualizaciones de datos o metadatos en el tiempo</td>
+    <td align="center">✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td><em>Valor agregado e impacto</em></td>
+    <td> </td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Certificado de reporte para autoridades ambientales</td>
+    <td align="center">✓</td>
+    <td align="center">✓</td>
+   </tr>
+   <tr>
+    <td>   Asignación de DOI por conjunto de datos</td>
+    <td align="center">✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Reconocimiento por el SNCTeI como producto científico</td>
+    <td align="center">✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Posibilidad de publicar un artículo de datos</td>
+    <td align="center">✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Métricas de impacto y uso de los datos</td>
+    <td align="center">✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td><em>Visibilidad de los datos e instancias de consulta</em></td>
+    <td> </td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Repositorio IPT</td>
+    <td align="center">✓</td>
+    <td align="center">✓</td>
+   </tr>
+   <tr>
+    <td>   Portal de datos SiB Colombia</td>
+    <td align="center">✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Portal de datos GBIF</td>
+    <td align="center">✓</td>
+    <td> </td>
+   </tr>
+   <tr>
+    <td>   Portal de datos OBIS (solo para datos marino costeros)</td>
+    <td align="center">✓</td>
+    <td> </td>
+   </tr>
+  </tbody>
+ </table>
+</div>
 
 
+{::comment}
 
 |                     Características                       | Publicación | Reporte |
 |:----------------------------------------------------------|:-----------:|:-------:|
@@ -62,6 +191,8 @@ Ya que está clara la diferencia entre los dos modelos: el de publicación —ba
 |    Portal de datos GBIF                                   |      ✓      |         |
 |    Portal de datos OBIS (solo para datos marino costeros) |      ✓      |         |
 
+
+{:comment}
 
 ## ¿Cómo pasar de reportar a publicar?
 
@@ -92,127 +223,4 @@ _____
 _____
 
 
-<div class="tablaMorada">
- <table>
-   <tr>
-    <th>Características</td>
-    <th>Publicación</td>
-    <th>Reporte</td>
-   </tr>
-   <tr>
-    <td><em><a href="https://biodiversidad.co/compartir/tipos-de-datos/" target="_blank">Tipos de datos</a></em></td>
-    <td> </td>
-    <td> </td>
-   </tr>
-   <tr>
-    <td>   Registros biológicos</td>
-    <td>✓</td>
-    <td>✓</td>
-   </tr>
-   <tr>
-    <td>   Eventos de muestreo</td>
-    <td>✓</td>
-    <td> </td>
-   </tr>
-   <tr>
-    <td>   Listas de chequeo</td>
-    <td>✓</td>
-    <td> </td>
-   </tr>
-   <tr>
-    <td><em><a href="https://biodiversidad.co/terminos-y-condiciones/politica-de-publicacion#licencias">Licencias de atribución y uso</a></em></td>
-    <td> </td>
-    <td> </td>
-   </tr>
-   <tr>
-    <td>   CC0</td>
-    <td>✓</td>
-    <td>✓</td>
-   </tr>
-   <tr>
-    <td>   CC BY</td>
-    <td>✓</td>
-    <td>✓</td>
-   </tr>
-   <tr>
-    <td>   CC BY-NC</td>
-    <td>✓</td>
-    <td>✓</td>
-   </tr>
-   <tr>
-    <td><em>Apoyo técnico</em></td>
-    <td> </td>
-    <td> </td>
-   </tr>
-   <tr>
-    <td>   Múltiples cuentas de usuario</td>
-    <td>✓</td>
-    <td> </td>
-   </tr>
-   <tr>
-    <td>   Curaduría de datos y metadatos</td>
-    <td>✓</td>
-    <td> </td>
-   </tr>
-   <tr>
-    <td>   Actualizaciones de datos o metadatos en el tiempo</td>
-    <td>✓</td>
-    <td> </td>
-   </tr>
-   <tr>
-    <td><em>Valor agregado e impacto</em></td>
-    <td> </td>
-    <td> </td>
-   </tr>
-   <tr>
-    <td>   Certificado de reporte para autoridades ambientales</td>
-    <td>✓</td>
-    <td>✓</td>
-   </tr>
-   <tr>
-    <td>   Asignación de DOI por conjunto de datos</td>
-    <td>✓</td>
-    <td> </td>
-   </tr>
-   <tr>
-    <td>   Reconocimiento por el SNCTeI como producto científico</td>
-    <td>✓</td>
-    <td> </td>
-   </tr>
-   <tr>
-    <td>   Posibilidad de publicar un artículo de datos</td>
-    <td>✓</td>
-    <td> </td>
-   </tr>
-   <tr>
-    <td>   Métricas de impacto y uso de los datos</td>
-    <td>✓</td>
-    <td> </td>
-   </tr>
-   <tr>
-    <td><em>Visibilidad de los datos e instancias de consulta</em></td>
-    <td> </td>
-    <td> </td>
-   </tr>
-   <tr>
-    <td>   Repositorio IPT</td>
-    <td>✓</td>
-    <td>✓</td>
-   </tr>
-   <tr>
-    <td>   Portal de datos SiB Colombia</td>
-    <td>✓</td>
-    <td> </td>
-   </tr>
-   <tr>
-    <td>   Portal de datos GBIF</td>
-    <td>✓</td>
-    <td> </td>
-   </tr>
-   <tr>
-    <td>   Portal de datos OBIS (solo para datos marino costeros)</td>
-    <td>✓ </td>
-    <td> </td>
-   </tr>
- </table>
-</div>
+
