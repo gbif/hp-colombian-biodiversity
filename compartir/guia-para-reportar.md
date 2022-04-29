@@ -18,17 +18,12 @@ Una explicación sobre ambos modelos y su alcance está disponible en este artí
 
 ![](/compartir/Imagenes/guia-para-reportar-datos.png)
 
-<p align="center"><iframe width="700" height="400" src="https://www.youtube.com/embed/tGzANPQWi7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="100%" height="400" src="https://www.youtube.com/embed/tGzANPQWi7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <br/>
 
 **Enlaces a las herramientas para reportar los datos y generar el certificado de reporte**:
 
-
-<center>
-
- [Herramienta IPT](http://ipt.biodiversidad.co/permisos){:target="_blank" .button .is-primary}      [Herramienta CR-SiB](http://biodiversidad.co//certificados/publicacion-permisos/){:target="_blank" .button .is-primary}
-
-</center>
+   [Herramienta IPT](http://ipt.biodiversidad.co/permisos){:target="_blank" .button .is-primary}      [Herramienta CR-SiB](http://biodiversidad.co//certificados/publicacion-permisos/){:target="_blank" .button .is-primary}
 
 
 ## 1. Crear el nuevo recurso
