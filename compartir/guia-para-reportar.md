@@ -9,16 +9,24 @@ height: 41vh
 toc: true
 ---
 
+**Antes de empezar: reportar y publicar tienen alcances distintos.**
+
+La publicación de datos abiertos sobre biodiversidad es un ejercicio voluntario; por otro lado, el reporte es un proceso para dar cumplimento a la regulación ambiental.
+
+Una explicación sobre ambos modelos y su alcance está disponible en este artículo: [Reportar y publicar datos sobre biodiversidad tienen alcances diferentes: ¿los conoces?](https://biodiversidad.co/post/2022/diferencias-entre-publicar-reportar-datos-biodiversidad/){:target="_blank"}
+
+
 ## Guía para reportar
+
+<p align="center"><iframe width="700" height="400" src="https://www.youtube.com/embed/tGzANPQWi7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <br/>
-<img src="/compartir/Imagenes/guia-para-reportar-datos.png">
-<br/>
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/tGzANPQWi7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-<br/>
+
+![](/compartir/Imagenes/guia-para-reportar-datos.png)
 
 **Enlaces a las herramientas para reportar los datos y generar el certificado de reporte.**
 
-[Herramienta IPT](http://ipt.biodiversidad.co/permisos){:target="_blank" .button .is-primary}   [Herramienta CR-SiB](http://biodiversidad.co//certificados/publicacion-permisos/){:target="_blank" .button .is-primary}
+|:---:|:---:|
+|  [Herramienta IPT](http://ipt.biodiversidad.co/permisos){:target="_blank" .button .is-primary}  |  [Herramienta CR-SiB](http://biodiversidad.co//certificados/publicacion-permisos/){:target="_blank" .button .is-primary}  |
 
 
 ## 1. Crear el nuevo recurso
