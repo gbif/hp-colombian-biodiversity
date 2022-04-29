@@ -1,6 +1,6 @@
 ---
 preTitle: 21 de abril, 2022
-title: "Reportar y publicar datos sobre biodiversidad tiene alcances diferentes: ¿los conoces?"
+title: "Reportar y publicar datos sobre biodiversidad tienen alcances diferentes: ¿los conoces?"
 description: |
  _Publicar datos abiertos sobre biodiversidad es un ejercicio voluntario; diferente a reportar, proceso para dar cumplimento a la regulación ambiental._
 date: 2022-04-21
