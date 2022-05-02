@@ -2229,8 +2229,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="multimedia_rightsHolder">**rightsHolder** (ID del conjunto de datos)</a>
 
 | ---: | :--- |
-| Definición | Un identificador del conjunto de datos del cual se deriva el registro multimedia. |
-| Ejemplo | J002_BIO-RRBB_SC_2021032<br> https://doi.org/10.15472/v24ppe |
+| Definición | Persona u organización propietaria o administradora de los derechos de la información multimedia. |
+| Ejemplo | Jardín Botánico de Quindío |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -2238,8 +2238,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="multimedia_datasetID">**datasetID** (Titular de los derechos)</a>
 
 | ---: | :--- |
-| Definición | Persona u organización propietaria o administradora de los derechos de la información multimedia. |
-| Ejemplo | Jardín Botánico de Quindío |
+| Definición | Un identificador del conjunto de datos del cual se deriva el registro multimedia. |
+| Ejemplo | J002_BIO-RRBB_SC_2021032<br> https://doi.org/10.15472/v24ppe |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -3272,7 +3272,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | La descripción de por qué no se requirió cierto permiso o por qué se desconoce el estado del permiso. |
 | Ejemplo | Ningún requisito nacional para un permiso en la fecha de acceso<br> Recolectado en tierras privadas<br> Pre-Nagoya |
-| _(Obligatoriedad)_ | _(Obligatorio)_ |
+| _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
 
@@ -3290,7 +3290,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | El texto del permiso con la información de recolección, envío y/o más detalles. |
 | Ejemplo | Permiso de recolección otorgado por la Autoridad Nacional de Licencias Ambientales mediante resolución 1271 del 23 de octubre de 2014 para la recolección es especímenes de especies silvestres de la biodiversidad biológica con fines de investigación científica no comerciales. Vigencia de 10 años |
-| _(Obligatoriedad)_ | _(Opcional)_ |
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
 
 <br>
 <br>
