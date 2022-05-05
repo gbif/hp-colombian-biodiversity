@@ -1,7 +1,7 @@
 landinguso:
   title: Proyectos
   description: |      # required
-    Conoce algunos de los proyectos en los que ha participado el SiB Colombia.
+    Consulta los proyectos de orden nacional e internacional en los que ha participado el SiB Colombia.
   #background: https://live.staticflickr.com/8483/8205952042_c840217645_h.jpg
   overlayColor: "#E4EEE0" #"#ffffffbb"
   hasWhiteText: false
@@ -44,7 +44,7 @@ tarjetasUso:
       #preTitle:  Listado # optional
     - title: Nacionales
       description: |      # required
-       Iniciativas nacionales con la participación del SiB Colombia
+       Iniciativas nacionales para la gestión y publicación de datos con participación del SiB Colombia
       # img required
       background: /comunidad/proyectos/images/proyectos-nacionales.png
       cta:
