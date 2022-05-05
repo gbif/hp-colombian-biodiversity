@@ -9,6 +9,7 @@ toc: true
 height: 41vh
 permalink: comunidad/proyectos/repositorio-cesp
 composition:
+  - type: pageMarkdown
   - type: heroImage # the block type
   - data: proyectos.stats2
     type: stats
