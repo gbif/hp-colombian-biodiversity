@@ -9,7 +9,6 @@ height: 41vh
 permalink: comunidad/proyectos/repositorio-nacionales
 composition:
   - type: heroImage # the block type
-  - data: proyectos.stats1
     type: stats
   - type: pageMarkdown
 ---
