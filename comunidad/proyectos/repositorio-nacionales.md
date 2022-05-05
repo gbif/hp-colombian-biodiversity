@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 title: Proyectos nacionales 
-description: El SiB Colombia articula alianzas con diferentes socios publicadores a nivel nacional 
+description: El SiB Colombia articula alianzas con diferentes socios publicadores a nivel nacional para facilitar la publicación, acceso y uso de datos sobre biodiversidad
 background:  /comunidad/proyectos/images/tree-fern.jpg
 imageLicense: |
   Fotografía de: Keith Ewing vía [Flickr](https://flic.kr/p/nZ8oiX) 
@@ -13,7 +13,7 @@ composition:
   - type: pageMarkdown
 ---
 
-
+El Equipo Coordinador del SiB Colombia ha participado en diferentes proyectos de interés nacional, que han derivado o se han gestionado con el fin de aumentar el conocimiento sobre la biodiversidad a través de la publicación de datos e información. A continuación se listan algunos de los proyetos, sus objetivos y los resultados obtenidos. 
 
 
 | Nombre del proyecto | Vigencia | Objetivo |
