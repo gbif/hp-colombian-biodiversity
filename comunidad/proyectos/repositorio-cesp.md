@@ -13,7 +13,6 @@ composition:
   - type: heroImage # the block type
   - data: proyectos.stats2
     type: stats
-  - type: pageMarkdown
 ---
 Las convocatorias anuales de propuestas bajo el programa CESP brindan cofinanciamiento a los participantes de GBIF para proyectos de mejora de capacidades basados en combinaciones de los siguientes estos de acción:
 
