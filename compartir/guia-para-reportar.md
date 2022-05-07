@@ -64,11 +64,13 @@ Una vez creado el recurso, se debe cargar la plantilla DwC, con los datos valida
 
 ### 2.1 Cargar los archivos
 
+Antes de cargar, es indispensable que la primera fila del archivo contenga los **encabezados con el nombre de los elementos DwC en inglés y exportar la hoja de cálculo en formato de texto plano delimitado por tabulaciones** con extensión _.txt_; estos son los archivos que se cargarán.
+
+¿Necesitas ayuda para transformar el formato de los archivos? Consulta nuestra sección de [preguntas frecuentes](https://biodiversidad.co/compartir/faq/#otras){:target="_blank"}.
+
 La carga de los dos archivos: plantilla con los datos y extensión de permisos, debe hacerse por separado.
 
-Para cargar cada archivo, desde la franja _Conjunto de datos_ elegir la opción _Archivo_ del desplegable_,_ seleccionar el archivo a cargar y hacer clic en el botón _Agregar_. Se debe ingresar el valor 1 en el campo _Número de filas del encabezado_, seleccionar la hoja del archivo Excel que corresponda con los registros biológicos y hacer clic en _Guardar_.
-
-Es indispensable que los archivos cargados solo contengan los **encabezados con el nombre de los elementos DwC en inglés**.
+Para cargar cada archivo, desde la franja _Conjunto de datos,_ elegir la opción _Archivo_ del desplegable_,_ seleccionar el archivo a cargar y hacer clic en el botón _Agregar_. Se debe ingresar el valor 1 en el campo _Número de filas del encabezado_. Si el archivo está en formato de Excel (extensión .xlsx), se debe indicar la hoja en la que están documentados los registros biológicos o la extensión y hacer clic en _Guardar_.
 
 
 ### 2.2 Mapear los elementos Darwin Core
@@ -92,10 +94,19 @@ Para documentar los metadatos del reporte, selecciona _Editar_ desde la franja _
 
 ¿Necesitas ayuda para crear el recurso y cargar los datos? Consulta el [laboratorio de documentación de metadatos](https://biodiversidad.co/formacion/laboratorios/IPT_Metadatos){:target="_blank"}.
 
+Nota: Las organizaciones que únicamente reportan datos no se encuentran registradas como publicadoras ante GBIF. Por lo tanto, en su proceso de documentación de metadatos, la plataforma arrojará el siguiente mensaje de alerta que puede omitirse: 
+
+![](/compartir/Imagenes/alerta-IPT.png)
+
+Para aclarar las diferencias entre los modelos de reporte y de publicación, consulta el artículo de nuestro blog _[Reportar y publicar datos sobre biodiversidad tienen alcances diferentes: ¿los conoces?](https://biodiversidad.co/post/2022/diferencias-entre-publicar-reportar-datos-biodiversidad/)_{:target="_blank"}
 
 ## 4. Hacer público el conjunto de datos
 
-Este paso permite que el recurso quede disponible en la instancia de la herramienta IPT, mediante una URL, para la generación del certificado. Para esto, es necesario que el conjunto de datos aparezca como _Público_ en la franja _Visibilidad_.
+Este paso permite que el recurso quede disponible en la instancia de la herramienta IPT, mediante una URL persistente, para la generación del certificado. Para esto, es necesario que el conjunto de datos aparezca como _Público_ en la franja _Visibilidad_.
+
+Este ajuste se hace desde la sección _Vista general del recurso_. Es necesario que primero se cambie el estado del recurso a _público_ y luego clic en _publicar_; siempre en este orden._ _ 
+
+La URL del reporte ya publicado se consulta en la sección _Vista general del recurso en la franja_ _Versiones publicadas / última versión. _Esta URL es indispensable en el siguiente paso.
 
 Con este reporte, es posible aumentar el reconocimiento y atribución de la organización, como publicadora de datos del SiB Colombia. Si estás interesado en que esto suceda, escribe a [sib@humboldt.org.co](mailto:sib@humboldt.org.co){:target="_blank"}.
 
@@ -104,7 +115,7 @@ Con este reporte, es posible aumentar el reconocimiento y atribución de la orga
 
 Ingresa a la herramienta CR-SiB con las mismas credenciales de acceso asignadas al IPT. Está disponible en el enlace [http://biodiversidad.co/certificados/publicacion-permisos/](http://biodiversidad.co/certificados/publicacion-permisos/){:target="_blank"}.
 
-Completa la información solicitada en los formularios. Para esto es indispensable contar con el enlace del conjunto de datos que entrega el IPT o el DOI y toda la información del titular del permiso.
+Completa la información solicitada en los formularios. Para esto es indispensable contar con la URL o DOI del recurso publicado y toda la información del titular del permiso.
 
 Este certificado es el soporte exigido por parte de la autoridad ambiental como evidencia del reporte de los datos a través del SiB Colombia.
 
@@ -134,3 +145,5 @@ _____
 * [Guía de conversión de coordenadas](https://biodiversidad.co/formacion/laboratorios/ConversionCoordenadas){:target="_blank"}
 * [Guía de conversión de fechas](https://biodiversidad.co/formacion/laboratorios/ConversionFechas){:target="_blank"}
 
+---
+Última actualización: 2022-05-06
