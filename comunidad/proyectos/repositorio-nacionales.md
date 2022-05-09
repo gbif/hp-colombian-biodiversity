@@ -2,7 +2,7 @@
 layout: heroImage
 title: Proyectos nacionales 
 description: El SiB Colombia articula alianzas con diferentes socios publicadores a nivel nacional para facilitar la publicación, acceso y uso de datos sobre biodiversidad
-background:  /comunidad/proyectos/images/tree-fern.jpg
+background:  https://live.staticflickr.com/3867/14429973233_828fab0808_b.jpg
 imageLicense: |
   Fotografía de: Keith Ewing vía [Flickr](https://flic.kr/p/nZ8oiX) 
 height: 41vh
