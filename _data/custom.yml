@@ -6,8 +6,8 @@ gacetero:
 reporte_actual:
   klass: iframe-box
   markdownContent: |
-   <iframe width="600" height="5075" src="https://datastudio.google.com/embed/reporting/b01f1e09-2065-432e-a19d-e2cd097717c8/page/Ge2V" frameborder="0" style="border:0" allowfullscreen></iframe>
-    
+   <iframe width="600" height="5075" src="https://datastudio.google.com/embed/reporting/f90aeb67-a66c-4893-b6c8-3fb7180bb7ad/page/Ge2V" frameborder="0" style="border:0" allowfullscreen></iframe>
+   
 markdown_reporte:
   markdownContent: |
     Consulta los restultados de la actividad de publicación del último mes y conoce las organizaciones activas, número de recursos actualizados, crecimiento de los diferentes tipos de datos compartidos a través del SiB Colombia y la citación de los mismos en publicaciones indexadas.  Conoce los reportes de publicación históricos [aquí](/comunidad/actividad-de-publicacion#2021)
