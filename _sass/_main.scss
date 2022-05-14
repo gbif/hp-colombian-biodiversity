@@ -98,7 +98,6 @@ article.feature {
 
 // LOS CAMBIOS PARA APLICACIÖN DE IDENTIDAD VISUAL
 
-/*
 
 .postHeader .feature-img {
 	border: none;
@@ -119,7 +118,6 @@ article.feature {
 	box-shadow: 0px 0px 10px rgba(0,0,0,0.10);
 }
 
-*/
 
 // TODAS LAS TABLAS EN EL CONTENIDO
 
@@ -211,17 +209,25 @@ article.feature {
     border-bottom: 2px solid #F5B858;
 }
 
+//Le da el estilo redondeado a los botones
 
-
-//Le da el estilo redondeado a los botones y la letra siempre mayúscula
 .button{
-	text-transform: uppercase;
+	text-transform: initial;
+	font-size: smaller;
+	font-weight: 600;
 	border-radius: 100px;
-	padding-bottom: 1.5em;
-	padding-top: 1.5em;
-	padding-left: 1.5em;
-	padding-right: 1.5em;
+	padding-bottom: 1em;
+	padding-top: 1em;
+	padding-left: 2em;
+	padding-right: 2em;
 	margin-bottom: 20px;
+	box-shadow: 2px 2px 7px #00000015;
+}
+
+.button.is-primary{
+	border: none;
+	background: rgb(232,60,71);
+	background: linear-gradient(175deg, rgba(232,60,71,1) 0%, rgba(237,109,45,1) 50%, rgba(245,184,87,1) 75%, rgba(245,222,123,1) 100%);
 }
 
 //Tamaño de íconos de cifras
