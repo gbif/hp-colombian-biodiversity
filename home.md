@@ -3,9 +3,9 @@ lang-ref: home
 layout: home
 title: "<em>Biodiversidad</em><br><strong>para todos</strong>"
 description: crear · compartir · transformar
-background: assets/images/landing_page/SiB_bannerhome_20210916.jpg
+background: assets/images/landing_page/SiB_bannerhome_20220513-Cyanerpes-cyaneus-Guillermo-Nagy-Aramacao-Tours-iNaturalist.jpg
 imageLicense: |
-  Fotografía de: Santiago Estrada, vía [reef-shepherd.com](https://www.reef-shepherd.com/galeria/)
+  Foto: Guillermo Nagy Aramacao Tours, [iNaturalist](https://colombia.inaturalist.org/observations/82340131){:target="_blank"}
 height: 41vh
 navbar:
   floating: false
