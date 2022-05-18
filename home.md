@@ -3,9 +3,9 @@ lang-ref: home
 layout: home
 title: "<em>Biodiversidad</em><br><strong>para todos</strong>"
 description: crear · compartir · transformar
-background: assets/images/landing_page/SiB_bannerhome_20220513-Cyanerpes-cyaneus-Guillermo-Nagy-Aramacao-Tours-iNaturalist.jpg
+background: assets/images/landing_page/SiB_bannerhome_20220517-Tangara-xanthocephala-desertnaturalist-iNaturalist.jpg.jpg
 imageLicense: |
-  Foto: Guillermo Nagy Aramacao Tours, [iNaturalist](https://colombia.inaturalist.org/observations/82340131){:target="_blank"}
+  Foto: desertnaturalist, [iNaturalist](https://colombia.inaturalist.org/observations/104947761){:target="_blank"}.
 height: 41vh
 navbar:
   floating: false
