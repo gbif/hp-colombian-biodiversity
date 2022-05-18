@@ -3,10 +3,10 @@ lang-ref: home
 layout: home
 title: "<em>Biodiversidad</em><br><strong>para todos</strong>"
 description: crear · compartir · transformar
-background: assets/images/landing_page/SiB_bannerhome_20220517-Tangara-xanthocephala-desertnaturalist-iNaturalist.jpg.jpg
+background: assets/images/landing_page/SiB_bannerhome_20220517-Tangara-xanthocephala-desertnaturalist-iNaturalist.jpg
 imageLicense: |
   Foto: desertnaturalist, [iNaturalist](https://colombia.inaturalist.org/observations/104947761){:target="_blank"}.
-height: 41vh
+height: 50vh
 navbar:
   floating: false
   color: "#ffffff"
