@@ -2,7 +2,7 @@
 preTitle: 22 de mayo, 2022
 title: "Biodiversidad de Colombia en cifras 2022"
 description: |
- Biodiversidad en cifras es un consolidado de las especies registradas en el país, hecho a partir de los datos compartidos a través del SiB Colombia.
+ _Biodiversidad en cifras es un consolidado de las especies registradas en el país, hecho a partir de los datos compartidos a través del SiB Colombia._
 date: 2022-05-22
 categories: ["Cifras", "Datos abiertos", "2022"]
 background: /assets/images/noticias_eventos/2022/2022-05-22-biodiversidad-en-cifras-colombia.jpg
@@ -24,13 +24,11 @@ De la misma manera, conocer esta información sirve para agradecer a quienes rec
 
 **Antes de continuar**
 
-    El término “especies registradas” hace referencia a la cantidad de especies únicas con un nombre taxonómico válido, que tienen por lo menos un dato, observación o espécimen preservado, publicado a través del SiB Colombia.
+* El término “especies registradas” hace referencia a la cantidad de especies únicas con un nombre taxonómico válido, que tienen por lo menos un dato, observación o espécimen preservado, publicado a través del SiB Colombia.
 
+* Las cifras presentadas en esta síntesis anual son dinámicas, lo que quiere decir que son susceptibles de cambiar debido a la publicación de nuevos datos abiertos o cambios que mejoran la calidad y aumentan la precisión de estos, a nivel taxonómico y geográfico. El 100% de los datos publicados no siempre son usados para la síntesis de cifras, es por esto que hay cambios periódicos en [Biodiversidad en Cifras](https://cifras.biodiversidad.co/){:target="_blank"}.
 
-    Las cifras presentadas en esta síntesis anual son dinámicas, lo que quiere decir que son susceptibles de cambiar debido a la publicación de nuevos datos abiertos o cambios que mejoran la calidad y aumentan la precisión de estos, a nivel taxonómico y geográfico. El 100% de los datos publicados no siempre son usados para la síntesis de cifras, es por esto que hay cambios periódicos en [Biodiversidad en Cifras](https://cifras.biodiversidad.co/){:target="_blank"}.
-
-
-    Adicionalmente, las listas de referencia taxonómicas (ACO, 2020; DoNascimiento et. al, 2019; SCmas, 2021)[^2] y la lista temática de especies exóticas del país (Baptiste et. al, 2020)[^3], son usadas para la validación y ajuste de esta cifras, evitando así las sobreestimaciones.
+* Adicionalmente, las listas de referencia taxonómicas (ACO, 2020; DoNascimiento et. al, 2019; SCmas, 2021)[^2] y la lista temática de especies exóticas del país (Baptiste et. al, 2020)[^3], son usadas para la validación y ajuste de esta cifras, evitando así las sobreestimaciones.
 
 
 ## ¿Qué cambió con respecto al año pasado?
@@ -45,13 +43,13 @@ Hay **67.000 especies registradas en Colombia**.
 
 ## También encontramos que…
 
-Las especies con mayor cantidad de datos en el SiB Colombia son:
+Las **especies con mayor cantidad de datos** en el SiB Colombia son:
 
 * El sirirí, _Tyrannus melancholicus_, con 193.454 registros biológicos.
 * El gallinazo o chulo, _Coragyps atratus_, con 184.096 registros biológicos.
 * La tángara azuleja, _Thraupis episcopus_, con 174.345 registros biológicos.
 
-Los departamentos donde se han registrado el mayor número de especies son:
+Los **departamentos donde se han registrado el mayor número de especies** son:
 
 * Antioquia, con 20.309 especies.
 * Meta, con 18.254 especies.
@@ -95,11 +93,14 @@ Antes de concluir, un recordatorio sobre estas cifras: son calculadas a partir d
 
 Para conocer toda la síntesis de cifras y mantenerte al día con los datos sobre Biodiversidad en Colombia, puedes visitar y guardar en tu barra de favoritos este enlace: [https://cifras.biodiversidad.co](https://cifras.biodiversidad.co){:target="_blank"}.
 
-**[¿Quieres publicar datos sobre biodiversidad?](https://biodiversidad.co/compartir/registro/)**{:target="_blank"}** **Esta es una oportunidad para aportar al conocimiento libre y que juntos construyamos un futuro sostenible.
+---
 
+**[¿Quieres publicar datos sobre biodiversidad?](https://biodiversidad.co/compartir/registro/){:target="_blank"}** Esta es una oportunidad para aportar al conocimiento libre y que juntos construyamos un futuro sostenible.
+
+---
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+## Notas
 
 [^1]:
      Arbeláez-Cortés, E. (2013). Knowledge of Colombian biodiversity: published and indexed. Biodiversity and Conservation, 22(12), 2875–2906. [https://doi.org/10.1007/s10531-013-0560-y](https://doi.org/10.1007/s10531-013-0560-y){:target="_blank"}
