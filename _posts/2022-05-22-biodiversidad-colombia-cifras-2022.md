@@ -2,7 +2,7 @@
 preTitle: 22 de mayo, 2022
 title: "Biodiversidad de Colombia en cifras 2022"
 description: |
- _Biodiversidad en cifras es un consolidado de las especies registradas en el país, hecho a partir de los datos compartidos a través del SiB Colombia._
+ _Biodiversidad en cifras es el consolidado de las especies registradas en el país, elaborado a partir de los datos abiertos compartidos a través del SiB Colombia._
 date: 2022-05-22
 categories: ["Cifras", "Datos abiertos", "2022"]
 background: /assets/images/noticias_eventos/2022/2022-05-22-biodiversidad-en-cifras-colombia.jpg
