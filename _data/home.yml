@@ -45,6 +45,17 @@ estadisticas:
 noticias:
   features:
 
+    - preTitle: Cifras
+      title: Biodiversidad en cifras 2022
+      description: |      # required
+        Ya disponibles las cifras oficiales de la Biodiversidad de Colombia para 2022.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-05-22-biodiversidad-en-cifras-colombia.jpg
+      cta:
+      - text: Ver más
+        href: post/2022/biodiversidad-colombia-cifras-2022/
+        isPrimary: false
+
     - preTitle: Datos abiertos
       title: ¿Conoces la diferencia entre publicar y reportar datos?
       description: |      # required
@@ -88,17 +99,6 @@ noticias:
       - text: Ver más
         href: post/2022/convocatoria-pasantia-practica-2022-2
         isPrimary: false
- 
-    - preTitle: Convocatorias
-      title: GBIF abre convocatoria al Reto Ebbe Nielsen 2022
-      description: |      # required
-        La fecha límite para presentar propuestas es el 14 de agosto de 2022.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-03-11-reto-Ebbe-Nielsen.png
-      cta:
-      - text: Ver más
-        href: post/2022/convocatoria-reto-ebbe-nielsen-2022
-        isPrimary: false
         
     - preTitle: Videos
       title: Tutorial para limpiar y validar datos
@@ -137,7 +137,18 @@ noticias:
 
 noticiasViejas:
   features:
-        
+ 
+    - preTitle: Convocatorias
+      title: GBIF abre convocatoria al Reto Ebbe Nielsen 2022
+      description: |      # required
+        La fecha límite para presentar propuestas es el 14 de agosto de 2022.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-03-11-reto-Ebbe-Nielsen.png
+      cta:
+      - text: Ver más
+        href: post/2022/convocatoria-reto-ebbe-nielsen-2022
+        isPrimary: false
+
     - preTitle: Publicación de datos
       title: Datos nuevos o antiguos, ¡todos cuentan!
       description: |      # required
