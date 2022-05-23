@@ -28,7 +28,7 @@ De la misma manera, conocer esta información sirve para agradecer a quienes rec
 
 * Las cifras presentadas en esta síntesis anual son dinámicas, lo que quiere decir que son susceptibles de cambiar debido a la publicación de nuevos datos abiertos o cambios que mejoran la calidad y aumentan la precisión de estos, a nivel taxonómico y geográfico. El 100% de los datos publicados no siempre son usados para la síntesis de cifras, es por esto que hay cambios periódicos en [Biodiversidad en Cifras](https://cifras.biodiversidad.co/){:target="_blank"}.
 
-* Adicionalmente, las listas de referencia taxonómicas (ACO, 2020; ACCICTIOS, 2021[^2]; SCmas, 2021; UNAL, 2020[^3]) y la lista temática de especies exóticas del país (Baptiste et. al, 2020)[^4], son usadas para la validación y ajuste de esta cifras, evitando así las sobreestimaciones.
+* Adicionalmente, las listas de referencia taxonómicas (ACO, 2020; ACCICTIOS, 2021[^2]; SCmas, 2021; UNAL, 2020[^3]) y la lista temática de especies exóticas del país (Baptiste et. al, 2020[^4]), son usadas para la validación y ajuste de esta cifras, evitando así las sobreestimaciones.
 
 
 ## ¿Qué cambió con respecto al año pasado?
@@ -65,7 +65,7 @@ Las **especies registradas en algún estado de amenaza que cuentan con mayor can
 * El cedro americano, _Cedrela odorata_, 7.251 registros biológicos y en estado en peligro (EN).
 * El ave cacique candela, _Hypopyrrhus pyrohypogaster_, con 7.046 registros biológicos y en estado vulnerable (VU).
 
-De las **506 especies exóticas de fauna y flora identificadas** en el país (Baptiste et, al, 2020)<sup>3</sup>, existen datos disponibles para 74 % (378 especies) y, de estas, **22 son especies invasoras.**
+De las **506 especies exóticas de fauna y flora identificadas** en el país (Baptiste et, al, 2020[^4]), existen datos disponibles para 74 % (378 especies) y, de estas, **22 son especies invasoras.**
 
 Las **especies exóticas con mayor cantidad de datos disponibles** en el SiB Colombia son: 
 
