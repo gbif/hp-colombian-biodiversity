@@ -45,6 +45,17 @@ estadisticas:
 noticias:
   features:
 
+    - preTitle: Campañas
+      title: Cómo cuidar la biodiversidad
+      description: |      # required
+        Compartimos las 22 acciones por el día internacional de la biodiversidad de la ONU.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-05-23-22-acciones.jpg
+      cta:
+      - text: Ver más
+        href: post/2022/como-cuidar-biodiversidad-colombia/
+        isPrimary: false
+        
     - preTitle: Cifras
       title: Biodiversidad en cifras 2022
       description: |      # required
