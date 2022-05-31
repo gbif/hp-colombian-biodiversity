@@ -1835,7 +1835,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El código nomenclatural (o códigos en el caso de un nombre ambireinal) en virtud del cual se construye el scientificName. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
-| Ejemplo | ICBN<br> ICZN<br> BC<br> ICNCP<br> BioCode<br> PhyloCode |
+| Ejemplo | ICN<br> ICZN<br> BC<br> ICNCP<br> BioCode<br> PhyloCode |
 | Elementos relacionados | scientificName |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
 
