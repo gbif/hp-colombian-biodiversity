@@ -634,6 +634,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | La fecha o el intervalo durante la cual se produjo el evento de observación o colecta de un organismo o muestra. No es adecuado para una fecha en un contexto geológico. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
 | Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
+| Elementos relacionados | year, month,day |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Obligatorio)_ |
 
 <br>
@@ -660,7 +661,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Los cuatro dígitos del año durante el cual se produjo el evento de observación o colecta de un organismo o muestra. |
+| Comentarios | Si el rango de fechas presente en EventDate abarca varios años, no debe documentar este elemento:<br> eventDate:2021-02-01/2022-05-23<br> year:<br> month:<br> day: |
 | Ejemplo | 2008<br> 1901 |
+| Elementos relacionados | eventDate |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
@@ -669,7 +672,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El mes en números enteros en que ocurrió durante el cual se produjo el evento de observación o colecta de un organismo o muestra. |
+| Comentarios | Si el rango de fechas presente en EventDate abarca más de un mes, no debe documentar este elemento:<br> eventDate:2022-02-10/05-23<br> year:2022<br> month:<br> day: |
 | Ejemplo | 01<br> 11 |
+| Elementos relacionados | eventDate |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
@@ -678,7 +683,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El día en números enteros durante el cual se produjo el evento de observación o colecta de un organismo o muestra. |
+| Comentarios | Si el rango de fechas presente en EventDate se encuentra dentro del mismo mes, no debe documentar este elemento:<br> eventDate:2022-02-12/15<br> year:2022<br> month:02<br> day: |
 | Ejemplo | 09<br> 28 |
+| Elementos relacionados | eventDate |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
@@ -3253,7 +3260,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El tipo del permiso (documento que le permite a alguien tomar una acción que de otra manera no estaría permitida). Se recomienda el uso de un vocabulario controlado. |
-| Ejemplo | Permiso de acceso a recursos genéticos<br> Permiso para la recolección de especímenes de especies silvestres<br> Permiso de colecta<br> Permiso de importación<br> Permiso de exportación<br> Acto legal <br> Amnistía <br> Derechos de propiedad intelectual<br> Derechos de autor<br> Patente<br> Fitosanitario<br> Acuerdo de transferencia de material<br> Contrato<br> Memorando de entendimiento<br> Organismo modificado genéticamente |
+| Ejemplo | Permiso para la recolección de especímenes de especies silvestres<br> Permiso de importación<br> Permiso de exportación<br> Acto legal<br> Amnistía<br> Contrato de acceso a recursos genéticos<br> Contrato<br> Derechos de propiedad intelectual<br> Derechos de autor<br> Patente<br>Fitosanitario<br> Acuerdo de transferencia de material<br> Memorando de entendimiento<br> Organismo modificado genéticamente|
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 
 <br>
@@ -3262,7 +3269,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | La información sobre la presencia, ausencia u otro estado básico de los permisos asociados a la(s) muestra(s). Se recomienda el uso de un vocabulario controlado. |
-| Ejemplo | Permiso disponible<br> Permiso no requerido<br> Permiso no disponible<br> Desconocido |
+| Ejemplo | Permiso cerrado<br> Permiso vigente<br> Permiso no requerido<br> Desconocido |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 
 <br>
@@ -3271,7 +3278,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | La descripción de por qué no se requirió cierto permiso o por qué se desconoce el estado del permiso. |
-| Ejemplo | Ningún requisito nacional para un permiso en la fecha de acceso<br> Recolectado en tierras privadas<br> Pre-Nagoya |
+| Ejemplo | Las entidades adscritas al Ministerio de Medio Ambiente y Desarrollo Sostenible no requieren permiso<br> Ningún requisito nacional para un permiso en la fecha de acceso<br> Recolectado en tierras privadas<br> Pre-Nagoya |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -3280,7 +3287,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Un enlace a la referencia del permiso con la información de recolección o envío. |
-| Ejemplo | https://corponor.gov.co/ACTOSJURIDICOS/RESOLUCIONES/2015/ene0200.pdf |
+| Ejemplo | https://corponor.gov.co/ACTOSJURIDICOS/RESOLUCIONES/2015/ene0200.pdf<br> https://www.utadeo.edu.co/files/collections/documents/field_attached_file/resolucion_anla_1715.pdf |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -3289,7 +3296,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El texto del permiso con la información de recolección, envío y/o más detalles. |
-| Ejemplo | Permiso de recolección otorgado por la Autoridad Nacional de Licencias Ambientales mediante resolución 1271 del 23 de octubre de 2014 para la recolección es especímenes de especies silvestres de la biodiversidad biológica con fines de investigación científica no comerciales. Vigencia de 10 años |
+| Ejemplo | IAvH:CE16-062:8956:2016<br> SINCHI:CE17-845:2017<br><br> ANLA:1608:2017:UNAL<br> CORNARE:5D800FGH:2015:SandraArambulo<br><br> ACTO_LEGAL:CORMACARENA:34f-19:2017<br> ACTO_LEGAL:POLICIA_AMBIENTAL:PF-19075C:201<br><br> AMNISTÍA:8962:2019:UNIVALLE<br> AMNISTÍA:59VI-196:2018:UNIMAG |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 
 <br>
