@@ -240,14 +240,14 @@ article.feature {
 
 //Animación del botón
 
-.is-primary {
+.button.is-primary {
 	cursor: pointer;
 	display: inline-block;
 	position: relative;
 	transition: 0.5s;
 }
 
-.is-primary:after {
+.button.is-primary:after {
 	content: '▶';
 	position: absolute;
 	opacity: 0;
@@ -255,11 +255,11 @@ article.feature {
 	right: 5px;
 	transition: 0.5s;
 }
-.is-primary:hover {
+.button.is-primary:hover {
 	padding-right: 3em;
 }
 
-.is-primary:hover:after {
+.button.is-primary:hover:after {
 	opacity: 1;
 	right: 15px;
 }
