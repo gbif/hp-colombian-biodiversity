@@ -248,6 +248,8 @@ article.feature {
 
 .button.is-primary:after {
 	content: '▶';
+	font-family: system-ui;
+	font-size: medium;
 	position: absolute;
 	opacity: 0;
 	right: 5px;
@@ -259,7 +261,7 @@ article.feature {
 
 .button.is-primary:hover:after {
 	opacity: 1;
-	right: 15px;
+	right: 0.8em;
 }
 
 
