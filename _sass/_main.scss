@@ -240,29 +240,28 @@ article.feature {
 
 //Animación del botón
 
-.button a {
+.is-primary {
 	cursor: pointer;
 	display: inline-block;
 	position: relative;
 	transition: 0.5s;
 }
-.button a:after {
+
+.is-primary:after {
 	content: '▶';
 	position: absolute;
 	opacity: 0;
-	top: 0;
-	right: -15px;
+	top: 12px;
+	right: 5px;
 	transition: 0.5s;
-	font-size: 15px;
-	line-height:15px;
-  
 }
-.button:hover a {
-	padding-right: 25px;
+.is-primary:hover {
+	padding-right: 3em;
 }
-.button:hover a:after {
+
+.is-primary:hover:after {
 	opacity: 1;
-	right: 0;
+	right: 15px;
 }
 
 
