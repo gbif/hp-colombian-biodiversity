@@ -1,12 +1,20 @@
+
 //Define la altura de la barra de navegación en 110px
+
 $navbar-item-img-max-height: 5rem;
+
+
 //Define el ancho mínimo para mantener la barra de navegación antes de cambiar al menú hamburguesa responsive
+
 $navbar-breakpoint: 1100px;
 
 @import "theme/_main";
 
+
 //Carga las fuentes web de Google
+
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
 
 //Cambia último elemento del menú
 
@@ -25,6 +33,7 @@ $navbar-breakpoint: 1100px;
 	padding-top: 2px;
 	line-height: 11px;
 }
+
 
 //Se define el tipo de letra para el sitio
 
@@ -46,12 +55,14 @@ body, button, input, select, textarea {
 	  }
 }
 
+
 //Pone la barra de menú en el centro
 
 .navbar-content {
   flex-grow: unset;
 	margin: auto;
 }
+
 
 //Ajusta peso del texto del banner
 
@@ -69,11 +80,13 @@ body, button, input, select, textarea {
 	font-size: 1.2em;
 }
 
+
 //Corrige separación entre elementos de listas
 
 .content li, .feature-content li {
     margin-bottom: 0.6em;
 }
+
 
 //Corrige el ancho de la sección split
 
@@ -81,11 +94,13 @@ section.splitBanner {
 	max-width: $navbar-breakpoint;
 }
 
+
 //Qitar líneas divisorias
 
 section.features, section.splitBanner, section.product, section.textBanner {
     border-bottom: none;
 }
+
 
 //Tarjetas destacadas
 
@@ -97,17 +112,15 @@ article.feature {
 	border-radius: 20px 20px 0 0;
 }
 
-// LOS CAMBIOS PARA APLICACIÖN DE IDENTIDAD VISUAL
 
+// LOS CAMBIOS PARA APLICACIÓN DE IDENTIDAD VISUAL
 
 .postHeader .feature-img {
 	border: none;
 }
-
 .feature .feature-img {
     border-bottom: none;
 }
-
 .has-8-elements .feature-pre-title {
 	background: rgba(0,0,0,0.25);
 	position: absolute;
@@ -124,7 +137,6 @@ article.feature {
 
 
 // TODAS LAS TABLAS EN EL CONTENIDO
-
 
 .table {
     border-collapse: collapse;
@@ -152,7 +164,6 @@ article.feature {
 .table thead th a {
     color: #ffffff;
 }
-
 .table td,
 .table tbody td,
 .content table td,
@@ -161,25 +172,20 @@ article.feature {
     border-width: 0 0 0px;
     padding: 7px 20px;
 }
-
 .table tbody tr {
 //*    border-bottom: 1px solid #dddddd;
     border: none;
 }
-
 .table tbody tr:nth-of-type(even) {
     background-color: #f9f9f9;
 }
-
 .table tbody tr:last-of-type {
     border-bottom: 2px solid #9EC649;
 }
-
 .table tbody tr.active-row {
     font-weight: bold;
     color: #214F53;
 }
-
 .content table thead th,
 .content table thead td {
     color: #ffffff;
@@ -197,25 +203,23 @@ article.feature {
 .tablaAzul table tbody tr:last-of-type {
     border-bottom: 2px solid #3D67AF;
 }
-
 .tablaMorada table thead tr {
     background-color: #7277F7;
 }
-
 .tablaMorada table tbody tr:last-of-type {
     border-bottom: 2px solid #7277F7;
 }
-
-.tablaNaranjada table thead tr {
+.tablaAnaranjada table thead tr {
     background-color: #F5B858;
 }
-.tablaNaranjada table tbody tr:last-of-type {
+.tablaAnaranjada table tbody tr:last-of-type {
     border-bottom: 2px solid #F5B858;
 }
 
+
 //Le da el estilo redondeado a los botones
 
-.button{
+.button {
 	text-transform: initial;
 	font-size: smaller;
 	font-weight: 600;
@@ -227,23 +231,22 @@ article.feature {
 	margin-bottom: 20px;
 	box-shadow: 2px 2px 7px #00000015;
 }
-
-//Animación del botón
-
-.button.is-primary{
+.button.is-primary {
 	border: none;
 	background: rgb(232,60,71);
 	background: linear-gradient(171deg, rgba(232,60,71,1) 0%, rgba(237,109,45,1) 50%, rgba(245,184,87,1) 85%, rgba(245,222,123,1) 100%);
 }
 
-.button span {
+
+//Animación del botón
+
+.button a {
 	cursor: pointer;
 	display: inline-block;
 	position: relative;
 	transition: 0.5s;
 }
-
-.button span:after {
+.button a:after {
 	content: '▶';
 	position: absolute;
 	opacity: 0;
@@ -254,15 +257,14 @@ article.feature {
 	line-height:15px;
   
 }
-
-.button:hover span {
+.button:hover a {
 	padding-right: 25px;
 }
-
-.button:hover span:after {
+.button:hover a:after {
 	opacity: 1;
 	right: 0;
 }
+
 
 //Tamaño de íconos de cifras
 
@@ -270,7 +272,9 @@ article.feature {
     width: 30%;
 }
 
+
 //Texto del banner home a la izquierda y ancho de esa zona
+
 /*
 .floatingHero .feature-content {
 	text-align: left;
@@ -278,7 +282,6 @@ article.feature {
 	max-width: $navbar-breakpoint;
 	min-width: $navbar-breakpoint;
 }
-
 .floatingHero .feature-content p {
     display: block;
     margin-block-start: 0px;
@@ -288,6 +291,7 @@ article.feature {
 }
 */
 
+
 //Corrige el ancho de la tabla de datos de GBIF
 
 /*
@@ -296,6 +300,7 @@ article.feature {
 	margin: auto;
 }
 */
+
 
 //Los estilos que ya estaban
 
@@ -308,7 +313,9 @@ article.feature {
   }
 }
 
+
 // You can add additional styling here
+
 .iframe-box {
   padding: 24px;
   iframe {
@@ -323,6 +330,7 @@ article.feature {
 
 
 // for usage on /Gobernanza/ComiteDirectivo # Tabla para las entidades del comité directivo
+
 .directivo table img {
   width: 60px;
   min-width: 60px; /* Selección del ancho y alto de las celdas*/
@@ -333,6 +341,7 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
   width: 25%;
   border: 0px;
 }
+
 
 // for usage on /home cifras de publicación
 
@@ -353,5 +362,3 @@ th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se
   background-attachment: fixed; // Imagen fija, que no se duplique para ocupar el espacio
   background-color: #FFFFFF // Fondo blanco
 }
-
-
