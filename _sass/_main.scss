@@ -228,13 +228,44 @@ article.feature {
 	box-shadow: 2px 2px 7px #00000015;
 }
 
+//Animación del botón
+
 .button.is-primary{
 	border: none;
 	background: rgb(232,60,71);
 	background: linear-gradient(171deg, rgba(232,60,71,1) 0%, rgba(237,109,45,1) 50%, rgba(245,184,87,1) 85%, rgba(245,222,123,1) 100%);
 }
 
+.button span {
+	cursor: pointer;
+	display: inline-block;
+	position: relative;
+	transition: 0.5s;
+}
+
+.button span:after {
+	content: '▶';
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	right: -15px;
+	transition: 0.5s;
+	font-size: 15px;
+	line-height:15px;
+  
+}
+
+.button:hover span {
+	padding-right: 25px;
+}
+
+.button:hover span:after {
+	opacity: 1;
+	right: 0;
+}
+
 //Tamaño de íconos de cifras
+
 .statistic .feature-img {
     width: 30%;
 }
