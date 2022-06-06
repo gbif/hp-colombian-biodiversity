@@ -11,6 +11,7 @@ toc: true
 
 
 ## Academia
+
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
 |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/corhuila.jpg)](https://www.gbif.org/es/publisher/57dfb71a-f0aa-47c2-b997-30c6048dc98a){:target='_blank'} |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/utadeo.jpg)](https://www.gbif.org/es/publisher/81724943-d4d5-4b72-bfd6-3cfc5725c12a){:target='_blank'} |  [![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-unisangil.png)](https://www.gbif.org/es/publisher/4ef28342-2d78-48b5-a00f-2bad53be38a1){:target='_blank'} |  [![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-itp.png)](http://www.gbif.org/publisher/882d4191-4161-4fde-9e94-20fbb44901c8){:target='_blank'} |  [![](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-itm.png)](http://www.gbif.org/publisher/34770310-601a-43e0-84fb-ed81661c2d00){:target='_blank'} |  [![](https://statics.sibcolombia.net/sib-resources/images/logos-socios/ipt/unipaz.jpg)](https://www.gbif.org/es/publisher/e4a87e1f-4ff8-4d2e-bcd1-0929678abab9){:target='_blank'} |
