@@ -57,7 +57,7 @@ Los **departamentos donde se han registrado el mayor número de especies** son:
 * Cundinamarca, con 15.480 especies.
 * Santander, con 12.575 especies.
 
-Del total de especies registradas en el SiB Colombia, **1,9 % (1.302 de 67.000) se encuentran dentro de alguna de las categorías de amenaza**, según la [Lista roja de la UICN](https://www.iucn.org/es/content/categorias-y-criterios-de-la-lista-roja-de-la-uicn-version-31-segunda-edicion){:target="_blank"}.
+Del total de especies registradas en el SiB Colombia, **1,9 % (1.302 de 67.000) se encuentran dentro de alguna de las categorías de amenaza a nivel nacional**, según la [resolución 1912 de 2017](https://doi.org/10.15472/5an5tz){:target="_blank"} del Ministerio de Ambiente y Desarrollo Sostenible .
 
 Las **especies registradas en algún estado de amenaza que cuentan con mayor cantidad de datos** disponibles en el SiB Colombia son:
 
@@ -65,7 +65,7 @@ Las **especies registradas en algún estado de amenaza que cuentan con mayor can
 * El cedro americano, _Cedrela odorata_, 7.251 registros biológicos y en estado en peligro (EN).
 * El ave cacique candela, _Hypopyrrhus pyrohypogaster_, con 7.046 registros biológicos y en estado vulnerable (VU).
 
-De las **506 especies exóticas de fauna y flora identificadas** en el país (Baptiste et, al, 2020[^4]), existen datos disponibles para 74 % (378 especies) y, de estas, **22 son especies invasoras.**
+De las **508 especies exóticas de fauna y flora identificadas** en el país (Baptiste et, al, 2020[^4]), existen datos disponibles para 74 % (378 especies) y, de estas, **22 son especies invasoras.**
 
 Las **especies exóticas con mayor cantidad de datos disponibles** en el SiB Colombia son: 
 
