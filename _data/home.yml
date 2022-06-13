@@ -26,7 +26,7 @@ stats:
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=CO&limit=0&isEndorsed=true">100,000</span>
       description: Socios publicadores
       background: /assets/images/landing_page/iconos_cifras/ico_sociosPublicadores_gris.png
-      href: https://www.gbif.org/publisher/search?country=CO
+      href: /comunidad/socios-publicadores/
       # Hard coded value     
 
 # Estadisticas ajustadas
