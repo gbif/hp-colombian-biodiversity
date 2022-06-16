@@ -265,14 +265,16 @@ En caso de ser elegido como pasantes, los estudiantes deberán recopilar los sig
 
 1. Carta de presentación o respaldo, expedida y firmada por la universidad o profesor de la facultad o departamento. En esta, la universidad debe indicar que el estudiante se encuentra activo.
 2. Carta de expresión de interés donde el estudiante ratifica su disponibilidad y compromiso para la ejecución de la pasantía. Esta debe ir firmada por el estudiante e incluir sus datos personales y de contacto (correo electrónico, teléfono y dirección).
-3. Fotocopia legible del carné estudiantil.
-4. Fotocopia del recibo de matrícula del semestre en curso o del semestre en que se ejecutará la pasantía.
-5. Constancia de afiliación del estudiante al Sistema de Riesgos Laborales (ARL). La afiliación la debe realizar la universidad o el Instituto Humboldt, en el caso de las pasantías con apoyo del programa Estado Joven.
-6. Nombre, cédula, cargo y datos de contacto (teléfono y correo electrónico) del tutor/monitor dentro de la universidad.
-7. RUT (Registro Único Tributario) de la universidad.
-8. Certificado de existencia y representación legal de la universidad, con fecha mayor a 90 días.
-9. Copia de la cédula de ciudadanía del representante legal de la universidad, o los documentos de la eventual persona que vaya a ser designada para firmar el acuerdo tripartito (poder, autorización o su equivalente en la universidad, junto con copia de la cédula).
-10. Documento que acredite que la persona indicada en el numeral anterior tiene las facultades para suscribir el acuerdo tripartito.
-11. Plan de trabajo de una hoja que incluya: objetivos, actividades y cronograma, o que cumpla con los lineamientos establecidos por la universidad en caso de que esta requiera un plan de trabajo.
+3. Fotocopia legible de la cédula del estudiante.
+4. Constancia vigente de afiliación a la EPS (cotizante o beneficiario).
+5. Fotocopia legible del carné estudiantil.
+6. Fotocopia del recibo de matrícula del semestre en curso o del semestre en que se ejecutará la pasantía.
+7. Constancia de afiliación del estudiante al Sistema de Riesgos Laborales (ARL). La afiliación la debe realizar la universidad o el Instituto Humboldt, en el caso de las pasantías con apoyo del programa Estado Joven.
+8. Nombre, cédula, cargo y datos de contacto (teléfono y correo electrónico) del tutor/monitor dentro de la universidad.
+9. RUT (Registro Único Tributario) de la universidad.
+10. Certificado de existencia y representación legal de la universidad, con fecha mayor a 90 días.
+11. Copia de la cédula de ciudadanía del representante legal de la universidad, o los documentos de la eventual persona que vaya a ser designada para firmar el acuerdo tripartito (poder, autorización o su equivalente en la universidad, junto con copia de la cédula).
+12. Documento que acredite que la persona indicada en el numeral anterior tiene las facultades para suscribir el acuerdo tripartito.
+13. Plan de trabajo de una hoja que incluya: objetivos, actividades y cronograma, o que cumpla con los lineamientos establecidos por la universidad en caso de que esta requiera un plan de trabajo.
 
 **Nota**: El estudiante debe ponerse en contacto con la universidad para avanzar con los trámites administrativos requeridos por la institución y verificar tanto las fechas como los requisitos internos.
