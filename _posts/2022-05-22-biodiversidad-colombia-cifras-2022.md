@@ -123,3 +123,6 @@ Para conocer toda la síntesis de cifras y mantenerte al día con los datos sobr
 
 [^8]:
      Bernal, R., Gradstein, S. R., & Celis, M. Catálogo de plantas y líquenes de Colombia. (2015). Available at: [http://catalogoplantasdecolombia.unal.edu.co](http://catalogoplantasdecolombia.unal.edu.co){:target="_blank"}. (Accessed: 31st December 2018)
+     
+-----
+* Última actualización 2022-06-16
