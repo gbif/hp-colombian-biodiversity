@@ -36,8 +36,8 @@ De la misma manera, conocer esta información sirve para agradecer a quienes rec
 En esta edición **hay 67.000 especies registradas en Colombia**, 5.000 más que el año pasado.
 
 * Colombia ocupa el **tercer lugar entre los países con mayor biodiversidad** del planeta, después de Brasil e Indonesia.
-* Colombia es el **país con mayor diversidad de orquídeas y mariposas**.
-* Colombia es el **segundo país con mayor diversidad de aves, anfibios, peces dulceacuícolas, reptiles, palmas y plantas en general**.
+* Colombia es el **país con mayor diversidad de aves, orquídeas y mariposas**.
+* Colombia es el **segundo país con mayor diversidad de anfibios, peces dulceacuícolas, reptiles, palmas y plantas en general**.
 * Colombia es el **quinto país con mayor diversidad de mamíferos**.
 
 
