@@ -91,7 +91,7 @@ Selecione el menú <span class="tag is-warning is-light"><i>Gestión de recursos
 
 Para crear un recurso, diríjase a la sección de creación del recurso al final del menú <span class="tag is-warning is-light"><i>Gestión de recursos</i></span> y siga estos pasos:
 
-### 3.1. Agignación de nombre corto
+### 3.1. Asignación de nombre corto
 
 Asigne un <span class="tag is-light"><b>Nombre corto</b></span> (no use más de 5 palabras) al recurso que va a crear (Fig. 4A). No incluya espacios ni carácteres especiales como tildes (´) o eñes (ñ). Para este ejercicio, cree el <span class="tag is-light"><b>Nombre corto</b></span> con sus iniciales y el acrónimo de su organización. De esa forma, podrá encontrarlo fácilmente.
 
