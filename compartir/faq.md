@@ -287,9 +287,9 @@ ___
   <summary markdown="span"><B>¿Cómo se documentan los registros clasificados hasta Sección?</B></summary>
     
 <br>
-El estándar Darwin Core no cuenta con un campo específico para documentar los registros clasificados hasta la categoría de sección. Para documentarlo correctamente coloque el nombre completo (con el acrónimo sect.) en nombre científico, el género al que pertenece en el campo género y con la categoría “Sección” en Categoría taxonómica.
+El estándar Darwin Core cuenta con el elemento <i>infragenericEpithet</i> para documentar los registros clasificados hasta la categoría de Sección. Para documentarlo correctamente, coloque el nombre completo (con el acrónimo sect.) en nombre científico, el género al que pertenece en el campo género, la sección en infragenericEpithet y la categoría “Sección” en Categoría taxonómica.
  <ul>
-<li><b>Ejemplo:</b> Para la determinación "Anthurium sect. Calomystrium", coloque "Anthurium" en Género, "Anthurium sect. Calomystrium" en nombre científico y "Sección" en Categoría taxonómica.</li>
+<li><b>Ejemplo:</b> Para la determinación "Anthurium sect. Calomystrium", coloque "Anthurium" en Género, "Calomystrium" en  infragenericEpithet, "Anthurium sect. Calomystrium" en nombre científico y "Sección" en Categoría taxonómica.</li>
         </ul>
 </details>
 
