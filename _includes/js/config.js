@@ -50,5 +50,8 @@ var siteConfig = {
     highlightedFilters: ['q', 'publisherKey', 'datasetType', 'license'],
     excludedFilters: ['publishingCountryCode'],
     // availableCatalogues: ['OCCURRENCE', 'DATASET']
+  },
+  maps: {
+    locale: 'es'
   }
 };
