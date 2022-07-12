@@ -44,17 +44,6 @@ estadisticas:
 
 noticias:
   features:
-
-    - preTitle: Campañas
-      title: Cómo cuidar la biodiversidad
-      description: |      # required
-        Compartimos las 22 acciones por el día internacional de la biodiversidad.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-05-23-22-acciones.jpg
-      cta:
-      - text: Ver más
-        href: post/2022/como-cuidar-biodiversidad-colombia/
-        isPrimary: false
         
     - preTitle: Cifras
       title: Biodiversidad en cifras 2022
@@ -89,6 +78,23 @@ noticias:
         href: post/2022/nuevo-procedimiento-reportar-datos-sib-colombia/
         isPrimary: false
 
+
+# Noticias viejas 
+
+noticiasViejas:
+  features:
+
+    - preTitle: Campañas
+      title: Cómo cuidar la biodiversidad
+      description: |      # required
+        Compartimos las 22 acciones por el día internacional de la biodiversidad.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-05-23-22-acciones.jpg
+      cta:
+      - text: Ver más
+        href: post/2022/como-cuidar-biodiversidad-colombia/
+        isPrimary: false
+        
     - preTitle: Datos abiertos
       title: Lo que dicen los datos sobre los frailejones
       description: |      # required
@@ -143,12 +149,6 @@ noticias:
       - text: Ver más
         href: /compartir/minga-por-la-biodiversidad
         isPrimary: false
-
-# Noticias viejas 
-
-noticiasViejas:
-  features:
-
    
     - preTitle: Convocatorias
       title: Haz tu pasantía o práctica laboral en el SiB Colombia
@@ -159,17 +159,6 @@ noticiasViejas:
       cta:
       - text: Ver más
         href: post/2022/convocatoria-pasantia-practica-2022-2
-        isPrimary: false
-
-    - preTitle: Publicación de datos
-      title: Datos nuevos o antiguos, ¡todos cuentan!
-      description: |      # required
-        Queremos incrementar la disponibilidad de datos sobre biodiversidad en el país.
-      # img required
-      background: assets/images/minga/cabezote.jpg
-      cta:
-      - text: Ver más
-        href: /compartir/minga-por-la-biodiversidad
         isPrimary: false
   
     - preTitle: Red SiB Colombia
