@@ -1,6 +1,6 @@
 ---
 preTitle: 18 de julio, 2022
-title: "Cómo cuidar la biodiversidad de Colombia"
+title: "Datos abiertos: la apuesta del SiB Colombia para la conservación de la biodiversidad marina"
 description: |
  _La apuesta del SiB Colombia por visibilizar la investigación de la biodiversidad marina y los datos abiertos se destacó en la segunda edición de la revista Sonar._
 date: 2022-07-15
@@ -8,9 +8,6 @@ categories: ["Biodiversidad Marina", "CEMarin", "2022", "Océano"]
 background: https://live.staticflickr.com/65535/51323465720_a70d7233c6_h.jpg
 
 ---
-
-# Datos abiertos: la apuesta del SiB Colombia para la conservación de la biodiversidad marina
-
 La apuesta del SiB Colombia por la investigación de la biodiversidad marina y los datos abiertos se destacó en la segunda edición de Sonar, la revista de divulgación científica de CEMarin. 
 
 Siguiendo con los lineamientos de [Decenio de las Ciencias Oceánicas](https://www.oceandecade.org/es/), la [Corporación Centro de Excelencia en Ciencias Marinas (CEMarin)](https://cemarin.org/es/inicio/) centró su segunda entrega de Sonar en los datos abiertos para un océano transparente: tendencias de datos y FAIR data. 
