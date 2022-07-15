@@ -35,7 +35,7 @@ Los grupos de trabajo (GT-SiB) requieren más compromiso que los Grupos de Inter
 + Alcance apropiado del GT.
 + El esfuerzo agrega valor a lo que ya  se esté haciendo actualmente dentro de la comunidad del SiB Colombia.
 
-1. El potencial Grupo de Trabajo elabora una breve propuesta siguiendo la plantilla Propuesta de Intención Grupo de Trabajo, que describe sus actividades y enumera de dos a cuatro co-líderes. Uno de los miembros del GT (generalmente uno de los líderes) envía la propuesta al correo sib@humboldt.org.co. El EC-SiB designa un enlace para trabajar con el Grupo de Trabajo propuesto, y se comunicará con los líderes del Grupo de Trabajo y el Grupo de Interés que lo representa..
+1. El potencial Grupo de Trabajo elabora una breve propuesta siguiendo la plantilla [Propuesta de Intención Grupo de Trabajo](https://docs.google.com/document/d/1MDZMQMUZHoRDzZl-VYJB1woqEERo5Q1lpvF6PYhZWDY/edit), que describe sus actividades y enumera de dos a cuatro co-líderes. Uno de los miembros del GT (generalmente uno de los líderes) envía la propuesta al correo [sib@humboldt.org.co](sib@humboldt.org.co). El EC-SiB designa un enlace para trabajar con el Grupo de Trabajo propuesto, y se comunicará con los líderes del Grupo de Trabajo y el Grupo de Interés que lo representa..
 
 2. El EC-SiB notifica al Comité Técnico (CT-SiB) para su revisión. El CT-SiB tendrá al menos cuatro semanas para revisar y comentar el documento. Si hay comentarios significativos, se espera que el Grupo de Trabajo envíe nuevamente la propuesta ajustada, basado en los comentarios hechos durante la revisión.
 
