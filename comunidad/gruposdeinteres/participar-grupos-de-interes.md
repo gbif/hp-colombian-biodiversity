@@ -38,11 +38,11 @@ Los grupos de interés se someten a una revisión formal antes de que sean recon
 
 ### ¿Cómo unirse a un Grupo de Interés?
 
-Puede encontrar una lista de los actuales Grupos de Interés haciendo clic aquí. Cualquier persona puede solicitar unirse a un Grupo de Interés contactando a uno de los líderes  en la página del grupo.
+Cualquier persona puede solicitar unirse a un Grupo de Interés contactando a uno de los líderes  en la página del grupo.
 
 ### ¿Cómo crear un Grupo de Interés?
 
-1. El potencial Grupo de Interés elabora una breve propuesta siguiendo la plantilla Propuesta de Intención Grupo de Interés, que describe sus actividades y enumera de dos a cuatro co-líderes. Uno de los miembros del GI (generalmente uno de los líderes) envía la propuesta al correo sib@humboldt.org.co. El EC-SiB designa un enlace para trabajar con el Grupo de Interés propuesto, y se comunicará con los líderes del Grupo de Interés.
+1. El potencial Grupo de Interés elabora una breve propuesta siguiendo la plantilla [Propuesta de Intención Grupo de Interés](https://docs.google.com/document/d/105hm8zakjQApgZJXXwN6O7NcrUBqQN9x2wWbH-Vdyxk/edit?usp=sharing), que describe sus actividades y enumera de dos a cuatro co-líderes. Uno de los miembros del GI (generalmente uno de los líderes) envía la propuesta al correo [sib@humboldt.org.co](sib@humboldt.org.co). El EC-SiB designa un enlace para trabajar con el Grupo de Interés propuesto, y se comunicará con los líderes del Grupo de Interés.
 
 2. El EC-SiB notifica al Comité Técnico (CT-SiB) para su revisión. El CT-SiB tendrá al menos cuatro semanas para revisar y comentar el documento. Si hay comentarios significativos, se espera que el Grupo de Interés envíe nuevamente la propuesta ajustada, basado en los comentarios hechos durante la revisión.
 
