@@ -3,9 +3,9 @@ preTitle: 18 de julio, 2022
 title: "Cómo cuidar la biodiversidad de Colombia"
 description: |
  _La apuesta del SiB Colombia por visibilizar la investigación de la biodiversidad marina y los datos abiertos se destacó en la segunda edición de la revista Sonar._
-date: 2022-07-18
+date: 2022-07-15
 categories: ["Biodiversidad Marina", "CEMarin", "2022", "Océano"]
-background: /assets/images/noticias_eventos/2022/2022-05-23-22-acciones.jpg
+background: https://live.staticflickr.com/65535/51323465720_a70d7233c6_h.jpg
 
 ---
 
@@ -26,3 +26,7 @@ De igual modo, destacó cuáles son los sistemas de información disponibles que
 En estos sistemas de información hay cerca de 18 millones de datos disponibles para la consulta y descarga, pero según datos ofrecidos por Dairo Escobar, “solo un 2% corresponden a datos marinos-costeros”, por ello la importancia de seguir juntando esfuerzos para consolidar un inventario de especies que permita identificar patrones y crear estrategias para la conservación del ecosistema marino del país. 
 
 Para conocer más sobre ¿quién publica datos a través de estos sistemas? ¿Qué datos se pueden publicar? ¿Cuáles son las ventajas de publicar datos a través de estos sistemas? Ingrese al siguiente enlace y [lea el artículo completo](https://drive.google.com/file/d/1yjiHBAtyGRVxd2s9JsWtA5WmjtBu6bnA/view).
+
+
+![](/assets/images/noticias_eventos/2022/2022-07-18-cemarin_sonar_ed2.png)
+
