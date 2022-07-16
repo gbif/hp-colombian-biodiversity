@@ -46,7 +46,7 @@ noticias:
   features:
 
     - preTitle: Listas de chequeo
-      title: Invitación a participar listas hidrobiológicas
+      title: Invitación a participar, listas hidrobiológicas
       description: |      # required
         Los grupos autores de las nuevas listas abren la recepción de contribuciones.
       # img required
