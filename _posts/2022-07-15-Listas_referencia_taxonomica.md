@@ -1,6 +1,6 @@
 ---
 preTitle: 15 de julio, 2022
-title: "Listas de referencia taxonómica: elementales en el conocimiento de la biodiversidad"
+title: "Listas taxonómicas de rferencia: elementales en el conocimiento de la biodiversidad"
 description: |
  _Las listas de chequeo son un inventario base de la biodiversidad y al ser revisadas por expertos se convierten en documentos de referencia_
 date: 2022-07-15
