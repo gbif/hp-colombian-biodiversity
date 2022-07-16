@@ -5,7 +5,8 @@ description: Taller de gestión y publicación de datos sobre biodiversidad
 background: https://live.staticflickr.com/7158/6828826709_bafa8df147_h.jpg
 imageLicense: |
     Puerto Nariño Fotografía de: Eli Duke vía [FlickR](https://flic.kr/p/bprwgx)
-toc: true 
+toc: true
+permalink: /formacion/formacion-udenar-2022
 height: 41vh
 ---
 
