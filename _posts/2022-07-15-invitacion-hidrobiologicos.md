@@ -1,5 +1,5 @@
 ---
-preTitle: 16 de julio, 2022
+preTitle: 15 de julio, 2022
 title: "Invitación a participar en listas de recursos hidrobiológicos"
 description: |
  _Dos nuevas listas de recursos hidrobiológicos, que amplían el conocimiento de la biodiversidad colombiana, abiertas para aportes y contribuciones de toda la comunidad científica._
