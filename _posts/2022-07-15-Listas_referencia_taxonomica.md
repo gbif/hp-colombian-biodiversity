@@ -1,5 +1,5 @@
 ---
-preTitle: 16 de julio, 2022
+preTitle: 15 de julio, 2022
 title: "Listas de referencia taxonómica: elementales en el conocimiento de la biodiversidad"
 description: |
  _Las listas de chequeo son un inventario base de la biodiversidad y al ser revisadas por expertos se convierten en documentos de referencia_
@@ -53,6 +53,6 @@ El siguiente video cuenta la experiencia en el proceso de fortalecimiento de las
 
 Próximamente estarán disponibles dos listas de hidrobiológicos: macroinvertebrados y macrófitas. La labor de compilación ha estado a cargo de grupos de trabajo con el acompañamiento del SiB Colombia y, dada la característica de construcción colaborativa que enmarca la consolidación de las listas de especies, se realizará un llamado a la comunidad científica para participar como autores o revisores de las listas.
 
-También te puede interesar: Invitación a participar en la construcción de las listas de recursos hidrobiológicos{:target="_blank"}
+También te puede interesar: [Invitación a participar en la construcción de las listas de recursos hidrobiológicos](https://biodiversidad.co/post/2022/invitacion-hidrobiologicos){:target="_blank"}
 
 
