@@ -9,7 +9,7 @@ background: https://images.unsplash.com/photo-1551663746-8b1cda20483f?ixlib=rb-1
 
 ---
 
-Las [listas de especies](https://biodiversidad.co/compartir/tipos-de-datos/#listas-de-especies:~:text=eventos%20de%20muestreo.-,Listas%20de%20especies,-Los%20conjuntos%20de){:target="_blank"} o, como se conocen en un contexto más formal, de chequeo o de referencia taxonómica, son  un inventario de especies que se encuentran en un área geográfica determinada en un momento específico y, además, una herramienta fundamental en el conocimiento de la riqueza biológica de un territorio.
+Las [listas taxonómicas de referencia](https://biodiversidad.co/compartir/tipos-de-datos/#listas-de-especies:~:text=eventos%20de%20muestreo.-,Listas%20de%20especies,-Los%20conjuntos%20de){:target="_blank"}, son  un inventario de especies que se encuentran en un área geográfica determinada en un momento específico y, además, una herramienta fundamental en el conocimiento de la riqueza biológica de un territorio.
 
 Por eso, desde el SiB Colombia nos alegra que los grupos y organizaciones involucrados en la construcción de **dos nuevas listas taxonómicas de referencia de recursos hidrobiológicos**, una de macroinvertebrados y otra de macrófitas, anuncien que abren su trabajo a la comunidad científica para recibir aportes y retroalimentación que permita llevarlas a un estado de publicación. 
 
@@ -17,7 +17,7 @@ Por eso, desde el SiB Colombia nos alegra que los grupos y organizaciones involu
 
 A la fecha, la compilación de estas dos nuevas listas ha sido iniciativa de TaxonMIA, el Grupo de Estudios en Vegetación Acuática GEVA, con el respaldo de la [Fundación Natura](https://natura.org.co/){:target="_blank"} y el [Sistema de Información del Recurso Hídrico SIRH](http://sirh.ideam.gov.co/Sirh/pages/inicio.html){:target="_blank"}. Con esta invitación a participar en la construcción de las listas, **se abre la posibilidad de recibir aportes y contribuciones de toda la comunidad científica**. 
 
-En el SiB Colombia nos guiamos por principios como la cooperación, la participación y, apelando a nuestra misión de consolidar el rompecabezas de nuestra biodiversidad  nacional, vemos esta invitación como una **oportunidad para elevar el espíritu colaborativo presente en la construcción colectiva y participativa del conocimiento**, entendida como una responsabilidad compartida.
+En el SiB Colombia nos guiamos por principios como la cooperación, la participación y, apelando a nuestra misión de consolidar el inventario de nuestra biodiversidad  nacional, vemos esta invitación como una **oportunidad para elevar el espíritu colaborativo presente en la construcción colectiva y participativa del conocimiento**, entendida como una responsabilidad compartida.
 
 ## ¿Cómo participar?
 
