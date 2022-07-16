@@ -25,7 +25,7 @@ Las personas u organizaciones **interesadas en participar**, tendrán la **oport
 
 Para responder a la invitación, se debe diligenciar [este formulario](https://docs.google.com/forms/d/1Yh7QmYYdv4k7EYsYJigcShSMd-3STMCR9ffEZXmlpt4/edit){:target="_blank"}. A la vuelta de correo se recibirá el acceso a las listas, la información y las instrucciones necesarias para realizar los aportes. **El período de recepción de contribuciones inicia el 15 de julio y se extenderá hasta el 7 de agosto de 2022**.
 
-[Participar de las listas](https://docs.google.com/forms/d/1Yh7QmYYdv4k7EYsYJigcShSMd-3STMCR9ffEZXmlpt4/edit){:target="_blank" .button .is-primary}
+[Participar de las listas]([https://docs.google.com/forms/d/1Yh7QmYYdv4k7EYsYJigcShSMd-3STMCR9ffEZXmlpt4/edit](https://docs.google.com/forms/d/e/1FAIpQLScsqa0iocG2UnFmUl_ATqTXZPvm0RFU2JXlRe5jvfKwY6J-Sg/viewform)){:target="_blank" .button .is-primary}
 
 Es importante tener en cuenta que los aportes o contribuciones deben hacerse bajo el marco del [estándar Darwin Core](https://biodiversidad.co/compartir/estandar-darwin-core/){:target="_blank"}. 
 
