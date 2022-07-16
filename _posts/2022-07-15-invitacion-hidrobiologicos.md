@@ -33,8 +33,8 @@ Si quieres participar pero tienes alguna inquietud, puedes comunicarte con el eq
 
 ## Por último, ¿por qué son importantes estas listas?
 
-La publicación de estas listas constituye un hito en el conocimiento de la biodiversidad del país, dado que es un grupo biológico amplio, con numerosas especies, y requiere de esfuerzo adicional para su identificación y clasificación dentro de los grupos de macroinvertebrados y macrófitas; esto, teniendo en cuenta que un organismo puede considerare como un recurso hidrobiológico solo durante alguna etapa de su vida.
+La publicación de estas listas constituye un hito en el conocimiento de la biodiversidad del país, dado que estas comprenden múltiples grupos biológicos con numerosas especies, las cuales requiere de esfuerzo adicional para su identificación y clasificación dentro de los grupos de macroinvertebrados y macrófitas; esto, teniendo en cuenta que un organismo puede considerare como un hidrobiológico, o no, dependiendo de su  etapa de su vida.
 
-Finalmente, contar con este tipo de publicaciones permite **contar con listas de especies estandarizadas, lo que facilita su consulta y uso por parte de toda la comunidad científica.**
+Finalmente, contar con este tipo de publicaciones permite **contar con listas estandarizadas, lo que facilita su consulta y uso por parte de toda la comunidad científica.**
 
 * Conoce más sobre la construcción colaborativa de listas de especies en nuestro webinar: [Listas de especies de referencia para la toma de decisiones](https://www.youtube.com/watch?v=xNcnhItgK7w).
