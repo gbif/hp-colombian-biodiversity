@@ -39,35 +39,36 @@ El taller está orientado a presentar y ampliar conocimiento en los siguientes e
 ## Programa
 
 **Miércoles 03 de agosto**
-- **Introducción**: SiB Colombia y su modelo de publicación*
-  **Descripción**: Todo lo que necesitas saber para compartir tus datos a través del SiB Colombia, conoce el modelo de publicación y participa en un taller práctico de acceso y uso de datos sobre biodiversidad.
+- **Fundamentos para publicar datos con valor**
+  Introducción y recorrido por los conocimientos necesarios para compartir datos a través del SiB Colombia y el modelo de publicación. Taller práctico de acceso y uso de datos sobre biodiversidad.
   **Ponentes**: Camila Plata y Ricardo Ortiz.
 
 **Jueves 04 de agosto**
-- **Calidad de datos**
- **Descripción**: Conoce y aprende a usar las herramientas que te permitirán mejorar la calidad de tus datos.
- ****Ponentes**: Camila Plata y Ricardo Ortiz.
+- **Datos de calidad para tomar de decisiones**
+  Mirada en profundidad a los conceptos que componen la calidad de datos y un acercamiento práctico a las herramientas que permiten mejorar las publicaciones basadas en estos conceptos.
+ **Ponentes**: Camila Plata y Ricardo Ortiz.
 
 **Viernes 05 de agosto**
 - **Biodiversidad en cifras**
- **Descripción**: Cuál es la iniciativa de biodiversidad en cifras y cuál el propósito de aumentar el volumen de datos disponibles para el departamento de Nariño. ¡Te lo contamos!.
+  Acercamiento a la iniciativa nacional Biodiversidad en cifras y su propósito de aumentar el volumen de datos disponibles para el departamento de Nariño.
  **Ponentes**: Edda Viviana Forero, Juan Pablo Mrín, Camila Plata y Ricardo Ortiz.
 
 - **Mesa de ayuda para publicación de datos propios**
- **Descripción**: Estaremos resolviendo todas tus dudas sobre publicación de datos. Puedes llevar los datos de tu organización y te daremos la orientación necesaria para que puedas compartirlos a través de la red de datos abiertos sobre biodiversidad de Colombia, SiB Colombia.
+  Práctica abierta donde el equipo coordinador del SiB Colombia estará resolviendo dudas sobre publicación de datos. En este espacio, los participantes pueden llevar datos de sus organizaciones y recibirán la orientación necesaria para compartirlos a través de la red de datos abiertos sobre biodiversidad.
  **Ponentes**: Camila Plata y Ricardo Ortiz.
 
 ## Facilitadores:
 
 - **Ricardo Ortiz**: Ingeniero ambiental, especialista en Sistemas de Información Geográfica. Apoya la línea de Administración de contenidos del SiB Colombia, en cuanto a publicación, síntesis y resolución de consultas basadas en datos sobre biodiversidad.
 - **Camila Plata**: Bióloga e ingeniera ambiental de formación con una maestría en Biología Evolutiva. Desde el SiB Colombia lidera la línea de Administración de Contenidos asegurando que los datos publicados a través del sistema sean de la mejor calidad para ser utilizados en investigación y toma de decisiones, además de liderar procesos de análisis y síntesis de cifras.
-- **Equipo Datasketch**: empresa de tecnología social creada que busca promover el uso responsable de las tecnologías de la información y de los datos.
+- **Equipo Datasketch**: Empresa de tecnología social que busca promover el uso responsable de las tecnologías de la información y de los datos.
 
 
 ## ¿A quién está dirigido?
-Este taller está orientado a organizaciones que estén relacionados con datos sobre biodiversidad para el departamento de Nariño y que estén interesados en conocer más sobre cómo compartir esos datos a través del SiB Colombia y los beneficios que representa para sus organizaciones. 
+Dirigido a personas y organizaciones cuyo trabajo esté relacionado con datos sobre biodiversidad para el departamento de Nariño; tomadores de decisiones, profesionales y estudiantes que trabajen con datos sobre biodiversidad en sus diferentes etapas: recolección, digitalización, publicación o uso, y que estén interesados en conocer más sobre cómo compartir esos datos a través del SiB Colombia y los beneficios que representa para sus organizaciones.
 
-Este taller abarca desde contenidos básicos sobre la calidad de datos de biodiversidad hasta ejercicios prácticos con el uso de herramientas. En ese sentido, va dirigido a tomadores de decisiones, profesionales y estudiantes que trabajen con datos sobre biodiversidad en sus diferentes etapas: recolección, digitalización, publicación o uso.
+Este taller abarca desde contenidos básicos sobre la calidad de datos sobre biodiversidad, hasta ejercicios prácticos con uso de herramientas informáticas.
+
 
 ## Requisitos
 
@@ -76,4 +77,32 @@ Para aprovechar al máximo las actividades de este curso, los participantes debe
 1. Competencias básicas en el uso de computadores e Internet y, en particular, en el uso de hojas de cálculo.
 2. Disposición para difundir el conocimiento aprendido en el taller con otras personas de su entorno profesional o académico.
 3. Conocimientos básicos del flujo de datos sobre biodiversidad en sus organizaciones.
+
+## Cupos
+El taller cuenta con 24 cupos, distribuidos así:
+
+- 4 cupos para **instituciones académicas**. 
+- 4 cupos para **autoridades ambientales**.
+- 4 cupos para **centros e institutos de investigación**.
+- 4 cupos para **ONG**.
+- 4 cupos para **entidades gubernamentales**.
+- 4 cupos para **sector empresarial**.
+
+## Proceso de postulación y selección
+
+Para participar en el taller los postulantes deberán realizar los siguientes pasos:
+Enviar el [formulario de aplicación](https://docs.google.com/forms/d/e/1FAIpQLSfzv9efLE65Uf_GDye03w094uF5sx-s-21RNZ-jfXEoppaAWg/viewform) **hasta el domingo 24 de julio**. Ser explícito y detallado para facilitar la evaluación de su candidatura.
+
+La selección de los participantes estará a cargo de un comité evaluador conformado por los organizadores, que tendrá en cuenta los siguientes criterios:
+
+
+- Experiencia del candidato con el manejo de datos sobre biodiversidad.
+- Experiencia en la publicación de datos sobre biodiversidad (evidencia de publicaciones realizadas a través del SiB Colombia).
+- Capacidad de réplica de lo aprendido en el taller.
+- Potencial de aplicación de los conocimientos del taller en el mejoramiento de datos preexistentes (evidencia de manejo de datos sobre biodiversidad, como curador o encargado).
+- Potencial de publicación de nuevos datos a través del SiB Colombia implementando los conocimientos del taller.
+- Representatividad de las organizaciones del departamento de Nariño.
+
+
+A todos los participantes se les informará el resultado de la evaluación, vía correo electrónico, dentro de los plazos establecidos en el calendario de la convocatoria.
 
