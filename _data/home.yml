@@ -45,6 +45,18 @@ estadisticas:
 noticias:
   features:
 
+
+    - preTitle: Formación
+      title: Inscripciones al taller Nariño en datos
+      description: |      # required
+        Inscripciones hasta el 24 de julio. El taller será del 3 al 5 de agosto en Pasto.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-07-16-taller-narino.jpg
+      cta:
+      - text: Ver más
+        href: post/2022/inscripciones-taller-narino-en-datos
+        isPrimary: false
+
     - preTitle: Listas de chequeo
       title: Invitación a participar, listas hidrobiológicas
       description: |      # required
@@ -67,6 +79,11 @@ noticias:
         href: post/2022/listas-referencia-taxonomica/
         isPrimary: false
 
+# Noticias viejas 
+
+noticiasViejas:
+  features:
+
     - preTitle: Cifras
       title: Biodiversidad en cifras 2022
       description: |      # required
@@ -77,11 +94,6 @@ noticias:
       - text: Ver más
         href: post/2022/biodiversidad-colombia-cifras-2022/
         isPrimary: false
-
-# Noticias viejas 
-
-noticiasViejas:
-  features:
 
     - preTitle: Datos abiertos
       title: ¿Conoces la diferencia entre publicar y reportar datos?
