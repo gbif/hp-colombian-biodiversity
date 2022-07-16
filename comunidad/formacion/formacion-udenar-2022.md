@@ -93,6 +93,8 @@ Para participar en el taller los postulantes deberán realizar los siguientes pa
 
 Enviar el [formulario de aplicación](https://docs.google.com/forms/d/e/1FAIpQLSfzv9efLE65Uf_GDye03w094uF5sx-s-21RNZ-jfXEoppaAWg/viewform) **hasta el domingo 24 de julio**. Ser explícito y detallado para facilitar la evaluación de su candidatura.
 
+[Inscribirse al taller](https://docs.google.com/forms/d/e/1FAIpQLSfzv9efLE65Uf_GDye03w094uF5sx-s-21RNZ-jfXEoppaAWg/closedform){:target="_blank" .button .is-primary}
+
 La selección de los participantes estará a cargo de un comité evaluador conformado por los organizadores, que tendrá en cuenta los siguientes criterios:
 
 
