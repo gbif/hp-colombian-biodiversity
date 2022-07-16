@@ -46,7 +46,7 @@ noticias:
   features:
 
     - preTitle: Listas de chequeo
-      title: Invitación a participar en listas de hidrobiológicos
+      title: Invitación a participar listas hidrobiológicas
       description: |      # required
         Los grupos autores de las nuevas listas abren la recepción de contribuciones.
       # img required
@@ -57,7 +57,7 @@ noticias:
         isPrimary: false
 
     - preTitle: Listas de chequeo
-      title: Conoce las listas de referencia taxonómica
+      title: Conoce las listas taxonómicas de referencia
       description: |      # required
         Las listas de chequeo son un inventario base de la biodiversidad.
       # img required
