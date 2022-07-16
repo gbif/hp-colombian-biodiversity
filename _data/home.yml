@@ -50,7 +50,7 @@ noticias:
       description: |      # required
         Los grupos autores de las nuevas listas abren la recepción de contribuciones.
       # img required
-      background: https://images.unsplash.com/photo-1551663746-8b1cda20483f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+      background: "https://images.unsplash.com/photo-1551663746-8b1cda20483f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
       cta:
       - text: Ver más
         href: post/2022/invitacion-hidrobiologicos/
