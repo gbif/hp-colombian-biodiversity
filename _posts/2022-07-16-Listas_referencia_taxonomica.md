@@ -3,9 +3,9 @@ preTitle: 16 de julio, 2022
 title: "Listas de referencia taxonómica: elementales en el conocimiento de la biodiversidad"
 description: |
  _Las listas de chequeo son un inventario base de la biodiversidad y al ser revisadas por expertos se convierten en documentos de referencia_
-date: 2022-07-16
+date: 2022-07-15
 categories: ["Listas de chequeo","Listas de referencia","Taxonomía","2022"]
-background: https://live.staticflickr.com/65535/51323465720_a70d7233c6_h.jpg
+background: comunidad/proyectos/nacionales/colombiabio/imagenes/coleccion-entomologica-de-la-universidad-nacional-de-colombia-sede-orinoquia/e-a-2-1024x682.jpg
 
 ---
 
