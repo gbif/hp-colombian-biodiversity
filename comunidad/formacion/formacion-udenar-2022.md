@@ -9,8 +9,6 @@ toc: true
 height: 41vh
 ---
 
-# Nariño en datos: taller de gestión y publicación de datos sobre biodiversidad
-
 El departamento de Nariño tiene una participación destacada en la riqueza biológica del país, por años múltiples organizaciones como autoridades ambientales, instituciones académicas, ONG, empresas, entre otros han recopilado datos e información valiosa que aporta y robustece el conocimiento de la biodiversidad nacional.
 
 Desde el SiB Colombia estamos trabajando en la consolidación del conocimiento sobre la biodiversidad de todo el país y, **en esta ocasión, con especial énfasis en el departamento de Nariño**. Para esto, hacemos un llamado a las organizaciones que ya son socias publicadoras, -y las que han recopilado información aún sin publicar-, para que sumemos esfuerzos y juntos construyamos una ventana de conocimiento más amplia que nos permita avanzar en la consolidación del mapa de biodiversidad del país que, además, respalde la toma de decisiones que involucra a los seres humanos, su relación y cuidado de otras especies y el territorio. 
@@ -41,21 +39,21 @@ El taller está orientado a presentar y ampliar conocimiento en los siguientes e
 **Miércoles 03 de agosto**
 - **Fundamentos para publicar datos con valor**
   Introducción y recorrido por los conocimientos necesarios para compartir datos a través del SiB Colombia y el modelo de publicación. Taller práctico de acceso y uso de datos sobre biodiversidad.
-  **Ponentes**: Camila Plata y Ricardo Ortiz.
+
 
 **Jueves 04 de agosto**
 - **Datos de calidad para tomar de decisiones**
   Mirada en profundidad a los conceptos que componen la calidad de datos y un acercamiento práctico a las herramientas que permiten mejorar las publicaciones basadas en estos conceptos.
- **Ponentes**: Camila Plata y Ricardo Ortiz.
+
 
 **Viernes 05 de agosto**
 - **Biodiversidad en cifras**
   Acercamiento a la iniciativa nacional Biodiversidad en cifras y su propósito de aumentar el volumen de datos disponibles para el departamento de Nariño.
- **Ponentes**: Edda Viviana Forero, Juan Pablo Mrín, Camila Plata y Ricardo Ortiz.
+
 
 - **Mesa de ayuda para publicación de datos propios**
   Práctica abierta donde el equipo coordinador del SiB Colombia estará resolviendo dudas sobre publicación de datos. En este espacio, los participantes pueden llevar datos de sus organizaciones y recibirán la orientación necesaria para compartirlos a través de la red de datos abiertos sobre biodiversidad.
- **Ponentes**: Camila Plata y Ricardo Ortiz.
+
 
 ## Facilitadores:
 
@@ -91,6 +89,7 @@ El taller cuenta con 24 cupos, distribuidos así:
 ## Proceso de postulación y selección
 
 Para participar en el taller los postulantes deberán realizar los siguientes pasos:
+
 Enviar el [formulario de aplicación](https://docs.google.com/forms/d/e/1FAIpQLSfzv9efLE65Uf_GDye03w094uF5sx-s-21RNZ-jfXEoppaAWg/viewform) **hasta el domingo 24 de julio**. Ser explícito y detallado para facilitar la evaluación de su candidatura.
 
 La selección de los participantes estará a cargo de un comité evaluador conformado por los organizadores, que tendrá en cuenta los siguientes criterios:
