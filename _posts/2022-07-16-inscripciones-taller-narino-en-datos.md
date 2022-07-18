@@ -11,7 +11,7 @@ background: /assets/images/noticias_eventos/2022/2022-07-16-taller-narino.jpg
 
 Si vives al sur del país, específicamente en el departamento de Nariño, esta es una excelente oportunidad para formarte en gestión de datos sobre biodiversidad.
 
-Como parte del proyecto de **Turismo de Naturaleza Científico en Territorio Ancestral Awá del departamento de Nariño**, el equipo coordinador del SiB Colombia, en alianza con la empresa Datasketch, con el respaldo de la Universidad de Nariño, la Gobernación del departamento y la participación especial del Resguardo Integrado Pialapí Pueblo Viejo y la Reserva Natural La Planada; ofrecerán un taller sobre manejo de datos sobre biodiversidad.
+Como parte del proyecto de **Turismo de naturaleza científico en territorio ancestral Awá del departamento de Nariño**, el equipo coordinador del SiB Colombia, en alianza con la empresa Datasketch, con el respaldo de la Universidad de Nariño, la Gobernación del departamento y la participación especial del Resguardo Integrado Pialapí Pueblo Viejo y la Reserva Natural La Planada; ofrecerán un taller sobre manejo de datos sobre biodiversidad.
 
 Este taller busca compartir el conocimiento sobre temas como la calidad de datos, el modelo y proceso de publicación de datos a través del SiB Colombia y, así mismo, aumentar la disponibilidad de datos abiertos del departamento para destacarlo en la iniciativa nacional Biodiversidad en cifras.
 
