@@ -8,9 +8,9 @@ imageLicense: |
   Foto: desertnaturalist, [iNaturalist](https://colombia.inaturalist.org/observations/104947761){:target="_blank"}.
 height: 50vh
 navbar:
-  floating: false
-  color: "#ffffff"
-  hasWhiteText: false
+  #floating: false
+  #color: "#ffffff"
+  #hasWhiteText: false
 cta:
   - text: Consultar
     href: /consultar
