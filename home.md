@@ -7,10 +7,10 @@ background: assets/images/landing_page/SiB_bannerhome_20220517-Tangara-xanthocep
 imageLicense: |
   Foto: desertnaturalist, [iNaturalist](https://colombia.inaturalist.org/observations/104947761){:target="_blank"}.
 height: 50vh
-navbar:
-  #floating: false
-  #color: "#ffffff"
-  #hasWhiteText: false
+# navbar:
+  # floating: false
+  # color: "#ffffff"
+  # hasWhiteText: false
 cta:
   - text: Consultar
     href: /consultar
