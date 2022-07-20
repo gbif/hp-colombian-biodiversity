@@ -7,6 +7,10 @@ imageLicense: |
   Fotografía de: dotcomdotbr vía [Flickr](https://flic.kr/p/DH3JF2)
 toc: true
 height: 41vh
+navbar:
+    floating: true
+    color: "#00000055"   # transparent
+    hasWhiteText: true
 ---
 
 
