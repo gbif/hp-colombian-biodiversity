@@ -29,7 +29,7 @@ body, button, input, select, textarea {
 //Define la barra de menú fija
 
 .navbar {
-	background-color: transparent; //#00000055; // info previa white;
+	background-color: rgba(0,0,0,0.3);//transparent; //#00000055; // info previa white;
 	floating: true;
 	//position: sticky;
 	background-size: cover;
