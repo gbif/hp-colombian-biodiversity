@@ -29,7 +29,8 @@ body, button, input, select, textarea {
 //Define la barra de menú fija
 
 .navbar {
-	background-color: white;
+	background-color: #00000055; // info previa white;
+	floating: true;
 	//position: sticky;
 	background-size: cover;
 	top: 0;
