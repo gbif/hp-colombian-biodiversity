@@ -9,7 +9,7 @@ toc: true
 height: 61vh
 navbar:
     floating: true
-    color: "#00000055"   
+    color: #000033 
     hasWhiteText: true
 ---
 
