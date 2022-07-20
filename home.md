@@ -14,7 +14,7 @@ height: 50vh
 navbar:
     color: transparent
     hasWhiteText: true
-    floating: false
+    floating: true
 cta:
   - text: Consultar
     href: /consultar
