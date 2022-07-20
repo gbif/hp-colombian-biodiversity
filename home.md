@@ -15,7 +15,7 @@ height: 50vh
 # Barra de navegación flotante que permite ver la imagen de fondo
 navbar:
     floating: true
-    color: #00000055   # transparent
+    color: "#00000055"   # transparent
     hasWhiteText: true
     
 cta:
