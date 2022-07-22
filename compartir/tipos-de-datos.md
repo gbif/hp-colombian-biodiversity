@@ -6,11 +6,7 @@ background: https://live.staticflickr.com/4703/24749710527_1e14d20a15_b.jpg
 imageLicense: |
   Fotografía de: dotcomdotbr vía [Flickr](https://flic.kr/p/DH3JF2)
 toc: true
-height: 61vh
-navbar:
-    floating: true
-    color: #000033 
-    hasWhiteText: true
+height: 41vh
 ---
 
 
