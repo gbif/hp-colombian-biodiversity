@@ -14,7 +14,7 @@ El departamento de Nariño tiene una participación destacada en la riqueza biol
 
 Desde el SiB Colombia estamos trabajando en la consolidación del conocimiento sobre la biodiversidad de todo el país y, **en esta ocasión, con especial énfasis en el departamento de Nariño**. Para esto, hacemos un llamado a las organizaciones que ya son socias publicadoras, -y las que han recopilado información aún sin publicar-, para que sumemos esfuerzos y juntos construyamos una ventana de conocimiento más amplia que nos permita avanzar en la consolidación del mapa de biodiversidad del país que, además, respalde la toma de decisiones que involucra a los seres humanos, su relación y cuidado de otras especies y el territorio. 
 
-Esta es una invitación a participar en el **taller presencial en gestión, publicación y uso de datos primarios sobre biodiversidad que se realizará en la Universidad de Nariño, Pasto, entre el 3 y el 5 de agosto de 2022.**
+Esta es una invitación a participar en el **taller presencial en gestión, publicación y uso de datos primarios sobre biodiversidad que se realizará en la Universidad de Nariño, Pasto, entre el 3 y el 5 de agosto de 2022.** el cuál realizamos con el respaldo de la Universidad de Nariño, la Gobernación de Nariño, el Resguardo Integrado Pialapí Pueblo Viejo de la comunidad Awá y la Reserva Natural La Planada.
 
 ## Objetivo
 
