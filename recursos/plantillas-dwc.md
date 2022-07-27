@@ -191,7 +191,7 @@ Use esta plantilla si sus datos:
 
 
 <details>
-    <summary markdown="span"><b><a href="https://drive.google.com/uc?export=download&id=1BEpjkyfXqCSsBj24QclPY8FOpFCNcCd">Descargar última versión v4.0</a></b></summary>
+    <summary markdown="span"><b><a href="https://drive.google.com/u/0/uc?id=1BEpjkyfXqCSsBj24QclPY8FOpFCNcCdC&export=download">Descargar última versión v4.0</a></b></summary>
     <p><i>Revisada y editada 2022-02</i></p>
     
 </details>
@@ -221,7 +221,7 @@ Use esta plantilla si sus datos:
 * No solo documentan atributos de un registro biológico, sino también el detalle suficiente para determinar la composición de una comunidad o abundancia relativa de las especies en diferentes momentos del tiempo.
 
 <details>
-    <summary markdown="span"><b><a href="https://drive.google.com/uc?id=1s4YC0Rkxoi3TsDvxiuGNp0CeMMzHf-9U=2&export=download">Descargar última versión v2.0</a></b></summary>
+    <summary markdown="span"><b><a href="https://drive.google.com/u/0/uc?id=1s4YC0Rkxoi3TsDvxiuGNp0CeMMzHf-9U&export=download">Descargar última versión v2.0</a></b></summary>
     <p><i>Revisada y editada 2022-02</i></p>
     
 </details>
