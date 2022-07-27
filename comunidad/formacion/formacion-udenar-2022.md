@@ -59,8 +59,9 @@ El taller está orientado a presentar y ampliar conocimiento en los siguientes e
 ## Facilitadores:
 
 - **Ricardo Ortiz**: Ingeniero ambiental, especialista en Sistemas de Información Geográfica. Apoya la línea de Administración de contenidos del SiB Colombia, en cuanto a publicación, síntesis y resolución de consultas basadas en datos sobre biodiversidad.
-- **Camila Plata**: Bióloga e ingeniera ambiental de formación con una maestría en Biología Evolutiva. Desde el SiB Colombia lidera la línea de Administración de Contenidos asegurando que los datos publicados a través del sistema sean de la mejor calidad para ser utilizados en investigación y toma de decisiones, además de liderar procesos de análisis y síntesis de cifras.
-- **Equipo Datasketch**: Empresa de tecnología social que busca promover el uso responsable de las tecnologías de la información y de los datos.
+- **Nerieth Leuro**: Bióloga y tecnóloga en análisis y desarrollo de sistemas de información. Apoya los procesos de validación, limpieza de datos y síntesis de cifras sobre biodiversidad Nacional a partir de los datos publicados en el SiB Colombia. Utilizando lenguajes y herramientas como python y Open Refine
+- **Juan Pablo Marín**: Científico de datos y fundador de Datasketch, el app store de la ciencia de datos. Ha trabajado con múltiples organizaciones gubernamentales y no gubernamentales en América Latina para analizar, explorar y visualizar diversas fuentes de información para el bien público con experiencia en la creación de políticas y lineamientos de transparencia y gobernanza de datos para múltiples sectores. Juan Pablo cuenta con un MSc en Tecnologías de Información de ETH Zurich.
+- **Edda Forero**: Antropóloga cultural con trayectoria en investigación de derechos colectivos y digitales, estructuración de sistemas de información cultural y creación de contenido web. Además, trabaja en proyectos culturales que enlazan la gestión del conocimiento, datos e información.
 
 
 ## ¿A quién está dirigido?
