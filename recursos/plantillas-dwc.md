@@ -191,13 +191,12 @@ Use esta plantilla si sus datos:
 
 
 <details>
-    <summary markdown="span"><b><a href="https://drive.google.com/u/0/uc?id=1BEpjkyfXqCSsBj24QclPY8FOpFCNcCdC&export=download">Descargar última versión v4.0</a></b></summary>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?id=1BEpjkyfXqCSsBj24QclPY8FOpFCNcCdC&authuser=2&export=download">Descargar última versión v4.0</a></b></summary>
     <p><i>Revisada y editada 2022-02</i></p>
     
 </details>
 <details>
-    <summary markdown="span"><B>Historial de versiones</B></summary>
-<a href="https://drive.google.com/uc?export=download&id=1p2j1KYHsNPyt50LopUkdhdaMlI6SZd4Q">Descargar última versión v3.2</a></b></summary>
+    <summary markdown="span"><B>Historial de versiones</B></summary><a href="https://drive.google.com/uc?export=download&id=1p2j1KYHsNPyt50LopUkdhdaMlI6SZd4Q">Descargar última versión v3.2</a></b></summary>
     <p><i>Revisada y editada 2017-11</i></p>
     <a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=11rXim-K9OvEX3icT10sA5FE67NNvPIdd&export=download"><b>Plantilla de Listas v3.0</b></a>
     <p><i>Revisada y editada  2013-11</i></p>
@@ -221,14 +220,13 @@ Use esta plantilla si sus datos:
 * No solo documentan atributos de un registro biológico, sino también el detalle suficiente para determinar la composición de una comunidad o abundancia relativa de las especies en diferentes momentos del tiempo.
 
 <details>
-    <summary markdown="span"><b><a href="https://drive.google.com/u/0/uc?id=1s4YC0Rkxoi3TsDvxiuGNp0CeMMzHf-9U&export=download">Descargar última versión v2.0</a></b></summary>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?id=1s4YC0Rkxoi3TsDvxiuGNp0CeMMzHf-9U&authuser=2&export=download">Descargar última versión v2.0</a></b></summary>
     <p><i>Revisada y editada 2022-02</i></p>
     
 </details>
 
 <details>
-    <summary markdown="span"><B>Historial de versiones</B></summary>
-<a href="https://drive.google.com/uc?id=1N3zTljnFujY7MC8Y_R4vd7vr1IhjgeXp&authuser=2&export=download">Descargar última versión v1.1</a></b></summary>
+    <summary markdown="span"><B>Historial de versiones</B></summary><a href="https://drive.google.com/uc?id=1N3zTljnFujY7MC8Y_R4vd7vr1IhjgeXp&authuser=2&export=download">Descargar última versión v1.1</a></b></summary>
     <p><i>Revisada y editada 2014-05</i></p>
 
 </details>
