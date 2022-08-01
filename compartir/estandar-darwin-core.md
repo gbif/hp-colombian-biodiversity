@@ -1036,7 +1036,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="verbatimCoordinateSystem">**verbatimCoordinateSystem** (Sistema original de coordenadas)</a>
 
 | ---: | :--- |
-| Definición | El sistema de coordenadas espaciales para verbatimLatitude y verbatinLongitude original o verbatimCoordinates de la ubicación. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
+| Definición | El sistema de coordenadas espaciales para verbatimLatitude y verbatimLongitude original o verbatimCoordinates de la ubicación. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
 | Ejemplo | Grados decimales<br> Grados, minutos decimales<br> Grados, minutos, segundos<br> UTM<br> Coordenadas planas<br> Coordenadas proyectadas |
 | Elementos relacionados | verbatimLatitude, verbatimLongitude, verbatimCoordinates, verbatimSRS |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
@@ -1046,7 +1046,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="verbatimSRS">**verbatimSRS** (SRS original)</a>
 
 | ---: | :--- |
-| Definición | El elipsoide, datum geodésico, o sistema de referencia espacial (SRS) en el que se basan las coordenadas provistas en verbatimLatitude y verbatinLongitude o verbatimCoordinates. Se recomienda usar el código EPSG, si se conoce. Caso contrario, utilice un lenguaje controlado para el nombre o código del datum geodésico, o un vocabulario controlado para el nombre o código del elipsoide, si se conoce. Si ninguno de estos se conoce, utilice el valor "Desconocido". |
+| Definición | El elipsoide, datum geodésico, o sistema de referencia espacial (SRS) en el que se basan las coordenadas provistas en verbatimLatitude y verbatimLongitude o verbatimCoordinates. Se recomienda usar el código EPSG, si se conoce. Caso contrario, utilice un lenguaje controlado para el nombre o código del datum geodésico, o un vocabulario controlado para el nombre o código del elipsoide, si se conoce. Si ninguno de estos se conoce, utilice el valor "Desconocido". |
 | Ejemplo | EPSG: 4326<br> EPSG: 3116<br> WGS84<br> UTM zone 17T<br> MAGNA-SIRGAS origen Bogotá<br> MAGNA-SIRGAS origen Oeste<br> MAGNA-SIRGAS origen CTM-12<br> Desconocido |
 | Elementos relacionados | verbatimLatitude, verbatimLongitude, verbatimCoordinates, verbatimCoordinateSystem |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
@@ -1524,7 +1524,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Un identificador único global del taxón (datos asociados a la clasificación del Taxón) de acuerdo al nombre científico documentado en el elemento scientificName. Puede ser un identificador único global o un identificador específico para el conjunto de datos.<br><br> Este puede ser obtenido de bases de datos o catálogos taxonómicos globales. |
-| Ejemplo | (gbif.org/species/3056437<br> urn:lsid:marinespecies.org:taxname:124821<br> urn:lsid:gbif.org:usages:32567<br> 8fa58e08-08de-4ac1-b69c-1235340b7001 |
+| Ejemplo | gbif.org/species/3056437<br> urn:lsid:marinespecies.org:taxname:124821<br> urn:lsid:gbif.org:usages:32567<br> 8fa58e08-08de-4ac1-b69c-1235340b7001 |
 | Elementos relacionados | scientificName |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Obligatorio)_ |
 
@@ -1534,7 +1534,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Un identificador de los detalles de la nomenclatura (no taxonómica) de acuerdo al nombre científico documentado en el elemento scientificName.<br><br><br> Este puede ser obtenido de catálogos taxonómicos globales. |
-| Ejemplo | (urn:lsid:ipni.org:names:37829-1:1.3<br> urn:lsid:marinespecies.org:taxname:493567 |
+| Ejemplo | urn:lsid:ipni.org:names:37829-1:1.3<br> urn:lsid:marinespecies.org:taxname:493567 |
 | Elementos relacionados | scientificName |
 | Core _(Obligatoriedad)_ | Registros _(Condicinal)_. Obligatorio cuando el registro es marino<br> Lista de chequeo _(Opcional)_ |
 
