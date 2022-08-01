@@ -110,7 +110,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El título que identifica el conjunto de datos referenciado en ID del conjunto de datos. |
-| Ejemplo | Colombia Bio<br> Fondo Adaptación<br> Boyacá Bio<br><br>  Cenipalma<br> |
+| Ejemplo | Colombia Bio<br> Fondo Adaptación<br> Boyacá Bio<br>  Cenipalma<br> |
 | Elementos relacionados | datasetNameID |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
@@ -120,7 +120,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Un identificador para  conjunto  o sub conjunto de datos. Puede ser un identificador único global como un DOI o un identificador específico de una colección o institución. |
-| Ejemplo | doi.org/10.15472/8xjulj<br> IAvH:CE16-062:8956:2016<br> SINCHI:CE17-845:2017<br><br> ANLA:1608:2017<br>CORNARE:5D800FGH:2015<br><br> ACTO_LEGAL:CORMACARENA:34f-19:2017<br>ACTO_LEGAL:POLICIA_AMBIENTAL:PF-19075C:201<br><br> AMNISTÍA:8962:2019<br>AMNISTÍA:59VI-196:2018 |
+| Ejemplo | doi.org/10.15472/8xjulj<br> IAvH:CE16-062:8956:2016<br> SINCHI:CE17-845:2017<br> |
 | Elementos relacionados | datasetName |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
