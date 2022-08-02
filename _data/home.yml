@@ -45,16 +45,15 @@ estadisticas:
 noticias:
   features:
 
-
-    - preTitle: Formación
-      title: Inscripciones al taller Nariño en datos
+    - preTitle: Datos abiertos
+      title: Datos nuevos o antiguos, ¡todos cuentan!
       description: |      # required
-        Inscripciones hasta el 24 de julio. El taller será del 3 al 5 de agosto en Pasto.
+        Queremos incrementar la disponibilidad de datos sobre biodiversidad en el país.
       # img required
-      background: /assets/images/noticias_eventos/2022/2022-07-16-taller-narino.jpg
+      background: assets/images/minga/cabezote.jpg
       cta:
       - text: Ver más
-        href: post/2022/inscripciones-taller-narino-en-datos
+        href: /compartir/minga-por-la-biodiversidad
         isPrimary: false
 
     - preTitle: Listas de chequeo
@@ -83,6 +82,17 @@ noticias:
 
 noticiasViejas:
   features:
+
+    - preTitle: Formación
+      title: Inscripciones al taller Nariño en datos
+      description: |      # required
+        Inscripciones hasta el 24 de julio. El taller será del 3 al 5 de agosto en Pasto.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-07-16-taller-narino.jpg
+      cta:
+      - text: Ver más
+        href: post/2022/inscripciones-taller-narino-en-datos
+        isPrimary: false
 
     - preTitle: Cifras
       title: Biodiversidad en cifras 2022
