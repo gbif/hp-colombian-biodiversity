@@ -53,7 +53,7 @@ noticias:
       background: assets/images/minga/cabezote.jpg
       cta:
       - text: Ver más
-        href: /compartir/minga-por-la-biodiversidad
+        href: /minga
         isPrimary: false
 
     - preTitle: Listas de chequeo
