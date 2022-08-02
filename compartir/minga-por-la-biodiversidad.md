@@ -1,5 +1,6 @@
 ---
 layout: compose
+permalink: /minga
 title: Minga por la biodiversidad del departamento de Nariño
 description: La minga por la biodiversidad busca incrementar la disponibilidad de datos sobre la diversidad biológica del país.
 background: /assets/images/minga/cabezote.jpg
