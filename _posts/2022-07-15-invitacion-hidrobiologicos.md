@@ -5,7 +5,7 @@ description: |
  _Dos nuevas listas de recursos hidrobiológicos, que amplían el conocimiento de la biodiversidad colombiana, abiertas para aportes y contribuciones de toda la comunidad científica._
 date: 2022-07-15
 categories: ["Listas de chequeo","Listas de referencia","Taxonomía","2022"]
-background: https://images.unsplash.com/photo-1551663746-8b1cda20483f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+background: /assets/images/noticias_eventos/2022/2022-07-15-hidrobiologicos.jpg
 
 ---
 
