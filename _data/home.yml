@@ -50,7 +50,7 @@ noticias:
       description: |      # required
         Conoce el trabajo del Grupo de Coloepterólogos de Colombia.
       # img required
-      background: /assets/images/noticias_eventos/2022/2022-07-15-listas.jpg
+      background: /assets/images/noticias_eventos/2022/2022-08-03-post-listas-coleoptera.jpg
       cta:
       - text: Ver más
         href: /assets/images/noticias_eventos/2022/2022-08-03-post-listas-coleoptera.jpg
