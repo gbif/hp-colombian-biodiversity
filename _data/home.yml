@@ -45,15 +45,26 @@ estadisticas:
 noticias:
   features:
 
-    - preTitle: Datos abiertos
-      title: Datos nuevos o antiguos, ¡todos cuentan!
+    - preTitle: Listas de chequeo
+      title: Listas de los coleópteros del país
       description: |      # required
-        Queremos incrementar la disponibilidad de datos sobre biodiversidad en el país.
+        Conoce el trabajo del Grupo de Coloepterólogos de Colombia.
       # img required
-      background: assets/images/minga/cabezote.jpg
+      background: /assets/images/noticias_eventos/2022/2022-07-15-listas.jpg
       cta:
       - text: Ver más
-        href: /minga
+        href: /assets/images/noticias_eventos/2022/2022-08-03-post-listas-coleoptera.jpg
+        isPrimary: false
+
+    - preTitle: Datos abiertos
+      title: ¡Datos al agua!
+      description: |      # required
+        Conoce la segunda edición de Sonar, la revista de divulgación científica de CEMarin.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-07-18-cemarin.jpg
+      cta:
+      - text: Ver más
+        href: /post/2022/cemarin-sonar-ed2/
         isPrimary: false
 
     - preTitle: Listas de chequeo
@@ -67,6 +78,11 @@ noticias:
         href: post/2022/invitacion-hidrobiologicos/
         isPrimary: false
 
+# Noticias viejas 
+
+noticiasViejas:
+  features:
+
     - preTitle: Listas de chequeo
       title: Conoce las listas taxonómicas de referencia
       description: |      # required
@@ -77,11 +93,6 @@ noticias:
       - text: Ver más
         href: post/2022/listas-referencia-taxonomica/
         isPrimary: false
-
-# Noticias viejas 
-
-noticiasViejas:
-  features:
 
     - preTitle: Formación
       title: Inscripciones al taller Nariño en datos
