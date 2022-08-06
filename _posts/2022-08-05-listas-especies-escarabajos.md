@@ -4,7 +4,7 @@ title: "Listas revelan la biodiversidad de los escarabajos en Colombia"
 description: |
  _El Grupo de Coleopterólogos de Colombia se destaca por recopilar y publicar listas de referencia taxonómica sobre el grupo biológico más numeroso: los escarabajos._
 date: 2022-08-05
-categories: ["Listas de especies", "Aliados", "Coleópteros", "2022"]
+categories: ["Listas de chequeo","Listas de referencia","Taxonomía", "Aliados", "Coleópteros", "2022"]
 background: /assets/images/noticias_eventos/2022/2022-08-03-post-listas-coleoptera.jpg
 
 ---
