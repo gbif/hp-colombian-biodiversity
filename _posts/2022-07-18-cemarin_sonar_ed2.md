@@ -5,7 +5,7 @@ description: |
  _La apuesta del SiB Colombia por visibilizar la investigación de la biodiversidad marina y los datos abiertos se destacó en la segunda edición de la revista Sonar._
 date: 2022-07-18
 categories: ["Biodiversidad Marina", "CEMarin", "2022", "Océano"]
-background: https://live.staticflickr.com/65535/51323465720_a70d7233c6_h.jpg
+background: /assets/images/noticias_eventos/2022/2022-07-18-cemarin.jpg
 
 ---
 La apuesta del SiB Colombia por la investigación de la biodiversidad marina y los datos abiertos se destacó en la segunda edición de Sonar, la revista de divulgación científica de CEMarin. 
