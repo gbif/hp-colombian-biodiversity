@@ -5,7 +5,7 @@ description: |
  _La diversidad biológica es de gran importancia para las generaciones presentes y futuras, desde el SiB Colombia queremos compartir algunas acciones para cuidarla._
 date: 2022-05-23
 categories: ["Campañas", "ONU", "2022"]
-background: /assets/images/noticias_eventos/2022/2022-05-23-22-acciones.jpg
+background: /assets/images/noticias_eventos/2022/2022-05-23-22-acciones_.jpg
 
 ---
 
