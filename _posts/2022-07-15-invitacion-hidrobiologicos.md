@@ -4,7 +4,7 @@ title: "Invitación a participar en listas de recursos hidrobiológicos"
 description: |
  _Dos nuevas listas de recursos hidrobiológicos, que amplían el conocimiento de la biodiversidad colombiana, abiertas para aportes y contribuciones de toda la comunidad científica._
 date: 2022-07-15
-background: /assets/images/noticias_eventos/2022/2022-07-15-hidrobiologicos.jpg
+background: /assets/images/noticias_eventos/2022/2022-07-15-hidrobiologicos_.jpg
 categories: ["Listas de chequeo","Listas de referencia","Taxonomía","2022"]
 
 ---
