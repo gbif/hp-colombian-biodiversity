@@ -5,7 +5,7 @@ description: |
  _Publicar datos abiertos sobre biodiversidad es un ejercicio voluntario; diferente a reportar, proceso para dar cumplimento a la regulación ambiental._
 date: 2022-04-21
 categories: ["Reportar datos", "Datos abiertos", "Certificados", "2022"]
-background: /assets/images/noticias_eventos/2022/2022-04-09-publicar-reportar-datos-biodiversidad.jpg
+background: /assets/images/noticias_eventos/2022/2022-04-09-publicar-reportar-datos-biodiversidad_.jpg
 
 ---
 
