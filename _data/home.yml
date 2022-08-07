@@ -50,10 +50,10 @@ noticias:
       description: |      # required
         Conoce el trabajo del Grupo de Coloepterólogos de Colombia.
       # img required
-      background: /assets/images/noticias_eventos/2022/2022-08-03-post-listas-coleoptera.jpg
+      background: /assets/images/noticias_eventos/2022/2022-08-03-post-listas-coleoptera_.jpg
       cta:
       - text: Ver más
-        href: /assets/images/noticias_eventos/2022/2022-08-03-post-listas-coleoptera.jpg
+        href: /post/2022/listas-especies-escarabajos/
         isPrimary: false
 
     - preTitle: Datos abiertos
@@ -61,7 +61,7 @@ noticias:
       description: |      # required
         Conoce la segunda edición de Sonar, la revista de divulgación científica de CEMarin.
       # img required
-      background: /assets/images/noticias_eventos/2022/2022-07-18-cemarin.jpg
+      background: /assets/images/noticias_eventos/2022/2022-07-18-cemarin_.jpg
       cta:
       - text: Ver más
         href: /post/2022/cemarin-sonar-ed2/
@@ -72,7 +72,7 @@ noticias:
       description: |      # required
         Los grupos autores de las nuevas listas abren la recepción de contribuciones.
       # img required
-      background: /assets/images/noticias_eventos/2022/2022-07-15-hidrobiologicos.jpg
+      background: /assets/images/noticias_eventos/2022/2022-07-15-hidrobiologicos_.jpg
       cta:
       - text: Ver más
         href: post/2022/invitacion-hidrobiologicos/
