@@ -5,7 +5,7 @@ description: |
  _Del 3 al 5 de agosto de 2022, en la ciudad de Pasto, Nariño, se llevará a cabo este taller, que busca ampliar el conocimiento sobre la publicación, el acceso y el uso de datos abiertos sobre biodiversidad._
 date: 2022-07-16
 categories: ["Formación","Nariño","Datos abiertos","2022"]
-background: /assets/images/noticias_eventos/2022/2022-07-16-taller-narino.jpg
+background: /assets/images/noticias_eventos/2022/2022-07-16-taller-narino_.jpg
 
 ---
 
