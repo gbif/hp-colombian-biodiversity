@@ -9,7 +9,7 @@ background: /assets/images/noticias_eventos/2022/2022-08-03-post-listas-coleopte
 
 ---
 
-Autor: Grupo de Coleopterólogos de Colombia 
+Escrito por: Jennifer Girón, Grupo de Coleopterólogos de Colombia 
 
 Desde finales de 2020 el[ Grupo de Coleopterólogos de Colombia](https://sites.google.com/view/coleopcol/){:target="_blank"} ha **recopilado [listados de las especies de escarabajos](https://biodiversidad.co/dataset/search?publishingOrg=2c39be5c-c11e-46d0-bcb4-552f2072d19f&type=CHECKLIST){:target="_blank"} que se han reportado para el país** en la literatura. Este artículo cuenta la experiencia y el aporte que la publicación de estas [listas de referencia taxonómicas](https://biodiversidad.co/post/2022/listas-referencia-taxonomica/){:target="_blank"} hacen al conocimiento de la Biodiversidad de nuestro territorio.
 
