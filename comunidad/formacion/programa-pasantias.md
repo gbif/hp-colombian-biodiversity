@@ -234,7 +234,7 @@ La convocatoria se abre durante un mes, ya sea semestral o anualmente. Solo en e
 
 **Recursos útiles para aplicar**:
 
-* [Recomendaciones par ala elaboración de una hoja de vida](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=101:hoja-de-vida&catid=76&Itemid=169){:target="_blank"}
+* [Recomendaciones para la elaboración de una hoja de vida](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=101:hoja-de-vida&catid=76&Itemid=169){:target="_blank"}
 * [Formato de carta de postulación](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=133:guia-para-la-elaboracion-de-cartas-de-presentacion-o-cover-letters&catid=76&Itemid=169){:target="_blank"}
 
 ### Etapas del proceso de selección
@@ -271,7 +271,7 @@ En caso de ser elegido como pasantes, los estudiantes deberán recopilar los sig
 6. Fotocopia del recibo de matrícula del semestre en curso o del semestre en que se ejecutará la pasantía.
 7. Constancia de afiliación del estudiante al Sistema de Riesgos Laborales (ARL). La afiliación la debe realizar la universidad o el Instituto Humboldt, en el caso de las pasantías con apoyo del programa Estado Joven.
 8. Nombre, cédula, cargo y datos de contacto (teléfono y correo electrónico) del tutor/monitor dentro de la universidad.
-9. RUT (Registro Único Tributario) de la universidad, con fecha de expedición no mayor a 90 días..
+9. RUT (Registro Único Tributario) de la universidad.
 10. Certificado de existencia y representación legal de la universidad, con fecha de expedición no mayor a 90 días.
 11. Copia de la cédula de ciudadanía del representante legal de la universidad, o los documentos de la eventual persona que vaya a ser designada para firmar el acuerdo tripartito (poder, autorización o su equivalente en la universidad, junto con copia de la cédula).
 12. Documento que acredite que la persona indicada en el numeral anterior tiene las facultades para suscribir el acuerdo tripartito.
