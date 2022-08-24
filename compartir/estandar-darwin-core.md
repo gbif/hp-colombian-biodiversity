@@ -1119,8 +1119,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Una representación Well-Known Text (WKT) de la forma (footprint, geometría) que define la ubicación. Una ubicación puede tener una representación de radio-punto (véase decimalLatitude) y una representación footprint, y pueden diferir entre sí. |
-| Comentarios | Documente este elemento de acuerdo a las siguientes explicaciones:<br><br> POLYGON ((10 20, 11 20, 11 21, 10 21, 10 20)) (Para un cuadrante con esquinas opuestas (longitud=10, latitud=20) y (longitud=11, latitud=21))<br> LINESTRING (10.689195 -74.139299, 10.689422 -74.13791) (Para un transecto de muestro con coordenadas iniciales 10.689195 -74.139299 y finales 10.689422 -74.13791) |
-| Ejemplo | POLYGON ((10 20, 11 20, 11 21, 10 21, 10 20))<br> LINESTRING (10.689195 -74.139299, 10.689422 -74.13791) |
+| Comentarios | Documente este elemento de acuerdo a las siguientes explicaciones:<br><br> POLYGON ((10 20, 11 20, 11 21, 10 21, 10 20)) (Para un cuadrante con esquinas opuestas (longitud=10, latitud=20) y (longitud=11, latitud=21))<br> LINESTRING (-74.139299 10.689195, -74.13791 10.689422) (Para un transecto de muestreo con coordenadas iniciales (longitud=-74.139299, latitud=10.689195) y finales (longitud=-74.13791, latitud=10.689422)) |
+| Ejemplo | POLYGON ((10 20, 11 20, 11 21, 10 21, 10 20))<br> LINESTRING (-74.139299 10.689195, -74.13791 10.689422) |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
