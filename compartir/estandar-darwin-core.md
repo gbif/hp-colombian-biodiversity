@@ -2794,7 +2794,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | Índice |    |    |    |
 | ---|--- |--- |--- |
-| [**typeStatus**<br> (Estado del tipo)](#tipos_typeStatus) | [**typeDesignationType**<br> (Tipo de designación del tipo)](#typeDesignationType) | [**typeDesignatedBy**<br> (Tipo designado por)](#typeDesignatedBy) | [**scientificName**<br> (Nombre científico)](#tipos_scientificName) |
+| [**typeStatus**<br> (Tipo nomenclatural)](#tipos_typeStatus) | [**typeDesignationType**<br> (Tipo de designación del tipo)](#typeDesignationType) | [**typeDesignatedBy**<br> (Tipo designado por)](#typeDesignatedBy) | [**scientificName**<br> (Nombre científico)](#tipos_scientificName) |
 | [**taxonRank**<br> (Categoría del taxón)](#tipos_taxonRank) | [**bibliographicCitation**<br> (Citación bibliográfica)](#tipos_bibliographicCitation) | [**occurrenceID**<br> (ID del registro biológico)](#tipos_occurrenceID) | [**institutionCode**<br> (Código de la institución)](#tipos_institutionCode) |
 | [**collectionCode**<br> (Código de la colección)](#tipos_collectionCode) | [**catalogNumber**<br> (Número de catálogo)](#tipos_catalogNumber) | [**locality**<br> (Localidad)](#tipos_locality) | [**sex**<br> (Sexo)](#tipos_sex) |
 | [**recordedBy**<br> (Registrado por)](#tipos_recordedBy) | [**source**<br> (Fuente)](#tipos_source) | [**verbatimEventDate**<br> (Fecha original del evento)](#tipos_verbatimEventDate) | [**verbatimLabel**<br> (Etiqueta original)](#verbatimLabel) |
@@ -2803,7 +2803,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <br>
 <br>
 
-<a id="tipos_typeStatus">**typeStatus** (Estado del tipo)</a>
+<a id="tipos_typeStatus">**typeStatus** (Tipo nomenclatural)</a>
 
 | ---: | :--- |
 | Definición | El tipo nomenclatural del espécimen. Se recomienda el uso de un vocabulario controlado. |
