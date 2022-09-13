@@ -6,7 +6,9 @@ description: |
 date: 2022-08-05
 categories: ["Sector empresarial", "Alianza ANDI", "Datos abiertos", "Aliados", "2022"]
 background: /assets/images/noticias_eventos/2022/2022-09-12-empresas-colombianas-aportan-conocimiento-biodiversidad.jpg
-
+imageLicense: |
+  Foto: Roger Franco Molina (CC-BY 4.0), [iNaturalist](https://www.inaturalist.org/observations/17796354){:target="_blank"}.
+  
 ---
 
 * _Con una cifra sin precedentes, más de 2,9 millones de registros biológicos publicados, avanza con pie derecho el tercer año de la alianza “Datos abiertos sobre biodiversidad desde el sector empresarial”._
