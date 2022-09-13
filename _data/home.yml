@@ -45,6 +45,17 @@ estadisticas:
 noticias:
   features:
 
+    - preTitle: Aliados
+      title: Datos abiertos desde el sector empresarial
+      description: |      # required
+        Alianza con la ANDI aporta 2,9 millones de registros biológicos.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-09-12-empresas-colombianas-aportan-conocimiento-biodiversidad.jpg
+      cta:
+      - text: Ver más
+        href: /post/2022/empresas-colombianas-aportan-conocimiento-biodiversidad/
+        isPrimary: false
+
     - preTitle: Listas de chequeo
       title: Listas de los coleópteros del país
       description: |      # required
@@ -67,6 +78,12 @@ noticias:
         href: /post/2022/cemarin-sonar-ed2/
         isPrimary: false
 
+
+# Noticias viejas 
+
+noticiasViejas:
+  features:
+
     - preTitle: Listas de chequeo
       title: Invitación a participar, listas hidrobiológicas
       description: |      # required
@@ -77,11 +94,6 @@ noticias:
       - text: Ver más
         href: post/2022/invitacion-hidrobiologicos/
         isPrimary: false
-
-# Noticias viejas 
-
-noticiasViejas:
-  features:
 
     - preTitle: Listas de chequeo
       title: Conoce las listas taxonómicas de referencia
