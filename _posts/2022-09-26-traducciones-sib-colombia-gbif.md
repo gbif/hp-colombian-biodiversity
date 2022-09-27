@@ -1,6 +1,6 @@
 ---
 preTitle: 26 de septiembre, 2022
-title: "Participación activa del SiB Colombia en tradicciones de GBIF"
+title: "Participación activa del SiB Colombia en traducciones de GBIF"
 description: |
  _Dos cursos actualizados y seis nuevas guías de GBIF fueron traducidos al español por el SiB Colombia para facilitar el proceso de publicación de datos sobre biodiversidad en la comunidad hispanohablante._
 date: 2022-09-26
@@ -8,7 +8,6 @@ categories: ["Documentos", "Traducciones", "GBIF", "Aliados", "2022"]
 background: /assets/images/noticias_eventos/2022/2022-09-26-traducciones-sib-colombia-gbif.jpg
   
 ---
-
 
 _“La traducción es una de las poquísimas actividades humanas donde lo imposible ocurre por principio”, Mariano Antolín Rato._
 
