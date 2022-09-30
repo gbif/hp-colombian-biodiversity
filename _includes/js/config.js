@@ -41,7 +41,7 @@ var siteConfig = {
         }
       ]
     },
-    highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince','publisher','elevation','year', 'basisOfRecord','datasetName','occurrenceIssue'],
+    highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince','publisherKey','elevation','year', 'basisOfRecord','datasetName','occurrenceIssue'],
     occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY', 'DATASETS'],
     // availableCatalogues: ['OCCURRENCE', 'DATASET']
   },
