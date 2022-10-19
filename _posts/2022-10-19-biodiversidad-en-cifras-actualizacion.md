@@ -15,7 +15,7 @@ _Por primera vez en la historia de Colombia **un resguardo indígena y un área 
 
 _Los departamentos de **Tolima y Nariño se suman** a Santander y Boyacá en un ejercicio de regionalización que fortalece el conocimiento de la riqueza biológica a nivel nacional._
 
-El Sistema de Información sobre Biodiversidad, SiB Colombia, presenta la **nueva versión de su portal “Biodiversidad en Cifras”**;** **una plataforma que se renueva, crece y evoluciona para ofrecer, de manera más detallada y sencilla, una síntesis de cifras sobre el estado del conocimiento de la diversidad biológica del país.
+El Sistema de Información sobre Biodiversidad, SiB Colombia, presenta la **nueva versión de su portal “Biodiversidad en Cifras”**; una plataforma que se renueva, crece y evoluciona para ofrecer, de manera más detallada y sencilla, una síntesis de cifras sobre el estado del conocimiento de la diversidad biológica del país.
 
 La nueva versión se podrá consultar de manera libre, abierta y gratuita a partir del 19 de octubre de 2022 y estará disponible en la dirección web [cifras.biodiversidad.co](https://cifras.biodiversidad.co/){:target="_blank"}.
 
@@ -35,7 +35,7 @@ En la Reserva Natural La Planada se pueden encontrar 73 especies endémicas para
 
 Respecto a los datos reportados para Tolima, la palma de cera es la planta con mayor número de observaciones y las mariposas aportan 53 % de las especies de insectos observadas para el departamento.
 
-La nueva versión del portal **[cifras.biodiversidad.co](https://cifras.biodiversidad.co/)**{:target="_blank"} hace parte del ecosistema digital del SiB Colombias y se suma la reciente campaña de renovación de herramientas informáticas, de las cuales ya están disponibles el portal de datos interconectado con GBIF, el IPT para el registro de datos asociados a permisos de recolección y el Catálogo de la BIodiversidad con fichas de especies. 
+La nueva versión del portal **[cifras.biodiversidad.co](https://cifras.biodiversidad.co/){:target="_blank"}** hace parte del ecosistema digital del SiB Colombias y se suma la reciente campaña de renovación de herramientas informáticas, de las cuales ya están disponibles el portal de datos interconectado con GBIF, el IPT para el registro de datos asociados a permisos de recolección y el Catálogo de la BIodiversidad con fichas de especies. 
 
 Esto es una realidad gracias a quienes colectan, registran y comparten datos sobre la riqueza biológica de nuestro territorio a través del SiB Colombia; lo que ha permitido trabajar a favor de la construcción colectiva de conocimiento con un modelo participativo, basado en principios de libre acceso y datos abiertos.
 
