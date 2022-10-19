@@ -40,6 +40,12 @@ estadisticas:
        # Publicadorees  <span data-ajax-url="https://api.gbif.org/v1/organization?country=CO&limit=0&isEndorsed=true">100,000</span>
          # Conjuntos de datos <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=CO&limit=0">100,000</span>
 
+# Notis
+
+notis:
+- type: latestPosts
+  data: compose.examples.latestPostsExample
+
 # Tarjetas
 
 noticias:
@@ -57,7 +63,7 @@ noticias:
         isPrimary: false
 
     - preTitle: Aliados
-      title: Biodiversidad en Cifras: Tolima
+      title: "Biodiversidad en Cifras: Tolima"
       description: |      # required
         "Departamento del Tolima inaugura nueva versión del portal de Cifras."
       # img required
@@ -68,7 +74,7 @@ noticias:
         isPrimary: false
 
     - preTitle: Aliados
-      title: Biodiversidad en Cifras: Nariño
+      title: "Biodiversidad en Cifras: Nariño"
       description: |      # required
         "Pueblo Awá de Nariño, primera comunidad indígena en compartir datos."
       # img required
