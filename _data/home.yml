@@ -48,7 +48,7 @@ noticias:
     - preTitle: Cifras
       title: Biodiversidad en Cifras evoluciona
       description: |      # required
-        Nueva versión mejorada del portal de cifras del SiB Colombia.
+        "Nueva versión mejorada del portal de cifras del SiB Colombia."
       # img required
       background: /assets/images/noticias_eventos/2022/2022-10-19-biodiversidad-en-cifras.jpg
       cta:
@@ -59,7 +59,7 @@ noticias:
     - preTitle: Aliados
       title: Biodiversidad en Cifras: Tolima
       description: |      # required
-        Departamento del Tolima inaugura nueva versión del portal de Cifras.
+        "Departamento del Tolima inaugura nueva versión del portal de Cifras."
       # img required
       background: /assets/images/noticias_eventos/2022/2022-10-19-biodiversidad-en-cifras-tolima.jpg
       cta:
@@ -70,7 +70,7 @@ noticias:
     - preTitle: Aliados
       title: Biodiversidad en Cifras: Nariño
       description: |      # required
-        Pueblo Awá de Nariño, primera comunidad indígena en compartir datos.
+        "Pueblo Awá de Nariño, primera comunidad indígena en compartir datos."
       # img required
       background: /assets/images/noticias_eventos/2022/2022-10-19-biodiversidad-en-cifras-narino.jpg
       cta:
@@ -81,197 +81,7 @@ noticias:
 
 # Noticias viejas 
 
-noticiasViejas:
-  features:
 
-
-    - preTitle: Aliados
-      title: Datos abiertos desde el sector empresarial
-      description: |      # required
-        Alianza con la ANDI aporta 2,9 millones de registros biológicos.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-09-12-empresas-colombianas-aportan-conocimiento-biodiversidad.jpg
-      cta:
-      - text: Ver más
-        href: /post/2022/empresas-colombianas-aportan-conocimiento-biodiversidad/
-        isPrimary: false
-
-    - preTitle: Listas de chequeo
-      title: Listas de los coleópteros del país
-      description: |      # required
-        Conoce el trabajo del Grupo de Coloepterólogos de Colombia.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-08-03-post-listas-coleoptera_.jpg
-      cta:
-      - text: Ver más
-        href: /post/2022/listas-especies-escarabajos/
-        isPrimary: false
-
-    - preTitle: Datos abiertos
-      title: ¡Datos al agua!
-      description: |      # required
-        Conoce la segunda edición de Sonar, la revista de divulgación científica de CEMarin.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-07-18-cemarin_.jpg
-      cta:
-      - text: Ver más
-        href: /post/2022/cemarin-sonar-ed2/
-        isPrimary: false
-
-    - preTitle: Listas de chequeo
-      title: Invitación a participar, listas hidrobiológicas
-      description: |      # required
-        Los grupos autores de las nuevas listas abren la recepción de contribuciones.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-07-15-hidrobiologicos_.jpg
-      cta:
-      - text: Ver más
-        href: post/2022/invitacion-hidrobiologicos/
-        isPrimary: false
-
-    - preTitle: Listas de chequeo
-      title: Conoce las listas taxonómicas de referencia
-      description: |      # required
-        Las listas de chequeo son un inventario base de la biodiversidad.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-07-15-listas.jpg
-      cta:
-      - text: Ver más
-        href: post/2022/listas-referencia-taxonomica/
-        isPrimary: false
-
-    - preTitle: Formación
-      title: Inscripciones al taller Nariño en datos
-      description: |      # required
-        Inscripciones hasta el 24 de julio. El taller será del 3 al 5 de agosto en Pasto.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-07-16-taller-narino.jpg
-      cta:
-      - text: Ver más
-        href: post/2022/inscripciones-taller-narino-en-datos
-        isPrimary: false
-
-    - preTitle: Cifras
-      title: Biodiversidad en cifras 2022
-      description: |      # required
-        Ya disponibles las cifras oficiales de la Biodiversidad de Colombia para 2022.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-05-22-biodiversidad-en-cifras-colombia.jpg
-      cta:
-      - text: Ver más
-        href: post/2022/biodiversidad-colombia-cifras-2022/
-        isPrimary: false
-
-    - preTitle: Datos abiertos
-      title: ¿Conoces la diferencia entre publicar y reportar datos?
-      description: |      # required
-        El modelo de publicación de datos está basado en los principios de acceso abierto.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-04-09-publicar-reportar-datos-biodiversidad.jpg
-      cta:
-      - text: Ver más
-        href: post/2022/diferencias-entre-publicar-reportar-datos-biodiversidad/
-        isPrimary: false
-
-    - preTitle: Permisos de recolección
-      title: Reportar datos ahora es más fácil
-      description: |      # required
-        Nuevo modelo para reportar datos derivados de permisos de recolección y...
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-04-01-nuevo-procedimiento-reportar-datos.png
-      cta:
-      - text: Ver más
-        href: post/2022/nuevo-procedimiento-reportar-datos-sib-colombia/
-        isPrimary: false
-
-    - preTitle: Campañas
-      title: Cómo cuidar la biodiversidad
-      description: |      # required
-        Compartimos las 22 acciones por el día internacional de la biodiversidad.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-05-23-22-acciones.jpg
-      cta:
-      - text: Ver más
-        href: post/2022/como-cuidar-biodiversidad-colombia/
-        isPrimary: false
-        
-    - preTitle: Datos abiertos
-      title: Lo que dicen los datos sobre los frailejones
-      description: |      # required
-        Frailejón Ernesto Pérez es el personaje de moda. Aquí algunos datos de esta planta.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-03-22-frailejon.jpg
-      cta:
-      - text: Ver más
-        href: post/2022/datos-frailejon-biodiversidad-colombia/
-        isPrimary: false
-  
-    - preTitle: Convocatorias
-      title: GBIF abre convocatoria al Reto Ebbe Nielsen 2022
-      description: |      # required
-        La fecha límite para presentar propuestas es el 14 de agosto de 2022.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-03-11-reto-Ebbe-Nielsen.png
-      cta:
-      - text: Ver más
-        href: post/2022/convocatoria-reto-ebbe-nielsen-2022
-        isPrimary: false
-      
-    - preTitle: Videos
-      title: Tutorial para limpiar y validar datos
-      description: |      # required
-        Open Refine es un software abierto que procesa datos de manera masiva. 
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-02-16-open-refine.jpg
-      cta:
-      - text: Ver más
-        href: post/2022/open-refine-para-limpiar-validar-datos/
-        isPrimary: false
-
-    - preTitle: Convocatorias
-      title: Premio GBIF a Jóvenes Investigadores 2022
-      description: |      # required
-        30 de mayo es la fecha límite para presentar candidaturas al Premio. 
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-02-08-jovenes-investigadores-GBIF.png
-      cta:
-      - text: Ver más
-        href: post/2022/convocatoria-premio-jovenes-investigadores-gbif-2022
-        isPrimary: false
-
-    - preTitle: Datos abiertos
-      title: Datos nuevos o antiguos, ¡todos cuentan!
-      description: |      # required
-        Queremos incrementar la disponibilidad de datos sobre biodiversidad en el país.
-      # img required
-      background: assets/images/minga/cabezote.jpg
-      cta:
-      - text: Ver más
-        href: /compartir/minga-por-la-biodiversidad
-        isPrimary: false
-   
-    - preTitle: Convocatorias
-      title: Haz tu pasantía o práctica laboral en el SiB Colombia
-      description: |      # required
-        Siete vacantes disponibles para el período 2022-2, aplicaciones hasta el 17 de abril.
-      # img required
-      background: https://thumbnails.production.thenounproject.com/75OvdqdWdJgXAESAtjUhqiSfZ1M=/fit-in/1000x1000/photos.production.thenounproject.com/photos/527BCD7C-61CD-4CE5-8594-6F50D4114137.jpg
-      cta:
-      - text: Ver más
-        href: post/2022/convocatoria-pasantia-practica-2022-2
-        isPrimary: false
-  
-    - preTitle: Red SiB Colombia
-      title: Alianza con el sector empresarial
-      description: |      # required
-        Un aporte del sector empresarial al conocimiento de la biodiversidad.
-      # img required
-      background: /assets/images/landing_page/AlianzaAndiSectorEmpresarial.jpg
-      cta:
-      - text: Ver más
-        href: /acercade/aliados/andi/
-        isPrimary: false
-    
 
 # Splits
 
