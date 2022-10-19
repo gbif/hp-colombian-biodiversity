@@ -6,6 +6,8 @@ description: |
 date: 2022-10-10
 categories: ["Cifras", "Aliados", "2022"]
 background: /assets/images/noticias_eventos/2022/2022-10-19-biodiversidad-en-cifras.jpg
+imageLicense: |
+  Foto: Cristian Castro Morales, Cortolima.
   
 ---
 
