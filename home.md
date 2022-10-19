@@ -25,16 +25,18 @@ cta:
 permalink: /
 composition:
   - type: heroImage # the block type
-  - data: home.stats
-    type: stats
-  - data: home.noticias
-    type: features
-  - data: home.textoAlerta2
-    type: floatingText
-  - data: home.splitAlianzaSectorEmpresarial
-    type: split
-  - data: home.splitActividadPublicacion
-    type: split
+  - type: stats
+    data: home.stats
+  - type: latestPosts
+    data: home.noticiasAutomaticas
+  - type: features
+    data: home.noticias
+  - type: floatingText
+    data: home.textoAlerta
+  - type: split
+    data: home.splitAlianzaSectorEmpresarial
+  - type: split
+    data: home.splitActividadPublicacion
   #- type: latestPosts
   # data: we_do_not_want_any_header # weird hack as the block layout looks for a data element and falls back to the page if none is present
 
