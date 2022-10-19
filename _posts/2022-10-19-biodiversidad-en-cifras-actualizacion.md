@@ -43,6 +43,7 @@ Esto es una realidad gracias a quienes colectan, registran y comparten datos sob
 
 **Lecturas relacionadas**
 
+* [Video del evento de lanzamiento](https://youtu.be/TE2gc3yvdVI){:target="_blank"}
 * [Biodiversidad en cifras evoluciona: conoce los resultados de Nariño](https://biodiversidad.co/post/2022/biodiversidad-en-cifras-narino/){:target="_blank"}
 * [Biodiversidad en Cifras evoluciona: conoce los resultados de Tolima](https://biodiversidad.co/post/2022/biodiversidad-en-cifras-tolima/){:target="_blank"}
 * [Biodiversidad de Colombia en cifras 2022](https://biodiversidad.co/post/2022/biodiversidad-colombia-cifras-2022/){:target="_blank"}
