@@ -42,19 +42,13 @@ estadisticas:
 
 # Noticias
 
-noticiasAutomaticas:
-  title: "Noticias"
-  description: ""
-
-# Tarjetas
-
 noticias:
   features:
 
     - preTitle: Cifras
       title: Biodiversidad en Cifras evoluciona
       description: |      # required
-        "Nueva versión mejorada del portal de cifras del SiB Colombia."
+        Nueva versión mejorada del portal de cifras del SiB Colombia.
       # img required
       background: /assets/images/noticias_eventos/2022/2022-10-19-biodiversidad-en-cifras.jpg
       cta:
@@ -65,7 +59,7 @@ noticias:
     - preTitle: Aliados
       title: "Biodiversidad en Cifras: Tolima"
       description: |      # required
-        "Departamento del Tolima inaugura nueva versión del portal de Cifras."
+        Departamento del Tolima inaugura nueva versión del portal de Cifras.
       # img required
       background: /assets/images/noticias_eventos/2022/2022-10-19-biodiversidad-en-cifras-tolima.jpg
       cta:
@@ -76,7 +70,7 @@ noticias:
     - preTitle: Aliados
       title: "Biodiversidad en Cifras: Nariño"
       description: |      # required
-        "Pueblo Awá de Nariño, primera comunidad indígena en compartir datos."
+        Pueblo Awá de Nariño, primera comunidad indígena en compartir datos.
       # img required
       background: /assets/images/noticias_eventos/2022/2022-10-19-biodiversidad-en-cifras-narino.jpg
       cta:
