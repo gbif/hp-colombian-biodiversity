@@ -45,6 +45,46 @@ estadisticas:
 noticias:
   features:
 
+    - preTitle: Cifras
+      title: Biodiversidad en Cifras evoluciona
+      description: |      # required
+        Nueva versión mejorada del portal de cifras del SiB Colombia.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-10-19-biodiversidad-en-cifras.jpg
+      cta:
+      - text: Ver más
+        href: /post/2022/biodiversidad-en-cifras-actualizacion/
+        isPrimary: false
+
+    - preTitle: Aliados
+      title: Biodiversidad en Cifras: Tolima
+      description: |      # required
+        Departamento del Tolima inaugura nueva versión del portal de Cifras.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-10-19-biodiversidad-en-cifras-tolima.jpg
+      cta:
+      - text: Ver más
+        href: /post/2022/biodiversidad-en-cifras-tolima/
+        isPrimary: false
+
+    - preTitle: Aliados
+      title: Biodiversidad en Cifras: Nariño
+      description: |      # required
+        Pueblo Awá de Nariño, primera comunidad indígena en compartir datos.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-10-19-biodiversidad-en-cifras-narino.jpg
+      cta:
+      - text: Ver más
+        href: /post/2022/biodiversidad-en-cifras-narino/
+        isPrimary: false
+
+
+# Noticias viejas 
+
+noticiasViejas:
+  features:
+
+
     - preTitle: Aliados
       title: Datos abiertos desde el sector empresarial
       description: |      # required
@@ -77,12 +117,6 @@ noticias:
       - text: Ver más
         href: /post/2022/cemarin-sonar-ed2/
         isPrimary: false
-
-
-# Noticias viejas 
-
-noticiasViejas:
-  features:
 
     - preTitle: Listas de chequeo
       title: Invitación a participar, listas hidrobiológicas
