@@ -39,6 +39,7 @@ La invitación es para que la comunidad científica conozca el resultado de su t
 
 **Lecturas relacionadas**
 
+* [Video del evento de lanzamiento](https://youtu.be/TE2gc3yvdVI){:target="_blank"}
 * Noticia completa: [Biodiversidad en cifras evoluciona](https://biodiversidad.co/post/2022/biodiversidad-en-cifras-actualizacion/){:target="_blank"}
 * [Biodiversidad en cifras evoluciona: conoce los resultados de Nariño](https://biodiversidad.co/post/2022/biodiversidad-en-cifras-narino/){:target="_blank"}
 * [Biodiversidad de Colombia en cifras 2022](https://biodiversidad.co/post/2022/biodiversidad-colombia-cifras-2022/){:target="_blank"}
