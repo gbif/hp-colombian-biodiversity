@@ -46,9 +46,9 @@ noticias:
   features:
 
     - preTitle: Traducciones
-      title: 2 cursos y 6 guías de GBIF 
+      title: 2 cursos y 6 guías de GBIF ahora se pueden consultar en español 
       description: |      # required
-        Ahora se pueden consultar en español.
+        El SiB Colombia tradujo material fundamental para los planes de estudio de muchos de los socios publicadores.
       # img required
       background: /assets/images/noticias_eventos/2022/2022_2022-9-11-nuevas-guías-cursos-gbif.png
       cta:
