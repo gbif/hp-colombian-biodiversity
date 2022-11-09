@@ -45,15 +45,15 @@ estadisticas:
 noticias:
   features:
 
-    - preTitle: Cifras
-      title: Biodiversidad en Cifras evoluciona
+    - preTitle: Traducciones
+      title: 2 cursos y 6 guías de GBIF 
       description: |      # required
-        Nueva versión mejorada del portal de cifras del SiB Colombia.
+        Ahora se pueden consultar en español.
       # img required
-      background: /assets/images/noticias_eventos/2022/2022-10-19-biodiversidad-en-cifras.jpg
+      background: /assets/images/noticias_eventos/2022/2022_2022-9-11-nuevas-guías-cursos-gbif.png
       cta:
       - text: Ver más
-        href: /post/2022/biodiversidad-en-cifras-actualizacion/
+        href: /post/2022/nuevos-cursos-guías-gbif/
         isPrimary: false
 
     - preTitle: Aliados
