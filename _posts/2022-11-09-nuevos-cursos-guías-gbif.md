@@ -8,7 +8,7 @@ categories: ["Traducciones", "Aliados", "Documentos", "GBIF", "2022"]
 background: /assets/images/noticias_eventos/2022/2022_2022-9-11-nuevas-guías-cursos-gbif.png
 imageLicense: |
 ---
-Con el fin de reducir las barreras lingüísticas del acceso a los datos de biodiversidad, y a partir de un trabajo voluntario, comprometido y colaborativo entre varios miembros del SiB Colombia, se tuvo como resultado las traducciones de cinco guías que forman parte del programa de [documentación digital](https://docs.gbif.org/documentation-guidelines/en/){:target="_blank"}, y una más que corresponde al manual de usuario del _[Herramienta de publicación IPT ]([https://www.gbif.org/ipt](https://www.gbif.org/es/ipt){:target="_blank"}. Además, dos cursos de formación del GBIF, fundamentales para los planes de estudio de muchos de los socios publicadores entre otros actores claves para la recolección, publicación y uso de datos sobre biodiversidad.
+Con el fin de reducir las barreras lingüísticas del acceso a los datos de biodiversidad, y a partir de un trabajo voluntario, comprometido y colaborativo entre varios miembros del SiB Colombia, se tuvo como resultado las traducciones de cinco guías que forman parte del programa de [documentación digital](https://docs.gbif.org/documentation-guidelines/en/){:target="_blank"}, y una más que corresponde al manual de usuario del [_Herramienta de publicación IPT_]([https://www.gbif.org/ipt](https://www.gbif.org/es/ipt){:target="_blank"}. Además, dos cursos de formación del GBIF, fundamentales para los planes de estudio de muchos de los socios publicadores entre otros actores claves para la recolección, publicación y uso de datos sobre biodiversidad.
 
 **Las guías traducidas son las siguientes:**
 
