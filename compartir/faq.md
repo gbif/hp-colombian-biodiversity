@@ -136,7 +136,7 @@ Si lo que deseas es publicar imágenes asociadas a un registro biológico debes 
     <li><a href="https://archive.org/about/" target="_blank">Internet Archive</a>
         <ul>
 <li>fotografías ilimitadas</li>
-<li>Sobre las colecciones:<a href="https://help.archive.org/hc/en-us/articles/360017502272-How-to-request-a-collection-" target="_blank">https://help.archive.org/hc/en-us/articles/360017502272-How-to-request-a-collection-</a> </li>
+<li>Sobre las colecciones:<a href="https://help.archive.org/hc/en-us/articles/360017502272-How-to-request-a-collection-" target="_blank">https://help.archive.org/help/how-to-request-a-collection/</a> </li>
 <li>Ejemplo colecciones:<a href="https://archive.org/details/cmpuj" target="_blank">https://archive.org/details/cmpuj</a> </li>
 </ul>
   </li>
