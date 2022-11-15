@@ -47,7 +47,7 @@ var siteConfig = {
   },
   dataset: {
     rootFilter: {publishingCountry: 'CO'},
-    highlightedFilters: ['q', 'publisherKey', 'datasetType', 'license'],
+    highlightedFilters: ['q', 'anyPublisherKey', 'datasetType', 'license'],
     excludedFilters: ['publishingCountryCode'],
     // availableCatalogues: ['OCCURRENCE', 'DATASET']
   },
