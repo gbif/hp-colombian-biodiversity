@@ -45,6 +45,28 @@ estadisticas:
 noticias:
   features:
 
+    - preTitle: Recursos
+      title: Nueva versión de la plantilla DwC 
+      description: |      # required
+        Documentación en español para apoyar el uso e implementación del estándar.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-11-24-actualizacion-plantilla-dwc.jpg
+      cta:
+      - text: Ver más
+        href: /post/2022/actualizacion-plantilla-dwc/
+        isPrimary: false
+
+    - preTitle: Traducciones
+      title: ¡Qué ningún dato se te escape! 
+      description: |      # required
+        Conoce las plantillas y documentación en español de las extensiones del estándar DwC.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-11-24-extensiones-dwc.jpg
+      cta:
+      - text: Ver más
+        href: /post/2022/extensiones-dwc/
+        isPrimary: false
+
     - preTitle: Traducciones
       title: 2 cursos y 6 guías de GBIF ahora en español 
       description: |      # required
@@ -55,29 +77,6 @@ noticias:
       - text: Ver más
         href: /post/2022/nuevos-cursos-guías-gbif/
         isPrimary: false
-
-    - preTitle: Aliados
-      title: "Biodiversidad en Cifras: Tolima"
-      description: |      # required
-        Departamento del Tolima inaugura nueva versión del portal de Cifras.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-10-19-biodiversidad-en-cifras-tolima.jpg
-      cta:
-      - text: Ver más
-        href: /post/2022/biodiversidad-en-cifras-tolima/
-        isPrimary: false
-
-    - preTitle: Aliados
-      title: "Biodiversidad en Cifras: Nariño"
-      description: |      # required
-        Pueblo Awá de Nariño, primera comunidad indígena en compartir datos.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-10-19-biodiversidad-en-cifras-narino.jpg
-      cta:
-      - text: Ver más
-        href: /post/2022/biodiversidad-en-cifras-narino/
-        isPrimary: false
-
 
 # Noticias viejas 
 
