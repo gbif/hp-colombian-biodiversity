@@ -48,7 +48,7 @@ noticias:
     - preTitle: Recursos
       title: Nueva versión de la plantilla DwC 
       description: |      # required
-        Documentación en español para apoyar el uso e implementación del estándar.
+        Documentación en español para apoyar el uso e implementación del estándar Darwin Core.
       # img required
       background: /assets/images/noticias_eventos/2022/2022-11-24-actualizacion-plantilla-dwc.jpg
       cta:
@@ -56,7 +56,7 @@ noticias:
         href: /post/2022/actualizacion-plantilla-dwc/
         isPrimary: false
 
-    - preTitle: Traducciones
+    - preTitle: Recursos
       title: ¡Qué ningún dato se te escape! 
       description: |      # required
         Conoce las plantillas y documentación en español de las extensiones del estándar DwC.
