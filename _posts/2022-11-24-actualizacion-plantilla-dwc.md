@@ -19,8 +19,10 @@ El estándar se desarrolló originalmente en inglés y debido a que su comprensi
 
 Con el fin de incentivar y facilitar la comprensión de este estándar, presentamos la **traducción actualizada al español, plantillas y una nueva página en nuestro sitio web** que contienen descripciones más explícitas; incluímos comentarios con aclaraciones del uso de los términos y ofrecemos ejemplos reales y específicos para nuestros socios publicadores, todo aterrizado a las necesidades del país.
 
-| En este enlace encuentras la última versión de las [plantillas Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc/){:target="_blank"}. |
+|  |
 | :---: |
+| En este enlace encuentras la última versión de las [plantillas Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc/){:target="_blank"}. |
+
 
 **También te puede interesar**: [¡Qué ningún dato se te escape! Conoce las plantillas de extensiones del estándar Darwin Core](https://biodiversidad.co/post/2022/extensiones-dwc){:target="_blank"}.
 
