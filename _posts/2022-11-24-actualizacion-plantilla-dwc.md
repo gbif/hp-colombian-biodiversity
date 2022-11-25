@@ -19,18 +19,14 @@ El estándar se desarrolló originalmente en inglés y debido a que su comprensi
 
 Con el fin de incentivar y facilitar la comprensión de este estándar, presentamos la **traducción actualizada al español, plantillas y una nueva página en nuestro sitio web** que contienen descripciones más explícitas; incluímos comentarios con aclaraciones del uso de los términos y ofrecemos ejemplos reales y específicos para nuestros socios publicadores, todo aterrizado a las necesidades del país.
 
-
 | :---: |
-| **Encuentra aquí la última versión de las [plantillas Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc/){:target="_blank"}**. |
-
-
-**También te puede interesar**: [¡Qué ningún dato se te escape! Conoce las plantillas de extensiones del estándar Darwin Core](https://biodiversidad.co/post/2022/extensiones-dwc){:target="_blank"}.
+| Encuentra aquí la **última versión de las [plantillas del estándar Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc/){:target="_blank"}**. |
 
 ## Principales novedades de la nueva versión del estándar
 
 Uno de los cambios que más se destaca en esta nueva versión del DwC es la **inclusión de diez términos que aportan nuevas opciones para hacer una mejor documentación de algunos grupos biológicos y también permiten hacer un mejor seguimiento y atribución a las personas que comparten sus datos.** 
 
-Para conocer más sobre estos beneficios, explicamos en detalle cuál es la función y uso de cada uno de estos términos según el caso. Además del beneficio que representan para los investigadores de biodiversidad: 
+Para conocer más sobre estos beneficios, explicamos en detalle cuál es la función y uso de cada uno de estos términos según el caso. Además del beneficio que representan para los investigadores de biodiversidad:
 
 ### 1. Mayor profundidad en temas de invasión 
 
@@ -56,6 +52,8 @@ Ahora el estándar permite documentar en mayor detalle la jerarquía taxonómica
 * _Infrageneric Epithet_ (epíteto infragenérico)
 * _Cultivar Epithet_ (epíteto cultivar)
 
+También te puede interesar: **[¡Qué ningún dato se te escape! Conoce las plantillas de extensiones del estándar Darwin Core](https://biodiversidad.co/post/2022/extensiones-dwc){:target="_blank"}**.
+
 ## ¿Cómo se actualizaron las plantillas sobre el estándar Darwin Core?  
 
 Con la última actualización del estándar DwC **se renovaron las plantillas para los tres tipos de datos que se pueden publicar sobre biodiversidad: registros biológicos, eventos de muestreo y listas de chequeo**. Con esta actualización se destaca la posibilidad de profundizar más en la información taxonómica y también se incluyeron elementos que permiten darle mayor visibilidad a los investigadores que están involucrados en la recolección de datos. 
@@ -66,7 +64,8 @@ De acuerdo con esta actualización del estándar, hemos iniciado nuestro proceso
 2. Plantilla para la documentación de datos biológicos
 3. Una hoja adicional de vocabulario o descripción de elementos, donde los usuarios podrán navegar para comprender a qué se refieren cada uno de los términos que deben diligenciarse en la plantilla y el formato adecuado para el registro.
 
-Encuentra las nuevas plantillas del estándar Darwin Core [aquí](https://biodiversidad.co/recursos/plantillas-dwc/){:target="_blank"}.
+| :---: |
+| Encuentra aquí la **última versión de las [plantillas del estándar Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc/){:target="_blank"}**. |
 
 ## Sección en español para explorar el estándar DwC
 
