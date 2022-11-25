@@ -15,6 +15,9 @@ _Con el fin de apoyar la publicación de datos sobre biodiversidad y expandir el
 
 El DwC cuenta con 171 términos que representan todas las posibilidades que el investigador tiene para describir los datos; sin embargo, estos elementos no son suficientes, en algunas ocasiones, para describir la información recolectada. Por ello, pensando en ofrecer un estándar lo suficientemente flexible, **el DwC cuenta con plantillas de extensiones que permiten incluir información adicional que enriquece las investigaciones, pero que no puede registrarse en las plantillas de datos.**
 
+| :---: |
+| Encuentra aquí la **última versión de las [plantillas del estándar Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc/){:target="_blank"}**. |
+
 Antes de definir si es necesario usar una extensión es importante que el socio publicador: 
 
 1. Identifique si los datos son de uso interno, en caso de ser así no deben incluirse. 
@@ -26,7 +29,7 @@ En caso de contar con datos estructurados, se debe recurrir al uso de las extens
 
 2. **Tener una relación de uno a muchos.** Por ejemplo, un registro biológico y muchas características representadas en una extensión. 
 
-3. **Permiten conectar diferentes recursos externos al conjunto de datos**, estos recursos pueden ser recursos multimedia, genéticos, literatura, entre otros. Estas extensiones permiten enlazar a repositorios externos especializados en determinados formatos de información (imágenes, videos, etc.)
+3. **Permiten conectar diferentes recursos externos al conjunto de datos**, estos recursos pueden ser recursos multimedia, genéticos, literatura, entre otros. Estas extensiones permiten enlazar a repositorios externos especializados en determinados formatos de información (imágenes, videos, etc.).
 
 4. **Pueden estructurarse con el conjunto de datos principal o en plantillas independientes**.
 
@@ -44,7 +47,7 @@ Las extensiones disponibles del DwC se agrupan según las organizaciones que las
 * **Tipos y especímenes**: es de utilidad sobre todo para listas de especies de referencia, en este caso tienen que estar sustentadas por una evidencia.
 * **Nombres comunes**: una especie puede tener uno o varios nombres comunes y con esta extensión se puede documentar ese nombre común y la región específica donde se utiliza. 
 
-Entre las **extensiones exclusivas para eventos de muestreo **tenemos:  
+Entre las **extensiones exclusivas para eventos de muestreo** tenemos:  
 
 * **GBIF Relevé**: permite documentar coberturas. Las coberturas de árboles, coberturas de arbustos, y diferentes tipos de cobertura en eventos de monitoreo principalmente asociados a flora. 
 
@@ -85,6 +88,9 @@ Todas son para registros biológicos. Tres de ellas se incluyeron desde que se c
 * **Resource Relationship**: se puede describir si diferentes registros biológicos tienen una relación de parentesco, parasitismo o polinización. 
 * **Chronometric Age**: se documenta todo el tema de datación, este tipo de extensión es importante para temas de fósiles.
 * **Adubon Media Description / Simple Multimedia**: permite describir información multimedia. 
+
+| :---: |
+| Encuentra aquí la **última versión de las [plantillas de extensiones del estándar Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones){:target="_blank"}**. |
 
 ## ¿Qué voy a encontrar en las plantillas extensiones y cómo debo usarlas?
 
