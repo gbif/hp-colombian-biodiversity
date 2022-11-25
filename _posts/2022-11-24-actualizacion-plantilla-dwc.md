@@ -19,37 +19,40 @@ El estándar se desarrolló originalmente en inglés y debido a que su comprensi
 
 Con el fin de incentivar y facilitar la comprensión de este estándar, presentamos la **traducción actualizada al español, plantillas y una nueva página en nuestro sitio web** que contienen descripciones más explícitas; incluímos comentarios con aclaraciones del uso de los términos y ofrecemos ejemplos reales y específicos para nuestros socios publicadores, todo aterrizado a las necesidades del país.
 
-**También te puede interesar**: [¡Qué ningún dato se te escape! Conoce las plantillas de extensiones del estándar Darwin Core](https://biodiversidad.co/post/2022/extensiones-plantilla-dwc){:target="_blank"}.
+| En este enlace encuentras la última versión de las [plantillas Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc/){:target="_blank"}. |
+| :---: |
+
+**También te puede interesar**: [¡Qué ningún dato se te escape! Conoce las plantillas de extensiones del estándar Darwin Core](https://biodiversidad.co/post/2022/extensiones-dwc){:target="_blank"}.
 
 ## Principales novedades de la nueva versión del estándar
 
-Uno de los cambios que más se destaca en esta nueva versión del DwC es la** inclusión de diez términos que aportan nuevas opciones para hacer una mejor documentación de algunos grupos biológicos y también permiten hacer un mejor seguimiento y atribución a las personas que comparten sus datos**. 
+Uno de los cambios que más se destaca en esta nueva versión del DwC es la **inclusión de diez términos que aportan nuevas opciones para hacer una mejor documentación de algunos grupos biológicos y también permiten hacer un mejor seguimiento y atribución a las personas que comparten sus datos.** 
 
 Para conocer más sobre estos beneficios, explicamos en detalle cuál es la función y uso de cada uno de estos términos según el caso. Además del beneficio que representan para los investigadores de biodiversidad: 
 
 ### 1. Mayor profundidad en temas de invasión 
 
-Para mejorar la forma en la que el estándar captura la información sobre cómo un organismo se ha establecido en un área geográfica particular y cómo llegó a ocupar dicha área ahora se cuenta con dos elementos adicionales: **_degree of establishment (grado de establecimiento) y pathway (ruta)._**
+Para mejorar la forma en la que el estándar captura la información sobre cómo un organismo se ha establecido en un área geográfica particular y cómo llegó a ocupar dicha área ahora se cuenta con dos elementos adicionales: **_degree of establishment_ (grado de establecimiento) y _pathway_ (ruta).**
 
-Además, se incluyó una mejor definición para el elemento **​_Establishment Means (Medios de establecimiento), en conjunto estos elementos reflejan de mejor manera la información sobre especies nativas, exóticas e invasoras._**​ 
+Además, se incluyó una mejor definición para el elemento **_Establishment Means_ (Medios de establecimiento), en conjunto estos elementos reflejan de mejor manera la información sobre especies nativas, exóticas e invasoras.**
 
 ### 2. Elementos para visibilizar a los investigadores 
 
-Los elementos **_identified By ID _(ID de la identificación) _y recorded By ID _(ID del registro)**, Estos elementos permiten visibilizar a quienes han recolectado datos en campo o han estado involucrados en su identificación taxonómica, por medio del uso de identificadores personales como el ORCID o Wikidata ID. Adicionalmente, el uso de estos elementos le permite a los curadores de las colecciones biológicas gestionar sus colectas e identificaciones a través de la plataforma [Bionomía](https://es.bionomia.net/){:target="_blank"}**[, ](https://es.bionomia.net/)**puedes conocer más sobre esta herramienta en este [webinar](https://youtu.be/kXWXDWz6pEs){:target="_blank"}.
+Los elementos **_identified By ID_ (ID de la identificación) y _recorded By ID_ (ID del registro)**, Estos elementos permiten visibilizar a quienes han recolectado datos en campo o han estado involucrados en su identificación taxonómica, por medio del uso de identificadores personales como el ORCID o Wikidata ID. Adicionalmente, el uso de estos elementos le permite a los curadores de las colecciones biológicas gestionar sus colectas e identificaciones a través de la plataforma [Bionomía](https://es.bionomia.net/){:target="_blank"}. **Conoce más sobre la herramienta Bionomía en este [webinar](https://youtu.be/kXWXDWz6pEs){:target="_blank"}.**
 
 ### 3. Mayor detalle geográfico 
 
-Con la inclusión del elemento **_Vertical Datum _(referencia vertical) **se permitirá agregar mayor exactitud a las elevaciones, permitiendo referenciar el método de captura de la elevación, ya sea de marea, basado en el nivel del mar, o un geoide, gravimétrico, etc.
+Con la inclusión del elemento **_Vertical Datum_ (referencia vertical)** se permitirá agregar mayor exactitud a las elevaciones, permitiendo referenciar el método de captura de la elevación, ya sea de marea, basado en el nivel del mar, o un geoide, gravimétrico, etc.
 
 ### 4. Mejor documentación de la información taxonómica 
 
 Ahora el estándar permite documentar en mayor detalle la jerarquía taxonómica. A petición de múltiples taxónomos ahora existen elementos para consignar la información de subgrupos como subfamilias y cultivares. Los elementos que permitirán ampliar esta información son: 
 
-* Verbatim Identification (identificación original)
-* Subfamily (subfamilia)
-* Generic Name (nombre genérico)
-* Infrageneric Epithet (epíteto infragenérico)
-* Cultivar Epithet (epíteto cultivar)
+* _Verbatim Identification_ (identificación original)
+* _Subfamily_ (subfamilia)
+* _Generic Name_ (nombre genérico)
+* _Infrageneric Epithet_ (epíteto infragenérico)
+* _Cultivar Epithet_ (epíteto cultivar)
 
 ## ¿Cómo se actualizaron las plantillas sobre el estándar Darwin Core?  
 
@@ -67,6 +70,6 @@ Encuentra las nuevas plantillas del estándar Darwin Core [aquí](https://biodiv
 
 Además de la renovación de la plantilla del estándar Darwin Core, creamos una [nueva sección](https://biodiversidad.co/compartir/estandar-darwin-core/){:target="_blank"} en nuestro sitio web, con la cual buscamos ofrecer un espacio de fácil consulta del estándar para nuestros socios publicadores, la cual cuenta con definiciones y ejemplos acotados para el caso puntual del país.
 
-Gracias a esta nueva herramienta se tendrá acceso a este estándar que [anteriormente estaba disponible sólo en inglés](https://dwc.tdwg.org/terms/){:target="_blank"}. Además, permitirá **explorar, aproximarse y comprender mejor el estándar **con el fin de identificar cuáles son los elementos que se pueden utilizar en la publicación de investigaciones.
+Gracias a esta nueva herramienta se tendrá acceso a este estándar que [anteriormente estaba disponible sólo en inglés](https://dwc.tdwg.org/terms/){:target="_blank"}. Además, permitirá **explorar, aproximarse y comprender mejor el estándar** con el fin de identificar cuáles son los elementos que se pueden utilizar en la publicación de investigaciones.
 
 En este nuevo espacio digital, nuestros usuarios encontrarán una guía actualizada de consulta rápida que contiene los nuevos términos del estándar, términos de las 14 extensiones (Relación del Recurso Medidas o Hechos Extendida, Multimedia Simple, Referencias de Literatura, Distribución de la Especie, Descripción del Taxón, Perfil de la Especie, Tipos y Especímenes, Muestra del Material GGBN, Preservación GGBN, Permiso GGBN, Preparación GGBN, Amplificación GGBN, Préstamo GGBN) y los vocabularios controlados. La guía está disponible en la opción [Estándar Darwin Core](https://biodiversidad.co/compartir/estandar-darwin-core/){:target="_blank"} del menú Recursos en el sitio web [biodiversidad.co](https://biodiversidad.co/){:target="_blank"}.
