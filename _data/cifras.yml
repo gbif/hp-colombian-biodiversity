@@ -58,7 +58,7 @@ tarjetasBioCifras:
      #preTitle: Formación # optional
     - title: Nariño
       description: |      # required
-        Punto de encuentro del 83% de las especies migratorias del país, conoce más sobre la biodiversidad en el departamento de Nariño.
+        Punto de encuentro del 83% de las especies migratorias del país, conoce más sobre la biodiversidad de este departamento.
       background: https://live.staticflickr.com/1638/24388557685_0017cb6f98_b.jpg # Fuente https://flic.kr/p/byv8T6
       cta:
       - text: Ingresa
@@ -69,7 +69,7 @@ tarjetasBioCifras:
      #preTitle: Formación # optional
     - title: Tolima
       description: |      # required
-        El departamento que fluye con el río Magdalena, pronto conoce las cifras de su biodiversidad.
+        El departamento que fluye con el río Magdalena, conoce las cifras de su biodiversidad.
       background: https://live.staticflickr.com/5182/5657844895_ac0225de21_z.jpg # Fuente https://flic.kr/p/9BXWaV
       cta:
       - text: Ingresa
