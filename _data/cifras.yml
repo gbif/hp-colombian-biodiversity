@@ -40,7 +40,7 @@ tarjetasBioCifras:
       background: https://live.staticflickr.com/7219/7245219732_bfe058f97f_z.jpg # Fuente https://flic.kr/p/c3eDpA
       cta:
       - text: Ingresa
-        href: https://santander.biodiversidad.co
+        href: https://cifras.biodiversidad.co/santander
         isPrimary: true
         
    
@@ -52,26 +52,26 @@ tarjetasBioCifras:
       background: https://live.staticflickr.com/7046/6931380311_b2e363eabc_c.jpg # Fuente https://flic.kr/p/c3eDpA
       cta:
       - text: Ingresa
-        href: https://boyaca.biodiversidad.co
+        href: https://cifras.biodiversidad.co/boyaca
         isPrimary: true
 
      #preTitle: Formación # optional
     - title: Nariño
       description: |      # required
-        Pronto conocerás más sobre la biodiversidad en el territorio ancestrál Awá.
+        Punto de encuentro del 83% de las especies migratorias del país, conoce más sobre la biodiversidad en el departamento de Nariño.
       background: https://live.staticflickr.com/1638/24388557685_0017cb6f98_b.jpg # Fuente https://flic.kr/p/byv8T6
       cta:
-      - text: Próximamente
-        href: 
+      - text: Ingresa
+        href: https://cifras.biodiversidad.co/narino
         isPrimary: true
         
 
      #preTitle: Formación # optional
     - title: Tolima
       description: |      # required
-        El departamento que fluye con el río Magdalena, pronto conocerás más sobre su biodiversidad.
+        El departamento que fluye con el río Magdalena, pronto conoce las cifras de su biodiversidad.
       background: https://live.staticflickr.com/5182/5657844895_ac0225de21_z.jpg # Fuente https://flic.kr/p/9BXWaV
       cta:
-      - text: Próximamente
-        href: 
+      - text: Ingresa
+        href: https://cifras.biodiversidad.co/tolima
         isPrimary: true
