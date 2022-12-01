@@ -24,7 +24,7 @@ El [lanzamiento del programa](https://biodiversidad.co/post/2022/nueva-ruta-form
 
 - Ingresa a [aprende.biodiversidad.co](https://aprende.biodiversidad.co){:target="_blank"}
 - Haz clic en el enlace "[¡Regístrate!](https://aprende.biodiversidad.co/main/auth/inscription.php){:target="_blank"}", al lado izquierdo en la sección de _login_.
-completa el formulario con tus datos.
+- Completa el formulario con tus datos.
 - Elige nombre de usuario y contraseña que usarás para acceder a los contenidos de los cursos, éstas **se habilitarán a partir del 6 de febrero de 2023**.
 - Recibirás un correo electrónico de parte de los turores del programa con la aceptación de tu inscripción.
 
