@@ -9,6 +9,10 @@ height: 41vh
 toc: true
 ---
 
+
+<iframe width="690" height="400" src="https://www.youtube.com/embed/DtwNBZe1aRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Hemos diseñado esta ruta de formación, en alianza con [GeoPark](https://www.geo-park.com/es/){:target="_blank"}, el [Centro Nacional del Agua y la Biodiversidad Colombia de la ANDI](https://www.andi.com.co/Home/Pagina/21-centro-nacional-del-agua-y-la-biodiversida){:target="_blank"} (CNAB) y la [Infraestructura Mundial de Información en Biodiversidad](https://www.gbif.org/){:target="_blank"} (GBIF), para **fortalecer las capacidades del sector empresarial**, que permitan una mejor contribución al conocimiento de la biodiversidad desde este sector.
 
 La ruta está compuesta por **cinco cursos enfocados entorno las acciones de publicación, acceso y uso de datos sobre biodiversidad a través del SiB Colombia y GBIF**.
