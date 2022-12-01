@@ -23,7 +23,9 @@ El lanzamiento de este proyecto se llevó a cabo en las instalaciones de la ANDI
 
 A continuación puedes ver el evento lanzamiento y la _masterclass_ del profesor Sánchez, titulada “Posibilidades de los datos abiertos para los ecosistemas científicos y enfrentar la crisis climática”.
 
-&lt;iframe width="100%" height="400" src="https://www.youtube.com/embed/8SceS_l9ckk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe>
+
+<iframe width="690" height="400" src="https://www.youtube.com/embed/8SceS_l9ckk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Las personas interesadas en participar en el ciclo de formación podrán registrarse en el enlace [aprende.biodiversidad.co](https://aprende.biodiversidad.co/){:target="_blank"} antes del 31 de enero de 2023.
 
