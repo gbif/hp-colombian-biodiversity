@@ -13,7 +13,7 @@ Hemos diseñado esta ruta de formación, en alianza con [GeoPark](https://www.ge
 
 La ruta está compuesta por **cinco cursos enfocados entorno las acciones de publicación, acceso y uso de datos sobre biodiversidad a través del SiB Colombia y GBIF**.
 
-El [lanzamiento del programa](https://biodiversidad.co/post/2022/nueva-ruta-formacion-empresarial/){:target="_blank"} tuvo lugar el 30 de noviembre de 2022, contó con la participación de directivos del CNAB, GeoPark y el SiB Colombia, así como representantes de la academia. Durante el evento, el reconocido investigador de la Universidad de los Andes y doctor en Ciencias Biológicas, Juan Armando Sánchez, impartió la **_masterclass_ [“Posibilidades de los datos abiertos para los ecosistemas científicos y enfrentar la crisis climática”](https://www.youtube.com/watch?v=8SceS_l9ckk){:target="_blank"}**.
+El [lanzamiento del programa](https://biodiversidad.co/post/2022/nueva-ruta-formacion-empresarial/){:target="_blank"} tuvo lugar el 30 de noviembre de 2022, contó con la participación de directivos del CNAB, GeoPark y el SiB Colombia, así como representantes de la academia. Durante el evento, el reconocido investigador de la Universidad de los Andes y doctor en Ciencias Biológicas, Juan Armando Sánchez, impartió la **_masterclass_ [“Posibilidades de los datos abiertos para los ecosistemas científicos y enfrentar la crisis climática”](https://youtu.be/8SceS_l9ckk?t=2430){:target="_blank"}**.
 
 
 ## Inscripciones
@@ -130,7 +130,9 @@ Los contenidos de los cinco cursos que completan la ruta de formación están di
   - Módulo 2: Primeros pasos con Darwin Core
   - Módulo 3: Al infinito y más allá del estándar
 
+  [Ver curso](https://aprende.biodiversidad.co/course/9/about){:target="_blank" .button .is-primary}
 
+  
 ### Curso 3 <BR> Manos a la obra: cómo usar el estándar Darwin Core
 
 Este curso ofrece una inmersión práctica en el estándar Darwin Core, con ejercicios basados en datos reales.
@@ -156,6 +158,8 @@ Se profundiza en el conocimiento del estándar internacional Darwin Core, median
   - Módulo 3: Manos a la obra: usando  extensiones
   - Módulo 4: Manos a la obra: estandarizando eventos
   - Módulo 5: Manos a la obra: uniendo el rompecabezas
+
+  [Ver curso](https://aprende.biodiversidad.co/course/4/about){:target="_blank" .button .is-primary}
 
   
 ### Curso 4 <BR> Metamorfosis de datos: transformar una GDB al estándar Darwin Core
@@ -184,7 +188,8 @@ Las bases de datos geográficas (GDB) combinan información del medio abiótico,
   - Módulo 4: Anatomía de una GDB - Medidas
   - Módulo 5: GDB lista para el mundo de los datos abiertos
 
-
+  [Ver curso](https://aprende.biodiversidad.co/course/7/about){:target="_blank" .button .is-primary}
+  
 ### Curso 5 <BR> Datos abiertos y permisos de recolección
   
   Este curso aborda el proceso de reporte de datos a través del SiB Colombia, según lo indicado en decreto 1076 de 2015, que reglamenta los permisos de recolección de especímenes y acceso a recursos genéticos con fines de investigación científica y elaboración de estudios ambientales.
@@ -211,6 +216,8 @@ Las bases de datos geográficas (GDB) combinan información del medio abiótico,
   - Módulo 4: Certificados
   - Módulo 5: Cómo aumentar la incidencia e impacto de un reporte
 
+  [Ver curso](https://aprende.biodiversidad.co/course/8/about){:target="_blank" .button .is-primary}
+  
   
 ## Preguntas frecuentes
 
