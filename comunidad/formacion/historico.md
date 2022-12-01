@@ -12,6 +12,27 @@ toc: true
 
 En esta sección puede explorar el histórico de talleres y eventos en los que ha participado el Equipo Coordinador y la red de Socios del SiB Colombia. Ingrese a cada uno para explorar sus contenidos, agenda, presentaciones y fotos. 
 
+## 2022
+
+<div class="table-container">
+<table class="table">
+  <thead>
+    <tr>
+      <th class="name"><abbr title="Nombre">Nombre</abbr></th>
+      <th class="date"><abbr title="Mes">Mes</abbr></th>
+      <th class="modalidad"><abbr title="Modalidad">Modalidad</abbr></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><a href="/comunidad/formacion/formacion-udenar-2022" title="Ver">Taller Nariño en datos</a></td>
+      <td>Agosto</td>
+      <td>Presencial</td>
+  </tbody>
+</table>
+</div>
+
+---
+
 ## 2021
 
 <div class="table-container">
