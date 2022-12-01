@@ -55,8 +55,7 @@ Cursos virtuales autogestionados, basados en videos, lecturas y ejercicios, con 
 ## Tutores
 
 |     |     |     |     |     |
-|:---:|:---:|:---:|:---:|:---:|
-| <figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_DairoEscobar.jpg"></figure> | <figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_JeimmyDiaz.jpg"></figure> | <figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_CamilaPlata.jpg"></figure> | <figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_RicardoOrtiz.jpg"></figure> | <figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_EstebanMarentes.jpg"></figure> |
+| <figure class="image is-96x96"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_DairoEscobar.jpg"></figure> | <figure class="image is-96x96"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_JeimmyDiaz.jpg"></figure> | <figure class="image is-96x96"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_CamilaPlata.jpg"></figure> | <figure class="image is-96x96"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_RicardoOrtiz.jpg"></figure> | <figure class="image is-96x96"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_EstebanMarentes.jpg"></figure> |
 | Dairo Escobar | Jeimmy Díaz | Camila Plata | Ricardo Ortiz | Esteban Marentes |
 
 
