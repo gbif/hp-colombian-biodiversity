@@ -52,6 +52,14 @@ Cursos virtuales autogestionados, basados en videos, lecturas y ejercicios, con 
 - **Dedicación horaria**: 30 horas aproximadamente.
 
 
+## Tutores
+
+|     |     |     |     |     |
+|:---:|:---:|:---:|:---:|:---:|
+| <img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_DairoEscobar.jpg"> | <img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_JeimmyDiaz.jpg"> | <img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_CamilaPlata.jpg"> | <img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_RicardoOrtiz.jpg"> | <img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_EstebanMarentes.jpg"> |
+| Dairo Escobar | Jeimmy Díaz | Camila Plata | Ricardo Ortiz | Esteban Marentes |
+
+
 ## Certificación
 
 Las personas que completen y aprueben los cinco cursos, recibirán a vuelta de correo un documento de certificación de conocimientos y participación de la ruta de formación.
@@ -63,43 +71,45 @@ Las personas que completen y aprueben los cinco cursos, recibirán a vuelta de c
 - **Inicio de actividades**: 6 de febrero de 2023
 
 
+## Acceso
+
+Los contenidos de los cinco cursos que completan la ruta de formación están disponibles en la nueva plataforma LMS del SiB Colombia, disponible en [**aprende.biodiversidad.co**](https://aprende.biodiversidad.co){:target="_blank"}.
+
+
 ## Programa
 
 
-### Curso 1. Empresa y biodiversidad: fundamentos para publicar datos con valor
+### Curso 1 <BR> Empresa y biodiversidad: fundamentos para publicar datos con valor
 
 En este curso se ofrecen fundamentos para mejorar la gestión de datos sobre biodiversidad al interior de organizaciones del sector empresarial.
 
 Se aborda cómo potenciar la visibilidad de la organización en su esfuerzo por aportar al conocimiento y conservación de la biodiversidad del país. También, la vinculación y la publicación de datos a través del sistema de información oficial de Colombia.
 
-### Curso 2. Aprendiendo un nuevo idioma: introducción al estándar Darwin Core
+
+### Curso 2 <BR> Aprendiendo un nuevo idioma: introducción al estándar Darwin Core
 
 En este curso se ofrece una mirada al estándar que facilita la interoperabilidad de los datos sobre biodiversidad.
 
 Se aborda el estándar internacional Darwin Core, con recomendaciones para su uso y cómo este permite la organización clara de los datos sobre biodiversidad. También, el papel que cumple en la agregación y uso de los datos.
 
 
-### Curso 3. Manos a la obra: cómo usar el estándar Darwin Core
+### Curso 3 <BR> Manos a la obra: cómo usar el estándar Darwin Core
 
 Este curso ofrece una inmersión práctica en el estándar Darwin Core, con ejercicios basados en datos reales.
 
 Se profundiza en el conocimiento del estándar internacional Darwin Core, mediante la aplicación del mismo en la preparación de conjuntos de datos previa su publicación.
 
 
-### Curso 4. Metamorfosis de datos: transformar una GDB al estándar Darwin Core
+### Curso 4 <BR> Metamorfosis de datos: transformar una GDB al estándar Darwin Core
 
 En este curso se aborda, de manera práctica, cómo extraer información biótica para su estructuración con el estándar Darwin Core, con el fin de reportar o publicar a través del SiB Colombia.
 
 Las bases de datos geográficas (GDB) combinan información del medio abiótico, como la geológica, la hidrológica o la climática, con el biótico continental y marino. Son una estructura de intercambio de datos común en el sector empresarial. 
 
 
-### Curso 5. Datos abiertos y permisos de recolección
+### Curso 5 <BR> Datos abiertos y permisos de recolección
 
 Este curso aborda el proceso de reporte de datos a través del SiB Colombia, según lo indicado en decreto 1076 de 2015, que reglamenta los permisos de recolección de especímenes y acceso a recursos genéticos con fines de investigación científica y elaboración de estudios ambientales.
 
 Mediante ejercicios prácticos, acotados específicamente para el sector empresarial, se da cumplimiento a la obligación de reporte, a la vez que se contribuye al conocimiento de la biodiversidad del país.
 
-
-## Acceso
-
-Los contenidos de los cinco cursos que completan la ruta de formación están disponibles en la nueva plataforma LMS del SiB Colombia, disponible en [**aprende.biodiversidad.co**](https://aprende.biodiversidad.co){:target="_blank"}.
