@@ -45,6 +45,17 @@ estadisticas:
 noticias:
   features:
 
+    - preTitle: Formación
+      title: Gestión corporativa para la naturaleza 
+      description: |      # required
+        Lanzamos un nuevo programa de formación para el sector empresarial que maneja datos sobre biodiversidad.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-11-30-lanzamiento-ruta-formacion.jpg
+      cta:
+      - text: Ver más
+        href: /post/2022/nueva-ruta-formacion-empresarial/
+        isPrimary: false
+
     - preTitle: Recursos
       title: Nueva versión de la plantilla DwC 
       description: |      # required
@@ -67,16 +78,6 @@ noticias:
         href: /post/2022/extensiones-dwc/
         isPrimary: false
 
-    - preTitle: Traducciones
-      title: 2 cursos y 6 guías de GBIF ahora en español 
-      description: |      # required
-        El SiB Colombia tradujo material fundamental para los planes de estudio de publicadores.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022_2022-9-11-nuevas-guías-cursos-gbif.png
-      cta:
-      - text: Ver más
-        href: /post/2022/nuevos-cursos-guías-gbif/
-        isPrimary: false
 
 # Noticias viejas 
 
