@@ -130,7 +130,7 @@ Los contenidos de los cinco cursos que completan la ruta de formación están di
   - Módulo 2: Primeros pasos con Darwin Core
   - Módulo 3: Al infinito y más allá del estándar
 
-  [Ver curso](https://aprende.biodiversidad.co/course/9/about){:target="_blank" .button .is-primary}
+  [Ver curso](https://aprende.biodiversidad.co/course/4/about){:target="_blank" .button .is-primary}
 
   
 ### Curso 3 <BR> Manos a la obra: cómo usar el estándar Darwin Core
@@ -159,7 +159,7 @@ Se profundiza en el conocimiento del estándar internacional Darwin Core, median
   - Módulo 4: Manos a la obra: estandarizando eventos
   - Módulo 5: Manos a la obra: uniendo el rompecabezas
 
-  [Ver curso](https://aprende.biodiversidad.co/course/4/about){:target="_blank" .button .is-primary}
+  [Ver curso](https://aprende.biodiversidad.co/course/9/about){:target="_blank" .button .is-primary}
 
   
 ### Curso 4 <BR> Metamorfosis de datos: transformar una GDB al estándar Darwin Core
