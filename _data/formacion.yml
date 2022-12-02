@@ -3,16 +3,18 @@
 #split
 cfv2021:
   reverse: true
-  title: Ciclo de Formación 2022
+  title: "Gestión corporativa para la naturaleza: ruta de formación hacia la movilización de datos sobre biodiversidad"
   description: |      # required
-      Seminarios y laboratorios sobre diferentes iniciativas, proyectos y materiales alrededor de la publicación acceso y uso de datos sobre biodiversidad.
+     ¡Inscripciones abiertas hasta el 31 de enero de 2023!
+     Inicio de actividades 6 de febrero de 2023.
+     Hemos diseñado esta ruta de formación para fortalecer las capacidades del sector empresarial, y permitirle mejorar su contribución al conocimiento de la biodiversidad.
   # img required
-  background: /assets/images/landing_page/img_homeFormacion.jpg
+  background: /comunidad/formacion/images/cover-formacion-empresas.png
   overlayColor: "#000033"
-  href: /comunidad/formacion
+  href: /comunidad/formacion/ruta-formacion-empresas/
   cta:
-  - text: Aprender
-    href: /formacion/formacion-udenar-2022
+  - text: Más información
+    href: /comunidad/formacion/ruta-formacion-empresas/
     isPrimary: true
     
     
