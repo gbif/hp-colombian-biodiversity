@@ -2135,7 +2135,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="multimedia_identifier">**identifier** (Identificador)</a>
 
 | ---: | :--- |
-| Definición | Enlace a la página que muestre la imagen o sus metadatos. |
+| Definición | Una URL estática y pública que apunte directamente al archivo multimedia en buena resolución, se caracteriza por finalizar con el formato del archivo por ejemplo .jpg .mp3. |
 | Ejemplo | https://live.staticflickr.com/65535/49971003886_9fb3569bf8_b.jpg<br> https://www.xeno-canto.org/sounds/uploaded/DGVLLRYDXS/ZONCAP54.mp3<br> https://web.corral.tacc.utexas.edu/MVZ/audio/mp3/222_6560.mp3<br> https://static.inaturalist.org/sounds/15665.3gp?1506898805 |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 
@@ -2144,7 +2144,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="multimedia_references">**references** (Referencias)</a>
 
 | ---: | :--- |
-| Definición | Una página web html que muestre la imagen o sus metadatos. |
+| Definición | Una URL a la página web que contenga el archivo multimedia y sus metadatos. |
 | Ejemplo | https://www.flickr.com/photos/victorsaavedramartinez/with/1866107071/<br> https://www.flickr.com/photos/arthur_chapman/4094078241/<br> https://ww2.bgbm.org/herbarium/specimen.cfm?SpecimenPK=103730<br> https://monarch.calacademy.org/collections/individual/index.php?occid=700648&clid=0 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
