@@ -99,8 +99,8 @@ featuresVentanas:
         La biodiversidad del sur del país tiene unas características únicas, pronto conocerás más sobre esta zona, especialmente del territorio ancestrál Awá. 
       background: https://live.staticflickr.com/1638/24388557685_0017cb6f98_b.jpg
       cta:
-      - text: Pronto
-        # href: 
+      - text: Ver más
+        href: https://cifras.biodiversidad.co/narino
         isPrimary: false
 
     - preTitle: Biodiversidad en cifras
@@ -122,7 +122,7 @@ featuresVentanas:
         Foto: Felipe Villegas, Instituto Humboldt.
       cta:
       - text: Ver más
-        href: http://tolima.biodiversidad.co/#/
+        href: https://cifras.biodiversidad.co/tolima
         isPrimary: true
 
     - preTitle: Biodiversidad en cifras
