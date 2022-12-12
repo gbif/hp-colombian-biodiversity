@@ -198,7 +198,7 @@ A continuación se presenta un inventario de aquellas empresas, junto con el vol
 | ![Stratos Consultoría Geológica](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-stratos.png) | ![Terrasos](https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-terrasos.png) | 
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vScY_Y13XaKRGz4Zkbbv2Da_lba-p4QdN9W6QNarJ7wfNZC4nmIW98jPz9t5LJ_r9H9PBwNbS3eGB77/pubhtml?gid=0&single=true" width="98%" height="1100" style="border:none;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vScY_Y13XaKRGz4Zkbbv2Da_lba-p4QdN9W6QNarJ7wfNZC4nmIW98jPz9t5LJ_r9H9PBwNbS3eGB77/pubhtml?gid=0&single=true" width="98%" height="1200" style="border:none;"></iframe>
 
 
 ## Cuál es el costo para las empresas
