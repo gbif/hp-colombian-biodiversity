@@ -22,15 +22,14 @@ El [lanzamiento del programa](https://biodiversidad.co/post/2022/nueva-ruta-form
 
 ## Inscripciones
 
-[![](/assets/images/noticias_eventos/2022/2022-11-30-banner-inscripciones-ruta-formacion-empresas.png)](https://aprende.biodiversidad.co/main/auth/inscription.php){:target="_blank"}
+[![](/assets/images/noticias_eventos/2022/2022-11-30-banner-inscripciones-ruta-formacion-empresas.png)](https://forms.gle/kpkEXtuJctcgCCKo6){:target="_blank"}
 
 **Instrucciones**
 
 - Ingresa a [aprende.biodiversidad.co](https://aprende.biodiversidad.co){:target="_blank"}
-- Haz clic en el enlace "[¡Regístrate!](https://aprende.biodiversidad.co/main/auth/inscription.php){:target="_blank"}", al lado izquierdo en la sección de _login_.
+- Haz clic en el enlace "[Regístrate aquí](https://forms.gle/kpkEXtuJctcgCCKo6){:target="_blank"}".
 - Completa el formulario con tus datos.
-- Elige nombre de usuario y contraseña que usarás para acceder a los contenidos de los cursos, éstas **se habilitarán a partir del 6 de febrero de 2023**.
-- En los días siguientes a tu registro, recibirás un correo electrónico, de parte de los tutores del programa, con la aceptación de tu inscripción.
+- Recibirás las credenciales de acceso al campus virtual a vuelta de correo electrónico, éstas **se habilitarán a partir del 6 de febrero de 2023**.
 
 **Nota**: recuerda que los cursos inician el 6 de febrero de 2023.
 
