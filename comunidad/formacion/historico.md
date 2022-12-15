@@ -24,14 +24,13 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
     </tr>
   </thead>
   <tbody>
-    <tr><td><a href="/comunidad/formacion/formacion-udenar-2022" title="Ver">Taller Nariño en datos</a></td>
+    <tr><td><a href="/formacion/formacion-udenar-2022" title="Ver">Taller Nariño en datos</a></td>
       <td>Agosto</td>
       <td>Presencial</td>
   </tbody>
 </table>
 </div>
 
----
 
 ## 2021
 
@@ -56,8 +55,6 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
   </tbody>
 </table>
 </div>
-
----
 
 ## 2020
 
@@ -85,8 +82,6 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
       </tbody>
 </table>
 </div>
-
----
 
 ## 2019
  
@@ -143,7 +138,6 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
 
 </div>
 
----
 
 ## 2018
 
