@@ -418,7 +418,6 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
 </table>
 </div>
 
----
 
 ## 2013
 
@@ -450,7 +449,6 @@ En esta sección puede explorar el histórico de talleres y eventos en los que h
 </table>
 </div>
 
----
 
 ## 2012
 
