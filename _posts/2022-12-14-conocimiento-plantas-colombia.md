@@ -1,11 +1,11 @@
 ---
 preTitle: 14 de diciembre, 2022
-title: "¿Cuánto conocemos de la biodiversidad de plantas en Colombia?"
+title: "¿Cuánto conocemos de la biodiversidad de las plantas en Colombia?"
 description: |
  _Primera entrega del especial sobre plantas en el SiB Colombia. Conoce el estado actual de datos sobre las plantas  del país. Encuentra más de 36.000 especies registradas de la biodiversidad colombiana._
 date: 2022-12-14
 categories: ["Plantas", "Datos abiertos", "Cifras", "2022"]
-background: /assets/images/noticias_eventos/2022/2022-12-13-conocimiento-plantas-colombia.jpg
+background: /assets/images/noticias_eventos/2022/2022-12-14-conocimiento-plantas-colombia.jpg
 imageLicense: |
 ---
 
