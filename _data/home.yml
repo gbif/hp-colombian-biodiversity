@@ -45,6 +45,18 @@ estadisticas:
 noticias:
   features:
 
+
+    - preTitle: Especial de plantas I
+      title: Lo que dicen los datos sobre las plantas en Colombia 
+      description: |      # required
+        Primera entrega del especial: conoce el estado actual de los datos sobre las plantas del país.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-12-14-conocimiento-plantas-colombia.jpg
+      cta:
+      - text: Ver más
+        href: /post/2022/conocimiento-plantas-colombia/
+        isPrimary: false
+
     - preTitle: Formación
       title: Gestión corporativa para la naturaleza 
       description: |      # required
@@ -65,17 +77,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2022/actualizacion-plantilla-dwc/
-        isPrimary: false
-
-    - preTitle: Recursos
-      title: ¡Qué ningún dato se te escape! 
-      description: |      # required
-        Conoce las plantillas y documentación en español de las extensiones del estándar DwC.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-11-24-extensiones-dwc.jpg
-      cta:
-      - text: Ver más
-        href: /post/2022/extensiones-dwc/
         isPrimary: false
 
 
