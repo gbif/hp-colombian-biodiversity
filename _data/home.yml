@@ -46,6 +46,17 @@ noticias:
   features:
 
 
+    - preTitle: Especial de plantas II
+      title: "Datos sobre epífitas: clavesn en la conservación" 
+      description: |      # required
+        Segunda entrega del especial: estrategias de conservación basadas en datos sobre estas plantas.
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-12-21-epifitas-plantas-colombia.jpg
+      cta:
+      - text: Ver más
+        href: /post/2022/epifitas-plantas-colombia/
+        isPrimary: false
+
     - preTitle: Especial de plantas I
       title: Lo que dicen los datos sobre las plantas en Colombia 
       description: |      # required
@@ -66,17 +77,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2022/nueva-ruta-formacion-empresarial/
-        isPrimary: false
-
-    - preTitle: Recursos
-      title: Nueva versión de la plantilla DwC 
-      description: |      # required
-        Documentación en español para apoyar el uso e implementación del estándar Darwin Core.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-11-24-actualizacion-plantilla-dwc.jpg
-      cta:
-      - text: Ver más
-        href: /post/2022/actualizacion-plantilla-dwc/
         isPrimary: false
 
 
