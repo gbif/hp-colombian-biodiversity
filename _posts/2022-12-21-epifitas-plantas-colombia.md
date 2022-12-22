@@ -20,29 +20,17 @@ De acuerdo con la información alojada en el SiB Colombia, hasta junio del 2021,
 
 <table>
   <tr>
-   <td colspan="3" >Cifras sobre epífitas con datos disponibles a través del SiB Colombia
-   </td>
+   <th colspan="3" >Cifras sobre epífitas con datos disponibles a través del SiB Colombia</th>
   </tr>
   <tr>
-   <td><p style="text-align: right">
-<strong>2,7 %</strong></p>
-
-<p>
-<p style="text-align: right">
-<strong>64.072</strong></p>
-
-<p>
-<p style="text-align: right">
-registros biológicos</p>
-
+   <td>
+    <p style="text-align: right"><strong>2,7 %</strong><BR>
+    <strong>64.072</strong><BR>registros biológicos</p>
    </td>
-   <td>Epífitas / Especies
-   </td>
-   <td><strong>+2K</strong>
-<p>
-<strong>7,8 % </strong>
-<p>
-del total de plantas
+   <td>Epífitas / Especies</td>
+   <td>
+     <p style="text-align: left"><strong>+2K</strong><BR>
+     <strong>7,8 % </strong><BR>del total de plantas</p>
    </td>
   </tr>
 </table>
@@ -51,69 +39,39 @@ del total de plantas
 
 <table>
   <tr>
-   <td>Araceae
-<p>
-<strong>15.770</strong>
-<p>
-29 %
+   <td>
+    <p>Araceae<BR><strong>15.770</strong><BR>29 %</p>
    </td>
-   <td>Orchidaceae
-<p>
-<strong>10.816</strong>
-<p>
-17,5 %
+   <td>
+    <p>Orchidaceae<BR><strong>10.816</strong><BR>17,5 %</p>
    </td>
-   <td>Ericaceae
-<p>
-<strong>9.863</strong>
-<p>
-15,7 %
+   <td>
+    <p>Ericaceae<BR><strong>9.863</strong><BR>15,7 %</p>
    </td>
-   <td>Gesneriaceae
-<p>
-<strong>6253</strong>
-<p>
-10%
+   <td>
+    <p>Gesneriaceae<BR><strong>6253</strong><BR>10%</p>
    </td>
   </tr>
   <tr>
-   <td>Bromeliaceae
-<p>
-<strong>5.687</strong>
-<p>
-7,2 %
+   <td>
+    <p>Bromeliaceae<BR><strong>5.687</strong><BR>7,2 %</p>
    </td>
-   <td>Melastomataceae
-<p>
-<strong>2.113</strong>
-<p>
-3,4 %
+   <td>
+    <p>Melastomataceae<BR><strong>2.113</strong><BR>3,4 %</p>
    </td>
-   <td>Cyclanthaceae
-<p>
-<strong>1.213</strong>
-<p>
-1,9 %
+   <td>
+    <p>Cyclanthaceae<BR><strong>1.213</strong><BR>1,9 %</p>
    </td>
-   <td>Cactaceae
-<p>
-<strong>612</strong>
-<p>
-1 %
+   <td>
+    <p>Cactaceae<BR><strong>612</strong><BR>1 %</p>
    </td>
   </tr>
   <tr>
-   <td>Musgos
-<p>
-<strong>3.422</strong>
-<p>
-3,7 %
+   <td>
+    <p>Musgos<BR><strong>3.422</strong><BR>3,7 %</p>
    </td>
-   <td>Hepáticas
-<p>
-<strong>8.065</strong>
-<p>
-12,8 %
+   <td>
+    <p>Hepáticas<BR><strong>8.065</strong><BR>12,8 %</p>
    </td>
    <td>
    </td>
