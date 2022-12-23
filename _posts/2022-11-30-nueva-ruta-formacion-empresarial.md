@@ -29,6 +29,6 @@ A continuación puedes ver el evento lanzamiento y la _masterclass_ del profesor
 
 Las personas interesadas en participar en el ciclo de formación podrán registrarse en el enlace [aprende.biodiversidad.co](https://aprende.biodiversidad.co/){:target="_blank"} antes del 31 de enero de 2023.
 
-[![](/assets/images/noticias_eventos/2022/2022-11-30-banner-inscripciones-ruta-formacion-empresas.png)](https://aprende.biodiversidad.co/main/auth/inscription.php){:target="_blank"}
+[![](/assets/images/noticias_eventos/2022/2022-11-30-banner-inscripciones-ruta-formacion-empresas.png)](https://forms.gle/RKG6tccMWyzMTbaW7){:target="_blank"}
 
 
