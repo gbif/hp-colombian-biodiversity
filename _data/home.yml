@@ -40,8 +40,16 @@ estadisticas:
        # Publicadorees  <span data-ajax-url="https://api.gbif.org/v1/organization?country=CO&limit=0&isEndorsed=true">100,000</span>
          # Conjuntos de datos <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=CO&limit=0">100,000</span>
 
-# Noticias
 
+# Banner alerta
+bannerAlerta:
+markdownContent: | 
+  Nuevo programa de capacitación para el sector empresarial
+  ## Gestión Corporativa para la Naturaleza: ruta de formación hacia la movilización de datos sobre biodiversidad
+  [![](/assets/images/noticias_eventos/2022/2022-11-30-banner-inscripciones-ruta-formacion-empresas.png)](https://forms.gle/RKG6tccMWyzMTbaW7){:target="_blank"}
+
+
+# Noticias
 noticias:
   features:
 
