@@ -44,10 +44,13 @@ estadisticas:
 # Banner alerta
 bannerAlerta:
   markdownContent: |
-       Nuevo programa de capacitación para el sector empresarial
-        ## Gestión Corporativa para la Naturaleza
-          Ruta de formación hacia la movilización de datos sobre biodiversidad
-            [![](/assets/images/noticias_eventos/2022/2022-11-30-banner-inscripciones-ruta-formacion-empresas.png)](https://forms.gle/RKG6tccMWyzMTbaW7){:target="_blank"}
+       Nuevo programa de capacitación para el sector empresarial.
+       
+       # Gestión Corporativa para la Naturaleza
+       
+       Ruta de formación hacia la movilización de datos sobre biodiversidad. Conoce más en [aprende.biodiversidad.co](https://aprende.biodiversidad.co/){:target="_blank"}.
+       
+       [![](/assets/images/noticias_eventos/2022/2022-11-30-banner-inscripciones-ruta-formacion-empresas.png)](https://forms.gle/RKG6tccMWyzMTbaW7){:target="_blank"}
 
 
 # Noticias
