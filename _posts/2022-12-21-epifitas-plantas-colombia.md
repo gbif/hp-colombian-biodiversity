@@ -15,71 +15,22 @@ A pesar de su gran impacto e importancia, las epífitas son uno de los grupos de
 
 ## ¿Qué datos tenemos sobre epífitas en Colombia? 
 
-De acuerdo con la información alojada en el SiB Colombia, hasta junio del 2021, **una cuarta parte de los datos publicados en el sistema corresponden a plantas** (cerca de 2’200.000 de registros biológicos) y, de esa porción, **2,7% corresponden a epífitas** (más de 62.000 registros biológicos). 
+De acuerdo con la información alojada en el SiB Colombia, hasta junio del 2021, **una cuarta parte de los datos publicados en el sistema corresponden a plantas** (cerca de 2’200.000 de registros biológicos) y, de esa porción, **2,7% corresponden a epífitas** (64.072 registros biológicos). En estos datos están representadas más de 2.000 especies, 7,8 % del total de especies de plantas.
 
+**Cifras sobre epífitas con datos disponibles a través del SiB Colombia:**
 
-<table>
-  <tr>
-   <th colspan="3" >Cifras sobre epífitas con datos disponibles a través del SiB Colombia</th>
-  </tr>
-  <tr>
-   <td>
-    <p style="text-align: right"><strong>2,7 %</strong><BR>
-    <strong>64.072</strong><BR>registros biológicos</p>
-   </td>
-   <td><p style="text-align: center">Epífitas / Especies</td></p>
-   <td>
-     <p style="text-align: left"><strong>+2K</strong><BR>
-     <strong>7,8 % </strong><BR>del total de plantas</p>
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td>
-    <p style="text-align: center">Araceae<BR><strong>15.770</strong><BR>29 %</p>
-   </td>
-   <td>
-    <p style="text-align: center">Orchidaceae<BR><strong>10.816</strong><BR>17,5 %</p>
-   </td>
-   <td>
-    <p style="text-align: center">Ericaceae<BR><strong>9.863</strong><BR>15,7 %</p>
-   </td>
-   <td>
-    <p style="text-align: center">Gesneriaceae<BR><strong>6253</strong><BR>10%</p>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <p style="text-align: center">Bromeliaceae<BR><strong>5.687</strong><BR>7,2 %</p>
-   </td>
-   <td>
-    <p style="text-align: center">Melastomataceae<BR><strong>2.113</strong><BR>3,4 %</p>
-   </td>
-   <td>
-    <p style="text-align: center">Cyclanthaceae<BR><strong>1.213</strong><BR>1,9 %</p>
-   </td>
-   <td>
-    <p style="text-align: center">Cactaceae<BR><strong>612</strong><BR>1 %</p>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-    <p style="text-align: center">Musgos<BR><strong>3.422</strong><BR>3,7 %</p>
-   </td>
-   <td>
-    <p style="text-align: center">Hepáticas<BR><strong>8.065</strong><BR>12,8 %</p>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
+|    **Grupo**    | **Registros biológicos** | **Porcentaje** |
+|:---------------:|:------------------------:|:--------------:|
+| Araceae         |          15.770          |      29 %      |
+| Orchidaceae     |          10.816          |     17,5 %     |
+| Ericaceae       |           9.863          |     15,7 %     |
+| Gesneriaceae    |           6.253          |       10%      |
+| Bromeliaceae    |           5.687          |      7,2 %     |
+| Melastomataceae |           2.113          |      3,4 %     |
+| Cyclanthaceae   |           1.213          |      1,9 %     |
+| Cactaceae       |            612           |       1 %      |
+| Musgos          |           3.422          |      3,7 %     |
+| Hepáticas       |           8.065          |     12,8 %     |
 
 Aunque se ha avanzado en el conocimiento, aún falta seguir estudiando y analizando estas especies vegetales, incluyendo aspectos ecológicos de todos los linajes epífitos; ya que, de este modo, se contribuye a una mayor comprensión de sus patrones evolutivos, ecológicos y biogeográficos que permiten evaluar los riesgos de extinción.
 
