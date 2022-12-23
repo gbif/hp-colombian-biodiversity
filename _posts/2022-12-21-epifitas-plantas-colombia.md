@@ -27,7 +27,7 @@ De acuerdo con la información alojada en el SiB Colombia, hasta junio del 2021,
     <p style="text-align: right"><strong>2,7 %</strong><BR>
     <strong>64.072</strong><BR>registros biológicos</p>
    </td>
-   <td>Epífitas / Especies</td>
+   <td><p style="text-align: center">Epífitas / Especies</td></p>
    <td>
      <p style="text-align: left"><strong>+2K</strong><BR>
      <strong>7,8 % </strong><BR>del total de plantas</p>
@@ -40,40 +40,40 @@ De acuerdo con la información alojada en el SiB Colombia, hasta junio del 2021,
 <table>
   <tr>
    <td>
-    <p>Araceae<BR><strong>15.770</strong><BR>29 %</p>
+    <p style="text-align: center">Araceae<BR><strong>15.770</strong><BR>29 %</p>
    </td>
    <td>
-    <p>Orchidaceae<BR><strong>10.816</strong><BR>17,5 %</p>
+    <p style="text-align: center">Orchidaceae<BR><strong>10.816</strong><BR>17,5 %</p>
    </td>
    <td>
-    <p>Ericaceae<BR><strong>9.863</strong><BR>15,7 %</p>
+    <p style="text-align: center">Ericaceae<BR><strong>9.863</strong><BR>15,7 %</p>
    </td>
    <td>
-    <p>Gesneriaceae<BR><strong>6253</strong><BR>10%</p>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <p>Bromeliaceae<BR><strong>5.687</strong><BR>7,2 %</p>
-   </td>
-   <td>
-    <p>Melastomataceae<BR><strong>2.113</strong><BR>3,4 %</p>
-   </td>
-   <td>
-    <p>Cyclanthaceae<BR><strong>1.213</strong><BR>1,9 %</p>
-   </td>
-   <td>
-    <p>Cactaceae<BR><strong>612</strong><BR>1 %</p>
+    <p style="text-align: center">Gesneriaceae<BR><strong>6253</strong><BR>10%</p>
    </td>
   </tr>
   <tr>
    <td>
-    <p>Musgos<BR><strong>3.422</strong><BR>3,7 %</p>
+    <p style="text-align: center">Bromeliaceae<BR><strong>5.687</strong><BR>7,2 %</p>
    </td>
    <td>
-    <p>Hepáticas<BR><strong>8.065</strong><BR>12,8 %</p>
+    <p style="text-align: center">Melastomataceae<BR><strong>2.113</strong><BR>3,4 %</p>
    </td>
    <td>
+    <p style="text-align: center">Cyclanthaceae<BR><strong>1.213</strong><BR>1,9 %</p>
+   </td>
+   <td>
+    <p style="text-align: center">Cactaceae<BR><strong>612</strong><BR>1 %</p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    <p style="text-align: center">Musgos<BR><strong>3.422</strong><BR>3,7 %</p>
+   </td>
+   <td>
+    <p style="text-align: center">Hepáticas<BR><strong>8.065</strong><BR>12,8 %</p>
    </td>
    <td>
    </td>
