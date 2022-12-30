@@ -57,6 +57,16 @@ bannerAlerta:
 noticias:
   features:
 
+    - preTitle: Especial de plantas III
+      title: "Plantas en peligro de extinción" 
+      description: |      # required
+        Tercera entrega del especial: ¿qué datos tenemos sobre plantas en algún grado de amenaza?
+      # img required
+      background: /assets/images/noticias_eventos/2022/2022-12-28-extincion-plantas-colombia.jpg
+      cta:
+      - text: Ver más
+        href: /post/2022/epifitas-plantas-colombia/
+        isPrimary: false
 
     - preTitle: Especial de plantas II
       title: "Datos sobre epífitas: claves en la conservación" 
@@ -78,17 +88,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2022/conocimiento-plantas-colombia/
-        isPrimary: false
-
-    - preTitle: Formación
-      title: Gestión corporativa para la naturaleza 
-      description: |      # required
-        Lanzamos un nuevo programa de formación para el sector empresarial que maneja datos sobre biodiversidad.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-11-30-lanzamiento-ruta-formacion.jpg
-      cta:
-      - text: Ver más
-        href: /post/2022/nueva-ruta-formacion-empresarial/
         isPrimary: false
 
 
