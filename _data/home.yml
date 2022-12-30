@@ -65,7 +65,7 @@ noticias:
       background: /assets/images/noticias_eventos/2022/2022-12-28-extincion-plantas-colombia.jpg
       cta:
       - text: Ver más
-        href: /post/2022/epifitas-plantas-colombia/
+        href: /post/2022/extincion-plantas-colombia/
         isPrimary: false
 
     - preTitle: Especial de plantas II
