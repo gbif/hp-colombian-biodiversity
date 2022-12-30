@@ -63,3 +63,12 @@ Otras listas de especies amenazadas
 * [Lista de especies silvestres de flora del Valle del Cauca con categoría nacional de amenaza](https://ipt.biodiversidad.co/sib/resource?r=cvc-001){:target="_blank"}
 * [Lista de especies silvestres amenazadas de la diversidad biológica continental y marino-costera de Colombia](https://ipt.biodiversidad.co/sib/resource?r=resolucion1912-2017mads){:target="_blank"}
 * [Monitoreo de especies endémicas y amenazadas del área de influencia de las vías sustitutivas Central Hidroeléctrica Sogamoso](https://ipt.biodiversidad.co/sib/resource?r=isagen_sogamoso_endemicas){:target="_blank"}
+
+
+---
+
+* 📅 16 de diciembre de 2022: **[¿Cuánto conocemos de la biodiversidad de plantas en Colombia?](https://biodiversidad.co/post/2022/conocimiento-plantas-colombia/)**{:target="_blank"}
+* 📅 21 de diciembre: **[Estado de las epífitas en el país](https://biodiversidad.co/post/2022/epifitas-plantas-colombia/)**{:target="_blank"}
+* 📅 28 de diciembre: **[Plantas dentro de las categorías amenaza](https://biodiversidad.co/post/2022/extincion-plantas-colombia/)**{:target="_blank"}
+* 📅 4 de enero: **Bancos de semillas**
+* 📅 11 de enero: **Inventario forestal nacional**
