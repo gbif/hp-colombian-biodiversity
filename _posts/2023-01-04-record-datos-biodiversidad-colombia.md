@@ -47,7 +47,7 @@ Fuente: [GBIF](https://www.gbif.org/country/CO/about){:target="_blank"}.
 
 Parte de los objetivos de corto y mediano plazo es **integrar datos de regiones de Colombia que tienen una alta diversidad pero que son más difíciles de acceder**.
 
-## H2 ¿Para qué sirve conocer estos datos sobre biodiversidad?
+## ¿Para qué sirve conocer estos datos sobre biodiversidad?
 
 Crear, compartir y transformar han sido los pilares con los que el SiB Colombia ha enmarcado el uso, recolección y publicación de los datos. Esto quiere decir que llegar a más de 20 millones de registro biológicos permite: 
 
