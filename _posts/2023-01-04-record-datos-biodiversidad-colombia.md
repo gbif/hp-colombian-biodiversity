@@ -1,23 +1,25 @@
 ---
 preTitle: 4 de enero, 2023
-title: "Nuevo récord: 20 millones de datos sobre la biodiversidad de Colombia en un solo lugar"
+title: "Cifra récord: alcanzamos 20 millones de datos sobre la biodiversidad de Colombia"
 description: |
- _Récord: el SiB Colombia cuenta con 20 millones de datos sobre la biodiversidad del país que pueden ser consultados y usados de manera libre y gratuita._
+ _El Sistema de información sobre Biodiversidad de Colombia alcanzó la cifra récord de 20 millones de datos sobre la riqueza biológica del país, pueden ser consultados y usados de manera libre y gratuita._
 date: 2023-01-04
-categories: ["Socios", "Datos abiertos", "Cifras", "2023"]
-background: /assets/images/noticias_eventos/2022/2023-01-04-record-datos-biodiversidad-colombia.jpg
+categories: ["Aliados", "Datos abiertos", "Cifras", "2023"]
+background: /assets/images/noticias_eventos/2023/2023-01-04-record-datos-biodiversidad-colombia.jpg
 imageLicense: |
 ---
 
 
 * Cerramos el 2022 con el mayor crecimiento porcentual en el registro de datos de los últimos 10 años en el SiB Colombia. 
-* Más de 190 organizaciones han aportado a la publicación de estos datos, lo que convierte a la red en el nodo [GBIF](https://www.gbif.org/){:target="_blank"} con la mayor cantidad de socios publicadores en Latinoamérica y el Caribe.​​
+* Más de 190 organizaciones han aportado a la publicación de estos datos, lo que convierte a la red en el nodo [GBIF](https://www.gbif.org/){:target="_blank"} con la mayor cantidad de socios publicadores en Latinoamérica y el Caribe.
 
 ## ¿Cómo llegamos a esto?
 
-En el 2012, el SiB Colombia presentaba tres retos fundamentales para lograr el objetivo de consolidar la infraestructura de datos abiertos sobre biodiversidad más grande del país: recursos económicos, infraestructura informática y una cultura del desconocimiento sobre la importancia de compartir datos para su uso libre y gratuito.
+Alcanzar esta cifra récord es un trabajo que inició en el 2012. En ese momento, el SiB Colombia se enfrentaba a tres retos para lograr un objetivo soñado: consolidar la infraestructura de datos abiertos sobre biodiversidad más grande del país.
 
-Hoy, 10 años después, se han alcanzado **20 millones de datos que pueden ser consultados y usados de manera libre y gratuita**. Este hito se logra gracias al trabajo comprometido de más de 190 organizaciones de diferentes sectores, lo que permite que los datos recolectados sean diversos y que la proyección para próximos años sea positiva.
+Los retos, que uno a uno se superaron, fueron: la disponibilidad de recursos económicos, la puesta en funcionamiento de una infraestructura informática escalable y, el reto con el mayor grado de dificultad, **fortalecer y posicionar una cultura de trabajo que reconozca la importancia de compartir datos abiertos para su uso libre y gratuito**.
+
+Hoy, 10 años después, se han alcanzado **20 millones de datos publicados que pueden ser consultados y usados, en un mismo lugar, de manera libre y gratuita**. Este hito se logra, además de la constancia y dedicación hacia un objetivo claro, gracias al trabajo comprometido de **más de 190 organizaciones de diferentes sectores**. Esto, además, permite  que la proyección para próximos años sea positiva y, finalmente, que los datos recolectados provengan de fuentes diversas que aportan al conocimiento de la riqueza biológica del territorio.
 
 **Organizaciones vinculadas a través del tiempo y por sectores**
 
