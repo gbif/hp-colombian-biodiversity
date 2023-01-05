@@ -31,16 +31,16 @@ El sector empresarial destaca entre los socios publicadores de los últimos dos 
 
 Por otro lado, un poco más de **50 % de los datos han sido aportados por la iniciativa de ciencia ciudadana [e-Bird](https://ebird.org/)**{:target="_blank"}, una plataforma de observaciones sobre aves que proporciona a científicos, investigadores y naturalistas aficionados datos en tiempo real sobre la distribución y abundancia de aves. Al ser Colombia el segundo país con mayor diversidad de este grupo, es coherente que 10’878.787 de los datos se atribuyan a la misma. 
 
-En la división de datos según reinos, el primer puesto se lo llevan los animales con 15’043.596 registros seguido de: 
+En la división de datos según reinos, el primer puesto se lo llevan los animales con 15’214.800 registros seguido de: 
 
-* Plantas: 4’628.987 registros
-* Chromista: 135.639 registros
-* Hongos: 125.867 registros
-* Bacterias: 107.445 registros
+* Plantas: 4’746.845 registros
+* Chromista: 165.556 registros
+* Hongos: 329.103 registros
+* Bacterias: 147.630 registros
 
-Además, **18’566.282 de los registros son sobre y para Colombia**, hecho que nos  posiciona como un referente en Latinoamérica y el Caribe. Asimismo, es uno de los indicadores del cambio cultural de la última década, respecto a la importancia que le damos a los datos sobre biodiversidad de Colombia desde las etapas más tempranas de la recolección. 
+Además, **18’908.619 de los registros son sobre y para Colombia**, hecho que nos  posiciona como un referente en Latinoamérica y el Caribe. Asimismo, es uno de los indicadores del cambio cultural de la última década, respecto a la importancia que le damos a los datos sobre biodiversidad de Colombia desde las etapas más tempranas de la recolección. 
 
-El restante se distribuye en otros 244 países del mundo, aquellos a los que más aportamos son: 
+El restante se distribuye en otros 244 países del mundo, aquellos que más aportan son: 
 
 ![Aporte de datos sobre biodiversidad de Colombia a otros países](/assets/images/noticias_eventos/2023/2023-01-04-aporte-colombia-otros-paises.png)
 Fuente: [GBIF](https://www.gbif.org/country/CO/about){:target="_blank"}.
