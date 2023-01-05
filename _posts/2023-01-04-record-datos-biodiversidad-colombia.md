@@ -59,5 +59,5 @@ Crear, compartir y transformar han sido los pilares con los que el SiB Colombia 
 
 Estos pilares se traducen en políticas públicas, publicaciones impresas, talleres, campañas de responsabilidad ambiental, veeduría, turismo responsable entre otros productos que puedan tener como base el conocimiento real de la biodiversidad de Colombia. 
 
-Si quieres conocer cómo convertirte en un socio publicador, [acá encuentras una guía completa](https://biodiversidad.co/compartir/guia-para-publicar/),{:target="_blank"} además cuentas con el apoyo del Equipo Coordinador del SiB Colombia para lograrlo. 
+Si quieres conocer cómo convertirte en un socio publicador, [acá encuentras una guía completa](https://biodiversidad.co/compartir/guia-para-publicar/){:target="_blank"}. Además, cuentas con el apoyo del Equipo Coordinador del SiB Colombia para lograrlo. 
 
