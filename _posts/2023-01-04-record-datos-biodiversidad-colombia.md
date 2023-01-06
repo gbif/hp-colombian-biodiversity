@@ -10,8 +10,10 @@ imageLicense: |
 ---
 
 
-* Cerramos el 2022 con el mayor crecimiento porcentual en el registro de datos de los últimos 10 años en el SiB Colombia. 
-* Más de 190 organizaciones han aportado a la publicación de estos datos, lo que convierte a la red en el nodo [GBIF](https://www.gbif.org/){:target="_blank"} con la mayor cantidad de socios publicadores en Latinoamérica y el Caribe.
+* Cerramos el 2022 con el mayor crecimiento de registros biológicos de los últimos 10 años en el SiB Colombia. 
+* 192 organizaciones han aportado a la publicación de estos datos, lo que convierte a la red en el nodo [GBIF](https://www.gbif.org/){:target="_blank"} con la mayor cantidad de socios publicadores en Latinoamérica y el Caribe.​​
+
+Durante 2022 los socios publicadores del SiB Colombia compartieron **6’401.123 nuevos registros biológicos**, una cifra récord en los últimos diez años y que representa un incremento de 44 %, con respecto al año anterior. Este aporte ha permitido **superar el hito de los 20 millones de datos** publicados sobre la biodiversidad de Colombia que cuentan, además, con la ventaja de poderse consultar desde un mismo lugar, el portal de datos [biodiversidad.co](https://biodiversidad.co/){:target="_blank"}. 
 
 ## ¿Cómo llegamos a esto?
 
@@ -19,15 +21,15 @@ Alcanzar esta cifra récord es un trabajo que inició en el 2012. En ese momento
 
 Los retos, que uno a uno se superaron, fueron: la disponibilidad de recursos económicos, la puesta en funcionamiento de una infraestructura informática escalable y, el reto con el mayor grado de dificultad, **fortalecer y posicionar una cultura de trabajo que reconozca la importancia de compartir datos abiertos para su uso libre y gratuito**.
 
-Hoy, 10 años después, se han alcanzado **20 millones de datos publicados que pueden ser consultados y usados, en un mismo lugar, de manera libre y gratuita**. Este hito se logra, además de la constancia y dedicación hacia un objetivo claro, gracias al trabajo comprometido de **más de 190 organizaciones de diferentes sectores**. Esto, además, permite  que la proyección para próximos años sea positiva y, finalmente, que los datos recolectados provengan de fuentes diversas que aportan al conocimiento de la riqueza biológica del territorio.
+Hoy, 10 años después, se han alcanzado **20 millones de datos publicados que pueden ser consultados y usados, en un mismo lugar, de manera libre y gratuita**. Este hito se logra, además de la constancia y dedicación hacia un objetivo claro, gracias al trabajo comprometido de **192 organizaciones de múltiples sectores**. Esto, además, permite  que la proyección para próximos años sea positiva y, finalmente, que los datos recolectados provengan de fuentes diversas que aportan al conocimiento de la riqueza biológica del territorio.
 
 **Organizaciones vinculadas a través del tiempo y por sectores**
 
 ![Organizaciones publicadoras de datos sobre biodiversidad vinculadas a través del tiempo y por sectores](/assets/images/noticias_eventos/2023/2023-01-04-org-publicadoras.png)
 
-El sector empresarial destaca entre los socios publicadores de los últimos dos años debido a la alianza hecha con La Asociación Nacional de Industriales (ANDI), que ha traído como resultado cerca de **tres millones de registros de los 20,632,975 totales**, aunque la academia y las ONG siguen ocupando los primeros puestos.
+El sector empresarial destaca entre los socios publicadores de los últimos dos años debido a la alianza hecha con La Asociación Nacional de Industriales (ANDI), que ha traído como resultado cerca de **tres millones de registros de los 20 millones totales**, aunque la academia y las ONG siguen ocupando los primeros puestos.
 
-| También puedes leer: [Empresas colombianas aportan al conocimiento de la biodiversidad del país](https://biodiversidad.co/post/2022/empresas-colombianas-aportan-conocimiento-biodiversidad/){:target="_blank"}. |
+También puedes leer: [Empresas colombianas aportan al conocimiento de la biodiversidad del país](https://biodiversidad.co/post/2022/empresas-colombianas-aportan-conocimiento-biodiversidad/){:target="_blank"}.
 
 Por otro lado, un poco más de **50 % de los datos han sido aportados por la iniciativa de ciencia ciudadana [e-Bird](https://ebird.org/)**{:target="_blank"}, una plataforma de observaciones sobre aves que proporciona a científicos, investigadores y naturalistas aficionados datos en tiempo real sobre la distribución y abundancia de aves. Al ser Colombia el segundo país con mayor diversidad de este grupo, es coherente que 10’878.787 de los datos se atribuyan a la misma. 
 
@@ -51,13 +53,17 @@ Parte de los objetivos de corto y mediano plazo es **integrar datos de regiones 
 
 ## ¿Para qué sirve conocer estos datos sobre biodiversidad?
 
-Crear, compartir y transformar han sido los pilares con los que el SiB Colombia ha enmarcado el uso, recolección y publicación de los datos. Esto quiere decir que llegar a más de 20 millones de registro biológicos permite: 
+Desde el SiB Colombia se ha enmarcado la publicación, el uso, y el acceso a los datos como pilares de trabajo con un enfoque que —desde la filosofía [Crear, compartir y transformar](https://biodiversidad.co/recursos/acceso-abierto/){:target="_blank"}— facilite los procesos necesarios en organizaciones de sectores como el académico, los institutos de investigación o el sector privado para lo siguiente: 
 
-* Crear nuevo conocimiento a través de lo que ya está publicado. 
-* Compartir lo creado usando [**licencias _Creative Commons_**](https://biodiversidad.co/recursos/acceso-abierto/){:target="_blank"} que permiten que los datos aportados puedan ser libres, gratuitos y abiertos. 
-* Transformar los datos de otros en nuevo conocimiento y permitir que otros hagan lo mismo con los datos que el socio publicador haya aportado.
+* Crear nuevo conocimiento a través de lo que ya está publicado.
+* Identificar vacíos de información
+* Enfocar mejor los esfuerzos de muestreo.
+* Acelerar los procesos de investigación.
+* Dar reconocimiento a las personas que recolectan datos.
 
-Estos pilares se traducen en políticas públicas, publicaciones impresas, talleres, campañas de responsabilidad ambiental, veeduría, turismo responsable entre otros productos que puedan tener como base el conocimiento real de la biodiversidad de Colombia. 
+El trabajo conjunto de investigadores y profesionales del sector se soporta en datos que otros socios publicadores han aportado usando [licencias _Creative Commons_](https://biodiversidad.co/recursos/acceso-abierto/){:target="_blank"}, el primer paso para que los datos aportados puedan ser libres, gratuitos y abiertos.
+
+Finalmente, esto se traduce en políticas públicas, publicaciones impresas, talleres, campañas de responsabilidad ambiental, veeduría, turismo responsable entre otros productos que puedan tener como base el conocimiento real de la biodiversidad de Colombia. 
 
 Si quieres conocer cómo convertirte en un socio publicador, [acá encuentras una guía completa](https://biodiversidad.co/compartir/guia-para-publicar/){:target="_blank"}. Además, cuentas con el apoyo del Equipo Coordinador del SiB Colombia para lograrlo. 
 
