@@ -29,7 +29,7 @@ Hoy, 10 años después, se han alcanzado **20 millones de datos publicados que p
 
 El sector empresarial destaca entre los socios publicadores de los últimos dos años debido a la alianza hecha con La Asociación Nacional de Industriales (ANDI), que ha traído como resultado cerca de **tres millones de registros de los 20 millones totales**, aunque la academia y las ONG siguen ocupando los primeros puestos.
 
-También puedes leer: [Empresas colombianas aportan al conocimiento de la biodiversidad del país](https://biodiversidad.co/post/2022/empresas-colombianas-aportan-conocimiento-biodiversidad/){:target="_blank"}.
+| También puedes leer: [Empresas colombianas aportan al conocimiento de la biodiversidad del país](https://biodiversidad.co/post/2022/empresas-colombianas-aportan-conocimiento-biodiversidad/){:target="_blank"}. |
 
 Por otro lado, un poco más de **50 % de los datos han sido aportados por la iniciativa de ciencia ciudadana [e-Bird](https://ebird.org/)**{:target="_blank"}, una plataforma de observaciones sobre aves que proporciona a científicos, investigadores y naturalistas aficionados datos en tiempo real sobre la distribución y abundancia de aves. Al ser Colombia el segundo país con mayor diversidad de este grupo, es coherente que 10’878.787 de los datos se atribuyan a la misma. 
 
