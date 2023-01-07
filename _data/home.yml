@@ -62,7 +62,7 @@ noticias:
       description: |      # required
         Cerramos el 2022 con el mayor crecimiento de registros biológicos de los últimos 10 años.
       # img required
-      background: /assets/images/noticias_eventos/2023/2023-01-204-record-datos-biodiversidad-colombia.jpg
+      background: /assets/images/noticias_eventos/2023/2023-01-04-record-datos-biodiversidad-colombia.jpg
       cta:
       - text: Ver más
         href: /post/2023/record-datos-biodiversidad-colombia/
@@ -73,7 +73,7 @@ noticias:
       description: |      # required
         Cuarta entrega del especial: estrategias para conservar especies vegetales fuera de su hábitat.
       # img required
-      background: /assets/images/noticias_eventos/2023/2023-01-204-bancos-semillas-plantas-colombia.jpg
+      background: /assets/images/noticias_eventos/2023/2023-01-04-bancos-semillas-plantas-colombia.jpg
       cta:
       - text: Ver más
         href: /post/2023/bancos-semillas-plantas-colombia/
