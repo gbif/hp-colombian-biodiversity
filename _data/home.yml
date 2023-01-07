@@ -57,6 +57,28 @@ bannerAlerta:
 noticias:
   features:
 
+    - preTitle: Cifras
+      title: "Cifra récord: 20 millones de datos" 
+      description: |      # required
+        Cerramos el 2022 con el mayor crecimiento de registros biológicos de los últimos 10 años.
+      # img required
+      background: /assets/images/noticias_eventos/2023/2023-01-204-record-datos-biodiversidad-colombia.jpg
+      cta:
+      - text: Ver más
+        href: /post/2023/record-datos-biodiversidad-colombia/
+        isPrimary: false
+
+    - preTitle: Especial de plantas IV
+      title: "Semillas, la moneda del futuro" 
+      description: |      # required
+        Cuarta entrega del especial: estrategias para conservar especies vegetales fuera de su hábitat.
+      # img required
+      background: /assets/images/noticias_eventos/2023/2023-01-204-bancos-semillas-plantas-colombia.jpg
+      cta:
+      - text: Ver más
+        href: /post/2023/bancos-semillas-plantas-colombia/
+        isPrimary: false
+
     - preTitle: Especial de plantas III
       title: "Plantas en peligro de extinción" 
       description: |      # required
@@ -66,28 +88,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2022/extincion-plantas-colombia/
-        isPrimary: false
-
-    - preTitle: Especial de plantas II
-      title: "Datos sobre epífitas: claves en la conservación" 
-      description: |      # required
-        Segunda entrega del especial: estrategias de conservación basadas en datos sobre estas plantas.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-12-21-epifitas-plantas-colombia.jpg
-      cta:
-      - text: Ver más
-        href: /post/2022/epifitas-plantas-colombia/
-        isPrimary: false
-
-    - preTitle: Especial de plantas I
-      title: Lo que dicen los datos sobre las plantas en Colombia 
-      description: |      # required
-        Primera entrega del especial: conoce el estado actual de los datos sobre las plantas del país.
-      # img required
-      background: /assets/images/noticias_eventos/2022/2022-12-14-conocimiento-plantas-colombia.jpg
-      cta:
-      - text: Ver más
-        href: /post/2022/conocimiento-plantas-colombia/
         isPrimary: false
 
 
