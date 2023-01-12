@@ -42,18 +42,18 @@ Prime number Tunguska event a mote of dust suspended in a sunbeam something incr
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_%20estructuracion-transectos/Curso4_EstructurarMedidasFig1600.png" width=300>
 
-# Prueba de la imagen en 3000p
+# Prueba de la imagen en 3840p
 
 Prime number Tunguska event a mote of dust suspended in a sunbeam something incredible is waiting to be known not a sunrise but a galaxyrise invent the universe? The sky calls to us another world citizens of distant epochs a still more glorious dawn awaits extraordinary claims require extraordinary evidence two ghostly white figures in coveralls and helmets are softly dancing. Encyclopaedia galactica citizens of distant epochs network of wormholes vanquish the impossible vanquish the impossible descended from astronomers and billions upon billions upon billions upon billions upon billions upon billions upon billions.
 
-## Imagen en 3000p full tamaño
+## Imagen en 3840p full tamaño
 
 ![Figura 3 en 3000](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_%20estructuracion-transectos/Curso4_EstructurarMedidasFig3000.png)
 
-## Imagen en 3000p con widht 500
+## Imagen en 3840p con widht 500
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_%20estructuracion-transectos/Curso4_EstructurarMedidasFig3000.png" width=500>
 
-## Imagen en 3000p con widht 300
+## Imagen en 3840p con widht 300
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_%20estructuracion-transectos/Curso4_EstructurarMedidasFig3000.png" width=300>
