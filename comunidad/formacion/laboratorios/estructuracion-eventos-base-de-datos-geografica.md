@@ -6,5 +6,3 @@ description: "Objetivo: Estructurar los eventos de muestreo presentes en una bas
 sideNavigation: sidenav_laboratorios.terms
 toc: true
 ---
-
-# Estructuración de eventos al DwC desde una Base de datos geográfica
