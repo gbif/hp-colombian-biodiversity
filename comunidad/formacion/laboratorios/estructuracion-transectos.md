@@ -6,5 +6,3 @@ description: "Objetivo: Estructurar las coordenadas asociadas a transectos prove
 sideNavigation: sidenav_laboratorios.terms
 toc: true
 ---
-
-# Estructuración de transectos en Darwin Core 
