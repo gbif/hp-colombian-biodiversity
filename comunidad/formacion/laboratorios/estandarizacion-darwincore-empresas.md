@@ -11,7 +11,7 @@ toc: true
 
 **Objetivo**
 
-Estructurar un conjunto de datos con base en el estándar [Darwin Core (DwC)](https://dwc.tdwg.org/terms/), siguiendo los vocabularios controlados y las buenas prácticas de documentación.
+Estructurar un conjunto de datos con base en el estándar [Darwin Core (DwC)](https://dwc.tdwg.org/terms/){:target="_blank"}, siguiendo los vocabularios controlados y las buenas prácticas de documentación.
 
 **Sobre la actividad**
 
@@ -23,7 +23,7 @@ Para realizar este ejercicio, es necesario contar con un programa que procese ar
 
 **Archivo de trabajo**
 
-Descargar el archivo ([Datos_CasoEmpresa_20reg](https://docs.google.com/spreadsheets/d/1o5I_5mVrtaKhwNMZRhGVLP2vQY9-wXH1/edit#gid=97635514)) para realizar el laboratorio.
+Descargar el archivo ([Datos_CasoEmpresa_20reg](https://docs.google.com/spreadsheets/d/1o5I_5mVrtaKhwNMZRhGVLP2vQY9-wXH1/edit#gid=97635514)){:target="_blank"} para realizar el laboratorio.
 
 Descargar la última versión de la «[plantilla de publicación](https://biodiversidad.co/recursos/plantillas-dwc/#registros-biol%C3%B3gicos)» de registros biológicos.
 
@@ -50,7 +50,7 @@ Tu misión en este laboratorio es  estructurar los datos de la empresa con base 
 
 ## Paso 2 - Mapeo de los datos
 
-Descargar y abrir los archivos de trabajo [Datos_CasoEmpresa_20reg](https://docs.google.com/spreadsheets/d/1o5I_5mVrtaKhwNMZRhGVLP2vQY9-wXH1/edit#gid=97635514) y la [plantilla de publicación de registros biológicos](https://biodiversidad.co/recursos/plantillas-dwc/#registros-biol%C3%B3gicos). 
+Descargar y abrir los archivos de trabajo [Datos_CasoEmpresa_20reg](https://docs.google.com/spreadsheets/d/1o5I_5mVrtaKhwNMZRhGVLP2vQY9-wXH1/edit#gid=97635514){:target="_blank"} y la [plantilla de publicación de registros biológicos](https://biodiversidad.co/recursos/plantillas-dwc/#registros-biol%C3%B3gicos). 
 
 En primer lugar, se debe revisar detenidamente el nombre y contenido de cada columna del archivo Datos_CasoEmpresa_20reg.xlsx e identificar a qué elemento DwC de la **plantilla de publicación** corresponde. Este proceso recibe el nombre de mapeo de datos. Después de identificar el elemento correspondiente, es necesario copiar y pegar el contenido de esa columna en la plantilla, como se muestra en la siguiente imagen (Fig. 1):
 
@@ -85,7 +85,7 @@ Pistas:
 
 ## Paso 5 - Ajustar los datos  
 
-Una vez que se hayan trasladado todos los datos del archivo [Datos_CasoEmpresa_20reg](https://docs.google.com/spreadsheets/d/1o5I_5mVrtaKhwNMZRhGVLP2vQY9-wXH1/edit#gid=97635514) a la plantilla de publicación, es necesario ajustar las columnas de acuerdo a las definiciones y vocabularios controlados del estándar Darwin Core para cada elemento mapeado (Fig. 3A). Algunos elementos tienen un vocabulario controlado. En estos casos, se recomienda hacer clic para ir a la pestaña de vocabulario controlado asociada  (Fig. 3B).
+Una vez que se hayan trasladado todos los datos del archivo [Datos_CasoEmpresa_20reg](https://docs.google.com/spreadsheets/d/1o5I_5mVrtaKhwNMZRhGVLP2vQY9-wXH1/edit#gid=97635514){:target="_blank"} a la plantilla de publicación, es necesario ajustar las columnas de acuerdo a las definiciones y vocabularios controlados del estándar Darwin Core para cada elemento mapeado (Fig. 3A). Algunos elementos tienen un vocabulario controlado. En estos casos, se recomienda hacer clic para ir a la pestaña de vocabulario controlado asociada  (Fig. 3B).
 
 ![Figura 3. Estructura de la plantilla de publicación.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estandarizacion-darwincore-empresas/Fig3_C3Registros_Vocabulario.png)
 <sup>_Figura 3. Estructura de la plantilla de publicación. A. Información del elemento en la pestaña “Definiciones”. B. Vocabulario controlado asociado al elemento presente en la pestaña “Vocabulario”._</sup>
@@ -103,7 +103,7 @@ Al finalizar, la plantilla debe verse similar a la siguiente imagen (Fig. 4):
 
 Descarga y compara el siguiente archivo, estandarizado según las definiciones del Darwin Core, con el archivo que trabajó en el laboratorio para identificar aciertos y posibilidades de mejora. ¿Fue posible completar más elementos del conjunto de datos en la plantilla?
 
-- [Archivo estandarizado ](https://docs.google.com/spreadsheets/d/1SsnrmaWVjbiGaFEiTAVT9n-HNqY7lRHP/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true)
+- [Archivo estandarizado ](https://docs.google.com/spreadsheets/d/1SsnrmaWVjbiGaFEiTAVT9n-HNqY7lRHP/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}
 
 ****
 **¡Felicitaciones!**
