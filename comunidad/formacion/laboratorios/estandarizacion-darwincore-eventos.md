@@ -11,7 +11,7 @@ toc: true
 
 **Objetivo**
 
-Estructurar un conjunto de Eventos de muestreo bajo el estándar [Darwin Core (Dwc)](https://dwc.tdwg.org/terms/), siguiendo sus vocabularios controlados y las buenas prácticas de documentación.
+Estructurar un conjunto de Eventos de muestreo bajo el estándar [Darwin Core (Dwc)](https://dwc.tdwg.org/terms/){:target="_blank"}, siguiendo sus vocabularios controlados y las buenas prácticas de documentación.
 
 
 **Sobre la actividad**
@@ -24,7 +24,7 @@ Para realizar este ejercicio, es necesario contar con un programa que procese ar
 
 **Archivo de trabajo**
 
-Descargar el archivo ([Datos Eventos 20 Registros](https://docs.google.com/spreadsheets/d/1Z09ilRuLsnQZO93Fm7aBUeslaDXfoI07/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true)) para realizar el laboratorio.
+Descargar el archivo ([Datos Eventos 20 Registros](https://docs.google.com/spreadsheets/d/1Z09ilRuLsnQZO93Fm7aBUeslaDXfoI07/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}) para realizar el laboratorio.
 Descargar la última versión de la «[plantilla de publicación](https://biodiversidad.co/recursos/plantillas-dwc/#eventos-de-muestreo)» de eventos de muestreo.
 Descargar la última versión de la «[plantilla de publicación](https://biodiversidad.co/recursos/plantillas-dwc/#registros-biol%C3%B3gicos)» de registros biológicos.
 
@@ -50,16 +50,16 @@ Para facilitar la realización de este laboratorio, los registros biológicos ya
 
 ## Paso 2 - Mapeo de los datos 
 
-Descargar y abrir los archivos de trabajo [Datos_CasoEmpresa_20reg](https://docs.google.com/spreadsheets/d/1o5I_5mVrtaKhwNMZRhGVLP2vQY9-wXH1/edit#gid=97635514) y la [plantilla de publicación](https://biodiversidad.co/recursos/plantillas-dwc/#eventos-de-muestreo) de eventos de muestreo. 
+Descargar y abrir los archivos de trabajo [Datos_CasoEmpresa_20reg](https://docs.google.com/spreadsheets/d/1o5I_5mVrtaKhwNMZRhGVLP2vQY9-wXH1/edit#gid=97635514){:target="_blank"} y la [plantilla de publicación](https://biodiversidad.co/recursos/plantillas-dwc/#eventos-de-muestreo) de eventos de muestreo. 
 
-Revisar  detenidamente el nombre y contenido de cada columna del archivo [Datos_eventos_20registros](https://docs.google.com/spreadsheets/d/1Z09ilRuLsnQZO93Fm7aBUeslaDXfoI07/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true) (Hoja de eventos) e identificar a qué elemento DwC de la plantilla de publicación corresponde. Este proceso recibe el nombre de mapeo de datos. 
+Revisar  detenidamente el nombre y contenido de cada columna del archivo [Datos_eventos_20registros](https://docs.google.com/spreadsheets/d/1Z09ilRuLsnQZO93Fm7aBUeslaDXfoI07/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} (Hoja de eventos) e identificar a qué elemento DwC de la plantilla de publicación corresponde. Este proceso recibe el nombre de mapeo de datos. 
 
 Después de identificar el elemento correspondiente, copiar y pegar el contenido de esa columna en la plantilla, como se muestra en la siguiente imagen (Fig. 1):
 
 ![Figura 1. Mapeo de datos en la plantilla DwC.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estandarizacion-darwincore-eventos/Fig1_C3Eventos_Mapeo.png)
 <sup>_Figura 1. Mapeo de datos en la plantilla DwC._</sup>
 
-- **Nota**: Al final de la tabla de eventos se encuentran unas medidas abióticas relacionadas con el tipo de suelo, humedad relativa y temperatura del aire. Para estructurar estas medidas en el estándar Darwin Core, es necesario realizar el mapeo de las medidas en la extensión [Medidas o Hechos](https://biodiversidad.co/compartir/estandar-darwin-core/#medidas-o-hechos-extendida). En este ejercicio, **las medidas ya se encuentran mapeadas** en la hoja llamada  “MedidasAbioticas” del archivo de trabajo [Datos Eventos 20 Registros](https://docs.google.com/spreadsheets/d/1Z09ilRuLsnQZO93Fm7aBUeslaDXfoI07/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true). Para conocer el proceso de estandarización de estas medidas, consulta:
+- **Nota**: Al final de la tabla de eventos se encuentran unas medidas abióticas relacionadas con el tipo de suelo, humedad relativa y temperatura del aire. Para estructurar estas medidas en el estándar Darwin Core, es necesario realizar el mapeo de las medidas en la extensión [Medidas o Hechos](https://biodiversidad.co/compartir/estandar-darwin-core/#medidas-o-hechos-extendida). En este ejercicio, **las medidas ya se encuentran mapeadas** en la hoja llamada  “MedidasAbioticas” del archivo de trabajo [Datos Eventos 20 Registros](https://docs.google.com/spreadsheets/d/1Z09ilRuLsnQZO93Fm7aBUeslaDXfoI07/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}. Para conocer el proceso de estandarización de estas medidas, consulta:
   - [Estandarización de medidas o hechos en la extensión Measurement or Facts](https://biodiversidad.co/formacion/laboratorios/extensiones-dwc-medidas-hechos)
 
 ## Paso 3 - Identificar los elementos obligatorios 
@@ -76,7 +76,7 @@ Navegar en la pestaña **Plantilla** para identifique los elementos Darwin Core 
 ![Figura 2. Convención en color naranja de los elementos obligatorios en la plantilla de eventos.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estandarizacion-darwincore-eventos/Fig2_C3Eventos_Obligatorios.png)
 <sup>_Figura 2. Convención en color naranja de los elementos obligatorios en la plantilla de eventos._</sup>
 
-Adicionalmente, cuando se realiza una publicación de eventos de muestreo, también es necesario adicionar los registros biológicos obtenidos durante el muestreo, teniendo en cuenta los elementos obligatorios a documentar en los registros para la publicación de eventos. En este sentido, se debe revisar si los registros biológicos del archivo  [Datos Eventos 20 Registros](https://docs.google.com/spreadsheets/d/1Z09ilRuLsnQZO93Fm7aBUeslaDXfoI07/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true) (Hoja de registros) cuentan con todo los elementos obligatorios para la publicación de eventos de muestreo, de acuerdo a la hoja de instrucciones de la [plantilla de publicación de registros biológicos](https://biodiversidad.co/recursos/plantillas-dwc/#registros-biol%C3%B3gicos). 
+Adicionalmente, cuando se realiza una publicación de eventos de muestreo, también es necesario adicionar los registros biológicos obtenidos durante el muestreo, teniendo en cuenta los elementos obligatorios a documentar en los registros para la publicación de eventos. En este sentido, se debe revisar si los registros biológicos del archivo  [Datos Eventos 20 Registros](https://docs.google.com/spreadsheets/d/1Z09ilRuLsnQZO93Fm7aBUeslaDXfoI07/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} (Hoja de registros) cuentan con todo los elementos obligatorios para la publicación de eventos de muestreo, de acuerdo a la hoja de instrucciones de la [plantilla de publicación de registros biológicos](https://biodiversidad.co/recursos/plantillas-dwc/#registros-biol%C3%B3gicos). 
 
 ## Paso 4 - Crear los elementos obligatorios 
 
@@ -113,7 +113,7 @@ Al finalizar, la plantilla debe verse similar a la siguiente imagen (Fig. 5):
 
 Descarga y compara el siguiente archivo, estandarizado según las definiciones del Darwin Core, con el archivo que se trabajó en el laboratorio e identifica aciertos y posibilidades de mejora. ¿Quedaron correctamente estructurados los eventos de muestreo?
 
-- [Archivo estandarizado](https://docs.google.com/spreadsheets/d/1shjhSdcrs4whaGYtwYgadAwacUXWx1Fq/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true) 
+- [Archivo estandarizado](https://docs.google.com/spreadsheets/d/1shjhSdcrs4whaGYtwYgadAwacUXWx1Fq/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}
 
 ****
 **¡Felicitaciones!**
