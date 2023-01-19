@@ -56,7 +56,7 @@ Se evidencia que algunos ejemplos están pre-documentados en gris para facilitar
 
 ## Paso 3 - Mapeo de los datos
 
-Luego de haber explorado la extensión e identificado los elementos obligatorios, es necesario revisar detenidamente el archivo [Multimedia_sonidos_20reg](https://docs.google.com/spreadsheets/d/1aYWf8O5VchUmJPIO01al0E6cZ6AxiWjm/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}. Posteriormente, se debe copiar y pegar el contenido de las columnas en la plantilla de la extensión de Multimedia Simple. Esta actividad recibe el nombre de mapeo de datos. Por último, revisa la definición de los elementos y sus ejemplos para corroborar la correspondencia del mapeo. 
+Luego de haber explorado la extensión e identificado los elementos obligatorios, es necesario revisar detenidamente el archivo [Multimedia_sonidos_20reg](https://docs.google.com/spreadsheets/d/1aYWf8O5VchUmJPIO01al0E6cZ6AxiWjm/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}. Posteriormente, se debe copiar y pegar el contenido de las columnas en la plantilla de la extensión de Multimedia Simple. Esta actividad recibe el nombre de mapeo de datos. Por último, revisar la definición de los elementos y sus ejemplos para corroborar la correspondencia del mapeo. 
 
 ![Figura 2. Mapeo de datos a los elementos de la plantilla.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-multimedia/Fig2_C3Medidas_Mapeo.png)
 <sup>_Figura 2. Mapeo de datos a los elementos de la plantilla._</sup>
@@ -107,7 +107,7 @@ Compara el siguiente archivo, estandarizado según las definiciones del Darwin C
 
 «[Archivo estandarizado](https://drive.google.com/uc?id=1pODwB1jELAvpTa9CvujyOd6vcFyA0Nld&authuser=0&export=download){:target="_blank"}»
 
-En el reto se puede observar que las imágenes están en un repositorio. Si a futuro  se desea publicar imágenes asociadas a un registro biológico, es recomendable usar el repositorio que mejor se adapte a cada caso. Algunos de los que están disponibles son:
+En el reto se puede observar que las imágenes están en un repositorio. Si a futuro se desean publicar imágenes asociadas a un registro biológico, es recomendable usar el repositorio que mejor se adapte a cada caso. Algunos de los que están disponibles son:
 
 
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}
