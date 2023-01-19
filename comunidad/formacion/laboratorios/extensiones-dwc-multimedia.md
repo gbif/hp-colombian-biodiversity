@@ -93,21 +93,21 @@ Los elementos multimedia que estaban en el formato de trabajo interno han sido e
 
 ****
 
-## Reto - Imágenes multimedia
+## Reto: Imágenes multimedia
 
 ### Paso 1 - Aplicar lo aprendido
 
-A partir del ejercicio previo, se puede deducir que las extensiones funcionan de forma similar. Por lo tanto, este ejercicio consiste en estructurar la extensión **Multimedia simple** (Simple Multimedia) a partir de lo aprendido anteriormente, pero aplicado a imágenes.
+Teniendo en cuenta lo aprendido en este laboratorio, se puede deducir que las extensiones funcionan de forma similar en diferentes casos. Por lo tanto, el siguiente reto consiste en estructurar la extensión **Multimedia simple** (Simple Multimedia), aplicando el mismo procedimiento para otro tipo de recurso: imágenes.
 
 El archivo «[Ejercicio2_Registrosbiológicos_Estructurado.xlsx](https://drive.google.com/uc?id=1wm7ZvwBqywuROZ-xqTmx00dsAZUY_oQO&authuser=0&export=download){:target="_blank"}» se encuentra estructurado en DwC y contiene los datos de una colección de microorganismos. Se desea asociar las cepas de dichos microorganismos a imágenes de referencia, las cuales se encuentran enlazadas en el archivo «[Ejercicio2_Multimedia_porEstructurar.xlsx](https://drive.google.com/uc?id=1ghJuuEc9TDBvwu0vaWAuuu1d113nNpa7&authuser=0&export=download){:target="_blank"}». El primer paso consiste en estructurar las imágenes, usando la «[Plantilla de la extensión Multimedia simple (Simple Multimedia)](https://drive.google.com/uc?export=download&id=1Bfdgnl-KXwvLHs8H-bSe8yBXVyD8qrx8){:target="_blank"}».
 
 ### Paso 2 - Verificación del resultado 
 
-Comparar el siguiente archivo, estandarizado según las definiciones del Darwin Core, con el archivo que trabajó en el laboratorio para identificar aciertos y posibilidades de mejora. ¿las extensiones quedaron correctamente construidas?
+Compara el siguiente archivo, estandarizado según las definiciones del Darwin Core, con el archivo que trabajó en el laboratorio para identificar aciertos y posibilidades de mejora. ¿Las extensiones quedaron correctamente construidas?
 
 «[Archivo estandarizado](https://drive.google.com/uc?id=1pODwB1jELAvpTa9CvujyOd6vcFyA0Nld&authuser=0&export=download){:target="_blank"}»
 
-En este ejercicio se puede observar que las imágenes se encuentran en un repositorio. Si a futuro  se desea publicar imágenes asociadas a un registro biológico, es recomendable usar el recurso que mejor se adapte a cada caso. Algunos de los repositorios disponibles son:
+En el reto se puede observar que las imágenes están en un repositorio. Si a futuro  se desea publicar imágenes asociadas a un registro biológico, es recomendable usar el repositorio que mejor se adapte a cada caso. Algunos de los que están disponibles son:
 
 
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}
@@ -123,10 +123,10 @@ En este ejercicio se puede observar que las imágenes se encuentran en un reposi
   - Limitado a 1000 fotografías.
   - Ejemplo: [https://www.flickr.com/photos/98788120@N02/](https://www.flickr.com/photos/98788120@N02/){:target="_blank"}.
 - [SmugMug](https://www.smugmug.com/){:target="_blank"}
-  - El almacenamiento está sujeto a pago, puede consultar aquí los planes disponibles.
+  - El almacenamiento está sujeto a pago, hay varios planes disponibles.
   - Almacenamiento ilimitado en cualquier plan.
 
-**¡Felicitaciones!** Ha aprendido a estructurar datos de imágenes según la extensión simple Multimedia.
+**¡Felicitaciones!** Ha aprendido a estructurar datos de imágenes con base en la extensión Simple Multimedia.
 
 ****
 
