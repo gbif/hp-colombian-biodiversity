@@ -23,7 +23,7 @@ Para realizar este ejercicio, es necesario contar con un programa que procese ar
 
 **Archivo de trabajo**
 
-Descargar el archivo ([MedidasoHechos_20reg](https://docs.google.com/spreadsheets/d/1P5Yy0oz0U6bplllmkeGlyBIFG2uUuVZr/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true)) para realizar el laboratorio.
+Descargar el archivo ([MedidasoHechos_20reg](https://docs.google.com/spreadsheets/d/1P5Yy0oz0U6bplllmkeGlyBIFG2uUuVZr/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}) para realizar el laboratorio.
 
 Descargar la última versión de la «[Plantilla de la extensión Medidas o hechos](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones)».
 
@@ -46,7 +46,7 @@ Descargar y abrir la [Plantilla de la extensión Medidas o hechos](https://biodi
 - **Plantilla**: contiene la tabla con los elementos DwC para documentar la extensión y unas filas de ejemplo.
 - **Definiciones** contiene las descripciones de cada uno de los elementos del estándar DwC, recomendaciones de documentación y ejemplos.
 
-En la pestaña de instrucciones hay una sección titulada “Elementos obligatorios según el tipo de los datos”. Para el caso de los datos de ejemplo ([MedidasoHechos_20reg](https://docs.google.com/spreadsheets/d/1P5Yy0oz0U6bplllmkeGlyBIFG2uUuVZr/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true)), se usarán los elementos obligatorios  que corresponden a la publicación del core de registros biológicos (Fig. 1). 
+En la pestaña de instrucciones hay una sección titulada “Elementos obligatorios según el tipo de los datos”. Para el caso de los datos de ejemplo ([MedidasoHechos_20reg](https://docs.google.com/spreadsheets/d/1P5Yy0oz0U6bplllmkeGlyBIFG2uUuVZr/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}), se usarán los elementos obligatorios  que corresponden a la publicación del core de registros biológicos (Fig. 1). 
 
 ![Figura 1. Elementos obligatorios de la extensión para publicar registros biológicos.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-medidas%26hechos/Fig1_C3Medidas_Obligatorios.png)
 <sup>_Figura 1. Elementos obligatorios de la extensión para publicar registros biológicos._</sup>
@@ -55,7 +55,7 @@ En la plantilla hay algunos ejemplos pre-documentados en gris para facilitar la 
 
 ## Paso 3 - Mapeo de los datos
 
-Después de explorar la extensión e identificar los elementos obligatorios, revisar detenidamente el archivo [MedidasoHechos_20reg](https://docs.google.com/spreadsheets/d/1P5Yy0oz0U6bplllmkeGlyBIFG2uUuVZr/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true). Posteriormente, se debe copiar y pegar el contenido de las columnas en la plantilla de la extensión de medidas y hechos. Esta actividad recibe el nombre de **mapeo de datos**. Por último, revisa la definición de los elementos y sus ejemplos para corroborar la correspondencia del mapeo. 
+Después de explorar la extensión e identificar los elementos obligatorios, revisar detenidamente el archivo [MedidasoHechos_20reg](https://docs.google.com/spreadsheets/d/1P5Yy0oz0U6bplllmkeGlyBIFG2uUuVZr/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}. Posteriormente, se debe copiar y pegar el contenido de las columnas en la plantilla de la extensión de medidas y hechos. Esta actividad recibe el nombre de **mapeo de datos**. Por último, revisa la definición de los elementos y sus ejemplos para corroborar la correspondencia del mapeo. 
 
 ### 3.1 Mapeo de elementos 
 
@@ -81,7 +81,7 @@ Cualitativas (hechos): son variables categóricas que guardan algún tipo de ló
 
 ### 3.2 Estructurar el elemento occurrenceID
 
-Para hacer uso de la extensión, es necesario contar con un identificador (ID) que enlace la extensión con los datos del Core del estándar DwC; en este caso, registros biológicos. Por lo tanto, se debe ajustar el occurrenceID de la extensión **Medidas o hechos** para que coincida exactamente con el del conjunto de datos estructurado en [Datos_observaciones_20reg_estandarizado](https://docs.google.com/spreadsheets/d/1SsnrmaWVjbiGaFEiTAVT9n-HNqY7lRHP/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true) (Fig. 3).
+Para hacer uso de la extensión, es necesario contar con un identificador (ID) que enlace la extensión con los datos del Core del estándar DwC; en este caso, registros biológicos. Por lo tanto, se debe ajustar el occurrenceID de la extensión **Medidas o hechos** para que coincida exactamente con el del conjunto de datos estructurado en [Datos_observaciones_20reg_estandarizado](https://docs.google.com/spreadsheets/d/1SsnrmaWVjbiGaFEiTAVT9n-HNqY7lRHP/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} (Fig. 3).
 
 ![Figura 3. Diferencia entre el occurrenceID del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-medidas%26hechos/Fig3_C3Medidas_Occurrence.png)
 <sup>_Figura 3. Diferencia entre el occurrenceID del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión._</sup>
@@ -90,7 +90,7 @@ Para hacer uso de la extensión, es necesario contar con un identificador (ID) q
 
 ### 4.1. Ajustar según definiciones y ejemplos
 
-Una vez mapeados los datos del archivo [MedidasoHechos_20reg](https://docs.google.com/spreadsheets/d/1P5Yy0oz0U6bplllmkeGlyBIFG2uUuVZr/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true) en la plantilla de la extensión, modificar las columnas de acuerdo a las definiciones del estándar DwC para cada elemento (Fig. 4).
+Una vez mapeados los datos del archivo [MedidasoHechos_20reg](https://docs.google.com/spreadsheets/d/1P5Yy0oz0U6bplllmkeGlyBIFG2uUuVZr/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} en la plantilla de la extensión, modificar las columnas de acuerdo a las definiciones del estándar DwC para cada elemento (Fig. 4).
 
 ![Figura 4. Datos ajustados según las definiciones y los vocabularios controlados.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-medidas%26hechos/Fig4_C3Medidas_AjusteElemento.png)
 <sup>_Figura 4. Datos ajustados según las definiciones y los vocabularios controlados._</sup>
@@ -104,7 +104,7 @@ Eliminar las columnas de los elementos DwC que quedaron vacías en la plantilla 
 
 ## Paso 5 - Verificación del resultado
 
-Descarga y compara el siguiente [archivo estandarizado](https://docs.google.com/spreadsheets/d/1eID1TUF5mUW6yyRxqPFs3xq6wczX3Aln/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true) de la extensión de medidas y hechos con el archivo que se  trabajó en el ejercicio para identificar aciertos y posibilidades de mejora. ¿La  extensión de medidas y hechos quedó correctamente construida?
+Descarga y compara el siguiente [archivo estandarizado](https://docs.google.com/spreadsheets/d/1eID1TUF5mUW6yyRxqPFs3xq6wczX3Aln/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} de la extensión de medidas y hechos con el archivo que se  trabajó en el ejercicio para identificar aciertos y posibilidades de mejora. ¿La  extensión de medidas y hechos quedó correctamente construida?
 
 Se recomienda tener en cuenta que existen dos formas válidas de documentar esta extensión. La primera es añadir los elementos DwC tantas veces como sea necesario, al igual que en el ejercicio anterior. La segunda es insertar una fila para cada medida. Esto es posible porque cada fila se puede relacionar al espécimen por medio del identificador; en este caso, el occurrenceID (Fig. 6). Hay  un ejemplo de esta forma de documentar la extensión en el [archivo estandarizado](https://docs.google.com/spreadsheets/d/1eID1TUF5mUW6yyRxqPFs3xq6wczX3Aln/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true) de la extensión de medidas y hechos, específicamente en la hoja denominada “Plantilla 2”.
 
