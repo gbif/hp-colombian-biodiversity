@@ -23,7 +23,7 @@ Para realizar este ejercicio, es necesario contar con un programa que procese ar
 
 **Archivo de trabajo**
 
-Descargue el archivo ([Permisos_CasoEmpresa_20reg](https://docs.google.com/spreadsheets/d/1TJZfZJ-dWbxmy0zGrduTrZTSIYOPLrft/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true)) para realizar el laboratorio.
+Descargue el archivo ([Permisos_CasoEmpresa_20reg](https://docs.google.com/spreadsheets/d/1TJZfZJ-dWbxmy0zGrduTrZTSIYOPLrft/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}) para realizar el laboratorio.
 
 Descargue la última versión de la «[Plantilla de la extensión Permisos GGBN](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones)».
 
@@ -46,7 +46,7 @@ Descargue y abra la [Plantilla de la extensión Permisos GGBN](https://biodivers
 - **Plantilla**: contiene la tabla con los elementos DwC para documentar la extensión y unas filas de ejemplo.
 - **Definiciones** contiene las descripciones de cada uno de los elementos del estándar DwC, recomendaciones de documentación y ejemplos.
 
-En la pestaña de instrucciones encontrará una sección titulada Elementos obligatorios según el tipo de los datos (Fig. 1). De acuerdo a la lectura del Paso 1 y los datos de ejemplo ([Permisos_CasoEmpresa_20reg](https://docs.google.com/spreadsheets/d/1TJZfZJ-dWbxmy0zGrduTrZTSIYOPLrft/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true)), identifique cuáles son los elementos obligatorios para el uso de la extensión y téngalos en cuenta para el paso 2. 
+En la pestaña de instrucciones encontrará una sección titulada Elementos obligatorios según el tipo de los datos (Fig. 1). De acuerdo a la lectura del Paso 1 y los datos de ejemplo ([Permisos_CasoEmpresa_20reg](https://docs.google.com/spreadsheets/d/1TJZfZJ-dWbxmy0zGrduTrZTSIYOPLrft/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}), identifique cuáles son los elementos obligatorios para el uso de la extensión y téngalos en cuenta para el paso 2. 
 
 ![Figura 1. Elementos obligatorios de la extensión para publicar registros biológicos.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-permisos/Fig1_C3Permisos_Obligatorios.png)
 <sup>_Figura 1. Elementos obligatorios de la extensión para publicar registros biológicos._</sup>
@@ -55,11 +55,11 @@ En la plantilla encontrará algunos ejemplos pre-documentados en gris para facil
 
 ## Paso 3 - Mapeo de los datos
 
-Una vez que haya explorado la extensión e identificado los elementos obligatorios, revise detenidamente el archivo [Permisos_CasoEmpresa_20reg](https://docs.google.com/spreadsheets/d/1TJZfZJ-dWbxmy0zGrduTrZTSIYOPLrft/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true) y copie y pegue el contenido de esas columnas en la plantilla de la extensión de permisos. Esta actividad recibe el nombre de mapeo de datos. Revise la definición de los elementos y sus ejemplos para corroborar la correspondencia del mapeo. Asegurese de que todos los elementos obligatorios estén documentados y ajuste las columnas de acuerdo a las definiciones del estándar DwC para cada elemento.
+Una vez que haya explorado la extensión e identificado los elementos obligatorios, revise detenidamente el archivo [Permisos_CasoEmpresa_20reg](https://docs.google.com/spreadsheets/d/1TJZfZJ-dWbxmy0zGrduTrZTSIYOPLrft/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} y copie y pegue el contenido de esas columnas en la plantilla de la extensión de permisos. Esta actividad recibe el nombre de mapeo de datos. Revise la definición de los elementos y sus ejemplos para corroborar la correspondencia del mapeo. Asegurese de que todos los elementos obligatorios estén documentados y ajuste las columnas de acuerdo a las definiciones del estándar DwC para cada elemento.
 
 ### 3.1. Mapeo del elemento permitText 
 
-Utiliza la información del archivo [Permisos_CasoEmpresa_20reg](https://docs.google.com/spreadsheets/d/1TJZfZJ-dWbxmy0zGrduTrZTSIYOPLrft/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true) para documentar la plantilla de Permisos GGBN, algunas de las columnas del archivo original se van a unir en un único elemento permitText. Esto es común en algunos procesos de mapeo, donde varias columnas se unen en un solo elemento DarwinCore o viceversa, donde de una columna se pueden derivar varios elementos, de acuerdo a las recomendaciones y definiciones del estándar (Fig. 2)
+Utiliza la información del archivo [Permisos_CasoEmpresa_20reg](https://docs.google.com/spreadsheets/d/1TJZfZJ-dWbxmy0zGrduTrZTSIYOPLrft/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} para documentar la plantilla de Permisos GGBN, algunas de las columnas del archivo original se van a unir en un único elemento permitText. Esto es común en algunos procesos de mapeo, donde varias columnas se unen en un solo elemento DarwinCore o viceversa, donde de una columna se pueden derivar varios elementos, de acuerdo a las recomendaciones y definiciones del estándar (Fig. 2)
 
 Ejemplo del elemento permitText: Corantioquia:160-RES1811-6441:2005:ABC
 
@@ -83,7 +83,7 @@ Elimine las columnas de los elementos DwC que quedaron vacías en la plantilla. 
 
 ## Paso 5 - Verificación del resultado
 
-Compare el siguiente [archivo estandarizado](https://docs.google.com/spreadsheets/d/1XVmqHsbVM20w-ubQIlPv6cEV2edIcR8C/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true) con el archivo que trabajó en el ejercicio para identificar aciertos y posibilidades de mejora. ¿Logró construir correctamente la información de la extensión de permisos?
+Compare el siguiente [archivo estandarizado](https://docs.google.com/spreadsheets/d/1XVmqHsbVM20w-ubQIlPv6cEV2edIcR8C/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} con el archivo que trabajó en el ejercicio para identificar aciertos y posibilidades de mejora. ¿Logró construir correctamente la información de la extensión de permisos?
 
 
 ****
