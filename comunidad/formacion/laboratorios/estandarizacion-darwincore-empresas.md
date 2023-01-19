@@ -90,7 +90,7 @@ Una vez que se hayan trasladado todos los datos del archivo [Datos_CasoEmpresa_2
 ![Figura 3. Estructura de la plantilla de publicación.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estandarizacion-darwincore-empresas/Fig3_C3Registros_Vocabulario.png)
 <sup>_Figura 3. Estructura de la plantilla de publicación. A. Información del elemento en la pestaña “Definiciones”. B. Vocabulario controlado asociado al elemento presente en la pestaña “Vocabulario”._</sup>
 
-## Paso 6 - Eliminar los elementos vacío
+## Paso 6 - Eliminar los elementos vacíos
 
 Eliminar los elementos DwC que quedaron vacíos en la plantilla de registros biológicos. Es importante recordar que para la publicación solo se deben mantener los elementos que hayan sido documentados.
 
@@ -109,6 +109,7 @@ Descarga y compara el siguiente archivo, estandarizado según las definiciones d
 **¡Felicitaciones!**
 
 El conjunto de datos de registros biológicos ha sido estandarizado según el Darwin Core.
+
 ****
 
 **Citación**
