@@ -58,7 +58,7 @@ noticias:
   features:
 
     - preTitle: Especial de plantas V
-      title: "10.000 datos de los bosques" 
+      title: "10.000 datos de los bosques de Colombia" 
       description: |      # required
         Quinta entrega del especial: Conoce los tesoros que esconden los bosques del país.
       # img required
