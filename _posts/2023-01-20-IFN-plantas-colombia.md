@@ -5,7 +5,7 @@ description: |
  _Quinta entrega del especial sobre plantas en el SiB Colombia. Más de 10 mil datos del Inventario Forestal Nacional IFN son el producto de la primera publicación del Ideam a través del sistema de información._
 date: 2023-01-20
 categories: ["Plantas", "Datos abiertos", "Cifras", "2023"]
-background: /assets/images/noticias_eventos/2023/2023-01-23-IFN-plantas-colombia.jpg
+background: /assets/images/noticias_eventos/2023/2023-01-20-IFN-plantas-colombia.jpg
 imageLicense: |
 ---
 
