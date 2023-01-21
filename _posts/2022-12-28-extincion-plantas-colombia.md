@@ -73,4 +73,4 @@ Te invitamos a seguir el especial de plantas en el SiB Colombia, publicaremos un
 * 📅 21 de diciembre: **[Estado de las epífitas en el país](https://biodiversidad.co/post/2022/epifitas-plantas-colombia/)**{:target="_blank"}
 * 📅 28 de diciembre: **[Plantas dentro de las categorías amenaza](https://biodiversidad.co/post/2022/extincion-plantas-colombia/)**{:target="_blank"}
 * 📅 4 de enero: **[Bancos de semillas](https://biodiversidad.co/post/2023/bancos-semillas-plantas-colombia)**{:target="_blank"}
-* 📅 11 de enero: **Inventario forestal nacional**
+* 📅 20 de enero: **[Inventario Forestal Nacional](https://biodiversidad.co/post/2023/IFN-plantas-colombia)**{:target="_blank"}
