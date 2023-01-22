@@ -121,10 +121,6 @@ Puede conocer más sobre las seciones de la **"Vista General"** del recurso en l
 
 ## Paso 4 - Documentación de los metadatos
 
-<div class="notification is-info is-light">
-  <b>Tip:</b> el grado de incertidumbre de la identificación puede indicarse agregando varios calificativos, como “aff.” y “cf.”, al nombre científico. El calificativo se escribe después del elemento al que corresponde la incertidumbre de identificación (género o especie).
-</div>
-
 Desde la **"Vista General"** del recurso, ubique la sección de **"Metadatos"** y haga clic en <span class="tag is-warning is-light"><i>Editar</i></span> (Fig. 5). Será dirigido al formulario de metadatos, que consta de 12 secciones (Fig. 6). A partir del informe del caso de ejemplo o de un informe o artículo propio, revise y documente cada una de las 12 secciones de metadatos.
 
 > Al documentar los metadatos, enfóquese en el conjunto de datos que va a publicar y no en el proyecto bajo el que fueron tomados.
