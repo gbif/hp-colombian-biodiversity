@@ -43,9 +43,10 @@ Descargar la última versión de la plantilla de la extensión [**Multimedia sim
 
 ## Paso 1 - Caso de estudio 
 
-La empresa turística _Awake Travel_ realiza ejercicios de monitoreos acústicos para aves en algunos de los destinos de viaje que ofrece. Esto con el fin de evaluar el estado de los ecosistemas. Para visibilizar esta actividad de monitoreo, la empresa decidió publicar los registros biológicos a través del SiB Colombia. Sin embargo, ahora quieren complementar dicha publicación con las grabaciones de las aves, que se encuentran publicadas en un repositorio externo.
+>La empresa turística _Awake Travel_ realiza ejercicios de monitoreos acústicos para aves en algunos de los destinos de viaje que ofrece. Esto con el fin de evaluar el estado de los ecosistemas. Para visibilizar esta actividad de monitoreo, la empresa decidió publicar los registros biológicos a través del SiB Colombia. Sin embargo, ahora quieren complementar dicha publicación con las grabaciones de las aves, que se encuentran publicadas en un repositorio externo.
+Este ejemplo cuenta con algunas de las grabaciones realizadas por _Awake Travel_, documentadas en un archivo de trabajo sin estructurar, algunos detalles de los cantos y los enlaces al repositorio. 
 
-Este ejemplo cuenta con algunas de las grabaciones realizadas por _Awake Travel_, documentadas en un archivo de trabajo sin estructurar, algunos detalles de los cantos y los enlaces al repositorio. Tu misión en este laboratorio es estructurar los datos de las grabaciones, utilizando la extensión **Multimedia simple** (_Simple Multimedia_), para que puedan incluirse en la publicación de los registros biológicos.
+Tu misión en este laboratorio es estructurar los datos de las grabaciones, utilizando la extensión **Multimedia simple** (_Simple Multimedia_), para que puedan incluirse en la publicación de los registros biológicos.
 
 ## Paso 2 - Exploración de la plantilla
 
