@@ -11,11 +11,11 @@ toc: true
 
 **Objetivo**
 
-Estructurar un grupo de recursos multimedia según la extensión [**Multimedia simple**](https://biodiversidad.co/compartir/estandar-darwin-core/#multimedia-simple) del estándar _Darwin Core_, siguiendo las buenas prácticas de documentación.
+Estructurar un grupo de recursos multimedia según la extensión [**Multimedia simple**](https://biodiversidad.co/compartir/estandar-darwin-core/#multimedia-simple){:target="_blank"} del estándar _Darwin Core_, siguiendo las buenas prácticas de documentación.
 
 **Sobre la actividad**
 
-Estructurar un conjunto de recursos multimedia de ejemplo, usando la plantilla de [**Multimedia simple**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones). Los datos tienen problemas de completitud y formato, los cuales deben ser resueltos para que el conjunto se ajuste a las definiciones y contenga los elementos mínimos requeridos.
+Estructurar un conjunto de recursos multimedia de ejemplo, usando la plantilla de [**Multimedia simple**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones){:target="_blank"}. Los datos tienen problemas de completitud y formato, los cuales deben ser resueltos para que el conjunto se ajuste a las definiciones y contenga los elementos mínimos requeridos.
 
 **Convenciones**
 
@@ -36,7 +36,7 @@ Descargar el archivo [<FONT FACE="monospace"><b>«Multimedia_sonidos_20reg»</b>
 
 Descargar el archivo [<FONT FACE="monospace"><b>«Registros multimedia casoSonidos»</b></FONT>](https://docs.google.com/spreadsheets/d/1cHf6D-QBReyybqAoRwmFTk7NlzydAJTB/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}, el cual contiene registros biológicos estandarizados.
 
-Descargar la última versión de la plantilla de la extensión [**Multimedia simple**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones).
+Descargar la última versión de la plantilla de la extensión [**Multimedia simple**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones){:target="_blank"}.
 
 
 --------
@@ -49,7 +49,7 @@ Este ejemplo cuenta con algunas de las grabaciones realizadas por _Awake Travel_
 
 ## Paso 2 - Exploración de la plantilla
 
-Descargar y abrir la plantilla de [**Multimedia simple**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones), que se compone de cuatro pestañas:
+Descargar y abrir la plantilla de [**Multimedia simple**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones){:target="_blank"}, que se compone de cuatro pestañas:
 
 - **Instrucciones**: contiene la guía de uso y los puntos a tener en cuenta antes de iniciar la documentación de la extensión.
 - **Plantilla**: contiene la tabla con los elementos DwC para documentar la extensión y unas filas de ejemplo.
