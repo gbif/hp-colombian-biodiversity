@@ -34,7 +34,7 @@ Para realizar este ejercicio, es necesario contar con un programa que procese ar
 
 Descargar el archivo [<FONT FACE="monospace"><b>«Multimedia_sonidos_20reg»</b></FONT>](https://docs.google.com/spreadsheets/d/1aYWf8O5VchUmJPIO01al0E6cZ6AxiWjm/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} para realizar el laboratorio.
 
-Descargar el archivo ([<FONT FACE="monospace"><b>«Registros multimedia casoSonidos»</b></FONT>](https://docs.google.com/spreadsheets/d/1cHf6D-QBReyybqAoRwmFTk7NlzydAJTB/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}, el cual contiene registros biológicos estandarizados.
+Descargar el archivo [<FONT FACE="monospace"><b>«Registros multimedia casoSonidos»</b></FONT>](https://docs.google.com/spreadsheets/d/1cHf6D-QBReyybqAoRwmFTk7NlzydAJTB/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}, el cual contiene registros biológicos estandarizados.
 
 Descargar la última versión de la plantilla de la extensión [**Multimedia simple**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones).
 
@@ -43,9 +43,9 @@ Descargar la última versión de la plantilla de la extensión [**Multimedia sim
 
 ## Paso 1 - Caso de estudio 
 
-La empresa turística _**Awake Travel**_ realiza ejercicios de monitoreos acústicos para aves en algunos de los destinos de viaje que ofrece. Esto con el fin de evaluar el estado de los ecosistemas. Para visibilizar esta actividad de monitoreo, la empresa decidió publicar los registros biológicos a través del SiB Colombia. Sin embargo, ahora quieren complementar dicha publicación con las grabaciones de las aves, que se encuentran publicadas en un repositorio externo.
+La empresa turística _Awake Travel_ realiza ejercicios de monitoreos acústicos para aves en algunos de los destinos de viaje que ofrece. Esto con el fin de evaluar el estado de los ecosistemas. Para visibilizar esta actividad de monitoreo, la empresa decidió publicar los registros biológicos a través del SiB Colombia. Sin embargo, ahora quieren complementar dicha publicación con las grabaciones de las aves, que se encuentran publicadas en un repositorio externo.
 
-Este ejemplo cuenta con algunas de las grabaciones realizadas por _**Awake Travel**_, documentadas en un archivo de trabajo sin estructurar, algunos detalles de los cantos y los enlaces al repositorio. Tu misión en este laboratorio es estructurar los datos de las grabaciones, utilizando la extensión **Multimedia simple** (_Simple Multimedia_), para que puedan incluirse en la publicación de los registros biológicos.
+Este ejemplo cuenta con algunas de las grabaciones realizadas por _Awake Travel_, documentadas en un archivo de trabajo sin estructurar, algunos detalles de los cantos y los enlaces al repositorio. Tu misión en este laboratorio es estructurar los datos de las grabaciones, utilizando la extensión **Multimedia simple** (_Simple Multimedia_), para que puedan incluirse en la publicación de los registros biológicos.
 
 ## Paso 2 - Exploración de la plantilla
 
@@ -74,14 +74,14 @@ Luego de haber explorado la extensión e identificado los elementos obligatorios
 
 Para usar la extensión, es necesario contar con un identificador. Este permite enlazar la extensión con los registros biológicos. En este ejercicio, el <span class="tag is-success is-light"><i>occurrenceID</i></span> cumple el rol de identificador, ya que los datos corresponden a registros biológicos <FONT FACE="monospace"><b>«Registros_multimedia_casoSonidos»</b></FONT>. Por lo tanto, es necesario asegurarse de que el <span class="tag is-success is-light"><i>occurrenceID</i></span> de la extensión **Multimedia simple** coincida exactamente con el del conjunto de datos estructurado. Para hacerlos coincidir, es necesario realizar los ajustes pertinentes (Fig. 3).
 
-![Figura 3. Diferencia entre el occurrenceID del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión|350](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-multimedia/Fig3_C3Medidas_Occurrence.png)
-<sup>_Figura 3. Diferencia entre el <span class="tag is-success is-light"><i>occurrenceI</i></span> del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión._</sup>
+![Figura 3. Diferencia entre el occurrenceID del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión|250](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-multimedia/Fig3_C3Medidas_Occurrence.png)
+<sup>_Figura 3. Diferencia entre el <span class="tag is-success is-light"><i>occurrenceID</i></span> del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión._</sup>
 
 ## Paso 4 - Ajustar los datos
 
 ### 4.1. Ajustar según definiciones y ejemplos
 
-Una vez mapeados los datos del archivo <FONT FACE="monospace"><b>«Multimedia_sonidos_20reg»</b></FONT> en la plantilla de la extensión **Multimedia simple**, se deben ajustar las columnas de acuerdo a las definiciones del estándar DwC para cada elemento (Fig. 4).
+Una vez que se hayan mapeado los datos del archivo <FONT FACE="monospace"><b>«Multimedia_sonidos_20reg»</b></FONT> en la plantilla de la extensión **Multimedia simple**, se deben ajustar las columnas de acuerdo a las definiciones del estándar DwC para cada elemento (Fig. 4).
 
 ![Figura 4. Datos ajustados según las definiciones y los vocabularios controlados.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-multimedia/Fig4_C3Medidas_Resultados.png)
 <sup>_Figura 4. Datos ajustados según las definiciones y los vocabularios controlados._</sup>
@@ -115,7 +115,7 @@ Compara el siguiente archivo, estandarizado según las definiciones del Darwin C
 
 [<FONT FACE="monospace"><b>«Archivo estandarizado»</b></FONT>](https://drive.google.com/uc?id=1pODwB1jELAvpTa9CvujyOd6vcFyA0Nld&authuser=0&export=download){:target="_blank"}
 
-En el reto se puede observar que las imágenes están en un repositorio. Si a futuro se desean publicar imágenes asociadas a un registro biológico, es recomendable usar el repositorio que mejor se adapte a cada caso. Algunos de los que están disponibles son:
+En el reto se puede observar que las imágenes están en un repositorio. Si a futuro se desea publicar imágenes asociadas a un registro biológico, es recomendable usar el repositorio que mejor se adapte a cada caso. Algunos de los que están disponibles son:
 
 
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}
@@ -133,6 +133,7 @@ En el reto se puede observar que las imágenes están en un repositorio. Si a fu
 - [SmugMug](https://www.smugmug.com/){:target="_blank"}
   - El almacenamiento está sujeto a pago, hay varios planes disponibles.
   - Almacenamiento ilimitado en cualquier plan.
+  
 ****
 **¡Felicitaciones!** Ha aprendido a estructurar datos de imágenes con base en la extensión **Multimedia simple**.
 
