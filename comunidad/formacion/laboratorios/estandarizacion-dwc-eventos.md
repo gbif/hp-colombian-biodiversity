@@ -65,7 +65,7 @@ Después de identificar el elemento correspondiente, copiar y pegar el contenido
 <sup>_Figura 1. Mapeo de datos en la plantilla DwC._</sup>
 
 <div class="notification is-info is-light">
-  <b>Nota:</b> Al final de la tabla de eventos, se encuentran algunas medidas abióticas relacionadas con el tipo de suelo, humedad relativa y temperatura del aire. Para estructurar estas medidas en el estándar Darwin Core, es necesario realizar el mapeo de las medidas en la extensión [<b>Medidas o Hechos</b>](https://biodiversidad.co/compartir/estandar-darwin-core/#medidas-o-hechos-extendida). En este ejercicio, **las medidas ya se encuentran mapeadas** en la hoja llamada <b>“MedidasAbioticas”</b> del archivo de trabajo [<FONT FACE="monospace"><b>«Datos_Eventos_20_Registros»</b></FONT>](https://docs.google.com/spreadsheets/d/1Z09ilRuLsnQZO93Fm7aBUeslaDXfoI07/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}. Para conocer el proceso de estandarización de estas medidas, consulta la guía de [<b>Estandarización de medidas o hechos en la extensión <i>Measurement or Facts</i></b>](https://biodiversidad.co/formacion/laboratorios/extensiones-dwc-medidas-hechos){:target="_blank"}
+  <b>Nota:</b> Al final de la tabla de eventos, se encuentran algunas medidas abióticas relacionadas con el tipo de suelo, humedad relativa y temperatura del aire. Para estructurar estas medidas en el estándar Darwin Core, es necesario realizar el mapeo de las medidas en la extensión <a href="https://biodiversidad.co/compartir/estandar-darwin-core/#medidas-o-hechos-extendida" target="_blank"><b>Medidas o Hechos</b></a>. En este ejercicio, las medidas ya se encuentran mapeadas en la hoja llamada <b>“MedidasAbioticas”</b> del archivo de trabajo <a href="https://docs.google.com/spreadsheets/d/1Z09ilRuLsnQZO93Fm7aBUeslaDXfoI07/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true" target="_blank"><FONT FACE="monospace"><b>«Datos_Eventos_20_Registros»</b></FONT></a>. Para conocer el proceso de estandarización de estas medidas, consulta la guía de <a href="https://biodiversidad.co/formacion/laboratorios/extensiones-dwc-medidas-hechos" target="_blank"><b>Estandarización de medidas bióticas en la extensión Medidas o hechos</b></a>
 </div>
 
 ## Paso 3 - Identificar los elementos obligatorios 
@@ -77,7 +77,7 @@ Ingresar a la **Plantilla de publicación de eventos de muestreo**, en la cual h
 - **Definiciones**: contiene las definiciones para cada uno de los elementos del estándar DwC, recomendaciones de documentación y ejemplos.
 - **Vocabulario**: contiene los vocabularios controlados para algunos de los elementos DwC.
 
-Navegar en la pestaña **"Plantilla"** para identifique los elementos _Darwin Core_ que están marcados con la convención de letra de color naranja (Fig. 2). Estos son los elementos obligatorios.
+Navegar en la pestaña **"Plantilla"** para identificar los elementos _Darwin Core_ que están marcados con la convención de letra de color naranja (Fig. 2); estos son los elementos obligatorios.
 
 ![Figura 2. Convención en color naranja de los elementos obligatorios en la plantilla de eventos.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estandarizacion-darwincore-eventos/Fig2_C3Eventos_Obligatorios.png)
 <sup>_Figura 2. Convención en color naranja de los elementos obligatorios en la **Plantilla de eventos**._</sup>
@@ -86,7 +86,7 @@ Adicionalmente, cuando se realiza una publicación de eventos de muestreo, tambi
 
 ## Paso 4 - Crear los elementos obligatorios 
 
-Crear los elementos obligatorios faltantes en la **"Hoja de eventos"** del archivo [<FONT FACE="monospace"><b>«Datos_Eventos_20_Registros»</b></FONT>](https://docs.google.com/spreadsheets/d/1Z09ilRuLsnQZO93Fm7aBUeslaDXfoI07/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} a partir de la información del caso de estudio y los datos presentes en el archivo.
+Crear los elementos obligatorios faltantes en la **"Hoja de eventos"** del archivo <FONT FACE="monospace"><b>«Datos_Eventos_20_Registros»</b></FONT> a partir de la información del caso de estudio y los datos presentes en el archivo.
  
 Algunos de los elementos obligatorios ya están documentados en el archivo de trabajo. Para estos casos, revise la definición del elemento en la plantilla de eventos y realice los ajustes correspondientes en los elementos.
 
@@ -108,7 +108,7 @@ Realizar los ajustes necesarios en el archivo de registros para que la informaci
 
 ## Paso 6 - Eliminar los elementos vacíos 
 
-Eliminar los elementos DwC que quedaron vacíos en la plantilla. Recuerda que para la publicación solo se deben mantener los elementos que hayan sido documentados.
+Eliminar los elementos DwC que quedaron vacíos en la plantilla. Es importante recordar que para la publicación solo se deben mantener los elementos que hayan sido documentados.
 
 Al finalizar, la plantilla debe verse similar a la siguiente imagen (Fig. 5):
 
