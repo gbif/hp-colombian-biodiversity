@@ -74,7 +74,7 @@ Luego de haber explorado la extensión e identificado los elementos obligatorios
 
 Para usar la extensión, es necesario contar con un identificador. Este permite enlazar la extensión con los registros biológicos. En este ejercicio, el <span class="tag is-success is-light"><i>occurrenceID</i></span> cumple el rol de identificador, ya que los datos corresponden a registros biológicos <FONT FACE="monospace"><b>«Registros_multimedia_casoSonidos»</b></FONT>. Por lo tanto, es necesario asegurarse de que el <span class="tag is-success is-light"><i>occurrenceID</i></span> de la extensión **Multimedia simple** coincida exactamente con el del conjunto de datos estructurado. Para hacerlos coincidir, es necesario realizar los ajustes pertinentes (Fig. 3).
 
-![Figura 3. Diferencia entre el occurrenceID del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-multimedia/Fig3_C3Medidas_Occurrence.png){width: 200px}
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-multimedia/Fig3_C3Medidas_Occurrence.png" width=500>
 <sup>_Figura 3. Diferencia entre el <span class="tag is-success is-light"><i>occurrenceID</i></span> del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión._</sup>
 
 ## Paso 4 - Ajustar los datos
