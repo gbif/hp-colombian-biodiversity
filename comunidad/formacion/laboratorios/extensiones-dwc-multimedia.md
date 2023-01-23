@@ -11,11 +11,11 @@ toc: true
 
 **Objetivo**
 
-Estructurar un grupo de recursos multimedia según la [extensión Multimedia simple del estándar Darwin Core](https://biodiversidad.co/compartir/estandar-darwin-core/#multimedia-simple), siguiendo las buenas prácticas de documentación.
+Estructurar un grupo de recursos multimedia según la extensión [Multimedia simple](https://biodiversidad.co/compartir/estandar-darwin-core/#multimedia-simple) del estándar _Darwin Core_, siguiendo las buenas prácticas de documentación.
 
 **Sobre la actividad**
 
-Estructurar un conjunto de recursos multimedia de ejemplo, usando la [Plantilla de Multimedia Simple](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones). Los datos tienen problemas de completitud y formato, los cuales deben ser resueltos para que el conjunto se ajuste a las definiciones y contenga los elementos mínimos requeridos.
+Estructurar un conjunto de recursos multimedia de ejemplo, usando la plantilla de [**Multimedia simple**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones). Los datos tienen problemas de completitud y formato, los cuales deben ser resueltos para que el conjunto se ajuste a las definiciones y contenga los elementos mínimos requeridos.
 
 **Convenciones**
 
@@ -32,31 +32,31 @@ Para realizar este ejercicio, es necesario contar con un programa que procese ar
 
 **Archivo de trabajo**
 
-Descargar el archivo [<FONT FACE="monospace"><b>«Multimedia_sonidos_20reg»</b></FONT>](https://docs.google.com/spreadsheets/d/1aYWf8O5VchUmJPIO01al0E6cZ6AxiWjm/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}) para realizar el laboratorio.
+Descargar el archivo [<FONT FACE="monospace"><b>«Multimedia_sonidos_20reg»</b></FONT>](https://docs.google.com/spreadsheets/d/1aYWf8O5VchUmJPIO01al0E6cZ6AxiWjm/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} para realizar el laboratorio.
 
-Descargar el archivo ([Registros multimedia casoSonidos](https://docs.google.com/spreadsheets/d/1cHf6D-QBReyybqAoRwmFTk7NlzydAJTB/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}), el cual contiene registros biológicos estandarizados.
+Descargar el archivo ([<FONT FACE="monospace"><b>«Registros multimedia casoSonidos»</b></FONT>](https://docs.google.com/spreadsheets/d/1cHf6D-QBReyybqAoRwmFTk7NlzydAJTB/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}, el cual contiene registros biológicos estandarizados.
 
-Descargar la última versión de la  [<FONT FACE="monospace"><b>«Plantilla de la extensión Multimedia Simple»</b></FONT>](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones)».
+Descargar la última versión de la plantilla de la extensión [**Multimedia simple**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones).
 
 
 --------
 
 ## Paso 1 - Caso de estudio 
 
-La empresa turística Awake Travel realiza ejercicios de monitoreos acústicos para aves en algunos de los destinos de viaje que ofrece. Esto con el fin de evaluar el estado de los ecosistemas. Para visibilizar esta actividad de monitoreo, la empresa decidió publicar los registros biológicos a través del SiB Colombia. Sin embargo, ahora quieren complementar dicha publicación con las grabaciones de las aves, que se encuentran publicadas en un repositorio externo.
+La empresa turística _**Awake Travel**_ realiza ejercicios de monitoreos acústicos para aves en algunos de los destinos de viaje que ofrece. Esto con el fin de evaluar el estado de los ecosistemas. Para visibilizar esta actividad de monitoreo, la empresa decidió publicar los registros biológicos a través del SiB Colombia. Sin embargo, ahora quieren complementar dicha publicación con las grabaciones de las aves, que se encuentran publicadas en un repositorio externo.
 
-Este ejemplo cuenta con algunas de las grabaciones realizadas por Awake, documentadas en un archivo de trabajo sin estructurar, algunos detalles de los cantos y los enlaces al repositorio. Tu misión en este laboratorio es estructurar los datos de las grabaciones, utilizando la extensión **Multimedia simple** (_Simple Multimedia_), para que puedan incluirse en la publicación de los registros biológicos.
+Este ejemplo cuenta con algunas de las grabaciones realizadas por _**Awake Travel**_, documentadas en un archivo de trabajo sin estructurar, algunos detalles de los cantos y los enlaces al repositorio. Tu misión en este laboratorio es estructurar los datos de las grabaciones, utilizando la extensión **Multimedia simple** (_Simple Multimedia_), para que puedan incluirse en la publicación de los registros biológicos.
 
 ## Paso 2 - Exploración de la plantilla
 
-Descargar y abrir la [Plantilla de Multimedia simple](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones), que se compone de cuatro pestañas:
+Descargar y abrir la plantilla de [**Multimedia simple**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones), que se compone de cuatro pestañas:
 
 - **Instrucciones**: contiene la guía de uso y los puntos a tener en cuenta antes de iniciar la documentación de la extensión.
 - **Plantilla**: contiene la tabla con los elementos DwC para documentar la extensión y unas filas de ejemplo.
 - **Definiciones** contiene las descripciones de cada uno de los elementos del estándar DwC, recomendaciones de documentación y ejemplos.
 - **Vocabulario**: contiene los vocabularios controlados para el elemento type.
 
-En la hoja de instrucciones hay una sección titulada **“Elementos obligatorios según el tipo de los datos”** (Fig. 1). De acuerdo a la lectura del Paso 1 y los datos de ejemplo <FONT FACE="monospace"><b>«Multimedia_sonidos_20reg»</b></FONT>, se deben identificar los elementos obligatorios para el uso de la extensión.
+En la hoja de instrucciones hay una sección titulada **“Elementos obligatorios según el tipo de los datos”** (Fig. 1). De acuerdo a la lectura del paso 1 y los datos de ejemplo <FONT FACE="monospace"><b>«Multimedia_sonidos_20reg»</b></FONT>, se deben identificar los elementos obligatorios para el uso de la extensión.
 
 ![Figura 1. Elementos obligatorios de la extensión para publicar los datos asociados a  registros biológicos.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-multimedia/Fig1_C3Medidas_Obligatorios.png)
 <sup>_Figura 1. Elementos obligatorios de la extensión para publicar los datos asociados a registros biológicos._</sup>
@@ -72,10 +72,10 @@ Luego de haber explorado la extensión e identificado los elementos obligatorios
 
 ### 3.1. Estructurar el elemento occurrenceID
 
-Para usar la extensión, es necesario contar con un identificador. Este permite enlazar la extensión con los registros biológicos. En este ejercicio, el <span class="tag is-success is-light"><i>occurrenceIDt</i></span> cumple el rol de identificador, ya que los datos corresponden a registros biológicos <FONT FACE="monospace"><b>«Registros_multimedia_casoSonidos»</b></FONT>. Por lo tanto, es necesario asegurarse de que el <span class="tag is-success is-light"><i>occurrenceIDt</i></span> de la extensión **Multimedia simple** coincida exactamente con el del conjunto de datos estructurado. Para hacerlos coincidir, es necesario realizar los ajustes pertinentes (Fig. 3).
+Para usar la extensión, es necesario contar con un identificador. Este permite enlazar la extensión con los registros biológicos. En este ejercicio, el <span class="tag is-success is-light"><i>occurrenceID</i></span> cumple el rol de identificador, ya que los datos corresponden a registros biológicos <FONT FACE="monospace"><b>«Registros_multimedia_casoSonidos»</b></FONT>. Por lo tanto, es necesario asegurarse de que el <span class="tag is-success is-light"><i>occurrenceID</i></span> de la extensión **Multimedia simple** coincida exactamente con el del conjunto de datos estructurado. Para hacerlos coincidir, es necesario realizar los ajustes pertinentes (Fig. 3).
 
-![Figura 3. Diferencia entre el occurrenceID del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-multimedia/Fig3_C3Medidas_Occurrence.png)
-<sup>_Figura 3. Diferencia entre el <span class="tag is-success is-light"><i>occurrenceIDt</i></span> del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión._</sup>
+![Figura 3. Diferencia entre el occurrenceID del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión|350](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-multimedia/Fig3_C3Medidas_Occurrence.png)
+<sup>_Figura 3. Diferencia entre el <span class="tag is-success is-light"><i>occurrenceI</i></span> del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión._</sup>
 
 ## Paso 4 - Ajustar los datos
 
@@ -94,7 +94,6 @@ Eliminar las columnas de los elementos DwC que quedaron vacías en la plantilla 
 
 Compara el siguiente [<FONT FACE="monospace"><b>«archivo estandarizado»</b></FONT>](https://docs.google.com/spreadsheets/d/1YmgHq5lVYKGu8iK5hU4dMUj83UHBl4_w/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} con el archivo que trabajó en el ejercicio para identificar aciertos y posibilidades de mejora. ¿Los registros multimedia quedaron correctamente construidos?
 
-
 ****
 **¡Felicitaciones!**
 
@@ -108,11 +107,11 @@ Los elementos multimedia que estaban en el formato de trabajo interno han sido e
 
 Teniendo en cuenta lo aprendido en este laboratorio, se puede deducir que las extensiones funcionan de forma similar en diferentes casos. Por lo tanto, el siguiente reto consiste en estructurar la extensión **Multimedia simple** (_Simple Multimedia_), aplicando el mismo procedimiento para otro tipo de recurso: imágenes.
 
-El archivo [<FONT FACE="monospace"><b>«Ejercicio2_Registrosbiológicos_Estructurado.xlsx»</b></FONT>](https://drive.google.com/uc?id=1wm7ZvwBqywuROZ-xqTmx00dsAZUY_oQO&authuser=0&export=download){:target="_blank"} se encuentra estructurado en DwC y contiene los datos de una colección de microorganismos. Se desea asociar las cepas de dichos microorganismos a imágenes de referencia, las cuales se encuentran enlazadas en el archivo [<FONT FACE="monospace"><b>«Ejercicio2_Multimedia_porEstructurar.xlsx»</b></FONT>](https://drive.google.com/uc?id=1ghJuuEc9TDBvwu0vaWAuuu1d113nNpa7&authuser=0&export=download){:target="_blank"}». El primer paso consiste en estructurar las imágenes, usando la [<FONT FACE="monospace"><b>«Plantilla de la extensión Multimedia simple»</b></FONT>](https://drive.google.com/uc?export=download&id=1Bfdgnl-KXwvLHs8H-bSe8yBXVyD8qrx8){:target="_blank"}.
+El archivo [<FONT FACE="monospace"><b>«Ejercicio2_Registrosbiológicos_Estructurado.xlsx»</b></FONT>](https://drive.google.com/uc?id=1wm7ZvwBqywuROZ-xqTmx00dsAZUY_oQO&authuser=0&export=download){:target="_blank"} se encuentra estructurado en DwC y contiene los datos de una colección de microorganismos. Se desea asociar las cepas de dichos microorganismos a imágenes de referencia, las cuales se encuentran enlazadas en el archivo [<FONT FACE="monospace"><b>«Ejercicio2_Multimedia_porEstructurar.xlsx»</b></FONT>](https://drive.google.com/uc?id=1ghJuuEc9TDBvwu0vaWAuuu1d113nNpa7&authuser=0&export=download){:target="_blank"}». El primer paso consiste en estructurar las imágenes, usando la plantilla de la extensión [<FONT FACE="monospace"><b>«Multimedia simple»</b></FONT>](https://drive.google.com/uc?export=download&id=1Bfdgnl-KXwvLHs8H-bSe8yBXVyD8qrx8){:target="_blank"}.
 
 ### Paso 2 - Verificación del resultado 
 
-Compara el siguiente archivo, estandarizado según las definiciones del Darwin Core, con el archivo que trabajó en el laboratorio para identificar aciertos y posibilidades de mejora. ¿Las extensiones quedaron correctamente construidas?
+Compara el siguiente archivo, estandarizado según las definiciones del Darwin Core, con el archivo que se trabajó en el laboratorio para identificar aciertos y posibilidades de mejora. ¿Las extensiones quedaron correctamente construidas?
 
 [<FONT FACE="monospace"><b>«Archivo estandarizado»</b></FONT>](https://drive.google.com/uc?id=1pODwB1jELAvpTa9CvujyOd6vcFyA0Nld&authuser=0&export=download){:target="_blank"}
 
@@ -134,7 +133,7 @@ En el reto se puede observar que las imágenes están en un repositorio. Si a fu
 - [SmugMug](https://www.smugmug.com/){:target="_blank"}
   - El almacenamiento está sujeto a pago, hay varios planes disponibles.
   - Almacenamiento ilimitado en cualquier plan.
-
+****
 **¡Felicitaciones!** Ha aprendido a estructurar datos de imágenes con base en la extensión **Multimedia simple**.
 
 ****
