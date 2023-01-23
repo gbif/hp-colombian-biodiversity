@@ -11,11 +11,11 @@ toc: true
 
 **Objetivo**
 
-Estructurar la información asociada al permiso de recolección según la extensión [**Permisos GGBN**](https://biodiversidad.co/compartir/estandar-darwin-core/#permiso-ggbn), siguiendo las buenas prácticas de documentación.
+Estructurar la información asociada al permiso de recolección según la extensión [**Permisos GGBN**](https://biodiversidad.co/compartir/estandar-darwin-core/#permiso-ggbn){:target="_blank"}, siguiendo las buenas prácticas de documentación.
 
 **Sobre la actividad**
 
-Estructurar la información asociada a un permiso de colecta, usando la Plantilla de la extensión [**Permisos GGBN**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones). Los datos tienen problemas de completitud y formato, los cuales deben ser resueltos para que el conjunto se ajuste a las definiciones y contenga los elementos mínimos requeridos.
+Estructurar la información asociada a un permiso de colecta, usando la Plantilla de la extensión [**Permisos GGBN**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones){:target="_blank"}. Los datos tienen problemas de completitud y formato, los cuales deben ser resueltos para que el conjunto se ajuste a las definiciones y contenga los elementos mínimos requeridos.
 
 **Convenciones**
 
@@ -34,7 +34,7 @@ Para realizar este ejercicio, es necesario contar con un programa que procese ar
 
 Descargar el archivo [<FONT FACE="monospace"><b>«Permisos_CasoEmpresa_20regs»</b></FONT>](https://docs.google.com/spreadsheets/d/1TJZfZJ-dWbxmy0zGrduTrZTSIYOPLrft/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} para realizar el laboratorio.
 
-Descargar la última versión de la plantilla de la extensión [**Permisos GGBN**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones).
+Descargar la última versión de la plantilla de la extensión [**Permisos GGBN**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones){:target="_blank"}.
 
 
 --------
@@ -45,11 +45,11 @@ La empresa ambiental Buenaventura Consultores ABC quiere publicar los registros 
 
 Como parte de los requerimientos para obtener el certificado de reporte a través del SiB Colombia y poder reportarlo a las autoridades que lo requieran, la empresa documentó esta información en un archivo adicional para asociar cada colecta realizada con su respectivo permiso.
 
-Tu misión  en este laboratorio es estructurar los datos de los permisos, utilizando la extensión **Permisos GGBN** (GGBN Permit Extension), de forma que estos puedan incluirse en la publicación de registros biológicos a través del SiB Colombia.
+Tu misión  en este laboratorio es estructurar los datos de los permisos, utilizando la extensión **Permisos GGBN** (_GGBN Permit Extension_), de forma que estos puedan incluirse en la publicación de registros biológicos a través del SiB Colombia.
 
 ## Paso 2 - Exploración de la plantilla
 
-Descargar y abrir la plantilla de la extensión [**Permisos GGBN**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones), allí hay tres pestañas:
+Descargar y abrir la plantilla de la extensión [**Permisos GGBN**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones){:target="_blank"}, allí hay tres pestañas:
 
 - **Instrucciones**: contiene la guía de uso y los puntos a tener en cuenta antes de iniciar la documentación de la extensión.
 - **Plantilla**: contiene la tabla con los elementos DwC para documentar la extensión y unas filas de ejemplo.
@@ -64,11 +64,11 @@ La plantilla contiene algunos ejemplos pre-documentados en gris para facilitar l
 
 ## Paso 3 - Mapeo de los datos
 
-Después de explorar la extensión e identificar los elementos obligatorios, es necesario revisar detenidamente el archivo <FONT FACE="monospace"><b>«Permisos_CasoEmpresa_20regs»</b></FONT>. Luego, se debe copiar y pegar el contenido de esas columnas en la plantilla de la extensión de **Permisos GGBN**. Esta actividad recibe el nombre de mapeo de datos. Por último, revisar la definición de los elementos y sus ejemplos para corroborar la correspondencia del mapeo. Esto implica asegurar que todos los elementos obligatorios estén documentados y ajustar las columnas de acuerdo a las definiciones del estándar DwC.
+Después de explorar la extensión e identificar los elementos obligatorios, es necesario revisar detenidamente el archivo <FONT FACE="monospace"><b>«Permisos_CasoEmpresa_20regs»</b></FONT>. Luego, se debe copiar y pegar el contenido de esas columnas en la plantilla de la extensión **Permisos GGBN**. Esta actividad recibe el nombre de mapeo de datos. Por último, revisar la definición de los elementos y sus ejemplos para corroborar la correspondencia del mapeo. Esto implica asegurar que todos los elementos obligatorios estén documentados y ajustar las columnas de acuerdo a las definiciones del estándar DwC.
 
 ### 3.1. Mapeo del elemento permitText 
 
-Utilizar la información del archivo <FONT FACE="monospace"><b>«Permisos_CasoEmpresa_20regs»</b></FONT> para documentar la plantilla de Permisos GGBN. Algunas de las columnas del archivo original se deben unir en un único elemento <span class="tag is-success is-light"><i>permitText</i></span>. Esto es común en algunos procesos de mapeo, donde varias columnas se combinan en un solo elemento _DarwinCore_; o viceversa, donde de una columna se pueden derivar varios elementos, de acuerdo a las recomendaciones y definiciones del estándar (Fig. 2)
+Utilizar la información del archivo <FONT FACE="monospace"><b>«Permisos_CasoEmpresa_20regs»</b></FONT> para documentar la plantilla de **Permisos GGBN**. Algunas de las columnas del archivo original se deben unir en un único elemento <span class="tag is-success is-light"><i>permitText</i></span>. Esto es común en algunos procesos de mapeo, donde varias columnas se combinan en un solo elemento _DarwinCore_; o viceversa, donde de una columna se pueden derivar varios elementos, de acuerdo a las recomendaciones y definiciones del estándar (Fig. 2)
 
 Ejemplo del elemento <span class="tag is-success is-light"><i>permitText</i></span>: Corantioquia:160-RES1811-6441:2005:ABC
 
