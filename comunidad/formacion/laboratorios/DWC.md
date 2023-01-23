@@ -33,7 +33,7 @@ Estructurar un conjunto de datos de prueba según el estándar DwC, usando la pl
 
 **Archivo de trabajo**
 * Descargue el archivo [<FONT FACE="monospace"><b>«Datos_Caso1_20reg.xlsx»</b></FONT>](https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab01/_docs/Datos_Caso1_20reg.xlsx) para realizar el laboratorio.
-* Descargue la última versión de la [<FONT FACE="monospace"><b>«Plantilla de publicación»</b></FONT>](https://biodiversidad.co/recursos/plantillas-dwc/#registros-biol%C3%B3gicos){:target="_blank"} de registros biológicos.
+* Descargue la última versión de la [<FONT FACE="monospace"><b>«Plantilla de publicación de registros biológicos»</b></FONT>](https://biodiversidad.co/recursos/plantillas-dwc/#registros-biol%C3%B3gicos){:target="_blank"}.
 
 --------
 
@@ -50,7 +50,7 @@ Su misión, a lo largo de este laboratorio, consiste en estructurar los datos de
 
 
 ## Paso 2 - Identificar los elementos obligatorios 
-Ingrese a la plantilla de publicación, allí encontrará 4 pestañas:
+Ingrese a la **Plantilla de publicación**, allí encontrará cuatro pestañas:
 
 * **Instrucciones**: contiene la guía de uso y los puntos a tener en cuenta antes de iniciar la documentación de los registros biológicos.
 * **Plantilla**: contiene la tabla de los elementos DwC para documentar los registros biológicos.
