@@ -70,7 +70,7 @@ Ejemplo del elemento permitText: Corantioquia:160-RES1811-6441:2005:ABC
 
 Para hacer uso de la extensión, es necesario contar con un identificador (ID) que enlace la extensión con los datos del Core del estándar DwC; en este caso, registros biológicos. Por consiguiente, es necesario ajustar el _occurrenceID_ de la extensión **Permisos GGBN** para que coincida exactamente con el del conjunto de datos estructurado en Datos_CasoEmpresa_20reg_estandarizado (Fig. 3).
 
-<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-permisos/Fig3_C3Permisos_Occurrence.png" width=500>
+![Figura 3. Diferencia entre el occurrenceID del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-permisos/Fig3_C3Permisos_Occurrence.png)
 
 <sup>_Figura 3. Diferencia entre el occurrenceID del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión._</sup>
 
