@@ -103,7 +103,8 @@ Para la correcta publicación del evento, es necesario que  los registros bioló
 
 Realizar los ajustes necesarios en el archivo de registros para que la información coincida (Fig. 4).
 
-![Figura 4. Diferencia entre el eventID del evento de muestreo y el eventID documentado en los registros biológicos.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estandarizacion-darwincore-eventos/Fig4_C3Eventos_Occurrence.png)
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estandarizacion-darwincore-eventos/Fig4_C3Eventos_Occurrence.png" width=600>
+
 <sup>_Figura 4. Diferencia entre el <span class="tag is-success is-light"><i>eventID</i></span> del evento de muestreo y el eventID documentado en los registros biológicos._</sup>
 
 ## Paso 6 - Eliminar los elementos vacíos 
