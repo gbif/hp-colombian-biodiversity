@@ -32,9 +32,9 @@ Para realizar este ejercicio, es necesario contar con un programa que procese ar
 
 **Archivo de trabajo**
 
-Descargar el archivo [<FONT FACE="monospace"><b>«Permisos_CasoEmpresa_20regs»</b></FONT>](https://docs.google.com/spreadsheets/d/1TJZfZJ-dWbxmy0zGrduTrZTSIYOPLrft/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} para realizar el laboratorio.
+- Descargar el archivo [<FONT FACE="monospace"><b>«Permisos_CasoEmpresa_20regs»</b></FONT>](https://docs.google.com/spreadsheets/d/1TJZfZJ-dWbxmy0zGrduTrZTSIYOPLrft/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} para realizar el laboratorio.
 
-Descargar la última versión de la plantilla de la extensión [**Permisos GGBN**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones){:target="_blank"}.
+- Descargar la última versión de la plantilla de la extensión [**Permisos GGBN**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones){:target="_blank"}.
 
 
 --------
