@@ -77,16 +77,16 @@ Hacer el mapeo de las medidas de grasa subcutánea, estado sanitario, DAP en cm,
 <div class="notification is-info is-light">
   <b>Nota:</b> Las medidas se pueden dividir en dos categorías.
 
-Cuantitativas (medidas): son variables cuantificables que cuenta con una unidad de medida. Por lo tanto, se asocian a los elementos <span class="tag is-success is-light"><i>measurementType</i></span>, <span class="tag is-success is-light"><i>measurementValue</i></span> y <span class="tag is-success is-light"><i>measurementUnit</i></span>. Por ejemplo:
+<br>Cuantitativas (medidas): son variables cuantificables que cuenta con una unidad de medida. Por lo tanto, se asocian a los elementos <span class="tag is-success is-light"><i>measurementType</i></span>, <span class="tag is-success is-light"><i>measurementValue</i></span> y <span class="tag is-success is-light"><i>measurementUnit</i></span>. Por ejemplo:
 
-- <span class="tag is-success is-light"><i>measurementType</i></span>: Longitud de la cola
-- <span class="tag is-success is-light"><i>measurementValue</i></span>: 50
-- <span class="tag is-success is-light"><i>measurementUnit</i></span>: cm
+<br>- <span class="tag is-success is-light"><i>measurementType</i></span>: Longitud de la cola
+<br>- <span class="tag is-success is-light"><i>measurementValue</i></span>: 50
+<br>- <span class="tag is-success is-light"><i>measurementUnit</i></span>: cm
 
-Cualitativas (hechos): son variables categóricas que guardan algún tipo de lógica, pero no están asociadas directamente a una unidad de medida. Por consiguiente, se asocian a los elementos <span class="tag is-success is-light"><i>measurementType</i></span> y <span class="tag is-success is-light"><i>measurementValue</i></span>. Por ejemplo:
+<br>Cualitativas (hechos): son variables categóricas que guardan algún tipo de lógica, pero no están asociadas directamente a una unidad de medida. Por consiguiente, se asocian a los elementos <span class="tag is-success is-light"><i>measurementType</i></span> y <span class="tag is-success is-light"><i>measurementValue</i></span>. Por ejemplo:
 
-- <span class="tag is-success is-light"><i>measurementType</i></span>: Estado Sanitario.
-- <span class="tag is-success is-light"><i>measurementValue</i></span>: Malo.
+<br>- <span class="tag is-success is-light"><i>measurementType</i></span>: Estado Sanitario.
+<br>- <span class="tag is-success is-light"><i>measurementValue</i></span>: Malo.
 </div>
 
 
@@ -94,7 +94,7 @@ Cualitativas (hechos): son variables categóricas que guardan algún tipo de ló
 
 Para hacer uso de la extensión, es necesario contar con un identificador (ID) que enlace la extensión con los datos del Core del estándar DwC; en este caso, registros biológicos. Por lo tanto, se debe ajustar el <span class="tag is-success is-light"><i>occurrenceID</i></span> de la extensión **Medidas o hechos** para que coincida exactamente con el del conjunto de datos estructurado en [<FONT FACE="monospace"><b>«Datos_observaciones_20reg_estandarizado»</b></FONT>](https://docs.google.com/spreadsheets/d/1SsnrmaWVjbiGaFEiTAVT9n-HNqY7lRHP/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} (Fig. 3).
 
-<img src="[https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-permisos/Fig3_C3Permisos_Occurrence.png](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-medidas%26hechos/Fig3_C3Medidas_Occurrence.png)" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-permisos/Fig3_C3Permisos_Occurrence.png" width=600>
 
 <sup>_Figura 3. Diferencia entre el <span class="tag is-success is-light"><i>occurrenceID</i></span> del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión._</sup>
 
