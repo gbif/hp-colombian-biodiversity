@@ -11,11 +11,11 @@ toc: true
 
 **Objetivo**
 
-Estructurar un grupo de medidas bióticas según la extensión de [Medidas o hechos](https://biodiversidad.co/compartir/estandar-darwin-core/#medidas-o-hechos-extendida), siguiendo las buenas prácticas de documentación.
+Estructurar un grupo de medidas bióticas según la extensión [**Medidas o hechos**](https://biodiversidad.co/compartir/estandar-darwin-core/#medidas-o-hechos-extendida), siguiendo las buenas prácticas de documentación.
 
 **Sobre la actividad**
 
-Estructurar la información asociada a un permiso de colecta, usando la [plantilla de la extensión Medidas o hechos](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones). Los datos tienen problemas de completitud y formato, los cuales deben ser resueltos para que el conjunto se ajuste a las definiciones y contenga los elementos mínimos requeridos.
+Estructurar la información asociada a un permiso de colecta, usando la plantilla de la extensión [**Medidas o hechos**](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones). Los datos tienen problemas de completitud y formato, los cuales deben ser resueltos para que el conjunto se ajuste a las definiciones y contenga los elementos mínimos requeridos.
 
 **Convenciones**
 
@@ -32,17 +32,16 @@ Para realizar este ejercicio, es necesario contar con un programa que procese ar
 
 **Archivo de trabajo**
 
-Descargar el archivo [<FONT FACE="monospace"><b>«MedidasoHechos_20reg»</b></FONT>](https://docs.google.com/spreadsheets/d/1P5Yy0oz0U6bplllmkeGlyBIFG2uUuVZr/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} para realizar el laboratorio.
+- Descargar el archivo [<FONT FACE="monospace"><b>«MedidasoHechos_20reg»</b></FONT>](https://docs.google.com/spreadsheets/d/1P5Yy0oz0U6bplllmkeGlyBIFG2uUuVZr/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} para realizar el laboratorio.
 
-Descargar la última versión de la plantilla de la extensión [<FONT FACE="monospace"><b>«Medidas o hechos»</b></FONT>](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones).
+- Descargar la última versión de la plantilla de la extensión [<FONT FACE="monospace"><b>«Medidas o hechos»</b></FONT>](https://biodiversidad.co/recursos/plantillas-dwc/#extensiones).
 
 
 --------
 
 ## Paso 1 - Caso de uso
 
-Los conjuntos de datos de **registros biológicos** suelen complementarse con información sobre los rasgos funcionales de los especímenes, como la longitud de su pico, el diámetro a la altura del pecho (DAP), entre otros. Pese a ser información complementaria, estos datos adquieren una gran importancia en ciertos contextos. Por ejemplo, para los monitoreos de flora, las autoridades ambientales requieren la toma de ciertas medidas bióticas.
-
+>Los conjuntos de datos de **registros biológicos** suelen complementarse con información sobre los rasgos funcionales de los especímenes, como la longitud de su pico, el diámetro a la altura del pecho (DAP), entre otros. Pese a ser información complementaria, estos datos adquieren una gran importancia en ciertos contextos. Por ejemplo, para los monitoreos de flora, las autoridades ambientales requieren la toma de ciertas medidas bióticas.
 Este ejercicio parte de algunas medidas tomadas en campo, las cuales se encuentran compiladas en un documento Excel sin estructurar. Además, el documento mencionado relaciona rasgos funcionales de vertebrados terrestres y flora fustal. 
 
 Tu misión en este laboratorio es estructurar los datos de los rasgos funcionales, usando la plantilla de la extensión <FONT FACE="monospace"><b>«Medidas o hechos»</b></FONT> (_Measurement or Facts_) del estándar _Darwin Core_, para que estos puedan incluirse en la publicación de un monitoreo.
