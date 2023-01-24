@@ -81,7 +81,7 @@ Crear los elementos obligatorios faltantes en la plantilla de publicación a par
 
 >Pistas:
 1. Se debe crear un identificador único del registro biológico que corresponde al elemento <span class="tag is-success is-light"><i>occurrenceID</i></span> en el estándar DwC . Esto se puede hacer a partir del código de la institución (<span class="tag is-success is-light"><i>institutionCode</i></span>), las palabras clave del recurso “MonitoreoAlbania” y el número en campo (<span class="tag is-success is-light"><i>recordNumber</i></span>). Se recomienda revisar la definición del elemento <span class="tag is-success is-light"><i>occurrenceID</i></span> y las recomendaciones para construirlo. Ejemplo: ABC:MonitoreoAlbania:IF_1.
-2. En este caso es posible usar la coordenada inicial del transecto para las coordenadas decimales. En la sección de preguntas frecuentes, se enlistan las opciones para resolver estos casos: [https://biodiversidad.co/compartir/faq/#est%C3%A1ndar-darwin-core](https://biodiversidad.co/compartir/faq/#est%C3%A1ndar-darwin-core).
+2. En este caso es posible usar la coordenada inicial del transecto para las coordenadas decimales. En la sección de preguntas frecuentes, se enlistan las opciones para resolver estos casos: [https://biodiversidad.co/compartir/faq/#est%C3%A1ndar-darwin-core](https://biodiversidad.co/compartir/faq/#est%C3%A1ndar-darwin-core){:target="_blank"}.
 
 <div class="notification is-info is-light">
   <b>Nota:</b> La extensión <b>Permisos GGBN</b>, que es obligatoria para este tipo de datos, se aborda en la  guía <b>“Estandarización de información asociada a permisos de recolección”</b>, pero su documentación no es obligatoria para el desarrollo de esta guía.
