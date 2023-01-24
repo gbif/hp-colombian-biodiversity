@@ -15,7 +15,7 @@ Estructurar un conjunto de datos con base en el estándar [_Darwin Core (DwC)_](
 
 **Sobre la actividad**
 
-Estructurar un conjunto de datos según el estándar DwC, usando la plantilla de [<FONT FACE="monospace"><b>«Registros biológicos»</b></FONT>](https://biodiversidad.co/recursos/plantillas-dwc/#registros-biol%C3%B3gicos). Los datos tienen problemas de completitud y formato, los cuales deben ser resueltos para que el conjunto se ajuste a las definiciones y contenga los elementos mínimos requeridos por el estándar.
+Estructurar un conjunto de datos según el estándar DwC, usando la plantilla de [<FONT FACE="monospace"><b>«Registros biológicos»</b></FONT>](https://biodiversidad.co/recursos/plantillas-dwc/#registros-biol%C3%B3gicos){:target="_blank"}. Los datos tienen problemas de completitud y formato, los cuales deben ser resueltos para que el conjunto se ajuste a las definiciones y contenga los elementos mínimos requeridos por el estándar.
 
 **Convenciones**
 
@@ -56,7 +56,7 @@ Tu misión en este laboratorio es  estructurar los datos de la empresa con base 
 
 Descargar y abrir los archivos de trabajo [<FONT FACE="monospace"><b>«Datos_CasoEmpresa_20reg»</b></FONT>](https://docs.google.com/spreadsheets/d/1o5I_5mVrtaKhwNMZRhGVLP2vQY9-wXH1/edit#gid=97635514){:target="_blank"} y la [<FONT FACE="monospace"><b>«Plantilla de publicación de registros biológicos»</b></FONT>](https://biodiversidad.co/recursos/plantillas-dwc/#registros-biol%C3%B3gicos){:target="_blank"}. 
 
-En primer lugar, se debe revisar detenidamente el nombre y contenido de cada columna del archivo<FONT FACE="monospace"><b>«Datos_CasoEmpresa_20reg»</b></FONT> e identificar a qué elemento DwC de la **Plantilla de publicación** corresponde. Este proceso recibe el nombre de mapeo de datos. Después de identificar el elemento correspondiente, es necesario copiar y pegar el contenido de esa columna en la plantilla, como se muestra en la siguiente imagen (Fig. 1):
+En primer lugar, se debe revisar detenidamente el nombre y contenido de cada columna del archivo<FONT FACE="monospace"><b>«Datos_CasoEmpresa_20reg»</b></FONT> e identificar a qué elemento DwC de la **Plantilla de publicación** corresponde. Este proceso recibe el nombre de mapeo de datos. Luego es necesario copiar y pegar el contenido de esa columna en la plantilla, como se muestra en la siguiente imagen (Fig. 1):
 
 ![Figura 1. Mapeo de datos en la plantilla DwC.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estandarizacion-darwincore-empresas/Fig1_C3Registros_Mapeo.png)
 <sup>_Figura 1. Mapeo de datos en la plantilla DwC._</sup>
@@ -80,18 +80,16 @@ En la pestaña de instrucciones, se encuentra una sección adicional titulada �
 Crear los elementos obligatorios faltantes en la plantilla de publicación a partir de la información del caso de estudio y los datos presentes en el archivo <FONT FACE="monospace"><b>«Datos_CasoEmpresa_20reg.xlsx»</b></FONT>.
 
 >Pistas:
-
-1. Se debe crear un identificador único del registro biológico que corresponde al elemento <span class="tag is-success is-light"><i>occurrenceID</i></span> en el estándar DwC . Esto se puede hacer a partir del código de la institución (<span class="tag is-success is-light"><i>institutionCode</i></span>), las palabras clave del recurso “MonitoreoAlbania” y el número en campo (<span class="tag is-success is-light"><i>recordNumber</i></span>). Se recomienda revisar la definición del elemento <span class="tag is-success is-light"><i>occurrenceID</i></span> y las recomendaciones para construirlo. Ejemplo: ABC:MonitoreoAlbania:IF_1.
-
-2. En este caso es posible usar la coordenada inicial del transecto para las coordenadas decimales. En la sección de preguntas frecuentes, se enlistan las opciones para resolver estos casos: [https://biodiversidad.co/compartir/faq/#est%C3%A1ndar-darwin-core](https://biodiversidad.co/compartir/faq/#est%C3%A1ndar-darwin-core).
+- 1. Se debe crear un identificador único del registro biológico que corresponde al elemento <span class="tag is-success is-light"><i>occurrenceID</i></span> en el estándar DwC . Esto se puede hacer a partir del código de la institución (<span class="tag is-success is-light"><i>institutionCode</i></span>), las palabras clave del recurso “MonitoreoAlbania” y el número en campo (<span class="tag is-success is-light"><i>recordNumber</i></span>). Se recomienda revisar la definición del elemento <span class="tag is-success is-light"><i>occurrenceID</i></span> y las recomendaciones para construirlo. Ejemplo: ABC:MonitoreoAlbania:IF_1.
+- 2. En este caso es posible usar la coordenada inicial del transecto para las coordenadas decimales. En la sección de preguntas frecuentes, se enlistan las opciones para resolver estos casos: [https://biodiversidad.co/compartir/faq/#est%C3%A1ndar-darwin-core](https://biodiversidad.co/compartir/faq/#est%C3%A1ndar-darwin-core).
 
 <div class="notification is-info is-light">
-  <b>Nota:</b> La extensión de permisos GGBN, que es obligatoria para este tipo de datos, se aborda en la  guía <b>“Estandarización de información asociada a permisos de recolección”</b>, pero su documentación no es obligatoria para el desarrollo de esta guía.
+  <b>Nota:</b> La extensión <b>Permisos GGBN</b>, que es obligatoria para este tipo de datos, se aborda en la  guía <b>“Estandarización de información asociada a permisos de recolección”</b>, pero su documentación no es obligatoria para el desarrollo de esta guía.
 </div>
 
 ## Paso 5 - Ajustar los datos  
 
-Una vez que se hayan trasladado todos los datos del archivo <FONT FACE="monospace"><b>«Datos_CasoEmpresa_20reg.xlsx»</b></FONT> a la plantilla de publicación, es necesario ajustar las columnas de acuerdo a las definiciones y vocabularios controlados del estándar _Darwin Core_ para cada elemento mapeado (Fig. 3A). Algunos elementos tienen un vocabulario controlado. En estos casos, se recomienda hacer clic para ir a la pestaña **"Vocabulario"** asociada (Fig. 3B).
+Una vez que se hayan trasladado todos los datos del archivo <FONT FACE="monospace"><b>«Datos_CasoEmpresa_20reg.xlsx»</b></FONT> a la plantilla de publicación, es necesario ajustar las columnas de acuerdo a las definiciones y vocabularios controlados del estándar _Darwin Core_ para cada elemento mapeado (Fig. 3A). Algunos elementos tienen un vocabulario controlado. En estos casos, se recomienda hacer clic para ir a la pestaña **"Vocabulario"** para encontrar el término asociado (Fig. 3B).
 
 ![Figura 3. Estructura de la plantilla de publicación.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estandarizacion-darwincore-empresas/Fig3_C3Registros_Vocabulario.png)
 <sup>_Figura 3. Estructura de la plantilla de publicación. A. Información del elemento en la pestaña **“Definiciones”**. B. Vocabulario controlado asociado al elemento presente en la pestaña **“Vocabulario”**._</sup>
