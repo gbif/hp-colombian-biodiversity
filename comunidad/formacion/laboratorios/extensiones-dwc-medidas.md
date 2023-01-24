@@ -7,7 +7,7 @@ sideNavigation: sidenav_laboratorios.terms
 toc: true
 ---
 
-# Estandarización de medidas o hechos en la extensión Medidas o hechos
+# Estandarización con la extensión Medidas o hechos
 
 **Objetivo**
 
@@ -94,7 +94,8 @@ Cualitativas (hechos): son variables categóricas que guardan algún tipo de ló
 
 Para hacer uso de la extensión, es necesario contar con un identificador (ID) que enlace la extensión con los datos del Core del estándar DwC; en este caso, registros biológicos. Por lo tanto, se debe ajustar el <span class="tag is-success is-light"><i>occurrenceID</i></span> de la extensión **Medidas o hechos** para que coincida exactamente con el del conjunto de datos estructurado en [<FONT FACE="monospace"><b>«Datos_observaciones_20reg_estandarizado»</b></FONT>](https://docs.google.com/spreadsheets/d/1SsnrmaWVjbiGaFEiTAVT9n-HNqY7lRHP/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} (Fig. 3).
 
-![Figura 3. Diferencia entre el occurrenceID del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-medidas%26hechos/Fig3_C3Medidas_Occurrence.png)
+<img src="[https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-permisos/Fig3_C3Permisos_Occurrence.png](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-medidas%26hechos/Fig3_C3Medidas_Occurrence.png)" width=600>
+
 <sup>_Figura 3. Diferencia entre el <span class="tag is-success is-light"><i>occurrenceID</i></span> del conjunto de datos de registros biológicos y el del elemento mapeado en la extensión._</sup>
 
 ## Paso 4 - Ajustar los datos
