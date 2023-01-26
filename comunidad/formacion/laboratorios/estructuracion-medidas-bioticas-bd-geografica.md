@@ -15,7 +15,7 @@ Estructurar los registros biológicos presentes en una Base de datos geográfica
 
 **Introducción**
 
-Las bases de datos geográficas utilizadas por la ANLA tienen información de los registros biológicos que se tomaron en campo, estructurados de acuerdo al [Diccionario de Datos Geográficos](https://www.anla.gov.co/01_anla/documentos/informacion_geografica/diccionario_datos_geograficos_anla.xlsx). El diccionario contiene la información del nombre de las tablas de componente biótico, el nombre y definición de los elementos en cada una de las tablas.
+Las bases de datos geográficas utilizadas por la ANLA tienen información de los registros biológicos que se tomaron en campo, estructurados de acuerdo al [Diccionario de Datos Geográficos](https://www.anla.gov.co/01_anla/documentos/informacion_geografica/diccionario_datos_geograficos_anla.xlsx){:target="_blank"}. El diccionario contiene la información del nombre de las tablas de componente biótico, el nombre y definición de los elementos en cada una de las tablas.
 
 Para realizar la publicación de esta información a través del SiB Colombia, es necesario realizar un proceso de estructuración de los registros biológicos al estándar _Darwin Core_. En esta guía se usará una Base de datos geográfica de ejemplo, la cual tiene algunas capas presentes en este tipo de archivos. Sin embargo, el número de capas puede variar, dependiendo del proyecto y de la versión del diccionario de la ANLA que se utilizó para construirlo.
 
@@ -29,7 +29,7 @@ En este ejercicio, se desarrollará el proceso de estructuración con los regist
 
 **Archivos de trabajo**
 
-- Descargar la [Base de datos geográfica](https://drive.google.com/file/d/1sJfJ_8msYnYcZ1c9GWJ8zUZLebTSVzKG/view?usp=share_link) comprimida.
+- Descargar la [Base de datos geográfica](https://drive.google.com/file/d/1sJfJ_8msYnYcZ1c9GWJ8zUZLebTSVzKG/view?usp=share_link){:target="_blank"} comprimida.
 
 
 --------
@@ -94,7 +94,7 @@ Tabla 1. Nombre de las capas que contienen información de los registros biológ
 
 **Nota**: En algunas ocasiones, las Bases de datos geográficas pueden tener capas adicionales asociadas a información extra que fue tomada en el marco de un proyecto particular. Por esta razón, se recomienda realizar una revisión general de los nombres de las capas para identificar posible información adicional.
 
-En esta guía se propone el archivo MuestreoFloraFustalTB como ejemplo para el proceso de estructuración. Para revisar el contenido del archivo, hacer clic derecho y seleccionar “Abrir tabla de atributos” en el menú lateral izquierdo (Fig. 7). En la nueva ventana, se puede ver la tabla con todos los puntos de muestreo. Cada fila representa un punto de muestreo y cada columna un atributo de la tabla según el [Diccionario de Datos Geográficos](https://www.anla.gov.co/01_anla/documentos/informacion_geografica/diccionario_datos_geograficos_anla.xlsx). Después de realizar una revisión general de la tabla, es necesario cerrar la ventana y regresar al menú principal de QGIS.
+En esta guía se propone el archivo MuestreoFloraFustalTB como ejemplo para el proceso de estructuración. Para revisar el contenido del archivo, hacer clic derecho y seleccionar “Abrir tabla de atributos” en el menú lateral izquierdo (Fig. 7). En la nueva ventana, se puede ver la tabla con todos los puntos de muestreo. Cada fila representa un punto de muestreo y cada columna un atributo de la tabla según el [Diccionario de Datos Geográficos](https://www.anla.gov.co/01_anla/documentos/informacion_geografica/diccionario_datos_geograficos_anla.xlsx){:target="_blank"}. Después de realizar una revisión general de la tabla, es necesario cerrar la ventana y regresar al menú principal de QGIS.
 
 ![Figura 7. Información contenida en la tabla MuestreoFloraFustalTB.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuraci%C3%B3n-observaciones-medidas-bioticas-base-de-datos-geografica/Fig7_C4Registros_Tabla.png)
 <sup>_Figura 7. Información contenida en la tabla MuestreoFloraFustalTB._</sup>
@@ -116,7 +116,7 @@ Por último, dejar las otras opciones por defecto y dar clic en OK (Fig. 8).
 
 Después de haber exportado el archivo de flora fustal, abrir el resultado en Excel.
 
-Debido a que los atributos  de las tablas en una Base de datos geográfica, organizada bajo el Diccionario Geográfico de la ANLA, deben ser los mismos, desde el Equipo Coordinador del SiB Colombia se ha construido el archivo [Mapeo diccionario ANLA 2020-Eventos al DwC](https://docs.google.com/spreadsheets/d/17ys5dkCNZDXpeguHbnnTI-RYiJPyMQz4HuRO-FLcaUE/edit#gid=0). Este archivo contiene el nombre de los atributos en la GDB, el tipo de coincidencia de cada atributo con el estándar Darwin Core, el nombre del elemento Darwin Core con el que tiene coincidencia  y un comentario adicional cuando sea necesario. Por consiguiente, se debe abrir este archivo y utilizarlo para realizar el proceso de mapeo.
+Debido a que los atributos  de las tablas en una Base de datos geográfica, organizada bajo el Diccionario Geográfico de la ANLA, deben ser los mismos, desde el Equipo Coordinador del SiB Colombia se ha construido el archivo [Mapeo diccionario ANLA 2020-Eventos al DwC](https://docs.google.com/spreadsheets/d/17ys5dkCNZDXpeguHbnnTI-RYiJPyMQz4HuRO-FLcaUE/edit#gid=0){:target="_blank"}. Este archivo contiene el nombre de los atributos en la GDB, el tipo de coincidencia de cada atributo con el estándar Darwin Core, el nombre del elemento Darwin Core con el que tiene coincidencia  y un comentario adicional cuando sea necesario. Por consiguiente, se debe abrir este archivo y utilizarlo para realizar el proceso de mapeo.
 
 A continuación, se describe la definición de la coincidencia del atributo con el Darwin Core:
 
@@ -126,7 +126,7 @@ A continuación, se describe la definición de la coincidencia del atributo con 
 
 ### 4.1 Mapeo de los registros biológicos
 
-Cambiar los nombres en las columnas en el archivo **Registros_FloraFustal.xlsx** por el de los elementos Darwin Core que tengan una coincidencia total en el mapeo. Posteriormente, ajustar los elementos que tienen una coincidencia parcial y eliminar los que no tienen ningún tipo de correspondencia con el estándar Darwin Core. Para ello, se debe usar la pestaña “**MuestreoFloraFustalTB**” en el archivo [Mapeo diccionario ANLA 2020 al Darwin Core -Registros biológicos](https://docs.google.com/spreadsheets/d/1cX3ayuk6A-Fq2XcsTiIrkoQ2XetU9Y9rkgy0iUjk4RY/edit#gid=1272242277).
+Cambiar los nombres en las columnas en el archivo **Registros_FloraFustal.xlsx** por el de los elementos Darwin Core que tengan una coincidencia total en el mapeo. Posteriormente, ajustar los elementos que tienen una coincidencia parcial y eliminar los que no tienen ningún tipo de correspondencia con el estándar Darwin Core. Para ello, se debe usar la pestaña “**MuestreoFloraFustalTB**” en el archivo [Mapeo diccionario ANLA 2020 al Darwin Core -Registros biológicos](https://docs.google.com/spreadsheets/d/1cX3ayuk6A-Fq2XcsTiIrkoQ2XetU9Y9rkgy0iUjk4RY/edit#gid=1272242277){:target="_blank"}.
 
 Para realizar el mapeo siga estos pasos:
 
@@ -141,7 +141,7 @@ Para realizar el mapeo siga estos pasos:
 
 ### 4.2 Mapeo de las medidas bióticas
 
-Para el mapeo con las medidas bióticas, es necesario crear los elementos _measurementType_ y _measurementUnit_ para cada una de las medidas presentes en el archivo. Se debe documentar el tipo de medida (ej. Diámetro a la altura del pecho, Biomasa aérea) y la unidad con la que fue tomada (ej. m, kg) según lo documentado en el archivo [Mapeo diccionario ANLA 2020-Registros al DwC](https://docs.google.com/spreadsheets/d/1cX3ayuk6A-Fq2XcsTiIrkoQ2XetU9Y9rkgy0iUjk4RY/edit#gid=1272242277).
+Para el mapeo con las medidas bióticas, es necesario crear los elementos _measurementType_ y _measurementUnit_ para cada una de las medidas presentes en el archivo. Se debe documentar el tipo de medida (ej. Diámetro a la altura del pecho, Biomasa aérea) y la unidad con la que fue tomada (ej. m, kg) según lo documentado en el archivo [Mapeo diccionario ANLA 2020-Registros al DwC](https://docs.google.com/spreadsheets/d/1cX3ayuk6A-Fq2XcsTiIrkoQ2XetU9Y9rkgy0iUjk4RY/edit#gid=1272242277){:target="_blank"}.
 
 En el archivo de Excel, insertar dos nuevas columnas para cada una de las medidas. En la primera columna del lado izquierdo, documentar el elemento _measurementType_; en la segunda columna del lado derecho, documentar  el elemento _measurementUnit_.
 
@@ -162,7 +162,50 @@ A continuación, se observa cómo realizar el proceso con la primera medida  DAP
   
 ### Paso 5.1 Creación de los elementos obligatorios
 
-  
-  
-  
-  
+Para asegurar que todos los elementos obligatorios para los registros biológicos estén debidamente documentados, se recomienda consultar los elementos obligatorios en la primera hoja de la [plantilla de Registros biológicos](https://biodiversidad.co/recursos/plantillas-dwc/#registros-biol%C3%B3gicos), llamada “Instrucciones”. Teniendo en cuenta que la obligatoriedad de los elementos dependen del origen de los datos, este paso es necesario para la publicación de eventos de muestreo.
+
+Por consiguiente, se deben seguir las siguientes recomendaciones para crear los elementos obligatorios:
+ 
+- **[occurrenceID](https://biodiversidad.co/compartir/estandar-darwin-core/#occurrenceID)**: Crear un identificador único del registro biológico a partir del código corto de la institución Ambiental Buenaventura Consultores: “ABC” , las palabras clave del recurso “EIA-FORMACION”, el _eventID_ y el organismID. Ejemplo: ABC:EIA-FORMACION:DC01-26-a. Al finalizar, es fundamental revisar  que no hayan occurrenceID duplicados. Si los hay, agregar una letra consecutiva (a, b, c, etc.) al final del occurrenceID para diferenciarlos. Para revisar si hay registros con un identificador duplicado, se puede seguir la ruta de opciones en Excel: _Formato condicional > Reglas para resaltar las celdas > Valores duplicados…_
+- **[basisOfRecord](https://biodiversidad.co/compartir/estandar-darwin-core/#basisOfRecord)**/**[type](https://biodiversidad.co/compartir/estandar-darwin-core/#type)**: Los registros biológicos de las  Bases de datos geográficas  son eventos asociados a  observaciones humanas en casi todos los casos. Por consiguiente, se deben documentar estos dos elementos como HumbanObservation para el basisOfRecord y como Event para el elemento type.
+  - **Nota**: Para los registros de Fauna, utilizar el campo DETERM que contiene información detallada de la base y tipo del registro. 
+- **[institutionCode](https://biodiversidad.co/compartir/estandar-darwin-core/#institutionCode)**: La información del código de la institución está presente en el archivo de eventos que se estructuró en la guía [Estructurando una GDB en DwC, eventos](https://biodiversidad.co/formacion/laboratorios/estructuracion-eventos-bd-geografica).  
+- **[institutionID](https://biodiversidad.co/compartir/estandar-darwin-core/#institutionID)**:  Documentar con el NIT de la organización. Para este ejercicio, se usa el NIT: 900.123.456-1. 
+- **[eventDate](https://biodiversidad.co/compartir/estandar-darwin-core/#eventDate)**: La información de la fecha está presente en el archivo de eventos de muestreo que se estandarizó en la guía [Estructurando una GDB en DwC, eventos](https://biodiversidad.co/formacion/laboratorios/estructuracion-eventos-bd-geografica). 
+  - Si desea completar el _eventDate_ de forma automática en Excel, se puede utilizar la opción BUSCARV(), tomando como elemento en común el eventID.
+- **[scientificName](https://biodiversidad.co/compartir/estandar-darwin-core/#scientificName)**: Generar una copia  de este elemento en uno nuevo, denominado _verbatimIdentification_. De esta forma, si se requiere hacer ajustes, siempre conservará la identificación original documentada en la Base de datos geográfica. En el elemento _scientificName_, separar la información de la autoría del nombre científico para dejar únicamente el género y  epíteto específico (para el caso de especies). Después, guardar la autoría del nombre científico en el elemento _scientificNameAuthorship_. Adicionalmente, documentar como aff. o cf. los calificadores de la identificación  que se encuentre en el scientificName, en el elemento _identificationQualifier_.  Por último, diligenciar las abreviaciones de incertidumbre de la especie en el _verbatimTaxonRank_ como sp, gr, spp..
+- **[taxonRank](https://biodiversidad.co/compartir/estandar-darwin-core/#taxonRank)**: Utilizar filtros para buscar los registros que se documentaron con los calificadores “ sp”, “ cf” o “  aff” y documentar su taxonRank como “Género”. Para los demás registros, diligenciar el taxonRank como “Especie”, verificando que el nombre científico cuente con género y epíteto específico. 
+ 
+### Paso 5.2 Ajustar los elementos adicionales siguiendo el estándar Darwin Core
+
+En adición a lo anterior, es necesario realizar ajustes en algunas columnas para que sigan el formato sugerido del estándar Darwin Core.Este proceso consiste en revisar las definiciones y vocabularios controlados del estándar para cada elemento mapeado en la [documentación en línea del estándar Darwin Core](https://biodiversidad.co/compartir/estandar-darwin-core/). 
+ 
+Para terminar, seguir las siguientes recomendaciones para ajustar algunos elementos priorizados:
+- **[measurementValue](https://biodiversidad.co/compartir/estandar-darwin-core/#measurementValue)**: Modificar el separador decimal para que sea un punto.
+- **[occurrenceRemarks](https://biodiversidad.co/compartir/estandar-darwin-core/#occurrenceRemarks)**: Revisar el contenido de este elemento para validar si se puede mapear en otro elemento Darwin Core. En ocasiones, puede haber información de etapa de vida, sexo, medidas adicionales, etc. 
+ 
+**Nota**: Para algunos campos en las tablas de fauna o hidrobiología, puede ser necesario utilizar los dominios en el Diccionario geográfico con el fin de documentar la información. Se recomienda revisar el paso 6 de la guía [Estructurando una GDB en DwC, eventos](https://biodiversidad.co/formacion/laboratorios/estructuracion-eventos-bd-geografica). 
+ 
+## Paso 6. Verificación del resultado
+
+Descarga y compara el siguiente archivo,  estandarizado según las definiciones del _Darwin Core_, con el archivo que se trabajó en esta guía para identificar aciertos y posibilidades de mejora. ¿Las observaciones (registros biológicos) quedaron correctamente estructuradas?
+
+- [Archivo estandarizado](https://docs.google.com/spreadsheets/d/1bA3pWGlpXriRqZulc8pSfRNiVdOhhzkk/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}  
+ 
+
+****
+**¡Felicitaciones!**
+
+El conjunto de datos de registros biológicos derivados de una Base de datos geográfica ha sido estandarizado según el _Darwin Core_.
+ 
+****
+ 
+## Paso 7. Estandarización de fauna e hidrobiología
+
+Repetir el proceso de estandarización con los archivos de Fauna (MuestreoFaunaTB) y de hidrobiología (MuestreoHidrobioTB), siguiendo los pasos de esta guía. Se debe usar la hoja adecuada en el archivo [Mapeo diccionario ANLA 2021-Registros al DwC](https://docs.google.com/spreadsheets/d/1cX3ayuk6A-Fq2XcsTiIrkoQ2XetU9Y9rkgy0iUjk4RY/edit#gid=1272242277){:target="_blank"} para el mapeo en cada uno de los casos. ¿Hay diferencias significativas en el proceso para estos archivos?
+ 
+**Citación**
+
+> Marentes E., Ortíz R., Lozano J., Plata C. (2023). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
+> 
+ 
