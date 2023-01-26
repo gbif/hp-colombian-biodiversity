@@ -16,27 +16,27 @@ En nombre del Secretariado de GBIF y como nodo país, abrimos la convocatoria  a
 
 El programa de 2023 otorgará **dos premios de 5.000 euros** para reconocer el trabajo de dos investigadores que estén iniciando su carrera —preferiblemente, un estudiante de maestría y otro doctoral— y que reciban formalmente las nominaciones de los jefes de delegación y los administradores de nodo de los países participantes en GBIF. **En el caso de Colombia, a través del Equipo Coordinador del SiB Colombia**.
 
-## Proceso para presentarse y plazos
-
-* Los estudiantes colombianos que deseen ser nominados, deben presentar su candidatura al Equipo Coordinador del SiB Colombia **antes del 31 de mayo de 2022**, incluyendo los documentos de soporte y sus propuestas al correo electrónico [sib@humboldt.org.co](mailto:sib@humboldt.org.co){:target="_blank"}.
-* Las candidaturas son revisadas por el Equipo Coordinador del SiB Colombia que las priorizará a nivel nacional y **seleccionará máximo dos propuestas para enviarlas como nominados** al Secretariado de GBIF.
-* Un jurado organizado por el [Comité Científico de GBIF](https://www.gbif.org/es/contact-us/directory?group=scienceCommittee){:target="_blank"} seleccionará a **dos ganadores**, entre las nominaciones globales.
-* Los ganadores **se anunciarán a principios del otoño de 2023** y se presentarán en la 30ª junta de gobierno de GBIF (GB30) prevista en Canberra, Australia, en octubre 2023.
-
-[Presenta tu candidatura](mailto:sib@humboldt.org.co){:target="_blank" .button .is-primary}
-
 ## Elegibilidad Colombia
 
-Para optar al premio, los candidatos deben cumplir con lo siguiente:
+Para ser un nominado al premio, los candidatos deben cumplir con lo siguiente:
 
 * Ser ciudadanos colombianos o de un país participante en GBIF.
-* Ser estudiante universitario y estar matriculado en un programa de postgrado de una institución ubicada en Colombia o en un país participante en GBIF.
+* Ser estudiante universitario y estar matriculado en un programa de postgrado de una universidad ubicada en Colombia.
 
 Las nominaciones las realiza el Equipo Coordinador del SiB Colombia, como nodo GBIF.
 
+## Proceso para presentarse y plazos
+
+* Los estudiantes colombianos que deseen ser nominados, deben presentar su candidatura al Equipo Coordinador del SiB Colombia **antes del 31 de mayo de 2022**, incluyendo los documentos de soporte y sus propuestas al correo electrónico [sib@humboldt.org.co](mailto:sib@humboldt.org.co){:target="_blank"}.
+* Las candidaturas son revisadas por un jurado organizado por el Equipo Coordinador del SiB Colombia que las priorizará a nivel nacional y **seleccionará máximo dos propuestas para enviarlas como nominados** al Secretariado de GBIF antes del 19 de junio de 2023. No se tendrán en cuenta las propuestas incompletas.
+* Un jurado organizado por el [Comité Científico de GBIF](https://www.gbif.org/es/contact-us/directory?group=scienceCommittee){:target="_blank"} seleccionará a **dos ganadores**, entre las nominaciones globales.
+* Los ganadores **se anunciarán en septiembre de 2023** y se presentarán en la 30ª junta de gobierno de GBIF (GB30) prevista en Canberra, Australia, en octubre 2023.
+
+[Presenta tu candidatura](mailto:sib@humboldt.org.co){:target="_blank" .button .is-primary}
+
 ## Proceso de selección y criterios
 
-El [Comité Científico de GBIF](https://www.gbif.org/es/contact-us/directory?group=scienceCommittee){:target="_blank"} revisará las nominaciones y seleccionará a los ganadores basado en los siguientes criterios:
+El Equipo Coordinador del SiB Colombia y el [Comité Científico de GBIF](https://www.gbif.org/es/contact-us/directory?group=scienceCommittee){:target="_blank"} revisará las nominaciones y seleccionará a los ganadores basado en los siguientes criterios:
 
 * Originalidad e innovación.
 * Uso e importancia estratégica de los datos a los que se accede a través de GBIF.
@@ -52,13 +52,14 @@ Se espera que los premiados reconozcan el apoyo de GBIF cuando difundan los resu
 
 1. **Resumen de la investigación** (200 palabras)
 2. **Descripción del proyecto** (máximo 5 páginas, Arial de 12 puntos) que describa
-    1. Cómo la investigación hace avanzar la informática de la biodiversidad y/o la conservación de la diversidad biológica.
-    2. El papel que juegan los datos mediados por GBIF para abordar estas preguntas. Las propuestas de investigación deben demostrar claramente cómo el estudio incorpora datos movilizados a través de GBIF. Los estudiantes que tengan preguntas sobre los datos movilizados a través de GBIF deben trabajar con los asesores académicos, su nodo nacional de GBIF, el secretariado de GBIF o los miembros del Comité Científico para aumentar su comprensión.
-    3. El alcance de la investigación, el plan, las metodologías, las citas bibliográficas relevantes y el calendario.
-    4. Si es relevante, una descripción o un extracto de un plan de gestión de datos que describa cómo los datos relacionados con la investigación se publican o se prepararán para su publicación a través de la red de GBIF a GBIF.org.
+    a. Cómo la investigación hace avanzar la informática de la biodiversidad y/o la conservación de la diversidad biológica.
+    b. El papel que juegan los datos mediados por GBIF para abordar estas preguntas. Las propuestas de investigación deben demostrar claramente cómo el estudio incorpora datos movilizados a través de GBIF. Los estudiantes que tengan preguntas sobre los datos movilizados a través de GBIF deben trabajar con los asesores académicos, el Equipo Coordinador del SiB Colombia, el secretariado de GBIF o los miembros del Comité Científico para aumentar su comprensión.
+    c. El alcance de la investigación, el plan, las metodologías, las citas bibliográficas relevantes y el calendario.
+    d. Si es relevante, una descripción o un extracto de un plan de gestión de datos que describa cómo los datos relacionados con la investigación se publicarán o se prepararán para su publicación a través de la red de GBIF a GBIF.org.
 3. **Currículum vitae** del estudiante solicitante, incluyendo la información completa de contacto en la institución de origen.
 4. **Documentos de apoyo**
-    5. Una carta oficial del mentor/supervisor de la facultad del estudiante que certifique que el solicitante es un estudiante en buen estado en el programa de postgrado de la universidad.
-    6. Al menos una, y no más de tres, cartas de apoyo de investigadores establecidos activos en un campo que abarque e incorpore la informática de la biodiversidad (por ejemplo, genética, composición y rasgos de las especies, biogeografía, ecología, sistemática, etc.)
+    a. Una carta oficial del mentor/supervisor o decano de la facultad del estudiante que certifique que el solicitante es un estudiante matriculado en el programa de postgrado de la universidad.
+    b. Al menos una, y no más de tres, cartas de apoyo de investigadores establecidos activos en un campo que abarque e incorpore la informática de la biodiversidad (por ejemplo, genética, composición de especies y rasgos funcionales, biogeografía, ecología, sistemática, etc.)
 
 También puedes consultar la [Convocatoria de candidaturas al Premio GBIF para Investigadores Graduados 2023](https://www.gbif.org/es/news/6gyLOum00YsYc4OtVGK33Y/convocatoria-de-candidaturas-al-premio-gbif-para-investigadores-graduados-2023){:target="_blank"}, disponible en la página web de GBIF.
+
