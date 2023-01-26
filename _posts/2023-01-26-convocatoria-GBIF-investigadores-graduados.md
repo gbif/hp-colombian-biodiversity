@@ -27,7 +27,7 @@ Las nominaciones las realiza el Equipo Coordinador del SiB Colombia, como nodo G
 
 ## Proceso para presentarse y plazos
 
-* Los estudiantes colombianos que deseen ser nominados, deben presentar su candidatura al Equipo Coordinador del SiB Colombia **antes del 31 de mayo de 2022**, incluyendo los documentos de soporte y sus propuestas al correo electrónico [sib@humboldt.org.co](mailto:sib@humboldt.org.co){:target="_blank"}.
+* Los estudiantes colombianos que deseen ser nominados, deben presentar su candidatura al Equipo Coordinador del SiB Colombia **antes del 31 de mayo de 2023**, incluyendo los documentos de soporte y sus propuestas al correo electrónico [sib@humboldt.org.co](mailto:sib@humboldt.org.co){:target="_blank"}.
 * Las candidaturas son revisadas por un jurado organizado por el Equipo Coordinador del SiB Colombia que las priorizará a nivel nacional y **seleccionará máximo dos propuestas para enviarlas como nominados** al Secretariado de GBIF antes del 19 de junio de 2023. No se tendrán en cuenta las propuestas incompletas.
 * Un jurado organizado por el [Comité Científico de GBIF](https://www.gbif.org/es/contact-us/directory?group=scienceCommittee){:target="_blank"} seleccionará a **dos ganadores**, entre las nominaciones globales.
 * Los ganadores **se anunciarán en septiembre de 2023** y se presentarán en la 30ª junta de gobierno de GBIF (GB30) prevista en Canberra, Australia, en octubre 2023.
