@@ -52,14 +52,14 @@ Se espera que los premiados reconozcan el apoyo de GBIF cuando difundan los resu
 
 1. **Resumen de la investigación** (200 palabras)
 2. **Descripción del proyecto** (máximo 5 páginas, Arial de 12 puntos) que describa
-    a. Cómo la investigación hace avanzar la informática de la biodiversidad y/o la conservación de la diversidad biológica.
-    b. El papel que juegan los datos mediados por GBIF para abordar estas preguntas. Las propuestas de investigación deben demostrar claramente cómo el estudio incorpora datos movilizados a través de GBIF. Los estudiantes que tengan preguntas sobre los datos movilizados a través de GBIF deben trabajar con los asesores académicos, el Equipo Coordinador del SiB Colombia, el secretariado de GBIF o los miembros del Comité Científico para aumentar su comprensión.
-    c. El alcance de la investigación, el plan, las metodologías, las citas bibliográficas relevantes y el calendario.
-    d. Si es relevante, una descripción o un extracto de un plan de gestión de datos que describa cómo los datos relacionados con la investigación se publicarán o se prepararán para su publicación a través de la red de GBIF a GBIF.org.
+    1. Cómo la investigación hace avanzar la informática de la biodiversidad y/o la conservación de la diversidad biológica.
+    2. El papel que juegan los datos mediados por GBIF para abordar estas preguntas. Las propuestas de investigación deben demostrar claramente cómo el estudio incorpora datos movilizados a través de GBIF. Los estudiantes que tengan preguntas sobre los datos movilizados a través de GBIF deben trabajar con los asesores académicos, el Equipo Coordinador del SiB Colombia, el secretariado de GBIF o los miembros del Comité Científico para aumentar su comprensión.
+    3. El alcance de la investigación, el plan, las metodologías, las citas bibliográficas relevantes y el calendario.
+    4. Si es relevante, una descripción o un extracto de un plan de gestión de datos que describa cómo los datos relacionados con la investigación se publicarán o se prepararán para su publicación a través de la red de GBIF a GBIF.org.
 3. **Currículum vitae** del estudiante solicitante, incluyendo la información completa de contacto en la institución de origen.
 4. **Documentos de apoyo**
-    a. Una carta oficial del mentor/supervisor o decano de la facultad del estudiante que certifique que el solicitante es un estudiante matriculado en el programa de postgrado de la universidad.
-    b. Al menos una, y no más de tres, cartas de apoyo de investigadores establecidos activos en un campo que abarque e incorpore la informática de la biodiversidad (por ejemplo, genética, composición de especies y rasgos funcionales, biogeografía, ecología, sistemática, etc.)
+    1. Una carta oficial del mentor/supervisor o decano de la facultad del estudiante que certifique que el solicitante es un estudiante matriculado en el programa de postgrado de la universidad.
+    2. Al menos una, y no más de tres, cartas de apoyo de investigadores establecidos activos en un campo que abarque e incorpore la informática de la biodiversidad (por ejemplo, genética, composición de especies y rasgos funcionales, biogeografía, ecología, sistemática, etc.)
 
 También puedes consultar la [Convocatoria de candidaturas al Premio GBIF para Investigadores Graduados 2023](https://www.gbif.org/es/news/6gyLOum00YsYc4OtVGK33Y/convocatoria-de-candidaturas-al-premio-gbif-para-investigadores-graduados-2023){:target="_blank"}, disponible en la página web de GBIF.
 
