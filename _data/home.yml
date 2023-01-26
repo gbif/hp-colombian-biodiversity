@@ -57,6 +57,17 @@ bannerAlerta:
 noticias:
   features:
 
+    - preTitle: Convocatorias
+      title: "Premio GBIF para Investigadores Graduados" 
+      description: |      # required
+        Conoce la fecha límite para presentar tu nominación como estudiante de posgrado en Colombia.
+      # img required
+      background: /assets/images/noticias_eventos/2023/2023-01-26-convocatoria-GBIF-investigadores-graduados.png
+      cta:
+      - text: Ver más
+        href: /post/2023/convocatoria-gbif-investigadores-graduados/
+        isPrimary: false
+     
     - preTitle: Especial de plantas V
       title: "10.000 datos de los bosques de Colombia" 
       description: |      # required
@@ -77,17 +88,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2023/record-datos-biodiversidad-colombia/
-        isPrimary: false
-
-    - preTitle: Especial de plantas IV
-      title: "Semillas, la moneda del futuro" 
-      description: |      # required
-        Cuarta entrega del especial: estrategias para conservar especies vegetales fuera de su hábitat.
-      # img required
-      background: /assets/images/noticias_eventos/2023/2023-01-04-bancos-semillas-plantas-colombia.jpg
-      cta:
-      - text: Ver más
-        href: /post/2023/bancos-semillas-plantas-colombia/
         isPrimary: false
 
 
