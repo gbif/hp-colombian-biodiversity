@@ -33,8 +33,8 @@ QGIS es un _software_ libre y de código abierto, licenciado bajo una GNU (Gener
 
 **Archivos de trabajo**
 
-- Descargar el archivo comprimido shapefile [PuntoMuestreoCTM12.zip](https://drive.google.com/file/d/1lQofuZM4Nx7sDmyBqhzfU89F3A-vZY1t/view?usp=sharing) para realizar el laboratorio.
-- Descargar el archivo de texto plano [PuntoMuestreoCTM12.csv](https://drive.google.com/file/d/1BazJQdxrDH2GLtjGQyinBgmPt7G0H8LH/view?usp=sharing) para realizar el laboratorio.
+- Descargar el archivo comprimido shapefile [PuntoMuestreoCTM12.zip](https://drive.google.com/file/d/1lQofuZM4Nx7sDmyBqhzfU89F3A-vZY1t/view?usp=sharing){:target="_blank"} para realizar el laboratorio.
+- Descargar el archivo de texto plano [PuntoMuestreoCTM12.csv](https://drive.google.com/file/d/1BazJQdxrDH2GLtjGQyinBgmPt7G0H8LH/view?usp=sharing){:target="_blank"} para realizar el laboratorio.
 
 
 --------
@@ -47,7 +47,7 @@ El primer paso es abrir el QGIS y seleccionar la opción _Proyecto > Nuevo_.
 
 ### Paso 1.1 Crear el origen único MAGNA SIRGAS / CTM12 en QGIS
 
-Los datos  de esta guía están en el origen nacional, ya que muchos archivos _shapefiles_ y bases de datos geográficas se encuentran configurados con este sistema de coordenadas.  Por consiguiente, se debe configurar el Sistema de Referencia de Coordenadas (SRC) del proyecto. Para ello, es posible seguir el procedimiento que se explica en este blog: [Configurando la proyección CTM12 en QGIS](https://qgisusers.co/es/blog/configurando-la-proyeccion-ctm12-en-qgis/) o utilizar el video [Cómo agregar el SRC MAGNA-SIRGAS/ CTM12 a QGIS](https://www.youtube.com/watch?v=sWvyt_0e_vI), donde se sigue el paso a paso explicado en el blog.
+Los datos  de esta guía están en el origen nacional, ya que muchos archivos _shapefiles_ y bases de datos geográficas se encuentran configurados con este sistema de coordenadas.  Por consiguiente, se debe configurar el Sistema de Referencia de Coordenadas (SRC) del proyecto. Para ello, es posible seguir el procedimiento que se explica en este blog: [Configurando la proyección CTM12 en QGIS](https://qgisusers.co/es/blog/configurando-la-proyeccion-ctm12-en-qgis/){:target="_blank"} o utilizar el video [Cómo agregar el SRC MAGNA-SIRGAS/ CTM12 a QGIS](https://www.youtube.com/watch?v=sWvyt_0e_vI){:target="_blank"}, donde se sigue el paso a paso explicado en el blog.
 
 ### Paso 1.2  Configuración del SRC del proyecto
 
@@ -104,13 +104,13 @@ La carga de capas de datos desde un _shapefile_ o un archivo de texto en QGIS ap
 
 Existen algunas aplicaciones web que realizan la transformación de las coordenadas proyectadas a decimales. Luego, es posible verificar si esas coordenadas decimales coinciden con el sitio donde se tomaron las coordenadas usando un  visor como google maps 
 
-Para realizar la verificación de coordenadas, es posible utilizar el servicio web de [SuMapa.com](https://sumapa.com/geocalc/geocalc.cfm), el cual incluye  los 5 orígenes de MAGNA-SIRGAS antes del 2020. También se puede utilizar el servicio web del [IGAC](https://origen.igac.gov.co/herramientas.html) para el origen nacional CTM-12. 
+Para realizar la verificación de coordenadas, es posible utilizar el servicio web de [SuMapa.com](https://sumapa.com/geocalc/geocalc.cfm){:target="_blank"}, el cual incluye  los 5 orígenes de MAGNA-SIRGAS antes del 2020. También se puede utilizar el servicio web del [IGAC](https://origen.igac.gov.co/herramientas.html){:target="_blank"} para el origen nacional CTM-12. 
 
 
 
 ### Paso alterno 1 - Verificación del sistema de referencia de coordenadas.
 
-En el caso de [SuMapa.com](http://SuMapa.com), es necesario registrarse en la página web antes de realizar la transformación. Posteriormente, hay que ir a la [Calculadora Geodésica OnLine](https://sumapa.com/geocalc/geocalc.cfm) y seleccionar uno de los  sistemas de origen que ofrece la herramienta, que incluyen Bogotá 1975, MAGNA SIRGAS y UTM. Es importante recordar que la idea es identificar el SRC de los datos si se desconoce. Por esta razón, es posible que sea necesario iterar entre varias opciones.
+En el caso de [SuMapa.com](http://SuMapa.com){:target="_blank"}, es necesario registrarse en la página web antes de realizar la transformación. Posteriormente, hay que ir a la [Calculadora Geodésica OnLine](https://sumapa.com/geocalc/geocalc.cfm){:target="_blank"} y seleccionar uno de los  sistemas de origen que ofrece la herramienta, que incluyen Bogotá 1975, MAGNA SIRGAS y UTM. Es importante recordar que la idea es identificar el SRC de los datos si se desconoce. Por esta razón, es posible que sea necesario iterar entre varias opciones.
 
 Seleccionar _WGS84_ como sistema de destino y _Grados decimales_ como formato de salida. Después, se deben pegarlas coordenadas de longitud y latitud de los datos en el recuadro amarillo, separándolas por un espacio. Por último, dar clic en Convertir (Fig. 6).
 
@@ -133,6 +133,97 @@ Después de obtener el resultado de las coordenadas en WGS84, se deben pegar en 
 Una vez que se identifique el sistema, es necesario usar un SIG como QGIS para cargar el archivo y realizar la transformación de forma masiva como se describe en el paso 1.4  de esta guía.  Adicionalmente, antes de realizar la transformación masiva de las coordenadas, es recomendable que cada registro a transformar tenga un identificador único para poder realizar un cruce de información en caso de ser necesario.
 
 ## Paso 2 - Exportar los datos con el nuevo origen deseado
+
+
+Al terminar de cargar los datos (shapefile y archivo de texto plano), hacer clic derecho sobre cualquiera de las capas cargadas en QGIS y seguir la ruta _Exportar>Guardar objetos como…_ (Fig. 8).
+
+![Figura 8. Opciones para la exportación del archivo.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig10_C4Coordenadas_MenuExportar.png)
+<sup>_Figura 8. Opciones para la exportación del archivo._</sup>
+
+
+En la ventana emergente, aparecen diferentes opciones de exportación. Para realizar la transformación de coordenadas, se deben seleccionar las siguientes opciones:
+- Formato: hacer clic en el desplegable y seleccionar GeoJSON (Fig. 9A).
+- Nombre de archivo: hacer clic en el botón con los tres puntos y seleccionar la ubicación y el nombre que se le va a dar al archivo: **PuntoMuestreoWGS84** (Fig. 9B).
+- SRC: Dar  clic en el desplegable y seleccionar EPSG:4326 - WGS 84 (Fig. 9C).
+
+**Nota**: El formato utilizado es GeoJSON, ya que permite tener nombres de columnas de más de 10 caracteres para poder usar los nombres completos de los elementos Darwin Core.
+
+Dejar las otras opciones por defecto y hacer clic en OK.
+
+![Figura 9. Opciones para exportar el archivo con el nuevo datum.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig11_C4Coordenadas_OpcionesExportar.png)
+<sup>_Figura 9. Opciones para exportar el archivo con el nuevo datum: A. Selección del formato utilizado para exportar los datos, B. Selección del nombre y la ubicación del archivo, C. Selección del sistema de referencia._</sup>
+
+Al hacer clic en OK, QGIS  realizará el proceso de exportación. Este proceso puede tardar uno o dos minutos dependiendo del volumen de los datos y la complejidad de la capa.
+
+**Nota**: Si aparece una caja de diálogo denominada Seleccionar transformación para…[Nombre de la capa], se debe hacer clic en cancelar.
+
+## Paso 4 - Obtención de las coordenadas decimales WGS84
+
+Con el fin de  visualizar las coordenadas resultado de la transformación, hay que usar la calculadora de campos. Para esto, hacer clic derecho en la capa que creó PuntoMuestreoWGS84 y seleccionar la opción _Abrir tabla de atributos_.
+
+Al interior de la tabla de atributos, buscar el icono del ábaco en la barra de herramientas de la parte superior (Fig. 10).
+
+![Figura 10.  Apertura de la calculadora de campos.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig12_C4Coordenadas_Tabla.png)
+<sup>_Figura 10.  Apertura de la calculadora de campos._</sup>
+
+En la ventana emergente aparecen las opciones para crear un nuevo campo. Este proceso se debe realizar dos veces, una para visualizar la longitud y otra para la latitud.
+
+En la calculadora de campos, configurar las siguientes opciones para la longitud inicial y al dar clic en OK:
+
+- Nombre del campo de salida: decimalLongitude.
+- Tipo del campo de salida: Número decimal (real).
+- Longitud del campo de salida: 10.
+- Precisión: 6.
+- Expresión: $x.
+
+![Figura 11. Selección de opciones para crear la nueva columna con la visualización de la longitud decimal.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig13_C4Coordenadas_Calculadora.png)
+<sup>_Figura 11. Selección de opciones para crear la nueva columna con la visualización de la longitud decimal: A. Selección del nombre del nuevo campo, B. Selección del tipo de dato, C. Selección de la longitud del campo, D. Selección del número de decimales, E. Fórmula utilizada para crear el campo._</sup>
+
+Luego de haber creado exitosamente este elemento, abrir nuevamente la calculadora de campos y configurar las siguientes opciones para la latitud inicial:
+
+- Nombre del campo de salida: decimalLatitude.
+- Tipo del campo de salida: Número decimal (real).
+- Longitud del campo de salida: 10.
+- Precisión: 6.
+- Expresión: $y.
+
+**Nota**: Si se requieren las  coordenadas decimales para varios archivos, se recomienda seguir la ruta _Vectorial > Herramientas para gestión de datos > Combinar capas vectoriales…_ antes de realizar la exportación.
+
+Este paso da como resultado una capa con dos nuevas columnas donde se pueden ver las coordenadas decimales en WGS84.
+
+## Paso 5 - Exportar el resultado final en archivo de texto
+
+El último paso es exportar el resultado de la transformación en un nuevo archivo. Para esto, dar clic derecho sobre la capa PuntoMuestreoWGS84 y seguir la opción Exportar>Guardar objetos como…
+
+En la ventana emergente,  seleccionar las siguientes opciones:
+
+- Formato: Dar clic en el desplegable y seleccionar XLSX  (Fig. 12A).
+- Nombre de archivo: Dar clic en el botón con los tres puntos y seleccionar la ubicación y el nombre que le va a dar al archivo: **PuntoMuestreoWGS84.xlsx** (Fig. 12B).
+
+Por último, dejar las otras opciones por defecto y dar clic en OK (Fig. 12).
+
+![Figura 12. Opciones para exportar el archivo de transectos como un archivo excel.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig14_C4Coordenadas_ExportarExcel.png)
+<sup>_Figura 12. Opciones para exportar el archivo de transectos como un archivo excel: A. Selección del formato utilizado para exportar los datos, B. Selección del nombre y la ubicación del archivo._</sup>
+
+## Paso 6 - Verificación del resultado
+
+Compara los resultados con el siguiente archivo [PuntoMuestreoWGS84.xlsx](https://docs.google.com/spreadsheets/d/1MLaxEqk67YbnZLUdPqynjCcsbylDMTWg/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}, corroborando que se obtuvieron las mismas coordenadas. ¿Qué diferencias hay entre el archivo de referencia y los resultados?
+
+
+****
+**¡Felicitaciones!**
+
+Has obtenido las coordenadas decimales a partir de una capa geográfica proyectada en MAGNA SIRGAS / CTM-12.
+
+****
+
+**Citación**
+
+> Marentes E., Ortíz R., Lozano J., Plata C. (2023). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
+> 
+
+
+
 
 
 
