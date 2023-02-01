@@ -14,7 +14,7 @@ stats:
       description: Conjuntos de datos
       background: /assets/images/landing_page/iconos_cifras/ico_conjuntoDatos_gris.png
       href: /dataset/search
-    - title: "5,348"
+    - title: "5,771"
       description: Fichas de especies
       background: /assets/images/landing_page/iconos_cifras/ico_fichaEspecies_gris.png
       href: https://catalogo.biodiversidad.co/
