@@ -22,12 +22,12 @@ El [lanzamiento del programa](https://biodiversidad.co/post/2022/nueva-ruta-form
 
 ## Inscripciones
 
-[![](/assets/images/noticias_eventos/2022/2022-11-30-banner-inscripciones-ruta-formacion-empresas.png)](https://forms.gle/kpkEXtuJctcgCCKo6){:target="_blank"}
+![Gestión corporativa para la naturaleza](/comunidad/formacion/images/Banner-inicio-actividades.png)
 
 **Instrucciones**
 
 - Ingresa a [aprende.biodiversidad.co](https://aprende.biodiversidad.co){:target="_blank"}
-- Haz clic en el enlace "[Regístrate aquí](https://forms.gle/kpkEXtuJctcgCCKo6){:target="_blank"}".
+- Haz clic en el enlace "[Regístrate aquí](#none)".
 - Completa el formulario con tus datos.
 - Recibirás las credenciales de acceso al campus virtual a vuelta de correo electrónico, éstas **se habilitarán a partir del 6 de febrero de 2023**.
 
