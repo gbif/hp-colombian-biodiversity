@@ -32,7 +32,7 @@ En este ejercicio, se realizará el proceso de estructuración con un evento de 
 
 **Requerimientos**
 
-- Tener QGIS instalado (revisar el proceso en el primer paso de la guía de [Validación geográfica con QGIS](https://biodiversidad.co/formacion/laboratorios/QGIS#paso-1---instalaci%C3%B3n-de-qgis)).
+- Tener QGIS instalado (revisar el proceso en el primer paso de la guía de [Validación geográfica con QGIS](https://biodiversidad.co/formacion/laboratorios/QGIS#paso-1---instalaci%C3%B3n-de-qgis).
 - Tener un procesador de archivos de texto como Excel.
 - Contar con un mínimo de 4GB de memoria RAM para el desarrollo de esta guía. Para procesos con más de 20 000 registros biológicos, se recomienda tener como mínimo 8GB.
 
@@ -45,7 +45,7 @@ En este ejercicio, se realizará el proceso de estructuración con un evento de 
 
 ## Paso 1 - Carga de los datos a QGIS
 
-Descargar el archivo <FONT FACE="monospace"><b>«BaseDatosGeografica_prueba.zip»</b></FONT> y extraer  su contenido: <FONT FACE="monospace"><b>«BaseDatosGeografica.gdb»</b></FONT>. Esta carpeta debe conservarse con la terminación “.gdb”. Para descomprimir el archivo descargado, se puede usar cualquier  programa de descompresión de archivos que se tenga instalado. Por ejemplo,  _WinZip_, _WinRAR_, _7Z_ u otros. 
+Descargar el archivo [<FONT FACE="monospace"><b>«BaseDatosGeografica_prueba.zip»</b></FONT>](https://drive.google.com/file/d/1sJfJ_8msYnYcZ1c9GWJ8zUZLebTSVzKG/view?usp=share_link){:target="_blank"} y extraer  su contenido: <FONT FACE="monospace"><b>«BaseDatosGeografica.gdb»</b></FONT>. Esta carpeta debe conservarse con la terminación “.gdb”. Para descomprimir el archivo descargado, se puede usar cualquier  programa de descompresión de archivos que se tenga instalado. Por ejemplo,  _WinZip_, _WinRAR_, _7Z_ u otros. 
 
 Posteriormente, abrir el software QGIS y crear un nuevo proyecto. En el nuevo proyecto, seguir la ruta para cargar la base de datos geográfica: <span class="tag is-warning is-light"><b><i>Capa > Añadir capa > Añadir capa vectorial…</i></b></span> (Fig. 1).
 
@@ -70,7 +70,7 @@ Para finalizar el proceso de carga, hacer clic en el botón <span class="tag is-
 Si se están cargando datos en MAGNA SIRGAS origen único (CTM12) y dependiendo de la versión de QGIS que se esté utilizando, es posible que luego de hacer clic en <span class="tag is-warning is-light"><i>Añadir</i></span> ocurra alguna de las siguientes situaciones: 
 
 1. QGIS identifica el Sistema de Referencia de Coordenadas (SRC) automáticamente y no se abre ninguna ventana emergente. Si este es el caso, es posible pasar directamente al paso 2 de esta guía. 
-2. Aparece una nueva ventana con la opción de cargar los datos, sugiriendo otro Sistema de Referencia de Coordenadas (SRC). Si al hacer clic en el <span class="tag is-warning is-light"><i>Cancel</i></span> (Fig. 5) de la esquina inferior derecha de QGIS (Fig. 6A) aparece automáticamente el SRC MAGNA SIRGNA/CTM12. (Ej: span class="tag is-light"><b>USER:100000</b></span>), se recomienda seguir con el paso 2 de esta guía.
+2. Aparece una nueva ventana con la opción de cargar los datos, sugiriendo otro Sistema de Referencia de Coordenadas (SRC). Si al hacer clic en el <span class="tag is-warning is-light"><i>Cancel</i></span> (Fig. 5) de la esquina inferior derecha de QGIS (Fig. 6A) aparece automáticamente el SRC MAGNA SIRGNA/CTM12. (Ej: <span class="tag is-light"><b>USER:100000</b></span>), se recomienda seguir con el paso 2 de esta guía.
 3. Aparece una nueva ventana con la opción de cargar los datos, sugiriendo otro Sistema de Referencia de Coordenadas (SRC). Se debe hacer clic en <span class="tag is-warning is-light"><i>Cancel</i></span> (Fig. 5). Si aparece <span class="tag is-warning is-light"><i>SRC desconocido</i></span> en la esquina inferior derecha (Fig. 6A), es necesario crear un sistema de origen único para configurar el SRC del proyecto. En este caso, se debe seguir el paso 1.1. de la guía de [Transformación de coordenadas Magna-Sirgas a coordenadas decimales en WGS84](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/transformacion-coordenadas-wgs84){:target="_blank"}.
 
 ![Figura 5. Opciones  sugiriendo otro Sistema de Referencia para los datos cargados.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-eventos-base-de-datos-geografica/Fig5_C4Eventos_Cancelar.png)
@@ -81,7 +81,7 @@ Si se están cargando datos en MAGNA SIRGAS origen único (CTM12) y dependiendo 
 
 ## Paso 2. Identificación de los archivos asociados a eventos de muestreo
 
-Una vez que se haya cargado la información cargada en QGIS, explorar las capas que contienen información de los eventos de muestreo. Los archivos que contienen esta información se encuentran representados en la Tabla 1.
+Una vez que se haya cargado la información cargada en QGIS, es necesario explorar las capas relacionadas con los eventos de muestreo. Los archivos que contienen esta información se encuentran representados en la Tabla 1.
 
 Tabla 1. Nombre de las capas que contienen información de los eventos de muestreo.
 
@@ -104,14 +104,14 @@ Tabla 1. Nombre de las capas que contienen información de los eventos de muestr
 En esta guía se propone un muestreo de flora como punto de partida. Para revisar la información contenida en el archivo PuntoMuestreoFlora, hacer clic derecho y seleccionar “Abrir tabla de atributos” en el menú lateral izquierdo (Fig. 7). En la nueva ventana, se puede ver la tabla con todos los puntos de muestreo. Cada fila representa un punto de muestreo y cada columna un atributo de la tabla según el <a href="https://www.anla.gov.co/01_anla/documentos/informacion_geografica/diccionario_datos_geograficos_anla.xlsx" target="_blank">Diccionario de Datos Geográficos</a>. Después de realizar una revisión general de la tabla, es necesario cerrar la ventana y regresar al menú principal de QGIS.
 </div>
 
-![Figura 7. Atributos en la capa PuntoMuestreoFlora.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-eventos-base-de-datos-geografica/Fig7_C4Eventos_Tabla.png)
+![Figura 7. Atributos en la capa **"PuntoMuestreoFlora"**.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-eventos-base-de-datos-geografica/Fig7_C4Eventos_Tabla.png)
 <sup>_Figura 7. Atributos en la capa PuntoMuestreoFlora._</sup>
 
 ## Paso 3. Transformación de coordenadas a WGS84 para los eventos de muestreo
 
 Debido a que la recomendación del estándar _Darwin Core_ es utilizar coordenadas decimales con datum WGS84, el proceso de transformación se desarrollará directamente en QGIS.
 
-Realizar la transformación a coordenadas decimales en WGS84 de la capa **"PuntoMuestreoFlora¨**, Es importante recordar que para las capas que tienen la geometría de tipo punto (Tabla 1), se debe seguir la guía de [Transformación de coordenadas Magna-Sirgas a coordenadas decimales en WGS84](https://biodiversidad.co/formacion/laboratorios/transformacion-coordenadas-wgs84){target="_blank"} y para las capas con geometría tipo línea (Ver Tabla 1), es necesario seguir la guía [Representando transectos en DwC](https://biodiversidad.co/formacion/laboratorios/estructuracion-transectos){target="_blank"}. En este caso, se debe usar la primera guía. 
+Realizar la transformación a coordenadas decimales en WGS84 de la capa **"PuntoMuestreoFlora¨**, Es importante recordar que para las capas que tienen la geometría de tipo punto (Tabla 1), se debe seguir la guía de [Transformación de coordenadas Magna-Sirgas a coordenadas decimales en WGS84](https://biodiversidad.co/formacion/laboratorios/transformacion-coordenadas-wgs84){:target="_blank"} y para las capas con geometría tipo línea (Ver Tabla 1), es necesario seguir la guía [Representando transectos en DwC](https://biodiversidad.co/formacion/laboratorios/estructuracion-transectos){:target="_blank"}. En este caso, se debe usar la primera guía. 
 
 ### Paso alterno: caso transectos.
 
@@ -138,7 +138,8 @@ En la ventana emergente,  seleccionar las siguientes opciones:
 
 Por último, dejar las otras opciones por defecto y dar clic en <span class="tag is-warning is-light"><b>OK</b></span> (Fig. 9).
 
-![Figura 9. Opciones para exportar el archivo de eventos de Flora  como un archivo tipo excel.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-eventos-base-de-datos-geografica/Fig9_C4Eventos_ExportarExcel.png)
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-eventos-base-de-datos-geografica/Fig9_C4Eventos_ExportarExcel.png" width=600>
+
 <sup>_Figura 9. Opciones para exportar el archivo de eventos de flora como un archivo tipo Excel: A. Selección del formato utilizado para exportar los datos, B. Selección del nombre y la ubicación del archivo._</sup>
 
 ## Paso 5. Mapeo de los datos
@@ -150,7 +151,8 @@ Debido a que los atributos  de las tablas en una base de datos geográfica, orga
 A continuación, se describe la definición de la coincidencia del atributo con el _Darwin Core_:
 
 - **Total**: el contenido del atributo coincide completamente con la definición del elemento _Darwin Core_.
-- **Parcial**:  coincidencia parcial del atributo con algún elemento del _Darwin Core_. Es necesario realizar ajustes en el contenido del atributo para que haya coincidencia con el elemento _Darwin Core_. Se recomienda revisar la definición del elemento en la documentación en línea del estándar y hacer los ajustes necesarios.  - **Nula**: no hay coincidencia con ningún elemento del Darwin Core y por tanto no debe ser mapeado.
+- **Parcial**:  coincidencia parcial del atributo con algún elemento del _Darwin Core_. Es necesario realizar ajustes en el contenido del atributo para que haya coincidencia con el elemento _Darwin Core_. Se recomienda revisar la definición del elemento en la documentación en línea del estándar y hacer los ajustes necesarios.
+- **Nula**: no hay coincidencia con ningún elemento del Darwin Core y por tanto no debe ser mapeado.
 
 Con base en lo anterior, se deben seguir estos pasos:
 
