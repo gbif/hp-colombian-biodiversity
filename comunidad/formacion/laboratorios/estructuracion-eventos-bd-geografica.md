@@ -11,7 +11,7 @@ toc: true
 
 **Objetivo**
 
-Estructurar los eventos de muestreo presentes en una base de datos geográfica, según el Diccionario Geográfico de la ANLA, para que sigan el estándar Darwin Core y cumplan los requisitos de publicación a través del SiB Colombia.
+Estructurar los eventos de muestreo presentes en una base de datos geográfica, según el Diccionario Geográfico de la ANLA, para que sigan el estándar _Darwin Core_ y cumplan los requisitos de publicación a través del SiB Colombia.
 
 **Introducción**
 
@@ -74,7 +74,7 @@ Si se están cargando datos en MAGNA SIRGAS origen único (CTM12) y dependiendo 
 3. Aparece una nueva ventana con la opción de cargar los datos, sugiriendo otro Sistema de Referencia de Coordenadas (SRC). Se debe hacer clic en <span class="tag is-warning is-light"><i>Cancel</i></span> (Fig. 5). Si aparece <span class="tag is-warning is-light"><i>SRC desconocido</i></span> en la esquina inferior derecha (Fig. 6A), es necesario crear un sistema de origen único para configurar el SRC del proyecto. En este caso, se debe seguir el paso 1.1. de la guía de [Transformación de coordenadas Magna-Sirgas a coordenadas decimales en WGS84](https://hp-colombian-biodiversity.gbif-staging.org/formacion/laboratorios/transformacion-coordenadas-wgs84){:target="_blank"}.
 
 ![Figura 5. Opciones  sugiriendo otro Sistema de Referencia para los datos cargados.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-eventos-base-de-datos-geografica/Fig5_C4Eventos_Cancelar.png)
-<sup>_Figura 5. Opciones  sugiriendo otro Sistema de Referencia para los datos cargados._</sup>
+<sup>_Figura 5. Opciones sugiriendo otro Sistema de Referencia para los datos cargados._</sup>
 
 ![Figura 6. Selección del SRC del proyecto.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-eventos-base-de-datos-geografica/Fig6_C4Eventos_SRCDesconocido.png)
 <sup>_Figura 6. Selección del SRC del proyecto: A. Selección de la opción <span class="tag is-warning is-light"><i>SRC desconocido</i></span>, B. Selección del SRC creado por el usuario._</sup>
@@ -99,9 +99,9 @@ Tabla 1. Nombre de las capas que contienen información de los eventos de muestr
 |MARINO|PuntoMuestreoAguaMarino|Punto|
 
 <div class="notification is-info is-light">
-  <b>Nota:</b> En algunas ocasiones, las Bases de datos geográficas pueden tener capas adicionales asociadas a información extra que fue tomada en el marco de un proyecto particular. Por esta razón, se recomienda realizar una revisión general de los nombres de las capas para identificar posible información adicional.
+  <b>Nota:</b> En algunas ocasiones, las B¿bases de datos geográficas pueden tener capas adicionales asociadas a información extra que fue tomada en el marco de un proyecto particular. Por esta razón, se recomienda realizar una revisión general de los nombres de las capas para identificar posible información adicional.
 
-En esta guía se propone un muestreo de flora como punto de partida. Para revisar la información contenida en el archivo PuntoMuestreoFlora, hacer clic derecho y seleccionar “Abrir tabla de atributos” en el menú lateral izquierdo (Fig. 7). En la nueva ventana, se puede ver la tabla con todos los puntos de muestreo. Cada fila representa un punto de muestreo y cada columna un atributo de la tabla según el <a href="https://www.anla.gov.co/01_anla/documentos/informacion_geografica/diccionario_datos_geograficos_anla.xlsx" target="_blank">Diccionario de Datos Geográficos</a>. Después de realizar una revisión general de la tabla, es necesario cerrar la ventana y regresar al menú principal de QGIS.
+En esta guía se propone un muestreo de flora como punto de partida. Para revisar la información contenida en el elemento <b>"PuntoMuestreoFlora"</b>, hacer clic derecho y seleccionar <span class="tag is-warning is-light"><i>brir tabla de atributos</i></span> en el menú lateral izquierdo (Fig. 7). En la nueva ventana, se puede ver la tabla con todos los puntos de muestreo. Cada fila representa un punto de muestreo y cada columna un atributo de la tabla según el <a href="https://www.anla.gov.co/01_anla/documentos/informacion_geografica/diccionario_datos_geograficos_anla.xlsx" target="_blank"><FONT FACE="monospace"><b>«Diccionario de Datos Geográficos»</b></FONT></a>. Después de realizar una revisión general de la tabla, es necesario cerrar la ventana y regresar al menú principal de QGIS.
 </div>
 
 ![Figura 7. Atributos en la capa **"PuntoMuestreoFlora"**.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-eventos-base-de-datos-geografica/Fig7_C4Eventos_Tabla.png)
@@ -167,7 +167,7 @@ Con base en lo anterior, se deben seguir estos pasos:
 
 ## Paso 6. Creación de elementos obligatorios y ajuste de elementos documentados
 
-Es necesario verificar que todos los elementos obligatorios para los eventos de muestreo estén debidamente documentados. Para lograr esto, se necesita revisar la definición de los siguientes elementos en la [documentación en línea del estándar Darwin Core](https://biodiversidad.co/compartir/estandar-darwin-core/){:target="_blank"} y crear o ajustar el elemento correspondiente con base en los ejemplos.
+Es necesario verificar que todos los elementos obligatorios para los eventos de muestreo estén debidamente documentados. Para lograr esto, se necesita revisar la definición de los siguientes elementos en la [documentación en línea del estándar _Darwin Core_](https://biodiversidad.co/compartir/estandar-darwin-core/){:target="_blank"} y crear o ajustar el elemento correspondiente con base en los ejemplos.
 
 Elementos obligatorios para los eventos de muestreo:
 
