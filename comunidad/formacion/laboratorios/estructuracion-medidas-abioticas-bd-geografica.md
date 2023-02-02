@@ -106,7 +106,8 @@ Debido a que la tabla **"ParamFisicoquimSuperTB"** solo tiene el identificador d
 
 Para ello,  hacer doble clic en  la **"ParamFisicoquimSuperTB"** del menú de capas. Luego, seleccionar <span class="tag is-warning is-light"><i>Uniones</i></span> (Fig. 8A) y dar clic en el símbolo verde <span class="tag is-success is-light"><i>+</i></span>(Fig. 8B).
 
-![Figura 8. Selección de la opción Uniones en la ventana de propiedades.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-medidas-abioticas-base-de-datos-geografica/Fig8_C4Medidas_Union.png)
+<img src="(https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-medidas-abioticas-base-de-datos-geografica/Fig8_C4Medidas_Union.png" width=450>
+
 <sup>_Figura 8. Selección de la opción Uniones en la ventana de propiedades: A. Selección de la opción <span class="tag is-warning is-light"><i>Uniones</i></span>, B. Selección del botón utilizado para agregar un nuevo campo por medio de una unión._</sup>
 
 En la ventana emergente, seleccionar las siguientes opciones para los campos:
@@ -161,6 +162,7 @@ Para realizar el mapeo, se deben seguir los siguientes pasos:
 
 <div class="notification is-info is-light">
   <b>Nota:</b> En algunos casos, varias columnas pueden aportar información a un mismo elemento <i>Darwin Core</i>, como sucede con el elemento <span class="tag is-success is-light"><i>measurementMethod</i></span>. Para estos casos, se recomienda compilar toda la información disponible en una sola columna, separando los datos con plecas ( | ).
+  
   Ejemplo: Número de verticales definido: 5 | Intervalo en horas entre las muestras: 8.
 </div>
 
