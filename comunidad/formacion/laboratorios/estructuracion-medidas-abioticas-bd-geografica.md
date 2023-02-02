@@ -106,7 +106,7 @@ Debido a que la tabla **"ParamFisicoquimSuperTB"** solo tiene el identificador d
 
 Para ello,  hacer doble clic en  la **"ParamFisicoquimSuperTB"** del menú de capas. Luego, seleccionar <span class="tag is-warning is-light"><i>Uniones</i></span> (Fig. 8A) y dar clic en el símbolo verde <span class="tag is-success is-light"><i>+</i></span>(Fig. 8B).
 
-<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-medidas-abioticas-base-de-datos-geografica/Fig8_C4Medidas_Union.png" width=450>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-medidas-abioticas-base-de-datos-geografica/Fig8_C4Medidas_Union.png">
 
 <sup>_Figura 8. Selección de la opción Uniones en la ventana de propiedades: A. Selección de la opción <span class="tag is-warning is-light"><i>Uniones</i></span>, B. Selección del botón utilizado para agregar un nuevo campo por medio de una unión._</sup>
 
@@ -134,7 +134,9 @@ En la ventana emergente, seleccione  las siguientes opciones:
 
 Por último, dejar las otras opciones por defecto y dar clic en <span class="tag is-warning is-light"><b>OK</b></span> (Fig. 10).
 
-![Figura 10. Opciones para exportar el archivo MuestreoFisicoquimSuperTB como un archivo tipo excel.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-medidas-abioticas-base-de-datos-geografica/Fig10_C4Medidas_ExportarExcel.png)
+
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-medidas-abioticas-base-de-datos-geografica/Fig10_C4Medidas_ExportarExcel.png" width=450>
+
 <sup>_Figura 10. Opciones para exportar el archivo MuestreoFisicoquimSuperTB como un archivo tipo excel: A. Selección del formato utilizado para exportar los datos, B. Selección del nombre y la ubicación del archivo._</sup>
 
 Se debe repetir el proceso para exportar el elemento **"ParamFisicoquimSuperTB"**.
