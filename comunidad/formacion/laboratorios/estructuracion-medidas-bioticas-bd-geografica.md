@@ -120,7 +120,7 @@ En la ventana emergente,  seleccionar las siguientes opciones:
 
 Por último, dejar las otras opciones por defecto y dar clic en <span class="tag is-warning is-light"><b>OK</b></span> (Fig. 8).
 
-<img src="(https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuraci%C3%B3n-observaciones-medidas-bioticas-base-de-datos-geografica/Fig8_C4Registros_ExportarExcel.png" width=450>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuraci%C3%B3n-observaciones-medidas-bioticas-base-de-datos-geografica/Fig8_C4Registros_ExportarExcel.png" width=450>
 
 <sup>_Figura 8. Opciones para exportar la tabla de registros biológicos de flora fustal como un archivo tipo excel: A. Selección del formato utilizado para exportar los datos, B. Selección del nombre y la ubicación del archivo._</sup>
 
@@ -191,7 +191,8 @@ Por consiguiente, se deben seguir las siguientes recomendaciones para crear los 
  
 <div class="notification is-info is-light">
  <b>Nota:</b> Para los registros de Fauna, utilizar el campo <b>"DETERM"</b> que contiene información detallada de la base y tipo del registro.
- 
+ </div>
+
 - [<span class="tag is-success is-light"><i>institutionCode</i></span>](https://biodiversidad.co/compartir/estandar-darwin-core/#institutionCode): La información del código de la institución está presente en el archivo de eventos que se estructuró en la guía [Estructurando una GDB en DwC, eventos](https://biodiversidad.co/formacion/laboratorios/estructuracion-eventos-bd-geografica).  
 - [<span class="tag is-success is-light"><i>institutionID</i></span>](https://biodiversidad.co/compartir/estandar-darwin-core/#institutionID): Documentar con el NIT de la organización. Para este ejercicio, se usa el NIT <span class="tag is-light"><b>900.123.456-1</b></span>. 
 - [<span class="tag is-success is-light"><i>eventDate</i></span>](https://biodiversidad.co/compartir/estandar-darwin-core/#eventDate): La información de la fecha está presente en el archivo de eventos de muestreo que se estandarizó en la guía [Estructurando una GDB en DwC, eventos](https://biodiversidad.co/formacion/laboratorios/estructuracion-eventos-bd-geografica). 
