@@ -122,7 +122,7 @@ Por último, dejar las otras opciones por defecto y dar clic en <span class="tag
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuraci%C3%B3n-observaciones-medidas-bioticas-base-de-datos-geografica/Fig8_C4Registros_ExportarExcel.png" width=450>
 
-<sup>_Figura 8. Opciones para exportar la tabla de registros biológicos de flora fustal como un archivo tipo excel: A. Selección del formato utilizado para exportar los datos, B. Selección del nombre y la ubicación del archivo._</sup>
+<sup>_Figura 8. Opciones para exportar la tabla de registros biológicos de flora fustal como un archivo tipo Excel: A. Selección del formato utilizado para exportar los datos, B. Selección del nombre y la ubicación del archivo._</sup>
 
 ## Paso 4. Mapeo de los datos 
 
@@ -134,11 +134,11 @@ A continuación, se describe la definición de la coincidencia del atributo con 
 
 - **Total**: el contenido del atributo coincide completamente con la definición del elemento _Darwin Core_.
 - **Parcial**:  coincidencia parcial del atributo con algún elemento del _Darwin Core_. Es necesario realizar ajustes en el contenido del atributo para que haya coincidencia con el elemento _Darwin Core_. Se recomienda revisar la definición del elemento en la documentación en línea del estándar y hacer los ajustes necesarios.
-- **Nula**: no hay coincidencia con ningún elemento del Darwin Core y por tanto no debe ser mapeado.
+- **Nula**: no hay coincidencia con ningún elemento del _Darwin Core_ y por tanto no debe ser mapeado.
 
 ### 4.1 Mapeo de los registros biológicos
 
-Cambiar los nombres en las columnas del archivo <FONT FACE="monospace"><b>«Registros_FloraFustal.xlsxs»</b></FONT> por el de los elementos _Darwin Core_ que tengan una coincidencia total en el mapeo. Posteriormente, ajustar los elementos que tienen coincidencia parcial y eliminar los que no tienen ningún tipo de correspondencia con el estándar _Darwin Core_. Para ello, se debe usar la pestaña **"MuestreoFloraFustalTB"** en el archivo [<FONT FACE="monospace"><b>«Mapeo diccionario ANLA 2020 al Darwin Core -Registros biológicos»</b></FONT>](https://docs.google.com/spreadsheets/d/1cX3ayuk6A-Fq2XcsTiIrkoQ2XetU9Y9rkgy0iUjk4RY/edit#gid=1272242277){:target="_blank"}.
+Cambiar los nombres en las columnas del archivo <FONT FACE="monospace"><b>«Registros_FloraFustal.xlsxs»</b></FONT> por el de los elementos _Darwin Core_ que tengan una coincidencia total en el mapeo. Posteriormente, ajustar los elementos que tienen coincidencia parcial y eliminar los que no tienen ningún tipo de correspondencia con el estándar _Darwin Core_. Para ello, se debe usar la pestaña **"MuestreoFloraFustalTB"** en el archivo [<FONT FACE="monospace"><b>«Mapeo diccionario ANLA 2020 al <i>Darwin Core</i> - Registros biológicos»</b></FONT>](https://docs.google.com/spreadsheets/d/1cX3ayuk6A-Fq2XcsTiIrkoQ2XetU9Y9rkgy0iUjk4RY/edit#gid=1272242277){:target="_blank"}.
 
 Con base en lo anterior, se deben seguir estos pasos:
 
@@ -149,11 +149,11 @@ Con base en lo anterior, se deben seguir estos pasos:
 Para realizar el mapeo siga estos pasos:
 
 - Modificar el nombre de las columnas documentadas como coincidencia total  en el archivo **Registros_FloraFustal.xlsx** (Fig. 9).
-- Revisar el contenido de las columnas documentadas como coincidencia parcial, realizando los ajustes de acuerdo a las definiciones, recomendaciones y ejemplos de la [documentación en línea  del elemento  Darwin Core](https://biodiversidad.co/compartir/estandar-darwin-core/) para cada elemento (Fig. 9). Normalmente, estos ajustes implican combinar información de varias columnas antes de hacer el mapeo.
-- En el archivo **Registros_FloraFustal.xlsx**, eliminar las columnas que tienen una coincidencia nula según el archivo de mapeo. (Fig. 9)
+- Revisar el contenido de las columnas documentadas como coincidencia parcial, realizando los ajustes de acuerdo a las definiciones, recomendaciones y ejemplos de la [documentación en línea  del elemento _Darwin Core_](https://biodiversidad.co/compartir/estandar-darwin-core/) para cada elemento (Fig. 9). Normalmente, estos ajustes implican combinar información de varias columnas antes de hacer el mapeo.
+- En el archivo <FONT FACE="monospace"><b>«Registros_FloraFustal.xlsx»</b></FONT>, eliminar las columnas que tienen una coincidencia nula según el archivo de mapeo. (Fig. 9)
 
 ![Figura 9. Proceso de mapeo al estándar Darwin Core del archivo de registros biológicos presente en la Base de datos geográfica.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuraci%C3%B3n-observaciones-medidas-bioticas-base-de-datos-geografica/Fig9_C4Registros_Mapeo.png)
-<sup>_Figura 9. Proceso de mapeo al estándar Darwin Core del archivo de registros biológicos presente en la Base de datos geográfica._</sup>
+<sup>_Figura 9. Proceso de mapeo al estándar _Darwin Core_ del archivo de registros biológicos presente en la base de datos geográfica._</sup>
 
 - Al finalizar el proceso de mapeo con las columnas existentes, se deben eliminar las columnas que estén vacías o documentadas con <span class="tag is-light"><b>Null</b></span>.
 
@@ -209,7 +209,7 @@ Para terminar, seguir las siguientes recomendaciones para ajustar algunos elemen
 - [<span class="tag is-success is-light"><i>occurrenceRemarks</i></span>](https://biodiversidad.co/compartir/estandar-darwin-core/#occurrenceRemarks): Revisar el contenido de este elemento para validar si se puede mapear en otro elemento _Darwin Core_. En ocasiones, puede haber información de etapa de vida, sexo, medidas adicionales, etc. 
  
 <div class="notification is-info is-light">
-  <b>Nota:</b> Para algunos campos en las tablas de fauna o hidrobiología, puede ser necesario utilizar los dominios en el Diccionario geográfico con el fin de documentar la información. Se recomienda revisar el paso 6 de la guía <b><a href="https://biodiversidad.co/formacion/laboratorios/estructuracion-eventos-bd-geografica">Estructurando una base de datos geográfica en DwC, eventos</a></b>
+  <b>Nota:</b> Para algunos campos en las tablas de fauna o hidrobiología, puede ser necesario utilizar los dominios en el Diccionario geográfico con el fin de documentar la información. Se recomienda revisar el paso 6 de la guía <b><a href="https://biodiversidad.co/formacion/laboratorios/estructuracion-eventos-bd-geografica">Estructurando una base de datos geográfica en DwC, eventos</a></b>.
 </div>
 
  
