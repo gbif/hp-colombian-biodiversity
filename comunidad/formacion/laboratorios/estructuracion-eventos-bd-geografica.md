@@ -7,7 +7,7 @@ sideNavigation: sidenav_laboratorios.terms
 toc: true
 ---
 
-# Estructuración de eventos al DwC desde una Base de datos geográfica
+# Estructuración de eventos al DwC desde una base de datos geográfica
 
 **Objetivo**
 
@@ -138,7 +138,7 @@ En la ventana emergente,  seleccionar las siguientes opciones:
 
 Por último, dejar las otras opciones por defecto y dar clic en <span class="tag is-warning is-light"><b>OK</b></span> (Fig. 9).
 
-<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-eventos-base-de-datos-geografica/Fig9_C4Eventos_ExportarExcel.png" width=400>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-eventos-base-de-datos-geografica/Fig9_C4Eventos_ExportarExcel.png" width=500>
 
 <sup>_Figura 9. Opciones para exportar el archivo de eventos de flora como un archivo tipo Excel: A. Selección del formato utilizado para exportar los datos, B. Selección del nombre y la ubicación del archivo._</sup>
 
