@@ -112,20 +112,20 @@ Para ello,  hacer doble clic en  la **"ParamFisicoquimSuperTB"** del menú de ca
 En la ventana emergente, seleccionar las siguientes opciones para los campos:
 
 - Unir capa: En la lista desplegable, elegir la tabla **"MuestreoFisicoquimSuperTB"** para extraer la información (Fig. 9A).
-- Unir campo: Seleccionar el campo <span class="tag is-warning is-light"><i>ID_MUESTRA</i></span>, que es la llave para completar la tabla **"MuestreoFisicoquimSuperTB"**(Fig. 9B).
+- Unir campo: Seleccionar el campo <span class="tag is-warning is-light"><i>ID_MUESTRA</i></span>, que es la llave para completar la tabla **"MuestreoFisicoquimSuperTB"** (Fig. 9B).
 - Campo objetivo: Elegir el campo <span class="tag is-warning is-light"><i>ID_MUESTRA</i></span>, que es la llave para completar la tabla **"ParamFisicoquimSuperTB"** (Fig. 9C).
 - _Joined fields_: Dar clic en el botón Joined fields y seleccionar el campo ID_PUNTO_M en la lista de la tabla **"MuestreoFisicoquimSuperTB"** (Fig. 9D).
 
 Para finalizar, hacer clic en <span class="tag is-warning is-light"><i>OK</i></span> en la ventana emergente y en la ventana general (Fig. 9).
 
 ![Figura 9. Selección de opciones en la ventana Añadir unión vectorial.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-medidas-abioticas-base-de-datos-geografica/Fig9_C4Medidas_OpcionesUnion.png)
-<sup>_Figura 9. Selección de opciones en la ventana Añadir unión vectorial: A. Selección de la capa objetivo, B. Selección del campo de la capa base que se va a utilizar como llave, C. Selección del campo de la capa objetivo que se va a utilizar como llave, D. Selección del elemento de la capa objetivo que se va a agregar a la capa base._</sup>
+<sup>_Figura 9. Selección de opciones en la ventana **"Añadir unión vectorial"**: A. Selección de la capa objetivo, B. Selección del campo de la capa base que se va a utilizar como llave, C. Selección del campo de la capa objetivo que se va a utilizar como llave, D. Selección del elemento de la capa objetivo que se va a agregar a la capa base._</sup>
 
 Para revisar que el proceso se realizó correctamente, abrir la tabla de atributos de la capa **"ParamFisicoquimSuperTB"** y revisar la última columna. Debe haber una columna llamada **“GDB_Prueba — MuestreoFisicoquimSuperTB_ID_PUNTO_M”** con la información del código del punto de muestreo.
 
 ## Paso 4. Exportar las capas de las medidas abióticas en formato Excel
 
-Después de tener el identificador del muestreo en la columna **"ID_PUNTO_M"** en ambas tablas, es necesario exportar el resultado obtenido para comenzar con el proceso de estructuración. Para ello, dar clic derecho sobre la capa **"MuestreoFisicoquimSuperTB"** y seguir la ruta de opciones <span class="tag is-warning is-light"><b><i>Exportar>Guardar objetos como…</i></b></span>
+Después de tener el identificador del muestreo en la columna **"ID_PUNTO_M"** en ambas tablas, es necesario exportar el resultado obtenido para comenzar con el proceso de estructuración. Para ello, dar clic derecho sobre la capa **"MuestreoFisicoquimSuperTB"** y seguir la ruta de opciones <span class="tag is-warning is-light"><b><i>Exportar>Guardar objetos como…</i></b></span>.
 
 En la ventana emergente, seleccione  las siguientes opciones:
 - **"Formato"**: dar  clic en el desplegable y elegir <span class="tag is-warning is-light"><i>XLSX</i></span> (Fig. 10A).
@@ -147,8 +147,8 @@ Debido a que los atributos  de las tablas en una base de datos geográfica, orga
 A continuación, se describe la definición de la coincidencia del atributo con el _Darwin Core_:
 
 - **Total**: el contenido del atributo coincide completamente con la definición del elemento Darwin Core.
-- **Parcial**:  coincidencia parcial del atributo con algún elemento del Darwin Core. Es necesario realizar ajustes en el contenido del atributo para que haya coincidencia con el elemento Darwin Core. Se recomienda revisar la definición del elemento en la documentación en línea del estándar y hacer los ajustes necesarios.
-- **Nula**: no hay coincidencia con ningún elemento del Darwin Core y por tanto no debe ser mapeado.
+- **Parcial**:  coincidencia parcial del atributo con algún elemento del _Darwin Core_. Es necesario realizar ajustes en el contenido del atributo para que haya coincidencia con el elemento _Darwin Core_. Se recomienda revisar la definición del elemento en la documentación en línea del estándar y hacer los ajustes necesarios.
+- **Nula**: no hay coincidencia con ningún elemento del _Darwin Core_ y por tanto no debe ser mapeado.
 
 ### Paso 5.1. Mapeo y estructuración del archivo MuestreoFisicoquimSuperTB
 
@@ -161,7 +161,7 @@ Para realizar el mapeo, se deben seguir los siguientes pasos:
 
 <div class="notification is-info is-light">
   <b>Nota:</b> En algunos casos, varias columnas pueden aportar información a un mismo elemento <i>Darwin Core</i>, como sucede con el elemento <span class="tag is-success is-light"><i>measurementMethod</i></span>. Para estos casos, se recomienda compilar toda la información disponible en una sola columna, separando los datos con plecas ( | ).
-Ejemplo: Número de verticales definido: 5 | Intervalo en horas entre las muestras: 8.
+  Ejemplo: Número de verticales definido: 5 | Intervalo en horas entre las muestras: 8.
 </div>
 
 ![Figura 11.  Proceso de mapeo para los elementos de medidas abióticas.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-medidas-abioticas-base-de-datos-geografica/Fig11_C4Medidas_Mapeo.png)
@@ -174,7 +174,7 @@ Las medidas abióticas de este archivo están organizadas de forma que cada medi
 
 Se debe repetir este procedimiento con el resto de medidas abióticas, teniendo en cuenta los diferentes valores de tipo y unidad para cada una de las medidas.
 
-Al terminar el proceso de mapeo con las columnas existentes, eliminar las columnas vacías o documentadas con “<span class="tag is-light"><b>Null</b></span>.
+Al terminar el proceso de mapeo con las columnas existentes, eliminar las columnas vacías o documentadas con <span class="tag is-light"><b>Null</b></span>.
 
 ### Paso 5.2. Mapeo y estructuración del archivo ParamFisicoquimSuperTB
   
@@ -190,12 +190,12 @@ El elemento **"ParamFisicoquimSuperTB"** tiene una estructura diferente al de la
 Para que los datos se publiquen correctamente, es necesario que todas las medidas abióticas tengan documentado un <span class="tag is-success is-light"><i>eventID</i></span> y que este sea exactamente igual al que está documentado en el archivo de eventos. En caso de haber realizado alguna modificación al <span class="tag is-success is-light"><i>eventID</i></span> en el archivo de eventos de muestreo, se deben hacer los ajustes necesarios para que coincidan los <span class="tag is-success is-light"><i>eventID</i></span> de los archivos de medidas abióticas.
 
 <div class="notification is-info is-light">
-  <b>Nota:</b> En los archivos de ejemplo de esta guía, el valor del <span class="tag is-success is-light"><i>eventID</i></span> no se modificó. Por lo tanto,  es equivalente al <span class="tag is-success is-light"><i>eventID</i></span> de la tabla **"PuntoMuestreoAguaSuper"** y no requiere ninguna modificación.
+  <b>Nota:</b> En los archivos de ejemplo de esta guía, el valor del <span class="tag is-success is-light"><i>eventID</i></span> no se modificó. Por lo tanto,  es equivalente al <span class="tag is-success is-light"><i>eventID</i></span> de la tabla <b>"PuntoMuestreoAguaSuper"</b> y no requiere ninguna modificación.
 </div>
 
 ### Paso 6.2. Ajuste de los elementos documentados y los vocabularios controlados
 
-Para el elemento **"ParamFisicoquimSuperTB"**, se deben realizar ajustes en el elemento <span class="tag is-success is-light"><i>measurementType</i></span> porque la información está documentada con los dominios del diccionario geográfico. Para ello, abrir el [<FONT FACE="monospace"><b>«Diccionario de Datos Geográficos»</b></FONT>](https://www.anla.gov.co/01_anla/documentos/informacion_geografica/diccionario_datos_geograficos_anla.xlsx){:target="_blank"} y ubicar la pestaña **"DOMINIOS"**, donde se puede buscar el dominio **"Dom_Parametro"** y realizar el ajuste en el archivo de estructuración. Esto se hace reemplazando el código por el nombre de la medida. Ver ejemplo en la Figura 14A.
+Para el elemento **"ParamFisicoquimSuperTB"**, se deben realizar ajustes en el elemento <span class="tag is-success is-light"><i>measurementType</i></span> porque la información está documentada con los dominios del diccionario geográfico. Para ello, abrir el [<FONT FACE="monospace"><b>«Diccionario de Datos Geográficos»</b></FONT>](https://www.anla.gov.co/01_anla/documentos/informacion_geografica/diccionario_datos_geograficos_anla.xlsx){:target="_blank"} y ubicar la pestaña <b>"DOMINIOS"</b>, donde se puede buscar el dominio <b>"Dom_Parametro"</b> y realizar el ajuste en el archivo de estructuración. Esto se hace reemplazando el código por el nombre de la medida. Ver ejemplo en la Figura 14A.
   
 Adicionalmente, crear y documentar la columna <span class="tag is-success is-light"><i>measurementUnit</i></span> según la información de la medida del diccionario (Fig. 14B).  
   
