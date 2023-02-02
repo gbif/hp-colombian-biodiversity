@@ -32,7 +32,7 @@ En este ejercicio, se desarrollará el proceso de estructuración con los regist
 
 **Requerimientos**
 
-- QGIS (Revisar el proceso de instalación en el primer paso de la guía de [Validación geográfica con QGIS](https://biodiversidad.co/formacion/laboratorios/QGIS#paso-1---instalaci%C3%B3n-de-qgis))
+- QGIS (Revisar el proceso de instalación en el primer paso de la guía de [Validación geográfica con QGIS](https://biodiversidad.co/formacion/laboratorios/QGIS#paso-1---instalaci%C3%B3n-de-qgis)).
 - Procesador de archivos de texto como Excel.
 - Contar con un mínimo de 4GB de memoria RAM para el desarrollo de esta guía. Para procesos con más de 20 000 registros biológicos, se recomienda tener como mínimo 8GB.
 
@@ -108,7 +108,7 @@ En esta guía se propone el elemento <b>«MuestreoFloraFustalTB"</b> como ejempl
 </div>
 
 ![Figura 7. Información contenida en la tabla MuestreoFloraFustalTB.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuraci%C3%B3n-observaciones-medidas-bioticas-base-de-datos-geografica/Fig7_C4Registros_Tabla.png)
-<sup>_Figura 7. Información contenida en la tabla MuestreoFloraFustalTB._</sup>
+<sup>_Figura 7. Información contenida en la tabla **"MuestreoFloraFustalTB"**._</sup>
 
 ## Paso 3. Exportar las capas de los registros biológicos
 
@@ -120,7 +120,8 @@ En la ventana emergente,  seleccionar las siguientes opciones:
 
 Por último, dejar las otras opciones por defecto y dar clic en <span class="tag is-warning is-light"><b>OK</b></span> (Fig. 8).
 
-![Figura 8. Opciones para exportar la tabla de registros biológicos de flora fustal como un archivo tipo excel.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuraci%C3%B3n-observaciones-medidas-bioticas-base-de-datos-geografica/Fig8_C4Registros_ExportarExcel.png)
+<img src="(https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuraci%C3%B3n-observaciones-medidas-bioticas-base-de-datos-geografica/Fig8_C4Registros_ExportarExcel.png" width=450>
+
 <sup>_Figura 8. Opciones para exportar la tabla de registros biológicos de flora fustal como un archivo tipo excel: A. Selección del formato utilizado para exportar los datos, B. Selección del nombre y la ubicación del archivo._</sup>
 
 ## Paso 4. Mapeo de los datos 
@@ -142,7 +143,7 @@ Cambiar los nombres en las columnas del archivo <FONT FACE="monospace"><b>«Regi
 Con base en lo anterior, se deben seguir estos pasos:
 
 - Modificar el nombre de las columnas documentadas como coincidencia total en el archivo <FONT FACE="monospace"><b>«Registros_FloraFustal.xlsx»</b></FONT> (Fig. 9).
-- Revisar el contenido de las columnas documentadas como coincidencia parcial, realizando los ajustes de acuerdo a las definiciones, recomendaciones y ejemplos de la [documentación en línea  del elemento  Darwin Core](https://biodiversidad.co/compartir/estandar-darwin-core/) para cada elemento (Fig. 9). Normalmente, estos ajustes implican combinar información de varias columnas antes de hacer el mapeo (Fig. 9).
+- Revisar el contenido de las columnas documentadas como coincidencia parcial, realizando los ajustes de acuerdo a las definiciones, recomendaciones y ejemplos de la [documentación en línea  del elemento _Darwin Core_](https://biodiversidad.co/compartir/estandar-darwin-core/) para cada elemento (Fig. 9). Normalmente, estos ajustes implican combinar información de varias columnas antes de hacer el mapeo (Fig. 9).
 - En el archivo <FONT FACE="monospace"><b>«Evento_MuestreoFlora.xlsx»</b></FONT>,  eliminar las columnas que tienen una coincidencia nula en el archivo de mapeo (Fig. 10).
 
 Para realizar el mapeo siga estos pasos:
@@ -164,8 +165,8 @@ En el archivo de Excel, insertar dos nuevas columnas para cada una de las medida
 
 A continuación, se observa cómo realizar el proceso con la primera medida <b>"DAP_INDIV"</b>:
 
-- Crear la columna  measurementType con el valor “Diámetro a la altura del pecho (DAP)” (Fig. 10). 
-- Insertar la segunda columna con el elemento <span class="tag is-success is-light"><i>measurementType</i></span y como valor <span class="tag is-light"><b>m</b></span>(Fig. 10). 
+- Crear la columna  <span class="tag is-success is-light"><i>measurementType</i></span> con el valor **“Diámetro a la altura del pecho (DAP)”** (Fig. 10). 
+- Insertar la segunda columna con el elemento <span class="tag is-success is-light"><i>measurementType</i></span> y como valor <span class="tag is-light"><b>m</b></span>(Fig. 10). 
 - Reemplazar el nombre original de la columna **"DAP_INDIV"** por <span class="tag is-success is-light"><i>measurementValue</i></span>. (Fig. 10). 
 
 ![Figura 10. Mapeo de la medida biótica DAP_INDIV al estándar DwC.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuraci%C3%B3n-observaciones-medidas-bioticas-base-de-datos-geografica/Fig10_C4Registros_Medidas.png)
@@ -175,12 +176,13 @@ A continuación, se observa cómo realizar el proceso con la primera medida <b>"
 
 <div class="notification is-info is-light">
   <b>Nota:</b> En algunas tablas de fauna marina, se pueden encontrar medidas abióticas. Por ejemplo, la distancia del animal a la popa del barco o la dirección en la que viaja el animal con respecto al barco. En tal caso, se debe realizar el mismo proceso de las medidas bióticas asociadas a flora, realizando el mapeo y poniendo el tipo y unidad de medida si es necesario.
+  </div>
  
 ## Paso 5. Creación de elementos obligatorios y ajuste de elementos documentados
   
 ### Paso 5.1 Creación de los elementos obligatorios
 
-Para asegurar que todos los elementos obligatorios para los registros biológicos estén debidamente documentados, se recomienda consultar los elementos obligatorios en la primera hoja de la [plantilla de Registros biológicos](https://biodiversidad.co/recursos/plantillas-dwc/#registros-biol%C3%B3gicos), llamada “Instrucciones”. Teniendo en cuenta que la obligatoriedad de los elementos dependen del origen de los datos, este paso es necesario para la publicación de eventos de muestreo.
+Para asegurar que todos los elementos obligatorios para los registros biológicos estén debidamente documentados, se recomienda consultar los elementos obligatorios en la primera hoja de la [Plantilla de Registros biológicos](https://biodiversidad.co/recursos/plantillas-dwc/#registros-biol%C3%B3gicos), llamada **“Instrucciones”**. Teniendo en cuenta que la obligatoriedad de los elementos dependen del origen de los datos, este paso es necesario para la publicación de eventos de muestreo.
 
 Por consiguiente, se deben seguir las siguientes recomendaciones para crear los elementos obligatorios:
  
