@@ -24,6 +24,15 @@ Los datos de fauna que se cargan en las bases de datos geográficas, las cuales 
 QGIS es un _software_ de gestión de información geográfica que se ejecuta en múltiples sistemas operativos como _Linux_, _Unix_, _Mac OSX_, _Windows_ y _Android_. También soporta numerosos formatos y funcionalidades de datos vector, datos ráster y bases de datos. Esta herramienta proporciona una creciente gama de servicios, a través de sus funciones básicas y complementos, para visualizar, gestionar, editar, analizar datos y diseñar mapas imprimibles.
 QGIS es un software libre y de código abierto, licenciado bajo una GNU (_General Public License_) y soportado como un proyecto de la _Open Source Geospatial Foundation_ (OSGeo). Por lo tanto, no requiere el pago de licencias. Adicionalmente, es impulsado por un grupo de voluntarios que mantienen el _software_ actualizado y las versiones estables, lo cual sostiene a QGIS como uno de los _software_ geográficos más conocidos.
 
+**Convenciones**
+
+- Los elementos del estándar *Darwin Core* aparecen en color verde y cursiva. Por ejemplo: <span class="tag is-success is-light"><i>measurementUnit</i></span>.
+- Los archivos a utilizar en los ejercicios se muestran entre comillas angulares, negrita, y tienen una tipografía diferente. Por ejemplo: <FONT FACE="monospace"><b>«archivo_Ejemplo.xls»</b></FONT>.
+- Las secciones, ventanas y componentes de las herramientas utilizadas se muestran entre comillas inglesas y en negrita. Por ejemplo: **"Create Project"**.
+- Las opciones de las herramientas que se asocian a instrucciones (dar clic, seleccionar, etc.) aparecen en color amarillo y cursiva. Por ejemplo: <span class="tag is-warning is-light"><i>New project</i></span>.
+- Las secuencias de instrucciones y pasos se muestran en color amarillo, cursiva y negrita. Por ejemplo: <span class="tag is-warning is-light"><b><i>Paso 1 > Paso 2</i></b></span>.
+- Las líneas que se escriben directamente en las herramientas, para programar o realizar algún proceso en específico, aparecen en formato de código, con una tipografía distinta de color negro. Por ejemplo: <span class="tag is-light"><b>value.replace(" sp.","")</b></span>.
+
 **Requerimientos**
 
 - QGIS (Revisar el proceso de instalación en el primer paso de la guía de [Validación geográfica con QGIS](https://biodiversidad.co/formacion/laboratorios/QGIS#paso-1---instalaci%C3%B3n-de-qgis)).
@@ -32,7 +41,7 @@ QGIS es un software libre y de código abierto, licenciado bajo una GNU (_Genera
 
 **Archivos de trabajo**
 
-- Descargar el [<FONT FACE="monospace"><b>«Archivo comprimido con el _shapefile_ del Transecto»</b></FONT>](https://drive.google.com/file/d/1zcLwMnkEJ_Nhx2jRxC85neVv-0ytFRJs/view?usp=sharing){:target="_blank"}
+- Descargar el [<FONT FACE="monospace"><b>«Archivo comprimido»</b></FONT>](https://drive.google.com/file/d/1zcLwMnkEJ_Nhx2jRxC85neVv-0ytFRJs/view?usp=sharing){:target="_blank"} con el _shapefile_ del transecto.
 
 --------
 
@@ -67,7 +76,7 @@ En la ventana emergente, hacer clic en el botón con los tres puntos (Fig. 3.1).
 Para finalizar, dar clic en <span class="tag is-warning is-light"><i>Añadir</i></span>. Con esto ya se podrán visualizar los transectos del archivo _shapefile_ espacializados en QGIS. (Fig. 3.3)
 
 ![Figura 3.3. Visualización del archivo shapefile en QGIS.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_%20estructuracion-transectos/Fig5_C4Transecto_Vista.png)
-<sup>_Figura 3.3. Visualización del archivo _shapefile_ en QGIS._</sup>
+<sup>_Figura 3.3. Visualización del archivo shapefile en QGIS._</sup>
 
 ## Paso 2 - Exportar las capas de transectos
 
