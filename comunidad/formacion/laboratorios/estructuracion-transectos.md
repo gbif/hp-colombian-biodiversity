@@ -59,7 +59,7 @@ Para cargar los archivos _shapeFile_, seguir la ruta <span class="tag is-warning
 En la ventana emergente, hacer clic en el botón con los tres puntos (Fig. 3.1). Después, en la sección **"Fuente"**, seleccionar el archivo con la terminación .shp que contiene los  transectos y dar clic en <span class="tag is-warning is-light"><i>Abrir</i></span> (Fig. 3.2). 
 
 ![Figura 3.1. Ventana emergente con la opción de selección del archivo shapefile con los puntos de muestreo.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_%20estructuracion-transectos/Fig3_C4Transecto_Seleccion.png)
-<sup>_Figura 3.1. Ventana emergente con la opción de selección del archivo _shapefile_ con los puntos de muestreo._</sup>
+<sup>_Figura 3.1. Ventana emergente con la opción de selección del archivo shapefile con los puntos de muestreo._</sup>
 
 ![Figura 3.2. Selección de los archivos de transectos y polígonos.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_%20estructuracion-transectos/Fig4_C4Transecto_Archivo.png)
 <sup>_Figura 3.2. Selección de los archivos de transectos y polígonos._</sup>
@@ -82,12 +82,13 @@ En la ventana emergente se podrán seleccionar las  opciones para realizar la tr
 - SRC: Hacer clic en el desplegable y seleccionar <span class="tag is-warning is-light"><i>EPSG:4326 - WGS 84</i></span> (Fig. 5C).
 
 <div class="notification is-info is-light">
-  <b>Nota:</b> El formato utilizado es GeoJSON debido a que permite tener nombres de columnas de más de 10 caracteres y así poder poner el nombre completo de algunos elementos <i>Darwin Core</i>.
+  <b>Nota:</b> El formato utilizado es GeoJSON debido a que permite tener nombres de columnas de más de 10 caracteres. Por lo tanto, es posible poner el nombre completo de algunos elementos <i>Darwin Core</i>.
 </div>
 
 Por último, dejar las otras opciones por defecto y dar clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 5D).
 
-![Figura 5. Opciones para exportar el archivo con datum WGS84.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_%20estructuracion-transectos/Fig7_C4Transecto_ExportarJson.png)
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_%20estructuracion-transectos/Fig7_C4Transecto_ExportarJson.png" width=450>
+
 <sup>_Figura 5. Opciones para exportar el archivo con datum WGS84: A. Selección del formato utilizado para exportar los datos, B. Selección del nombre y la ubicación del archivo, C. Selección del sistema de referencia._</sup>
 
 Luego de hacer clic en <span class="tag is-warning is-light"><i>OK</i></span>, QGIS comenzará a realizar el proceso de exportación y el progreso se podrá ver en una barra en la parte inferior. Al finalizar el proceso, aparecerá una nueva capa con el nombre asignado en el paso anterior.
@@ -98,7 +99,7 @@ Luego de hacer clic en <span class="tag is-warning is-light"><i>OK</i></span>, Q
 
 Para documentar la información completa de los transectos, se usa el elemento _Darwin Core_ [<span class="tag is-success is-light"><i>footprintWKT</i></span>](https://biodiversidad.co/compartir/estandar-darwin-core/#footprintWKT), que permite guardar el tipo de geografía y los puntos que la componen.
 
-Para obtener esta información en QGIS, lo ideal es sacar provecho de la calculadora de campos: Dar clic derecho en la nueva capa que creó (<span class="tag is-warning is-light"><i>TransectoWGS84</i></span>) y seleccionar la opción <span class="tag is-warning is-light"><i>Abrir la tabla de atributos</i></span>.
+Para obtener esta información en QGIS, lo ideal es sacar provecho de la calculadora de campos: Dar clic derecho en la nueva capa (<span class="tag is-warning is-light"><i>TransectoWGS84</i></span>) y seleccionar la opción <span class="tag is-warning is-light"><i>Abrir la tabla de atributos</i></span>.
 
 Al interior de la tabla de atributos, buscar el icono del ábaco en la barra de herramientas de la parte superior (Fig. 6).
 
@@ -185,12 +186,13 @@ En la ventana emergente, seleccionar las siguientes opciones:
 
 Dejar las otras opciones por defecto y dar clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 10).
 
-![Figura 10. Opciones para exportar el archivo de transectos como un archivo de Excel.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_%20estructuracion-transectos/Fig12_C4Transecto_ExportarExcel.png)
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_%20estructuracion-transectos/Fig12_C4Transecto_ExportarExcel.png" width=450>
+
 <sup>_Figura 10. Opciones para exportar el archivo de transectos como un archivo de Excel._</sup>
 
 ## Paso 5 - Calcular la incertidumbre de las coordenadas en metros
 
-Para finalizar, se debe calcular la incertidumbre de la coordenada documentada en los elementos <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span> con respecto al total del transecto. Esta incertidumbre es una distancia que permite asociar un área que cubre la totalidad del recorrido del transecto. Para ello, es necesario abrir el documento <FONT FACE="monospace"><b>«TransectoDwC.xlsx»</b></FONT>.
+Para finalizar, se debe calcular la incertidumbre de la coordenada documentada en los elementos <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span> con respecto al total del transecto. Esta incertidumbre es una distancia que permite asociar un área que cubre la totalidad del recorrido del transecto. Para ello, es necesario abrir el documento <FONT FACE="monospace"><b>«TransectoDwC.xlsx»</b></FONT>
 y crear una nueva columna al final del archivo que se llame **"coordinateUncertaintyInMeters"**.
 
 En la parte superior de QGIS, seleccionar la herramienta <span class="tag is-warning is-light"><i>Medir línea</i></span>, que tiene forma de regla (Fig. 11). Posteriormente, hacer clic en el centro corregido al interior del transecto (Fig. 11A) y llevar el puntero hasta el extremo más lejano del transecto (Fig. 11B). La distancia entre ambos puntos se muestra en el recuadro de la sección **"Medir"**, junto a la unidad de medida (Fig. 11).
@@ -211,6 +213,7 @@ Descarga y compara el siguiente archivo, que contiene los transectos representad
 **¡Felicitaciones!**
 
 Se han extraído las coordenadas y la información para representar transectos en el estándar _Darwin Core_.
+
 ****
 
 **Citación**
