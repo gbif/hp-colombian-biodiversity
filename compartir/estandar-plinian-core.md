@@ -4,7 +4,7 @@ title: Estándar Plinian Core
 description: Información estandarizada sobre las especies
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/248152389/large.jpeg
 imageLicense: |
-  _Sula leucogaster_ Fotografía de: A.Davey via [Flickr](https://flic.kr/p/22dCn2h)
+  _Zenithoptera lanei_ Fotografía de: Abby Darrah via [iNaturalist](https://www.inaturalist.org/observations/144569988)
 height: 41vh
 permalink: /estandar-plinian-core/
 ---
