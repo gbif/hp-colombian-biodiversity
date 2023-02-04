@@ -20,7 +20,7 @@ tarjetas:
     - title: EML # required
       description: |      # required
        El estándar de los metadatos
-      background: /comunidad/proyectos/images/proyectos-cesp.png
+      background: https://inaturalist-open-data.s3.amazonaws.com/photos/246681697/large.jpeg
       cta:
       - text: Ver más
         href: /estandar-eml/
@@ -31,7 +31,7 @@ tarjetas:
       description: |      # required
        Información estandarizada sobre las especies
       # img required
-      background: /comunidad/proyectos/images/proyectos-bid-caribe2020.png
+      background: https://inaturalist-open-data.s3.amazonaws.com/photos/248152389/large.jpeg
       cta:
       - text: Ver más
         href: /estandar-plinian-core/
