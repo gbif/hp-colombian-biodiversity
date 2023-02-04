@@ -2,12 +2,11 @@
 layout: heroImage
 title: Estándar Plinian Core
 description: Información estandarizada sobre las especies
-background: https://live.staticflickr.com/4688/38867942014_c05053282c_b.jpg
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/248152389/large.jpeg
 imageLicense: |
   _Sula leucogaster_ Fotografía de: A.Davey via [Flickr](https://flic.kr/p/22dCn2h)
 height: 41vh
 permalink: /estandar-plinian-core/
-toc: true
 ---
 
 Hay muchos sitios que comparten información sobre las especies o taxones, sus descripciones, aspectos biológicos, planes de conservación, distribución, demografía, nomenclatura, entre otras. Sin embargo, mantener dicha información interoperable entre diferentes sistemas de información ha sido un reto que los estándares buscan resolver.  Es por ello que para la publicación de información sobre las especies, desde el SiB Colombia adoptamos el estándar [Plinian Core (PliC)](https://github.com/tdwg/PlinianCore){:target="_blank"}. Este estándar está desarrollado por un grupo de trabajo en TDWG que busca establecer un mecanismo para describir diferentes aspectos de la biología de un espécimen, incluyendo todas las propiedades bióticas y abióticas que se relacionan con el mismo, de una forma estructurada y estandarizada. (Grupo de trabajo para el desarrollo del estándar Plinian Core, 2017).
@@ -40,5 +39,5 @@ Enlaces para conocer más sobre este estándar:
 
 *Referencias*
 
-Grupo de trabajo para el desarrollo del estándar Plinian Core, 2017, GBIF España. Disponible en:  https://www.gbif.es/proyecto/plinian-core/, Fecha de consulta: 2022-11-24.
+Grupo de trabajo para el desarrollo del estándar Plinian Core, 2017, GBIF España. Disponible en:  [https://www.gbif.es/proyecto/plinian-core/](https://www.gbif.es/proyecto/plinian-core/){:target="_blank"}, Fecha de consulta: 2022-11-24.
 
