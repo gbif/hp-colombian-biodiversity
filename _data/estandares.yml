@@ -1,0 +1,38 @@
+#cards
+tarjetas:
+  # title: Ejes de formación
+  # description: Ejes de formación:
+    
+  features:
+      #preTitle:  Listado # optional
+    - title: Darwin Core
+      description: |      # required
+       El estándar para la publicación de datos sobre biodiversidad
+      # img required
+      background: /comunidad/proyectos/images/proyectos-nacionales.png
+      cta:
+      - text: Ver más
+        href: /estandar-darwin-core/
+        isPrimary: true    
+      
+      
+     #preTitle: Listado  # optional
+    - title: EML # required
+      description: |      # required
+       El estándar de los metadatos
+      background: /comunidad/proyectos/images/proyectos-cesp.png
+      cta:
+      - text: Ver más
+        href: /estandar-eml/
+        isPrimary: true
+      
+     #preTitle:  Listado # optional
+    - title: Plinian Core
+      description: |      # required
+       Información estandarizada sobre las especies
+      # img required
+      background: /comunidad/proyectos/images/proyectos-bid-caribe2020.png
+      cta:
+      - text: Ver más
+        href: /estandar-plinian-core/
+        isPrimary: true   
