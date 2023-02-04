@@ -5,7 +5,6 @@ description: Los estándares para compartir datos e información son un elemento
 background: https://live.staticflickr.com/4438/36979624526_78c0abc66d_b.jpg
 imageLicense: |
   Corales de Providencia Fotografía de: Waywuwei vía [Flickr](https://flic.kr/p/YkLf2d)
-toc: true
 height: 41vh
 composition:
   - type: heroImage # the block type
@@ -24,27 +23,3 @@ Los estándares funcionan como un modelo o patrón de referencia para vincular i
 La lista de estándares sobre biodiversidad que ha desarrollado TDWG es amplia. Algunos se encuentran bajo evaluación y en proceso de admisión por parte de los países y grupos participantes; otros perdieron vigencia y fueron reemplazados por estándares nuevos o recibieron mejoras con el pasar de los años para contar con lineamientos claros y robustos. En ciertos casos, se realiza la incorporación o eliminación de conceptos que permiten que cada estándar llene las expectativas de los actores que los usan, siendo consensuados por las comunidades de expertos de TDWG en temas de informática de la biodiversidad y muchas otras disciplinas.
 
 Actualmente, el SiB Colombia adopta y promueve el uso de tres estándares para la estructuración, integración, intercambio y publicación de datos e información a través de sus plataformas en línea, los cuales se dan a conocer a continuación:
-
-
-___
-
-## Darwin Core
-El estándar **Darwin Core** (DwC) ofrece un marco estable, sencillo y flexible para consolidar datos sobre biodiversidad procedentes de diferentes fuentes. La mayoría de los conjuntos de datos compartidos a través del SiB Colombia se publican utilizando el formato *Darwin Core Archive (DwC-A)*.
-
-- [Conoce más sobre el Darwin Core](https://www.gbif.org/es/darwin-core){:target="_blank"}.
-- [Conoce más en el Ciclo de formación](https://youtu.be/nYGu8KY_K6U){:target="_blank"}.
-- [Explora el Manual Darwin Core de OBIS](https://obis.org/manual/){:target="_blank"}.
-- [Conoce los elementos del Darwin Core (a través de la Wiki de Gcube)](https://gcube.wiki.gcube-system.org/gcube/Darwin_Core_Terms){:target="_blank"}.
-- [Conoce los diferentes plantillas Darwin Core](/recursos/plantillas-dwc).
-
-___
-
-## EML
-
-**EML** o Ecological Metadata Language, es un estándar para metadatos que consolida información sobre conjuntos de datos ecológicos en una serie de documentos XML modulares y extensibles. Todas las descripciones de los conjuntos de datos disponibles a través del SiB Colombia se basan en ‘metadatos’ —es decir, la información sobre los datos— y utilizan el estándar **EML** de código abierto, que administra y mantiene The Knowledge Network for Biocomplexity.
-
- 
-Cada *Darwin Core Archive* incluye como uno de sus componentes un archivo **EML** (escrito en formato XML), que contiene un perfil específico para estos conjuntos de datos. Este perfil del EML es conocido como **Perfil de Metadatos de GBIF** o **GMP** (GBIF *Metadata Profile*)
-
-- [Conoce más sobre el EML](https://eml.ecoinformatics.org/){:target="_blank"}.
-- [Conoce más sobre el GMP, Perfil de Metadatos de GBIF](https://github.com/gbif/ipt/wiki/GMPHowToGuide){:target="_blank"}.
