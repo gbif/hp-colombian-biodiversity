@@ -1,13 +1,12 @@
 ---
 layout: heroImage
-title: Estándar EML
+title: _Ecological Metadata Language_ - EML
 description: El estándar de los metadatos
-background: https://live.staticflickr.com/4688/38867942014_c05053282c_b.jpg
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/246681697/large.jpeg
 imageLicense: |
   _Sula leucogaster_ Fotografía de: A.Davey via [Flickr](https://flic.kr/p/22dCn2h)
 height: 41vh
 permalink: /estandar-eml/
-toc: true
 ---
 
 Para facilitar la interpretación de los datos y poderlos categorizar, organizar y publicar con un contexto adecuado, estos se acompañan con una serie de metadatos, comúnmente definidos como los datos sobre los datos. Por ejemplo, gracias a los metadatos es posible rastrear el uso de los datos y dar correcta atribución a sus autores. Los metadatos también requieren de un estándar para lograr una documentación estable y organizada. Por consiguiente, la publicación de datos a partir de la herramienta de publicación IPT (_Integrated Publishing Toolkit_), desarrollada por GBIF, adopta el [estándar EML](https://eml.ecoinformatics.org/){:target="_blank"}(Ecological Metadata Language) y lo adapta en el [GMP](https://www.google.com/url?q=https://www.gbif.org/sites/default/files/gbif_resource/resource-80640/gbif_metadata_profile_guide_en_v1.pdf&sa=D&source=docs&ust=1675484029146074&usg=AOvVaw2zt8OblrIbv8WVYMcCJqfy){:target="_blank"} (_GBIF Metadata Profile_).
