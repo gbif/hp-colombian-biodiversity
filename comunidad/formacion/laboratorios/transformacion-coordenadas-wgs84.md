@@ -123,7 +123,8 @@ En el caso de [SuMapa.com](http://SuMapa.com){:target="_blank"}, es necesario re
 
 Seleccionar <span class="tag is-warning is-light"><i>WGS84</i></span> como sistema de destino y <span class="tag is-warning is-light"><i>Grados decimales</i></span> como formato de salida. Después, se deben pegar las coordenadas de longitud y latitud de los datos en el recuadro amarillo, separándolas por un espacio. Por último, dar clic en <span class="tag is-warning is-light"><i>Convertir</i></span> (Fig. 6).
 
-![Figura 6. Opciones utilizadas en la calculadora geodésica de SuMapa.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig8_C4Coordenadas_Magna.png)
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig8_C4Coordenadas_Magna.png" width=500>
+
 <sup>_Figura 6. Opciones utilizadas en la calculadora geodésica de SuMapa._</sup>
 
 Después de obtener el resultado de las coordenadas en WGS84, se recomienda ponerlas en [Google Maps](https://www.google.com/maps) o algún otro servicio de visualización para verificar que los datos caen en el sitio correcto o el descrito en los datos. Si hay coincidencia, el SRC de los datos es correcto; de lo contrario, se deberá cambiar el parámetro de Sistema de Origen en la herramienta hasta que tenga sentido. 
@@ -159,10 +160,11 @@ En la ventana emergente aparecen diferentes opciones de exportación. Para reali
 
 Dejar las otras opciones por defecto y hacer clic en <span class="tag is-warning is-light"><i>OK</i></span>.
 
-![Figura 9. Opciones para exportar el archivo con el nuevo datum.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig11_C4Coordenadas_OpcionesExportar.png)
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig11_C4Coordenadas_OpcionesExportar.png" width=450>
+
 <sup>_Figura 9. Opciones para exportar el archivo con el nuevo datum: A. Selección del formato utilizado para exportar los datos, B. Selección del nombre y la ubicación del archivo, C. Selección del sistema de referencia._</sup>
 
-Al hacer clic en <span class="tag is-warning is-light"><i>OK</i></span>, QGIS  realizará el proceso de exportación. Este proceso puede tardar uno o dos minutos dependiendo del volumen de los datos y la complejidad de la capa.
+Al hacer clic en <span class="tag is-warning is-light"><i>OK</i></span>, QGIS realizará el proceso de exportación. Este proceso puede tardar uno o dos minutos dependiendo del volumen de los datos y la complejidad de la capa.
 
 <div class="notification is-info is-light">
   <b>Nota:</b> Si aparece una caja de diálogo denominada <b>"Seleccionar transformación para…[Nombre de la capa]"</b>, se debe hacer clic en <span class="tag is-warning is-light"><i>Cancelar</i></span>.
@@ -215,7 +217,8 @@ En la ventana emergente,  seleccionar las siguientes opciones:
 
 Por último, dejar las otras opciones por defecto y dar clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 12).
 
-![Figura 12. Opciones para exportar el archivo de transectos como un archivo excel.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig14_C4Coordenadas_ExportarExcel.png)
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig14_C4Coordenadas_ExportarExcel.png" width=450>
+
 <sup>_Figura 12. Opciones para exportar el archivo de transectos como un archivo excel: A. Selección del formato utilizado para exportar los datos, B. Selección del nombre y la ubicación del archivo._</sup>
 
 ## Paso 6 - Verificación del resultado
