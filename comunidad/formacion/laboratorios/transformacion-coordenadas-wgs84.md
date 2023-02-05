@@ -165,66 +165,68 @@ Dejar las otras opciones por defecto y hacer clic en <span class="tag is-warning
 Al hacer clic en <span class="tag is-warning is-light"><i>OK</i></span>, QGIS  realizará el proceso de exportación. Este proceso puede tardar uno o dos minutos dependiendo del volumen de los datos y la complejidad de la capa.
 
 <div class="notification is-info is-light">
-  <b>Nota:</b> Si aparece una caja de diálogo denominada **"Seleccionar transformación para…[Nombre de la capa]"**, se debe hacer clic en <span class="tag is-warning is-light"><i>Cancelar</i></span>.
+  <b>Nota:</b> Si aparece una caja de diálogo denominada <b>"Seleccionar transformación para…[Nombre de la capa]"</b>, se debe hacer clic en <span class="tag is-warning is-light"><i>Cancelar</i></span>.
 </div>
 
 ## Paso 4 - Obtención de las coordenadas decimales WGS84
 
-Con el fin de  visualizar las coordenadas resultado de la transformación, hay que usar la calculadora de campos. Para esto, hacer clic derecho en la capa que creó PuntoMuestreoWGS84 y seleccionar la opción _Abrir tabla de atributos_.
+Con el fin de  visualizar las coordenadas resultado de la transformación, hay que usar la calculadora de campos. Para esto, hacer clic derecho en la capa que se creó (**"PuntoMuestreoWGS84"**) y seleccionar la opción <span class="tag is-warning is-light"><i>Abrir tabla de atributos</i></span>.
 
 Al interior de la tabla de atributos, buscar el icono del ábaco en la barra de herramientas de la parte superior (Fig. 10).
 
 ![Figura 10.  Apertura de la calculadora de campos.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig12_C4Coordenadas_Tabla.png)
-<sup>_Figura 10.  Apertura de la calculadora de campos._</sup>
+<sup>_Figura 10. Apertura de la calculadora de campos._</sup>
 
 En la ventana emergente aparecen las opciones para crear un nuevo campo. Este proceso se debe realizar dos veces, una para visualizar la longitud y otra para la latitud.
 
-En la calculadora de campos, configurar las siguientes opciones para la longitud inicial y al dar clic en OK:
+En la calculadora de campos, configurar las siguientes opciones para la longitud inicial y al dar clic en <span class="tag is-warning is-light"><i>OK</i></span>:
 
-- Nombre del campo de salida: decimalLongitude.
-- Tipo del campo de salida: Número decimal (real).
-- Longitud del campo de salida: 10.
-- Precisión: 6.
-- Expresión: $x.
+- Nombre del campo de salida: <span class="tag is-light"><b>decimalLongitude</b></span>.
+- Tipo del campo de salida: <span class="tag is-warning is-light"><i>Número decimal (real)</i></span>.
+- Longitud del campo de salida: <span class="tag is-light"><b>10</b></span>.
+- Precisión: <span class="tag is-light"><b>6</b></span>.
+- Expresión: <span class="tag is-light"><b>$x</b></span>.
 
 ![Figura 11. Selección de opciones para crear la nueva columna con la visualización de la longitud decimal.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig13_C4Coordenadas_Calculadora.png)
 <sup>_Figura 11. Selección de opciones para crear la nueva columna con la visualización de la longitud decimal: A. Selección del nombre del nuevo campo, B. Selección del tipo de dato, C. Selección de la longitud del campo, D. Selección del número de decimales, E. Fórmula utilizada para crear el campo._</sup>
 
 Luego de haber creado exitosamente este elemento, abrir nuevamente la calculadora de campos y configurar las siguientes opciones para la latitud inicial:
 
-- Nombre del campo de salida: decimalLatitude.
-- Tipo del campo de salida: Número decimal (real).
-- Longitud del campo de salida: 10.
-- Precisión: 6.
-- Expresión: $y.
+- Nombre del campo de salida: <span class="tag is-light"><b>decimalLatitude</b></span>.
+- Tipo del campo de salida: <span class="tag is-warning is-light"><i>Número decimal (real)</i></span>.
+- Longitud del campo de salida: <span class="tag is-light"><b>10</b></span>.
+- Precisión: <span class="tag is-light"><b>6</b></span>.
+- Expresión: <span class="tag is-light"><b>$y</b></span>.
 
-**Nota**: Si se requieren las  coordenadas decimales para varios archivos, se recomienda seguir la ruta _Vectorial > Herramientas para gestión de datos > Combinar capas vectoriales…_ antes de realizar la exportación.
+<div class="notification is-info is-light">
+  <b>Nota:</b> i se requieren las  coordenadas decimales para varios archivos, se recomienda seguir la ruta <span class="tag is-warning is-light"><b><i>Vectorial > Herramientas para gestión de datos > Combinar capas vectoriales…</i></b></span> antes de realizar la exportación.
+</div>
 
-Este paso da como resultado una capa con dos nuevas columnas donde se pueden ver las coordenadas decimales en WGS84.
+Este paso da como resultado una capa con dos nuevas columnas, donde se pueden ver las coordenadas decimales en WGS84.
 
 ## Paso 5 - Exportar el resultado final en archivo de texto
 
-El último paso es exportar el resultado de la transformación en un nuevo archivo. Para esto, dar clic derecho sobre la capa PuntoMuestreoWGS84 y seguir la opción Exportar>Guardar objetos como…
+El último paso es exportar el resultado de la transformación en un nuevo archivo. Para esto, dar clic derecho sobre la capa **"PuntoMuestreoWGS84"** y seguir la opción <span class="tag is-warning is-light"><b><i>Exportar>Guardar objetos como…</i></b></span>.
 
 En la ventana emergente,  seleccionar las siguientes opciones:
 
-- Formato: Dar clic en el desplegable y seleccionar XLSX  (Fig. 12A).
-- Nombre de archivo: Dar clic en el botón con los tres puntos y seleccionar la ubicación y el nombre que le va a dar al archivo: **PuntoMuestreoWGS84.xlsx** (Fig. 12B).
+- Formato: Dar clic en el desplegable y seleccionar <span class="tag is-warning is-light"><i>XLSX</i></span> (Fig. 12A).
+- Nombre de archivo: Dar clic en el botón con los tres puntos y seleccionar la ubicación y el nombre que le va a dar al archivo: <span class="tag is-light"><b>PuntoMuestreoWGS84.xlsx</b></span> (Fig. 12B).
 
-Por último, dejar las otras opciones por defecto y dar clic en OK (Fig. 12).
+Por último, dejar las otras opciones por defecto y dar clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 12).
 
 ![Figura 12. Opciones para exportar el archivo de transectos como un archivo excel.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig14_C4Coordenadas_ExportarExcel.png)
 <sup>_Figura 12. Opciones para exportar el archivo de transectos como un archivo excel: A. Selección del formato utilizado para exportar los datos, B. Selección del nombre y la ubicación del archivo._</sup>
 
 ## Paso 6 - Verificación del resultado
 
-Compara los resultados con el siguiente archivo [PuntoMuestreoWGS84.xlsx](https://docs.google.com/spreadsheets/d/1MLaxEqk67YbnZLUdPqynjCcsbylDMTWg/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}, corroborando que se obtuvieron las mismas coordenadas. ¿Qué diferencias hay entre el archivo de referencia y los resultados?
+Compara los resultados con el siguiente archivo [<FONT FACE="monospace"><b>«PuntoMuestreoWGS84.xlsx»</b></FONT>](https://docs.google.com/spreadsheets/d/1MLaxEqk67YbnZLUdPqynjCcsbylDMTWg/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} para corroborar que se obtuvieron las mismas coordenadas. ¿Qué diferencias hay entre el archivo de referencia y los resultados?
 
 
 ****
 **¡Felicitaciones!**
 
-Has obtenido las coordenadas decimales a partir de una capa geográfica proyectada en MAGNA SIRGAS / CTM-12.
+Se han obtenido las coordenadas decimales a partir de una capa geográfica proyectada en MAGNA SIRGAS / CTM-12.
 
 ****
 
@@ -232,13 +234,3 @@ Has obtenido las coordenadas decimales a partir de una capa geográfica proyecta
 
 > Marentes E., Ortíz R., Lozano J., Plata C. (2023). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
 > 
-
-
-
-
-
-
-
-
-
-
