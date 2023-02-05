@@ -7,7 +7,6 @@ imageLicense: |
   _Sula leucogaster_ Fotografía de: A.Davey via [Flickr](https://flic.kr/p/22dCn2h)
 height: 41vh
 permalink: /estandar-darwin-core/
-toc: true
 ---
 
 
