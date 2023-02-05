@@ -1,10 +1,10 @@
 ---
 layout: heroImage
-title: _Ecological Metadata Language_ - EML
+title: Ecological Metadata Language - EML
 description: El estándar de los metadatos
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/246681697/large.jpeg
 imageLicense: |
-  _Sula leucogaster_ Fotografía de: A.Davey via [Flickr](https://flic.kr/p/22dCn2h)
+  _Hamadryas amphinome_ Fotografía de: Christoph Moning  via [iNaturalist](https://www.inaturalist.org/observations/143800131)
 height: 41vh
 permalink: /estandar-eml/
 ---
