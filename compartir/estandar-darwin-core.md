@@ -6,7 +6,7 @@ background: https://inaturalist-open-data.s3.amazonaws.com/photos/239910960/larg
 imageLicense: |
   _Sula leucogaster_ Fotografía de: A.Davey via [Flickr](https://flic.kr/p/22dCn2h)
 height: 41vh
-permalink: /estandar-eml/
+permalink: /estandar-darwin-core/
 toc: true
 ---
 
