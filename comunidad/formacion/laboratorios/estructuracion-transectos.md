@@ -159,7 +159,7 @@ Para el elemento <span class="tag is-success is-light"><i>decimalLongitude</i></
 - Precisión: <span class="tag is-light"><b>6</b></span>.
 - Expresión: <span class="tag is-light"><b>x ( $geometry)</b></span>.
 
-Para el elemento <span class="tag is-success is-light"><i>decimalLongitude</i></span>, se recomienda utilizar estas opciones:
+Para el elemento <span class="tag is-success is-light"><i>decimalLatitude</i></span>, se recomienda utilizar estas opciones:
 - Nombre del campo de salida: <span class="tag is-light"><b>decimalLatitude</b></span>.
 - Tipo del campo de salida: <span class="tag is-warning is-light"><i>Número decimal (real)</i></span>.
 - Longitud del campo de salida: <span class="tag is-light"><b>10</b></span>.
