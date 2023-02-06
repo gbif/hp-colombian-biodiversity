@@ -12,6 +12,9 @@ permalink: /estandar-darwin-core/
 
 Siguiendo las recomendaciones y acciones a nivel global, el modelo de publicación del SiB Colombia implementa el Darwin Core debido a su filosofía de fácil uso, lo que ha permitido adaptarlo a las necesidades nacionales de múltiples organizaciones que comparten sus datos sobre biodiversidad a través del sistema. El principio fundamental de este estándar es tener un lenguaje común para referirse a los diferentes componentes que puede tener un dato sobre biodiversidad, casi como aprender un nuevo idioma universalmente aceptado para hablar del nombre científico, el colector, la fecha, entre otros.
 
+[Documentación en línea] (https://biodiversidad.co/compartir/estandar-darwin-core/){: .button .is-primary} [Plantillas Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc){: .button} 
+
+
 El estándar consiste en una serie de términos o elementos que tiene asociada una definición semántica fácilmente reconocible por personas y por máquinas, de forma que sea interpretable para asociar a cada término los datos que mejor se ajustan a su definición (Darwin Core Task Group, 2022). Estos términos se agrupan en clases o categorías para facilitar la navegación entre sus más de 180 definiciones, estas categorías son: 
 
 
@@ -31,9 +34,8 @@ Adicionalmente, existen extensiones que se pueden asociar principalmente al core
 
 Estas definiciones son administradas y mantenidas por  TDWG, específicamente por el Darwin Core maintenance group en el sitio web oficial (Darwin Core Task Group, 2022). Sin embargo, desde el EC-SiB hemos realizado un esfuerzo por hacer más accesible esta documentación y superar las posibles barreras del idioma. Por tal motivo, disponemos en nuestro sitio web (biodiversidad.co) de una documentación adaptada en la que se pueden encontrar todos los elementos definidos en español y con ejemplos aterrizados al contexto nacional para facilitar la interpretación y uso del estándar:
 
-Botón [Documentación en línea] https://biodiversidad.co/compartir/estandar-darwin-core/
-Botón [Conoce las Plantillas DwC] https://biodiversidad.co/recursos/plantillas-dwc
- 
+* [Documentación en línea](https://biodiversidad.co/compartir/estandar-darwin-core/)
+* [Plantillas Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc)
 
 El estándar Darwin Core (DwC) permite la consolidación de datos sobre biodiversidad para compartir, usar y reusar la información de manera organizada, clara y completa a través de un marco estable, sencillo y flexible para consolidar datos sobre biodiversidad procedentes de diferentes fuentes. 
 Los datos publicados bajo el estándar se comparten en el formato Darwin Core Archive (DwC-A), que es el formato de archivo de intercambio de datos más utilizado en la red GBIF y consiste en un archivo comprimido que contiene:
