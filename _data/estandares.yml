@@ -9,7 +9,7 @@ tarjetas:
       description: |      # required
        El estándar para la publicación de datos sobre biodiversidad
       # img required
-      background: /comunidad/proyectos/images/proyectos-nacionales.png
+      background: https://inaturalist-open-data.s3.amazonaws.com/photos/251009487/large.jpg
       cta:
       - text: Ver más
         href: /estandar-darwin-core/
