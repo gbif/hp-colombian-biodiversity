@@ -2,7 +2,7 @@
 layout: heroImage
 title: Darwin Core - DwC
 description: Estándar internacional para el manejo de datos sobre biodiversidad
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/244499464/large.jpeg
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/251009487/large.jpg
 imageLicense: |
   _Sula leucogaster_ Fotografía de: A.Davey via [Flickr](https://flic.kr/p/22dCn2h)
 height: 41vh
