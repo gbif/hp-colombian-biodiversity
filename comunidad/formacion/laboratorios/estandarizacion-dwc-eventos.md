@@ -32,10 +32,9 @@ Para realizar este ejercicio, es necesario contar con un programa que procese ar
 
 **Archivo de trabajo**
 
-- Descargar el archivo [<FONT FACE="monospace"><b>«Datos_CasoEmpresa_20reg»</b></FONT>](https://docs.google.com/spreadsheets/d/1o5I_5mVrtaKhwNMZRhGVLP2vQY9-wXH1/edit#gid=97635514){:target="_blank"} para realizar
 - Descargar el archivo [<FONT FACE="monospace"><b>«Datos_Eventos_20_Registros»</b></FONT>](https://docs.google.com/spreadsheets/d/1Z09ilRuLsnQZO93Fm7aBUeslaDXfoI07/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} para realizar el laboratorio.
 - Descargar la última versión de la [<FONT FACE="monospace"><b>«Plantilla de publicación de eventos de muestreo»</b></FONT>](https://biodiversidad.co/recursos/plantillas-dwc/#eventos-de-muestreo){:target="_blank"}
-- Descargar la última versión de la [<FONT FACE="monospace"><b>«Plantilla de publicación de registros biológicos»</b></FONT>](https://biodiversidad.co/recursos/plantillas-dwc/#eventos-de-muestreo){:target="_blank"}
+- Descargar la última versión de la [<FONT FACE="monospace"><b>«Plantilla de publicación de registros biológicos»</b></FONT>](https://biodiversidad.co/recursos/plantillas-dwc/#registros-biológicos){:target="_blank"}
 
 --------
 
@@ -51,11 +50,11 @@ Tu misión en este laboratorio es estructurar los eventos de muestreo de la empr
 Para facilitar la realización de este laboratorio, los registros biológicos ya están estructurados en el estándar _Darwin Core_. Para conocer el proceso de estandarización de observaciones, revisa los siguiente enlaces:
 
 - [Estandarización de datos en _Darwin Core_](https://biodiversidad.co/formacion/laboratorios/DWC){:target="_blank"}
-- [Estandarización de datos en _Darwin Core_ del sector empresarial](https://biodiversidad.co/formacion/laboratorios/estandarizacion-darwincore-empresas){:target="_blank"}
+- [Estandarización de datos en _Darwin Core_ del sector empresarial](https://biodiversidad.co/formacion/laboratorios/estandarizacion-dwc-empresas){:target="_blank"}
 
 ## Paso 2 - Mapeo de los datos 
 
-Descargar y abrir el archivos de trabajo[<FONT FACE="monospace"><b>«Datos_CasoEmpresa_20reg»</b></FONT>](https://docs.google.com/spreadsheets/d/1o5I_5mVrtaKhwNMZRhGVLP2vQY9-wXH1/edit#gid=97635514){:target="_blank"} y la [<FONT FACE="monospace"><b>«Plantilla de publicación de eventos de muestreo»</b></FONT>](https://biodiversidad.co/recursos/plantillas-dwc/#eventos-de-muestreo){:target="_blank"}
+Descargar y abrir el archivos de trabajo [<FONT FACE="monospace"><b>«Datos_Eventos_20_Registros»</b></FONT>](https://docs.google.com/spreadsheets/d/1Z09ilRuLsnQZO93Fm7aBUeslaDXfoI07/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} y la [<FONT FACE="monospace"><b>«Plantilla de publicación de eventos de muestreo»</b></FONT>](https://biodiversidad.co/recursos/plantillas-dwc/#eventos-de-muestreo){:target="_blank"}
 
 Revisar detenidamente el nombre y contenido de cada columna de la hoja de **"Eventos"** del archivo [<FONT FACE="monospace"><b>«Datos_Eventos_20_Registros»</b></FONT>](https://docs.google.com/spreadsheets/d/1Z09ilRuLsnQZO93Fm7aBUeslaDXfoI07/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} e identificar a qué elemento DwC de la plantilla de publicación corresponde. Este proceso recibe el nombre de mapeo de datos. 
 
