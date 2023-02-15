@@ -84,7 +84,7 @@ Crear los elementos obligatorios faltantes en la plantilla de publicación a par
 2. En este caso es posible usar la coordenada inicial del transecto para las coordenadas decimales. En la sección de [**Preguntas frecuentes**](https://biodiversidad.co/compartir/faq/#est%C3%A1ndar-darwin-core){:target="_blank"}, se enlistan las opciones para resolver estos casos.
 
 <div class="notification is-info is-light">
-  <b>Nota:</b> La extensión <b>Permisos GGBN</b>, que es obligatoria para este tipo de datos, se aborda en la  guía <b>“Estandarización de información asociada a permisos de recolección”</b>, pero su documentación no es obligatoria para el desarrollo de esta guía.
+  <b>Nota:</b> La extensión <b>Permisos GGBN</b>, que es obligatoria para este tipo de datos, se aborda en la  guía <b>“<a href="https://biodiversidad.co/formacion/laboratorios/extensiones-dwc-permisos">Estandarización de información asociada a permisos de recolección</a>”</b>, pero su documentación no es obligatoria para el desarrollo de esta guía.
 </div>
 
 ## Paso 5 - Ajustar los datos  
