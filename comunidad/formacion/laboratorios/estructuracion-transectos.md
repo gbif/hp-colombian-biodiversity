@@ -94,7 +94,7 @@ En la ventana emergente se podrán seleccionar las  opciones para realizar la tr
   <b>Nota:</b> El formato utilizado es GeoJSON debido a que permite tener nombres de columnas de más de 10 caracteres. Por lo tanto, es posible poner el nombre completo de algunos elementos <i>Darwin Core</i>.
 </div>
 
-Por último, dejar las otras opciones por defecto y dar clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 5D).
+Por último, dejar las otras opciones por defecto y dar clic en <span class="tag is-warning is-light"><i>OK</i></span> (Fig. 5).
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_%20estructuracion-transectos/Fig7_C4Transecto_ExportarJson.png" width=450>
 
@@ -187,7 +187,7 @@ Luego de haber creado exitosamente este elemento, abrir de nuevo la calculadora 
 
 ## Paso 4 - Exportar los transectos a archivos de texto
 
-Para realizar la exportación de los resultados obtenidos hasta ahora, es necesario hacer clic derecho sobre la capa **"Geometría ajustada"** y seguir la ruta <span class="tag is-warning is-light"><b><i>Exportar>Guardar objetos como…r</i></b></span>. 
+Para realizar la exportación de los resultados obtenidos hasta ahora, es necesario hacer clic derecho sobre la capa **"Geometría ajustada"** y seguir la ruta <span class="tag is-warning is-light"><b><i>Exportar>Guardar objetos como…</i></b></span>. 
 
 En la ventana emergente, seleccionar las siguientes opciones:
 - Formato: Dar clic en el desplegable y elegir <span class="tag is-warning is-light"><i>XLSX</i></span> (Fig. 10A).
@@ -197,7 +197,7 @@ Dejar las otras opciones por defecto y dar clic en <span class="tag is-warning i
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_%20estructuracion-transectos/Fig12_C4Transecto_ExportarExcel.png" width=450>
 
-<sup>_Figura 10. Opciones para exportar el archivo de transectos como un archivo de Excel._</sup>
+<sup>_Figura 10. Opciones para exportar el archivo de transectos como un archivo de Excel: A. Selección del formato utilizado para exportar los datos, B. Selección del nombre y la ubicación del archivo._</sup>
 
 ## Paso 5 - Calcular la incertidumbre de las coordenadas en metros
 
