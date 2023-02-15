@@ -41,7 +41,7 @@ Para realizar este ejercicio, es necesario contar con un programa que procese ar
 
 ## Paso 1 - Caso de estudio 
 
->La empresa ambiental Buenaventura Consultores ABC quiere publicar los registros biológicos asociados a los eventos de monitoreo que se realizaron a lo largo del año. Estos registros han sido obtenidos a través de permisos de exportación, permisos para la recolección de especímenes de especies silvestre y contratos de acceso a recursos genéticos, todos **vigentes** y otorgados por diferentes autoridades. 
+>La empresa Ambiental Buenaventura Consultores (ABC) quiere publicar los registros biológicos asociados a los eventos de monitoreo que se realizaron a lo largo del año. Estos registros han sido obtenidos a través de permisos de exportación, permisos para la recolección de especímenes de especies silvestre y contratos de acceso a recursos genéticos, todos **vigentes** y otorgados por diferentes autoridades. 
 Como parte de los requerimientos para obtener el certificado de reporte a través del SiB Colombia y poder reportarlo a las autoridades que lo requieran, la empresa documentó esta información en un archivo adicional para asociar cada colecta realizada con su respectivo permiso.
 
 Tu misión  en este laboratorio es estructurar los datos de los permisos, utilizando la extensión **Permisos GGBN** (_GGBN Permit Extension_), de forma que estos puedan incluirse en la publicación de registros biológicos a través del SiB Colombia.
