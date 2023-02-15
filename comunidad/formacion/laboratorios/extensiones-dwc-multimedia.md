@@ -66,7 +66,7 @@ Se evidencia que algunos ejemplos están pre-documentados en gris para facilitar
 
 ## Paso 3 - Mapeo de los datos
 
-Luego de haber explorado la extensión e identificado los elementos obligatorios, es necesario revisar detenidamente el archivo <FONT FACE="monospace"><b>«Multimedia_sonidos_20reg»</b></FONT>. Posteriormente, se debe copiar y pegar el contenido de las columnas en la plantilla de la extensión de **Multimedia simple**. Esta actividad recibe el nombre de mapeo de datos. Por último, revisar la definición de los elementos y sus ejemplos para corroborar la correspondencia del mapeo. 
+Luego de haber explorado la extensión e identificado los elementos obligatorios, es necesario revisar detenidamente el archivo <FONT FACE="monospace"><b>«Multimedia_sonidos_20reg»</b></FONT>. Posteriormente, se debe copiar y pegar el contenido de las columnas en la plantilla de la extensión de **Multimedia simple**. Esta actividad recibe el nombre de mapeo de datos (Fig. 2). Por último, revisar la definición de los elementos y sus ejemplos para corroborar la correspondencia del mapeo. 
 
 ![Figura 2. Mapeo de datos a los elementos de la plantilla.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_extensiones-dwc-multimedia/Fig2_C3Medidas_Mapeo.png)
 <sup>_Figura 2. Mapeo de datos a los elementos de la plantilla._</sup>
@@ -109,13 +109,13 @@ Los elementos multimedia que estaban en el formato de trabajo interno han sido e
 
 Teniendo en cuenta lo aprendido en este laboratorio, se puede deducir que las extensiones funcionan de forma similar en diferentes casos. Por lo tanto, el siguiente reto consiste en estructurar la extensión **Multimedia simple** (_Simple Multimedia_), aplicando el mismo procedimiento para otro tipo de recurso: imágenes.
 
-El archivo [<FONT FACE="monospace"><b>«Ejercicio2_Registrosbiológicos_Estructurado.xlsx»</b></FONT>](https://drive.google.com/uc?id=1wm7ZvwBqywuROZ-xqTmx00dsAZUY_oQO&authuser=0&export=download){:target="_blank"} se encuentra estructurado en DwC y contiene los datos de una colección de microorganismos. Se desea asociar las cepas de dichos microorganismos a imágenes de referencia, las cuales se encuentran enlazadas en el archivo [<FONT FACE="monospace"><b>«Ejercicio2_Multimedia_porEstructurar.xlsx»</b></FONT>](https://drive.google.com/uc?id=1ghJuuEc9TDBvwu0vaWAuuu1d113nNpa7&authuser=0&export=download){:target="_blank"}». El primer paso consiste en estructurar las imágenes, usando la plantilla de la extensión [<FONT FACE="monospace"><b>«Multimedia simple»</b></FONT>](https://drive.google.com/uc?export=download&id=1Bfdgnl-KXwvLHs8H-bSe8yBXVyD8qrx8){:target="_blank"}.
+El archivo [<FONT FACE="monospace"><b>«Ejercicio2_Registrosbiológicos_Estructurado.xlsx»</b></FONT>](https://docs.google.com/spreadsheets/d/1wm7ZvwBqywuROZ-xqTmx00dsAZUY_oQO/edit?usp=sharing&ouid=105079062814199791403&rtpof=true&sd=true){:target="_blank"} se encuentra estructurado en DwC y contiene los datos de una colección de microorganismos. Se desea asociar las cepas de dichos microorganismos a imágenes de referencia, las cuales se encuentran enlazadas en el archivo [<FONT FACE="monospace"><b>«Ejercicio2_Multimedia_porEstructurar.xlsx»</b></FONT>](https://docs.google.com/spreadsheets/d/1ghJuuEc9TDBvwu0vaWAuuu1d113nNpa7/edit?usp=sharing&ouid=105079062814199791403&rtpof=true&sd=true){:target="_blank"}». El primer paso consiste en estructurar las imágenes, usando la plantilla de la extensión [<FONT FACE="monospace"><b>«Multimedia simple»</b></FONT>](https://drive.google.com/uc?export=download&id=1Bfdgnl-KXwvLHs8H-bSe8yBXVyD8qrx8){:target="_blank"}.
 
 ### Paso 2 - Verificación del resultado 
 
 Compara el siguiente archivo, estandarizado según las definiciones del Darwin Core, con el archivo que se trabajó en el laboratorio para identificar aciertos y posibilidades de mejora. ¿Las extensiones quedaron correctamente construidas?
 
-[<FONT FACE="monospace"><b>«Archivo estandarizado»</b></FONT>](https://drive.google.com/uc?id=1pODwB1jELAvpTa9CvujyOd6vcFyA0Nld&authuser=0&export=download){:target="_blank"}
+[<FONT FACE="monospace"><b>«Archivo estandarizado»</b></FONT>](https://docs.google.com/spreadsheets/d/1pODwB1jELAvpTa9CvujyOd6vcFyA0Nld/edit?usp=sharing&ouid=105079062814199791403&rtpof=true&sd=true){:target="_blank"}
 
 En el reto se puede observar que las imágenes están en un repositorio. Si a futuro se desea publicar imágenes asociadas a un registro biológico, es recomendable usar el repositorio que mejor se adapte a cada caso. Algunos de los que están disponibles son:
 
