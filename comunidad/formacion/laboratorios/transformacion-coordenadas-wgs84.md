@@ -15,7 +15,7 @@ Transformar coordenadas proyectadas con el _datum_ MAGNA - SIRGAS al formato de 
 
 **Introducción**
 
-Las coordenadas se pueden tomar en diferentes Sistemas de Referencia de Coordenadas (SRC), utilizando una variedad de _datum_ para representar la superficie de la tierra. En el caso de Colombia, se utiliza el _datum_ nacional (MAGNA-SIRGA) para la proyección de las coordenadas. Sin embargo, para facilitar la interoperabilidad de los datos sobre biodiversidad, el estándar _Darwin Core_ (DwC)propone que las coordenadas deben ser transformadas a coordenadas decimales con _datum_ WGS84. Este proceso se puede realizar masivamente con la ayuda de _software_ especializados en datos geográficos. 
+Las coordenadas se pueden tomar en diferentes Sistemas de Referencia de Coordenadas (SRC), utilizando una variedad de _datum_ para representar la superficie de la tierra. En el caso de Colombia, se utiliza el _datum_ nacional (MAGNA-SIRGA) para la proyección de las coordenadas. Sin embargo, para facilitar la interoperabilidad de los datos sobre biodiversidad, el estándar _Darwin Core_ (DwC) propone que las coordenadas deben ser transformadas a coordenadas decimales con _datum_ WGS84. Este proceso se puede realizar masivamente con la ayuda de _software_ especializados en datos geográficos. 
 
 En este laboratorio, se explica paso a paso el proceso de transformación de coordenadas a partir de un archivo _shapefile_ tipo punto.
 
@@ -102,7 +102,7 @@ Para finalizar, revisar que la previsualización en la opción <span class="tag 
 <sup>_Figura 5. Pasos para cargar archivos de texto delimitados en QGIS: A. Selección del archivo a cargar, B. Selección de campos de coordenadas, C. Selección del sistema de referencia, D. Vista previa de los datos a cargar, E. Selección de la codificación de los datos._</sup>
 
 <div class="notification is-info is-light">
-  <b>Nota:</b> Para ver un paso a paso detallado de carga de datos desde un archivo de texto plano, revisar el Paso 5 - Carga de los datos</a> del laboratorio de <a href="https://biodiversidad.co/formacion/laboratorios/QGIS#paso-5---carga-de-los-datos">Validación geográfica con QGIS</a>.
+  <b>Nota:</b> Para ver un paso a paso detallado de carga de datos desde un archivo de texto plano, revisar el Paso 5 - Carga de los datos del laboratorio de <a href="https://biodiversidad.co/formacion/laboratorios/QGIS#paso-5---carga-de-los-datos">Validación geográfica con QGIS</a>.
 </div>
 
 ## Paso alterno - Verificación del sistema de referencia de coordenadas
@@ -127,18 +127,18 @@ Seleccionar <span class="tag is-warning is-light"><i>WGS84</i></span> como siste
 
 <sup>_Figura 6. Opciones utilizadas en la calculadora geodésica de SuMapa._</sup>
 
-Después de obtener el resultado de las coordenadas en WGS84, se recomienda ponerlas en [Google Maps](https://www.google.com/maps) o algún otro servicio de visualización para verificar que los datos caen en el sitio correcto o el descrito en los datos. Si hay coincidencia, el SRC de los datos es correcto; de lo contrario, se deberá cambiar el parámetro de Sistema de Origen en la herramienta hasta que tenga sentido. 
+Después de obtener el resultado de las coordenadas en WGS84, se recomienda ponerlas en [Google Maps](https://www.google.com/maps){:target="_blank"} o algún otro servicio de visualización para verificar que los datos caen en el sitio correcto o el descrito en los datos. Si hay coincidencia, el SRC de los datos es correcto; de lo contrario, se deberá cambiar el parámetro de Sistema de Origen en la herramienta hasta que tenga sentido. 
 
 Una vez que se haya identificado el sistema, es necesario usar un SIG como QGIS para cargar el archivo y realizar la transformación de forma masiva como se describe en el paso 1.4  de esta guía.  Adicionalmente, antes de realizar la transformación masiva de las coordenadas, es recomendable que cada registro a transformar tenga un identificador único para poder realizar un cruce de información en caso de ser necesario.
 
 ### Paso alterno 2 - Verificación del sistema de referencia de coordenadas MAGNA-SIRGAS origen único.
 
-Ingresar al [Servicio de conversión de coordenadas](https://origen.igac.gov.co/herramientas.html) del IGAC. Luego, escribir la coordenada Norte y Este en la parte derecha de la página web y dar clic en <span class="tag is-warning is-light"><i>Convertir desde origen nacional</i></span> (Fig. 7). 
+Ingresar al [Servicio de conversión de coordenadas](https://origen.igac.gov.co/herramientas.html){:target="_blank"} del IGAC. Luego, escribir la coordenada Norte y Este en la parte derecha de la página web y dar clic en <span class="tag is-warning is-light"><i>Convertir desde origen nacional</i></span> (Fig. 7). 
 
 ![Figura 7. Opciones utilizadas en el Servicio de conversión de coordenadas del IGAC.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig9_C4Coordenadas_CTM.png)
 <sup>_Figura 7. Opciones utilizadas en el Servicio de conversión de coordenadas del IGAC._</sup>
 
-Después de obtener el resultado de las coordenadas en WGS84, se deben pegar en [Google Maps](https://www.google.com/maps) u otro servicio de visualización para verificar que los datos caen en el sitio esperado.
+Después de obtener el resultado de las coordenadas en WGS84, se deben pegar en [Google Maps](https://www.google.com/maps){:target="_blank"} u otro servicio de visualización para verificar que los datos caen en el sitio esperado.
 
 Una vez que se haya identificado el sistem, es necesario usar un SIG como QGIS para cargar el archivo y realizar la transformación de forma masiva como se describe en el paso 1.4  de esta guía.  Adicionalmente, antes de realizar la transformación masiva de las coordenadas, es recomendable que cada registro a transformar tenga un identificador único para poder realizar un cruce de información en caso de ser necesario.
 
@@ -194,14 +194,14 @@ En la calculadora de campos, configurar las siguientes opciones para la longitud
 
 Luego de haber creado exitosamente este elemento, abrir nuevamente la calculadora de campos y configurar las siguientes opciones para la latitud inicial:
 
-- Nombre del campo de salida: <span class="tag is-light"><b>decimalLatitude</b></span>.
-- Tipo del campo de salida: <span class="tag is-warning is-light"><i>Número decimal (real)</i></span>.
-- Longitud del campo de salida: <span class="tag is-light"><b>10</b></span>.
-- Precisión: <span class="tag is-light"><b>6</b></span>.
-- Expresión: <span class="tag is-light"><b>$y</b></span>.
+- Nombre del campo de salida: <span class="tag is-light"><b>decimalLatitude</b></span> (Fig. 11A).
+- Tipo del campo de salida: <span class="tag is-warning is-light"><i>Número decimal (real)</i></span> (Fig. 11B).
+- Longitud del campo de salida: <span class="tag is-light"><b>10</b></span> (Fig. 11C).
+- Precisión: <span class="tag is-light"><b>6</b></span> (Fig. 11D).
+- Expresión: <span class="tag is-light"><b>$y</b></span> (Fig. 11E).
 
 <div class="notification is-info is-light">
-  <b>Nota:</b> i se requieren las  coordenadas decimales para varios archivos, se recomienda seguir la ruta <span class="tag is-warning is-light"><b><i>Vectorial > Herramientas para gestión de datos > Combinar capas vectoriales…</i></b></span> antes de realizar la exportación.
+  <b>Nota:</b> Si se requieren las  coordenadas decimales para varios archivos, se recomienda seguir la ruta <span class="tag is-warning is-light"><b><i>Vectorial > Herramientas para gestión de datos > Combinar capas vectoriales…</i></b></span> antes de realizar la exportación.
 </div>
 
 Este paso da como resultado una capa con dos nuevas columnas, donde se pueden ver las coordenadas decimales en WGS84.
