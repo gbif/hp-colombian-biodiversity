@@ -204,7 +204,7 @@ El conjunto de datos de eventos de muestreo derivados de una base de datos geogr
 
 ****
 
-## Paso 8 - Reto para reforzar los conocimientos utilizando los eventos de fauna
+## Reto: Reforzar los conocimientos utilizando los eventos de fauna
   
   
 Si se desea ampliar los conocimientos en la estandarización de eventos de muestreo y realizar un ejercicio adicional de estructuración de eventos, se recomienda seguir esta guía con los archivos de fauna <FONT FACE="monospace"><b>«PuntoMuestreoFauna»</b></FONT> y <FONT FACE="monospace"><b>«TransectoMuestreoFauna»</b></FONT> presentes en la [base de datos geográfica](https://drive.google.com/file/d/1Bbhb1noztnzgDtAStNVTUQubKBIxuIhI/view?usp=sharing){:target="_blank"}. Luego de realizar el proceso para ambos archivos, se debe comparar con el siguiente archivo para identificar aciertos y posibilidades de mejora. ¿Los eventos de muestreo para fauna quedaron correctamente estructurados?
