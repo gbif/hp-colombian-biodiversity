@@ -21,6 +21,8 @@ Las medidas abióticas suelen estar asociadas a los componentes HIDROLOGIA y MAR
 
 Para realizar la publicación de este tipo de medidas a través del SiB Colombia, es necesario realizar un proceso de estructuración a partir de la extensión Medidas o hechos del estándar _Darwin Core_. En esta guía se usará como ejemplo una Base de datos geográfica bajo el modelo de la ANLA. No obstante, el número de capas dentro de una Base de datos o el tipo de capas puede variar dependiendo de la naturaleza del proyecto y de la versión del diccionario de la ANLA.
 
+**Convenciones**
+
 - Los elementos del estándar *Darwin Core* aparecen en color verde y cursiva. Por ejemplo: <span class="tag is-success is-light"><i>measurementUnit</i></span>.
 - Los archivos a utilizar en los ejercicios se muestran entre comillas angulares, negrita, y tienen una tipografía diferente. Por ejemplo: <FONT FACE="monospace"><b>«archivo_Ejemplo.xls»</b></FONT>.
 - Las secciones, ventanas y componentes de las herramientas utilizadas se muestran entre comillas inglesas y en negrita. Por ejemplo: **"Create Project"**.
@@ -41,7 +43,7 @@ Para realizar la publicación de este tipo de medidas a través del SiB Colombia
 
 --------
 
-## Paso 1. Carga de los datos a QGIS
+## Paso 1 - Carga de los datos a QGIS
 
 Descargar el archivo [<FONT FACE="monospace"><b>«BaseDatosGeografica_prueba.zip»</b></FONT>](https://drive.google.com/file/d/1sJfJ_8msYnYcZ1c9GWJ8zUZLebTSVzKG/view?usp=share_link){:target="_blank"} y extraer  su contenido: <FONT FACE="monospace"><b>«BaseDatosGeografica.gdb»</b></FONT>. Esta carpeta debe conservarse con la terminación “.gdb”. Para descomprimir el archivo descargado, se puede usar cualquier  programa de descompresión de archivos que se tenga instalado. Por ejemplo,  _WinZip_, _WinRAR_, _7Z_ u otros. 
 
@@ -77,7 +79,7 @@ Si se están cargando datos en MAGNA SIRGAS origen único (CTM12) y dependiendo 
 ![Figura 6. Selección del SRC del proyecto.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-medidas-abioticas-base-de-datos-geografica/Fig6_C4Medidas_SRCDesconocido.png)
 <sup>_Figura 6. Selección del SRC del proyecto: A. Selección de la opción SRC desconocido, B. Selección del SRC creado por el usuario._</sup>
 
-## Paso 2. Identificación de los archivos asociados a medidas abióticas
+## Paso 2 - Identificación de los archivos asociados a medidas abióticas
 
 Una vez que se haya cargado la información cargada en QGIS, es necesario explorar las capas relacionadas con los eventos de muestreo. Los archivos que contienen esta información se encuentran representados en la Tabla 1.
 
@@ -93,18 +95,18 @@ Para organizar las medidas abióticas asociadas a datos hidrobiológicos, es nec
 
 Por lo tanto, lo que se debe hacer a continuación es ubicar las tablas **"MuestreoFisicoquimSuperTB"** y **"ParamFisicoquimSuperTB"** en el menú lateral izquierdo. Luego, hacer clic derecho en cada una y seleccionar la opción <span class="tag is-warning is-light"><i>Abrir tabla de atributos</i></span> (Fig. 7).
 
-Es necesario revisar que ambas tablas tengan la columna **"ID_MUESTRA documentada"** y que los valores sean consistentes entre las tablas **"MuestreoFisicoquimSuperTB"** y **"ParamFisicoquimSuperTB"**. Esta característica será la llave para crear el <span class="tag is-success is-light"><i>eventID</i></span> en el elemento **"ParamFisicoquimSuperTB"** (Fig. 7).
+Es necesario revisar que ambas tablas tengan la columna **"ID_MUESTRA documentada"** y que los valores sean consistentes entre las tablas **"MuestreoFisicoquimSuperTB"** y **"ParamFisicoquimSuperTB"**. Esta característica será la llave para crear el <span class="tag is-success is-light"><i>eventID</i></span> en la tabla **"ParamFisicoquimSuperTB"** (Fig. 7).
 
 ![Figura 7. Comparación de la columna ID_MUESTRA en las dos tablas de medidas abióticas.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-medidas-abioticas-base-de-datos-geografica/Fig7_C4Medidas_Tablas.png)
 <sup>_Figura 7. Comparación de la columna **"ID_MUESTRA"** en las dos tablas de medidas abióticas._</sup>
 
 Después de hacer una revisión general de las tablas, es necesario cerrar las ventanas y regresar al menú principal de QGIS.
 
-## Paso 3. Añadir el identificador del evento en la tabla ParamFisicoquimSuperTB
+## Paso 3 - Añadir el identificador del evento en la tabla ParamFisicoquimSuperTB
 
 Debido a que la tabla **"ParamFisicoquimSuperTB"** solo tiene el identificador de la muestra, se debe hacer un cruce con la tabla **"MuestreoFisicoquimSuperTB"** para añadir el identificador del muestreo (**"ID_PUNTO_M"**). De esta forma, ambas tablas contarán con un identificador del evento que pueda asociarse a los eventos de muestreo. 
 
-Para ello,  hacer doble clic en  la **"ParamFisicoquimSuperTB"** del menú de capas. Luego, seleccionar <span class="tag is-warning is-light"><i>Uniones</i></span> (Fig. 8A) y dar clic en el símbolo verde <span class="tag is-success is-light"><i>+</i></span>(Fig. 8B).
+Para ello,  hacer doble clic en  la tabla **"ParamFisicoquimSuperTB"** del menú de capas. Luego, seleccionar <span class="tag is-warning is-light"><i>Uniones</i></span> (Fig. 8A) y dar clic en el símbolo verde <span class="tag is-success is-light"><i>+</i></span>(Fig. 8B).
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-medidas-abioticas-base-de-datos-geografica/Fig8_C4Medidas_Union.png">
 
@@ -122,15 +124,15 @@ Para finalizar, hacer clic en <span class="tag is-warning is-light"><i>OK</i></s
 ![Figura 9. Selección de opciones en la ventana Añadir unión vectorial.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-medidas-abioticas-base-de-datos-geografica/Fig9_C4Medidas_OpcionesUnion.png)
 <sup>_Figura 9. Selección de opciones en la ventana **"Añadir unión vectorial"**: A. Selección de la capa objetivo, B. Selección del campo de la capa base que se va a utilizar como llave, C. Selección del campo de la capa objetivo que se va a utilizar como llave, D. Selección del elemento de la capa objetivo que se va a agregar a la capa base._</sup>
 
-Para revisar que el proceso se realizó correctamente, abrir la tabla de atributos de la capa **"ParamFisicoquimSuperTB"** y revisar la última columna. Debe haber una columna llamada **“GDB_Prueba — MuestreoFisicoquimSuperTB_ID_PUNTO_M”** con la información del código del punto de muestreo.
+Para revisar que el proceso se realizó correctamente, abrir la tabla de atributos de la capa **"ParamFisicoquimSuperTB"** y revisar la última columna. Debe haber una columna llamada **“BaseDatosGeografica — MuestreoFisicoquimSuperTB_ID_PUNTO_M”** con la información del código del punto de muestreo.
 
-## Paso 4. Exportar las capas de las medidas abióticas en formato Excel
+## Paso 4 - Exportar las capas de las medidas abióticas en formato Excel
 
 Después de tener el identificador del muestreo en la columna **"ID_PUNTO_M"** en ambas tablas, es necesario exportar el resultado obtenido para comenzar con el proceso de estructuración. Para ello, dar clic derecho sobre la capa **"MuestreoFisicoquimSuperTB"** y seguir la ruta de opciones <span class="tag is-warning is-light"><b><i>Exportar>Guardar objetos como…</i></b></span>.
 
 En la ventana emergente, seleccione  las siguientes opciones:
 - **"Formato"**: dar  clic en el desplegable y elegir <span class="tag is-warning is-light"><i>XLSX</i></span> (Fig. 10A).
-- **¨Nombre de archivo¨**: dar clic en el botón con los tres puntos para elegir la ubicación y el nombre que se le va a dar al archivo. En este caso, se recomienda guardarlo como <span class="tag is-light"><b>Evento_MuestreoFlora.xlsx</b></span> (Fig. 10B).
+- **¨Nombre de archivo¨**: dar clic en el botón con los tres puntos para elegir la ubicación y el nombre que se le va a dar al archivo. En este caso, se recomienda guardarlo como <span class="tag is-light"><b>MuestreoFisicoquimSuperTB.xlsx</b></span> (Fig. 10B).
 
 Por último, dejar las otras opciones por defecto y dar clic en <span class="tag is-warning is-light"><b>OK</b></span> (Fig. 10).
 
@@ -139,9 +141,9 @@ Por último, dejar las otras opciones por defecto y dar clic en <span class="tag
 
 <sup>_Figura 10. Opciones para exportar el archivo MuestreoFisicoquimSuperTB como un archivo tipo excel: A. Selección del formato utilizado para exportar los datos, B. Selección del nombre y la ubicación del archivo._</sup>
 
-Se debe repetir el proceso para exportar el elemento **"ParamFisicoquimSuperTB"**.
+Se debe repetir el proceso para exportar el archivo **"ParamFisicoquimSuperTB"**.
 
-## Paso 5. Mapeo y estructuración de las medidas abióticas
+## Paso 5 - Mapeo y estructuración de las medidas abióticas
 
 Al finalizar la exportación de ambos archivos, abrir el resultado en Excel.
 
@@ -153,14 +155,14 @@ A continuación, se describe la definición de la coincidencia del atributo con 
 - **Parcial**:  coincidencia parcial del atributo con algún elemento del _Darwin Core_. Es necesario realizar ajustes en el contenido del atributo para que haya coincidencia con el elemento _Darwin Core_. Se recomienda revisar la definición del elemento en la documentación en línea del estándar y hacer los ajustes necesarios.
 - **Nula**: no hay coincidencia con ningún elemento del _Darwin Core_ y por tanto no debe ser mapeado.
 
-### Paso 5.1. Mapeo y estructuración del archivo MuestreoFisicoquimSuperTB
+### 5.1. Mapeo y estructuración del archivo MuestreoFisicoquimSuperTB
 
 Este proceso consiste en cambiar los nombres de las columnas del archivo **"MuestreoFisicoquimSuperTB.xlsx"** por el de los elementos _Darwin Core_ que tengan una coincidencia total en el mapeo, ajustar los elementos que tiene un coincidencia parcial y eliminar los elementos que no tienen ningún tipo de correspondencia con el estándar.
 Para realizar el mapeo, se deben seguir los siguientes pasos:
 
-- Modificar el nombre de las columnas documentadas como coincidencia total en el elemento "**MuestreoFisicoquimSuperTB.xlsx**" (Fig. 11)
+- Modificar el nombre de las columnas documentadas como coincidencia total en el archivo "**MuestreoFisicoquimSuperTB.xlsx**" (Fig. 11)
 - Revisar el contenido de las columnas documentadas como coincidencia parcial, realizando los ajustes de acuerdo a las definiciones, recomendaciones y ejemplos de la [documentación en línea  del elemento Darwin Core](https://biodiversidad.co/compartir/estandar-darwin-core/), antes de hacer el mapeo (Fig. 11)
-- En el elemento "**MuestreoFisicoquimSuperTB.xlsx**", eliminar las columnas que tienen una coincidencia nula en el archivo de mapeo (Fig. 11).
+- En el archivo "**MuestreoFisicoquimSuperTB.xlsx**", eliminar las columnas que tienen una coincidencia nula en el archivo de mapeo (Fig. 11).
 
 <div class="notification is-info is-light">
   <b>Nota:</b> En algunos casos, varias columnas pueden aportar información a un mismo elemento <i>Darwin Core</i>, como sucede con el elemento <span class="tag is-success is-light"><i>measurementMethod</i></span>. Para estos casos, se recomienda compilar toda la información disponible en una sola columna, separando los datos con plecas ( | ).
@@ -178,18 +180,18 @@ Las medidas abióticas de este archivo están organizadas de forma que cada medi
 
 Se debe repetir este procedimiento con el resto de medidas abióticas, teniendo en cuenta los diferentes valores de tipo y unidad para cada una de las medidas.
 
-Al terminar el proceso de mapeo con las columnas existentes, eliminar las columnas vacías o documentadas con <span class="tag is-light"><b>Null</b></span>.
+Al terminar el proceso de mapeo con las columnas existentes, eliminar las columnas vacías o documentadas únicamente con <span class="tag is-light"><b>Null</b></span>.
 
-### Paso 5.2. Mapeo y estructuración del archivo ParamFisicoquimSuperTB
+### 5.2. Mapeo y estructuración del archivo ParamFisicoquimSuperTB
   
-El elemento **"ParamFisicoquimSuperTB"** tiene una estructura diferente al de la tabla **"MuestreoFisicoquimSuperTB.xlsx"**, mapeada en el paso 5.1. Este archivo está organizado de forma que cada tipo de medida se documenta en filas adicionales y no en nuevas columnas. Por este motivo, solamente es necesario realizar el proceso de mapeo de las columnas una vez. Para ello, utilizar la segunda hoja del archivo <FONT FACE="monospace"><b>«Mapeo diccionario ANLA 2020-Medidas Abióticas al DwC»</b></FONT> con el fin de realizar el mapeo. El proceso es similar al del paso 5.1. respecto a las coincidencias nulas, parciales y totales (Fig 13).  
+El archivo **"ParamFisicoquimSuperTB"** tiene una estructura diferente al de la tabla **"MuestreoFisicoquimSuperTB.xlsx"**, mapeada en el paso 5.1. Este archivo está organizado de forma que cada tipo de medida se documenta en filas adicionales y no en nuevas columnas. Por este motivo, solamente es necesario realizar el proceso de mapeo de las columnas una vez. Para ello, utilizar la segunda hoja del archivo <FONT FACE="monospace"><b>«Mapeo diccionario ANLA 2020-Medidas Abióticas al DwC»</b></FONT> con el fin de realizar el mapeo. El proceso es similar al del paso 5.1. respecto a las coincidencias nulas, parciales y totales (Fig 13).  
   
 ![Figura 13. Proceso de mapeo para los elementos de medidas abióticas.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-medidas-abioticas-base-de-datos-geografica/Fig13_C4Medidas_Mapeo.png)
 <sup>_Figura 13. Proceso de mapeo para los elementos de medidas abióticas._</sup>
 
-## Paso 6. Ajustes de elementos
+## Paso 6 - Ajustes de elementos
 
-### Paso 6.1. Verificación de la consistencia en el eventID para las medidas y los eventos
+### 6.1. Verificación de la consistencia en el eventID para las medidas y los eventos
 
 Para que los datos se publiquen correctamente, es necesario que todas las medidas abióticas tengan documentado un <span class="tag is-success is-light"><i>eventID</i></span> y que este sea exactamente igual al que está documentado en el archivo de eventos. En caso de haber realizado alguna modificación al <span class="tag is-success is-light"><i>eventID</i></span> en el archivo de eventos de muestreo, se deben hacer los ajustes necesarios para que coincidan los <span class="tag is-success is-light"><i>eventID</i></span> de los archivos de medidas abióticas.
 
@@ -197,9 +199,9 @@ Para que los datos se publiquen correctamente, es necesario que todas las medida
   <b>Nota:</b> En los archivos de ejemplo de esta guía, el valor del <span class="tag is-success is-light"><i>eventID</i></span> no se modificó. Por lo tanto,  es equivalente al <span class="tag is-success is-light"><i>eventID</i></span> de la tabla <b>"PuntoMuestreoAguaSuper"</b> y no requiere ninguna modificación.
 </div>
 
-### Paso 6.2. Ajuste de los elementos documentados y los vocabularios controlados
+### 6.2. Ajuste de los elementos documentados y los vocabularios controlados
 
-Para el elemento **"ParamFisicoquimSuperTB"**, se deben realizar ajustes en el elemento <span class="tag is-success is-light"><i>measurementType</i></span> porque la información está documentada con los dominios del diccionario geográfico. Para ello, abrir el [<FONT FACE="monospace"><b>«Diccionario de Datos Geográficos»</b></FONT>](https://www.anla.gov.co/01_anla/documentos/informacion_geografica/diccionario_datos_geograficos_anla.xlsx){:target="_blank"} y ubicar la pestaña <b>"DOMINIOS"</b>, donde se puede buscar el dominio <b>"Dom_Parametro"</b> y realizar el ajuste en el archivo de estructuración. Esto se hace reemplazando el código por el nombre de la medida. Ver ejemplo en la Figura 14A.
+Para el archivo **"ParamFisicoquimSuperTB"**, se deben realizar ajustes en el elemento <span class="tag is-success is-light"><i>measurementType</i></span> porque la información está documentada con los dominios del diccionario geográfico. Para ello, abrir el [<FONT FACE="monospace"><b>«Diccionario de Datos Geográficos»</b></FONT>](https://www.anla.gov.co/01_anla/documentos/informacion_geografica/diccionario_datos_geograficos_anla.xlsx){:target="_blank"} y ubicar la pestaña <b>"DOMINIOS"</b>, donde se puede buscar el dominio <b>"Dom_Parametro"</b> y realizar el ajuste en el archivo de estructuración. Esto se hace reemplazando el código por el nombre de la medida. Ver ejemplo en la Figura 14A.
   
 Adicionalmente, crear y documentar la columna <span class="tag is-success is-light"><i>measurementUnit</i></span> según la información de la medida del diccionario (Fig. 14B).  
   
@@ -212,10 +214,10 @@ Después de realizar este proceso, la información de la unidad y la medida del 
 <sup>_Figura 15. Resultado del proceso de mapeo del código y unidad para el código 1002._</sup>  
 
 <div class="notification is-info is-light">
-  <b>Nota:</b> Si se quiere completar esta información de forma automática en Excel, se puede utilizar la opción <span class="tag is-warning is-light"><i>BUSCARV()</i></span>. Para ello, usar como elemento en común la columna <b>"PARAMETRO"</b> en el elemento <b>"ParamFisicoquimSuperTB"</b> y la columna <b>"CÓDIGO"</b> en la pestaña de <b>"Dominios"</b> del Diccionario geográfico de la ANLA.
+  <b>Nota:</b> Si se quiere completar esta información de forma automática en Excel, se puede utilizar la opción <span class="tag is-warning is-light"><i>BUSCARV()</i></span>. Para ello, usar como elemento en común la columna <b>"PARAMETRO"</b> en el archivo <b>"ParamFisicoquimSuperTB"</b> y la columna <b>"CÓDIGO"</b> en la pestaña de <b>"Dominios"</b> del Diccionario geográfico de la ANLA.
 </div>
 
-### Paso 6.3. Ajuste de los elementos Darwin Core 
+### 6.3. Ajuste de los elementos Darwin Core 
   
 Finalmente, es necesario realizar ajustes en algunas columnas para que sigan el formato sugerido del estándar _Darwin Core_. Para ello, revisar las definiciones del estándar para cada elemento mapeado.
   
@@ -224,7 +226,7 @@ Es importante poner especial atención a los siguientes elementos:
 - [<span class="tag is-success is-light"><i>measurementUnit</i></span>](https://biodiversidad.co/compartir/estandar-darwin-core/#measurementUnit): Revisar que las medidas están documentadas según el Sistema Internacional de Unidades (SI).
 - [<span class="tag is-success is-light"><i>measurementValue</i></span>](https://biodiversidad.co/compartir/estandar-darwin-core/#measurementValue): Revisar que los valores utilicen un punto como separador decimal.  
   
-## Paso 7. Verificación del resultado
+## Paso 7 - Verificación del resultado
 
 Descarga y compara el siguiente archivo, estandarizado según las definiciones del Darwin Core, con el archivo que se trabajó en el laboratorio para identificar aciertos y posibilidades de mejora. ¿Las medidas abióticas de los eventos de muestreo quedaron correctamente estructuradas?
   
