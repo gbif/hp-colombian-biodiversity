@@ -79,7 +79,7 @@ Si se están cargando datos en MAGNA SIRGAS origen único (CTM12) y dependiendo 
 ![Figura 6. Selección del SRC del proyecto.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-eventos-base-de-datos-geografica/Fig6_C4Eventos_SRCDesconocido.png)
 <sup>_Figura 6. Selección del SRC del proyecto: A. Selección de la opción <span class="tag is-warning is-light"><i>SRC desconocido</i></span>, B. Selección del SRC creado por el usuario._</sup>
 
-## Paso 2. Identificación de los archivos asociados a eventos de muestreo
+## Paso 2 - Identificación de los archivos asociados a eventos de muestreo
 
 Una vez que se haya cargado la información cargada en QGIS, es necesario explorar las capas relacionadas con los eventos de muestreo. Los archivos que contienen esta información se encuentran representados en la Tabla 1.
 
@@ -107,13 +107,13 @@ En esta guía se propone un muestreo de flora como punto de partida. Para revisa
 ![Figura 7. Atributos en la capa **"PuntoMuestreoFlora"**.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-eventos-base-de-datos-geografica/Fig7_C4Eventos_Tabla.png)
 <sup>_Figura 7. Atributos en la capa PuntoMuestreoFlora._</sup>
 
-## Paso 3. Transformación de coordenadas a WGS84 para los eventos de muestreo
+## Paso 3 - Transformación de coordenadas a WGS84 para los eventos de muestreo
 
 Debido a que la recomendación del estándar _Darwin Core_ es utilizar coordenadas decimales con datum WGS84, el proceso de transformación se desarrollará directamente en QGIS.
 
 Realizar la transformación a coordenadas decimales en WGS84 de la capa **"PuntoMuestreoFlora¨**, Es importante recordar que para las capas que tienen la geometría de tipo punto (Tabla 1), se debe seguir la guía de [Transformación de coordenadas Magna-Sirgas a coordenadas decimales en WGS84](https://biodiversidad.co/formacion/laboratorios/transformacion-coordenadas-wgs84){:target="_blank"} y para las capas con geometría tipo línea (Ver Tabla 1), es necesario seguir la guía [Representando transectos en DwC](https://biodiversidad.co/formacion/laboratorios/estructuracion-transectos){:target="_blank"}. En este caso, se debe usar la primera guía. 
 
-### Paso alterno: caso transectos.
+### Paso alterno - caso transectos.
 
 Normalmente, los transectos presentes en las Bases de datos geográficas (tabla 1) están construidos con varios segmentos de línea en vez de una sola línea continua. En tal caso, es necesario realizar un proceso adicional antes de exportar la capa de los transectos, el cual se conoce como ¨Disolución" y tiene como objetivo unir todos los transectos con el mismo identificador. Para este ejercicio, el identificador sería el código <span class="tag is-light"><b>ID_MUES_TR</b></span>. 
 
@@ -128,7 +128,7 @@ Para finalizar, hacer clic en <span class="tag is-warning is-light"><b>Ejecutar<
 
 Una vez que haya finalizado la disolución de los transectos, se pueden transformar las coordenadas de los transectos a WGS84 en las capas con geometría tipo línea (Ver Tabla 1). Para ello, se recomienda seguir la guía [Representando transectos en DwC](https://biodiversidad.co/formacion/laboratorios/estructuracion-transectos). Luego, es posible continuar con el paso 4 de esta guía.
 
-## Paso 4. Exportar las capas del evento de muestreo 
+## Paso 4 - Exportar las capas del evento de muestreo 
 
 Después de realizar la transformación de coordenadas a WGS84 en el archivo <FONT FACE="monospace"><b>«PuntoMuestreoFlora»</b></FONT> y agregar los elementos <span class="tag is-success is-light"><i>decimalLatitude</i></span> y <span class="tag is-success is-light"><i>decimalLongitude</i></span>, se debe exportar el resultado obtenido para comenzar con el proceso de estructuración. Para ello, hacer clic derecho sobre la capa con los nuevos elementos y seguir la ruta <span class="tag is-warning is-light"><b><i>Exportar>Guardar objetos como…</i></b></span>.
 
@@ -142,7 +142,7 @@ Por último, dejar las otras opciones por defecto y dar clic en <span class="tag
 
 <sup>_Figura 9. Opciones para exportar el archivo de eventos de flora como un archivo tipo Excel: A. Selección del formato utilizado para exportar los datos, B. Selección del nombre y la ubicación del archivo._</sup>
 
-## Paso 5. Mapeo de los datos
+## Paso 5 - Mapeo de los datos
 
 Después de haber exportado el archivo de los eventos de flora, abrir el resultado <FONT FACE="monospace"><b>«Evento_MuestreoFlora.xlsx»</b></FONT> en Excel.
 
@@ -163,9 +163,9 @@ Con base en lo anterior, se deben seguir estos pasos:
 ![Figura 10.  Proceso de mapeo para los elementos del evento de muestreo.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-eventos-base-de-datos-geografica/Fig10_C4Eventos_Mapeo.png)
 <sup>_Figura 10. Proceso de mapeo para los elementos del evento de muestreo._</sup>
 
-- Al finalizar el proceso de mapeo con las columnas existentes, se deben eliminar las columnas que estén vacías o documentadas con <span class="tag is-light"><b>Null</b></span>.
+- Al finalizar el proceso de mapeo con las columnas existentes, se deben eliminar las columnas que estén vacías o documentadas únicamente con <span class="tag is-light"><b>Null</b></span>.
 
-## Paso 6. Creación de elementos obligatorios y ajuste de elementos documentados
+## Paso 6 - Creación de elementos obligatorios y ajuste de elementos documentados
 
 Es necesario verificar que todos los elementos obligatorios para los eventos de muestreo estén debidamente documentados. Para lograr esto, se necesita revisar la definición de los siguientes elementos en la [documentación en línea del estándar _Darwin Core_](https://biodiversidad.co/compartir/estandar-darwin-core/){:target="_blank"} y crear o ajustar el elemento correspondiente con base en los ejemplos.
 
@@ -191,7 +191,7 @@ Adicionalmente, es necesario realizar ajustes en algunos elementos que fueron ma
 ![Figura 11. Uso de los dominios en el Diccionario Geográfico para documentar la información.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_estructuracion-eventos-base-de-datos-geografica/Fig11_C4Eventos_Diccionario.png)
 <sup>_Figura 11. Uso de los dominios en el Diccionario Geográfico para documentar la información._</sup>
 
-## Paso 7. Verificación del resultado
+## Paso 7 - Verificación del resultado
 
 Descarga y compara el siguiente archivo, estandarizado según las definiciones del _Darwin Core_, con el archivo que se trabajó en el laboratorio para identificar aciertos y posibilidades de mejora. ¿Los eventos de muestreo quedaron correctamente estructurados?
   
@@ -204,7 +204,7 @@ El conjunto de datos de eventos de muestreo derivados de una base de datos geogr
 
 ****
 
-## Paso 8. Reto para reforzar los conocimientos utilizando los eventos de fauna
+## Paso 8 - Reto para reforzar los conocimientos utilizando los eventos de fauna
   
   
 Si se desea ampliar los conocimientos en la estandarización de eventos de muestreo y realizar un ejercicio adicional de estructuración de eventos, se recomienda seguir esta guía con los archivos de fauna <FONT FACE="monospace"><b>«PuntoMuestreoFauna»</b></FONT> y <FONT FACE="monospace"><b>«TransectoMuestreoFauna»</b></FONT> presentes en la [base de datos geográfica](https://drive.google.com/file/d/1Bbhb1noztnzgDtAStNVTUQubKBIxuIhI/view?usp=sharing){:target="_blank"}. Luego de realizar el proceso para ambos archivos, se debe comparar con el siguiente archivo para identificar aciertos y posibilidades de mejora. ¿Los eventos de muestreo para fauna quedaron correctamente estructurados?
