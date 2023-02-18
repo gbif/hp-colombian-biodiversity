@@ -33,7 +33,7 @@ IPT Test: [https://ipt.biodiversidad.co/sib-test/](https://ipt.biodiversidad.co/
 
 En esta guía se utilizarán las plantillas Excel de registros biológicos y de la extensión de permisos diligenciados con datos de prueba. Los mismos archivos también se encuentran en formato de texto plano. Los archivos están disponibles en los siguientes enlaces:
 
-- Archivo core de registros biológicos en formato Excel: [Datos Estandarizados Excel.xlsx](https://docs.google.com/spreadsheets/d/1TiQR0j_i6w0aM2Mme1G4ThbTA7XAkktj/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true) {:target="_blank"}
+- Archivo core de registros biológicos en formato Excel: [Datos Estandarizados Excel.xlsx](https://docs.google.com/spreadsheets/d/1TiQR0j_i6w0aM2Mme1G4ThbTA7XAkktj/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}
 - Archivo extensión de permisos en formato Excel: [Extension_permisos_Excel.xlsx](https://docs.google.com/spreadsheets/d/1l_C4wlU98AdsdaGeOtt1wdAGZR_OSeWS/edit?usp=share_link&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}
 - Archivo core de registros biológicos en formato de texto plano: [Datos_estandarizados_textoplano.txt](https://drive.google.com/file/d/15KqcdxH2LZ1gnxJs3mwaCD47jHBF93H9/view?usp=sharing){:target="_blank"}
 - Archivo extensión de permisos en formato de texto plano: [Extension_permisos_textoplano.txt](https://drive.google.com/file/d/1s27XhUCt8ebhADVZFwKa6cEfTHSa6u2-/view?usp=share_link){:target="_blank"}
@@ -100,11 +100,11 @@ Después de crear el recurso, aparecerá la “**Vista General**”, allí se po
 ![Figura 5. Vista general del nuevo recurso. Se resalta la sección “Conjunto de datos”.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig5_C5Carga_Carga.png)
 <sup>_Figura 5. Vista general del nuevo recurso. Se resalta la sección “Conjunto de datos”._</sup>
 
-## Paso 2 - Carga de los datos provenientes de las plantillas de publicación del SiB Colombia
+## Paso 3 - Carga de los datos provenientes de las plantillas de publicación del SiB Colombia
 
 Se abordará el proceso de carga de datos a partir de las plantillas de publicación de registros biológicos y una extensión del estándar _Darwin Core_. Este proceso es replicable para cualquier otro core, ya sean listas de chequeo o eventos de muestreo, y para cualquier extensión del estándar.
 
-### 2.1 Carga de la plantilla de registros en el IPT 
+### 3.1 Carga de la plantilla de registros en el IPT 
 
 En la vista general del recurso de la sección “**Conjunto de Datos**”, se encuentran las opciones para la carga de los datos. Aparecerá una lista desplegable con las distintas posibilidades para realizar el proceso de carga de datos en el IPT:
 
@@ -119,7 +119,7 @@ Para completar el proceso de carga, hacer clic en el botón “_Agregar_” que 
 ![Figura 6. Selección de la fuente de datos (Archivo) y carga de la plantilla en el IPT ( Datos_estandarizados_Excel.xlsx).](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig6_C5Carga_Archivo.png)
 <sup>_Figura 6. Selección de la fuente de datos (Archivo) y carga de la plantilla en el IPT ( Datos_estandarizados_Excel.xlsx)._</sup>
 
-### 2.2 Configuración de formato de la plantilla excel en el IPT
+### 3.2 Configuración de formato de la plantilla excel en el IPT
 
 En la nueva vista debe especificar algunas opciones según el formato del archivo cargado, ya sea Excel o texto plano. Para el caso de las plantillas del SiB Colombia en excel, se deben completar estos pasos:
 
@@ -145,7 +145,7 @@ Al volver a la vista de configuración del archivo, dar clic en Guardar (Fig. 10
 ![Figura 10. Clic en la opción Guardar para conservar los cambios y finalizar la carga del archivo en el IPT.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig10_C5Carga_Guardar.png)
 <sup>_Figura 10. Clic en la opción Guardar para conservar los cambios y finalizar la carga del archivo en el IPT._</sup>
 
-### 2.3 Verificación de la carga de los datos 
+### 3.3 Verificación de la carga de los datos 
 
 Después de cargar el  archivo de registros biológicos, se pueden validar los siguientes valores: peso del archivo, número de filas, número de columnas y tipo de archivo (Fig. 11).
 En este caso, ¿coincide el número de filas y columnas cargadas con el archivo Excel?
@@ -157,7 +157,7 @@ Cuando aparece este tipo de error, hay dos opciones: hacer clic en el botón Edi
 ![Figura 11. Verificación del número de filas y columnas cargados desde una plantilla al IPT.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig11_C5Carga_Verificar.png)
 <sup>_Figura 11. Verificación del número de filas y columnas cargados desde una plantilla al IPT._</sup>
 
-## Paso 3 - Carga de los datos provenientes de un archivo de texto plano
+## Paso 4 - Carga de los datos provenientes de un archivo de texto plano
 
 También es posible realizar el proceso de carga de datos en el IPT desde un archivo de texto plano con la extensión .csv o .txt. En esta guía se ejemplifica el proceso utilizando un formato .txt.
 
@@ -172,7 +172,7 @@ Para completar el proceso de carga, hacer clic en el botón “_Agregar_” que 
 ![Figura 12. Selección de la fuente de datos (Archivo) y carga de un archivo de texto plano en el IPT (Datos_estandarizados_textoplano.txt).](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig12_C5Carga_TextoPlano.png)
 <sup>_Figura 12. Selección de la fuente de datos (Archivo) y carga de un archivo de texto plano en el IPT (Datos_estandarizados_textoplano.txt)._</sup>
 
-### 3.1 Configuración del formato del archivo de texto en el IPT
+### 4.1 Configuración del formato del archivo de texto en el IPT
 
 En el caso de los archivos de texto, las opciones seleccionadas por defecto suelen ser correctas. Por este motivo, **no** se sugiere hacer cambios en las mismas. Solamente es necesario verificar el número de filas y columnas cargadas (Fig. 13) y revisar por medio de la opción de previsualización (Fig. 13). Esto abrirá una ventana donde es posible verificar que los datos se cargaron correctamente. Para salir de la previsualización, hacer clic sobre la misma.
 
@@ -188,7 +188,7 @@ Después de terminar el proceso de carga del archivo de texto, se puede comparar
 ![Figura 14. Comparación del número de filas y columnas cargadas desde las plantillas en formato excel y en formato de archivo de texto plano.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig14_C5Carga_VerificarTextoPlano.png)
 <sup>_Figura 14. Comparación del número de filas y columnas cargadas desde las plantillas en formato excel y en formato de archivo de texto plano._</sup>
 
-## Paso 4 - Eliminación de un archivo
+## Paso 5 - Eliminación de un archivo
 
 En algunas ocasiones es necesario eliminar un archivo cargado en el IPT, sobre todo si se presentaron errores en el proceso de carga o si necesita actualizar el archivo por un ajuste en los datos.  En el caso de esta guía, se han subido los datos múltiples veces en diferentes formatos (Excel y texto plano). Por lo tanto, en este punto, habrá dos archivos cargados en el IPT. 
 
@@ -202,7 +202,7 @@ En la vista de edición, dar clic en la opción Eliminar archivo (Fig. 16). Esto
 ![Figura 16. Opciones a seleccionar para eliminar un archivo previamente cargado en el IPT.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig16_C5Carga_Eliminar.png)
 <sup>_Figura 16. Opciones a seleccionar para eliminar un archivo previamente cargado en el IPT._</sup>
 
-## Paso 5 - Carga de extensiones
+## Paso 6 - Carga de extensiones
 
 Si se requiere cargar extensiones, es necesario subir el archivo con la extensión _Darwin Core_ de permisos. Para ello, se debe seguir de nuevo esta guía desde el Paso 2. Es posible realizar el ejercicio con un archivo Excel o con un archivo de texto.
 
