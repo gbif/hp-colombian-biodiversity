@@ -122,7 +122,7 @@ Con el fin de realizar el ajuste, se deben seguir los pasos:
 
 - Hacer clic en regresar para volver a la sección de “**Vista general del recurso**”.
 
-### Paso 3 - Mapeo de extensiones
+## Paso 3 - Mapeo de extensiones
 
 Después de completar exitosamente el proceso de mapeo del core de registros biológicos, es posible realizar el mapeo de las extensiones del estándar Darwin Core que están disponibles, las cuales se pueden consultar en la página web [Extensiones DwC](https://biodiversidad.co/compartir/estandar-darwin-core/#extensiones-dwc). 
 
