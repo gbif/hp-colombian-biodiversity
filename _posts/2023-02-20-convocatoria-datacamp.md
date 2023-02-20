@@ -5,7 +5,7 @@ description: |
   _Hasta el 20 de marzo estará abierta la convocatoria para participar por una de las 20 licencias disponibles, para capacitación virtual en informática de la biodiversidad a través de Datacamp._
 date: 2023-02-20
 categories: ["Convocatorias", "Formación", "Aliados", "GBIF", "2023"]
-background: /assets/images/noticias_eventos/2023/2023-02-20-convocatoria-datacamp.jpg
+background: /assets/images/noticias_eventos/2023/2023-02-20-convocatoria-datacam.jpg
 imageLicense: |
   
 ---
