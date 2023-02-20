@@ -201,7 +201,7 @@ Finalmente, es posible realizar el proceso de anulación de un certificado. Este
 
 Para realizar el proceso de anulación, dar clic en el ícono “_Anular certificado_”, ubicado en la sección Acciones (Fig. 16). Es necesario asegurarse de que el certificado a anular corresponda al certificado que se creó en el paso 2 para **evitar anular el certificado generado por otro participante**.
 
-![Figura 16. Acciones del certificado. Botón para anular el certificado.](https://github.com/gbif/hp-colombian-biodiversity/blob/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_administracion-certificados/Fig16_C5Certificado_Anular.png)
+![Figura 16. Acciones del certificado. Botón para anular el certificado.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_administracion-certificados/Fig16_C5Certificado_Anular.png)
 <sup>_Figura 16. Acciones del certificado. Botón para anular el certificado._</sup>
 
 Después, se abrirá una nueva ventana donde se debe diligenciar la información de la persona que está haciendo la anulación y el motivo correspondiente. Para este ejercicio, documenta tus nombres, correo y el resto del formulario como se muestra en la Figura 17. Por último, dar clic en el botón Anular certificado:
