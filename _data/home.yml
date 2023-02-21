@@ -63,7 +63,7 @@ noticias:
       description: |      # required
         Hasta el 20 de marzo puedes participar por una de las 20 licencias disponibles.
       # img required
-      background: /assets/images/noticias_eventos/2023/2023-01-20-convocatoria-datacamp.jpg
+      background: /assets/images/noticias_eventos/2023/2023-02-20-convocatoria-datacamp.jpg
       cta:
       - text: Ver más
         href: /post/2023/convocatoria-datacamp/
