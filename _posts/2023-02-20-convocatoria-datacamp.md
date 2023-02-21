@@ -21,11 +21,11 @@ Por segundo año consecutivo, la Infraestructura Mundial de Información en Biod
 
 [Inscribirse](https://forms.gle/HnZViiofYgTuzdJM8){:target="_blank" .button .is-primary}
 
-Nota: las licencias requieren un mínimo de participación semanal por parte de los seleccionados, de lo contrario la licencia podrá ser revocada y asignada a otro candidato. 
+  Nota: las licencias requieren un mínimo de participación semanal por parte de los seleccionados, de lo contrario la licencia podrá ser revocada y asignada a otro candidato. 
 
-Esta iniciativa, ofrece a los profesionales colombianos —y demás profesionales asociados al nodo— que trabajan por la gestión y manejo sostenible de la biodiversidad en el país, espacios para desarrollar habilidades en el manejo y análisis de datos. Lo que permitirá **fortalecer sus conocimientos en programación** con miras a fortalecer sus investigaciones y proyectos en ciencias ambientales, sociales o de la salud que saquen el mejor provecho a los datos abiertos sobre biodiversidad.
+Esta iniciativa, ofrece a los profesionales colombianos que trabajan por la gestión sostenible de la biodiversidad en el país, espacios para desarrollar habilidades en el manejo y análisis de datos. Lo que permitirá **robustecer sus conocimientos en programación** con miras a fortalecer sus investigaciones y proyectos en ciencias ambientales, sociales o de la salud, que saquen el mejor provecho a los datos abiertos sobre biodiversidad.
 
-Aunque el idioma no es una barrera, ya que los cursos cuentan con subtítulos; los interesados deben tener un manejo intermedio de inglés, ya que este es el idioma predominante de la plataforma. 
+Aunque el idioma no es una barrera, ya que **los cursos cuentan con subtítulos**; los interesados deben tener un manejo intermedio de inglés, ya que este es el idioma predominante de la plataforma. 
 
 DataCamp cuenta con más de [300 cursos disponibles en su plataforma](https://app.datacamp.com/learn/skill-tracks){:target="_blank"} que tiene como objetivo aumentar la alfabetización digital sobre herramientas como Python, R y SQL.
 
