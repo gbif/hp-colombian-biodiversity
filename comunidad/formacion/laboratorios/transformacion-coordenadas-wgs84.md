@@ -102,7 +102,7 @@ Para finalizar, revisar que la previsualización en la opción <span class="tag 
 <sup>_Figura 5. Pasos para cargar archivos de texto delimitados en QGIS: A. Selección del archivo a cargar, B. Selección de campos de coordenadas, C. Selección del sistema de referencia, D. Vista previa de los datos a cargar, E. Selección de la codificación de los datos._</sup>
 
 <div class="notification is-info is-light">
-  <b>Nota:</b> Para ver un paso a paso detallado de carga de datos desde un archivo de texto plano, revisar el Paso 5 - Carga de los datos del laboratorio de <a href="https://biodiversidad.co/formacion/laboratorios/QGIS#paso-5---carga-de-los-datos">Validación geográfica con QGIS</a>.
+  <b>Nota:</b> Para ver un paso a paso detallado de carga de datos desde un archivo de texto plano, revisar el Paso 5 - Carga de los datos del laboratorio de <a href="https://biodiversidad.co/formacion/laboratorios/QGIS#paso-5---carga-de-los-datos" target="_blank">Validación geográfica con QGIS</a>.
 </div>
 
 ## Paso alterno - Verificación del sistema de referencia de coordenadas
