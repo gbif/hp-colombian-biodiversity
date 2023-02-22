@@ -36,7 +36,7 @@ Las instancias de publicación principales son: [IPT SiB](https://ipt.biodiversi
 
 **Enlace**
 
-IPT Test: [https://ipt.biodiversidad.co/sib-test/](https://ipt.biodiversidad.co/sib-test/){:target="_blank"}
+IPT Test: [https://ipt.biodiversidad.co/sib-test/](https://ipt.biodiversidad.co/sib-test/){:target="_blank"}.
 
 **Archivos de trabajo**
 
@@ -44,8 +44,8 @@ En esta guía se utilizarán las plantillas Excel de registros biológicos y de 
 
 - Archivo core de registros biológicos en formato Excel: [<FONT FACE="monospace"><b>«Datos Estandarizados Excel.xlsx»</b></FONT>](https://docs.google.com/spreadsheets/d/1TiQR0j_i6w0aM2Mme1G4ThbTA7XAkktj/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}
 - Archivo extensión de permisos en formato Excel: [<FONT FACE="monospace"><b>«Extension_permisos_Excel.xlsx»</b></FONT>](https://docs.google.com/spreadsheets/d/1l_C4wlU98AdsdaGeOtt1wdAGZR_OSeWS/edit?usp=share_link&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"}
-- Archivo core de registros biológicos en formato de texto plano: [«Datos_estandarizados_textoplano.txt»](https://drive.google.com/file/d/15KqcdxH2LZ1gnxJs3mwaCD47jHBF93H9/view?usp=sharing){:target="_blank"}
-- Archivo extensión de permisos en formato de texto plano: [«Extension_permisos_textoplano.txt»](https://drive.google.com/file/d/1s27XhUCt8ebhADVZFwKa6cEfTHSa6u2-/view?usp=share_link){:target="_blank"}
+- Archivo core de registros biológicos en formato de texto plano: [<FONT FACE="monospace"><b>«Datos_estandarizados_textoplano.txt»</b></FONT>](https://drive.google.com/file/d/15KqcdxH2LZ1gnxJs3mwaCD47jHBF93H9/view?usp=sharing){:target="_blank"}
+- Archivo extensión de permisos en formato de texto plano: [<FONT FACE="monospace"><b>«Extension_permisos_textoplano.txt»</b></FONT>](https://drive.google.com/file/d/1s27XhUCt8ebhADVZFwKa6cEfTHSa6u2-/view?usp=share_link){:target="_blank"}
 
 
 --------
@@ -59,7 +59,7 @@ Con el objetivo subir los datos a partir de una plantilla de publicación del Si
 Al finalizar, guardar los cambios para conservar las modificaciones que se realizaron en el archivo.
 
 ![Figura 1. Eliminar la fila con los elementos Darwin Core en español desde la plantilla de registros biológicos en Excel.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig1_C5Carga_EliminarFila.png)
-<sup>_Figura 1. Eliminar la fila con los elementos Darwin Core en español desde la plantilla de registros biológicos en Excel._</sup>
+<sup>_Figura 1. Eliminar la fila con los elementos Darwin Core en español desde la Plantilla de registros biológicos en Excel._</sup>
 
 ## Paso 2 - Ingreso al IPT y creación del recurso
 
@@ -94,13 +94,14 @@ Posteriormente, ir a <span class="tag is-warning is-light"><i>Crear nuevo recurs
   - Opcionalmente, se puede incluir el año del proyecto dentro del nombre corto si se considera necesario.
   - No usar espacios, se recomienda separar las palabras que conformen el nombre corto con guiones (-) o guiones bajos (_).
   - No incluir espacios ni carácteres especiales como tildes (´) o eñes (ñ).
-- **Selección del tipo de recurso**: En la lista desplegable de la sección **"Tipo"**, seleccionar la opción que corresponda a los datos a publicar (Fig. 4). En este caso, <span class="tag is-warning is-light"><b><i>Registros Biológicos</i></b></span>. La elección del tipo de datos durante la creación del recurso no es definitiva y se puede cambiar este ítem a lo largo de la publicación.  
-- **Opción para importar un archivo DwC-A**: Esta opción no se usará en este ejercicio, ya que solo es necesaria si se cuenta con un _Darwin Core Archive_ (DwC-A). En ese caso, se puede usar la función <span class="tag is-warning is-light"><b><i>Importar desde archivo</i></b></span>. Esta opción solo acepta el formato DwC-A, que corresponde a un archivo comprimido (Ver: [¿Qué es un archivo DwC-A y que contiene?](https://biodiversidad.co/compartir/faq/#otras)).
+- **Selección del tipo de recurso**: En la lista desplegable de la sección **"Tipo"**, seleccionar la opción que corresponda a los datos a publicar (Fig. 4). En este caso, <span class="tag is-warning is-light"><i>Registros Biológicos</i></span>. La elección del tipo de datos durante la creación del recurso no es definitiva y se puede cambiar este ítem a lo largo de la publicación.  
+- **Opción para importar un archivo DwC-A**: Esta opción no se usará en este ejercicio, ya que solo es necesaria si se cuenta con un _Darwin Core Archive_ (DwC-A). En ese caso, se puede usar la función <span class="tag is-warning is-light"><i>Importar desde archivo</i></span>. Esta opción solo acepta el formato DwC-A, que corresponde a un archivo comprimido (Ver: [¿Qué es un archivo DwC-A y que contiene?](https://biodiversidad.co/compartir/faq/#otras)).
 
-Para finalizar, hacer clic en <span class="tag is-warning is-light"><b><i>Crear</i></b></span> (Fig. 4).
+Para finalizar, hacer clic en <span class="tag is-warning is-light"><i>Crear</i></span> (Fig. 4).
 
 ![Figura 4. Creación de un nuevo recurso con un ejemplo de Nombre corto y la selección del Tipo de datos a cargar en el recurso. La opción Carga de un DwC-A no se usará en esta guía.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig4_C5Carga_Crear.png)
-<sup>_Figura 4. Creación de un nuevo recurso con un ejemplo de Nombre corto y la selección del Tipo de datos a cargar en el recurso. La opción <span class="tag is-warning is-light"><b><i>Carga de un DwC-A</i></b></span> no se usará en esta guía._</sup>
+<sup>_Figura 4. Creación de un nuevo recurso con un ejemplo de Nombre corto y la selección del Tipo de datos a cargar en el recurso. La opción <span class="tag is-warning is-light"><i>Carga de un DwC-A</i>
+  </span> no se usará en esta guía._</sup>
 
 <div class="notification is-info is-light">
   <b>Nota:</b> Es posible que en esta vista se encuentren los recursos creados por otros estudiantes que han realizado esta guía. Estos recursos <b>no se deben modificar</b>.
@@ -119,13 +120,13 @@ Se abordará el proceso de carga de datos a partir de las plantillas de publicac
 
 En la vista general del recurso de la sección “**Conjunto de Datos**”, se encuentran las opciones para la carga de los datos en una lista desplegable:
 
-- <span class="tag is-warning is-light"><b><i>Base de datos</i></b></span>: conecta una base de datos directamente al IPT. Esta opción requiere un mayor conocimiento técnico. Para conectar una base de datos, se debe consultar la información del [manual del IPT](https://ipt.gbif.org/manual/es/ipt/2.5/manage-resources#base-de-datos-como-conjunto-de-datos){:target="_blank"}.
-- <span class="tag is-warning is-light"><b><i>Archivo</i></b></span>: subir un archivo directamente desde el ordenador. Esta es la opción más frecuente para la carga de datos.
-- <span class="tag is-warning is-light"><b><i>URL</i></b></span>: llamar los datos de texto directamente desde una URL. Para conectar los datos desde una URL, se debe consultar la información en el [manual del IPT](https://ipt.gbif.org/manual/es/ipt/2.5/manage-resources#url-como-conjunto-de-datos){:target="_blank"}.
+- <span class="tag is-warning is-light"><i>Base de datos</i></span>: conecta una base de datos directamente al IPT. Esta opción requiere un mayor conocimiento técnico. Para conectar una base de datos, se debe consultar la información del [manual del IPT](https://ipt.gbif.org/manual/es/ipt/2.5/manage-resources#base-de-datos-como-conjunto-de-datos){:target="_blank"}.
+- <span class="tag is-warning is-light"><i>Archivo</i></span>: subir un archivo directamente desde el ordenador. Esta es la opción más frecuente para la carga de datos.
+- <span class="tag is-warning is-light"><i>URL</i></span>: llamar los datos de texto directamente desde una URL. Para conectar los datos desde una URL, se debe consultar la información en el [manual del IPT](https://ipt.gbif.org/manual/es/ipt/2.5/manage-resources#url-como-conjunto-de-datos){:target="_blank"}.
 
-Seleccionar la opción <span class="tag is-warning is-light"><b><i>Archivo</i></b></span> (Fig. 6) y hacer clic en <span class="tag is-warning is-light"><b><i>Examinar</i></b></span> para seleccionar el archivo a cargar (Fig. 6). En la nueva ventana, elegir la plantilla que se editó en el paso 1 <FONT FACE="monospace"><b>«Datos_estandarizados_Excel.xlsx»</b></FONT> y hacer clic en <span class="tag is-warning is-light"><b><i>Abrir</i></b></span>.
+Seleccionar la opción <span class="tag is-warning is-light"><i>Archivo</i></span> (Fig. 6) y hacer clic en <span class="tag is-warning is-light"><i>Examinar</i></span> para seleccionar el archivo a cargar (Fig. 6). En la nueva ventana, elegir la plantilla que se editó en el paso 1 <FONT FACE="monospace"><b>«Datos_estandarizados_Excel.xlsx»</b></FONT> y hacer clic en <span class="tag is-warning is-light"><i>Abrir</i></span>.
 
-Para completar el proceso de carga, hacer clic en el botón <span class="tag is-warning is-light"><b><i>Agregar</i></b></span> que aparece al seleccionar el archivo (Fig. 6).
+Para completar el proceso de carga, hacer clic en el botón <span class="tag is-warning is-light"><i>Agregar</i></span> que aparece al seleccionar el archivo (Fig. 6).
 
 ![Figura 6. Selección de la fuente de datos (Archivo) y carga de la plantilla en el IPT ( Datos_estandarizados_Excel.xlsx).](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig6_C5Carga_Archivo.png)
 <sup>_Figura 6. Selección de la fuente de datos y carga de la plantilla en el IPT._</sup>
@@ -134,9 +135,9 @@ Para completar el proceso de carga, hacer clic en el botón <span class="tag is-
 
 En la nueva vista se deben especificar algunas opciones según el formato del archivo cargado, ya sea Excel o texto plano. Para el caso de las plantillas del SiB Colombia en Excel, se deben completar estos pasos:
 
-1. En la opción <span class="tag is-warning is-light"><b><i>Número de filas del encabezado</i></b></span>, cambiar el valor de <span class="tag is-light"><b>0</b></span> por un <span class="tag is-light"><b>1</b></span> (Fig. 7). Esto indica que la primera fila del archivo tiene los encabezados (elementos DwC).
+1. En la opción <span class="tag is-warning is-light"><i>Número de filas del encabezado</i></span>, cambiar el valor de <span class="tag is-light"><b>0</b></span> por un <span class="tag is-light"><b>1</b></span> (Fig. 7). Esto indica que la primera fila del archivo tiene los encabezados (elementos DwC).
 
-2. En la opción <span class="tag is-warning is-light"><b><i>Seleccione una hoja</i></b></span>, hacer clic en el desplegable y elegir la hoja <span class="tag is-warning is-light"><b><i>Plantilla</i></b></span> que contiene los datos  (Fig. 7). Para que los cambios realizados sean leídos correctamente, dar clic en la opción <span class="tag is-warning is-light"><b><i>Analizar</i></b></span>. Si no se da clic en <span class="tag is-warning is-light"><b><i>Analizar</i></b></span>, la nueva configuración no será leída y el archivo se cargará con la primera hoja (instrucciones) por defecto. (Fig. 7).
+2. En la opción <span class="tag is-warning is-light"><i>Seleccione una hoja</i></span>, hacer clic en el desplegable y elegir la hoja <span class="tag is-warning is-light"><i>Plantilla</i></span> que contiene los datos  (Fig. 7). Para que los cambios realizados sean leídos correctamente, dar clic en la opción <span class="tag is-warning is-light"><i>Analizar</i></span>. Si no se da clic en <span class="tag is-warning is-light"><i>Analizar</i></span>, la nueva configuración no será leída y el archivo se cargará con la primera hoja (instrucciones) por defecto. (Fig. 7).
 
 ![Figura 7. Selección de opciones para cargar una plantilla SiB Colombia en formato de archivo Excel. Cambio en el número de filas del encabezado de 0 a 1. Selección de la hoja Plantilla con los datos a cargar. Analizar los datos para asegurar que los cambios se interpreten correctamente.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig7_C5Carga_Opciones.png)
 <sup>_Figura 7. Selección de opciones para cargar una plantilla SiB Colombia en formato de archivo Excel. Cambio en el número de filas del encabezado de 0 a 1. Selección de la hoja Plantilla con los datos a cargar. Analizar los datos para asegurar que los cambios se interpreten correctamente._</sup>
@@ -144,15 +145,15 @@ En la nueva vista se deben especificar algunas opciones según el formato del ar
 Antes de finalizar el proceso de carga, se recomienda previsualizar los datos para corroborar que la información se cargó correctamente. Para esto, dar clic en el botón con el ícono del ojo (Fig. 8). Esto abrirá una pestaña general donde se puede revisar que los datos estén cargados correctamente (Fig. 9).
 
 ![Figura 8. Selección de la opción Previsualización para corroborar la correcta interpretación de la plantilla Excel.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig8_C5Carga_Analizar.png)
-<sup>_Figura 8. Selección de la opción <span class="tag is-warning is-light"><b><i>Previsualización</i></b></span> para corroborar la correcta interpretación de la plantilla Excel._</sup>
+<sup>_Figura 8. Selección de la opción <span class="tag is-warning is-light"><i>Previsualización</i></span> para corroborar la correcta interpretación de la plantilla Excel._</sup>
 
 ![Figura 9. Detalle de la previsualización de los datos cargados antes de guardar los cambios. Se puede observar que los encabezados corresponden al estándar Darwin Core y que los contenidos de cada elemento son coherentes.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig9_C5Carga_Vista.png)
 <sup>_Figura 9. Detalle de la previsualización de los datos cargados antes de guardar los cambios. Se puede observar que los encabezados corresponden al estándar Darwin Core y que los contenidos de cada elemento son coherentes._</sup>
 
-Para salir de la previsualización, hacer clic sobre la tabla que se está previsualizando o presionar ESC en el teclado. Al volver a la vista de configuración del archivo, dar clic en <span class="tag is-warning is-light"><b><i>Guardar</i></b></span> (Fig. 10). 
+Para salir de la previsualización, hacer clic sobre la tabla que se está previsualizando o presionar ESC en el teclado. Al volver a la vista de configuración del archivo, dar clic en <span class="tag is-warning is-light"><i>Guardar</i></span> (Fig. 10). 
 
 ![Figura 10. Clic en la opción Guardar para conservar los cambios y finalizar la carga del archivo en el IPT.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig10_C5Carga_Guardar.png)
-<sup>_Figura 10. Clic en la opción <span class="tag is-warning is-light"><b><i>Guardar</i></b></span> para conservar los cambios y finalizar la carga del archivo en el IPT._</sup>
+<sup>_Figura 10. Clic en la opción <span class="tag is-warning is-light"><i>Guardar</i></span> para conservar los cambios y finalizar la carga del archivo en el IPT._</sup>
 
 ### 3.3 Verificación de la carga de los datos 
 
@@ -161,7 +162,7 @@ En este caso, ¿coincide el número de filas y columnas cargadas con el archivo 
 
 El número de filas de la plantilla es 21, contando el encabezado y 54 columnas, mientras que el archivo cargado tiene 32 filas (Fig. 11). Esto se debe a caracteres ocultos que pueden quedar en los archivos Excel y que el IPT reconoce como filas. Este error fue incorporado intencionalmente para explicar los inconvenientes comunes que se presentan al momento de cargar los datos.
 
-Cuando aparece este tipo de error, hay dos opciones: hacer clic en el botón <span class="tag is-warning is-light"><b><i>Editar</i></b></span> para regresar a la ventana y revisar si hubo un error en la configuración del formato (Ver paso 2.2) o cargar el archivo en formato de texto, como se explica en el siguiente paso:
+Cuando aparece este tipo de error, hay dos opciones: hacer clic en el botón <span class="tag is-warning is-light"><i>Editar</i></span> para regresar a la ventana y revisar si hubo un error en la configuración del formato (Ver paso 2.2) o cargar el archivo en formato de texto, como se explica en el siguiente paso:
 
 ![Figura 11. Verificación del número de filas y columnas cargados desde una plantilla al IPT.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig11_C5Carga_Verificar.png)
 <sup>_Figura 11. Verificación del número de filas y columnas cargados desde una plantilla al IPT._</sup>
@@ -174,21 +175,21 @@ También es posible realizar el proceso de carga de datos en el IPT desde un arc
   <b>Nota:</b> Para saber cómo convertir un archivo Excel en un archivo de texto, se recomienda ver el video <a href="https://www.youtube.com/watch?v=6TwIR0740J8" target="_blank">Validación geográfica con QGIS</a>.
 </div>
 
-Luego, ir a la sección “**Conjunto de Datos**” en el IPT y seleccionar la opción <span class="tag is-warning is-light"><b><i>Archivo</i></b></span> en la lista desplegable (Fig. 12). Posteriormente, hacer clic en el botón <span class="tag is-warning is-light"><b><i>Seleccionar archivo</i></b></span> (Fig. 12). En la  ventana emergente, elegir el archivo de texto plano <FONT FACE="monospace"><b>«Datos_estandarizados_textoplano.txt»</b></FONT> y dar clic en <span class="tag is-warning is-light"><b><i>Abrir</i></b></span>.
+Luego, ir a la sección “**Conjunto de Datos**” en el IPT y seleccionar la opción <span class="tag is-warning is-light"><i>Archivo</i></span> en la lista desplegable (Fig. 12). Posteriormente, hacer clic en el botón <span class="tag is-warning is-light"><i>Seleccionar archivo</i></span> (Fig. 12). En la  ventana emergente, elegir el archivo de texto plano <FONT FACE="monospace"><b>«Datos_estandarizados_textoplano.txt»</b></FONT> y dar clic en <span class="tag is-warning is-light"><i>Abrir</i></span>.
 
-Para completar el proceso de carga, hacer clic en el botón <span class="tag is-warning is-light"><b><i>Agregar</i></b></span> que aparece al seleccionar el archivo (Fig. 12). 
+Para completar el proceso de carga, hacer clic en el botón <span class="tag is-warning is-light"><i>Agregar</i></span> que aparece al seleccionar el archivo (Fig. 12). 
 
 ![Figura 12. Selección de la fuente de datos (Archivo) y carga de un archivo de texto plano en el IPT (Datos_estandarizados_textoplano.txt).](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig12_C5Carga_TextoPlano.png)
 <sup>_Figura 12. Selección de la fuente de datos y carga de un archivo de texto plano en el IPT._</sup>
 
 ### 4.1 Configuración del formato del archivo de texto en el IPT
 
-En el caso de los archivos de texto, las opciones seleccionadas por defecto suelen ser correctas. Por este motivo, **no** se sugiere hacer cambios en las mismas. Solamente es necesario verificar el número de filas y columnas cargadas y revisar por medio de la opción <span class="tag is-warning is-light"><b><i>Previsualización</i></b></span> (Fig. 13). Esto abrirá una ventana donde es posible verificar que los datos se cargaron correctamente. Para salir de la previsualización, hacer clic sobre la misma.
+En el caso de los archivos de texto, las opciones seleccionadas por defecto suelen ser correctas. Por este motivo, **no** se sugiere hacer cambios en las mismas. Solamente es necesario verificar el número de filas y columnas cargadas y revisar por medio de la opción <span class="tag is-warning is-light"><i>Previsualización</i></span> (Fig. 13). Esto abrirá una ventana donde es posible verificar que los datos se cargaron correctamente. Para salir de la previsualización, hacer clic sobre la misma.
 
 ![Figura 13. Opciones para la configuración de un archivo de texto plano. Conteo del número de columnas y filas. Botón para acceder a la previsualización del archivo cargado.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig13_C5Carga_OpcionesTextoPlano.png)
 <sup>_Figura 13. Opciones para la configuración de un archivo de texto plano. Conteo del número de columnas y filas. Botón para acceder a la previsualización del archivo cargado._</sup>
 
-Si en la previsualización se identifica que hay caracteres extraños, particularmente eñes y tildes, es necesario cambiar la configuración de la **"Codificación de caracteres"** a opciones como <span class="tag is-warning is-light"><b><i>Latin 1</i></b></span> o <span class="tag is-warning is-light"><b><i>ISO 8951</i></b></span>. Si se identifica que las columnas no fueron interpretadas correctamente, es probable que se deba cambiar el delimitador de las columnas por coma (,) o punto y coma (;). Para este ejercicio, se recomienda dejar la configuración por defecto. Finalmente, hacer clic en <span class="tag is-warning is-light"><b><i>Guardar</i></b></span> para regresar a la vista general del recurso. 
+Si en la previsualización se identifica que hay caracteres extraños, particularmente eñes y tildes, es necesario cambiar la configuración de la **"Codificación de caracteres"** a opciones como <span class="tag is-warning is-light"><i>Latin 1</i><</span> o <span class="tag is-warning is-light"><i>ISO 8951</i></span>. Si se identifica que las columnas no fueron interpretadas correctamente, es probable que se deba cambiar el delimitador de las columnas por coma (,) o punto y coma (;). Para este ejercicio, se recomienda dejar la configuración por defecto. Finalmente, hacer clic en <span class="tag is-warning is-light"><i>Guardar</i></span> para regresar a la vista general del recurso. 
 
 Después de terminar el proceso de carga del archivo de texto, se puede comparar la información del archivo cargado en formato Excel con el que se cargó en formato de texto. Se evidencia que, en el archivo de texto, el número de filas (20 + encabezado) y columnas (54) sí coincide con el número de filas y columnas que se querían cargar inicialmente, a diferencia del archivo cargado en Excel. (Fig. 14).
 
