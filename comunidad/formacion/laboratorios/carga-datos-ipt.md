@@ -65,7 +65,7 @@ Al finalizar, guardar los cambios para conservar las modificaciones que se reali
 
 ### 2.1. Ingreso al IPT
 
-Ingresar a la herramienta de publicación [IPT de pruebas](https://ipt.biodiversidad.co/sib-test/). En la parte superior derecha, hacer clic en <span class="tag is-warning is-light"><i>Iniciar Sesión</i></span> y diligenciar las siguientes credenciales (Fig. 2):
+Ingresar a la herramienta de publicación [IPT de pruebas](https://ipt.biodiversidad.co/sib-test/){:target="_blank"}. En la parte superior derecha, hacer clic en <span class="tag is-warning is-light"><i>Iniciar Sesión</i></span> y diligenciar las siguientes credenciales (Fig. 2):
 
 - **Usuario**: <span class="tag is-light"><b>laboratorio_formacion@gmail.com</b></span>
 - **Contraseña**: <span class="tag is-light"><b>S64i6E8SD</b></span>
