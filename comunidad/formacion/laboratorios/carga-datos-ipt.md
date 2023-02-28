@@ -54,7 +54,7 @@ En esta guía se utilizarán las plantillas Excel de registros biológicos y de 
 
 Como primer paso, abrir el archivo [<FONT FACE="monospace"><b>«Datos Estandarizados Excel.xlsx»</b></FONT>](https://docs.google.com/spreadsheets/d/1TiQR0j_i6w0aM2Mme1G4ThbTA7XAkktj/edit?usp=sharing&ouid=115826178704209548021&rtpof=true&sd=true){:target="_blank"} para realizar algunas modificaciones que facilitarán el proceso de carga de los datos en IPT. 
 
-Con el objetivo subir los datos a partir de una plantilla de publicación del SiB Colombia, es necesario eliminar la fila con los encabezados de los elementos en español en la pestaña “**Plantilla**”.  Para ello, seleccionar la segunda fila, hacer clic derecho y elegir la opción <span class="tag is-warning is-light"><i>Eliminar</i></span> (Fig. 1). 
+Con el objetivo subir los datos a partir de una plantilla de publicación del SiB Colombia, es necesario eliminar la fila con los encabezados de los elementos en español en la pestaña **"Plantilla"**.  Para ello, seleccionar la segunda fila, hacer clic derecho y elegir la opción <span class="tag is-warning is-light"><i>Eliminar</i></span> (Fig. 1). 
 
 Al finalizar, guardar los cambios para conservar las modificaciones que se realizaron en el archivo.
 
