@@ -15,9 +15,7 @@ Realizar el mapeo de datos en la herramienta de publicación IPT.
 
 **Introducción**
 
-El proceso de mapeo de datos consiste en identificar la correspondencia entre las columnas del archivo de datos con los elementos del estándar _Darwin Core_. Dentro de la herramienta de publicación IPT (del inglés _Integrated Publishing Toolkit_), es posible hacer este proceso al establecer la correspondencia entre las columnas de un archivo de datos cargado en el IPT y los elementos del estándar. 
-
-Sin embargo, desde el Equipo Coordinador del SiB Colombia, hemos establecido varias estrategias que permiten realizar el mapeo de los datos en una etapa previa. Lo anterior con el objetivo de que dicha correspondencia ya se haya establecido al momento de cargar los datos al IPT. Esto ahorra tiempo a la hora de realizar el mapeo dentro del IPT, donde solo se verifica una vez el mapeo del archivo cargado en la plataforma. 
+El proceso de mapeo de datos consiste en identificar la correspondencia entre las columnas del archivo de datos con los elementos del estándar _Darwin Core_. Dentro de la herramienta de publicación IPT (del inglés _Integrated Publishing Toolkit_), es posible hacer este proceso al establecer la correspondencia entre las columnas de un archivo de datos cargado en el IPT y los elementos del estándar. Sin embargo, desde el Equipo Coordinador del SiB Colombia, hemos establecido varias estrategias que permiten realizar el mapeo de los datos en una etapa previa. Lo anterior con el objetivo de que dicha correspondencia ya se haya establecido al momento de cargar los datos al IPT. Esto ahorra tiempo a la hora de realizar el mapeo dentro del IPT, donde solo se verifica una vez el mapeo del archivo cargado en la plataforma. 
 
 En este laboratorio se explica el proceso de mapeo desde el IPT, continuando con el ejercicio realizado en la guía [Cómo cargar los datos al IPT](https://biodiversidad.co/formacion/laboratorios/carga-datos-ipt). Por consiguiente, es necesario realizar primero la carga de los datos para proseguir con el proceso de mapeo.
 
@@ -48,15 +46,11 @@ En primer lugar, se debe ingresar a la herramienta de publicación [IPT de prueb
 - **Contraseña**: <span class="tag is-light"><b>S64i6E8SD</b></span>
 
 ![Figura 1. Inicio de sesión en el IPT test (Ambiente de pruebas) con las credenciales proporcionadas para el desarrollo de la guía.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_mapeo_datos_ipt/Fig1_C5Mapeo_Ingresar.png)
-<sup>_Figura 1. Inicio de sesión en el IPT test (Ambiente de pruebas) con las credenciales proporcionadas para el desarrollo de la guía._</sup>
+<sup>_Figura 1. Inicio de sesión en el IPT test (ambiente de pruebas) con las credenciales proporcionadas para el desarrollo de la guía._</sup>
 
-Cuando se haya ingresado al IPT, seleccionar la opción <span class="tag is-warning is-light"><i>Gestión de recursos</i></span> en el menú, donde se verá una tabla de resumen con todos los recursos que puede administrar con este  usuario (Fig. 2). En esta vista se encuentran los recursos que han creado otros estudiantes previamente a partir de este usuario.
+Cuando se haya ingresado al IPT, seleccionar la opción <span class="tag is-warning is-light"><i>Gestión de recursos</i></span> en el menú, donde se verá una tabla de resumen con todos los recursos que puede administrar con este  usuario (Fig. 2). En esta vista se encuentran los recursos que han creado otros estudiantes previamente a partir de este usuario. A continuación, ubicar el recurso creado en el desarrollo de la guía [Cómo cargar los datos al IPT](https://biodiversidad.co/formacion/laboratorios/carga-datos-ipt){:target="_blank"}.
 
-A continuación, ubicar el recurso creado en el desarrollo de la guía [Cómo cargar los datos al IPT](https://biodiversidad.co/formacion/laboratorios/carga-datos-ipt){:target="_blank"}.
-
-Para realizar la búsqueda de su recurso, utilizar la opción de filtro y hacer la búsqueda con el nombre que se utilizó para crear el conjunto de datos. Este procedimiento se realizó previamente en la guía [Cómo cargar los datos al IPT](https://biodiversidad.co/formacion/laboratorios/carga-datos-ipt){:target="_blank"} (Fig. 2).
-
-Para acceder al recurso, hacer clic sobre el título que está en la columna “**Nombre**” (Fig. 2).
+Para realizar la búsqueda de su recurso, utilizar la opción de filtro y hacer la búsqueda con el nombre que se utilizó para crear el conjunto de datos. Este procedimiento se realizó previamente en la guía [Cómo cargar los datos al IPT](https://biodiversidad.co/formacion/laboratorios/carga-datos-ipt){:target="_blank"} (Fig. 2). Después, hacer clic sobre el título que está en la columna “**Nombre**” para acceder al recurso(Fig. 2).
 
 ![Figura 2. Búsqueda y selección del recurso creado en la guía Cómo cargar los datos al IPT desde el Menú de Gestión de recursos.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_mapeo_datos_ipt/Fig2_C5Mapeo_Busqueda.png)
 <sup>_Figura 2. Búsqueda y selección del recurso creado en la guía Cómo cargar los datos al IPT desde el Menú de Gestión de recursos._</sup>
@@ -69,9 +63,7 @@ Para acceder al recurso, hacer clic sobre el título que está en la columna “
 
 ### 2.1. Selección de los archivos a mapear.
 
-Después de hacer clic e ingresar al recurso, aparecerá la **“Vista General”**. El proceso de mapeo se realiza en la sección “**Mapeo Darwin Core**” (Fig. 3A).
-
-En esta sección se puede seleccionar (Fig. 3A) el tipo de core al que pertenecen los datos en un desplegable (Fig. 3B):
+Después de hacer clic e ingresar al recurso, aparecerá la **“Vista General”**. El proceso de mapeo se realiza en la sección “**Mapeo Darwin Core**” (Fig. 3A). En esta sección se puede seleccionar (Fig. 3A) el tipo de core al que pertenecen los datos en un desplegable (Fig. 3B):
 
 - <span class="tag is-warning is-light"><i>Darwin Core Occurrence</i></span>: para mapear registros biológicos.
 - <span class="tag is-warning is-light"><i>Darwin Core Taxon</i></span>: para mapear listas de chequeo.
@@ -103,25 +95,25 @@ El primer error común es que no se mapean todas las columnas. Esto puede corrob
 ![Figura 5. El número de columnas automapeadas (52) es inferior al número total de columnas del archivo (54).](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_mapeo_datos_ipt/Fig5_C5Mapeo_Columnas.png)
 <sup>_Figura 5. El número de columnas automapeadas (52) es inferior al número total de columnas del archivo (54)._</sup>
 
-Para revisar cuáles fueron las columnas que no se mapearon, hacer clic en la opción  <span class="tag is-warning is-light"><i>Columnas sin mapear</i></span> que está en el menú lateral izquierdo (Fig. 6). En la parte inferior de la página, aparecerá la lista de las columnas que no fueron mapeadas (Fig.6).
+Para revisar cuáles fueron las columnas que no se mapearon, hacer clic en la opción  <span class="tag is-warning is-light"><i>Columnas sin mapear</i></span> que está en el menú lateral izquierdo. En la parte inferior de la página, aparecerá la lista de las columnas que no fueron mapeadas (Fig.6).
 
 ![Figura 6. Información de las columnas sin mapear accesible desde la opción en el menú lateral izquierdo.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_mapeo_datos_ipt/Fig6_C5Mapeo_SinMapear.png)
 <sup>_Figura 6. Información de las columnas sin mapear accesible desde la opción en el menú lateral izquierdo._</sup>
 
 Existen dos tipos principales de columnas que no se mapean:
 
-- Las columnas que no hacen parte del estándar _Darwin Core_ y son internas de la base de datos. Por ejemplo, información de la persona que digitaliza los datos que no tiene correspondencia con ningún elemento del estándar DwC. En este caso, se recomienda eliminar esas columnas antes de subir el archivo para evitar que aparezcan sin mapear.
-- Las columnas que sí pertenecen al estándar darwinCore, pero el nombre del elemento no se encuentra bien escrito o está en español. Para estos casos, es necesario realizar el proceso de mapeo de forma manual al interior del IPT o ajustar los datos y volverlos a cargar con el nombre correcto del elemento _Darwin Core_.
+- Las columnas que **no** hacen parte del estándar _Darwin Core_ y son internas de la base de datos. Por ejemplo, información de la persona que digitaliza los datos que no tiene correspondencia con ningún elemento del estándar DwC. En este caso, se recomienda eliminar esas columnas antes de subir el archivo para evitar que aparezcan sin mapear.
+- Las columnas que **sí** pertenecen al estándar darwinCore, pero el nombre del elemento no se encuentra bien escrito o está en español. Para estos casos, es necesario realizar el proceso de mapeo de forma manual al interior del IPT o ajustar los datos y volverlos a cargar con el nombre correcto del elemento _Darwin Core_.
 
 En este caso, ambas columnas pertenecen al segundo tipo. Para ajustar el mapeo, es necesario buscar el nombre del elemento _Darwin Core_ al que corresponde la columna sin mapear. El elemento que corresponde a  **“occurrencel”** es el <span class="tag is-success is-light"><i>occurrenceID</i></span> y el que corresponde a **“preparaciones"** es <span class="tag is-success is-light"><i>preparations</i></span>. 
 
 Con el fin de realizar el ajuste, se deben seguir los pasos:
 
-- Buscar los elementos sin mapear en la página de mapeo. Es válido usar la búsqueda en el navegador con <span class="tag is-warning is-light"><i>ctrl+f</i></span> (o class="tag is-warning is-light"><i>cmd+f</i></span> para iOS) y escribir el nombre del elemento: <span class="tag is-warning is-light"><i>occurrenceID</i></span> (Fig. 7A).
+- Buscar los elementos sin mapear en la página de mapeo. Es válido usar la búsqueda en el navegador con <span class="tag is-warning is-light"><i>ctrl+f</i></span> o <span class="tag is-warning is-light"><i>cmd+f</i></span> (para iOS) y escribir el nombre del elemento: <span class="tag is-success is-light"><i>occurrenceID</i></span> (Fig. 7A).
 - Una vez que se haya ubicado el elemento, hacer clic en el botón de la lista desplegable para ese elemento. Allí se encuentra el nombre de todas las columnas del archivo cargado. Se debe seleccionar el nombre de la columna equivalente al elemento _Darwin Core_ que se está mapeando. En este caso, la columna **“occurrenceI”**(Fig. 7B).
 
 ![Figura 7. Mapeo manual de las columnas que no mapean de forma automática.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_mapeo_datos_ipt/Fig7_C5Mapeo_MapeoManual.png)
-<sup>_Figura 7. Mapeo manual de las columnas que no mapean de forma automática: A. Búsqueda del campo occurrenceID en el navegador con la opción Ctrl + F o Cmd +f (iOS). B. Selección del campo **“occurrenceI”** del archivo original y mapeado como <span class="tag is-success is-light"><i>occurrenceID</i></span> en el IPT._</sup>
+<sup>_Figura 7. Mapeo manual de las columnas que no mapean de forma automática: A. Búsqueda del campo occurrenceID en el navegador con la opción <span class="tag is-warning is-light"><i>ctrl+f</i></span> o <span class="tag is-warning is-light"><i>cmd+f</i></span> (iOS). B. Selección del campo **“occurrenceI”** del archivo original y mapeado como <span class="tag is-success is-light"><i>occurrenceID</i></span> en el IPT._</sup>
 
 - Repetir este procedimiento con el elemento preparations que corresponde a la columna **“preparaciones”** (Fig. 8).
 
@@ -149,12 +141,12 @@ Las instrucciones para realizar el mapeo de la extensión de permisos se muestra
 
 Las extensiones disponibles dependen del _core_ que se haya seleccionado. En este caso, hay dos disponibles para el _core_ de registros biológicos. Sin embargo, si se desea publicar una lista de especies o un evento de muestreo, hay diferentes opciones de extensiones. Por ejemplo, para la publicación de un evento de muestreo, se debe cargar el archivo de eventos como _Core_ y el archivo de registros biológicos como la extensión <span class="tag is-warning is-light"><i>Darwin Core Occurrence</i></span>.
 
-- En la siguiente ventana, seleccionar el archivo a mapear, que puede ser <FONT FACE="monospace"><b>«extension_permisos_textoplano»</b></FONT> o <FONT FACE="monospace"><b>«extension_permisos_excel»</b></FONT>, según el desarrollo del paso 6 de la guía [Cómo cargar los datos al IPT](https://biodiversidad.co/formacion/laboratorios/carga-datos-ipt).{:target="_blank"} Por último, dar clic en <span class="tag is-warning is-light"><i>Guardar</i></span> (Fig 11).
+- En la siguiente ventana, seleccionar el archivo a mapear, que puede ser <FONT FACE="monospace"><b>«extension_permisos_textoplano»</b></FONT> o <FONT FACE="monospace"><b>«extension_permisos_excel»</b></FONT>, según el desarrollo del paso 6 de la guía [Cómo cargar los datos al IPT](https://biodiversidad.co/formacion/laboratorios/carga-datos-ipt){:target="_blank"}. Por último, dar clic en <span class="tag is-warning is-light"><i>Guardar</i></span> (Fig 11).
 
 ![Figura 11. Selección de archivo con los datos para el mapeo de la extensión GGBN Permit.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_mapeo_datos_ipt/Fig11_C5Mapeo_SeleccionGGBN.png)
 <sup>_Figura 11. Selección de archivo con los datos para el mapeo de la extensión <span class="tag is-warning is-light"><i>GGBN Permit</i></span>._</sup>
 
-En la venta de Mapeo del conjunto de datos, el proceso de mapeo se realizará de manera automática si los datos contenían los encabezados correctamente documentados según el estándar. En este caso, el archivo cuenta con los elementos necesarios documentados para esta extensión, por lo que el número de elementos mapeados debe coincidir con el número de columnas del archivo (Fig 12). Por consiguiente, es necesario revisar que los cuatro elementos hayan sido mapeados correctamente y finalizar dando clic en span class="tag is-warning is-light"><i>Guardar</i></span> (Fig. 12). 
+En la venta de Mapeo del conjunto de datos, el proceso de mapeo se realizará de manera automática si los datos contenían los encabezados correctamente documentados según el estándar. En este caso, el archivo cuenta con los elementos necesarios documentados para esta extensión, por lo que el número de elementos mapeados debe coincidir con el número de columnas del archivo (Fig 12). Por consiguiente, es necesario revisar que los cuatro elementos hayan sido mapeados correctamente y finalizar dando clic en <span class="tag is-warning is-light"><i>Guardar</i></span> (Fig. 12). 
 
 ![Figura 12. Visualización de las columnas auto mapeadas para la extensión GGBN permit.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_mapeo_datos_ipt/Fig12_C5Mapeo_MapeoGGBN.png)
 <sup>_Figura 12. Visualización de las columnas auto mapeadas para la extensión <span class="tag is-warning is-light"><i>GGBN Permit</i></span>._</sup>
@@ -168,9 +160,7 @@ Se puede notar que en la vista general para la extensión <span class="tag is-wa
 
 ## Paso 4 - Reto para reforzar los conocimientos
 
-Si se desea ampliar el conocimiento adquirido, aquí se propone un ejercicio adicional de mapeo de datos.
-
-El primer paso es eliminar el mapeo de la extensión de permisos que se acabó de completar y repetirlo.
+Si se desea ampliar el conocimiento adquirido, aquí se propone un ejercicio adicional de mapeo de datos. El primer paso es eliminar el mapeo de la extensión de permisos que se acabó de completar para repetirlo desde el inicio.
 
 <div class="notification is-info is-light">
   <b>Nota:</b> Para realizar la eliminación de un mapeo, dar clic en el botón <span class="tag is-warning is-light"><i>Editar</i></span> y seleccionar la opción <span class="tag is-warning is-light"><i>Eliminar</i></span> al final del menú izquierdo de la ventana de edición del mapeo. Por último, confirmar la instrucción haciendo clic en <span class="tag is-warning is-light"><i>Sí</i></span> (Fig. 14).
