@@ -10,11 +10,7 @@ height: 41vh
 
 Es un grupo de profesionales que velan por la coherencia y viabilidad de los procesos de montaje, puesta en marcha y mantenimiento de las condiciones de infraestructura, contenidos, gobernanza y comunicación del SiB Colombia. La conformación del EC-SiB será liderada por la entidad coordinadora.
 
-|           |            |              |
-|-----------|------------| -------------|
-|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_DairoEscobar.jpg"></figure> |_Dairo Escobar_| _Coordinación_ |
-|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_JeimmyDiaz.jpg"></figure> |_Jeimmy Díaz_ | _Gestión y Cooperación_ |
-|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_CamilaPlata.jpg"></figure> |_Camila Plata_ | _Administración de Contenidos_ |
-|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_RicardoOrtiz.jpg"></figure> |_Ricardo Ortiz_ | _Administración de Contenidos_ |
-|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_EstebanMarentes.jpg"></figure> |_Esteban Marentes_ | _Administración de Contenidos_ |
-|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_AndresDuarte.jpg"></figure> |_Andrés Duarte_ | _Productos y Servicios_ |
+|     |     |     |
+|:---:|:---:|:---:|
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_DairoEscobar.jpg"></figure><BR> **Dairo Escobar** <BR> _Coordinación_ | <figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_JeimmyDiaz.jpg"></figure><BR> **Jeimmy Díaz** <BR> _Gestión y Cooperación_ | <figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_RicardoOrtiz.jpg"></figure><BR> **Ricardo Ortiz** <BR> _Administración de Contenidos_ |
+|<figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_EstebanMarentes.jpg"></figure><BR> **Esteban Marentes** <BR> _Administración de Contenidos_ | <figure class="image is-128x128"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_AndresDuarte.jpg"></figure><BR> **Andrés Duarte** <BR> _Productos y Servicios_ |
