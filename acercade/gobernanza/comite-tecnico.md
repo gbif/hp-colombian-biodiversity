@@ -8,6 +8,8 @@ imageLicense: |
 height: 41vh
 ---
 
+![Reunión del Comité Técnico del SiB Colombia 2022](/acercade/imagenes/CT-SiB-2022.jpg)
+
 Es la instancia para la construcción colaborativa de las orientaciones conceptuales y operativas del SiB Colombia. 
 El CT-SiB esta conformado por delegados de las entidades miembro del CD-SiB y los socios que se inviten por el EC-SiB según las temáticas a tratar. Está conformado por los siguientes miembros:
 
