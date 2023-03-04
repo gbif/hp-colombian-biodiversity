@@ -48,7 +48,7 @@ El presente informe es el resultado del estudio de flora y fauna realizado en el
 
 - **2. Área de estudio**
 
-El Parque Municipal Natural Campo Alegre está ubicado al interior de la finca La Albania, propiedad del municipio de Santa Rosa de Cabal, en el departamento de Risaralda. Tiene dos hábitats principales: el bosque húmedo y el bosque húmedo premontano, los cuales tienen una altura de 1701 msnm a 1800 msnm.
+El Parque Municipal Natural Campo Alegre está ubicado al interior de la finca La Albania, propiedad del municipio de Santa Rosa de Cabal, en el departamento de Risaralda. Tiene dos hábitats principales: el bosque húmedo y el bosque húmedo premontano, los cuales tienen una altura entre 1701 msnm y 1800 msnm.
 
 - **3. Metodología**
 
@@ -283,7 +283,7 @@ Documentar esta sección de acuerdo al apartado de **"Metodología"** en el caso
 
 En esta sección se documenta la forma en la que se va a citar el recurso y las referencias que se han citado a lo largo de los metadatos.
 
-En el campo “**¿Cómo referenciar este recurso?**”, es necesario corroborar que esté activada la opción <span class="tag is-warning is-light"><i>Generación automática</i></span>. De esta forma, dicha sección se diligenciará según lo documentado en los apartados de **"Creadores del Recurso"** y **"Proveedores de los Metadatos"**, compilados en la sección **2Metadatos Básicos"** (Fig. 13).
+En el campo “**¿Cómo referenciar este recurso?**”, es necesario corroborar que esté activada la opción <span class="tag is-warning is-light"><i>Generación automática</i></span>. De esta forma, dicha sección se diligenciará según lo documentado en los apartados de **"Creadores del Recurso"** y **"Proveedores de los Metadatos"**, compilados en la sección **"Metadatos Básicos"** (Fig. 13).
 
 El formato de referencia utilizado en la generación automática se basa en el formato recomendado (referencia de _DataCite_) y satisface la _Joint Declaration of Data Citation Principle_. Además, incluye un número de versión, el cual es particularmente importante para los conjuntos de datos que se actualizan continuamente.
 
