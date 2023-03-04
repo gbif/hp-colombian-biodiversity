@@ -12,7 +12,7 @@ gobernanza:
       description: |      # required
         Entidades que lo conforman y sus delegados.
       # img required
-      background: /acercade/imagenes/ComiteTecnicoSiB.jpg
+      background: /acercade/imagenes/CT-SiB-tarjeta.jpg
       href: /acercade/gobernanza/comite-tecnico
     - preTitle:   # optional
       title: Equipo Coordinador    # required
