@@ -8,7 +8,7 @@ imageLicense: |
 height: 41vh
 ---
 
-![Reunión del Comité Directivo del SiB Colombia 2022](/acercade/imagenes/CD-SiB-2022.jpg)
+![Reunión del Comité Directivo del SiB Colombia 2023](/acercade/imagenes/CD-SiB-2023.jpg)
 
 Es la instancia que representa los intereses de los socios del SiB Colombia y el medio por el cual se toman decisiones colectivas. Se encarga de evaluar los lineamientos para el funcionamiento del SiB Colombia y direccionar las estrategias y recursos. 
 La conformación del CD-SiB se alinea con las directrices definidas en la Resolución 1484 de 2013 para el Sistema de Información Ambiental de Colombia (SIAC), del cual el SiB Colombia es un subsistema de información y con el esquema de coordinación de la Estrategia Nacional del Inventario de la Biodiversidad (Enibio). Está conformado por los siguientes miembros:
