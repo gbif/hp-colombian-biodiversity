@@ -57,7 +57,7 @@ Ingresar a la [herramienta de gestión de certificados CR-SiB](https://biodivers
 
 Hacer clic en <span class="tag is-warning is-light"><i>Iniciar sesión</i></span> (Fig. 1).
 
-![Figura 1. Inicio de sesión en la herramienta CR-SiB con las credenciales proporcionadas en la guía.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_administracion-certificados/Fig1_C5Certificado_Ingresar.png)
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_administracion-certificados/Fig1_C5Certificado_Ingresar.png" width=450>
 <sup>_Figura 1. Inicio de sesión en la herramienta CR-SiB con las credenciales proporcionadas en la guía._</sup>
 
 <div class="notification is-info is-light">
@@ -71,7 +71,7 @@ Al ingresar, aparecerá el panel general de administración de certificados. All
 
 ## Paso 2 - Generar un certificado
 
-Dar clic en el botón “Generar certificado” en la parte superior derecha (Fig. 3). Esto abrirá una nueva ventana con el paso 1 de la generación del certificado.
+Dar clic en el botón <span class="tag is-warning is-light"><i>Generar certificado</i> de la parte superior derecha (Fig. 3). Esto abrirá una nueva ventana con el paso 1 de la generación del certificado.
 
 ![Figura 3. Clic en la opción de Generar certificado en el menú de la herramienta CR-SiB.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_administracion-certificados/Fig3_C5Certificado_Generar.png)
 <sup>_Figura 3. Clic en la opción de Generar certificado en el menú de la herramienta CR-SiB._</sup>
@@ -103,7 +103,7 @@ Verificar que la información del conjunto de datos sea consistente. Para ello, 
 ![Figura 5. Paso 2 de la herramienta CR-SiB. Verificación de la información de la publicación para generar el certificado e información del titular del permiso.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_administracion-certificados/Fig5_C5Certificado_Paso2.png)
 <sup>_Figura 5. Paso 2 de la herramienta CR-SiB. Verificación de la información de la publicación para generar el certificado e información del titular del permiso._</sup>
 
-La información del titular del permiso se obtiene de forma automática a partir de la información del usuario creado en la herramienta CR-SiB, la cual se solicita en la sección de [**"registro"**](https://biodiversidad.co/compartir/registro/){:target="_blank"} del sitio web [**biodiversidad.co**](https://biodiversidad.co/){:target="_blank"}. Para más información, ver la [Guía para reportar datos](https://biodiversidad.co/compartir/guia-para-reportar/){:target="_blank"}.
+La información del titular del permiso se obtiene de forma automática a partir de la información del usuario creado en la herramienta CR-SiB, la cual se solicita en la sección de [**"registro"**](https://biodiversidad.co/compartir/registro/){:target="_blank"} del sitio web [**biodiversidad.co**](https://biodiversidad.co/){:target="_blank"}. Para más información, ver la [**Guía para reportar datos**](https://biodiversidad.co/compartir/guia-para-reportar/){:target="_blank"}.
 
 ### 2.3 - Documentación de la información del permiso de recolección y del solicitante
 
@@ -121,9 +121,9 @@ Por consiguiente, es necesario documentar la siguiente información en la secci�
 
 En la sección “**Información del solicitante**”, se ingresan los datos de la persona que solicita el certificado al interior de la organización para poder llevar un seguimiento de los certificados creados. En este sentido, debes documentar tus datos para este ejercicio (Fig. 7).
 
-En la sección “**Observaciones**”, ingresar información adicional o comentarios asociados a los datos reportados que faciliten la revisión del certificado por parte de la autoridad ambiental. Adicionalmente, se recomienda poner en la zona de comentarios el título exacto del proyecto para el que se solicitó el permiso y demás aclaraciones sobre el alcance de los datos en el marco del permiso; por ejemplo: "<span class="tag is-light"><b>Certificado generado para el proyecto [Nombre del proyecto]</b></span>". Por otro lado, en cuanto a las colecciones biológicas, se recomienda escribir "<span class="tag is-light"><b>Este conjunto de datos comprende la información histórica reportada para la [Nombre de la colección] junto con [Número de registros] nuevos registros biológicos incorporados en el periodo [Periodo y año (ej: Primer trimestre del 2022)] y asociadas al  proyecto [Nombre del proyecto]</b></span>".
+En la sección “**Observaciones**”, ingresar información adicional o comentarios asociados a los datos reportados que faciliten la revisión del certificado por parte de la autoridad ambiental. Adicionalmente, se recomienda poner en la zona de comentarios el título exacto del proyecto para el que se solicitó el permiso y demás aclaraciones sobre el alcance de los datos en el marco del permiso; por ejemplo: <span class="tag is-light"><b>Certificado generado para el proyecto [Nombre del proyecto]</b></span>. Por otro lado, en cuanto a las colecciones biológicas, se recomienda escribir "Este conjunto de datos comprende la información histórica reportada para la [Nombre de la colección] junto con [Número de registros] nuevos registros biológicos incorporados en el periodo [Periodo y año (ej: Primer trimestre del 2022)] y asociadas al  proyecto [Nombre del proyecto]".
 
-Para este ejercicio, se debe documentar la siguiente observación: "<span class="tag is-light"><b>Certificado generado para el proyecto “Evaluación de la fauna y flora presente en el Parque Municipal Natural Campo Alegre - Finca Albania, como parte de la socialización de resultados con los habitantes de la zona</b></span>" (Fig. 7).
+Para este ejercicio, se debe documentar la siguiente observación: "Certificado generado para el proyecto “Evaluación de la fauna y flora presente en el Parque Municipal Natural Campo Alegre - Finca Albania, como parte de la socialización de resultados con los habitantes de la zona" (Fig. 7).
 
 ![Figura 7. Documentación de la información del solicitante y observaciones.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_administracion-certificados/Fig7_C5Certificado_Solicitante.png)
 <sup>_Figura 7. Documentación de la información del solicitante y observaciones._</sup>
