@@ -58,6 +58,7 @@ Ingresar a la [herramienta de gestión de certificados CR-SiB](https://biodivers
 Hacer clic en <span class="tag is-warning is-light"><i>Iniciar sesión</i></span> (Fig. 1).
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_administracion-certificados/Fig1_C5Certificado_Ingresar.png" width=450>
+
 <sup>_Figura 1. Inicio de sesión en la herramienta CR-SiB con las credenciales proporcionadas en la guía._</sup>
 
 <div class="notification is-info is-light">
@@ -71,7 +72,7 @@ Al ingresar, aparecerá el panel general de administración de certificados. All
 
 ## Paso 2 - Generar un certificado
 
-Dar clic en el botón <span class="tag is-warning is-light"><i>Generar certificado</i> de la parte superior derecha (Fig. 3). Esto abrirá una nueva ventana con el paso 1 de la generación del certificado.
+Dar clic en el botón <span class="tag is-warning is-light"><i>Generar certificado</i></span> de la parte superior derecha (Fig. 3). Esto abrirá una nueva ventana con el paso 1 de la generación del certificado.
 
 ![Figura 3. Clic en la opción de Generar certificado en el menú de la herramienta CR-SiB.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_administracion-certificados/Fig3_C5Certificado_Generar.png)
 <sup>_Figura 3. Clic en la opción de Generar certificado en el menú de la herramienta CR-SiB._</sup>
