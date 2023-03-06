@@ -57,6 +57,16 @@ bannerAlerta:
 noticias:
   features:
 
+    - preTitle: Convocatorias
+      title: "Pasantías 2023-2" 
+      description: |      # required
+        Hasta el 31 de marzo estará abierta la convocatoria para las tres vacantes disponibles.
+      # img required
+      background: /assets/images/noticias_eventos/2023/2023-03-06-convocatoria-pasantias-2023-2.jpg
+      cta:
+      - text: Ver más
+        href: /post/2023/convocatoria-pasantias-2023-2/
+        isPrimary: false
 
     - preTitle: Convocatorias
       title: "Participa por una licencia de capacitación" 
@@ -78,17 +88,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2023/convocatoria-gbif-investigadores-graduados/
-        isPrimary: false
-     
-    - preTitle: Especial de plantas V
-      title: "10.000 datos de los bosques de Colombia" 
-      description: |      # required
-        Quinta entrega del especial: Conoce los tesoros que esconden los bosques del país.
-      # img required
-      background: /assets/images/noticias_eventos/2023/2023-01-20-IFN-plantas-colombia.jpg
-      cta:
-      - text: Ver más
-        href: /post/2023/IFN-plantas-colombia/
         isPrimary: false
 
 
