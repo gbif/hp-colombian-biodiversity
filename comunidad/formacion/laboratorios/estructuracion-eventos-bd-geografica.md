@@ -1,6 +1,6 @@
 ---
 layout: documentation
-permalink: /formacion/estructuracion-eventos-bd-geografica
+permalink: /formacion/laboratorios/estructuracion-eventos-bd-geografica
 title: "Estructuración de eventos al DwC desde una Base de datos geográfica"
 description: "Estructurar los eventos de muestreo presentes en una base de datos geográfica, según el Diccionario Geográfico de la ANLA, para que sigan el estándar Darwin Core y cumplan los requisitos de publicación a través del SiB Colombia."
 sideNavigation: sidenav_laboratorios.terms
