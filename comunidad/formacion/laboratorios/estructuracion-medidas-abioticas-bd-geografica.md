@@ -7,7 +7,7 @@ sideNavigation: sidenav_laboratorios.terms
 toc: true
 ---
 
-# Estructuración de medidas bióticas al DwC desde una base de datos geográfica
+# Estructuración de medidas abióticas al DwC desde una base de datos geográfica
 
 **Objetivo**
 
