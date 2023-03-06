@@ -1,6 +1,6 @@
 ---
 preTitle: 6 de marzo, 2023
-title: "Participa por una licencia de capacitación con GBIF y DataCamp"
+title: "Haz tu pasantía o práctica laboral con nosotros"
 description: |
   _Hasta el 31 de marzo del 2023 estará abierta la convocatoria para las tres vacantes disponibles para las pasantías 2023-2 en el SiB Colombia._
 date: 2023-03-06
@@ -15,7 +15,7 @@ Abierta la **convocatoria para hacer pasantías o prácticas laborales en el SiB
 
 Las pasantías son **modalidad virtual con eventuales sesiones de trabajo presenciales en la ciudad de Bogotá**. Estudiantes de pregrado de todo el país y todas las universidades pueden aplicar.
 
-Desde que se creó el programa en 2015, más de 25 pasantes han pasado por él, lo que les permitió enriquecer su formación profesional y prepararse para la vida laboral. Los detalles del proceso y toda la información sobre los beneficios de aplicar, están disponibles en la página del[ programa pasantías del SiB Colombia](https://biodiversidad.co/comunidad/formacion/programa-pasantias){:target="_blank"}.
+Desde que se creó el programa en 2015, más de 25 pasantes han hecho parte de él, lo que les permitió enriquecer su formación profesional y prepararse para la vida laboral. Los detalles del proceso y toda la información sobre los beneficios de aplicar, están disponibles en la página del[ programa pasantías del SiB Colombia](https://biodiversidad.co/comunidad/formacion/programa-pasantias){:target="_blank"}.
 
 
 ## **Calendario de la convocatoria 2023-2**
@@ -24,12 +24,12 @@ La recepción de postulados estará **abierta durante todo el mes, hasta el 31 d
 
 |         **ETAPA**         |             **FECHA**            |
 |:-------------------------:|:--------------------------------:|
-| Postulación de candidatos | hasta el 31 de marzo             |
-| Revisión de aplicaciones  | del 1  al 9 de abril             |
-| Prueba técnica            | del 10 al 14 de abril            |
-| Invitación a entrevista   | del 24  al 28 de abril           |
-| Aplicación a Estado Joven | del 2 al 20 de mayo              |
-| Ejecución de la pasantía  | julio a diciembre                |
+| Postulación de candidatos     | hasta el 31 de marzo             |
+| Revisión de aplicaciones      | del 1  al 9 de abril             |
+| Prueba técnica                | del 10 al 14 de abril            |
+| Invitación a entrevista       | del 24  al 28 de abril           |
+| Aplicación a Estado Joven[^1] | del 2 al 20 de mayo              |
+| Ejecución de la pasantía      | julio a diciembre                |
 
 
 
@@ -93,3 +93,7 @@ Las pasantías en el SiB Colombia no cuentan con un auxilio económico directo; 
 [Postularse a la pasantía](https://forms.gle/aJE4dP9DCFLGbJB7A){:target="_blank"  .button .is-primary}
 
 ¿Dudas o preguntas sobre la convocatoria?, escribe a sib@humboldt.org.co con el asunto: “Pasantías 2023-2”. 
+
+---
+
+[^1]: Fechas tentativas, para aplicar a este apoyo económico consulte directamente la página de [Estado Joven](https://www.mintrabajo.gov.co/empleo-y-pensiones/movilidad-y-formacion/estado-joven){:target="_blank"}.
