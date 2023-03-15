@@ -9,17 +9,6 @@ height: 41vh
 toc: true
 ---
 
-<div class="message is-danger">
-  <div class="message-header">
-    <p>⚠️ Nuevo modelo para reportar datos de permisos de recolección y contratos de acceso a recursos genéticos</p>
-  </div>
-  <div class="message-body">
-   <p>El nuevo procedimiento incluye herramientas informáticas escalables, actualización de las plantillas con el estándar Darwin Core, mejores posibilidades de gestión de la información y más posibilidades de integración con el modelo de publicación.</p>
-<p>Conoce el paso a paso del nuevo modelo en la <a href="https://biodiversidad.co/compartir/guia-para-reportar/">Guía para reportar</a>.</p>
-  </div>
-</div>
-
-
 
 Los datos e información sobre la biodiversidad de nuestro país son complejos y contienen información taxonómica, geográfica e histórica única, recopilada durante años por científicos, investigadores a través de observaciones o colectas. Esta información es crucial para el correcto entendimiento y gestión de la biodiversidad y los ecosistemas, pero no siempre es fácilmente accesible, o se presenta en formatos que dificultan su interpretación y la interoperabilidad entre distintas fuentes. Actualmente, las organizaciones públicas y privadas quieren gestionar esta información aprovechando los avances tecnológicos, que hoy en día, nos permiten a todos contribuir al conocimiento de nuestra biodiversidad, facilitando de esta manera unas conexiones más robustas entre toda la información.
 
