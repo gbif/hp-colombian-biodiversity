@@ -47,10 +47,6 @@ Los socios del SiB Colombia reconocen y aplican estos principios orientadores fu
 7. **Responsabilidad compartida**: la suma de esfuerzos es fundamental para una iniciativa que se construye a partir del aporte y apropiación de los socios.
 8. **Transparencia**: las actividades, inversiones y recursos del SiB Colombia serán informados públicamente. Los proyectos colaborativos se basarán en reglas claras y oportunas.
 
-## Nodo GBIF Colombia
-
-GBIF —Infraestructura Mundial de Información en Biodiversidad— es una organización internacional y una red de datos financiada por gobiernos de todo el mundo, destinada a proporcionar a cualquier persona, en cualquier lugar, acceso abierto y gratuito a datos sobre cualquier tipo de forma de vida que hay en la Tierra. En Colombia, [la participación nacional en GBIF es facilitada por el SiB Colombia](https://www.gbif.org/country/CO/summary){:target="_blank"} como representante del país desde el año 2003. En este sentido, todos los esfuerzos nacionales de publicación de datos, son reflejados en esta plataforma internacional.
-
 
 ## Gobernanza
 
