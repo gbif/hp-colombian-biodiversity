@@ -6,14 +6,14 @@ que-es-gbif:
   description: |      # required
      La Infraestructura Mundial de Información en Biodiversidad —GBIF por sus siglas en inglés— es una **organización internacional y red de datos financiada por gobiernos de todo el mundo**, destinada a proporcionar a cualquier persona, en cualquier lugar del planeta, acceso abierto y gratuito a datos sobre todos los tipos de formas de vida que hay en la Tierra. En Colombia, [la participación nacional en GBIF es facilitada por el SiB Colombia](https://www.gbif.org/country/CO/summary){:target="_blank"} como representante del país desde el año 2003. En este sentido, todos los esfuerzos nacionales de publicación de datos, son reflejados en esta plataforma internacional.
   # img required
-  background: /acercade/imagenes/que-es-gbif.png
+  background: /acercade/imagenes/que-es-gbif-red.png
 
 #cards
 tarjetas-gbif:
   features:
     - title: Suelo
       # img required
-      background: /acercade/imagenes/gbif-suelo.png
+      background: /acercade/imagenes/gbif-suelo.jpg
       cta:
       - text: Ver más
         href: https://www.gbif.org/es/soil
@@ -21,7 +21,7 @@ tarjetas-gbif:
         
     - title: Conservación
       # img required
-      background: /acercade/imagenes/gbif-conservacion.png
+      background: /acercade/imagenes/gbif-conservacion.jpg
       cta:
       - text: Ver más
         href: https://www.gbif.org/es/conservation
@@ -29,7 +29,7 @@ tarjetas-gbif:
         
     - title: Cambio climático
       # img required
-      background: /acercade/imagenes/gbif-clima.png
+      background: /acercade/imagenes/gbif-clima.jpg
       cta:
       - text: Ver más
         href: https://www.gbif.org/es/climate
@@ -37,7 +37,7 @@ tarjetas-gbif:
         
     - title: Salud pública
       # img required
-      background: /acercade/imagenes/gbif-salud.png
+      background: /acercade/imagenes/gbif-salud.jpg
       cta:
       - text: Ver más
         href: https://www.gbif.org/es/health
@@ -45,7 +45,7 @@ tarjetas-gbif:
         
     - title: ADN barcoding y metagenómica
       # img required
-      background: /acercade/imagenes/gbif-adn.png
+      background: /acercade/imagenes/gbif-adn.jpg
       cta:
       - text: Ver más
         href: https://www.gbif.org/es/dna
@@ -53,7 +53,7 @@ tarjetas-gbif:
         
     - title: Agricultura y seguridad alimentaria
       # img required
-      background: /acercade/imagenes/gbif-agricultura.png
+      background: /acercade/imagenes/gbif-agricultura.jpg
       cta:
       - text: Ver más
         href: https://www.gbif.org/es/food
@@ -61,7 +61,7 @@ tarjetas-gbif:
         
     - title: Sector empresarial
       # img required
-      background: /acercade/imagenes/gbif-empresas.png
+      background: /acercade/imagenes/gbif-empresas.jpg
       cta:
       - text: Ver más
         href: https://www.gbif.org/es/composition/4AiiddbcjhjkW6Va4vl7ii
