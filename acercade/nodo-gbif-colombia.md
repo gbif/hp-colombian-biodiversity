@@ -2,7 +2,7 @@
 layout: compose
 title: Nodo GBIF Colombia
 description: |
-   En Colombia, la participación nacional en GBIF es facilitada por el SiB Colombia como representante del país desde el año 2003.
+   En Colombia, la participación nacional en GBIF es facilitada por el SiB Colombia, como representante del país desde el año 2003.
 background: https://images.unsplash.com/photo-1502780787199-5bdc5502db3f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4048&q=80
 imageLicense: |
    
