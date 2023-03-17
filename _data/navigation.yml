@@ -79,6 +79,8 @@
   menu: # Dropdown menu (one level deep only)
   - text: SiB Colombia
     href: /acercade/sib-colombia
+  - text: Nodo GBIF Colombia
+    href: /acercade/nodo-gbif-colombia
  # - text: Aliados
  #  href: /acercade/aliados/andi
   - text: Términos y condiciones
