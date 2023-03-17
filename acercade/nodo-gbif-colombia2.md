@@ -17,6 +17,7 @@ composition:
 
 | La Infraestructura Mundial de Información en Biodiversidad —GBIF por sus siglas en inglés— es una organización internacional y red de datos financiada por gobiernos de todo el mundo, destinada a proporcionar a cualquier persona, en cualquier lugar del planeta, acceso abierto y gratuito a datos sobre todos los tipos de formas de vida que hay en la Tierra. En Colombia, la participación nacional en GBIF es facilitada por el SiB Colombia{:target="_blank"} como representante del país desde el año 2003. En este sentido, todos los esfuerzos nacionales de publicación de datos, son reflejados en esta plataforma internacional. | ![¿Qué es GBIF?](/acercade/imagenes/que-es-gbif-red.png) |
 
+Conoce más sobre cómo opera GBIF en este video.
 
 <iframe src="https://player.vimeo.com/video/661945151?h=a15da19daf" width="100%" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
@@ -28,3 +29,16 @@ Cada participante nacional tiene un "Nodo", que es el responsable de coordinar l
 
 Las [Reuniones Regionales](https://www.gbif.org/es/resource/search?q=regional&contentType=event&_showPastEvents=true){:target="_blank"}, que se celebran anualmente o bianualmente, permiten a los participantes tratar tareas y problemas comunes, establecer prioridades regionales y estimular la especialización dentro de la región.
 
+## Visión
+
+Un mundo donde los mejores datos posibles sobre biodiversidad apuntalan la investigación, las políticas públicas y la toma de decisiones.
+
+## Misión
+
+Movilizar los datos, las habilidades y las tecnologías necesarias para hacer que información comprensible sobre biodiversidad esté disponible y libre para la ciencia y la toma de decisiones que atiendan la pérdida de biodiversidad y el desarrollo sostenible.
+
+## El valor de GBIF
+
+|:---:|:---:|:---:|:---:|
+| [![Suelo](/acercade/imagenes/gbif-suelo.jpg) **Suelo**](https://www.gbif.org/es/soil){:target="_blank"}                                            | [![Conservación](/acercade/imagenes/gbif-conservacion.jpg) **Conservación**](https://www.gbif.org/es/conservation){:target="_blank"}                                      | [![Cambio climático](/acercade/imagenes/gbif-clima.jpg) **Cambio climático**](https://www.gbif.org/es/climate){:target="_blank"}                                   | [![Salud pública](/acercade/imagenes/gbif-salud.jpg) **Salud**](https://www.gbif.org/es/health){:target="_blank"} |
+| [![ADN barcoding y metagenómica](/acercade/imagenes/gbif-adn.jpg) **ADN barcoding y metagenómica**](https://www.gbif.org/es/dna){:target="_blank"} | [![Agricultura y seguridad alimentaria](/acercade/imagenes/gbif-agricultura.jpg) **Agricultura y seguridad alimentaria**](https://www.gbif.org/es/food){:target="_blank"} | [![Sector empresarial](/acercade/imagenes/gbif-empresas.jpg) **Sector empresarial**](https://www.gbif.org/es/composition/4AiiddbcjhjkW6Va4vl7ii){:target="_blank"} |                                                                                                                   |
