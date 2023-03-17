@@ -1,0 +1,79 @@
+
+#split
+que-es-gbif:
+  reverse: true
+  title: "¿Qué es GBIF?"
+  description: |      # required
+     La Infraestructura Mundial de Información en Biodiversidad —GBIF por sus siglas en inglés— es una **organización internacional y red de datos financiada por gobiernos de todo el mundo**, destinada a proporcionar a cualquier persona, en cualquier lugar del planeta, acceso abierto y gratuito a datos sobre todos los tipos de formas de vida que hay en la Tierra. En Colombia, [la participación nacional en GBIF es facilitada por el SiB Colombia](https://www.gbif.org/country/CO/summary){:target="_blank"} como representante del país desde el año 2003. En este sentido, todos los esfuerzos nacionales de publicación de datos, son reflejados en esta plataforma internacional.
+  # img required
+  background: /acercade/imagenes/que-es-gbif.png
+
+#cards
+tarjetas-gbif:
+  features:
+    - title: Suelo
+      # img required
+      background: https://api.gbif.org/v1/image/unsafe/500x400/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F5yzHrQ0iRlo2YjtleftA5N%2Fb0e43707479757b662f84a016fa60a77%2Fbg-soil-2.jpg
+      cta:
+      - text: Ver más
+        href: https://www.gbif.org/es/soil
+        isPrimary: false
+        
+    - title: Conservación
+      # img required
+      background: https://api.gbif.org/v1/image/unsafe/500x400/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F299pypTHSR9btIYcWAhIAp%2Fd20e66ac9f7b4847a1429bd92259c153%2Ftanialions-2.jpg
+      cta:
+      - text: Ver más
+        href: https://www.gbif.org/es/conservation
+        isPrimary: false
+        
+    - title: Cambio climático
+      # img required
+      background: https://api.gbif.org/v1/image/unsafe/500x400/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F5Ho7y5O8oJPNGSJyRdMbzm%2F8bc132e69d66b6e84053a50b42097ec8%2F_bg-climate.jpg
+      cta:
+      - text: Ver más
+        href: https://www.gbif.org/es/climate
+        isPrimary: false
+        
+    - title: Salud pública
+      # img required
+      background: https://api.gbif.org/v1/image/unsafe/500x400/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F4KwKCQY7twHB3LbeJsAUcy%2Fc09bd239a7b8de06a32802ba0035f128%2Fbg-health.jpg
+      cta:
+      - text: Ver más
+        href: https://www.gbif.org/es/health
+        isPrimary: false
+        
+    - title: ADN barcoding y metagenómica
+      # img required
+      background: https://api.gbif.org/v1/image/unsafe/500x400/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F4DBfq8v8kJHpc9Ke4GqJuz%2Fa7ae27e9f70a7a7aa0540c2d2c6946c5%2FDNA-bg.jpg
+      cta:
+      - text: Ver más
+        href: https://www.gbif.org/es/dna
+        isPrimary: false
+        
+    - title: Agricultura y seguridad alimentaria
+      # img required
+      background: https://api.gbif.org/v1/image/unsafe/500x400/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F6VZp9kHYwPYRCBEtsjE9HE%2F0d398e69b5bd738ed9ab73c1e513717e%2Fbg-food-hero.jpg
+      cta:
+      - text: Ver más
+        href: https://www.gbif.org/es/food
+        isPrimary: false
+        
+    - title: Sector empresarial
+      # img required
+      background: https://api.gbif.org/v1/image/unsafe/500x400/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F7Ih05ER5YwWIJJZrYVmYQa%2Fd726a207b331ca7f64c57c5197f49c5f%2Fbg-openpsd.jpg
+      cta:
+      - text: Ver más
+        href: https://www.gbif.org/es/composition/4AiiddbcjhjkW6Va4vl7ii
+        isPrimary: false
+        
+
+
+
+
+
+
+
+
+
+
