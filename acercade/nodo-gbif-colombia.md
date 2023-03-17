@@ -19,7 +19,7 @@ composition:
 
 Conoce más sobre cómo opera GBIF en este video.
 
-<iframe src="https://player.vimeo.com/video/661945151?h=a15da19daf" width="100%" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/661945151?h=a15da19daf" width="100%" height="450" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## La Red GBIF
 
