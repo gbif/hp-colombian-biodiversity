@@ -92,6 +92,8 @@ Modelo de correo electrónico:
 
 Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, referencias bibliográficas, secuencias genéticas, imágenes, vídeo, sonidos, entre otros, y deseas que hagan parte de la publicación, recuerda mencionarlo en el correo y el Equipo Coordinador te apoyará en la estructuración y ajuste de estos datos adicionales.
 
+Recuerda que los acompañamientos en el SiB Colombia se atienden en orden de llegada. Los tiempos de respuesta pueden variar dependiendo de la demanda o la complejidad de los datos.  
+
 ### 5. Inicia el acompañamiento para la publicación
 Sobre tu solicitud, un profesional del Equipo Coordinador del SiB Colombia se pone en contacto contigo y te ofrece el apoyo necesario para la publicación. Este profesional realiza una revisión detallada sobre el conjunto de datos que enviaste, generando un reporte con las sugerencias y recomendaciones, en caso de encontrar vacíos en la calidad de los datos, que deben ser atendidas en el menor tiempo posible.
 
