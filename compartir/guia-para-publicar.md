@@ -41,7 +41,7 @@ Una parte importante de la misión del SiB Colombia es promover una cultura en e
 
 ---
 
-## Publicación de datos voluntaria
+## Publicación de datos
 
 Esta es la ruta de publicación más frecuente, usada para compartir [registros biológicos, eventos de muestreo y listas de especies](/compartir/tipos-de-datos). Al ser una ruta voluntaria, el Equipo Coordinador del SiB Colombia ofrece un acompañamiento para la publicación exitosa de los datos, asegurando que los conjuntos de datos cuentan con la mayor calidad posible.
 
