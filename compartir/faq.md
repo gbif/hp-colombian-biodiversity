@@ -220,7 +220,7 @@ Puede usar otros identificadores de la colección de la que procede el registro.
 <ul>
     <li><B>Ejemplo: </B>Para documentar el elemento collectionID de las “Colecciones Biológicas Universidad CES”, hay dos opciones:</li>
     <ul>
-    <li><a href="http://grscicoll.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology" target="_blank">http://grscicoll.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology</a></li>
+    <li><a href="https://www.gbif.org/grscicoll/collection/bee15d72-0fe8-4e86-8581-b1a61da2024e" target="_blank">https://www.gbif.org/grscicoll/collection/bee15d72-0fe8-4e86-8581-b1a61da2024e</a></li>
     <li><a href="http://grbio.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology" target="_blank">http://grbio.org/institutional-collection/colecciones-biol%C3%B3gicas-de-la-universidad-ces-ornithology</a></li>
     </ul>   
     </ul>     
@@ -235,7 +235,7 @@ ___
 <br>
 Para la documentación de las coordenadas de un transecto hay dos opciones:
     <ol>  
-<li>Documentar en los elementos decimalLatitude y decimalLongitude las coordenadas del punto medio del transecto y el elemento footprintWKT con las coordenadas iniciales y finales del transecto por ejemplo: LINESTRING (2.80151 51.28597, 2.61749 51.53950) donde indicas la geometría (LINESTRING=transecto, POLYGON=parcela) seguido de las coordenadas de cada punto del área de muestreo ( dos pares de coordenadas para transectos; mínimo cuatro pares de coordenadas para parcelas)</li>
+<li>Documentar en los elementos decimalLatitude y decimalLongitude las coordenadas del punto medio del transecto y el elemento footprintWKT con las coordenadas iniciales y finales del transecto por ejemplo: LINESTRING (-74.139299 10.689195, -74.13791 10.689422) (Para un transecto de muestreo con coordenadas iniciales (longitud=-74.139299, latitud=10.689195) y finales (longitud=-74.13791, latitud=10.689422)) donde indicas la geometría (LINESTRING=transecto, POLYGON=parcela) seguido de las coordenadas de cada punto del área de muestreo (dos pares de coordenadas para transectos; mínimo cuatro pares de coordenadas para parcelas, repitiendo la última coordenada para cerrar el polígono)</li>
       <li>Documentar en los elementos decimalLatitude y decimalLongitude las coordenadas del inicio del transecto y el elemento footprintWKT con las coordenadas iniciales y finales del transecto de acuerdo a las indicaciones dadas anteriormente.</li>
     </ol>
     
@@ -592,6 +592,347 @@ Si perteneces a una colección biológica sigue estas indicaciones:
         <li>Datos de la colección: Documente la información de la colección de acuerdo al <a href="http://rnc.humboldt.org.co/admin/index.php/registros/colecciones" target="_blank">Registro Nacional de Colecciones</a>.</li>
       </ul>
 </ol>
+</details>
+
+
+___
+
+ <details>
+  <summary markdown="span"><B>Si soy una persona natural, ¿cómo obtengo mis credenciales para reportar datos?</B></summary>
+    
+<br>
+    
+Las personas naturales que requieran reportar sus datos asociados a permisos a través del SiB Colombia, deben realizar la solicitud de asignación de credenciales a través del correo <a href="sib@humboldt.org.co" target="_blank">sib@humboldt.org.co</a> relacionando la siguiente información:
+    <ul>
+<li>Tipo de permiso</li>
+<li>Autoridad ambiental que expide el permiso</li>
+<li>Nombre del titular</li>
+<li>Número de identificación</li>
+<li>Correo electrónico del titular del permiso</li>
+<li>Adjuntar resolución mediante la cual se otorgó el permiso</li>
+    </ul>
+    
+A vuelta de correo, el Equipo Coordinador compartirá la información de las credenciales asignadas para el ingreso a las plataformas que permiten el reporte de datos.
+
+</details>
+
+___
+
+<details>
+<summary markdown="span"><B>¿Cómo obtengo las credenciales de acceso para mi organización?</B></summary>
+    
+<br>
+    
+Las credenciales de acceso para organizaciones titulares de permisos de recolección o estudios de impacto ambiental, se deben solicitar a través de <a href="https://biodiversidad.co/compartir/registro" target="_blank">https://biodiversidad.co/compartir/registro/</a>.
+
+Este paso solo hay que hacerlo <B>la primera vez</B> que se van a reportar datos. Para verificar si un titular del permiso ya es proveedor, puedes consultar este <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtemvwzoSXYFG10wJBqhhbpGlaUK2m96qYdri8utfCsFJ3C_-R1eJG9LexkawUvJkziu8mJv_qA900/pubhtml?gid=0&single=true" target="_blank">enlace</a>.
+
+</details>
+
+___
+
+<details>
+<summary markdown="span"><B>¿Qué debo hacer si olvidé mis credenciales de acceso para reportar datos?</B></summary>
+    
+<br>
+    
+Puedes solicitar el restablecimiento de las credenciales al correo <a href="sib@humboldt.org.co" target="_blank">sib@humboldt.org.co</a> indicando el nombre de la organización o persona natural que realiza la solicitud.
+
+</details>
+
+___
+
+<details>
+<summary markdown="span"><B>¿Es posible tener más de una credencial de acceso para reportar datos?</B></summary>
+    
+<br>
+
+El modelo de reporte de datos, solo permite la asignación de una <B>única credencial</B> de acceso por organización/persona natural. Estás deben ser gestionadas al interior de cada organización, de este modo, si otro usuario de la entidad desea generar nuevos certificados o actualizar información deberá comunicarse directamente con el correo registrado en el formulario para este fin o con la persona responsable de la entidad. 
+    
+
+</details>
+
+___
+
+<details>
+    
+<summary markdown="span"><B>¿Es posible cambiar mi usuario para reportar datos?</B></summary>
+    
+<br>
+    
+De acuerdo a los lineamientos del reporte, no es posible realizar un cambio de usuario asociado al reporte. Lo anterior teniendo en cuenta que los reportes y certificados de una entidad se encuentran asociados al usuario con el que se realizó el registro. 
+
+En caso de que el usuario registrado no esté vigente, es posible mantenerlo para fines de ingreso a la plataforma y asociar un correo vigente para fines de comunicación.
+
+  
+</details>
+
+___
+
+<details>
+    
+<summary markdown="span"><B>¿Qué debo hacer si necesito modificar algún recurso reportado  antes de enero del 2022 en la herramienta IPT CR-SiB?</B></summary>
+    
+<br>
+    
+Los recursos reportados antes de enero de 2022 y que requieren ser modificados deben ser anulados para posteriormente ser reportados en las herramientas vigentes. 
+
+Para solicitar la anulación del certificado de reporte expedido, debes comunicarte vía correo electrónico a la dirección <a href="sib@humboldt.org.co" target="_blank">sib@humboldt.org.co</a>y compartir la siguiente información:
+<ul>
+<li>Titular del permiso</li>
+<li>Identificación (NIT o C.C.)</li>
+<li>Número del permiso</li>
+<li>Autoridad ambiental que otorgó el permiso</li>
+<li>Nombre del recurso a eliminar y su enlace</li>
+<li>Número de certificado</li>
+<li>Breve explicación de porqué es necesario realizar la anulación del certificado</li>
+    </ul>    
+        
+
+Finalmente, debes realizar el nuevo reporte con las modificaciones necesarias, siguiendo la <a href="https://biodiversidad.co/compartir/guia-para-reportar/" target="_blank">Guía para reportar datos</a> y expedir nuevamente el certificado del recurso.
+    
+  
+</details>
+
+___
+
+<details>
+    
+<summary markdown="span"><B>¿Dónde encuentro la URL persistente de mi conjunto de datos para generar el certificado?</B></summary>
+    
+<br>
+    
+Esta se consulta en la sección Vista general del recurso en la franja <i>Versiones publicadas / última versión</i>, allí haz click en la opción “Ver” (Figura. 1) que dirigirá a la última versión publicada del recurso y en la barra de direcciones encontraremos la URL (Figura. 2). 
+    
+Puedes apoyarte en el <a href="https://www.youtube.com/watch?v=ynV2kWcC2hg" target="_blank">siguiente video</a> para obtener tu URL
+    
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/compartir/Imagenes/PreguntaFrecuenteCRSiB1.png">
+<sup>Figura 1. Opción utilizada para ver la última versión del conjunto de datos.</sup>
+
+    
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/compartir/Imagenes/PreguntaFrecuenteCRSiB2.png">
+<sup>Figura 2. URl pública el conjunto de datos.</sup>
+  
+</details>
+
+___
+
+<details>
+    
+<summary markdown="span"><B>¿Qué debo hacer si aparece el mensaje de alerta relacionado con el registro de mi organización ante GBIF?</B></summary>
+    
+<br>
+
+Las organizaciones que reportan datos a través del SiB Colombia no son consideradas “socios publicadores”. En ese sentido se debe hacer caso omiso al mensaje de alerta que emerge en el proceso de documentación de metadatos (Figura. 3).
+
+Para conocer más sobre las diferencias entre reportar y publicar, puedes consultar: <a href="https://biodiversidad.co/post/2022/diferencias-entre-publicar-reportar-datos-biodiversidad/" target="_blank">https://biodiversidad.co/post/2022/diferencias-entre-publicar-reportar-datos-biodiversidad/</a>.
+
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/compartir/Imagenes/PreguntaFrecuenteCRSiB3.png">
+<sup>Figura 3. Banner de alerta acerca de la organización no registrada en GBIF.</sup>    
+    
+</details>
+
+___
+
+<details>
+    
+<summary markdown="span"><B>¿Por qué al publicar mi recurso aparece el error “Fallo en la publicación”?</B></summary>
+    
+<br>
+
+Estos errores pueden generarse debido a varias razones, las más frecuentes están relacionadas con la estandarización de los datos, se recomienda tener en cuenta las siguientes  recomendaciones para evitar este error:
+    <ul>
+<li>Revisar la completitud y estructura de los elementos obligatorios de la plantilla (occurrenceID, basisOfRecord, type), así como el correcto uso del vocabulario controlado.</li>
+<li>Ajustar los identificadores duplicados en el elemento occurrenceID, recordando que en este campo todos deben ser únicos.</li>
+<li>Asegurarse de cargar los datos al IPT con los encabezados de la plantilla  en inglés, si se cargan en español se generará un error en el mapeo y publicación de los datos.</li>
+<li>Verificar que las filas y columnas cargadas en el IPT efectivamente correspondan con el total de filas y columnas con las que cuenta el archivo original.</li>
+    </ul>
+    
+</details>
+
+___
+
+<details>
+    
+<summary markdown="span"><B>¿Por qué al realizar el mapeo de datos aparecen alertas en elementos como decimalLatitude y decimalLongitude?</B></summary>
+    
+<br>
+
+Se genera esta alerta ya que en los datos documentados en estos elementos se está utilizando el separador decimal con coma ( , ) en vez de punto ( . ), para el manejo de estos campos se hace indispensable utilizar siempre el separador decimal con punto.
+    
+</details>
+
+___
+
+<details>
+    
+<summary markdown="span"><B>¿Por qué al cargar mi archivo Excel al IPT no se visualizan los datos?</B></summary>
+    
+<br>
+
+Al cargar un archivo Excel es necesario verificar que se haya seleccionado la hoja “Plantilla” donde se encuentran documentados los datos (Figura. 4), de lo contrario estos no serán cargados a la herramienta. Seguido de ello, debe darse clic en “Analizar”.
+
+Puedes consultar el <a href="https://www.youtube.com/watch?v=BO3WXBthWJ0" target="_blank">siguiente video</a> para obtener más detalles.
+
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/compartir/Imagenes/PreguntaFrecuenteCRSiB4.png">
+<sup>Figura 4. Selección de la hoja.</sup>
+
+    
+</details>
+
+___
+
+<details>
+    
+<summary markdown="span"><B>¿Cómo se mapea la Extensión de Permisos?</B></summary>
+    
+<br>
+
+Antes de proceder, es importante asegurarte que el archivo de los datos esté correctamente mapeado a <i>Darwin Core Occurrence</i>.
+    
+Una vez ubicado en la sección <i>Mapeo Darwin Core</i>, sobre la lista desplegable selecciona la opción <i>GGBN Permit Extension</i> (Figura. 5), a continuación debes seleccionar el archivo donde se encuentra la información de los permisos y continuar con el proceso de mapeo convencional.
+
+Puedes consultar el <a href="https://www.youtube.com/watch?v=nosVTUKST5E" target="_blank">siguiente video</a> para conocer el paso a paso.
+
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/compartir/Imagenes/PreguntaFrecuenteCRSiB5.png" width=450>
+
+<sup>Figura 5. Selección de la extensión GGBN Permit Extension en el IPT.</sup>
+    
+</details>
+
+___
+
+<details>
+    
+<summary markdown="span"><B>¿Por qué no funciona la URL persistente a la publicación de mi recurso?</B></summary>
+    
+<br>
+
+Posiblemente se deba a un problema en la visibilidad del recurso en el IPT Permisos. Para verificar que todo esté correcto, dirígete a la sección de <i>Visibilidad</i> en la vista general del recurso y corrobora que este sea <i>Público</i> y disponible para todo el mundo. 
+
+En caso contrario, deberás modificar la visibilidad del recurso haciendo clic sobre el botón “Público” y seguido de ello (Figura. 6), en la sección de <i>Versiones publicadas</i>, darle clic al botón “Público”, de esta forma, se creará una nueva versión del recurso con los ajustes de visibilidad realizados.
+
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/compartir/Imagenes/PreguntaFrecuenteCRSiB6.png">
+<sup>Figura 6. Cambio de la visibilidad al estado "Público".</sup> 
+    
+</details>
+
+___
+
+<details>
+    
+<summary markdown="span"><B>¿Por qué al documentar los metadatos no es posible seleccionar mi organización como publicadora?</B></summary>
+    
+<br>
+
+Es necesario mencionar que siempre que se realice el proceso de reporte a través del IPT Permisos, se va a observar en la sección de <i>Organización publicadora</i> la opción de <i>Ninguna organización</i> (Figura. 7), lo anterior, ya que para las organizaciones y personas que reportan datos a través del SiB Colombia no es necesario encontrarse registradas como publicadoras ante GBIF.
+
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/compartir/Imagenes/PreguntaFrecuenteCRSiB7.png">
+<sup>Figura 7. Selección automática de organización publicadora en el IPT Permisos.</sup>  
+    
+    
+</details>
+
+___
+
+<details>
+    
+<summary markdown="span"><B>¿Por qué al publicar mi recurso se observa en la Vista general Versiones “0” registros?</B></summary>
+    
+<br>
+
+La aparición de los registros en "0" en la vista general del recurso (Figura. 8), indica que el proceso de mapeo de los datos fue pasado por alto o bien que se presentan inconsistencias relacionadas con la estandarización de los datos. Recomendamos revisar la pregunta ¿Por qué al publicar mi recurso aparece el error “Fallo en la publicación”?, que menciona las sugerencias principales para evitar que ocurra este tipo de error.
+    
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/compartir/Imagenes/PreguntaFrecuenteCRSiB8.png">
+<sup>Figura 8. Número de registros "0" en un conjunto de datos publicado.</sup>  
+    
+</details>
+
+___
+
+<details>
+    
+<summary markdown="span"><B>¿Para qué sirve la extensión de permisos?</B></summary>
+    
+<br>
+
+Esta extensión se utiliza para detallar la información correspondiente sobre cualquier tipo de permiso de caracter legal, nacional o internacional, asociado a registros biológicos. Para tener mayor claridad, te sugerimos revisar a detalle los elementos obligatorios especificados en la <a href="https://biodiversidad.co/recursos/plantillas-dwc/#extensiones" target="_blank">plantilla de Permisos GGBN</a>.
+
+Es importante tener en cuenta que el occurrenceID manejado en esta extensión, corresponde exactamente al mismo utilizado en el archivo de Registros Biológicos.
+    
+</details>
+
+___
+
+<details>
+    
+<summary markdown="span"><B>¿Es posible reportar datos utilizando las plantillas de Eventos de muestreo o Listas de chequeo?</B></summary>
+    
+<br>
+
+Puedes reportar datos estandarizados en la plantilla de Eventos siempre y cuando estos tengan asociados registros biológicos. Los datos estandarizados en la plantilla de Listas no se encuentran contemplados dentro del modelo de reporte.
+    
+</details>
+
+___
+
+<details>
+    
+<summary markdown="span"><B>¿Cuáles son mis credenciales de acceso a la herramienta CR-SiB?</B></summary>
+    
+<br>
+
+Las credenciales de acceso a esta herramienta son las mismas que utilizas para ingresar al IPT Permisos (<a href="https://ipt.biodiversidad.co/permisos/" target="_blank">https://ipt.biodiversidad.co/permisos/</a>).
+
+En caso de que un usuario dentro de tu organización requiera generar certificados o actualizar información, las credenciales deberán ser administradas internamente recordando que estas son <B>únicas</B> y se generan <B>una sola vez</B>.
+    
+</details>
+
+___
+
+<details>
+    
+<summary markdown="span"><B>¿Cómo genero el certificado de reporte de datos?</B></summary>
+    
+<br>
+
+Para generar el certificado, puedes seguir el proceso paso a paso en la guía de administración de certificados, en el <a href="https://biodiversidad.co/formacion/laboratorios/administracion-certificados-cr-sib#paso-2---generar-un-certificado" target="_blank">paso 2 - Generar un certificado</a>.
+    
+Adicionalmente, puedes consultar el <a href="https://www.youtube.com/watch?v=pRwzLTd279I" target="_blank">siguiente video</a> para ver el proceso.
+    
+</details>
+
+___
+
+<details>
+    
+<summary markdown="span"><B>¿Qué debo hacer si se generó un certificado con información errónea o incompleta?</B></summary>
+    
+<br>
+
+Puedes seguir estos pasos:
+    <ol>
+        <li>Anular el certificado incompleto o con la información errónea</li>
+        <li>Generar un nuevo certificado con los ajustes necesarios </li>
+    </ol>
+    
+</details>
+
+___
+
+<details>
+    
+<summary markdown="span"><B>¿Cómo puedo anular un certificado?</B></summary>
+    
+<br>
+
+La herramienta CR-SiB te permite gestionar tus certificados, por eso, cuando sea necesario es posible utilizar la opción de “Anular certificado”. Para ello, debes ubicar en la parte lateral derecha el panel de “Acciones”, en el que se encuentran las opciones de <i>Ver certificado</i>, <i>Descargar</i> y <i>Anular certificado</i>, al pulsar sobre esta última opción (Figura. 9), se abrirá una ventana emergente en la que deberás detallar la información básica de la persona solicitante de la anulación y el motivo de la misma, para finalizar haz clic sobre “Anular certificado”.
+
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/compartir/Imagenes/PreguntaFrecuenteCRSiB9.png">
+<sup>Figura 9. Selección de la opción para anular un certificado.</sup>     
+    
+Puede seguir el proceso paso a paso en la guía de administración de certificados, en el <a href="https://biodiversidad.co/formacion/laboratorios/administracion-certificados-cr-sib#43---anular-certificado" target="_blank">paso 4.3 - Anular certificado</a>.
+
 </details>
 
 
