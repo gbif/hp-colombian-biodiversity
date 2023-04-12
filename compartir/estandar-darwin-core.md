@@ -4,7 +4,7 @@ title: Darwin Core - DwC
 description: Estándar internacional para el manejo de datos sobre biodiversidad
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/251009487/large.jpg
 imageLicense: |
-  _Sula leucogaster_ Fotografía de: A.Davey via [iNaturalist](https://www.inaturalist.org/observations/146051610)
+  Escarabajo tigre Fotografía de: Joakim via [iNaturalist](https://www.inaturalist.org/observations/146051610)
 height: 41vh
 permalink: /estandar-darwin-core/
 ---
