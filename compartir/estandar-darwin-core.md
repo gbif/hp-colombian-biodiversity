@@ -12,7 +12,7 @@ permalink: /estandar-darwin-core/
 
 Siguiendo las recomendaciones y acciones a nivel global, el modelo de publicación del SiB Colombia implementa el Darwin Core debido a su filosofía de fácil uso, lo que ha permitido adaptarlo a las necesidades nacionales de múltiples organizaciones que comparten sus datos sobre biodiversidad a través del sistema. El principio fundamental de este estándar es tener un lenguaje común para referirse a los diferentes componentes que puede tener un dato sobre biodiversidad, casi como aprender un nuevo idioma universalmente aceptado para hablar del nombre científico, el colector, la fecha, entre otros.
 
-[Documentación en línea](https://biodiversidad.co/compartir/estandar-darwin-core/){: .button .is-primary} [Plantillas Darwin Core](https://biodiversidad.co/recursos/plantillas-dwc){: .button} 
+[Documentación en línea](/elementos-darwin-core){: .button .is-primary} [Plantillas Darwin Core](/recursos/plantillas-dwc){: .button} 
 
 
 El estándar consiste en una serie de términos o elementos que tiene asociada una definición semántica fácilmente reconocible por personas y por máquinas, de forma que sea interpretable para asociar a cada término los datos que mejor se ajustan a su definición (Darwin Core Task Group, 2022). Estos términos se agrupan en clases o categorías para facilitar la navegación entre sus más de 180 definiciones, estas categorías son: 
