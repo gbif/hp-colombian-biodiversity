@@ -106,7 +106,7 @@ Los contenidos de los cinco cursos que completan la ruta de formación están di
   - Módulo 3: Qué significa publicar datos
   - Módulo 4: Cómo sumarse al SiB Colombia
   
-  [Ver curso](https://aprende.biodiversidad.co/course/2/about){:target="_blank" .button .is-primary}
+  [Ver curso](https://aprende.biodiversidad.co/course/23/about){:target="_blank" .button .is-primary}
 
 
 ### Curso 2 <BR> Aprendiendo un nuevo idioma: introducción al estándar Darwin Core
@@ -133,7 +133,7 @@ Los contenidos de los cinco cursos que completan la ruta de formación están di
   - Módulo 2: Primeros pasos con Darwin Core
   - Módulo 3: Al infinito y más allá del estándar
 
-  [Ver curso](https://aprende.biodiversidad.co/course/4/about){:target="_blank" .button .is-primary}
+  [Ver curso](https://aprende.biodiversidad.co/course/24/about){:target="_blank" .button .is-primary}
 
   
 ### Curso 3 <BR> Manos a la obra: cómo usar el estándar Darwin Core
@@ -162,7 +162,7 @@ Se profundiza en el conocimiento del estándar internacional Darwin Core, median
   - Módulo 4: Manos a la obra: estandarizando eventos
   - Módulo 5: Manos a la obra: uniendo el rompecabezas
 
-  [Ver curso](https://aprende.biodiversidad.co/course/9/about){:target="_blank" .button .is-primary}
+  [Ver curso](https://aprende.biodiversidad.co/course/25/about){:target="_blank" .button .is-primary}
 
   
 ### Curso 4 <BR> Metamorfosis de datos: transformar una GDB al estándar Darwin Core
@@ -191,7 +191,7 @@ Las bases de datos geográficas (GDB) combinan información del medio abiótico,
   - Módulo 4: Anatomía de una GDB - Medidas
   - Módulo 5: GDB lista para el mundo de los datos abiertos
 
-  [Ver curso](https://aprende.biodiversidad.co/course/7/about){:target="_blank" .button .is-primary}
+  [Ver curso](https://aprende.biodiversidad.co/course/26/about){:target="_blank" .button .is-primary}
   
 ### Curso 5 <BR> Datos abiertos y permisos de recolección
   
@@ -219,7 +219,7 @@ Las bases de datos geográficas (GDB) combinan información del medio abiótico,
   - Módulo 4: Certificados
   - Módulo 5: Cómo aumentar la incidencia e impacto de un reporte
 
-  [Ver curso](https://aprende.biodiversidad.co/course/8/about){:target="_blank" .button .is-primary}
+  [Ver curso](https://aprende.biodiversidad.co/course/27/about){:target="_blank" .button .is-primary}
   
   
 ## Preguntas frecuentes
