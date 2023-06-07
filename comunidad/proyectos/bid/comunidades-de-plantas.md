@@ -4,7 +4,12 @@ title:  "Comunidades de platas de los bosques secos tropicales del Caribe colomb
 description: GBIF BID CARIBE
 ---
 
-## Comunidades de platas de los bosques secos tropicales del Caribe colombiano
+
+## Comunidades de plantas de los bosques secos tropicales del Caribe colombiano
+
+<div class="notification is-warning">
+  Inscríbete en el taller virtual de socialización de resultados. Consulta la <a href="[url](https://assets.ctfassets.net/uo17ejk9rkwj/60XMpC6hETJC92cewrCc9B/ef745fd7b6122f053f2d57531bb3a2da/TALLER_Especies_de_las_comunidades_de_plantas_del_bosque_seco_en_el_Caribe_tropical_de_Colombia_2023_-_ong_funda.pdf)" target="_blank">información del taller y los requisitos de participación</a>.
+</div>
 
 Los bosques secos tropicales del Caribe colombiano están altamente transformados, lo que ha generado que varias comunidades vegetales están colapsadas y muchas especies estén amenazadas. El objetivo de este proyecto es recopilar todos los datos disponibles para crear listas de control de las comunidades vegetales y conjuntos de datos de eventos de muestreo de parcelas de campo con ocurrencias de especies vegetales en estas parcelas. El objetivo a largo plazo amplía estas actividades a toda Colombia e incluye estudios de vegetación.
 
