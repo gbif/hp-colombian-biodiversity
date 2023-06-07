@@ -36,7 +36,7 @@ La financiación de la primera fase del programa ha apoyado actividades y proyec
 
 |    |    |
 | ---|--- |
-| **Nombre**   |[Comunidades de platas de los bosques secos tropicales del Caribe colombiano](/comunidad/proyectos/bid/comunidades-de-plantas)    |
+| **Nombre**   |[Comunidades de plantas de los bosques secos tropicales del Caribe colombiano](/comunidad/proyectos/bid/comunidades-de-plantas)    |
 | **Objetivo**    |Crear listas de control de las comunidades vegetales y conjuntos de datos de los eventos de muestreo parae el bosque seco colombiano    |
 |**Socios**| - Academia Colombiana de Ciencias Exactas, Físicas y Naturales<br> | 
 |**Duración**    |1 de julio de 2021 - en progreso   |
