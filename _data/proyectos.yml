@@ -22,15 +22,15 @@ stats1:
 stats2:
   background: "#ffffff55"
   features:
-    - title: 14
+    - title: 15
       description: Totales
       background: /comunidad/proyectos/images/icono1.jpg
       #href: /data
-    - title: 4
+    - title: 1
       description: En progreso
       background: /comunidad/proyectos/images/icono2.jpg
       #href: /data
-    - title: 4
+    - title: 5
       description: Liderados por el SiB Colombia
       background: /comunidad/proyectos/images/icono3.png
       #href: /data
