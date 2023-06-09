@@ -31,7 +31,7 @@ Las convocatorias anuales de propuestas bajo el programa CESP brindan cofinancia
 | **Descripción** | Los objetivos de este proyecto son: transferir información, experiencia y buenas prácticas a los nodos de Costa Rica, Guatemala y Ecuador, para la construcción de comunidades nacionales de publicadores de datos desde el sector empresarial. Crear un curso virtual para el sector empresarial en publicación, acceso y uso de datos compartidos a través de GBIF. Movilizar datos desde algunas empresas de los nodos de Costa Rica, Guatemala y Ecuador que acepten participar en un piloto. Generar una guía de referencia sobre cómo crear contenidos de formación virtual desde los nodos GBIF de habla hispana. |
 | **País líder** | Colombia |
 |**Socios**| Costa Rica, Ecuador, Guatemala, Asociación Nacional de Empresarios de Colombia - ANDI, GeoPark Colombia S.A.S. | 
-|**Duración** | 1 de agosto de 2022 - En progreso |
+|**Duración** | 1 de agosto de 2022 - En ejecución |
 
 
 ### Proyectos finalizados
