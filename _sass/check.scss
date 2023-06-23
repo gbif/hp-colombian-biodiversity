@@ -1,0 +1,10 @@
+$check-color: #FCFCFC;
+$check-bg-color: #ED6307;
+input:checked + span{
+    background-color: $check-bg-color !important;
+    border-color: $check-bg-color !important;
+} 
+input + span::after{
+    color: $check-color;
+    border-color: $check-color !important;
+}

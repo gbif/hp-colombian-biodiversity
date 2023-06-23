@@ -1,0 +1,8 @@
+$primary-color: #ED6307;
+ol{
+    border-bottom: 2px solid $primary-color;
+    margin: 0 !important;
+    li{
+        color: $primary-color;
+    }
+}

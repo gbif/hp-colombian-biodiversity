@@ -1,0 +1,31 @@
+.gbif-occurrenceSearchLayout{
+    ul{
+        margin: 0;
+        padding: 0;
+        li{
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            padding: 1em;
+            &>div{
+                div:nth-child(2){
+                    display: flex;
+                    justify-content: space-between;
+                    width: 100%;
+                    margin-bottom: .5em;
+                }
+                div:last-child{
+                    border: 1px solid #E8E8E8;
+                    background-color: #E8E8E8;
+                    width: 100%;
+                    border-radius: 1em;
+                    >div{
+                        height: 4px;
+                        background-color: #ED6307;
+                        border-radius: 1em;
+                    }
+                }
+            }
+        }
+    }
+}

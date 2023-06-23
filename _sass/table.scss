@@ -1,0 +1,31 @@
+$text-color: #0C0C0C;
+$btn-color: #ED6307;
+table{
+    thead{
+        tr{
+            th{
+                color: $text-color !important;
+                div{
+                    button{
+                        color: $text-color !important;
+                    }
+                    div button{
+                        color: #ed6307 !important;
+                        margin-left: 1em !important;
+                    }
+
+                }
+            }
+        }
+    }
+    tbody{
+        tr{
+            td{
+                color: $text-color !important;
+                svg{
+                    color: $text-color !important;
+                }
+            }
+        }
+    }
+}
