@@ -12,6 +12,8 @@ toc: true
 
 ![](/acercade/imagenes/FooterAlianzaANDI.png)
 
+[![Red Biodiversidad y desarrollo Colombia en GBIF](/assets/images/landing_page/banner_red_biodiversidad_desarrollo_colombia_gbif.png)](https://www.gbif.org/es/network/2ee1bff7-0b34-4fa3-9433-feaa7c6ee08b){:target="_blank"}
+
 Tras el primer año de la **alianza datos abiertos sobre biodiversidad desde el sector empresarial**, entre la ANDI y el SiB Colombia, los resultados superaron las expectativas. Actualmente hay más de 80 conjuntos de datos publicados, que exceden los 600.000 registros biológicos.
 
 Lo que antes eran datos aislados, hoy se encuentran disponibles para su libre consulta y uso, para **facilitar la toma de decisiones y aportar de manera significativa, desde el sector empresarial, al llenado de vacíos de información** sobre la biodiversidad en Colombia. 
