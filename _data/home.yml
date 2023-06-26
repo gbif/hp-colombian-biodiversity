@@ -63,36 +63,36 @@ noticias:
   features:
 
     - preTitle: Convocatorias
-      title: "Pasantías 2023-2" 
+      title: "Reto Ebbe Nielsen 2023" 
       description: |      # required
-        Hasta el 31 de marzo estará abierta la convocatoria para las tres vacantes disponibles.
+        Hasta el 22 de agosto de 2023 está abierta la recepción de propuestas para el Reto Ebbe Nielsen de GBIF.
       # img required
-      background: /assets/images/noticias_eventos/2023/2023-03-06-convocatoria-pasantias-2023-2.jpg
+      background: /assets/images/noticias_eventos/2023/2023-06-21-reto-Ebbe-Nielsen.png
       cta:
       - text: Ver más
-        href: /post/2023/convocatoria-pasantias-2023-2/
+        href: /post/2023/convocatoria-reto-ebbe-nielsen-gbif-2023/
         isPrimary: false
 
-    - preTitle: Convocatorias
-      title: "Participa por una licencia de capacitación" 
+    - preTitle: Especiales
+      title: "Los tesoros que esconden los bosques" 
       description: |      # required
-        Hasta el 20 de marzo puedes participar por una de las 20 licencias disponibles.
+        Conoce los tesoros que esconden los bosques del país gracias a la publicación de más de 10.000 datos.
       # img required
-      background: /assets/images/noticias_eventos/2023/2023-02-20-convocatoria-datacamp.jpg
+      background: /assets/images/noticias_eventos/2023/2023-01-20-IFN-plantas-colombia.jpg
       cta:
       - text: Ver más
-        href: /post/2023/convocatoria-datacamp/
+        href: /post/2023/ifn-plantas-colombia/
         isPrimary: false
      
-    - preTitle: Convocatorias
-      title: "Premio GBIF para Investigadores Graduados" 
+    - preTitle: Datos abiertos
+      title: "Superamos los 20 millones de datos" 
       description: |      # required
-        Conoce la fecha límite para presentar tu nominación como estudiante de posgrado en Colombia.
+        Durante 2022 los socios publicadores del SiB Colombia compartieron 6’401.123 nuevos registros biológicos.
       # img required
-      background: /assets/images/noticias_eventos/2023/2023-01-26-convocatoria-GBIF-investigadores-graduados.png
+      background: /assets/images/noticias_eventos/2023/2023-01-04-record-datos-biodiversidad-colombia.jpg
       cta:
       - text: Ver más
-        href: /post/2023/convocatoria-gbif-investigadores-graduados/
+        href: /post/2023/record-datos-biodiversidad-colombia/
         isPrimary: false
 
 
