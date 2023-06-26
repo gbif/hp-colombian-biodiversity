@@ -52,6 +52,11 @@ bannerAlerta:
        
        [![](/assets/images/noticias_eventos/2022/2022-11-30-banner-inscripciones-ruta-formacion-empresas.png)](https://forms.gle/RKG6tccMWyzMTbaW7){:target="_blank"}
 
+# Banner red Biodiversidad y desarrollo en GBIF
+bannerBDCGBIF:
+  markdownContent: | 
+      [![Red Biodiversidad y desarrollo Colombia en GBIF](/assets/images/landing_page/banner_red_biodiversidad_desarrollo_colombia_gbif.png)](https://www.gbif.org/es/network/2ee1bff7-0b34-4fa3-9433-feaa7c6ee08b){:target="_blank"}
+
 
 # Noticias
 noticias:
