@@ -1,6 +1,6 @@
 ---
 preTitle: 21 de junio, 2023
-title: "Se busca: proyectos innovadores con datos abiertos"
+title: "Se buscan: proyectos innovadores con datos abiertos sobre biodiversidad"
 description: _Hasta el 22 de agosto de 2023 está abierta la recepción de propuestas para el Reto Ebbe Nielsen de GBIF. Los proyectos de innovación con datos abiertos pueden participar por una bolsa de premios de 20.000 euros._
 date:  2023-06-21
 categories: ["GBIF", "Ebbe Nielsen", "Convocatorias", "2023"]
