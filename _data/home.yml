@@ -62,6 +62,17 @@ bannerBDCGBIF:
 noticias:
   features:
 
+    - preTitle: Datos abiertos
+      title: "Nueva red de datos en GBIF" 
+      description: |      # required
+        Biodiversidad y Desarrollo Colombia es la primera red de datos empresarial en GBIF.
+      # img required
+      background: /assets/images/noticias_eventos/2023/2023-06-27-red-biodiversidad-desarrollo-colombia-gbif.jpg
+      cta:
+      - text: Ver más
+        href: /post/2023/red-biodiversidad-desarrollo-colombia-gbif/
+        isPrimary: false
+
     - preTitle: Convocatorias
       title: "Reto Ebbe Nielsen 2023" 
       description: |      # required
@@ -82,17 +93,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2023/ifn-plantas-colombia/
-        isPrimary: false
-     
-    - preTitle: Datos abiertos
-      title: "Superamos los 20 millones de datos" 
-      description: |      # required
-        Durante 2022 los socios publicadores del SiB Colombia compartieron 6’401.123 nuevos registros biológicos.
-      # img required
-      background: /assets/images/noticias_eventos/2023/2023-01-04-record-datos-biodiversidad-colombia.jpg
-      cta:
-      - text: Ver más
-        href: /post/2023/record-datos-biodiversidad-colombia/
         isPrimary: false
 
 
