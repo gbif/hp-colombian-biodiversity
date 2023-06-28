@@ -4,7 +4,7 @@ title: "Biodiversidad y Desarrollo Colombia: primera red de datos empresarial en
 description: _Primera red de datos empresarial reconocida por GBIF. Biodiversidad y desarrollo Colombia es el resultado de las acciones conjuntas con el sector productivo colombiano durante los últimos tres años._
 date:  2023-06-27
 categories: ["GBIF", "Aliados", "Datos abiertos", "2023"]
-background: /assets/images/noticias_eventos/2023-06-27-red-biodiversidad-desarrollo-colombia-gbif.jpg
+background: /assets/images/noticias_eventos/2023/2023-06-27-red-biodiversidad-desarrollo-colombia-gbif.jpg
 
 ---
 
