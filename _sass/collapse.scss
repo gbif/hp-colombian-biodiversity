@@ -1,0 +1,50 @@
+$collapse-text-color: #0C0C0C;
+$collapse-bg: #E8E8E8;
+.article .content details{
+    color: $collapse-text-color;
+    margin-bottom: 1em;
+    summary{
+        padding: 1em 1em;
+        cursor: pointer;
+        color: $collapse-text-color;
+        border-radius: .25em;
+        transition: all .25s;
+        list-style: none;
+        position: relative;
+        &:hover{
+            background-color: $collapse-bg;
+        }
+        &::-webkit-details-marker {
+            display: none;
+        }
+        &::after {
+            content: " ";
+            position: absolute;
+            width: 1em;
+            height: 1em;
+            right: 1em;
+            background-image: url('./images/down-arrow.png');
+            background-size: 100%;
+            transition: all .25s;
+        }
+    }
+    &[open] summary:after {
+        content: " ";
+        position: absolute;
+        right: 1em;
+        width: 1em;
+        height: 1em;
+        right: 1em;
+        background-image: url('./images/down-arrow.png');
+        background-size: 100%;
+        transform: rotate(-180deg);
+    }
+    &[open] summary{
+        background-color: $collapse-bg;
+    }
+}
+.article .content{
+    hr{
+        display: none;
+    }
+}
