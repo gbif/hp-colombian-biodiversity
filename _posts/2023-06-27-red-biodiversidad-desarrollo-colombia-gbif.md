@@ -22,7 +22,7 @@ Biodiversidad y Desarrollo es una plataforma para promover y amplificar la gesti
 
 Este **es un hito importante en el esfuerzo por consolidar, en el SiB Colombia y GBIF, una comunidad de publicadores de datos abiertos sobre biodiversidad**, integrada por el sector empresarial. Asimismo, incrementa la visibilidad del sector empresarial colombiano como una comunidad activa y comprometida con la gestión de datos sobre biodiversidad bajo principios FAIR.
 
-* Lee también: [Empresas colombianas aportan al conocimiento de la biodiversidad del país](https://biodiversidad.co/post/2022/empresas-colombianas-aportan-conocimiento-biodiversidad/).
+* Lee también: [Empresas colombianas aportan al conocimiento de la biodiversidad del país](https://biodiversidad.co/post/2022/empresas-colombianas-aportan-conocimiento-biodiversidad/){:target="_blank"}.
 
 El reconocimiento de la red **facilita la visibilidad de todo el universo de datos aportados por el sector empresarial** y pueden ser consultados de manera integral en los portales del [SiB Colombia](https://biodiversidad.co/data/?networkKey=2ee1bff7-0b34-4fa3-9433-feaa7c6ee08b){:target="_blank"} y [GBIF](https://www.gbif.org/es/occurrence/search?advanced=1&network_key=2ee1bff7-0b34-4fa3-9433-feaa7c6ee08b){:target="_blank"}. Además, se habilitan [métricas o estadísticas](https://www.gbif.org/es/network/2ee1bff7-0b34-4fa3-9433-feaa7c6ee08b/metrics){:target="_blank"}básicas sobre la dinámica de los datos.
 
