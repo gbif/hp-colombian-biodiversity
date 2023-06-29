@@ -9,6 +9,7 @@ ol{
         transition: all .25s;
         &:hover{
             color: $primary-color !important;
+            text-decoration: underline;
         }
     }
     .css-2fysdb{
