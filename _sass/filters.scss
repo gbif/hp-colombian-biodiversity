@@ -1,0 +1,11 @@
+$text-color: #0C0C0C;
+.gbif-filterBar{
+    button{
+        background-color: transparent !important;
+        border-radius: 0;
+        
+        &:hover{
+            background-color: transparent !important;
+        }
+    }
+}
