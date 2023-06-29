@@ -7,7 +7,7 @@ a{
 }
 .is-primary, .gbif-button.gbif-button-primary {
     // padding: .5em 1em;
-    border-radius: .25em;
+    border-radius: .25em !important;
     // margin: 0 8px;
     background: linear-gradient(90deg, #A83B00 0%, #D75606 65.17%, #ED6307 94.79%) !important;
     color: $btn-primary-color !important;
