@@ -31,7 +31,7 @@ $btn-secondary-bg-color: #FCFCFC;
 $btn-secondary-hovered-color: #B54700;
 $btn-secondary-disbled-bg: #FCFCFC;
 $btn-secondary-disbled-color: #6F6F6F;
-.is-outlined, button.gbif-button.gbif-button-primaryOutline {
+.is-outlined, button.gbif-button.gbif-button-primaryOutline, .gbif-button.gbif-button-ghost {
     // padding: .5em 1em;
     border-radius: .25em !important;
     // margin: 0 8px;
