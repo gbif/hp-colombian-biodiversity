@@ -5,8 +5,8 @@ div.statistic{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     margin: .5em;
     flex: 0 0 auto;
@@ -20,9 +20,10 @@ div.statistic{
         width: 100%;
     }
     .feature-img{
-        width: 4.5em;
+        width: 3.5em;
         margin: 0;
         display: flex;
+        filter: brightness(0);
     }
     .feature-content{
         text-align: center;
