@@ -1,9 +1,15 @@
 $primary-color: #ED6307;
+$text-color: #0C0C0C;
 ol{
     border-bottom: 2px solid $primary-color;
     margin: 0 !important;
     li{
-        color: $primary-color;
+        color: $text-color;
+        font-weight: 700 !important;
+        transition: all .25s;
+        &:hover{
+            color: $primary-color !important;
+        }
     }
     .css-2fysdb{
         border-color: $primary-color;
