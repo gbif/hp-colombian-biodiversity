@@ -2,6 +2,10 @@ $text-color: #0C0C0C;
 $btn-color: #ED6307;
 .table{
     border-radius: 0 !important;
+    a{
+        color: $btn-color !important;
+        text-decoration: underline !important;
+    }
     thead{
         tr{
             background-color: #C8C8C8 !important;
