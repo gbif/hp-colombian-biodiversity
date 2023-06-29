@@ -9,6 +9,13 @@ $btn-color: #ED6307;
                 color: $text-color !important;
             }
         }
+    }    
+    tbody{
+        tr{
+            td{
+                border: 1px solid #D5D5D5 !important;
+            }
+        }
     }
 }
 table{
