@@ -1,9 +1,21 @@
 $text-color: #0C0C0C;
 $btn-color: #ED6307;
+.table{
+    border-radius: 0 !important;
+    thead{
+        tr{
+            th{
+                background-color: #C8C8C8;
+                color: $text-color !important;
+            }
+        }
+    }
+}
 table{
     thead{
         tr{
             th{
+                background-color: transparent !important;
                 color: $text-color !important;
                 div{
                     button{
