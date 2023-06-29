@@ -6,15 +6,15 @@ a{
     text-decoration: none;
 }
 .is-primary, .gbif-button.gbif-button-primary {
-    padding: .5em 1em;
+    // padding: .5em 1em;
     border-radius: .25em;
     // margin: 0 8px;
-    background: linear-gradient(90deg, #A83B00 0%, #D75606 65.17%, #ED6307 94.79%);
-    color: $btn-primary-color;
-    transition: all .25s;
-    cursor: pointer;
-    font-weight: 700;
-    border: none;
+    background: linear-gradient(90deg, #A83B00 0%, #D75606 65.17%, #ED6307 94.79%) !important;
+    color: $btn-primary-color !important;
+    transition: all .25s !important;
+    cursor: pointer !important;
+    font-weight: 700 !important;
+    border: none !important;
     &:hover{
         color: $btn-primary-hover-color !important;
         background: #FFBC91 !important;
@@ -22,7 +22,7 @@ a{
     &.disabled{
         background: $btn-primary-disbled-bg  !important;
         color: $btn-primary-disbled-color !important;
-        cursor: not-allowed;
+        cursor: not-allowed !important;
     }
 }   
 
@@ -32,24 +32,24 @@ $btn-secondary-hovered-color: #B54700;
 $btn-secondary-disbled-bg: #FCFCFC;
 $btn-secondary-disbled-color: #6F6F6F;
 .is-outlined, button.gbif-button.gbif-button-primaryOutline {
-    padding: .5em 1em;
-    border-radius: .25em;
+    // padding: .5em 1em;
+    border-radius: .25em !important;
     // margin: 0 8px;
-    background: $btn-secondary-bg-color;
+    background: $btn-secondary-bg-color !important;
     color: $btn-secondary-color !important;
-    transition: all .25s;
-    cursor: pointer;
-    font-weight: 700;
-    border: 1px solid $btn-secondary-color;
+    transition: all .25s !important;
+    cursor: pointer !important;
+    font-weight: 700 !important;
+    border: 1px solid $btn-secondary-color !important;
     &:hover{
-        color: $btn-secondary-hovered-color;
-        border-color: $btn-secondary-hovered-color;
-        background: #FFF0E6;
+        color: $btn-secondary-hovered-color !important;
+        border-color: $btn-secondary-hovered-color !important;
+        background: #FFF0E6 !important;
     }
     &.disabled{
         background: $btn-secondary-disbled-bg !important;
         color: $btn-secondary-disbled-color !important; 
         border-color: $btn-secondary-disbled-color !important;
-        cursor: not-allowed;
+        cursor: not-allowed !important;
     }
 } 
