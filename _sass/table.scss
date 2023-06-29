@@ -17,6 +17,9 @@ $btn-color: #ED6307;
             }
         }
     }
+    tbody tr:last-of-type{
+        border-bottom: 0 !important;
+    }
 }
 table{
     thead{
