@@ -10,6 +10,7 @@ $hover-color: #B54700;
         transition: all .25s;
         color: $text-color !important;
         font-weight: 600;
+
         &:hover{
             background-color: transparent !important;
             color: $hover-color !important;
@@ -35,7 +36,6 @@ $hover-color: #B54700;
             background-image: url(https://hp-colombian-biodiversity.gbif-staging.org/assets/css_images/close.png);
             content: "";
             background-size: 1em 1em;
-            transform: rotate(45deg);
         }
     }
     div div:last-child{
