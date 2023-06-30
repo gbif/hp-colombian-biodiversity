@@ -6,17 +6,26 @@ $hover-color: #B54700;
         background-color: transparent !important;
         border-radius: 0 !important;
         border: none;
-        border-right: 1px solid $primary-color;
+        border-left: 1px solid $primary-color;
         transition: all .25s;
-        color: $text-color;
+        color: $text-color !important;
         font-weight: 700;
         &:hover{
             background-color: transparent !important;
-            color: $hover-color;
+            color: $hover-color !important;
             text-decoration: underline;
         }
     }
-    div div:first-child{
-        border-left: 1px solid $primary-color;
+    div button:nth-child(2){
+        border-left: none;
+        svg{
+            display: none;
+            &::after{
+                content: "A";
+            }
+        }
+    }
+    div div:last-child{
+        border-right: 1px solid $primary-color;
     }
 }
