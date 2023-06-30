@@ -1,12 +1,20 @@
 $text-color: #0C0C0C;
+$primary-color: #ED6307;
+$hover-color: #B54700;
 .gbif-filterBar{
     button{
         background-color: transparent !important;
         border-radius: 0;
         border: none;
-        
+        border-right: 1px solid $primary-color;
+        transition: all .25s;
         &:hover{
             background-color: transparent !important;
+            color: $hover-color;
+            text-decoration: underline;
+        }
+        &:first-child{
+            border-left: 1px solid $primary-color;
         }
     }
 }
