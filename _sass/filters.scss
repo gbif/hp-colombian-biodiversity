@@ -19,7 +19,7 @@ $hover-color: #B54700;
     .gbif-button .gbif-button-primaryOutline::after{
         width: 1em;
         height: 1em;
-        background-image: url(https://hp-colombian-biodiversity.gbif-staging.org/assets/css_images/add.png);
+        background-image: url(https://hp-colombian-biodiversity.gbif-staging.org/assets/css_images/add.svg);
         content: "";
         background-size: 1em 1em;
     }
@@ -31,7 +31,7 @@ $hover-color: #B54700;
         &::after{
             width: 1em;
             height: 1em;
-            background-image: url(https://hp-colombian-biodiversity.gbif-staging.org/assets/css_images/add.png);
+            background-image: url(https://hp-colombian-biodiversity.gbif-staging.org/assets/css_images/add.svg);
             content: "";
             background-size: 1em 1em;
             transform: rotate(45deg);
