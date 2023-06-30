@@ -4,17 +4,19 @@ $hover-color: #B54700;
 .gbif-filterBar{
     button{
         background-color: transparent !important;
-        border-radius: 0;
+        border-radius: 0 !important;
         border: none;
         border-right: 1px solid $primary-color;
         transition: all .25s;
+        color: $text-color;
+        font-weight: 700;
         &:hover{
             background-color: transparent !important;
             color: $hover-color;
             text-decoration: underline;
         }
-        &:first-child{
-            border-left: 1px solid $primary-color;
-        }
+    }
+    div div:first-child{
+        border-left: 1px solid $primary-color;
     }
 }
