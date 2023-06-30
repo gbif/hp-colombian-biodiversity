@@ -20,9 +20,10 @@ $hover-color: #B54700;
         border-left: none;
         svg{
             display: none;
-            &::after{
-                content: "A";
-            }
+        }
+        &::after{
+            content: "A";
+            width: 1em;
         }
     }
     div div:last-child{
