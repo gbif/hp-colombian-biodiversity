@@ -22,8 +22,11 @@ $hover-color: #B54700;
             display: none;
         }
         &::after{
-            content: "A";
             width: 1em;
+            height: 1em;
+            background-image: url(https://hp-colombian-biodiversity.gbif-staging.org/assets/css_images/close.png);
+            content: "";
+            background-size: 1em 1em;
         }
     }
     div div:last-child{
