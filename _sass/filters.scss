@@ -16,6 +16,13 @@ $hover-color: #B54700;
             text-decoration: underline;
         }
     }
+    .gbif-button .gbif-button-primaryOutline::after{
+        width: 1em;
+        height: 1em;
+        background-image: url(https://hp-colombian-biodiversity.gbif-staging.org/assets/css_images/add.png);
+        content: "";
+        background-size: 1em 1em;
+    }
     div button:nth-child(2){
         border-left: none;
         svg{
