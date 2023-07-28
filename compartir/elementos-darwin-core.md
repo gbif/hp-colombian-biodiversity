@@ -2439,7 +2439,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Estado que da cuenta de la presencia o ausencia de un taxón en una ubicación. Se recomienda el uso de un vocabulario controlado, preferiblemente en inglés. |
-| Ejemplo | present<br> absent<br> Presente<br> Ausente |
+| Ejemplo | Presente<br> Ausente |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
