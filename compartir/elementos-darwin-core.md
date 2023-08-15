@@ -141,7 +141,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | El idioma del conjunto de datos. |
 | Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 639-1 de 2 letras en minúscula, como se muestra a continuación:<br><br> es (=Para español)<br> en (=Para inglés) |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_<br> Evento de muestreo _(Opcional)_ |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 | [Vocabulario controlado](#vc_language) | Consultar en: [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php){:target="_blank"} |
 
 <br>
@@ -265,7 +265,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | Un identificador dado al registro biológico en el momento en que fue registrado, sirve como un vínculo entre las anotaciones de campo y el registro biológico. No es el mismo catalogNumber, el cual es usualmente asignado una vez el espécimen ingresa a la colección. |
 | Ejemplo | OPP 7107<br>  JARM-0008<br>  AFT 143 |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
 
 <br>
 
@@ -283,7 +283,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los ID de las personas (observadores o recolectores), grupos u organizaciones responsables de realizar el registro. Estos identificadores deben corresponder al ORCID, Wikidata u algún otro identificador único controlado. El orden en este elemento no indica una prioridad en la citación ni ningún otro tipo de relación jerárquica. |
 | Ejemplo | https://orcid.org/0000-0001-6215-3617 \| https://orcid.org/0000-0003-1691-239X<br> https://www.wikidata.org/entity/Q28913658 |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
 
 <br>
 
@@ -596,7 +596,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El nombre, la descripción o la referencia del método o protocolo de muestreo usado para realizar el muestreo. Se recomienda acompañar este elemento con el elemento samplingEffort. |
 | Ejemplo | Trampa de luz UV<br> Red de niebla<br> Arrastre de fondo<br> Observación ad hoc<br> Punto de conteo |
 | Elementos relacionados | samplingEffort |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Obligatorio)_ |
 
 <br>
 
@@ -824,7 +824,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | El nombre del grupo de islas en que tiene lugar la ubicación. |
 | Ejemplo | Cayos de Albuquerque<br> Islas del Rosario |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
 
