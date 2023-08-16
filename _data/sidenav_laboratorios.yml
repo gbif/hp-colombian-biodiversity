@@ -52,9 +52,9 @@ terms:
   - title: "Documentación de metadatos"
     path: /formacion/laboratorios/IPT_Metadatos
   - title: "Carga de los datos"
-    path: /formacion/laboratorios/IPT_CargaDatos
+    path: /formacion/laboratorios/carga-datos-ipt
   - title: "Mapeo de los datos"
-    path: /formacion/laboratorios/IPT_MapeoDatos
+    path: /formacion/laboratorios/mapeo-datos-ipt
     
 - grouptitle: "Importación de archivos"
   content:
