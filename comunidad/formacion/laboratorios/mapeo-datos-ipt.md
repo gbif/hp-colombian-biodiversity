@@ -19,6 +19,9 @@ El proceso de mapeo de datos consiste en identificar la correspondencia entre la
 
 En este laboratorio se explica el proceso de mapeo desde el IPT, continuando con el ejercicio realizado en la guía [Cómo cargar los datos al IPT](https://biodiversidad.co/formacion/laboratorios/carga-datos-ipt). Por consiguiente, es necesario realizar primero la carga de los datos para proseguir con el proceso de mapeo.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nosVTUKST5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
 **Sobre la herramienta**
 
 La herramienta de publicación [IPT](https://www.gbif.org/es/ipt){:target="_blank"} es un _software_ gratuito y de código abierto que se utiliza para publicar y compartir conjuntos de datos sobre biodiversidad a través del [SiB Colombia](https://biodiversidad.co), [GBIF](https://www.gbif.org/){:target="_blank"} y [OBIS](https://obis.org/){:target="_blank"}. Este _software_ permite integrar datos y metadatos en un mismo formato de archivo, conocido como _Darwin Core Archive_ (DwC-A). Además, esta herramienta sirve para cargar datos de múltiples fuentes y en diversos formatos de archivo, lo que facilita la integración de los mismos y su proceso de publicación. 
