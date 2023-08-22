@@ -73,7 +73,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El nombre completo de la institución que custodia el espécimen o la información del registro; seguido por su acrónimo en paréntesis, si tiene. |
 | Ejemplo | Ministerio de Ambiente y Desarrollo Sostenible (MADS)<br> Universidad de Antioquia (UdeA)<br> Jardín Botánico de Bogotá José Celestino Mutis (JBB) |
 | Elementos relacionados | institutionID |
-| Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Opcional)_ |
+| Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Recomendado)_ |
 
 <br>
 
@@ -1713,7 +1713,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El estado taxonómico que define el uso del scientificName de acuerdo a un árbol taxonómico u opinión de experto. |
 | Ejemplo | Inválido<br> Válido<br> Aceptado<br> Sinónimo<br> Sinónimo homotípico<br> Sinónimo heterotípico<br> Ambiguo<br> Mal aplicado |
 | Elementos relacionados | scientificName |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Recomendado)_ |
 
 <br>
 
@@ -1783,7 +1783,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | La referencia a la fuente en la que está definida o implícita la definición conceptual del taxón documentado en scientificName, tradicionalmente representado por el Latín "sensu" o "sec." (de secundum, que significa "según"). Para los taxones que resultan de las identificaciones, una referencia a las claves, monografías, expertos y otras fuentes debe ser provista. |
 | Ejemplo | Franz NM, Cardona-Duque J (2013) Description of two new species and phylogenetic reassessment of Perelleschus Wibmer & O’Brien, 1986 (Coleoptera:<br> Curculionidae), with a complete taxonomic concept history of Perelleschus sec. Franz & Cardona-Duque, 2013. Syst Biodivers. 11: 209–236 |
 | Elementos relacionados | scientificName |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Recomendado)_ |
 
 <br>
 
