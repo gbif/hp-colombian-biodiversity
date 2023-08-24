@@ -24,8 +24,8 @@ Si su conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
 6. Copie y pegue sus datos bajo el elemento (columna) correspondiente dentro de la plantilla, documente sólo las columnas para las que posea o pueda inferir información.
 7. Repita el proceso con todas las columnas de sus datos. Si no encuentra similitud entre sus datos y un elemento de esta plantilla, puede revisar las plantillas de [extensiones](https://biodiversidad.co/recursos/plantillas-dwc#extensiones){:target="_blank"} o comunicar su inquietud al correo sib@humboldt.org.co.
 8. Elimine los elementos de la plantilla que no documentó.
-9. Consulte los [laboratorios de datos](/formacion/laboratorios) o la [caja de herramientas](/recursos/calidaddedatos) para validar y mejorar la calidad de sus datos.
-10. Para la publicación de los datos envíe esta plantilla a sib@humboldt.org.co. Para más información sobre el proceso de publciación consulte la [guía de publicación](https://biodiversidad.co/compartir/guiadepublicacion).
+9. Consulte los [laboratorios de datos](/formacion/laboratorios) o la [caja de herramientas](/recursos/calidad-de-datos/) para validar y mejorar la calidad de sus datos.
+10. Para la publicación de los datos envíe esta plantilla a sib@humboldt.org.co. Para más información sobre el proceso de publciación consulte la [guía de publicación](https://biodiversidad.co/compartir/guia-para-publicar/).
 
 Para un ejemplo práctico sobre el uso de las plantillas consulte el laboratorio de estructuración y calidad: https://biodiversidad.co/formacion/laboratorios/LabEstructuracionCalidad				
 		
@@ -241,7 +241,7 @@ Use esta plantillas si sus datos:
 * Incluyen recursos multimedia como imágenes, videos, sonidos, etc. almacenados en un repositorio externo y cuyos contenidos pueden ser accedidos vía URL. 
 * Corresponde a listas de especies con información de distribución de la especie, tales como país, localidad, habitat, estado de amenaza, etc.
 
-Tambié puede consultar la [documentación oficial de las extensiones](https://tools.gbif.org/dwca-validator/extensions.do).
+Tambié puede consultar la [documentación oficial de las extensiones](https://rs.gbif.org/extensions.html).
 
 <details>
     <summary markdown="span"><b><a href="https://drive.google.com/uc?export=download&id=1vwX9JUx_219CVTF2HrDj7eEukFJyZd2P">Permisos GGBN</a></b></summary>
