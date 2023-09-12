@@ -11,9 +11,9 @@ imageLicense: |
   
 ---
 
-_El SiB Colombia —red nacional de datos abiertos sobre Biodiversidad— presenta la síntesis de información sobre el conocimiento de la riqueza biológica del departamento de Nariño, en la nueva versión de su plataforma Biodiversidad en Cifras._
+El SiB Colombia —red nacional de datos abiertos sobre Biodiversidad— presenta la síntesis de información sobre el conocimiento de la riqueza biológica del departamento de Nariño, en la nueva versión de su plataforma Biodiversidad en Cifras.
 
-_Dentro de los datos publicados se encontró que 65 % de las especies que se han reportado para el departamento son plantas y el arbusto _Faramea coffeoides_ es la especie de planta con mayor número de observaciones. Respecto a las aves, el Tucán Andino, Andigena laminirostris, es la especie catalogada En Peligro con mayor cantidad de observaciones._
+Dentro de los datos publicados se encontró que 65 % de las especies que se han reportado para el departamento son plantas y el arbusto _Faramea coffeoides_ es la especie de planta con mayor número de observaciones. Respecto a las aves, el Tucán Andino, Andigena laminirostris, es la especie catalogada En Peligro con mayor cantidad de observaciones.
 
 La recolección y publicación de datos en el departamento de Nariño brinda información que fortalece el conocimiento científico nacional. Además, por primera vez un resguardo indígena y una reserva natural participaron de la publicación de datos. 
 
