@@ -63,6 +63,17 @@ noticias:
   features:
 
     - preTitle: Datos abiertos
+      title: "Nuevo modelo de datos derivados de ADN" 
+      description: |      # required
+        Hasta el 1 de noviembre estará abierta la prueba para el nuevo modelo de publicación de datos derivados de ADN.
+      # img required
+      background: /assets/images/noticias_eventos/2023/2023-10-18-eDNA.jpg
+      cta:
+      - text: Ver más
+        href: /post/2023/prueba-nuevo-modelo-datos-ADN/
+        isPrimary: false
+
+    - preTitle: Datos abiertos
       title: "Nueva red de datos en GBIF" 
       description: |      # required
         Biodiversidad y Desarrollo Colombia es la primera red de datos empresarial en GBIF.
@@ -71,17 +82,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2023/red-biodiversidad-desarrollo-colombia-gbif/
-        isPrimary: false
-
-    - preTitle: Convocatorias
-      title: "Reto Ebbe Nielsen 2023" 
-      description: |      # required
-        Hasta el 22 de agosto de 2023 está abierta la recepción de propuestas para el Reto Ebbe Nielsen de GBIF.
-      # img required
-      background: /assets/images/noticias_eventos/2023/2023-06-21-reto-Ebbe-Nielsen.png
-      cta:
-      - text: Ver más
-        href: /post/2023/convocatoria-reto-ebbe-nielsen-gbif-2023/
         isPrimary: false
 
     - preTitle: Especiales
