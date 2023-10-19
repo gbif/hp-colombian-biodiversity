@@ -70,7 +70,7 @@ noticias:
       background: /assets/images/noticias_eventos/2023/2023-10-18-eDNA.jpg
       cta:
       - text: Ver más
-        href: /post/2023/prueba-nuevo-modelo-datos-ADN/
+        href: /post/2023/prueba-nuevo-modelo-datos-adn/
         isPrimary: false
 
     - preTitle: Datos abiertos
