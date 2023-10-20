@@ -8,7 +8,7 @@ background: /assets/images/noticias_eventos/2023/2023-10-19-premio-excelencia-gb
 
 ---
 
-En la primera edición de los _[GBIF Node Awards](https://www.gbif.org/es/gbif-node-awards)_{:target="_blank"}, **el Premio a la Excelencia ha sido otorgado al SiB Colombia**. Este es un reconocimiento al trabajo realizado en los dos últimos años, por parte del Equipo Coordinador, en las cuatro áreas prioritarias de trabajo de los nodos de GBIF. El programa, dirigido a los [países participantes](https://www.gbif.org/es/the-gbif-network){:target="_blank"} de la red, tiene como objetivo exaltar los logros colectivos de los nodos en relación con las actividades vinculadas con GBIF. 
+En la primera edición de los _[GBIF Node Awards](https://www.gbif.org/es/gbif-node-awards)_{:target="_blank"}, **el Premio a la Excelencia ha sido otorgado al SiB Colombia**. Este es un reconocimiento al trabajo realizado en los dos últimos años, por parte del Equipo Coordinador, en las cuatro áreas prioritarias de desempeño de los nodos de GBIF. El programa, dirigido a los [países participantes](https://www.gbif.org/es/the-gbif-network){:target="_blank"} de la red, tiene como objetivo exaltar los logros colectivos de los nodos en relación con las actividades vinculadas con GBIF. 
 
 De acuerdo al comunicado oficial, “[SiB Colombia](https://biodiversidad.co/acercade/sib-colombia/){:target="_blank"} ha recibido el Premio a la Excelencia, **celebrando su progreso a través de una serie de áreas críticas de servicio para los nodos de GBIF**, tales como el apoyo científico y político, compromiso con la comunidad y la ayuda técnica para la gestión de datos sobre biodiversidad”.
 
