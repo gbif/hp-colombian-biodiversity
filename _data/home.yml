@@ -62,6 +62,17 @@ bannerBDCGBIF:
 noticias:
   features:
 
+    - preTitle: GBIF
+      title: "Recibimos el Premio a la Excelencia de GBIF" 
+      description: |      # required
+        En la primera edición de los GBIF Node Awards, el Premio a la Excelencia ha sido otorgado al SiB Colombia.
+      # img required
+      background: /assets/images/noticias_eventos/2023/2023-10-19-premio-excelencia-gbif.jpg
+      cta:
+      - text: Ver más
+        href: /post/2023/premio-excelencia-gbif/
+        isPrimary: false
+
     - preTitle: Datos abiertos
       title: "Nuevo modelo de datos derivados de ADN" 
       description: |      # required
@@ -83,18 +94,6 @@ noticias:
       - text: Ver más
         href: /post/2023/red-biodiversidad-desarrollo-colombia-gbif/
         isPrimary: false
-
-    - preTitle: Especiales
-      title: "Los tesoros que esconden los bosques" 
-      description: |      # required
-        Conoce los tesoros que esconden los bosques del país gracias a la publicación de más de 10.000 datos.
-      # img required
-      background: /assets/images/noticias_eventos/2023/2023-01-20-IFN-plantas-colombia.jpg
-      cta:
-      - text: Ver más
-        href: /post/2023/ifn-plantas-colombia/
-        isPrimary: false
-
 
 # Noticias viejas 
 
