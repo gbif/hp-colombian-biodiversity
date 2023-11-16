@@ -11,8 +11,8 @@ permalink: comunidad/grupos
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
-  #- data: gruposdeinteres.tarjetasGrupos
-  #  type: features # the block type
+  - data: gruposdeinteres.tarjetasGrupos
+    type: features # the block type
   - data: gruposdeinteres.participar
     type: floatingText # the block type
 
