@@ -62,6 +62,17 @@ bannerBDCGBIF:
 noticias:
   features:
 
+    - preTitle: Comité Técnico
+      title: "Llamado a los embajadores de la biodiversidad en Colombia" 
+      description: |      # required
+        El Comité Técnico del SiB Colombia llega a su trigésima edición, acá las conclusiones.
+      # img required
+      background: /assets/images/noticias_eventos/2023/2023-12-15-xxx-comite-tecnico-sib-colombia.jpg
+      cta:
+      - text: Ver más
+        href: /post/2023/xxx-comite-tecnico-sib-colombia/
+        isPrimary: false
+
     - preTitle: GBIF
       title: "Recibimos el Premio a la Excelencia de GBIF" 
       description: |      # required
@@ -71,17 +82,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2023/premio-excelencia-gbif/
-        isPrimary: false
-
-    - preTitle: Datos abiertos
-      title: "Nuevo modelo de datos derivados de ADN" 
-      description: |      # required
-        Hasta el 1 de noviembre estará abierta la prueba para el nuevo modelo de publicación de datos derivados de ADN.
-      # img required
-      background: /assets/images/noticias_eventos/2023/2023-10-18-eDNA.jpg
-      cta:
-      - text: Ver más
-        href: /post/2023/prueba-nuevo-modelo-datos-adn/
         isPrimary: false
 
     - preTitle: Datos abiertos
