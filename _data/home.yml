@@ -97,6 +97,7 @@ noticias:
 
 # Noticias viejas 
 
+noSeCarga:
 
     - preTitle: Datos abiertos
       title: "Nueva red de datos en GBIF" 
