@@ -8,9 +8,9 @@ background: /assets/images/noticias_eventos/2023/2023-12-18-tercer-aniversario-a
 
 ---
 
-Tras el tercer año de la alianza **[Datos abiertos sobre biodiversidad desde el sector empresarial](https://biodiversidad.co/empresas)**{:target="_blank"}, entre la ANDI y el SiB Colombia, **los resultados continúan superando las expectativas. Actualmente hay más de 340 conjuntos de datos publicados, que exceden los 3’600.000 registros biológicos**.
+Tras el tercer año de la alianza **[Datos abiertos sobre biodiversidad desde el sector empresarial](https://biodiversidad.co/empresas)**{:target="_blank"}, entre la ANDI y el SiB Colombia, **los resultados continúan superando las expectativas. Actualmente hay más de 340 conjuntos de datos publicados, que exceden los 3’600.000[^1] registros biológicos**.
 
-Y no solo los conjuntos de datos y los registros biológicos suman a la iniciativa; a la fecha, estas publicaciones **cuentan con más de 3.740 citaciones en revistas indexadas**. Lo anterior demuestra la utilidad de la publicación de datos abiertos para la construcción colectiva de conocimiento que ayude a llenar los vacíos informacionales sobre la biodiversidad del país.
+Y no solo los conjuntos de datos y los registros biológicos suman a la iniciativa; a la fecha, estas publicaciones **cuentan con más de 802[^1] citas en revistas indexadas**. Lo anterior demuestra la utilidad de la publicación de datos abiertos para la construcción colectiva de conocimiento que ayude a llenar los vacíos informacionales sobre la biodiversidad del país.
 
 La alianza **ha resultado ser un ejemplo para los sistemas de información sobre biodiversidad de otras latitudes**, así lo destacó GBIF con la creación de la primera red de datos empresarial, llamada [Biodiversidad y Desarrollo Colombia](https://www.gbif.org/es/network/2ee1bff7-0b34-4fa3-9433-feaa7c6ee08b){:target="_blank"}.
 
@@ -23,3 +23,7 @@ Para conmemorar estos logros y celebrar el tercer aniversario de la alianza, des
 | ![Tercer año de la alianza Datos abiertos sobre biodiversidad desde el sector empresarial.](assets/images/noticias_eventos/2023/2023-12-18-infografia-andi-sib-colombia-2023-1.png) | ![Tercer año de la alianza Datos abiertos sobre biodiversidad desde el sector empresarial.](assets/images/noticias_eventos/2023/2023-12-18-infografia-andi-sib-colombia-2023-2.png) |
 | ![Tercer año de la alianza Datos abiertos sobre biodiversidad desde el sector empresarial.](assets/images/noticias_eventos/2023/2023-12-18-infografia-andi-sib-colombia-2023-3.png) | ![Tercer año de la alianza Datos abiertos sobre biodiversidad desde el sector empresarial.](assets/images/noticias_eventos/2023/2023-12-18-infografia-andi-sib-colombia-2023-4.png) |
 | ![Tercer año de la alianza Datos abiertos sobre biodiversidad desde el sector empresarial.](assets/images/noticias_eventos/2023/2023-12-18-infografia-andi-sib-colombia-2023-5.png) | ![Tercer año de la alianza Datos abiertos sobre biodiversidad desde el sector empresarial.](assets/images/noticias_eventos/2023/2023-12-18-infografia-andi-sib-colombia-2023-6.png) |
+
+---
+[^1]:
+     Corte de los datos al 30 de noviembre de 2023. Las cifras actualizadas están disponibles permanentemente en [biodiversidad.co/empresas](https://biodiversidad.co/empresas){:target="_blank"}.
