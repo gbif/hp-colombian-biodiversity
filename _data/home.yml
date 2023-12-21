@@ -62,6 +62,17 @@ bannerBDCGBIF:
 noticias:
   features:
 
+    - preTitle: GBIF
+      title: "Colombia de nuevo con voto en GBIF" 
+      description: |      # required
+        El país recupera su estatus como nodo votante en la comunidad de GBIF.
+      # img required
+      background: /assets/images/noticias_eventos/2023/2023-12-20-colombia-regresa-con-voto-gbif.jpg
+      cta:
+      - text: Ver más
+        href: /post/2023/colombia-regresa-con-voto-gbif/
+        isPrimary: false
+
     - preTitle: Aliados
       title: "Más y mejores datos " 
       description: |      # required
@@ -84,6 +95,10 @@ noticias:
         href: /post/2023/xxx-comite-tecnico-sib-colombia/
         isPrimary: false
 
+# Noticias viejas 
+
+noSeCarga:
+
     - preTitle: GBIF
       title: "Recibimos el Premio a la Excelencia de GBIF" 
       description: |      # required
@@ -94,10 +109,6 @@ noticias:
       - text: Ver más
         href: /post/2023/premio-excelencia-gbif/
         isPrimary: false
-
-# Noticias viejas 
-
-noSeCarga:
 
     - preTitle: Datos abiertos
       title: "Nueva red de datos en GBIF" 
