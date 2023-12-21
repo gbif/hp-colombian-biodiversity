@@ -6,7 +6,7 @@ date: 2023-12-20
 categories: ["GBIF", "2023"]
 background: /assets/images/noticias_eventos/2023/2023-12-20-colombia-regresa-con-voto-gbif.jpg
 imageLicense: |
-  Foto: Foto: Alejandro Lopez @junglediamonds, [iNaturalist](https://www.gbif.org/es/occurrence/4046437878){:target="_blank"}.
+  Foto: Alejandro Lopez @junglediamonds, [iNaturalist](https://www.gbif.org/es/occurrence/4046437878){:target="_blank"}.
 
 ---
 
