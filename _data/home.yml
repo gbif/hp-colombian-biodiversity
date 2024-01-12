@@ -14,7 +14,7 @@ stats:
       description: Conjuntos de datos
       background: /assets/images/landing_page/iconos_cifras/ico_conjuntoDatos_gris.png
       href: /dataset/search
-    - title: "5,862"
+    - title: "6,268"
       description: Fichas de especies
       background: /assets/images/landing_page/iconos_cifras/ico_fichaEspecies_gris.png
       href: https://catalogo.biodiversidad.co/
@@ -23,7 +23,7 @@ stats:
       background: /assets/images/landing_page/iconos_cifras/ico_listaEspecies_gris.png
       href: https://biodiversidad.co/dataset/search?type=CHECKLIST
       # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
-    - title: "212"
+    - title: "214"
       description: Socios publicadores
       background: /assets/images/landing_page/iconos_cifras/ico_sociosPublicadores_gris.png
       href: /comunidad/socios-publicadores/
