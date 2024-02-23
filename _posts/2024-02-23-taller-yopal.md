@@ -14,6 +14,8 @@ Este taller, que será gratuito y en modalidad presencial, se brinda en el marco
 
 La importancia de este taller en gestión de datos abiertos, se da a partir de la reflexión sobre la **representatividad de la región de los llanos orientales con respecto a la gran cantidad de proyectos de conservación y trabajos comunitarios** que permiten realizar investigación y turismo científico; actividades en las cuales se colectan gran cantidad de datos sobre biodiversidad. **El taller apunta a garantizar la calidad de estos datos** para que su uso aporte a la generación de conocimiento, la conservación, la toma informada de decisiones, el uso de la biodiversidad y sus servicios ecosistémicos.
 
+En total, hay **30 cupos disponibles** para los asistentes al congreso y requiere inscripción previa.
+
 [Inscríbete aquí](https://bit.ly/taller-sib){:target="_blank" .button .is-primary}
 
 **El taller busca también fortalecer las capacidades de publicación y uso de datos**, disponibles a través del SiB Colombia, y se espera contar con la participación de personas involucradas en el manejo de este tipo de información en organizaciones como empresas, ONG, instituciones académicas, autoridades ambientales, centros de investigación, entidades administrativas territoriales, redes e iniciativas de ciencia ciudadana.
