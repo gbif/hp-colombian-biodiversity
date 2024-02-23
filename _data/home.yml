@@ -62,15 +62,15 @@ bannerBDCGBIF:
 noticias:
   features:
 
-    - preTitle: Colecciones biológicas
-      title: "A revisión estándar para colecciones biológicas" 
+    - preTitle: Taller presencial gratuito
+      title: "Inscríbete al taller en Yopal" 
       description: |      # required
-        Hasta el 12 enero de 2024 está abierta la revisión pública del nuevo estándar Latimer Core.
+       El SIb Colombia brindará un taller en el marco del V Congreso Colombiano de Mastozoología.
       # img required
-      background: /assets/images/noticias_eventos/2023/2023-12-21-revision-ltc.jpg
+      background: /assets/images/noticias_eventos/2024/2024-02-23-taller-yopal.jpg
       cta:
       - text: Ver más
-        href: /post/2023/revision-ltc/
+        href: /post/2024/taller-yopal/
         isPrimary: false
 
     - preTitle: GBIF
