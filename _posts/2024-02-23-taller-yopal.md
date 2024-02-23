@@ -2,7 +2,7 @@
 preTitle: 23 de febrero, 2024
 title: "Taller gratuito en Yopal, Casanare"
 description: "_Inscríbete al taller gratuito sobre gestión y publicación de datos abiertos sobre biodiversidad en Yopal, Casanare; en el marco del V Congreso Colombiano de Mastozoología._"
-date: 2023-12-21
+date: 2024-02-23
 categories: ["Formación", "Mastozoología", "Datos abiertos", "2024"]
 background: /assets/images/noticias_eventos/2024/2024-02-23-taller-yopal.jpg
 
