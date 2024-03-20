@@ -62,6 +62,17 @@ bannerBDCGBIF:
 noticias:
   features:
 
+    - preTitle: Reporte
+      title: "Destacados de la actividad de publicación" 
+      description: |      # required
+       ‘El señor de las moscas’ y otros destacados del mes en nuestro portal de datos.
+      # img required
+      background: /assets/images/noticias_eventos/2024-03-20-reporte-publicacion-febrero-2024.jpg
+      cta:
+      - text: Ver más
+        href: /post/2024/reporte-publicacion-febrero-2024/
+        isPrimary: false
+
     - preTitle: Taller presencial gratuito
       title: "Inscríbete al taller en Yopal" 
       description: |      # required
@@ -117,16 +128,6 @@ noticias:
         href: /post/2023/premio-excelencia-gbif/
         isPrimary: false
 
-    - preTitle: Datos abiertos
-      title: "Nueva red de datos en GBIF" 
-      description: |      # required
-        Biodiversidad y Desarrollo Colombia es la primera red de datos empresarial en GBIF.
-      # img required
-      background: /assets/images/noticias_eventos/2023/2023-06-27-red-biodiversidad-desarrollo-colombia-gbif.jpg
-      cta:
-      - text: Ver más
-        href: /post/2023/red-biodiversidad-desarrollo-colombia-gbif/
-        isPrimary: false
 
 # Splits
 
