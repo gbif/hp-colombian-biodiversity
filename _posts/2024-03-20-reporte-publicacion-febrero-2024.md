@@ -24,7 +24,7 @@ En segundo lugar, la [Asociación Colombiana de Ictiólogos](https://www.gbif.or
 
 | Consulta la [Lista de especies de peces de agua dulce de Colombia / Checklist of the freshwater fishes of Colombia](https://biodiversidad.co/dataset/search?publishingOrg=adaeb73b-8f3b-433c-ab2e-a8ca68a7c7ea&q=freshwater&type=CHECKLIST){:target="_blank"} |
 
-El tercer destacado del mes podría llamarse _El señor de las moscas_ —haciendo una referencia a la literatura—. Se trata de la **actualización de la Colección Entomológica [Universidad de Antioquia](https://www.gbif.org/es/publisher/cccff716-2694-4209-9f9e-2f7a484465a0)**{:target="_blank"}, que agregó 68.310 nuevos registros. De estos, el orden con mayor representación es Diptera, con 49.811 registros; lo que representa casi **20 % del total de registros de este orden publicados para Colombia**.
+El tercer destacado del mes podría llamarse _El señor de las moscas_ —haciendo una referencia a la literatura—. Se trata de la **actualización de la Colección Entomológica de la [Universidad de Antioquia](https://www.gbif.org/es/publisher/cccff716-2694-4209-9f9e-2f7a484465a0)**{:target="_blank"}, que agregó 68.310 nuevos registros. De estos, el orden con mayor representación es Diptera, con 49.811 registros; lo que representa casi **20 % del total de registros de este orden publicados para Colombia**.
 
 | Disponible en nuestro portal de datos: [Colección Entomológica Universidad de Antioquia](https://biodiversidad.co/data/?datasetKey=647490ab-72e9-4dd6-ac83-8f771494df36&view=TABLE){:target="_blank"} |
 
