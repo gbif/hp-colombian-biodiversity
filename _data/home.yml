@@ -67,7 +67,7 @@ noticias:
       description: |      # required
        ‘El señor de las moscas’ y otros destacados del mes en nuestro portal de datos.
       # img required
-      background: /assets/images/noticias_eventos/2024-03-20-reporte-publicacion-febrero-2024.jpg
+      background: /assets/images/noticias_eventos/2024/2024-03-20-reporte-publicacion-febrero-2024.jpg
       cta:
       - text: Ver más
         href: /post/2024/reporte-publicacion-febrero-2024/
