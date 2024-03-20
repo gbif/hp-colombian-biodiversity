@@ -18,9 +18,7 @@ Con esta nota abrimos una serie de noticias que cubrirán el reporte en mención
 
 En primer lugar, **destacamos el aumento del 380 % en los datos disponibles de Pontellidae** (Dana, 1852-1853), una familia de copépodos del orden Calanoida, publicados por [La Dirección General Marítima](https://www.gbif.org/es/publisher/3d93c436-a9f7-4521-9ea4-a038b224b434){:target="_blank"} como evento de muestreo, con datos de presencia, ausencia y densidad de especies; colectados en dos cruceros oceanográficos en la cuenca del Pacífico colombiano durante 2019. 
 
-| Explore el conjunto de datos 
-
-[La familia Pontellidae (Crustacea: Copepoda) de las aguas superficiales del Pacífico colombiano colectados en el crucero ENFEN del año 2019](https://biodiversidad.co/data/?datasetKey=fbe3fcc4-0ea6-4c3c-b26c-3294550a168d){:target="_blank"} |
+| Explore el conjunto de datos [La familia Pontellidae (Crustacea: Copepoda) de las aguas superficiales del Pacífico colombiano colectados en el crucero ENFEN del año 2019](https://biodiversidad.co/data/?datasetKey=fbe3fcc4-0ea6-4c3c-b26c-3294550a168d){:target="_blank"} |
 
 En segundo lugar, la [Asociación Colombiana de Ictiólogos](https://www.gbif.org/es/publisher/adaeb73b-8f3b-433c-ab2e-a8ca68a7c7ea){:target="_blank"} realizó la **actualización de la lista de referencia de peces de agua dulce de Colombia**; que incorpora 79 nuevas especies. De estas, la familia Characidae es la que recibe más, con 12 especies.
 
