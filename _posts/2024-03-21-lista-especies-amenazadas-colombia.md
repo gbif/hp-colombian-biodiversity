@@ -18,7 +18,7 @@ Desde el SiB Colombia, red nacional de datos abiertos sobre biodiversidad, prese
 
 ## 👇 Consulta la nueva lista de especies amenazadas aquí 
 
-|*** | *** | \
+|*** | *** |
 | [Para expertos](https://ipt.biodiversidad.co/sib/resource?r=especies-amenazadas-mads-2024#anchor-description){:target="_blank" .button .is-primary} | [Para no-expertos](https://docs.google.com/spreadsheets/d/1D6P01RAMTaY_yyCYGK992TflNKcAYkdK/edit#gid=448828807){:target="_blank" .button .is-primary} |
 
 También, atendiendo a nuestro propósito de brindar acceso abierto a información sobre la diversidad biológica del país para la construcción de una sociedad sostenible, hemos hecho la síntesis de cifras de esta nueva lista y la ponemos a disposición a continuación.
@@ -55,47 +55,26 @@ Según la resolución de 2017, en total 1.297. 182 en categoría peligro crític
 La resolución nueva incluye un total de 2.014 especies, disrtibuídas así:
 
 |*** | *** |
-
 | **Grupo biológico** | **Cant. de especies amenazadas** |
-
 | **Animales** | 760 |
-
 | - Mamíferos | 75 |
-
 | - Aves | 139 |
-
 | - Reptiles | 44 |
-
 | - Anfibios | 287 |
-
 | - Peces | 113 |
-
 | - Insectos | 34 |
-
 | - Arácnidos | 8 |
-
 | - Decápodos | 38 |
-
 | - Moluscos | 10 |
-
 | - Corales | 9 |
-
 | - Equinodermos | 3 |
-
 | **Plantas** | 1.262 |
-
 | - Orquídeas | 253 |
-
 | - Palmas | 54 |
-
 | - Frailejones | 56 |
-
 | **Musgos** | 35 |
-
 | **Hepáticas** | 23 |
-
 | **Hongos** | 32 |
-
 | **Líquenes** | 50 |
 
 
@@ -104,17 +83,21 @@ La resolución nueva incluye un total de 2.014 especies, disrtibuídas así:
 Se presentaron cambios de categoría en algunas de las especies que se encontraban previamente incluidas en la resolución de 2017:
 
 |*** | *** |
-
 | Grupos biológicos | Cant. de especies con cambios de categoría |
-
 | Mamíferos | [6](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1730209782){:target="_blank"} |
-
 | Anfibios | [18](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=362216660){:target="_blank"} |
-
 | Decápodos | [1](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1092705264){:target="_blank"} |
-
 | Plantas | [96](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1620272825){:target="_blank"} |
 
-¿Qué significan las categorías de amenaza?
+## ¿Qué significan las categorías de amenaza?
 
 Las [Categorías y Criterios de La Lista Roja de UICN](https://www.iucnredlist.org/es#:~:text=Divide%20especies%20en%20nueve%20categor%C3%ADas,en%20Estado%20Silvestre%20y%20Extinto.){:target="_blank"} indican qué tan cerca está una especie de extinguirse. Son las siguientes: Extinto (EX), Extinto en Estado Silvestre (EW), En Peligro Crítico (CR), En Peligro (EN), Vulnerable (VU), Casi Amenazado (NT), Preocupación Menor (LC), Datos Insuficientes (DD) y No Evaluado (NE).
+
+![Categorías de La Lista Roja de Especies Amenazadas de la UICN](/assets/images/noticias_eventos/2024/2024-03-21-categorias-uicn.png)
+
+
+---
+
+Conozca la noticia emitida desde el Ministerio de Ambiente y Desarrollo Sostenible: [Colombia cuenta con un nuevo listado de especies silvestres amenazadas](https://www.minambiente.gov.co/colombia-cuenta-con-un-nuevo-listado-de-especies-silvestres-amenazadas/){:target="_blank"}
+
+
