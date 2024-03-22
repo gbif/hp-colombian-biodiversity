@@ -5,6 +5,8 @@ description: "_Mediante Resolución 0126 de 2024 el Ministerio de Ambiente y Des
 date: 2024-03-21
 categories: ["Amenazadas", "Datos abiertos", "Lista de especies", "2024"]
 background: /assets/images/noticias_eventos/2024/2024-03-21-lista-especies-amenazadas-colombia.jpg
+imageLicense: |
+  Foto: Cortesía Ministerio de Ambiente y Desarrollo Sostenible.
 
 ---
 
