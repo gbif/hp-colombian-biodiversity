@@ -21,7 +21,7 @@ Desde el SiB Colombia, como red nacional de datos abiertos sobre biodiversidad, 
 
 [1. Lista de especies silvestres amenazadas en Colombia 2024: archivo estructurado en Darwin Core](https://ipt.biodiversidad.co/sib/resource?r=especies-amenazadas-mads-2024#anchor-description){:target="_blank" .button .is-primary}
 
-[2. Lista de especies silvestres amenazadas en Colombia 2024: archivo en Excel](https://docs.google.com/spreadsheets/d/1D6P01RAMTaY_yyCYGK992TflNKcAYkdK/edit#gid=448828807){:target="_blank" .button .is-primary} |
+[2. Lista de especies silvestres amenazadas en Colombia 2024: archivo en Excel](https://docs.google.com/spreadsheets/d/1D6P01RAMTaY_yyCYGK992TflNKcAYkdK/edit#gid=448828807){:target="_blank" .button .is-primary}
 
 También, atendiendo a nuestro propósito de brindar acceso abierto a información sobre la diversidad biológica del país para la construcción de una sociedad sostenible, hemos hecho la síntesis de cifras de esta nueva lista y, a continuación, la ponemos a disposición.
 
@@ -34,12 +34,12 @@ Para conocer el **listado de las nuevas especies de mamíferos, anfibios, aves, 
 
 | **Clase** | **Especies que salen** | **Nuevas especies** | **Total de amenazadas** |
 |:---|:---:|:---:|:---:|
-| 🐆 Mamíferos | ▶ 0 | ▲ 33 [🔗Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=0){:target="_blank"} | 75 |
-| 🐸 Anfibios | ▼ 8 | ▲ 245 [🔗Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1688084912){:target="_blank"} | 287 |
+| 🐆 Mamíferos | ▶ 0 | ▲ 33 [🔗 Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=0){:target="_blank"} | 75 |
+| 🐸 Anfibios | ▼ 8 | ▲ 245 [🔗 Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1688084912){:target="_blank"} | 287 |
 | 🦜 Aves | ▼ 1 | ▶ 0 | 139 |
-| 🐠 Peces | ▼ 1 | ▲ 5 [🔗Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1100589061){:target="_blank"} | 113 |
-| 🦀 Decápodos | ▼ 1 | ▲ 6 [🔗Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1251572509){:target="_blank"} | 38 |
-| 🪸 Corales | ▼ 3 | ▲ 5 [🔗Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1100589061){:target="_blank"} | 9 |
+| 🐠 Peces | ▼ 1 | ▲ 5 [🔗 Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1100589061){:target="_blank"} | 113 |
+| 🦀 Decápodos | ▼ 1 | ▲ 6 [🔗 Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1251572509){:target="_blank"} | 38 |
+| 🪸 Corales | ▼ 3 | ▲ 5 [🔗 Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1100589061){:target="_blank"} | 9 |
 | ⭐🌊 Equinodermos¹ | - | ▲ 3 | 3 |
 
 ¹ Este taxón no se encontraba incluido en la resolución anterior. En la actual se agregaron las especies _Holothuria mexicana_ (CR), _Isostichopus badionotus_ (VU) y _Ophiothrix synoecina_ (EN).
@@ -51,7 +51,7 @@ La nueva lista incluye **611 nuevos taxones de plantas amenazadas** y se retirar
 
 | **Reino** | **Especies que salen** | **Nuevas especies** |  **Total de amenazadas**  |
 |:---|:---:|:---:|:---:|
-| 🌿 Plantas | ▼ 163 | ▲ 611 [🔗Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=484537127){:target="_blank"} | 1.262 |
+| 🌿 Plantas | ▼ 163 | ▲ 611 [🔗 Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=484537127){:target="_blank"} | 1.262 |
 
 
 ## ¿Cuántas especies se encontraban amenazadas antes vs. hoy?
@@ -102,10 +102,10 @@ Algunas de las especies que se encontraban previamente incluidas en la resoluci�
 
 | **Grupos biológicos** | **Cant. de especies con cambios de categoría** |
 |:---|:---:|
-| 🐆 Mamíferos | 6 [🔗Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1730209782){:target="_blank"} |
-| 🐸 Anfibios | 18 [🔗Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=362216660){:target="_blank"} |
-| 🦀 Decápodos | 1 [🔗Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1092705264){:target="_blank"} |
-| 🌿 Plantas | 96 [🔗Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1620272825){:target="_blank"} |
+| 🐆 Mamíferos | 6 [🔗 Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1730209782){:target="_blank"} |
+| 🐸 Anfibios | 18 [🔗 Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=362216660){:target="_blank"} |
+| 🦀 Decápodos | 1 [🔗 Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1092705264){:target="_blank"} |
+| 🌿 Plantas | 96 [🔗 Ver lista](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1620272825){:target="_blank"} |
 
 
 ## ¿Qué significan las categorías de amenaza?
