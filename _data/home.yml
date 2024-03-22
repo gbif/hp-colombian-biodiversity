@@ -62,6 +62,17 @@ bannerBDCGBIF:
 noticias:
   features:
 
+    - preTitle: Datos abiertos
+      title: "lista de especies amenazadas en Colombia" 
+      description: |      # required
+       Presentamos una síntesis de cifras de la lista y la ponemos disponible en dos formatos: Darwin Core y Excel.
+      # img required
+      background: /assets/images/noticias_eventos/2024/2024-03-21-lista-especies-amenazadas-colombia.jpg
+      cta:
+      - text: Ver más
+        href: /post/2024/lista-especies-amenazadas-colombia/
+        isPrimary: false
+
     - preTitle: Reporte
       title: "Destacados de la actividad de publicación" 
       description: |      # required
@@ -82,50 +93,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2024/taller-yopal/
-        isPrimary: false
-
-    - preTitle: GBIF
-      title: "Colombia de nuevo con voto en GBIF" 
-      description: |      # required
-        El país recupera su estatus como nodo votante en la comunidad de GBIF.
-      # img required
-      background: /assets/images/noticias_eventos/2023/2023-12-20-colombia-regresa-con-voto-gbif.jpg
-      cta:
-      - text: Ver más
-        href: /post/2023/colombia-regresa-con-voto-gbif/
-        isPrimary: false
-
-    - preTitle: Aliados
-      title: "Más y mejores datos " 
-      description: |      # required
-        Balance del tercer año de la alianza Datos abiertos sobre biodiversidad desde el sector empresarial.
-      # img required
-      background: /assets/images/noticias_eventos/2023/2023-12-18-tercer-aniversario-alianza-andi-sib-colombia.jpg
-      cta:
-      - text: Ver más
-        href: /post/2023/tercer-aniversario-alianza-andi-sib-colombia/
-        isPrimary: false
-
-    - preTitle: Comité Técnico
-      title: "Llamado a los embajadores de la biodiversidad en Colombia" 
-      description: |      # required
-        El Comité Técnico del SiB Colombia llega a su trigésima edición, acá las conclusiones.
-      # img required
-      background: /assets/images/noticias_eventos/2023/2023-12-15-xxx-comite-tecnico-sib-colombia.jpg
-      cta:
-      - text: Ver más
-        href: /post/2023/xxx-comite-tecnico-sib-colombia/
-        isPrimary: false
-
-    - preTitle: GBIF
-      title: "Recibimos el Premio a la Excelencia de GBIF" 
-      description: |      # required
-        En la primera edición de los GBIF Node Awards, el Premio a la Excelencia ha sido otorgado al SiB Colombia.
-      # img required
-      background: /assets/images/noticias_eventos/2023/2023-10-19-premio-excelencia-gbif.jpg
-      cta:
-      - text: Ver más
-        href: /post/2023/premio-excelencia-gbif/
         isPrimary: false
 
 
