@@ -33,20 +33,20 @@ La nueva lista de especies amenazadas tiene en **total 760 especies de animales*
 
 * 🐆 **Mamíferos:** se incluyen  33 especies nuevas. Consulta aquí la [lista de mamíferos amenazados en Colombia](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=0){:target="_blank"}.
 <br>
-* 🐸 **Anfibios: **se retiraron 8 especies, se agregaron 245, lo que deja una diferencia con la resolución anterior de 237 especies. Consulta la [lista de anfibios amenazados en Colombia](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1688084912){:target="_blank"}.
+* 🐸 **Anfibios:** se retiraron 8 especies, se agregaron 245, lo que deja una diferencia con la resolución anterior de 237 especies. Consulta la [lista de anfibios amenazados en Colombia](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1688084912){:target="_blank"}.
 <br>
 * 🐠 **Peces:** se retiró 1 especie y se agregaron 5, con una diferencia de 4 especies respecto a la resolución. Consulta la [lista de peces amenazados de Colombia](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1100589061){:target="_blank"}.
 <br>
-* 🦀 **Decápodos: **se retiró 1 especie y se agregaron 6, una diferencia de 5 especies con respecto la resolución anterior. Consulta la [lista de decápodos amenazados de Colombia](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1251572509){:target="_blank"}.
+* 🦀 **Decápodos:** se retiró 1 especie y se agregaron 6, una diferencia de 5 especies con respecto la resolución anterior. Consulta la [lista de decápodos amenazados de Colombia](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1251572509){:target="_blank"}.
 <br>
-* 🪸 **Corales_: _**para este grupo se retiraron 3 especies y se agregaron 5 nuevas, lo que deja una diferencia con la resolución anterior de 2 especies. Consulta la [lista de corales amenazados de Colombia](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1100589061){:target="_blank"}.
+* 🪸 **Corales:** para este grupo se retiraron 3 especies y se agregaron 5 nuevas, lo que deja una diferencia con la resolución anterior de 2 especies. Consulta la [lista de corales amenazados de Colombia](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1100589061){:target="_blank"}.
 <br>
 * ⭐🌊 **Equinodermos:** este taxón no se encontraba incluido en la resolución anterior. En la actual se agregaron las especies _Holothuria mexicana_ (CR), _Isostichopus badionotus_ (VU) y _Ophiothrix synoecina_ (EN).
 
 
-## ¿Cuántas plantas amenazadas hay en Colombia y cuáles entraron nuevas en esta resolución? 
+## 🌿 ¿Cuántas plantas amenazadas hay en Colombia y cuáles entraron nuevas en esta resolución? 
 
-La nueva lista de especies amenazadas incluye 611 taxones nuevos, en comparación a la resolución de 2017. Para este grupo se retiraron 163 especies, una diferencia de 248 especies con la resolución anterior. Consulta la [lista de plantas amenazadas en Colombia](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=484537127). “De la flora silvestre, se encuentra en el listado la guasca, el cerezo, el carreto, la palma de cera, la flor de mayo, la papaya de monte, el roble negro, el frailejón cabrera, entre otros”, dice la noticia emitida desde el Ministerio.
+La nueva lista de especies amenazadas incluye 611 taxones de plantas nuevos, en comparación a la resolución de 2017. Para este grupo se retiraron 163 especies, una diferencia de 248 especies con la resolución anterior. Consulta la [lista de plantas amenazadas en Colombia](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=484537127). “De la flora silvestre, se encuentra en el listado la guasca, el cerezo, el carreto, la palma de cera, la flor de mayo, la papaya de monte, el roble negro, el frailejón cabrera, entre otros”, dice la noticia emitida desde el Ministerio.
 
 
 ## ¿Cuántas especies se encontraban amenazadas antes vs. hoy?
