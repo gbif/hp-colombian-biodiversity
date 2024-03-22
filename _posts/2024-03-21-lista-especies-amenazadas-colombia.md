@@ -18,8 +18,9 @@ Desde el SiB Colombia, red nacional de datos abiertos sobre biodiversidad, prese
 
 ## 👇 Consulta la nueva lista de especies amenazadas aquí 
 
-|*** | *** |
+
 | [Para expertos](https://ipt.biodiversidad.co/sib/resource?r=especies-amenazadas-mads-2024#anchor-description){:target="_blank" .button .is-primary} | [Para no-expertos](https://docs.google.com/spreadsheets/d/1D6P01RAMTaY_yyCYGK992TflNKcAYkdK/edit#gid=448828807){:target="_blank" .button .is-primary} |
+| --- | --- |
 
 También, atendiendo a nuestro propósito de brindar acceso abierto a información sobre la diversidad biológica del país para la construcción de una sociedad sostenible, hemos hecho la síntesis de cifras de esta nueva lista y la ponemos a disposición a continuación.
 
@@ -54,8 +55,9 @@ Según la resolución de 2017, en total 1.297. 182 en categoría peligro crític
 
 La resolución nueva incluye un total de 2.014 especies, disrtibuídas así:
 
-|*** | *** |
+
 | **Grupo biológico** | **Cant. de especies amenazadas** |
+| --- | --- |
 | **Animales** | 760 |
 | - Mamíferos | 75 |
 | - Aves | 139 |
@@ -82,8 +84,9 @@ La resolución nueva incluye un total de 2.014 especies, disrtibuídas así:
 
 Se presentaron cambios de categoría en algunas de las especies que se encontraban previamente incluidas en la resolución de 2017:
 
-|*** | *** |
+
 | Grupos biológicos | Cant. de especies con cambios de categoría |
+| --- | --- |
 | Mamíferos | [6](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1730209782){:target="_blank"} |
 | Anfibios | [18](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=362216660){:target="_blank"} |
 | Decápodos | [1](https://docs.google.com/spreadsheets/d/1BzfPtexHMbTv4VXx_eTxiVJyDJZNT4oyjCBUWy4fs4w/edit#gid=1092705264){:target="_blank"} |
