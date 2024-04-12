@@ -61,7 +61,18 @@ bannerBDCGBIF:
 # Noticias
 noticias:
   features:
-
+  
+    - preTitle: Convocatorias
+      title: "Premio GBIF para Investigadores Graduados 2024" 
+      description: |      # required
+       26 de mayo de 2024 es la fecha límite para que estudiantes de posgrado en Colombia presenten sus investigaciones.
+      # img required
+      background: /assets/images/noticias_eventos/2024/2024-04-11-Convocatoria-2024-Premio-GBIF-Investigadores-Graduados.jpg
+      cta:
+      - text: Ver más
+        href: /post/2024/convocatoria-2024-premio-gbif-investigadores-graduados/
+        isPrimary: false
+        
     - preTitle: Datos abiertos
       title: "lista de especies amenazadas en Colombia" 
       description: |      # required
@@ -82,17 +93,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2024/reporte-publicacion-febrero-2024/
-        isPrimary: false
-
-    - preTitle: Taller presencial gratuito
-      title: "Inscríbete al taller en Yopal" 
-      description: |      # required
-       El SIb Colombia brindará un taller en el marco del V Congreso Colombiano de Mastozoología.
-      # img required
-      background: /assets/images/noticias_eventos/2024/2024-02-23-taller-yopal.jpg
-      cta:
-      - text: Ver más
-        href: /post/2024/taller-yopal/
         isPrimary: false
 
 
