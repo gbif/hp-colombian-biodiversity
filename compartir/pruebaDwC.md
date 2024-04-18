@@ -898,8 +898,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El código estándar para el país de la ubicación. |
-| Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 3166-1-alfa-2 de códigos de países, como se muestra a continuación:<br><br> CO (=Para Colombia)<br> AR (=Para Argentina)<br>
-La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "CO y BR", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality |
+| Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 3166-1-alfa-2 de códigos de países, como se muestra a continuación:<br><br> CO (=Para Colombia)<br> AR (=Para Argentina)<br> La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "CO y BR", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality |
 | Elementos relacionados | country |
 | Ejemplo | Colombia<br> España<br> Dinamarca |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
@@ -1141,7 +1140,7 @@ La práctica recomendada es dejar este elemento en blanco si la información pre
 | ---: | :--- |
 | Definición | La distancia horizontal (en metros) de la decimalLatitude y decimalLongitude provistas describiendo el círculo más pequeño que contiene la totalidad de la ubicación. Deje el valor vacío si la incertidumbre es desconocida, no se puede estimar, o no es aplicable (porque no hay coordenadas). Cero no es un valor válido para este elemento. |
 | Comentarios | Documente este elemento de acuerdo a las siguientes explicaciones:<br><br> 30 (límite inferior razonable de incertidumbre en metros para lecturas de GPS tomadas bajo buenas condiciones después de 2000-05-01, cuando la precisión no fue tomada en campo) <br> 100 (Límite inferior razonable de incertidumbre en metros para lecturas de GPS tomadas bajo buenas condiciones antes de 2000-05-1, cuando la precisión no fue tomada en campo) <br> 71 (Incertidumbre para coordenadas originales tomadas bajo el sistema de coordenadas UTM teniendo 100 metros de precisión y un sistema de referencia espacial conocido) |
-| Ejemplo | 30<br> 100<br> 71<br> 2100 |
+| Ejemplo | 30<br> 100<br> 71 |
 | Elementos relacionados | decimalLatitude, decimalLongitude |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Opcional)_ |
 
@@ -1559,6 +1558,7 @@ La práctica recomendada es dejar este elemento en blanco si la información pre
 | Comentarios| Para tener en cuenta:<br><br> - El nombre científico puede pertenecer a cualquier categoría taxonómica (reino, filo, clase, orden, familia, género, especie entre otros), en ningún caso es obligatorio la identificación a nivel de especie.<br> - No debe documentar la autoría del taxón en este elemento, para ello utilice el elemento scientificNameAuthorship.<br> - No debe documentar calificadores de identificación (“cf.”, “aff.”, etc.), para ello utilice el elemento identificationQualifier y deje en el nombre científico la categoría superior sobre la cual se tiene certeza.<br> - No debe documentar abreviaciones que no dan cuenta de el nombre específico o hacen referencia  a morfotipos (“sp.”, “sp1.”, “spp.”), para ello utilice el elemento verbatimTaxonRank.<br>
 Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas del Código Internacional de Nomenclatura para algas, hongos y plantas (Schenzhen Code Articles H.1, H.2 and H.3). Utilizando el signo de multiplicación  × (Unicode U+00D7, HTML ×) para identificar un híbrido, evitando usar una "x" o "X". <br><br>
 *Aunque oficialmente scientificName se define como el "nombre científico completo, con información de autoría y fecha si se conoce", desde el SiB Colombia se recomienda documentar solo el nombre canónico ya que hemos notado un detrimento de la calidad de este elemento por errores de tipeo cuando se incluye siguiendo la definición oficial.|
+
 | Ejemplo | Coleoptera<br> Bacteria<br> Ctenomys sociabilis<br> Abrus pulchellus subsp. tenuiflorus |
 | Elementos relacionados | taxonRank, scientificNameAuthorship, identificationQualifier, verbatimTaxonRank |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Lista de chequeo _(Obligatorio)_ |
@@ -1743,7 +1743,7 @@ Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas de
 
 | ---: | :--- |
 | Definición | El nombre del epíteto infraespecífico presente en el scientificName cuando la determinación se hizo con la categoría de taxón más baja o más especifica por debajo del epíteto específico (parte terminal del nombre), excluyendo cualquier otra denominación de categoría. |
-| Comentarios | En botánica, los nombres en la literatura y las identificaciones pueden tener múltiples rangos infraespecíficos. De acuerdo al Código Internacional de Nomenclatura para algas, hongos y plantas (Schenzhen Code Articles 6.7 & Art. 24.1), los nombres válidos tienen solamente dos epítetos, con el rango más bajo presente en infraspecificEpithet. Por ejemplo el epíteto infraespecífico para Indigofera charlieriana subsp. sessilis var. scaberrima es "scaberrima".. |
+| Comentarios | En botánica, los nombres en la literatura y las identificaciones pueden tener múltiples rangos infraespecíficos. De acuerdo al Código Internacional de Nomenclatura para algas, hongos y plantas (Schenzhen Code Articles 6.7 & Art. 24.1), los nombres válidos tienen solamente dos epítetos, con el rango más bajo presente en infraspecificEpithet. Por ejemplo el epíteto infraespecífico para Indigofera charlieriana subsp. sessilis var. scaberrima es "scaberrima".|
 | Ejemplo | concolor<br> oxyadenia<br> sayi |
 | Elementos relacionados | scientificName |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
