@@ -7,7 +7,7 @@ imageLicense: |
   Fotografía de: Carlos Bustamante Restrepo vía [Flickr](https://flic.kr/p/dFCsLr) 
 height: 41vh
 toc: true
-permalink: /elementos-darwin-core
+permalink: /pruebaDwC
 ---
 
 El estándar **Darwin Core (DwC)** permite la consolidación de datos sobre biodiversidad para compartir, usar y rehusar la información de manera organizada, clara y completa.
@@ -29,6 +29,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 - La documenteación oficial y en inglés del estándar se puede consultar en: [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/){:target="_blank"}
 - La documenteación oficial y en inglés de las extensiones:[https://tools.gbif.org/dwca-validator/extensions.do](https://tools.gbif.org/dwca-validator/extensions.do){:target="_blank"}
+
+*Fecha de última actualización: mayo de 2024. *
 
 ## Categorías DwC
 
@@ -371,8 +373,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | Indicación de la vitalidad del organismo en el momento de la colecta u observación (vivo o muerto). |
 | Comentarios | Se requiere el uso de un vocabulario controlado. Usar este elemento en registros documentados como PreservedSpecimen, MaterialSample, o HumanObservation en el elemento basisOfRecord. |
-| Ejemplo | Vivo<br> Muerto<br> Grupo mixto<br> Incierto<br> No evaluado |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+|  [Vocabulario controlado](#vc_vitality) | Vivo<br> Muerto<br> Grupo mixto<br> Incierto<br> No evaluado |
 
 <br>
 
@@ -634,11 +636,11 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <br>
 
 
-
 <a id="samplingProtocol">**samplingProtocol** (Protocolo de muestreo)</a>
 
 | ---: | :--- |
 | Definición | El nombre, la descripción o la referencia del método o protocolo de muestreo usado para realizar el muestreo. Se recomienda acompañar este elemento con el elemento samplingEffort. |
+| Comentarios | Si un mismo evento cuenta con varios protocolos de muestreo diferentes, la recomendación es generar un evento (filas) diferente por cada protocolo de muestreo. En el caso que el evento agrupe múltiples protocolos que no puedan ser atribuidos a un registro particular, la práctica recomendada es separar los protocolos por una barra vertical “\|”. |
 | Ejemplo | Trampa de luz UV<br> Red de niebla<br> Arrastre de fondo<br> Observación ad hoc<br> Punto de conteo |
 | Elementos relacionados | samplingEffort |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Obligatorio)_ |
@@ -886,6 +888,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre del país o unidad administrativa de mayor jerarquía de la ubicación. Se recomienda utilizar un identificador persistente de un vocabulario controlado como el Tesauro Getty de Nombres Geográficos o la norma ISO 3166. Se recomienda acompañar este elemento con el elemento countryCode. |
+| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "Colombia y Brasil", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality |
 | Ejemplo | Colombia<br> España<br> Dinamarca |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Obligatorio)_ |
 
@@ -896,7 +899,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | El código estándar para el país de la ubicación. |
 | Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 3166-1-alfa-2 de códigos de países, como se muestra a continuación:<br><br> CO (=Para Colombia)<br> AR (=Para Argentina)<br>
-La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. |
+La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "CO y BR", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality |
 | Elementos relacionados | country |
 | Ejemplo | Colombia<br> España<br> Dinamarca |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
@@ -908,7 +911,7 @@ La práctica recomendada es dejar este elemento en blanco si la información pre
 
 | ---: | :--- |
 | Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que País de la ubicación (Departamento). Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"}. |
-| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. **Por ejemplo, si hay dos entidades "Santander y Boyacá", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality**. |
+| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "Santander y Boyacá", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality. |
 | Ejemplo | Antioquia<br> Atlántico<br> Bogotá, D.C. |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 
@@ -918,7 +921,7 @@ La práctica recomendada es dejar este elemento en blanco si la información pre
 
 | ---: | :--- |
 | Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Departamento de la ubicación (Municipio). Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"}. |
-| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. **Por ejemplo, si hay dos entidades "San Juan del Cesar o Riohacha", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality**. |
+| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "San Juan del Cesar o Riohacha", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality. |
 | Ejemplo | Medellín<br> Puerto Colombia<br> Bogotá, D.C. |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 
@@ -928,7 +931,7 @@ La práctica recomendada es dejar este elemento en blanco si la información pre
 
 | ---: | :--- |
 | Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Municipio de la ubicación. Puede ser un centro poblado, cabecera municipal, corregimiento o inspección de policía. No utilice este elemento para el nombre de un lugar cercano que no contiene la ubicación real. Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"}. |
-| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca multiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. **Por ejemplo, si hay dos entidades "San Luis o Punta Sur", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality**. |
+| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca multiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "San Luis o Punta Sur", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality. |
 | Ejemplo | Palmitas<br> Puerto Colombia<br> Bogotá, D.C. |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Opcional)_ |
 
@@ -1137,7 +1140,7 @@ La práctica recomendada es dejar este elemento en blanco si la información pre
 
 | ---: | :--- |
 | Definición | La distancia horizontal (en metros) de la decimalLatitude y decimalLongitude provistas describiendo el círculo más pequeño que contiene la totalidad de la ubicación. Deje el valor vacío si la incertidumbre es desconocida, no se puede estimar, o no es aplicable (porque no hay coordenadas). Cero no es un valor válido para este elemento. |
-| Comentarios | Documente este elemento de acuerdo a las siguientes explicaciones:<br><br> 30 (límite inferior razonable para lecturas de GPS tomadas bajo buenas condiciones después de 2020-05-01, si la precisión no fue tomada en campo)<br> 100 (Límite inferior razonable para lecturas de GPS tomadas bajo buenas condiciones antes de 2020-05-1, si la precisión no fue tomada en campo)<br> 71 (Incertidumbre para coordenadas originales tomadas bajo el sistema de coordenadas UTM teniendo 100 metros de precisión y un sistema de referencia espacial conocido)<br> 2100 |
+| Comentarios | Documente este elemento de acuerdo a las siguientes explicaciones:<br><br> 30 (límite inferior razonable de incertidumbre en metros para lecturas de GPS tomadas bajo buenas condiciones después de 2000-05-01, cuando la precisión no fue tomada en campo) <br> 100 (Límite inferior razonable de incertidumbre en metros para lecturas de GPS tomadas bajo buenas condiciones antes de 2000-05-1, cuando la precisión no fue tomada en campo) <br> 71 (Incertidumbre para coordenadas originales tomadas bajo el sistema de coordenadas UTM teniendo 100 metros de precisión y un sistema de referencia espacial conocido) |
 | Ejemplo | 30<br> 100<br> 71<br> 2100 |
 | Elementos relacionados | decimalLatitude, decimalLongitude |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Opcional)_ |
@@ -1158,8 +1161,8 @@ La práctica recomendada es dejar este elemento en blanco si la información pre
 <a id="pointRadiusSpatialFit">**pointRadiusSpatialFit** (Ajuste espacial del radio-punto)</a>
 
 | ---: | :--- |
-| Definición | La relación entre el área del radio-punto (decimalLatitude, decimalLongitude y coordinateUncertaintyInMeters) y el área de la verdadera (original, o más específica) representación espacial de la ubicación. Los valores válidos son 0, mayor que o igual a 1, o indefinido. Un valor de 1 es una coincidencia exacta o superposición de 100%. Un valor de 0 se debe utilizar si el radio-punto dado no contiene por completo la representación original. El Ajuste espacial del radio-punto no está definido (y se debe dejar en blanco) si la representación original es un punto sin incertidumbre y la georreferencia dada no es ese mismo punto (sin incertidumbre). Si tanto el original como la georreferencia dada están en el mismo punto el ajuste espacial del radio-punto es 1. |
-| Ejemplo | 0<br> 1<br> 0.5708 |
+| Definición | La relación entre el área del radio-punto (decimalLatitude, decimalLongitude y coordinateUncertaintyInMeters) y el área de la verdadera  representación espacial de la ubicación (original, o más específica). Los valores válidos son 0, 1, mayor que 1, o indefinido. Un valor de 1 es una coincidencia exacta o superposición de 100%. Un valor de 0 se debe utilizar si el radio-punto dado no contiene por completo la representación original. El Ajuste espacial del radio-punto no está definido (y se debe dejar en blanco) si la representación original es cualquier geometría sin área (un punto o polilínea) y la georreferencia asignada no corresponde a esa misma geometría (sin incertidumbre). Si tanto el original como la georreferencia dada están en el mismo punto el ajuste espacial del radio-punto es 1. |
+| Ejemplo | 0<br> 1<br> 1.5708<br> Indefinido|
 | Elementos relacionados | decimalLatitude, decimalLongitude, coordinateUncertaintyInMeters |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
@@ -1187,8 +1190,8 @@ La práctica recomendada es dejar este elemento en blanco si la información pre
 <a id="footprintSpatialFit">**footprintSpatialFit** (Ajuste espacial de footprint)</a>
 
 | ---: | :--- |
-| Definición | La relación del área de footprint (WKT footprint) y el área de la verdadera (original, o más específica) representación espacial de la ubicación. Los valores válidos son 0, mayor que, igual a 1, o indefinido. Un valor de 1 es una coincidencia exacta o superposición de 100%. Un valor de 0 debe ser utilizado si el footprint dado no contiene la representación original completamente. El footprintSpatialFit es indefinido (y se debe dejar en blanco) si la representación original es un punto y la georreferencia dada no es ese mismo punto. Si el original y la georreferencia dada son el mismo punto, el footprintSpatialFit es 1. |
-| Ejemplo | 0<br> 1 |
+| Definición | La relación del área de footprint (WKT footprint) y el área de la verdadera representación espacial de la ubicación (original, o más específica). Los valores válidos son 0, 1, mayor que 1, o indefinido. Un valor de 1 es una coincidencia exacta o superposición de 100%. Un valor de 0 debe ser utilizado si el footprint dado no contiene la representación original completamente. El footprintSpatialFit es indefinido (y se debe dejar en blanco) si la representación original es cualquier geometría sin área (un punto o polilínea) y la georreferencia asignada no corresponde a esa misma geometría (sin incertidumbre). Si el original y la georreferencia dada son el mismo punto, el footprintSpatialFit es 1. |
+| Ejemplo | 0<br> 1<br> 1.5708<br> Indefinido |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
@@ -1882,6 +1885,7 @@ Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas de
 
 | ---: | :--- |
 | Definición | Una referencia para la publicación en que se estableció originalmente el taxón presente en el scientificName, bajo las reglas del nomeclaturalCode asociado. |
+| Comentarios | La citación de la primera publicación del nombre científico documentado en este registro, no el basónimo/nombre original. Las recombinaciones usualmente no se publican en zoología, en ese caso namePublishedIn debe estar vacío. |
 | Ejemplo | Pearson O. P., and M. I. Christie. 1985. Historia Natural, 5(37):388; Forel, Auguste, Diagnosies provisoires de quelques espèces nouvelles de fourmis de Madagascar, récoltées par M. Grandidier., Annales de la Societe Entomologique de Belgique, Comptes-rendus des Seances 30, 1886 |
 | Elementos relacionados | scientificName, nomeclaturalCode |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
@@ -1892,6 +1896,7 @@ Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas de
 
 | ---: | :--- |
 | Definición | Un identificador de la publicación en que se estableció originalmente el taxón presente en el scientificName, bajo las reglas del nomeclaturalCode asociado. |
+| Comentarios | La citación de la primera publicación del nombre científico documentado en este registro, no el basónimo/nombre original. Las recombinaciones usualmente no se publican en zoología, en ese caso namePublishedInID debe estar vacío. |
 | Ejemplo | doi:10.1016/S0269-915X(97)80026-2<br> 19thcenturyscience.org/HMSC/HMSC-Reports/Zool-40/README.htm |
 | Elementos relacionados | namePublishedIn |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
@@ -1951,6 +1956,7 @@ Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas de
 
 ## Extensiones DwC
 
+Las extensiones DwC están conformadas por elementos usados para documentar información adicional y específica que no se relaciona dentro del core. Las extensiones pueden ser compatibles con todos o algunos de los core. Algunas de las extensiones más frecuentemente usadas y que cuentan con traducción son:
 
 ### Relación del Recurso
 
@@ -2141,7 +2147,7 @@ Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas de
 | ---: | :--- |
 | Definición | Las unidades asociadas al measurementValue. Sólo aplica para variables cuantitativas. |
 | Comentarios | La práctica recomendada es utilizar el Sistema Internacional de Unidades (SI) (http://www.sc.ehu.es/sbweb/fisica_/unidades/unidades/unidades_1.html), como se muestra a continuación:<br><br> g (= Gramos)<br> m (= Metros)<br> °C (= Grados Centígrados) |
-| Ejemplo | g<br> m<br> °C<br> cm<br> s |
+| Ejemplo | g<br> m<br> °C<br> cm<br> s<br> km²<br> %<br> hh\:mm:ss |
 | Elementos relacionados | measurementUnitID, measurementValue |
 | _(Obligatoriedad)_ | _(Condicional)_. Obligatorio para variables cuantitativas |
 
@@ -2890,7 +2896,7 @@ Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas de
 | [**typeStatus**<br> (Tipo nomenclatural)](#tipos_typeStatus) | [**typeDesignationType**<br> (Tipo de designación del tipo)](#typeDesignationType) | [**typeDesignatedBy**<br> (Tipo designado por)](#typeDesignatedBy) | [**scientificName**<br> (Nombre científico)](#tipos_scientificName) |
 | [**taxonRank**<br> (Categoría del taxón)](#tipos_taxonRank) | [**bibliographicCitation**<br> (Citación bibliográfica)](#tipos_bibliographicCitation) | [**occurrenceID**<br> (ID del registro biológico)](#tipos_occurrenceID) | [**institutionCode**<br> (Código de la institución)](#tipos_institutionCode) |
 | [**collectionCode**<br> (Código de la colección)](#tipos_collectionCode) | [**catalogNumber**<br> (Número de catálogo)](#tipos_catalogNumber) | [**locality**<br> (Localidad)](#tipos_locality) | [**sex**<br> (Sexo)](#tipos_sex) |
-| [**recordedBy**<br> (Registrado por)](#tipos_recordedBy) | [**source**<br> (Fuente)](#tipos_source) | [**verbatimEventDate**<br> (Fecha original del evento)](#tipos_verbatimEventDate) | [**verbatimLabel**<br> (Etiqueta original)](#verbatimLabel) |
+| [**recordedBy**<br> (Registrado por)](#tipos_recordedBy) | [**source**<br> (Fuente)](#tipos_source) | [**verbatimEventDate**<br> (Fecha original del evento)](#tipos_verbatimEventDate) | [**verbatimLabel**<br> (Etiqueta original)](#tipo_verbatimLabel) |
 | [**verbatimLongitude**<br> (Longitud original)](#tipos_verbatimLongitude) | [**verbatimLatitude**<br> (Latitud original)](#tipos_verbatimLatitude) | [**datasetID**<br> (ID del conjunto de datos)](#tipos_datasetID) |  |
 
 <br>
@@ -3032,11 +3038,12 @@ Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas de
 
 <br>
 
-<a id="verbatimLabel">**verbatimLabel** (Etiqueta original)</a>
+<a id="tipo_verbatimLabel">**verbatimLabel** (Etiqueta original)</a>
 
 | ---: | :--- |
-| Definición | El texto completo y literal de la etiqueta del espécimen. |
-| Ejemplo | Herbario de la facultad de farmacia \| Universidad de Valencia \| Sideritis juryi \| Peris, Stubing & Figuerola sp.nov \| Valencia: Entre Lliria y Casinos, sobre colina calcaréas degradadas \| Leg.: Stubing & J.B. Peris, 25-V-1989 \| ISOTYPUS |
+| Definición | Texto que representa la información literal que está presente en la etiqueta, carácter por carácter. Libre de interpretación, traducción o transliteración. |
+| Comentarios | El contenido de este elemento no debe incluir ningún tipo de embellecimiento, prefijos, encabezados u otras adiciones al texto original. Las abreviaciones no deben ser extendidas y posibles errores de tipeo no deben ser corregidos. Las nuevas líneas presentes en la etiqueta se deben representar utilizando una barra vertical “ \| ”. La práctica recomendada es utilizar solamente caracteres en la codificación UTF-8 y poner el comentario "El elemento verbatimLabel es derivado de una transcripción humana" en el elemento occurrenceRemarks. |
+| Ejemplo | CARACTERIZACION DE LA FLORA DEL DEPARTAMENTO DEL CASANARE \| PIPER* \| Peperomia quadrangularis (J.V.Thmps.) A. Dietr. \| Det: M.P. Córdoba /sep 2011 \| Enredadera \| COLOMBIA: Dpto Casanare, Mpio Tauramena, Vda La Urama, Localidad La Mata de la Urama Lat: 5° 03’,19,2” N, Long: 72° 48’ 58,8” W . Altitud: 182 m s.n.m., 28 Enero 2011. \| Col: M .P.Córdoba, R. Ávila, L.Miranda y C. Pérez. \| No. Col.: M.P.Córdoba 6161 \| GOBERNACIÓN DEL CASANARE-WWF-FUNDACIÓN OMACHA \| 119 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -3861,11 +3868,12 @@ Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas de
 
 ## Vocabularios Controlados
 
-| Índice |    |    |    |
+| Índice |	|	|	|
 | ---|--- |--- |--- |
 | [**basisOfRecord**<br> (Base del registro)](#vc_basisOfRecord) | [**type**<br> (Tipo)](#vc_type) | [**language**<br> (Idioma)](#vc_language) | [**establishmentMeans**<br> (Medios de establecimiento)](#vc_establishmentMeans) |
 | [**degreeOfEstablishment**<br> (Grado de establecimiento](#vc_degreeOfEstablishment) | [**pathway**<br> (Ruta de introducción)](#vc_pathway) | [**occurrenceStatus**<br> (Estado del registro biológico)](#vc_occurrenceStatus) | [**continent**<br> (Continente)](#vc_continent) |
-| [**countryCode**<br> (Código del país)](#vc_countryCode) | [**threatStatus**<br> (Estado de amenaza)](#vc_threatStatus) | [**appendixCITES**<br> (Apéndice CITES)](#vc_appendixCITES) | [**type**<br> (Tipo)](#vc_multimedia_type) |
+|[**vitality**<br> (Estado de vitalidad)](#vitality) | [**countryCode**<br> (Código del país)](#vc_countryCode) | [**threatStatus**<br> (Estado de amenaza)](#vc_threatStatus) | [**appendixCITES**<br> (Apéndice CITES)](#vc_appendixCITES)
+| [**type**<br> (Tipo)](#vc_multimedia_type) |
 
 <br>
 <br>
@@ -3950,12 +3958,12 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 
 <a id="vc_occurrenceStatus">**occurrenceStatus** (Estado del registro biológico)</a>
 
-|  Vocabulario |  Definición  |
-| ---|--- |
-| Presente | Existe al menos un registro bien documentado de la presencia del taxón en el área. |
-| Ausente | Existe evidencia para documentar la ausencia del taxón en el área. |
-| present | Presente. Es obligatorio el uso del vocabulario en ingles para los registros marino-costeros. |
-| absent | Ausente. Es obligatorio el uso del vocabulario en ingles para los registros marino-costeros. |
+| Vocabulario |  Definición |  Uso  |
+| ---| ---|--- |
+| Presente | Existe al menos un registro bien documentado de la presencia del taxón en el área. | Extensión Distribución de la Especie |
+| Ausente | Existe evidencia para documentar la ausencia del taxón en el área. | Extensión Distribución de la Especie |
+| present | Se encontró evidencia de la presencia de un organismo en el momento y lugar del registro biológico  | Core Registros |
+| absent | No se encontró evidencia de la presencia de un organismo en el momento y lugar de la toma del registro biológico bajo un protocolo establecido específicamente para su detección  | Core Registros |
 
 <br>
 
@@ -3970,6 +3978,20 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 | Asia |
 | Oceanía |
 | Antártida |
+
+<br>
+
+
+<a id="vc_vitality">**vitality** (Estado de vitalidad)</a>
+
+|  Vocabulario | Definición |
+| ---| ---
+| Vivo | El individuo estaba vivo al momento del registro
+| Muerto | El individuo estaba muerto al momento del registro
+| Grupo mixto | El grupo tenía individuos vivos y muertos al momento del registro
+| Incierto | No fue posible determinar el atributo al momento del registro
+| No evaluado  |No se realizó la evaluación en el momento del registro
+
 
 <br>
 
