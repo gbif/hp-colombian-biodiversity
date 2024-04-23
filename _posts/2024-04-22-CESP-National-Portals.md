@@ -20,7 +20,7 @@ Las principales acciones del Proyecto CESP: Portales nacionales abordando desaf�
 * Preparación de un plan de formación para la comunidad global de nodos con los resultados obtenidos.
 * Desarrollo de materiales en las plataformas de eLearning sobre cómo explotar los portales nacionales para abordar desafíos nacionales.
 
-![delegados de los equipos nacionales de España, Ecuador, Guatemala y Colombia, en el taller llevado a cabo en la sede de Villa de Leyva del Instituto Humboldt, de Colombia.](/imagenes/noticias_eventos/2024/2024-04-22-CESP-National-Portals-villa-de-leyva.jpg)
+![delegados de los equipos nacionales de España, Ecuador, Guatemala y Colombia, en el taller llevado a cabo en la sede de Villa de Leyva del Instituto Humboldt, de Colombia.](/assets/images/noticias_eventos/2024/2024-04-22-CESP-National-Portals-villa-de-leyva.jpg)
 
 Foto: delegados de los equipos nacionales de España, Ecuador, Guatemala y Colombia, en el taller llevado a cabo en la sede de Villa de Leyva del Instituto Humboldt, de Colombia.
 
