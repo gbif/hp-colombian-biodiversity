@@ -62,6 +62,28 @@ bannerBDCGBIF:
 noticias:
   features:
   
+    - preTitle: Aliados
+      title: "Proyecto Portales nacionales" 
+      description: |      # required
+       Este proyecto reúne los conocimientos, en torno a los dos tipos de portales de datos sobre biodiversidad, de cuatro nodos socios de GBIF.
+      # img required
+      background: /assets/images/noticias_eventos/2024/2024-04-22-CESP-National-Portals.jpg
+      cta:
+      - text: Ver más
+        href: /post/2024/cesp-national-portals/
+        isPrimary: false
+       
+    - preTitle: Convocatorias
+      title: "Reto Ebbe Nielsen 2024" 
+      description: |      # required
+       Hasta el 14 de agosto de 2024 está abierta la recepción de propuestas para el Reto Ebbe Nielsen de GBIF.
+      # img required
+      background: /assets/images/noticias_eventos/2024/2024-04-22-reto-Ebbe-Nielsen.png
+      cta:
+      - text: Ver más
+        href: /post/2024/convocatoria-reto-ebbe-nielsen-gbif-2024/
+        isPrimary: false
+        
     - preTitle: Datos abiertos
       title: "Lista de orquídeas para conservación" 
       description: |      # required
