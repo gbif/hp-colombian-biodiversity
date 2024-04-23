@@ -11,7 +11,7 @@ imageLicense: |
 ---
 
 
-_Esta convocatoria anual de GBIF entrega una bolsa de incentivos por 20.000 euros. En su edición 2024, el Reto Ebbe Nielsen busca proyectos innovadores con datos abiertos sobre biodiversidad. **Recepción de propuestas hasta el 14 de agosto de 2024**. _
+_Esta convocatoria anual de GBIF entrega una bolsa de incentivos por 20.000 euros. En su edición 2024, el Reto Ebbe Nielsen busca proyectos innovadores con datos abiertos sobre biodiversidad. **Recepción de propuestas hasta el 14 de agosto de 2024**._
 
 El concurso anual de incentivos de GBIF, el [Reto Ebbe Nielsen](https://www.gbif.org/es/article/1G82GL7jw08kS0g6k6MuSa/reto-ebbe-nielsen){:target="_blank"}, **abrió su convocatoria con el objetivo de reconocer herramientas innovadoras, tanto nuevas como existentes, que usan los datos sobre biodiversidad de esta red**, y promueven la ciencia en favor de la investigación. 
 
