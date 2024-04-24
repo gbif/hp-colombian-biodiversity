@@ -30,6 +30,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 - La documenteación oficial y en inglés del estándar se puede consultar en: [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/){:target="_blank"}
 - La documenteación oficial y en inglés de las extensiones:[https://tools.gbif.org/dwca-validator/extensions.do](https://tools.gbif.org/dwca-validator/extensions.do){:target="_blank"}
 
+*Fecha de última actualización: mayo de 2024.*
+
 ## Categorías DwC
 
 ### Elementos de Registro
@@ -229,15 +231,15 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Registro Biológico
 
-|  Índice  |    |    |    |
+|  Índice  |	|	|	|
 | ---|--- |--- |--- |
 | [**occurrenceID**<br> (ID del Registro biológico)](#occurrenceID) | [**catalogNumber**<br> (Número de catálogo)](#catalogNumber) | [**recordNumber**<br> (Número del registro)](#recordNumber) | [**recordedBy**<br> (Registrado por)](#recordedBy) |
 | [**recordedByID**<br> (ID del registrador)](#recordedByID) | [**individualCount**<br> (Número de individuos)](#individualCount) | [**organismQuantity**<br> (Cantidad del organismo)](#organismQuantity) | [**organismQuantityType**<br> (Tipo de cantidad del organismo)](#organismQuantityType) |
-| [**sex**<br> (Sexo)](#sex) | [**lifeStage**<br> (Etapa de desarrollo)](#lifeStage) | [**reproductiveCondition**<br> (Condición reproductiva)](#reproductiveCondition) | [**behavior**<br> (Comportamiento)](#behavior) | 
-| [**establishmentMeans**<br> (Medios de establecimiento)](#establishmentMeans) | [**degreeOfEstablishment**<br> (Grado de establecimiento)](#degreeOfEstablishment) | [**pathway**<br> (Ruta de introducción)](#pathway) | [**occurrenceStatus**<br> (Estado del registro biológico)](#occurrenceStatus) |
-| [**preparations**<br> (Preparaciones)](#preparations) | [**disposition**<br> (Disposición)](#disposition) | [**otherCatalogNumbers**<br> (Otros números de catálogo)](#otherCatalogNumbers) | [**associatedMedia**<br> (Medios asociados)](#associatedMedia) |
-| [**associatedOccurrences**<br> (Registros biológicos asociados)](#associatedOccurrences) | [**associatedReferences**<br> (Referencias asociadas)](#associatedReferences) | [**associatedSequences**<br> (Secuencias asociadas)](#associatedSequences) | [**associatedTaxa**<br> (Taxones asociados)](#associatedTaxa) |
-| [**occurrenceRemarks**<br> (Comentarios del registro biológico)](#occurrenceRemarks) |  |  |  |
+| [**sex**<br> (Sexo)](#sex) | [**lifeStage**<br> (Etapa de desarrollo)](#lifeStage) | [**reproductiveCondition**<br> (Condición reproductiva)](#reproductiveCondition) | [**caste**<br> (Casta)](#caste) |
+| [**behavior**<br> (Comportamiento)](#behavior) | [**vitality**<br> (Estado de vitalidad)](#vitality) | [**establishmentMeans**<br> (Medios de establecimiento)](#establishmentMeans) | [**degreeOfEstablishment**<br> (Grado de establecimiento)](#degreeOfEstablishment) |
+| [**pathway**<br> (Ruta de introducción)](#pathway) | [**occurrenceStatus**<br> (Estado del registro biológico)](#occurrenceStatus) | [**preparations**<br> (Preparaciones)](#preparations) | [**disposition**<br> (Disposición)](#disposition) |
+| [**verbatimLabel**<br> (Etiqueta original)](#verbatimLabel) | [**otherCatalogNumbers**<br> (Otros números de catálogo)](#otherCatalogNumbers) | [**associatedMedia**<br> (Medios asociados)](#associatedMedia) | [**associatedOccurrences**<br> (Registros biológicos asociados)](#associatedOccurrences)
+| [**associatedReferences**<br> (Referencias asociadas)](#associatedReferences) | [**associatedSequences**<br> (Secuencias asociadas)](#associatedSequences) | [**associatedTaxa**<br> (Taxones asociados)](#associatedTaxa) | [**occurrenceRemarks**<br> (Comentarios del registro biológico)](#occurrenceRemarks) |
 
 <br>
 <br>
@@ -300,7 +302,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Valor que representa una cantidad colectada u observada del organismo, expresada en un sistema de medida estándar para el organismo como cepas, células, porcentaje de biomasa, etc. Documentar este elemento junto con el elemento organismQuantityType. |
-| Comentarios| El sistema de medida se debe documentar en el elemento organismQuantityType, como se muestra en el ejemplo a continuación:<br><br> Para el registro de cobertura de líquenes: organismQuantity: 30 / organismQuantityType: Porcentaje de cobertura<br> Para la abundancia de fitoplancton: organismQuantity: 253 / organismQuantityType: Células por litro<br> Para comunidades vegetales: organismQuantity: r / organismQuantityType: Escala Braun-Blanquet |
+| Comentarios| El sistema de medida se debe documentar en el elemento organismQuantityType, como se muestra en el ejemplo a continuación:<br><br> Para el registro de cobertura de líquenes: organismQuantity: 30 / organismQuantityType: % de cobertura<br> Para la abundancia de fitoplancton: organismQuantity: 253 / organismQuantityType: Células por litro<br> Para comunidades vegetales: organismQuantity: r / organismQuantityType: Escala Braun-Blanquet |
 | Ejemplo | 30<br> 253<br> r |
 | Elementos relacionados | organismQuantityType |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico |
@@ -311,7 +313,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Sistema de medida estándar asociado a la cantidad de organismos. Documentar este elemento junto con el elemento organismQuantity. |
-| Comentarios| La cantidad de organismos se debe documentar en el elemento organismQuantity, como se muestra a continuación:<br><br> Para el registro de cobertura de líquenes: organismQuantity: 30 / organismQuantityType: Porcentaje de cobertura<br> Para la abundancia de fitoplancton: organismQuantity: 253 / organismQuantityType: Células por litro<br> Para comunidades vegetales: organismQuantity: r / organismQuantityType: Escala Braun-Blanquet |
+| Comentarios| La cantidad de organismos se debe documentar en el elemento organismQuantity, como se muestra a continuación:<br><br> Para el registro de cobertura de líquenes: organismQuantity: 30 / organismQuantityType: % de cobertura<br> Para la abundancia de fitoplancton: organismQuantity: 253 / organismQuantityType: Células por litro<br> Para comunidades vegetales: organismQuantity: r / organismQuantityType: Escala Braun-Blanquet |
 | Ejemplo | Porcentaje de cobertura<br> Células por litro<br> Escala Braun-Blanquet |
 | Elementos relacionados | organismQuantity |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico |
@@ -345,11 +347,33 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 <br>
 
+<a id="caste">**caste** (Casta)</a>
+
+| ---: | :--- |
+| Definición | La categorización de individuos para especies eusociales de algunos artrópodos. |
+| Comentarios | Se recomienda el uso de un vocabulario controlado para cada taxón específico. |
+| Ejemplo | Reina<br> Macho alado<br> Intercasta<br> Trabajador menor<br>  Soldado<br> Ergatoide |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_|
+
+<br>
+
+
 <a id="behavior">**behavior** (Comportamiento)</a>
 
 | ---: | :--- |
 | Definición | Descripción del comportamiento de el(los) organismo(s) en el momento del registro. Se recomienda el uso de un vocabulario controlado. |
 | Ejemplo | Posando<br> Alimentándose<br> Corriendo |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
+
+
+<a id="vitality">**vitality** (Estado de vitalidad)</a>
+
+| ---: | :--- |
+| Definición | Indicación de la vitalidad del organismo en el momento de la colecta u observación (vivo o muerto). |
+| Comentarios | Se requiere el uso de un vocabulario controlado. Usar este elemento en registros documentados como PreservedSpecimen, MaterialSample, o HumanObservation en el elemento basisOfRecord. |
+|  Ejemplo |  Vivo<br> Muerto<br> Grupo mixto<br> Incierto<br> No evaluado |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
 <br>
@@ -412,6 +436,17 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos |
 
 <br>
+
+<a id="verbatimLabel">**verbatimLabel** (Etiqueta original)</a>
+
+| ---: | :--- |
+| Definición | Texto que representa la información literal que está presente en la etiqueta, carácter por carácter. Libre de interpretación, traducción o transliteración. |
+| Comentarios | El contenido de este elemento no debe incluir ningún tipo de embellecimiento, prefijos, encabezados u otras adiciones al texto original. Las abreviaciones no deben ser extendidas y posibles errores de tipeo no deben ser corregidos. Las nuevas líneas presentes en la etiqueta se deben representar utilizando una barra vertical “ \| ”. La práctica recomendada es utilizar solamente caracteres en la codificación UTF-8 y poner el comentario "El elemento verbatimLabel es derivado de una transcripción humana" en el elemento occurrenceRemarks. |
+| Ejemplo | CARACTERIZACION DE LA FLORA DEL DEPARTAMENTO DEL CASANARE \| PIPER* \| Peperomia quadrangularis (J.V.Thmps.) A. Dietr. \| Det: M.P. Córdoba /sep 2011 \| Enredadera \| COLOMBIA: Dpto Casanare, Mpio Tauramena, Vda La Urama, Localidad La Mata de la Urama Lat: 5° 03’,19,2” N, Long: 72° 48’ 58,8” W . Altitud: 182 m s.n.m., 28 Enero 2011. \| Col: M .P.Córdoba, R. Ávila, L.Miranda y C. Pérez. \| No. Col.: M.P.Córdoba 6161 \| GOBERNACIÓN DEL CASANARE-WWF-FUNDACIÓN OMACHA \| 119 |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+
+<br>
+
 
 <a id="otherCatalogNumbers">**otherCatalogNumbers** (Otros números de catálogo)</a>
 
@@ -557,13 +592,13 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Evento
 
-| Índice |    |    |    |
+| Índice |	|	|	|
 | ---|--- |--- |--- |
-| [**parentEventID**<br> (ID parental del evento)](#parentEventID) | [**eventID**<br> (ID del evento)](#eventID) | [**samplingProtocol**<br> (Protocolo de muestreo)](#samplingProtocol) | [**sampleSizeValue**<br> (Valor del tamaño de la muestra)](#sampleSizeValue) |
-| [**sampleSizeUnit**<br> (Unidad del tamaño de la muestra)](#sampleSizeUnit) | [**samplingEffort**<br> (Esfuerzo de muestreo)](#samplingEffort) | [**eventDate**<br> (Fecha del evento)](#eventDate) | [**startDayOfYear**<br> (Día inicial del año)](#startDayOfYear) |
-| [**endDayOfYear**<br> (Día final del año)](#endDayOfYear) | [**year**<br> (Año)](#year) | [**month**<br> (Mes)](#month) | [**day**<br> (Día)](#day) | 
-| [**verbatimEventDate**<br> (Fecha original del evento)](#verbatimEventDate) | [**eventTime**<br> (Hora del evento)](#eventTime) | [**habitat**<br> (Hábitat)](#habitat) | [**fieldNumber**<br> (Número de campo)](#fieldNumber) |
-| [**fieldNotes**<br> (Notas de campo)](#fieldNotes) | [**eventRemarks**<br> (Comentarios del evento)](#eventRemarks) |  |  |
+| [**parentEventID**<br> (ID parental del evento)](#parentEventID) | [**eventID**<br> (ID del evento)](#eventID) | [**eventType**<br> (Tipo de evento)](#eventType) | [**samplingProtocol**<br> (Protocolo de muestreo)](#samplingProtocol) |
+| [**sampleSizeValue**<br> (Valor del tamaño de la muestra)](#sampleSizeValue) | [**sampleSizeUnit**<br> (Unidad del tamaño de la muestra)](#sampleSizeUnit) | [**samplingEffort**<br> (Esfuerzo de muestreo)](#samplingEffort) | [**eventDate**<br> (Fecha del evento)](#eventDate) |
+| [**startDayOfYear**<br> (Día inicial del año)](#startDayOfYear) | [**endDayOfYear**<br> (Día final del año)](#endDayOfYear) | [**year**<br> (Año)](#year) | [**month**<br> (Mes)](#month) |
+| [**day**<br> (Día)](#day) | [**verbatimEventDate**<br> (Fecha original del evento)](#verbatimEventDate) | [**eventTime**<br> (Hora del evento)](#eventTime) | [**habitat**<br> (Hábitat)](#habitat) |
+| [**fieldNumber**<br> (Número de campo)](#fieldNumber) | [**fieldNotes**<br> (Notas de campo)](#fieldNotes) | [**eventRemarks**<br> (Comentarios del evento)](#eventRemarks)  |  |
 
 <br>
 <br>
@@ -590,10 +625,22 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 <br>
 
+<a id="eventType">**eventType** (Tipo de evento)</a>
+
+| ---: | :--- |
+| Definición | La naturaleza del evento. |
+| Comentarios | Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | Muestra<br> Observación<br> Visita al sitio<br> Interacción biótica<br> Bioblitz<br> Expedición<br> Encuesta<br> Proyecto|
+| Core _(Obligatoriedad)_ | Evento de muestreo _(Opcional)_ |
+
+<br>
+
+
 <a id="samplingProtocol">**samplingProtocol** (Protocolo de muestreo)</a>
 
 | ---: | :--- |
 | Definición | El nombre, la descripción o la referencia del método o protocolo de muestreo usado para realizar el muestreo. Se recomienda acompañar este elemento con el elemento samplingEffort. |
+| Comentarios | Si un mismo evento cuenta con varios protocolos de muestreo diferentes, la recomendación es generar un evento (filas) diferente por cada protocolo de muestreo. En el caso que el evento agrupe múltiples protocolos que no puedan ser atribuidos a un registro particular, la práctica recomendada es separar los protocolos por una barra vertical “\|”. |
 | Ejemplo | Trampa de luz UV<br> Red de niebla<br> Arrastre de fondo<br> Observación ad hoc<br> Punto de conteo |
 | Elementos relacionados | samplingEffort |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Obligatorio)_ |
@@ -841,6 +888,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre del país o unidad administrativa de mayor jerarquía de la ubicación. Se recomienda utilizar un identificador persistente de un vocabulario controlado como el Tesauro Getty de Nombres Geográficos o la norma ISO 3166. Se recomienda acompañar este elemento con el elemento countryCode. |
+| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "Colombia y Brasil", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality |
 | Ejemplo | Colombia<br> España<br> Dinamarca |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Obligatorio)_ |
 
@@ -850,7 +898,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El código estándar para el país de la ubicación. |
-| Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 3166-1-alfa-2 de códigos de países, como se muestra a continuación:<br><br> CO (=Para Colombia)<br> AR (=Para Argentina) |
+| Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 3166-1-alfa-2 de códigos de países, como se muestra a continuación:<br><br> CO (=Para Colombia)<br> AR (=Para Argentina)<br> La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "CO y BR", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality |
 | Elementos relacionados | country |
 | Ejemplo | Colombia<br> España<br> Dinamarca |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
@@ -862,6 +910,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que País de la ubicación (Departamento). Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"}. |
+| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "Santander y Boyacá", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality. |
 | Ejemplo | Antioquia<br> Atlántico<br> Bogotá, D.C. |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 
@@ -871,6 +920,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Departamento de la ubicación (Municipio). Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"}. |
+| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "San Juan del Cesar o Riohacha", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality. |
 | Ejemplo | Medellín<br> Puerto Colombia<br> Bogotá, D.C. |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 
@@ -880,6 +930,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Municipio de la ubicación. Puede ser un centro poblado, cabecera municipal, corregimiento o inspección de policía. No utilice este elemento para el nombre de un lugar cercano que no contiene la ubicación real. Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"}. |
+| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca multiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "San Luis o Punta Sur", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality. |
 | Ejemplo | Palmitas<br> Puerto Colombia<br> Bogotá, D.C. |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Opcional)_ |
 
@@ -1088,8 +1139,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | La distancia horizontal (en metros) de la decimalLatitude y decimalLongitude provistas describiendo el círculo más pequeño que contiene la totalidad de la ubicación. Deje el valor vacío si la incertidumbre es desconocida, no se puede estimar, o no es aplicable (porque no hay coordenadas). Cero no es un valor válido para este elemento. |
-| Comentarios | Documente este elemento de acuerdo a las siguientes explicaciones:<br><br> 30 (límite inferior razonable para lecturas de GPS tomadas bajo buenas condiciones después de 2020-05-01, si la precisión no fue tomada en campo)<br> 100 (Límite inferior razonable para lecturas de GPS tomadas bajo buenas condiciones antes de 2020-05-1, si la precisión no fue tomada en campo)<br> 71 (Incertidumbre para coordenadas originales tomadas bajo el sistema de coordenadas UTM teniendo 100 metros de precisión y un sistema de referencia espacial conocido)<br> 2100 |
-| Ejemplo | 30<br> 100<br> 71<br> 2100 |
+| Comentarios | Documente este elemento de acuerdo a las siguientes explicaciones:<br><br> 30 (límite inferior razonable de incertidumbre en metros para lecturas de GPS tomadas bajo buenas condiciones después de 2000-05-01, cuando la precisión no fue tomada en campo) <br> 100 (Límite inferior razonable de incertidumbre en metros para lecturas de GPS tomadas bajo buenas condiciones antes de 2000-05-1, cuando la precisión no fue tomada en campo) <br> 71 (Incertidumbre para coordenadas originales tomadas bajo el sistema de coordenadas UTM teniendo 100 metros de precisión y un sistema de referencia espacial conocido) |
+| Ejemplo | 30<br> 100<br> 71 |
 | Elementos relacionados | decimalLatitude, decimalLongitude |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Opcional)_ |
 
@@ -1109,8 +1160,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="pointRadiusSpatialFit">**pointRadiusSpatialFit** (Ajuste espacial del radio-punto)</a>
 
 | ---: | :--- |
-| Definición | La relación entre el área del radio-punto (decimalLatitude, decimalLongitude y coordinateUncertaintyInMeters) y el área de la verdadera (original, o más específica) representación espacial de la ubicación. Los valores válidos son 0, mayor que o igual a 1, o indefinido. Un valor de 1 es una coincidencia exacta o superposición de 100%. Un valor de 0 se debe utilizar si el radio-punto dado no contiene por completo la representación original. El Ajuste espacial del radio-punto no está definido (y se debe dejar en blanco) si la representación original es un punto sin incertidumbre y la georreferencia dada no es ese mismo punto (sin incertidumbre). Si tanto el original como la georreferencia dada están en el mismo punto el ajuste espacial del radio-punto es 1. |
-| Ejemplo | 0<br> 1<br> 0.5708 |
+| Definición | La relación entre el área del radio-punto (decimalLatitude, decimalLongitude y coordinateUncertaintyInMeters) y el área de la verdadera  representación espacial de la ubicación (original, o más específica). Los valores válidos son 0, 1, mayor que 1, o indefinido. Un valor de 1 es una coincidencia exacta o superposición de 100%. Un valor de 0 se debe utilizar si el radio-punto dado no contiene por completo la representación original. El Ajuste espacial del radio-punto no está definido (y se debe dejar en blanco) si la representación original es cualquier geometría sin área (un punto o polilínea) y la georreferencia asignada no corresponde a esa misma geometría (sin incertidumbre). Si tanto el original como la georreferencia dada están en el mismo punto el ajuste espacial del radio-punto es 1. |
+| Ejemplo | 0<br> 1<br> 1.5708<br> Indefinido|
 | Elementos relacionados | decimalLatitude, decimalLongitude, coordinateUncertaintyInMeters |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
@@ -1138,8 +1189,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="footprintSpatialFit">**footprintSpatialFit** (Ajuste espacial de footprint)</a>
 
 | ---: | :--- |
-| Definición | La relación del área de footprint (WKT footprint) y el área de la verdadera (original, o más específica) representación espacial de la ubicación. Los valores válidos son 0, mayor que, igual a 1, o indefinido. Un valor de 1 es una coincidencia exacta o superposición de 100%. Un valor de 0 debe ser utilizado si el footprint dado no contiene la representación original completamente. El footprintSpatialFit es indefinido (y se debe dejar en blanco) si la representación original es un punto y la georreferencia dada no es ese mismo punto. Si el original y la georreferencia dada son el mismo punto, el footprintSpatialFit es 1. |
-| Ejemplo | 0<br> 1 |
+| Definición | La relación del área de footprint (WKT footprint) y el área de la verdadera representación espacial de la ubicación (original, o más específica). Los valores válidos son 0, 1, mayor que 1, o indefinido. Un valor de 1 es una coincidencia exacta o superposición de 100%. Un valor de 0 debe ser utilizado si el footprint dado no contiene la representación original completamente. El footprintSpatialFit es indefinido (y se debe dejar en blanco) si la representación original es cualquier geometría sin área (un punto o polilínea) y la georreferencia asignada no corresponde a esa misma geometría (sin incertidumbre). Si el original y la georreferencia dada son el mismo punto, el footprintSpatialFit es 1. |
+| Ejemplo | 0<br> 1<br> 1.5708<br> Indefinido |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
@@ -1484,18 +1535,18 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Taxón
 
-| Índice |    |    |    |
+| Índice |	|	|	|
 | ---|--- |--- |--- |
 | [**scientificName**<br> (Nombre científico)](#scientificName) | [**scientificNameAuthorship**<br> (Autoría del nombre científico)](#scientificNameAuthorship) | [**taxonID**<br> (ID del Taxón)](#taxonID) | [**scientificNameID**<br> (ID del nombre científico)](#scientificNameID) |
 | [**higherClassification**<br> (Clasificación superior)](#higherClassification) | [**kingdom**<br> (Reino)](#kingdom) | [**phylum**<br> (Filo)](#phylum) | [**class**<br> (Clase)](#class) |
-| [**order**<br> (Orden)](#order) | [**family**<br> (Familia)](#family) | [**subfamily**<br> (Subfamilia)](#subfamily) | [**genus**<br> (Género)](#genus) | 
-| [**genericName**<br> (Nombre genérico)](#genericName) | [**subgenus**<br> (Subgénero)](#subgenus) | [**infragenericEpithet**<br> (Epíteto infragenérico)](#infragenericEpithet) | [**specificEpithet**<br> (Epíteto Específico)](#specificEpithet) |
-| [**infraspecificEpithet**<br> (Epíteto infraespecífico)](#infraspecificEpithet) | [**cultivarEpithet**<br> (Epíteto cultivar)](#cultivarEpithet) | [**taxonRank**<br> (Categoría del taxón)](#taxonRank) | [**verbatimTaxonRank**<br> (Categoría original del taxón)](#verbatimTaxonRank) |
-| [**vernacularName**<br> (Nombre común)](#vernacularName) | [**taxonomicStatus**<br> (Estado taxonómico)](#taxonomicStatus) | [**acceptedNameUsage**<br> (Nombre aceptado usado)](#acceptedNameUsage) | [**acceptedNameUsageID**<br> (ID del nombre aceptado usado)](#acceptedNameUsageID) |
-| [**parentNameUsage**<br> (Nombre parental usado)](#parentNameUsage) | [**parentNameUsageID**<br> (ID del Nombre Parental usado)](#parentNameUsageID) | [**originalNameUsage**<br> (Nombre original usado)](#originalNameUsage) | [**originalNameUsageID**<br> (ID del Nombre original usado)](#originalNameUsageID) |
-| [**nameAccordingTo**<br> (Nombre de acuerdo con)](#nameAccordingTo) | [**nameAccordingToID**<br> (ID del nombre de acuerdo con)](#nameAccordingToID) | [**namePublishedIn**<br> (Nombre publicado en)](#namePublishedIn) | [**namePublishedInID**<br> (ID del nombre publicado en)](#namePublishedInID) |
-| [**namePublishedInYear**<br> (Nombre publicado en el año)](#namePublishedInYear) | [**taxonConceptID**<br> (ID del concepto del taxón)](#taxonConceptID) | [**nomenclaturalCode**<br> (Código nomenclatural)](#nomenclaturalCode) | [**nomenclaturalStatus**<br> (Estado nomenclatural)](#nomenclaturalStatus) |
-| [**taxonRemarks**<br> (Comentarios del taxón)](#taxonRemarks) |  |  |  |
+| [**order**<br> (Orden)](#order) |[**superfamily**<br> (Superfamilia)](#superfamily) | [**family**<br> (Familia)](#family) | [**subfamily**<br> (Subfamilia)](#subfamily)
+|[**tribe**<br> (Tribu)](#tribe) | [**subtribe**<br> (Subtribu)](#subtribe) | [**genus**<br> (Género)](#genus) | [**genericName**<br> (Nombre genérico)](#genericName)
+| [**subgenus**<br> (Subgénero)](#subgenus) | [**infragenericEpithet**<br> (Epíteto infragenérico)](#infragenericEpithet) | [**specificEpithet**<br> (Epíteto Específico)](#specificEpithet) | [**infraspecificEpithet**<br> (Epíteto infraespecífico)](#infraspecificEpithet)
+| [**cultivarEpithet**<br> (Epíteto cultivar)](#cultivarEpithet) | [**taxonRank**<br> (Categoría del taxón)](#taxonRank) | [**verbatimTaxonRank**<br> (Categoría original del taxón)](#verbatimTaxonRank) | [**vernacularName**<br> (Nombre común)](#vernacularName)
+| [**taxonomicStatus**<br> (Estado taxonómico)](#taxonomicStatus) | [**acceptedNameUsage**<br> (Nombre aceptado usado)](#acceptedNameUsage) | [**acceptedNameUsageID**<br> (ID del nombre aceptado usado)](#acceptedNameUsageID) | [**parentNameUsage**<br> (Nombre parental usado)](#parentNameUsage)
+| [**parentNameUsageID**<br> (ID del Nombre Parental usado)](#parentNameUsageID) | [**originalNameUsage**<br> (Nombre original usado)](#originalNameUsage) | [**originalNameUsageID**<br> (ID del Nombre original usado)](#originalNameUsageID) | [**nameAccordingTo**<br> (Nombre de acuerdo con)](#nameAccordingTo)
+| [**nameAccordingToID**<br> (ID del nombre de acuerdo con)](#nameAccordingToID) | [**namePublishedIn**<br> (Nombre publicado en)](#namePublishedIn) | [**namePublishedInID**<br> (ID del nombre publicado en)](#namePublishedInID) | [**namePublishedInYear**<br> (Nombre publicado en el año)](#namePublishedInYear)
+| [**taxonConceptID**<br> (ID del concepto del taxón)](#taxonConceptID) | [**nomenclaturalCode**<br> (Código nomenclatural)](#nomenclaturalCode) | [**nomenclaturalStatus**<br> (Estado nomenclatural)](#nomenclaturalStatus) | [**taxonRemarks**<br> (Comentarios del taxón)](#taxonRemarks) |
 
 <br>
 <br>
@@ -1504,7 +1555,10 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre científico canónico (sin la autoría) correspondiente a la categoría taxonómica a la que se logró la determinación del organismo observado o colectado. El nombre debe ser congruente con el elemento taxonRank, de modo que se informe a que nivel (especie, género, familia, etc.) se encuentra el nombre documentado. |
-| Comentarios| Para tener en cuenta:<br><br> - El nombre científico puede pertenecer a cualquier categoría taxonómica (reino, filo, clase, orden, familia, género, especie entre otros), en ningún caso es obligatorio la identificación a nivel de especie.<br> - No debe documentar la autoría del taxón en este elemento, para ello utilice el elemento scientificNameAuthorship.<br> - No debe documentar calificadores de identificación (“cf.”, “aff.”, etc.), para ello utilice el elemento identificationQualifier y deje en el nombre científico la categoría superior sobre la cual se tiene certeza.<br> - No debe documentar abreviaciones que no dan cuenta de el nombre específico o hacen referencia  a morfotipos (“sp.”, “sp1.”, “spp.”), para ello utilice el elemento verbatimTaxonRank.<br><br> *Aunque oficialmente scientificName se define como el "nombre científico completo, con información de autoría y fecha si se conoce", desde el SiB Colombia se recomienda documentar solo el nombre canónico ya que hemos notado un detrimento de la calidad de este elemento por errores de tipeo cuando se incluye siguiendo la definición oficial. |
+| Comentarios| Para tener en cuenta:<br><br> - El nombre científico puede pertenecer a cualquier categoría taxonómica (reino, filo, clase, orden, familia, género, especie entre otros), en ningún caso es obligatorio la identificación a nivel de especie.<br> - No debe documentar la autoría del taxón en este elemento, para ello utilice el elemento scientificNameAuthorship.<br> - No debe documentar calificadores de identificación (“cf.”, “aff.”, etc.), para ello utilice el elemento identificationQualifier y deje en el nombre científico la categoría superior sobre la cual se tiene certeza.<br> - No debe documentar abreviaciones que no dan cuenta de el nombre específico o hacen referencia  a morfotipos (“sp.”, “sp1.”, “spp.”), para ello utilice el elemento verbatimTaxonRank.<br>
+Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas del Código Internacional de Nomenclatura para algas, hongos y plantas (Schenzhen Code Articles H.1, H.2 and H.3). Utilizando el signo de multiplicación  × (Unicode U+00D7, HTML ×) para identificar un híbrido, evitando usar una "x" o "X". <br><br>
+*Aunque oficialmente scientificName se define como el "nombre científico completo, con información de autoría y fecha si se conoce", desde el SiB Colombia se recomienda documentar solo el nombre canónico ya que hemos notado un detrimento de la calidad de este elemento por errores de tipeo cuando se incluye siguiendo la definición oficial.|
+
 | Ejemplo | Coleoptera<br> Bacteria<br> Ctenomys sociabilis<br> Abrus pulchellus subsp. tenuiflorus |
 | Elementos relacionados | taxonRank, scientificNameAuthorship, identificationQualifier, verbatimTaxonRank |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Lista de chequeo _(Obligatorio)_ |
@@ -1587,6 +1641,17 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 <br>
 
+<a id="superfamily">**superfamily** (Superfamilia)</a>
+
+| ---: | :--- |
+| Definición | El nombre científico completo de la superfamilia a la que pertenece el taxón. |
+| Comentarios | Una categoría taxonómica subordinada a un orden y superior a una familia. Acorde al ICZN, artículo 29.2, el sufijo -oidea es usado para los nombres de superfamilia. |
+| Ejemplo | Achatinoidea<br> Cerithioidea<br> Helicoidea<br> Hypsibioidea<br> Valvatoidea<br> Zonitoidea|
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
+
+
 <a id="family">**family** (Familia)</a>
 
 | ---: | :--- |
@@ -1602,6 +1667,24 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El nombre científico completo de la subfamilia al que pertenece el taxón. |
 | Ejemplo | Periptyctinae<br> Orchidoideae<br> Sphindociinae |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
+
+<br>
+
+<a id="tribe">**tribe** (Tribu)</a>
+
+| ---: | :--- |
+| Definición | El nombre científico completo de la tribu a la que pertenece el taxón. |
+| Ejemplo | Ortaliini<br> Arethuseae |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
+
+<br>
+
+<a id="subtribe">**subtribe** (Subtribu)</a>
+
+| ---: | :--- |
+| Definición | El nombre científico completo de la subtribu a la que pertenece el taxón. |
+| Ejemplo | Plotinini<br> Typhaeini |
+| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
 
 <br>
 
@@ -1660,6 +1743,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre del epíteto infraespecífico presente en el scientificName cuando la determinación se hizo con la categoría de taxón más baja o más especifica por debajo del epíteto específico (parte terminal del nombre), excluyendo cualquier otra denominación de categoría. |
+| Comentarios | En botánica, los nombres en la literatura y las identificaciones pueden tener múltiples rangos infraespecíficos. De acuerdo al Código Internacional de Nomenclatura para algas, hongos y plantas (Schenzhen Code Articles 6.7 & Art. 24.1), los nombres válidos tienen solamente dos epítetos, con el rango más bajo presente en infraspecificEpithet. Por ejemplo el epíteto infraespecífico para Indigofera charlieriana subsp. sessilis var. scaberrima es "scaberrima".|
 | Ejemplo | concolor<br> oxyadenia<br> sayi |
 | Elementos relacionados | scientificName |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
@@ -1681,7 +1765,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | La categoría taxonómica del nombre más específico presente en el scientificName. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
-| Ejemplo | Reino<br> Subreino<br> Filo<br> División<br> Subfilo<br> Subdivisión<br> Clase<br> Subclase<br> Orden<br> Suborden<br> Familia<br> Subfamilia<br> Tribu<br> Subtribu<br> Género<br> Subgénero<br> Sección<br> Subsección<br> Serie<br> Subserie<br> Especie<br> Subespecie<br> Variedad<br> Subvariedad<br> Forma<br> Subforma |
+| Ejemplo | Reino<br> Subreino<br> Filo<br> División<br> Subfilo<br> Subdivisión<br> Clase<br> Subclase<br> Orden<br> Suborden<br> Familia<br> Subfamilia<br> Tribu<br> Subtribu<br> Nothogénero<br> Género<br> Subgénero<br> Sección<br> Subsección<br> Serie<br> Subserie<br> Nothoespecie<br> Especie<br> Nothosubespecie<br> Subespecie<br> Variedad<br> Subvariedad<br> Forma<br> Subforma |
 | Elementos relacionados | scientificName |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Lista de chequeo _(Recomendado)_ |
 
@@ -1801,6 +1885,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Una referencia para la publicación en que se estableció originalmente el taxón presente en el scientificName, bajo las reglas del nomeclaturalCode asociado. |
+| Comentarios | La citación de la primera publicación del nombre científico documentado en este registro, no el basónimo/nombre original. Las recombinaciones usualmente no se publican en zoología, en ese caso namePublishedIn debe estar vacío. |
 | Ejemplo | Pearson O. P., and M. I. Christie. 1985. Historia Natural, 5(37):388; Forel, Auguste, Diagnosies provisoires de quelques espèces nouvelles de fourmis de Madagascar, récoltées par M. Grandidier., Annales de la Societe Entomologique de Belgique, Comptes-rendus des Seances 30, 1886 |
 | Elementos relacionados | scientificName, nomeclaturalCode |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
@@ -1811,6 +1896,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Un identificador de la publicación en que se estableció originalmente el taxón presente en el scientificName, bajo las reglas del nomeclaturalCode asociado. |
+| Comentarios | La citación de la primera publicación del nombre científico documentado en este registro, no el basónimo/nombre original. Las recombinaciones usualmente no se publican en zoología, en ese caso namePublishedInID debe estar vacío. |
 | Ejemplo | doi:10.1016/S0269-915X(97)80026-2<br> 19thcenturyscience.org/HMSC/HMSC-Reports/Zool-40/README.htm |
 | Elementos relacionados | namePublishedIn |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
@@ -1870,6 +1956,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ## Extensiones DwC
 
+Las extensiones DwC están conformadas por elementos usados para documentar información adicional y específica que no se relaciona dentro del core. Las extensiones pueden ser compatibles con todos o algunos de los core. Algunas de las extensiones más frecuentemente usadas y que cuentan con traducción son:
 
 ### Relación del Recurso
 
@@ -1963,13 +2050,13 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Medidas o Hechos Extendida
 
-| Índice |    |    |
+| Índice |	|	|
 | ---|--- |--- |
-| [**occurrenceID**<br> (ID del Registro biológico)](#medidas_occurrenceID) | [**measurementID**<br> (ID de la medida)](#measurementID) | [**measurementType**<br> (Tipo de medida)](#measurementType) | 
-| [**measurementTypeID**<br> (ID del tipo de medida)](#measurementTypeID) | [**measurementValue**<br> (Valor de la medida)](#measurementValue) | [**measurementValueID**<br> (ID del valor de la medida)](#measurementValueID) |
-| [**measurementAccuracy**<br> (Precisión de la medida)](#measurementAccuracy) | [**measurementUnit**<br> (Unidad de la medida)](#measurementUnit) | [**measurementUnitID**<br> (ID de la unidad de la medida)](#measurementUnitID) |
-| [**measurementDeterminedDate**<br> (Fecha de la determinación de la medida)](#measurementDeterminedDate) | [**measurementDeterminedBy**<br> (Medida tomada por)](#measurementDeterminedBy) | [**measurementMethod**<br> (Método de medida)](#measurementMethod) |
-| [**measurementRemarks**<br> (Comentarios de la medida)](#measurementRemarks) |  |  |
+| [**occurrenceID**<br> (ID del Registro biológico)](#medidas_occurrenceID) | [**parentMeasurementID**<br> (ID de la medida parental)](#parentMeasurementID)|[**measurementID**<br> (ID de la medida)](#measurementID)
+| [**measurementType**<br> (Tipo de medida)](#measurementType) | [**measurementTypeID**<br> (ID del tipo de medida)](#measurementTypeID) | [**measurementValue**<br> (Valor de la medida)](#measurementValue)
+| [**measurementValueID**<br> (ID del valor de la medida)](#measurementValueID) | [**measurementAccuracy**<br> (Precisión de la medida)](#measurementAccuracy) | [**measurementUnit**<br> (Unidad de la medida)](#measurementUnit)
+| [**measurementUnitID**<br> (ID de la unidad de la medida)](#measurementUnitID) | [**measurementDeterminedDate**<br> (Fecha de la determinación de la medida)](#measurementDeterminedDate) | [**measurementDeterminedBy**<br> (Medida tomada por)](#measurementDeterminedBy)
+| [**measurementMethod**<br> (Método de medida)](#measurementMethod) | [**measurementRemarks**<br> (Comentarios de la medida)](#measurementRemarks) | |
 
 <br>
 <br>
@@ -1982,6 +2069,17 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 
 <br>
+
+<a id="parentMeasurementID">**parentMeasurementID** (ID de la medida parental)</a>
+
+| ---: | :--- |
+| Definición | Un identificador único para la categoría superior de la medida o hecho que agrupe esta y potencialmente otras medidas. |
+| Comentarios | Puede ser un identificador único global o un identificador específico para el conjunto de datos. |
+| Ejemplo | 9c752d22-b09a-11e8-96f8-529269fb1459<br> E1_E1_O1_M1 <br> MedidaPico_Color |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
 
 <a id="measurementID">**measurementID** (ID de la medida)</a>
 
@@ -2049,7 +2147,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | Las unidades asociadas al measurementValue. Sólo aplica para variables cuantitativas. |
 | Comentarios | La práctica recomendada es utilizar el Sistema Internacional de Unidades (SI) (http://www.sc.ehu.es/sbweb/fisica_/unidades/unidades/unidades_1.html), como se muestra a continuación:<br><br> g (= Gramos)<br> m (= Metros)<br> °C (= Grados Centígrados) |
-| Ejemplo | g<br> m<br> °C<br> cm<br> s |
+| Ejemplo | g<br> m<br> °C<br> cm<br> s<br> km²<br> %<br> hh\:mm:ss |
 | Elementos relacionados | measurementUnitID, measurementValue |
 | _(Obligatoriedad)_ | _(Condicional)_. Obligatorio para variables cuantitativas |
 
@@ -2798,7 +2896,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | [**typeStatus**<br> (Tipo nomenclatural)](#tipos_typeStatus) | [**typeDesignationType**<br> (Tipo de designación del tipo)](#typeDesignationType) | [**typeDesignatedBy**<br> (Tipo designado por)](#typeDesignatedBy) | [**scientificName**<br> (Nombre científico)](#tipos_scientificName) |
 | [**taxonRank**<br> (Categoría del taxón)](#tipos_taxonRank) | [**bibliographicCitation**<br> (Citación bibliográfica)](#tipos_bibliographicCitation) | [**occurrenceID**<br> (ID del registro biológico)](#tipos_occurrenceID) | [**institutionCode**<br> (Código de la institución)](#tipos_institutionCode) |
 | [**collectionCode**<br> (Código de la colección)](#tipos_collectionCode) | [**catalogNumber**<br> (Número de catálogo)](#tipos_catalogNumber) | [**locality**<br> (Localidad)](#tipos_locality) | [**sex**<br> (Sexo)](#tipos_sex) |
-| [**recordedBy**<br> (Registrado por)](#tipos_recordedBy) | [**source**<br> (Fuente)](#tipos_source) | [**verbatimEventDate**<br> (Fecha original del evento)](#tipos_verbatimEventDate) | [**verbatimLabel**<br> (Etiqueta original)](#verbatimLabel) |
+| [**recordedBy**<br> (Registrado por)](#tipos_recordedBy) | [**source**<br> (Fuente)](#tipos_source) | [**verbatimEventDate**<br> (Fecha original del evento)](#tipos_verbatimEventDate) | [**verbatimLabel**<br> (Etiqueta original)](#tipo_verbatimLabel) |
 | [**verbatimLongitude**<br> (Longitud original)](#tipos_verbatimLongitude) | [**verbatimLatitude**<br> (Latitud original)](#tipos_verbatimLatitude) | [**datasetID**<br> (ID del conjunto de datos)](#tipos_datasetID) |  |
 
 <br>
@@ -2940,11 +3038,12 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 <br>
 
-<a id="verbatimLabel">**verbatimLabel** (Etiqueta original)</a>
+<a id="tipo_verbatimLabel">**verbatimLabel** (Etiqueta original)</a>
 
 | ---: | :--- |
-| Definición | El texto completo y literal de la etiqueta del espécimen. |
-| Ejemplo | Herbario de la facultad de farmacia \| Universidad de Valencia \| Sideritis juryi \| Peris, Stubing & Figuerola sp.nov \| Valencia: Entre Lliria y Casinos, sobre colina calcaréas degradadas \| Leg.: Stubing & J.B. Peris, 25-V-1989 \| ISOTYPUS |
+| Definición | Texto que representa la información literal que está presente en la etiqueta, carácter por carácter. Libre de interpretación, traducción o transliteración. |
+| Comentarios | El contenido de este elemento no debe incluir ningún tipo de embellecimiento, prefijos, encabezados u otras adiciones al texto original. Las abreviaciones no deben ser extendidas y posibles errores de tipeo no deben ser corregidos. Las nuevas líneas presentes en la etiqueta se deben representar utilizando una barra vertical “ \| ”. La práctica recomendada es utilizar solamente caracteres en la codificación UTF-8 y poner el comentario "El elemento verbatimLabel es derivado de una transcripción humana" en el elemento occurrenceRemarks. |
+| Ejemplo | CARACTERIZACION DE LA FLORA DEL DEPARTAMENTO DEL CASANARE \| PIPER* \| Peperomia quadrangularis (J.V.Thmps.) A. Dietr. \| Det: M.P. Córdoba /sep 2011 \| Enredadera \| COLOMBIA: Dpto Casanare, Mpio Tauramena, Vda La Urama, Localidad La Mata de la Urama Lat: 5° 03’,19,2” N, Long: 72° 48’ 58,8” W . Altitud: 182 m s.n.m., 28 Enero 2011. \| Col: M .P.Córdoba, R. Ávila, L.Miranda y C. Pérez. \| No. Col.: M.P.Córdoba 6161 \| GOBERNACIÓN DEL CASANARE-WWF-FUNDACIÓN OMACHA \| 119 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -3775,6 +3874,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | [**degreeOfEstablishment**<br> (Grado de establecimiento](#vc_degreeOfEstablishment) | [**pathway**<br> (Ruta de introducción)](#vc_pathway) | [**occurrenceStatus**<br> (Estado del registro biológico)](#vc_occurrenceStatus) | [**continent**<br> (Continente)](#vc_continent) |
 | [**countryCode**<br> (Código del país)](#vc_countryCode) | [**threatStatus**<br> (Estado de amenaza)](#vc_threatStatus) | [**appendixCITES**<br> (Apéndice CITES)](#vc_appendixCITES) | [**type**<br> (Tipo)](#vc_multimedia_type) |
 
+
+
 <br>
 <br>
 
@@ -3858,12 +3959,12 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 
 <a id="vc_occurrenceStatus">**occurrenceStatus** (Estado del registro biológico)</a>
 
-|  Vocabulario |  Definición  |
-| ---|--- |
-| Presente | Existe al menos un registro bien documentado de la presencia del taxón en el área. |
-| Ausente | Existe evidencia para documentar la ausencia del taxón en el área. |
-| present | Presente. Es obligatorio el uso del vocabulario en ingles para los registros marino-costeros. |
-| absent | Ausente. Es obligatorio el uso del vocabulario en ingles para los registros marino-costeros. |
+| Vocabulario |  Definición |  Uso  |
+| ---| ---|--- |
+| Presente | Existe al menos un registro bien documentado de la presencia del taxón en el área. | Extensión Distribución de la Especie |
+| Ausente | Existe evidencia para documentar la ausencia del taxón en el área. | Extensión Distribución de la Especie |
+| present | Se encontró evidencia de la presencia de un organismo en el momento y lugar del registro biológico  | Core Registros |
+| absent | No se encontró evidencia de la presencia de un organismo en el momento y lugar de la toma del registro biológico bajo un protocolo establecido específicamente para su detección  | Core Registros |
 
 <br>
 
@@ -3880,6 +3981,7 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 | Antártida |
 
 <br>
+
 
 <a id="vc_countryCode">**countryCode** (Código del país)</a>
 
@@ -3932,4 +4034,3 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 | PhysicalObject  | Objeto físico |
 | StillImage | Fotografía |
 | MovingImage | Video |
-
