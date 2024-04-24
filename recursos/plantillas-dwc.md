@@ -44,7 +44,43 @@ Use esta plantilla si sus datos:
 
 
 <details>
-    <summary markdown="span"><b><a href="https://drive.google.com/u/0/uc?id=1mj0XG8GcABmTcZefQfHdHi8_ugJV3roA&export=download">Descargar última versión v4.0</a></b></summary>
+    <summary markdown="span"><b><a href="https://drive.google.com/u/0/uc?id=18TGecPD1dH3KgiuA0i3FXD3BoEyLz5MS&export=download">Descargar última versión v4.1</a></b></summary>
+<p>
+    <i>Cambios realizados respecto a la versión 4.0:</i>
+</p>
+
+<ul>
+  <li>Se incluyen 7 nuevos elementos incorporados en la última versión del estándar (2023-09-18).
+    <ul>
+      <li>caste (Casta)</li>
+      <li>vitality (Estado de vitalidad)</li>
+      <li>verbatimLabel (Estado de vitalidad)</li>
+      <li>eventType (Tipo de evento)</li>
+      <li>superfamily (Superfamilia)</li>
+      <li>tribe (Tribu)</li>
+      <li>subtribe (Subtribu)</li>
+    </ul>
+  </li>
+  <li>Definiciones actualizadas y actualización de comentarios para varios elementos
+    <ul>
+      <li>footprintSpatialFit</li>
+      <li>pointRadiusSpatialFit</li>
+    </ul>   
+  </li> 
+      <li>Cambios en las instrucciones
+    <ul>
+      <li>Actualización de la citación</li>
+    </ul>
+  </li>      
+
+</ul>
+  
+</details>  
+
+<details>
+    <summary markdown="span"><B>Historial de versiones</B></summary>
+
+    <summary markdown="span"><b><a href="https://drive.google.com/u/0/uc?id=1mj0XG8GcABmTcZefQfHdHi8_ugJV3roA&export=download">Plantilla de Registros Biológicos v4.0</a></b></summary>
 <p>
     <i>Cambios realizados respecto a la versión 3.5:</i>
 </p>
@@ -83,17 +119,12 @@ Use esta plantilla si sus datos:
 
 </ul>
   
-</details>  
-
-<details>
-    <summary markdown="span"><B>Historial de versiones</B></summary>
-  
    <a href="https://drive.google.com/u/0/uc?id=16oIiR09yAbm8B63CpR0h2phY7tqsFXSk&export=download"><b>Plantilla de Registros Biológicos v3.5</b></a>
 <p><i>Cambios realizados respecto a la versión 3.4:</i></p>
 <ul>
   <li>Definiciones actualizadas
     <ul>
-      <li>basisOfrecord</li>
+      <li>basisOfRecord</li>
       <li>disposition</li>
       <li>preparations</li>
       <li>organismQuantity</li>
@@ -118,7 +149,7 @@ Use esta plantilla si sus datos:
 
 </ul>
   
-    <a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=18QECbc_8aobmpxsLLKU8QFsRJIm-QBF6&export=download"><b>Plantilla de Registros Biológicos v4.0</b></a>
+    <a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=18QECbc_8aobmpxsLLKU8QFsRJIm-QBF6&export=download"><b>Plantilla de Registros Biológicos v3.4</b></a>
 <p><i>Cambios realizados respecto a la versión 3.3:</i></p>
 <ul>
   <li>Definiciones actualizadas
@@ -191,12 +222,17 @@ Use esta plantilla si sus datos:
 
 
 <details>
-    <summary markdown="span"><b><a href="https://drive.google.com/uc?id=1BEpjkyfXqCSsBj24QclPY8FOpFCNcCdC&authuser=2&export=download">Descargar última versión v4.0</a></b></summary>
-    <p><i>Revisada y editada 2022-02</i></p>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?id=15KbVqmcmm8aynmNNyNDtGWx7afQ006GT&authuser=2&export=download">Descargar última versión v4.1</a></b></summary>
+    <p><i>Revisada y editada 2024-05</i></p>
     
 </details>
 <details>
-    <summary markdown="span"><B>Historial de versiones</B></summary><a href="https://drive.google.com/uc?export=download&id=1p2j1KYHsNPyt50LopUkdhdaMlI6SZd4Q">Descargar última versión v3.2</a></b></summary>
+    <summary markdown="span"><B>Historial de versiones</B></summary>
+	
+<a href="https://drive.google.com/uc?id=1BEpjkyfXqCSsBj24QclPY8FOpFCNcCdC&authuser=2&export=download">Descargar última versión v4.0</a></b></summary>
+    <p><i>Revisada y editada 2022-02</i></p>
+
+<a href="https://drive.google.com/uc?export=download&id=1p2j1KYHsNPyt50LopUkdhdaMlI6SZd4Q">Descargar última versión v3.2</a></b></summary>
     <p><i>Revisada y editada 2017-11</i></p>
     <a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=11rXim-K9OvEX3icT10sA5FE67NNvPIdd&export=download"><b>Plantilla de Listas v3.0</b></a>
     <p><i>Revisada y editada  2013-11</i></p>
@@ -220,14 +256,21 @@ Use esta plantilla si sus datos:
 * No solo documentan atributos de un registro biológico, sino también el detalle suficiente para determinar la composición de una comunidad o abundancia relativa de las especies en diferentes momentos del tiempo.
 
 <details>
-    <summary markdown="span"><b><a href="https://drive.google.com/uc?id=1s4YC0Rkxoi3TsDvxiuGNp0CeMMzHf-9U&authuser=2&export=download">Descargar última versión v2.0</a></b></summary>
-    <p><i>Revisada y editada 2022-02</i></p>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?id=1_W9dujbANfZr65al-HLpyGwy1EDx4HNU&authuser=2&export=download">Descargar última versión v2.1</a>
+    <p><i>Revisada y editada 2024-05</i></p>
     
 </details>
 
 <details>
-    <summary markdown="span"><B>Historial de versiones</B></summary><a href="https://drive.google.com/uc?id=1N3zTljnFujY7MC8Y_R4vd7vr1IhjgeXp&authuser=2&export=download">Descargar última versión v1.1</a></b></summary>
+ 
+    <summary markdown="span"><B>Historial de versiones</B></summary>
+    
+<a href="https://drive.google.com/uc?id=1s4YC0Rkxoi3TsDvxiuGNp0CeMMzHf-9U&authuser=2&export=download"><b>Plantilla de eventos v2.0</b></a> 
+ <p><i>Revisada y editada 2022-02</i></p>   
+    
+    <a href="https://drive.google.com/uc?id=1N3zTljnFujY7MC8Y_R4vd7vr1IhjgeXp&authuser=2&export=download">Plantilla de eventos v1.1</a>
     <p><i>Revisada y editada 2014-05</i></p>
+    
 
 </details>
 
@@ -250,8 +293,8 @@ Tambié puede consultar la [documentación oficial de las extensiones](https://r
 </details>
 
 <details>
-    <summary markdown="span"><b><a href="https://drive.google.com/uc?export=download&id=1s05MAYDixYt6wPp9V8de8qrCHxuOOw-o">Medidas o Hechos</a></b></summary>
-    <p><i>Revisada y editada 2021-06</i></p>
+    <summary markdown="span"><b><a href="https://drive.google.com/u/0/uc?id=1hyRQ7rC3-bUm2eFga-swB4F2hW7PTE7g&export=download">Medidas o Hechos</a></b></summary>
+    <p><i>Revisada y editada 2024-05</i></p>
     
 </details>
 
