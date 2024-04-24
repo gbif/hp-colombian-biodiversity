@@ -30,7 +30,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 - La documentación oficial y en inglés del estándar se puede consultar en: [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/){:target="_blank"}
 - La documentación oficial y en inglés de las extensiones: [https://rs.gbif.org/extensions.html](https://rs.gbif.org/extensions.html){:target="_blank"}
 
-*Fecha de última actualización: mayo de 2024. *
+*Fecha de última actualización: mayo de 2024.*
 
 ## Categorías DwC
 
@@ -367,14 +367,13 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 <br>
 
-
 <a id="vitality">**vitality** (Estado de vitalidad)</a>
 
 | ---: | :--- |
 | Definición | Indicación de la vitalidad del organismo en el momento de la colecta u observación (vivo o muerto). |
 | Comentarios | Se requiere el uso de un vocabulario controlado. Usar este elemento en registros documentados como PreservedSpecimen, MaterialSample, o HumanObservation en el elemento basisOfRecord. |
+|  Ejemplo |  Vivo<br> Muerto<br> Grupo mixto<br> Incierto<br> No evaluado |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](#vc_vitality) | Vivo<br> Muerto<br> Grupo mixto<br> Incierto<br> No evaluado |
 
 <br>
 
@@ -2072,7 +2071,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 | ---: | :--- |
 | Definición | Un identificador único para la categoría superior de la medida o hecho que agrupe esta y potencialmente otras medidas. |
 | Comentarios | Puede ser un identificador único global o un identificador específico para el conjunto de datos. |
-| Ejemplo | 9c752d22-b09a-11e8-96f8-529269fb1459<br> E1_E1_O1_M1 |
+| Ejemplo | 9c752d22-b09a-11e8-96f8-529269fb1459<br> E1_E1_O1_M1 <br> MedidaPico |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -2082,7 +2081,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 | ---: | :--- |
 | Definición | Un identificador para la medida o hecho. Puede ser un identificador único global o un identificador específico para el conjunto de datos. El identificador puede construirse a partir de tesauros específicos como NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/) comúnmente usado para datos marinos.<br><br> Puede construirse a partir de la siguiente estructura: [measurementTypeID]:[consecutivo]. |
-| Ejemplo | P01/current/AREABEDS:001 |
+| Ejemplo | P01/current/AREABEDS:001 <br> MedidaPico_Color |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -3865,12 +3864,12 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 ## Vocabularios Controlados
 
-| Índice |	|	|	|
+| Índice |    |    |    |
 | ---|--- |--- |--- |
 | [**basisOfRecord**<br> (Base del registro)](#vc_basisOfRecord) | [**type**<br> (Tipo)](#vc_type) | [**language**<br> (Idioma)](#vc_language) | [**establishmentMeans**<br> (Medios de establecimiento)](#vc_establishmentMeans) |
 | [**degreeOfEstablishment**<br> (Grado de establecimiento](#vc_degreeOfEstablishment) | [**pathway**<br> (Ruta de introducción)](#vc_pathway) | [**occurrenceStatus**<br> (Estado del registro biológico)](#vc_occurrenceStatus) | [**continent**<br> (Continente)](#vc_continent) |
-|[**vitality**<br> (Estado de vitalidad)](#vitality) | [**countryCode**<br> (Código del país)](#vc_countryCode) | [**threatStatus**<br> (Estado de amenaza)](#vc_threatStatus) | [**appendixCITES**<br> (Apéndice CITES)](#vc_appendixCITES)
-| [**type**<br> (Tipo)](#vc_multimedia_type) |
+| [**countryCode**<br> (Código del país)](#vc_countryCode) | [**threatStatus**<br> (Estado de amenaza)](#vc_threatStatus) | [**appendixCITES**<br> (Apéndice CITES)](#vc_appendixCITES) | [**type**<br> (Tipo)](#vc_multimedia_type) |
+
 
 <br>
 <br>
@@ -3975,20 +3974,6 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 | Asia |
 | Oceanía |
 | Antártida |
-
-<br>
-
-
-<a id="vc_vitality">**vitality** (Estado de vitalidad)</a>
-
-|  Vocabulario | Definición |
-| ---| ---
-| Vivo | El individuo estaba vivo al momento del registro
-| Muerto | El individuo estaba muerto al momento del registro
-| Grupo mixto | El grupo tenía individuos vivos y muertos al momento del registro
-| Incierto | No fue posible determinar el atributo al momento del registro
-| No evaluado  |No se realizó la evaluación en el momento del registro
-
 
 <br>
 
