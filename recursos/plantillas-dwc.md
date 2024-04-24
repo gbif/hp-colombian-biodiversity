@@ -11,7 +11,7 @@ height: 41 vh
 
 Para la publicación de datos sobre biodiversidad se han creado tres plantillas de acuerdo a los [tipo de datos](/compartir/tipos-de-datos) que se pueden compartir a través del SiB Colombia. Estas plantilla están estructuradas bajo el estándar [Darwin Core](/compartir/estandares) y cuenta con los elementos necesarios del _Core_ del estándar para la publicación. 
 
-Si su conjunto de datos cuenta con datos relacionados como rasgos funcionales, referencias bibliográficas, secuencias genéticas, imágenes, vídeo, sonidos, entre otros, y desea que hagan parte de la publicación, recuerde mencionarlo en el correo que envíes para inciar el [proceso de acompañamiento a la publicación](/compartir/guia-para-publicar) y se te apoyará en la estructuración y ajuste de estos datos adicionales, posiblemente con el uso de las [extensiones](https://biodiversidad.co/recursos/plantillas-dwc#extensiones){:target="_blank"} del estándar Darwin Core.
+Si su conjunto de datos cuenta con datos relacionados como rasgos funcionales, referencias bibliográficas, secuencias genéticas, imágenes, vídeo, sonidos, entre otros, y desea que hagan parte de la publicación, recuerde mencionarlo en el correo que envíes para inciar el [proceso de acompañamiento a la publicación](/compartir/guia-para-publicar) y se te apoyará en la estructuración y ajuste de estos datos adicionales, posiblemente con el uso de las [extensiones](https://biodiversidad.co/recursos/plantillas-dwc#extensiones) del estándar Darwin Core.
 
 
 ## Cómo usar las plantillas
@@ -22,7 +22,7 @@ Si su conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
 4. Revise la definición del elemento DwC y verifique su coherente con el contenido de sus datos.
 5. Verifique que el contenido cumpla con el formato y el vocabulario controlado para el elemento DwC.
 6. Copie y pegue sus datos bajo el elemento (columna) correspondiente dentro de la plantilla, documente sólo las columnas para las que posea o pueda inferir información.
-7. Repita el proceso con todas las columnas de sus datos. Si no encuentra similitud entre sus datos y un elemento de esta plantilla, puede revisar las plantillas de [extensiones](https://biodiversidad.co/recursos/plantillas-dwc#extensiones){:target="_blank"} o comunicar su inquietud al correo sib@humboldt.org.co.
+7. Repita el proceso con todas las columnas de sus datos. Si no encuentra similitud entre sus datos y un elemento de esta plantilla, puede revisar las plantillas de [extensiones](https://biodiversidad.co/recursos/plantillas-dwc#extensiones) o comunicar su inquietud al correo sib@humboldt.org.co.
 8. Elimine los elementos de la plantilla que no documentó.
 9. Consulte los [laboratorios de datos](/formacion/laboratorios) o la [caja de herramientas](/recursos/calidad-de-datos/) para validar y mejorar la calidad de sus datos.
 10. Para la publicación de los datos envíe esta plantilla a sib@humboldt.org.co. Para más información sobre el proceso de publciación consulte la [guía de publicación](https://biodiversidad.co/compartir/guia-para-publicar/).
@@ -229,10 +229,10 @@ Use esta plantilla si sus datos:
 <details>
     <summary markdown="span"><B>Historial de versiones</B></summary>
 	
-<a href="https://drive.google.com/uc?id=1BEpjkyfXqCSsBj24QclPY8FOpFCNcCdC&authuser=2&export=download">Descargar última versión v4.0</a>
+<a href="https://drive.google.com/uc?id=1BEpjkyfXqCSsBj24QclPY8FOpFCNcCdC&authuser=2&export=download"><b>Plantilla de Listas v4.0</b></a>
     <p><i>Revisada y editada 2022-02</i></p>
 
-<a href="https://drive.google.com/uc?export=download&id=1p2j1KYHsNPyt50LopUkdhdaMlI6SZd4Q">Descargar última versión v3.2</a>
+<a href="https://drive.google.com/uc?export=download&id=1p2j1KYHsNPyt50LopUkdhdaMlI6SZd4Q"><b>Plantilla de Listasn v3.2</b></a>
     <p><i>Revisada y editada 2017-11</i></p>
     <a href="https://drive.google.com/a/humboldt.org.co/uc?authuser=2&id=11rXim-K9OvEX3icT10sA5FE67NNvPIdd&export=download"><b>Plantilla de Listas v3.0</b></a>
     <p><i>Revisada y editada  2013-11</i></p>
@@ -268,7 +268,7 @@ Use esta plantilla si sus datos:
 <a href="https://drive.google.com/uc?id=1s4YC0Rkxoi3TsDvxiuGNp0CeMMzHf-9U&authuser=2&export=download"><b>Plantilla de eventos v2.0</b></a> 
  <p><i>Revisada y editada 2022-02</i></p>   
     
-    <a href="https://drive.google.com/uc?id=1N3zTljnFujY7MC8Y_R4vd7vr1IhjgeXp&authuser=2&export=download">Plantilla de eventos v1.1</a>
+    <a href="https://drive.google.com/uc?id=1N3zTljnFujY7MC8Y_R4vd7vr1IhjgeXp&authuser=2&export=download"><b>Plantilla de eventos v1.1</b></a>
     <p><i>Revisada y editada 2014-05</i></p>
     
 
