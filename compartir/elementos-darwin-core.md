@@ -649,7 +649,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="sampleSizeValue">**sampleSizeValue** (Valor del tamaño de la muestra)</a>
 
 | ---: | :--- |
-| Definición | Un valor numérico para una medición del tamaño (duración de tiempo, longitud, área o volumen) de una muestra en un evento de muestreo. Documentar este elemento junto con el elemento sampleSizeUnit. Se recomienda hacer uso del Sistema Internacional de Unidades (SI). |
+| Definición | Un valor numérico para una medición del tamaño (duración de tiempo, longitud, área o volumen) de una muestra en un evento de muestreo. Documentar este elemento junto con el elemento sampleSizeUnit. Se recomienda hacer uso del Sistema Internacional de Unidades (SI) cuando sea posible. |
 | Ejemplo | 5.5<br> 10<br> 1 |
 | Elementos relacionados | sampleSizeUnit |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Recomendado)_ |
@@ -660,7 +660,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | La unidad de medida de la magnitud (tiempo de duración, longitud, área o volumen) de una muestra en un evento de muestreo. Documentar este elemento junto con el elemento sampleSizeValue. |
-| Ejemplo | m (= Metros)<br> h (= Horas)<br> m² (= Metros cuadrados)<br> Trampa |
+| Ejemplo | m (= Metros)<br> h (= Horas)<br> Trampas-noche<br> Litros |
 | Elementos relacionados | sampleSizeValue |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Recomendado)_ |
 
