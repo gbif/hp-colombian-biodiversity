@@ -27,7 +27,7 @@ Si su conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
 9. Consulte los [laboratorios de datos](/formacion/laboratorios) o la [caja de herramientas](/recursos/calidad-de-datos/) para validar y mejorar la calidad de sus datos.
 10. Para la publicación de los datos envíe esta plantilla a sib@humboldt.org.co. Para más información sobre el proceso de publciación consulte la [guía de publicación](https://biodiversidad.co/compartir/guia-para-publicar/).
 
-Para un ejemplo práctico sobre el uso de las plantillas consulte el laboratorio de estructuración y calidad: https://biodiversidad.co/formacion/laboratorios/LabEstructuracionCalidad				
+Para un ejemplo práctico sobre el uso de las plantillas consulte el laboratorio de estructuración y calidad: [https://biodiversidad.co/formacion/laboratorios/LabEstructuracionCalidad](https://biodiversidad.co/formacion/laboratorios/LabEstructuracionCalidad)				
 		
 
 ## Plantillas
@@ -39,8 +39,8 @@ Use esta plantilla si sus datos:
 
 * Corresponden a avistamientos directos de especímenes, colectas temporales  o capturas _in situ_ (en su hábitat natural) que estarán asociadas a un voucher o soporte de referencia físico.
 * Documentan atributos como: nombre científico, fecha de colecta, ubicación, sexo, edad, comportamiento, etc., de un organismo o grupo de organismos dentro de un contexto específico.
-* Estan soportados por una fotografía, un sonido u otro tipo de soporte digital, o por el espécimen en físico do en una colección biológica, museo de historia natural, herbario, etc.
-* Corresponden a  eventos de muestreo siempre y cuando se documenten los elementos obligatorios para esta fuente de datos y no se requiera documentar datos abioticos asociados al evento.
+* Estan soportados por una fotografía, un sonido u otro tipo de soporte digital, o por el espécimen en físico en una colección biológica, museo de historia natural, herbario, etc.
+* Corresponden a  eventos de muestreo siempre y cuando se documenten los elementos obligatorios para esta fuente de datos y no se requiera documentar datos abióticos asociados al evento.
 
 
 <details>
@@ -278,7 +278,7 @@ Use esta plantilla si sus datos:
 
 ### Extensiones
 
-Use esta plantillas si sus datos:
+Use estas plantillas si sus datos:
 
 * Incluyen rasgos funcionales (medidas) del organismo representado en los registros biológicos.
 * Incluyen recursos multimedia como imágenes, videos, sonidos, etc. almacenados en un repositorio externo y cuyos contenidos pueden ser accedidos vía URL. 
@@ -306,7 +306,7 @@ Tambié puede consultar la [documentación oficial de las extensiones](https://r
 
 <details>
     <summary markdown="span"><b><a href="https://drive.google.com/uc?export=download&id=1kqyGIkeP6KdR0-hz7CbGvriQuSitWqwp">Distribución de especies</a></b></summary>
-    <p><i>Revisada y editada 2021-06</i></p>
+    <p><i>Revisada y editada 2024-05</i></p>
     
 </details>
  
