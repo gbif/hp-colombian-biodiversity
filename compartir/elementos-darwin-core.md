@@ -7,10 +7,10 @@ imageLicense: |
   Fotografía de: Carlos Bustamante Restrepo vía [Flickr](https://flic.kr/p/dFCsLr) 
 height: 41vh
 toc: true
-permalink: /elementos-darwin-core
+permalink: /pruebaDwC
 ---
 
-El estándar **Darwin Core (DwC)** permite la consolidación de datos sobre biodiversidad para compartir, usar y rehusar la información de manera organizada, clara y completa.
+El estándar **Darwin Core (DwC)** permite la consolidación de datos sobre biodiversidad para compartir, usar y reusar la información de manera organizada, clara y completa.
 
 El modelo de datos conceptual del estándar es un esquema con una tabla principal, mejor conocida como _core_. Los _core_ del **DwC** son: **listas de especies** (taxon Core), **registros biológicos** (occurrence Core) o registros de **eventos de muestreo** (event Core).
 
@@ -27,8 +27,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 -	_**Core (Obligatoriedad)**_: _core_ al que hace parte el **elemento** y su obligatoriedad dentro de cada uno de estos (opcional, condicional, obligatorio). 
 -	**Vocabulario controlado**: Opciones de textos preestablecidos que deben documentarse de manera obligatoria dentro del elemento. No se puede documentar información diferente a la relacionada en los vocabularios controlados. Adicionalmente, en este campo se puede hacer un redireccionamiento al listado y definiciones de los vocabularios controlados del **elemento**.
 
-- La documenteación oficial y en inglés del estándar se puede consultar en: [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/){:target="_blank"}
-- La documenteación oficial y en inglés de las extensiones:[https://tools.gbif.org/dwca-validator/extensions.do](https://tools.gbif.org/dwca-validator/extensions.do){:target="_blank"}
+- La documentación oficial y en inglés del estándar se puede consultar en: [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/){:target="_blank"}
+- La documentación oficial y en inglés de las extensiones: [https://rs.gbif.org/extensions.html](https://rs.gbif.org/extensions.html){:target="_blank"}
 
 *Fecha de última actualización: mayo de 2024.*
 
@@ -160,7 +160,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre de persona u organización propietaria o administradora de los derechos sobre el recurso. |
-| Ejemplo | Secretaria de Agricultura<br> Ministerio de Medio Ambiente<br> Secretaría Distrital de Ambiente |
+| Ejemplo | Secretaría de Agricultura<br> Ministerio de Medio Ambiente<br> Secretaría Distrital de Ambiente |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
@@ -367,7 +367,6 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 <br>
 
-
 <a id="vitality">**vitality** (Estado de vitalidad)</a>
 
 | ---: | :--- |
@@ -460,7 +459,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="associatedMedia">**associatedMedia** (Medios asociados)</a>
 
 | ---: | :--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores (publicación, referencia bibliográfica, identificador único global, URI) de los medios asociados al registro biológico. Se recomienda usar la extensión Simple Multimedia o Audobon Media Description las cuales cuentan con más elementos para describir la información multimedia asociada. |
+| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores (publicación, referencia bibliográfica, identificador único global, URI) de los medios asociados al registro biológico. Se recomienda usar la extensión Simple Multimedia o Audubon Media Description las cuales cuentan con más elementos para describir la información multimedia asociada. |
 | Ejemplo | https://sinchi.org.co/ciacol/ficha/24/Hypoclinemus%20mentalis<br> https://ia801004.us.archive.org/0/items/staphylococcusaureus.JPG \| https://ia903100.us.archive.org/33/items/CMPUJH012-macro.jpg |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
@@ -606,7 +605,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="parentEventID">**parentEventID** (ID parental del evento)</a>
 
 | ---: | :--- |
-| Definición | Un identificador único para la categoría superior del evento de muestreo. Por ejemplo, el identificador del muestreo de un cuadrante, parcela o transecto independientemente del tiempo o temporada cuando se realice el muestro. Este identificador es más general que el eventID y puede agrupar varios eventID. |
+| Definición | Un identificador único para la categoría superior del evento de muestreo. Por ejemplo, el identificador del muestreo de un cuadrante, parcela o transecto independientemente del tiempo o temporada cuando se realice el muestreo. Este identificador es más general que el eventID y puede agrupar varios eventID. |
 | Comentarios | Este elemento debe estar acompañado siempre del elemento eventID, como se muestra en el ejemplo a continuación:<br><br> A1 como parentEventID para identificar una parcela, cada sub-parcela con su propio eventID (A1:1, A1:2, etc.)<br> BENTOS como parentEventID para identificar un evento de muestreo y cada parte del evento con su propio eventID (BENTOS:E-1, BENTOS:E-2, etc.) |
 | Ejemplo | A1<br> BENTOS |
 | Elementos relacionados | eventID |
@@ -661,7 +660,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | La unidad de medida de la magnitud (tiempo de duración, longitud, área o volumen) de una muestra en un evento de muestreo. Documentar este elemento junto con el elemento sampleSizeValue. |
-| Ejemplo | Metros<br> Horas<br> Trampa<br> Metros cuadrados |
+| Ejemplo | m (= Metros)<br> h (= Horas)<br> m² (= Metros cuadrados)<br> Trampa |
 | Elementos relacionados | sampleSizeValue |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Recomendado)_ |
 
@@ -795,7 +794,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Ubicación
 
-| Íncice |    |    |
+| Índice |    |    |
 | ---|--- |--- |
 | [**locationID**<br> (ID de la ubicación)](#locationID) | [**higherGeography**<br> (Geografía superior)](#higherGeography) | [**higherGeographyID**<br> (ID de la geografía superior)](#higherGeographyID) |
 | [**continent**<br> (Continente)](#continent) | [**waterBody**<br> (Cuerpo de agua)](#waterBody) | [**islandGroup**<br> (Grupo de islas)](#islandGroup) | 
@@ -810,7 +809,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | [**decimalLatitude**<br> (Latitud decimal)](#decimalLatitude) | [**decimalLongitude**<br> (Longitud decimal)](#decimalLongitude) | [**geodeticDatum**<br> (Datum geodésico)](#geodeticDatum) |
 | [**coordinateUncertaintyInMeters**<br> (Incertidumbre de las coordenadas en metros)](#coordinateUncertaintyInMeters) | [**coordinatePrecision**<br> (Precisión de las coordenadas)](#coordinatePrecision) | [**pointRadiusSpatialFit**<br> (Ajuste espacial del radio-punto)](#pointRadiusSpatialFit) |
 | [**footprintWKT**<br> (WKT footprint)](#footprintWKT) | [**footprintSRS**<br> (SRS footprint)](#footprintSRS) | [**footprintSpatialFit**<br> (Ajuste espacial de footprint)](#footprintSpatialFit) |
-| [**georeferencedBy**<br> (Georreferenciado por)](#georeferencedBy) | [**georeferencedDate**<br> (Fecha de georreferenciación)](#georeferencedDate) | [**georeferenceProtocol**<br> (Protocolo de georreferenciaciónt)](#georeferenceProtocol) |
+| [**georeferencedBy**<br> (Georreferenciado por)](#georeferencedBy) | [**georeferencedDate**<br> (Fecha de georreferenciación)](#georeferencedDate) | [**georeferenceProtocol**<br> (Protocolo de georreferenciación)](#georeferenceProtocol) |
 | [**georeferenceSources**<br> (Fuentes de georreferenciación)](#georeferenceSources) | [**georeferenceVerificationStatus**<br> (Estado de la verificación de la georreferenciación)](#georeferenceVerificationStatus) | [**georeferenceRemarks**<br> (Comentarios de la georreferenciación)](#georeferenceRemarks) |
 
 <br>
@@ -930,7 +929,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Municipio de la ubicación. Puede ser un centro poblado, cabecera municipal, corregimiento o inspección de policía. No utilice este elemento para el nombre de un lugar cercano que no contiene la ubicación real. Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"}. |
-| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca multiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "San Luis o Punta Sur", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality. |
+| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "San Luis o Punta Sur", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality. |
 | Ejemplo | Palmitas<br> Puerto Colombia<br> Bogotá, D.C. |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Opcional)_ |
 
@@ -1304,7 +1303,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre completo de la era geocronológica más tardía o el eratema cronoestratigráfico más alto posible, atribuible al horizonte estratigráfico donde se recolectó el objeto catalogado. |
-| Ejemplo | Cenozoicoo<br> Mesozoico |
+| Ejemplo | Cenozoico<br> Mesozoico |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
 <br>
@@ -1432,7 +1431,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Índice |    |    |    |
 | ---|--- |--- |--- |
 | [**identificationID**<br> (ID de la identificación)](#identificationID) | [**identifiedBy**<br> (Identificado por)](#identifiedBy) | [**identifiedByID**<br> (ID del identificador)](#identifiedByID) | [**dateIdentified**<br> (Fecha de la identificación)](#dateIdentified) |
-| [**identificationReferences**<br> (Referencias de la identificación)](#identificationReferences) | [**identificationVerification<br>Status**<br> (Estado de la verificación de la identificación)](#identificationVerificationStatus) | [**typeStatus**<br> (Tipo nomeclatural)](#typeStatus) | [**verbatimIdentification**<br> (Identificación original)](#verbatimIdentification) |
+| [**identificationReferences**<br> (Referencias de la identificación)](#identificationReferences) | [**identificationVerification<br>Status**<br> (Estado de la verificación de la identificación)](#identificationVerificationStatus) | [**typeStatus**<br> (Tipo nomenclatural)](#typeStatus) | [**verbatimIdentification**<br> (Identificación original)](#verbatimIdentification) |
 |  [**identificationRemarks**<br> (Comentarios de la identificación)](#identificationRemarks) | [**identificationQualifier**<br> (Calificador de la identificación)](#identificationQualifier) |  |  |
 
 <br>
@@ -1495,7 +1494,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 <br>
 
-<a id="typeStatus">**typeStatus** (Tipo nomeclatural)</a>
+<a id="typeStatus">**typeStatus** (Tipo nomenclatural)</a>
 
 | ---: | :--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los tipos de nomenclatura (estado del tipo, nombre científico tipificado, publicación) aplicados al organismo. Se recomienda el uso del vocabulario sugerido disponible para este elemento con traducción a español (https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://rs.gbif.org/vocabulary/gbif/type_status). |
@@ -1555,10 +1554,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre científico canónico (sin la autoría) correspondiente a la categoría taxonómica a la que se logró la determinación del organismo observado o colectado. El nombre debe ser congruente con el elemento taxonRank, de modo que se informe a que nivel (especie, género, familia, etc.) se encuentra el nombre documentado. |
-| Comentarios| Para tener en cuenta:<br><br> - El nombre científico puede pertenecer a cualquier categoría taxonómica (reino, filo, clase, orden, familia, género, especie entre otros), en ningún caso es obligatorio la identificación a nivel de especie.<br> - No debe documentar la autoría del taxón en este elemento, para ello utilice el elemento scientificNameAuthorship.<br> - No debe documentar calificadores de identificación (“cf.”, “aff.”, etc.), para ello utilice el elemento identificationQualifier y deje en el nombre científico la categoría superior sobre la cual se tiene certeza.<br> - No debe documentar abreviaciones que no dan cuenta de el nombre específico o hacen referencia  a morfotipos (“sp.”, “sp1.”, “spp.”), para ello utilice el elemento verbatimTaxonRank.<br>
-Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas del Código Internacional de Nomenclatura para algas, hongos y plantas (Schenzhen Code Articles H.1, H.2 and H.3). Utilizando el signo de multiplicación  × (Unicode U+00D7, HTML ×) para identificar un híbrido, evitando usar una "x" o "X". <br><br>
-*Aunque oficialmente scientificName se define como el "nombre científico completo, con información de autoría y fecha si se conoce", desde el SiB Colombia se recomienda documentar solo el nombre canónico ya que hemos notado un detrimento de la calidad de este elemento por errores de tipeo cuando se incluye siguiendo la definición oficial.|
-
+| Comentarios| Para tener en cuenta:<br><br> - El nombre científico puede pertenecer a cualquier categoría taxonómica (reino, filo, clase, orden, familia, género, especie entre otros), en ningún caso es obligatorio la identificación a nivel de especie.<br> - No debe documentar la autoría del taxón en este elemento, para ello utilice el elemento scientificNameAuthorship.<br> - No debe documentar calificadores de identificación (“cf.”, “aff.”, etc.), para ello utilice el elemento identificationQualifier y deje en el nombre científico la categoría superior sobre la cual se tiene certeza.<br> - No debe documentar abreviaciones que no dan cuenta de el nombre específico o hacen referencia  a morfotipos (“sp.”, “sp1.”, “spp.”), para ello utilice el elemento verbatimTaxonRank.<br> - Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas del Código Internacional de Nomenclatura para algas, hongos y plantas (Schenzhen Code Articles H.1, H.2 and H.3). Utilizando el signo de multiplicación  × (Unicode U+00D7, HTML ×) para identificar un híbrido, evitando usar una "x" o "X". <br><br> *Aunque oficialmente scientificName se define como el "nombre científico completo, con información de autoría y fecha si se conoce", desde el SiB Colombia se recomienda documentar solo el nombre canónico ya que hemos notado un detrimento de la calidad de este elemento por errores de tipeo cuando se incluye siguiendo la definición oficial.|
 | Ejemplo | Coleoptera<br> Bacteria<br> Ctenomys sociabilis<br> Abrus pulchellus subsp. tenuiflorus |
 | Elementos relacionados | taxonRank, scientificNameAuthorship, identificationQualifier, verbatimTaxonRank |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Lista de chequeo _(Obligatorio)_ |
@@ -1742,7 +1738,7 @@ Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas de
 <a id="infraspecificEpithet">**infraspecificEpithet** (Epíteto infraespecífico)</a>
 
 | ---: | :--- |
-| Definición | El nombre del epíteto infraespecífico presente en el scientificName cuando la determinación se hizo con la categoría de taxón más baja o más especifica por debajo del epíteto específico (parte terminal del nombre), excluyendo cualquier otra denominación de categoría. |
+| Definición | El nombre del epíteto infraespecífico presente en el scientificName cuando la determinación se hizo con la categoría de taxón más baja o más específica por debajo del epíteto específico (parte terminal del nombre), excluyendo cualquier otra denominación de categoría. |
 | Comentarios | En botánica, los nombres en la literatura y las identificaciones pueden tener múltiples rangos infraespecíficos. De acuerdo al Código Internacional de Nomenclatura para algas, hongos y plantas (Schenzhen Code Articles 6.7 & Art. 24.1), los nombres válidos tienen solamente dos epítetos, con el rango más bajo presente en infraspecificEpithet. Por ejemplo el epíteto infraespecífico para Indigofera charlieriana subsp. sessilis var. scaberrima es "scaberrima".|
 | Ejemplo | concolor<br> oxyadenia<br> sayi |
 | Elementos relacionados | scientificName |
@@ -1846,7 +1842,7 @@ Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas de
 | ---: | :--- |
 | Definición | El nombre del taxón, con autoría e información de fecha si se conoce, tal como apareció originalmente cuando se estableció por primera vez bajo las reglas del nomenclaturalCode asociado. El basiónimo (botánica) o basónimo (bacteriología) correspondiente al scientificName o el homónimo anterior de los nombres sustituidos. |
 | Ejemplo | Gasterosteus saltatrix Linnaeus 1768 |
-| Elementos relacionados | scientificName, nomeclaturalCode |
+| Elementos relacionados | scientificName, nomenclaturalCode |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
 
 <br>
@@ -1884,10 +1880,10 @@ Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas de
 <a id="namePublishedIn">**namePublishedIn** (Nombre publicado en)</a>
 
 | ---: | :--- |
-| Definición | Una referencia para la publicación en que se estableció originalmente el taxón presente en el scientificName, bajo las reglas del nomeclaturalCode asociado. |
+| Definición | Una referencia para la publicación en que se estableció originalmente el taxón presente en el scientificName, bajo las reglas del nomenclaturalCode asociado. |
 | Comentarios | La citación de la primera publicación del nombre científico documentado en este registro, no el basónimo/nombre original. Las recombinaciones usualmente no se publican en zoología, en ese caso namePublishedIn debe estar vacío. |
 | Ejemplo | Pearson O. P., and M. I. Christie. 1985. Historia Natural, 5(37):388; Forel, Auguste, Diagnosies provisoires de quelques espèces nouvelles de fourmis de Madagascar, récoltées par M. Grandidier., Annales de la Societe Entomologique de Belgique, Comptes-rendus des Seances 30, 1886 |
-| Elementos relacionados | scientificName, nomeclaturalCode |
+| Elementos relacionados | scientificName, nomenclaturalCode |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
 
 <br>
@@ -1895,7 +1891,7 @@ Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas de
 <a id="namePublishedInID">**namePublishedInID** (ID del nombre publicado en)</a>
 
 | ---: | :--- |
-| Definición | Un identificador de la publicación en que se estableció originalmente el taxón presente en el scientificName, bajo las reglas del nomeclaturalCode asociado. |
+| Definición | Un identificador de la publicación en que se estableció originalmente el taxón presente en el scientificName, bajo las reglas del nomenclaturalCode asociado. |
 | Comentarios | La citación de la primera publicación del nombre científico documentado en este registro, no el basónimo/nombre original. Las recombinaciones usualmente no se publican en zoología, en ese caso namePublishedInID debe estar vacío. |
 | Ejemplo | doi:10.1016/S0269-915X(97)80026-2<br> 19thcenturyscience.org/HMSC/HMSC-Reports/Zool-40/README.htm |
 | Elementos relacionados | namePublishedIn |
@@ -1936,7 +1932,7 @@ Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas de
 <a id="nomenclaturalStatus">**nomenclaturalStatus** (Estado nomenclatural)</a>
 
 | ---: | :--- |
-| Definición | El estado nomenclarural en la publicación original del scientificName y su conformidad con las normas pertinentes de nomenclatura. Está basado en las definiciones del nomenclaturalCode en uso y no requiere una opinión taxonómica. |
+| Definición | El estado nomenclatural en la publicación original del scientificName y su conformidad con las normas pertinentes de nomenclatura. Está basado en las definiciones del nomenclaturalCode en uso y no requiere una opinión taxonómica. |
 | Ejemplo | nom. ambig.<br> nom. illeg.<br> nom. subnud. |
 | Elementos relacionados | scientificName, nomenclaturalCode |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
@@ -2075,7 +2071,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 | ---: | :--- |
 | Definición | Un identificador único para la categoría superior de la medida o hecho que agrupe esta y potencialmente otras medidas. |
 | Comentarios | Puede ser un identificador único global o un identificador específico para el conjunto de datos. |
-| Ejemplo | 9c752d22-b09a-11e8-96f8-529269fb1459<br> E1_E1_O1_M1 <br> MedidaPico_Color |
+| Ejemplo | 9c752d22-b09a-11e8-96f8-529269fb1459<br> E1_E1_O1_M1 <br> MedidaPico |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -2085,7 +2081,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 | ---: | :--- |
 | Definición | Un identificador para la medida o hecho. Puede ser un identificador único global o un identificador específico para el conjunto de datos. El identificador puede construirse a partir de tesauros específicos como NERC (https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/) comúnmente usado para datos marinos.<br><br> Puede construirse a partir de la siguiente estructura: [measurementTypeID]:[consecutivo]. |
-| Ejemplo | P01/current/AREABEDS:001 |
+| Ejemplo | P01/current/AREABEDS:001 <br> MedidaPico_Color |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -3393,7 +3389,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="permitText">**permitText** (Texto del permiso)</a>
 
 | ---: | :--- |
-| Definición | Un texto estructurado con la información principal del permiso.<br><br> Identifique a cuál de los siguientes casos corresponde a su permiso y construya el texto según las indicaciones del caso:<br><br> (i) El registro biológico proviene de una entidad vinculada y adscrita al Ministerio de Medio Ambiente y Desarrollo Sostenible que no requiere un permiso de recolección.<br> Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios <br> -Acrónimo de la entidad.<br> -Número del convenio, proyecto marco o programa.<br> -Número del sub-proyecto, o sub-convenio, si existen.<br> -Año de inicio del convenio o proyecto.<br><br> (ii) El registro biológico proviene de un proyecto amparado por un permiso de recolección de especímenes o contrato de acceso a recursos genéticos de acuerdo a lo establecido en el Decreto 1076 de 2015.<br> Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios<br> -Acrónimo de la autoridad ambiental que otorgó el permiso.<br> -Número de la resolución donde se otorga el permiso.<br> -Año de expedición del permiso.<br> -Acrónimo de la organización títular del permiso o el nombre del títular del permiso en caso de ser una persona natural.<br><br> (iii) El registro biológico proviene de un espécimen depositado en una colección biológica por solicitud expresa de una autoridad ambiental o gubernamental mediante un acto legal. Por ejemplo, en los casos de incautación de fauna y flora silvestre por tráfico de especies.<br> Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios <br> -La palabra ‘ACTO_LEGAL’.<br> -Acrónimo de la autoridad ambiental o gubernamental que genera el acto legal.<br> -Identificador del proceso, corresponde el número del acto legal emitido por la autoridad competente. Cuando la autoridad no genere un identificador del acto legal, corresponde al identificador del proceso asignado internamente por la colección.<br> -Año de expedición del acto legal.<br><br> (iv) El registro biológico proviene de un espécimen preservado en una colección biológica y legalizado a través de una amnistía.<br> Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios <br> -La palabra ‘AMNISTÍA’<br> -Número de la resolución donde se otorga la amnistía<br> -Año de expedición de la amnistía<br> -Acrónimo de la organización que solicita la amnistia |
+| Definición | Un texto estructurado con la información principal del permiso.<br><br> Identifique a cuál de los siguientes casos corresponde a su permiso y construya el texto según las indicaciones del caso:<br><br> (i) El registro biológico proviene de una entidad vinculada y adscrita al Ministerio de Medio Ambiente y Desarrollo Sostenible que no requiere un permiso de recolección.<br> Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios <br> -Acrónimo de la entidad.<br> -Número del convenio, proyecto marco o programa.<br> -Número del sub-proyecto, o sub-convenio, si existen.<br> -Año de inicio del convenio o proyecto.<br><br> (ii) El registro biológico proviene de un proyecto amparado por un permiso de recolección de especímenes o contrato de acceso a recursos genéticos de acuerdo a lo establecido en el Decreto 1076 de 2015.<br> Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios<br> -Acrónimo de la autoridad ambiental que otorgó el permiso.<br> -Número de la resolución donde se otorga el permiso.<br> -Año de expedición del permiso.<br> -Acrónimo de la organización títular del permiso o el nombre del títular del permiso en caso de ser una persona natural.<br><br> (iii) El registro biológico proviene de un espécimen depositado en una colección biológica por solicitud expresa de una autoridad ambiental o gubernamental mediante un acto legal. Por ejemplo, en los casos de incautación de fauna y flora silvestre por tráfico de especies.<br> Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios <br> -La palabra ‘ACTO_LEGAL’.<br> -Acrónimo de la autoridad ambiental o gubernamental que genera el acto legal.<br> -Identificador del proceso, corresponde el número del acto legal emitido por la autoridad competente. Cuando la autoridad no genere un identificador del acto legal, corresponde al identificador del proceso asignado internamente por la colección.<br> -Año de expedición del acto legal.<br><br> (iv) El registro biológico proviene de un espécimen preservado en una colección biológica y legalizado a través de una amnistía.<br> Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios <br> -La palabra ‘AMNISTÍA’<br> -Número de la resolución donde se otorga la amnistía<br> -Año de expedición de la amnistía<br> -Acrónimo de la organización que solicita la amnistía |
 | Ejemplo | IAvH:CE16-062:8956:2016<br> SINCHI:CE17-845:2017<br><br> ANLA:1608:2017:UNAL<br> CORNARE:5D800FGH:2015:SandraArambulo<br><br> ACTO_LEGAL:CORMACARENA:34f-19:2017<br> ACTO_LEGAL:POLICIA_AMBIENTAL:PF-19075C:201<br><br> AMNISTÍA:8962:2019:UNIVALLE<br> AMNISTÍA:59VI-196:2018:UNIMAG |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 
@@ -3875,7 +3871,6 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 | [**countryCode**<br> (Código del país)](#vc_countryCode) | [**threatStatus**<br> (Estado de amenaza)](#vc_threatStatus) | [**appendixCITES**<br> (Apéndice CITES)](#vc_appendixCITES) | [**type**<br> (Tipo)](#vc_multimedia_type) |
 
 
-
 <br>
 <br>
 
@@ -3981,7 +3976,6 @@ La lista completa de vocabularios controlados se encuentra disponible en [https:
 | Antártida |
 
 <br>
-
 
 <a id="vc_countryCode">**countryCode** (Código del país)</a>
 
