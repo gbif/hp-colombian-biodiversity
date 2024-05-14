@@ -4,7 +4,7 @@ title: Estándar Darwin Core
 description: Conoce sus elementos, definiciones y extensiones
 background:  https://live.staticflickr.com/8362/8324738633_63da9ea6ce_h.jpg
 imageLicense: |
-  Fotografía de: Carlos Bustamante Restrepo vía [Flickr](https://flic.kr/p/dFCsLr) 
+  Fotografía de: Carlos Bustamante Restrepo vía [Flickr](https://flic.kr/p/dFCsLr)
 height: 41vh
 toc: true
 permalink: /elementos-darwin-core
@@ -15,17 +15,17 @@ El estándar **Darwin Core (DwC)** permite la consolidación de datos sobre biod
 El modelo de datos conceptual del estándar es un esquema con una tabla principal, mejor conocida como _core_. Los _core_ del **DwC** son: **listas de especies** (taxon Core), **registros biológicos** (occurrence Core) o registros de **eventos de muestreo** (event Core).
 
 El **DwC** está compuesto por **categorías** que se utilizan para agrupar conjuntos de **elementos** de acuerdo a su naturaleza. Cada **elemento** a su vez, está compuesto por una definición, especificaciones y requerimientos. Los **elementos** pueden hacer parte de todos o algunos de los _core_.
-  
+ 
 Adicionalmente, existen **extensiones** que se pueden asociar principalmente al _core_. Las **extensiones** también están conformadas por **elementos** los cuales son usados para documentar información adicional y específica que no se relaciona dentro del _core_ (ej., descripción de las especies, rasgos funcionales, información genética, entre otros). Las **extensiones** pueden ser compatibles con todos o algunos de los _core_.
 
 En esta página se presenta una aplicación del **DwC** en español y enfocada a la necesidades de país, la cual contiene a mano derecha una tabla de contenido con las **categorías** y **extensiones** del estándar, que llevan a su vez al listado de **elementos** que conforman cada **categoría** o **extensión**. Dentro del listado de **elementos** es posible dirigirse directamente al **elemento** de interés en donde se encontrará la siguiente información detallada:
 
--	**Definición**: Texto que describe el alcance del **elemento**.
--	**Comentarios**:  Texto que complementa, a manera de anotación o aclaración, la información de la definición.
--	**Ejemplo**: Ejemplos textuales que hacen referencia a cómo se puede documentar el **elemento**.
--	**Elementos relacionados**: **Elementos** del estándar **DwC** que tienen relación estrecha con el **elemento** que esta siendo descrito.
--	_**Core (Obligatoriedad)**_: _core_ al que hace parte el **elemento** y su obligatoriedad dentro de cada uno de estos (opcional, condicional, obligatorio). 
--	**Vocabulario controlado**: Opciones de textos preestablecidos que deben documentarse de manera obligatoria dentro del elemento. No se puede documentar información diferente a la relacionada en los vocabularios controlados. Adicionalmente, en este campo se puede hacer un redireccionamiento al listado y definiciones de los vocabularios controlados del **elemento**.
+-    **Definición**: Texto que describe el alcance del **elemento**.
+-    **Comentarios**:  Texto que complementa, a manera de anotación o aclaración, la información de la definición.
+-    **Ejemplo**: Ejemplos textuales que hacen referencia a cómo se puede documentar el **elemento**.
+-    **Elementos relacionados**: **Elementos** del estándar **DwC** que tienen relación estrecha con el **elemento** que esta siendo descrito.
+-    _**Core (Obligatoriedad)**_: _core_ al que hace parte el **elemento** y su obligatoriedad dentro de cada uno de estos (opcional, condicional, obligatorio).
+-    **Vocabulario controlado**: Opciones de textos preestablecidos que deben documentarse de manera obligatoria dentro del elemento. No se puede documentar información diferente a la relacionada en los vocabularios controlados. Adicionalmente, en este campo se puede hacer un redireccionamiento al listado y definiciones de los vocabularios controlados del **elemento**.
 
 - La documentación oficial y en inglés del estándar se puede consultar en: [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/){:target="_blank"}
 - La documentación oficial y en inglés de las extensiones: [https://rs.gbif.org/extensions.html](https://rs.gbif.org/extensions.html){:target="_blank"}
@@ -36,11 +36,11 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Elementos de Registro
 
-|  Índice  |    |    |    |
+|  Índice  |	|	|	|
 | ---|--- |--- |--- |
 | [**basisOfRecord**<br> (Base del registro)](#basisOfRecord) | [**type**<br> (Tipo)](#type) | [**institutionCode**<br> (Código de la institución)](#institutionCode) | [**institutionID**<br> (ID de la institución)](#institutionID) |
 | [**collectionCode**<br> (Código de la colección)](#collectionCode) | [**collectionID**<br> (ID de la colección)](#collectionID) | [**datasetName**<br> (Nombre del conjunto de datos)](#datasetName) | [**datasetID**<br> (ID del conjunto de datos)](#datasetID) |
-| [**modified**<br> (Modificado)](#modified) | [**language**<br> (Idioma)](#language) | [**license**<br> (Licencia)](#license) | [**rightsHolder**<br> (Titular de los derechos)](#rightsHolder) | 
+| [**modified**<br> (Modificado)](#modified) | [**language**<br> (Idioma)](#language) | [**license**<br> (Licencia)](#license) | [**rightsHolder**<br> (Titular de los derechos)](#rightsHolder) |
 | [**accessRights**<br> (Derechos de acceso)](#accessRights) | [**bibliographicCitation**<br> (Citación bibliográfica)](#bibliographicCitation) | [**references**<br> (Referencias)](#references) | [**ownerInstitutionCode**<br> (Código de la institución propietaria)](#ownerInstitutionCode) |
 | [**informationWithheld**<br> (Información retenida)](#informationWithheld) | [**dataGeneralizations**<br> (Generalización de los datos)](#dataGeneralizations) | [**dynamicProperties**<br> (Propiedades dinámicas)](#dynamicProperties) | |
 
@@ -231,7 +231,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Registro Biológico
 
-|  Índice  |	|	|	|
+|  Índice  |    |    |    |
 | ---|--- |--- |--- |
 | [**occurrenceID**<br> (ID del Registro biológico)](#occurrenceID) | [**catalogNumber**<br> (Número de catálogo)](#catalogNumber) | [**recordNumber**<br> (Número del registro)](#recordNumber) | [**recordedBy**<br> (Registrado por)](#recordedBy) |
 | [**recordedByID**<br> (ID del registrador)](#recordedByID) | [**individualCount**<br> (Número de individuos)](#individualCount) | [**organismQuantity**<br> (Cantidad del organismo)](#organismQuantity) | [**organismQuantityType**<br> (Tipo de cantidad del organismo)](#organismQuantityType) |
@@ -514,7 +514,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Organismo
 
-| Índice |    |    |    |
+| Índice |	|	|	|
 | ---|--- |--- |--- |
 | [**organismID**<br> (ID del organismo)](#organismID) | [**organismName**<br> (Nombre del organismo)](#organismName) | [**organismScope**<br> (Alcance del organismo)](#organismScope) | [**associatedOrganisms**<br> (Organismos asociados)](#associatedOrganisms) |
 | [**previousIdentifications**<br> (Identificaciones previas)](#previousIdentifications) | [**organismRemarks**<br> (Comentarios del organismo)](#organismRemarks) |  |  |
@@ -591,7 +591,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Evento
 
-| Índice |	|	|	|
+| Índice |    |    |    |
 | ---|--- |--- |--- |
 | [**parentEventID**<br> (ID parental del evento)](#parentEventID) | [**eventID**<br> (ID del evento)](#eventID) | [**eventType**<br> (Tipo de evento)](#eventType) | [**samplingProtocol**<br> (Protocolo de muestreo)](#samplingProtocol) |
 | [**sampleSizeValue**<br> (Valor del tamaño de la muestra)](#sampleSizeValue) | [**sampleSizeUnit**<br> (Unidad del tamaño de la muestra)](#sampleSizeUnit) | [**samplingEffort**<br> (Esfuerzo de muestreo)](#samplingEffort) | [**eventDate**<br> (Fecha del evento)](#eventDate) |
@@ -794,15 +794,15 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Ubicación
 
-| Índice |    |    |
+| Índice |	|	|
 | ---|--- |--- |
 | [**locationID**<br> (ID de la ubicación)](#locationID) | [**higherGeography**<br> (Geografía superior)](#higherGeography) | [**higherGeographyID**<br> (ID de la geografía superior)](#higherGeographyID) |
-| [**continent**<br> (Continente)](#continent) | [**waterBody**<br> (Cuerpo de agua)](#waterBody) | [**islandGroup**<br> (Grupo de islas)](#islandGroup) | 
+| [**continent**<br> (Continente)](#continent) | [**waterBody**<br> (Cuerpo de agua)](#waterBody) | [**islandGroup**<br> (Grupo de islas)](#islandGroup) |
 | [**island**<br> (Isla)](#island) | [**country**<br> (País)](#country) | [**countryCode**<br> (Código del país)](#countryCode) |
-| [**stateProvince**<br> (Departamento)](#stateProvince) | [**county**<br> (Municipio)](#county) | [**municipality**<br> (Cabecera municipal/<br>Centro poblado)](#municipality) | 
-| [**locality**<br> (Localidad)](#locality) | [**verbatimLocality**<br> (Localidad original)](#verbatimLocality) | [**verbatimElevation**<br> (Elevación original)](#verbatimElevation) | 
+| [**stateProvince**<br> (Departamento)](#stateProvince) | [**county**<br> (Municipio)](#county) | [**municipality**<br> (Cabecera municipal/<br>Centro poblado)](#municipality) |
+| [**locality**<br> (Localidad)](#locality) | [**verbatimLocality**<br> (Localidad original)](#verbatimLocality) | [**verbatimElevation**<br> (Elevación original)](#verbatimElevation) |
 | [**minimumElevationInMeters**<br> (Elevación mínima en metros)](#minimumElevationInMeters) | [**maximumElevationInMeters**<br> (Elevación máxima en metros)](#maximumElevationInMeters) | [**verticalDatum**<br> (Datum vertical)](#verticalDatum) |
-| [**verbatimDepth**<br> (Profundidad original)](#verbatimDepth) | [**minimumDepthInMeters**<br> (Profundidad mínima en metros)](#minimumDepthInMeters) | [**maximumDepthInMeters**<br> (Profundidad máxima en metros)](#maximumDepthInMeters) | 
+| [**verbatimDepth**<br> (Profundidad original)](#verbatimDepth) | [**minimumDepthInMeters**<br> (Profundidad mínima en metros)](#minimumDepthInMeters) | [**maximumDepthInMeters**<br> (Profundidad máxima en metros)](#maximumDepthInMeters) |
 | [**minimumDistanceAbove<br>SurfaceInMeters**<br> (Distancia mínima de la superficie en metros)](#minimumDistanceAboveSurfaceInMeters) | [**maximumDistanceAbove<br>SurfaceInMeters**<br> (Distancia máxima de la superficie en metros)](#maximumDistanceAboveSurfaceInMeters) | [**locationAccordingTo**<br> (Ubicación de acuerdo con)](#locationAccordingTo) |
 | [**locationRemarks**<br> (Comentarios de la ubicación)](#locationRemarks) | [**verbatimLatitude**<br> (Latitud original)](#verbatimLatitude) | [**verbatimLongitude**<br> (Longitud original)](#verbatimLongitude) |
 | [**verbatimCoordinates**<br> (Coordenadas originales)](#verbatimCoordinates) | [**verbatimCoordinateSystem**<br> (Sistema original de coordenadas)](#verbatimCoordinateSystem) | [**verbatimSRS**<br> (SRS original)](#verbatimSRS) |
@@ -1110,7 +1110,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | La latitud geográfica (en grados decimales, utilizando el sistema de referencia espacial provisto en geodeticDatum) del centro geográfico de una ubicación. Los valores positivos se encuentran al norte del ecuador, los valores negativos están al sur del mismo. Los valores admitidos se encuentran entre -90 y 90. |
 | Ejemplo | 6.05486<br> 12.584877 |
 | Elementos relacionados | geodeticDatum |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Obligatorio)_ |
 
 <br>
 
@@ -1120,7 +1120,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | La longitud geográfica (en grados decimales, mediante el sistema de referencia espacial provisto en geodeticDatum) del centro geográfico de una ubicación. Los valores positivos se encuentran al este del meridiano de Greenwich, los valores negativos se encuentran al oeste de la misma. Los valores admitidos se encuentran entre -180 y 180. |
 | Ejemplo | -75.05486<br> -72.78945 |
 | Elementos relacionados | geodeticDatum |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Obligatorio)_ |
 
 <br>
 
@@ -1251,13 +1251,13 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Contexto Geológico
 
-| Índice |    |    |
+| Índice |	|	|
 | ---|--- |--- |
 | [**geologicalContextID**<br> (ID del contexto geológico)](#geologicalContextID) | [**earliestEonOrLowestEonothem**<br> (Eón temprano o eonotema inferior)](#earliestEonOrLowestEonothem) | [**latestEonOrHighestEonothem**<br> (Eón tardío o eonotema superior)](#latestEonOrHighestEonothem) |
-| [**earliestEraOrLowestErathem**<br> (Era temprana o eratema inferior)](#earliestEraOrLowestErathem) | [**latestEraOrHighestErathem**<br> (Era tardía o eratema superior)](#latestEraOrHighestErathem) | [**earliestPeriodOrLowestSystem**<br> (Periodo temprano o sistema inferior)](#earliestPeriodOrLowestSystem) | 
+| [**earliestEraOrLowestErathem**<br> (Era temprana o eratema inferior)](#earliestEraOrLowestErathem) | [**latestEraOrHighestErathem**<br> (Era tardía o eratema superior)](#latestEraOrHighestErathem) | [**earliestPeriodOrLowestSystem**<br> (Periodo temprano o sistema inferior)](#earliestPeriodOrLowestSystem) |
 | [**latestPeriodOrHighestSystem**<br> (Periodo tardío o sistema superior)](#latestPeriodOrHighestSystem) | [**earliestEpochOrLowestSeries**<br> (Época temprana o serie inferior)](#earliestEpochOrLowestSeries) | [**latestEpochOrHighestSeries**<br> (Época tardía o serie superior)](#latestEpochOrHighestSeries) |
-| [**earliestAgeOrLowestStage**<br> (Edad temprana o piso inferior)](#earliestAgeOrLowestStage) | [**latestAgeOrHighestStage**<br> (Edad tardía o piso superior)](#latestAgeOrHighestStage) | [**lowestBiostratigraphicZone**<br> (Zona bioestratigráfica inferior)](#lowestBiostratigraphicZone) | 
-| [**highestBiostratigraphicZone**<br> (Zona bioestratigráfica superior)](#highestBiostratigraphicZone) | [**lithostratigraphicTerms**<br> (Términos litoestratigráficos)](#lithostratigraphicTerms) | [**group**<br> (Grupo)](#group) | 
+| [**earliestAgeOrLowestStage**<br> (Edad temprana o piso inferior)](#earliestAgeOrLowestStage) | [**latestAgeOrHighestStage**<br> (Edad tardía o piso superior)](#latestAgeOrHighestStage) | [**lowestBiostratigraphicZone**<br> (Zona bioestratigráfica inferior)](#lowestBiostratigraphicZone) |
+| [**highestBiostratigraphicZone**<br> (Zona bioestratigráfica superior)](#highestBiostratigraphicZone) | [**lithostratigraphicTerms**<br> (Términos litoestratigráficos)](#lithostratigraphicTerms) | [**group**<br> (Grupo)](#group) |
 | [**formation**<br> (Formación)](#formation) | [**member**<br> (Miembro)](#member) | [**bed**<br> (Capa)](#bed) |
 
 <br>
@@ -1428,7 +1428,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Identificación
 
-| Índice |    |    |    |
+| Índice |	|	|	|
 | ---|--- |--- |--- |
 | [**identificationID**<br> (ID de la identificación)](#identificationID) | [**identifiedBy**<br> (Identificado por)](#identifiedBy) | [**identifiedByID**<br> (ID del identificador)](#identifiedByID) | [**dateIdentified**<br> (Fecha de la identificación)](#dateIdentified) |
 | [**identificationReferences**<br> (Referencias de la identificación)](#identificationReferences) | [**identificationVerification<br>Status**<br> (Estado de la verificación de la identificación)](#identificationVerificationStatus) | [**typeStatus**<br> (Tipo nomenclatural)](#typeStatus) | [**verbatimIdentification**<br> (Identificación original)](#verbatimIdentification) |
@@ -1534,7 +1534,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 ### Taxón
 
-| Índice |	|	|	|
+| Índice |    |    |    |
 | ---|--- |--- |--- |
 | [**scientificName**<br> (Nombre científico)](#scientificName) | [**scientificNameAuthorship**<br> (Autoría del nombre científico)](#scientificNameAuthorship) | [**taxonID**<br> (ID del Taxón)](#taxonID) | [**scientificNameID**<br> (ID del nombre científico)](#scientificNameID) |
 | [**higherClassification**<br> (Clasificación superior)](#higherClassification) | [**kingdom**<br> (Reino)](#kingdom) | [**phylum**<br> (Filo)](#phylum) | [**class**<br> (Clase)](#class) |
@@ -1606,7 +1606,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | El nombre científico completo del reino al que pertenece el taxón. |
 | Ejemplo | Animalia<br> Plantae<br> Bacteria<br> Chromista<br> Fungi<br> Protozoa<br> Archaea |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Obligatorio)_ |
 
 <br>
 
@@ -1956,9 +1956,9 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 ### Relación del Recurso
 
-| Índice |    |    |
+| Índice |	|	|
 | ---|--- |--- |
-| [**resourceRelationshipID**<br> (ID de la relación de los recursos)](#resourceRelationshipID) | [**resourceID**<br> (ID del recurso)](#resourceID) | [**relatedResourceID**<br> (ID del recurso relacionado)](#relatedResourceID) | 
+| [**resourceRelationshipID**<br> (ID de la relación de los recursos)](#resourceRelationshipID) | [**resourceID**<br> (ID del recurso)](#resourceID) | [**relatedResourceID**<br> (ID del recurso relacionado)](#relatedResourceID) |
 | [**relationshipOfResource**<br> (Tipo de relación del recurso)](#relationshipOfResource) | [**relationshipOfResourceID**<br> (ID del tipo de relación del recurso)](#relationshipOfResourceID) | [**relationshipAccordingTo**<br> (Relación de acuerdo con)](#relationshipAccordingTo) |
 | [**relationshipEstablishedDate**<br> (Fecha en que se estableció la relación)](#relationshipEstablishedDate) | [**relationshipRemarks**<br> (Comentarios de la relación)](#relationshipRemarks) |  |
 
@@ -1968,7 +1968,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="resourceRelationshipID">**resourceRelationshipID** (ID de la relación de los recursos)</a>
 
 | ---: | :--- |
-| Definición | Un identificador para una instancia de relación entre un recurso (resourceID, el sujeto) y otro (relatedResource, el objeto).<br><br> En caso de no contar con un identificador, se puede construir a partir de la concatenación de los occurrenceID separados por /. |
+| Definición | Un identificador para una instancia de relación entre un recurso (resourceID, el sujeto) y otro (relatedResourceID, el objeto).<br><br> En caso de no contar con un identificador, se puede construir a partir de la concatenación de los occurrenceID separados por /. |
 | Ejemplo | UANDES:ANDES-M:20054/UANDES:ANDES-E:1054 |
 | Elementos relacionados | occurrenceID, resourceID, relatedResourceID |
 | _(Obligatoriedad)_ | _(Opcional)_ |
@@ -1978,7 +1978,8 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="resourceID">**resourceID** (ID del recurso)</a>
 
 | ---: | :--- |
-| Definición | Un identificador del recurso que es sujeto de la relación. Si el registro se encuentra publicado, se recomienda documentar el mismo occurrenceID o una URL asociada. |
+| Definición | Un identificador del recurso que es sujeto de la relación. |
+| Comentarios | Si el registro se encuentra publicado, se recomienda documentar el mismo occurrenceID o una URL asociada. |
 | Ejemplo | IAvH:CBB:PARAMOS:ANFIBIA:MUESTRA:001<br> UANDES:ANDES-M:20054<br> urn:uuid:bab4d024-b931-42b0-aa34-88e7d7f8a747 |
 | Elementos relacionados | occurrenceID |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
@@ -1988,7 +1989,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="relatedResourceID">**relatedResourceID** (ID del recurso relacionado)</a>
 
 | ---: | :--- |
-| Definición | Un identificador para el recurso biológico que es el objeto de la relación. Si el registro se encuentra publicado, se recomienda documentar el mismo occurrenceID o una URL asociada. |
+| Definición | Un identificador único para el recurso biológico que es el objeto de la relación. Si el registro se encuentra publicado, se recomienda documentar el mismo occurrenceID o una URL asociada. |
 | Ejemplo | IAvH:CBB:PARAMOS:ANFIBIA:ESPECIMENPRESERVADO:001<br> UANDES:ANDES-E:1054<br> urn:catalog:Berggren:KB07001 |
 | Elementos relacionados | occurrenceID |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
@@ -2005,10 +2006,10 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 <br>
 
-<a id="relationshipOfResourceID">**relationshipOfResourceID** (ID del tipo de relación del recurso)</a>
+<a id="relationshipOfResourceID">**relationshipOfResourceID** (ID de la relación)</a>
 
 | ---: | :--- |
-| Definición | Un identificador para la relación del objeto respecto al sujeto (relationshipOfResource). |
+| Definición | Un identificador para el tipo de relación entre el sujeto (identificado con el resourceID) y su objeto (identificado con el relatedResourceID). |
 | Comentarios | Se recomienda hacer uso de los identificadores de los términos en vocabularios controlados, como la ontología de relación OBO., como se muestra a continuación:<br><br> http://purl.obolibrary.org/obo/RO_0002456 (para la relación "polinizado por")<br> https://www.inaturalist.org/observation_fields/879 (para la relación "comido por") |
 | Ejemplo | http://purl.obolibrary.org/obo/RO_0002456br> https://www.inaturalist.org/observation_fields/879 |
 | Elementos relacionados | relationshipOfResource |
@@ -2046,7 +2047,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 ### Medidas o Hechos Extendida
 
-| Índice |	|	|
+| Índice |    |    |
 | ---|--- |--- |
 | [**occurrenceID**<br> (ID del Registro biológico)](#medidas_occurrenceID) | [**parentMeasurementID**<br> (ID de la medida parental)](#parentMeasurementID)|[**measurementID**<br> (ID de la medida)](#measurementID)
 | [**measurementType**<br> (Tipo de medida)](#measurementType) | [**measurementTypeID**<br> (ID del tipo de medida)](#measurementTypeID) | [**measurementValue**<br> (Valor de la medida)](#measurementValue)
@@ -2199,7 +2200,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 ### Multimedia Simple
 
-| Índice |    |    |    |
+| Índice |	|	|	|
 | ---|--- |--- |--- |
 | [**type**<br> (Tipo)](#multimedia_type) | [**format**<br> (Formato)](#format) | [**identifier**<br> (Identificador)](#multimedia_identifier) | [**references**<br> (Referencias)](#multimedia_references) |
 | [**title**<br> (Título)](#multimedia_title) | [**description**<br> (Descripción)](#multimedia_description) | [**created**<br> (Fecha de creación)](#multimedia_created) | [**creator**<br> (Creador)](#multimedia_creator) |
@@ -2347,7 +2348,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 ### Referencias de Literatura
 
-| Índice |    |    |    |
+| Índice |	|	|	|
 | ---|--- |--- |--- |
 | [**identifier**<br> (Identificador)](#referencias_identifier) | [**bibliographicCitation**<br> (Citación bibliográfica)](#referencias_bibliographicCitation) | [**title**<br> (Título)](#referencias_title) | [**creator**<br> (Creador)](#referencias_creator) |
 | [**date**<br> (Fecha)](#date) | [**source**<br> (Fuente)](#referencias_source) | [**description**<br> (Descripción)](#referencias_description) | [**subject**<br> (Tema)](#subject) |
@@ -2481,7 +2482,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 ### Distribución de la Especie
 
-| Índice |    |    |    |
+| Índice |	|	|	|
 | ---|--- |--- |--- |
 | [**locationID**<br> (ID de la ubicación)](#distribucion_locationID) | [**locality**<br> (Localidad)](#distribucion_locality) | [**countryCode**<br> (Código del país)](#distribucion_countryCode) | [**lifeStage**<br> (Etapa de desarrollo)](#distribucion_lifeStage) |
 | [**occurrenceStatus**<br> (Estado del registro biológico)](#distribucion_occurrenceStatus) | [**threatStatus**<br> (Estado de amenaza)](#threatStatus) | [**appendixCITES**<br> (Apéndice CITES)](#appendixCITES) | [**establishmentMeans**<br> (Medios de establecimiento)](#distribucion_establishmentMeans) |
@@ -2625,7 +2626,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 ### Descripción del Taxón
 
-| Índice |    |    |    |
+| Índice |	|	|	|
 | ---|--- |--- |--- |
 | [**type**<br> (Tipo)](#descripcion_type) | [**description**<br> (Descripción)](#descripcion_description)| [**source**<br> (Fuente)](#descripcion_source) | [**language**<br> (Idioma)](#descripcion_language) |
 | [**created**<br> (Fecha de creación)](#descripcion_created) | [**creator**<br> (Creador)](#descripcion_creator) | [**contributor**<br> (Contribuidor)](#descripcion_contributor) | [**audience**<br> (Audiencia)](#descripcion_audience) |
@@ -2739,7 +2740,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 ### Perfil de la Especie
 
-| Índice |    |    |    |
+| Índice |	|	|	|
 | ---|--- |--- |--- |
 | [**isMarine**<br> (Es marino)](#isMarine) | [**isFreshWater**<br> (Es dulceacuícola)](#isFreshWater) | [**isTerrestrial**<br> (Es terrestre)](#isTerrestrial) | [**isInvasive**<br> (Es invasor)](#isInvasive) |
 | [**isHybrid**<br> (Es híbrido)](#isHybrid) | [**isExtinct**<br> (Está extinto)](#isExtinct) | [**livingPeriod**<br> (Periodo en el que vivió)](#livingPeriod) | [**ageInDays**<br> (Edad en días)](#ageInDays) |
@@ -2887,7 +2888,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 ### Tipos y Especímenes
 
-| Índice |    |    |    |
+| Índice |	|	|	|
 | ---|--- |--- |--- |
 | [**typeStatus**<br> (Tipo nomenclatural)](#tipos_typeStatus) | [**typeDesignationType**<br> (Tipo de designación del tipo)](#typeDesignationType) | [**typeDesignatedBy**<br> (Tipo designado por)](#typeDesignatedBy) | [**scientificName**<br> (Nombre científico)](#tipos_scientificName) |
 | [**taxonRank**<br> (Categoría del taxón)](#tipos_taxonRank) | [**bibliographicCitation**<br> (Citación bibliográfica)](#tipos_bibliographicCitation) | [**occurrenceID**<br> (ID del registro biológico)](#tipos_occurrenceID) | [**institutionCode**<br> (Código de la institución)](#tipos_institutionCode) |
@@ -3074,15 +3075,15 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 ### Muestra del Material GGBN
 
-| Índice |    |    |
+| Índice |	|	|
 | ---|--- |--- |
-| [**materialSampleType**<br> (Tipo de muestra)](#materialSampleType) | [**concentration**<br> (Concentración)](#concentration) | [**concentrationUnit**<br> (Unidad de la concentración)](#concentrationUnit) | 
+| [**materialSampleType**<br> (Tipo de muestra)](#materialSampleType) | [**concentration**<br> (Concentración)](#concentration) | [**concentrationUnit**<br> (Unidad de la concentración)](#concentrationUnit) |
 | [**methodDetermination<br>ConcentrationAndRatios**<br> (Método para determinación <br>de la concentración)](#methodDeterminationConcentrationAndRatios) | [**ratioOfAbsorbance260_230**<br> (Relación de absorbancia<br> 260/230)](#ratioOfAbsorbance260_230) | [**ratioOfAbsorbance260_280**<br> (Relación de absorbancia<br> 260/280)](#ratioOfAbsorbance260_280) |
 | [**purificationMethod**<br> (Método de purificación)](#purificationMethod) | [**quality**<br> (Calidad)](#quality) | [**qualityCheckDate**<br> (Fecha de revisión de la calidad)](#qualityCheckDate) |
 | [**qualityRemarks**<br> (Comentarios sobre la calidad)](#qualityRemarks) | [**volume**<br> (Volumen)](#volume) | [**volumeUnit**<br> (Unidad del volumen)](#volumeUnit) |
 | [**weigh**<br> (Peso)](#weigh) | [**weighUnit**<br> (Unidad del peso)](#weighUnit) | [**methodDeterminationWeight**<br> (Método de determinación<br> del peso)](#methodDeterminationWeight) |
 | [**samp_size**<br> (Tamaño de la muestra)](#samp_size) | [**DNAMeltingPoint**<br> (Temperatura de<br> denaturación del ADN)](#DNAMeltingPoint) | [**sieving**<br> (Tamizado)](#sieving) |
-| [**DNADNAHybridization**<br> (Hibridación ADN-ADN)](#DNADNAHybridization) | [**estimated_size**<br> (Tamaño estimado)](#estimated_size) | [**pool_dna_extracts**<br> (Combinación de<br> extractos de ADN)](#pool_dna_extracts) | 
+| [**DNADNAHybridization**<br> (Hibridación ADN-ADN)](#DNADNAHybridization) | [**estimated_size**<br> (Tamaño estimado)](#estimated_size) | [**pool_dna_extracts**<br> (Combinación de<br> extractos de ADN)](#pool_dna_extracts) |
 | [**sampleDesignation**<br> (Designación de la muestra)](#sampleDesignation) |  |  |
 
 <br>
@@ -3295,9 +3296,9 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 ### Preservación GGBN
 
-| Índice |    |    |
+| Índice |	|	|
 | ---|--- |--- |
-| [**preservationType**<br> (Tipo de preservación)](#preservationType) | [**preservationTemperature**<br> (Temperatura de preservación)](#preservationTemperature) | [**preservationDateBegin**<br> (Fecha inicial de preservación)](#preservationDateBegin) | 
+| [**preservationType**<br> (Tipo de preservación)](#preservationType) | [**preservationTemperature**<br> (Temperatura de preservación)](#preservationTemperature) | [**preservationDateBegin**<br> (Fecha inicial de preservación)](#preservationDateBegin) |
 | [**sequence**<br> (Secuencia)](#sequence) |  |  |
 
 <br>
@@ -3342,7 +3343,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 ### Permiso GGBN
 
-| Índice |    |    |
+| Índice |	|	|
 | ---|--- |--- |
 | [**permitType**<br> (Tipo de permiso)](#permitType) | [**permitStatus**<br> (Estado del permiso)](#permitStatus) | [**permitStatusQualifier**<br> (Calificador del estado del permiso)](#permitStatusQualifier) |
 | [**permitURI**<br> (Identificador del permiso)](#permitURI) | [**permitText**<br> (Texto del permiso)](#permitText) |  |
@@ -3398,7 +3399,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 ### Preparación GGBN
 
-| Índice |    |    |
+| Índice |	|	|
 | ---|--- |--- |
 | [**preparationType**<br> (Tipo de preparación)](#preparationType) | [**preparationProcess**<br> (Proceso de la preparación)](#preparationProcess) | [**preparationMaterials**<br> (Materiales de la preparación)](#preparationMaterials) |
 | [**preparedBy**<br> (Preparado por)](#preparedBy) | [**preparationDate**<br> (Fecha de la preparación)](#preparationDate) |  |
@@ -3454,7 +3455,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 ### Amplificación GGBN
 
-| Índice |    |    |
+| Índice |	|	|
 | ---|--- |--- |
 | [**amplificationDate**<br> (Fecha de la amplificación)](#amplificationDate) | [**amplificationStaff**<br> (Amplificado por)](#amplificationStaff) | [**amplificationSuccess**<br> (Éxito de la amplificación)](#amplificationSuccess) |
 | [**amplificationSuccessDetails**<br> (Detalle del éxito de la amplificación)](#amplificationSuccessDetails) | [**amplificationMethod**<br> (Método de la amplificación)](#amplificationMethod) | [**primerSequenceForward**<br> (Cebador directo)](#primerSequenceForward) |
@@ -3781,7 +3782,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 ### Préstamo GGBN
 
-| Índice |    |    |    |
+| Índice |	|	|	|
 | ---|--- |--- |--- |
 | [**blocked**<br> (Bloqueado)](#blocked) | [**blockedUntil**<br> (Bloqueado hasta)](#blockedUntil) | [**loanConditions**<br> (Condiciones del préstamo)](#loanConditions) | [**loanDate**<br> (Fecha del préstamo)](#loanDate) |
 | [**loanDestination**<br> (Destino del préstamo)](#loanDestination) | [**loanIdentifier**<br> (Identificador del préstamo)](#loanIdentifier) | [**disposition**<br> (Disposición)](#disposition) | [**receivedFrom**<br> (Recibido de)](#receivedFrom) |
@@ -3864,7 +3865,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 ## Vocabularios Controlados
 
-| Índice |    |    |    |
+| Índice |	|	|	|
 | ---|--- |--- |--- |
 | [**basisOfRecord**<br> (Base del registro)](#vc_basisOfRecord) | [**type**<br> (Tipo)](#vc_type) | [**language**<br> (Idioma)](#vc_language) | [**establishmentMeans**<br> (Medios de establecimiento)](#vc_establishmentMeans) |
 | [**degreeOfEstablishment**<br> (Grado de establecimiento](#vc_degreeOfEstablishment) | [**pathway**<br> (Ruta de introducción)](#vc_pathway) | [**occurrenceStatus**<br> (Estado del registro biológico)](#vc_occurrenceStatus) | [**continent**<br> (Continente)](#vc_continent) |
