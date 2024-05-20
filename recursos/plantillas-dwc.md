@@ -54,7 +54,7 @@ Use esta plantilla si sus datos:
     <ul>
       <li>caste (Casta)</li>
       <li>vitality (Estado de vitalidad)</li>
-      <li>verbatimLabel (Estado de vitalidad)</li>
+      <li>verbatimLabel (Etiqueta original)</li>
       <li>eventType (Tipo de evento)</li>
       <li>superfamily (Superfamilia)</li>
       <li>tribe (Tribu)</li>
