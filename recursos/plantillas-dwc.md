@@ -288,7 +288,7 @@ Tambié puede consultar la [documentación oficial de las extensiones](https://r
 
 <details>
     <summary markdown="span"><b><a href="https://drive.google.com/uc?export=download&id=1vwX9JUx_219CVTF2HrDj7eEukFJyZd2P">Permisos GGBN</a></b></summary>
-    <p><i>Revisada y editada 2022-03</i></p>
+    <p><i>Revisada y editada 2024-05</i></p>
     
 </details>
 
@@ -300,7 +300,7 @@ Tambié puede consultar la [documentación oficial de las extensiones](https://r
 
 <details>
     <summary markdown="span"><b><a href="https://drive.google.com/uc?export=download&id=1Bfdgnl-KXwvLHs8H-bSe8yBXVyD8qrx8">Multimedia Simple</a></b></summary>
-    <p><i>Revisada y editada 2021-06</i></p>
+    <p><i>Revisada y editada 2024-05</i></p>
     
 </details>
 
