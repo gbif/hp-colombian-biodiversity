@@ -310,3 +310,27 @@ Tambié puede consultar la [documentación oficial de las extensiones](https://r
     
 </details>
  
+
+<details>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?id=1WdH_Lw13a-pg4Teks624pbkqcC1Pr38U&authuser=2&export=download">Preservación GGBN</a></b></summary>
+    <p><i>Revisada y editada 2024-06</i></p>
+    
+</details> 
+
+<details>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?id=14nwc8BAj1hy-hhI4WB61gmGBfoi_6tjS&authuser=2&export=download">Descripción del Taxón</a></b></summary>
+    <p><i>Revisada y editada 2024-06</i></p>
+    
+</details>
+
+<details>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?id=1JrjJCST859GsKWqsDQCL3GxkGUdbR1I1&authuser=2&export=download">Relación del Recurso</a></b></summary>
+    <p><i>Revisada y editada 2024-06</i></p>
+    
+</details>
+
+<details>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?id=1g_--FheTtpWIFfsclKmnA6LTDfBzpvAJ&authuser=2&export=download">Muestra del Material GGBN</a></b></summary>
+    <p><i>Revisada y editada 2024-06</i></p>
+    
+</details>
