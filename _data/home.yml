@@ -41,6 +41,11 @@ estadisticas:
          # Conjuntos de datos <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=CO&limit=0">100,000</span>
 
 
+# Banner mantenimiento CR-SiB
+bannerMantenimiento:
+  markdownContent: | 
+      [![La plataforma del CR-SiB estará en mantenimiento](/assets/images/landing_page/mantenimiento_cr_sib.png)]
+
 # Banner alerta
 bannerAlerta:
   markdownContent: |
