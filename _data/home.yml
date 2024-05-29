@@ -61,6 +61,17 @@ bannerBDCGBIF:
 # Noticias
 noticias:
   features:
+
+    - preTitle: Datos abiertos
+      title: "Actualización de las plantillas del estándar Darwin Core" 
+      description: |      # required
+       Nueva versión de las plantillas Darwin Core traducidas al español para apoyar el uso e implementación del estándar para la publicación de datos sobre biodiversidad en la comunidad hispanohablante
+      # img required
+      background: /assets/images/noticias_eventos/2024/2024-05-29-actualizacion-plantillas-dwc.jpg
+      cta:
+      - text: Ver más
+        href: /post/2024/actualizacion-plantillas-dwc/
+        isPrimary: false
   
     - preTitle: Datos abiertos
       title: "Registros biológicos de plantas etnomédicas" 
