@@ -29,7 +29,7 @@ Las especies de algunos grupos, como invertebrados y plantas, se caracterizan po
 
 ### 2. Características de los organismos
 
-El elemento **_caste _(casta)** ofrece información sobre el tipo de organización de algunas especies de artrópodos que presentan una configuración jerárquica social, con valores como reina, macho alado y soldado, entre otros. Por su parte, el elemento **_vitality_ (estado de vitalidad)** permite dar a conocer si el organismo observado estaba vivo o muerto al momento de la observación. Estos elementos permiten tener más y mejor información sobre el comportamiento y el estado de los organismos a partir de los cuales se obtienen los registros biológicos.
+El elemento **_caste_ (casta)** ofrece información sobre el tipo de organización de algunas especies de artrópodos que presentan una configuración jerárquica social, con valores como reina, macho alado y soldado, entre otros. Por su parte, el elemento **_vitality_ (estado de vitalidad)** permite dar a conocer si el organismo observado estaba vivo o muerto al momento de la observación. Estos elementos permiten tener más y mejor información sobre el comportamiento y el estado de los organismos a partir de los cuales se obtienen los registros biológicos.
 
 ### 3. Información original de la etiqueta en colecciones
 
