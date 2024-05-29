@@ -7,6 +7,7 @@ categories: ["Estándar DwC", "Datos abiertos", "Documentos", "TDWG", "2024"]
 background: /assets/images/noticias_eventos/2024/2024-05-29-actualizacion-plantillas-dwc.jpg
 
 ---
+
 El [estándar Darwin Core (DwC)](https://dwc.tdwg.org/){:target=”_blank”}  se actualizó recientemente y el SiB Colombia ha aterrizado nuevamente estos conceptos a las necesidades del país. ¿Cuál es la novedad del DwC y cómo esta actualización permite complementar la información asociada a los registros biológicos? Te contamos.
 
 El DwC fue creado, y se ha mantenido, gracias al trabajo de la comunidad del _[Biodiversity Information Standards (TDWG)](https://www.tdwg.org/)_{:target=”_blank”}, quienes anualmente realizan una revisión pública del estándar e identifican la necesidad de agregar o modificar términos que faciliten la interpretación y el uso del mismo.
