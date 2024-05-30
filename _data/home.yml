@@ -49,7 +49,7 @@ estadisticas:
 # Banner mantenimiento CR-SiB
 bannerMentenimientoCRSIB:
   markdownContent: | 
-      [![La plataforma del CR-SiB estará en mantenimiento](/assets/images/landing_page/mantenimiento_cr_sib.png)](https://biodiversidad.co/certificados/publicacion-permisos/login/?next=/){:target="_blank"}
+      [![La plataforma del CR-SiB estará en mantenimiento](/assets/images/landing_page/mantenimiento_cr_sib.png)]()
 
 
 # Noticias
