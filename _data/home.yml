@@ -40,20 +40,17 @@ estadisticas:
        # Publicadorees  <span data-ajax-url="https://api.gbif.org/v1/organization?country=CO&limit=0&isEndorsed=true">100,000</span>
          # Conjuntos de datos <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=CO&limit=0">100,000</span>
 
-# Banner mantenimiento CR SiB
-bannerMANTENIMIENTO:
-  markdownContent: | 
-      [(/assets/images/landing_page/mantenimiento_cr_sib.png)]
-
 # Banner red Biodiversidad y desarrollo en GBIF
-bannerBDCGBIF:
-  markdownContent: | 
-      [![Red Biodiversidad y Colombia en GBIF](/assets/images/landing_page/banner_red_biodiversidad_desarrollo_colombia_gbif.png)](https://www.gbif.org/es/network/2ee1bff7-0b34-4fa3-9433-feaa7c6ee08b){:target="_blank"}
+# bannerBDCGBIF:
+#  markdownContent: | 
+#      [![Red Biodiversidad y Colombia en GBIF](/assets/images/landing_page/banner_red_biodiversidad_desarrollo_colombia_gbif.png)](https://www.gbif.org/es/network/2ee1bff7-0b34-4fa3-9433-feaa7c6ee08b){:target="_blank"}
+
 
 # Banner mantenimiento CR-SiB
-bannerMantenimiento:
+bannerMentenimientoCRSIB:
   markdownContent: | 
-      [![La plataforma del CR-SiB estará en mantenimiento](/assets/images/landing_page/mantenimiento_cr_sib.png)]()
+      [![La plataforma del CR-SiB estará en mantenimiento](/assets/images/landing_page/mantenimiento_cr_sib.png)](https://biodiversidad.co/certificados/publicacion-permisos/login/?next=/){:target="_blank"}
+
 
 # Noticias
 noticias:
@@ -112,17 +109,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2024/reporte-publicacion-marzo-2024/
-        isPrimary: false
-       
-    - preTitle: Convocatorias
-      title: "Premio GBIF para Investigadores Graduados 2024" 
-      description: |      # required
-       26 de mayo de 2024 es la fecha límite para que estudiantes de posgrado en Colombia presenten sus investigaciones.
-      # img required
-      background: /assets/images/noticias_eventos/2024/2024-04-11-Convocatoria-2024-Premio-GBIF-Investigadores-Graduados.jpg
-      cta:
-      - text: Ver más
-        href: /post/2024/convocatoria-2024-premio-gbif-investigadores-graduados/
         isPrimary: false
         
     - preTitle: Datos abiertos
