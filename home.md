@@ -28,7 +28,7 @@ composition:
   - type: stats
     data: home.stats
   - type: markdown
-    data: home.bannerBDCGBIF
+    data: home.bannerMentenimientoCRSIB
   - type: features
     data: home.noticias
   - type: floatingText
