@@ -19,7 +19,7 @@ Las **ocho nuevas especies** corresponden a un delfín (_Stenella clymene_), sei
 
 ## Novedades de la Lista De Mamíferos de Colombia
 
-La lista ahora cuenta también, en comparación con versiones previas, con los nombres vernaculares de las especies en varios idiomas, como  español, inglés y algunas lenguas indígenas locales. También contiene los enlaces a los [BioModelos](biomodelos.humboldt.org.co){:target="_blank"} disponibles de algunas de las especies. 
+La lista ahora cuenta también, en comparación con versiones previas, con los nombres vernaculares de las especies en varios idiomas, como  español, inglés y algunas lenguas indígenas locales. También contiene los enlaces a los [BioModelos](http://biomodelos.humboldt.org.co){:target="_blank"} disponibles de algunas de las especies. 
 
 La lista también da cuenta de que del total de especies de mamíferos, **63 son endémicas** (30 de roedores, nueve de primates, nueve de murciélagos, siete musarañas, cinco lagomorfos y tres de didélfidos). **70 especies se encuentran en algún grado de amenaza** según la [resolución 0126 de 2024](https://www.minambiente.gov.co/documento-normativa/resolucion-0126-de-2024/){:target="_blank"} del Ministerio de Ambiente y Desarrollo Sostenible; y **82 son objeto de comercio**.
 
