@@ -121,6 +121,17 @@ noticias:
       - text: Ver más
         href: /post/2024/reporte-publicacion-marzo-2024/
         isPrimary: false
+
+    - preTitle: Datos abiertos
+      title: "lista de especies amenazadas en Colombia" 
+      description: |      # required
+       Presentamos una síntesis de cifras de la lista y la ponemos disponible en dos formatos: Darwin Core y Excel.
+      # img required
+      background: /assets/images/noticias_eventos/2024/2024-03-21-lista-especies-amenazadas-colombia.jpg
+      cta:
+      - text: Ver más
+        href: /post/2024/lista-especies-amenazadas-colombia/
+        isPrimary: false
         
 # Splits
 
