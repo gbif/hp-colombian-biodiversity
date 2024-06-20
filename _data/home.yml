@@ -61,7 +61,7 @@ noticias:
       description: |      # required
        Los mastozoólogos colombianos han identificado nuevas especies de mamíferos presentes en el país
       # img required
-      background: /assets/images/noticias_eventos/2024-06-19-actualizacion-lista-mamiferos.png
+      background: /assets/images/noticias_eventos/2024/2024-06-19-actualizacion-lista-mamiferos.png
       cta:
       - text: Ver más
         href: /post/2024/actualizacion-lista-mamiferos/
