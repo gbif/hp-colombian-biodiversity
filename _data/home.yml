@@ -61,7 +61,7 @@ noticias:
       description: |      # required
        Destacamos mes a mes las últimas publicaciones de conjuntos de datos, listas de especies o eventos de muestreo de la biodiversidad de Colombia
       # img required
-      background: /assets/images/noticias_eventos/2024/2024-07-03-reporte-publicacion-mayo-2024.png
+      background: assets/images/noticias_eventos/2024/2024-07-03-reporte-publicacion-mayo-2024.png
       cta:
       - text: Ver más
         href: /post/2024/reporte-publicacion-mayo-2024/
