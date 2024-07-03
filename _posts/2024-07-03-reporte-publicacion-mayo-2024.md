@@ -16,14 +16,14 @@ Mes a mes, desde el Equipo Coordinador **[acompañamos la publicación de conjun
 
 Durante el mes de mayo, La Fundación Cuidar la Tierra, se sumó como un **nuevo publicador del SiB Colombia**, con un conjunto de registros de felinos silvestres observados entre 2017 y 2023 en zonas rurales de Barrancabermeja, Santander.
 
-| Explora el conjunto de datos [Monitoreo de Felinos Silvestres asociados a Sistemas Agropecuarios en las Cuencas del Caño Zarzal y Caño La Vizcaína, Barrancabermeja, Santander](https://biodiversidad.co/data/?datasetKey=ec272ca5-5454-4320-8d9d-87c1876f0d52){:target=”_blank”}. |
+| Explora el conjunto de datos [Monitoreo de Felinos Silvestres asociados a Sistemas Agropecuarios en las Cuencas del Caño Zarzal y Caño La Vizcaína, Barrancabermeja, Santander](https://biodiversidad.co/data/?datasetKey=ec272ca5-5454-4320-8d9d-87c1876f0d52){:target=”_blank”} |
 
 Nuestro segundo destacado del mes de mayo es la **actualización de la lista de referencia de mamíferos de Colombia**, realizada por la Sociedad Colombiana de Mastozoología (SCMas). Puedes acceder a mayor información en esta [nota](https://biodiversidad.co/post/2024/actualizacion-lista-mamiferos/).
 
-| Consulta la lista de chequeo [Mamíferos de Colombia](https://biodiversidad.co/dataset/search?publishingOrg=4a88507e-5d15-44a4-98cb-a4a0ac13f113&type=CHECKLIST){:target=”_blank”}. |
+| Consulta la lista de chequeo [Mamíferos de Colombia](https://biodiversidad.co/dataset/search?publishingOrg=4a88507e-5d15-44a4-98cb-a4a0ac13f113&type=CHECKLIST){:target=”_blank”} |
 
 Nuestro último destacado es la publicación por parte del Jardín Botánico de Bogotá "José Celestino Mutis" de los **eventos de muestreo** utilizados para medir la influencia de los productos de un incendio forestal sobre la germinación de cuatro especies potencialmente invasoras en un bosque altoandino. **El conjunto de datos publicado, cuenta con 480 puntos de muestreo, 10.080 registros y medidas bióticas asociadas**. 
 
-| Mira el evento de muestreo en [Influencia de los productos de un incendio forestal sobre la germinación de cuatro especies potencialmente invasoras en un Bosque Altoandino disturbado](https://biodiversidad.co/data/?datasetKey=d0ab9703-fc39-47b5-846f-a87e5da22e1a){:target=”_blank”}. |
+| Mira el evento de muestreo en [Influencia de los productos de un incendio forestal sobre la germinación de cuatro especies potencialmente invasoras en un Bosque Altoandino disturbado](https://biodiversidad.co/data/?datasetKey=d0ab9703-fc39-47b5-846f-a87e5da22e1a){:target=”_blank”} |
 
 Esta es la cuarta nota de una serie de noticias que cubrirán el reporte mensual de la actividad de publicación para visibilizar las acciones de los [socios publicadores](https://biodiversidad.co/comunidad/socios-publicadores/){:target=”_blank”} y sus esfuerzos por aportar al conocimiento de la biodiversidad del país.
