@@ -57,6 +57,17 @@ noticias:
   features:
 
     - preTitle: Datos abiertos
+      title: "Felinos silvestres a la vista y otros destacados del mes" 
+      description: |      # required
+       Destacamos mes a mes las últimas publicaciones de conjuntos de datos, listas de especies o eventos de muestreo de la biodiversidad de Colombia
+      # img required
+      background: /assets/images/noticias_eventos/2024/2024-07-03-reporte-publicacion-mayo-2024.png
+      cta:
+      - text: Ver más
+        href: /post/2024/reporte-publicacion-mayo-2024/
+        isPrimary: false
+
+    - preTitle: Datos abiertos
       title: "La lista de mamíferos de Colombia continúa creciendo" 
       description: |      # required
        Los mastozoólogos colombianos han identificado nuevas especies de mamíferos presentes en el país
