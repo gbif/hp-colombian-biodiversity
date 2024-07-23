@@ -224,13 +224,7 @@ ___
 
 La convocatoria se abre durante un mes, ya sea semestral o anualmente. Solo en este periodo de tiempo se reciben las aplicaciones a través del formulario dispuesto para ello.
 
-**Primera convocatoria del año**: está abierta entre marzo y abril, para iniciar la pasantía en julio, con finalización en diciembre.
-
-<p><img src="/assets/images/comunidad/formacion/pasantias_calendario_semestre1.png" alt="Calendario primera convocatoria del año"></p>
-
-**Segunda convocatoria del año**: está abierta entre agosto y septiembre, para iniciar la pasantía en enero del siguiente año, con finalización en junio.
-
-<p><img src="/assets/images/comunidad/formacion/pasantias_calendario_semestre2.png" alt="Calendario segunda convocatoria del año"></p>
+**No hay convocatorias abiertas** debido a que estamos en proceso de evaluación del programa. Cuando se abra una nueva convocatoria, realizaremos la difusión en nuestras redes sociales.
 
 **Recursos útiles para aplicar**:
 
