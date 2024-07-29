@@ -64,7 +64,7 @@ noticias:
       background: assets/images/noticias_eventos/2024/2024-07-29-reporte-publicacion-junio-2024.png
       cta:
       - text: Ver más
-        href: _posts/2024-07-29-reporte-publicacion-junio-2024.md
+        href: /post/2024/reporte-publicacion-junio-2024/
         isPrimary: false
 
     - preTitle: Datos abiertos
