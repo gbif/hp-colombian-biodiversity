@@ -56,6 +56,17 @@ bannerBDCGBIF:
 noticias:
   features:
 
+     - preTitle: Biodiversidad en cifras
+      title: "Biodiversidad en Cifras continúa evolucionando" 
+      description: |      # required
+       El portal “Biodiversidad en Cifras” está listo y actualizado con una enriquecida síntesis de cifras sobre el estado del conocimiento de la diversidad biológica del país, disponibles para su consulta y uso libre.
+      # img required
+      background: assets/images/noticias_eventos/2024/2024-09-20-biodiversidad-cifras.png
+      cta:
+      - text: Ver más
+        href: /post/2024/actualizacion-biodiversidad-en-cifras/
+        isPrimary: false
+        
     - preTitle: Evento de reconocimiento
       title: "14 empresas colombianas destacadas por su aporte al conocimiento de la biodiversidad del país" 
       description: |      # required
@@ -98,17 +109,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2024/actualizacion-plantillas-dwc/
-        isPrimary: false
-
-    - preTitle: Aliados
-      title: "Proyecto Portales nacionales" 
-      description: |      # required
-       Este proyecto reúne los conocimientos, en torno a los dos tipos de portales de datos sobre biodiversidad, de cuatro nodos socios de GBIF.
-      # img required
-      background: /assets/images/noticias_eventos/2024/2024-04-22-CESP-National-Portals.jpg
-      cta:
-      - text: Ver más
-        href: /post/2024/cesp-national-portals/
         isPrimary: false
        
     - preTitle: Convocatorias
