@@ -1,7 +1,7 @@
 ---
 preTitle: 20 de septiembre, 2024
 title: "Biodiversidad en Cifras continúa evolucionando"
-description: "_El portal 'Biodiversidad en Cifras' está listo y actualizado con una enriquecida síntesis de cifras sobre el estado del conocimiento de la diversidad biológica del país, disponibles para su consulta y uso libre._"
+description: "_El portal Biodiversidad en Cifras está listo y actualizado con una enriquecida síntesis de cifras sobre el estado del conocimiento de la diversidad biológica del país, disponibles para su consulta y uso libre._"
 date: 2024-09-20
 categories: ["Cifras", "Aliados", "Colombia", "2024"]
 background: /assets/images/noticias_eventos/2024/2024-09-20-biodiversidad-cifras.png
