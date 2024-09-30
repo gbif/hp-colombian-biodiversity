@@ -6,7 +6,11 @@ date: 2024-09-30
 categories: ["Cifras", "Aliados", "Colombia", "2024"]
 background: /assets/images/noticias_eventos/2024/2024-09-20-biodiversidad-cifras.png
 
+
 ---
+
+
+
 
 El portal **[Biodiversidad en Cifras](https://cifras.biodiversidad.co/){:target="_blank"}** ofrece una **síntesis de cifras sobre el estado del conocimiento de la diversidad biológica en Colombia.** Desde sus inicios en 2013 como una infografía, siguió evolucionando hasta convertirse en una plataforma que continúa creciendo con novedades para  sus usuarios. 
 
