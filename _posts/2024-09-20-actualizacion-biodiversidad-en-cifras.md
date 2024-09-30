@@ -6,7 +6,6 @@ date: 2024-09-20
 categories: ["Cifras", "Aliados", "Colombia", "2024"]
 background: /assets/images/noticias_eventos/2024/2024-09-20-biodiversidad-cifras.png
 
-
 ---
 
 El portal **[Biodiversidad en Cifras](https://cifras.biodiversidad.co/){:target="_blank"}** ofrece una **síntesis de cifras sobre el estado del conocimiento de la diversidad biológica en Colombia.** Desde sus inicios en 2013 como una infografía, siguió evolucionando hasta convertirse en una plataforma que continúa creciendo con novedades para  sus usuarios. 
@@ -25,11 +24,11 @@ Todas las cifras se encuentran **actualizadas** hasta **diciembre de 2023** para
 | :---: |
 |Ver la nota: [Nueva lista de especies amenazadas en Colombia al detalle](https://biodiversidad.co/post/2024/lista-especies-amenazadas-colombia/){:target="_blank"}  |
 
-La navegación en el  [explorador](https://cifras.biodiversidad.co/explorador){:target="_blank"} también fue optimizada con[ nuevas funcionalidades y visualizaciones que mejoran ](https://cifras.biodiversidad.co/explorador)la **experiencia de los usuarios**[. Esta herramienta que permite](https://cifras.biodiversidad.co/explorador){:target="_blank"} consultar cifras  a nivel **nacional o departamental**, cuenta ahora con una opción que facilita la **descarga**, en distintos formatos de **tabla**, de las listas de especies asociadas a las cifras.  En esta sección las cifras se presentan en múltiples formatos de visualización, como **mapas**, **gráficos** o **tablas**. El explorador permite personalizar las  búsquedas haciendo uso de filtros por **grupos biológicos** (clasificaciones taxonómicas como Angiospermas, Arácnidos, Peces, Bacterias, etc.), **grupos de interés de conservación** (agrupaciones como Epífitas, Frailejones, Mangles, etc.) y **temáticas** (Amenazadas Nacional, CITES, Endémicas, Invasoras, etc.). 
+La navegación en el [explorador](https://cifras.biodiversidad.co/explorador){:target="_blank"} también fue optimizada con [nuevas funcionalidades y visualizaciones que mejoran](https://cifras.biodiversidad.co/explorador){:target="_blank"} la **experiencia de los usuarios**. [Esta herramienta que permite](https://cifras.biodiversidad.co/explorador){:target="_blank"} consultar cifras  a nivel **nacional o departamental**, cuenta ahora con una opción que facilita la **descarga**, en distintos formatos de **tabla**, de las listas de especies asociadas a las cifras.  En esta sección las cifras se presentan en múltiples formatos de visualización, como **mapas**, **gráficos** o **tablas**. El explorador permite personalizar las  búsquedas haciendo uso de filtros por **grupos biológicos** (clasificaciones taxonómicas como Angiospermas, Arácnidos, Peces, Bacterias, etc.), **grupos de interés de conservación** (agrupaciones como Epífitas, Frailejones, Mangles, etc.) y **temáticas** (Amenazadas Nacional, CITES, Endémicas, Invasoras, etc.). 
 
 Complementariamente,  el explorador ofrece la posibilidad de consultar información sobre las especies, mediante **enlaces** a la [Infraestructura Mundial de Información en Biodiversidad](https://www.gbif.org){:target="_blank"} (GBIF) y el [Catálogo de la Biodiversidad de Colombia](https://catalogo.biodiversidad.co){:target="_blank"} (CBC).
 
-Por último,** Biodiversidad en Cifras** ahora presenta una caracterización más detallada de los **[publicadores](https://cifras.biodiversidad.co/mas/publicadores){:target="_blank"}** de registros biológicos a nivel nacional, donde es posible discriminar cifras **por tipo de organización** (p. ej. número de organizaciones publicadores del tipo ONG) y **observaciones aportadas por tipo de organización** (p. ej. cantidad de observaciones publicadas por empresas). 
+Por último, **Biodiversidad en Cifras** ahora presenta una caracterización más detallada de los **[publicadores](https://cifras.biodiversidad.co/mas/publicadores){:target="_blank"}** de registros biológicos a nivel nacional, donde es posible discriminar cifras **por tipo de organización** (p. ej. número de organizaciones publicadores del tipo ONG) y **observaciones aportadas por tipo de organización** (p. ej. cantidad de observaciones publicadas por empresas). 
 
 La nueva versión se puede consultar de manera libre, abierta y gratuita a través de la dirección web[ cifras.biodiversidad.co](https://cifras.biodiversidad.co/){:target="_blank"}.
 
