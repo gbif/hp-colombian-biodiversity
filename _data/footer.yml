@@ -18,8 +18,7 @@ columns:
   - name: Contacto
     description: | # Can be Markdown
       * sib@humboldt.org.co
-      * Calle 28 A # 15 - 09, Bogotá D.C.
-      * PBX: (+571) 320 2767
+      * Calle 72 #12-65 Piso 7, Bogotá D.C.
       * Colombia
     logo: /assets/images/logos/72logoSiBfullB.png
      
