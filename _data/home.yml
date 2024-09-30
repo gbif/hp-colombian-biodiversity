@@ -56,7 +56,7 @@ bannerBDCGBIF:
 noticias:
   features:
 
-     - preTitle: Biodiversidad en cifras
+    - preTitle: Biodiversidad en cifras
       title: "Biodiversidad en Cifras continúa evolucionando" 
       description: |      # required
        El portal Biodiversidad en Cifras está listo y actualizado con una enriquecida síntesis de cifras sobre el estado del conocimiento de la diversidad biológica del país, disponibles para su consulta y uso libre.
