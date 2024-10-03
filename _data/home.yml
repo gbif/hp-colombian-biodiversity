@@ -56,6 +56,17 @@ bannerBDCGBIF:
 noticias:
   features:
 
+  - preTitle: Datos abiertos
+      title: "Nuevos publicadores, escarabajos, corales, aves y otros registros destacados de julio y agosto" 
+      description: |      # required
+       Fundaciones, empresas, academia y otros proyectos sobresalen en estos dos meses, con datos sobre diversas especies de animales y microorganismos de nuestra biodiversidad.
+      # img required
+      background: assets/images/noticias_eventos/2024/2024-10-03-destacados-julio-agosto2024.png
+      cta:
+      - text: Ver más
+        href: /post/2024/reporte-publicacion-julio-agosto-2024/
+        isPrimary: false
+
     - preTitle: Biodiversidad en cifras
       title: "Biodiversidad en Cifras continúa evolucionando" 
       description: |      # required
@@ -111,16 +122,6 @@ noticias:
         href: /post/2024/actualizacion-plantillas-dwc/
         isPrimary: false
        
-    - preTitle: Convocatorias
-      title: "Reto Ebbe Nielsen 2024" 
-      description: |      # required
-       Hasta el 14 de agosto de 2024 está abierta la recepción de propuestas para el Reto Ebbe Nielsen de GBIF.
-      # img required
-      background: /assets/images/noticias_eventos/2024/2024-04-22-reto-Ebbe-Nielsen.png
-      cta:
-      - text: Ver más
-        href: /post/2024/convocatoria-reto-ebbe-nielsen-gbif-2024/
-        isPrimary: false
         
 # Splits
 
