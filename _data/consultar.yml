@@ -128,12 +128,12 @@ featuresVentanas:
     - preTitle: Biodiversidad en cifras
       title: Otras regiones
       description: |      # required
-        Próximamente se podrán explorar cifras por áreas geográficas, grupos biológicos y temáticas de conservación, uso y manejo a nivel nacional; junto con algunas cifras departamentales más detalladas producto de un ejercicio de regionalización que está en construcción.
+        Explora las cifras sobre biodiversidad de todos los departamentos de Colombia producto del ejercicio de regionalización del SiB Colombia. Adicionalmente, encontrarás las cifras del Regustardo Indígenena Pialapí Pueblo Viejo y la Reserva Natural La Planada.
       background: /assets/images/consultar/frailejon.jpg
       imageLicense: |
         Foto: Felipe Villegas, Instituto Humboldt.
       cta:
-      - text: Pronto
-        # href: 
+      - text: Biodiversidad en cifras
+        href: https://cifras.biodiversidad.co/
         isPrimary: false
  
