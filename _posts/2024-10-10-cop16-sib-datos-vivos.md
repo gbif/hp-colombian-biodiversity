@@ -24,13 +24,13 @@ Su presentación en la COP16 permitirá conocer detalles sobre este evento, que 
 
 | Para asistir al evento de activación durante la COP16, [inscríbete aquí](https://tiendahumboldt.org/producto/datos-vivos-2025/){:target="_blank"}| 
 
-**Presentación del ecosistema web del SiB Colombia (Actividad permanente en la Casa Humboldt)**
+**Presentación del ecosistema web del SiB Colombia**
 
 En este espacio podrás conocer las diferentes herramientas a través de las cuáles puedes acceder a los datos compartidos a través del SiB Colombia, así como otras iniciativas con las que puedes hacer uso de los datos como [BioModelos](biomodelos.humboldt.org.co){:target="_blank"} y [BioTablero](biotablero.humboldt.org.co){:target="_blank"}.
 
 ![Actividad permanente del SiB Colombia en la Casa Humboldt de la COP16](/assets/images/noticias_eventos/2024/2024-10-10-cop16-sib-datos-vivos-plataformas.png "Actividad permanente del SiB Colombia en la Casa Humboldt de la COP16")
 
-**Foro del Sur Global - Panel 3: “Datos abiertos y sistemas de información”**
+**MKM: Desafíos invisibles desde el Sur Global**
 
 En el foro “Reflexiones desde el Sur Global para un cambio planetario”, que busca visibilizar la ciencia, las necesidades, intereses y capacidades de los países del Sur Global ante hacedores de políticas públicas, académicos y tomadores de decisiones del Marco Kunming-Montreal, se llevará a cabo el Panel 3, “Datos abiertos y sistemas de información”.
 
