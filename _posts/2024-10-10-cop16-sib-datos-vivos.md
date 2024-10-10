@@ -18,9 +18,9 @@ En el marco de este hito para nuestro país, a continuación te contamos los det
 
 Para comenzar, destacamos que en el marco de la COP16,  el 25 de octubre será lanzada la conferencia “**Datos Vivos 2025, Información que unida transforma**”, impulsada por la alianza estratégica entre: [GBIF](https://www.gbif.org/es/){:target="_blank"}—Sistema Global de Información sobre Biodiversidad, del cual el [SiB es nodo en Colombia](https://biodiversidad.co/acercade/sib-colombia/){:target="_blank"}; [TDWG](https://www.tdwg.org){:target="_blank"}—Estándares de Información para la Biodiversidad; [OBIS](https://obis.org){:target="_blank"}—Sistema de Información sobre Biodiversidad Oceánica; y [GEO BON](https://geobon.org){:target="_blank"}—red global de observación de la biodiversidad. Su presentación en la COP16 permitirá conocer detalles sobre este evento, que en octubre de 2025 reunirá en Bogotá a cerca de 1000 expertos de todo el mundo para compartir experiencias que impulsen transformaciones innovadoras, basadas en la comprensión del estado y las tendencias de la biodiversidad.
 
-Más información sobre la conferencia en su [sitio oficial](https://livingdata2025.com){:target="_blank"}
+| Accede a más información sobre la conferencia en su [sitio oficial](https://livingdata2025.com){:target="_blank"}| 
 
-Para asistir al evento de activación durante la COP 16, [inscríbete aquí](https://tiendahumboldt.org/producto/datos-vivos-2025/){:target="_blank"}
+| Para asistir al evento de activación durante la COP 16, [inscríbete aquí](https://tiendahumboldt.org/producto/datos-vivos-2025/){:target="_blank"}| 
 
 **Presentación del ecosistema web del SiB Colombia (Actividad permanente en la Casa Humboldt)**
 
