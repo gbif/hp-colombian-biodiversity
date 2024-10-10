@@ -22,7 +22,7 @@ Su presentación en la COP16 permitirá conocer detalles sobre este evento, que 
 
 | Accede a más información sobre la conferencia en su [sitio oficial](https://livingdata2025.com){:target="_blank"}| 
 
-| Para asistir al evento de activación durante la COP 16, [inscríbete aquí](https://tiendahumboldt.org/producto/datos-vivos-2025/){:target="_blank"}| 
+| Para asistir al evento de activación durante la COP16, [inscríbete aquí](https://tiendahumboldt.org/producto/datos-vivos-2025/){:target="_blank"}| 
 
 **Presentación del ecosistema web del SiB Colombia (Actividad permanente en la Casa Humboldt)**
 
