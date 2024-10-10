@@ -50,3 +50,5 @@ Las conclusiones y recomendaciones que se generen en se presentarán como un doc
     Location: Zona Azul
 
 | Conoce toda la agenda de la COP16 en su [sitio oficial](https://www.cop16colombia.com/es/){:target="_blank"}<span style="text-decoration:underline;"> |
+
+Te invitamos a seguir nuestros canales digitales y redes sociales, para estar al tanto de eventos de la COP16, relacionados con la publicación, acceso, uso abierto e incidencia de los datos de biodiversidad, insumo esencial promovido por el SiB Colombia para la construcción de un país y una región cada vez más innovadora y sostenible.
