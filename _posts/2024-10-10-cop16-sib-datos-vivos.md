@@ -18,9 +18,9 @@ En el marco de este hito para nuestro país, a continuación te contamos los det
 
 Para comenzar, destacamos que en el marco de la COP16,  el 25 de octubre será lanzada la conferencia “**Datos Vivos 2025, Información que unida transforma**”, impulsada por la alianza estratégica entre: [GBIF](https://www.gbif.org/es/){:target="_blank"}—Sistema Global de Información sobre Biodiversidad, del cual el [SiB es nodo en Colombia](https://biodiversidad.co/acercade/sib-colombia/){:target="_blank"}; [TDWG](https://www.tdwg.org){:target="_blank"}—Estándares de Información para la Biodiversidad; [OBIS](https://obis.org){:target="_blank"}—Sistema de Información sobre Biodiversidad Oceánica; y [GEO BON](https://geobon.org){:target="_blank"}—red global de observación de la biodiversidad. Su presentación en la COP16 permitirá conocer detalles sobre este evento, que en octubre de 2025 reunirá en Bogotá a cerca de 1000 expertos de todo el mundo para compartir experiencias que impulsen transformaciones innovadoras, basadas en la comprensión del estado y las tendencias de la biodiversidad.
 
-Más información sobre la conferencia en: [https://livingdata2025.com](https://livingdata2025.com){:target="_blank"}
+Más información sobre la conferencia en su [sitio oficial](https://livingdata2025.com){:target="_blank"}
 
-Link de inscripción para asistir al evento de activación durante la COP 16: [https://tiendahumboldt.org/producto/datos-vivos-2025/](https://tiendahumboldt.org/producto/datos-vivos-2025/){:target="_blank"}
+Para asistir al evento de activación durante la COP 16, [inscríbete aquí](https://tiendahumboldt.org/producto/datos-vivos-2025/){:target="_blank"}
 
 **Presentación del ecosistema web del SiB Colombia (Actividad permanente en la Casa Humboldt)**
 
@@ -31,11 +31,6 @@ En este espacio podrás conocer las diferentes herramientas a través de las cu�
 **Foro del Sur Global - Panel 3: “Datos abiertos y sistemas de información”**
 
 En el foro “Reflexiones desde el Sur Global para un cambio planetario”, que busca visibilizar la ciencia, las necesidades, intereses y capacidades de los países del Sur Global ante hacedores de políticas públicas, académicos y tomadores de decisiones del Marco Kunming-Montreal, se llevará a cabo el Panel 3, “Datos abiertos y sistemas de información”. Este espacio abordará preguntas, tales como: ¿qué tan representativos son los datos del Sur Global para el alcance de la meta 21 del Marco Kunming-Montreal? ó ¿existen suficientes esfuerzos para llenar los vacíos del Sur Global y cumplir la meta al 2030? Contará con la participación de Andrew Rodrigues de GBIF, Blanca Huertas del Museo de Historia Natural de Londres, (persona por definir) de IUCN Perú, Yanina Sica del Panel Intergubernamental de Biodiversidad y Servicios Ecositémicos - IPBES, y de las anfitrionas del panel, María Cecilia Londoño y Helena Olaya del SiB Colombia.
-
-    Fecha, hora: 25 de octubre de 2024, 2:30 a 3:30 p.m.
-    Lugar: COMFANDI - Centro Cultural Comfandi Nelson Garcés Vernaza
-    Cl 8 #6-23, COMUNA 3, Cali, Valle del Cauca
-    Más información en: 
     
 ![Foro del Sur Global-Panel 3](/assets/images/noticias_eventos/2024/2024-10-10-cop16-sib-datos-vivos-foroSur.png "Foro del Sur Global-Panel 3")
 
@@ -54,8 +49,4 @@ Las conclusiones y recomendaciones que se generen en se presentarán como un doc
     Fecha: Octubre 26 y 27 de 2024
     Location: Zona Azul
 
-Conoce toda la agenda de la COP16 en su sitio oficial: [https://www.cop16colombia.com/es](https://www.cop16colombia.com/es/)<span style="text-decoration:underline;">/</span>{:target=”_blank”}<span style="text-decoration:underline;"> </span>
-
-Te invitamos a seguir nuestros canales digitales y redes sociales, para estar al tanto de  eventos de la COP16, relacionados con la publicación, acceso, uso abierto e incidencia de los datos de biodiversidad, insumo esencial promovido por el SiB Colombia para la construcción de un país y una región cada vez más innovadora y sostenible.
-
-Conoce toda la agenda de la COP16 en su sitio oficial: [https://www.cop16colombia.com/es](https://www.cop16colombia.com/es/){:target=”_blank”}
+| Conoce toda la agenda de la COP16 en su [sitio oficial](https://www.cop16colombia.com/es/){:target="_blank"}<span style="text-decoration:underline;"> |
