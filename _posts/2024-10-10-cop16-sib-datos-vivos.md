@@ -20,13 +20,13 @@ Más información sobre la conferencia en: [https://livingdata2025.com](https://
 
 Link de inscripción para asistir al evento de activación durante la COP 16: [https://tiendahumboldt.org/producto/datos-vivos-2025/](https://tiendahumboldt.org/producto/datos-vivos-2025/){:target=”_blank”}
 
-![Conferencia Datos Vivos 2025](assets/images/noticias_eventos/2024/2024-10-10-cop16-sib-datos-vivos-activacion.png "Conferencia Datos Vivos 2025")
+![Conferencia Datos Vivos 2025](/assets/images/noticias_eventos/2024/2024-10-10-cop16-sib-datos-vivos-activacion.png "Conferencia Datos Vivos 2025")
 
 **Presentación del ecosistema web del SiB Colombia (Actividad permanente en la Casa Humboldt)**
 
 En este espacio podrás conocer las diferentes herramientas a través de las cuáles puedes acceder a los datos compartidos a través del SiB Colombia, así como otras iniciativas con las que puedes hacer uso de los datos como [BioModelos](biomodelos.humboldt.org.co){:target=”_blank”} y [BioTablero](biotablero.humboldt.org.co){:target=”_blank”}.
 
-![Actividad permanente del SiB Colombia en la Casa Humboldt de la COP16](assets/images/noticias_eventos/2024/2024-10-10-cop16-sib-datos-vivos-plataformas.png "Actividad permanente del SiB Colombia en la Casa Humboldt de la COP16")
+![Actividad permanente del SiB Colombia en la Casa Humboldt de la COP16](/assets/images/noticias_eventos/2024/2024-10-10-cop16-sib-datos-vivos-plataformas.png "Actividad permanente del SiB Colombia en la Casa Humboldt de la COP16")
 
 **Foro del Sur Global - Panel 3: “Datos abiertos y sistemas de información”**
 
