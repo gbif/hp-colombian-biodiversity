@@ -1,10 +1,11 @@
 ---
 preTitle: 10 de octubre, 2024
-title: “Lanzamiento de Datos vivos y agenda del SiB Colombia en la COP16”
+title: "Lanzamiento de Datos vivos y agenda del SiB Colombia en la COP16"
 description: "_Conoce los detalles del lanzamiento de la conferencia “Datos vivos 2025” y la agenda de eventos relacionados con el Sistema de Información sobre Biodiversidad de Colombia en la COP16._"
 date: 2024-10-10
 categories: ["Evento", "COP16", "SiB", "Datos vivos", "2024"]
 background: /assets/images/noticias_eventos/2024/2024-10-10-cop16-sib-datos-vivos.png
+
 ---
 
 Por primera vez en la historia, Colombia será sede de uno de los encuentros globales con mayor incidencia para el conocimiento y conservación de la biodiversidad: la edición número 16 de la Conferencia de las Partes (COP16) del Convenio sobre la Diversidad Biológica (CDB), tratado internacional adoptado en la Cumbre de la Tierra de Río de Janeiro en 1992.
