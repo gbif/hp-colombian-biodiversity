@@ -53,7 +53,7 @@ Este foro tiene como objetivo fortalecer la interfaz entre la política, la cien
 Las conclusiones y recomendaciones que se generen en se presentarán como un documento informativo, y se expondrá un resumen en la plenaria de la COP16, contribuyendo a las discusiones más amplias para la implementación del GBF
 
 - Fecha: Octubre 26 y 27 de 2024
-- Location: Zona Azul
+- Lugar: Zona Azul - COP16
 
 | Conoce toda la agenda de la COP16 en su [sitio oficial](https://www.cop16colombia.com/es/){:target="_blank"}<span style="text-decoration:underline;"> |
 
