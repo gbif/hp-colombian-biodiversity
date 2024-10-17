@@ -114,7 +114,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | El título que identifica el conjunto de datos referenciado en ID del conjunto de datos. |
 | Ejemplo | Colombia Bio<br> Fondo Adaptación<br> Boyacá Bio<br>  Cenipalma<br> |
-| Elementos relacionados | datasetNameID |
+| Elementos relacionados | datasetID |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
@@ -829,7 +829,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de la geografía inmediatamente superior al sitio o ubicación donde se realizó el registro. Si hay modificaciones en la localidad para estandarizar su contenido puede documentar en este elemento los datos originales (sin estandarizar) de esos términos. |
-| Comentarios | Este elemento debe estar acompañado de otros elementos del estándar, como se muestra en el ejemplo a continuación:<br><br> América \| Sudamérica \| Colombia \| Región del Pacífico \| Valle del Cauca \| La Cumbre \| Bitaco (Con los valores resultantes de SA en continent, Colombia en country, Valle del Cauca en stateProvince, La Cumbre en county y Bitaco en municipality). |
+| Comentarios | Este elemento debe estar acompañado de otros elementos del estándar, como se muestra en el ejemplo a continuación:<br><br> América \| Sudamérica \| Colombia \| Región del Pacífico \| Valle del Cauca \| La Cumbre \| Bitaco (Con los valores resultantes de América del Sur en continent, Colombia en country, Valle del Cauca en stateProvince, La Cumbre en county y Bitaco en municipality). |
 | Ejemplo | América \| Sudamérica \| Colombia \| Región del Pacífico \| Valle del Cauca \| La Cumbre \| Bitaco |
 | Elementos relacionados | higherGeographyID, continent, country, stateProvince, county, municipality |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
@@ -1594,7 +1594,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="higherClassification">**higherClassification** (Clasificación superior)</a>
 
 | ---: | :--- |
-| Definición | Una lista de los nombres de los taxones inmediatamente superiores a la categoría del taxón del scientificName. Se recomienda ordenar la lista comenzando con la categoría más alta y separando los nombres de cada categoría, con una barra vertical "\|". Permite documentar categorías taxonómicas que no incluye el estándar (suborden, superfamilia, etc). |
+| Definición | Una lista de los nombres de los taxones inmediatamente superiores a la categoría del taxón del scientificName. Se recomienda ordenar la lista comenzando con la categoría más alta y separando los nombres de cada categoría, con una barra vertical "\|". Permite documentar categorías taxonómicas que no incluye el estándar (subclase, suborden, etc). |
 | Ejemplo | Animalia \| Chordata \| Vertebrata \| Mammalia \| Theria \| Eutheria \| Rodentia \| Hystricognatha \| Hystricognathi \| Ctenomyidae \| Ctenomyini \| Ctenomys<br> Animalia \| Arthropoda \| Arachnida \| Araneae \| Paratropididae \| Paratropis |
 | Elementos relacionados | scientificName |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
@@ -1944,7 +1944,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | Comentarios o anotaciones sobre el taxón o nombre. Se recomienda que la longitud de la descripción no supere 20 palabras. |
 | Ejemplo | Este nombre está mal escrito en uso común<br> Sin estado de amenaza reportada |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
+| Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Obligatorio)_ |
 
 <br>
 <br>
