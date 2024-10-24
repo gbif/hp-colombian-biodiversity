@@ -10,7 +10,7 @@ background: /assets/images/noticias_eventos/2024/2024-10-24-destacados-septiembr
 ---
 La publicación de datos sobre biodiversidad ayuda a llenar vacíos sobre el conocimiento de la riqueza biológica de Colombia. Para que esto suceda, es necesario sincronizar las voluntades de las organizaciones titulares de los datos y de los profesionales que los colectan.
 
-Desde el SiB Colombia recogemos la actividad de los socios publicadores en un reporte mensual que llamamos “[Actividad de publicación](https://biodiversidad.co/comunidad/actividad-de-publicacion/)”{:target=”_blank”}, disponible permanentemente en nuestro sitio web, en la sección del mismo nombre.
+Desde el SiB Colombia recogemos la actividad de los socios publicadores en un reporte mensual que llamamos “[Actividad de publicación](https://biodiversidad.co/comunidad/actividad-de-publicacion/){:target=”_blank”}”, disponible permanentemente en nuestro sitio web, en la sección del mismo nombre.
 
 Mes a mes, desde el Equipo Coordinador **[acompañamos la publicación de conjuntos de datos, listas de especies o eventos de muestreo](https://biodiversidad.co/compartir/guia-para-publicar/)**{:target=”_blank”} —compartidos voluntariamente por los socios publicadores que hacen parte de la red del SiB Colombia. De la totalidad de publicaciones mensuales, hacemos una selección para destacar su aporte al conocimiento de la biodiversidad del país y su participación en la red. A continuación compartimos las correspondientes al reporte de septiembre  de 2024{:target=”_blank”}.
 
