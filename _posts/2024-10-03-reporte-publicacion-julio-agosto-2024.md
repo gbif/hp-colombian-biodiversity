@@ -3,7 +3,7 @@ preTitle: 3 de octubre, 2024
 title: "Nuevos publicadores, escarabajos, corales, aves y otros registros destacados de julio y agosto"
 description: "_Fundaciones, empresas, academia y otros proyectos sobresalen en estos dos meses, con datos sobre diversas especies de animales y microorganismos de nuestra biodiversidad._"
 date: 2024-10-03
-categories: ["Publicación", "Datos abiertos", "2024"]
+categories: ["Publicación", "Datos abiertos", “Destacados SiB”, "2024"]
 background: /assets/images/noticias_eventos/2024/2024-10-03-destacados-julio-agosto2024.png
 
 
