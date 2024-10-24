@@ -14,8 +14,6 @@ Desde el SiB Colombia recogemos la actividad de los socios publicadores en un re
 
 Mes a mes, desde el Equipo Coordinador **[acompañamos la publicación de conjuntos de datos, listas de especies o eventos de muestreo](https://biodiversidad.co/compartir/guia-para-publicar/)**{:target=”_blank”} —compartidos voluntariamente por los socios publicadores que hacen parte de la red del SiB Colombia. De la totalidad de publicaciones mensuales, hacemos una selección para destacar su aporte al conocimiento de la biodiversidad del país y su participación en la red. A continuación compartimos las correspondientes al reporte de septiembre  de 2024{:target=”_blank”}.
 
-
-
 * El jugo de corozo, refrescante y muy apreciado bajo el sol abrasador, tiene su origen en una palma especialmente popular en la región del Caribe colombiano. Entre sus diversos usos, además de la agridulce bebida cocinada con sus frutos maduros, está la construcción de viviendas e instrumentos a partir de su tronco. Dado su valor cultural y económico, para conocer mejor el estado de las poblaciones de la palma de corozo (*Bactris guineensis*), el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt ha liderado un estudio en el departamento del Cesar. Con 63 eventos de muestreo, se han recopilado 888 registros que arrojan datos clave sobre su abundancia, estructura poblacional y producción de frutos, con mediciones como el peso y la cantidad de frutos por racimo. 
 
 Accede y explora el conjunto de datos  [Abundancia, estructura poblacional y producción de frutos de la palma de corozo (Bactris guineensis) en el departamento del Cesar](https://biodiversidad.co/data/?datasetKey=7a76ea65-3abb-4c6e-9ee6-1d5abb2c6d2f){:target=”_blank”}.
