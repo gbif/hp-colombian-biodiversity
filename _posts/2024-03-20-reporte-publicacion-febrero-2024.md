@@ -3,7 +3,7 @@ preTitle: 20 de marzo, 2024
 title: "'El señor de las moscas' y otros destacados del mes en nuestro portal de datos"
 description: "_Destacamos mes a mes las últimas publicaciones de conjuntos de datos, listas de especies o eventos de muestreo de la biodiversidad de Colombia._"
 date: 2024-03-20
-categories: ["Publicación", "Datos abiertos", "2024"]
+categories: ["Publicación", "Datos abiertos", “Destacados SiB”, "2024"]
 background: /assets/images/noticias_eventos/2024/2024-03-20-reporte-publicacion-febrero-2024.jpg
 
 ---
