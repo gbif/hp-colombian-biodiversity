@@ -3,7 +3,7 @@ preTitle: 24 de octubre, 2024
 title: Lanzamiento de Datos vivos y agenda del SiB Colombia en la COP16
 description: "_Instituciones del Sistema Nacional Ambiental y académicas se destacan este mes con la publicación de nuevos conjuntos de datos, listas de especies o eventos de muestreo de nuestra biodiversidad._"
 date: 2024-10-24
-categories: ["Publicación", "Datos abiertos", “Destacados SiB”, "2024"]
+categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2024"]
 background: /assets/images/noticias_eventos/2024/2024-10-24-destacados-septiembre-2024.png
 
 
