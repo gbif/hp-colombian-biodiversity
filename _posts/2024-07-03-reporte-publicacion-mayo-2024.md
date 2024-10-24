@@ -3,7 +3,7 @@ preTitle: 03 de julio, 2024
 title: "Felinos silvestres a la vista y otros destacados del mes"
 description: "_Destacamos mes a mes las últimas publicaciones de conjuntos de datos, listas de especies o eventos de muestreo de la biodiversidad de Colombia._"
 date: 2024-07-03
-categories: ["Publicación", "Datos abiertos", “Destacados SiB”, "2024"]
+categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2024"]
 background: assets/images/noticias_eventos/2024/2024-07-03-reporte-publicacion-MAYO-2024.png
 
 ---
