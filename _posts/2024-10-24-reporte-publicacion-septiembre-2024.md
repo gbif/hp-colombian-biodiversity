@@ -1,6 +1,6 @@
 ---
 preTitle: 24 de octubre, 2024
-title: Lanzamiento de Datos vivos y agenda del SiB Colombia en la COP16
+title: Palma de corozo, frailejones y gorgojos entre los destacados del mes de septiembre
 description: "_Instituciones del Sistema Nacional Ambiental y académicas se destacan este mes con la publicación de nuevos conjuntos de datos, listas de especies o eventos de muestreo de nuestra biodiversidad._"
 date: 2024-10-24
 categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2024"]
