@@ -50,7 +50,3 @@ videosib:
   markdownContent: |
     <iframe seamless frameborder="150" src="https://www.youtube.com/watch?v=M8U6BbgDOUg" height = '790' width="1370" scrolling='yes' ></iframe> 
   
-videocop:
-  klass: iframe-box
-  markdownContent: |
-    <blockquote class="twitter-tweet" data-media-max-width="560">&mdash; SiB Colombia en la COP16 (@sibcolombia) <a href="https://twitter.com/sibcolombia/status/1848821955543068776?ref_src=twsrc%5Etfw">October 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
