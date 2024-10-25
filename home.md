@@ -3,9 +3,9 @@ lang-ref: home
 layout: home
 title: "<em>Biodiversidad</em><br><strong>para todos</strong>"
 description: crear · compartir · transformar
-background: assets/images/landing_page/SiB_bannerhome_20220517-Tangara-xanthocephala-desertnaturalist-iNaturalist.jpg
+background: assets/images/landing_page/SiB-bannerhome-guacamaya_superba-mateo-hernandez.jpg
 imageLicense: |
-  Foto: desertnaturalist, [iNaturalist](https://colombia.inaturalist.org/observations/104947761){:target="_blank"}.
+  Foto: Mateo Fernández Lucero, Dep Ciencias Biológicas - Universidad de los Andes, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guacamaya_superba_2.jpg){:target="_blank"}.
 height: 50vh
 # Barra de navegación blanca
 navbar:
