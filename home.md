@@ -5,7 +5,7 @@ title: "<em>Biodiversidad</em><br><strong>para todos</strong>"
 description: crear · compartir · transformar
 background: assets/images/landing_page/SiB-bannerhome-guacamaya_superba-mateo-hernandez.jpg
 imageLicense: |
-  Foto: Mateo Fernández Lucero, Dep Ciencias Biológicas - Universidad de los Andes, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guacamaya_superba_2.jpg){:target="_blank"}.
+  Foto: Mateo Fernández Lucero - Universidad de los Andes, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guacamaya_superba_2.jpg){:target="_blank"}.
 height: 50vh
 # Barra de navegación blanca
 navbar:
