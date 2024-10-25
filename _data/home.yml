@@ -51,10 +51,10 @@ estadisticas:
 #      [![La plataforma del CR-SiB estará en mantenimiento](/assets/images/landing_page/mantenimiento_cr_sib.png)]()
 
 
-# Banner mantenimiento CR-SiB
+# Banner COP
 VideoCOP:
-markdownContent: | 
-     <p align="center"><iframe width="100%" height="400" src="https://www.youtube.com/embed/tGzANPQWi7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+  markdownContent: |
+      <p align="center"><iframe width="100%" height="400" src="https://www.youtube.com/embed/tGzANPQWi7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
      
 
 # Noticias
