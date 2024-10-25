@@ -46,8 +46,10 @@ estadisticas:
 #      [![Red Biodiversidad y Colombia en GBIF](/assets/images/landing_page/banner_red_biodiversidad_desarrollo_colombia_gbif.png)](https://www.gbif.org/es/network/2ee1bff7-0b34-4fa3-9433-feaa7c6ee08b){:target="_blank"}
 
 #Video SiB COP16 Salsa libre
+```html-nolint
 <blockquote class="twitter-tweet" data-media-max-width="560">&mdash; SiB Colombia en la COP16 (@sibcolombia) <a href="https://twitter.com/sibcolombia/status/1848821955543068776?ref_src=twsrc%5Etfw">October 22, 2024</a></blockquote> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
 
 # Banner mantenimiento CR-SiB
 # bannerMentenimientoCRSIB:
