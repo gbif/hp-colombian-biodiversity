@@ -1,7 +1,7 @@
 ---
 preTitle: 25 de noviembre, 2024
-title: La Serranía de los Yariguíes, osos andinos y especies arbóreas se destacan en el mes de octubre
-description: _Una universidad, una alianza público-privada y un jardín botánico se destacan este mes a partir de eventos de muestreo, registros biológicos y listas de chequeo de nuestra biodiversidad._
+title: "La Serranía de los Yariguíes, osos andinos y especies arbóreas se destacan en el mes de octubre"
+description: "_Una universidad, una alianza público-privada y un jardín botánico se destacan este mes a partir de eventos de muestreo, registros biológicos y listas de chequeo de nuestra biodiversidad._"
 date: 2024-11-25
 categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2024"]
 background: /assets/images/noticias_eventos/2024/2024-11-25-destacados-octubre-2024.png
