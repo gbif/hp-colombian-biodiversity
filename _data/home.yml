@@ -45,16 +45,21 @@ estadisticas:
 #  markdownContent: | 
 #      [![Red Biodiversidad y Colombia en GBIF](/assets/images/landing_page/banner_red_biodiversidad_desarrollo_colombia_gbif.png)](https://www.gbif.org/es/network/2ee1bff7-0b34-4fa3-9433-feaa7c6ee08b){:target="_blank"}
 
-# Banner mantenimiento CR-SiB
+# Banner mantenimiento 
 # bannerMentenimientoCRSIB:
 #  markdownContent: | 
 #      [![La plataforma del CR-SiB estará en mantenimiento](/assets/images/landing_page/mantenimiento_cr_sib.png)]()
 
+# Banner problemas técnicos 
+bannerProblemasTecnicos:
+  markdownContent: | 
+     [![El servicio de las herramientas de publicación IPT está temporalmente interrumpido](/assets/images/landing_page/falloIPT_banner.png)]()
+
 
 # Banner COP
-VideoCOP:
-  markdownContent: |
-      <p align="center"><iframe width="100%" height="400" src="https://www.youtube.com/embed/l9S3xwMXPfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+#VideoCOP:
+#  markdownContent: |
+#      <p align="center"><iframe width="100%" height="400" src="https://www.youtube.com/embed/l9S3xwMXPfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
      
 # Noticias
 noticias:
