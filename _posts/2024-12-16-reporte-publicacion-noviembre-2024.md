@@ -1,7 +1,7 @@
 ---
 preTitle: 16 de diciembre, 2024
-title: título
-description: _ subtpitulo._
+title: Hongos caribeños, palmas casanareñas y biodiversidad capitalina llegan con los destacados de noviembre
+description: _Descubre los nuevos conjuntos de datos, listas y eventos de muestreo, con los que el Invemar, un nuevo publicador y el Jardín Botánico de Bogotá se destacaron en el penúltimo mes del año._
 date: 2024-12-16
 categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2024"]
 background: /assets/images/noticias_eventos/2024/2024-12-16-destacados-noviembre-2024.png
