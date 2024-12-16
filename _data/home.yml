@@ -66,6 +66,17 @@ noticias:
   features:
 
     - preTitle: Datos abiertos
+      title: "Hongos caribeños, palmas casanareñas y biodiversidad capitalina llegan con los destacados de noviembre" 
+      description: |      # required
+       Descubre los nuevos conjuntos de datos, listas y eventos de muestreo, con los que el Invemar, un nuevo publicador y el Jardín Botánico de Bogotá se destacaron en el penúltimo mes del año.
+      # img required
+      background: assets/images/noticias_eventos/2024/2024-12-16-destacados-noviembre-2024.png
+      cta:
+      - text: Ver más
+        href: /post/2024/reporte-publicacion-noviembre-2024/
+        isPrimary: false
+
+    - preTitle: Datos abiertos
       title: "La Serranía de los Yariguíes, osos andinos y especies arbóreas se destacan en el mes de octubre" 
       description: |      # required
        Una universidad, una alianza público-privada y un jardín botánico se destacan este mes a partir de eventos de muestreo, registros biológicos y listas de chequeo de nuestra biodiversidad.
@@ -118,17 +129,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2024/actualizacion-biodiversidad-en-cifras/
-        isPrimary: false
-        
-    - preTitle: Datos abiertos
-      title: "Actualización de las plantillas del estándar Darwin Core" 
-      description: |      # required
-       Nueva versión de las plantillas Darwin Core traducidas al español para apoyar el uso e implementación del estándar para la publicación de datos sobre biodiversidad en la comunidad hispanohablante
-      # img required
-      background: /assets/images/noticias_eventos/2024/2024-05-29-actualizacion-plantillas-dwc.jpg
-      cta:
-      - text: Ver más
-        href: /post/2024/actualizacion-plantillas-dwc/
         isPrimary: false
         
 # Splits
