@@ -6,7 +6,7 @@ gacetero:
 reporte_actual:
   klass: iframe-box
   markdownContent: |
-   <iframe width="600" height="5520" src="https://lookerstudio.google.com/embed/reporting/aec48977-94d0-4f8f-8690-b3e3ac098495/page/Ge2V" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+   <iframe width="600" height="5310" src="https://lookerstudio.google.com/embed/reporting/fee022a4-02a1-4f90-91cf-2e6f3d35a42a/page/Ge2V" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
    
 markdown_reporte:
   markdownContent: |
