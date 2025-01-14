@@ -8,11 +8,11 @@ background: /assets/images/noticias_eventos/2024/2024-04-22-CESP-National-Portal
  
 ---
 
-**El Proyecto CESP: Portales nacionales abordando desafíos nacionales**, que ha sido seleccionado dentro de la convocatoria 2023 del [Capacity Enhancement Support Programme](https://www.gbif.org/programme/82219/capacity-enhancement-support-programme){:target="_blank"} (CESP) de GBIF, reúne los conocimientos y las experiencias de cuatro nodos socios de GBIF en torno a los dos tipos de portales de datos sobre biodiversidad más utilizados —Living Atlases y Hosted Portals— y a cómo se pueden emplear para abordar desafíos nacionales.
+**El Proyecto CESP: Portales nacionales abordando desafíos nacionales**, que fué seleccionado dentro de la convocatoria 2023 del [Capacity Enhancement Support Programme](https://www.gbif.org/programme/82219/capacity-enhancement-support-programme){:target="_blank"} (CESP) de GBIF, reúne los conocimientos y las experiencias de cuatro nodos socios de GBIF en torno a los dos tipos de portales de datos sobre biodiversidad más utilizados —Living Atlases y Hosted Portals— y a cómo se pueden emplear para abordar desafíos nacionales.
 
-El objetivo del proyecto es aprovechar esta experiencia, diversa y complementaria, para fortalecer la capacidad de los nodos nacionales de GBIF, con el propósito de responder a los desafíos nacionales en diferentes áreas (ciencia, gestión, conservación, política, etc.) mediante el uso de portales nacionales de datos de biodiversidad. Esto implica: 1) recopilar, estructurar y documentar los casos de uso y experiencias; y 2) desarrollar materiales de capacitación diseñados para fortalecer las capacidades de la comunidad global de nodos de GBIF. 
+El objetivo del proyecto consistió en aprovechar esta experiencia, diversa y complementaria, para fortalecer la capacidad de los nodos nacionales de GBIF, con el propósito de responder a los desafíos nacionales en diferentes áreas (ciencia, gestión, conservación, política, etc.) mediante el uso de portales nacionales de datos de biodiversidad. Esto implica: 1) recopilar, estructurar y documentar los casos de uso y experiencias; y 2) desarrollar materiales de capacitación diseñados para fortalecer las capacidades de la comunidad global de nodos de GBIF. 
 
-Las principales acciones del Proyecto CESP: Portales nacionales abordando desafíos nacionales son:
+Las principales acciones del Proyecto CESP: Portales nacionales abordando desafíos nacionales fueron:
 
 * Comparación de las características y funcionalidades de los dos tipos de portales de datos.
 * Diseño de un formulario para recopilar y describir los casos de uso ([Designing the Biodiversity Data Use Case Description Form](https://forms.gle/4gtCKCfQumz83wR3A))
@@ -39,3 +39,12 @@ Foto: delegados de los equipos nacionales de España, Ecuador, Guatemala y Colom
 🔗[Formulario de descripción de casos de uso de datos de biodiversidad](https://forms.gle/4gtCKCfQumz83wR3A)
 
 🔗[Catálogo de casos de uso de portales nacionales para enfrentar desafíos nacionales](https://www.gbif.es/wp-content/uploads/2024/04/CATALOGO-DE-CASOS-DE-uso-de-portales-nacionales-para-enfrentar-desafios-nacionales.pdf)
+
+🔗[Guía de buenas prácticas. Cómo hacer que los portales nacionales respondan a retos nacionales](https://gbif.es/wp-content/uploads/2025/01/3.-Guia-de-buenas-practicas.-Como-hacer-que-los-portales-nacionales-respondan-a-retos-nacionales.pdf)
+
+
+Como resultado de este proyecto CESP se realizó el lanzamiento del curso **Portales nacionales para responder a retos nacionales**. A continuación los enlaces de interés para acceder a este contenido:
+
+🔗[Enlace al curso: Portales nacionales para responder a retos nacionales](https://elearning.gbif.es/course/150/about)
+
+🔗[Syllabus del curso: Portales nacionales para responder a retos nacionales](https://gbif.es/wp-content/uploads/2024/12/5.-Syllabus-how-to-use-a-national-portal-for-national-challenges.pdf)
