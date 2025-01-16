@@ -65,6 +65,17 @@ bannerProblemasTecnicos:
 noticias:
   features:
 
+    - preTitle: Datos abiertos
+      title: "Fauna y flora del  Casanare, Cundinamarca, Huila, Santander, Nariño y Tolima se destacaron en diciembre"
+      description: |      # required
+       Siete nuevos socios publicadores de alcaldías, empresas, fundaciones e institutos departamentales sobresalieron en el último mes del 2024 con conjuntos de datos y listas de chequeo de nuestra biodiversidad.
+      # img required
+      background: assets/images/noticias_eventos/2025/2025-01-16-reporte-publicacion-diciembre-2024.png
+      cta:
+      - text: Ver más
+        href: /post/2025/reporte-publicacion-diciembre-2024/
+        isPrimary: false
+
     - preTitle: Comité técnico
       title: "Principales acuerdos y avances del XXXI Comité Técnico del SiB Colombia" 
       description: |      # required
@@ -96,17 +107,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2024/reporte-publicacion-octubre-2024/
-        isPrimary: false
-
-    - preTitle: Datos abiertos
-      title: "Palma de corozo, frailejones y gorgojos entre los destacados del mes de septiembre" 
-      description: |      # required
-       Instituciones del Sistema Nacional Ambiental y académicas se destacan este mes con la publicación de nuevos conjuntos de datos, listas de especies o eventos de muestreo de nuestra biodiversidad.
-      # img required
-      background: assets/images/noticias_eventos/2024/2024-10-24-destacados-septiembre-2024.png
-      cta:
-      - text: Ver más
-        href: /post/2024/reporte-publicacion-septiembre-2024/
         isPrimary: false
 
     - preTitle: Datos abiertos
