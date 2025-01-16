@@ -73,7 +73,7 @@ noticias:
       background: assets/images/noticias_eventos/2025/2025-01-16-reporte-publicacion-diciembre-2024.png
       cta:
       - text: Ver más
-        href: /post/2025/reporte-publicacion-diciembre-2024/
+        href: /post/2024/reporte-publicacion-diciembre-2024/
         isPrimary: false
 
     - preTitle: Comité técnico
