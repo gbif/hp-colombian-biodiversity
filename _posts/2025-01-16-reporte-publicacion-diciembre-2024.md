@@ -7,6 +7,7 @@ categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
 background: /assets/images/noticias_eventos/2025/2025-01-16-reporte-publicacion-diciembre-2024.png
 
 ---
+
 La publicación de datos sobre biodiversidad ayuda a llenar vacíos sobre el conocimiento de la riqueza biológica de Colombia. Para que esto suceda, es necesario sincronizar las voluntades de las organizaciones titulares de los datos y de los profesionales que los colectan.
 
 Desde el SiB Colombia recogemos la actividad de los socios publicadores en un reporte mensual que llamamos [Actividad de publicación](https://biodiversidad.co/comunidad/actividad-de-publicacion/){:target="_blank"}, disponible permanentemente en nuestro sitio web, en la sección del mismo nombre.
