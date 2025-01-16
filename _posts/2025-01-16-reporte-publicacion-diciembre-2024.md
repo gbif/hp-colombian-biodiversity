@@ -3,7 +3,7 @@ preTitle: 16 de enero, 2025
 title: Fauna y flora del  Casanare, Cundinamarca, Huila, Santander, Nariño y Tolima se destacaron en diciembre
 description: _Siete nuevos socios publicadores de alcaldías, empresas, fundaciones e institutos departamentales sobresalieron en el último mes del 2024 con conjuntos de datos y listas de chequeo de nuestra biodiversidad._
 date: 2025-01-16
-categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2024"]
+categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
 background: /assets/images/noticias_eventos/2025/2025-01-16-reporte-publicacion-diciembre-2024.png
 
 
