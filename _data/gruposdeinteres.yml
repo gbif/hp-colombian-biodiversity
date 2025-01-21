@@ -21,20 +21,35 @@ tarjetasGrupos:
   # description: Ejes de formación:
     
   features:
-      #preTitle:  Formación # optional
-    - title: Atribución y reconocimiento
+             
+      #preTitle: Formación # optional
+    - title: Datos de monitoreo
       description: |      # required
        Grupo de interés
-      # img required
-      background: /comunidad/gruposdeinteres/images/AtribucionReconocimiento.jpg
-      href: /comunidad/grupos/participar-grupos-de-interes
+      background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
+      href: /comunidad/grupo_monitoreo
       
+      #preTitle: "Histórico"  # optional
+    - title: Datos moleculares  # required
+      description: |      # required
+       Grupo de interés
+      background: /comunidad/gruposdeinteres/images/DatosMoleculares.jpg
+      href: /comunidad/grupos/participar-grupos-de-interes       
       
      #preTitle: Formación # optional
     - title: Calidad de datos
       description: |      # required
        Grupo de interés
       background: /comunidad/gruposdeinteres/images/CalidadDatos.jpg
+      href: /comunidad/grupos/participar-grupos-de-interes
+
+      
+      #preTitle:  Formación # optional
+    - title: Atribución y reconocimiento
+      description: |      # required
+       Grupo de interés
+      # img required
+      background: /comunidad/gruposdeinteres/images/AtribucionReconocimiento.jpg
       href: /comunidad/grupos/participar-grupos-de-interes
       
       
@@ -54,13 +69,6 @@ tarjetasGrupos:
       background: /comunidad/gruposdeinteres/images/ColeccionesBiologicas.jpg
       href: /comunidad/grupos/participar-grupos-de-interes
 
-      
-      #preTitle: Formación # optional
-    - title: Datos de monitoreo
-      description: |      # required
-       Grupo de interés
-      background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
-      href: /comunidad/grupos/participar-grupos-de-interes
      
       #preTitle: "Histórico"  # optional
     - title: Datos moleculares  # required
