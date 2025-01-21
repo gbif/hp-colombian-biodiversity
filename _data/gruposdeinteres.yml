@@ -27,7 +27,7 @@ tarjetasGrupos:
       description: |      # required
        Grupo de interés
       background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
-      href: /comunidad/grupo_monitoreo
+      href: /comunidad/grupos/grupo_monitoreo
       
       #preTitle: "Histórico"  # optional
     - title: Datos moleculares  # required
