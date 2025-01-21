@@ -8,6 +8,11 @@ imageLicense: |
 permalink: comunidad/grupos/participar-grupos-de-interes
 height: 41vh
 toc: true
+composition:
+  - type: heroImage # the block type
+  - type: pageMarkdown
+  - data: gruposdeinteres.tarjetasGrupos
+    type: features # the block type
 ---
 
 
