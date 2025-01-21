@@ -5,7 +5,7 @@ description:
 background: https://live.staticflickr.com/3936/14976714334_b147ccefd0_h.jpg
 imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/14976714334/) 
-permalink: comunidad/grupos/grupo-monitoreo
+permalink: comunidad/grupos/grupo_monitoreo
 height: 41vh
 toc: true
 ---
