@@ -3,6 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+_config_local.yml
 
 # Mac OS X
 .DS_Store
