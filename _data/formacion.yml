@@ -7,9 +7,9 @@ cfv2021:
   description: |      # required
      Los laboratorios de datos te ayudarán a afianzar tus habilidades en el manejo y publicación de datos a través de SiB Colombia.
   # img required
-  background: /comunidad/formacion/images/cover-formacion-empresas.png
+  background: /comunidad/formacion/images/working_nounproject.jpg
   overlayColor: "#000033"
-  href: /comunidad/formacion/images/working_nounproject.jpg
+  href: /formacion/laboratorios
   cta:
   - text: Aprender
     href: /formacion/laboratorios
@@ -27,10 +27,10 @@ tarjetasFormacion:
       description: |      # required
        Una ruta que fortalece las capacidades del sector empresarial para contribuir al conocimiento de la biodiversidad.
       # img required
-      background: /comunidad/formacion/ruta-formacion-empresas/
+      background: /comunidad/formacion/images/cover-formacion-empresas.png
       cta:
       - text: Más información
-        href: /formacion/laboratorios
+        href: /comunidad/formacion/ruta-formacion-empresas/
         isPrimary: true
 
       
