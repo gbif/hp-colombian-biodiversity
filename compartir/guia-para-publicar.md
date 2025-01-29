@@ -35,7 +35,7 @@ Una parte importante de la misión del SiB Colombia es promover una cultura en e
 * Facilita **rastrear el uso y las citas de los conjuntos de datos publicados** y a los que se accede a través del SiB Colombia e infraestructuras similares (GBIF, OBIS).
 * Algunas agencias financiadoras ahora exigen que los investigadores y organizaciones que reciben sus fondos, cuenten con un plan de gestión de datos que incluya **su publicación abierta al final de un proyecto**, a través de plataformas como el SiB Colombia.
 * Contribuye a las [Metas Aichi 2010-2020](https://www.cbd.int/doc/strategic-plan/2011-2020/Aichi-Targets-ES.pdf){:target="_blank"} del CDB, en especial las metas 9 (especies invasoras), 11 (áreas protegidas), 12 (especies amenazadas) y 19 (gestión del conocimiento).
-* Aporta a la evaluación del [ODS 14 (Vida submarina)](https://www.ods.gov.co/es/objetivos/vida-submarina){:target="_blank"} y el [ODS 15 (Vida de ecosistemas terrestres)](https://www.ods.gov.co/es/objetivos/vida-de-ecosistemas-terrestres){:target="_blank"}.
+* Aporta a la evaluación del [ODS 14 (Vida submarina)](https://ods.dnp.gov.co/es/objetivos/vida-submarina){:target="_blank"} y el [ODS 15 (Vida de ecosistemas terrestres)](https://ods.dnp.gov.co/es/objetivos/vida-de-ecosistemas-terrestres){:target="_blank"}.
 * Permite que instancias intergubernamentales como [GEO-BON](https://geobon.org/){:target="_blank"} e [IPBES](https://ipbes.net/){:target="_blank"} puedan construir modelos y evaluaciones de la biodiversidad respectivamente, a diferentes escalas.
 
 
@@ -109,7 +109,7 @@ Además de realizar los ajustes solicitados en el conjunto de datos, ten en cuen
 
 El profesional del Equipo Coordinador revisa la documentación de metadatos y te informa si debes realizar ajustes.
 
-Consulta el [vídeo sobre cómo documentar metadatos en el IPT](https://www.youtube.com/watch?v=9WkH9hoHc8w&feature=youtu.be){:target="_blank"}.
+Consulta el [vídeo sobre cómo documentar metadatos en el IPT](https://www.youtube.com/watch?v=he-PVecR-Xs){:target="_blank"}.
 
 El proceso de acompañamiento es iterativo, es decir que el conjunto de datos y metadatos puede contar con varias revisiones antes de ser publicado, hasta que se cuenten con todos los mínimos de calidad.
 
