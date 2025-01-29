@@ -23,7 +23,7 @@ tarjetasFormacion:
     
   features:
       #preTitle:  Formación # optional
-    - title: Gestión corporativa para la naturaleza: ruta de formación hacia la movilización de datos sobre biodiversidad
+    - title: "Gestión corporativa para la naturaleza: ruta de formación hacia la movilización de datos sobre biodiversidad"
       description: |      # required
        Una ruta que fortalece las capacidades del sector empresarial para contribuir al conocimiento de la biodiversidad.
       # img required
@@ -37,7 +37,7 @@ tarjetasFormacion:
      #preTitle: Formación # optional
     - title: "Programa de pasantías"
       description: |      # required
-        Busca formar a futuros profesionales en informática de la biodiversidad, visualización y divulgación científica. Convocatorias cerradas temporalmente.
+        Busca formar a futuros profesionales en informática de la biodiversidad, visualización y divulgación científica. 🔒Convocatorias cerradas temporalmente.
       background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
       cta:
       - text: Ver más sobre el programa
@@ -57,5 +57,7 @@ tarjetasFormacion:
       - text: Ver el pasado
         href:  /comunidad/formacion/historico
         isPrimary: true
+
+
 
 
