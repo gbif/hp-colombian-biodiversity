@@ -37,7 +37,7 @@ tarjetasFormacion:
      #preTitle: Formación # optional
     - title: "Programa de pasantías"
       description: |      # required
-        Busca formar a futuros profesionales en informática de la biodiversidad, visualización y divulgación científica. 🔒Convocatorias cerradas temporalmente.
+        Busca formar a futuros profesionales en informática de la biodiversidad, visualización y divulgación científica.🔒Convocatorias cerradas temporalmente.
       background: https://live.staticflickr.com/65535/50849640831_182d5e31a1_c.jpg
       cta:
       - text: Ver más sobre el programa
