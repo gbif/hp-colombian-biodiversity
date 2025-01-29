@@ -18,12 +18,12 @@ cfv2021:
     
 #cards
 tarjetasFormacion:
-  # title: Gestión corporativa para la naturaleza: ruta de formación hacia la movilización de datos sobre biodiversidad
+  # title: Ejes de formación
   # description: Ejes de formación:
     
   features:
       #preTitle:  Formación # optional
-    - title: Laboratorios
+    - title: Gestión corporativa para la naturaleza: ruta de formación hacia la movilización de datos sobre biodiversidad
       description: |      # required
        Una ruta que fortalece las capacidades del sector empresarial para contribuir al conocimiento de la biodiversidad.
       # img required
