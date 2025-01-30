@@ -57,7 +57,7 @@ Para llegar a ser un publicador de datos a través del SiB Colombia, tu organiza
 De ser positiva la decisión, debes [solicitar el registro de la organización](/compartir/registro) en el SiB Colombia como publicador de datos e información. La solicitud de registro y aprobación se realiza en línea.
 
 
-El registro de una organización se realiza por una sola vez. Verifica si tu organización ya se encuentra registrada como publicador [aquí](https://drive.google.com/file/d/1xaoIuBBtQioqxtxHqk1AOUDyLlnPNB0S/view){:target="_blank"} . Si tu organización ya está registrada, debes acercarte a uno de los contactos allí registrados para obtener información sobre la publicación de tus datos.
+El registro de una organización se realiza por una sola vez. Verifica si tu organización ya se encuentra registrada como publicador [aquí](https://biodiversidad.co/comunidad/socios-publicadores/){:target="_blank"} . Si tu organización ya está registrada, debes acercarte a uno de los contactos allí registrados para obtener información sobre la publicación de tus datos.
 
 ### 2. Prepara los datos para la publicación
 
