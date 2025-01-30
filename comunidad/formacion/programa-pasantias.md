@@ -9,6 +9,8 @@ height: 41vh
 toc: true
 ---
 
+| Por ahora, no hay convocatorias abiertas, ya que estamos evaluando nuestro programa de pasantías. Cuando abramos una nueva convocatoria, la anunciaremos en nuestras redes sociales. ¡Síguenos y mantente atento! |
+
 Colombia es uno de los pocos países megadiversos en el mundo. Ocupa el primer lugar en diversidad de aves, orquídeas y mariposas; el segundo en plantas, anfibios y peces dulceacuícolas; el tercer en palmas y reptiles y el sexto en mamíferos. Esto significa que **manejar la información sobre la biodiversidad del país es un esfuerzo permanente de magnitud mayúscula**.
 
 El SiB Colombia aporta a esta labor al **facilitar la publicación, el acceso y el uso de datos e información sobre biodiversidad**; estos son entendidos como la base para cuantificar, entender y proteger la riqueza biológica del país. Para lograrlo, cuenta con un equipo interdisciplinario de profesionales, que se ha encargado de acompañar el registro de más de [63.000 especies](https://cifras.biodiversidad.co/){:target="_blank"}.
