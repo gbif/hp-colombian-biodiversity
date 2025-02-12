@@ -23,11 +23,3 @@ En los Llanos Orientales, el armadillo es un símbolo de la riqueza natural y un
 | Consulta el conjunto de datos [“Lista de armadillos presentes en los Llanos Orientales”](https://biodiversidad.co/dataset/search?publishingOrg=66739018-f8c3-4902-96d5-82c0aec31d6a&type=){:target="_blank"} |
 
 En Puerto Asís, Putumayo, la riqueza de sus ecosistemas acuáticos guarda historias de biodiversidad que ahora también podrían contarse a partir de la exploración de 596 registros biológicos realizados en febrero de 2024. Como parte del Plan de Manejo Ambiental para la Plataforma Multipozo Bienparado J, [GeoPark Colombia S.A.S](https://www.geo-park.com/es/){:target="_blank"} documentó la diversidad de comunidades hidrobiológicas, abarcando plancton, perifiton, bentos, macrófitas e ictiofauna. Estos registros, distribuidos en 9 eventos de muestreo, reflejan la presencia de organismos de los reinos Animalia, Bacteria, Chromista, Plantae y Protozoa, aportando datos clave para la gestión ambiental y la conservación del entorno durante las actividades de construcción y operación.
-
-| Consulta el evento de muestreo [“Recurso Hidrobiológico del proyecto: Plan de Manejo Ambiental para la construcción y operación de la Plataforma Multipozo Bienparado J y su vía de acceso”](https://biodiversidad.co/data/?datasetKey=26c70b69-5d5f-4ab7-920f-1088fbe316c5.){:target="_blank"} aquí.[ ](https://biodiversidad.co/data/?datasetKey=26c70b69-5d5f-4ab7-920f-1088fbe316c5)|
-
-Además, se destaca que el SiB Colombia cuenta a la fecha con 241 publicadores, 19 de ellos activos en enero; 3162 conjuntos de datos, 39 nuevos en este mes; y 87 616 nuevos registros biológicos. 
-
-| Conoce las cifras totales y de este mes en [la actividad de publicación](https://biodiversidad.co/comunidad/actividad-de-publicacion/){:target="_blank"} |
-
-Esta nota hace parte de una serie de noticias que cubren el reporte mensual de la actividad de publicación para visibilizar las acciones de los [socios publicadores](https://biodiversidad.co/comunidad/socios-publicadores/){:target="_blank"} y sus esfuerzos por aportar al conocimiento de la biodiversidad del país. Para conocer los destacados en meses anteriores, te invitamos a acceder a la categoría de búsqueda, [Destacados SiB](https://biodiversidad.co/news/?category=Destacados+SiB){:target="_blank"}  en nuestras noticias.
