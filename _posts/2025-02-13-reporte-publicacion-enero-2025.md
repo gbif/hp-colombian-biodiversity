@@ -4,7 +4,7 @@ title: Aves en ventanas indiscretas,  armadillos llaneros  y especies acuáticas
 description: _Una red bogotana con nombre “Hitchconiano” especializada en la colisión de aves, dos corporaciones autónomas y una empresa sobresalieron en el primer mes del año._
 date: 2025-02-13
 categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
-background: /assets/images/noticias_eventos/2025/2025-02-13-destacados-enero-2025.png
+background: assets/images/noticias_eventos/2025/2025-02-13-destacados-enero-2025.png
 
 ---
 
