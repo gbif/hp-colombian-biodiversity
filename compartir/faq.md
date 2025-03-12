@@ -348,7 +348,6 @@ Sin embargo, en la publicación desde el IPT la citación corresponderá a la qu
 Para más información sobre esta duda diríjase a la sección de preguntas frecuentes de GBIF  <a href="https://www.gbif.org/faq?q=citation" target="_blank">aquí</a>.
 
 La recomendación es utilizar la citación automática del IPT siempre, para evitar problemas y hacer más fácil el seguimiento de un recurso.
-
     </details>
 
 ## Licencia y atribución
