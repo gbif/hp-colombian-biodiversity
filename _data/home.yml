@@ -66,6 +66,17 @@ noticias:
   features:
 
     - preTitle: Datos abiertos
+      title: "Microorganismos costeros, hongos amazónicos y especímenes recolectados entre los destacados de febrero" 
+      description: |      # required
+       Una autoridad marítima, institutos de investigación y universidades sobresalieron en febrero con la actualización de conjuntos de datos y colecciones biológicas.
+      # img required
+      background: assets/images/noticias_eventos/2025/2025-03-13-destacados-febrero-2025.png
+      cta:
+      - text: Ver más
+        href: /post/2025/reporte-publicacion-febrero-2025/
+        isPrimary: false
+
+    - preTitle: Datos abiertos
       title: "Aves en ventanas indiscretas, armadillos llaneros y especies acuáticas entre los destacados de enero del 2025" 
       description: |      # required
        Una red bogotana con nombre “Hitchconiano” especializada en la colisión de aves, dos corporaciones autónomas y una empresa sobresalieron en el primer mes del año.
@@ -118,17 +129,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2024/reporte-publicacion-octubre-2024/
-        isPrimary: false
-
-    - preTitle: Datos abiertos
-      title: "Lanzamiento de Datos vivos y agenda del SiB Colombia en la COP16" 
-      description: |      # required
-       Conoce los detalles del lanzamiento de la conferencia “Datos vivos 2025” y la agenda de eventos relacionados con el Sistema de Información sobre Biodiversidad de Colombia en la COP16.
-      # img required
-      background: assets/images/noticias_eventos/2024/2024-10-10-cop16-sib-datos-vivos.png
-      cta:
-      - text: Ver más
-        href: /post/2024/cop16-sib-datos-vivos/
         isPrimary: false
         
 # Splits
