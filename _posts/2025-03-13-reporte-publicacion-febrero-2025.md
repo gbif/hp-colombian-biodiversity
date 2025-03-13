@@ -75,6 +75,7 @@ Por su parte, la Colección Biológica de la [Universidad EAFIT](https://www.eaf
 Finalmente, este mes también se destaca que el SiB Colombia cuenta a la fecha con 241 publicadores, 18 de ellos activos en febrero; 3183 conjuntos de datos, 19 nuevos en este mes; y 73299 nuevos registros biológicos. 
 
 | Conoce las cifras de este mes y totales en [la actividad de publicación](https://biodiversidad.co/comunidad/actividad-de-publicacion/){:target="_blank"} |
+
 ![Actividad de publicación](/assets/images/noticias_eventos/2025/banner-actividad-de-publicacion.png)
 
 Esta nota hace parte de una serie de noticias que cubren el reporte mensual de la actividad de publicación para visibilizar las acciones de los [socios publicadores](https://biodiversidad.co/comunidad/socios-publicadores/){:target="_blank"} y sus esfuerzos por aportar al conocimiento de la biodiversidad del país. Para conocer los destacados en meses anteriores, te invitamos a acceder a la categoría de búsqueda, [Destacados SiB](https://biodiversidad.co/news/?category=Destacados+SiB){:target="_blank"}  en nuestras noticias.
