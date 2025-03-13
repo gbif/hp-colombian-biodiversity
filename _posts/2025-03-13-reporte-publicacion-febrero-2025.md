@@ -42,7 +42,7 @@ Este estudio, realizado en fincas de Santa Marta y el centro poblado Tigrera ent
 
 ## Novedades en colecciones biológicas
 
-El Instituto Amazónico de Investigaciones Científicas - SINCHI nos invita a explorar dos **colecciones biológicas que celebran la riqueza de la Amazonía **colombiana: una dedicada a los **anfibios** y otra a los **reptiles**. Con más de 7400 registros de anfibios y 4150 de reptiles, estas colecciones abarcan décadas de investigación, desde 1905 hasta 2024, y cubren regiones de Colombia y Perú.
+El Instituto Amazónico de Investigaciones Científicas - SINCHI nos invita a explorar dos **colecciones biológicas que celebran la riqueza de la Amazonía colombiana**: una dedicada a los **anfibios** y otra a los **reptiles**. Con más de 7400 registros de anfibios y 4150 de reptiles, estas colecciones abarcan décadas de investigación, desde 1905 hasta 2024, y cubren regiones de Colombia y Perú.
 
 | **Grupo** | **Familias** | **Géneros** |
 |:---|:---:|:---:|
@@ -62,7 +62,7 @@ La [Universidad Tecnológica del Chocó](https://utch.edu.co/nueva/), nos permit
 
 | Accede a los datos de las colecciones actualizadas de la Universidad del Chocó: [Colección Teriológica](http://doi.org/10.15472/nhehct){:target="_blank"} y [Colección Herpetológica](http://doi.org/10.15472/sz41lm){:target="_blank"} |
 
-Por su parte, la Colección Biológica de la Universidad EAFIT, con 4476 registros, nos invita a explorar la vida desde lo microscópico hasta lo macroscópico, abarcando reinos como Animalia, Bacteria y Fungi con datos tomados entre 2007 y 2024.
+Por su parte, la Colección Biológica de la [Universidad EAFIT](https://www.eafit.edu.co), con 4476 registros, nos invita a explorar la vida desde lo microscópico hasta lo macroscópico, abarcando reinos como Animalia, Bacteria y Fungi con datos tomados entre 2007 y 2024.
 
 | **Grupo** | **Familias** | **Géneros** | **Especies** |
 |:---|:---:|:---:|:---:|
