@@ -1,8 +1,8 @@
 ---
-preTitle: 13 de marzo, 2025
+preTitle: 12 de marzo, 2025
 title: Microorganismos costeros, hongos amazónicos y especímenes recolectados entre los destacados de febrero
 description: _Una autoridad ambiental, institutos de investigación y universidades sobresalieron en febrero con la actualización de conjuntos de datos y colecciones biológicas._
-date: 2025-03-13
+date: 2025-03-12
 categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
 background: /assets/images/noticias_eventos/2025/2025-03-13-destacados-febrero-2025.png
 
