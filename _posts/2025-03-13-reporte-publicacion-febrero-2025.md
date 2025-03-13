@@ -1,7 +1,7 @@
 ---
 preTitle: 12 de marzo, 2025
 title: Microorganismos costeros, hongos amazónicos y especímenes recolectados entre los destacados de febrero
-description: _Una autoridad ambiental, institutos de investigación y universidades sobresalieron en febrero con la actualización de conjuntos de datos y colecciones biológicas._
+description: _Una autoridad marítima, institutos de investigación y universidades sobresalieron en febrero con la actualización de conjuntos de datos y colecciones biológicas._
 date: 2025-03-12
 categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
 background: /assets/images/noticias_eventos/2025/2025-03-13-destacados-febrero-2025.png
@@ -62,7 +62,7 @@ La [Universidad Tecnológica del Chocó](https://utch.edu.co/nueva/), nos permit
 
 | Accede a los datos de las colecciones actualizadas de la Universidad del Chocó: [Colección Teriológica](http://doi.org/10.15472/nhehct){:target="_blank"} y [Colección Herpetológica](http://doi.org/10.15472/sz41lm){:target="_blank"} |
 
-Por su parte, la Colección Biológica de la [Universidad EAFIT](https://www.eafit.edu.co), con 4476 registros, nos invita a explorar la vida desde lo microscópico hasta lo macroscópico, abarcando reinos como Animalia, Bacteria y Fungi con datos tomados entre 2007 y 2024.
+Por su parte, la Colección Biológica de la [Universidad EAFIT](https://www.eafit.edu.co){:target="_blank"}, con 4476 registros, nos invita a explorar la vida desde lo microscópico hasta lo macroscópico, abarcando reinos como Animalia, Bacteria y Fungi con datos tomados entre 2007 y 2024.
 
 | **Grupo** | **Familias** | **Géneros** | **Especies** |
 |:---|:---:|:---:|:---:|
