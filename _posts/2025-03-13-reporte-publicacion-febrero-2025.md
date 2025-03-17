@@ -4,7 +4,7 @@ title: Microorganismos costeros, hongos amazónicos y especímenes recolectados 
 description: _Una autoridad marítima, institutos de investigación y universidades sobresalieron en febrero con la actualización de conjuntos de datos y colecciones biológicas._
 date: 2025-03-12
 categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
-background: /assets/images/noticias_eventos/2025/2025-03-13-destacados-febrero-2025.png
+background: /assets/images/noticias_eventos/2025/2025-03-17-destacados-febrero-2025.png
 
 ---
 
