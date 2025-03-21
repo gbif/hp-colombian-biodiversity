@@ -130,7 +130,7 @@ Una explicación sobre ambos modelos y su alcance está disponible en este artí
                   <tr>
                       <td class="Encabezado"><i class="fas fa-tasks"></i> <strong>Característica</strong></td>
                       <td class="Encabezado"><i class="far fa-flag"></i> <strong>Publicación</strong></td>
-                      <td class="Encabezado"><i class="far fa-bookmark"></i> <strong>Publicación</strong></td>
+                      <td class="Encabezado"><i class="far fa-bookmark"></i> <strong>Reporte</strong></td>
                   </tr>
                   <tr>
                       <td><strong>Objetivo principal</strong></td>
