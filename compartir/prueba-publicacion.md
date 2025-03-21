@@ -107,15 +107,70 @@ Una explicación sobre ambos modelos y su alcance está disponible en este artí
   <a href="#modal" class="button is-primary">Encuentra aquí las diferencias y ventajas entre publicaciones</a>
 </div>
 
-<!-- Modal -->
+<!-- Modal tabla comparativa -->
 <div id="modal" class="modal">
-  <div class="modal-content">
-    <a href="#" class="close">×</a>
-    <p class="Contenedor">
-      Tenga en <strong>cuenta las opciones disponibles al momento de realizar una publicación</strong>...
-    </p>
-  </div>
-</div>
+        <div class="modal-content">
+          <a href="#" class="close">×</a>
+          <p class="Contenedor">
+              Tenga en <strong>cuenta las opciones disponibles al momento de realizar una publicación</strong>. Es fundamental considerar los <strong>beneficios</strong> y <strong>características</strong> de las diferentes
+              <strong>plataformas</strong> y <strong>licencias</strong> para asegurar que sus <strong>datos sean accesibles</strong>, reutilizables y tengan el <strong>impacto esperado</strong>.
+          </p>
+          <table>
+              <tbody>
+                  <tr>
+                      <td class="Encabezado"> <i class="fas fa-people-arrows"></i> <strong>Característica</strong></td>
+                      <td class="Encabezado"><i class="fas fa-trophy"> </i>  <strong>Publicación</strong></td>
+                      <td class="Encabezado"><i class="far fa-clipboard"></i> <strong>Publicación</strong></td>
+                  </tr>
+                  <tr>
+                      <td><strong>Objetivo principal</strong></td>
+                      <td><i class="fas fa-check"></i> Compartir datos de biodiversidad para <str5ong>acceso abierto y reutilización</str5ong>.</td>
+                      <td>Cumplir con la regulación ambiental.</td>
+                  </tr>
+                  <tr>
+                      <td><strong>Alcance y visibilidad</strong></td>
+                      <td><i class="fas fa-check"></i> <str5ong>Datos accesibles a nivel nacional e internacional</str5ong>  (SiB Colombia, GBIF, OBIS).</td>
+                      <td>Datos visibles solo para la autoridad ambiental y terceros interesados.</td>
+                  </tr>
+                  <tr>
+                      <td><strong>Reconocimiento y atribución</strong></td>
+                      <td><i class="fas fa-check"></i> Publicadores pueden ser <strong>citados</strong> y <strong>reconocidos</strong> en <strong>investigaciones</strong>.</td>
+                      <td>Sin reconocimiento formal, solo cumplimiento normativo.</td>
+                  </tr>
+                  <tr>
+                      <td><strong>Valor agregado</strong></td>
+                      <td><i class="fas fa-check"></i> Genera <strong>DOI</strong>, métricas de impacto y <strong>posibilidad</strong> de <strong>publicar artículos científicos</strong>.</td>
+                      <td>Solo se obtiene un <strong>certificado de reporte</strong>.</td>
+                  </tr>
+                  <tr>
+                      <td><strong>Flexibilidad y actualización</strong></td>
+                      <td><i class="fas fa-check"></i> Los datos pueden <strong>actualizarse</strong> y <strong>mejorarse en el tiempo</strong>.</td>
+                      <td>Se presentan una sola vez sin posibilidad de modificación posterior.</td>
+                  </tr>
+                  <tr>
+                      <td><strong>Acceso y reutilización</strong></td>
+                      <td><i class="fas fa-check"></i> Datos disponibles para <strong>múltiples audiencias</strong> bajo licencias abiertas.</td>
+                      <td>Se presentan una sola vez sin posibilidad de modificación posterior.</td>
+                  </tr>
+                  <tr>
+                      <td><strong>Apoyo técnico y curaduría</strong></td>
+                      <td><i class="fas fa-check"></i> Asesoría y herramientas para <strong>garantizar calidad</strong> y <strong>formato de datos</strong>.</td>
+                      <td>Proceso automatizado sin curaduría de datos.</td>
+                  </tr>
+                  <tr>
+                      <td><strong>Tipos de datos permitidos</strong></td>
+                      <td><i class="fas fa-check"></i> <strong>Registros biológicos, eventos de muestreo y listas de chequeo</strong>.</td>
+                      <td>Solo registros biológicos.</td>
+                  </tr>
+                  <tr>
+                      <td><strong>Repositorio y plataformas</strong></td>
+                      <td><i class="fas fa-check"></i> Publicación en <strong>SiB Colombia</strong>, <strong>GBIF</strong>, <strong>OBIS</strong> y <strong>repositorio IPT</strong>.</td>
+                      <td>Solo en el repositorio <strong>IPT</strong>.</td>
+                  </tr>
+              </tbody>
+          </table>
+      </div>
+      </div>
 
 
 ## Guía para reportar
