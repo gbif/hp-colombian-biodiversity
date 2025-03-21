@@ -17,8 +17,7 @@ Una explicación sobre ambos modelos y su alcance está disponible en este artí
 
 <div class="mx-auto">
   <a href="#modal" class="button is-primary">Encuentra aquí las diferencias y ventajas entre publicaciones</a>
-<div>
-
+</div>
 
 
 ## Guía para reportar
