@@ -11,40 +11,90 @@ toc: true
 ---
 
 <head>
-  <style>
-    /* Modal Styling */
-    .modal {
-      display: none;
-      position: fixed;
-      z-index: 1;
-      left: 0;
-      top: 0;
-      width: 100%;
-      height: 100%;
-      background-color: rgba(0,0,0,0.4);
-      padding-top: 60px;
-    }
+      <style>
+          .mx-auto {
+              display: inline-flex;
+              justify-content: center;
+              width: 100%;
+          }
+          td.Encabezado strong {
+              color: white;
+          }
+          .Encabezado {
+              background-color: #9fc56d;
+              color: white;
+          }
+          table td:nth-child(1) {
+              border-right: 1px solid#dddddd;
+          }
 
-    .modal-content {
-      background-color: #fefefe;
-      margin: 5% auto;
-      padding: 20px;
-      border: 1px solid #888;
-      width: 80%;
-    }
+          table td:nth-child(2) {
+              border-right: 1px solid #dddddd;
+          }
+          p.Contenedor {
+              border: 1px solid #dddddd;
+              border-radius: 9px;
+              padding: 16px;
+          }
 
-    .button {
-      background-color: #4CAF50;
-      color: white;
-      padding: 10px 24px;
-      border: none;
-      cursor: pointer;
-    }
+          .btn:hover {
+              background-color: #0056b3;
+          }
 
-    .button.is-primary {
-      background-color: #3498db;
-    }
-  </style>
+          /* Estilos del Modal */
+          .modal {
+              position: fixed;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+              background-color: rgba(0, 0, 0, 0.5);
+              display: none; /* Oculto por defecto */
+          }
+
+          /* Mostrar modal cuando es objetivo (clic en el enlace) */
+          .modal:target {
+              display: flex;
+              align-items: center;
+              justify-content: center;
+          }
+
+          /* Contenido del Modal */
+          .modal-content {
+              background-color: #fff;
+              padding: 36px;
+              border-radius: 5px;
+              width: 80%;
+              box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+              border-radius: 22px;
+          }
+          .modal-content tr {
+              border-bottom: 1px solid #ddd;
+          }
+
+          /* Botón para cerrar */
+          .close {
+              background-color: #e8ebeb;
+              color: #aaa;
+              font-size: 28px;
+              font-weight: bold;
+              text-decoration: none;
+              position: absolute;
+              right: 9px;
+              top: 8px;
+              display: inline-flex;
+              border-radius: 50%;
+              height: 39px;
+              width: 39px;
+              align-items: center;
+              justify-content: center;
+          }
+
+          .close:hover {
+              color: #ffffff;
+              background-color: #9fc56d;
+          }
+      </style>
 </head>
 
 
