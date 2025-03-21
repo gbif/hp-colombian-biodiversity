@@ -17,6 +17,11 @@ toc: true
               justify-content: center;
               width: 100%;
           }
+          .flex {
+            display: inline-flex;
+    align-items: center;
+    gap: 26px;
+}
           td.Encabezado strong {
               color: white;
           }
@@ -74,20 +79,20 @@ toc: true
 
           /* Botón para cerrar */
           .close {
-              background-color: #e8ebeb;
-              color: #aaa;
-              font-size: 28px;
-              font-weight: bold;
-              text-decoration: none;
-              position: absolute;
-              right: 9px;
-              top: 8px;
-              display: inline-flex;
-              border-radius: 50%;
-              height: 39px;
-              width: 39px;
-              align-items: center;
-              justify-content: center;
+            background-color: #e8ebeb;
+    color: #aaa;
+    font-size: 28px;
+    font-weight: bold;
+    text-decoration: none;
+    position: absolute;
+    right: 9px;
+    top: 8px;
+    display: inline-flex
+;
+    border-radius: 50%;
+    height: 43px;
+    width: 41px;
+    justify-content: center;
           }
 
           .close:hover {
@@ -111,16 +116,21 @@ Una explicación sobre ambos modelos y su alcance está disponible en este artí
 <div id="modal" class="modal">
         <div class="modal-content">
           <a href="#" class="close">×</a>
-          <p class="Contenedor">
-              Tenga en <strong>cuenta las opciones disponibles al momento de realizar una publicación</strong>. Es fundamental considerar los <strong>beneficios</strong> y <strong>características</strong> de las diferentes
+    
+<div class="flex">
+<img width="14%" height="400"  src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/compartir/Imagenes/ventajas-entre-publicaciones.png">
+<p class="Contenedor">
+    <i class="far fa-comment-alt" width="84%"></i>  Tenga en <strong>cuenta las opciones disponibles al momento de realizar una publicación</strong>. Es fundamental considerar los <strong>beneficios</strong> y <strong>características</strong> de las diferentes
               <strong>plataformas</strong> y <strong>licencias</strong> para asegurar que sus <strong>datos sean accesibles</strong>, reutilizables y tengan el <strong>impacto esperado</strong>.
           </p>
+        </div>
+
           <table>
               <tbody>
                   <tr>
-                      <td class="Encabezado"> <i class="fas fa-people-arrows"></i> <strong>Característica</strong></td>
-                      <td class="Encabezado"><i class="fas fa-trophy"> </i>  <strong>Publicación</strong></td>
-                      <td class="Encabezado"><i class="far fa-clipboard"></i> <strong>Publicación</strong></td>
+                      <td class="Encabezado"><i class="fas fa-tasks"></i> <strong>Característica</strong></td>
+                      <td class="Encabezado"><i class="far fa-flag"></i> <strong>Publicación</strong></td>
+                      <td class="Encabezado"><i class="far fa-bookmark"></i> <strong>Publicación</strong></td>
                   </tr>
                   <tr>
                       <td><strong>Objetivo principal</strong></td>
