@@ -12,74 +12,64 @@ toc: true
 
 <head>
       <style>
-          .mx-auto {
-              display: inline-flex;
-              justify-content: center;
-              width: 100%;
-          }
-          .flex {
-            display: inline-flex;
+.mx-auto {
+    display: inline-flex;
+    justify-content: center;
+    width: 100%;
+}
+.flex {
+    display: inline-flex;
     align-items: center;
     gap: 26px;
 }
-          td.Encabezado strong {
-              color: white;
-          }
-          .Encabezado {
-              background-color: #9fc56d;
-              color: white;
-          }
-          table td:nth-child(1) {
-              border-right: 1px solid#dddddd;
-          }
-
-          table td:nth-child(2) {
-              border-right: 1px solid #dddddd;
-          }
-          p.Contenedor {
-              border: 1px solid #dddddd;
-              border-radius: 9px;
-              padding: 16px;
-          }
-
-          .btn:hover {
-              background-color: #0056b3;
-          }
-
-          /* Estilos del Modal */
-          .modal {
-              position: fixed;
-              top: 0;
-              left: 0;
-              width: 100%;
-              height: 100%;
-              background-color: rgba(0, 0, 0, 0.5);
-              display: none; /* Oculto por defecto */
-          }
-
-          /* Mostrar modal cuando es objetivo (clic en el enlace) */
-          .modal:target {
-              display: flex;
-              align-items: center;
-              justify-content: center;
-          }
-
-          /* Contenido del Modal */
-          .modal-content {
-              background-color: #fff;
-              padding: 36px;
-              border-radius: 5px;
-              width: 80%;
-              box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-              border-radius: 22px;
-          }
-          .modal-content tr {
-              border-bottom: 1px solid #ddd;
-          }
-
-          /* Botón para cerrar */
-          .close {
-            background-color: #e8ebeb;
+td.Encabezado strong {
+    color: white;
+}
+.Encabezado {
+    background-color: #9fc56d;
+    color: white;
+}
+table td:nth-child(1) {
+    border-right: 1px solid#dddddd;
+}
+table td:nth-child(2) {
+    border-right: 1px solid #dddddd;
+}
+p.Contenedor {
+    border: 1px solid #dddddd;
+    border-radius: 9px;
+    padding: 16px;
+}
+.btn:hover {
+    background-color: #0056b3;
+}
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+}
+.modal:target {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.modal-content {
+    background-color: #fff;
+    padding: 36px;
+    border-radius: 5px;
+    width: 80%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 22px;
+}
+.modal-content tr {
+    border-bottom: 1px solid #ddd;
+}
+.close {
+    background-color: #e8ebeb;
     color: #aaa;
     font-size: 28px;
     font-weight: bold;
@@ -87,18 +77,37 @@ toc: true
     position: absolute;
     right: 9px;
     top: 8px;
-    display: inline-flex
-;
+    display: inline-flex;
     border-radius: 50%;
     height: 43px;
     width: 41px;
     justify-content: center;
-          }
-
-          .close:hover {
-              color: #ffffff;
-              background-color: #9fc56d;
-          }
+}
+.close:hover {
+    color: #ffffff;
+    background-color: #9fc56d;
+}
+@media (min-width: 0px) {
+    .flex {
+        flex-direction: column;
+    }
+    .modal-content img {
+        width: 152px;
+    }
+    .Contemedortabla {
+        overflow: overlay;
+        width: 270px;
+    }
+}
+@media (min-width: 768px) {
+    .flex {
+        flex-direction: row;
+    }
+    .Contemedortabla {
+        overflow: inherit;
+        width: 100%;
+    }
+}      
       </style>
 </head>
 
@@ -124,7 +133,7 @@ Una explicación sobre ambos modelos y su alcance está disponible en este artí
               <strong>plataformas</strong> y <strong>licencias</strong> para asegurar que sus <strong>datos sean accesibles</strong>, reutilizables y tengan el <strong>impacto esperado</strong>.
           </p>
         </div>
-
+<div class="Contemedortabla">
           <table>
               <tbody>
                   <tr>
@@ -179,6 +188,7 @@ Una explicación sobre ambos modelos y su alcance está disponible en este artí
                   </tr>
               </tbody>
           </table>
+</div><div>
       </div>
       </div>
 
