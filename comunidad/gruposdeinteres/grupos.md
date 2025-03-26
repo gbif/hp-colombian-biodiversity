@@ -2,7 +2,7 @@
 layout: compose
 title: Grupos de interés y trabajo
 description: |
-   Descubre qué son y cómo participar en estos grupos estratégicos de la red del SiB Colombia.
+   Descubre qué son y cómo participar en estos grupos estratégicos del SiB Colombia.
 background: https://live.staticflickr.com/4388/35918846974_b14866f211_b.jpg
 imageLicense: |
   Fotografía de: CIFOR vía [Flickr](https://flic.kr/p/WJ2tP5) 
