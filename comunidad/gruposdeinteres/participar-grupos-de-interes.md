@@ -17,43 +17,76 @@ composition:
 
 
 
-## ¿Cómo unirse o crear un Grupo de Interés?
+El propósito de los **Grupos de Interés del SiB Colombia (GI-SiB**) es servir como plataformas de comunicación y coordinación entre personas con intereses compartidos alineados con los ejes estratégicos del SiB Colombia. Estos grupos pueden generar resultados como informes, encuestas y productos derivados de sus Grupos de Trabajo. No deben usarse para promover proyectos específicos y deben contar con participación a nivel nacional. Su permanencia depende de su actividad y relevancia para los objetivos del SiB Colombia.
 
-Los Grupos de Interés del SiB Colombia (GI-SiB) están conformados por expertos de la comunidad del SiB Colombia comprometidos de forma directa o indirecta con su misión de facilitar la publicación, acceso y uso de datos sobre biodiversidad. Estos grupos presentan al Equipo Coordinador del SiB Colombia la idea de creación de un Grupo de Interés para su aprobación. El respaldo depende de que el Grupo de Interés funcione como una plataforma de comunicación y coordinación entre personas en función de unos intereses compartidos a nivel de la misión del SiB Colombia y el aporte al desarrollo de los ejes de trabajo establecidos en su plan estratégico. Adicionalmente los Grupos de Interés generan resultados estratégicos como informes, encuestas, resultados de los Grupos de Trabajo, entre otros.
+<details>
 
-Los Grupos de Interés deben tener una participación nacional y una comunidad demostrada y no deben ser usados para promover proyectos específicos. Son iniciativas a largo plazo dentro del SiB Colombia y permanecen operativos en la media de su nivel de actividad y relevancia para los para los objetivos del sistema de información.
+<summary markdown="span"><b>Funciones y resultados de un GI-SiB</b></summary>
 
-Un Grupo de Interés puede ser declarado inactivo por varias razones. Los que no hayan mostrado actividad durante 1 año, serán contactados inicialmente por el Equipo Coordinador para evaluar las razones de su inactividad y las oportunidades de reactivación.
+<br>
 
-Los Grupos de Interés pueden realizar una o más de las siguientes funciones o resultados:
+Un GI-SiB puede desempeñar una o varias de las siguientes funciones:
+*  ✅ **Facilitar la creación de Grupos de Trabajo (GT-SiB)** para desarrollar acciones específicas mediante estudios de caso.
+*  ✅ **Apoyar la comunicación y coordinación** entre GI-SiB o GT-SIB con afinidades temáticas (ej. monitoreo de biodiversidad, colecciones biológicas, normatividad).
+*  ✅ **Fomentar la articulación** entre diferentes grupos orientados a temas específicos (ej. todos los grupos de listas de especies o de colecciones biológicas).
+* ✅ **Articular comunidades externas** al SiB Colombia, promoviendo sinergias y atrayendo nuevos miembros.
+* ✅ Antes de su reconocimiento oficial, los GI pasan por un **proceso de revisión** basado en los siguientes criterios:
+1. Definición de entre dos y cuatro co-líderes.
+2. Participación de expertos nacionales.
+3. Existencia de un mecanismo de comunicación y coordinación sobre el tema de interés.
+4. No promover un producto específico.
+5. No superponerse con GI o GT ya existentes.
 
-+ Servir como una plataforma que facilite la formación de uno o más Grupos de Trabajo. Un Grupo de Interés puede afinar sus ideas en acciones implementadas mediante la creación de estudios de caso específicos para crear uno o más Grupos de Trabajo. El proceso para establecer un Grupo de Trabajo se describe en la sección "¿Cómo crear o administrar un Grupo de Trabajo?".
-+ Apoyar la comunicación y la coordinación entre Grupos de Trabajo o Grupos de Interés relacionados, que pueden tener afinidad temática (por ejemplo, grupos biológicos, publicación de datos, colecciones biológicas, monitoreo de la biodiversidad, listas de especies, normatividad, etc.).
-+ Facilitar una mejor comunicación y coordinación entre diferentes Grupos de Trabajo o Grupos de Interés (por ejemplo, todos los grupos específicos de listas de especies, todos los grupos de colecciones biológicas, entre grupos orientados a la toma de datos, etc.)
-+ Servir como embajadores para comunicarse y coordinarse con una comunidad específica fuera del SiB Colombia, fomentando sinergias, atrayendo nuevos grupos y  miembros.
+</details>
 
-Los grupos de interés se someten a una revisión formal antes de que sean reconocidos y respaldados por el SiB Colombia. Los criterios de revisión incluyen lo siguiente:
+___
 
-+ Definición de dos-cuatro co-líderes de la iniciativa.
-+ Los miembros son expertos nacionales.
-+ Definición de un mecanismo de comunicación y coordinación en torno al tema de interés.
-+ No promover un producto en específico.
-+ No superposición con los Grupos de Interés y Trabajo ya existentes.
+<details>
 
+<summary markdown="span"><b>¿Cómo unirse a un GI-SiB</b></summary>
 
-### ¿Cómo unirse a un Grupo de Interés?
+<br>
 
-Cualquier persona puede solicitar unirse a un Grupo de Interés contactando a uno de los líderes  en la página del grupo.
+Cualquier persona interesada puede unirse a un GI-SiB contactando a uno de sus líderes a través de la página del grupo. Estos grupos incluyen expertos de la comunidad del SiB Colombia comprometidos con su misión de facilitar la publicación, acceso y uso de datos sobre biodiversidad.
 
-### ¿Cómo crear un Grupo de Interés?
+</details>
 
-1. El potencial Grupo de Interés elabora una breve propuesta siguiendo la plantilla [Propuesta de Intención Grupo de Interés](https://docs.google.com/document/d/105hm8zakjQApgZJXXwN6O7NcrUBqQN9x2wWbH-Vdyxk/edit?usp=sharing), que describe sus actividades y enumera de dos a cuatro co-líderes. Uno de los miembros del GI (generalmente uno de los líderes) envía la propuesta al correo [sib@humboldt.org.co](sib@humboldt.org.co). El EC-SiB designa un enlace para trabajar con el Grupo de Interés propuesto, y se comunicará con los líderes del Grupo de Interés.
+___
 
-2. El EC-SiB notifica al Comité Técnico (CT-SiB) para su revisión. El CT-SiB tendrá al menos cuatro semanas para revisar y comentar el documento. Si hay comentarios significativos, se espera que el Grupo de Interés envíe nuevamente la propuesta ajustada, basado en los comentarios hechos durante la revisión.
+<details>
 
-3. El CT-SiB llega a una de las cuatro conclusiones siguientes:
-    + Reconocido y respaldado tal como está. El grupo es reconocido como Grupo de Interés del SiB Colombia y debe iniciar con sus actividades.
-    + Reconocido y respaldado sujeto a revisiones específicas. La idea es relevante, pero deben hacerse cambios para fortalecer la propuesta y cumplir con los criterios de aprobación. Después de que el enfoque haya sido modificado, el grupo será reconocido por el SiB Colombia e iniciará su trabajo.
-    + Pertinente pero no respaldado actualmente: la idea es relevante pero necesita perfeccionamiento. El grupo necesita madurar su concepto y afinar su propuesta para su aprobación. El CT-SiB, a través del EC-SiB, proporcionará comentarios específicos y aclaraciones sobre lo que se necesita.
-    + No respaldado: la idea no es adecuada para el SiB Colombia o no cumple con otros criterios para su aprobación. El CT-SiB, a través del EC-SiB,  proporcionará comentarios específicos y aclaraciones.
-4. Después de que el CT-SiB haya aceptado la propuesta, el EC-SiB hace contacto con el grupo para iniciar actividades.
+<summary markdown="span"><b> ¿Cómo crear un GI-SiB</b></summary>
+
+<br>
+
+Para crear un GI-SiB, se debe presentar una **propuesta siguiendo la plantilla Propuesta de Intención Grupo de interés**, donde se describan sus actividades y se designen entre dos y cuatro co-líderes.
+
+El documento debe enviarse al correo sib@humboldt.org.co. Una vez recibido:
+
+1. El EC-SiB se contactará con los proponentes. \
+
+2. La propuesta será enviada al **Comité Técnico (CT-SiB)** para su revisión. \
+
+3. El CT-SiB tendrá hasta cuatro semanas para analizar el documento y emitir una de las siguientes respuestas:
+*  ✅ **Aprobado sin modificaciones**: El grupo es reconocido y puede iniciar actividades.
+*  ✅ **Aprobado con revisiones**: Se requiere ajustar la propuesta antes del reconocimiento oficial.
+* 🔹**Relevante, pero no aprobado**: La idea es válida, pero necesita mayor desarrollo antes de su aprobación. Se brindarán recomendaciones para su fortalecimiento.
+* 🔹**No aprobado**: La propuesta no se ajusta a los objetivos del SiB Colombia o a sus criterios de aprobación. Se explicarán los motivos del rechazo.
+
+Tras la aprobación, el EC-SiB contactará nuevamente al grupo para iniciar sus actividades.
+
+</details>
+
+___
+
+<details>
+
+<summary markdown="span"><b>¿Cuándo se cierra un GI-SiB</b></summary>
+
+<br>
+
+Si un Grupo de interés **no muestra actividad durante un año**, el EC- SiB lo contactará para evaluar oportunidades de reactivación. En caso de inactividad prolongada, el grupo podrá ser declarado inactivo.
+
+</details>
+
+___
