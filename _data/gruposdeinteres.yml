@@ -13,7 +13,7 @@ participar:
     isPrimary: true
   - text: Grupo de Trabajo
     href: /comunidad/grupos/participar-grupos-de-trabajo
-    isPrimary: true
+    isPrimary: false
 
 #cards
 tarjetasGrupos:
