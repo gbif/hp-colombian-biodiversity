@@ -19,11 +19,7 @@ composition:
 
 El propósito de los **Grupos de Interés del SiB Colombia (GI-SiB**) es servir como plataformas de comunicación y coordinación entre personas con intereses compartidos alineados con los ejes estratégicos del SiB Colombia. Estos grupos pueden generar resultados como informes, encuestas y productos derivados de sus Grupos de Trabajo. No deben usarse para promover proyectos específicos y deben contar con participación a nivel nacional. Su permanencia depende de su actividad y relevancia para los objetivos del SiB Colombia.
 
-<details>
-
-<summary markdown="span"><b>Funciones y resultados de un GI-SiB</b></summary>
-
-<br>
+## Funciones y resultados de un GI-SiB
 
 Un GI-SiB puede desempeñar una o varias de las siguientes funciones:
 * ✅ **Facilitar la creación de Grupos de Trabajo (GT-SiB)** para desarrollar acciones específicas mediante estudios de caso.
@@ -37,27 +33,15 @@ Un GI-SiB puede desempeñar una o varias de las siguientes funciones:
 4. No promover un producto específico.
 5. No superponerse con GI o GT ya existentes.
 
-</details>
-
 ___
 
-<details>
-
-<summary markdown="span"><b>¿Cómo unirse a un GI-SiB</b></summary>
-
-<br>
+## ¿Cómo unirse a un GI-SiB</b></summary>
 
 Cualquier persona interesada puede unirse a un GI-SiB contactando a uno de sus líderes a través de la página del grupo. Estos grupos incluyen expertos de la comunidad del SiB Colombia comprometidos con su misión de facilitar la publicación, acceso y uso de datos sobre biodiversidad.
 
-</details>
-
 ___
 
-<details>
-
-<summary markdown="span"><b> ¿Cómo crear un GI-SiB</b></summary>
-
-<br>
+## ¿Cómo crear un GI-SiB
 
 Para crear un GI-SiB, se debe presentar una **propuesta siguiendo la plantilla Propuesta de Intención Grupo de interés**, donde se describan sus actividades y se designen entre dos y cuatro co-líderes.
 
@@ -75,18 +59,10 @@ El documento debe enviarse al correo sib@humboldt.org.co. Una vez recibido:
 
 Tras la aprobación, el EC-SiB contactará nuevamente al grupo para iniciar sus actividades.
 
-</details>
-
 ___
 
-<details>
-
-<summary markdown="span"><b>¿Cuándo se cierra un GI-SiB</b></summary>
-
-<br>
+## ¿Cuándo se cierra un GI-SiB
 
 Si un Grupo de interés **no muestra actividad durante un año**, el EC- SiB lo contactará para evaluar oportunidades de reactivación. En caso de inactividad prolongada, el grupo podrá ser declarado inactivo.
-
-</details>
 
 ___
