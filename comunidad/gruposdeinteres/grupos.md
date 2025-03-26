@@ -24,7 +24,7 @@ A través de estos grupos, la red colaborativa del SiB Colombia aborda múltiple
 # ¿Qué son y cómo se relacionan un grupo de interés y un grupo de trabajo?
 
 | ¿? | Grupo de interés (GI-SiB) | Grupo de trabajo (GT-SiB) |
-|:---|:---:|:---:|
+|----|---------------------------|---------------------------|
 | ¿Qué es? | ✅ Un equipo enfocado en un tema particular de interés para el SiB Colombia.<br>✅ Está abierto en términos de plazo.<br>✅ Puede identificar necesidades específicas en torno al Plan Estratégico del SiB Colombia  y crear grupos de trabajo para desarrollarlos, con la responsabilidad de mantener los productos derivados. | ✅ Un equipo enfocado en una tarea específica que aporta a los ejes de trabajo y actividades del plan estratégico del SiB Colombia. <br> ✅ Está limitado a un corto plazo. <br> ✅ Se crea dentro de un Grupo de interés. |
 | ¿Para qué se crea? | Para proveer una base que permita discutir problemas, metas, estrategias, métodos y la aplicación de tecnologías. | Para desarrollar un producto específico en un periodo de tiempo determinado. |
 
