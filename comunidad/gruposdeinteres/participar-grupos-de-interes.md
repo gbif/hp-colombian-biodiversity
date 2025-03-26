@@ -7,7 +7,7 @@ imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/14976714334/) 
 permalink: comunidad/grupos/participar-grupos-de-interes
 height: 41vh
-toc: true
+toc: false
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
