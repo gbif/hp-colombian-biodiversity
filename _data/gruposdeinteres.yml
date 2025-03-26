@@ -33,6 +33,7 @@ tarjetasGrupos:
     - title: Datos moleculares  # required
       description: |      # required
        Grupo de interés
+       [🔒 Ver como crearlo](#cómo-crear-un-gi-sib){: .button .is-primary}
       background: /comunidad/gruposdeinteres/images/DatosMoleculares.jpg
       href: /comunidad/grupos/participar-grupos-de-interes       
       
