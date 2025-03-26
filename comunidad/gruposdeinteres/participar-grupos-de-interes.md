@@ -26,9 +26,9 @@ El propósito de los **Grupos de Interés del SiB Colombia (GI-SiB**) es servir 
 <br>
 
 Un GI-SiB puede desempeñar una o varias de las siguientes funciones:
-*  ✅ **Facilitar la creación de Grupos de Trabajo (GT-SiB)** para desarrollar acciones específicas mediante estudios de caso.
-*  ✅ **Apoyar la comunicación y coordinación** entre GI-SiB o GT-SIB con afinidades temáticas (ej. monitoreo de biodiversidad, colecciones biológicas, normatividad).
-*  ✅ **Fomentar la articulación** entre diferentes grupos orientados a temas específicos (ej. todos los grupos de listas de especies o de colecciones biológicas).
+* ✅ **Facilitar la creación de Grupos de Trabajo (GT-SiB)** para desarrollar acciones específicas mediante estudios de caso.
+* ✅ **Apoyar la comunicación y coordinación** entre GI-SiB o GT-SIB con afinidades temáticas (ej. monitoreo de biodiversidad, colecciones biológicas, normatividad).
+* ✅ **Fomentar la articulación** entre diferentes grupos orientados a temas específicos (ej. todos los grupos de listas de especies o de colecciones biológicas).
 * ✅ **Articular comunidades externas** al SiB Colombia, promoviendo sinergias y atrayendo nuevos miembros.
 * ✅ Antes de su reconocimiento oficial, los GI pasan por un **proceso de revisión** basado en los siguientes criterios:
 1. Definición de entre dos y cuatro co-líderes.
