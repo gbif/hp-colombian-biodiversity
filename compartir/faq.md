@@ -435,7 +435,7 @@ Los datos dispuestos a través del SiB Colombia son visibles y pueden ser consul
     <li><B>Canales de participación del SiB Colombia:</B></li>
     <ul>
     <li><a href="/data" >Portal de datos</a></li>
-    <li><a href="https://listas.biodiversidad.co/">Listas de chequeo</a></li>
+    <li><a href="/dataset/search?type=CHECKLIST">Listas de chequeo</a></li>
     </ul>   
     <li><B>Portales internacionales:</B></li>
     <ul>
