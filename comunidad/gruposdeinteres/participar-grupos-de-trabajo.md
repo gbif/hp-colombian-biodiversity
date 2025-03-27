@@ -39,10 +39,10 @@ Crear un Gt-SiB implica un mayor compromiso que formar parte de un Gi-SiB. Para 
         *  ✅ **Factibilidad** dentro del periodo de 12-24 meses.
         * ✅ **Valor agregado** en relación con otros esfuerzos de la comunidad.
     2. **Evaluación:**
-        * 🔹El CT-SiB revisa la propuesta en un periodo de **al menos cuatro semanas**.
-        * 🔹Si hay comentarios significativos, se espera que el grupo de trabajo envíe nuevamente la propuesta ajustada, basado en los comentarios hechos durante la revisión.
+        * 🔹 El CT-SiB revisa la propuesta en un periodo de **al menos cuatro semanas**.
+        * 🔹 Si hay comentarios significativos, se espera que el grupo de trabajo envíe nuevamente la propuesta ajustada, basado en los comentarios hechos durante la revisión.
     3. **Decisión final del CT-SiB:**
-        *  ✅**Reconocido y respaldado**: El grupo es aprobado y puede iniciar actividades.
+        *  ✅ **Reconocido y respaldado**: El grupo es aprobado y puede iniciar actividades.
         *  ✅ **Reconocido con ajustes**: Se solicita modificar algunos aspectos antes de la aprobación final.
         * 🔹 **Pertinente pero no respaldado actualmente**: La propuesta necesita madurar antes de su aprobación.
         * 🔹 **No respaldado**: La idea no se ajusta a los criterios del SiB Colombia.
@@ -56,6 +56,6 @@ Puedes consultar la lista de Gt-SiB activos y algunas ideas de nuevos grupos, ba
 
 ___
 
-Por lo pronto no existen grupos de trabajo. Recuerda que para hacerlo, debe vincularse a un grupo de [interés ya existente](https://biodiversidad.co/comunidad/grupos/participar-grupos-de-interes). Te invitamos a explorar los grupos de trabajo existentes o a promover la creación de uno nuevo.
+| Por lo pronto no existen grupos de trabajo. Recuerda que para hacerlo, debe vincularse a un grupo de [interés ya existente](https://biodiversidad.co/comunidad/grupos/participar-grupos-de-interes). Mientras tanto, te invitamos a explorar los grupos de interés existentes o a promover la creación de uno nuevo. |
 
 [Grupos de interés](/comunidad/grupos/participar-grupos-de-interes){: .button .is-primary} [Grupos de interés y trabajo](/comunidad/grupos){: .button}
