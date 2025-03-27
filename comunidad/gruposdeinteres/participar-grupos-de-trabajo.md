@@ -65,4 +65,4 @@ ___
 
 Por lo pronto no existen grupos de trabajo. Recuerda que para hacerlo, debe vincularse a un grupo de [interés ya existente](https://biodiversidad.co/comunidad/grupos/participar-grupos-de-interes). Te invitamos a explorar los grupos de trabajo existentes o a promover la creación de uno nuevo.
 
-[Grupos de interés](/comunidad/participar-grupos-de-interes){: .button .is-primary} [Grupos de interés y trabajo](/comunidad/grupos){: .button}
+[Grupos de interés](/comunidad/grupos/participar-grupos-de-interes){: .button .is-primary} [Grupos de interés y trabajo](/comunidad/grupos){: .button}
