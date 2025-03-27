@@ -10,11 +10,11 @@ height: 41vh
 toc: false
 ---
 
-Los **grupos de trabajo del SiB Colombia (GT-SiB**) tienen como objetivo generar avances concretos en la publicación, acceso y uso de datos sobre biodiversidad disponibles a través del SiB Colombia.  Cada GT-SiB debe desarrollar un producto tangible en un plazo de 12 a 24 meses, eliminando barreras en la gestión de datos de biodiversidad y asegurando su aplicabilidad dentro del SiB Colombia.
+Los **grupos de trabajo del SiB Colombia (Gt-SiB**) tienen como objetivo generar avances concretos en la publicación, acceso y uso de datos sobre biodiversidad disponibles a través del SiB Colombia.  Cada Gt-SiB debe desarrollar un producto tangible en un plazo de 12 a 24 meses, eliminando barreras en la gestión de datos de biodiversidad y asegurando su aplicabilidad dentro del SiB Colombia.
 
-## Funciones y resultados de un GT-SiB
+## Funciones y resultados de un Gt-SiB
 
-Los GT-SiB pueden abordar aspectos como:
+Los Gt-SiB pueden abordar aspectos como:
 
 * ✅ **Publicación de datos**: Estrategias para mejorar la cantidad y calidad de datos disponibles.
 * ✅ **Interoperabilidad y reutilización**: Métodos para integrar y aprovechar los datos en distintos sistemas.
@@ -24,9 +24,9 @@ Los GT-SiB pueden abordar aspectos como:
 
 ___
 
-## ¿Cómo crear un GT-SiB?
+## ¿Cómo crear un Gt-SiB?
 
-Crear un GT-SiB implica un mayor compromiso que formar parte de un GI-SiB. Para ello, es necesario:
+Crear un Gt-SiB implica un mayor compromiso que formar parte de un Gi-SiB. Para ello, es necesario:
 
 1. Elaborar la propuesta siguiendo la plantilla **[Propuesta de intención grupo de trabajo](http://docs.google.com/document/d/1MDZMQMUZHoRDzZl-VYJB1woqEERo5Q1lpvF6PYhZWDY/edit)**.
 2. Enviar la propuesta al EC-SiB a través del correo **[sib@humboldt.org.co](mailto:sib@humboldt.org.co)**.
@@ -57,9 +57,9 @@ Una vez aprobada la propuesta, el EC-SiB se pondrá en contacto con los líderes
 
 ___
 
-## ¿Cómo unirse a un GI-SiB?
+## ¿Cómo unirse a un Gi-SiB?
 
-Puedes consultar la lista de GT-SIB activos y algunas ideas de nuevos grupos, baja hasta las tarjetas en el final de esta página. Para unirte, contacta directamente a uno de los líderes en la página del grupo.
+Puedes consultar la lista de Gt-SiB activos y algunas ideas de nuevos grupos, baja hasta las tarjetas en el final de esta página. Para unirte, contacta directamente a uno de los líderes en la página del grupo.
 
 ___
 
