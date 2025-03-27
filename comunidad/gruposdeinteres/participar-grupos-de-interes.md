@@ -46,10 +46,8 @@ ___
 
 1. Para crear un Gi-SiB, se debe presentar una **propuesta siguiendo la [plantilla Propuesta de Intención Grupo de interés](https://docs.google.com/document/d/105hm8zakjQApgZJXXwN6O7NcrUBqQN9x2wWbH-Vdyxk/edit?usp=sharing)**, donde se describan sus actividades y se designen entre dos y cuatro co-líderes.
 2. El documento debe enviarse al correo **[sib@humboldt.org.co](mailto:sib@humboldt.org.co)**. Una vez recibido:
-    1. El EC-SiB se contactará con los proponentes. \
-
-    2. La propuesta será enviada al **Comité Técnico (CT-SiB)** para su revisión. \
-
+    1. El EC-SiB se contactará con los proponentes.
+    2. La propuesta será enviada al **Comité Técnico (CT-SiB)** para su revisión.
     3. El CT-SiB tendrá hasta cuatro semanas para analizar el documento y emitir una de las siguientes respuestas:
         *  ✅ **Aprobado sin modificaciones**: El grupo es reconocido y puede iniciar actividades.
         *  ✅ **Aprobado con revisiones**: Se requiere ajustar la propuesta antes del reconocimiento oficial.
