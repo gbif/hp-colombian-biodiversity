@@ -65,6 +65,7 @@ tarjetasGrupos:
     - title: Colecciones Biológicas
       description: |      # required
        Grupo de interés <br> [🔒 Ver como crear este u otro GI-SIB](#cómo-crear-un-gi-sib){: .button}
+       <br> [Grupos de interés y trabajo](/comunidad/grupos){: .button .is-primary}
       # img required
       background: /comunidad/gruposdeinteres/images/ColeccionesBiologicas.jpg
       href: #cómo-crear-un-gi-sib
