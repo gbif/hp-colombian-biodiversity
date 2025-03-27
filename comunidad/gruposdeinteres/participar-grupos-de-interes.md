@@ -48,9 +48,9 @@ Para crear un GI-SiB, se debe presentar una **propuesta siguiendo la plantilla P
 
 El documento debe enviarse al correo sib@humboldt.org.co. Una vez recibido:
 
-1. El EC-SiB se contactará con los proponentes. \
+1. El EC-SiB se contactará con los proponentes.
 
-2. La propuesta será enviada al **Comité Técnico (CT-SiB)** para su revisión. \
+2. La propuesta será enviada al **Comité Técnico (CT-SiB)** para su revisión.
 
 3. El CT-SiB tendrá hasta cuatro semanas para analizar el documento y emitir una de las siguientes respuestas:
 
