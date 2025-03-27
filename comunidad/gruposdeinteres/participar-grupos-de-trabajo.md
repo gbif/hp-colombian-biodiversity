@@ -30,30 +30,23 @@ Crear un Gt-SiB implica un mayor compromiso que formar parte de un Gi-SiB. Para 
 
 1. Elaborar la propuesta siguiendo la plantilla **[Propuesta de intención grupo de trabajo](http://docs.google.com/document/d/1MDZMQMUZHoRDzZl-VYJB1woqEERo5Q1lpvF6PYhZWDY/edit)**.
 2. Enviar la propuesta al EC-SiB a través del correo **[sib@humboldt.org.co](mailto:sib@humboldt.org.co)**.
-3. El EC-SiB se contactará para acompañar el proceso.
-    **Criterios de revisión**
-
-El **Equipo coordinador (EC-SiB)** y el **Comité técnico (CT-SiB)** evaluarán la propuesta con base en los siguientes criterios:
-
-* ✅ Alineación con la **visión y misión** del SiB Colombia.
-* ✅ Participación de **2 a 4 co-líderes** responsables.
-* ✅ Resultados **concretos y medibles**.
-* ✅ **Impacto en** la publicación, acceso o uso de datos sobre biodiversidad.
-* ✅ **Factibilidad** dentro del periodo de 12-24 meses.
-* ✅ **Valor agregado** en relación con otros esfuerzos de la comunidad.
-#### 
-**Evaluación**
-* 🔹El CT-SiB revisa la propuesta en un periodo de **al menos cuatro semanas**.
-* 🔹Si hay comentarios significativos, se espera que el grupo de trabajo envíe nuevamente la propuesta ajustada, basado en los comentarios hechos durante la revisión.
-#### 
-**Decisión final del CT-SiB**
-
-* ✅ **Reconocido y respaldado**: El grupo es aprobado y puede iniciar actividades.
-* ✅ **Reconocido con ajustes**: Se solicita modificar algunos aspectos antes de la aprobación final.
-* 🔹 **Pertinente pero no respaldado actualmente**: La propuesta necesita madurar antes de su aprobación.
-* 🔹 **No respaldado**: La idea no se ajusta a los criterios del SiB Colombia.
-
-Una vez aprobada la propuesta, el EC-SiB se pondrá en contacto con los líderes del grupo para coordinar el inicio de actividades.
+3. El EC-SiB se contactará para acompañar el proceso considerando:
+    1. **Criterios de revisión:** El **Equipo coordinador (EC-SiB)** y el **Comité técnico (CT-SiB)** evaluarán la propuesta con base en los siguientes criterios:
+        *  ✅ Alineación con la **visión y misión** del SiB Colombia.
+        *  ✅ Participación de **2 a 4 co-líderes** responsables.
+        *  ✅ Resultados **concretos y medibles**.
+        *  ✅ **Impacto en** la publicación, acceso o uso de datos sobre biodiversidad.
+        *  ✅ **Factibilidad** dentro del periodo de 12-24 meses.
+        * ✅ **Valor agregado** en relación con otros esfuerzos de la comunidad.
+    2. **Evaluación:**
+        * 🔹El CT-SiB revisa la propuesta en un periodo de **al menos cuatro semanas**.
+        * 🔹Si hay comentarios significativos, se espera que el grupo de trabajo envíe nuevamente la propuesta ajustada, basado en los comentarios hechos durante la revisión.
+    3. **Decisión final del CT-SiB:**
+        *  ✅**Reconocido y respaldado**: El grupo es aprobado y puede iniciar actividades.
+        *  ✅ **Reconocido con ajustes**: Se solicita modificar algunos aspectos antes de la aprobación final.
+        * 🔹 **Pertinente pero no respaldado actualmente**: La propuesta necesita madurar antes de su aprobación.
+        * 🔹 **No respaldado**: La idea no se ajusta a los criterios del SiB Colombia.
+4. Si la propuesta es aprobada, el EC-SiB se pondrá en contacto con los líderes del grupo para coordinar el inicio de actividades.
 
 ___
 
