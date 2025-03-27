@@ -48,7 +48,7 @@ El **Equipo coordinador (EC-SiB)** y el **Comité técnico (CT-SiB)** evaluarán
 #### 
 **Decisión final del CT-SiB**
 
-* ✅**Reconocido y respaldado**: El grupo es aprobado y puede iniciar actividades.
+* ✅ **Reconocido y respaldado**: El grupo es aprobado y puede iniciar actividades.
 * ✅ **Reconocido con ajustes**: Se solicita modificar algunos aspectos antes de la aprobación final.
 * 🔹 **Pertinente pero no respaldado actualmente**: La propuesta necesita madurar antes de su aprobación.
 * 🔹 **No respaldado**: La idea no se ajusta a los criterios del SiB Colombia.
