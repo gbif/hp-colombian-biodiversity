@@ -17,14 +17,14 @@ composition:
 
 
 
-El propósito de los **Grupos de Interés del SiB Colombia (GI-SiB**) es servir como plataformas de comunicación y coordinación entre personas con intereses compartidos alineados con los ejes estratégicos del SiB Colombia. Estos grupos pueden generar resultados como informes, encuestas y productos derivados de sus Grupos de Trabajo. No deben usarse para promover proyectos específicos y deben contar con participación a nivel nacional. Su permanencia depende de su actividad y relevancia para los objetivos del SiB Colombia.
+El propósito de los **Grupos de Interés del SiB Colombia (Gi-SiB**) es servir como plataformas de comunicación y coordinación entre personas con intereses compartidos alineados con los ejes estratégicos del SiB Colombia. Estos grupos pueden generar resultados como informes, encuestas y productos derivados de sus Grupos de Trabajo. No deben usarse para promover proyectos específicos y deben contar con participación a nivel nacional. Su permanencia depende de su actividad y relevancia para los objetivos del SiB Colombia.
 
-## Funciones y resultados de un GI-SiB
+## Funciones y resultados de un Gi-SiB
 
-Un GI-SiB puede desempeñar una o varias de las siguientes funciones:
+Un Gi-SiB puede desempeñar una o varias de las siguientes funciones:
 
-* ✅ **Facilitar la creación de Grupos de Trabajo (GT-SiB)** para desarrollar acciones específicas mediante estudios de caso.
-* ✅ **Apoyar la comunicación y coordinación** entre GI-SiB o GT-SIB con afinidades temáticas (ej. monitoreo de biodiversidad, colecciones biológicas, normatividad).
+* ✅ **Facilitar la creación de Grupos de Trabajo (Gt-SiB)** para desarrollar acciones específicas mediante estudios de caso.
+* ✅ **Apoyar la comunicación y coordinación** entre Gi-SiB o Gt-SiB con afinidades temáticas (ej. monitoreo de biodiversidad, colecciones biológicas, normatividad).
 * ✅ **Fomentar la articulación** entre diferentes grupos orientados a temas específicos (ej. todos los grupos de listas de especies o de colecciones biológicas).
 * ✅ **Articular comunidades externas** al SiB Colombia, promoviendo sinergias y atrayendo nuevos miembros.
 * ✅ Antes de su reconocimiento oficial, los GI pasan por un **proceso de revisión** basado en los siguientes criterios:
@@ -36,15 +36,15 @@ Un GI-SiB puede desempeñar una o varias de las siguientes funciones:
 
 ___
 
-## ¿Cómo unirse a un GI-SiB
+## ¿Cómo unirse a un Gi-SiB
 
-Cualquier persona interesada puede unirse a un GI-SiB contactando a uno de sus líderes a través de la página del grupo. Estos grupos incluyen expertos de la comunidad del SiB Colombia comprometidos con su misión de facilitar la publicación, acceso y uso de datos sobre biodiversidad.
+Cualquier persona interesada puede unirse a un Gi-SiB contactando a uno de sus líderes a través de la página del grupo. Estos grupos incluyen expertos de la comunidad del SiB Colombia comprometidos con su misión de facilitar la publicación, acceso y uso de datos sobre biodiversidad.
 
 ___
 
-## ¿Cómo crear un GI-SiB
+## ¿Cómo crear un Gi-SiB
 
-Para crear un GI-SiB, se debe presentar una **propuesta siguiendo la plantilla Propuesta de Intención Grupo de interés**, donde se describan sus actividades y se designen entre dos y cuatro co-líderes.
+Para crear un Gi-SiB, se debe presentar una **propuesta siguiendo la plantilla Propuesta de Intención Grupo de interés**, donde se describan sus actividades y se designen entre dos y cuatro co-líderes.
 
 El documento debe enviarse al correo sib@humboldt.org.co. Una vez recibido:
 
@@ -63,7 +63,7 @@ Tras la aprobación, el EC-SiB contactará nuevamente al grupo para iniciar sus 
 
 ___
 
-## ¿Cuándo se cierra un GI-SiB
+## ¿Cuándo se cierra un Gi-SiB
 
 Si un Grupo de interés **no muestra actividad durante un año**, el EC- SiB lo contactará para evaluar oportunidades de reactivación. En caso de inactividad prolongada, el grupo podrá ser declarado inactivo.
 
