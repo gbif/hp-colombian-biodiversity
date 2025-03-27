@@ -22,6 +22,7 @@ El propósito de los **Grupos de Interés del SiB Colombia (GI-SiB**) es servir 
 ## Funciones y resultados de un GI-SiB
 
 Un GI-SiB puede desempeñar una o varias de las siguientes funciones:
+
 ✅ **Facilitar la creación de Grupos de Trabajo (GT-SiB)** para desarrollar acciones específicas mediante estudios de caso.
 ✅ **Apoyar la comunicación y coordinación** entre GI-SiB o GT-SIB con afinidades temáticas (ej. monitoreo de biodiversidad, colecciones biológicas, normatividad).
 ✅ **Fomentar la articulación** entre diferentes grupos orientados a temas específicos (ej. todos los grupos de listas de especies o de colecciones biológicas).
@@ -52,6 +53,7 @@ El documento debe enviarse al correo sib@humboldt.org.co. Una vez recibido:
 2. La propuesta será enviada al **Comité Técnico (CT-SiB)** para su revisión. \
 
 3. El CT-SiB tendrá hasta cuatro semanas para analizar el documento y emitir una de las siguientes respuestas:
+
 ✅ **Aprobado sin modificaciones**: El grupo es reconocido y puede iniciar actividades.
 ✅ **Aprobado con revisiones**: Se requiere ajustar la propuesta antes del reconocimiento oficial.
 🔹**Relevante, pero no aprobado**: La idea es válida, pero necesita mayor desarrollo antes de su aprobación. Se brindarán recomendaciones para su fortalecimiento.
