@@ -25,7 +25,7 @@ tarjetasGrupos:
       #preTitle: Formación # optional
     - title: Datos de monitoreo
       description: |      # required
-       Grupo de interés <br> [🔒 Visitar](#cómo-crear-un-gi-sib){: .button .is-primary}
+       Grupo de interés <br> [Visitar](#cómo-crear-un-gi-sib){: .button .is-primary}
       background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
       href: /comunidad/grupos/grupo_monitoreo
       
