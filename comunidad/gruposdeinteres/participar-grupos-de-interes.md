@@ -44,22 +44,18 @@ ___
 
 ## ¿Cómo crear un Gi-SiB
 
-Para crear un Gi-SiB, se debe presentar una **propuesta siguiendo la [plantilla de Intención Grupo de Interés](https://docs.google.com/document/d/105hm8zakjQApgZJXXwN6O7NcrUBqQN9x2wWbH-Vdyxk/edit?usp=sharing)**, donde se describan sus actividades y se designen entre dos y cuatro co-líderes.
+1. Para crear un Gi-SiB, se debe presentar una **propuesta siguiendo la [plantilla Propuesta de Intención Grupo de interés](https://docs.google.com/document/d/105hm8zakjQApgZJXXwN6O7NcrUBqQN9x2wWbH-Vdyxk/edit?usp=sharing)**, donde se describan sus actividades y se designen entre dos y cuatro co-líderes.
+2. El documento debe enviarse al correo **[sib@humboldt.org.co](mailto:sib@humboldt.org.co)**. Una vez recibido:
+    1. El EC-SiB se contactará con los proponentes. \
 
-El documento debe enviarse al correo **[sib@humboldt.org.co](mailto:sib@humboldt.org.co)**. Una vez recibido:
+    2. La propuesta será enviada al **Comité Técnico (CT-SiB)** para su revisión. \
 
-1. El EC-SiB se contactará con los proponentes.
-
-2. La propuesta será enviada al **Comité Técnico (CT-SiB)** para su revisión.
-
-3. El CT-SiB tendrá hasta cuatro semanas para analizar el documento y emitir una de las siguientes respuestas:
-
-* ✅ **Aprobado sin modificaciones**: El grupo es reconocido y puede iniciar actividades.
-* ✅ **Aprobado con revisiones**: Se requiere ajustar la propuesta antes del reconocimiento oficial.
-* 🔹**Relevante, pero no aprobado**: La idea es válida, pero necesita mayor desarrollo antes de su aprobación. Se brindarán recomendaciones para su fortalecimiento.
-* 🔹**No aprobado**: La propuesta no se ajusta a los objetivos del SiB Colombia o a sus criterios de aprobación. Se explicarán los motivos del rechazo.
-
-Tras la aprobación, el EC-SiB contactará nuevamente al grupo para iniciar sus actividades.
+    3. El CT-SiB tendrá hasta cuatro semanas para analizar el documento y emitir una de las siguientes respuestas:
+        *  ✅ **Aprobado sin modificaciones**: El grupo es reconocido y puede iniciar actividades.
+        *  ✅ **Aprobado con revisiones**: Se requiere ajustar la propuesta antes del reconocimiento oficial.
+        * 🔹**Relevante, pero no aprobado**: La idea es válida, pero necesita mayor desarrollo antes de su aprobación. Se brindarán recomendaciones para su fortalecimiento.
+        * 🔹**No aprobado**: La propuesta no se ajusta a los objetivos del SiB Colombia o a sus criterios de aprobación. Se explicarán los motivos del rechazo.
+3. Si el Gi-SiB es aprobado, el EC-SiB contactará nuevamente al grupo para iniciar sus actividades.
 
 ___
 
