@@ -36,7 +36,7 @@ Un GI-SiB puede desempeñar una o varias de las siguientes funciones:
 
 ___
 
-## ¿Cómo unirse a un GI-SiB</b></summary>
+## ¿Cómo unirse a un GI-SiB
 
 Cualquier persona interesada puede unirse a un GI-SiB contactando a uno de sus líderes a través de la página del grupo. Estos grupos incluyen expertos de la comunidad del SiB Colombia comprometidos con su misión de facilitar la publicación, acceso y uso de datos sobre biodiversidad.
 
