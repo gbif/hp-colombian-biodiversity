@@ -32,7 +32,7 @@ Colectivamente, en este grupo crearemos lineamientos y herramientas para el uso 
 | Lina Sánchez       | lsanchez@humboldt.org.co   | Investigador Principal              | IAvH - Gerencia de Información Científica |
 
 
-### ¿Quiénes pueden participar en el grupo de interés en Monitoreo de Biodiversidad?d?
+### ¿Quiénes pueden participar en el grupo de interés en Monitoreo de Biodiversidad?
 
 Todas las personas que sean parte de iniciativas que tomen datos de monitoreo de biodiversidad están invitadas a participar, es decir, todas aquellas en las que exista un proceso de medición estandarizada, Todas las personas que sean parte de iniciativas que tomen datos de monitoreo de biodiversidad.
 
