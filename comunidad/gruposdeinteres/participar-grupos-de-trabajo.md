@@ -21,10 +21,10 @@ Los GT-SiB pueden abordar aspectos como:
 
 
 * ✅ **Publicación de datos**: Estrategias para mejorar la cantidad y calidad de datos disponibles.
-*  ✅ **Interoperabilidad y reutilización**: Métodos para integrar y aprovechar los datos en distintos sistemas.
-*  ✅ **Análisis de datos**: Desarrollo de herramientas o metodologías para interpretar y usar datos sobre biodiversidad.
+* ✅ **Interoperabilidad y reutilización**: Métodos para integrar y aprovechar los datos en distintos sistemas.
+* ✅ **Análisis de datos**: Desarrollo de herramientas o metodologías para interpretar y usar datos sobre biodiversidad.
 * ✅ **Administración y preservación de datos**: Prácticas para garantizar la integridad y accesibilidad de los datos.
-*  ✅ **Buenas prácticas**: Recomendaciones y estándares que favorezcan la misión del SiB Colombia.
+* ✅ **Buenas prácticas**: Recomendaciones y estándares que favorezcan la misión del SiB Colombia.
 
 </details>
 
@@ -43,11 +43,11 @@ Crear un GT-SiB implica un mayor compromiso que formar parte de un GI-SiB. Para 
 
 El **Equipo coordinador (EC-SiB)** y el **Comité técnico (CT-SiB)** evaluarán la propuesta con base en los siguientes criterios:
 
-*  ✅ Alineación con la **visión y misión** del SiB Colombia.
-*  ✅ Participación de **2 a 4 co-líderes** responsables.
-*  ✅ Resultados **concretos y medibles**.
-*  ✅ **Impacto en** la publicación, acceso o uso de datos sobre biodiversidad.
-*  ✅ **Factibilidad** dentro del periodo de 12-24 meses.
+* ✅ Alineación con la **visión y misión** del SiB Colombia.
+* ✅ Participación de **2 a 4 co-líderes** responsables.
+* ✅ Resultados **concretos y medibles**.
+* ✅ **Impacto en** la publicación, acceso o uso de datos sobre biodiversidad.
+* ✅ **Factibilidad** dentro del periodo de 12-24 meses.
 * ✅ **Valor agregado** en relación con otros esfuerzos de la comunidad.
 #### 
 **Evaluación**
@@ -56,8 +56,8 @@ El **Equipo coordinador (EC-SiB)** y el **Comité técnico (CT-SiB)** evaluarán
 #### 
 **Decisión final del CT-SiB**
 
-*  ✅**Reconocido y respaldado**: El grupo es aprobado y puede iniciar actividades.
-*  ✅ **Reconocido con ajustes**: Se solicita modificar algunos aspectos antes de la aprobación final.
+* ✅**Reconocido y respaldado**: El grupo es aprobado y puede iniciar actividades.
+* ✅ **Reconocido con ajustes**: Se solicita modificar algunos aspectos antes de la aprobación final.
 * 🔹 **Pertinente pero no respaldado actualmente**: La propuesta necesita madurar antes de su aprobación.
 * 🔹 **No respaldado**: La idea no se ajusta a los criterios del SiB Colombia.
 
