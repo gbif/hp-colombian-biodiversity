@@ -25,92 +25,91 @@ tarjetasGrupos:
       #preTitle: Formación # optional
     - title: Datos de monitoreo
       description: |      # required
-       Grupo de interés
+       Grupo de interés <br> [🔒 Visitar](#cómo-crear-un-gi-sib){: .button .is-primary}
       background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
       href: /comunidad/grupos/grupo_monitoreo
       
       #preTitle: "Histórico"  # optional
     - title: Datos moleculares  # required
       description: |      # required
-       Grupo de interés
-       [🔒 Ver como crearlo](#cómo-crear-un-gi-sib){: .button .is-primary}
+       Grupo de interés <br> [🔒 Ver como crearlo](#cómo-crear-un-gi-sib){: .button}
       background: /comunidad/gruposdeinteres/images/DatosMoleculares.jpg
-      href: /comunidad/grupos/participar-grupos-de-interes       
+      href: #cómo-crear-un-gi-sib      
       
      #preTitle: Formación # optional
     - title: Calidad de datos
       description: |      # required
-       Grupo de interés
+       Grupo de interés <br> [🔒 Ver como crearlo](#cómo-crear-un-gi-sib){: .button}
       background: /comunidad/gruposdeinteres/images/CalidadDatos.jpg
-      href: /comunidad/grupos/participar-grupos-de-interes
+      href: #cómo-crear-un-gi-sib
 
       
       #preTitle:  Formación # optional
     - title: Propiedad intelectual
       description: |      # required
-       Grupo de interés
+       Grupo de interés <br> [🔒 Ver como crearlo](#cómo-crear-un-gi-sib){: .button}
       # img required
       background: /comunidad/gruposdeinteres/images/AtribucionReconocimiento.jpg
-      href: /comunidad/grupos/participar-grupos-de-interes
+      href: #cómo-crear-un-gi-sib
       
       
      #preTitle: "Histórico"  # optional
     #- title: Ciencia participativa  # required
       #description: |      # required
-      #Grupo de interés
+      #Grupo de interés <br> [🔒 Ver como crearlo](#cómo-crear-un-gi-sib){: .button}
       #background: /comunidad/gruposdeinteres/images/CienciaParticipativa.jpg
-      #href: /comunidad/grupos/participar-grupos-de-interes
+      #href: #cómo-crear-un-gi-sib
      
         
       #preTitle:  Formación # optional
     - title: Colecciones Biológicas
       description: |      # required
        Grupo de interés
-      # img required
+      # img required <br> [🔒 Ver como crearlo](#cómo-crear-un-gi-sib){: .button}
       background: /comunidad/gruposdeinteres/images/ColeccionesBiologicas.jpg
-      href: /comunidad/grupos/participar-grupos-de-interes
+      href: #cómo-crear-un-gi-sib
 
 
       #preTitle: "Histórico"  # optional
     #- title: Listas de referencia taxonómica  # required
       #description: |      # required
-      #Grupo de interés
+      #Grupo de interés <br> [🔒 Ver como crearlo](#cómo-crear-un-gi-sib){: .button}
       #background: /comunidad/gruposdeinteres/images/ListasTaxo.jpg
-      #href: /comunidad/grupos/participar-grupos-de-interes
+      #href: #cómo-crear-un-gi-sib
       
       
       #preTitle: "Histórico"  # optional
     #- title: Entomología  # required
       #description: |      # required
-      #Grupo de interés
+      #Grupo de interés <br> [🔒 Ver como crearlo](#cómo-crear-un-gi-sib){: .button}
       #background: /comunidad/gruposdeinteres/images/Entomologia.jpg
-      #href: /comunidad/grupos/participar-grupos-de-interes
+      #href: #cómo-crear-un-gi-sib
 
 
       #preTitle: "Histórico"  # optional
     #- title: Métricas de uso de datos # required
       #description: |      # required
-      #Grupo de trabajo
+      #Grupo de trabajo <br> [🔒 Ver como crearlo](#cómo-crear-un-gi-sib){: .button}
       #background: /comunidad/gruposdeinteres/images/UsoDatos.jpg
-      #href: /comunidad/grupos/participar-grupos-de-interes
+      #href: #cómo-crear-un-gi-sib
       
       #preTitle: "Histórico"  # optional
     #- title: Calidad de datos geográficos # required
       #description: |      # required
-      #Grupo de trabajo
+      #Grupo de trabajo <br> [🔒 Ver como crearlo](#cómo-crear-un-gi-sib){: .button}
       #background: /comunidad/gruposdeinteres/images/DatosGeograficos.jpg
-      #href: /comunidad/grupos/participar-grupos-de-trabajo
+      #href: #cómo-crear-un-gi-sib
       
       #preTitle: "Histórico"  # optional
     #- title: Datos microbiológicos # required
       #description: |      # required
-      #Grupo de trabajo
+      #Grupo de trabajo <br> [🔒 Ver como crearlo](#cómo-crear-un-gi-sib){: .button}
       #background: /comunidad/gruposdeinteres/images/Microbiologia.jpg
-      #href: /comunidad/grupos/participar-grupos-de-trabajo
+      #href: #cómo-crear-un-gi-sib
       
       #preTitle: "Histórico"  # optional
     #- title: Información de evaluación y riesgo de extinción # required
       #description: |      # required
-      #Grupo de trabajo
+      #Grupo de trabajo <br> [🔒 Ver como crearlo](#cómo-crear-un-gi-sib){: .button}
       #background: /comunidad/gruposdeinteres/images/Extinsion.jpg
-      #href: /comunidad/grupos/participar-grupos-de-trabajo
+      #href: #cómo-crear-un-gi-sib
