@@ -65,17 +65,16 @@ Saludo cordial,<br><br>
 ___
 
 
-### 3. Inicia el acompañamiento para la publicación**
+### 3. Inicia el acompañamiento para la publicación
 
 A partir de la solicitud de acompañamiento enviada, un asesor del Equipo Coordinador del SiB Colombia se pone en contacto contigo y te ofrece el apoyo necesario para la publicación. Después de una revisión detallada de la ficha de especies que enviaste, te enviará un correo electrónico con sugerencias y recomendaciones que deben ser atendidas para proceder con el cargue de las fichas en la plataforma.
 
-Además de realizar los ajustes solicitados en el conjunto de datos, ten en cuenta que durante el proceso también debes avanzar con:
+Además de realizar los ajustes solicitados en el conjunto de datos, ten en cuenta que durante el proceso también debes avanzar con elegir entre las opciones preestablecidas de [licencias y herramientas](https://biodiversidad.co/recursos/acceso-abierto){:target="_blank"} *Creative Commons*, que determinará la forma como los comparten y las condiciones que imponen a los usuarios que los reutilicen.
 
 <details>
-    <summary markdown="span"><b>La selección de la licencia Creative Commons</b></summary>
+    <summary markdown="span"><b>Ver opciones de licencias Creative Commons</b></summary>
 
 <br>
-Todos los publicadores de datos deben elegir entre unas opciones preestablecidas de [licencias y herramientas](https://biodiversidad.co/recursos/acceso-abierto){:target="_blank"} *Creative Commons*, que determinará la forma como los comparten y las condiciones que imponen a los usuarios que los reutilicen.<br><br>
 
 CC0, permite cualquier uso sin restricciones, incluso con fines comerciales.<br>
 CC BY, permite cualquier uso, incluso con fines comerciales, siempre que te sea reconocida la autoría de la publicación.<br>
