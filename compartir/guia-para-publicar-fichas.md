@@ -46,19 +46,20 @@ El SiB Colombia está atento para ayudarte a asegurar que tus fichas cuenten con
 
 <br>
 
-> **Asunto**: Publicación de fichas de especies – [nombre de la organización publicadora]
+**Asunto**: Publicación de fichas de especies – [nombre de la organización publicadora]<br><br>
 
-> Apreciado Equipo Coordinador,
-> 
-> Mi nombre es `[nombre de la persona encargada de la publicación]`, trabajo para `[nombre de la organización publicadora]` y deseo solicitar un acompañamiento para la publicación de fichas de especies que previamente preparé y validé siguiendo las instrucciones del SiB Colombia.
-> 
-> Las fichas de especies que deseamos publicar corresponden a…`[una breve descripción de las fichas de especies que serán publicadas. Debe proveer suficiente información para ayudar al Equipo Coordinador a entender si hubo un énfasis en la documentación, como por ejemplo usos, riesgo y extinción, o si se cubrió sólo información general de la descripción taxonómica de la especie.`.
-> 
-> Adjunto las fichas de especies en formato Word y quedo atento a los próximos pasos.
-> 
-> Saludo cordial,
-> 
-> [nombre de la persona encargada de la publicación]
+Apreciado Equipo Coordinador,<br><br>
+ 
+Mi nombre es `[nombre de la persona encargada de la publicación]`, trabajo para `[nombre de la organización publicadora]` y deseo solicitar un acompañamiento para la publicación de fichas de especies que previamente preparé y validé siguiendo las instrucciones del SiB Colombia.<br><br>
+ 
+Las fichas de especies que deseamos publicar corresponden a…`[una breve descripción de las fichas de especies que serán publicadas. Debe proveer suficiente información para ayudar al Equipo Coordinador a entender si hubo un énfasis en la documentación, como por ejemplo usos, riesgo y extinción, o si se cubrió sólo información general de la descripción taxonómica de la especie.`.<br><br>
+ 
+Adjunto las fichas de especies en formato Word y quedo atento a los próximos pasos.<br><br>
+ 
+Saludo cordial,<br><br>
+ 
+[nombre de la persona encargada de la publicación]
+
 </details>
 
 ___
