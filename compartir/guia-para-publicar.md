@@ -12,7 +12,7 @@ toc: true
 
 Los datos e información sobre la biodiversidad colombiana contienen información taxonómica, geográfica e histórica única, recopilada durante años por investigadores y diversos actores a través de observaciones o recolecciones de organismos en nuestro país. Su registro ofrece múltiples posibilidades para resolver preguntas provenientes de la sociedad, pero a veces son de acceso limitado o están en formatos difíciles de interpretar o de conectar a otras fuentes e iniciativas.
 
-Aprovechando los avances tecnológicos, cada vez más organizaciones públicas y privadas buscan compartir dichos datos e información a través de procesos más robustos y con [mejores posibilidades de acceso](https://biodiversidad.co/recursos/acceso-abierto/#compartir){:target="_blank"}. Para ello, el SiB Colombia **facilita la publicación de conjuntos de datos **([registros biológicos](https://biodiversidad.co/compartir/tipos-de-datos#registros-biológicos){:target="_blank"}, [eventos de muestreo](https://biodiversidad.co/compartir/tipos-de-datos/#eventos-de-muestreo){:target="_blank"}, [listas de chequeo](https://biodiversidad.co/compartir/tipos-de-datos/#listas-de-especies){:target="_blank"}) e información ([fichas de especies](https://biodiversidad.co/compartir/tipos-de-datos/#fichas-de-especies){:target="_blank"}) **a organizaciones** (o personas autorizadas por estas), usando [estándares](https://biodiversidad.co/compartir/estandares) internacionalmente aceptados. Esto garantiza la calidad y el acceso a lo que se publica, sin cerrar las puertas a iniciativas de ciencia participativa (como las de monitoreo comunitario), en las que sus integrantes pueden compartir sus observaciones a través de organizaciones que publican sus datos por medio del SiB Colombia.
+Aprovechando los avances tecnológicos, cada vez más organizaciones públicas y privadas buscan compartir dichos datos e información a través de procesos más robustos y con [mejores posibilidades de acceso](https://biodiversidad.co/recursos/acceso-abierto/#compartir){:target="_blank"}. Para ello, el SiB Colombia **facilita la publicación de conjuntos de datos** ([registros biológicos](https://biodiversidad.co/compartir/tipos-de-datos#registros-biológicos){:target="_blank"}, [eventos de muestreo](https://biodiversidad.co/compartir/tipos-de-datos/#eventos-de-muestreo){:target="_blank"}, [listas de chequeo](https://biodiversidad.co/compartir/tipos-de-datos/#listas-de-especies){:target="_blank"}) e información ([fichas de especies](https://biodiversidad.co/compartir/tipos-de-datos/#fichas-de-especies){:target="_blank"}) **a organizaciones** (o personas autorizadas por estas), usando [estándares](https://biodiversidad.co/compartir/estandares) internacionalmente aceptados. Esto garantiza la calidad y el acceso a lo que se publica, sin cerrar las puertas a iniciativas de ciencia participativa (como las de monitoreo comunitario), en las que sus integrantes pueden compartir sus observaciones a través de organizaciones que publican sus datos por medio del SiB Colombia.
 
 Los tipos de datos o información definen la ruta para continuar. Para identificarla es importante que te hagas las siguientes dos preguntas:
 
@@ -24,19 +24,30 @@ Los tipos de datos o información definen la ruta para continuar. Para identific
 
 <br>
 
-<p>Una parte importante de la misión del SiB Colombia es promover una cultura en el que todas las personas reconozcan los beneficios de publicar datos abiertos sobre biodiversidad, tanto para quien los publica, como para la sociedad en general. Por esto, la publicación de datos:</p>
+<p>
+Una parte importante de la misión del SiB Colombia es promover una cultura en el que todas las personas reconozcan los beneficios de publicar datos abiertos sobre biodiversidad, tanto para quien los publica, como para la sociedad en general. Por esto, la publicación de datos:
+</p>
 <ul>
- <li><strong>Promueve la visibilidad y reconocimiento de las personas y organizaciones</strong> que generan y hacen curaduría de datos o información sobre biodiversidad.</li>
- <li><strong>Amplía el reconocimiento ante la comunidad académica a autores de [artículos de datos revisados por pares](https://www.gbif.org/es/data-papers){:target="_blank"}</strong> a partir de datos abiertos.</li> 
- <li></strong>Contribuye al conocimiento global sobre la biodiversidad</strong> y, por tanto, a las soluciones que promueven su cuidado y uso sostenible, al hacer que tus datos sean accesibles a través del SiB Colombia y plataformas como [GBIF](https://www.gbif.org/){:target="_blank"} u [OBIS](https://obis.org/){:target="_blank"}.</li>
- <li><strong>Facilita nuevas oportunidades de colaboración a través de la integración de conjuntos de datos en todo el mundo</strong>, entre los propietarios de los datos y otros investigadores o actores.</li>
+ <li><strong>Promueve la visibilidad y reconocimiento de las personas y organizaciones </strong>que generan y hacen curaduría de datos o información sobre biodiversidad.</li>
+ 
+ <li><strong>Amplía el reconocimiento ante la comunidad académica a autores de <a href="https://www.gbif.org/es/data-papers">artículos de datos revisados por pares</a></strong>{:target="_blank"} a partir de datos abiertos.</li>
+ 
+ <li><strong>Contribuye al conocimiento global sobre la biodiversidad</strong> y, por tanto, a las soluciones que promueven su cuidado y uso sostenible, al hacer que tus datos sean accesibles a través del SiB Colombia y plataformas como <a href="https://www.gbif.org/">GBIF</a>{:target="_blank"} u <a href="https://obis.org/">OBIS</a>{:target="_blank"}.</li>
+ 
+ <li><strong>Facilita nuevas oportunidades de colaboración a través de la integración de conjuntos de datos en todo el mundo, </strong>entre los propietarios de los datos y otros investigadores o actores.</li>
+ 
  <li><strong>Permite rastrear el uso y las citas de los conjuntos de datos publicados</strong> y a los que se accede a través del SiB Colombia e infraestructuras similares (GBIF, OBIS).</li>
- <li><strong>Impulsa oportunidades con agencias financiadoras</strong> que ahora exigen que los investigadores y organizaciones que reciben sus fondos cuenten con un plan de gestión de datos que incluya su publicación abierta al final de un proyecto, a través de plataformas como el SiB Colombia.</li>
+ 
+ <li><strong>Impulsa oportunidades con agencias financiadoras </strong>que ahora exigen que los investigadores y organizaciones que reciben sus fondos cuenten con un plan de gestión de datos que incluya su publicación abierta al final de un proyecto, a través de plataformas como el SiB Colombia.</li>
+ 
  <li><strong>Contribuye a las Metas Kunming - Montreal del CDB</strong>, facilitando datos, información y conocimientos para la toma de decisiones (Meta 21) e, indirectamente, apoyando las metas 1 (sobre áreas clave para la biodiversidad, KBA), 2 (restauración de ecosistemas), 3 (monitoreo de áreas protegidas), 4 (recuperación y conservación de especies), 6 (control de especies invasoras) y  15 (regulación de impactos empresariales en la biodiversidad).</li>
- <li><strong>Aporta a la evaluación de los [ODS 14 (Vida submarina)](https://ods.dnp.gov.co/es/objetivos/vida-submarina){:target="_blank"}</strong> y [15 (Vida de ecosistemas terrestres)](https://ods.dnp.gov.co/es/objetivos/vida-de-ecosistemas-terrestres){:target="_blank"}.</li>
- <li><strong>Permite la construcción de modelos y evaluaciones de la biodiversidad a diferentes escalas</strong>, por parte de instancias intergubernamentales como [GEO-BON](https://geobon.org/){:target="_blank"} e [IPBES](https://ipbes.net/){:target="_blank"}.</li>
- <li><strong>Contribuye al Acuerdo de Escazú</strong>, ratificado en la Ley 2273 de 2022, que busca facilitar el acceso a la información, la participación pública y el acceso a la justicia en asuntos ambientales.</li>
-</ul>
+ 
+ <li><strong>Aporta a la evaluación de los <a href="https://ods.dnp.gov.co/es/objetivos/vida-submarina">ODS 14 (Vida submarina)</a></strong>{:target="_blank"} y <a href="https://ods.dnp.gov.co/es/objetivos/vida-de-ecosistemas-terrestres">15 (Vida de ecosistemas terrestres)</a>{:target="_blank"}.</li>
+ 
+ <li><strong>Permite la construcción de modelos y evaluaciones de la biodiversidad a diferentes escalas</strong>, por parte de instancias intergubernamentales como <a href="https://geobon.org/">GEO-BON</a>{:target="_blank"} e <a href="https://ipbes.net/">IPBES</a>{:target="_blank"}.</li>
+ 
+ <li><strong>Contribuye al Acuerdo de Escazú,</strong> ratificado en la Ley 2273 de 2022, que busca facilitar el acceso a la información, la participación pública y el acceso a la justicia en asuntos ambientales.</li>
+ </ul>
 
 </details>
 
