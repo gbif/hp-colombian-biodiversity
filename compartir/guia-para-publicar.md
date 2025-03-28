@@ -24,10 +24,10 @@ Los tipos de datos o información definen la ruta para continuar. Para identific
 
 <br>
 
-<blockquote>
+ <blockquote>
   <p>Una parte importante de la misión del SiB Colombia es promover una cultura en el que todas las personas reconozcan los beneficios de publicar datos abiertos sobre biodiversidad, tanto para quien los publica, como para la sociedad en general. Por esto, la publicación de datos:</p>
   <ul>
-   <li><strong>Promueve la visibilidad y reconocimiento de las personas y organizaciones </strong>que generan y hacen curaduría de datos o información sobre biodiversidad.</li>
+   <li><strong>Promueve la visibilidad y reconocimiento de las personas y organizaciones</strong> que generan y hacen curaduría de datos o información sobre biodiversidad.</li>
    
    <li><strong>Amplía el reconocimiento ante la comunidad académica a autores de <a href="https://www.gbif.org/es/data-papers" target="_blank">artículos de datos revisados por pares</a></strong> a partir de datos abiertos.</li>
    
@@ -41,9 +41,9 @@ Los tipos de datos o información definen la ruta para continuar. Para identific
    
    <li><strong>Contribuye a las Metas Kunming - Montreal del CDB</strong>, facilitando datos, información y conocimientos para la toma de decisiones (Meta 21) e, indirectamente, apoyando las metas 1 (sobre áreas clave para la biodiversidad, KBA), 2 (restauración de ecosistemas), 3 (monitoreo de áreas protegidas), 4 (recuperación y conservación de especies), 6 (control de especies invasoras) y  15 (regulación de impactos empresariales en la biodiversidad).</li>
    
-   <li><strong>Aporta a la evaluación de los <a href="https://ods.dnp.gov.co/es/objetivos/vida-submarina" target="_blank">ODS 14 (Vida submarina)</a></strong> y <a href="https://ods.dnp.gov.co/es/objetivos/vida-de-ecosistemas-terrestres" target="_blank">15 (Vida de ecosistemas terrestres)</a>.</li>
+   <li><strong>Aporta a la evaluación de los <a href="https://ods.dnp.gov.co/es/objetivos/vida-submarina" target="_blank">ODS 14 (Vida submarina)</a></strong> y <strong><a href="https://ods.dnp.gov.co/es/objetivos/vida-de-ecosistemas-terrestres" target="_blank">15 (Vida de ecosistemas terrestres)</a></strong>.</li>
    
-   <li><strong>Permite la construcción de modelos y evaluaciones de la biodiversidad a diferentes escalas</strong>, por parte de instancias intergubernamentales como <a href="https://geobon.org/" target="_blank">GEO-BON</a> e <a href="https://ipbes.net/" target="_blank">IPBES</a>.</li>
+   <li><strong>Permite la construcción de modelos y evaluaciones de la biodiversidad a diferentes escalas</strong>, por parte de instancias intergubernamentales como <strong><a href="https://geobon.org/" target="_blank">GEO-BON</a></strong> e <strong><a href="https://ipbes.net/" target="_blank">IPBES</a></strong>.</li>
    
    <li><strong>Contribuye al Acuerdo de Escazú,</strong> ratificado en la Ley 2273 de 2022, que busca facilitar el acceso a la información, la participación pública y el acceso a la justicia en asuntos ambientales.</li>
   </ul>
