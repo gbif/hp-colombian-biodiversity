@@ -1,7 +1,7 @@
 ---
 layout: heroImage
-title: Guía para publicar información
-description: Conoce el modelo, procesos, herramientas y mejores prácticas para publicar información a través del SiB Colombia.
+title: Guía para publicar fichas de especies
+description: Conoce el paso a paso para publicar información sobre fichas de especies en el SiB Colombia.
 background: /assets/images/fondos_layout/VAL1272_Villegas-Velez-Felipe.jpg
 imageLicense: |
  Fotografía de: Felipe Villegas
