@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 title: Guía para publicar datos e información
-description: Conoce el modelo, procesos, herramientas y mejores prácticas para publicar datos e información a través del SiB Colombia
+description: Conoce los beneficios y el paso a paso para publicar conjuntos de datos o fichas de especies de nuestra biodiversidad en el SiB Colombia.
 background: https://live.staticflickr.com/8183/8419468465_35c5ecc471_b.jpg
 imageLicense: |
  _Morpho peleides_ Fotografía de: Bernard DUPONT vía [Flickr](https://flic.kr/p/dPZYDp)
@@ -10,184 +10,136 @@ toc: true
 ---
 
 
-Los datos e información sobre la biodiversidad de nuestro país son complejos y contienen información taxonómica, geográfica e histórica única, recopilada durante años por científicos, investigadores a través de observaciones o colectas. Esta información es crucial para el correcto entendimiento y gestión de la biodiversidad y los ecosistemas, pero no siempre es fácilmente accesible, o se presenta en formatos que dificultan su interpretación y la interoperabilidad entre distintas fuentes. Actualmente, las organizaciones públicas y privadas quieren gestionar esta información aprovechando los avances tecnológicos, que hoy en día, nos permiten a todos contribuir al conocimiento de nuestra biodiversidad, facilitando de esta manera unas conexiones más robustas entre toda la información.
+Los datos e información sobre la biodiversidad colombiana contienen información taxonómica, geográfica e histórica única, recopilada durante años por investigadores y diversos actores a través de observaciones o recolecciones de organismos en nuestro país. Su registro ofrece múltiples posibilidades para resolver preguntas provenientes de la sociedad, pero a veces son de acceso limitado o están en formatos difíciles de interpretar o de conectar a otras fuentes e iniciativas.
 
-El SiB Colombia facilita la publicación de [tres clases de conjuntos de datos](/compartir/tipos-de-datos), entre otros tipos de información, usando [estándares](/compartir/estandares) internacionales para datos sobre biodiversidad ampliamente aceptados.
- 
+Aprovechando los avances tecnológicos, cada vez más organizaciones públicas y privadas buscan compartir dichos datos e información a través de procesos más robustos y con [mejores posibilidades de acceso](https://biodiversidad.co/recursos/acceso-abierto/#compartir){:target="_blank"}. Para ello, el SiB Colombia **facilita la publicación de conjuntos de datos **([registros biológicos](https://biodiversidad.co/compartir/tipos-de-datos#registros-biológicos){:target="_blank"}, [eventos de muestreo](https://biodiversidad.co/compartir/tipos-de-datos/#eventos-de-muestreo){:target="_blank"}, [listas de chequeo](https://biodiversidad.co/compartir/tipos-de-datos/#listas-de-especies){:target="_blank"}) e información ([fichas de especies](https://biodiversidad.co/compartir/tipos-de-datos/#fichas-de-especies){:target="_blank"}) **a organizaciones** (o personas autorizadas por estas), usando [estándares](https://biodiversidad.co/compartir/estandares) internacionalmente aceptados. Esto garantiza la calidad y el acceso a lo que se publica, sin cerrar las puertas a iniciativas de ciencia participativa (como las de monitoreo comunitario), en las que sus integrantes pueden compartir sus observaciones a través de organizaciones que publican sus datos por medio del SiB Colombia.
 
-A la fecha, solo es posible la publicación de datos e información desde o a través organizaciones. Las personas que deseen publicar, deben buscar el respaldo como publicador a través de sus organizaciones. Aquellas personas involucradas en iniciativas de Ciencia Participativa, pueden publicar sus observaciones de manera indirecta participando en alguno de los numerosos proyectos que se desarrollan en el país y que publican sus conjuntos de datos a través del SiB Colombia.
+Los tipos de datos o información definen la ruta para continuar. Para identificarla es importante que te hagas las siguientes dos preguntas:
 
+> [¿Qué tipo de conjuntos de datos o información deseo publicar?](https://biodiversidad.co/compartir/tipos-de-datos){:target="_blank"}
+> ¿Cuál es el motivo de mi publicación?
 
-Debido a la diversidad de datos e información sobre biodiversidad que se genera en el país, el SiB Colombia cuenta con tres rutas de publicación diferente. El origen, fuente y tipo de datos o información, definen la ruta. Para identificar la ruta es importante que te hagas las siguientes dos preguntas:
+<details>
+    <summary markdown="span"><B> Descubre los beneficios de publicar datos abiertos sobre biodiversidad</B></summary>
 
- 
-- [¿Qué tipo de datos o información deseo publicar?](/compartir/tipos-de-datos)
-- ¿Cuál es el motivo de mi publicación?
+<br>
 
----
-## Por qué publicar datos abiertos sobre biodiversidad
+<p>Una parte importante de la misión del SiB Colombia es promover una cultura en el que todas las personas reconozcan los beneficios de publicar datos abiertos sobre biodiversidad, tanto para quien los publica, como para la sociedad en general. Por esto, la publicación de datos:</p>
+<ul>
+ <li><strong>Promueve la visibilidad y reconocimiento de las personas y organizaciones</strong> que generan y hacen curaduría de datos o información sobre biodiversidad.</li>
+ <li><strong>Amplía el reconocimiento ante la comunidad académica a autores de [artículos de datos revisados por pares](https://www.gbif.org/es/data-papers){:target="_blank"}</strong> a partir de datos abiertos.</li> 
+ <li></strong>Contribuye al conocimiento global sobre la biodiversidad</strong> y, por tanto, a las soluciones que promueven su cuidado y uso sostenible, al hacer que tus datos sean accesibles a través del SiB Colombia y plataformas como [GBIF](https://www.gbif.org/){:target="_blank"} u [OBIS](https://obis.org/){:target="_blank"}.</li>
+ <li><strong>Facilita nuevas oportunidades de colaboración a través de la integración de conjuntos de datos en todo el mundo</strong>, entre los propietarios de los datos y otros investigadores o actores.</li>
+ <li><strong>Permite rastrear el uso y las citas de los conjuntos de datos publicados</strong> y a los que se accede a través del SiB Colombia e infraestructuras similares (GBIF, OBIS).</li>
+ <li><strong>Impulsa oportunidades con agencias financiadoras</strong> que ahora exigen que los investigadores y organizaciones que reciben sus fondos cuenten con un plan de gestión de datos que incluya su publicación abierta al final de un proyecto, a través de plataformas como el SiB Colombia.</li>
+ <li><strong>Contribuye a las Metas Kunming - Montreal del CDB</strong>, facilitando datos, información y conocimientos para la toma de decisiones (Meta 21) e, indirectamente, apoyando las metas 1 (sobre áreas clave para la biodiversidad, KBA), 2 (restauración de ecosistemas), 3 (monitoreo de áreas protegidas), 4 (recuperación y conservación de especies), 6 (control de especies invasoras) y  15 (regulación de impactos empresariales en la biodiversidad).</li>
+ <li><strong>Aporta a la evaluación de los [ODS 14 (Vida submarina)](https://ods.dnp.gov.co/es/objetivos/vida-submarina){:target="_blank"}</strong> y [15 (Vida de ecosistemas terrestres)](https://ods.dnp.gov.co/es/objetivos/vida-de-ecosistemas-terrestres){:target="_blank"}.</li>
+ <li><strong>Permite la construcción de modelos y evaluaciones de la biodiversidad a diferentes escalas</strong>, por parte de instancias intergubernamentales como [GEO-BON](https://geobon.org/){:target="_blank"} e [IPBES](https://ipbes.net/){:target="_blank"}.</li>
+ <li><strong>Contribuye al Acuerdo de Escazú</strong>, ratificado en la Ley 2273 de 2022, que busca facilitar el acceso a la información, la participación pública y el acceso a la justicia en asuntos ambientales.</li>
+</ul>
 
-Una parte importante de la misión del SiB Colombia es promover una cultura en el que todas las personas reconozcan los beneficios de publicar datos abiertos sobre biodiversidad, tanto para quien los publica, como para la sociedad en general.
+</details>
 
-* Al hacer que tus datos sean visibles y accesibles a través del SiB Colombia y otras infraestructuras de información como GBIF y OBIS, **contribuyes al conocimiento global sobre la biodiversidad** y, por tanto, a las soluciones que promueven su conservación y uso sostenible.
-* Facilita la integración de conjuntos de datos en todo el mundo y descubrir **nuevas oportunidades de colaboración** entre los propietarios de los datos y otros investigadores.
-* Permite a las personas y organizaciones obtener **visibilidad y reconocimiento** apropiado por su trabajo como generadores y curadores de datos sobre biodiversidad. El reconocimiento será mayor si eres autor de un [artículo de datos revisado por pares](https://www.gbif.org/es/data-papers){:target="_blank"}, obteniendo el reconocimiento académico tradicional por la publicación de conjuntos de datos sobre biodiversidad.
-* Facilita **rastrear el uso y las citas de los conjuntos de datos publicados** y a los que se accede a través del SiB Colombia e infraestructuras similares (GBIF, OBIS).
-* Algunas agencias financiadoras ahora exigen que los investigadores y organizaciones que reciben sus fondos, cuenten con un plan de gestión de datos que incluya **su publicación abierta al final de un proyecto**, a través de plataformas como el SiB Colombia.
-* Contribuye a las [Metas Aichi 2010-2020](https://www.cbd.int/doc/strategic-plan/2011-2020/Aichi-Targets-ES.pdf){:target="_blank"} del CDB, en especial las metas 9 (especies invasoras), 11 (áreas protegidas), 12 (especies amenazadas) y 19 (gestión del conocimiento).
-* Aporta a la evaluación del [ODS 14 (Vida submarina)](https://ods.dnp.gov.co/es/objetivos/vida-submarina){:target="_blank"} y el [ODS 15 (Vida de ecosistemas terrestres)](https://ods.dnp.gov.co/es/objetivos/vida-de-ecosistemas-terrestres){:target="_blank"}.
-* Permite que instancias intergubernamentales como [GEO-BON](https://geobon.org/){:target="_blank"} e [IPBES](https://ipbes.net/){:target="_blank"} puedan construir modelos y evaluaciones de la biodiversidad respectivamente, a diferentes escalas.
+___
 
+| En este punto, de acuerdo a tu interés, puedes seguir en esta guía de publicación de datos abiertos o continuar hacia la de [publicación de fichas de especies](https://biodiversidad.co/compartir/guia-para-publicar-fichas/). |
 
----
-
-## Publicación de datos
-
-Esta es la ruta de publicación más frecuente, usada para compartir [registros biológicos, eventos de muestreo y listas de especies](/compartir/tipos-de-datos). Al ser una ruta voluntaria, el Equipo Coordinador del SiB Colombia ofrece un acompañamiento para la publicación exitosa de los datos, asegurando que los conjuntos de datos cuentan con la mayor calidad posible.
 
 <br />
 <img src="/compartir/Imagenes/RutasDePublicacion_A.png">
 <br />
 
-### 1. Registra tu organización
+Esta es la ruta de publicación usada para compartir [registros biológicos, eventos de muestreo y listas de chequeo](https://biodiversidad.co/compartir/tipos-de-datos){:target="_blank"} El Equipo Coordinador del SiB Colombia ofrece un acompañamiento para la publicación exitosa de los datos, asegurando que los conjuntos de datos cuenten con la mayor calidad posible.
 
-Para llegar a ser un publicador de datos a través del SiB Colombia, tu organización debe solicitar un aval y registro a través del Equipo Coordinador del SiB Colombia. Una vez hayas revisado la política de publicación, y estés de acuerdo en compartir datos, debes informar a las directivas de tu organización sobre la importancia de ser un publicador del SiB Colombia y los beneficios para la organización. Es desde esa instancia que una organización toma la decisión de ser publicadora.
+## 1. Registra tu organización
 
+Para comenzar a publicar tus datos, tu organización debe registrarse una única vez como “socio publicador de datos” del SiB Colombia. Verifica si tu organización ya se encuentra registrada como publicador [aquí](https://biodiversidad.co/comunidad/socios-publicadores/){:target="_blank"}. Si tu organización ya está registrada, debes acercarte a uno de los contactos allí guardados para obtener información sobre la publicación de tus datos. En caso contrario, para registrarse, tu organización debe:
 
-De ser positiva la decisión, debes [solicitar el registro de la organización](/compartir/registro) en el SiB Colombia como publicador de datos e información. La solicitud de registro y aprobación se realiza en línea.
-
-
-El registro de una organización se realiza por una sola vez. Verifica si tu organización ya se encuentra registrada como publicador [aquí](https://biodiversidad.co/comunidad/socios-publicadores/){:target="_blank"} . Si tu organización ya está registrada, debes acercarte a uno de los contactos allí registrados para obtener información sobre la publicación de tus datos.
-
-### 2. Prepara los datos para la publicación
-
-Tus datos deben ser organizados en una estructura de tabla utilizando el [estándar Darwin Core (DwC)](/compartir/estandares). Para familiarizarte con el formato, puedes utilizar las [plantilla Excel](/recursos/plantillas-dwc) creadas para registros biológicos, eventos de muestreo y listas de especies.
-
-También puedes crear  tu propia plantilla de manera manual usando la [Guía de referencia rápida de elementos Darwin Core](https://drive.google.com/file/d/1KDbRvebUQ9_cTdUvRnj676Ln44Okcf4i/view){:target="_blank"}.
-
-Consulta el [vídeo sobre cómo preparar los datos para publicación](https://youtu.be/YAoc9QZ9cBw){:target="_blank"}.
-
-### 3. Valida la calidad de los datos estandarizados
-Puedes validar la calidad del conjunto de datos antes de publicarlo usando la herramienta [_GBIF Data Validator_](https://www.gbif.org/tools/data-validator){:target="_blank"}, que te entrega una serie recomendaciones específicas para mejorarlos y limpiarlos. Este reporte te ayudará a identificar datos duplicados, campos incompletos e inconsistencias en el formato.
+1. Revisar la política de publicación y estar de acuerdo en compartir tus datos.
+2. Informar a las directivas de tu organización sobre la importancia de ser un publicador del SiB Colombia y los beneficios para la organización. Es desde esa instancia que una organización toma la decisión de ser publicadora.
+3. De ser positiva la decisión, debe [solicitarse el registro de la organización](https://biodiversidad.co/compartir/registro){:target="_blank"} en el SiB Colombia como publicador de datos e información. La respuesta sobre la aprobación se realiza en línea.
 
 
-### 4. Solicita un acompañamiento para la publicación
-El SiB Colombia quiere asegurarse que tus conjuntos de datos cuentan con la mayor calidad posible antes de ser publicados. Así que cuando hayas finalizado la preparación de tu conjunto de datos y realizado las correcciones de calidad, debes ponerte en contacto con el Equipo Coordinador a través del correo electrónico [sib@humboldt.org.co]() solicitando un acompañamiento para la publicación.
+## 2. Prepara los datos para la publicación
 
-Modelo de correo electrónico:
+Tus datos deben ser organizados en una estructura de tabla utilizando el [estándar Darwin Core (DwC)](https://biodiversidad.co/compartir/estandares){:target="_blank"}. Para familiarizarte con el formato, puedes utilizar las [plantillas Excel](https://biodiversidad.co/recursos/plantillas-dwc){:target="_blank"} creadas para registros biológicos, eventos de muestreo, listas de chequeo y extensiones.
 
->**Asunto**: Publicación conjunto de datos – [nombre de la organización publicadora]
->
->Apreciado Equipo Coordinador,
->
->Mi nombre es ```[nombre de la persona encargada de la publicación]```, trabajo para ```]nombre de la organización publicadora]``` y deseo solicitar un acompañamiento para la publicación de un conjunto de datos que previamente preparé y validé siguiendo las instrucciones del modelo de publicación de datos del SiB Colombia.
->
->El conjunto de datos que deseamos publicar corresponde a…```[una breve descripción del conjunto de datos que será publicado. Debe proveer suficiente información para ayudar al Equipo Coordinador a entender su conjunto de datos y la forma en que fueron generados]```.
->
->Adjunto el conjunto de datos en formato [```Excel, TXT o CSV```] y quedo atento a los próximos pasos.
->
->Saludo cordial,
->
->```[nombre de la persona encargada de la publicación]```
+También puedes crear tu propia plantilla de manera manual usando la documentación del estándar Darwin Core adaptada al español disponible aquí. 
 
-Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, referencias bibliográficas, secuencias genéticas, imágenes, vídeo, sonidos, entre otros, y deseas que hagan parte de la publicación, recuerda mencionarlo en el correo y el Equipo Coordinador te apoyará en la estructuración y ajuste de estos datos adicionales.
+Consulta la [guía práctica de estandarización de datos en Darwin Core](https://biodiversidad.co/formacion/laboratorios/DWC){:target="_blank"} 
 
-Recuerda que los acompañamientos en el SiB Colombia se atienden en orden de llegada. Los tiempos de respuesta pueden variar dependiendo de la demanda o la complejidad de los datos.  
+## 3. Valida la calidad de los datos estandarizados
 
-### 5. Inicia el acompañamiento para la publicación
-Sobre tu solicitud, un profesional del Equipo Coordinador del SiB Colombia se pone en contacto contigo y te ofrece el apoyo necesario para la publicación. Este profesional realiza una revisión detallada sobre el conjunto de datos que enviaste, generando un reporte con las sugerencias y recomendaciones, en caso de encontrar vacíos en la calidad de los datos, que deben ser atendidas en el menor tiempo posible.
+Puedes validar la calidad del conjunto de datos antes de publicarlo usando la herramienta *[GBIF Data Validator](https://www.gbif.org/tools/data-validator)*{:target="_blank"}, que te entrega una serie recomendaciones específicas para mejorarlos y limpiarlos. Este reporte te ayudará a identificar datos duplicados, campos incompletos e inconsistencias en el formato.
 
-Además de realizar los ajustes solicitados en el conjunto de datos, ten en cuenta que durante el proceso debes avanzar con:
+## 4. Solicita un acompañamiento para la publicación
 
-1. **La selección de la licencia Creative Commons:** Todos los publicadores de datos deben elegir entre unas opciones preestablecidas de [licencias y herramientas](/recursos/acceso-abierto) Creative Commons, que determinará la forma como los comparten y las condiciones que imponen a los usuarios que los reutilicen.
+El SiB Colombia está atento para ayudarte a asegurar que tus conjuntos de datos cuenten con la mayor calidad posible antes de ser publicados. Para ello, después de finalizar la preparación de tu conjunto de datos y realizar las correcciones de calidad, debes ponerte en contacto con el Equipo Coordinador a través del correo electrónico [sib@humboldt.org.co](https://biodiversidad.co/compartir/guia-para-publicar/) solicitando un acompañamiento para la publicación.
 
-> - **CC0**, permite cualquier uso sin restricciones, incluso con fines comerciales.
-> - **CC BY**, permite cualquier uso, incluso con fines comerciales, siempre que te sea reconocida la autoría de la publicación.
-> - **CC BY-NC**, permite al público cualquier uso no comercial, siempre que te sea reconocida la autoría de la publicación.
+Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, referencias bibliográficas, secuencias genéticas, imágenes, vídeo, sonidos, entre otros, y deseas que hagan parte de la publicación, recuerda estandarizar los datos utilizando las plantillas y los elementos del estándar disponibles en la página web, además de mencionarlo en el correo, el Equipo Coordinador te apoyará en la los ajustes de estos datos adicionales o a estructurarlos en caso de ser necesario.
+
+Recuerda que los acompañamientos en el SiB Colombia se atienden en orden de llegada. Los tiempos de respuesta pueden variar dependiendo de la demanda o la complejidad de los datos.
+
+<details>
+    <summary markdown="span"><b> Conoce el modelo de correo electrónico recomendado</b></summary>
+    
+<br>
+
+<blockquote>
+ <b>Asunto</b>: Publicación conjunto de datos – [nombre de la organización publicadora]
  
-2. **La documentación de los metadatos:** En un correo del Equipo Coordinador recibes una URL al IPT (la plataforma de publicación de datos del SiB Colombia), con unas credenciales de acceso para iniciar el proceso de documentación de los metadatos del conjunto de datos. En la sección [Metadatos](https://ipt.gbif.org/manual/es/ipt/2.5/resource-metadata){:target="_blank"} de la plataforma, debes documentar toda la información que da contexto a tus datos. En total hay 12 secciones. Cuando hayas completado los metadatos, responde el correo del profesional del Equipo Coordinador indicando que has finalizado la documentación.
-
-El profesional del Equipo Coordinador revisa la documentación de metadatos y te informa si debes realizar ajustes.
-
-Consulta el [vídeo sobre cómo documentar metadatos en el IPT](https://www.youtube.com/watch?v=he-PVecR-Xs){:target="_blank"}.
-
-El proceso de acompañamiento es iterativo, es decir que el conjunto de datos y metadatos puede contar con varias revisiones antes de ser publicado, hasta que se cuenten con todos los mínimos de calidad.
-
-### 6. Publicación del conjunto de datos
-
-Cuando el conjunto de datos y sus metadatos se encuentran listos, se procede a su publicación. El profesional del Equipo Coordinador del SiB Colombia asigna un Identificador Único Digital (DOI) al conjunto de datos y realiza el registro del mismo en GBIF. Al finalizar el proceso, recibes un correo electrónico con la notificación de la publicación exitosa y los enlaces donde puede ser consultado.
-
----
-
-
-## Publicación de fichas de especies
-
-Esta es la ruta de publicación usada para compartir información sintetizada confiable y robusta sobre el conocimiento existente de nuestras especies. Las [fichas de especies](/compartir/tipos-de-datos#fichas-de-especies) generalmente incluyen información sobre historia natural, distribución, hábitat, usos, taxonomía, nombres comunes, videos, imágenes, sonidos, bibliografía relacionada, entre otros.
-
-El Equipo Coordinador realiza un acompañamiento a los publicadores para seleccionar las especies o taxa, verificar la información ya existente en el SiB Colombia y definir los elementos a documentar en una ficha.
-
-<br />
-<img src="/compartir/Imagenes/RutasDePublicacion_C.png">
-<br />
-
-### 1. Registra tu organización
-Para llegar a ser un publicador de información a través del SiB Colombia, tu organización debe solicitar un aval y registro a través del Equipo Coordinador del SiB Colombia. Una vez hayas revisado la [política de publicación](/terminos-y-condiciones/politica-de-publicacion), y estés de acuerdo en compartir, debes informar a las directivas de tu organización sobre la importancia de ser un publicador del SiB Colombia y los beneficios para la organización. Es desde esa instancia que una organización toma la decisión de ser publicadora.
-
-De ser positiva la decisión, debes solicitar el registro de la organización en el SiB Colombia como publicador de datos e información. La solicitud de registro y aprobación se realiza se realiza [en línea](/compartir/registro).
-
-El registro de una organización se realiza por una sola vez. Verifica si tu organización ya se encuentra registrada como publicadora [aquí](https://drive.google.com/file/d/1xaoIuBBtQioqxtxHqk1AOUDyLlnPNB0S/view){:target="_blank"}. Si tu organización ya está registrada, debes acercarte a uno de los contactos allí registrados para obtener información sobre la publicación de fichas de especies.
-
-### 2. Prepara los contenidos de las fichas
-
-La información para una ficha debe estar organizada en un documento Word, utilizando el estándar Plinian Core (PliC). Para familiarizarte con el formato, puedes utilizar las [plantilla Word creada para fichas de especies](/recursos/plantillas-plinian-core). También puedes crear tu propia plantilla usando la Guía de referencia rápida de elementos Plinian Core.
-
-Para que la preparación de contenidos te recomendamos:
-
-1. Seleccionar las especies para las cuales deseas publicar información.
-2. Definir los elementos o atributos del estándar para los cuales se desea publicar información.
-3. Seleccionar las fuentes de información (artículos científicos, revistas, libros, capítulos de libros, tesis, monografías, textos académicos, sitios web reconocidos, otros catálogos de especies, fotos, videos, mapas, etc.).
-4. Sintetizar y adaptar los textos para cada uno de los atributos definidos. Recuerda que cualquier información que se utilice debe estar debidamente citada y referenciada.
-5. Consolidar las referencias bibliográficas en un gestor bibliográfico. Ejemplo: Mendeley.
-6. Realizar un proceso general de revisión y validación de la información sintetizada. Este proceso te ayudará a identificar y corregir potenciales vacíos en la información preparada.
-
-### 3. Solicita un acompañamiento para la publicación
-
-El SiB Colombia quiere asegurarse que los contenidos de tus fichas cuentan con la mayor calidad posible antes de ser publicados. Así que cuando hayas finalizado la preparación de tus fichas, debes ponerte en contacto con el Equipo Coordinador a través del correo electrónico sib@humboldt.org.co solicitando un acompañamiento para la publicación.
-
-Modelo de correo electrónico:
-
-> Asunto: Publicación fichas de especies – [nombre de la organización publicadora]
->
-> Apreciado Equipo Coordinador,
->
-> Mi nombre es [nombre de la persona encargada de la creación y publicación], trabajo para [nombre de la organización publicadora] y deseo solicitar un acompañamiento para la publicación de un conjunto de fichas de especies que previamente preparé y validé siguiendo las instrucciones del modelo de publicación del SiB Colombia.
->
-> El conjunto de fichas de especies que deseamos publicar corresponde a… [una breve descripción del conjunto de fichas de especies que será publicado. Debe proveer suficiente información para ayudar al Equipo Coordinador a entender su conjunto de fichas y la forma en que fueron generadas].
->
-> Adjunto el conjunto de fichas de especies en formato Word y quedo atento a los próximos pasos.
-> 
-> Saludo cordial,
->
->[nombre de la persona encargada de la creación y publicación]
-
-### 4. Inicia el acompañamiento para la publicación
-
-Sobre tu solicitud, un profesional del Equipo Coordinador del SiB Colombia se pone en contacto contigo y te ofrece el apoyo necesario para la publicación. Este profesional realiza una revisión detallada sobre el conjunto de fichas de especies que enviaste, generando un reporte con las sugerencias y recomendaciones, en caso de encontrar vacíos, que deben ser atendidas en el menor tiempo posible.
-
-Además de realizar los ajustes solicitados al conjunto de fichas, ten en cuenta que durante el proceso debes avanzar con la selección de la licencia Creative Commons. Todos los publicadores de información deben elegir entre unas opciones preestablecidas de [licencias y herramientas](/recursos/acceso-abierto), que determinará la forma como los comparten y las condiciones que imponen a los usuarios que los reutilicen.
-
-> * CC0, permite cualquier uso sin restricciones, incluso con fines comerciales.
-> * CC BY, permite cualquier uso, incluso con fines comerciales, siempre que te sea reconocida la autoría de la publicación.
-> * CC BY-NC, permite al público cualquier uso no comercial, siempre que te sea reconocida la autoría de la publicación.
-> * CC BY-SA, permite cualquier uso, incluso con fines comerciales, siempre que te sea reconocida la autoría de la publicación y licencie su nueva creación bajo las mismas condiciones.
-> * CC BY-SA-NC, permite al público cualquier uso no comercial, siempre que te sea reconocida la autoría de la publicación y licencie su nueva creación bajo las mismas condiciones.
+ <p>Apreciado Equipo Coordinador,</p>
  
-El proceso de acompañamiento es iterativo, es decir que el conjunto de fichas puede contar con varias revisiones antes de ser publicado.
+ <p>Mi nombre es `[nombre de la persona encargada de la publicación]`, trabajo para `[nombre de la organización publicadora]` y deseo solicitar un acompañamiento para la publicación de un conjunto de datos que previamente preparé y validé siguiendo las instrucciones del modelo de publicación de datos del SiB Colombia.</p>
+ 
+ <p>El conjunto de datos que deseamos publicar corresponde a…`[una breve descripción del conjunto de datos que será publicado. Debe proveer suficiente información para ayudar al Equipo Coordinador a entender su conjunto de datos y la forma en que fueron generados]`.</p>
+ 
+ <p>Adjunto el conjunto de datos en formato [`Excel, TXT o CSV`] y quedo atento a los próximos pasos.</p>
+ 
+ <p>Saludo cordial,</p>
+ 
+ <p>nombre de la persona encargada de la publicación]</p>
+ 
+ </blockquote>
+</details>
 
-### 5. Publicación del conjunto de fichas
+___
 
-Cuando el conjunto de fichas se encuentra listo, se procede a su publicación. El profesional del Equipo Coordinador del SiB Colombia te asigna unas credenciales de acceso al Editor en línea de Fichas de Especies para que realices la carga de los contenidos.
 
-Cuando hayas completado el proceso, ponte en contacto con el profesional del Equipo Coordinador que te está acompañando, indicando que has finalizado la carga de las fichas de especies.
+## 5. Inicia el acompañamiento para la publicación
 
-Luego de un proceso de verificación, recibirás un correo electrónico con la notificación de la publicación exitosa y los enlaces donde pueden ser consultadas.
+A partir de la solicitud de acompañamiento enviada, un asesor del Equipo Coordinador del SiB Colombia se pone en contacto contigo y te ofrece el apoyo necesario para la publicación, compartiendo las credenciales para que puedas documentar los metadatos mientras que el EC-SiB realiza la revisión detallada del conjunto de datos que enviaste.
+
+Luego de la revisión, se genera y envía un correo con un reporte de calidad que tiene sugerencias y recomendaciones, que pueden incluir indicaciones sobre vacíos en los datos, inconsistencias o problemas de calidad.  Estos deben ser corregidos para continuar con la publicación cuanto antes.
+
+Además de realizar los ajustes solicitados en el conjunto de datos, ten en cuenta que durante el proceso también debes avanzar con la documentación de los metadatos en la sección [Metadatos](https://ipt.gbif.org/manual/es/ipt/2.5/resource-metadata){:target="_blank"} de la plataforma.
+
+___
+
+<details>
+    <summary markdown="span"><B>Ver detalles sobre la documentación de los metadatos</B></summary>
+<br>
+<p>Debes realizar la documentación a través de la URL y credenciales que te compartieron en el correo de apertura, considerando toda la información que da contexto a tus datos. En total hay 12 secciones. Cuando hayas completado los metadatos, responde el correo del asesor del Equipo Coordinador indicando que has finalizado la documentación.</p>
+
+</details>
+
+Además, todos los publicadores de datos deben elegir entre las opciones preestablecidas de [licencias y herramientas](https://biodiversidad.co/recursos/acceso-abierto){:target="_blank"} *Creative Commons*, que determinará la forma como los comparten y las condiciones que imponen a los usuarios que los reutilicen. 
+
+<details>
+    <summary markdown="span"><B>Ver opciones de licencias Creative Commons</B></summary>
+<br>
+    <blockquote>CC0, permite cualquier uso sin restricciones, incluso con fines comerciales.</blockquote>
+    <blockquote>CC BY, permite cualquier uso, incluso con fines comerciales, siempre que te sea reconocida la autoría de la publicación.</blockquote>
+    <blockquote>CC BY-NC, permite al público cualquier uso no comercial, siempre que te sea reconocida la autoría de la publicación.</blockquote>
+
+</details>
+
+___
+
+El profesional del Equipo Coordinador revisa la documentación de metadatos y te informa si debes realizar ajustes. El proceso de acompañamiento es iterativo, es decir que el conjunto de datos y sus metadatos asociados pueden contar con varias revisiones antes de ser publicado, hasta que cuenten con todos los mínimos de calidad.
+
+Consulta el [vídeo sobre cómo documentar metadatos en el IPT](https://www.youtube.com/watch?v=he-PVecR-Xs){:target="_blank"}
+
+## 6. Publicación del conjunto de datos
+
+Cuando el conjunto de datos y sus metadatos se encuentran listos, se procede a su publicación. El asesor del Equipo Coordinador del SiB Colombia asigna un Identificador Único Digital (DOI) al conjunto de datos y realiza el registro del mismo en GBIF. Al finalizar el proceso, recibes un correo electrónico con la notificación de la publicación exitosa y los enlaces donde puede ser consultado.
