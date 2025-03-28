@@ -18,14 +18,14 @@ El Equipo Coordinador realiza un acompañamiento a los publicadores para selecci
 <img src="/compartir/Imagenes/RutasDePublicacion_C.png">
 <br />
 
-### 0. Registra tu organización
+### 1. Registra tu organización
 
 Para comenzar a publicar tus datos, tu organización debe registrarse una única vez como “socio publicador de datos” del SiB Colombia. Verifica si tu organización ya se encuentra registrada como publicador [aquí](https://biodiversidad.co/comunidad/socios-publicadores/){:target="_blank"}. Si tu organización ya está registrada, debes acercarte a uno de los contactos allí guardados para obtener información sobre la publicación de tus datos. En caso contrario, para registrarse, tu organización debe:
 1. Revisar la política de publicación y estar de acuerdo en compartir tus datos.
 2. Informar a las directivas de tu organización sobre la importancia de ser un publicador del SiB Colombia y los beneficios para la organización. Es desde esa instancia que una organización toma la decisión de ser publicadora.
 3. De ser positiva la decisión, debe [solicitarse el registro de la organización](https://biodiversidad.co/compartir/registro){:target="_blank"} en el SiB Colombia como publicador de datos e información. La respuesta sobre la aprobación se realiza en línea.
 
-### 1. Prepara los contenidos de las fichas
+### 2. Prepara los contenidos de las fichas
 
 La información para una ficha debe estar organizada en un documento Word, utilizando el estándar Plinian Core (PliC). Para familiarizarte con el formato, puedes utilizar la [plantilla Word creada para fichas de especies](https://biodiversidad.co/recursos/plantillas-plinian-core){:target="_blank"}.
 
@@ -37,7 +37,7 @@ Para la preparación de contenidos te recomendamos:
 5. Realizar un proceso general de revisión y validación de la información sintetizada. Este proceso te ayudará a identificar y corregir potenciales vacíos en la información preparada.
 
 
-### 2. Solicita acompañamiento para la publicación
+### 3. Solicita acompañamiento para la publicación
 
 El SiB Colombia está atento para ayudarte a asegurar que tus fichas cuenten con la mayor calidad posible antes de ser publicadas. Para ello, después de finalizar la preparación de tus fichas, debes ponerte en contacto con el Equipo Coordinador a través del correo electrónico [sib@humboldt.org.co](https://biodiversidad.co/compartir/guia-para-publicar/) solicitando un acompañamiento para la publicación.
 
@@ -65,7 +65,7 @@ Saludo cordial,<br><br>
 ___
 
 
-### 3. Inicia el acompañamiento para la publicación
+### 4. Inicia el acompañamiento para la publicación
 
 A partir de la solicitud de acompañamiento enviada, un asesor del Equipo Coordinador del SiB Colombia se pone en contacto contigo y te ofrece el apoyo necesario para la publicación. Después de una revisión detallada de la ficha de especies que enviaste, te enviará un correo electrónico con sugerencias y recomendaciones que deben ser atendidas para proceder con el cargue de las fichas en la plataforma.
 
@@ -89,7 +89,7 @@ ___
 El proceso de acompañamiento es iterativo, es decir que el conjunto de fichas puede contar con varias revisiones antes de ser publicado.
 
 
-### 4. Publicación del conjunto de fichas**
+### 5. Publicación del conjunto de fichas**
 
 Cuando el conjunto de fichas se encuentra listo, se procede a su publicación. El asesor del Equipo Coordinador del SiB Colombia te asigna unas credenciales de acceso al [Editor en línea de Fichas de Especies](http://editor.catalogo.biodiversidad.co/login){:target="_blank"} para que realices la carga de los contenidos.
 
