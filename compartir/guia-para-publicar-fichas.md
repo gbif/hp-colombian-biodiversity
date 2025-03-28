@@ -2,9 +2,9 @@
 layout: heroImage
 title: Guía para publicar información
 description: Conoce el modelo, procesos, herramientas y mejores prácticas para publicar información a través del SiB Colombia.
-background: https://live.staticflickr.com/8183/8419468465_35c5ecc471_b.jpg
+background: /assets/images/fondos_layout/VAL1272_Villegas-Velez-Felipe.jpg
 imageLicense: |
- _Morpho peleides_ Fotografía de: Bernard DUPONT vía [Flickr](https://flic.kr/p/dPZYDp)
+ Fotografía de: Felipe Villegas
 height: 41vh
 toc: true
 ---
