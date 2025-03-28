@@ -139,9 +139,9 @@ Además, todos los publicadores de datos deben elegir entre las opciones preesta
 <details>
     <summary markdown="span"><b>Ver opciones de licencias <em>Creative Commons</em></b></summary>
 <br>
-    <blockquote>CC0, permite cualquier uso sin restricciones, incluso con fines comerciales.</blockquote>
-    <blockquote>CC BY, permite cualquier uso, incluso con fines comerciales, siempre que te sea reconocida la autoría de la publicación.</blockquote>
-    <blockquote>CC BY-NC, permite al público cualquier uso no comercial, siempre que te sea reconocida la autoría de la publicación.</blockquote>
+    <blockquote><strong>CC0</strong>, permite cualquier uso sin restricciones, incluso con fines comerciales.</blockquote>
+    <blockquote><strong>CC BY</strong>, permite cualquier uso, incluso con fines comerciales, siempre que te sea reconocida la autoría de la publicación.</blockquote>
+    <blockquote><strong>CC BY-NC</strong>, permite al público cualquier uso no comercial, siempre que te sea reconocida la autoría de la publicación.</blockquote>
 
 </details>
 
