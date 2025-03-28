@@ -90,15 +90,15 @@ Recuerda que los acompañamientos en el SiB Colombia se atienden en orden de lle
  
  <p>Apreciado Equipo Coordinador,</p>
  
- <p>Mi nombre es `[nombre de la persona encargada de la publicación]`, trabajo para `[nombre de la organización publicadora]` y deseo solicitar un acompañamiento para la publicación de un conjunto de datos que previamente preparé y validé siguiendo las instrucciones del modelo de publicación de datos del SiB Colombia.</p>
+ <p>Mi nombre es [nombre de la persona encargada de la publicación], trabajo para [nombre de la organización publicadora] y deseo solicitar un acompañamiento para la publicación de un conjunto de datos que previamente preparé y validé siguiendo las instrucciones del modelo de publicación de datos del SiB Colombia.</p>
  
- <p>El conjunto de datos que deseamos publicar corresponde a…`[una breve descripción del conjunto de datos que será publicado. Debe proveer suficiente información para ayudar al Equipo Coordinador a entender su conjunto de datos y la forma en que fueron generados]`.</p>
+ <p>El conjunto de datos que deseamos publicar corresponde a…[una breve descripción del conjunto de datos que será publicado. Debe proveer suficiente información para ayudar al Equipo Coordinador a entender su conjunto de datos y la forma en que fueron generados].</p>
  
- <p>Adjunto el conjunto de datos en formato [`Excel, TXT o CSV`] y quedo atento a los próximos pasos.</p>
+ <p>Adjunto el conjunto de datos en formato [Excel, TXT o CSV] y quedo atento a los próximos pasos.</p>
  
  <p>Saludo cordial,</p>
  
- <p>nombre de la persona encargada de la publicación]</p>
+ <p>[nombre de la persona encargada de la publicación]</p>
  
  </blockquote>
 </details>
@@ -114,14 +114,14 @@ Luego de la revisión, se genera y envía un correo con un reporte de calidad qu
 
 Además de realizar los ajustes solicitados en el conjunto de datos, ten en cuenta que durante el proceso también debes avanzar con la documentación de los metadatos en la sección [Metadatos](https://ipt.gbif.org/manual/es/ipt/2.5/resource-metadata){:target="_blank"} de la plataforma.
 
-___
-
 <details>
-    <summary markdown="span"><B>Ver detalles sobre la documentación de los metadatos</B></summary>
+    <summary markdown="span"><b>Ver detalles sobre la documentación de los metadatos</b></summary>
 <br>
-<p>Debes realizar la documentación a través de la URL y credenciales que te compartieron en el correo de apertura, considerando toda la información que da contexto a tus datos. En total hay 12 secciones. Cuando hayas completado los metadatos, responde el correo del asesor del Equipo Coordinador indicando que has finalizado la documentación.</p>
+<blockquote>Debes realizar la documentación a través de la URL y credenciales que te compartieron en el correo de apertura, considerando toda la información que da contexto a tus datos. En total hay 12 secciones. Cuando hayas completado los metadatos, responde el correo del asesor del Equipo Coordinador indicando que has finalizado la documentación.</blockquote>
 
 </details>
+
+___
 
 Además, todos los publicadores de datos deben elegir entre las opciones preestablecidas de [licencias y herramientas](https://biodiversidad.co/recursos/acceso-abierto){:target="_blank"} *Creative Commons*, que determinará la forma como los comparten y las condiciones que imponen a los usuarios que los reutilicen. 
 
