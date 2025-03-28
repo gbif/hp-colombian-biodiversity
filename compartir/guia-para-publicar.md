@@ -66,10 +66,13 @@ Esta es la ruta de publicación usada para compartir [registros biológicos, eve
 
 Para comenzar a publicar tus datos, tu organización debe registrarse una única vez como “socio publicador de datos” del SiB Colombia. Verifica si tu organización ya se encuentra registrada como publicador [aquí](https://biodiversidad.co/comunidad/socios-publicadores/){:target="_blank"}. Si tu organización ya está registrada, debes acercarte a uno de los contactos allí guardados para obtener información sobre la publicación de tus datos. En caso contrario, para registrarse, tu organización debe:
 
-1. Revisar la política de publicación y estar de acuerdo en compartir tus datos.
-2. Informar a las directivas de tu organización sobre la importancia de ser un publicador del SiB Colombia y los beneficios para la organización. Es desde esa instancia que una organización toma la decisión de ser publicadora.
-3. De ser positiva la decisión, debe [solicitarse el registro de la organización](https://biodiversidad.co/compartir/registro){:target="_blank"} en el SiB Colombia como publicador de datos e información. La respuesta sobre la aprobación se realiza en línea.
-
+<blockquote>
+ <ol>
+  <li>Revisar la política de publicación y estar de acuerdo en compartir tus datos.</li>
+  <li>Informar a las directivas de tu organización sobre la importancia de ser un publicador del SiB Colombia y los beneficios para la organización. Es desde esa instancia que una organización toma la decisión de ser publicadora.</li>
+  <li>De ser positiva la decisión, debe [solicitarse el registro de la organización](https://biodiversidad.co/compartir/registro){:target="_blank"} en el SiB Colombia como publicador de datos e información. La respuesta sobre la aprobación se realiza en línea.</li>
+ </ol>
+</blockquote>
 
 ## 2. Prepara los datos para la publicación
 
@@ -77,7 +80,7 @@ Tus datos deben ser organizados en una estructura de tabla utilizando el [están
 
 También puedes crear tu propia plantilla de manera manual usando la documentación del estándar Darwin Core adaptada al español disponible aquí. 
 
-Consulta la [guía práctica de estandarización de datos en Darwin Core](https://biodiversidad.co/formacion/laboratorios/DWC){:target="_blank"} 
+| Consulta la [guía práctica de estandarización de datos en Darwin Core](https://biodiversidad.co/formacion/laboratorios/DWC){:target="_blank"} |
 
 ## 3. Valida la calidad de los datos estandarizados
 
