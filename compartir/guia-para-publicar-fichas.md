@@ -75,14 +75,13 @@ Además de realizar los ajustes solicitados en el conjunto de datos, ten en cuen
     <summary markdown="span"><b>La selección de la licencia Creative Commons</b></summary>
 
 <br>
+Todos los publicadores de datos deben elegir entre unas opciones preestablecidas de [licencias y herramientas](https://biodiversidad.co/recursos/acceso-abierto){:target="_blank"} *Creative Commons*, que determinará la forma como los comparten y las condiciones que imponen a los usuarios que los reutilicen.<br><br>
 
-> Todos los publicadores de datos deben elegir entre unas opciones preestablecidas de [licencias y herramientas](https://biodiversidad.co/recursos/acceso-abierto){:target="_blank"} *Creative Commons*, que determinará la forma como los comparten y las condiciones que imponen a los usuarios que los reutilicen.<br><br>
-
-> * CC0, permite cualquier uso sin restricciones, incluso con fines comerciales.<br>
-> * CC BY, permite cualquier uso, incluso con fines comerciales, siempre que te sea reconocida la autoría de la publicación.<br>
-> * CC BY-NC, permite al público cualquier uso no comercial, siempre que te sea reconocida la autoría de la publicación.<br>
-> * CC BY-SA, permite cualquier uso, incluso con fines comerciales, siempre que te sea reconocida la autoría de la publicación y licencie su nueva creación bajo las mismas condiciones.<br>
-> * CC BY-SA-NC, permite al público cualquier uso no comercial, siempre que te sea reconocida la autoría de la publicación y licencie su nueva creación bajo las mismas condiciones.<br>
+CC0, permite cualquier uso sin restricciones, incluso con fines comerciales.<br>
+CC BY, permite cualquier uso, incluso con fines comerciales, siempre que te sea reconocida la autoría de la publicación.<br>
+CC BY-NC, permite al público cualquier uso no comercial, siempre que te sea reconocida la autoría de la publicación.<br>
+CC BY-SA, permite cualquier uso, incluso con fines comerciales, siempre que te sea reconocida la autoría de la publicación y licencie su nueva creación bajo las mismas condiciones.<br>
+CC BY-SA-NC, permite al público cualquier uso no comercial, siempre que te sea reconocida la autoría de la publicación y licencie su nueva creación bajo las mismas condiciones.<br>
 
 </details>
 
