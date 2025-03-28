@@ -45,20 +45,21 @@ El SiB Colombia está atento para ayudarte a asegurar que tus fichas cuenten con
     <summary markdown="span"><B> Conoce el modelo de correo electrónico recomendado</B></summary>
 
 <br>
+<blockquote>
+<p>Asunto: Publicación de fichas de especies – <code class="language-plaintext highlighter-rouge">[nombre de la organización publicadora]</code></p>
 
-Asunto: Publicación de fichas de especies – [nombre de la organización publicadora]<br><br>
-
-Apreciado Equipo Coordinador,<br><br>
+<p>Apreciado Equipo Coordinador,</p>
  
-Mi nombre es `[nombre de la persona encargada de la publicación]`, trabajo para `[nombre de la organización publicadora]` y deseo solicitar un acompañamiento para la publicación de fichas de especies que previamente preparé y validé siguiendo las instrucciones del SiB Colombia.<br><br>
+<p>Mi nombre es <code class="language-plaintext highlighter-rouge">[nombre de la persona encargada de la publicación]</code>, trabajo para <code class="language-plaintext highlighter-rouge">[nombre de la organización publicadora]</code> y deseo solicitar un acompañamiento para la publicación de fichas de especies que previamente preparé y validé siguiendo las instrucciones del SiB Colombia.</p>
  
-Las fichas de especies que deseamos publicar corresponden a…`[una breve descripción de las fichas de especies que serán publicadas. Debe proveer suficiente información para ayudar al Equipo Coordinador a entender si hubo un énfasis en la documentación, como por ejemplo usos, riesgo y extinción, o si se cubrió sólo información general de la descripción taxonómica de la especie.`.<br><br>
+<p>Las fichas de especies que deseamos publicar corresponden a…<code class="language-plaintext highlighter-rouge">[una breve descripción de las fichas de especies que serán publicadas. Debe proveer suficiente información para ayudar al Equipo Coordinador a entender si hubo un énfasis en la documentación, como por ejemplo usos, riesgo y extinción, o si se cubrió sólo información general de la descripción taxonómica de la especie.]</code></p>
  
-Adjunto las fichas de especies en formato Word y quedo atento a los próximos pasos.<br><br>
+<p>Adjunto las fichas de especies en formato Word y quedo atento a los próximos pasos.</p>
  
-Saludo cordial,<br><br>
+<p>Saludo cordial,</p>
  
-[nombre de la persona encargada de la publicación]
+<p><code class="language-plaintext highlighter-rouge">[nombre de la persona encargada de la publicación]</code></p>
+</blockquote>
 
 </details>
 
@@ -72,15 +73,15 @@ A partir de la solicitud de acompañamiento enviada, un asesor del Equipo Coordi
 Además de realizar los ajustes solicitados en el conjunto de datos, ten en cuenta que durante el proceso también debes avanzar con elegir entre las opciones preestablecidas de [licencias y herramientas](https://biodiversidad.co/recursos/acceso-abierto){:target="_blank"} *Creative Commons*, que determinará la forma como los comparten y las condiciones que imponen a los usuarios que los reutilicen.
 
 <details>
-    <summary markdown="span"><b>Ver opciones de licencias Creative Commons</b></summary>
+    <summary markdown="span"><b>Ver opciones de licencias <em>Creative Commons</em></b></summary>
 
 <br>
-
-CC0, permite cualquier uso sin restricciones, incluso con fines comerciales.<br>
-CC BY, permite cualquier uso, incluso con fines comerciales, siempre que te sea reconocida la autoría de la publicación.<br>
-CC BY-NC, permite al público cualquier uso no comercial, siempre que te sea reconocida la autoría de la publicación.<br>
-CC BY-SA, permite cualquier uso, incluso con fines comerciales, siempre que te sea reconocida la autoría de la publicación y licencie su nueva creación bajo las mismas condiciones.<br>
-CC BY-SA-NC, permite al público cualquier uso no comercial, siempre que te sea reconocida la autoría de la publicación y licencie su nueva creación bajo las mismas condiciones.<br>
+<blockquote><strong>CC0</strong>, permite cualquier uso sin restricciones, incluso con fines comerciales.</blockquote>
+<blockquote><strong>CC BY</strong>, permite cualquier uso, incluso con fines comerciales, siempre que te sea reconocida la autoría de la publicación.</blockquote>
+<blockquote><strong>CC BY-NC</strong>, permite al público cualquier uso no comercial, siempre que te sea reconocida la autoría de la publicación.</blockquote>
+<blockquote><strong>CC BY-SA</strong>, permite cualquier uso, incluso con fines comerciales, siempre que te sea reconocida la autoría de la publicación y licencie su nueva creación bajo las mismas condiciones.</blockquote>
+<blockquote><strong>CC BY-SA-NC</strong>, permite al público cualquier uso no comercial, siempre que te sea reconocida la autoría de la publicación y licencie su nueva creación bajo las mismas condiciones.
+</blockquote>
 
 </details>
 
@@ -89,7 +90,7 @@ ___
 El proceso de acompañamiento es iterativo, es decir que el conjunto de fichas puede contar con varias revisiones antes de ser publicado.
 
 
-### 5. Publicación del conjunto de fichas**
+### 5. Publicación del conjunto de fichas
 
 Cuando el conjunto de fichas se encuentra listo, se procede a su publicación. El asesor del Equipo Coordinador del SiB Colombia te asigna unas credenciales de acceso al [Editor en línea de Fichas de Especies](http://editor.catalogo.biodiversidad.co/login){:target="_blank"} para que realices la carga de los contenidos.
 
