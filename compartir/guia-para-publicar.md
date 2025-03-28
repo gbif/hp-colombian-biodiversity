@@ -101,15 +101,15 @@ Recuerda que los acompañamientos en el SiB Colombia se atienden en orden de lle
  
  <p>Apreciado Equipo Coordinador,</p>
  
- <p>Mi nombre es [nombre de la persona encargada de la publicación], trabajo para [nombre de la organización publicadora] y deseo solicitar un acompañamiento para la publicación de un conjunto de datos que previamente preparé y validé siguiendo las instrucciones del modelo de publicación de datos del SiB Colombia.</p>
+ <p>Mi nombre es <code class="language-plaintext highlighter-rouge">[nombre de la persona encargada de la publicación]</code>, trabajo para [nombre de la organización publicadora] y deseo solicitar un acompañamiento para la publicación de un conjunto de datos que previamente preparé y validé siguiendo las instrucciones del modelo de publicación de datos del SiB Colombia.</p>
  
- <p>El conjunto de datos que deseamos publicar corresponde a…[una breve descripción del conjunto de datos que será publicado. Debe proveer suficiente información para ayudar al Equipo Coordinador a entender su conjunto de datos y la forma en que fueron generados].</p>
+ <p>El conjunto de datos que deseamos publicar corresponde a…<code>[una breve descripción del conjunto de datos que será publicado. Debe proveer suficiente información para ayudar al Equipo Coordinador a entender su conjunto de datos y la forma en que fueron generados]</code>.</p>
  
- <p>Adjunto el conjunto de datos en formato [Excel, TXT o CSV] y quedo atento a los próximos pasos.</p>
+ <p>Adjunto el conjunto de datos en formato <code>[Excel, TXT o CSV]</code> y quedo atento a los próximos pasos.</p>
  
  <p>Saludo cordial,</p>
  
- <p>[nombre de la persona encargada de la publicación]</p>
+ <p><code>[nombre de la persona encargada de la publicación]</code></p>
  
  </blockquote>
 </details>
