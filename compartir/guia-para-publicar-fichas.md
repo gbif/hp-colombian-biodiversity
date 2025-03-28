@@ -21,20 +21,30 @@ El Equipo Coordinador realiza un acompañamiento a los publicadores para selecci
 ### 1. Registra tu organización
 
 Para comenzar a publicar tus datos, tu organización debe registrarse una única vez como “socio publicador de datos” del SiB Colombia. Verifica si tu organización ya se encuentra registrada como publicador [aquí](https://biodiversidad.co/comunidad/socios-publicadores/){:target="_blank"}. Si tu organización ya está registrada, debes acercarte a uno de los contactos allí guardados para obtener información sobre la publicación de tus datos. En caso contrario, para registrarse, tu organización debe:
-1. Revisar la política de publicación y estar de acuerdo en compartir tus datos.
-2. Informar a las directivas de tu organización sobre la importancia de ser un publicador del SiB Colombia y los beneficios para la organización. Es desde esa instancia que una organización toma la decisión de ser publicadora.
-3. De ser positiva la decisión, debe [solicitarse el registro de la organización](https://biodiversidad.co/compartir/registro){:target="_blank"} en el SiB Colombia como publicador de datos e información. La respuesta sobre la aprobación se realiza en línea.
+
+<blockquote>
+ <ol>
+  <li>Revisar la política de publicación y estar de acuerdo en compartir tus datos.</li>
+  <li>Informar a las directivas de tu organización sobre la importancia de ser un publicador del SiB Colombia y los beneficios para la organización. Es desde esa instancia que una organización toma la decisión de ser publicadora.</li>
+  <li>De ser positiva la decisión, debe <a href="https://biodiversidad.co/compartir/registro" target="_blank">solicitarse el registro de la organización</a> en el SiB Colombia como publicador de datos e información. La respuesta sobre la aprobación se realiza en línea.</li>
+ </ol>
+</blockquote>
 
 ### 2. Prepara los contenidos de las fichas
 
 La información para una ficha debe estar organizada en un documento Word, utilizando el estándar Plinian Core (PliC). Para familiarizarte con el formato, puedes utilizar la [plantilla Word creada para fichas de especies](https://biodiversidad.co/recursos/plantillas-plinian-core){:target="_blank"}.
 
 Para la preparación de contenidos te recomendamos:
-1. Seleccionar las especies para las cuales deseas publicar información.
-2. Seleccionar las fuentes de información (artículos científicos, revistas, libros, capítulos de libros, tesis, monografías, textos académicos, sitios web reconocidos, otros catálogos de especies, fotos, videos, mapas, etc.).
-3. Sintetizar y adaptar los textos para cada uno de los atributos definidos. Recuerda que cualquier información que se utilice debe estar debidamente citada y referenciada.
-4. Consolidar las referencias bibliográficas en un gestor bibliográfico. Ejemplo: Mendeley o Zotero.
-5. Realizar un proceso general de revisión y validación de la información sintetizada. Este proceso te ayudará a identificar y corregir potenciales vacíos en la información preparada.
+
+<blockquote>
+<ol>
+ <li>Seleccionar las especies para las cuales deseas publicar información.</li>
+ <li>Seleccionar las fuentes de información (artículos científicos, revistas, libros, capítulos de libros, tesis, monografías, textos académicos, sitios web reconocidos, otros catálogos de especies, fotos, videos, mapas, etc.).</li>
+ <li>Sintetizar y adaptar los textos para cada uno de los atributos definidos. Recuerda que cualquier información que se utilice debe estar debidamente citada y referenciada.</li>
+ <li>Consolidar las referencias bibliográficas en un gestor bibliográfico. Ejemplo: Mendeley o Zotero.</li>
+ </li>Realizar un proceso general de revisión y validación de la información sintetizada. Este proceso te ayudará a identificar y corregir potenciales vacíos en la información preparada.</li>
+</ol>
+</blockquote>
 
 
 ### 3. Solicita acompañamiento para la publicación
