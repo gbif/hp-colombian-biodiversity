@@ -45,7 +45,7 @@ El propósito de los **Grupos de Interés del SiB Colombia (GI-SiB**) es servir 
 
 ___
 
-<details id="como-crear-un-gi-sib">
+<details>
 
   <summary markdown="span"><b>¿Cómo unirse a un GI-SiB</b></summary>
   
@@ -57,7 +57,7 @@ ___
 
 ___
 
-<details>
+<details id="como-crear-un-gi-sib">
 
   <summary markdown="span"><b> ¿Cómo crear un GI-SiB</b></summary>
 
