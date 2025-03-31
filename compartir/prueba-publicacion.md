@@ -147,38 +147,38 @@ conoces?](https://biodiversidad.co/post/2022/diferencias-entre-publicar-reportar
                     </tr>
                     <tr>
                         <td><strong>Alcance y visibilidad</strong></td>
-                        <td><i class="fas fa-check"></i> <str5ong>Datos accesibles a nivel nacional e internacional</str5ong> (SiB Colombia, GBIF, OBIS).</td>
+                        <td><i class="fas fa-check"></i> <strong>Datos accesibles a nivel nacional e internacional</strong> (SiB Colombia, GBIF, OBIS).</td>
                         <td>Datos visibles solo para la autoridad ambiental y terceros interesados.</td>
                     </tr>
                     <tr>
                         <td><strong>Reconocimiento y atribución</strong></td>
-                        <td><i class="fas fa-check"></i> Publicadores pueden ser <strong>citados</strong> y <strong>reconocidos</strong> en <strong>investigaciones</strong>.</td>
-                        <td>Sin reconocimiento formal, solo cumplimiento normativo.</td>
+                        <td><i class="fas fa-check"></i><strong>Publicadores</strong> pueden ser <strong>citados</strong> y los <strong>conjuntos de datos</strong> pueden hacer parte del <strong>CVLaC</strong>.</td>
+                        <td>Publicadores pueden ser citados y pero los conjuntos de datos <strong>NO sirven para el CVLaC</strong>.</td>
                     </tr>
                     <tr>
                         <td><strong>Valor agregado</strong></td>
-                        <td><i class="fas fa-check"></i> Genera <strong>DOI</strong>, métricas de impacto y <strong>posibilidad</strong> de <strong>publicar artículos científicos</strong>.</td>
+                        <td><i class="fas fa-check"></i> Genera <strong>DOI</strong>, <strong>métricas de impacto</strong> y posibilidad de <strong>publicar artículos de datos</strong>.</td>
                         <td>Solo se obtiene un <strong>certificado de reporte</strong>.</td>
                     </tr>
                     <tr>
                         <td><strong>Flexibilidad y actualización</strong></td>
                         <td><i class="fas fa-check"></i> Los datos pueden <strong>actualizarse</strong> y <strong>mejorarse en el tiempo</strong>.</td>
-                        <td>Se presentan una sola vez sin posibilidad de modificación posterior.</td>
+                        <td>Los datos pueden actualizarse y mejorarse en el tiempo.</td>
                     </tr>
                     <tr>
                         <td><strong>Acceso y reutilización</strong></td>
-                        <td><i class="fas fa-check"></i> Datos disponibles para <strong>múltiples audiencias</strong> bajo licencias abiertas.</td>
-                        <td>Se presentan una sola vez sin posibilidad de modificación posterior.</td>
+                        <td><i class="fas fa-check"></i> </strong>Datos disponibles para múltiples audiencias</strong> bajo licencias abiertas siguiendo los principios <strong>FAIR</strong>.</td>
+                        <td>Datos disponibles para cualquier que tenga el enlace, <strong>pero sin seguir los principos FAIR</strong>.</td>
                     </tr>
                     <tr>
                         <td><strong>Apoyo técnico y curaduría</strong></td>
-                        <td><i class="fas fa-check"></i> Asesoría y herramientas para <strong>garantizar calidad</strong> y <strong>formato de datos</strong>.</td>
-                        <td>Proceso automatizado sin curaduría de datos.</td>
+                        <td><i class="fas fa-check"></i> <strong>Asesoría</strong> y <strong>herramientas</strong> para <strong>garantizar calidad</strong> y <strong>formato de datos</strong>.</td>
+                        <td>Proceso autónomo, sin curaduría de datos por parte del SiB Colombia.</td>
                     </tr>
                     <tr>
                         <td><strong>Tipos de datos permitidos</strong></td>
-                        <td><i class="fas fa-check"></i> <strong>Registros biológicos, eventos de muestreo y listas de chequeo</strong>.</td>
-                        <td>Solo registros biológicos.</td>
+                        <td><i class="fas fa-check"></i> Registros biológicos, eventos de muestreo y <strong>listas de chequeo</strong>.</td>
+                        <td>Registros biológicos y eventos de muestreo.</td>
                     </tr>
                     <tr>
                         <td><strong>Repositorio y plataformas</strong></td>
