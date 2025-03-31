@@ -26,12 +26,12 @@ El propósito de los **Grupos de Interés del SiB Colombia (GI-SiB**) es servir 
 <br>
 
 <p>Un GI-SiB puede desempeñar una o varias de las siguientes funciones:</p>
-<ul>
-  <li>✅ <strong>Facilitar la creación de Grupos de Trabajo (GT-SiB)</strong> para desarrollar acciones específicas mediante estudios de caso.</li>
-  <li>✅ <strong>Apoyar la comunicación y coordinación</strong> entre GI-SiB o GT-SIB con afinidades temáticas (ej. monitoreo de biodiversidad, colecciones biológicas, normatividad).</li>
-  <li>✅ <strong>Fomentar la articulación</strong> entre diferentes grupos orientados a temas específicos (ej. todos los grupos de listas de especies o de colecciones biológicas).
-  <li>✅ Articular comunidades externas</strong> al SiB Colombia, promoviendo sinergias y atrayendo nuevos miembros.</li>
-  <li>✅ Antes de su reconocimiento oficial, los GI pasan por un <strong>proceso de revisión</strong> basado en los siguientes criterios.
+<blockquote>
+  <p>✅ <strong>Facilitar la creación de Grupos de Trabajo (GT-SiB)</strong> para desarrollar acciones específicas mediante estudios de caso.</p>
+  <p>✅ <strong>Apoyar la comunicación y coordinación</strong> entre GI-SiB o GT-SIB con afinidades temáticas (ej. monitoreo de biodiversidad, colecciones biológicas, normatividad).</p>
+  <p>✅ <strong>Fomentar la articulación</strong> entre diferentes grupos orientados a temas específicos (ej. todos los grupos de listas de especies o de colecciones biológicas).</p>
+  <p>✅ Articular comunidades externas</strong> al SiB Colombia, promoviendo sinergias y atrayendo nuevos miembros.</p>
+  <p>✅ Antes de su reconocimiento oficial, los GI pasan por un <strong>proceso de revisión</strong> basado en los siguientes criterios:</p>
     <ol>
       <li>Definición de entre dos y cuatro co-líderes.</li>
       <li>Participación de expertos nacionales.
@@ -39,8 +39,7 @@ El propósito de los **Grupos de Interés del SiB Colombia (GI-SiB**) es servir 
       <li>No promover un producto específico.</li>
       <li>No superponerse con GI o GT ya existentes.</li>
     </ol>
-  </li>
-</ul>
+</blockquote>
 
 </details>
 
@@ -64,20 +63,21 @@ ___
 
 <br>
 
-<p>Para crear un GI-SiB, se debe presentar una **propuesta siguiendo la plantilla Propuesta de Intención Grupo de interés**, donde se describan sus actividades y se designen entre dos y cuatro co-líderes.</p>
+<p>Para crear un GI-SiB, se debe presentar una <strong>propuesta siguiendo la plantilla Propuesta de Intención Grupo de interés</strong>, donde se describan sus actividades y se designen entre dos y cuatro co-líderes.</p>
 
 <p>El documento debe enviarse al correo sib@humboldt.org.co. Una vez recibido:</p>
 
 <ol>
   <li>El EC-SiB se contactará con los proponentes.</li>
-  <li>La propuesta será enviada al <strongComité Técnico (CT-SiB)</li> para su revisión.</li>
-  <li>El CT-SiB tendrá hasta cuatro semanas para analizar el documento y emitir una de las siguientes respuestas:</li>
-  <ol>
-    <li>✅ <strong>Aprobado sin modificaciones</strong>: El grupo es reconocido y puede iniciar actividades.</li>
-    <li>✅ <strong>Aprobado con revisiones</strong>: Se requiere ajustar la propuesta antes del reconocimiento oficial.</li>
-    <li>🔹<strong>Relevante, pero no aprobado</strong>: La idea es válida, pero necesita mayor desarrollo antes de su aprobación. Se brindarán recomendaciones para su fortalecimiento.</li>
-    <li>🔹<strong>No aprobado</strong>: La propuesta no se ajusta a los objetivos del SiB Colombia o a sus criterios de aprobación. Se explicarán los motivos del rechazo.</li>
-  </ol>
+  <li>La propuesta será enviada al <strong>Comité Técnico (CT-SiB)</strong> para su revisión.</li>
+  <li>El CT-SiB tendrá hasta cuatro semanas para analizar el documento y emitir una de las siguientes respuestas:
+    <blockquote>
+      <p>✅ <strong>Aprobado sin modificaciones</strong>: El grupo es reconocido y puede iniciar actividades.</p>
+      <p>✅ <strong>Aprobado con revisiones</strong>: Se requiere ajustar la propuesta antes del reconocimiento oficial.</p>
+      <p>🔹<strong>Relevante, pero no aprobado</strong>: La idea es válida, pero necesita mayor desarrollo antes de su aprobación. Se brindarán recomendaciones para su fortalecimiento.</p>
+      <p>🔹<strong>No aprobado</strong>: La propuesta no se ajusta a los objetivos del SiB Colombia o a sus criterios de aprobación. Se explicarán los motivos del rechazo.</p>
+    </blockquote>
+  </li>
 </ol>
 
 <p>Tras la aprobación, el EC-SiB contactará nuevamente al grupo para iniciar sus actividades.</p>
