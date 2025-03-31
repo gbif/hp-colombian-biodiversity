@@ -53,7 +53,9 @@ Los tipos de datos o información definen la ruta para continuar. Para identific
 
 ___
 
-| En este punto, de acuerdo a tu interés, puedes seguir en esta guía de publicación de datos abiertos o continuar hacia la de [publicación de fichas de especies](https://biodiversidad.co/compartir/guia-para-publicar-fichas/). |
+| En este punto, de acuerdo a tu interés, puedes:
+* Continuar en esta guía de publicación de datos abiertos.
+* Continuar hacia la de [publicación de fichas de especies](https://biodiversidad.co/compartir/guia-para-publicar-fichas/). |
 
 
 <br />
