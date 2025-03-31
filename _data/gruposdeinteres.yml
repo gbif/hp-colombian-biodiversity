@@ -64,7 +64,7 @@ tarjetasGrupos:
       #preTitle:  Formación # optional
     - title: Colecciones Biológicas
       description: |      # required
-       Grupo de interés no creado <br> [🔒 Ver como crear un Gi-SiB](#como-crear-un-gi-sib){: .button}#cómo-crear-un-gi-sib
+       Grupo de interés no creado <br> [🔒 Ver como crear un Gi-SiB](#como-crear-un-gi-sib){: .button}
       # img required
       background: /comunidad/gruposdeinteres/images/ColeccionesBiologicas.jpg
       href: #cómo-crear-un-gi-sib
