@@ -75,7 +75,7 @@ Para comenzar a publicar tus datos, tu organización debe registrarse una única
  <ol>
   <li>Revisar la política de publicación y estar de acuerdo en compartir tus datos.</li>
   <li>Informar a las directivas de tu organización sobre la importancia de ser un publicador del SiB Colombia y los beneficios para la organización. Es desde esa instancia que una organización toma la decisión de ser publicadora.</li>
-  <li>De ser positiva la decisión, debe [solicitarse el registro de la organización](https://biodiversidad.co/compartir/registro){:target="_blank"} en el SiB Colombia como publicador de datos e información. La respuesta sobre la aprobación se realiza en línea.</li>
+  <li>De ser positiva la decisión, debe <a href="https://biodiversidad.co/compartir/registro" target="_blank">solicitarse el registro de la organización</a> en el SiB Colombia como publicador de datos e información. La respuesta sobre la aprobación se realiza en línea.</li>
  </ol>
 </blockquote>
 
