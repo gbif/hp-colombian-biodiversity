@@ -57,7 +57,7 @@ ___
 
 ___
 
-<details id="como-crear-un-gi-sib">
+<details id="como-crear-un-gi-sib" open>
 
   <summary markdown="span"><b> ¿Cómo crear un GI-SiB</b></summary>
 
