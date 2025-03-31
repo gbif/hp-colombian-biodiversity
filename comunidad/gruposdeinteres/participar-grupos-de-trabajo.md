@@ -7,7 +7,7 @@ imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/7188185381/) 
 permalink: comunidad/grupos/participar-grupos-de-trabajo
 height: 41vh
-toc: true
+toc: false
 ---
 
 Los **grupos de trabajo del SiB Colombia (GT-SiB**) tienen como objetivo generar avances concretos en la publicación, acceso y uso de datos sobre biodiversidad disponibles a través del SiB Colombia.  Cada GT-SiB debe desarrollar un producto tangible en un plazo de 12 a 24 meses, eliminando barreras en la gestión de datos de biodiversidad y asegurando su aplicabilidad dentro del SiB Colombia.
