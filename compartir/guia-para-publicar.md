@@ -55,7 +55,7 @@ ___
 
 En este punto, de acuerdo a tu interés, puedes:
 
-| Ir a la **[guía de publicación de fichas de especies](https://biodiversidad.co/compartir/guia-para-publicar-fichas/){: .button .is-primary}**. |
+| Ir a la guía de publicación de **[fichas de especies](https://biodiversidad.co/compartir/guia-para-publicar-fichas/){: .button .is-primary}**. |
 
 | Continuar en esta **guía de publicación de conjuntos de datos**. |
 
