@@ -43,6 +43,6 @@ Los grupos de trabajo se formarán de acuerdo con las características y necesid
 
 ## Grupos de trabajo
 
-+ En proceso de consolidación...
++ En proceso de consolidación.
 
 Accede a más información sobre los [Grupos de interés](/comunidad/grupos/participar-grupos-de-interes){: .button .is-primary}
