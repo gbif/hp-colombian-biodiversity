@@ -65,7 +65,7 @@ ___
   
   <p>Para crear un GI-SiB, se debe presentar una <strong>propuesta siguiendo la plantilla Propuesta de Intención Grupo de interés</strong>, donde se describan sus actividades y se designen entre dos y cuatro co-líderes.</p>
   
-  <p>El documento debe enviarse al correo sib@humboldt.org.co. Una vez recibido:</p>
+  <p>El documento debe enviarse al correo <a href="mailto:sib@humboldt.org.co" target="_blank">sib@humboldt.org.co</a>. Una vez recibido:</p>
   
   <ol>
     <li>El EC-SiB se contactará con los proponentes.</li>
