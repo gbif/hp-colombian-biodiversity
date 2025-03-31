@@ -92,7 +92,7 @@ ___
   
   <br>
   
-  Si un Grupo de interés **no muestra actividad durante un año**, el EC- SiB lo contactará para evaluar oportunidades de reactivación. En caso de inactividad prolongada, el grupo podrá ser declarado inactivo.
+  Si un Grupo de interés <strong>no muestra actividad durante un año</strong>, el EC- SiB lo contactará para evaluar oportunidades de reactivación. En caso de inactividad prolongada, el grupo podrá ser declarado inactivo.
 
 </details>
 
