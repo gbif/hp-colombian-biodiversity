@@ -35,8 +35,8 @@ ___
 
 <p>Crear un GT-SiB implica un mayor compromiso que formar parte de un GI-SiB. Para ello, es necesario:</p>
 <ol>
-  <li>Elaborar la propuesta siguiendo la plantilla <strong>[Propuesta de intención grupo de trabajo](http://docs.google.com/document/d/1MDZMQMUZHoRDzZl-VYJB1woqEERo5Q1lpvF6PYhZWDY/edit)</strong>.</li>
-  <li>Enviar la propuesta al EC-SiB a través del correo <strong>[sib@humboldt.org.co](mailto:sib@humboldt.org.co)</strong>.</li>
+  <li>Elaborar la propuesta siguiendo la plantilla <strong><a href="http://docs.google.com/document/d/1MDZMQMUZHoRDzZl-VYJB1woqEERo5Q1lpvF6PYhZWDY/edit">Propuesta de intención grupo de trabajo</a></strong>.</li>
+  <li>Enviar la propuesta al EC-SiB a través del correo <strong><a href="mailto:sib@humboldt.org.co" target="_blank">sib@humboldt.org.co</a></strong>.</li>
   <li>El EC-SiB se contactará para acompañar el proceso.
     <h3>Criterios de revisión</h3>
     <p>El <strong>Equipo coordinador (EC-SiB)</strong> y el <strong>Comité técnico (CT-SiB)</strong> evaluarán la propuesta con base en los siguientes criterios:</p>
@@ -48,7 +48,6 @@ ___
       <p>✅ <strong>Factibilidad</strong> dentro del periodo de 12-24 meses.</p>
       <p>✅ <strong>Valor agregado</strong> en relación con otros esfuerzos de la comunidad.</p>
     </blockquote>
-    </ul>
     <h3>Evaluación</h3>
     <blockquote>
       <p>🔹El CT-SiB revisa la propuesta en un periodo de <strong>al menos cuatro semanas</strong>.</p>
@@ -56,7 +55,7 @@ ___
     </blockquote>
     <h3>Decisión final del CT-SiB</h3>
     <blockquote>
-      <p✅ <strong>Reconocido y respaldado</strong>: El grupo es aprobado y puede iniciar actividades.</p>
+      <p>✅ <strong>Reconocido y respaldado</strong>: El grupo es aprobado y puede iniciar actividades.</p>
       <p>✅ <strong>Reconocido con ajustes</strong>: Se solicita modificar algunos aspectos antes de la aprobación final.</p>
       <p>🔹 <strong>Pertinente pero no respaldado actualmente</strong>: La propuesta necesita madurar antes de su aprobación.</p>
       <p>🔹 <strong>No respaldado</strong>: La idea no se ajusta a los criterios del SiB Colombia.</p>
