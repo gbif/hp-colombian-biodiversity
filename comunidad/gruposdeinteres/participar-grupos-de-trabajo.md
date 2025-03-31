@@ -29,7 +29,7 @@ Los **grupos de trabajo del SiB Colombia (GT-SiB**) tienen como objetivo generar
 
 ___
 
-<details id="como-crear-un-gi-sib">
+<details id="como-crear-un-gt-sib">
     <summary markdown="span"><b>¿Cómo crear un GT-SiB?</b></summary>
 <br>
 
