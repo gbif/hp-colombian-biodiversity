@@ -15,6 +15,14 @@ terms:
     path: /formacion/laboratorios/DWCextensiones
   - title: "Validador de datos - GBIF"
     path: /formacion/laboratorios/DataValidator
+  - sectiontitle: "Convertir datos procedentes de MAG a DwC"
+    section:
+    - title: "Estructuración de eventos al DwC"
+      path: /formacion/laboratorios/estructuracion-eventos-bd-geografica
+    - title: "Estructuración de registros y medidas bióticas al DwC"
+      path: /formacion/laboratorios/estructuracion-medidas-bioticas-bd-geografica
+    - title: "Estructuración de medidas abióticas al DwC"
+      path: /formacion/laboratorios/estructuracion-medidas-abioticas-bd-geografica
     
 - grouptitle: "Laboratorio de validación y limpieza"
   content:
@@ -42,6 +50,10 @@ terms:
       path: /formacion/laboratorios/VisualizacionOBIS_Plotter
     - title: "Validación con QGIS"
       path: /formacion/laboratorios/QGIS
+    - title: "Transformación de coordenadas MAGNA-SIRGAS"
+      path: /formacion/laboratorios/transformacion-coordenadas-wgs84
+    - title: "Estructuración de transectos en Darwin Core"
+      path: /formacion/laboratorios/estructuracion-transectos
   - title: "Conversión fechas"
     path: /formacion/laboratorios/ConversionFechas
     
