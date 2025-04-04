@@ -167,7 +167,7 @@ Con base en lo anterior, se deben seguir estos pasos:
 
 ## Paso 6 - Creación de elementos obligatorios y ajuste de elementos documentados
 
-Es necesario verificar que todos los elementos obligatorios para los eventos de muestreo estén debidamente documentados. Para lograr esto, se necesita revisar la definición de los siguientes elementos en la [documentación en línea del estándar _Darwin Core_]((https://biodiversidad.co/elementos-darwin-core){:target="_blank"} y crear o ajustar el elemento correspondiente con base en los ejemplos.
+Es necesario verificar que todos los elementos obligatorios para los eventos de muestreo estén debidamente documentados. Para lograr esto, se necesita revisar la definición de los siguientes elementos en la [documentación en línea del estándar _Darwin Core_](https://biodiversidad.co/elementos-darwin-core){:target="_blank"} y crear o ajustar el elemento correspondiente con base en los ejemplos.
 
 Elementos obligatorios para los eventos de muestreo:
 
