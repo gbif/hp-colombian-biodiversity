@@ -152,7 +152,7 @@ Debido a que los atributos  de las tablas en una base de datos geográfica, orga
 A continuación, se describe la definición de la coincidencia del atributo con el _Darwin Core_:
 
 - **Total**: el contenido del atributo coincide completamente con la definición del elemento Darwin Core.
-- **Parcial**:  coincidencia parcial del atributo con algún elemento del _Darwin Core_. Es necesario realizar ajustes en el contenido del atributo para que haya coincidencia con el elemento _Darwin Core_. Se recomienda revisar la definición del elemento en la documentación en línea del estándar y hacer los ajustes necesarios.
+- **Parcial**:  coincidencia parcial del atributo con algún elemento del _Darwin Core_. Es necesario realizar ajustes en el contenido del atributo para que haya coincidencia con el elemento _Darwin Core_. Se recomienda revisar la definición del elemento en la [documentación en línea del estándar](https://biodiversidad.co/elementos-darwin-core) y hacer los ajustes necesarios.
 - **Nula**: no hay coincidencia con ningún elemento del _Darwin Core_ y por tanto no debe ser mapeado.
 
 ### 5.1. Mapeo y estructuración del archivo MuestreoFisicoquimSuperTB
@@ -160,8 +160,8 @@ A continuación, se describe la definición de la coincidencia del atributo con 
 Este proceso consiste en cambiar los nombres de las columnas del archivo **"MuestreoFisicoquimSuperTB.xlsx"** por el de los elementos _Darwin Core_ que tengan una coincidencia total en el mapeo, ajustar los elementos que tiene un coincidencia parcial y eliminar los elementos que no tienen ningún tipo de correspondencia con el estándar.
 Para realizar el mapeo, se deben seguir los siguientes pasos:
 
-- Modificar el nombre de las columnas documentadas como coincidencia total en el archivo "**MuestreoFisicoquimSuperTB.xlsx**" (Fig. 11)
-- Revisar el contenido de las columnas documentadas como coincidencia parcial, realizando los ajustes de acuerdo a las definiciones, recomendaciones y ejemplos de la [documentación en línea  del elemento Darwin Core](https://biodiversidad.co/compartir/estandar-darwin-core/), antes de hacer el mapeo (Fig. 11)
+- Modificar el nombre de las columnas documentadas como coincidencia total en el archivo "**MuestreoFisicoquimSuperTB.xlsx**" (Fig. 11).
+- Revisar el contenido de las columnas documentadas como coincidencia parcial y ajustarlas con base en las definiciones, recomendaciones y ejemplos de la [documentación en línea del estándar Darwin Core](https://biodiversidad.co/elementos-darwin-core) antes de hacer el mapeo (Fig. 11).
 - En el archivo "**MuestreoFisicoquimSuperTB.xlsx**", eliminar las columnas que tienen una coincidencia nula en el archivo de mapeo (Fig. 11).
 
 <div class="notification is-info is-light">
