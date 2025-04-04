@@ -182,7 +182,7 @@ A continuación, se observa cómo realizar el proceso con la primera medida <b>"
   
 ### 5.1 Creación de los elementos obligatorios
 
-Para asegurar que todos los elementos obligatorios para los registros biológicos estén debidamente documentados, se recomienda consultar los elementos obligatorios en la primera hoja de la [Plantilla de Registros biológicos](https://biodiversidad.co/recursos/plantillas-dwc/#registros-biol%C3%B3gicos), llamada **“Instrucciones”**. Teniendo en cuenta que la obligatoriedad de los elementos dependen del origen de los datos, este paso es necesario para la publicación de eventos de muestreo.
+Para asegurar que todos los elementos obligatorios para los registros biológicos estén debidamente documentados, se recomienda consultar los elementos obligatorios en la primera hoja de la [Plantilla de Registros biológicos](https://biodiversidad.co/recursos/plantillas-dwc/#registros-biol%C3%B3gicos), llamada **“Instrucciones”**. Teniendo en cuenta que la obligatoriedad de los elementos dependen del origen de los datos, este paso es necesario para la publicación de registros biológicos.
 
 Por consiguiente, se deben seguir las siguientes recomendaciones para crear los elementos obligatorios:
  
