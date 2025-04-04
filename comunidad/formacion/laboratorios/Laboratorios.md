@@ -23,7 +23,7 @@ A través de los laboratorios obtendrá herramientas robustas para el manejo de 
 
 ### Fundamentos sobre la publicación de datos
 
-Para obetner el mayor provecho de los laboratiorios se recomienda ver los siguientes seminarios que dan un contexto sobre la publicación de los datos:
+Para obtener el mayor provecho de los laboratiorios se recomienda ver los siguientes seminarios que dan un contexto sobre la publicación de los datos:
 
 1. [SiB Colombia: una iniciativa nacional para la publicación, acceso y uso de datos sobre biodiversidad](https://youtu.be/ImptmviMXgI){:target="_blank"}
 2. [¿Qué datos sobre nuestra biodiversidad se pueden publicar a través del SiB Colombia?](https://youtu.be/_f4gGfIBN3U){:target="_blank"}
