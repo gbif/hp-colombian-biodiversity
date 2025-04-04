@@ -50,13 +50,15 @@ QGIS es un _software_ libre y de código abierto, licenciado bajo una GNU (_Gene
 
 ## Paso 1 - Carga de los datos a QGIS
 
-El proceso de carga se puede realizar de varias formas. En esta guía se presentarán las más comunes: subir un archivo vectorial _shapefile_ y subir un archivo de texto plano con la información. Para este ejercicio, los datos están en la sección de archivos de trabajo.
+El proceso de carga se puede realizar de varias formas. En esta guía se presentarán las más comunes: subir un archivo vectorial _shapefile_ y subir un archivo de texto plano con la información. Para este ejercicio, los datos están en la sección **"Archivos de trabajo"**.
 
 El primer paso es abrir el QGIS y seleccionar la opción <span class="tag is-warning is-light"><b><i>Proyecto > Nuevo</i></b></span>.
 
 ### Paso 1.1 Crear el origen único MAGNA SIRGAS / CTM12 en QGIS
 
-Los datos  de esta guía están en el origen nacional, ya que muchos archivos _shapefiles_ y bases de datos geográficas se encuentran configurados con este sistema de coordenadas. Por consiguiente, se debe configurar el Sistema de Referencia de Coordenadas (SRC) del proyecto. Para ello, es posible seguir el procedimiento que se explica en este blog: [Configurando la proyección CTM12 en QGIS](https://qgisusers.co/es/blog/configurando-la-proyeccion-ctm12-en-qgis/){:target="_blank"} o utilizar el video [Cómo agregar el SRC MAGNA-SIRGAS/ CTM12 a QGIS](https://www.youtube.com/watch?v=sWvyt_0e_vI){:target="_blank"}, donde se muestra el paso a paso del blog.
+Los datos  de esta guía están en el origen nacional, ya que muchos archivos _shapefiles_ y bases de datos geográficas se encuentran configurados con este sistema de coordenadas. Por consiguiente, se debe configurar el Sistema de Referencia de Coordenadas (SRC) del proyecto. 
+
+A partir de la versión 3.3 de QGIS, el sistema de proyección MAGNA-SIRGAS / Origen-Nacional (CTM12) con el código EPSG 9377 se encuentra incluido de manera oficial. Si se utiliza una versión anterior, es posible agregarlo manualmente siguiendo el procedimiento descrito en el video [Cómo agregar el SRC MAGNA-SIRGAS/ CTM12 a QGIS](https://www.youtube.com/watch?v=sWvyt_0e_vI){:target="_blank"}. Según la información proporcionada, en la sección **"Parámetros"** se debe ingresar el [código](https://drive.google.com/file/d/1B4eXwiZUDlN8Ki3tEC5uBNugBdvLNYzI/view?usp=sharing){:target="_blank"} para completar el proceso con éxito.
 
 ### Paso 1.2  Configuración del SRC del proyecto
 
@@ -72,7 +74,7 @@ Para cargar los archivos _shapeFile_, seguir la ruta <span class="tag is-warning
 ![Figura 2. Adición de una capa vectorial.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig2_C4Coordenadas_Vectorial.png)
 <sup>_Figura 2. Adición de una capa vectorial._</sup>
 
-En la sección “**Fuente**” de la ventana emergente, hacer clic en el botón con los tres puntos (Fig 3. 1), seleccionar el archivo con la terminación .shp para transectos y dar clic en <span class="tag is-warning is-light"><i>Abrir</i></span> (Fig. 3.2). 
+En la sección **"Fuente"** de la ventana emergente, hacer clic en el botón con los tres puntos (Fig 3. 1), seleccionar el archivo con la terminación .shp para transectos y dar clic en <span class="tag is-warning is-light"><i>Abrir</i></span> (Fig. 3.2). 
 
 ![Figura 3.1. Ventana emergente con la opción de selección del archivo shapefile con los puntos de muestreo.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig3_C4Coordenadas_Seleccion.png)
 <sup>_Figura 3.1. Ventana emergente con la opción de selección del archivo shapefile con los puntos de muestreo._</sup>
@@ -92,11 +94,11 @@ Para cargar los archivos de texto plano, seguir la ruta <span class="tag is-warn
 ![Figura 4. Adición de una capa de texto delimitado.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig6_C4Coordenadas_Texto.png)
 <sup>_Figura 4. Adición de una capa de texto delimitado._</sup>
 
-En la sección “**Nombre del archivo**” de la ventana emergente, dar clic en el botón con los tres puntos, seleccionar el archivo con la terminación .csv que se descargó previamente en y hacer clic en <span class="tag is-warning is-light"><i>Abrir</i></span> (Fig. 5A). Continuar con las opciones <span class="tag is-warning is-light"><b><i>Definición de Geometría > Coordenadas del punto</i></b></span> y documentar el **"Campo X"** con el elemento <span class="tag is-light"><b>COOR_ESTE</b></span> y el **"Campo Y"** con el elemento <span class="tag is-light"><b>COOR_NORTE</b></span> (Fig. 5B).
+En la sección **"Nombre del archivo"** de la ventana emergente, dar clic en el botón con los tres puntos, seleccionar el archivo con la terminación .csv que se descargó previamente en y hacer clic en <span class="tag is-warning is-light"><i>Abrir</i></span> (Fig. 5A). Continuar con las opciones <span class="tag is-warning is-light"><b><i>Definición de Geometría > Coordenadas del punto</i></b></span> y documentar el **"Campo X"** con el elemento <span class="tag is-light"><b>COOR_ESTE</b></span> y el **"Campo Y"** con el elemento <span class="tag is-light"><b>COOR_NORTE</b></span> (Fig. 5B).
 
-En el campo “**SRC de la geometría**”, seleccionar el sistema de referencia de coordenadas <span class="tag is-warning is-light"><i>CTM12</i></span> que se configuró en el paso anterior. Si no aparece el sistema en la opción desplegable, dar clic en el ícono de proyecciones de la parte derecha y buscar el sistema de referencia configurado (Fig. 5C).
+En el campo **"SRC de la geometría"**, seleccionar el sistema de referencia de coordenadas <span class="tag is-warning is-light"><i>CTM12</i></span> que se configuró en el paso anterior. Si no aparece el sistema en la opción desplegable, dar clic en el ícono de proyecciones de la parte derecha y buscar el sistema de referencia configurado (Fig. 5C).
 
-Para finalizar, revisar que la previsualización en la opción <span class="tag is-warning is-light"><i>Datos de ejemplo</i></span> sea correcta y dar clic en <span class="tag is-warning is-light"><i>Añadir</i></span> (Fig. 5D). Si hay problemas en las tildes o con la letra ‘ñ’ en los textos, es necesario asegurarse de que en la sección de **"Codificación"** esté seleccionado <span class="tag is-warning is-light"><i>UTF-8</i></span> (Fig. 5E).
+Para finalizar, revisar que la previsualización en la opción <span class="tag is-warning is-light"><i>Datos de ejemplo</i></span> sea correcta y dar clic en <span class="tag is-warning is-light"><i>Añadir</i></span> (Fig. 5D). Si hay problemas en las tildes o con la letra ‘ñ’ en los textos, es necesario asegurarse de que en la sección **"Codificación"** esté seleccionado <span class="tag is-warning is-light"><i>UTF-8</i></span> (Fig. 5E).
 
 ![Figura 5. Pasos para cargar archivos de texto delimitados en QGIS.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_transformaci%C3%B3n-coordenadas-wgs84/Fig7_C4Coordenadas_Agregar.png)
 <sup>_Figura 5. Pasos para cargar archivos de texto delimitados en QGIS: A. Selección del archivo a cargar, B. Selección de campos de coordenadas, C. Selección del sistema de referencia, D. Vista previa de los datos a cargar, E. Selección de la codificación de los datos._</sup>
