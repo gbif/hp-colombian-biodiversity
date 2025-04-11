@@ -18,9 +18,7 @@ Desde el SiB Colombia, el Equipo Coordinador [acompaña mensualmente la publicac
 La biodiversidad en zonas de aguas residuales tiene especial relevancia para la gestión ambiental, como lo demuestra el reciente aporte de [Las Ceibas Empresas Públicas de Neiva E.S.P.](https://www.gbif.org/publisher/e9c0450b-0e49-4b61-abb2-ed2afb958ddf){:target="_blank"}, nuevo publicador en el SiB Colombia. Su conjunto de datos sobre flora en el área del proyecto 'Planta de Tratamiento de Aguas Residuales de Neiva', registró **2118 registros botánicos**, evidenciando la notable diversidad vegetal que persiste en estos ecosistemas impactados. Más allá de cumplir con los requisitos normativos, este estudio enriquece el conocimiento científico sobre la flora asociada a cuerpos hídricos intervenidos y revela la importancia de integrar el desarrollo de infraestructura con el cuidado de la biodiversidad, especialmente en ecosistemas estratégicos, como los cercanos al río Magdalena o los presentes en inmediaciones de zonas urbanas. 
 
 | **Grupo** | **Filos** | **Órdenes** | **Familias** | **Especies** |
-
 |:---|:---:|:---:|:---:|:---:|
-
 | 🌱 Especímenes botánicos | 5 | 21 | 35 | 43 |
 
 | Accede al conjunto de datos: [Flora presente en el área del proyecto "Planta de tratamiento de Aguas residuales de Neiva"](https://biodiversidad.co/data/?datasetKey=e9becdf0-1ca9-4048-b8e9-ff274a47c44c){:target="_blank"} |
@@ -28,9 +26,7 @@ La biodiversidad en zonas de aguas residuales tiene especial relevancia para la 
 Los estudios de línea base sobre biodiversidad constituyen herramientas fundamentales para la investigación y el desarrollo, como lo demuestra el reciente registro de avifauna realizado por [ACESCO Colombia SAS](https://www.gbif.org/publisher/b5359826-e387-4f48-936c-7d5fd7dc17b6){:target="_blank"} en su planta de Malambo, Atlántico, y zonas aledañas. Este valioso ejercicio científico, desarrollado en septiembre de 2024, reveló la sorprendente riqueza de aves que habita estos espacios industriales a través de **662 registros biológicos**, particularmente en los corredores que conectan con el río Magdalena. Mediante observación visual y auditiva, se logró documentar la presencia de numerosas especies que aprovechan las zonas verdes internas y los ecosistemas ribereños asociados a la planta. Estos resultados no solo enriquecen nuestro entendimiento ecológico, sino que demuestran que el desarrollo económico y la conservación pueden ser objetivos complementarios cuando se basan en información científica de calidad y disponible para su libre acceso.
 
 | **Grupo** | **Especies** |
-
 |:---|:---:|
-
 | 🦜 Aves | 113 |
 
 | Descarga el conjunto de datos: [Línea base de diversidad de aves de la planta de ACESCO y su zona de influencia](https://biodiversidad.co/data/?datasetKey=51bfec7f-8738-4980-9398-7d5102701a59){:target="_blank"} |
@@ -38,13 +34,9 @@ Los estudios de línea base sobre biodiversidad constituyen herramientas fundame
 Los programas de manejo de fauna silvestre en proyectos de infraestructura energética generan hallazgos valiosos para la conservación, como lo evidencian los registros publicados por [GTA Colombia S.A.S.](https://www.gbif.org/publisher/09eaa757-ec09-4004-9d88-1af818b26ac6){:target="_blank"}, nuevo publicador del SiB Colombia. Durante los años 2023 y 2024, a lo largo del trayecto entre Simijaca y La Vega en Cundinamarca, se documentaron diversas especies, entre las que se destacan **aves y reptiles**, mediante observación directa, registrando también sus patrones de desplazamiento. Estos datos, recopilados como parte del plan de manejo ambiental del proyecto, amplían el conocimiento sobre la distribución de especies en la zona y establecen parámetros de referencia para evaluar futuros impactos. Cada registro aporta datos para entender cómo la fauna se adapta y persiste, incluso en áreas con compleja intervención humana, información crucial para planificar un desarrollo verdaderamente sostenible.
 
 | **Grupo** | **Especies** |
-
-|:---|:---:|
-
+|---|---|
 | 🦜 Aves | 21 |
-
 | 🦎 Reptiles | 6 |
-
 | 🐸 Anfibios | 3 |
 
 | Explora el conjunto de datos: [Registros de fauna asociados al proyecto Sogamoso Norte - Nueva Esperanza LT 500 kV, Cundinamarca](https://biodiversidad.co/data/?datasetKey=37a5b93a-ae75-47be-8a4b-907bab2c7591){:target="_blank"}  |
@@ -55,9 +47,7 @@ Los programas de manejo de fauna silvestre en proyectos de infraestructura energ
 En medio de las grandes ciudades, las áreas protegidas de humedales emergen como oasis de vida, refugios esenciales para la biodiversidad y pulmones verdes que mejoran la calidad de vida de los ciudadanos. Hoy, gracias al esfuerzo de la [Secretaría Distrital de Ambiente de Bogotá](https://www.gbif.org/publisher/e70c4151-0d1a-414d-b70e-e87ac1e812b7){:target="_blank"}, podemos conocer mejor las aves que habitan estos ecosistemas. En un nuevo evento de muestreo publicado en el SiB Colombia, se presenta un minucioso trabajo de monitoreo realizado entre 2015 y 2023 en los 15 Parques Ecológicos Distritales de Humedal (PEDH), que arroja un total de **32 998 observaciones** de aves, correspondientes a más de **161 especies**. Estos datos no solo destacan la importancia ecológica de estos espacios, sino que refuerzan el llamado a su conservación como patrimonio natural de la capital. Un valioso aporte que consolida el conocimiento científico y promueve la conciencia ambiental en la sociedad.
 
 | **Grupo** | **Órdenes** | **Familias** | **Géneros** | **Especies** |
-
-|:---|:---:|:---:|:---:|:---:|
-
+|---|---|---|---|---|
 | 🦉Aves | 18 | 37 | 118 | 161 |
 
 | [Accede al evento de muestreo: Aves de las Reservas Distritales de Humedal de Bogotá, D.C.](https://biodiversidad.co/data/?datasetKey=4b04f487-712e-4ade-80fb-14e45f32e5f4){:target="_blank"} |
@@ -65,9 +55,7 @@ En medio de las grandes ciudades, las áreas protegidas de humedales emergen com
 En las corrientes del río Otún, un ejército silencioso de pequeños organismos nos entrega valiosas pistas sobre la salud del ecosistema. El reciente estudio de la [Universidad Tecnológica de Pereira](https://www.gbif.org/publisher/06f46c98-9794-4d96-a014-aecdf24dbd7e){:target="_blank"}, desarrollado en cumplimiento de los requerimientos de la Corporación Autónoma Regional de Risaralda-CARDER, revela la riqueza oculta en estas aguas: **203 registros biológicos** de macroinvertebrados acuáticos. Con un 79 % de los organismos identificados a nivel de género, se demuestra la solidez técnica del muestreo realizado en las bocatomas de acueducto y empresa de energía de Pereira, sobre el río Otún. Estos datos no solo validan el uso de estos bioindicadores para evaluar impactos ambientales, sino que establecen un insumo para el monitoreo futuro de este importante afluente. La investigación refuerza el papel de la academia como aliada estratégica en la gestión sostenible de nuestros recursos hídricos.
 
 | **Grupo** | **Clases** | **Familias** | **Géneros** | **Especies** |
-
-|:---|:---:|:---:|:---:|:---:|
-
+|---|---|---|---|---|
 | 🐟Peces | 5 | 33 | 43 | 0 |
 
 | Conoce el conjunto de datos de registros biológicos: [Registros de macroinvertebrados acuáticos tomados en el tramo medio del río Otún](https://biodiversidad.co/data/?datasetKey=6a7c5156-2e11-4046-a01a-3569030d821f){:target="_blank"} |
@@ -75,9 +63,7 @@ En las corrientes del río Otún, un ejército silencioso de pequeños organismo
 La [Sociedad Colombiana de Mastozoología](https://www.gbif.org/es/publisher/4a88507e-5d15-44a4-98cb-a4a0ac13f113){:target="_blank"} nos entrega un avance científico invaluable: la actualización más completa de los mamíferos que habitan nuestro territorio. Con **553 especies registradas**, este catálogo consolida a Colombia como uno de los países más megadiversos del planeta. Los datos, disponibles a través del SiB Colombia, revelan patrones fascinantes: los murciélagos (*Chiroptera*) y roedores (*Rodentia*) dominan nuestra fauna con 222 y 138 especies respectivamente. Este esfuerzo meticuloso, que integra décadas de investigación en colecciones biológicas y literatura especializada, no solo enriquece nuestro conocimiento, sino que suena una alerta: casi 13 % de nuestras especies están en peligro y 82 son objeto de comercio. Un llamado urgente a fortalecer estrategias de conservación para proteger este patrimonio natural irreemplazable.
 
 | **Grupo** | **Especies endémicas** | **Especies en alto grado de amenaza** |
-
-|:---|:---:|:---:|
-
+|---|---|---|
 | 🦇🦫🐆Mamíferos | 222 | 138 |
 
 | Conjunto de datos de lista de chequeo: [Mamíferos de Colombia](https://biodiversidad.co/dataset/search?publishingOrg=4a88507e-5d15-44a4-98cb-a4a0ac13f113&type=CHECKLIST){:target="_blank"} |
