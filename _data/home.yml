@@ -66,6 +66,17 @@ noticias:
   features:
 
     - preTitle: Datos abiertos
+      title: "Plantas resilientes, aves entre humedales e industrias, microorganismos acuáticos, mamíferos y peces entre los destacados de marzo" 
+      description: |      # required
+       Nuevos publicadores del sector energético, empresas públicas y privadas, secretarías de ambiente, universidades y museos se destacan este mes con conjuntos de datos y colecciones biológicas.
+      # img required
+      background: assets/images/noticias_eventos/2025/2025-04-11-destacados-marzo-2025.png
+      cta:
+      - text: Ver más
+        href: /post/2025/reporte-publicacion-marzo-2025/
+        isPrimary: false
+
+    - preTitle: Datos abiertos
       title: "Microorganismos costeros, hongos amazónicos y especímenes recolectados entre los destacados de febrero" 
       description: |      # required
        Una autoridad marítima, institutos de investigación y universidades sobresalieron en febrero con la actualización de conjuntos de datos y colecciones biológicas.
@@ -118,17 +129,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2024/reporte-publicacion-noviembre-2024/
-        isPrimary: false
-
-    - preTitle: Datos abiertos
-      title: "La Serranía de los Yariguíes, osos andinos y especies arbóreas se destacan en el mes de octubre" 
-      description: |      # required
-       Una universidad, una alianza público-privada y un jardín botánico se destacan este mes a partir de eventos de muestreo, registros biológicos y listas de chequeo de nuestra biodiversidad.
-      # img required
-      background: assets/images/noticias_eventos/2024/2024-11-25-destacados-octubre-2024.png
-      cta:
-      - text: Ver más
-        href: /post/2024/reporte-publicacion-octubre-2024/
         isPrimary: false
         
 # Splits
