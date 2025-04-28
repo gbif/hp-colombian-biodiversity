@@ -64,7 +64,7 @@ La [Sociedad Colombiana de Mastozoología](https://www.gbif.org/es/publisher/4a8
 
 | **Grupo** | **Especies endémicas** | **Especies en alto grado de amenaza** |
 |---|---|---|
-| 🦇🦫🐆Mamíferos | 222 | 138 |
+| 🦇🦫🐆Mamíferos | 64 | 70 |
 
 | Conjunto de datos de lista de chequeo: [Mamíferos de Colombia](https://biodiversidad.co/dataset/search?publishingOrg=4a88507e-5d15-44a4-98cb-a4a0ac13f113&type=CHECKLIST){:target="_blank"} |
 
