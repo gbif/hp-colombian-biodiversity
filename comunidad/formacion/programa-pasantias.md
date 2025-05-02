@@ -116,5 +116,5 @@ ___
 * [Recomendaciones para elaborar de una hoja de vida](https://leo.uniandes.edu.co/hoja-de-vida/){:target="_blank"}
 * [Recomendaciones para redactar una carta de intención](https://leo.uniandes.edu.co/cartas-de-presentacion-y-motivacion/){:target="_blank"}
 
-¿Dudas o preguntas sobre la convocatoria? Escribe a sib@humboldt.org.co con el asunto: “Pasantías 2025-2”.
+¿Dudas o preguntas sobre la convocatoria? Escribe a [sib@humboldt.org.co](mailto:sib@humboldt.org.co?subject=Pasantías 2025-2){:target="_blank"} con el asunto: “Pasantías 2025-2”.
 
