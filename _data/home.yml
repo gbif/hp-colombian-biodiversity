@@ -68,7 +68,7 @@ noticias:
     - preTitle: Pasantías 2025
       title: "Postúlate para hacer tu pasantía o práctica laboral con el SiB Colombia" 
       description: |      # required
-       El 02 de mayo lanzamos la convocatoria para postulaciones a pasantías o prácticas laborales con el SiB Colombia durante el segundo semestre de 2025.
+       El 2 de mayo lanzamos la convocatoria para postulaciones a pasantías o prácticas laborales con el SiB Colombia durante el segundo semestre de 2025.
       # img required
       background: assets/images/noticias_eventos/2025/2025-04-01-convocatoria-pasantias-2025-2.png
       cta:
