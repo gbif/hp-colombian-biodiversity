@@ -68,7 +68,7 @@ noticias:
     - preTitle: Pasantías 2025
       title: "Postúlate para hacer tu pasantía o práctica laboral con el SiB Colombia" 
       description: |      # required
-       Nuevos publicadores del sector energético, empresas públicas y privadas, secretarías de ambiente, universidades y museos se destacan este mes con conjuntos de datos y colecciones biológicas.
+       El 02 de mayo lanzamos la convocatoria para postulaciones a pasantías o prácticas laborales con el SiB Colombia durante el segundo semestre de 2025.
       # img required
       background: assets/images/noticias_eventos/2025/2025-04-01-convocatoria-pasantias-2025-2.png
       cta:
@@ -79,7 +79,7 @@ noticias:
     - preTitle: Datos abiertos
       title: "Plantas resilientes, aves entre humedales e industrias, microorganismos acuáticos, mamíferos y peces entre los destacados de marzo" 
       description: |      # required
-       El 02 de mayo lanzamos la convocatoria para postulaciones a pasantías o prácticas laborales con el SiB Colombia durante el segundo semestre de 2025.
+       Nuevos publicadores del sector energético, empresas públicas y privadas, secretarías de ambiente, universidades y museos se destacan este mes con conjuntos de datos y colecciones biológicas.
       # img required
       background: assets/images/noticias_eventos/2025/2025-04-11-destacados-marzo-2025.png
       cta:
