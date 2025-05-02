@@ -20,7 +20,7 @@ La recepción de postulaciones estará **abierta hasta el 20 de mayo del 2025**.
 
 | **Etapa** | **Fecha** |
 |---|---|
-| Postulación de candidatos | del 01 de mayo al 20 de mayo |
+| Postulación de candidatos | del 02 de mayo al 20 de mayo |
 | Revisión de aplicaciones | del 21  al 23 de mayo |
 | Prueba técnica | del 24 al 26 de mayo |
 | Invitación a entrevista | del 3 al 6 de junio |
