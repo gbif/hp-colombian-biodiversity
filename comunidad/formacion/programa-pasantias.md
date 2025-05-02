@@ -26,6 +26,15 @@ La recepción de postulaciones estará **abierta hasta el 20 de mayo del 2025**.
 | Invitación a entrevista | del 3 al 6 de junio |
 | Ejecución de la pasantía | julio a diciembre |
 
+### Etapas del proceso de selección
+
+- **Revisión de aplicaciones**: El Equipo Coordinador del SiB Colombia será el encargado de revisar el cumplimiento de todos los requisitos y de la idoneidad de la hoja de vida de todos los candidatos, incluyendo su carta de presentación. Los resultados de la convocatoria se informarán a los candidatos una semana después del cierre de la misma.
+
+- **Prueba técnica**: Los candidatos que obtengan los mejores puntajes en la revisión de aplicaciones serán invitados a realizar una prueba técnica. Esta será enviada vía correo electrónico y servirá para medir las habilidades de los candidatos para el manejo de herramientas informáticas, así como su capacidad para resolver problemas y otras habilidades específicas de cada perfil. Por lo general, los candidatos cuentan con 3 o 4 días para resolver la prueba. Los resultados se entregan una semana después de realizada.
+
+- **Entrevista**: Los candidatos que obtengan los puntajes más altos de la prueba técnica serán convocados a una entrevista para definir el candidato que será vinculado como pasante. El resultado se informa una semana después de realizada.
+La vinculación como pasante se logra mediante los méritos y los resultados obtenidos en la prueba técnica y demás etapas del proceso.
+
 ## Cupos y perfiles disponibles
 
 Para la presente convocatoria 2025-2, se han abierto tres (3) vacantes. Los dos (2) perfiles que buscamos para el área de **Administración de Contenidos** son ideales para estudiantes de biología, ecología, ingeniería ambiental, ingeniería forestal y afines. El perfil para el área de **Productos y Servicios** es ideal para estudiantes de comunicación social, periodismo, producción audiovisual o diseño gráfico.
@@ -104,8 +113,8 @@ ___
 
 **Recursos útiles para aplicar**:
 
-* [Recomendaciones para la elaboración de una hoja de vida](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=101:hoja-de-vida&catid=76&Itemid=169){:target="_blank"}
-* [Formato de carta de postulación](https://leo.uniandes.edu.co/index.php?option=com_content&view=article&id=133:guia-para-la-elaboracion-de-cartas-de-presentacion-o-cover-letters&catid=76&Itemid=169){:target="_blank"}
+* [Recomendaciones para elaborar de una hoja de vida](https://leo.uniandes.edu.co/hoja-de-vida/){:target="_blank"}
+* [Recomendaciones para redactar una carta de intención](https://leo.uniandes.edu.co/cartas-de-presentacion-y-motivacion/){:target="_blank"}
 
 ¿Dudas o preguntas sobre la convocatoria? Escribe a sib@humboldt.org.co con el asunto: “Pasantías 2025-2”.
 
