@@ -17,6 +17,7 @@ El 02 de mayo lanzamos la **convocatoria para postulaciones a pasantías o prác
 
 ## Calendario de la convocatoria 2025-2
 La recepción de postulaciones estará **abierta hasta el 20 de mayo del 2025**. El inicio de la pasantía será en julio de 2025, con finalización en diciembre del mismo año.
+
 | **Etapa** | **Fecha** |
 |---|---|
 | Postulación de candidatos | del 01 de mayo al 20 de mayo |
@@ -99,7 +100,7 @@ ___
 
 ___
 
-¡[Postúlate a la pasantía](https://docs.google.com/forms/d/e/1FAIpQLSeR1667Dx0UxEb9S-ZoxOLLdJL3YTHTzlf6fDekrFY3JnO9RA/viewform?usp=sharing){:target="_blank"  .button .is-primary}!
+[Postúlate a la pasantía](https://docs.google.com/forms/d/e/1FAIpQLSeR1667Dx0UxEb9S-ZoxOLLdJL3YTHTzlf6fDekrFY3JnO9RA/viewform?usp=sharing){:target="_blank"  .button .is-primary}
 
 **Recursos útiles para aplicar**:
 
