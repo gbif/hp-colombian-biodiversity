@@ -65,7 +65,7 @@ bannerProblemasTecnicos:
 noticias:
   features:
   
-   - preTitle: Pasantías 2025
+    - preTitle: Pasantías 2025
       title: "Postúlate para hacer tu pasantía o práctica laboral con el SiB Colombia" 
       description: |      # required
        Nuevos publicadores del sector energético, empresas públicas y privadas, secretarías de ambiente, universidades y museos se destacan este mes con conjuntos de datos y colecciones biológicas.
