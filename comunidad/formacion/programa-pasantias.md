@@ -11,7 +11,7 @@ toc: true
 
 # Postúlate para hacer tu pasantía o práctica laboral con el SiB Colombia
 
-El 02 de mayo lanzamos la **convocatoria para postulaciones a pasantías o prácticas laborales con el SiB Colombia durante el segundo semestre de 2025**. Esta es una oportunidad para que profesionales en formación, de diferentes áreas del conocimiento, hagan parte de un equipo de trabajo que les permitirá experimentar retos que encontrarán en su vida laboral, en un ambiente seguro, orientado al aprendizaje y la retroalimentación constructiva.
+El 2 de mayo lanzamos la **convocatoria para postulaciones a pasantías o prácticas laborales con el SiB Colombia durante el segundo semestre de 2025**. Esta es una oportunidad para que profesionales en formación, de diferentes áreas del conocimiento, hagan parte de un equipo de trabajo que les permitirá experimentar retos que encontrarán en su vida laboral, en un ambiente seguro, orientado al aprendizaje y la retroalimentación constructiva.
 
 | Las pasantías se desarrollarán en **modalidad virtual con eventuales sesiones de trabajo presenciales en la ciudad de Bogotá**. Estudiantes de pregrado de todo el país y todas las universidades pueden aplicar. |
 
@@ -20,7 +20,7 @@ La recepción de postulaciones estará **abierta hasta el 20 de mayo del 2025**.
 
 | **Etapa** | **Fecha** |
 |---|---|
-| Postulación de candidatos | del 02 de mayo al 20 de mayo |
+| Postulación de candidatos | del 2 de mayo al 20 de mayo |
 | Revisión de aplicaciones | del 21  al 23 de mayo |
 | Prueba técnica | del 24 al 26 de mayo |
 | Invitación a entrevista | del 3 al 6 de junio |
