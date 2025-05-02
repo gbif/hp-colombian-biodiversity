@@ -76,7 +76,7 @@ ___
 </ul>
 <p><strong>Actividades</strong>:</p>
 <ul>
-<li>Administración de los contenidos del <a href="https://www.biodiversidad.co" target="_blank">catálogo de la biodiversidad de Colombia</a></li>
+<li>Administración de los contenidos del <a href="https://catalogo.biodiversidad.co/" target="_blank">catálogo de la biodiversidad de Colombia</a></li>
 <li>Curaduría y mejora de las fichas existentes</li>
 <li>Generación de nuevas fichas sobre temáticas o grupos con vacíos de información</li>
 <li>Generación de nuevas fichas de interés y de autoría del pasante</li>
@@ -114,7 +114,7 @@ ___
 **Recursos útiles para aplicar**:
 
 * [Recomendaciones para elaborar de una hoja de vida](https://leo.uniandes.edu.co/hoja-de-vida/){:target="_blank"}
-* [Recomendaciones para redactar una carta de intención](https://leo.uniandes.edu.co/cartas-de-presentacion-y-motivacion/){:target="_blank"}
+* [Recomendaciones para escribir una carta de intención](https://leo.uniandes.edu.co/cartas-de-presentacion-y-motivacion/){:target="_blank"}
 
 ¿Dudas o preguntas sobre la convocatoria? Escribe a [sib@humboldt.org.co](mailto:sib@humboldt.org.co?subject=Pasantías 2025-2){:target="_blank"} con el asunto: “Pasantías 2025-2”.
 
