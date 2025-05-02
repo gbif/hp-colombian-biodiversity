@@ -28,9 +28,9 @@ La recepción de postulaciones estará **abierta hasta el 20 de mayo del 2025**.
 
 ### Etapas del proceso de selección
 
-- **Revisión de aplicaciones**: El Equipo Coordinador del SiB Colombia será el encargado de revisar el cumplimiento de todos los requisitos y de la idoneidad de la hoja de vida de todos los candidatos, incluyendo su carta de presentación. Los resultados de la convocatoria se informarán a los candidatos una semana después del cierre de la misma.
+- **Revisión de aplicaciones**: El Equipo Coordinador del SiB Colombia será el encargado de revisar el cumplimiento de todos los requisitos y la idoneidad de la hoja de vida de todos los candidatos, incluyendo su carta de presentación. Los resultados de la convocatoria se informarán a los candidatos una semana después del cierre de la misma.
 
-- **Prueba técnica**: Los candidatos que obtengan los mejores puntajes en la revisión de aplicaciones serán invitados a realizar una prueba técnica. Esta será enviada vía correo electrónico y servirá para medir las habilidades de los candidatos para el manejo de herramientas informáticas, así como su capacidad para resolver problemas y otras habilidades específicas de cada perfil. Por lo general, los candidatos cuentan con 3 o 4 días para resolver la prueba. Los resultados se entregan una semana después de realizada.
+- **Prueba técnica**: Los candidatos que obtengan los mejores puntajes en la revisión de aplicaciones serán invitados a realizar una prueba técnica. Esta se enviará vía correo electrónico y servirá para medir las habilidades de los candidatos para el manejo de herramientas informáticas, así como su capacidad para resolver problemas y otras habilidades específicas de cada perfil. Por lo general, los candidatos cuentan con 3 o 4 días para resolver la prueba. Los resultados se entregarán una semana después de la fecha límite para entregar la prueba.
 
 - **Entrevista**: Los candidatos que obtengan los puntajes más altos de la prueba técnica serán convocados a una entrevista para definir el candidato que será vinculado como pasante. El resultado se informa una semana después de realizada.
 La vinculación como pasante se logra mediante los méritos y los resultados obtenidos en la prueba técnica y demás etapas del proceso.
