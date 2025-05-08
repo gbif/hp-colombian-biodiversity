@@ -23,17 +23,17 @@ stats:
       background: /assets/images/landing_page/iconos_cifras/ico_listaEspecies_gris.png
       href: https://biodiversidad.co/dataset/search?type=CHECKLIST
       # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
-    - title: "245"
+    - title: "244"
       description: Socios publicadores
       background: /assets/images/landing_page/iconos_cifras/ico_sociosPublicadores_gris.png
       href: /comunidad/socios-publicadores/
       # Hard coded value     
 
+
 bannerMantenimientoCRSIB:
   markdownContent: 
-      ![La plataforma del CR-SiB estará en mantenimiento](/assets/images/landing_page/mantenimientoCR-SiB_Banner.png)
+      <img src="assets/images/landing_page/mantenimientoCR-SiB_Banner.png">
       
-# Banner mantenimiento 
 
 # Estadisticas ajustadas
 estadisticas:
