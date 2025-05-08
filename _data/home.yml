@@ -29,6 +29,13 @@ stats:
       href: /comunidad/socios-publicadores/
       # Hard coded value     
 
+# Banner mantenimiento 
+
+bannerMantenimientoCRSIB:
+  markdownContent: | 
+      [![La plataforma del CR-SiB estará en mantenimiento](/assets/images/landing_page/mantenimientoCR-SiB_Banner.png)]()
+
+
 # Estadisticas ajustadas
 estadisticas:
   markdownContent: | 
@@ -40,15 +47,15 @@ estadisticas:
        # Publicadorees  <span data-ajax-url="https://api.gbif.org/v1/organization?country=CO&limit=0&isEndorsed=true">100,000</span>
          # Conjuntos de datos <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=CO&limit=0">100,000</span>
 
+# Banner mantenimiento 
+bannerMantenimientoCRSIB:
+  markdownContent: | 
+      [![La plataforma del CR-SiB estará en mantenimiento](/assets/images/landing_page/mantenimientoCR-SiB_Banner.png)]()
+
 # Banner red Biodiversidad y desarrollo en GBIF
 #bannerBDCGBIF:
 #  markdownContent: | 
 #      [![Red Biodiversidad y Colombia en GBIF](/assets/images/landing_page/banner_red_biodiversidad_desarrollo_colombia_gbif.png)](https://www.gbif.org/es/network/2ee1bff7-0b34-4fa3-9433-feaa7c6ee08b){:target="_blank"}
-
-# Banner mantenimiento 
-bannerMentenimientoCRSIB:
-  markdownContent: | 
-      [![La plataforma del CR-SiB estará en mantenimiento](/assets/images/landing_page/mantenimientoCR-SiB_Banner.png)]()
 
 # Banner problemas técnicos IPT
 bannerProblemasTecnicos:
