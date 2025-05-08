@@ -29,10 +29,9 @@ stats:
       href: /comunidad/socios-publicadores/
       # Hard coded value     
 
-
-bannerMantenimientoCRSIB:
-      <img src="assets/images/landing_page/mantenimientoCR-SiB_Banner.png">
-      
+<br />
+<img src="assets/images/landing_page/mantenimientoCR-SiB_Banner.png">
+<br />      
 
 # Estadisticas ajustadas
 estadisticas:
