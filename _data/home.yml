@@ -30,8 +30,8 @@ stats:
       # Hard coded value     
 
 bannerMantenimientoCRSIB:
-  markdownContent: | 
-      [![La plataforma del CR-SiB estará en mantenimiento](/assets/images/landing_page/mantenimientoCR-SiB_Banner.png)]()
+  markdownContent: 
+      ![La plataforma del CR-SiB estará en mantenimiento](/assets/images/landing_page/mantenimientoCR-SiB_Banner.png)
 
 
 # Estadisticas ajustadas
