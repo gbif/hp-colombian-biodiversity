@@ -43,6 +43,95 @@ Los grupos de trabajo se formarán de acuerdo con las características y necesid
 
 ## Grupos de trabajo
 
-+ En proceso de consolidación.
+### GT Monitoreo participativo
+
+<br>
+<details id="colíderes">
+    <summary markdown="span"><b>Co-líderes</b></summary>
+<br>
+
+<p>🔹Carolina Soto</p>
+<p>🔹Lina María Sánchez Clavijo</p>
+<p>🔹Camila Gómez</p>
+</details>
+
+___
+
+<details id="resumen">
+    <summary markdown="span"><b>Resumen</b></summary>
+<br>
+
+<blockquote>
+<p>El Grupo de Trabajo en Monitoreo Participativo tiene como objetivo mejorar la calidad y accesibilidad de los datos obtenidos a partir de este tipo de monitoreo. A través de la generación de lineamientos, busca cerrar brechas en la recolección y gestión de datos del monitoreo participativo. Este grupo fomenta la participación de diferentes actores, articulando esfuerzos entre la sociedad civil, la academia y entidades gubernamentales para fortalecer el monitoreo participativo y garantizar que la información generada contribuya a la conservación y el manejo sostenible de la biodiversidad. Su enfoque innovador y colaborativo aportará a que los datos sean accesibles y de alto impacto para la toma de decisiones.</p>
+</blockquote>
+
+</details>
+
+___
+
+<details id="motivación">
+    <summary markdown="span"><b>Motivación</b></summary>
+<br>
+
+<blockquote>
+<p>Este grupo busca fortalecer la cadena de gestión del conocimiento asociada a los datos de ciencia participativa, abordando brechas en metodologías, calidad de datos y análisis. Además, tiene la intención de fortalecer el monitoreo participativo en Colombia para que los datos obtenidos tengan un impacto en la conservación y el manejo sostenible de la biodiversidad.</p>
+</blockquote>
+
+</details>
+
+___
+
+<details id="participación">
+    <summary markdown="span"><b>¿Quiénes pueden participar?</b></summary>
+<br>
+
+<blockquote>
+<p>✅Todas las organizaciones y personas que hagan parte de iniciativas de monitoreo participativo y tengan interés en el manejo de datos obtenidos a partir de este tipo de monitoreos</p>
+<p>✅Especialistas o expertos en el manejo de datos sobre biodiversidad e informática de la biodiversidad</p>
+<p>✅Personas con distintos perfiles que incluyan habilidades para el análisis de datos</p>
+</blockquote>
+
+</details>
+
+___
+
+<details id="resultados">
+    <summary markdown="span"><b>Resultados y productos esperados</b></summary>
+<br>
+
+<blockquote>
+<p>🔹Documento instructivo para la publicación de conjuntos de datos de monitoreo participativo a través del SiB Colombia</p>
+<p>🔹Documento de buenas prácticas para la toma y publicación de datos en iniciativas de monitoreo participativo</p>
+</blockquote>
+
+</details>
+
+___
+
+<details id="estrategia">
+    <summary markdown="span"><b>Estrategia y metodología</b></summary>
+<br>
+
+<blockquote>
+<p>✅Lanzar la convocatoria de nuevos participantes para el grupo de trabajo.</p>
+<p>✅Consultar con expertos en DwC sobre mecanismos para realizar la publicación de datos obtenidos a partir de iniciativas de monitoreo participativo.</p>
+<p>✅Realizar la revisión por pares del documento instructivo para la publicación de conjuntos de datos de monitoreo participativo a través del SiB Colombia.</p>
+<p>✅Publicar el documento de buenas prácticas para la toma y publicación de datos en iniciativas de monitoreo participativo.</p>
+</blockquote>
+
+</details>
+
+___
+
+<details id="contacto">
+    <summary markdown="span"><b>¿Cómo participar?</b></summary>
+<br>
+
+<p>Si quieres participar en el grupo de trabajo de monitoreo de poblaciones, escribe al correo <a href="mailto:sib@humboldt.org.co" target="_blank">sib@humboldt.org.co</a> con el asunto "Solicitud para el GT Monitoreo de poblaciones"</p>
+</details>
+
+___
+
+### GT Monitoreo de poblaciones
 
 Accede a más información sobre los [Grupos de interés](/comunidad/grupos/participar-grupos-de-interes){: .button .is-primary}
