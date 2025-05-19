@@ -43,6 +43,97 @@ Los grupos de trabajo se formarán de acuerdo con las características y necesid
 
 ## Grupos de trabajo
 
+### GT Monitoreo de poblaciones
+
+<br>
+<details id="colíderes">
+    <summary markdown="span"><b>Co-líderes</b></summary>
+<br>
+
+<p>🔹Carolina Soto</p>
+<p>🔹Lina María Sánchez Clavijo</p>
+<p>🔹Camila Gómez</p>
+</details>
+
+___
+
+<details id="resumen">
+    <summary markdown="span"><b>Resumen</b></summary>
+<br>
+
+<blockquote>
+<p></p>
+</blockquote>
+
+</details>
+
+___
+
+<details id="motivación">
+    <summary markdown="span"><b>Motivación</b></summary>
+<br>
+
+<blockquote>
+<p>Para hacerle seguimiento al cumplimiento de las metas del CBD, se requiere calcular indicadores de estado y tendencia a nivel poblacional; sin embargo, existen tantos vacíos de datos que es casi imposible saber si las medidas que estamos implementando para la conservación de las especies  están funcionando (Moussy et al., 2022). Adicionalmente, para cualquier estudio de conservación o uso sostenible de la biodiversidad, es clave tener datos de monitoreo a nivel de poblaciones. Actualmente, debido al modelo de publicación del SiB Colombia y el alcance del Darwin Core, es difícil consolidar la información de poblaciones. Este grupo buscará formas de adaptar o identificar los mecanismos para ingresar datos de monitoreo poblacional para suplir esta necesidad ampliar el número de datos de este tipo compartidos a través del SiB Colombia.</p>
+</blockquote>
+
+</details>
+
+___
+
+<details id="participación">
+    <summary markdown="span"><b>¿Quiénes pueden participar?</b></summary>
+<br>
+
+<blockquote>
+<p>✅Todas las organizaciones y personas que generan monitoreo de poblaciones, especialmente asociadas a marcado o parcelas permanentes</p>
+<p>✅Especialistas o expertos en el manejo de datos sobre biodiversidad e informática de la biodiversidad</p>
+<p>✅Personas con distintos perfiles que incluyan habilidades para el análisis de datos para identificar vacíos en la información que dificultan el análisis de datos poblacionales</p>
+</blockquote>
+
+</details>
+
+___
+
+<details id="resultados">
+    <summary markdown="span"><b>Resultados y productos esperados</b></summary>
+<br>
+
+<blockquote>
+<p>🔹Conjunto de datos de marcaje de individuos publicado a través del SiB Colombia</p>
+<p>🔹Documento instructivo para la publicación de conjuntos de datos de marcaje de fauna y flora a través del SiB Colombia</p>
+<p>🔹En caso de que se encuentren dificultades o barreras para la publicación de datos de monitoreo asociados a marcaje, se generará un documento que resuma los hallazgos y que pueda ser compartido a través de los grupos de trabajo de estándares sobre biodiversidad como TDWG.</p>
+</blockquote>
+
+</details>
+
+___
+
+<details id="estrategia">
+    <summary markdown="span"><b>Estrategia y metodología</b></summary>
+<br>
+
+<blockquote>
+<p>✅Lanzar la convocatoria de nuevos participantes para el grupo de trabajo.</p>
+<p>✅Realizar pruebas sobre un conjunto de datos de marcaje de fauna y/o flora.</p>
+<p>✅Consultar con expertos en Darwin Core sobre mecanismos para realizar la publicación.</p>
+<p>✅Realizar la revisión por pares del documento instructivo para la publicación de conjuntos de datos de poblaciones a través del SiB Colombia.</p>
+<p>✅Publicar el documento de hallazgos o el instructivo a través de la página del grupo de trabajo.</p>
+</blockquote>
+
+</details>
+
+___
+
+<details id="contacto">
+    <summary markdown="span"><b>¿Cómo participar?</b></summary>
+<br>
+
+<p>Si quieres participar en el grupo de trabajo de monitoreo de poblaciones, escribe al correo <a href="mailto:sib@humboldt.org.co" target="_blank">sib@humboldt.org.co</a> con el asunto "Solicitud para el GT Monitoreo de poblaciones"</p>
+</details>
+
+___
+
 ### GT Monitoreo participativo
 
 <br>
@@ -131,7 +222,5 @@ ___
 </details>
 
 ___
-
-### GT Monitoreo de poblaciones
 
 Accede a más información sobre los [Grupos de interés](/comunidad/grupos/participar-grupos-de-interes){: .button .is-primary}
