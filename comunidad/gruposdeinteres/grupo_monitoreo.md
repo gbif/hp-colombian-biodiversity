@@ -25,11 +25,11 @@ Colectivamente, en este grupo crearemos lineamientos y herramientas para el uso 
 
 ## Líderes
 
-| Nombre Completo    | Email                      | Cargo                                | Organización                      |
-|---------------------|----------------------------|--------------------------------------|-----------------------------------|
-| Camila Gómez       | camila.gomez@selva.org.co  | Directora de Educación y Entrenamiento | SELVA                             |
-| Carolina Soto      | csoto@humboldt.org.co      | Investigador Adjunto                | IAvH - Centro de Apropiación Social |
-| Lina Sánchez       | lsanchez@humboldt.org.co   | Investigador Principal              | IAvH - Gerencia de Información Científica |
+|           | Nombre Completo    | Email                      | Cargo                                | Organización                      |
+|-----------|---------------------|----------------------------|--------------------------------------|-----------------------------------|
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/gruposdeinteres/images/CamilaGómez_Foto.jpg"></figure>| Camila Gómez       | camila.gomez@selva.org.co  | Directora de Educación y Entrenamiento | SELVA                             |
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/gruposdeinteres/images/CarolinaSoto_Foto.JPG"></figure>| Carolina Soto      | csoto@humboldt.org.co      | Investigador Adjunto                | IAvH - Centro de Apropiación Social |
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/gruposdeinteres/images/LinaSánchez_Foto.JPG"></figure>| Lina Sánchez       | lsanchez@humboldt.org.co   | Investigador Principal              | IAvH - Gerencia de Información Científica |
 
 
 ### ¿Quiénes pueden participar en el grupo de interés en Monitoreo de Biodiversidad?
@@ -40,6 +40,7 @@ Nos interesa vincular investigadores y personas que contribuyan a generar datos 
 
 Los grupos de trabajo se formarán de acuerdo con las características y necesidades de las personas que se integren al grupo de interés y podrán variar en el tiempo, de acuerdo a las necesidades y oportunidades que se vayan identificando.
 
+[Regístrate aquí](/comunidad/grupos/participar-grupos-de-interes){: .button .is-primary}
 
 ## Grupos de trabajo
 
