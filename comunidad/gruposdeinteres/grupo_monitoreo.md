@@ -40,7 +40,7 @@ Nos interesa vincular investigadores y personas que contribuyan a generar datos 
 
 Los grupos de trabajo se formarán de acuerdo con las características y necesidades de las personas que se integren al grupo de interés y podrán variar en el tiempo, de acuerdo a las necesidades y oportunidades que se vayan identificando.
 
-[Regístrate aquí](/comunidad/grupos/participar-grupos-de-interes){: .button .is-primary}
+[Regístrate aquí](https://docs.google.com/forms/d/e/1FAIpQLSdoivgpAhKYov4i2RTXNCAozCRpzdEBxZZH7ZmYNTkk2jL7lQ/viewform?usp=header){: .button .is-primary}
 
 ## Grupos de trabajo
 
