@@ -40,7 +40,16 @@ Nos interesa vincular investigadores y personas que contribuyan a generar datos 
 
 Los grupos de trabajo se formarán de acuerdo con las características y necesidades de las personas que se integren al grupo de interés y podrán variar en el tiempo, de acuerdo a las necesidades y oportunidades que se vayan identificando.
 
-[Regístrate aquí](https://docs.google.com/forms/d/e/1FAIpQLSdoivgpAhKYov4i2RTXNCAozCRpzdEBxZZH7ZmYNTkk2jL7lQ/viewform?usp=header){: .button .is-primary}
+[Regístrate aquí](https://docs.google.com/forms/d/e/1FAIpQLSdoivgpAhKYov4i2RTXNCAozCRpzdEBxZZH7ZmYNTkk2jL7lQ/viewform?usp=header){:target="_blank" .button .is-primary}
+
+**Enlaces de interés**:
+
+* [Libro Monitoreo de la biodiversidad colombiana](https://repository.humboldt.org.co/entities/publication/047f4144-a9a0-4477-ab49-3d486fba7da4){:target="_blank"}
+* [Proyectos de monitoreo de biodiversidad](https://boninabox.geobon.org/projects){:target="_blank"}
+* [Cartilla Monitoreo comunitario](https://repository.humboldt.org.co/entities/publication/f04cb573-5b25-4ddc-82a7-8ae40afa0f8e){:target="_blank"}
+* [Infoteca SELVA](https://www.selva.org.co/infoteca/){:target="_blank"}
+* [Red de Colisión de Aves (REBECA)](https://rebeca-aves.com/){:target="_blank"}
+<br>
 
 ## Grupos de trabajo
 
@@ -52,7 +61,7 @@ Los grupos de trabajo se formarán de acuerdo con las características y necesid
 <br>
 
 <p>🔹Carolina Soto</p>
-<p>🔹Lina María Sánchez Clavijo</p>
+<p>🔹Lina Sánchez</p>
 <p>🔹Camila Gómez</p>
 </details>
 
@@ -143,7 +152,7 @@ ___
 <br>
 
 <p>🔹Carolina Soto</p>
-<p>🔹Lina María Sánchez Clavijo</p>
+<p>🔹Lina Sánchez</p>
 <p>🔹Camila Gómez</p>
 </details>
 
