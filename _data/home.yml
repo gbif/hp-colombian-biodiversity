@@ -202,20 +202,16 @@ textoAlerta3:
 # Grupos de interés
 
   statsGruposdeInteres:
-  klass: my-custom-identifier-for-styling
-  title: "type: stats"
-  description: |      # required
-    See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L72) for the content structure.
-  features:
-      # Hard coded value
-    - title: 123
-      description: Viscera mercibus
-      background: /assets/img/icons/validity.png
-      href: /about
-    - title: 567
-      description: Infamataeque priori
-      background: /assets/img/icons/music.png
-    - title: 456,678
-      description: Cruorem tremor
-      background: /assets/img/icons/variability.png
-  
+    background: #edf3f3
+    features:
+      - title: 123
+        description: Viscera mercibus
+        background: https://maxst.icons8.com/vue-static/ouch/images/hero/slides/3d.webp
+        href: /about
+      - title: 567
+        description: Infamataeque priori
+        background: https://threedio-prod-var-cdn.icons8.com/jr/preview_sets/previews/NOFl2mr0Yc-BevMm.webp
+      - title: 456,678
+        description: Cruorem tremor
+        background: https://threedio-prod-var-cdn.icons8.com/cr/preview_sets/previews/NixgdscUZmr4S7yH.webp
+    
