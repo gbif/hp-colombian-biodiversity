@@ -68,6 +68,17 @@ bannerProblemasTecnicos:
 # Noticias
 noticias:
   features:
+        
+    - preTitle: Datos abiertos
+      title: "Mamíferos, líquenes, anfibios, escarabajos, termitas y otros insectos se reúnen en los destacados de abril" 
+      description: |      # required
+       Conoce los conjuntos de datos destacados en mayo, gracias al aporte de organizaciones, universidades y colecciones de nuestro país.
+      # img required
+      background: assets/images/noticias_eventos/2025/2025-05-26-destacados-abril-2025.png
+      cta:
+      - text: Ver más
+        href: /post/2025/reporte-publicacion-abril-2025/
+        isPrimary: false
   
     - preTitle: Pasantías 2025
       title: "Postúlate para hacer tu pasantía o práctica laboral con el SiB Colombia" 
@@ -122,28 +133,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2025/reporte-publicacion-diciembre-2024/
-        isPrimary: false
-
-    - preTitle: Comité técnico
-      title: "Principales acuerdos y avances del XXXI Comité Técnico del SiB Colombia" 
-      description: |      # required
-       Consolidando el Plan Estratégico 2025-2030.
-      # img required
-      background: assets/images/noticias_eventos/2024/2024-12-23-xxxi-comite-tecnico-sib.png
-      cta:
-      - text: Ver más
-        href: /post/2024/xxxi-comite-tecnico-sib/
-        isPrimary: false
-
-    - preTitle: Datos abiertos
-      title: "Hongos caribeños, palmas casanareñas y biodiversidad capitalina llegan con los destacados de noviembre" 
-      description: |      # required
-       Descubre los nuevos conjuntos de datos, listas y eventos de muestreo, con los que el Invemar, un nuevo publicador y el Jardín Botánico de Bogotá se destacaron en el penúltimo mes del año.
-      # img required
-      background: assets/images/noticias_eventos/2024/2024-12-16-destacados-noviembre-2024.png
-      cta:
-      - text: Ver más
-        href: /post/2024/reporte-publicacion-noviembre-2024/
         isPrimary: false
         
 # Splits
