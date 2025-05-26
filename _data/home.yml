@@ -81,7 +81,7 @@ noticias:
         isPrimary: false
   
     - preTitle: Pasantías 2025
-      title: "Postúlate para hacer tu pasantía o práctica laboral con el SiB Colombia" 
+      title: ":))))))) Postúlate para hacer tu pasantía o práctica laboral con el SiB Colombia" 
       description: |      # required
        El 2 de mayo lanzamos la convocatoria para postulaciones a pasantías o prácticas laborales con el SiB Colombia durante el segundo semestre de 2025.
       # img required
@@ -198,4 +198,24 @@ textoAlerta3:
     href: /post/2022/novedad-certificados-de-reporte/
     isPrimary: true
   center: true
+
+# Grupos de interés
+
+  statsGruposdeInteres:
+  klass: my-custom-identifier-for-styling
+  title: "type: stats"
+  description: |      # required
+    See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L72) for the content structure.
+  features:
+      # Hard coded value
+    - title: 123
+      description: Viscera mercibus
+      background: /assets/img/icons/validity.png
+      href: /about
+    - title: 567
+      description: Infamataeque priori
+      background: /assets/img/icons/music.png
+    - title: 456,678
+      description: Cruorem tremor
+      background: /assets/img/icons/variability.png
   
