@@ -2,9 +2,9 @@
 preTitle: 26 de abril, 2025
 title: Mamíferos, líquenes, anfibios, escarabajos, termitas y otros insectos se encuentran en los destacados de abril
 description: _Conoce los conjuntos de datos y eventos de muestreo destacados de mayo, gracias al aporte de organizaciones, universidades y colecciones de nuestro país._
-date: 2025-04-11
+date: 2025-05-26
 categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
-background: /assets/images/noticias_eventos/2025/2025-05-23-destacados-abril-2025.png
+background: /assets/images/noticias_eventos/2025/2025-05-26-destacados-abril-2025.png
 
 
 
