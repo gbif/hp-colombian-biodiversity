@@ -65,6 +65,25 @@ bannerProblemasTecnicos:
 #  markdownContent: |
 #      <p align="center"><iframe width="100%" height="400" src="https://www.youtube.com/embed/l9S3xwMXPfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
      
+
+# Grupos de interés
+  statsGruposdeInteres:
+    background: "#edf3f3"
+    features:
+      - title: "123"
+        description: Viscera mercibus
+        background: /assets/images/landing_page/iconos_cifras/ico_regBiologicos_gris.png
+        href: /about
+      - title: "567"
+        description: Infamataeque priori
+        background: /assets/images/landing_page/iconos_cifras/ico_regBiologicos_gris.png
+        href: /about
+      - title: "Texto"
+        description: Cruorem tremor
+        background: /assets/images/landing_page/iconos_cifras/ico_regBiologicos_gris.png
+        href: /about
+
+
 # Noticias
 noticias:
   features:
@@ -198,22 +217,3 @@ textoAlerta3:
     href: /post/2022/novedad-certificados-de-reporte/
     isPrimary: true
   center: true
-
-# Grupos de interés
-
-  statsGruposdeInteres:
-    background: #edf3f3
-    features:
-      - title: "123"
-        description: Viscera mercibus
-        background: /assets/images/landing_page/iconos_cifras/ico_regBiologicos_gris.png
-        href: /about
-      - title: "567"
-        description: Infamataeque priori
-        background: /assets/images/landing_page/iconos_cifras/ico_regBiologicos_gris.png
-        href: /about
-      - title: "Texto"
-        description: Cruorem tremor
-        background: /assets/images/landing_page/iconos_cifras/ico_regBiologicos_gris.png
-        href: /about
-
