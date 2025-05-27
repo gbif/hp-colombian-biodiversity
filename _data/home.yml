@@ -185,20 +185,19 @@ splitAlianzaSectorEmpresarial:
 
 # Grupos de interés
 splitGruposdeInteres:
-  background: light
   reverse: false
+  title: "Datos abiertos sobre biodiversidad"
+  description: |
+    Descubre cómo los datos abiertos fortalecen la gestión ambiental y la toma de decisiones.
   media:
     type: video
     provider: file
     id: /assets/remote-friendly-office.mp4
     caption: "Conoce el SiB Colombia"
-  content:
-    title: "Datos abiertos sobre biodiversidad"
-    text: |
-      Descubre cómo los datos abiertos fortalecen la gestión ambiental y la toma de decisiones.
-    cta:
-      label: "Explorar los datos"
-      url: "/occurrence/search"
+  cta:
+    - text: Ver más
+      href: /empresas
+      isPrimary: true
 
 
 # Backup Alerta flotante
