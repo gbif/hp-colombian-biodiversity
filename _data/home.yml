@@ -183,6 +183,23 @@ splitAlianzaSectorEmpresarial:
     href: /empresas
     isPrimary: true
 
+# Grupos de interés
+splitGruposdeInteres:
+  background: light
+  reverse: false
+  media:
+    type: video
+    provider: file
+    id: /assets/remote-friendly office.mp4
+    caption: "Conoce el SiB Colombia"
+  content:
+    title: "Datos abiertos sobre biodiversidad"
+    text: |
+      Descubre cómo los datos abiertos fortalecen la gestión ambiental y la toma de decisiones.
+    cta:
+      label: "Explorar los datos"
+      url: "/occurrence/search"
+
 
 # Backup Alerta flotante
 
@@ -199,21 +216,3 @@ textoAlerta3:
     href: /post/2022/novedad-certificados-de-reporte/
     isPrimary: true
   center: true
-
-# Grupos de interés
-splitGruposdeInteres:
-  - type: split
-    background: light
-    reverse: false
-    media:
-      type: video
-      provider: file
-      id: /assets/tu-video.mp4
-      caption: "Conoce el SiB Colombia"
-    content:
-      title: "Datos abiertos sobre biodiversidad"
-      text: |
-        Descubre cómo los datos abiertos fortalecen la gestión ambiental y la toma de decisiones.
-      cta:
-        label: "Explorar los datos"
-        url: "/occurrence/search"
