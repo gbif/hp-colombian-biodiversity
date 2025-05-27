@@ -203,20 +203,17 @@ textoAlerta3:
 # Grupos de interés
 splitGruposdeInteres:
   - type: split
+    background: light
     reverse: false
-    columns:
-      - width: 6
-        type: html
-        value: |
-          <video controls preload="metadata" style="width:100%;border-radius:12px;">
-            <source src="/assets/remote-friendly-office.mp4" type="video/mp4">
-            Tu navegador no soporta la reproducción de video.
-          </video>
-      - width: 6
-        title: "Datos abiertos sobre biodiversidad"
-        text: |
-          Descubre cómo los datos abiertos fortalecen la gestión ambiental y la toma de decisiones.
-        cta:
-          label: "Explorar los datos"
-          url: "/occurrence/search"
-          isPrimary: true
+    media:
+      type: video
+      provider: file
+      id: /assets/tu-video.mp4
+      caption: "Conoce el SiB Colombia"
+    content:
+      title: "Datos abiertos sobre biodiversidad"
+      text: |
+        Descubre cómo los datos abiertos fortalecen la gestión ambiental y la toma de decisiones.
+      cta:
+        label: "Explorar los datos"
+        url: "/occurrence/search"
