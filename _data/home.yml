@@ -190,7 +190,7 @@ splitGruposdeInteres:
   media:
     type: video
     provider: file
-    id: /assets/remote-friendly office.mp4
+    id: /assets/remote-friendly-office.mp4
     caption: "Conoce el SiB Colombia"
   content:
     title: "Datos abiertos sobre biodiversidad"
