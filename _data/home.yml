@@ -183,24 +183,6 @@ splitAlianzaSectorEmpresarial:
     href: /empresas
     isPrimary: true
 
-# Grupos de interés
-splitGruposdeInteres:
-  reverse: false
-  title: "Datos abiertos sobre biodiversidad"
-  description: |
-    Descubre cómo los datos abiertos fortalecen la gestión ambiental y la toma de decisiones.
-  media:
-    type: html
-    value: |
-      <video controls preload="metadata" style="width:100%;border-radius:12px;">
-            <source src="/assets/remote-friendly-office.mp4" type="video/mp4">
-            Tu navegador no soporta la reproducción de video.
-          </video>
-  cta:
-    - text: Ver más
-      href: /empresas
-      isPrimary: true
-
 
 # Backup Alerta flotante
 
