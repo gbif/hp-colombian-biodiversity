@@ -202,33 +202,21 @@ textoAlerta3:
 
 # Grupos de interés
 splitGruposdeInteres:
-  reverse: true
-  #preTitle: Red SiB Colombia  # optional
-  title: Alianza con el sector empresarial
-  description: |      # required
-    Los datos sobre biodiversidad son esenciales para planificar, implementar y monitorear estrategias de conservación y uso sostenible. Un aporte del sector empresarial al conocimiento de la biodiversidad.
-  # img required
-  background: https://maxst.icons8.com/vue-static/ouch/images/hero/slides/3d.webp
-  #overlayColor: "#edf3f3"
-  href: /empresas
-  cta:
-  - text: Ver más
-    href: /empresas
-    isPrimary: true
-
-# Grupos de interés
-  statsGruposdeInteres:
-    background: "#edf3f3"
-    features:
-      - title: "123"
-        description: Viscera mercibus
-        background: /assets/images/landing_page/iconos_cifras/ico_regBiologicos_gris.png
-        href: /about
-      - title: "567"
-        description: Infamataeque priori
-        background: /assets/images/landing_page/iconos_cifras/ico_regBiologicos_gris.png
-        href: /about
-      - title: "Texto"
-        description: Cruorem tremor
-        background: /assets/images/landing_page/iconos_cifras/ico_regBiologicos_gris.png
-        href: /about
+  - type: split
+    reverse: false
+    columns:
+      - width: 6
+        type: html
+        value: |
+          <video controls preload="metadata" style="width:100%;border-radius:12px;">
+            <source src="/assets/remote-friendly-office.mp4" type="video/mp4">
+            Tu navegador no soporta la reproducción de video.
+          </video>
+      - width: 6
+        title: "Datos abiertos sobre biodiversidad"
+        text: |
+          Descubre cómo los datos abiertos fortalecen la gestión ambiental y la toma de decisiones.
+        cta:
+          label: "Explorar los datos"
+          url: "/occurrence/search"
+          isPrimary: true
