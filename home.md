@@ -27,8 +27,6 @@ composition:
   - type: heroImage # the block type
   - type: stats
     data: home.stats
-  - type: split
-    data: home.splitGruposdeInteres
   - type: features
     data: home.noticias
   - type: floatingText
