@@ -66,6 +66,22 @@ bannerProblemasTecnicos:
 #      <p align="center"><iframe width="100%" height="400" src="https://www.youtube.com/embed/l9S3xwMXPfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 
+#splitGruposdeInteres:
+  reverse: true
+  #preTitle: Reporte  # optional
+  title: Grupos de interés y trabajo
+  description: |      # required
+    Haz parte de la red colaborativa del SiB Colombia que aborda diversos desafíos en la gestión de datos sobre biodiversidad.
+  # img required
+  background: /assets/images/fondos_layout/smelling-sense-mushrooms-collage-freepik.png
+  overlayColor: "#000033"
+  href: /comunidad/grupos/participar-grupos-de-interes
+  cta:
+  - text: Grupos de trabajo
+    href: /comunidad/grupos/participar-grupos-de-interes
+    isPrimary: true
+
+
 # Noticias
 noticias:
   features:
