@@ -75,7 +75,7 @@ splitGruposdeInteres:
     <a href="/comunidad/grupos/participar-grupos" class="button is-outlined ">Grupos de interés y trabajo</a>
     <a href="/comunidad/grupos/grupo_monitoreo" class="button is-outlined ">Participa del grupo sobre monitoreo</a>
   # img required
-  background: /assets/images/fondos_layout/composicion-smelling-sense-mushrooms-collage-freepik.png
+  background: /assets/images/fondos_layout/arte-smelling-sense-mushrooms-collage-freepik.png
   overlayColor: "#000033"
   href: /comunidad/grupos/participar-grupos-de-interes
   cta:
