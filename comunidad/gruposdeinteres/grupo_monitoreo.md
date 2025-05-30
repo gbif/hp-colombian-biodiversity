@@ -135,15 +135,6 @@ ___
 
 ___
 
-<details id="contacto">
-    <summary markdown="span"><b>¿Cómo participar?</b></summary>
-<br>
-
-<p>Si quieres participar en el grupo de trabajo de monitoreo de poblaciones, escribe al correo <a href="mailto:sib@humboldt.org.co" target="_blank">sib@humboldt.org.co</a> con el asunto "Solicitud para el GT Monitoreo de poblaciones"</p>
-</details>
-
-___
-
 ### GT Monitoreo participativo
 
 <br>
@@ -220,15 +211,6 @@ ___
 <p>✅Publicar el documento de buenas prácticas para la toma y publicación de datos en iniciativas de monitoreo participativo.</p>
 </blockquote>
 
-</details>
-
-___
-
-<details id="contacto">
-    <summary markdown="span"><b>¿Cómo participar?</b></summary>
-<br>
-
-<p>Si quieres participar en el grupo de trabajo de monitoreo de poblaciones, escribe al correo <a href="mailto:sib@humboldt.org.co" target="_blank">sib@humboldt.org.co</a> con el asunto "Solicitud para el GT Monitoreo de poblaciones"</p>
 </details>
 
 ___
