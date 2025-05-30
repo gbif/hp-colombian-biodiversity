@@ -72,16 +72,16 @@ splitGruposdeInteres:
   title: Grupos de interés y trabajo
   description: |      # required
     Aporta a la gestión de datos sobre biodiversidad mientras fortaleces la red colaborativa del SiB Colombia.
-    <a href="/comunidad/grupos/grupo_monitoreo" class="button is-outlined ">Conoce el grupo sobre monitoreo</a>
-    <a href="/comunidad/grupos/participar-grupos-de-interes#como-crear-un-gi-sib" class="button is-outlined ">Crea otro grupo de interés</a>
+    <a href="/comunidad/grupos/" class="button is-outlined ">Explorar las posibilidades</a>
+    <a href="/comunidad/grupos/participar-grupos-de-interes#como-crear-un-gi-sib" class="button is-outlined ">Crea un grupo de interés</a>
 
   # img required
   background: /assets/images/fondos_layout/portada-grupos-de-interes-y-trabajo.png
   overlayColor: "#000033"
-  href: /comunidad/grupos/participar-grupos
+  href: /comunidad/grupos
   cta:
-  - text: Explorar
-    href: /comunidad/grupos/participar-grupos
+  - text: Únete al grupo sobre monitoreo
+    href: /comunidad/grupos/grupo_monitoreo
     isPrimary: true
 
 
