@@ -79,7 +79,7 @@ splitGruposdeInteres:
   overlayColor: "#000033"
   href: /comunidad/grupos/participar-grupos-de-interes
   cta:
-  - text: Crea o crea nuevos grupos
+  - text: Crea otros grupos de interés
     href: /comunidad/grupos/participar-grupos-de-interes#como-crear-un-gi-sib
     isPrimary: true
 
