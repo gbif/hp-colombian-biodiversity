@@ -6,7 +6,6 @@ background: https://live.staticflickr.com/687/31549418194_3fd0b768f8_h.jpg
 imageLicense: |
  _Stilpnia cyanicollis_ Fotografía de: Alejandro Bayer Tamayo vía [Flickr](https://flickr.com/photos/alejobayer/31549418194){:target="_blank"}
 height: 41vh
-permalink: /pruebapublicacion/
 toc: true
 ---
 
