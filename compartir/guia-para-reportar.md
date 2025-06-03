@@ -141,38 +141,38 @@ conoces?](https://biodiversidad.co/post/2022/diferencias-entre-publicar-reportar
                     </tr>
                     <tr>
                         <td><strong>Objetivo principal</strong></td>
-                        <td><i class="fas fa-check"></i> Compartir datos de biodiversidad para <strong>acceso abierto y reutilización</strong>.</td>
+                        <td><i class="fas fa-check"></i> Compartir datos abiertos sobre biodiversidad, facilitando su <strong>accesibilidad y uso</strong>, y dar cumplimiento a la regulación ambiental.</td>
                         <td>Cumplir con la regulación ambiental.</td>
                     </tr>
                     <tr>
                         <td><strong>Alcance y visibilidad</strong></td>
-                        <td><i class="fas fa-check"></i> <strong>Datos accesibles a nivel nacional e internacional</strong> (SiB Colombia, GBIF, OBIS).</td>
-                        <td>Datos visibles solo para la autoridad ambiental y terceros interesados.</td>
+                        <td><i class="fas fa-check"></i>Las organizaciones obtienen visibilidad como socios de la red de publicadores del SiB Colombia.</td>
+                        <td>Los datos solo son visibles para la autoridad ambiental y terceros interesados.</td>
                     </tr>
                     <tr>
                         <td><strong>Reconocimiento y atribución</strong></td>
-                        <td><i class="fas fa-check"></i><strong>Publicadores</strong> pueden ser <strong>citados</strong> y los <strong>conjuntos de datos</strong> pueden hacer parte del <strong>CVLaC</strong>.</td>
-                        <td>Publicadores pueden ser citados y pero los conjuntos de datos <strong>NO sirven para el CVLaC</strong>.</td>
+                        <td><i class="fas fa-check"></i> Los <strong>publicadores</strong> pueden ser <strong>citados</strong> y sus <strong>conjuntos de datos</strong> son reconocidos por el <strong>SNCTeI como producto científico</strong>.</td>
+                        <td>Los publicadores pueden ser citados.</td>
                     </tr>
                     <tr>
                         <td><strong>Valor agregado</strong></td>
-                        <td><i class="fas fa-check"></i> Genera <strong>DOI</strong>, <strong>métricas de impacto</strong> y posibilidad de <strong>publicar artículos de datos</strong>.</td>
-                        <td>Solo se obtiene un <strong>certificado de reporte</strong>.</td>
+                        <td><i class="fas fa-check"></i> Las publicaciones tienen <strong>identificadores persistentes (DOI), métricas de impacto</strong> y la posibilidad de generar un <strong>artículo de datos</strong>.</td>
+                        <td>Se obtiene únicamente el <strong>certificado de reporte</strong> de datos.</td>
                     </tr>
                     <tr>
                         <td><strong>Flexibilidad y actualización</strong></td>
-                        <td><i class="fas fa-check"></i> Los datos pueden <strong>actualizarse</strong> y <strong>mejorarse en el tiempo</strong>.</td>
-                        <td>Los datos pueden actualizarse y mejorarse en el tiempo.</td>
+                        <td><i class="fas fa-check"></i> Los datos pueden ser constantemente actualizados y versionados.</td>
+                        <td>Los datos pueden ser constantemente actualizados y versionados según sea requerido por la autoridad ambiental.</td>
                     </tr>
                     <tr>
                         <td><strong>Acceso y reutilización</strong></td>
-                        <td><i class="fas fa-check"></i> </strong>Datos disponibles para múltiples audiencias</strong> bajo licencias abiertas siguiendo los principios <strong>FAIR</strong>.</td>
-                        <td>Datos disponibles para cualquier que tenga el enlace, <strong>pero sin seguir los principos FAIR</strong>.</td>
+                        <td><i class="fas fa-check"></i> Datos disponibles para múltiples audiencias bajo licencias abiertas Creative Commons siguiendo los principios <strong>FAIR</strong>.</td>
+                        <td>Datos disponibles bajo licencia Creative Commons para cualquiera que tenga el enlace.</td>
                     </tr>
                     <tr>
                         <td><strong>Apoyo técnico y curaduría</strong></td>
-                        <td><i class="fas fa-check"></i> <strong>Asesoría</strong> y <strong>herramientas</strong> para <strong>garantizar calidad</strong> y <strong>formato de datos</strong>.</td>
-                        <td>Proceso autónomo, sin curaduría de datos por parte del SiB Colombia.</td>
+                        <td><i class="fas fa-check"></i> <strong>Acompañamiento por parte del Equipo Coordinador</strong> del SiB Colombia para garantizar la calidad de datos y metadatos.</td>
+                        <td>Proceso autónomo y sin acompañamiento.</td>
                     </tr>
                     <tr>
                         <td><strong>Tipos de datos permitidos</strong></td>
@@ -181,8 +181,8 @@ conoces?](https://biodiversidad.co/post/2022/diferencias-entre-publicar-reportar
                     </tr>
                     <tr>
                         <td><strong>Repositorio y plataformas</strong></td>
-                        <td><i class="fas fa-check"></i> Publicación en <strong>SiB Colombia</strong>, <strong>GBIF</strong>, <strong>OBIS</strong> y <strong>repositorio IPT</strong>.</td>
-                        <td>Solo en el repositorio <strong>IPT</strong>.</td>
+                        <td><i class="fas fa-check"></i> Publicación visible a través de los portales del <strong>SiB Colombia, GBIF, OBIS</strong> y de los <strong>repositorios IPT</strong>.</td>
+                        <td>Públicación visible solo a través del repositorio <strong>IPT de permisos</strong>.</td>
                     </tr>
                 </tbody>
             </table>
