@@ -6,19 +6,199 @@ background: https://live.staticflickr.com/687/31549418194_3fd0b768f8_h.jpg
 imageLicense: |
  _Stilpnia cyanicollis_ Fotografía de: Alejandro Bayer Tamayo vía [Flickr](https://flickr.com/photos/alejobayer/31549418194){:target="_blank"}
 height: 41vh
+permalink: /pruebapublicacion/
 toc: true
 ---
 
-**Antes de empezar: reportar y publicar tienen alcances distintos**. La publicación de datos abiertos sobre biodiversidad es un ejercicio voluntario; por otro lado, el reporte es un proceso para dar cumplimento a la regulación ambiental.
+<head>
+    <style>
+        .mx-auto {
+            display: inline-flex;
+            justify-content: center;
+            width: 100%;
+        }
+        .flex {
+            display: inline-flex;
+            align-items: center;
+            gap: 26px;
+        }
+        td.Encabezado strong {
+            color: white;
+        }
+        .Encabezado {
+            background-color: #9fc56d;
+            color: white;
+        }
+        table td:nth-child(1) {
+            border-right: 1px solid #dddddd;
+        }
+        table td:nth-child(2) {
+            border-right: 1px solid #dddddd;
+        }
+        p.Contenedor {
+            border: 1px solid #dddddd;
+            border-radius: 9px;
+            padding: 16px;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+        .modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: none;
+        }
+        .modal:target {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .modal-content {
+            background-color: #fff;
+            padding: 36px;
+            border-radius: 5px;
+            width: 80%;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            border-radius: 22px;
+        }
+        .modal-content tr {
+            border-bottom: 1px solid #ddd;
+        }
+        .close {
+            background-color: #e8ebeb;
+            color: #aaa;
+            font-size: 28px;
+            font-weight: bold;
+            text-decoration: none;
+            position: absolute;
+            right: 9px;
+            top: 8px;
+            display: inline-flex;
+            border-radius: 50%;
+            height: 43px;
+            width: 41px;
+            justify-content: center;
+        }
+        .close:hover {
+            color: #ffffff;
+            background-color: #9fc56d;
+        }
+        @media (min-width: 0px) {
+            .flex {
+                flex-direction: column;
+            }
+            .modal-content img {
+                width: 152px;
+            }
+            .Contemedortabla {
+                overflow: overlay;
+                width: 270px;
+            }
+        }
+        @media (min-width: 768px) {
+            .flex {
+                flex-direction: row;
+            }
+            .Contemedortabla {
+                overflow: inherit;
+                width: 100%;
+            }
+        }
+    </style>
+</head>
 
-Una explicación sobre ambos modelos y su alcance está disponible en este artículo: [Reportar y publicar datos sobre biodiversidad tienen alcances diferentes: ¿los conoces?](https://biodiversidad.co/post/2022/diferencias-entre-publicar-reportar-datos-biodiversidad/){:target="_blank"}
+**Antes de empezar: reportar y publicar tienen alcances distintos**. La publicación de datos abiertos sobre biodiversidad es un ejercicio voluntario; por otro lado, el reporte es un proceso para dar cumplimento a la regulación ambiental.
+Una explicación sobre ambos modelos y su alcance está disponible en este artículo: [Reportar y publicar datos sobre biodiversidad tienen alcances diferentes: ¿los
+conoces?](https://biodiversidad.co/post/2022/diferencias-entre-publicar-reportar-datos-biodiversidad/){:target="_blank"}
+
+<div class="mx-auto">
+    <a href="#modal" class="button is-primary">Encuentra aquí las diferencias y ventajas entre publicaciones</a>
+</div>
+
+<!-- Modal tabla comparativa -->
+<div id="modal" class="modal">
+    <div class="modal-content">
+        <a href="#" class="close">×</a>
+
+        <div class="flex">
+            <img width="14%" height="400" src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/compartir/Imagenes/ventajas-entre-publicaciones.png" />
+            <p class="Contenedor">
+                <i class="far fa-comment-alt" width="84%"></i> Tenga en <strong>cuenta las opciones disponibles al momento de realizar una publicación</strong>. Es fundamental considerar los <strong>beneficios</strong> y
+                <strong>características</strong> de las diferentes <strong>plataformas</strong> y <strong>licencias</strong> para asegurar que sus <strong>datos sean accesibles</strong>, reutilizables y tengan el
+                <strong>impacto esperado</strong>.
+            </p>
+        </div>
+        <div class="Contemedortabla">
+            <table>
+                <tbody>
+                    <tr>
+                        <td class="Encabezado"><i class="fas fa-tasks"></i> <strong>Característica</strong></td>
+                        <td class="Encabezado"><i class="far fa-flag"></i> <strong>Publicación</strong></td>
+                        <td class="Encabezado"><i class="far fa-bookmark"></i> <strong>Reporte</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Objetivo principal</strong></td>
+                        <td><i class="fas fa-check"></i> Compartir datos de biodiversidad para <strong>acceso abierto y reutilización</strong>.</td>
+                        <td>Cumplir con la regulación ambiental.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Alcance y visibilidad</strong></td>
+                        <td><i class="fas fa-check"></i> <strong>Datos accesibles a nivel nacional e internacional</strong> (SiB Colombia, GBIF, OBIS).</td>
+                        <td>Datos visibles solo para la autoridad ambiental y terceros interesados.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Reconocimiento y atribución</strong></td>
+                        <td><i class="fas fa-check"></i><strong>Publicadores</strong> pueden ser <strong>citados</strong> y los <strong>conjuntos de datos</strong> pueden hacer parte del <strong>CVLaC</strong>.</td>
+                        <td>Publicadores pueden ser citados y pero los conjuntos de datos <strong>NO sirven para el CVLaC</strong>.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Valor agregado</strong></td>
+                        <td><i class="fas fa-check"></i> Genera <strong>DOI</strong>, <strong>métricas de impacto</strong> y posibilidad de <strong>publicar artículos de datos</strong>.</td>
+                        <td>Solo se obtiene un <strong>certificado de reporte</strong>.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Flexibilidad y actualización</strong></td>
+                        <td><i class="fas fa-check"></i> Los datos pueden <strong>actualizarse</strong> y <strong>mejorarse en el tiempo</strong>.</td>
+                        <td>Los datos pueden actualizarse y mejorarse en el tiempo.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Acceso y reutilización</strong></td>
+                        <td><i class="fas fa-check"></i> </strong>Datos disponibles para múltiples audiencias</strong> bajo licencias abiertas siguiendo los principios <strong>FAIR</strong>.</td>
+                        <td>Datos disponibles para cualquier que tenga el enlace, <strong>pero sin seguir los principos FAIR</strong>.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Apoyo técnico y curaduría</strong></td>
+                        <td><i class="fas fa-check"></i> <strong>Asesoría</strong> y <strong>herramientas</strong> para <strong>garantizar calidad</strong> y <strong>formato de datos</strong>.</td>
+                        <td>Proceso autónomo, sin curaduría de datos por parte del SiB Colombia.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Tipos de datos permitidos</strong></td>
+                        <td><i class="fas fa-check"></i> Registros biológicos, eventos de muestreo y <strong>listas de chequeo</strong>.</td>
+                        <td>Registros biológicos y eventos de muestreo.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Repositorio y plataformas</strong></td>
+                        <td><i class="fas fa-check"></i> Publicación en <strong>SiB Colombia</strong>, <strong>GBIF</strong>, <strong>OBIS</strong> y <strong>repositorio IPT</strong>.</td>
+                        <td>Solo en el repositorio <strong>IPT</strong>.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div></div>
+    </div>
+</div>
+
 
 
 ## Guía para reportar
 
 ![](/compartir/Imagenes/guia-para-reportar-datos.png)
 
-<p align="center"><iframe width="100%" height="400" src="https://www.youtube.com/embed/tGzANPQWi7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<div align="center"><iframe width="100%" height="400" src="https://www.youtube.com/embed/tGzANPQWi7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br/>
 
 **Enlaces a las herramientas para reportar los datos y generar el certificado de reporte**:
@@ -146,4 +326,4 @@ _____
 * [Guía de conversión de fechas](https://biodiversidad.co/formacion/laboratorios/ConversionFechas){:target="_blank"}
 
 ---
-Última actualización: 2022-05-06
+Última actualización: 2025-06-03
