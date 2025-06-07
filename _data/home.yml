@@ -78,7 +78,7 @@ splitGruposdeInteres:
     Participa en el grupo de interés consolidado:
 
   # img required
-  background: /assets/images/fondos_layout/composicion-grupos-de-interes-y-trabajo.png
+  background: /assets/images/fondos_layout/collage-grupos-de-interes-y-trabajo.png
   overlayColor: "#000033"
   href: /comunidad/grupos
   cta:
