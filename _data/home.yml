@@ -71,19 +71,14 @@ splitGruposdeInteres:
   #preTitle: Reporte  # optional
   title: Grupos de interés y trabajo
   description: |      # required
-    Crea, únete y aporta a la gestión de datos sobre biodiversidad a través de la red colaborativa del SiB Colombia.
-    <br><br>
-    <a href="/comunidad/grupos/" class="button is-outlined ">Explorar las posibilidades</a>
-    <br>
-    Participa en el grupo de interés consolidado:
-
+    Únete, crea a la gestión de datos sobre biodiversidad a través de la red colaborativa del SiB Colombia.
   # img required
   background: /assets/images/noticias_eventos/2025/collage-grupos-de-interes-y-trabajo.png
   overlayColor: "#000033"
   href: /comunidad/grupos
   cta:
-  - text: Monitoreo de la biodiversidad
-    href: /comunidad/grupos/grupo_monitoreo
+  - text: Explorar las posibilidades
+    href: /comunidad/grupos/
     isPrimary: true
 
 
