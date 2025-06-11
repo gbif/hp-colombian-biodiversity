@@ -11,9 +11,6 @@ participar:
   - text: Grupo de Interés
     href: /comunidad/grupos/participar-grupos-de-interes
     isPrimary: true
-  - text: Grupo de Trabajo
-    href: /comunidad/grupos/participar-grupos-de-trabajo
-    isPrimary: false
 
 #cards
 tarjetasGrupos:
