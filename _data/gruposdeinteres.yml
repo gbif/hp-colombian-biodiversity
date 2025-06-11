@@ -31,14 +31,12 @@ tarjetasGrupos:
       description: |      # required
        Grupo de interés no creado <br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       background: /comunidad/gruposdeinteres/images/DatosMoleculares.jpg
-      href: comunidad/grupos#cómo-crear-un-gi-sib      
       
      #preTitle: Formación # optional
     - title: Calidad de datos
       description: |      # required
        Grupo de interés no creado <br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       background: /comunidad/gruposdeinteres/images/CalidadDatos.jpg
-      href: /comunidad/grupos#cómo-crear-un-gi-sib
 
       
       #preTitle:  Formación # optional
@@ -47,7 +45,6 @@ tarjetasGrupos:
        Grupo de interés no creado <br><br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       # img required
       background: /comunidad/gruposdeinteres/images/AtribucionReconocimiento.jpg
-      href: /comunidad/grupos#cómo-crear-un-gi-sib
       
       
      #preTitle: "Histórico"  # optional
@@ -55,7 +52,7 @@ tarjetasGrupos:
       #description: |      # required
       #Grupo de interés no creado <br><br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       #background: /comunidad/gruposdeinteres/images/CienciaParticipativa.jpg
-      #href: /comunidad/grupos#cómo-crear-un-gi-sib
+      #href:
      
         
       #preTitle:  Formación # optional
