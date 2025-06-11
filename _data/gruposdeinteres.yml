@@ -58,7 +58,6 @@ tarjetasGrupos:
       #preTitle:  Formación # optional
     - title: Crea otro grupo de interés
       description: |      # required
-       Grupo de interés no creado <br><br>
        [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}<br>
        [🔒 ¿Qué son los Gi-SiB?](/comunidad/grupos){: .button}
       # img required
