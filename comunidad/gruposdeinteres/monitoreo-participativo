@@ -10,7 +10,6 @@ height: 41vh
 toc: false
 ---
 
-
 <details id="colíderes" open>
     <summary markdown="span"><b>Co-líderes</b></summary>
 <br>
@@ -20,7 +19,7 @@ toc: false
 <p>🔹Camila Gómez</p>
 </details>
 
-___
+--- 
 
 <details id="resumen" open>
     <summary markdown="span"><b>Resumen</b></summary>
@@ -32,7 +31,7 @@ ___
 
 </details>
 
-___
+--- 
 
 <details id="motivación" open>
     <summary markdown="span"><b>Motivación</b></summary>
@@ -44,7 +43,7 @@ ___
 
 </details>
 
-___
+--- 
 
 <details id="participación" open>
     <summary markdown="span"><b>¿Quiénes pueden participar?</b></summary>
@@ -58,7 +57,7 @@ ___
 
 </details>
 
-___
+--- 
 
 <details id="resultados" open>
     <summary markdown="span"><b>Resultados y productos esperados</b></summary>
@@ -71,7 +70,7 @@ ___
 
 </details>
 
-___
+--- 
 
 <details id="estrategia" open>
     <summary markdown="span"><b>Estrategia y metodología</b></summary>
@@ -86,4 +85,6 @@ ___
 
 </details>
 
-___
+--- 
+
+Accede a l información del grupo de interés sobre: [Monitoreo de la biodiversidad](/comunidad/grupos/participar-grupos-de-interes){: .button .is-primary}
