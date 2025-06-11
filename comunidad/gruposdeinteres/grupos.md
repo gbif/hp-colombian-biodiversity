@@ -21,7 +21,7 @@ composition:
 A través de estos grupos, la red colaborativa del SiB Colombia aborda múltiples desafíos en la gestión de datos sobre biodiversidad para apoyar la investigación, la educación y la toma de decisiones en nuestro país.
 
 
-# ¿Qué son y cómo se relacionan un grupo de interés y un grupo de trabajo?
+# ¿Qué son y cómo se relacionan los grupos de interés y de trabajo?
 
 | ¿? | Grupo de interés (Gi-SiB) | Grupo de trabajo (Gt-SiB) |
 |----|---------------------------|---------------------------|
