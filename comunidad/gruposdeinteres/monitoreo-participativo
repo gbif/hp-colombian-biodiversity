@@ -19,7 +19,6 @@ toc: false
 <p>🔹Camila Gómez</p>
 </details>
 
---- 
 
 <details id="resumen" open>
     <summary markdown="span"><b>Resumen</b></summary>
@@ -31,7 +30,6 @@ toc: false
 
 </details>
 
---- 
 
 <details id="motivación" open>
     <summary markdown="span"><b>Motivación</b></summary>
@@ -43,7 +41,6 @@ toc: false
 
 </details>
 
---- 
 
 <details id="participación" open>
     <summary markdown="span"><b>¿Quiénes pueden participar?</b></summary>
@@ -57,7 +54,6 @@ toc: false
 
 </details>
 
---- 
 
 <details id="resultados" open>
     <summary markdown="span"><b>Resultados y productos esperados</b></summary>
@@ -70,7 +66,6 @@ toc: false
 
 </details>
 
---- 
 
 <details id="estrategia" open>
     <summary markdown="span"><b>Estrategia y metodología</b></summary>
@@ -85,6 +80,5 @@ toc: false
 
 </details>
 
---- 
-
+<br><br>
 Accede a l información del grupo de interés sobre: [Monitoreo de la biodiversidad](/comunidad/grupos/participar-grupos-de-interes){: .button .is-primary}
