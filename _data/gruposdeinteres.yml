@@ -44,7 +44,7 @@ tarjetasGrupos:
       #preTitle:  Formación # optional
     - title: Propiedad intelectual
       description: |      # required
-       Grupo de interés no creado <br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
+       Grupo de interés no creado <br><br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       # img required
       background: /comunidad/gruposdeinteres/images/AtribucionReconocimiento.jpg
       href: /comunidad/grupos#cómo-crear-un-gi-sib
@@ -53,15 +53,17 @@ tarjetasGrupos:
      #preTitle: "Histórico"  # optional
     #- title: Ciencia participativa  # required
       #description: |      # required
-      #Grupo de interés no creado <br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
+      #Grupo de interés no creado <br><br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       #background: /comunidad/gruposdeinteres/images/CienciaParticipativa.jpg
       #href: /comunidad/grupos#cómo-crear-un-gi-sib
      
         
       #preTitle:  Formación # optional
-    - title: Colecciones Biológicas
+    - title: Crea otro grupo de interés
       description: |      # required
-       Grupo de interés no creado <br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
+       Grupo de interés no creado <br><br>
+       [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
+       [🔒 ¿Qué son los Gi-SiB?](/comunidad/grupos)
       # img required
       background: /comunidad/gruposdeinteres/images/ColeccionesBiologicas.jpg
       href: #cómo-crear-un-gi-sib
@@ -70,7 +72,7 @@ tarjetasGrupos:
       #preTitle: "Histórico"  # optional
     #- title: Listas de referencia taxonómica  # required
       #description: |      # required
-      #Grupo de interés no creado <br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
+      #Grupo de interés no creado <br><br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       #background: /comunidad/gruposdeinteres/images/ListasTaxo.jpg
       #href: #cómo-crear-un-gi-sib
       
@@ -78,7 +80,7 @@ tarjetasGrupos:
       #preTitle: "Histórico"  # optional
     #- title: Entomología  # required
       #description: |      # required
-      #Grupo de interés no creado <br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
+      #Grupo de interés no creado <br><br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       #background: /comunidad/gruposdeinteres/images/Entomologia.jpg
       #href: /comunidad/grupos#cómo-crear-un-gi-sib
 
@@ -86,27 +88,27 @@ tarjetasGrupos:
       #preTitle: "Histórico"  # optional
     #- title: Métricas de uso de datos # required
       #description: |      # required
-      #Grupo de trabajo no creado <br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
+      #Grupo de trabajo no creado <br><br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       #background: /comunidad/gruposdeinteres/images/UsoDatos.jpg
       #href: /comunidad/grupos#cómo-crear-un-gi-sib
       
       #preTitle: "Histórico"  # optional
     #- title: Calidad de datos geográficos # required
       #description: |      # required
-      #Grupo de trabajo no creado <br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
+      #Grupo de trabajo no creado <br><br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       #background: /comunidad/gruposdeinteres/images/DatosGeograficos.jpg
       #href: /comunidad/grupos#cómo-crear-un-gi-sib
       
       #preTitle: "Histórico"  # optional
     #- title: Datos microbiológicos # required
       #description: |      # required
-      #Grupo de trabajo no creado <br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
+      #Grupo de trabajo no creado <br><br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       #background: /comunidad/gruposdeinteres/images/Microbiologia.jpg
       #href: /comunidad/grupos#cómo-crear-un-gi-sib
       
       #preTitle: "Histórico"  # optional
     #- title: Información de evaluación y riesgo de extinción # required
       #description: |      # required
-      #Grupo de trabajo no creado <br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
+      #Grupo de trabajo no creado <br><br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       #background: /comunidad/gruposdeinteres/images/Extinsion.jpg
       #href: /comunidad/grupos#cómo-crear-un-gi-sib
