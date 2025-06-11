@@ -22,9 +22,9 @@ tarjetasGrupos:
       #preTitle: Formación # optional
     - title: Datos de monitoreo
       description: |      # required
-       Grupo de interés <br> [Visitar](/comunidad/grupos/monitoreo-de-poblaciones){: .button .is-primary}
+       Grupo de interés <br> [Visitar](/comunidad/grupos/participar-grupos-de-interes){: .button .is-primary}
       background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
-      href: /comunidad/grupos/monitoreo-de-poblaciones
+      href: /comunidad/grupos/participar-grupos-de-interes
       
       #preTitle: "Histórico"  # optional
     - title: Datos moleculares  # required
