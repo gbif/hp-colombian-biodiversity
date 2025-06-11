@@ -22,20 +22,20 @@ tarjetasGrupos:
       #preTitle: Formación # optional
     - title: Monitoreo de la biodiversidad
       description: |      # required
-       Grupo de interés <br> [Visitar](/comunidad/grupos/monitoreo-de-la-biodiversidad){: .button .is-primary}
+       Grupo de interés <br><br> [Visitar](/comunidad/grupos/monitoreo-de-la-biodiversidad){: .button .is-primary}
       background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
       href: /comunidad/grupos/monitoreo-de-la-biodiversidad
       
       #preTitle: "Histórico"  # optional
     - title: Datos moleculares  # required
       description: |      # required
-       Grupo de interés no creado <br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
+       Grupo de interés no creado <br><br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       background: /comunidad/gruposdeinteres/images/DatosMoleculares.jpg
       
      #preTitle: Formación # optional
     - title: Calidad de datos
       description: |      # required
-       Grupo de interés no creado <br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
+       Grupo de interés no creado <br><br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       background: /comunidad/gruposdeinteres/images/CalidadDatos.jpg
 
       
@@ -59,8 +59,8 @@ tarjetasGrupos:
     - title: Crea otro grupo de interés
       description: |      # required
        Grupo de interés no creado <br><br>
-       [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
-       [🔒 ¿Qué son los Gi-SiB?](/comunidad/grupos)
+       [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}<br>
+       [🔒 ¿Qué son los Gi-SiB?](/comunidad/grupos){: .button}
       # img required
       background: /comunidad/gruposdeinteres/images/ColeccionesBiologicas.jpg
       href: #cómo-crear-un-gi-sib
