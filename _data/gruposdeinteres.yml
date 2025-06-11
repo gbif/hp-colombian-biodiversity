@@ -20,11 +20,11 @@ tarjetasGrupos:
   features:
              
       #preTitle: Formación # optional
-    - title: Datos de monitoreo
+    - title: Monitoreo de la biodiversidad
       description: |      # required
-       Grupo de interés <br> [Visitar](/comunidad/grupos/participar-grupos-de-interes){: .button .is-primary}
+       Grupo de interés <br> [Visitar](/comunidad/grupos/monitoreo-de-la-biodiversidad){: .button .is-primary}
       background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
-      href: /comunidad/grupos/participar-grupos-de-interes
+      href: /comunidad/grupos/monitoreo-de-la-biodiversidad
       
       #preTitle: "Histórico"  # optional
     - title: Datos moleculares  # required
