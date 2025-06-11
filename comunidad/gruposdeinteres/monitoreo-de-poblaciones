@@ -2,9 +2,9 @@
 layout: heroImage
 title: Monitoreo de poblaciones
 description: Grupo de trabajo del grupo de interés Monitoreo de la biodiversidad.
-background: https://live.staticflickr.com/7244/7188185381_c4bc575f85_h.jpg
+background: /assets/images/fondos_layout/BA11746_Villegas-Velez-Felipe.jpg
 imageLicense: |
-  Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/7188185381/) 
+  Fotografía de: Felipe Villegas [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/) 
 permalink: comunidad/grupos/monitoreo-de-poblaciones
 height: 41vh
 toc: false
@@ -12,8 +12,7 @@ toc: false
 
 
 
-<br>
-<details id="colíderes" open>
+<details id="colideres" open>
     <summary markdown="span"><b>Co-líderes</b></summary>
 <br>
 
@@ -36,7 +35,7 @@ ___
 
 ___
 
-<details id="motivación" open>
+<details id="motivacion" open>
     <summary markdown="span"><b>Motivación</b></summary>
 <br>
 
