@@ -5,13 +5,13 @@ description: Grupo de trabajo del grupo de interés Monitoreo de la biodiversida
 background: https://live.staticflickr.com/7244/7188185381_c4bc575f85_h.jpg
 imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/7188185381/) 
-permalink: comunidad/grupos/monitoreo-de-poblaciones
+permalink: comunidad/grupos/monitoreo-participativo
 height: 41vh
 toc: false
 ---
 
 
-<details id="colíderes">
+<details id="colíderes" open>
     <summary markdown="span"><b>Co-líderes</b></summary>
 <br>
 
@@ -22,7 +22,7 @@ toc: false
 
 ___
 
-<details id="resumen">
+<details id="resumen" open>
     <summary markdown="span"><b>Resumen</b></summary>
 <br>
 
@@ -34,7 +34,7 @@ ___
 
 ___
 
-<details id="motivación">
+<details id="motivación" open>
     <summary markdown="span"><b>Motivación</b></summary>
 <br>
 
@@ -46,7 +46,7 @@ ___
 
 ___
 
-<details id="participación">
+<details id="participación" open>
     <summary markdown="span"><b>¿Quiénes pueden participar?</b></summary>
 <br>
 
@@ -60,7 +60,7 @@ ___
 
 ___
 
-<details id="resultados">
+<details id="resultados" open>
     <summary markdown="span"><b>Resultados y productos esperados</b></summary>
 <br>
 
@@ -73,7 +73,7 @@ ___
 
 ___
 
-<details id="estrategia">
+<details id="estrategia" open>
     <summary markdown="span"><b>Estrategia y metodología</b></summary>
 <br>
 
