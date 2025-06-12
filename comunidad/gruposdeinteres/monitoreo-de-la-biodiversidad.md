@@ -8,6 +8,11 @@ imageLicense: |
 permalink: /comunidad/grupos/monitoreo-de-la-biodiversidad
 height: 41vh
 toc: true
+composition:
+  - type: heroImage # the block type
+  - type: pageMarkdown
+  - data: gruposdeinteres.tarjetasGruposdeTrabajoMonitoreo
+    type: features # the block type
 ---
 
 
