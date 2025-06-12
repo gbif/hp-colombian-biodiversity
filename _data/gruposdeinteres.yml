@@ -19,32 +19,36 @@ tarjetasGrupos:
     
   features:
              
-      #preTitle: Formación # optional
     - title: Monitoreo de la biodiversidad
       description: |      # required
        Grupo de interés <br><br> [Visitar](/comunidad/grupos/monitoreo-de-la-biodiversidad){: .button .is-primary}
       background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
       href: /comunidad/grupos/monitoreo-de-la-biodiversidad
       
-      #preTitle: "Histórico"  # optional
     - title: Datos moleculares  # required
       description: |      # required
        🔒 Grupo de interés no creado <br><br> [Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       background: /comunidad/gruposdeinteres/images/DatosMoleculares.jpg
       
-     #preTitle: Formación # optional
     - title: Calidad de datos
       description: |      # required
        🔒 Grupo de interés no creado <br><br> [Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       background: /comunidad/gruposdeinteres/images/CalidadDatos.jpg
 
       
-      #preTitle:  Formación # optional
     - title: Propiedad intelectual
       description: |      # required
        🔒 Grupo de interés no creado <br><br> [Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       # img required
       background: /comunidad/gruposdeinteres/images/AtribucionReconocimiento.jpg
+
+      
+    - title: Crea otros grupos de interés
+      description: |      # required
+       [Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}<br><br>
+       [Información general sobre los grupos](/comunidad/grupos){: .button}
+      # img required
+      background: /assets/images/noticias_eventos/2025/collage-grupos-de-interes-y-trabajo.png
 
 
 
