@@ -3,7 +3,7 @@ layout: compose
 klass: grupos
 permalink: /comunidad/gruposdeinteres/grupos
 title: Grupos de interés y trabajo
-description: "Descubre qué son y cómo participar en estos grupos estratégicos del SiB Colombia."
+description: "Descubre y participa en estos grupos estratégicos del SiB Colombia."
 background: /assets/images/noticias_eventos/2025/banner-grupos-de-interes-y-trabajo.png
 imageLicense: |
    Fotografía de: "Imágenes: Freepik | Composición: David González"
