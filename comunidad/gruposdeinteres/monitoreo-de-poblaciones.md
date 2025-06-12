@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 title: Monitoreo de poblaciones
-description: Grupo de trabajo del grupo de interés: Monitoreo de la biodiversidad.
+description: "Grupo de trabajo del grupo de interés: Monitoreo de la biodiversidad."
 background: /assets/images/fondos_layout/BA11746_Villegas-Velez-Felipe.jpg
 imageLicense: |
   Fotografía de: Felipe Villegas [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/) 
