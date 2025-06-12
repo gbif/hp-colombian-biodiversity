@@ -5,7 +5,7 @@ description: "Grupo de trabajo del grupo de interés: Monitoreo de la biodiversi
 background: https://live.staticflickr.com/7244/7188185381_c4bc575f85_h.jpg
 imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/7188185381/) 
-permalink: /comunidad/gruposdeinteres/monitoreo-participativo
+permalink: /comunidad/grupos/monitoreo-participativo
 height: 41vh
 toc: false
 ---
