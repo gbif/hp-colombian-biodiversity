@@ -12,6 +12,7 @@ composition:
   - type: heroImage # the block type
   - type: pageMarkdown
   - data: gruposdeinteres.tarjetasGruposdeTrabajoMonitoreo
+    type: features # the block type
 ---
 
 
