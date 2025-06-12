@@ -10,7 +10,7 @@ height: 41vh
 toc: true
 composition:
   - type: heroImage # the block type
-  - type: features
+  - type: pageMarkdown
   - data: gruposdeinteres.tarjetasGruposdeTrabajoMonitoreo
 ---
 
