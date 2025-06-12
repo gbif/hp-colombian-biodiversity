@@ -23,13 +23,12 @@ A través de estos grupos, la red colaborativa del SiB Colombia aborda múltiple
 
 # ¿Qué son y cómo se relacionan los grupos de interés y de trabajo?
 
-| ¿? | Grupo de interés (Gi-SiB) | Grupo de trabajo (Gt-SiB) |
-|----|---------------------------|---------------------------|
-| ¿Qué es? | ✅ Un equipo enfocado en un tema particular de interés para el SiB Colombia.<br>✅ Está abierto en términos de plazo.<br>✅ Puede identificar necesidades específicas en torno al Plan Estratégico del SiB Colombia  y crear grupos de trabajo para desarrollarlos, con la responsabilidad de mantener los productos derivados. | ✅ Un equipo enfocado en una tarea específica que aporta a los ejes de trabajo y actividades del Plan Estratégico del SiB Colombia. <br> ✅ Está limitado a un corto plazo. <br> ✅ Se crea dentro de un grupo de interés. |
-| ¿Para qué se crea? | Para proveer una base que permita discutir problemas, metas, estrategias, métodos y la aplicación de tecnologías. | Para desarrollar un producto específico en un periodo de tiempo determinado. |
+| Tipo de grupo | ¿Qué es? | ¿Para qué se crea? | 
+|---|---|---|
+| <b>Grupo de interés (Gi-SiB)</b> | ✅Un equipo enfocado en un tema particular de interés para el SiB Colombia.<br> ✅Está abierto en términos de plazo.<br> ✅Puede identificar necesidades específicas en torno al Plan Estratégico del SiB Colombia y crear grupos de trabajo para desarrollarlos, con la responsabilidad de mantener los productos derivados.<br>✅No deben usarse para promover proyectos específicos y deben contar con participación a nivel nacional.<br>✅Su permanencia depende de su actividad y relevancia para los objetivos del SiB Colombia. | ✅Para proveer una base que permita discutir problemas, metas, estrategias, métodos y la aplicación de tecnologías. <br> Para servir como plataformas de comunicación y coordinación entre personas con intereses compartidos alineados con los ejes estratégicos del SiB Colombia.<br>✅Para generar resultados como informes, encuestas y productos derivados de sus Grupos de Trabajo. |
+| <b>Grupo de trabajo (Gt-SiB)</b> | ✅Un equipo enfocado en una tarea específica que aporta a los ejes de trabajo y actividades del plan estratégico del SiB Colombia.<br>✅Está limitado a un corto plazo.<br> ✅Se debe crear dentro de un grupo de interés.<br>✅Se centra en el desarrollo de un producto tangible en un periodo de tiempo determinado, eliminando barreras en la gestión de datos de biodiversidad y asegurando su aplicabilidad dentro del SiB Colombia. |✅Para generar avances concretos en la publicación, acceso y uso de datos sobre biodiversidad disponibles a través del SiB Colombia.<br>✅Para desarrollar un producto específico en un plazo de 12 a 24 meses |
 
-
-# ¿Qué características tienen estos grupos?
+#  Importancia y características compartidas
 
 Los grupos son vitales en la estructura de gobernanza del SiB Colombia, ya que fortalecen la participación de socios en la gestión de datos e información sobre biodiversidad. Antes de proponer o administrar uno, ten en cuenta que los grupos:
 
@@ -43,10 +42,7 @@ Los grupos son vitales en la estructura de gobernanza del SiB Colombia, ya que f
 
 ✅ Los resultados derivados de los grupos deben estar orientados hacia el **libre acceso**, uno de los principios que acompañan la misión del SiB Colombia. Cada  grupo se encargará de establecer la licencia *Creative Commons* bajo la cual serán citados sus resultados.  
 
-
 # Grupos de interés
-
-El propósito de los **Grupos de Interés del SiB Colombia (GI-SiB**) es servir como plataformas de comunicación y coordinación entre personas con intereses compartidos alineados con los ejes estratégicos del SiB Colombia. Estos grupos pueden generar resultados como informes, encuestas y productos derivados de sus Grupos de Trabajo. No deben usarse para promover proyectos específicos y deben contar con participación a nivel nacional. Su permanencia depende de su actividad y relevancia para los objetivos del SiB Colombia.
 
 <details>
 
@@ -128,8 +124,6 @@ ___
 ___
 
 # Grupos de trabajo
-
-Los **grupos de trabajo del SiB Colombia (GT-SiB**) tienen como objetivo generar avances concretos en la publicación, acceso y uso de datos sobre biodiversidad disponibles a través del SiB Colombia.  Cada GT-SiB debe desarrollar un producto tangible en un plazo de 12 a 24 meses, eliminando barreras en la gestión de datos de biodiversidad y asegurando su aplicabilidad dentro del SiB Colombia.
 
 <details>
     <summary markdown="span"><b>Funciones y resultados de un GT-SiB</b></summary>
