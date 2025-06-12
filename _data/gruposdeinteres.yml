@@ -21,24 +21,24 @@ tarjetasGrupos:
              
     - title: Monitoreo de la biodiversidad
       description: |      # required
-       Grupo de interés <br><br> [Visitar](/comunidad/grupos/monitoreo-de-la-biodiversidad){: .button .is-primary}
+       [Visitar](/comunidad/grupos/monitoreo-de-la-biodiversidad){: .button .is-primary}
       background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
       href: /comunidad/grupos/monitoreo-de-la-biodiversidad
       
     - title: Datos moleculares  # required
       description: |      # required
-       🔒 Grupo de interés no creado <br><br> [Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
+       💡 Grupo de interés no creado
       background: /comunidad/gruposdeinteres/images/DatosMoleculares.jpg
       
     - title: Calidad de datos
       description: |      # required
-       🔒 Grupo de interés no creado <br><br> [Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
+       💡 Grupo de interés no creado
       background: /comunidad/gruposdeinteres/images/CalidadDatos.jpg
 
       
     - title: Propiedad intelectual
       description: |      # required
-       🔒 Grupo de interés no creado <br><br> [Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
+       💡 Grupo de interés no creado
       # img required
       background: /comunidad/gruposdeinteres/images/AtribucionReconocimiento.jpg
 
