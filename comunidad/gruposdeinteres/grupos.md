@@ -12,6 +12,7 @@ composition:
   - type: heroImage # the block type
   - type: pageMarkdown
   - data: gruposdeinteres.participar
+    overlayColor: "#E4EEE0"
     type: features # the block type
 ---
 
