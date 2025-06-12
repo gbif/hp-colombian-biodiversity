@@ -4,9 +4,9 @@ klass: grupos
 permalink: /comunidad/gruposdeinteres/grupos
 title: Grupos de interés y trabajo
 description: "Descubre qué son y cómo participar en estos grupos estratégicos del SiB Colombia."
-background: https://live.staticflickr.com/4388/35918846974_b14866f211_b.jpg
+background: /assets/images/noticias_eventos/2025/banner-grupos-de-interes-y-trabajo.png
 imageLicense: |
-   Fotografía de: CIFOR vía [Flickr](https://flic.kr/p/WJ2tP5)
+   Fotografía de: "Imágenes: Freepik | Composición: David González"
 height: 41vh
 composition:
   - type: heroImage # the block type
