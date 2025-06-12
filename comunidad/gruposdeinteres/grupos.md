@@ -12,7 +12,7 @@ composition:
   - type: heroImage # the block type
   - type: pageMarkdown
   - data: gruposdeinteres.participar
-  
+    type: features # the block type
 ---
 
 A través de estos grupos, la red colaborativa del SiB Colombia aborda múltiples desafíos en la gestión de datos sobre biodiversidad para apoyar la investigación, la educación y la toma de decisiones en nuestro país.
