@@ -7,13 +7,15 @@ description: |
    Descubre qué son y cómo participar en estos grupos estratégicos del SiB Colombia.
 background: https://live.staticflickr.com/4388/35918846974_b14866f211_b.jpg
 imageLicense: |
-  Fotografía de: CIFOR vía [Flickr](https://flic.kr/p/WJ2tP5) 
+   Fotografía de: CIFOR vía [Flickr](https://flic.kr/p/WJ2tP5)
 height: 41vh
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
   - data: gruposdeinteres.participar
-    type: floatingText # the block type
+    type: split
+  - data: formacion.tarjetasFormacion
+    type: features # the block type
 
 ---
 
