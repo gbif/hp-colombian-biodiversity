@@ -22,10 +22,10 @@ A través de estos grupos, la red colaborativa del SiB Colombia aborda múltiple
 
 | Tipo de grupo | ¿Qué es? | ¿Para qué se crea? | 
 |---|---|---|
-| <b>Grupo de interés (Gi-SiB)</b> | ✅Un equipo enfocado en un tema particular de interés para el SiB Colombia.<br> ✅Está abierto en términos de plazo.<br> ✅Puede identificar necesidades específicas en torno al Plan Estratégico del SiB Colombia y crear grupos de trabajo para desarrollarlos, con la responsabilidad de mantener los productos derivados.<br>✅No deben usarse para promover proyectos específicos y deben contar con participación a nivel nacional.<br>✅Su permanencia depende de su actividad y relevancia para los objetivos del SiB Colombia. | ✅Para proveer una base que permita discutir problemas, metas, estrategias, métodos y la aplicación de tecnologías. <br> Para servir como plataformas de comunicación y coordinación entre personas con intereses compartidos alineados con los ejes estratégicos del SiB Colombia.<br>✅Para generar resultados como informes, encuestas y productos derivados de sus Grupos de Trabajo. |
+| <b>Grupo de interés (Gi-SiB)</b> | ✅Un equipo enfocado en un tema particular de interés para el SiB Colombia.<br> ✅Está abierto en términos de plazo.<br> ✅Puede identificar necesidades específicas en torno al Plan Estratégico del SiB Colombia y crear grupos de trabajo para desarrollarlos, con la responsabilidad de mantener los productos derivados.<br>✅No deben usarse para promover proyectos específicos y deben contar con participación a nivel nacional.<br>✅Su permanencia depende de su actividad y relevancia para los objetivos del SiB Colombia. | ✅Para proveer una base que permita discutir problemas, metas, estrategias, métodos y la aplicación de tecnologías. <br> ✅Para servir como plataformas de comunicación y coordinación entre personas con intereses compartidos alineados con los ejes estratégicos del SiB Colombia.<br>✅Para generar resultados como informes, encuestas y productos derivados de sus Grupos de Trabajo. |
 | <b>Grupo de trabajo (Gt-SiB)</b> | ✅Un equipo enfocado en una tarea específica que aporta a los ejes de trabajo y actividades del plan estratégico del SiB Colombia.<br>✅Está limitado a un corto plazo.<br> ✅Se debe crear dentro de un grupo de interés.<br>✅Se centra en el desarrollo de un producto tangible en un periodo de tiempo determinado, eliminando barreras en la gestión de datos de biodiversidad y asegurando su aplicabilidad dentro del SiB Colombia. |✅Para generar avances concretos en la publicación, acceso y uso de datos sobre biodiversidad disponibles a través del SiB Colombia.<br>✅Para desarrollar un producto específico en un plazo de 12 a 24 meses |
 
-#  Importancia y características compartidas
+#  Importancia y características en común
 
 Los grupos son vitales en la estructura de gobernanza del SiB Colombia, ya que fortalecen la participación de socios en la gestión de datos e información sobre biodiversidad. Antes de proponer o administrar uno, ten en cuenta que los grupos:
 
@@ -67,18 +67,6 @@ Los grupos son vitales en la estructura de gobernanza del SiB Colombia, ya que f
 
 ___
 
-<details>
-
-  <summary markdown="span"><b>¿Cómo unirse a un GI-SiB</b></summary>
-  
-  <br>
-  
-  <p>Cualquier persona interesada puede unirse a un GI-SiB contactando a uno de sus líderes a través de la página del grupo. Estos grupos incluyen expertos de la comunidad del SiB Colombia comprometidos con su misión de facilitar la publicación, acceso y uso de datos sobre biodiversidad.</p>
-
-</details>
-
-___
-
 <details id="como-crear-un-gi-sib" open>
 
   <summary markdown="span"><b> ¿Cómo crear un GI-SiB</b></summary>
@@ -110,11 +98,23 @@ ___
 
 <details>
 
+  <summary markdown="span"><b>¿Cómo unirse a un GI-SiB</b></summary>
+  
+  <br>
+  
+  <p>Cualquier persona interesada puede unirse a un GI-SiB contactando a uno de sus líderes a través de la página del grupo. Estos grupos incluyen expertos de la comunidad del SiB Colombia comprometidos con su misión de facilitar la publicación, acceso y uso de datos sobre biodiversidad.</p>
+
+</details>
+
+___
+
+<details>
+
   <summary markdown="span"><b>¿Cuándo se cierra un GI-SiB</b></summary>
   
   <br>
   
-  Si un Grupo de interés <strong>no muestra actividad durante un año</strong>, el EC- SiB lo contactará para evaluar oportunidades de reactivación. En caso de inactividad prolongada, el grupo podrá ser declarado inactivo.
+  Si un grupo de interés <strong>no muestra actividad durante un año</strong>, el EC- SiB lo contactará para evaluar oportunidades de reactivación. En caso de inactividad prolongada, el grupo podrá ser declarado inactivo.
 
 </details>
 
@@ -183,10 +183,8 @@ ___
     <summary markdown="span"><b>¿Cómo unirse a un GI-SiB?</b></summary>
 <br>
 
-Puedes consultar la lista de GT-SIB activos y algunas ideas de nuevos grupos, baja hasta las tarjetas en el final de esta página. Para unirte, contacta directamente a uno de los líderes en la página del grupo.
+Puedes consultar la lista de GT-SIB activos y algunas ideas de nuevos grupos. Para unirte, contacta directamente a uno de los líderes en la página del grupo.
 
 </details>
 
 ___
-
-Por lo pronto no existen grupos de trabajo. Recuerda que para hacerlo, debe vincularse a un grupo de [interés ya existente](https://biodiversidad.co/comunidad/grupos/participar-grupos-de-interes). Te invitamos a explorar los grupos de trabajo existentes o a promover la creación de uno nuevo.
