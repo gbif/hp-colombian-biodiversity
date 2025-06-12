@@ -11,6 +11,7 @@ height: 41vh
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
+  - background: #ccc
   - data: gruposdeinteres.participar
     type: features # the block type
 ---
