@@ -1,5 +1,5 @@
 ---
-layout: heroImage
+layout: compose
 title: Monitoreo de Biodiversidad
 description: 
 background: https://live.staticflickr.com/3936/14976714334_b147ccefd0_h.jpg
