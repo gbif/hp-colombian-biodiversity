@@ -108,3 +108,23 @@ tarjetasGrupos:
       #Grupo de trabajo no creado <br><br> [🔒 Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}
       #background: /comunidad/gruposdeinteres/images/Extinsion.jpg
       #href: /comunidad/grupos#cómo-crear-un-gi-sib
+
+
+
+#cards
+tarjetasGruposdeTrabajoMonitoreo:
+  # title: Grupos de trabajo Monitoreo de biodiversidad
+  # description: Grupos de trabajo del grupo de interés en monitoreo de biodiversidad.
+    
+  features:
+             
+    - title: Monitoreo participativo
+      description: ""      # required
+      background: https://live.staticflickr.com/7244/7188185381_c4bc575f85_h.jpg
+      href: /comunidad/gruposdeinteres/monitoreo-participativo
+      
+    - title: Monitoreo de poblaciones  # required
+      description: ""     # required
+      background: /assets/images/fondos_layout/BA11746_Villegas-Velez-Felipe.jpg
+      href: /comunidad/gruposdeinteres/monitoreo-de-poblaciones
+      
