@@ -23,7 +23,7 @@ tarjetasGrupos:
       description: |      # required
        [Visitar](/comunidad/grupos/monitoreo-de-la-biodiversidad){: .button .is-primary}
       background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
-      href: /comunidad/grupos/monitoreo-de-la-biodiversidad
+      href: /comunidad/gruposdeinteres/monitoreo-de-biodiversidad/
       
     - title: Datos moleculares  # required
       description: |      # required
@@ -45,8 +45,8 @@ tarjetasGrupos:
       
     - title: Crea otros grupos de interés
       description: |      # required
-       [Ver como crear un Gi-SiB](/comunidad/grupos#como-crear-un-gi-sib){: .button}<br>
-       [Información general sobre los grupos](/comunidad/grupos){: .button}
+       [Ver cómo crear un grupo](comunidad/gruposdeinteres/grupos#grupos-de-interés){: .button}<br>
+       [Información general sobre los grupos](comunidad/gruposdeinteres/grupos){: .button}
       # img required
       background: /assets/images/noticias_eventos/2025/collage-grupos-de-interes-y-de-trabajo.png
 
@@ -62,10 +62,10 @@ tarjetasGruposdeTrabajoMonitoreo:
     - title: Monitoreo participativo
       description: ""      # required
       background: https://live.staticflickr.com/7244/7188185381_c4bc575f85_h.jpg
-      href: /comunidad/gruposdeinteres/monitoreo-participativo
+      href: /comunidad/gruposdeinteres/monitoreo-de-biodiversidad/monitoreo-participativo
       
     - title: Monitoreo de poblaciones  # required
       description: ""     # required
       background: /assets/images/fondos_layout/BA11746_Villegas-Velez-Felipe.jpg
-      href: /comunidad/gruposdeinteres/monitoreo-de-poblaciones
+      href: /comunidad/gruposdeinteres/monitoreo-de-biodiversidad/monitoreo-de-poblaciones
       
