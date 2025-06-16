@@ -5,7 +5,7 @@ description: "Grupo de trabajo del grupo de interés: Monitoreo de la biodiversi
 background: /assets/images/fondos_layout/BA11746_Villegas-Velez-Felipe.jpg
 imageLicense: |
   Fotografía de: Felipe Villegas [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/) 
-permalink: /comunidad/gruposdeinteres/monitoreo-de-biodiversidad/monitoreo-de-poblaciones
+permalink: /comunidad/grupos-de-interes/monitoreo-de-biodiversidad/monitoreo-de-poblaciones
 height: 41vh
 toc: true
 ---
