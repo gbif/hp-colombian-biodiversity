@@ -8,6 +8,7 @@ background: /assets/images/noticias_eventos/2025/banner-grupos-de-interes-y-trab
 imageLicense: |
    Fotografía de: "Imágenes: Freepik | Composición: David González"
 height: 41vh
+toc: true
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
