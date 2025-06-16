@@ -69,7 +69,7 @@ Los grupos son vitales en la estructura de gobernanza del SiB Colombia, ya que f
 
 ___
 
-<details>
+<details open>
 
   <summary markdown="span"><b> ¿Cómo crear un GI-SiB</b></summary>
 
