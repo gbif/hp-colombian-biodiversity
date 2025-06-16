@@ -8,7 +8,7 @@ participar:
   overlayColor: "#E4EEE0" #"#ffffffbb"
   hasWhiteText: false
   cta:
-  - text: Grupo de Interés
+  - text: Grupos de interés
     href: /comunidad/grupos/participar-grupos-de-interes
     isPrimary: true
 
@@ -54,7 +54,7 @@ tarjetasGrupos:
 
 #cards
 tarjetasGruposdeTrabajoMonitoreo:
-  # title: Grupos de trabajo Monitoreo de biodiversidad
+  # title: Grupos de trabajo en monitoreo de biodiversidad
   # description: Grupos de trabajo del grupo de interés en monitoreo de biodiversidad.
     
   features:
