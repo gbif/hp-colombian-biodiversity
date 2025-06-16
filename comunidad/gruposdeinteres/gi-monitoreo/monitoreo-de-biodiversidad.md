@@ -1,6 +1,5 @@
 ---
 layout: compose
-preTitle: Grupo de interés en
 title: Monitoreo de biodiversidad
 description: 
 background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
