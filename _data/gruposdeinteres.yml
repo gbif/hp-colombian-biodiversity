@@ -21,7 +21,7 @@ tarjetasGrupos:
              
     - title: Monitoreo de la biodiversidad
       description: |      # required
-       [Visitar](/comunidad/grupos/monitoreo-de-la-biodiversidad){: .button .is-primary}
+       [Visitar](/comunidad/gruposdeinteres/monitoreo-de-biodiversidad/){: .button .is-primary}
       background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
       href: /comunidad/gruposdeinteres/monitoreo-de-biodiversidad/
       
