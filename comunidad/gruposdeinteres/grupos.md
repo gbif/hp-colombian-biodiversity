@@ -151,6 +151,8 @@ ___
   <li>Enviar la propuesta al EC-SiB a través del correo <strong><a href="mailto:sib@humboldt.org.co" target="_blank">sib@humboldt.org.co</a></strong>.</li>
   <li>El EC-SiB se contactará para acompañar el proceso.
 <br>
+     <br>
+     <br>
     <strong>Criterios de revisión</strong><br>
     <p>El <strong>Equipo coordinador (EC-SiB)</strong> y el <strong>Comité técnico (CT-SiB)</strong> evaluarán la propuesta con base en los siguientes criterios:</p>
     <blockquote>
