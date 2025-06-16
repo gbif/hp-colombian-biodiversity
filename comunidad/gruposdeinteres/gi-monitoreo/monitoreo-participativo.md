@@ -1,5 +1,6 @@
 ---
 layout: heroImage
+preTitle: Grupo de interés en
 title: Monitoreo participativo
 description: "Grupo de trabajo del grupo de interés: [Monitoreo de biodiversidad](/comunidad/grupos-de-interes/monitoreo-de-biodiversidad){: .button .is-primary}"
 background: https://live.staticflickr.com/7244/7188185381_c4bc575f85_h.jpg
@@ -19,7 +20,7 @@ toc: true
 
 # Resumen
 
-El Grupo de Trabajo en Monitoreo Participativo tiene como objetivo mejorar la calidad y accesibilidad de los datos obtenidos a partir de este tipo de monitoreo. A través de la generación de lineamientos, busca cerrar brechas en la recolección y gestión de datos del monitoreo participativo. Este grupo fomenta la participación de diferentes actores, articulando esfuerzos entre la sociedad civil, la academia y entidades gubernamentales para fortalecer el monitoreo participativo y garantizar que la información generada contribuya a la conservación y el manejo sostenible de la biodiversidad. Su enfoque innovador y colaborativo aportará a que los datos sean accesibles y de alto impacto para la toma de decisiones.
+El grupo de trabajo en monitoreo participativo tiene como objetivo mejorar la calidad y accesibilidad de los datos obtenidos a partir de este tipo de monitoreo. A través de la generación de lineamientos, busca cerrar brechas en la recolección y gestión de datos del monitoreo participativo. Este grupo fomenta la participación de diferentes actores, articulando esfuerzos entre la sociedad civil, la academia y entidades gubernamentales para fortalecer el monitoreo participativo y garantizar que la información generada contribuya a la conservación y el manejo sostenible de la biodiversidad. Su enfoque innovador y colaborativo aportará a que los datos sean accesibles y de alto impacto para la toma de decisiones.
 
 # Motivación
 
