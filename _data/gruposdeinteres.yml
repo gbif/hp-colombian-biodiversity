@@ -45,8 +45,8 @@ tarjetasGrupos:
       
     - title: Crea otros grupos de interés
       description: |      # required
-       [Ver cómo crear un grupo](comunidad/gruposdeinteres/grupos#grupos-de-interés){: .button}<br>
-       [Información general sobre los grupos](comunidad/gruposdeinteres/grupos){: .button}
+       [Ver cómo crear un grupo](comunidad/grupos-de-interes/grupos#grupos-de-interés){: .button}<br>
+       [Información general sobre los grupos](comunidad/grupos-de-interes/grupos){: .button}
       # img required
       background: /assets/images/noticias_eventos/2025/collage-grupos-de-interes-y-de-trabajo.png
 
