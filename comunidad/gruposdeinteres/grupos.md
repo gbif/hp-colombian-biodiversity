@@ -51,11 +51,11 @@ Los grupos son vitales en la estructura de gobernanza del SiB Colombia, ya que f
   
   <p>Un GI-SiB puede desempeñar una o varias de las siguientes funciones:</p>
   <blockquote>
-    <p>✅ <strong>Facilitar la creación de Grupos de Trabajo (GT-SiB)</strong> para desarrollar acciones específicas mediante estudios de caso.</p>
-    <p>✅ <strong>Apoyar la comunicación y coordinación</strong> entre GI-SiB o GT-SIB con afinidades temáticas (ej. monitoreo de biodiversidad, colecciones biológicas, normatividad).</p>
-    <p>✅ <strong>Fomentar la articulación</strong> entre diferentes grupos orientados a temas específicos (ej. todos los grupos de listas de especies o de colecciones biológicas).</p>
-    <p>✅ Articular comunidades externas</strong> al SiB Colombia, promoviendo sinergias y atrayendo nuevos miembros.</p>
-    <p>✅ Antes de su reconocimiento oficial, los GI pasan por un <strong>proceso de revisión</strong> basado en los siguientes criterios:</p>
+    <p>- <strong>Facilitar la creación de Grupos de Trabajo (GT-SiB)</strong> para desarrollar acciones específicas mediante estudios de caso.</p>
+    <p>- <strong>Apoyar la comunicación y coordinación</strong> entre GI-SiB o GT-SIB con afinidades temáticas (ej. monitoreo de biodiversidad, colecciones biológicas, normatividad).</p>
+    <p>- <strong>Fomentar la articulación</strong> entre diferentes grupos orientados a temas específicos (ej. todos los grupos de listas de especies o de colecciones biológicas).</p>
+    <p>- Articular comunidades externas</strong> al SiB Colombia, promoviendo sinergias y atrayendo nuevos miembros.</p>
+    <p>- Antes de su reconocimiento oficial, los GI pasan por un <strong>proceso de revisión</strong> basado en los siguientes criterios:</p>
       <ol>
         <li>Definición de entre dos y cuatro co-líderes.</li>
         <li>Participación de expertos nacionales.</li>
@@ -84,10 +84,10 @@ ___
     <li>La propuesta será enviada al <strong>Comité Técnico (CT-SiB)</strong> para su revisión.</li>
     <li>El CT-SiB tendrá hasta cuatro semanas para analizar el documento y emitir una de las siguientes respuestas:
       <blockquote>
-        <p>✅ <strong>Aprobado sin modificaciones</strong>: El grupo es reconocido y puede iniciar actividades.</p>
-        <p>✅ <strong>Aprobado con revisiones</strong>: Se requiere ajustar la propuesta antes del reconocimiento oficial.</p>
-        <p>🔹<strong>Relevante, pero no aprobado</strong>: La idea es válida, pero necesita mayor desarrollo antes de su aprobación. Se brindarán recomendaciones para su fortalecimiento.</p>
-        <p>🔹<strong>No aprobado</strong>: La propuesta no se ajusta a los objetivos del SiB Colombia o a sus criterios de aprobación. Se explicarán los motivos del rechazo.</p>
+        <p>- <strong>Aprobado sin modificaciones</strong>: El grupo es reconocido y puede iniciar actividades.</p>
+        <p>- <strong>Aprobado con revisiones</strong>: Se requiere ajustar la propuesta antes del reconocimiento oficial.</p>
+        <p>- <strong>Relevante, pero no aprobado</strong>: La idea es válida, pero necesita mayor desarrollo antes de su aprobación. Se brindarán recomendaciones para su fortalecimiento.</p>
+        <p>- <strong>No aprobado</strong>: La propuesta no se ajusta a los objetivos del SiB Colombia o a sus criterios de aprobación. Se explicarán los motivos del rechazo.</p>
       </blockquote>
     </li>
   </ol>
@@ -130,11 +130,11 @@ ___
 
 <p>Los GT-SiB pueden abordar aspectos como:</p>
 <ol>
-  <li>✅ <strong>Publicación de datos</strong>: Estrategias para mejorar la cantidad y calidad de datos disponibles.</li>
-  <li>✅ <strong>Interoperabilidad y reutilización</strong>: Métodos para integrar y aprovechar los datos en distintos sistemas.</li> 
-  <li>✅ <strong>Análisis de datos</strong>: Desarrollo de herramientas o metodologías para interpretar y usar datos sobre biodiversidad.</li> 
-  <li>✅ <strong>Administración y preservación de datos</strong>: Prácticas para garantizar la integridad y accesibilidad de los datos.</li>
-  <li>✅ <strong>Buenas prácticas</strong>: Recomendaciones y estándares que favorezcan la misión del SiB Colombia.</li>
+  <li><strong>Publicación de datos</strong>: Estrategias para mejorar la cantidad y calidad de datos disponibles.</li>
+  <li><strong>Interoperabilidad y reutilización</strong>: Métodos para integrar y aprovechar los datos en distintos sistemas.</li> 
+  <li><strong>Análisis de datos</strong>: Desarrollo de herramientas o metodologías para interpretar y usar datos sobre biodiversidad.</li> 
+  <li><strong>Administración y preservación de datos</strong>: Prácticas para garantizar la integridad y accesibilidad de los datos.</li>
+  <li><strong>Buenas prácticas</strong>: Recomendaciones y estándares que favorezcan la misión del SiB Colombia.</li>
 </ol>
 
 </details>
@@ -151,27 +151,27 @@ ___
   <li>Enviar la propuesta al EC-SiB a través del correo <strong><a href="mailto:sib@humboldt.org.co" target="_blank">sib@humboldt.org.co</a></strong>.</li>
   <li>El EC-SiB se contactará para acompañar el proceso.
 <br>
-    <h3>Criterios de revisión</h3>
+    <strong>Criterios de revisión</strong><br>
     <p>El <strong>Equipo coordinador (EC-SiB)</strong> y el <strong>Comité técnico (CT-SiB)</strong> evaluarán la propuesta con base en los siguientes criterios:</p>
     <blockquote>
-      <p>✅ Alineación con la <strong>visión y misión</strong> del SiB Colombia.</p>
-      <p>✅ Participación de <strong>2 a 4 co-líderes</strong> responsables.</p>
-      <p>✅ Resultados <strong>concretos y medibles</strong>.</p>
-      <p>✅ <strong>Impacto en la publicación</strong>, acceso o uso de datos sobre biodiversidad.</p>
-      <p>✅ <strong>Factibilidad</strong> dentro del periodo de 12-24 meses.</p>
-      <p>✅ <strong>Valor agregado</strong> en relación con otros esfuerzos de la comunidad.</p>
+      <p>- Alineación con la <strong>visión y misión</strong> del SiB Colombia.</p>
+      <p>- Participación de <strong>2 a 4 co-líderes</strong> responsables.</p>
+      <p>- Resultados <strong>concretos y medibles</strong>.</p>
+      <p>- <strong>Impacto en la publicación</strong>, acceso o uso de datos sobre biodiversidad.</p>
+      <p>- <strong>Factibilidad</strong> dentro del periodo de 12-24 meses.</p>
+      <p>- <strong>Valor agregado</strong> en relación con otros esfuerzos de la comunidad.</p>
     </blockquote>
-    <h3>Evaluación</h3>
+    <strong>Evaluación</strong><br>
     <blockquote>
-      <p>🔹El CT-SiB revisa la propuesta en un periodo de <strong>al menos cuatro semanas</strong>.</p>
-      <p>🔹Si hay comentarios significativos, se espera que el grupo de trabajo envíe nuevamente la propuesta ajustada, basado en los comentarios hechos durante la revisión.</p>
+      <p>- El CT-SiB revisa la propuesta en un periodo de <strong>al menos cuatro semanas</strong>.</p>
+      <p>- Si hay comentarios significativos, se espera que el grupo de trabajo envíe nuevamente la propuesta ajustada, basado en los comentarios hechos durante la revisión.</p>
     </blockquote>
-    <h3>Decisión final del CT-SiB</h3>
+    <strong>Decisión final del CT-SiB</strong><br>
     <blockquote>
-      <p>✅ <strong>Reconocido y respaldado</strong>: El grupo es aprobado y puede iniciar actividades.</p>
-      <p>✅ <strong>Reconocido con ajustes</strong>: Se solicita modificar algunos aspectos antes de la aprobación final.</p>
-      <p>🔹 <strong>Pertinente pero no respaldado actualmente</strong>: La propuesta necesita madurar antes de su aprobación.</p>
-      <p>🔹 <strong>No respaldado</strong>: La idea no se ajusta a los criterios del SiB Colombia.</p>
+      <p>- <strong>Reconocido y respaldado</strong>: El grupo es aprobado y puede iniciar actividades.</p>
+      <p>- <strong>Reconocido con ajustes</strong>: Se solicita modificar algunos aspectos antes de la aprobación final.</p>
+      <p>- <strong>Pertinente pero no respaldado actualmente</strong>: La propuesta necesita madurar antes de su aprobación.</p>
+      <p>- <strong>No respaldado</strong>: La idea no se ajusta a los criterios del SiB Colombia.</p>
     </blockquote>
   </li>
 </ol>
