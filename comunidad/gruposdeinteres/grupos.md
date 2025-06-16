@@ -71,7 +71,7 @@ ___
 
 <details open>
 
-  <summary markdown="span"><b> ¿Cómo crear un GI-SiB</b></summary>
+  <summary markdown="span"><b> ¿Cómo crear un GI-SiB?</b></summary>
 
   <br>
   
