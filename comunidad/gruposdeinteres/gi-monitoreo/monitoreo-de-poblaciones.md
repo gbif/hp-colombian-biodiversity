@@ -20,12 +20,16 @@ toc: true
 
 # Resumen
 
+# Motivación
+
 Para hacerle seguimiento al cumplimiento de las metas del CBD, se requiere calcular indicadores de estado y tendencia a nivel poblacional; sin embargo, existen tantos vacíos de datos que es casi imposible saber si las medidas que estamos implementando para la conservación de las especies  están funcionando (Moussy et al., 2022). Adicionalmente, para cualquier estudio de conservación o uso sostenible de la biodiversidad, es clave tener datos de monitoreo a nivel de poblaciones. Actualmente, debido al modelo de publicación del SiB Colombia y el alcance del Darwin Core, es difícil consolidar la información de poblaciones. Este grupo buscará formas de adaptar o identificar los mecanismos para ingresar datos de monitoreo poblacional para suplir esta necesidad ampliar el número de datos de este tipo compartidos a través del SiB Colombia.
 
 # ¿Quiénes pueden participar?
 
 ✅Todas las organizaciones y personas que generan monitoreo de poblaciones, especialmente asociadas a marcado o parcelas permanentes
+<br>
 ✅Especialistas o expertos en el manejo de datos sobre biodiversidad e informática de la biodiversidad
+<br>
 ✅Personas con distintos perfiles y habilidades para el análisis de datos que permitan identificar vacíos en la información que dificultan el análisis de datos poblacionales
 
 # Estrategia y metodología
