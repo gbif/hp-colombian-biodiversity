@@ -1,6 +1,7 @@
 ---
 layout: compose
-title: Monitoreo de Biodiversidad
+pretitle: Grupo de interés en
+title: Monitoreo de biodiversidad
 description: 
 background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
 imageLicense: |
@@ -11,8 +12,6 @@ toc: true
 composition:
   - type: heroImage # the block type
   - type: pageMarkdown
-  - data: gruposdeinteres.tarjetasGruposdeTrabajoMonitoreo
-    type: features # the block type
 ---
 
 
@@ -61,4 +60,4 @@ Los grupos de trabajo se formarán de acuerdo con las características y necesid
 [Monitoreo de poblaciones](/comunidad/grupos/monitoreo-de-poblaciones){: .button}
 [Monitoreo participativo](/comunidad/grupos/monitoreo-participativo){: .button}
 
-| Accede a más información sobre los [Grupos de interés](/comunidad/grupos/participar-grupos-de-interes){: .button .is-primary} |
+| Conoce los demás  [Grupos de interés](/comunidad/grupos/participar-grupos-de-interes){: .button .is-primary} |
