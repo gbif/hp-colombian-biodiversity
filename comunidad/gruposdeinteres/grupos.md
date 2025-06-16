@@ -24,22 +24,22 @@ A través de estos grupos, la red colaborativa del SiB Colombia aborda múltiple
 
 | Tipo de grupo | ¿Qué es? | ¿Para qué se crea? | 
 |---|---|---|
-| <b>Grupo de interés (GI-SiB)</b> | ✅Un equipo enfocado en un tema particular de interés para el SiB Colombia.<br> ✅Está abierto en términos de plazo.<br> ✅Puede identificar necesidades específicas en torno al Plan Estratégico del SiB Colombia y crear grupos de trabajo para desarrollarlos, con la responsabilidad de mantener los productos derivados.<br>✅No deben usarse para promover proyectos específicos y deben contar con participación a nivel nacional.<br>✅Su permanencia depende de su actividad y relevancia para los objetivos del SiB Colombia. | ✅Para proveer una base que permita discutir problemas, metas, estrategias, métodos y la aplicación de tecnologías. <br> ✅Para servir como plataformas de comunicación y coordinación entre personas con intereses compartidos alineados con los ejes estratégicos del SiB Colombia.<br>✅Para generar resultados como informes, encuestas y productos derivados de sus Grupos de Trabajo. |
-| <b>Grupo de trabajo (GT-SiB)</b> | ✅Un equipo enfocado en una tarea específica que aporta a los ejes de trabajo y actividades del plan estratégico del SiB Colombia.<br>✅Está limitado a un corto plazo.<br> ✅Se debe crear dentro de un grupo de interés.<br>✅Se centra en el desarrollo de un producto tangible en un periodo de tiempo determinado, eliminando barreras en la gestión de datos de biodiversidad y asegurando su aplicabilidad dentro del SiB Colombia. |✅Para generar avances concretos en la publicación, acceso y uso de datos sobre biodiversidad disponibles a través del SiB Colombia.<br>✅Para desarrollar un producto específico en un plazo de 12 a 24 meses |
+| <b>Grupo de interés (GI-SiB)</b> | - Un equipo enfocado en un tema particular de interés para el SiB Colombia.<br> - Está abierto en términos de plazo.<br> - Puede identificar necesidades específicas en torno al Plan Estratégico del SiB Colombia y crear grupos de trabajo para desarrollarlos, con la responsabilidad de mantener los productos derivados.<br>- No deben usarse para promover proyectos específicos y deben contar con participación a nivel nacional.<br>- Su permanencia depende de su actividad y relevancia para los objetivos del SiB Colombia. | - Para proveer una base que permita discutir problemas, metas, estrategias, métodos y la aplicación de tecnologías. <br> - Para servir como plataformas de comunicación y coordinación entre personas con intereses compartidos alineados con los ejes estratégicos del SiB Colombia.<br>- Para generar resultados como informes, encuestas y productos derivados de sus Grupos de Trabajo. |
+| <b>Grupo de trabajo (GT-SiB)</b> | - Un equipo enfocado en una tarea específica que aporta a los ejes de trabajo y actividades del plan estratégico del SiB Colombia.<br>- Está limitado a un corto plazo.<br> - Se debe crear dentro de un grupo de interés.<br>- Se centra en el desarrollo de un producto tangible en un periodo de tiempo determinado, eliminando barreras en la gestión de datos de biodiversidad y asegurando su aplicabilidad dentro del SiB Colombia. |- Para generar avances concretos en la publicación, acceso y uso de datos sobre biodiversidad disponibles a través del SiB Colombia.<br>- Para desarrollar un producto específico en un plazo de 12 a 24 meses |
 
 #  Importancia y características en común
 
 Los grupos son vitales en la estructura de gobernanza del SiB Colombia, ya que fortalecen la participación de socios en la gestión de datos e información sobre biodiversidad. Antes de proponer o administrar uno, ten en cuenta que los grupos:
 
- ✅ Son **auto-organizados** y, generalmente, son creados por iniciativas interinstitucionales que soportan la actividad del SiB Colombia o a partir de una **convocatoria** del Equipo coordinador (EC-SiB).
+ ✓ Son **auto-organizados** y, generalmente, son creados por iniciativas interinstitucionales que soportan la actividad del SiB Colombia o a partir de una **convocatoria** del Equipo coordinador (EC-SiB).
 
- ✅ Están **abiertos a la participación** de cualquier persona que manifieste su intención al Equipo Coordinador del SiB Colombia o a uno de los líderes de un grupo, ya sea Gi-SiB o Gt-SiB.
+ ✓ Están **abiertos a la participación** de cualquier persona que manifieste su intención al Equipo Coordinador del SiB Colombia o a uno de los líderes de un grupo, ya sea Gi-SiB o Gt-SiB.
 
- ✅ Incluyen a **expertos comprometidos** con la consolidación del SiB Colombia como la instancia nacional que facilita la gestión de datos y cifras sobre biodiversidad, en busca de apoyar procesos de investigación, educación o toma de decisiones para el conocimiento, la conservación y el uso sostenible de la misma.
+ ✓ Incluyen a **expertos comprometidos** con la consolidación del SiB Colombia como la instancia nacional que facilita la gestión de datos y cifras sobre biodiversidad, en busca de apoyar procesos de investigación, educación o toma de decisiones para el conocimiento, la conservación y el uso sostenible de la misma.
 
- ✅ Son sometidos a un **proceso de revisión** antes de ser aprobados por el EC-SiB. El respaldo depende de los intereses compartidos con la misión del SiB Colombia y el aporte al desarrollo de los ejes de trabajo establecidos en su plan estratégico.
+ ✓ Son sometidos a un **proceso de revisión** antes de ser aprobados por el EC-SiB. El respaldo depende de los intereses compartidos con la misión del SiB Colombia y el aporte al desarrollo de los ejes de trabajo establecidos en su plan estratégico.
 
-✅ Los resultados derivados de los grupos deben estar orientados hacia el **libre acceso**, uno de los principios que acompañan la misión del SiB Colombia. Cada  grupo se encargará de establecer la licencia *Creative Commons* bajo la cual serán citados sus resultados.  
+ ✓ Los resultados derivados de los grupos deben estar orientados hacia el **libre acceso**, uno de los principios que acompañan la misión del SiB Colombia. Cada  grupo se encargará de establecer la licencia *Creative Commons* bajo la cual serán citados sus resultados.  
 
 # Grupos de interés
 
@@ -152,8 +152,8 @@ ___
   <li>El EC-SiB se contactará para acompañar el proceso.
 <br>
      <br>
-     <br>
     <strong>Criterios de revisión</strong><br>
+     <br>
     <p>El <strong>Equipo coordinador (EC-SiB)</strong> y el <strong>Comité técnico (CT-SiB)</strong> evaluarán la propuesta con base en los siguientes criterios:</p>
     <blockquote>
       <p>- Alineación con la <strong>visión y misión</strong> del SiB Colombia.</p>
