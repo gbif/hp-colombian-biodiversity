@@ -1,6 +1,5 @@
 ---
 layout: heroImage
-preTitle: Grupo de interés en
 title: Monitoreo participativo
 description: "Grupo de trabajo del grupo de interés: [Monitoreo de biodiversidad](/comunidad/grupos-de-interes/monitoreo-de-biodiversidad){: .button .is-primary}"
 background: https://live.staticflickr.com/7244/7188185381_c4bc575f85_h.jpg
