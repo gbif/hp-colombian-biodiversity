@@ -1,7 +1,7 @@
 ---
 layout: heroImage
 title: Monitoreo de poblaciones
-description: "Grupo de trabajo del grupo de interés: Monitoreo de la biodiversidad."
+description: "Grupo de trabajo del grupo de interés: [Monitoreo de biodiversidad](/comunidad/grupos-de-interes/monitoreo-de-biodiversidad){: .button .is-primary}"
 background: /assets/images/fondos_layout/BA11746_Villegas-Velez-Felipe.jpg
 imageLicense: |
   Fotografía de: Felipe Villegas [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/) 
@@ -28,11 +28,11 @@ Para hacerle seguimiento al cumplimiento de las metas del CBD, se requiere calcu
 
 # ¿Quiénes pueden participar?
 
-✅Todas las organizaciones y personas que generan monitoreo de poblaciones, especialmente asociadas a marcado o parcelas permanentes
+✓ Todas las organizaciones y personas que generan monitoreo de poblaciones, especialmente asociadas a marcado o parcelas permanentes
 <br>
-✅Especialistas o expertos en el manejo de datos sobre biodiversidad e informática de la biodiversidad
+✓ Especialistas o expertos en el manejo de datos sobre biodiversidad e informática de la biodiversidad
 <br>
-✅Personas con distintos perfiles y habilidades para el análisis de datos que permitan identificar vacíos en la información que dificultan el análisis de datos poblacionales
+✓ Personas con distintos perfiles y habilidades para el análisis de datos que permitan identificar vacíos en la información que dificultan el análisis de datos poblacionales
 
 # Estrategia y metodología
 
@@ -42,4 +42,4 @@ Para hacerle seguimiento al cumplimiento de las metas del CBD, se requiere calcu
 - Realizar la revisión por pares del documento instructivo para la publicación de conjuntos de datos de poblaciones a través del SiB Colombia.
 - Publicar el documento de hallazgos o el instructivo a través de la página del grupo de trabajo.
 
-| Conoce el grupo de interés en [Monitoreo de biodiversidad](/comunidad/gruposdeinteres/monitoreo-de-biodiversidad){: .button .is-primary} |
+| Conoce el grupo de interés en [Monitoreo de biodiversidad](/comunidad/grupos-de-interes/monitoreo-de-biodiversidad){: .button .is-primary} |
