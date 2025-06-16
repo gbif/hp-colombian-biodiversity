@@ -40,5 +40,5 @@ Este grupo busca fortalecer la cadena de gestión del conocimiento asociada a lo
 - Realizar la revisión por pares del documento instructivo para la publicación de conjuntos de datos de monitoreo participativo a través del SiB Colombia.
 - Publicar el documento de buenas prácticas para la toma y publicación de datos en iniciativas de monitoreo participativo.
 
-| Conoce el grupo de interés en [Monitoreo de biodiversidad](comunidad/gruposdeinteres/gi-monitoreo/monitoreo-de-la-biodiversidad){: .button .is-primary} |
+| Conoce el grupo de interés en [Monitoreo de biodiversidad](/comunidad/gruposdeinteres/monitoreo-de-biodiversidad/monitoreo-de-poblaciones){: .button .is-primary} |
 
