@@ -27,9 +27,11 @@ Este grupo busca fortalecer la cadena de gestión del conocimiento asociada a lo
 
 # ¿Quiénes pueden participar?
 
-✅Todas las organizaciones y personas que hagan parte de iniciativas de monitoreo participativo y tengan interés en el manejo de datos obtenidos a partir de este tipo de monitoreos<br>
-✅Especialistas o expertos en el manejo de datos sobre biodiversidad e informática de la biodiversidad<br>
-✅Personas con distintos perfiles que incluyan habilidades para el análisis de datos<br>
+✅Todas las organizaciones y personas que hagan parte de iniciativas de monitoreo participativo y tengan interés en el manejo de datos obtenidos a partir de este tipo de monitoreos
+<br>
+✅Especialistas o expertos en el manejo de datos sobre biodiversidad e informática de la biodiversidad
+<br>
+✅Personas con distintos perfiles que incluyan habilidades para el análisis de datos
 
 # Estrategia y metodología
 
@@ -39,5 +41,4 @@ Este grupo busca fortalecer la cadena de gestión del conocimiento asociada a lo
 - Publicar el documento de buenas prácticas para la toma y publicación de datos en iniciativas de monitoreo participativo.
 
 | Conoce el grupo de interés en [Monitoreo de biodiversidad](comunidad/gruposdeinteres/gi-monitoreo/monitoreo-de-la-biodiversidad){: .button .is-primary} |
-<details id="colíderes" open>
 
