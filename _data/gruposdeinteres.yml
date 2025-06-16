@@ -21,9 +21,9 @@ tarjetasGrupos:
              
     - title: Monitoreo de la biodiversidad
       description: |      # required
-       [Visitar](/comunidad/gruposdeinteres/monitoreo-de-biodiversidad/){: .button .is-primary}
+       [Visitar](/comunidad/grupos-de-interes/monitoreo-de-biodiversidad){: .button .is-primary}
       background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
-      href: /comunidad/gruposdeinteres/monitoreo-de-biodiversidad/
+      href: /comunidad/grupos-de-interes/monitoreo-de-biodiversidad
       
     - title: Datos moleculares  # required
       description: |      # required
@@ -62,10 +62,10 @@ tarjetasGruposdeTrabajoMonitoreo:
     - title: Monitoreo participativo
       description: ""      # required
       background: https://live.staticflickr.com/7244/7188185381_c4bc575f85_h.jpg
-      href: /comunidad/gruposdeinteres/monitoreo-de-biodiversidad/monitoreo-participativo
+      href: /comunidad/grupos-de-interes/monitoreo-de-biodiversidad/monitoreo-participativo
       
     - title: Monitoreo de poblaciones  # required
       description: ""     # required
       background: /assets/images/fondos_layout/BA11746_Villegas-Velez-Felipe.jpg
-      href: /comunidad/gruposdeinteres/monitoreo-de-biodiversidad/monitoreo-de-poblaciones
+      href: /comunidad/grupos-de-interes/monitoreo-de-biodiversidad/monitoreo-de-poblaciones
       
