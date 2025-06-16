@@ -6,7 +6,7 @@ description:
 background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
 imageLicense: |
   Fotografía de: Camila Plata [by-nc-nd](https://creativecommons.org/licenses/by-nc-nd/2.0/)  vía [Flickr](https://www.flickr.com/photos/camisilver/14976714334/) 
-permalink: /comunidad/grupos/monitoreo-de-la-biodiversidad
+permalink: /comunidad/gruposdeinteres/gi-monitoreo/monitoreo-de-la-biodiversidad
 height: 41vh
 toc: true
 composition:
