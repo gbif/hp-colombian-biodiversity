@@ -1,6 +1,6 @@
 ---
 layout: compose
-pretitle: Grupo de interés en
+preTitle: Grupo de interés en
 title: Monitoreo de biodiversidad
 description: 
 background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
@@ -17,7 +17,7 @@ composition:
 
 El monitoreo de la biodiversidad es la investigación continua y sistemática de sus componentes, con el fin de identificar tendencias, cambios y amenazas (entre otros). Esto implica un proceso de medición estandarizada y repetida de variables que permita describir atributos y componentes de la biodiversidad en un mismo lugar a través del tiempo. La disponibilidad y acceso a datos de monitoreo es indispensable para responder preguntas de investigación y tomar decisiones acertadas en contextos de conservación y manejo.
 
-En el grupo de interés “Monitoreo de biodiversidad” buscamos apoyar al SiB Colombia en su misión de centralizar la mayor cantidad de fuentes de datos de monitoreo, facilitando el proceso para que los usuarios que producen este tipo de información en el país perciban los beneficios de tener un repositorio seguro y riguroso de sus datos.
+En el grupo de interés en monitoreo de biodiversidad, buscamos apoyar al SiB Colombia en su misión de centralizar la mayor cantidad de fuentes de datos de monitoreo, facilitando el proceso para que los usuarios que producen este tipo de información en el país perciban los beneficios de tener un repositorio seguro y riguroso de sus datos.
 
 Colectivamente, en este grupo crearemos lineamientos y herramientas para el uso y visualización de datos de monitoreo, y atenderemos las necesidades particulares de diferentes tipos de iniciativas que estén interesadas en contribuir con sus datos de monitoreo al SiB Colombia. También es de nuestro interés articularnos con las herramientas existentes del SiB Colombia a través grupos de trabajo enfocados en objetivos tales como:
 
@@ -36,7 +36,7 @@ Colectivamente, en este grupo crearemos lineamientos y herramientas para el uso 
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/gruposdeinteres/images/LinaSánchez_Foto.JPG"></figure>| Lina Sánchez       | lsanchez@humboldt.org.co   | Investigador Principal              | IAvH - Gerencia de Información Científica |
 
 
-### ¿Quiénes pueden participar en el grupo de interés en Monitoreo de Biodiversidad?
+### ¿Quiénes pueden participar en el grupo de interés en monitoreo de biodiversidad?
 
 Todas las personas que sean parte de iniciativas que tomen datos de monitoreo de biodiversidad están invitadas a participar, es decir, todas aquellas en las que exista un proceso de medición estandarizada, Todas las personas que sean parte de iniciativas que tomen datos de monitoreo de biodiversidad.
 
