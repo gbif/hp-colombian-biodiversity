@@ -19,24 +19,28 @@ tarjetasGrupos:
     
   features:
              
-    - title: Monitoreo de la biodiversidad
+    - title: Monitoreo de biodiversidad
+      preTitle: Grupo de interés en
       description: |      # required
        [Visitar](/comunidad/grupos-de-interes/monitoreo-de-biodiversidad){: .button .is-primary}
       background: /comunidad/gruposdeinteres/images/DatosMonitoreo.jpg
       href: /comunidad/grupos-de-interes/monitoreo-de-biodiversidad
       
     - title: Datos moleculares  # required
+      preTitle: Grupo de interés en
       description: |      # required
        💡 Grupo de interés no creado
       background: /comunidad/gruposdeinteres/images/DatosMoleculares.jpg
       
     - title: Calidad de datos
+      preTitle: Grupo de interés en
       description: |      # required
        💡 Grupo de interés no creado
       background: /comunidad/gruposdeinteres/images/CalidadDatos.jpg
 
       
     - title: Propiedad intelectual
+      preTitle: Grupo de interés en
       description: |      # required
        💡 Grupo de interés no creado
       # img required
