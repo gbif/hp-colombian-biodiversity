@@ -13,7 +13,7 @@ background: /assets/images/noticias_eventos/2025/2025-05-26-destacados-abril-202
 
 ### La publicación de datos sobre biodiversidad contribuye a llenar vacíos en el conocimiento de la biodiversidad de Colombia, un esfuerzo que requiere la articulación entre las organizaciones titulares de los datos y los profesionales que los recolectan.
 
-Desde el SiB Colombia, el Equipo Coordinador [acompaña mensualmente la publicación voluntaria de conjuntos de datos, listas de especies o eventos de muestreo](https://biodiversidad.co/compartir/guia-para-publicar/){:target="\_blank"}, por parte de los socios publicadores de la red, y presenta esta información en el reporte [**Actividad de publicación**](https://biodiversidad.co/comunidad/actividad-de-publicacion/)**{:target="\_blank"}**, disponible de forma permanente en nuestro sitio web. Cada mes, se destacan algunas de estas publicaciones por su valor en el fortalecimiento del conocimiento y la participación en la red; en esta ocasión, compartimos las correspondientes a **abril de 2025**.
+Desde el SiB Colombia, el Equipo Coordinador [acompaña mensualmente la publicación voluntaria de conjuntos de datos, listas de especies o eventos de muestreo](https://biodiversidad.co/compartir/guia-para-publicar/){:target="\_blank"}, por parte de los socios publicadores de la red, y presenta esta información en el reporte [**Actividad de publicación**](https://biodiversidad.co/comunidad/actividad-de-publicacion/){:target="\_blank"}, disponible de forma permanente en nuestro sitio web. Cada mes, se destacan algunas de estas publicaciones por su valor en el fortalecimiento del conocimiento y la participación en la red; en esta ocasión, compartimos las correspondientes a **abril de 2025**.
 
 ## Conjuntos de datos destacados
 
