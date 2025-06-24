@@ -35,8 +35,7 @@ En la Cordillera de Malpelo, una de las sistemas montañosos submarinos más eni
 
  Descubre el conjunto de datos: [Megabentos batial del extremo sur occidental del DNMI Colinas y Lomas Submarinas de la Cuenca Pacífico Norte y el este del archipiélago de Malpelo](https://biodiversidad.co/data/?datasetKey=c9237397-4658-4301-a47d-eb1319ed78f5&view=gallery) |
 
-![](2025-06-24-atarraya-y-patos-epm.png)![](2025-06-24-atarraya-y-patos-epm.png)
-![Atarraya y patos](2025-06-24-atarraya-y-patos-epm.png)![](2025-06-24-atarraya-y-patos-epm.png)
+![Atarraya y patos](/assets/images/noticias_eventos/2025/2025-06-24-atarraya-y-patos-epm.png)
 © Foto: Convenio marco CT-2021-000023 entre Empresas Públicas de Medellín y la Universidad de Antioquia.
 
 En el altiplano antioqueño, donde nacen múltiples fuentes hídricas vitales para el país, Empresas Públicas de Medellín E.S.P. aporta al conocimiento de la biodiversidad acuática con la publicación de dos conjuntos de datos. Uno de ellos recoge 1320 registros de peces en ecosistemas asociados al Complejo Hidroeléctrico Riogrande, documentando especies y hábitats entre 2019 y 2023, como parte del seguimiento ambiental en la zona de influencia de los embalses Riogrande II y Quebradona. El otro conjunto de datos presenta 94 registros del monitoreo del Pato de Torrentes (Merganetta armata), una especie emblemática de aguas rápidas, en el área de influencia del proyecto “Abastecimiento de agua – Río Piedras”. Estas publicaciones fortalecen la gestión ambiental y promueven la transparencia sobre la biodiversidad presente en los entornos que sustentan el desarrollo hídrico de la región.
