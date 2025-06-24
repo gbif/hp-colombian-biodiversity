@@ -91,7 +91,7 @@ noticias:
       description: |      # required
        Organizaciones, jardínes botánicos, empresas e institutos de investigación sobresalen este mes con conjuntos de datos y eventos de muestreo.
       # img required
-      background: assets/images/noticias_eventos/2025/2025-06-19-destacados-mayo-2025.png
+      background: assets/images/noticias_eventos/2025/2025-06-24-destacados-mayo-2025.png
       cta:
       - text: Ver más
         href: /post/2025/reporte-publicacion-mayo-2025/
