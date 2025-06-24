@@ -85,6 +85,17 @@ splitGruposdeInteres:
 # Noticias
 noticias:
   features:
+  
+    - preTitle: Pasantías 2025
+      title: "Corales, plantas, patos, peces y más fauna de nuestra biodiversidad entre los destacados de mayo" 
+      description: |      # required
+       Organizaciones, jardínes botánicos, empresas e institutos de investigación sobresalen este mes con conjuntos de datos y eventos de muestreo.
+      # img required
+      background: assets/images/noticias_eventos/2025/2025-06-19-destacados-mayo-2025.png
+      cta:
+      - text: Ver más
+        href: /post/2025/reporte-publicacion-mayo-2025/
+        isPrimary: false
         
     - preTitle: Datos abiertos
       title: "Mamíferos, líquenes, anfibios, escarabajos, termitas y otros insectos se reúnen en los destacados de abril" 
@@ -95,17 +106,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2025/reporte-publicacion-abril-2025/
-        isPrimary: false
-  
-    - preTitle: Pasantías 2025
-      title: "Postúlate para hacer tu pasantía o práctica laboral con el SiB Colombia" 
-      description: |      # required
-       El 2 de mayo lanzamos la convocatoria para postulaciones a pasantías o prácticas laborales con el SiB Colombia durante el segundo semestre de 2025.
-      # img required
-      background: assets/images/noticias_eventos/2025/2025-04-01-convocatoria-pasantias-2025-2.png
-      cta:
-      - text: Ver más
-        href: /comunidad/formacion/programa-pasantias
         isPrimary: false
         
     - preTitle: Datos abiertos
