@@ -2,7 +2,7 @@
 preTitle: 24 de junio, 2025
 title: Corales, plantas, patos, peces y más fauna de nuestra biodiversidad entre los destacados de mayo
 description: _Organizaciones, jardínes botánicos, empresas e institutos de investigación sobresalen este mes con conjuntos de datos y eventos de muestreo._
-date: 2025-26-24
+date: 2025-06-24
 categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
 background: /assets/images/noticias_eventos/2025/2025-06-19-destacados-mayo-2025.png
 
@@ -15,7 +15,7 @@ background: /assets/images/noticias_eventos/2025/2025-06-19-destacados-mayo-2025
 
 Desde el SiB Colombia, el Equipo Coordinador [acompaña mensualmente la publicación voluntaria de conjuntos de datos, listas de especies o eventos de muestreo](https://biodiversidad.co/compartir/guia-para-publicar/){:target="\_blank"},  por parte de los socios publicadores de la red, y presenta esta información en el reporte [Actividad de publicación](https://biodiversidad.co/comunidad/actividad-de-publicacion/){:target="\_blank"}, disponible de forma permanente en nuestro sitio web. Cada mes, se destacan algunas de estas publicaciones por su valor en el fortalecimiento del conocimiento y la participación en la red; en esta ocasión, compartimos las correspondientes a **mayo de 2025**.
 
-## Conjuntos de datos destacados
+## Nuevos publicadores
 
 En el litoral del departamento del **Chocó**, en el Pacífico colombiano, donde la biodiversidad marina y las comunidades costeras mantienen una estrecha relación, avanza una apuesta por el conocimiento y la conservación liderada por **[Corales de Paz](https://coralesdepaz.org){:target="\_blank"}**, organización que se suma como **nuevo publicador al SiB Colombia**. Este esfuerzo colectivo se concreta en la publicación de un conjunto de datos sobre el **monitoreo participativo de la salud de los arrecifes coralinos en el Golfo de Tribugá**, resultado de un trabajo riguroso de recolección de información sobre peces, invertebrados, enfermedades, impactos y sustrato. La metodología utilizada es una adaptación regional del [protocolo Reef Check](https://www.equilibrioazul.org/documentos/Reef%20Check%20Traducci%5C242n%202004.pdf){:target="\_blank"}, uno de los estándares internacionales más reconocidos en el monitoreo de biodiversidad marítima coralina. La publicación también refleja el compromiso de una comunidad que, tras completar un proceso de formación que fortalece su capacidad para observar, comprender y cuidar su entorno. Con **124 registros biológicos** levantados en zonas clave como Chuzudo y Piedra Roñosa, los datos compartidos permiten hacer seguimiento a la salud de los arrecifes, fomentar la ciencia ciudadana y abrir oportunidades para el turismo científico como fuente de ingresos locales.
 
@@ -33,7 +33,7 @@ En los departamentos de **Córdoba y Sucre**, donde confluyen ecosistemas estrat
 
 En la **Cordillera de Malpelo**, una de las sistemas montañosos submarinos más enigmáticos del **Pacífico colombiano**, se despliega una biodiversidad poco conocida y difícil de explorar. Desde este escenario remoto y de alto valor ecológico, el **Instituto de Investigaciones Marinas y Costeras – Invemar** publica un evento de muestreo que documenta el **megabentos batial**, organismos que habitan las laderas y fondos profundos del océano. Esta publicación reúne **460 registros biológicos, 7 eventos de muestreo y más de 160 imágenes**, ofreciendo una valiosa mirada a la vida marina en un entorno extremo, poco accesible pero esencial para comprender la dinámica de los ecosistemas marinos profundos del país. Este esfuerzo científico fortalece el conocimiento sobre la biodiversidad marina profunda y contribuye a la gestión de áreas estratégicas para la conservación.
 
- Descubre el conjunto de datos: [Megabentos batial del extremo sur occidental del DNMI Colinas y Lomas Submarinas de la Cuenca Pacífico Norte y el este del archipiélago de Malpelo](https://biodiversidad.co/data/?datasetKey=c9237397-4658-4301-a47d-eb1319ed78f5&view=gallery){:target="\_blank"} |
+| Descubre el conjunto de datos: [Megabentos batial del extremo sur occidental del DNMI Colinas y Lomas Submarinas de la Cuenca Pacífico Norte y el este del archipiélago de Malpelo](https://biodiversidad.co/data/?datasetKey=c9237397-4658-4301-a47d-eb1319ed78f5&view=gallery){:target="\_blank"} |
 
 ![Atarraya y patos](/assets/images/noticias_eventos/2025/2025-06-24-atarraya-y-patos-epm.png){:target="\_blank"}
 © Foto: Convenio marco CT-2021-000023 entre Empresas Públicas de Medellín y la Universidad de Antioquia.
@@ -50,6 +50,6 @@ Finalmente, este mes también se destaca que el SiB Colombia cuenta a la fecha c
 
 | Conoce las cifras de este mes y totales en [la actividad de publicación](https://biodiversidad.co/comunidad/actividad-de-publicacion/){:target="\_blank"} |
 
-![Actividad de publicación](/assets/images/noticias_eventos/2025/banner-actividad-de-publicacion.png){:target="\_blank"}
+![Actividad de publicación](/assets/images/noticias_eventos/2025/banner-actividad-de-publicacion.png)}
 
 Esta nota hace parte de una serie de noticias que cubren el reporte mensual de la actividad de publicación para visibilizar las acciones de los [socios publicadores](https://biodiversidad.co/comunidad/socios-publicadores/){:target="_blank"} y sus esfuerzos por aportar al conocimiento de la biodiversidad del país. Para conocer los destacados en meses anteriores, te invitamos a acceder a la categoría de búsqueda, [Destacados SiB](https://biodiversidad.co/news/?category=Destacados+SiB){:target="_blank"}  en nuestras noticias.
