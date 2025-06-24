@@ -4,7 +4,7 @@ title: Corales, plantas, patos, peces y más fauna de nuestra biodiversidad entr
 description: _Organizaciones, jardínes botánicos, empresas e institutos de investigación sobresalen este mes con conjuntos de datos y eventos de muestreo._
 date: 2025-06-24
 categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
-background: /assets/images/noticias_eventos/2025/2025-06-19-destacados-mayo-2025.png
+background: /assets/images/noticias_eventos/2025/2025-06-24-destacados-mayo-2025.png
 
 
 
