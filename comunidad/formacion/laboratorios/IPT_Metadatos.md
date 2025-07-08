@@ -18,7 +18,7 @@ Aprender a documentar los metadatos en la herramienta de publicación IPT.
 
 Si es la primera vez que va a documentar metadatos utilizando la herramienta de publicación IPT, le recomendamos ver detenidamente el siguiente video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9WkH9hoHc8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8sFcbZC9A4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 **Sobre la herramienta**
 
