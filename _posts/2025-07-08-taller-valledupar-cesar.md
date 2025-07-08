@@ -4,7 +4,7 @@ title: "Taller gratuito en Valledupar, Cesar"
 description: "_Inscríbete al taller gratuito sobre gestión y publicación de datos abiertos sobre biodiversidad en Valledupar, Cesar; en el marco del Proyecto “Pactos hacia la restauración socioecológica y la bioeconomía sostenible en el Corredor de Vida del Cesar”._"
 date: 2025-07-08
 categories: ["Formación", "Corredor de vida", "Datos abiertos", "2025"]
-background: /assets/images/noticias_eventos/2025/2025-07-08-taller-valledupar-cesar
+background: 
 imageLicense: |
 ---
 
@@ -19,3 +19,5 @@ En los contenidos del taller, se abordarán las **buenas prácticas para la gest
 Si trabajas con datos sobre biodiversidad y estás interesado en aportar al conocimiento de la región, puedes inscribirte en esta enlace:
 
 [Regístrate aquí](https://docs.google.com/forms/d/1nHQjaGev0u5rdPIk_CnXC5qWNsSKt09Ta3z2SZK1uys/edit){:target="_blank" .button .is-primary} • Cupos limitados
+
+![Taller gratuito sobre gestión y publicación de datos abiertos sobre biodiversidad con el SiB Colombia en Valledupar](/assets/images/noticias_eventos/2025/2025-07-08-taller-valledupar-cesar.png)
