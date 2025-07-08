@@ -155,7 +155,7 @@ ___
 
 El profesional del Equipo Coordinador revisa la documentación de metadatos y te informa si debes realizar ajustes. El proceso de acompañamiento es iterativo, es decir que el conjunto de datos y sus metadatos asociados pueden contar con varias revisiones antes de ser publicado, hasta que cuenten con todos los mínimos de calidad.
 
-Consulta el [vídeo sobre cómo documentar metadatos en el IPT](https://www.youtube.com/watch?v=4COyyYUg9sQ){:target="_blank"}
+Consulta el [vídeo sobre cómo documentar metadatos en el IPT](https://www.youtube.com/watch?v=8sFcbZC9A4M){:target="_blank"}
 
 ## 6. Publicación del conjunto de datos
 
