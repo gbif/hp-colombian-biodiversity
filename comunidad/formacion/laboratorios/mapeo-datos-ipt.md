@@ -19,7 +19,7 @@ El proceso de mapeo de datos consiste en identificar la correspondencia entre la
 
 En este laboratorio se explica el proceso de mapeo desde el IPT, continuando con el ejercicio realizado en la guía [Cómo cargar los datos al IPT](https://biodiversidad.co/formacion/laboratorios/carga-datos-ipt). Por consiguiente, es necesario realizar primero la carga de los datos para proseguir con el proceso de mapeo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=C9vZTm7TYk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C9vZTm7TYk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 **Sobre la herramienta**
