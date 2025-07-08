@@ -301,18 +301,20 @@ El estándar Darwin Core cuenta con el elemento <i>infragenericEpithet</i> para 
   <summary markdown="span"><B>¿Que son lo metadatos?</B></summary>
 
 <br>
-Los metadatos son información de contexto sobre los datos a publicar, para las publicaciones a través del SiB Colombia se cuenta con 12 secciones para documentar los metadatos, que incluyen:
+Los metadatos son información de contexto sobre los datos a publicar, para las publicaciones a través del SiB Colombia se cuenta con 14 secciones para documentar los metadatos, que incluyen:
 <ol>
-<li>Metadatos Básicos</li>
-<li>Cobertura Geográfica</li>
-<li>Cobertura Taxonómica</li>
-<li>Cobertura Temporal</li>
-<li>Palabras Clave</li>
-<li>Partes Asociadas</li>
-<li>Datos del Proyecto</li>
-<li>Métodos de Muestreo</li>
+<li>Metadatos básicos</li>
+<li>Contactos</li>  
+<li>Agradecimientos</li>  
+<li>Cobertura geográfica</li>
+<li>Cobertura taxonómica</li>
+<li>Cobertura temporal</li>
+<li>Descripción adicional</li>
+<li>Palabras clave</li>
+<li>Datos del proyecto</li>
+<li>Métodos de muestreo</li>
 <li>Referencias</li>
-<li>Datos de la Colección</li>
+<li>Datos de la colección</li>
 <li>Enlaces Externos</li>
 <li>Metadatos Adicionales</li>
     </ol>
@@ -339,11 +341,13 @@ ___
 En los metadatos de la publicación, las instituciones pueden proporcionar un texto recomendado para la citación de los conjuntos de datos publicados a través del SiB Colombia, y algunos optan por proporcionar información de citas en formato de texto libre. 
     
 
-Para el Portal de datos de GBIF, el uso de citas de texto libre puede generar problemas para proporcionar una citación adecuada para el uso de los datos, debido a las malas prácticas en la construcción de las citas, información faltante, problemas de codificación, etc. Por este motivo la plataforma de GBIF  sobrescribe la citación, usando un estándar incorporado en la herramienta de publicación IPT desde el 2015, que provee una forma estandarizada y consistente para la citación de los recursos.
+Para el Portal de datos del SiB Colombia y en el portal de GBIF, el uso de citas de texto libre puede generar problemas para proporcionar una citación adecuada para el uso de los datos, debido a las malas prácticas en la construcción de las citas, información faltante, problemas de codificación, etc. Por este motivo la plataforma de GBIF sobrescribe la citación, usando un estándar incorporado en la herramienta de publicación IPT desde el 2015, que provee una forma estandarizada y consistente para la citación de los recursos.
 
-Sin embargo, en la publicación desde el IPT y el Portal de Datos del SiB Colombia, la citación corresponderá a la que el publicador documentó en los metadatos del recurso, independientemente si está se hizo en texto libre o usando la citación recomendad de GBIF.
+Sin embargo, en la publicación desde el IPT la citación corresponderá a la que el publicador documentó en los metadatos del recurso, independientemente si está se hizo en texto libre o usando la citación recomenda de GBIF.
 
 Para más información sobre esta duda diríjase a la sección de preguntas frecuentes de GBIF  <a href="https://www.gbif.org/faq?q=citation" target="_blank">aquí</a>.
+
+La recomendación es utilizar la citación automática del IPT siempre, para evitar problemas y hacer más fácil el seguimiento de un recurso.
     </details>
 
 ## Licencia y atribución
@@ -364,7 +368,7 @@ ___
 Consulte los siguientes enlaces que lo ayudarán a decidir cuál es la mejor licencia para la publicación de sus datos. 
     <ol>
 <li><a href="http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35033/InfografiaCC.pdf?sequence=1&isAllowed=y" target="_blank">Infografía Crear Compartir Transformar - SiB Colombia</a></li>
-<li><a href="http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35035/licencias-SiB-baja.pdf?sequence=1&isAllowed=y" target="_blank">Licencias para publicar a través del SiB Colombia - Creative Commons</a></li>
+<li><a href="[http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35035/licencias-SiB-baja.pdf?sequence=1&isAllowed=y](http://repository.humboldt.org.co/bitstream/handle/20.500.11761/35035/licencias-SiB-baja.pdf?sequence=1&isAllowed=y)" target="_blank">Licencias para publicar a través del SiB Colombia - Creative Commons</a></li>
     </ol>
     
 </details>
@@ -385,7 +389,7 @@ Si su interés es generar su propia cita. No olvide desactivar la generación au
      <ul>
 <li><b>Ejemplo:</b><i>Universidad del Valle (2017). Colección de mamíferos de la Universidad del Valle, 5739 registros, aportados por Giraldo-López, A.(Proveedor de los Metadatos), Murillo García O.E.(Curador de la colección, Contacto del recurso, Proveedor de los Metadatos), Arenas, D. & Ruano, L,(Creador del recurso), En línea, <a href="http://doi.org/10.15472/jzume7" target="_blank">http://doi.org/10.15472/jzume7</a>, versión 7.2. (actualizado el 12/09/2018).</i></li>
     </ul>
-Se recomienda que las partes (personas e instituciones) involucradas en la generación de los datos sean reconocidas en los metadatos, idealmente como <b>creadores del recurso</b> en la sección de metadatos básicos (si se consideran autores del recurso) o en <b>partes asociadas</b> (si estuvieron involucradas en la generación del recurso pero no se consideran autores).
+Se recomienda que las partes (personas e instituciones) involucradas en la generación de los datos sean reconocidas en los metadatos, idealmente como <b>creadores del recurso</b> en la sección de Contactos (si se consideran autores del recurso) o en <b>Partes asociadas</b> (si estuvieron involucradas en la generación del recurso pero no se consideran autores).
 
 </details>
 
@@ -431,7 +435,7 @@ Los datos dispuestos a través del SiB Colombia son visibles y pueden ser consul
     <li><B>Canales de participación del SiB Colombia:</B></li>
     <ul>
     <li><a href="/data" >Portal de datos</a></li>
-    <li><a href="https://listas.biodiversidad.co/">Listas de especies</a></li>
+    <li><a href="/dataset/search?type=CHECKLIST">Listas de chequeo</a></li>
     </ul>   
     <li><B>Portales internacionales:</B></li>
     <ul>
@@ -569,7 +573,6 @@ Si perteneces a una <B>entidad que colecta pero no posee una colección</B> sigu
         <ul>
         <li>Metadatos básicos: Documentar <i>Subtipo</i> como “Observación”.</li>
         <li>Palabras clave: “PERMISO_COLECTA”</li>
-        <li>Datos de la colección: Documentar todas las colecciones donde haya depositado los especímenes, de acuerdo al <a href="http://rnc.humboldt.org.co/admin/index.php/registros/colecciones" target="_blank">Registro Nacional de Colecciones</a>.</li>
       </ul>
 </ol>
 
@@ -577,11 +580,11 @@ Si perteneces a una colección biológica sigue estas indicaciones:
 <ol>
   <li><B>En los datos del recurso.</B></li>
     <ul>
-        <li>Documentar el elemento <i>basisOfRecord</i> para todos los registros como “PreservedSpecimen”, “LivingSpecimen ” para colecciones vivas, o “MaterialSample para colecciónes de tejidos”.</li>
+        <li>Documentar el elemento <i>basisOfRecord</i> para todos los registros como “PreservedSpecimen”, “LivingSpecimen” para colecciones vivas, o “MaterialSample" para colecciónes de tejidos.</li>
         <li>Documentar el elemento <i>type</i> como “PhysicalObject”.</li>
         <li>Documentar el elemento <i>disposition</i> como “En colección”, o haciendo uso del vocabulario controlado de este elemento.</li>
         <li>Documentar el elemento <i>collectionCode</i> con el código de la colección donde se depositaron los especímenes. </li>
-        <li>Documentar el elemento <i><a href="https://biodiversidad.co/compartir/estandar-darwin-core/#collectionID" target="_blank">CollectionID</a></i> con el código del GBIF Registry of Scientific Collections o del Registro Nacional de colecciones.</li>
+        <li>Documentar el elemento <i><a href="https://biodiversidad.co/compartir/estandar-darwin-core/#collectionID" target="_blank">CollectionID</a></i> con el código del Registro Mundial de Colecciones Científicas de GBIF (GRSciColl) o del Registro Nacional de colecciones.</li>
         <li>Documentar el elemento <i>catalogNumber</i> con el número asignado en la colección. Este elemento no puede estar vacío. Si aún no se ha catalogado puede registrar un número de catálogo provisional y actualizar la publicación una vez tenga los número de catálogo definitivos.</li>
         <li>Documentar el elemento <i>datasetID</i> con la información del permiso de marco de recolección o la amnistía de la colección</li>
       </ul>
@@ -589,7 +592,7 @@ Si perteneces a una colección biológica sigue estas indicaciones:
     <ul>
         <li>Metadatos básicos: Documentar Subtipo como “Ejemplar”.</li>
         <li>Palabras clave: “Colección biológica, PERMISO_COLECTA”</li>
-        <li>Datos de la colección: Documente la información de la colección de acuerdo al <a href="http://rnc.humboldt.org.co/admin/index.php/registros/colecciones" target="_blank">Registro Nacional de Colecciones</a>.</li>
+        <li>Datos de la colección: Documente la información de la colección de acuerdo al <a href="http://rnc.humboldt.org.co/admin/index.php/registros/colecciones" target="_blank">Registro Nacional de Colecciones</a> y al <a href="[http://rnc.humboldt.org.co/admin/index.php/registros/colecciones](https://scientific-collections.gbif.org/es/)" target="_blank">Registro Mundial de Colecciones Científicas</a> en caso de hacer parte de este.</li>
       </ul>
 </ol>
 </details>
@@ -671,7 +674,7 @@ ___
 
 <details>
     
-<summary markdown="span"><B>¿Qué debo hacer si necesito modificar algún recurso reportado  antes de enero del 2022 en la herramienta IPT CR-SiB?</B></summary>
+<summary markdown="span"><B>¿Qué debo hacer si necesito modificar algún recurso reportado antes de enero del 2022 en la herramienta IPT CR-SiB?</B></summary>
     
 <br>
     
@@ -702,7 +705,7 @@ ___
     
 <br>
     
-Esta se consulta en la sección Vista general del recurso en la franja <i>Versiones publicadas / última versión</i>, allí haz click en la opción “Ver” (Figura. 1) que dirigirá a la última versión publicada del recurso y en la barra de direcciones encontraremos la URL (Figura. 2). 
+Esta se consulta en la sección Vista general del recurso en la franja <i>Publicación</i>, allí haz click en la opción “Ver” (Figura. 1) en la caja con la etiqueta "ACTUAL" que dirigirá a la última versión publicada del recurso y en la barra de direcciones encontraremos la URL (Figura. 2). 
     
 Puedes apoyarte en el <a href="https://www.youtube.com/watch?v=ynV2kWcC2hg" target="_blank">siguiente video</a> para obtener tu URL
     
@@ -770,7 +773,7 @@ ___
     
 <br>
 
-Al cargar un archivo Excel es necesario verificar que se haya seleccionado la hoja “Plantilla” donde se encuentran documentados los datos (Figura. 4), de lo contrario estos no serán cargados a la herramienta. Seguido de ello, debe darse clic en “Analizar”.
+Al cargar un archivo Excel es necesario verificar que se haya seleccionado la hoja “Plantilla” donde se encuentran documentados los datos (Figura. 4), de lo contrario estos no serán cargados a la herramienta. Seguido de ello, debe darse clic en “Opciones“ y luego en “Analizar”.
 
 Puedes consultar el <a href="https://www.youtube.com/watch?v=BO3WXBthWJ0" target="_blank">siguiente video</a> para obtener más detalles.
 
@@ -810,7 +813,7 @@ ___
 
 Posiblemente se deba a un problema en la visibilidad del recurso en el IPT Permisos. Para verificar que todo esté correcto, dirígete a la sección de <i>Visibilidad</i> en la vista general del recurso y corrobora que este sea <i>Público</i> y disponible para todo el mundo. 
 
-En caso contrario, deberás modificar la visibilidad del recurso haciendo clic sobre el botón “Público” y seguido de ello (Figura. 6), en la sección de <i>Versiones publicadas</i>, darle clic al botón “Público”, de esta forma, se creará una nueva versión del recurso con los ajustes de visibilidad realizados.
+En caso contrario, deberás modificar la visibilidad del recurso haciendo clic sobre el botón “Cambiar” y seleccionar la opción "Inmediatamente" y seguido de ello (Figura. 6), en la sección de <i>Publicación</i> hacer pública una nueva versión del conjunto de datos, de esta forma, se creará una nueva versión del recurso con los ajustes de visibilidad realizados.
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/compartir/Imagenes/PreguntaFrecuenteCRSiB6.png">
 <sup>Figura 6. Cambio de la visibilidad al estado "Público".</sup> 
