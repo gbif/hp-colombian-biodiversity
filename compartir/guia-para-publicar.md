@@ -127,14 +127,14 @@ ___
 
 A partir de la solicitud de acompañamiento enviada, un asesor del Equipo Coordinador del SiB Colombia se pone en contacto contigo y te ofrece el apoyo necesario para la publicación, compartiendo las credenciales para que puedas documentar los metadatos mientras que el EC-SiB realiza la revisión detallada del conjunto de datos que enviaste.
 
-Luego de la revisión, se genera y envía un correo con un reporte de calidad que tiene sugerencias y recomendaciones, que pueden incluir indicaciones sobre vacíos en los datos, inconsistencias o problemas de calidad.  Estos deben ser corregidos para continuar con la publicación cuanto antes.
+Luego de la revisión, se genera y envía un correo con un reporte de calidad que tiene sugerencias y recomendaciones, que pueden incluir indicaciones sobre vacíos en los datos, inconsistencias o problemas de calidad. Estos deben ser corregidos para continuar con la publicación cuanto antes.
 
-Además de realizar los ajustes solicitados en el conjunto de datos, ten en cuenta que durante el proceso también debes avanzar con la documentación de los metadatos en la sección [Metadatos](https://ipt.gbif.org/manual/es/ipt/2.5/resource-metadata){:target="_blank"} de la plataforma.
+Además de realizar los ajustes solicitados en el conjunto de datos, ten en cuenta que durante el proceso también debes avanzar con la documentación de los metadatos en la sección [Metadatos](https://ipt.gbif.org/manual/es/ipt/latest/resource-metadata){:target="_blank"} de la plataforma.
 
 <details>
     <summary markdown="span"><b>Ver detalles sobre la documentación de los metadatos</b></summary>
 <br>
-<blockquote>Debes realizar la documentación a través de la URL y credenciales que te compartieron en el correo de apertura, considerando toda la información que da contexto a tus datos. En total hay 12 secciones. Cuando hayas completado los metadatos, responde el correo del asesor del Equipo Coordinador indicando que has finalizado la documentación.</blockquote>
+<blockquote>Debes realizar la documentación a través de la URL y credenciales que te compartieron en el correo de apertura, considerando toda la información que da contexto a tus datos. En total hay 14 secciones. Cuando hayas completado los metadatos, responde el correo del asesor del Equipo Coordinador indicando que has finalizado la documentación.</blockquote>
 
 </details>
 
@@ -155,7 +155,7 @@ ___
 
 El profesional del Equipo Coordinador revisa la documentación de metadatos y te informa si debes realizar ajustes. El proceso de acompañamiento es iterativo, es decir que el conjunto de datos y sus metadatos asociados pueden contar con varias revisiones antes de ser publicado, hasta que cuenten con todos los mínimos de calidad.
 
-Consulta el [vídeo sobre cómo documentar metadatos en el IPT](https://www.youtube.com/watch?v=he-PVecR-Xs){:target="_blank"}
+Consulta el [vídeo sobre cómo documentar metadatos en el IPT](https://www.youtube.com/watch?v=4COyyYUg9sQ){:target="_blank"}
 
 ## 6. Publicación del conjunto de datos
 
