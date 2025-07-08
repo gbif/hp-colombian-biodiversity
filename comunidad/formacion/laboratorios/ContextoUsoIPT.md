@@ -68,7 +68,7 @@ Cada _Darwin Core Archive_ incluye un archivo EML (escrito en formato XML) en su
 
 **Recursos**
 
-* [Video documentación de metadatos en la herramienta de publicación IPT](https://youtu.be/9WkH9hoHc8w){:target="_blank"}{:target="_blank"}{:target="_blank"}
+* [Video documentación de metadatos en la herramienta de publicación IPT](https://www.youtube.com/watch?v=8sFcbZC9A4M){:target="_blank"}{:target="_blank"}{:target="_blank"}
 * [Guía de referencia rápida del IPT](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#gu%C3%ADa-de-referencia-r%C3%A1pida)
 * [Video _Introduction to publishing using the GBIF Integrated Publishing Toolkit (IPT)_](https://youtu.be/eDH9IoTrMVE)
 
