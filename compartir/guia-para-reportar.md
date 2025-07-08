@@ -270,7 +270,7 @@ Este paso permite dar contexto a los datos cargados. Para esto, es importante co
 
 Para documentar los metadatos del reporte, selecciona _Editar_ desde la franja _Metadatos_ y completa la información solicitada en los formularios de los _Metadatos básicos_ y de _Contactos_. 
 
-¿Necesitas ayuda para crear el recurso y cargar los datos? Consulta el [laboratorio de documentación de metadatos](https://biodiversidad.co/formacion/laboratorios/IPT_Metadatos){:target="_blank"} y el [video de documentación de metadatos](https://www.youtube.com/watch?v=4COyyYUg9sQ){:target="_blank"}.
+¿Necesitas ayuda para crear el recurso y cargar los datos? Consulta el [laboratorio de documentación de metadatos](https://biodiversidad.co/formacion/laboratorios/IPT_Metadatos){:target="_blank"} y el [video de documentación de metadatos](https://www.youtube.com/watch?v=8sFcbZC9A4M){:target="_blank"}.
 
 Nota: Las organizaciones que únicamente reportan datos no se encuentran registradas como publicadoras ante GBIF. Por lo tanto, en su proceso de documentación de metadatos, la plataforma arrojará el siguiente mensaje de alerta que puede omitirse: 
 
