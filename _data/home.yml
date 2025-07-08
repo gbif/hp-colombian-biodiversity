@@ -85,8 +85,19 @@ splitGruposdeInteres:
 # Noticias
 noticias:
   features:
+
+    - preTitle: Formación
+      title: "Taller gratuito sobre gestión y publicación de datos abiertos sobre biodiversidad en Valledupar, Cesar" 
+      description: |      # required
+       Inscríbete al taller gratuito sobre gestión y publicación de datos abiertos sobre biodiversidad en Valledupar, Cesar; en el marco del Proyecto “Pactos hacia la restauración socioecológica y la bioeconomía sostenible en el Corredor de Vida del Cesar”.
+      # img required
+      background: assets/images/noticias_eventos/2025/2025-07-08-taller-valledupar-cesar
+      cta:
+      - text: Ver más
+        href: /post/2025/2025-07-08-taller-valledupar-cesar/
+        isPrimary: false
   
-    - preTitle: Pasantías 2025
+    - preTitle: Datos abiertos
       title: "Corales, plantas, patos, peces y más fauna de nuestra biodiversidad entre los destacados de mayo" 
       description: |      # required
        Organizaciones, jardínes botánicos, empresas e institutos de investigación sobresalen este mes con conjuntos de datos y eventos de muestreo.
