@@ -214,7 +214,7 @@ La creación del recurso se hace mediante la herramienta de publicación integra
 
 Las credenciales de acceso, compuestas por el nombre de usuario y la contraseña, se obtienen **registrando al titular del permiso de recolección como proveedor de datos**. Esto se solicita en la sección de [registro](https://biodiversidad.co/compartir/registro){:target="_blank"} de nuestro sitio web.
 
-Este paso **solo hay que hacerlo la primera vez que se van a reportar datos**. Para verificar si un titular del permiso ya es proveedor, se puede consultar este [enlace](https://docs.google.com/spreadsheets/d/e/2PACX-1vTtemvwzoSXYFG10wJBqhhbpGlaUK2m96qYdri8utfCsFJ3C_-R1eJG9LexkawUvJkziu8mJv_qA900/pubhtml?gid=0&single=true){:target="_blank"}.
+Este paso **solo hay que hacerlo la primera vez que se van a reportar datos**. Para verificar si un titular del permiso ya es proveedor, se puede consultar este [enlace](https://docs.google.com/spreadsheets/d/e/2PACX-1vQX9c8PFvSlFhYE3aMQC63gqNH4gjGUg7TfsHBnzJFbZBrR0qtsQdUqmyuz6oPn224jAwjQnpJo2z-L/pubhtml?gid=0&single=true){:target="_blank"}.
 
 En caso de ya ser proveedor y desconocer las credenciales de acceso, comunícate con el contacto consignado en el registro para obtenerlas.
 
@@ -232,14 +232,14 @@ La calidad del conjunto de datos se puede evaluar antes de reportarlo usando la 
 
 Usa las credenciales para ingresar a la herramienta IPT, disponible en el enlace [ipt.biodiversidad.co/permisos](http://ipt.biodiversidad.co/permisos){:target="_blank"}.
 
-Para crear el nuevo recurso, selecciona la opción _Gestión de recursos_ del menú. Allí se debe asignar un nombre corto al recurso (este debe ser todo en minúsculas, sin espacios y, preferiblemente, descriptivo; ya que será asignado a la URL del reporte) y el tipo de conjunto de datos a reportar, para este caso: _Registros biológicos_.
+Para crear el nuevo recurso, selecciona la opción _Gestión de recursos_ del menú y luego da clic en _Crear nuevo_. Allí se debe asignar un nombre corto al recurso (este debe ser todo en minúsculas, sin espacios y, preferiblemente, descriptivo; ya que será asignado a la URL del reporte) y el tipo de conjunto de datos a reportar, para este caso: _Registros biológicos_.
 
-Con esos dos aspectos definidos, solo falta hacer clic en el botón _Crear_.
+Con esos dos aspectos definidos, solo falta hacer clic en el botón _Crear_. Puede consultar un video con el paso a paso en el siguiente [enlace](https://www.youtube.com/watch?v=9f5NIAwE0jI){:target="_blank"}.
 
 
 ## 2. Cargar el conjunto de datos y la extensión de permisos
 
-Una vez creado el recurso, se debe cargar la plantilla DwC, con los datos validados y estandarizados, y la extensión de permisos. Antes de hacer la carga se debe eliminar de la plantilla la traducción en español de los encabezados.
+Una vez creado el recurso, se debe cargar la plantilla DwC, con los datos validados y estandarizados, y la extensión de permisos. Antes de hacer la carga se debe eliminar de la plantilla la traducción en español de los encabezados en la segunda fila.
 
 ### 2.1 Cargar los archivos
 
@@ -247,31 +247,30 @@ Antes de cargar, es indispensable que la primera fila del archivo contenga los *
 
 ¿Necesitas ayuda para transformar el formato de los archivos? Consulta nuestra sección de [preguntas frecuentes](https://biodiversidad.co/compartir/faq/#otras){:target="_blank"}.
 
-La carga de los dos archivos: plantilla con los datos y extensión de permisos, debe hacerse por separado.
+Para cargar los archivos, desde la franja _Conjunto de datos_, elegir la opción _Agregar_ y seleccionar los archivos a cargar, luego hacer clic en el botón _Cargar_. Si el archivo está en formato de Excel (extensión .xlsx), se debe indicar la hoja en la que están documentados los registros biológicos o la extensión, dar clic en _Opciones_, _Analizar_ y finalizar al hacer clic en _Guardar_. Puede consultar un video con el paso a paso en el siguiente [enlace](https://www.youtube.com/watch?v=48biUad7aKk){:target="_blank"}.
 
-Para cargar cada archivo, desde la franja _Conjunto de datos,_ elegir la opción _Archivo_ del desplegable_,_ seleccionar el archivo a cargar y hacer clic en el botón _Agregar_. Se debe ingresar el valor 1 en el campo _Número de filas del encabezado_. Si el archivo está en formato de Excel (extensión .xlsx), se debe indicar la hoja en la que están documentados los registros biológicos o la extensión y hacer clic en _Guardar_.
 
 
 ### 2.2 Mapear los elementos Darwin Core
 
 La carga del conjunto de datos no está completa hasta que se haga el mapeo DwC. Esta verificación está **automatizada en la herramienta, siempre y cuando los encabezados del archivo coincidan con el estándar en inglés**.
 
-Para iniciar esta verificación, desde la franja _Mapeo Darwin Core_ se debe seleccionar de la lista desplegable la opción _Darwin Core Occurrence_ y hacer clic en el botón _Agregar_, validar que se aplicará sobre el archivo que se está cargando y hacer clic en _Guardar_. 
+Para iniciar esta verificación, desde la franja _Mapeo Darwin Core_, de clic en _Agregar_ y debe seleccionar de la lista desplegable la opción _Darwin Core Occurrence_ y hacer clic en el botón _Agregar_, validar que se aplicará sobre el archivo que se está cargando y hacer clic en _Guardar_. 
 
 En caso de que un encabezado presente algún problema, éste se mostrará en la parte inferior de la página, después de las columnas automapeadas. Esto servirá para verificar la correspondencia de las columnas con los elementos del estándar y hacer las correcciones pertinentes.
 
 Para mapear la extensión se deben seguir los mismos pasos pero seleccionando de la lista desplegable la opción _GGBN Permit Extension_.
 
-La verificación que hace el mapeo DwC, en los archivos de la plantilla con los datos y la extensión de permisos, es necesaria para garantizar la correcta carga de toda la información.
+La verificación que hace el mapeo DwC, en los archivos de la plantilla con los datos y la extensión de permisos, es necesaria para garantizar la correcta carga de toda la información. Puede consultar un video con el paso a paso en el siguiente [enlace](https://www.youtube.com/watch?v=C9vZTm7TYk4){:target="_blank"}.
 
 
 ## 3. Documentar los metadatos
 
 Este paso permite dar contexto a los datos cargados. Para esto, es importante conocer las características del proyecto y las condiciones en las que se llevó a cabo la toma de los datos. Preguntas como qué, cómo, cuándo, dónde y quién, ayudan a tener claridad sobre los especímenes recolectados, la metodología de recolección, las coordenadas de georreferenciación y los involucrados.
 
-Para documentar los metadatos del reporte, selecciona _Editar_ desde la franja _Metadatos_ y completa la información solicitada en los formularios de los _Metadatos básicos_, la _Descripción_, los _Contactos del recurso_, los _Creadores del recurso_ y los _Proveedores de los metadatos_. 
+Para documentar los metadatos del reporte, selecciona _Editar_ desde la franja _Metadatos_ y completa la información solicitada en los formularios de los _Metadatos básicos_ y de _Contactos_. 
 
-¿Necesitas ayuda para crear el recurso y cargar los datos? Consulta el [laboratorio de documentación de metadatos](https://biodiversidad.co/formacion/laboratorios/IPT_Metadatos){:target="_blank"}.
+¿Necesitas ayuda para crear el recurso y cargar los datos? Consulta el [laboratorio de documentación de metadatos](https://biodiversidad.co/formacion/laboratorios/IPT_Metadatos){:target="_blank"} y el [video de documentación de metadatos](https://www.youtube.com/watch?v=4COyyYUg9sQ){:target="_blank"}.
 
 Nota: Las organizaciones que únicamente reportan datos no se encuentran registradas como publicadoras ante GBIF. Por lo tanto, en su proceso de documentación de metadatos, la plataforma arrojará el siguiente mensaje de alerta que puede omitirse: 
 
@@ -283,9 +282,9 @@ Para aclarar las diferencias entre los modelos de reporte y de publicación, con
 
 Este paso permite que el recurso quede disponible en la instancia de la herramienta IPT, mediante una URL persistente, para la generación del certificado. Para esto, es necesario que el conjunto de datos aparezca como _Público_ en la franja _Visibilidad_.
 
-Este ajuste se hace desde la sección _Vista general del recurso_. Es necesario que primero se cambie el estado del recurso a _público_ y luego clic en _publicar_; siempre en este orden._ _ 
+Este ajuste se hace desde la sección _Vista general del recurso_. Es necesario que primero se cambie el estado del recurso a _público_ y luego clic en _publicar_; siempre en este orden.
 
-La URL del reporte ya publicado se consulta en la sección _Vista general del recurso en la franja_ _Versiones publicadas / última versión. _Esta URL es indispensable en el siguiente paso.
+La URL del reporte ya publicado se consulta en la sección _Vista general del recurso en la franja_ _Versiones publicadas / última versión_. Esta URL es indispensable en el siguiente paso. Puede consultar un video con el paso a paso en el siguiente [enlace](https://www.youtube.com/watch?v=oOI1zRYrfWQ){:target="_blank"}.
 
 Con este reporte, es posible aumentar el reconocimiento y atribución de la organización, como publicadora de datos del SiB Colombia. Si estás interesado en que esto suceda, escribe a [sib@humboldt.org.co](mailto:sib@humboldt.org.co){:target="_blank"}.
 
@@ -294,7 +293,7 @@ Con este reporte, es posible aumentar el reconocimiento y atribución de la orga
 
 Ingresa a la herramienta CR-SiB con las mismas credenciales de acceso asignadas al IPT. Está disponible en el enlace [http://biodiversidad.co/certificados/publicacion-permisos/](http://biodiversidad.co/certificados/publicacion-permisos/){:target="_blank"}.
 
-Completa la información solicitada en los formularios. Para esto es indispensable contar con la URL o DOI del recurso publicado y toda la información del titular del permiso.
+Completa la información solicitada en los formularios. Para esto es indispensable contar con la URL o DOI del recurso publicado y toda la información del titular del permiso. Puede consultar un video con el paso a paso en el siguiente [enlace](https://www.youtube.com/watch?v=pRwzLTd279I){:target="_blank"}.
 
 Este certificado es el soporte exigido por parte de la autoridad ambiental como evidencia del reporte de los datos a través del SiB Colombia.
 
@@ -325,4 +324,4 @@ _____
 * [Guía de conversión de fechas](https://biodiversidad.co/formacion/laboratorios/ConversionFechas){:target="_blank"}
 
 ---
-Última actualización: 2025-06-03
+Última actualización: 2025-07-08
