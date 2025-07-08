@@ -19,7 +19,7 @@ En los procesos de publicación o reporte de datos a través del SiB Colombia, s
 
 En este laboratorio se explica paso a paso el proceso de carga de datos a partir de un conjunto de datos de prueba. Para sacar el máximo provecho de la guía, se recomienda seguir el procedimiento con un conjunto de datos propio.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BO3WXBthWJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=48biUad7aKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 **Sobre la herramienta**
