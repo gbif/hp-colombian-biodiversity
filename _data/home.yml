@@ -94,7 +94,7 @@ noticias:
       background: assets/images/noticias_eventos/2025/2025-07-08-taller-valledupar-cesar
       cta:
       - text: Ver más
-        href: /post/2025/2025-07-08-taller-valledupar-cesar/
+        href: /post/2025/taller-valledupar-cesar/
         isPrimary: false
   
     - preTitle: Datos abiertos
