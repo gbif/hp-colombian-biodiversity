@@ -20,4 +20,4 @@ En los contenidos del taller, se abordarán las **buenas prácticas para la gest
 
 Si trabajas con datos sobre biodiversidad y estás interesado en aportar al conocimiento de la región, puedes inscribirte en esta enlace:
 
-[Regístrate aquí](https://docs.google.com/forms/d/1nHQjaGev0u5rdPIk_CnXC5qWNsSKt09Ta3z2SZK1uys/edit){:target="_blank" .button .is-primary} • Cupos limitados
+[Inscríbete aquí](https://docs.google.com/forms/d/1nHQjaGev0u5rdPIk_CnXC5qWNsSKt09Ta3z2SZK1uys/edit){:target="_blank" .button .is-primary} • Cupos limitados
