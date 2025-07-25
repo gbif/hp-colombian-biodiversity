@@ -85,7 +85,18 @@ splitGruposdeInteres:
 # Noticias
 noticias:
   features:
-
+  
+    - preTitle: Datos abiertos
+      title: "Fauna y flora orinocense, microorganismos amazónicos, aves, peces e insectos se suman a los destacados de junio" 
+      description: |      # required
+       Reservas Naturales de la Sociedad Civil, empresas, corporaciones autónomas regionales, jardínes botánicos e institutos de investigación contribuyen este mes con conjuntos de datos, listas de chequeo y colecciones de nuestra biodiversidad.
+      # img required
+      background: assets/images/noticias_eventos/2025/2025-07-25-destacados-junio-2025.png
+      cta:
+      - text: Ver más
+        href: /post/2025/reporte-publicacion-junio-2025/
+        isPrimary: false
+        
     - preTitle: Formación
       title: "Taller gratuito sobre gestión y publicación de datos abiertos sobre biodiversidad en Valledupar, Cesar" 
       description: |      # required
@@ -139,28 +150,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2025/reporte-publicacion-febrero-2025/
-        isPrimary: false
-
-    - preTitle: Datos abiertos
-      title: "Aves en ventanas indiscretas, armadillos llaneros y especies acuáticas entre los destacados de enero del 2025" 
-      description: |      # required
-       Una red bogotana con nombre “Hitchconiano” especializada en la colisión de aves, dos corporaciones autónomas y una empresa sobresalieron en el primer mes del año.
-      # img required
-      background: assets/images/noticias_eventos/2025/2025-02-13-destacados-enero-2025.png
-      cta:
-      - text: Ver más
-        href: /post/2025/reporte-publicacion-enero-2025/
-        isPrimary: false
-
-    - preTitle: Datos abiertos
-      title: "Fauna y flora del  Casanare, Cundinamarca, Huila, Santander, Nariño y Tolima se destacaron en diciembre"
-      description: |      # required
-       Siete nuevos socios publicadores de alcaldías, empresas, fundaciones e institutos departamentales sobresalieron en el último mes del 2024 con conjuntos de datos y listas de chequeo de nuestra biodiversidad.
-      # img required
-      background: assets/images/noticias_eventos/2025/2025-01-16-reporte-publicacion-diciembre-2024.png
-      cta:
-      - text: Ver más
-        href: /post/2025/reporte-publicacion-diciembre-2024/
         isPrimary: false
         
 # Splits
