@@ -1,5 +1,5 @@
 ---
-preTitle: 25 de junio, 2025
+preTitle: 25 de julio, 2025
 title: Fauna y flora orinocense, microorganismos amazónicos, aves, peces e insectos entre los destacados de junio
 description: _Reservas Naturales de la Sociedad Civil, empresas, corporaciones autónomas regionales, jardínes botánicos e institutos de investigación contribuyen este mes con conjuntos de datos, listas de chequeo y colecciones de nuestra biodiversidad._
 date: 2025-07-25
