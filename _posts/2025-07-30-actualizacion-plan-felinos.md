@@ -1,7 +1,7 @@
 ---
 preTitle: 19 de junio, 2024
 title: "La lista de mamíferos de Colombia continúa creciendo"
-description: "_Los mastozoólogos colombianos han identificado nuevas especies de mamíferos presentes en el país._"
+description: "_Actores clave de la conservación en Colombia se unen para trabajar por el bienestar de los felinos._"
 date: 2024-06-19
 categories: ["Lista de especies", "Mamíferos", "Colombia", "2024"]
 background: /assets/images/noticias_eventos/2024/2024-06-19-actualizacion-lista-mamiferos.png 
