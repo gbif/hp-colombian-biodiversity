@@ -25,7 +25,7 @@ Los felinos son animales muy carismáticos y su imagen positiva contribuye a ins
 En este escenario, los datos de cámaras trampa son particularmente relevantes: 
 “Las fotos de felinos en vivo, comportándose naturalmente dentro de sus hábitats, pueden ayudar a cambiar la percepción, ya que funcionan como pruebas de que los individuos están presentes en el territorio sin intención de hacer daño. Por lo tanto, las cámaras trampa herramienta, que inicialmente son herramientas usadas específicamente para procesos de investigación, son capaces de impulsar procesos de cambio que ayuden a conservar a los felinos. Además, el trabajo colaborativo en torno a los datos de cámaras trampa contribuye a la creación de redes de trabajo colaborativo que comparten sus datos.”
 
-El papel de la red del SiB Colombia en el seguimiento del plan de conservación
+# El papel de la red del SiB Colombia en el seguimiento del plan de conservación
 
 Uno de los retos que se han identificado para la actualización es conseguir que los registros biológicos que se obtienen a través de la ciencia participativa se publiquen y estén disponibles para su consulta, ya que existen limitaciones logísticas y técnicas importantes que dificultan el proceso de publicación; por ejemplo, la carencia de herramientas tecnológicas de las comunidades que recolectan los datos, los territorios de difícil acceso, la transferencia de capacidades necesaria para la estandarización de los datos, entre otros. En este sentido, Angélica hace énfasis en la importancia de la red del SiB Colombia para sortear los retos mencionados:
 
