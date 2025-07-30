@@ -85,6 +85,17 @@ splitGruposdeInteres:
 # Noticias
 noticias:
   features:
+
+    - preTitle: Conservación
+      title: "La lista de mamíferos de Colombia continúa creciendo" 
+      description: |      # required
+       _Actores clave de la conservación en Colombia se unen para trabajar por el bienestar de los felinos._
+      # img required
+      background: assets/images/noticias_eventos/2025/2025-07-25-destacados-junio-2025.png
+      cta:
+      - text: Ver más
+        href: /post/2025/2025-07-30-actualizacion-plan-felinos/
+        isPrimary: false
   
     - preTitle: Datos abiertos
       title: "Fauna y flora orinocense, microorganismos amazónicos, aves, peces e insectos se suman a los destacados de junio" 
