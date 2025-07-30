@@ -87,14 +87,14 @@ noticias:
   features:
 
     - preTitle: Conservación
-      title: "La lista de mamíferos de Colombia continúa creciendo" 
+      title: "El plan de conservación de felinos se actualiza con un enfoque colectivo" 
       description: |      # required
-       _Actores clave de la conservación en Colombia se unen para trabajar por el bienestar de los felinos._
+       Actores clave de la conservación en Colombia se unen para trabajar por el bienestar de los felinos.
       # img required
       background: assets/images/noticias_eventos/2025/2025-07-25-destacados-junio-2025.png
       cta:
       - text: Ver más
-        href: /post/2025/2025-07-30-actualizacion-plan-felinos/
+        href: /post/2025/actualizacion-plan-felinos/
         isPrimary: false
   
     - preTitle: Datos abiertos
