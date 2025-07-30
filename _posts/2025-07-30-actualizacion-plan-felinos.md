@@ -1,0 +1,32 @@
+---
+preTitle: 19 de junio, 2024
+title: "La lista de mamíferos de Colombia continúa creciendo"
+description: "_Los mastozoólogos colombianos han identificado nuevas especies de mamíferos presentes en el país._"
+date: 2024-06-19
+categories: ["Lista de especies", "Mamíferos", "Colombia", "2024"]
+background: /assets/images/noticias_eventos/2024/2024-06-19-actualizacion-lista-mamiferos.png 
+
+---
+
+El Programa Nacional de Conservación de los Felinos Silvestres en Colombia es un documento clave, con proyección al 2040, para la implementación de acciones de conservación que permitan proteger las especies de felinos que habitan en los ecosistemas de Colombia. Este documento se publicó por primera vez entre 2005 y 2006 con el objetivo, en primera instancia, de recopilar información para establecer un diagnóstico detallado del estado de conservación de la familia Felidae en el país. Por consiguiente, teniendo en cuenta los resultados de la recopilación de datos y los compromisos planteados en el Plan de Acción de Biodiversidad al 2030, se presenta la necesidad de actualizar el plan de conservación de felinos con el fin de alinear las acciones previamente, identificar los nuevos retos que conlleva su implementación y comenzar el trabajo conjunto para poner en práctica las medidas necesarias desde distintos frentes.
+
+# Metodología de la actualización y su importancia en el contexto nacional
+
+Para llevar a cabo la actualización, el Ministerio de Ambiente y Desarrollo Sostenible (MADS) presentó el pasado 20 de junio la ruta que permitirá actualizar el plan de conservación de felinos por medio de un  inició un proceso participativo que convocará durante los próximos meses a representantes de entidades públicas, cooperación internacional, academia, comunidades locales, autoridades ambientales y sector privado en ocho talleres territoriales en Caribe, Magdalena Medio, Pacífico, Andes, Llanos Orientales y Amazonía, con el fin de recoger sus propuestas y opiniones, para su lanzamiento en noviembre de este año (Ministerio de Ambiente y Desarrollo Sostenible, 2025). En este contexto, los datos publicados a través del SiB Colombia sirvieron como base para construir el panorama general de conservación que orienta el planteamiento de las nuevas acciones del plan y su posterior implementación.
+
+En el marco de esta actualización, el equipo coordinador del SiB Colombia conversó con Angélica Diaz Pulido, quien asistió a la presentación de la hoja de ruta y ha participado en los espacios de trabajo conjunto en pro de la conservación de los felinos. Angélica es investigadora del Centro Estudios Socioecológicos y Cambio Global del Instituto Humboldt, cuenta con una amplia experiencia en proyectos de investigación sobre monitoreo de fauna silvestre por medio de cámaras trampa y ha dedicado su carrera al estudio y la conservación de los felinos. En sus palabras:
+
+ “La idea principal de la actualización del plan es tomar el diagnóstico que se ha venido haciendo, desarrollar estrategias que permitan robustecerlo y comenzar a tomar acciones con base en los datos sobre felinos que ya existen; entre ellos, una parte importante son los que se encuentran publicados a través del SiB Colombia. Es importante que el llamado a la acción venga de parte del Ministerio de Ambiente y Desarrollo Sostenible como líderes del Sistema de Información Nacional (SINA) para que sea más fácil superar las diferencias entre instituciones y hacer un verdadero trabajo conjunto con base en la información existente. Esto también permite que nuevos actores, interesados en aportar, se unan para sumar esfuerzos en pro de la conservación de los felinos en Colombia.”
+
+# ¿Qué importancia tienen los datos de cámaras trampa?
+
+Los felinos son animales muy carismáticos y su imagen positiva contribuye a inspirar acciones de conservación a favor de ellos. No obstante, en los lugares donde conviven humanos y felinos, este panorama cambia radicalmente. Como nos cuenta Angélica: “En las zonas de coexistencia puede haber una relación negativa por conflictos de depredación de especies de interés agrícola y ganadera; se crean mitos y leyendas acerca de la presencia de estos animales y cambia la percepción al pensar que los felinos también pueden hacer daño a los humanos”.
+
+En este escenario, los datos de cámaras trampa son particularmente relevantes: 
+“Las fotos de felinos en vivo, comportándose naturalmente dentro de sus hábitats, pueden ayudar a cambiar la percepción, ya que funcionan como pruebas de que los individuos están presentes en el territorio sin intención de hacer daño. Por lo tanto, las cámaras trampa herramienta, que inicialmente son herramientas usadas específicamente para procesos de investigación, son capaces de impulsar procesos de cambio que ayuden a conservar a los felinos. Además, el trabajo colaborativo en torno a los datos de cámaras trampa contribuye a la creación de redes de trabajo colaborativo que comparten sus datos.”
+
+El papel de la red del SiB Colombia en el seguimiento del plan de conservación
+
+Uno de los retos que se han identificado para la actualización es conseguir que los registros biológicos que se obtienen a través de la ciencia participativa se publiquen y estén disponibles para su consulta, ya que existen limitaciones logísticas y técnicas importantes que dificultan el proceso de publicación; por ejemplo, la carencia de herramientas tecnológicas de las comunidades que recolectan los datos, los territorios de difícil acceso, la transferencia de capacidades necesaria para la estandarización de los datos, entre otros. En este sentido, Angélica hace énfasis en la importancia de la red del SiB Colombia para sortear los retos mencionados:
+
+“La red del SiB Colombia es indispensable para actualizar los datos existentes de manera constante y tener un panorama claro del estado de los felinos año a año. Esto es fundamental para los procesos de análisis que se pueden hacer en el marco del plan y para garantizar la claridad de la información que se usa en la toma de decisiones. Por consiguiente, un mecanismo eficiente de corroborar la efectividad de las acciones propuestas es analizando los cambios en el tiempo que se evidencian en los datos disponibles a través del SiB Colombia. Además, la participación activa de la red permite incluir nuevos actores clave que aporten a la construcción de los planes de conservación a partir de una perspectiva de ciencia participativa y datos abiertos”.
