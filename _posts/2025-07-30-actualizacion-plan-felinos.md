@@ -1,9 +1,9 @@
 ---
-preTitle: 19 de junio, 2024
-title: "La lista de mamíferos de Colombia continúa creciendo"
+preTitle: 30 de julio, 2025
+title: "El plan de conservación de felinos se actualiza con un enfoque colectivo"
 description: "_Actores clave de la conservación en Colombia se unen para trabajar por el bienestar de los felinos._"
-date: 2024-06-19
-categories: ["Lista de especies", "Mamíferos", "Colombia", "2024"]
+date: 2025-07-30
+categories: ["Plan de conservación", "Felinos", "Actualización" "Colombia", "2025"]
 background: /assets/images/noticias_eventos/2024/2024-06-19-actualizacion-lista-mamiferos.png 
 
 ---
