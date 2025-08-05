@@ -1,10 +1,10 @@
 ---
 preTitle: 5 de agosto, 2025
 title: "El plan de conservación de felinos se actualiza con un enfoque colectivo"
-description: "_Actores clave de la conservación en Colombia se unen para trabajar por el bienestar de los felinos._"
+description: "_Actores clave de la conservación en Colombia se unen para trabajar por el bienestar de los felinos en el marco de la hoja de ruta para la actualización del Programa Nacional de Conservación de los Felinos Silvestres en Colombia._"
 date: 2025-08-05
 categories: ["Plan de conservación", "Felinos", "Actualización", "Colombia", "2025"]
-background: /assets/images/noticias_eventos/2025/2025-08-05-actualizacion-plan-felinos.jpg
+background: /assets/images/noticias_eventos/2025/2025-08-05-actualizacion-plan-felinos.png
 imageLicense: Resguardo indígena Llanos del Yari - Yaguara II. Publicada en Wildlife Insights. CC BY.
 
 ---
