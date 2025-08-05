@@ -18,7 +18,7 @@ Para llevar a cabo la actualización, el **Ministerio de Ambiente y Desarrollo S
 
 <img src="/assets/images/noticias_eventos/2025/2025-08-05-actualizacion-plan-felinos-2.JPG" width=770>
 
-<sup>*Foto: Resguardo indígena Llanos del Yari - Yaguara II. Publicada en _Wildlife Insight_. CC BY.*</sup>
+<sup>Foto: Resguardo indígena Llanos del Yari - Yaguara II. Publicada en *Wildlife Insight*. CC BY.</sup>
 
 En el marco de esta actualización, el equipo coordinador del SiB Colombia conversó con la investigadora **Angélica Diaz Pulido**, especialista en grandes felinos, quien asistió a la presentación de la hoja de ruta y ha participado en los espacios de trabajo conjunto en pro de la conservación de los felinos. Angélica es investigadora del Centro Estudios Socioecológicos y Cambio Global del Instituto Humboldt, cuenta con una amplia experiencia en proyectos de investigación sobre **monitoreo de fauna silvestre** por medio de cámaras trampa y ha dedicado su carrera al estudio y la conservación de los felinos. En sus palabras:
 
@@ -33,7 +33,7 @@ _“Las fotos de felinos en vida silvestre, comportándose naturalmente dentro d
 
 <img src="/assets/images/noticias_eventos/2025/2025-08-05-actualizacion-plan-felinos-3.JPG" width=770>
 
-<sup>*Foto: Resguardo indígena Llanos del Yari - Yaguara II. Publicada en _Wildlife Insight_. CC BY.*</sup>
+<sup>Foto: Resguardo indígena Llanos del Yari - Yaguara II. Publicada en *Wildlife Insight*. CC BY.</sup>
 
 # El papel de la red del SiB Colombia en el seguimiento del plan de conservación
 
