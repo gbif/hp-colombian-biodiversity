@@ -6,6 +6,7 @@ background: https://p1.pxfuel.com/preview/964/177/82/feathers-wing-macro.jpg
 imageLicense: |
   Vía Pxfuel
 height: 41vh
+permalink: /biodiversidad.co/compartir/registro/
 composition: 
   - type: heroImage
   - type: blank
