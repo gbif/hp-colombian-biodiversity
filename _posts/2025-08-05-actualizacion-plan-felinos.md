@@ -15,7 +15,8 @@ Las huellas de **felinos** como el ocelote, el jaguar o el puma se encuentran en
 
 Para llevar a cabo la actualización, el **Ministerio de Ambiente y Desarrollo Sostenible (MADS)** presentó el pasado 20 de junio la ruta que permitirá actualizar el plan de conservación de felinos. Por medio de un proceso participativo, se convocará durante los próximos meses a representantes de entidades públicas, cooperación internacional, academia, comunidades locales, autoridades ambientales y sector privado en nueve talleres territoriales en Caribe, Magdalena Medio, Pacífico, Andes, Llanos Orientales y Amazonía, con el fin de recoger sus propuestas y opiniones, para su lanzamiento en noviembre de este año (Ministerio de Ambiente y Desarrollo Sostenible, 2025). En este contexto, los datos publicados a través del SiB Colombia proporcionaron la base para construir el panorama general de conservación que orienta el planteamiento de las nuevas acciones del plan y su posterior implementación.
 
-![Foto 1. Resguardo indígena Llanos del Yari - Yaguara II](https://github.com/gbif/hp-colombian-biodiversity/blob/ec5c9f712779f682ab2b2332de6bb41cb66b42a7/assets/images/noticias_eventos/2025/2025-08-05-actualizacion-plan-felinos-2.JPG)
+
+<img src="/assets/images/noticias_eventos/2025/2025-08-05-actualizacion-plan-felinos-2.JPG" width=770>
 
 <sup>*Foto: Resguardo indígena Llanos del Yari - Yaguara II. Publicada en _Wildlife Insight_. CC BY.*</sup>
 
@@ -30,7 +31,7 @@ Los felinos son animales muy **carismáticos** y su imagen positiva contribuye a
 En este escenario, los datos de **cámaras trampa** son particularmente relevantes: 
 _“Las fotos de felinos en vida silvestre, comportándose naturalmente dentro de sus hábitats, pueden ayudar a cambiar la percepción, ya que funcionan como pruebas de que los individuos están presentes en el territorio sin intención de hacer daño. Por lo tanto, las cámaras trampa, que inicialmente son **herramientas** usadas específicamente para procesos de investigación, son capaces de impulsar **procesos de cambio** que ayuden a conservar a los felinos. Además, el trabajo colaborativo en torno a los datos de cámaras trampa contribuye a la creación de redes de trabajo que comparten sus datos.”_
 
-![Foto 2. Resguardo indígena Llanos del Yari - Yaguara II](https://github.com/gbif/hp-colombian-biodiversity/blob/ec5c9f712779f682ab2b2332de6bb41cb66b42a7/assets/images/noticias_eventos/2025/2025-08-05-actualizacion-plan-felinos-3.JPG)
+<img src="/assets/images/noticias_eventos/2025/2025-08-05-actualizacion-plan-felinos-3.JPG" width=770>
 
 <sup>*Foto: Resguardo indígena Llanos del Yari - Yaguara II. Publicada en _Wildlife Insight_. CC BY.*</sup>
 
