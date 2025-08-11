@@ -87,7 +87,9 @@ También puedes crear tu propia plantilla de manera manual usando la documentaci
 
 ## 3. Valida la calidad de los datos estandarizados
 
-Puedes validar la calidad del conjunto de datos antes de publicarlo usando la herramienta *[GBIF Data Validator](https://www.gbif.org/tools/data-validator)*{:target="_blank"}, que te entrega una serie recomendaciones específicas para mejorarlos y limpiarlos. Este reporte te ayudará a identificar datos duplicados, campos incompletos e inconsistencias en el formato.
+Antes de solicitar el acompañamiento (paso 4) se recomienda validar su calidad, enfocándose principalmente en que los elementos obligatorios y sugeridos por el SiB Colombia estén debidamente documentados (Revisa cuáles son en la [plantilla de publicación](https://biodiversidad.co/recursos/plantillas-dwc){:target="_blank"}), asegurate que no hayan identificadores duplicados o inconsistencias en la taxonomía o coordenadas. De igual forma, verifica que los elementos sigan la estructura definida en el estándar Darwin Core respecto a su formato o [vocabulario controlado](https://biodiversidad.co/elementos-darwin-core#vocabularios-controlados){:target="_blank"}.
+
+Esto beneficia el proceso de publicación y disminuye las iteraciones de revisión con la mesa de ayuda.
 
 ## 4. Solicita un acompañamiento para la publicación
 
