@@ -2,8 +2,8 @@
 preTitle: 11 de agosto, 2025
 title: Actualizaciones de la nueva versión del IPT
 description: _Las herramientas de publicación (IPT), desarrolladas por el Sistema Global de Información sobre Biodiversidad (GBIF), fueron actualizadas en la infraestructura del SiB Colombia a una nueva versión con funcionalidades que facilitan la edición de metadatos y la publicación de conjuntos de datos.._
-date: 2025-07-25
-categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
+date: 2025-08-11
+categories: ["Publicación", "Datos abiertos", "IPT", "2025"]
 background: /assets/images/noticias_eventos/2025/2025-08-11-actualizacion-ipt-3.1.png
 
 
