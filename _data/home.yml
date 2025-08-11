@@ -86,6 +86,17 @@ splitGruposdeInteres:
 noticias:
   features:
 
+    - preTitle: Plataforma
+      title: "Actualizaciones de la nueva versión del IPT" 
+      description: |      # required
+       Las herramientas de publicación (IPT), desarrolladas por el Sistema Global de Información sobre Biodiversidad (GBIF), fueron actualizadas en la infraestructura del SiB Colombia a una nueva versión con funcionalidades que facilitan la edición de metadatos y la publicación de conjuntos de datos.
+      # img required
+      background: /assets/images/noticias_eventos/2025/2025-08-11-actualizacion-ipt-3.1.png
+      cta:
+      - text: Ver más
+        href: /post/2025/actualizacion-ipt-3.1/
+        isPrimary: false
+
     - preTitle: Conservación
       title: "El plan de conservación de felinos se actualiza con un enfoque colectivo" 
       description: |      # required
@@ -139,28 +150,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2025/reporte-publicacion-abril-2025/
-        isPrimary: false
-        
-    - preTitle: Datos abiertos
-      title: "Plantas resilientes, aves entre humedales e industrias, microorganismos acuáticos, mamíferos y peces entre los destacados de marzo" 
-      description: |      # required
-       Nuevos publicadores del sector energético, empresas públicas y privadas, secretarías de ambiente, universidades y museos se destacan este mes con conjuntos de datos y colecciones biológicas.
-      # img required
-      background: assets/images/noticias_eventos/2025/2025-04-11-destacados-marzo-2025.png
-      cta:
-      - text: Ver más
-        href: /post/2025/reporte-publicacion-marzo-2025/
-        isPrimary: false
-
-    - preTitle: Datos abiertos
-      title: "Microorganismos costeros, hongos amazónicos y especímenes recolectados entre los destacados de febrero" 
-      description: |      # required
-       Una autoridad marítima, institutos de investigación y universidades sobresalieron en febrero con la actualización de conjuntos de datos y colecciones biológicas.
-      # img required
-      background: assets/images/noticias_eventos/2025/2025-03-17-destacados-febrero-2025.png
-      cta:
-      - text: Ver más
-        href: /post/2025/reporte-publicacion-febrero-2025/
         isPrimary: false
         
 # Splits
