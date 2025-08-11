@@ -94,7 +94,7 @@ noticias:
       background: /assets/images/noticias_eventos/2025/2025-08-11-actualizacion-ipt-3.1.png
       cta:
       - text: Ver más
-        href: /post/2025/actualizacion-ipt-3.1/
+        href: /post/2025/actualizacion-ipt-3-1/
         isPrimary: false
 
     - preTitle: Conservación
