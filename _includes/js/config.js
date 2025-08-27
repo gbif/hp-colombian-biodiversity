@@ -51,6 +51,29 @@ var siteConfig = {
     excludedFilters: ['publishingCountryCode'],
     // availableCatalogues: ['OCCURRENCE', 'DATASET']
   },
+  collection: {
+    availableCatalogues: ['COLLECTION', 'INSTITUTION'],
+    excludedFilters: ['countrySingleGrSciColl','country'],
+    rootFilter: {
+      displayOnNHCPortal: true,
+      country: "CO",
+      active: true
+    }
+  },
+  publisher: {
+    rootFilter: {
+      country: 'CO'
+    },
+    excludedFilters: ['countrySingle'],
+  },
+  institution: {
+    availableCatalogues: ['COLLECTION', 'INSTITUTION'],
+    excludedFilters: ['countrySingleGrSciColl'],
+    rootFilter: {
+      displayOnNHCPortal: true,
+      country: "CO",
+      active: true
+    },
   maps: {
     locale: 'es'
   }
