@@ -91,7 +91,7 @@ noticias:
       description: |      # required
        Universidades, empresas, ONG y el Ministerio de Ambiente y Desarrollo Sostenible aportan este mes con registros biológicos, listas de chequeo y colecciones de nuestra biodiversidad.
       # img required
-      background: assets/images/noticias_eventos/2025/2025-08-29-destacados-junio-2025.png
+      background: assets/images/noticias_eventos/2025/2025-08-29-destacados-julio-2025.png
       cta:
       - text: Ver más
         href: /post/2025/reporte-publicacion-julio-2025/
