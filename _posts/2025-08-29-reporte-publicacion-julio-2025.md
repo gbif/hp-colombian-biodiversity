@@ -1,6 +1,6 @@
 ---
 preTitle: 25 de junio, 2025
-title: Fauna y flora del Caribe, los Llanos orientales y el eje cafetero sobresalen en los destacados de julio
+title: Fauna y flora del Caribe, Orinoquía y el Eje Cafetero sobresalen en los destacados de julio
 description: "_Universidades, empresas, ONG y el Ministerio de Ambiente y Desarrollo Sostenible aportan este mes con registros biológicos, listas de chequeo y colecciones de nuestra biodiversidad._"
 date: 2025-08-25
 categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
