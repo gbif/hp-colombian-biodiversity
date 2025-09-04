@@ -13,9 +13,9 @@ composition:
   data: dataton-amazonia.bannerTop
 - type: split
   data: dataton-amazonia.splitCTA
+- type: pageMarkdown # This will render the markdown in this file
 - type: floatingText
   data: dataton-amazonia.banner
-- type: pageMarkdown # This will render the markdown in this file
 ---
 
 <table>
