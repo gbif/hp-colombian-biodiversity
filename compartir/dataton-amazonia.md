@@ -76,6 +76,8 @@ Además, una parte esencial de la misión de la red del SiB Colombia es promover
    
    <li><strong>Contribuyen al Acuerdo de Escazú</strong>, ratificado en la Ley 2273 de 2022, que busca facilitar el acceso a la información, la participación pública y el acceso a la justicia en asuntos ambientales.></li>
    
+  </ol>
+   
  </blockquote>
 
 </details>
