@@ -17,8 +17,6 @@ composition:
   data: dataton-amazonia.banner
 - type: pageMarkdown # This will render the markdown in this file
 ---
-<iframe width="315" height="560" src="https://www.youtube.com/embed/xIMJX4KS2x4>"title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
 
 La Amazonía colombiana es clave para la conservación de especies como el jaguar (Panthera onca), la palma de moriche o canangucha (Mauritia flexuosa) y miles de especies de las que depende el bienestar de sus habitantes.
     
