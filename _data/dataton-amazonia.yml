@@ -19,7 +19,7 @@ splitCTA:
 banner:
   title: "¡Datos nuevos o antiguos, todos cuentan!"
   description: |      # required
-              Te ayudamos a publicarlos a través del **SiB Colombia, GBIF y OBIS**
+              Te ayudamos a publicarlos a través del **SiB Colombia y GBIF**
   background: /assets/images/minga/fondoSeparadorNarino.png
   overlayColor: "#f3ffd4"
   hasWhiteText: false
