@@ -155,7 +155,7 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
 
 El proceso de acompañamiento para la publicación de los datos consiste en una conversación continua entre el publicador y el equipo de trabajo para asegurar los mejores resultados.
 
-### **El Equipo Coordinador del SiB Colombia se encargará de:**
+### **Apoyo del Coordinador del SiB Colombia:**
 
 *   Guiar y apoyar el mapeo de los datos compartidos al estándar internacional Darwin Core (DwC).
     
@@ -168,7 +168,7 @@ El proceso de acompañamiento para la publicación de los datos consiste en una 
 *   Generar un reporte de calidad a partir del cual el publicador de los datos podrá realizar ajustes adicionales, aceptar o rechazar sugerencias.
     
 
-### **El publicador se encargará de:**
+### **Responsabilidades del publicador:**
 
 *   Documentar la información de contexto sobre sus datos (metadatos).
     
@@ -187,7 +187,9 @@ Los datos publicados pueden ser actualizados posteriormente, en cualquier moment
 
 En el SiB Colombia creemos en la construcción colectiva y participativa del conocimiento. Por eso, **consideramos que el modelo de acceso abierto es el mejor camino para que la sociedad pueda acceder de manera libre y responsable a la información sobre diversidad biológica del país.** Todos los socios y usuarios del SiB Colombia reconocen una serie de [principios orientadores](https://biodiversidad.co/acercade/sib-colombia#principios-orientadores){:target="_blank"} fundamentales para la participación, así como la Política de publicación, acceso y uso de datos, que se encuentra disponible [aquí](https://biodiversidad.co/terminos-y-condiciones/politica-de-publicacion){:target="_blank"}.
 
-## ¡Únete a la Datatón por la Amazonía y sigue fortaleciendo el reconocimiento de tu territorio!
+## ¡Únete a la Datatón por la Amazonía!
+
+Y sigue fortaleciendo el reconocimiento de tu territorio!
 
 [Quiero publicar](https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4){: .button .is-primary}
 
