@@ -1,0 +1,38 @@
+
+splitCTA:
+  reverse: false
+  preTitle:   # optional
+  title: ""
+  description: |      # required
+    Comparte tus datos, te ayudamos a publicarlos a través del SiB Colombia, GBIF y OBIS. 
+    
+    Deja que el mundo se entere de lo importante que es tu trabajo y conozca la riqueza biológica del departamento.
+  # img required
+  background: /assets/images/minga/datosNarino.png
+  overlayColor: "#000033"
+  href: https://forms.gle/m61mpPA7fqxaMg5s9
+  cta:
+  - text: Quiero publicar
+    href: https://forms.gle/m61mpPA7fqxaMg5s9
+    isPrimary: true
+
+bannerMinga:
+  title: "¡Datos nuevos o antiguos, todos cuentan!"
+  description: |      # required
+              Te ayudamos a publicarlos a través del **SiB Colombia, GBIF y OBIS**
+  background: /assets/images/minga/fondoSeparadorNarino.png
+  overlayColor: "#253c34"
+  hasWhiteText: false
+
+bannerTopMinga:
+  title: "¿Tienes datos sobre la diversidad biológica la Amazonía colombiana?"
+  # description: |      # required
+  # background: 
+  overlayColor: "#253c34"
+  hasWhiteText: false
+  
+boxCabezote: 
+  title: ""
+  # description: 
+  background: /assets/images/minga/cabezote.jpg
+  height: 41vh
