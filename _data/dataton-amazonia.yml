@@ -6,7 +6,7 @@ splitCTA:
   description: |      # required
     Comparte tus datos, te ayudamos a publicarlos a través del SiB Colombia, GBIF y OBIS. 
     
-    Deja que el mundo se entere de lo importante que es tu trabajo y conozca la riqueza biológica del departamento.
+    Deja que el mundo se entere de lo importante que es tu trabajo y conozca la biodiversidad de la región.
   # img required
   background: /assets/images/dataton-amazonia/mapa-colores.png
   overlayColor: "#f3ffd4"
