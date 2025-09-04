@@ -17,8 +17,8 @@ composition:
   data: dataton-amazonia.banner
 - type: pageMarkdown # This will render the markdown in this file
 ---
-<div class="video-container"><iframe width="315" height="560" src="https://www.youtube.com/embed/xIMJX4KS2x4>"title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe></div>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/xIMJX4KS2x4>"title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
 
 La Amazonía colombiana es clave para la conservación de especies como el jaguar (Panthera onca), la palma de moriche o canangucha (Mauritia flexuosa) y miles de especies de las que depende el bienestar de sus habitantes.
     
@@ -119,6 +119,8 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
    <td style="width: 33%;">
      Monitoreos
    </td>
+  </tr>
+  <tr>
    <td style="width: 33%;">
      EIA
    </td>
@@ -128,6 +130,8 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
    <td style="width: 33%;">
      Cámaras trampa
    </td>  
+  </tr>
+  <tr>
    <td style="width: 33%;">
      Sensores remotos
    </td>  
