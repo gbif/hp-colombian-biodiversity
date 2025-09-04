@@ -17,6 +17,10 @@ composition:
   data: dataton-amazonia.banner
 - type: pageMarkdown # This will render the markdown in this file
 ---
+La Amazonía colombiana es clave para la conservación de especies como el jaguar (Panthera onca), la palma de moriche o canangucha (Mauritia flexuosa) y miles de especies de las que depende el bienestar de sus habitantes.
+    
+Existe una amplia diversidad de datos biológicos valiosos, como el número de especies endémicas o únicas, las que están bajo alguna categoría amenaza o las que tienen mayores observaciones en un departamento en particular, que pueden ser vitales para la vida en la región y crecer con tu aporte.
+
 ## ¿Cómo está la región Amazónica frente al resto de Colombia?
 
 Tigrillo (_Leopardus wiedii_)
