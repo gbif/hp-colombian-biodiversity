@@ -98,21 +98,6 @@ Además, una parte esencial de la misión de la red del SiB Colombia es promover
     
 ___
 
-## ¿Cómo participar?
-
-<table>
-  <tr>
-   <td style="width: 35%;">
-     <img src="/assets/images/dataton-amazonia/foto-circular-trigrillo-leopardus-wiedii.png" width="" alt="Tigrillo (Leopardus wiedii)" title="Tigrillo (Leopardus wiedii)">
-   </td>
-   <td style="width: 65%;">
-     <p>Para sumarse a esta Datatón por la Amazonía por la biodiversidad basta con <strong>comunicarnos tu interés a través de el formulario de la campaña</strong>.</p>
-     <p>Una vez diligenciado, el Equipo Coordinador del SiB Colombia se pondrá en contacto a la mayor brevedad posible con el fin de organizar un plan de acompañamiento para la publicación de los datos.</p>
-     <a href="https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4" class="button is-primary" target="_blank">Ver formulario</a>
-   </td>
-  </tr>
-</table>
-
 ## ¿Quiénes pueden participar?
 
 **Organizaciones, redes e iniciativas que tengan datos sobre biodiversidad de las áreas geográficas priorizadas**, considerando los siguientes requerimientos:
@@ -171,13 +156,25 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
 
 ## ¿Cuál es el proceso de publicación?
 
-**El Equipo Coordinador del SiB Colombia se encargará de recibir los datos digitalizados** y realizar un proceso de validación y verificación de su estandarización para su publicación. Adicionalmente se entregarán credenciales para la administración de éstos y la documentación de los metadatos en línea que permitan responder las cinco preguntas esenciales: quién, qué, cómo, cuándo y dónde. **Una vez publicados, se encargará de la respectiva divulgación de la publicación** y su importancia para el inventario nacional de la biodiversidad.
+
+<table>
+  <tr>
+   <td style="width: 35%;">
+     <img src="/assets/images/dataton-amazonia/foto-circular-mono-arana-ateles-belzebut.png" width="" alt="Mono araña (Ateles belzebut)" title="Mono araña (Ateles belzebut)">
+   </td>
+   <td style="width: 65%;">
+     <p>**El Equipo Coordinador del SiB Colombia se encargará de recibir los datos digitalizados** y realizar un proceso de validación y verificación de su estandarización para su publicación.</p>
+     <p>Adicionalmente se entregarán credenciales para la administración de éstos y la documentación de los metadatos en línea que permitan responder las cinco preguntas esenciales: quién, qué, cómo, cuándo y dónde.</p>
+     <p>**Una vez publicados, se encargará de la respectiva divulgación de la publicación** y su importancia para el inventario nacional de la biodiversidad.</p>
+   </td>
+  </tr>
+</table>
 
 ### ¿Cuáles son las acciones y el apoyo para publicar?
 
 El proceso de acompañamiento para la publicación de los datos consiste en una conversación continua entre el publicador y el equipo de trabajo para asegurar los mejores resultados.
 
-### **Acciones del SiB Colombia**
+### Acciones del SiB Colombia
 
 - Guiar el mapeo de los datos compartidos al estándar internacional Darwin Core (DwC).
     
@@ -190,7 +187,7 @@ El proceso de acompañamiento para la publicación de los datos consiste en una 
 - Generar un reporte de calidad a partir del cual el publicador de los datos podrá realizar ajustes adicionales, aceptar o rechazar sugerencias.
     
 
-### **Acciones del publicador**
+### Acciones del publicador
 
 - Documentar la información de contexto sobre sus datos (metadatos).
     
@@ -205,6 +202,20 @@ Una vez finalizado el acompañamiento y **con el visto bueno del publicador se p
 ## ¿Cómo son manejados los datos compartidos?
 
 En el SiB Colombia creemos en la construcción colectiva y participativa del conocimiento. Por eso, **consideramos que el modelo de acceso abierto es el mejor camino para que la sociedad pueda acceder de manera libre y responsable a la información sobre diversidad biológica del país.** Todos los socios y usuarios del SiB Colombia reconocen una serie de [principios orientadores](https://biodiversidad.co/acercade/sib-colombia#principios-orientadores){:target="_blank"} fundamentales para la participación, así como la Política de publicación, acceso y uso de datos, que se encuentra disponible [aquí](https://biodiversidad.co/terminos-y-condiciones/politica-de-publicacion){:target="_blank"}.
+
+## ¿Cómo participar?
+
+<table>
+  <tr>
+   <td style="width: 35%;">
+     <img src="/assets/images/dataton-amazonia/foto-circular-trigrillo-leopardus-wiedii.png" width="" alt="Tigrillo (Leopardus wiedii)" title="Tigrillo (Leopardus wiedii)">
+   </td>
+   <td style="width: 65%;">
+     <p>Para sumarse a esta Datatón por la Amazonía por la biodiversidad basta con <strong>comunicarnos tu interés a través del formulario vinculado en el link “Quiero publicar”</strong>.</p>
+     <p>Una vez diligenciado, el Equipo Coordinador del SiB Colombia se pondrá en contacto a la mayor brevedad posible con el fin de organizar un plan de acompañamiento para la publicación de los datos.</p>
+   </td>
+  </tr>
+</table>
 
 ## ¡Únete a la Datatón por la Amazonía!
 
