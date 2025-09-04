@@ -93,13 +93,13 @@ Para sumarse a esta Datatón por la Amazonía por la biodiversidad basta con **c
 
 **Organizaciones, redes e iniciativas que tengan datos sobre biodiversidad de las áreas geográficas priorizadas**, considerando los siguientes requerimientos:
 
-*   Ser una **organización, red o iniciativa**. Las personas naturales que deseen participar, deben buscar el respaldo como publicador a través de sus organizaciones. Si la organización aún no es publicadora de datos, de igual manera, te invitamos a [registrarte en el formulario](https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4){:target="_blank"} y te orientaremos en el proceso.
+> Ser una **organización, red o iniciativa**. Las personas naturales que deseen participar, deben buscar el respaldo como publicador a través de sus organizaciones. Si la organización aún no es publicadora de datos, de igual manera, te invitamos a [registrarte en el formulario](https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4){:target="_blank"} y te orientaremos en el proceso.
     
-*   **Tener digitalizados** **conjuntos de datos** sobre biodiversidad de las áreas priorizadas e idealmente estructurados siguiendo el estándar [Darwin Core](https://biodiversidad.co/elementos-darwin-core){:target="_blank"}.
+> **Tener digitalizados** **conjuntos de datos** sobre biodiversidad de las áreas priorizadas e idealmente estructurados siguiendo el estándar [Darwin Core](https://biodiversidad.co/elementos-darwin-core){:target="_blank"}.
     
-*   **Contar con los derechos, licencias o permisos requeridos** para la publicación y asegurar que ha realizado los esfuerzos necesarios para que estos sean válidos al momento de la recolección, creación y publicación a través del SiB Colombia.
+> **Contar con los derechos, licencias o permisos requeridos** para la publicación y asegurar que ha realizado los esfuerzos necesarios para que estos sean válidos al momento de la recolección, creación y publicación a través del SiB Colombia.
     
-*   **Seleccionar, según el tipo de datos e información, entre unas opciones preestablecidas de licencias y herramientas** _**Creative Commons**_ que aceptan lectura mecánica ([CC0, CC BY, CC BY-NC](https://biodiversidad.co/terminos-y-condiciones/politica-de-publicacion#licencias){:target="_blank"}). La licencia elegida determinará la forma como se comparten los datos y las condiciones que se imponen a los usuarios para que los reutilicen.
+> **Seleccionar, según el tipo de datos e información, entre unas opciones preestablecidas de licencias y herramientas** _**Creative Commons**_ que aceptan lectura mecánica ([CC0, CC BY, CC BY-NC](https://biodiversidad.co/terminos-y-condiciones/politica-de-publicacion#licencias){:target="_blank"}). La licencia elegida determinará la forma como se comparten los datos y las condiciones que se imponen a los usuarios para que los reutilicen.
     
 
 ## ¿Qué datos pueden publicarse?
@@ -155,24 +155,24 @@ El proceso de acompañamiento para la publicación de los datos consiste en una 
 
 ### **Apoyo del Coordinador del SiB Colombia:**
 
-*   Guiar y apoyar el mapeo de los datos compartidos al estándar internacional Darwin Core (DwC).
+> Guiar y apoyar el mapeo de los datos compartidos al estándar internacional Darwin Core (DwC).
     
-*   Realizar una validación y limpieza de los datos compartidos sobre los elementos que generan mayor valor en un conjunto de datos como la taxonomía y geografía.
+> Realizar una validación y limpieza de los datos compartidos sobre los elementos que generan mayor valor en un conjunto de datos como la taxonomía y geografía.
     
-*   Guiar y dar recomendaciones sobre la publicación de datos adicionales como medidas bióticas o abióticas, imágenes, sonidos, información molecular, entre otros.
+> Guiar y dar recomendaciones sobre la publicación de datos adicionales como medidas bióticas o abióticas, imágenes, sonidos, información molecular, entre otros.
     
-*   Guiar y dar recomendaciones para la documentación de los metadatos.
+> Guiar y dar recomendaciones para la documentación de los metadatos.
     
-*   Generar un reporte de calidad a partir del cual el publicador de los datos podrá realizar ajustes adicionales, aceptar o rechazar sugerencias.
+> Generar un reporte de calidad a partir del cual el publicador de los datos podrá realizar ajustes adicionales, aceptar o rechazar sugerencias.
     
 
 ### **Responsabilidades del publicador:**
 
-*   Documentar la información de contexto sobre sus datos (metadatos).
+> Documentar la información de contexto sobre sus datos (metadatos).
     
-*   Responder dudas que surjan sobre los datos.
+> Responder dudas que surjan sobre los datos.
     
-*   Revisar y ajustar los datos de acuerdo al reporte de calidad facilitado.
+> Revisar y ajustar los datos de acuerdo al reporte de calidad facilitado.
     
 
 **¿Te surgieron dudas? No te preocupes, cuéntanos al correo** [**sib@humboldt.org.co**](mailto:sib@humboldt.org.co){:target="_blank"} **y te guiaremos en el proceso.**
