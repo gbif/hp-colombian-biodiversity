@@ -163,24 +163,24 @@ En el SiB Colombia creemos en la construcción colectiva y participativa del con
 <img src="/assets/images/minga/mingaNarino-logo-udenar.png" width="" alt="Universidad de Nariño" title="Universidad de Nariño">
    </td>
    <td style="width: 20%;">
-<img src="/assets/images/minga/mingaNarino-logo-resguardo.png" width="" alt="Resguardo Indígena Pialapí Pueblo Viejo" title="Resguardo Indígena Pialapí Pueblo Viejo">
+<img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ideam.png" width="" alt="IDEAM" title="IDEAM">
    </td>
    <td style="width: 20%;">
-<img src="/assets/images/minga/mingaNarino-logo-reserva.png" width="" alt="Reserva Natural La Planada" title="Reserva Natural La Planada">
+<img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-iavh.png" width="" alt="Instituto Humboldt" title="Instituto Humboldt">
    </td>
    <td style="width: 20%;">
-<img src="/assets/images/minga/mingaNarino-logo-IAvH.png" width="" alt="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt" title="Instituto de Investigación de Recursos Biológicos Alexander von Humboldt">
+<img src="/assets/images/minga/mingaNarino-logo-IAvH.png" width="" alt="Instituto Sinchi" title="Instituto Sinchi">
    </td>  </tr>
   <tr>
-   <td style="text-align: center;"><a href="https://www.narino.gov.co/" target="_blank">Gobernación de Nariño</a>
+   <td style="text-align: center;"><a href=https://www.minambiente.gov.co/fondo-para-la-vida" target="_blank">Fondo para la Vida</a>
    </td>
-   <td style="text-align: center;"><a href="https://www.udenar.edu.co/" target="_blank">Universidad de Nariño</a>
+   <td style="text-align: center;"><a href="https://www.minambiente.gov.co" target="_blank">Ministerio de Ambiente y Desarrollo Sostenible</a>
    </td>
-   <td style="text-align: center;"><a href="http://reservalaplanada.blogspot.com/p/resguardo-pialapi.html" target="_blank">Resguardo Indígena Pialapí Pueblo Viejo</a>
+   <td style="text-align: center;"><a href="https://www.ideam.gov.co" target="_blank">IDEAM</a>
    </td>
-   <td style="text-align: center;"><a href="http://reservalaplanada.blogspot.com" target="_blank">Reserva Natural La Planada</a>
+   <td style="text-align: center;"><a href="https://www.humboldt.org.co/" target="_blank">Instituto Humboldt</a>
    </td>
-   <td style="text-align: center;"><a href="http://www.humboldt.org.co/es/" target="_blank">Instituto Humboldt</a>
+   <td style="text-align: center;"><a href="https://www.sinchi.org.co/" target="_blank">Instituto Sinchi</a>
    </td>
   </tr>
 </table>
