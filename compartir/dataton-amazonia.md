@@ -18,13 +18,35 @@ composition:
 - type: pageMarkdown # This will render the markdown in this file
 ---
 
-La Amazonía colombiana es clave para la conservación de especies como el jaguar (Panthera onca), la palma de moriche o canangucha (Mauritia flexuosa) y miles de especies de las que depende el bienestar de sus habitantes.
-    
-Existe una amplia diversidad de datos biológicos valiosos, como el número de especies endémicas o únicas, las que están bajo alguna categoría amenaza o las que tienen mayores observaciones en un departamento en particular, que pueden ser vitales para la vida en la región y crecer con tu aporte.
+<table>
+  <tr>
+   <td style="width: 35%;">
+     <img src="/assets/images/dataton-amazonia/foto-circular-moriche-mauritia-flexuosa.png" width="" alt="Moriche (Mauritia flexuosa)" title="Moriche (Mauritia flexuosa)">
+   </td>
+   <td style="width: 65%;">
+     La Amazonía colombiana es clave para la conservación de especies como el jaguar (<em>Panthera onca</em>), la palma de moriche o canangucha (<em>Mauritia flexuosa</em>) y miles de especies de las que depende el bienestar de sus habitantes.
+     
+     Existe una amplia diversidad de datos biológicos valiosos, como el número de especies endémicas o únicas, las que están bajo alguna categoría amenaza o las que tienen mayores observaciones en un departamento en particular, que pueden ser vitales para la vida en la región y crecer con tu aporte.
+   </td>
+  </tr>
+</table>
 
 ## ¿Cómo está la región Amazónica frente al resto de Colombia?
 
-Tigrillo (_Leopardus wiedii_)
+<table>
+  <tr>
+   <td style="width: 35%;">
+     <img src="/assets/images/dataton-amazonia/figura-circular-especies-observadas-amazonía-vs-colombia.png" width="" alt="Número de especies observadas en la Amazonía Colombiana vs Colombia" title="Número de especies observadas en la Amazonía Colombiana vs Colombia">
+     <br>
+     <img src="/assets/images/dataton-amazonia/foto-circular-trigrillo-leopardus-wiedii.png" width="" alt="Tigrillo (Leopardus wiedii)" title="Tigrillo (Leopardus wiedii)">
+   </td>
+   <td style="width: 65%;">
+     La Amazonía colombiana es clave para la conservación de especies como el jaguar (*Panthera onca*), la palma de moriche o canangucha (*Mauritia flexuosa*) y miles de especies de las que depende el bienestar de sus habitantes.
+     
+     Existe una amplia diversidad de datos biológicos valiosos, como el número de especies endémicas o únicas, las que están bajo alguna categoría amenaza o las que tienen mayores observaciones en un departamento en particular, que pueden ser vitales para la vida en la región y crecer con tu aporte.
+   </td>
+  </tr>
+</table>
 
 Al iniciar esta campaña, según registros de diciembre de 2024 del SiB Colombia, de las 80 346 especies observadas en Colombia, la Amazonía colombiana aporta 16 991, poco más de la quinta parte. De estas 454 especies son únicas de la región (endémicas).
 
@@ -193,30 +215,35 @@ Y sigue fortaleciendo el reconocimiento de tu territorio!
 <table>
   <tr>
    <td style="width: 20%;">
-<img src="/assets/images/dataton-amazonia/logo-fondo-para-la-vida.jpeg" width="" alt="Fondo para la Vida" title="Fondo para la Vida">
+     <img src="/assets/images/dataton-amazonia/logo-fondo-para-la-vida.jpeg" width="" alt="Fondo para la Vida" title="Fondo para la Vida">
    </td>
    <td style="width: 20%;">
-<img src="/assets/images/dataton-amazonia/logo-mads.jpg" width="" alt="Ministerio de Medio Ambiente y Desarrollo Sostenible" title="Ministerio de Medio Ambiente y Desarrollo Sostenible">
+     <img src="/assets/images/dataton-amazonia/logo-mads.jpg" width="" alt="Ministerio de Medio Ambiente y Desarrollo Sostenible" title="Ministerio de Medio Ambiente y Desarrollo Sostenible">
    </td>
    <td style="width: 20%;">
-<img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ideam.png" width="" alt="IDEAM" title="IDEAM">
+     <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ideam.png" width="" alt="IDEAM" title="IDEAM">
    </td>
    <td style="width: 20%;">
-<img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-iavh.png" width="" alt="Instituto Humboldt" title="Instituto Humboldt">
+     <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-iavh.png" width="" alt="Instituto Humboldt" title="Instituto Humboldt">
    </td>
    <td style="width: 20%;">
-<img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-sinchi.png" width="" alt="Instituto Sinchi" title="Instituto Sinchi">
+     <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-sinchi.png" width="" alt="Instituto Sinchi" title="Instituto Sinchi">
    </td>  </tr>
   <tr>
-   <td style="text-align: center;"><a href="https://www.minambiente.gov.co/fondo-para-la-vida" target="_blank">Fondo para la Vida</a>
+   <td style="text-align: center;">
+     <a href="https://www.minambiente.gov.co/fondo-para-la-vida" target="_blank">Fondo para la Vida</a>
    </td>
-   <td style="text-align: center;"><a href="https://www.minambiente.gov.co" target="_blank">Ministerio de Ambiente y Desarrollo Sostenible</a>
+   <td style="text-align: center;">
+     <a href="https://www.minambiente.gov.co" target="_blank">Ministerio de Ambiente y Desarrollo Sostenible</a>
    </td>
-   <td style="text-align: center;"><a href="https://www.ideam.gov.co" target="_blank">IDEAM</a>
+   <td style="text-align: center;">
+     <a href="https://www.ideam.gov.co" target="_blank">IDEAM</a>
    </td>
-   <td style="text-align: center;"><a href="https://www.humboldt.org.co/" target="_blank">Instituto Humboldt</a>
+   <td style="text-align: center;">
+     <a href="https://www.humboldt.org.co/" target="_blank">Instituto Humboldt</a>
    </td>
-   <td style="text-align: center;"><a href="https://www.sinchi.org.co/" target="_blank">Instituto Sinchi</a>
+   <td style="text-align: center;">
+     <a href="https://www.sinchi.org.co/" target="_blank">Instituto Sinchi</a>
    </td>
   </tr>
 </table>
