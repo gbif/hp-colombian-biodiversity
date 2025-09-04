@@ -41,8 +41,8 @@ IPT Test: [https://ipt.biodiversidad.co/sib-test/](https://ipt.biodiversidad.co/
 
 **Requerimientos** 
 
-Credeniales de ingreso al [IPT _test_](https://ipt.biodiversidad.co/sib-test/):
-- Usuario: <span class="tag is-light"><b>LaboratoriosCFV2021@gmail.com</b></span>.
+Credenciales de ingreso al [IPT _test_](https://ipt.biodiversidad.co/sib-test/):
+- Usuario: <span class="tag is-light"><b>Laboratorios_SiB@gmail.com</b></span>.
 - Contraseña: <span class="tag is-light"><b>FxKVSjOg</b></span>.
 
 
@@ -57,11 +57,17 @@ Esta guía provee un caso de ejemplo para realizar el ejercicio. Sin embargo, se
 
 ## Paso 1 - Ingreso al IPT
 
-Ingrese al  [IPT _test_](https://ipt.biodiversidad.co/sib-test/) con las credenciales que se encuentran en la sección de requerimientos (Fig. 1).
+Ingrese al  [IPT _test_](https://ipt.biodiversidad.co/sib-test/) y de clic en la opción <span class="tag is-warning is-light"><i>Iniciar Sesión</i></span> (Fig. 1).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig1_meta_ingreso.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig1_meta_ingreso.png" width=800>
 
-<sub>_Figura 1. Página principal del IPT e ingreso a la herramienta_.</sub>
+<sub>_Figura 1. Página principal del IPT_.</sub>
+
+En la nueva vista, ingrese las credenciales que se encuentran en la sección de requerimientos y de clic en la opción <span class="tag is-warning is-light"><i>Iniciar Sesión</i></span> (Fig. 2).
+
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig1_meta_ingreso2.png" width=600>
+
+<sub>_Figura 2. Página de inició de sesión.</sub>
 
 ## Paso 2 - Gestión de recursos
 
