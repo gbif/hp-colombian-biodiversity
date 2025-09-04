@@ -49,23 +49,38 @@ Además, una parte esencial de la misión de la red del SiB Colombia es promover
 <br>
 
  <blockquote>
+   
   <ol>
+    
    <li><strong>Incrementan el acceso libre y abierto a los datos sobre diversidad biológica de la Amazonía y del país</strong> y, por esta vía, amplían el acceso a esta información para cualquiera, dentro de las condiciones ofrecidas por los publicadores.</li>
-   <li><strong>Promueven la visibilidad y reconocimiento de las personas y organizaciones</strong> que generan y hacen curaduría de datos o información sobre biodiversidad; **ampliando el reconocimiento ante la comunidad académica** al permitir a los autores el uso de los datos abiertos en nuevos procesos de investigación.</li>
-   <li><strong>Pueden hacer monitoreo del uso de los datos</strong> a través de los servicios **DOI.**</li>
-   <li><strong>Contribuyen al conocimiento global sobre la biodiversidad</strong> y, por tanto, a las soluciones que promueven su cuidado y uso sostenible, al hacer que tus datos sean accesibles a través del SiB Colombia y redes internacionales como [**GBIF**](https://www.gbif.org/){:target="_blank"}.</li>
+   
+   <li><strong>Promueven la visibilidad y reconocimiento de las personas y organizaciones</strong> que generan y hacen curaduría de datos o información sobre biodiversidad; <strong>ampliando el reconocimiento ante la comunidad académica</strong> al permitir a los autores el uso de los datos abiertos en nuevos procesos de investigación.</li>
+   
+   <li><strong>Pueden hacer monitoreo del uso de los datos</strong> a través de los servicios <strong>DOI</strong>.</li>
+   
+   <li><strong>Contribuyen al conocimiento global sobre la biodiversidad</strong> y, por tanto, a las soluciones que promueven su cuidado y uso sostenible, al hacer que tus datos sean accesibles a través del SiB Colombia y redes internacionales como <a href="https://geobon.org/" target="_blank"><strong>GBIF</strong></a>.</li>
+   
    <li><strong>Facilitan nuevas oportunidades de colaboración</strong> entre publicadores y otros investigadores, <strong>a través de la integración de conjuntos de datos en todo el mundo</strong>, entre los propietarios de los datos y otros investigadores o actores.</li>
+   
    <li><strong>Permiten rastrear el uso y las citas de los conjuntos de datos publicados a través de los servicios DOI</strong> y a los que se accede a través del SiB Colombia e infraestructuras similares (GBIF, OBIS).</li>
-   <li><strong>Pueden recibir apoyo técnico en la estandarización y publicación** para garantizar una mejor la calidad de los datos.</li>
+   
+   <li><strong>Pueden recibir apoyo técnico en la estandarización y publicación</strong> para garantizar una mejor la calidad de los datos.</li>
+     
    <li><strong>Impulsan oportunidades con agencias financiadoras</strong> que ahora exigen que los investigadores y organizaciones que reciben sus fondos cuenten con un plan de gestión de datos que incluya su publicación abierta al final de un proyecto, a través de plataformas como el SiB Colombia.</li>
+   
    <li><strong>Contribuyen a las Metas Kunming - Montreal del CDB</strong>, facilitando datos, información y conocimientos para la toma de decisiones (Meta 21) e, indirectamente, apoyando las metas 1 (sobre áreas clave para la biodiversidad, KBA), 2 (restauración de ecosistemas), 3 (monitoreo de áreas protegidas), 4 (recuperación y conservación de especies), 6 (control de especies invasoras) y 15 (regulación de impactos empresariales en la biodiversidad).</li>
+   
    <li><strong>Aportan a la evaluación de los</strong> <a href="https://ods.dnp.gov.co/es/objetivos/vida-submarina" target="_blank"><strong>ODS 15 (Vida de ecosistemas terrestres)</strong></a>.</li>
+   
    <li><strong>Permiten la construcción de modelos y evaluaciones de la biodiversidad a diferentes escalas</strong>, por parte de instancias intergubernamentales como <a href="https://geobon.org/" target="_blank"><strong>GEO-BON</strong></a> e <a href="https://geobon.org/" target="_blank"><strong>IPBES</strong></a>.</li>
+   
    <li><strong>Contribuyen al Acuerdo de Escazú</strong>, ratificado en la Ley 2273 de 2022, que busca facilitar el acceso a la información, la participación pública y el acceso a la justicia en asuntos ambientales.></li>
+   
  </blockquote>
 
 </details>
     
+___
 
 ## ¿Cómo participar?
 
