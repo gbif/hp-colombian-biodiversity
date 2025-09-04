@@ -8,13 +8,13 @@ height: 41vh
 toc: true
 composition:
 - type: heroBox
-  data: dataton_amazonia.box  # property inside yaml file
+  data: dataton-amazonia.box  # property inside yaml file
 - type: floatingText
-  data: dataton_amazonia.bannerTop
+  data: dataton-amazonia.bannerTop
 - type: split
-  data: dataton_amazonia.splitCTA
+  data: dataton-amazonia.splitCTA
 - type: floatingText
-  data: dataton_amazonia.banner
+  data: dataton-amazonia.banner
 - type: pageMarkdown # This will render the markdown in this file
 ---
 ## ¿Cómo está la región Amazónica frente al resto de Colombia?
