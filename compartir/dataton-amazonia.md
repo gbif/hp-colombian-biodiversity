@@ -175,7 +175,7 @@ El proceso de acompañamiento para la publicación de los datos consiste en una 
 > Revisar y ajustar los datos de acuerdo al reporte de calidad facilitado.
     
 
-| ¿Te surgieron dudas? No te preocupes, cuéntanos al correo** [**sib@humboldt.org.co**](mailto:sib@humboldt.org.co){:target="_blank"} **y te guiaremos en el proceso. |
+| ¿Te surgieron dudas? No te preocupes, cuéntanos al correo [**sib@humboldt.org.co**](mailto:sib@humboldt.org.co){:target="_blank"} y te guiaremos en el proceso. |
 
 Una vez finalizado el acompañamiento y **con el visto bueno del publicador se procederá a asociar un identificador único al conjunto de datos (DOI)** y serán publicados de manera simultánea a través del SiB Colombia y GBIF.
 
