@@ -108,25 +108,40 @@ Para sumarse a esta Datatón por la Amazonía por la biodiversidad basta con **c
 
 Compartir a través del SiB Colombia **tantos datos como sea posible es valioso**, todos los datos aportarán al conocimiento de la biodiversidad y servirán para dar respuesta a preguntas fundamentales. **Entre muchas otras, algunas fuentes de datos sobre biodiversidad son**:
 
-Colecciones biológicas
-
-Inventarios
-
-Monitoreos
-
-EIA
-
-Códigos de barra de ADN
-
-Cámaras trampa
-
-Sensores remotos
-
-Ciencia participativa
-
-Agrobiodiversidad
-
-Tesis de grado
+<table>
+  <tr>
+   <td style="width: 33%;">
+     Colecciones biológicas
+   </td>
+   <td style="width: 33%;">
+     Inventarios
+   </td>
+   <td style="width: 33%;">
+     Monitoreos
+   </td>
+   <td style="width: 33%;">
+     EIA
+   </td>
+   <td style="width: 33%;">
+     Códigos de barra de ADN
+   </td>  >
+   <td style="width: 33%;">
+     Cámaras trampa
+   </td>  
+   <td style="width: 33%;">
+     Sensores remotos
+   </td>  
+   <td style="width: 33%;">
+     Ciencia participativa
+   </td>  
+   <td style="width: 33%;">
+     Agrobiodiversidad
+   </td>  
+   <td style="width: 33%;">
+     Tesis de grado
+   </td>  
+  </tr>
+</table>
 
 **Casi todos pueden ser estructurados para su publicación en tres tipos de conjuntos de datos**, con diferentes grados de complejidad: [registros biológicos, eventos de muestreo y listas de chequeo](https://biodiversidad.co/compartir/tipos-de-datos){:target="_blank"}.
 
