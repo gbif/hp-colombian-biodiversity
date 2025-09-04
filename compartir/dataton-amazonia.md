@@ -22,7 +22,6 @@ composition:
   <tr>
    <td style="width: 35%;">
      <img src="/assets/images/dataton-amazonia/foto-circular-moriche-mauritia-flexuosa.png" width="" alt="Moriche (Mauritia flexuosa)" title="Moriche (Mauritia flexuosa)">
-     <p><img src="/assets/images/dataton-amazonia/foto-circular-trigrillo-leopardus-wiedii.png" width="" alt="Tigrillo (Leopardus wiedii)" title="Tigrillo (Leopardus wiedii)"></p>
    </td>
    <td style="width: 65%;">
      <p>La Amazonía colombiana es clave para la conservación de especies como el jaguar (<em>Panthera onca</em>), la palma de moriche o canangucha (<em>Mauritia flexuosa</em>) y miles de especies de las que depende el bienestar de sus habitantes.</p>
@@ -100,9 +99,19 @@ Además, una parte esencial de la misión de la red del SiB Colombia es promover
     
 ___
 
-## ¿Cómo participar?
+## ¿Cómo participar?---
 
-Para sumarse a esta Datatón por la Amazonía por la biodiversidad basta con **comunicarnos tu interés a través de este** [**formulario**](https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4){:target="_blank"}. Una vez diligenciado, el Equipo Coordinador del SiB Colombia se pondrá en contacto a la mayor brevedad posible con el fin de organizar un plan de acompañamiento para la publicación de los datos.
+<table>
+  <tr>
+   <td style="width: 35%;">
+     <img src="/assets/images/dataton-amazonia/foto-circular-trigrillo-leopardus-wiedii.png" width="" alt="Tigrillo (Leopardus wiedii)" title="Tigrillo (Leopardus wiedii)">
+   </td>
+   <td style="width: 65%;">
+     <p>Para sumarse a esta Datatón por la Amazonía por la biodiversidad basta con <strong>comunicarnos tu interés a través de el formulario de la campaña</strong>. Una vez diligenciado, el Equipo Coordinador del SiB Colombia se pondrá en contacto a la mayor brevedad posible con el fin de organizar un plan de acompañamiento para la publicación de los datos.</p>
+     <a href="https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4" class="button is-primary" target="_blank">Ver formulario</a>
+   </td>
+  </tr>
+</table>
 
 ## ¿Quiénes pueden participar?
 
