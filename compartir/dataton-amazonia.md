@@ -45,7 +45,7 @@ composition:
   </tr>
 </table>
 
-Los anteriores, son solo algunos de los datos y cifras que puedes consultar y usar de manera libre por medio del [Portal de datos del SiB Colombia](https://biodiversidad.co/data){:target="_blank"} y de su plataforma [Biodiversidad en Cifras](https://cifras.biodiversidad.co){:target="_blank"} , que hoy cuenta con una nueva actualización a partir de la cual impulsamos esta nueva campaña en el marco del proyecto Fondo para la Vida Amazonía, con el objetivo de captar datos e incentivar a antiguos y nuevos publicadores a contribuir al conocimiento, conservación y bienestar de la región.
+Los anteriores, son solo algunos de los datos y cifras que puedes consultar y usar de manera libre por medio del [Portal de datos](https://biodiversidad.co/data){:target="_blank"} del SiB Colombia y de su plataforma [Biodiversidad en Cifras](https://cifras.biodiversidad.co){:target="_blank"} , que hoy cuenta con una nueva actualización a partir de la cual impulsamos esta nueva campaña en el marco del proyecto Fondo para la Vida Amazonía, con el objetivo de captar datos e incentivar a antiguos y nuevos publicadores a contribuir al conocimiento, conservación y bienestar de la región.
 
 ## ¿Cuáles son los beneficios de publicar a través de esta Datatón por la Amazonía?
 
@@ -169,11 +169,11 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
 
 **Casi todos pueden ser estructurados para su publicación en tres tipos de conjuntos de datos**, con diferentes grados de complejidad: [registros biológicos, eventos de muestreo y listas de chequeo](https://biodiversidad.co/compartir/tipos-de-datos){:target="_blank"}.
 
-## ¿Qué apoyo  existe para facilitar la publicación?
+## ¿Cuál es el proceso de publicación?
 
 **El Equipo Coordinador del SiB Colombia se encargará de recibir los datos digitalizados** y realizar un proceso de validación y verificación de su estandarización para su publicación. Adicionalmente se entregarán credenciales para la administración de éstos y la documentación de los metadatos en línea que permitan responder las cinco preguntas esenciales: quién, qué, cómo, cuándo y dónde. **Una vez publicados, se encargará de la respectiva divulgación de la publicación** y su importancia para el inventario nacional de la biodiversidad.
 
-## ¿Cuál es el proceso de publicación?
+### ¿Cuáles son las acciones y el apoyo para publicar?
 
 El proceso de acompañamiento para la publicación de los datos consiste en una conversación continua entre el publicador y el equipo de trabajo para asegurar los mejores resultados.
 
@@ -200,7 +200,7 @@ El proceso de acompañamiento para la publicación de los datos consiste en una 
 
 Una vez finalizado el acompañamiento y **con el visto bueno del publicador se procederá a asociar un identificador único al conjunto de datos (DOI)** y serán publicados de manera simultánea a través del SiB Colombia y GBIF. **Los datos publicados pueden ser actualizados posteriormente**, en cualquier momento y cuantas veces sea necesario.
 
-| ¿Te surgieron dudas? No te preocupes, cuéntanos al correo [**sib@humboldt.org.co**](mailto:sib@humboldt.org.co){:target="_blank"} y te guiaremos en el proceso. |
+| ¿Te surgieron dudas? No te preocupes, escríbenos a [**sib@humboldt.org.co**](mailto:sib@humboldt.org.co){:target="_blank"} y te guiaremos en el proceso. |
 
 ## ¿Cómo son manejados los datos compartidos?
 
