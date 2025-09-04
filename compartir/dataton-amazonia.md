@@ -110,38 +110,36 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
 
 <table>
   <tr>
-   <td style="width: 33%;">
+   <td style="width: 20%;">
      Colecciones biológicas
    </td>
-   <td style="width: 33%;">
+   <td style="width: 20%;">
      Inventarios
    </td>
-   <td style="width: 33%;">
+   <td style="width: 20%;">
      Monitoreos
    </td>
-  </tr>
-  <tr>
-   <td style="width: 33%;">
+   <td style="width: 20%;">
      EIA
    </td>
-   <td style="width: 33%;">
+   <td style="width: 20%;">
      Códigos de barra de ADN
-   </td>  >
-   <td style="width: 33%;">
-     Cámaras trampa
-   </td>  
+   </td> 
   </tr>
   <tr>
-   <td style="width: 33%;">
+   <td style="width: 20%;">
+     Cámaras trampa
+   </td> 
+   <td style="width: 20%;">
      Sensores remotos
    </td>  
-   <td style="width: 33%;">
+   <td style="width: 20%;">
      Ciencia participativa
    </td>  
-   <td style="width: 33%;">
+   <td style="width: 20%;">
      Agrobiodiversidad
-   </td>  
-   <td style="width: 33%;">
+   </td> 
+   <td style="width: 20%;">
      Tesis de grado
    </td>  
   </tr>
