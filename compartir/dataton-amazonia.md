@@ -179,24 +179,24 @@ El proceso de acompañamiento para la publicación de los datos consiste en una 
 
 ### **Acciones del SiB Colombia**
 
-> Guiar el mapeo de los datos compartidos al estándar internacional Darwin Core (DwC).
+- Guiar el mapeo de los datos compartidos al estándar internacional Darwin Core (DwC).
     
-> Realizar una validación y limpieza de los datos compartidos sobre los elementos que generan mayor valor en un conjunto de datos como la taxonomía y geografía.
+- Realizar una validación y limpieza de los datos compartidos sobre los elementos que generan mayor valor en un conjunto de datos como la taxonomía y geografía.
     
-> Guiar y dar recomendaciones sobre la publicación de datos adicionales como medidas bióticas o abióticas, imágenes, sonidos, información molecular, entre otros.
+- Guiar y dar recomendaciones sobre la publicación de datos adicionales como medidas bióticas o abióticas, imágenes, sonidos, información molecular, entre otros.
     
-> Guiar y dar recomendaciones para la documentación de los metadatos.
+- Guiar y dar recomendaciones para la documentación de los metadatos.
     
-> Generar un reporte de calidad a partir del cual el publicador de los datos podrá realizar ajustes adicionales, aceptar o rechazar sugerencias.
+- Generar un reporte de calidad a partir del cual el publicador de los datos podrá realizar ajustes adicionales, aceptar o rechazar sugerencias.
     
 
 ### **Acciones del publicador**
 
-> Documentar la información de contexto sobre sus datos (metadatos).
+- Documentar la información de contexto sobre sus datos (metadatos).
     
-> Responder dudas que surjan sobre los datos.
+- Responder dudas que surjan sobre los datos.
     
-> Revisar y ajustar los datos de acuerdo al reporte de calidad facilitado.
+- Revisar y ajustar los datos de acuerdo al reporte de calidad facilitado.
 
 Una vez finalizado el acompañamiento y **con el visto bueno del publicador se procederá a asociar un identificador único al conjunto de datos (DOI)** y serán publicados de manera simultánea a través del SiB Colombia y GBIF. **Los datos publicados pueden ser actualizados posteriormente**, en cualquier momento y cuantas veces sea necesario.
 
