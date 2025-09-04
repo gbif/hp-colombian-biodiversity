@@ -155,7 +155,7 @@ El proceso de acompañamiento para la publicación de los datos consiste en una 
 
 ### **Acciones del SiB Colombia**
 
-> Guiar y apoyar el mapeo de los datos compartidos al estándar internacional Darwin Core (DwC).
+> Guiar el mapeo de los datos compartidos al estándar internacional Darwin Core (DwC).
     
 > Realizar una validación y limpieza de los datos compartidos sobre los elementos que generan mayor valor en un conjunto de datos como la taxonomía y geografía.
     
