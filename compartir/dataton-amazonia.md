@@ -22,11 +22,11 @@ composition:
   <tr>
    <td style="width: 35%;">
      <img src="/assets/images/dataton-amazonia/foto-circular-moriche-mauritia-flexuosa.png" width="" alt="Moriche (Mauritia flexuosa)" title="Moriche (Mauritia flexuosa)">
+     <p><img src="/assets/images/dataton-amazonia/foto-circular-trigrillo-leopardus-wiedii.png" width="" alt="Tigrillo (Leopardus wiedii)" title="Tigrillo (Leopardus wiedii)"></p>
    </td>
    <td style="width: 65%;">
-     La Amazonía colombiana es clave para la conservación de especies como el jaguar (<em>Panthera onca</em>), la palma de moriche o canangucha (<em>Mauritia flexuosa</em>) y miles de especies de las que depende el bienestar de sus habitantes.
-     
-     Existe una amplia diversidad de datos biológicos valiosos, como el número de especies endémicas o únicas, las que están bajo alguna categoría amenaza o las que tienen mayores observaciones en un departamento en particular, que pueden ser vitales para la vida en la región y crecer con tu aporte.
+     <p>La Amazonía colombiana es clave para la conservación de especies como el jaguar (<em>Panthera onca</em>), la palma de moriche o canangucha (<em>Mauritia flexuosa</em>) y miles de especies de las que depende el bienestar de sus habitantes.</p>
+     <p>Existe una amplia diversidad de datos biológicos valiosos, como el número de especies endémicas o únicas, las que están bajo alguna categoría amenaza o las que tienen mayores observaciones en un departamento en particular, que pueden ser vitales para la vida en la región y crecer con tu aporte.</p>
    </td>
   </tr>
 </table>
@@ -36,25 +36,18 @@ composition:
 <table>
   <tr>
    <td style="width: 35%;">
-     <img src="/assets/images/dataton-amazonia/figura-circular-especies-observadas-amazonía-vs-colombia.png" width="" alt="Número de especies observadas en la Amazonía Colombiana vs Colombia" title="Número de especies observadas en la Amazonía Colombiana vs Colombia">
-     <br>
-     <img src="/assets/images/dataton-amazonia/foto-circular-trigrillo-leopardus-wiedii.png" width="" alt="Tigrillo (Leopardus wiedii)" title="Tigrillo (Leopardus wiedii)">
+     <p><img src="/assets/images/dataton-amazonia/figura-circular-especies-observadas-amazonía-vs-colombia.png" width="" alt="Número de especies observadas en la Amazonía Colombiana vs Colombia" title="Número de especies observadas en la Amazonía Colombiana vs Colombia"></p>
    </td>
    <td style="width: 65%;">
-     La Amazonía colombiana es clave para la conservación de especies como el jaguar (*Panthera onca*), la palma de moriche o canangucha (*Mauritia flexuosa*) y miles de especies de las que depende el bienestar de sus habitantes.
-     
-     Existe una amplia diversidad de datos biológicos valiosos, como el número de especies endémicas o únicas, las que están bajo alguna categoría amenaza o las que tienen mayores observaciones en un departamento en particular, que pueden ser vitales para la vida en la región y crecer con tu aporte.
+     <p>Al iniciar esta campaña, según registros de diciembre de 2024 del SiB Colombia, de las 80 346 especies observadas en Colombia, la Amazonía colombiana aporta 16 991, poco más de la quinta parte. De estas 454 especies son únicas de la región (endémicas).</p>
+     <p>150 de dichas especies se encuentran en algún grado de amenaza, representando 8,2 % del total de especies amenazadas a nivel nacional.</p>
+     <p>Amazonas, Meta y Vaupés son los departamentos con más datos disponibles, aportando más de la mitad del total de la región (56,6 %).<p>
    </td>
   </tr>
 </table>
 
-Al iniciar esta campaña, según registros de diciembre de 2024 del SiB Colombia, de las 80 346 especies observadas en Colombia, la Amazonía colombiana aporta 16 991, poco más de la quinta parte. De estas 454 especies son únicas de la región (endémicas).
+Los anteriores, son solo algunos de los datos y cifras que puedes consultar y usar de manera libre por medio del [Portal de datos del SiB Colombia](https://biodiversidad.co/data){:target="_blank"} y de su plataforma [Biodiversidad en Cifras](https://cifras.biodiversidad.co){:target="_blank"} , que hoy cuenta con una nueva actualización a partir de la cual impulsamos esta nueva campaña en el marco del proyecto Fondo para la Vida Amazonía, con el objetivo de captar datos e incentivar a antiguos y nuevos publicadores a contribuir al conocimiento, conservación y bienestar de la región.
 
-150 de dichas especies se encuentran en algún grado de amenaza, representando 8,2 % del total de especies amenazadas a nivel nacional.
-
-Amazonas, Meta y Vaupés son los departamentos con más datos disponibles, aportando más de la mitad del total de la región (56,6 %).
-
-Estos son solo algunos de los datos y cifras que puedes consultar y usar de manera libre por medio del [Portal de datos del SiB Colombia](https://biodiversidad.co/data){:target="_blank"} y de su plataforma [Biodiversidad en Cifras](https://cifras.biodiversidad.co){:target="_blank"} , que hoy cuenta con una nueva actualización a partir de la cual impulsamos esta nueva campaña en el marco del proyecto Fondo para la Vida Amazonía, con el objetivo de captar datos e incentivar a antiguos y nuevos publicadores a contribuir al conocimiento, conservación y bienestar de la región.
 
 ## ¿Cuáles son los beneficios de publicar a través de esta Datatón por la Amazonía?
 
@@ -115,13 +108,13 @@ Para sumarse a esta Datatón por la Amazonía por la biodiversidad basta con **c
 
 **Organizaciones, redes e iniciativas que tengan datos sobre biodiversidad de las áreas geográficas priorizadas**, considerando los siguientes requerimientos:
 
-> Ser una **organización, red o iniciativa**. Las personas naturales que deseen participar, deben buscar el respaldo como publicador a través de sus organizaciones. Si la organización aún no es publicadora de datos, de igual manera, te invitamos a [registrarte en el formulario](https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4){:target="_blank"} y te orientaremos en el proceso.
+| Ser una **organización, red o iniciativa**. Las personas naturales que deseen participar, deben buscar el respaldo como publicador a través de sus organizaciones. Si la organización aún no es publicadora de datos, de igual manera, te invitamos a [registrarte en el formulario](https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4){:target="_blank"} y te orientaremos en el proceso. |
     
-> **Tener digitalizados** **conjuntos de datos** sobre biodiversidad de las áreas priorizadas e idealmente estructurados siguiendo el estándar [Darwin Core](https://biodiversidad.co/elementos-darwin-core){:target="_blank"}.
+| **Tener digitalizados** **conjuntos de datos** sobre biodiversidad de las áreas priorizadas e idealmente estructurados siguiendo el estándar [Darwin Core](https://biodiversidad.co/elementos-darwin-core){:target="_blank"}. |
     
-> **Contar con los derechos, licencias o permisos requeridos** para la publicación y asegurar que ha realizado los esfuerzos necesarios para que estos sean válidos al momento de la recolección, creación y publicación a través del SiB Colombia.
+| **Contar con los derechos, licencias o permisos requeridos** para la publicación y asegurar que ha realizado los esfuerzos necesarios para que estos sean válidos al momento de la recolección, creación y publicación a través del SiB Colombia. |
     
-> **Seleccionar, según el tipo de datos e información, entre unas opciones preestablecidas de licencias y herramientas** _**Creative Commons**_ que aceptan lectura mecánica ([CC0, CC BY, CC BY-NC](https://biodiversidad.co/terminos-y-condiciones/politica-de-publicacion#licencias){:target="_blank"}). La licencia elegida determinará la forma como se comparten los datos y las condiciones que se imponen a los usuarios para que los reutilicen.
+| **Seleccionar, según el tipo de datos e información, entre unas opciones preestablecidas de licencias y herramientas** _**Creative Commons**_ que aceptan lectura mecánica ([CC0, CC BY, CC BY-NC](https://biodiversidad.co/terminos-y-condiciones/politica-de-publicacion#licencias){:target="_blank"}). La licencia elegida determinará la forma como se comparten los datos y las condiciones que se imponen a los usuarios para que los reutilicen. |
     
 
 ## ¿Qué datos pueden publicarse?
