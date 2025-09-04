@@ -191,7 +191,7 @@ Y sigue fortaleciendo el reconocimiento de tu territorio!
 
 [Quiero publicar](https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4){: .button .is-primary}
 
-## Apoyan
+**Apoyan**
 
 <table>
   <tr>
