@@ -26,7 +26,18 @@ banner:
 
 bannerTop:
   title: "¿Tienes datos sobre la diversidad biológica la Amazonía colombiana?"
-  # description: |      # required
+  description: |      # required
+    <table>
+      <tr>
+       <td style="width: 35%;">
+         <img src="/assets/images/dataton-amazonia/foto-circular-moriche-mauritia-flexuosa.png" width="" alt="Moriche (Mauritia flexuosa)" title="Moriche (Mauritia flexuosa)">
+       </td>
+       <td style="width: 65%;">
+         <p>La Amazonía colombiana es clave para la conservación de especies como el jaguar (<em>Panthera onca</em>), la palma de moriche o canangucha (<em>Mauritia flexuosa</em>) y miles de especies de las que depende el bienestar de sus habitantes.</p>
+         <p>Existe una amplia diversidad de datos biológicos valiosos, como el número de especies endémicas o únicas, las que están bajo alguna categoría amenaza o las que tienen mayores observaciones en un departamento en particular, que pueden ser vitales para la vida en la región y crecer con tu aporte.</p>
+       </td>
+      </tr>
+    </table>
   # background: 
   overlayColor: "#f3ffd4"
   hasWhiteText: false
