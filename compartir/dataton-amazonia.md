@@ -3,7 +3,7 @@ layout: compose
 permalink: /dataton-amazonia
 title: Datatón por la Amazonía
 description: Esta Datatón por la Amazonía busca incrementar la disponibilidad de datos sobre biodiversidad de la región.
-background: /assets/images/minga/cabezote.jpg
+background: /assets/images/dataton-amazonia/banner-dataton-amazonia.png
 height: 41vh
 toc: true
 composition:
@@ -17,23 +17,19 @@ composition:
   data: minga.bannerMinga
 - type: pageMarkdown # This will render the markdown in this file
 ---
-**¿Cómo está la región Amazónica frente al resto de Colombia?**
----------------------------------------------------------------
+## ¿Cómo está la región Amazónica frente al resto de Colombia?
 
 Tigrillo (_Leopardus wiedii_)
 
 Al iniciar esta campaña, según registros de diciembre de 2024 del SiB Colombia, de las 80 346 especies observadas en Colombia, la Amazonía colombiana aporta 16 991, poco más de la quinta parte. De estas 454 especies son únicas de la región (endémicas).
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 150 de dichas especies se encuentran en algún grado de amenaza, representando 8,2 % del total de especies amenazadas a nivel nacional.
 
 Amazonas, Meta y Vaupés son los departamentos con más datos disponibles, aportando más de la mitad del total de la región (56,6 %).
 
 Estos son solo algunos de los datos y cifras que puedes consultar y usar de manera libre por medio del [Portal de datos del SiB Colombia](https://biodiversidad.co/data) y de su plataforma [Biodiversidad en Cifras](https://cifras.biodiversidad.co) , que hoy cuenta con una nueva actualización a partir de la cual impulsamos esta nueva campaña en el marco del proyecto Fondo para la Vida Amazonía, con el objetivo de captar datos e incentivar a antiguos y nuevos publicadores a contribuir al conocimiento, conservación y bienestar de la región.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**¿Cuáles son los beneficios de publicar a través de esta Datatón por la Amazonía?**
-------------------------------------------------------------------------------------
+## ¿Cuáles son los beneficios de publicar a través de esta Datatón por la Amazonía?
 
 {Fragmento 2 del video} Aunque actualmente en el SiB Colombia contamos con datos para todos los departamentos del país, incluidos los 8 de la región amazónica, **aumentar la representatividad de datos con el aporte de antiguos y nuevos publicadores a través de esta datatón, es una oportunidad para**:
 
@@ -69,13 +65,11 @@ Además, una parte esencial de la misión de la red del SiB Colombia es promover
 12.  **Contribuyen al Acuerdo de Escazú,** ratificado en la Ley 2273 de 2022, que busca facilitar el acceso a la información, la participación pública y el acceso a la justicia en asuntos ambientales.
     
 
-**¿Cómo participar?**
----------------------
+## ¿Cómo participar?
 
 Para sumarse a esta Datatón por la Amazonía por la biodiversidad basta con **comunicarnos tu interés a través de este** [**formulario**](https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4). Una vez diligenciado, el Equipo Coordinador del SiB Colombia se pondrá en contacto a la mayor brevedad posible con el fin de organizar un plan de acompañamiento para la publicación de los datos.
 
-**¿Quiénes pueden participar?**
--------------------------------
+## ¿Quiénes pueden participar?
 
 **Organizaciones, redes e iniciativas que tengan datos sobre biodiversidad de las áreas geográficas priorizadas**, considerando los siguientes requerimientos:
 
@@ -88,8 +82,7 @@ Para sumarse a esta Datatón por la Amazonía por la biodiversidad basta con **c
 *   **Seleccionar, según el tipo de datos e información, entre unas opciones preestablecidas de licencias y herramientas** _**Creative Commons**_ que aceptan lectura mecánica ([CC0, CC BY, CC BY-NC](https://biodiversidad.co/terminos-y-condiciones/politica-de-publicacion#licencias)). La licencia elegida determinará la forma como se comparten los datos y las condiciones que se imponen a los usuarios para que los reutilicen.
     
 
-**¿Qué datos pueden publicarse?**
----------------------------------
+## ¿Qué datos pueden publicarse?
 
 Compartir a través del SiB Colombia **tantos datos como sea posible es valioso**, todos los datos aportarán al conocimiento de la biodiversidad y servirán para dar respuesta a preguntas fundamentales. **Entre muchas otras, algunas fuentes de datos sobre biodiversidad son**:
 
@@ -115,13 +108,11 @@ Tesis de grado
 
 **Casi todos pueden ser estructurados para su publicación en tres tipos de conjuntos de datos**, con diferentes grados de complejidad: [registros biológicos, eventos de muestreo y listas de chequeo](https://biodiversidad.co/compartir/tipos-de-datos).
 
-**¿Qué apoyo  existe para facilitar la publicación?**
------------------------------------------------------
+## ¿Qué apoyo  existe para facilitar la publicación?
 
 **El Equipo Coordinador del SiB Colombia se encargará de recibir los datos digitalizados** y realizar un proceso de validación y verificación de su estandarización para su publicación. Adicionalmente se entregarán credenciales para la administración de éstos y la documentación de los metadatos en línea que permitan responder las cinco preguntas esenciales: quién, qué, cómo, cuándo y dónde. **Una vez publicados, se encargará de la respectiva divulgación de la publicación** y su importancia para el inventario nacional de la biodiversidad.
 
-**¿Cuál es el proceso de publicación?**
----------------------------------------
+## ¿Cuál es el proceso de publicación?
 
 El proceso de acompañamiento para la publicación de los datos consiste en una conversación continua entre el publicador y el equipo de trabajo para asegurar los mejores resultados.
 
@@ -153,17 +144,14 @@ Una vez finalizado el acompañamiento y **con el visto bueno del publicador se p
 
 Los datos publicados pueden ser actualizados posteriormente, en cualquier momento y cuantas veces sea necesario.
 
-**¿Cómo son manejados los datos compartidos?**
-----------------------------------------------
+## ¿Cómo son manejados los datos compartidos?
 
 En el SiB Colombia creemos en la construcción colectiva y participativa del conocimiento. Por eso, **consideramos que el modelo de acceso abierto es el mejor camino para que la sociedad pueda acceder de manera libre y responsable a la información sobre diversidad biológica del país.** Todos los socios y usuarios del SiB Colombia reconocen una serie de [principios orientadores](https://biodiversidad.co/acercade/sib-colombia#principios-orientadores) fundamentales para la participación, así como la Política de publicación, acceso y uso de datos, que se encuentra disponible [aquí](https://biodiversidad.co/terminos-y-condiciones/politica-de-publicacion).
 
-**¡Únete a la Datatón por la Amazonía y sigue fortaleciendo el reconocimiento de tu territorio!**
--------------------------------------------------------------------------------------------------
+# ¡Únete a la Datatón por la Amazonía y sigue fortaleciendo el reconocimiento de tu territorio!
 
 [Quiero publicar](https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4)
 
----
 ## Apoyan
 
 <table>
