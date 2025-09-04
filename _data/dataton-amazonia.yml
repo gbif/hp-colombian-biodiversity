@@ -16,7 +16,7 @@ splitCTA:
     href: https://forms.gle/m61mpPA7fqxaMg5s9
     isPrimary: true
 
-bannerMinga:
+banner:
   title: "¡Datos nuevos o antiguos, todos cuentan!"
   description: |      # required
               Te ayudamos a publicarlos a través del **SiB Colombia, GBIF y OBIS**
@@ -24,14 +24,14 @@ bannerMinga:
   overlayColor: "#253c34"
   hasWhiteText: false
 
-bannerTopMinga:
+bannerTop:
   title: "¿Tienes datos sobre la diversidad biológica la Amazonía colombiana?"
   # description: |      # required
   # background: 
   overlayColor: "#253c34"
   hasWhiteText: false
   
-boxCabezote: 
+box: 
   title: ""
   # description: 
   background: /assets/images/minga/cabezote.jpg
