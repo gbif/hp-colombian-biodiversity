@@ -17,6 +17,9 @@ composition:
   data: dataton-amazonia.banner
 - type: pageMarkdown # This will render the markdown in this file
 ---
+<div class="video-container"><iframe width="315" height="560" src="https://www.youtube.com/embed/xIMJX4KS2x4>"title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe></div>
+
 La Amazonía colombiana es clave para la conservación de especies como el jaguar (Panthera onca), la palma de moriche o canangucha (Mauritia flexuosa) y miles de especies de las que depende el bienestar de sus habitantes.
     
 Existe una amplia diversidad de datos biológicos valiosos, como el número de especies endémicas o únicas, las que están bajo alguna categoría amenaza o las que tienen mayores observaciones en un departamento en particular, que pueden ser vitales para la vida en la región y crecer con tu aporte.
@@ -35,7 +38,7 @@ Estos son solo algunos de los datos y cifras que puedes consultar y usar de mane
 
 ## ¿Cuáles son los beneficios de publicar a través de esta Datatón por la Amazonía?
 
-{Fragmento 2 del video} Aunque actualmente en el SiB Colombia contamos con datos para todos los departamentos del país, incluidos los 8 de la región amazónica, **aumentar la representatividad de datos con el aporte de antiguos y nuevos publicadores a través de esta datatón, es una oportunidad para**:
+Aunque actualmente en el SiB Colombia contamos con datos para todos los departamentos del país, incluidos los 8 de la región amazónica, **aumentar la representatividad de datos con el aporte de antiguos y nuevos publicadores a través de esta datatón, es una oportunidad para**:
 
 > **Aportar al Inventario nacional de la biodiversidad.**
     
