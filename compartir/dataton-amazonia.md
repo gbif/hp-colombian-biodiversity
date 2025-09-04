@@ -153,7 +153,7 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
 
 El proceso de acompañamiento para la publicación de los datos consiste en una conversación continua entre el publicador y el equipo de trabajo para asegurar los mejores resultados.
 
-### **Apoyo del Coordinador del SiB Colombia:**
+### **Acciones del SiB Colombia**
 
 > Guiar y apoyar el mapeo de los datos compartidos al estándar internacional Darwin Core (DwC).
     
@@ -166,7 +166,7 @@ El proceso de acompañamiento para la publicación de los datos consiste en una 
 > Generar un reporte de calidad a partir del cual el publicador de los datos podrá realizar ajustes adicionales, aceptar o rechazar sugerencias.
     
 
-### **Responsabilidades del publicador:**
+### **Acciones del publicador**
 
 > Documentar la información de contexto sobre sus datos (metadatos).
     
