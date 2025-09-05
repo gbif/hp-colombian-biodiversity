@@ -75,7 +75,7 @@ Aunque actualmente en el SiB Colombia contamos con datos para todos los departam
 Además, una parte esencial de la misión de la red del SiB Colombia es promover una cultura en la que todas **las personas conozcan y se beneficien de publicar datos abiertos sobre biodiversidad**. Con ello, quienes participen en esta Datatón perciben una serie de beneficios adicionales.
 
 <details style="background-color:#afea53; padding: 20px;">
-    <summary markdown="span"><B> Descubre los beneficios de publicar datos abiertos sobre biodiversidad</B></summary>
+    <summary markdown="span"><B> Descubre más beneficios de publicar datos abiertos sobre biodiversidad</B></summary>
 
 <br>
 
