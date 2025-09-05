@@ -25,7 +25,7 @@ composition:
    </td>
    <td style="width: 65%;">
      <p>La Amazonía colombiana es clave para la conservación de especies como el jaguar (<em>Panthera onca</em>), la palma de moriche o canangucha (<em>Mauritia flexuosa</em>) y miles de especies de las que depende el bienestar de sus habitantes.</p>
-     <p>Existe una amplia diversidad de datos biológicos, como el número de especies únicas de un lugar (endémicas), las que están bajo amenaza, las que tienen más observaciones en una zona, entre otras, que pueden ser valiosas para la vida en la región y aumentar con tu aporte.</p>
+     <p>Existe una amplia diversidad de datos biológicos, como el número de especies únicas de un lugar (endémicas), las que están bajo amenaza, las que tienen más observaciones en una zona, entre otras, que pueden aumentar con tu aporte y terminar siendo valiosas para diversos procesos de la región.</p>
    </td>
   </tr>
 </table>
