@@ -143,7 +143,8 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
   </tr>
 </table>
 
-**Casi todos pueden ser estructurados para su publicación en tres tipos de conjuntos de datos**:
+Casi todos pueden ser estructurados para su publicación en **tres tipos de conjuntos de datos**:
+
 <table>
   <tr>
    <td style="width: 33%;">
