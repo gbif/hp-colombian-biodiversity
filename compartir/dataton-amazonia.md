@@ -15,6 +15,8 @@ composition:
   data: dataton-amazonia.splitCTA
 - type: floatingText
   data: dataton-amazonia.banner
+- type: markdown
+  data: dataton-amazonia.videoPrincipal
 - type: pageMarkdown # This will render the markdown in this file
 ---
 
