@@ -100,7 +100,7 @@ ___
 
 ## ¿Quiénes pueden participar?
 
-**Organizaciones, redes e iniciativas que tengan datos sobre biodiversidad de las áreas geográficas priorizadas**, considerando los siguientes requerimientos:
+**Organizaciones, redes e iniciativas que tengan datos sobre biodiversidad de la Amazonía colombiana**, considerando los siguientes requerimientos:
 
 1. **Ser una organización, red o iniciativa**. Las personas naturales que deseen participar, deben buscar el respaldo como publicador a través de sus organizaciones. Si la organización aún no es publicadora de datos, de igual manera, te invitamos a [registrarte en el formulario](https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4){:target="_blank"} y te orientaremos en el proceso.
     
@@ -183,7 +183,7 @@ En el SiB Colombia creemos en la construcción colectiva y participativa del con
      <img src="/assets/images/dataton-amazonia/foto-circular-trigrillo-leopardus-wiedii.png" width="" alt="Tigrillo (Leopardus wiedii)" title="Tigrillo (Leopardus wiedii)">
    </td>
    <td style="width: 65%;">
-     <p>Para sumarse a esta Datatón por la Amazonía por la biodiversidad basta con **comunicarnos tu interés a través del formulario: <a href="https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4" target="_blank">Quiero publicar</a>.</p>
+     <p>Para sumarse a esta Datatón por la Amazonía por la biodiversidad basta con comunicarnos tu interés a través del formulario: <a href="https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4" target="_blank">Quiero publicar</a>.</p>
      <p>Una vez diligenciado, el Equipo Coordinador del SiB Colombia se pondrá en contacto a la mayor brevedad posible con el fin de organizar un plan de acompañamiento para la publicación de los datos.</p>
    </td>
   </tr>
