@@ -33,7 +33,7 @@ banner:
   description: |      # required
               Te ayudamos a publicarlos a través del SiB Colombia y GBIF,
               lo que facilitará su acceso libre y uso en la región y fuera de ella.
-  background: /assets/images/dataton-amazonia/mapa-colores.png
+  background: /assets/images/dataton-amazonia/banner-dataton-amazonia.png
   overlayColor: "#253c34"
   hasWhiteText: true
 
