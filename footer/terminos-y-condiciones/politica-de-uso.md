@@ -22,19 +22,18 @@ El SiB Colombia desarrolla su compromiso con el acceso libre y abierto a los dat
 
 | Plataformas | URL Acceso |
 | ------ | ------ |
-| Portal de Datos |	https://biodiversidad.co/data |
-|Listas de Especies |	http://listas.biodiversidad.co/ |
-|Catálogo de la Biodiversidad de Colombia | http://catalogo.biodiversidad.co/ |
+|Página Web  |  https://biodiversidad.co/  |
+|Portal de Datos |	https://biodiversidad.co/data |
+|Catálogo de la Biodiversidad de Colombia | https://catalogo.biodiversidad.co/ |
 |Biodiversidad en Cifras | https://cifras.biodiversidad.co/ |
-|Biodiversidad en Cifras • Santander | https://santander.biodiversidad.co/
-|Biodiversidad en Cifras • Boyacá | https://boyaca.biodiversidad.co/
+|Campus Virtual SiB Colombia | https://aprende.biodiversidad.co/ |
 
 El uso de datos e información publicados a través de las plataformas del SiB Colombia debe ser respetuoso de los derechos asociados a esos datos e información. En ese sentido, se invita a los usuarios a notificar al SiB Colombia sobre la calidad de los datos y otros asuntos relacionados con los datos compartidos a través de la red, utilizando los mecanismos de retroalimentación proporcionados por el Equipo Coordinador del SiB Colombia.
 
 # Condiciones
 Todos los usuarios de los datos, información y servicios disponibles a través de las plataformas del SiB Colombia, están de acuerdo con las condiciones establecidas en esta Política de uso.
 
-Cuando un usuario consulta y descarga cualquiera de estos contenidos contenidos, acepta estar de acuerdo con lo siguiente:
+Cuando un usuario consulta y descarga cualquiera de estos contenidos, acepta estar de acuerdo con lo siguiente:
 
 * El SiB Colombia ofrece un modelo de publicación para datos e información sobre biodiversidad, pero no es el propietario ni el custodio de dichos contenidos y, por lo tanto, no es responsable por el contenido compartido por los publicadores de datos.
 * Es posible que los términos y condiciones de uso, tanto del publicador de datos e información como del SiB Colombia, se modifiquen en cualquier momento. Es recomendable que cada vez que vaya a usarlos consulte la información asociada a los datos o contenido que requiere desde la plataforma (metadatos).
@@ -60,18 +59,15 @@ Cuando un usuario consulta y descarga cualquiera de estos contenidos contenidos,
 * **Datos sensibles**: cualquier dato que el publicador de datos no quiera poner a disposición, por ejemplo, localidades precisas de especies en peligro de extinción de acuerdo a la Resolución 1912 de 2017 del Ministerio de Ambiente y Desarrollo Sostenible.
 * **Canal de participación**: plataforma web que permite a los usuarios explorar, descargar y usar los datos e información publicada a través del SiB Colombia sobre las especies de la biodiversidad del país.
 * **Portal de Datos**: canal de participación que permite a los usuarios explorar, usar y contribuir a la calidad de los datos sobre las especies de la biodiversidad del país.
-* **Colecciones en Línea**: canal de participación que permite a los usuarios explorar, usar y contribuir a la calidad de los datos sobre los especímenes depositados en las colecciones biológicas del país.
-* **Listas de Especies**: canal de participación que permite a los usuarios explorar, usar y contribuir a la calidad de los datos sobre los listados de especies de la biodiversidad del país.
 * **Catálogo de la Biodiversidad de Colombia**: canal de participación que permite a los usuarios descubrir información descriptiva y detallada sobre las especies de Colombia.
 * **CR-SiB**: canal de participación que permite a una entidad o persona titular de un permiso de recolección de especímenes silvestres, cumplir las obligaciones establecidas en los Decretos 1376 y 3016 de 2013, de reportar los datos a través del SiB Colombia.
 * **Biodiversidad en Cifras**: canal de participación que permite a los usuarios explorar, usar y cifras e indicadores del estado del conocimiento la biodiversidad del país a partir de los datos abiertos publicados a través del SiB Colombia.
-* **Biodiversidad en Cifras • Santander**: canal de participación que permite a los usuarios explorar, usar y cifras e indicadores del estado del conocimiento la biodiversidad del departamento de Santander a partir de los datos abiertos publicados a través del SiB Colombia.
-* **Biodiversidad en Cifras • Boyacá**: canal de participación que permite a los usuarios explorar, usar y cifras e indicadores del estado del conocimiento la biodiversidad del departamento de Boyacá  a partir de los datos abiertos publicados a través del SiB Colombia.
+* **Campus Virtual SiB Colombia**: canal de participación que permite a los usuarios fortalecer sus capacidades por medio de cursos enfocados entorno las acciones de publicación, acceso y uso de datos sobre biodiversidad a través del SiB Colombia y GBIF.
 * **SiB Colombia**: Es el Sistema de Información sobre Biodiversidad de Colombia que oficializa la información sobre la diversidad biológica del país, facilita su gestión y brinda acceso libre y abierto a esos datos para la construcción de una sociedad sostenible. En estos términos y condiciones de uso nos referimos en concreto a la forma como esta iniciativa de país se materializa divulgando esos datos e información a través de sus canales de participación.
 * **Equipo Coordinador del SiB Colombia**: grupo de profesionales que velan por la coherencia y viabilidad de los procesos de montaje, puesta en marcha y mantenimiento de las condiciones de infraestructura, contenidos, gobernanza y comunicación del SiB Colombia. Este equipo ejecuta el programa de trabajo y mantiene los servicios del SiB Colombia, incluidos componentes de software y actualizaciones, interfaces, servicios de indexación y registro, servicio de apoyo y capacitación.
 * **Propietario de los datos**: la entidad legal que posee el derecho resultante del acto de crear un registro digital. El registro puede ser un producto derivado de otro producto, posiblemente no digital, que puede afectar el derecho.
 * **Publicación de datos**: El proceso y los acuerdos para hacer que los datos estén disponibles de forma libre y universal en Internet.
-* **GBIF**: Infraestructura Mundial de Información en Biodiversidad, es una organización internacional y una red de investigación financiada por gobiernos de todo el mundo, destinada a proporcionar a cualquier persona, en cualquier lugar, acceso abierto y gratuito a datos sobre cualquier tipo de forma de vida que hay en la Tierra.
+* **GBIF**: Sistema Global de Información sobre Biodiversidad, es una organización internacional y una red de investigación financiada por gobiernos de todo el mundo, destinada a proporcionar a cualquier persona, en cualquier lugar, acceso abierto y gratuito a datos sobre cualquier tipo de forma de vida que hay en la Tierra.
 * **OBIS**: Sistema de Información Biogeográfica de los Océanos, es el centro mundial de intercambio de datos e información sobre la biodiversidad marina para la ciencia, la conservación y el desarrollo sostenible.
 
 # Cómo citar datos e información
