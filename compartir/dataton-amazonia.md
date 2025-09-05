@@ -143,13 +143,13 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
 
 ## ¿Cuál es el proceso de publicación?
 
-Después de enviar los datos en nombre de una organización afiliada o que se afilie como socio publicador, **el Equipo Coordinador del SiB Colombia se encargará de recibir los datos digitalizados** y realizar un proceso de validación y verificación de su estandarización para su publicación.
+> Después de enviar los datos en nombre de una organización afiliada o que se afilie como socio publicador, **el Equipo Coordinador del SiB Colombia se encargará de recibir los datos digitalizados** y realizar un proceso de validación y verificación de su estandarización para su publicación.
 
-Adicionalmente se entregarán **credenciales para la administración de éstos y la documentación de los metadatos en línea** que permitan responder las **cinco preguntas esenciales: quién, qué, cómo, cuándo y dónde**.
+> Adicionalmente se entregarán **credenciales para la administración de éstos y la documentación de los metadatos en línea** que permitan responder las **cinco preguntas esenciales: quién, qué, cómo, cuándo y dónde**.
 
-**Una vez publicados, se encargará de la respectiva divulgación de la publicación** y su importancia para el inventario nacional de la biodiversidad.
+> **Una vez publicados, se encargará de la respectiva divulgación de la publicación** y su importancia para el inventario nacional de la biodiversidad.
 
-El proceso considera un **acompañamiento** que da la posibilidad de tener una conversación entre el publicador y el equipo de trabajo del SiB Colombia para asegurar los mejores resultados.
+>  El proceso considera un **acompañamiento** que da la posibilidad de tener una conversación entre el publicador y el equipo de trabajo del SiB Colombia para asegurar los mejores resultados.
 
 
 ### Acciones del SiB Colombia
@@ -169,7 +169,7 @@ El proceso considera un **acompañamiento** que da la posibilidad de tener una c
 
 Una vez finalizado el acompañamiento y **con el visto bueno del publicador se procederá a asociar un identificador único al conjunto de datos (DOI)** y serán publicados de manera simultánea a través del SiB Colombia y GBIF.  **Los datos publicados pueden ser actualizados posteriormente**, en cualquier momento y cuantas veces sea necesario.
 
-| ¿Te surgieron dudas? No te preocupes, escríbenos a través del formulario [**Quiero publicar**]([mailto:sib@humboldt.org.co](https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4)){:target="_blank"} y te guiaremos en el proceso. |
+| ¿Te surgieron dudas? Escríbenos a través del formulario [**Quiero publicar**]([mailto:sib@humboldt.org.co](https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4)){:target="_blank"} y te guiaremos en el proceso. |
 
 ## ¿Cómo son manejados los datos compartidos?
 
