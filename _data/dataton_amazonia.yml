@@ -1,11 +1,10 @@
-box: 
-  background: /assets/images/dataton-amazonia/banner-dataton-amazonia-principal.png
-  height: 41vh
-  
+
 splitCTA:
   reverse: false
+  preTitle:   # optional
   title: "¿Tienes datos sobre la biodiversidad de algún lugar de la Amazonía colombiana?"
-  description: "¡Llegó la hora de compartirlos, dar a conocer tu trabajo y la naturaleza de la región!"
+  description: |      # required
+    ¡Llegó la hora de compartirlos, dar a conocer tu trabajo y la naturaleza de la región!
   background: /assets/images/dataton-amazonia/mapa-colores.png
   overlayColor: "#f3ffd4"
   href: https://forms.gle/m61mpPA7fqxaMg5s9
@@ -24,13 +23,17 @@ bannerCTA:
 videoPrincipal:
   overlayColor: "#f3ffd4"
   markdownContent: |
-    <p align="center">
-      <iframe width="100%" height="400" src="https://www.youtube.com/embed/xIMJX4KS2x4" 
-      title="YouTube video player" frameborder="0" 
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen></iframe>
-    </p>
+    <p align="center"><iframe width="100%" height="400" src="https://www.youtube.com/embed/xIMJX4KS2x4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 bannerLogo:
+  title: ""
+  # description: 
   background: /assets/images/dataton-amazonia/banner-dataton-amazonia-principal.png
   hasWhiteText: true
+  
+box:
+  title: ""
+  # description: 
+  background: /assets/images/dataton-amazonia/banner-dataton-amazonia-principal.png
+  height: 41vh
+  
