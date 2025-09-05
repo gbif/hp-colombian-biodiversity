@@ -128,6 +128,30 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
 </table>
 
 **Casi todos pueden ser estructurados para su publicación en tres tipos de conjuntos de datos**, con diferentes grados de complejidad: [registros biológicos, eventos de muestreo y listas de chequeo](https://biodiversidad.co/compartir/tipos-de-datos){:target="_blank"}.
+<table>
+  <tr>
+   <td style="width: 33%;">
+     <img src="/assets/images/landing_page/iconos_cifras/ico_regBiologicos_gris.png" class="feature-overlay" width="60" alt="Registros biológicos">
+   </td>
+   <td style="width: 33%;">
+     <img src="/assets/images/landing_page/iconos_cifras/ico_conjuntoDatos_gris.png" class="feature-overlay" width="60" alt="Conjuntos de datos">
+   </td>
+   <td style="width: 33%;">
+     <img src="/assets/images/landing_page/iconos_cifras/ico_listaEspecies_gris.png" class="feature-overlay" width="60" alt="Listas de chequeo">
+   </td>
+  </tr>
+  <tr>
+   <td style="text-align: center;">
+     <a href="/compartir/tipos-de-datos#registros-biológicos" target="_blank">Registros biológicos</a>
+   </td>
+   <td style="text-align: center;">
+     <a href="/compartir/tipos-de-datos#eventos-de-muestreo" target="_blank">Eventos de muestreo</a>
+   </td>
+   <td style="text-align: center;">
+     <a href="/compartir/tipos-de-datos#listas-de-especies" target="_blank">Listas de chequeo</a>
+   </td>
+  </tr>
+</table>
 
 
 ## ¿Quiénes pueden participar?
