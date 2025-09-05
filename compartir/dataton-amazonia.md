@@ -45,7 +45,7 @@ composition:
   </tr>
 </table>
 
-Los anteriores, son solo algunos de los datos y cifras que puedes consultar y usar de manera libre por medio del [Portal de datos](https://biodiversidad.co/data){:target="_blank"} del SiB Colombia y de su plataforma [Biodiversidad en Cifras](https://cifras.biodiversidad.co){:target="_blank"} , que hoy cuenta con una nueva actualización a partir de la cual impulsamos esta nueva campaña en el marco del proyecto Fondo para la Vida Amazonía, con el objetivo de captar datos e incentivar a antiguos y nuevos publicadores a contribuir al conocimiento, conservación y bienestar de la región.
+Los anteriores, son solo algunas **cifras que puedes consultar y usar de manera libre de la plataforma del SiB Colombia, [Biodiversidad en Cifras](https://cifras.biodiversidad.co/)**, que desde septiembre de 2025 publicó una **nueva actualización** a partir de la cual impulsamos esta Datatón por la Amazonía en el marco del **proyecto Fondo para la Vida Amazonía**, con el objetivo de **captar datos e incentivar a antiguos y nuevos publicadores a contribuir al conocimiento, conservación y bienestar de la región**.
 
 ## ¿Cuáles son los beneficios de publicar a través de esta Datatón por la Amazonía?
 
