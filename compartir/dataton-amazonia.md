@@ -117,38 +117,25 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
 
 <table>
   <tr>
-   <td style="width: 20%;">
-     Colecciones biológicas
-   </td>
-   <td style="width: 20%;">
-     Inventarios
-   </td>
-   <td style="width: 20%;">
-     Monitoreos
-   </td>
-   <td style="width: 20%;">
-     EIA
-   </td>
-   <td style="width: 20%;">
-     Códigos de barra de ADN
-   </td> 
+   <td rowspan="5"><img src="/assets/images/dataton-amazonia/foto-circular-mono-arana-ateles-belzebut.png" width="" alt="Mono araña (Ateles belzebut)" title="Mono araña (Ateles belzebut)"></td>
+   <td>Colecciones biológicas</td>
+   <td>Inventarios</td>
   </tr>
   <tr>
-   <td style="width: 20%;">
-     Cámaras trampa
-   </td> 
-   <td style="width: 20%;">
-     Sensores remotos
-   </td>  
-   <td style="width: 20%;">
-     Ciencia participativa
-   </td>  
-   <td style="width: 20%;">
-     Agrobiodiversidad
-   </td> 
-   <td style="width: 20%;">
-     Tesis de grado
-   </td>  
+   <td>Monitoreos</td>
+   <td>EIA</td>
+  </tr>
+  <tr>
+   <td>Códigos de barra de ADN</td> 
+   <td>Cámaras trampa</td> 
+  </tr>
+  <tr>
+   <td>Sensores remotos</td>  
+   <td>Ciencia participativa</td>
+  </tr>
+  <tr>  
+   <td>Agrobiodiversidad</td> 
+   <td>Tesis de grado</td>  
   </tr>
 </table>
 
@@ -156,19 +143,9 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
 
 ## ¿Cuál es el proceso de publicación?
 
-
-<table>
-  <tr>
-   <td style="width: 35%;">
-     <img src="/assets/images/dataton-amazonia/foto-circular-mono-arana-ateles-belzebut.png" width="" alt="Mono araña (Ateles belzebut)" title="Mono araña (Ateles belzebut)">
-   </td>
-   <td style="width: 65%;">
-     <p>**El Equipo Coordinador del SiB Colombia se encargará de recibir los datos digitalizados** y realizar un proceso de validación y verificación de su estandarización para su publicación.</p>
-     <p>Adicionalmente se entregarán credenciales para la administración de éstos y la documentación de los metadatos en línea que permitan responder las cinco preguntas esenciales: quién, qué, cómo, cuándo y dónde.</p>
-     <p>**Una vez publicados, se encargará de la respectiva divulgación de la publicación** y su importancia para el inventario nacional de la biodiversidad.</p>
-   </td>
-  </tr>
-</table>
+**El Equipo Coordinador del SiB Colombia se encargará de recibir los datos digitalizados** y realizar un proceso de validación y verificación de su estandarización para su publicación.
+Adicionalmente se entregarán credenciales para la administración de éstos y la documentación de los metadatos en línea que permitan responder las cinco preguntas esenciales: quién, qué, cómo, cuándo y dónde.
+**Una vez publicados, se encargará de la respectiva divulgación de la publicación** y su importancia para el inventario nacional de la biodiversidad.
 
 ### ¿Cuáles son las acciones y el apoyo para publicar?
 
