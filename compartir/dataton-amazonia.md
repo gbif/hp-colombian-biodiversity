@@ -144,35 +144,30 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
 ## ¿Cuál es el proceso de publicación?
 
 **El Equipo Coordinador del SiB Colombia se encargará de recibir los datos digitalizados** y realizar un proceso de validación y verificación de su estandarización para su publicación.
-Adicionalmente se entregarán credenciales para la administración de éstos y la documentación de los metadatos en línea que permitan responder las cinco preguntas esenciales: quién, qué, cómo, cuándo y dónde.
+
+Adicionalmente se entregarán **credenciales para la administración de éstos y la documentación de los metadatos en línea** que permitan responder las **cinco preguntas esenciales: quién, qué, cómo, cuándo y dónde**.
+
 **Una vez publicados, se encargará de la respectiva divulgación de la publicación** y su importancia para el inventario nacional de la biodiversidad.
 
-### ¿Cuáles son las acciones y el apoyo para publicar?
+El proceso considera un **acompañamiento** que da la posibilidad de tener una conversación entre el publicador y el equipo de trabajo del SiB Colombia para asegurar los mejores resultados.
 
-El proceso de acompañamiento para la publicación de los datos consiste en una conversación continua entre el publicador y el equipo de trabajo para asegurar los mejores resultados.
 
 ### Acciones del SiB Colombia
 
-- Guiar el mapeo de los datos compartidos al estándar internacional Darwin Core (DwC).
-    
-- Realizar una validación y limpieza de los datos compartidos sobre los elementos que generan mayor valor en un conjunto de datos como la taxonomía y geografía.
-    
-- Guiar y dar recomendaciones sobre la publicación de datos adicionales como medidas bióticas o abióticas, imágenes, sonidos, información molecular, entre otros.
-    
-- Guiar y dar recomendaciones para la documentación de los metadatos.
-    
-- Generar un reporte de calidad a partir del cual el publicador de los datos podrá realizar ajustes adicionales, aceptar o rechazar sugerencias.
-    
+* **Guiar el mapeo de los datos** compartidos al estándar internacional **[Darwin Core (DwC)](https://biodiversidad.co/estandar-darwin-core){:target="_blank"}**.
+* **Realizar una validación y limpieza de los datos** compartidos sobre los elementos que generan mayor valor en un conjunto de datos como la taxonomía y geografía.
+* **Guiar y dar recomendaciones sobre la publicación de datos** adicionales como medidas bióticas o abióticas, imágenes, sonidos, información molecular, entre otros.
+* **Guiar y dar recomendaciones para la documentación de los metadatos**.
+* **Generar un reporte de calidad** a partir del cual el publicador de los datos podrá realizar ajustes adicionales, aceptar o rechazar sugerencias.
+
 
 ### Acciones del publicador
 
-- Documentar la información de contexto sobre sus datos (metadatos).
-    
-- Responder dudas que surjan sobre los datos.
-    
-- Revisar y ajustar los datos de acuerdo al reporte de calidad facilitado.
+* **Documentar la información** de contexto sobre sus datos (metadatos).
+* **Responder dudas que surjan sobre los datos.**
+* **Revisar y ajustar los datos de acuerdo al reporte de calidad facilitado.**
 
-Una vez finalizado el acompañamiento y **con el visto bueno del publicador se procederá a asociar un identificador único al conjunto de datos (DOI)** y serán publicados de manera simultánea a través del SiB Colombia y GBIF. **Los datos publicados pueden ser actualizados posteriormente**, en cualquier momento y cuantas veces sea necesario.
+Una vez finalizado el acompañamiento y **con el visto bueno del publicador se procederá a asociar un identificador único al conjunto de datos (DOI)** y serán publicados de manera simultánea a través del SiB Colombia y GBIF.  **Los datos publicados pueden ser actualizados posteriormente**, en cualquier momento y cuantas veces sea necesario.
 
 | ¿Te surgieron dudas? No te preocupes, escríbenos a [**sib@humboldt.org.co**](mailto:sib@humboldt.org.co){:target="_blank"} y te guiaremos en el proceso. |
 
