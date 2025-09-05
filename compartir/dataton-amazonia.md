@@ -102,7 +102,7 @@ ___
 
 **Organizaciones, redes e iniciativas que tengan datos sobre biodiversidad de las áreas geográficas priorizadas**, considerando los siguientes requerimientos:
 
-1. Ser una **organización, red o iniciativa**. Las personas naturales que deseen participar, deben buscar el respaldo como publicador a través de sus organizaciones. Si la organización aún no es publicadora de datos, de igual manera, te invitamos a [registrarte en el formulario](https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4){:target="_blank"} y te orientaremos en el proceso.
+1. **Ser una organización, red o iniciativa**. Las personas naturales que deseen participar, deben buscar el respaldo como publicador a través de sus organizaciones. Si la organización aún no es publicadora de datos, de igual manera, te invitamos a [registrarte en el formulario](https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4){:target="_blank"} y te orientaremos en el proceso.
     
 2. **Tener digitalizados** **conjuntos de datos** sobre biodiversidad de las áreas priorizadas e idealmente estructurados siguiendo el estándar [Darwin Core](https://biodiversidad.co/elementos-darwin-core){:target="_blank"}.
     
