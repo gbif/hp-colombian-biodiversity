@@ -148,13 +148,13 @@ Casi todos pueden ser estructurados para su publicación en **tres tipos de conj
 <table>
   <tr>
    <td style="width: 33%;">
-     <img src="https://biodiversidad.co/assets/images/landing_page/iconos_cifras/ico_regBiologicos_gris.png" class="feature-overlay" width="60" alt="Registros biológicos">
+     <img src="https://biodiversidad.co/assets/images/landing_page/iconos_cifras/ico_regBiologicos_gris.png" width="60" alt="Registros biológicos">
    </td>
    <td style="width: 33%;">
-     <img src="https://biodiversidad.co/assets/images/landing_page/iconos_cifras/ico_conjuntoDatos_gris.png" class="feature-overlay" width="60" alt="Conjuntos de datos">
+     <img src="https://biodiversidad.co/assets/images/landing_page/iconos_cifras/ico_conjuntoDatos_gris.png" width="60" alt="Conjuntos de datos">
    </td>
    <td style="width: 33%;">
-     <img src="https://biodiversidad.co/assets/images/landing_page/iconos_cifras/ico_listaEspecies_gris.png" class="feature-overlay" width="60" alt="Listas de chequeo">
+     <img src="https://biodiversidad.co/assets/images/landing_page/iconos_cifras/ico_listaEspecies_gris.png" width="60" alt="Listas de chequeo">
    </td>
   </tr>
   <tr style="text-align: center;">
