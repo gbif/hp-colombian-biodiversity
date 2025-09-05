@@ -1,4 +1,17 @@
 
+box: 
+  title: ""
+  # description: 
+  background: /assets/images/dataton-amazonia/banner-dataton-amazonia.png
+  height: 41vh
+  
+bannerTop:
+  title: "¿Tienes datos sobre biodiversidad de la Amazonía colombiana?"
+  # description: |      # required
+  # background: 
+  overlayColor: "#f3ffd4"
+  hasWhiteText: false
+  
 splitCTA:
   reverse: false
   preTitle:   # optional
@@ -24,19 +37,6 @@ banner:
   background: /assets/images/dataton-amazonia/mapa-colores.png
   overlayColor: "#253c34"
   hasWhiteText: true
-
-bannerTop:
-  title: "¿Tienes datos sobre biodiversidad de la Amazonía colombiana?"
-  # description: |      # required
-  # background: 
-  overlayColor: "#f3ffd4"
-  hasWhiteText: false
-  
-box: 
-  title: ""
-  # description: 
-  background: /assets/images/dataton-amazonia/banner-dataton-amazonia.png
-  height: 41vh
 
 videoPrincipal:
   markdownContent: |
