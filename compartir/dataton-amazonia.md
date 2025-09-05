@@ -21,7 +21,7 @@ composition:
 ---
 
 
-## ¿Qué datos hay de la región en Colombia?
+## ¿Qué datos tenemos sobre la biodiversidad de la región?
 
 <table>
   <tr>
