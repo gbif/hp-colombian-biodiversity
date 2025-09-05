@@ -229,27 +229,29 @@ Y sigue fortaleciendo el reconocimiento y la gobernanza de este territorio.
 **Apoyan**
 
 <table>
-  <tr>
-   <td style="width: 20%;">
-     <img src="/assets/images/dataton-amazonia/logo-fondo-para-la-vida.jpeg" width="" alt="Fondo para la Vida" title="Fondo para la Vida">
+  <tr style="text-align: center;">
+   <td>
+     <p><img src="/assets/images/dataton-amazonia/logo-fondo-para-la-vida.jpeg" width="" alt="Fondo para la Vida" title="Fondo para la Vida"></p>
    </td>
-   <td style="width: 20%;">
+   <td colspan="3">
+     <p><img src="/assets/images/dataton-amazonia/minibanner-monitoreo-amazonia-sib-colombia.png" width="" alt="Monitoreo Amazonía y Sib Colombia" title="Monitoreo Amazonía y Sib Colombia"></p>
+   </td>
+  </tr>
+  <tr>
+   <td>
      <img src="/assets/images/dataton-amazonia/logo-mads.jpg" width="" alt="Ministerio de Medio Ambiente y Desarrollo Sostenible" title="Ministerio de Medio Ambiente y Desarrollo Sostenible">
    </td>
-   <td style="width: 20%;">
+   <td>
      <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ideam.png" width="" alt="IDEAM" title="IDEAM">
    </td>
-   <td style="width: 20%;">
+   <td>
      <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-iavh.png" width="" alt="Instituto Humboldt" title="Instituto Humboldt">
    </td>
-   <td style="width: 20%;">
+   <td>
      <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-sinchi.png" width="" alt="Instituto Sinchi" title="Instituto Sinchi">
    </td>
   </tr>
-  <tr style="text-align: center;">
-   <td>
-     <a href="https://www.minambiente.gov.co/fondo-para-la-vida" target="_blank">Fondo para la Vida</a>
-   </td>
+  <tr>
    <td>
      <a href="https://www.minambiente.gov.co" target="_blank">Ministerio de Ambiente y Desarrollo Sostenible</a>
    </td>
