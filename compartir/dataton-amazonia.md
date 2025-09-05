@@ -183,7 +183,7 @@ El proceso considera un **acompañamiento** que da la posibilidad de tener una c
 
 Una vez finalizado el acompañamiento y **con el visto bueno del publicador se procederá a asociar un identificador único al conjunto de datos (DOI)** y serán publicados de manera simultánea a través del SiB Colombia y GBIF.  **Los datos publicados pueden ser actualizados posteriormente**, en cualquier momento y cuantas veces sea necesario.
 
-| ¿Te surgieron dudas? No te preocupes, escríbenos a [**sib@humboldt.org.co**](mailto:sib@humboldt.org.co){:target="_blank"} y te guiaremos en el proceso. |
+| ¿Te surgieron dudas? No te preocupes, escríbenos a través del formulario [**Quiero publicar**]([mailto:sib@humboldt.org.co](https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4)){:target="_blank"} y te guiaremos en el proceso. |
 
 ## ¿Cómo son manejados los datos compartidos?
 
