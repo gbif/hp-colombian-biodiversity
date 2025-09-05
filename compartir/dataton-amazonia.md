@@ -96,20 +96,8 @@ Además, una parte esencial de la misión de la red del SiB Colombia es promover
 
 </details>
     
-___
+___  
 
-## ¿Quiénes pueden participar?
-
-**Organizaciones, redes e iniciativas que tengan datos sobre biodiversidad de la Amazonía colombiana**, considerando los siguientes requerimientos:
-
-1. **Ser una organización, red o iniciativa**. Las personas naturales que deseen participar, deben buscar el respaldo como publicador a través de sus organizaciones. Si la organización aún no es publicadora de datos, de igual manera, te invitamos a [registrarte en el formulario](https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4){:target="_blank"} y te orientaremos en el proceso.
-    
-2. **Tener digitalizados** **conjuntos de datos** sobre biodiversidad de las áreas priorizadas e idealmente estructurados siguiendo el estándar [Darwin Core](https://biodiversidad.co/elementos-darwin-core){:target="_blank"}.
-    
-3. **Contar con los derechos, licencias o permisos requeridos** para la publicación y asegurar que ha realizado los esfuerzos necesarios para que estos sean válidos al momento de la recolección, creación y publicación a través del SiB Colombia.
-    
-4. **Seleccionar, según el tipo de datos e información, entre unas opciones preestablecidas de licencias y herramientas** _**Creative Commons**_ que aceptan lectura mecánica ([CC0, CC BY, CC BY-NC](https://biodiversidad.co/terminos-y-condiciones/politica-de-publicacion#licencias){:target="_blank"}). La licencia elegida determinará la forma como se comparten los datos y las condiciones que se imponen a los usuarios para que los reutilicen.
-    
 
 ## ¿Qué datos pueden publicarse?
 
@@ -140,6 +128,20 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
 </table>
 
 **Casi todos pueden ser estructurados para su publicación en tres tipos de conjuntos de datos**, con diferentes grados de complejidad: [registros biológicos, eventos de muestreo y listas de chequeo](https://biodiversidad.co/compartir/tipos-de-datos){:target="_blank"}.
+
+
+## ¿Quiénes pueden participar?
+
+**Organizaciones, redes e iniciativas que tengan datos sobre biodiversidad de la Amazonía colombiana**, considerando los siguientes requerimientos:
+
+1. **Ser una organización, red o iniciativa**. Las personas naturales que deseen participar, deben buscar el respaldo como publicador a través de sus organizaciones. Si la organización aún no es publicadora de datos, de igual manera, te invitamos a [registrarte en el formulario](https://docs.google.com/document/d/1F_R_TwwxJ5ERLwHFHgIw2Q4G-1A143nL6q4twg-6ZGY/edit?tab=t.57yk5flxffm4){:target="_blank"} y te orientaremos en el proceso.
+    
+2. **Tener digitalizados** **conjuntos de datos** sobre biodiversidad de las áreas priorizadas e idealmente estructurados siguiendo el estándar [Darwin Core](https://biodiversidad.co/elementos-darwin-core){:target="_blank"}.
+    
+3. **Contar con los derechos, licencias o permisos requeridos** para la publicación y asegurar que ha realizado los esfuerzos necesarios para que estos sean válidos al momento de la recolección, creación y publicación a través del SiB Colombia.
+    
+4. **Seleccionar, según el tipo de datos e información, entre unas opciones preestablecidas de licencias y herramientas** _**Creative Commons**_ que aceptan lectura mecánica ([CC0, CC BY, CC BY-NC](https://biodiversidad.co/terminos-y-condiciones/politica-de-publicacion#licencias){:target="_blank"}). La licencia elegida determinará la forma como se comparten los datos y las condiciones que se imponen a los usuarios para que los reutilicen.
+
 
 ## ¿Cuál es el proceso de publicación?
 
