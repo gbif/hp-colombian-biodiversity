@@ -22,8 +22,8 @@ splitCTA:
 bannerCTA:
   title: "¡Datos nuevos o antiguos, todos cuentan!"
   description: |      # required
-    Te ayudamos a publicarlos a través del SiB Colombia y GBIF,
-    lo que facilitará su acceso libre y uso en la región y fuera de ella.
+  Te ayudamos a publicarlos a través del SiB Colombia y GBIF,
+  lo que facilitará su acceso libre y uso en la región y fuera de ella.
   overlayColor: "#253c34"
   background: /assets/images/dataton-amazonia/banner-dataton-amazonia-principal.png
   hasWhiteText: true
@@ -31,7 +31,7 @@ bannerCTA:
 videoPrincipal:
   overlayColor: "#f3ffd4"
   markdownContent: |
-    <p align="center"><iframe width="100%" height="400" src="https://www.youtube.com/embed/xIMJX4KS2x4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+  <p align="center"><iframe width="100%" height="400" src="https://www.youtube.com/embed/xIMJX4KS2x4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 bannerLogo:
   # title: ""
