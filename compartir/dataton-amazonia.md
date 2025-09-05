@@ -1,24 +1,23 @@
 ---
 layout: compose
-permalink: /dataton-amazonia
+permalink: /dataton-amazonia/
 title: Datatón por la Amazonía
 description: Esta Datatón por la Amazonía busca incrementar la disponibilidad de datos sobre biodiversidad de la región.
 background: /assets/images/dataton-amazonia/banner-dataton-amazonia-principal.png
-height: 41vh
+height: "41vh"
 toc: true
 composition:
-- type: heroBox
-  data: dataton-amazonia.box  # property inside yaml file
-- type: split
-  data: dataton-amazonia.splitCTA
-- type: floatingText
-  data: dataton-amazonia.bannerCTA
-- type: markdown
-  data: dataton-amazonia.videoPrincipal
-- type: pageMarkdown # This will render the markdown in this file
-- type: floatingText
-  data: dataton-amazonia.bannerLogo
-  
+  - type: heroBox
+    data: "dataton_amazonia.box"
+  - type: split
+    data: "dataton_amazonia.splitCTA"
+  - type: floatingText
+    data: "dataton_amazonia.bannerCTA"
+  - type: markdown
+    data: "dataton_amazonia.videoPrincipal"
+  - type: pageMarkdown
+  - type: floatingText
+    data: "dataton_amazonia.bannerLogo"
 ---
 
 <table>
