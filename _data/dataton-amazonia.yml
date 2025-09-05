@@ -4,19 +4,12 @@ box:
   background: /assets/images/dataton-amazonia/banner-dataton-amazonia.png
   height: 41vh
   
-bannerTop:
-  title: "¿Tienes datos sobre biodiversidad de la Amazonía colombiana?"
-  # description: |      # required
-  # background: 
-  overlayColor: "#f3ffd4"
-  hasWhiteText: false
-  
 splitCTA:
   reverse: false
   preTitle:   # optional
-  title: "¿Tienes datos sobre biodiversidad de la Amazonía colombiana?"
+  title: "¿¿Tienes datos sobre la biodiversidad de algún lugar de la Amazonía colombiana?"
   description: |      # required
-    ¡Compártelos! Te ayudamos a publicarlos a través SiB Colombia y GBIF, redes que dan acceso abierto a los datos.
+    ¡Llegó la hora de compartirlos, dar a conocer tu trabajo y la biodiversidad de la región!
     
     Deja que el mundo se entere de lo importante que es tu trabajo y conozca la biodiversidad de la región.
   # img required
@@ -27,17 +20,22 @@ splitCTA:
   - text: Quiero publicar
     href: https://forms.gle/m61mpPA7fqxaMg5s9
     isPrimary: true
-
-banner:
+  
+bannerCTA:
   title: "¡Datos nuevos o antiguos, todos cuentan!"
   description: |      # required
               Te ayudamos a publicarlos a través del SiB Colombia y GBIF,
               lo que facilitará su acceso libre y uso en la región y fuera de ella.
-  # overlayColor: "#253c34"
-  background: /assets/images/dataton-amazonia/banner-dataton-amazonia.png
+  overlayColor: "#253c34"
   hasWhiteText: true
 
 videoPrincipal:
   overlayColor: "#f3ffd4"
   markdownContent: |
       <p align="center"><iframe width="100%" height="400" src="https://www.youtube.com/embed/xIMJX4KS2x4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+bannerLogo:
+  title: ""
+  # description: |      # required
+  overlayColor: "#253c34"
+  hasWhiteText: true
