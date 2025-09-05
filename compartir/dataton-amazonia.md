@@ -229,15 +229,6 @@ Y sigue fortaleciendo el reconocimiento y la gobernanza de este territorio.
 **Apoyan**
 
 <table>
-  <tr style="text-align: center;">
-   <td>
-     <p><img src="/assets/images/dataton-amazonia/logo-fondo-para-la-vida.jpeg" width="" alt="Fondo para la Vida" title="Fondo para la Vida"></p>
-   </td>
-   <td colspan="3">
-     <p><img src="/assets/images/dataton-amazonia/minibanner-monitoreo-amazonia-sib-colombia.png" width="" alt="Monitoreo Amazonía y Sib Colombia" title="Monitoreo Amazonía y Sib Colombia"></p>
-   </td>
-  </tr>
-  <tr>
    <td>
      <img src="/assets/images/dataton-amazonia/logo-mads.jpg" width="" alt="Ministerio de Medio Ambiente y Desarrollo Sostenible" title="Ministerio de Medio Ambiente y Desarrollo Sostenible">
    </td>
@@ -265,4 +256,11 @@ Y sigue fortaleciendo el reconocimiento y la gobernanza de este territorio.
      <a href="https://www.sinchi.org.co/" target="_blank">Instituto Sinchi</a>
    </td>
   </tr>
+  <tr>
+   <td colspan="4">
+     <p style="text-align: center;"><img src="/assets/images/dataton-amazonia/logo-fondo-para-la-vida.jpeg" height="150" alt="Fondo para la Vida" title="Fondo para la Vida">
+       <img src="/assets/images/dataton-amazonia/minibanner-monitoreo-amazonia-sib-colombia.png" height="150" alt="Monitoreo Amazonía y Sib Colombia" title="Monitoreo Amazonía y Sib Colombia"></p>
+   </td>
+  </tr>
+  <tr>
 </table>
