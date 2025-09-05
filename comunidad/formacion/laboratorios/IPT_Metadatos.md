@@ -20,6 +20,7 @@ Si es la primera vez que va a documentar metadatos utilizando la herramienta de 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8sFcbZC9A4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
+
 **Sobre la herramienta**
 
 El [IPT](https://www.gbif.org/es/ipt){:target="_blank"} (del inglés Integrated Publishing Toolkit) es un _software_ gratuito y de código abierto que se utiliza para publicar y compartir conjuntos de datos de biodiversidad a través del [SiB Colombia](https://biodiversidad.co), [GBIF](https://www.gbif.org/){:target="_blank"} y [OBIS](https://obis.org/){:target="_blank"}. Este _software_ permite integrar datos y metadatos en un mismo formato de archivo, conocido como _Darwin Core Archive_ (DwC-A). Una de las ventajas de esta herramienta, frente a otros mecanismos de publicación, es que provee una interfaz para documentar fácilmente los metadatos. Además, contempla la documentación de los autores del recurso, promoviendo así el adecuado reconocimiento a quienes publican datos sobre biodiversidad.
@@ -59,71 +60,75 @@ Esta guía provee un caso de ejemplo para realizar el ejercicio. Sin embargo, se
 
 Ingrese al  [IPT _test_](https://ipt.biodiversidad.co/sib-test/) y de clic en la opción <span class="tag is-warning is-light"><i>Iniciar Sesión</i></span> (Fig. 1).
 
-<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig1_meta_ingreso.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig1_meta_ingreso.jpg" width=800>
 
 <sub>_Figura 1. Página principal del IPT_.</sub>
 
 En la nueva vista, ingrese las credenciales que se encuentran en la sección de requerimientos y de clic en la opción <span class="tag is-warning is-light"><i>Iniciar Sesión</i></span> (Fig. 2).
 
-<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig1_meta_ingreso2.png" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig2_meta_ingreso.jpg" width=600>
 
-<sub>_Figura 2. Página de inició de sesión.</sub>
+<sub>_Figura 2. Página de inicio de sesión_.</sub>
 
 ## Paso 2 - Gestión de recursos
 
-Una vez que se haya autenticado en el IPT, podrá ver su información de usuario (Fig. 2A) y tendrá acceso a tres menús o pestañas (Fig. 2B):
+Una vez que se haya autenticado en el IPT, podrá ver su información de usuario (Fig. 3A) y tendrá acceso a tres menús o pestañas (Fig. 3B):
 
 - <span class="tag is-warning is-light"><i>Inicio</i></span>: menú disponible para todos los usuarios, el cual lista los recursos disponibles y públicos del IPT.
 - <span class="tag is-warning is-light"><i>Gestión de recursos</i></span>: menú disponible solo para los usuarios registrados que han iniciado sesión.
 - <span class="tag is-warning is-light"><i>Acerca de</i></span>: menú para todos los usuarios, el cual presenta información general del IPT.
 
->El menú activo se mostrará en un color más oscuro (Fig. 2B).
+>El menú activo se mostrará con una línea azul en la parte inferior (Fig. 3B).
 >
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig2_meta_ingreso2.png" width=800>
 
-<sub>_Figura 2. Página principal del IPT disponible para los usuarios que han iniciado sesión. A. Detalle del usuario activo, B. Menús disponiles_.</sub>
+<sub>_Figura 3. Página principal del IPT disponible para los usuarios que han iniciado sesión. A. Acrónimo del usuario activo, B. Menús disponiles_.</sub>
 
 **2.1 Explore el menú Gestión de recursos**
 
-Selecione el menú <span class="tag is-warning is-light"><i>Gestión de recursos</i></span> (Fig. 3). Aparecerá una tabla de resumen con todos los recursos que puede administrar con su usuario (Fig. 3A), la cual se puede filtrar por texto (Fig. 3B) y reorganizar de forma ascendente o desendente según los contenidos de cada columna (Fig. 3C). Para ingresar a los recursos bajo su administración, haga clic sobre el nombre del recurso en la tabla (Fig. 3). Por último, explore las opciones de la tabla mencionadas anteriormente.
+Selecione el menú <span class="tag is-warning is-light"><i>Gestión de recursos</i></span> (Fig. 4). Aparecerá una tabla de resumen con todos los recursos que puede administrar con su usuario (Fig. 4A), la cual se puede filtrar por texto (Fig. 4B) y reorganizar de forma ascendente o desendente según los contenidos de cada columna (Fig. 4C). Para ingresar a los recursos bajo su administración, haga clic sobre el nombre del recurso en la tabla (Fig. 4). Por último, explore las opciones de la tabla mencionadas anteriormente.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig3_meta_gestion.png" width=800>
 
-<sub>_Figura 3. Menú de Gestión de recursos. A. Tabla de recursos adminsitrados, B. Filtro para búsqueda por texto de los recursos, C. Filtro de columna para reorganizar la tabla, D. Sección de creación de un recurso_.</sub>
+<sub>_Figura 3. Menú de Gestión de recursos. A. Tabla de recursos adminsitrados, B. Filtro para búsqueda por texto de los recursos, C. Filtro de columna para reorganizar la tabla_.</sub>
 
 
 ## Paso 3 - Creación de un recurso
 
-Para crear un recurso, diríjase a la sección de creación del recurso al final del menú <span class="tag is-warning is-light"><i>Gestión de recursos</i></span> y siga estos pasos:
+Adicionalmente en esta sección puedes crear nuevo recurso. Para eso, en la parte superior da clic a <span class="tag is-warning is-light"><i>Crear nuevo</i></span> (Fig. 5) y siga estos pasos:
+
+<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig3_meta_gestion.png" width=800>
+
+<sub>_Figura 5. Menú para crear el nuevo recurso_.</sub>
 
 ### 3.1. Asignación de nombre corto
 
-Asigne un <span class="tag is-light"><b>Nombre corto</b></span> (no use más de 5 palabras) al recurso que va a crear (Fig. 4A). No incluya espacios ni carácteres especiales como tildes (´) o eñes (ñ). Para este ejercicio, cree el <span class="tag is-light"><b>Nombre corto</b></span> con sus iniciales y el acrónimo de su organización. De esa forma, podrá encontrarlo fácilmente.
+En **"Nombre corto"** (Fig. 6A) asigna un nombre relacionado al recurso que se va a crear. No use más de 5 palabras, y no incluya espacios ni carácteres especiales como tildes (´) o eñes (ñ). Para este ejercicio, cree el <span class="tag is-light"><b>Nombre corto</b></span> con sus iniciales y el acrónimo de su organización. De esa forma, podrá encontrarlo fácilmente.
 
 ### 3.2. Selección del tipo de recurso
 
-En la lista desplegable de la sección **"Tipo"**, seleccione la opción que corresponda a los datos que se van publicar (Fig. 4B). En este caso, <span class="tag is-warning is-light"><i>Registros Biológicos</i></span>. La elección del tipo de datos durante la creación del recurso no es definitiva, ya que puede cambiar este ítem a lo largo de la publicación.
+En la lista desplegable de la sección **"Tipo"**, seleccione la opción que corresponda a los datos que se van publicar (Fig. 6B). En este caso, <span class="tag is-warning is-light"><i>Registros biológicos</i></span>. La elección del tipo de datos durante la creación del recurso no es definitiva, ya que puede cambiar este ítem a lo largo de la publicación.
 
 ### 3.3. Opción para importar un archivo *DwC-A*
 
-Si posee un _Darwin Core Archive_ (DwC-A), puede usar la función <span class="tag is-warning is-light"><i>Importar desde archivo</i></span>. Esta opción solo acepta el formato DwC-A, **no** permite archivos Excel ni de texto plano. Por consiguiente, dicha opción no se debe usar en este ejercicio (Fig. 4C).
+Si posee un _Darwin Core Archive_ (DwC-A), puede seleccionar la casilla <span class="tag is-warning is-light"><i>Importar desde archivo</i></span>, y se le habilitará una opción para buscar el DwC-A. Esta opción solo acepta el formato DwC-A, **no** permite archivos Excel ni de texto plano. Por consiguiente, dicha opción no se debe usar en este ejercicio (Fig. 6C).
 
 ### 3.4. Creación del recurso
 
-Finalmente, dé clic en la opción <span class="tag is-warning is-light"><i>Crear</i></span> (Fig. 4). 
+Finalmente, dé clic en la opción <span class="tag is-warning is-light"><i>Crear</i></span> (Fig. 6D). 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig4_meta_crear.png" width=600>
 
-<sub>_Figura 4. Sección de creación del recurso. A. Nombre corto, B .Selección del tipo de datos, C. Carga de un DwC-A (opcional)_.</sub>
+<sub>_Figura 6. Sección de creación del recurso. A. Nombre corto, B. Selección del tipo de datos, C. Carga de un DwC-A (opcional), D. Botón para crear el recurso_.</sub>
 
-Después de crear el recurso, el IPT lo dirigirá a la **"Vista General"**, donde encontrará 6 secciones para la administración del recurso (Fig. 5). Para este laboratorio, solo debe utilizar la sección **"Metadatos"**, ya que el Equipo Coordinador del SiB Colombia (EC-SiB) se encarga de configurar y administrar las demás secciones durante el proceso de publicación.
+Después de crear el recurso, el IPT lo dirigirá a la **"Vista General"**, donde encontrará 9 franjas para la administración del recurso (Fig. 7). Para este laboratorio, solo debe utilizar la franja **"Metadatos"**, ya que el Equipo Coordinador del SiB Colombia (EC-SiB) se encarga de configurar y administrar las demás franjas durante el proceso de publicación.
 
-Puede conocer más sobre las seciones de la **"Vista General"** del recurso en la [Guía de referencia rápida del IPT - Vista general](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#vista-general-del-recurso){:target="_blank"}.
+Puedes conocer más sobre las franjas de la **"Vista General"** del recurso en el [Manual del Usuario del IPT - Vista general](https://ipt.gbif.org/manual/es/ipt/latest/overview){:target="_blank"}.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig5_meta_vistageneral.png" width=800>
 
-<sub>_Figura 5. Secciones de la vista general del recurso_.</sub>
+<sub>_Figura 7. Secciones de la vista general del recurso_.</sub>
 
 ## Paso 4 - Documentación de los metadatos
 
