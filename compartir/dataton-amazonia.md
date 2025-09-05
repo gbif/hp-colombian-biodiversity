@@ -53,7 +53,7 @@ Aunque actualmente en el SiB Colombia contamos con datos para todos los departam
 
 > **Aportar al Inventario nacional de la biodiversidad.**
     
-> **Facilitar el acceso y uso de datos a los habitantes de la región,** apoyando procesos de **investigación, educación y toma de decisiones** en la Amazonía, por ejemplo, a través de plataformas que sintetizan el estado del conocimiento del territorio, como [**Biodiversidad en cifras**](https://cifras.biodiversidad.co){:target="_blank"}.
+> **Facilitar el acceso y uso de datos a los habitantes de la región,** apoyando procesos de **investigación, educación y toma de decisiones**, por ejemplo, a través de plataformas que sintetizan el estado del conocimiento del territorio, como [**Biodiversidad en cifras**](https://cifras.biodiversidad.co){:target="_blank"}.
     
 Además, una parte esencial de la misión de la red del SiB Colombia es promover una cultura en la que todas **las personas conozcan y se beneficien de publicar datos abiertos sobre biodiversidad**. Con ello, quienes participen en esta Datatón perciben una serie de beneficios adicionales.
 
