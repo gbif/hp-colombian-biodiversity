@@ -32,7 +32,7 @@ composition:
   </tr>
 </table>
 
-## ¿Cómo está la región frente al resto de Colombia?
+## ¿Cómo está la región frente a Colombia?
 
 <table>
   <tr>
