@@ -21,7 +21,7 @@ composition:
 ---
 
 
-## ¿Cómo está la región frente a Colombia?
+## ¿Cuál es el estado de los datos sobre biodiversidad en la región frente a Colombia?
 
 <table>
   <tr>
@@ -202,7 +202,7 @@ Una vez finalizado el acompañamiento y **con el visto bueno del publicador se p
 
 | ¿Te surgieron dudas? Escríbenos a través del formulario [**Quiero publicar**](https://docs.google.com/forms/d/e/1FAIpQLSfmX-YnTAWe7gBh6rE6tuUK6X3ikKURpsqQqNRAN00jRqEdgQ/viewform?usp=dialog){:target="_blank"} y te guiaremos en el proceso. |
 
-## ¿Cómo son manejados los datos compartidos?
+## ¿Cómo se usan los datos compartidos?
 
 En el SiB Colombia creemos en la construcción colectiva y participativa del conocimiento. Por eso, **consideramos que el modelo de acceso abierto es el mejor camino para que la sociedad pueda acceder de manera libre y responsable a la información sobre diversidad biológica del país.** Todos los socios y usuarios del SiB Colombia reconocen una serie de [principios orientadores](https://biodiversidad.co/acercade/sib-colombia#principios-orientadores){:target="_blank"} fundamentales para la participación, así como la Política de publicación, acceso y uso de datos, que se encuentra disponible [aquí](https://biodiversidad.co/terminos-y-condiciones/politica-de-publicacion){:target="_blank"}.
 
