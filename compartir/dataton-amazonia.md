@@ -21,7 +21,7 @@ composition:
 ---
 
 
-## ¿Cuál es el estado de los datos sobre biodiversidad en la región frente a Colombia?
+## ¿Qué datos hay de la región en Colombia?
 
 <table>
   <tr>
