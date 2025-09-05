@@ -140,14 +140,14 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
      <img src="/assets/images/landing_page/iconos_cifras/ico_listaEspecies_gris.png" class="feature-overlay" width="60" alt="Listas de chequeo">
    </td>
   </tr>
-  <tr>
-   <td style="text-align: center;">
+  <tr style="text-align: center;">
+   <td>
      <a href="/compartir/tipos-de-datos#registros-biológicos" target="_blank">Registros biológicos</a>
    </td>
-   <td style="text-align: center;">
+   <td>
      <a href="/compartir/tipos-de-datos#eventos-de-muestreo" target="_blank">Eventos de muestreo</a>
    </td>
-   <td style="text-align: center;">
+   <td>
      <a href="/compartir/tipos-de-datos#listas-de-especies" target="_blank">Listas de chequeo</a>
    </td>
   </tr>
@@ -169,13 +169,13 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
 
 ## ¿Cuál es el proceso de publicación?
 
-> Después de enviar los datos en nombre de una organización afiliada o que se afilie como socio publicador, **el Equipo Coordinador del SiB Colombia se encargará de recibir los datos digitalizados** y realizar un proceso de validación y verificación de su estandarización para su publicación.
+Después de que el publicador envíe los datos al del SiB Colombia en nombre de una organización afiliada como socio publicador, **el Equipo Coordinador digitalizará los datos** y **realizará un proceso de validación y verificación de su estandarización para su publicación**.
 
-> Adicionalmente se entregarán **credenciales para la administración de éstos y la documentación de los metadatos en línea** que permitan responder las **cinco preguntas esenciales: quién, qué, cómo, cuándo y dónde**.
+Adicionalmente se entregarán **credenciales para la administración de éstos y la documentación de los metadatos en línea** que permitan responder las **cinco preguntas esenciales: quién, qué, cómo, cuándo y dónde**.
 
-> **Una vez publicados, se encargará de la respectiva divulgación de la publicación** y su importancia para el inventario nacional de la biodiversidad.
+**Una vez publicados, se encargará de la respectiva divulgación de la publicación** y su importancia para el inventario nacional de la biodiversidad.
 
->  El proceso considera un **acompañamiento** que da la posibilidad de tener una conversación entre el publicador y el equipo de trabajo del SiB Colombia para asegurar los mejores resultados.
+El proceso considera un **acompañamiento** que da la posibilidad de tener una conversación entre el publicador y el equipo de trabajo del SiB Colombia para asegurar los mejores resultados.
 
 
 ### Acciones del SiB Colombia
@@ -240,20 +240,20 @@ Y sigue fortaleciendo el reconocimiento y la gobernanza de este territorio.
    <td style="width: 20%;">
      <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-sinchi.png" width="" alt="Instituto Sinchi" title="Instituto Sinchi">
    </td>  </tr>
-  <tr>
-   <td style="text-align: center;">
+  <tr style="text-align: center;">
+   <td>
      <a href="https://www.minambiente.gov.co/fondo-para-la-vida" target="_blank">Fondo para la Vida</a>
    </td>
-   <td style="text-align: center;">
+   <td>
      <a href="https://www.minambiente.gov.co" target="_blank">Ministerio de Ambiente y Desarrollo Sostenible</a>
    </td>
-   <td style="text-align: center;">
+   <td>
      <a href="https://www.ideam.gov.co" target="_blank">IDEAM</a>
    </td>
-   <td style="text-align: center;">
+   <td>
      <a href="https://www.humboldt.org.co/" target="_blank">Instituto Humboldt</a>
    </td>
-   <td style="text-align: center;">
+   <td
      <a href="https://www.sinchi.org.co/" target="_blank">Instituto Sinchi</a>
    </td>
   </tr>
