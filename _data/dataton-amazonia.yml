@@ -14,7 +14,7 @@ bannerTop:
 splitCTA:
   reverse: false
   preTitle:   # optional
-  title: ""
+  title: "¿Tienes datos sobre biodiversidad de la Amazonía colombiana?"
   description: |      # required
     Comparte tus datos, te ayudamos a publicarlos a través de las redes de acceso abierto y gratuito, SiB Colombia y  GBIF.
     
