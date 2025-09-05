@@ -49,6 +49,7 @@ composition:
 
 Los anteriores, son solo algunas **cifras que puedes consultar y usar de manera libre de la plataforma del SiB Colombia, [Biodiversidad en Cifras](https://cifras.biodiversidad.co/)**, que desde septiembre de 2025 publicó una **nueva actualización** a partir de la cual impulsamos esta Datatón por la Amazonía en el marco del **proyecto Fondo para la Vida Amazonía**, con el objetivo de **captar datos e incentivar a antiguos y nuevos publicadores a contribuir al conocimiento, conservación y bienestar de la región**.
 
+
 ## ¿Cuáles son los beneficios de publicar a través de esta Datatón por la Amazonía?
 
 Aunque actualmente en el SiB Colombia contamos con datos para todos los departamentos del país, incluidos los 8 de la región amazónica, **aumentar la representatividad de datos con el aporte de antiguos y nuevos publicadores a través de esta datatón, es una oportunidad para**:
@@ -241,7 +242,8 @@ Y sigue fortaleciendo el reconocimiento y la gobernanza de este territorio.
    </td>
    <td style="width: 20%;">
      <img src="https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-sinchi.png" width="" alt="Instituto Sinchi" title="Instituto Sinchi">
-   </td>  </tr>
+   </td>
+  </tr>
   <tr style="text-align: center;">
    <td>
      <a href="https://www.minambiente.gov.co/fondo-para-la-vida" target="_blank">Fondo para la Vida</a>
@@ -255,7 +257,7 @@ Y sigue fortaleciendo el reconocimiento y la gobernanza de este territorio.
    <td>
      <a href="https://www.humboldt.org.co/" target="_blank">Instituto Humboldt</a>
    </td>
-   <td
+   <td>
      <a href="https://www.sinchi.org.co/" target="_blank">Instituto Sinchi</a>
    </td>
   </tr>
