@@ -10,8 +10,6 @@ splitCTA:
   title: "¿Tienes datos biológicos de algún lugar de la Amazonía colombiana?"
   description: |      # required
     ¡Llegó la hora de compartirlos, dar a conocer tu trabajo y la naturaleza de la región!
-    
-    Deja que el mundo se entere de lo importante que es tu trabajo y conozca la biodiversidad de la región.
   # img required
   background: /assets/images/dataton-amazonia/mapa-colores.png
   overlayColor: "#f3ffd4"
