@@ -35,7 +35,8 @@ videoPrincipal:
 
 bannerLogo:
   title: ""
-  # description: |      # required
+  description: |      # required
+    —
   # overlayColor: "#253c34"
   background: /assets/images/dataton-amazonia/banner-dataton-amazonia-principal.png
   hasWhiteText: true
