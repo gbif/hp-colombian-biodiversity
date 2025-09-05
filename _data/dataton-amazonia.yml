@@ -26,7 +26,7 @@ banner:
   hasWhiteText: false
 
 bannerTop:
-  title: "¿Tienes datos sobre la diversidad biológica de la Amazonía colombiana?"
+  title: "¿Tienes datos sobre biodiversidad de la Amazonía colombiana?"
   # description: |      # required
   # background: 
   overlayColor: "#f3ffd4"
