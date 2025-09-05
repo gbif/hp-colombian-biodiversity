@@ -32,6 +32,6 @@ videoPrincipal:
 
 bannerLogo:
   title: ""
-  # description: 
+  description: ""
   background: /assets/images/dataton-amazonia/banner-dataton-amazonia-central.png
   hasWhiteText: true
