@@ -53,7 +53,7 @@ Esta guía provee un caso de ejemplo para realizar el ejercicio. Sin embargo, se
 
 - Descargue el caso de ejemplo [<FONT FACE="monospace"><b>«Informe Expedición Parulidae 2001.pdf»</b></FONT>](https://drive.google.com/file/d/10ygXD9rD4_mmQhTrLn3VnM0OXUnNJt4h/view?usp=sharing){:target="_blank"} 
 
-
+<br>
 --------
 
 ## Paso 1 - Ingreso al IPT
@@ -66,9 +66,13 @@ Ingrese al  [IPT _test_](https://ipt.biodiversidad.co/sib-test/) y de clic en la
 
 En la nueva vista, ingrese las credenciales que se encuentran en la sección de requerimientos y de clic en la opción <span class="tag is-warning is-light"><i>Iniciar Sesión</i></span> (Fig. 2).
 
-<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig2_meta_ingreso.jpg" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig2_meta_ingreso.jpg" width=400>
+
+[Se redujo de 800 a 600 y luego 400]: #
 
 <sub>_Figura 2. Página de inicio de sesión_.</sub>
+
+<br>
 
 ## Paso 2 - Gestión de recursos
 
@@ -85,18 +89,21 @@ Una vez que se haya autenticado en el IPT, podrá ver su información de usuario
 
 <sub>_Figura 3. Página principal del IPT disponible para los usuarios que han iniciado sesión. A. Acrónimo del usuario activo, B. Menús disponiles_.</sub>
 
-**2.1 Explore el menú Gestión de recursos**
+### 2.1. Explore el menú Gestión de recursos
+
+[Estaba en negrilla sencilla]: #
 
 Selecione el menú <span class="tag is-warning is-light"><i>Gestión de recursos</i></span> (Fig. 4). Aparecerá una tabla de resumen con todos los recursos que puede administrar con su usuario (Fig. 4A), la cual se puede filtrar por texto (Fig. 4B) y reorganizar de forma ascendente o desendente según los contenidos de cada columna (Fig. 4C). Para ingresar a los recursos bajo su administración, haga clic sobre el nombre del recurso en la tabla (Fig. 4). Por último, explore las opciones de la tabla mencionadas anteriormente.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig3_meta_gestion.png" width=800>
 
-<sub>_Figura 3. Menú de Gestión de recursos. A. Tabla de recursos adminsitrados, B. Filtro para búsqueda por texto de los recursos, C. Filtro de columna para reorganizar la tabla_.</sub>
+<sub>_Figura 4. Menú de Gestión de recursos. A. Tabla de recursos adminsitrados, B. Filtro para búsqueda por texto de los recursos, C. Filtro de columna para reorganizar la tabla_.</sub>
 
+<br>
 
 ## Paso 3 - Creación de un recurso
 
-Adicionalmente en esta sección puedes crear nuevo recurso. Para eso, en la parte superior da clic a <span class="tag is-warning is-light"><i>Crear nuevo</i></span> (Fig. 5) y siga estos pasos:
+Adicionalmente, en esta sección puedes crear un nuevo recurso. Para eso, en la parte superior dé clic a <span class="tag is-warning is-light"><i>Crear nuevo</i></span> (Fig. 5) y siga estos pasos:
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig3_meta_gestion.png" width=800>
 
@@ -112,7 +119,7 @@ En la lista desplegable de la sección **"Tipo"**, seleccione la opción que cor
 
 ### 3.3. Opción para importar un archivo *DwC-A*
 
-Si posee un _Darwin Core Archive_ (DwC-A), puede seleccionar la casilla <span class="tag is-warning is-light"><i>Importar desde archivo</i></span>, y se le habilitará una opción para buscar el DwC-A. Esta opción solo acepta el formato DwC-A, **no** permite archivos Excel ni de texto plano. Por consiguiente, dicha opción no se debe usar en este ejercicio (Fig. 6C).
+Si posee un _Darwin Core Archive_ (DwC-A), puede seleccionar la casilla <span class="tag is-warning is-light"><i>Importar desde archivo</i></span>, y se le habilitará una opción para buscar el archivo en formato DwC-A. Esta opción **no** permite archivos Excel ni de texto plano. Por consiguiente, dicha opción no se debe usar en este ejercicio (Fig. 6C).
 
 ### 3.4. Creación del recurso
 
@@ -128,65 +135,106 @@ Puedes conocer más sobre las franjas de la **"Vista General"** del recurso en e
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig5_meta_vistageneral.png" width=800>
 
-<sub>_Figura 7. Secciones de la vista general del recurso_.</sub>
+<sub>_Figura 7. Franjas de la vista general del recurso_.</sub>
+
+<br>
 
 ## Paso 4 - Documentación de los metadatos
 
-Desde la **"Vista General"** del recurso, ubique la sección de **"Metadatos"** y haga clic en <span class="tag is-warning is-light"><i>Editar</i></span> (Fig. 5). Será dirigido al formulario de metadatos, que consta de 12 secciones (Fig. 6). A partir del informe del caso de ejemplo o de un informe o artículo propio, revise y documente cada una de las 12 secciones de metadatos.
+Desde la **"Vista General"** del recurso, ubique la franja **"Metadatos"** y haga clic en <span class="tag is-warning is-light"><i>Editar</i></span> (Fig. 7). Será dirigido al formulario de metadatos, que consta de 14 secciones (Fig. 8). A partir del informe del caso de ejemplo o de un informe o artículo propio, revise y documente cada una de las 14 secciones de metadatos.
 
 > Al documentar los metadatos, enfóquese en el conjunto de datos que va a publicar y no en el proyecto bajo el que fueron tomados.
 Por ejemplo, si usted realizó un estudio filogenético y desea publicar los datos de las muestras de tejido que tomó en campo, describa solo las muestras y observaciones asociadas, no el estudio filogenético.
 >
 
-Esta guía comprende una serie de recomendaciones basadas en las preguntas y errores más frecuentes sobre los metadatos. Por lo tanto, solo encontrará explicaciones para algunos campos. Para complementar este laboratorio y tener acceso a un seguimiento paso a paso, se recomienda revisar la [Guía de referencia rápida del IPT - Metadatos.](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#metadatos-b%C3%A1sicos){:target="_blank"}
-
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig6_meta_secciones.png" width=600>
 
-<sub>_Figura 6. Secciones de los metadatos._</sub>
+<sub>_Figura 8. Secciones de los metadatos_.</sub>
+
+Esta guía comprende una serie de recomendaciones basadas en las preguntas y errores más frecuentes sobre los metadatos. Por lo tanto, solo encontrará explicaciones para algunos campos. Para complementar este laboratorio y tener acceso a un seguimiento paso a paso, se recomienda revisar el [Manual del Usuario del IPT - Guía práctica del perfil de metadatos de GBIF.](https://ipt.gbif.org/manual/es/ipt/latest/gbif-metadata-profile){:target="_blank"}
+
 
 ### 4.1. Metadatos básicos
 
 **"Título"**
 
-Borre el título por defecto del IPT y asigne un **título relevante que describa los datos a publicar** (Fig. 7A).
+Asigne un **título relevante que describa los datos a publicar** (Fig. 9A).
 
 **"Organización publicadora"**
 
-Seleccione la organización principal que respalda la publicación de los datos (Fig. 7B). Para efectos de este ejercicio, elija la opción <span class="tag is-warning is-light"><i>Ninguna organización</i></span>. 
+Seleccione la organización principal que respalda la publicación de los datos (Fig. 9B). Para efectos de este ejercicio, elija la opción <span class="tag is-warning is-light"><i>Ninguna organización</i></span>. 
 
 <div class="notification is-info is-light">
-  <b>Nota:</b> en esta guía se utiliza el IPT de prueba, por lo que no aparecerán las organizaciones registradas, Puede revisar si su organización ya es un socio publicador en esta <a href="https://sibcolombia.net/el-sib-colombia/publicadores-sib-colombia/">lista</a>; si no lo es, lo invitamos a registrarla <a href="https://sibcolombia.net/registrate-como-publicador/">aquí</a>.
+  <b>Nota:</b> en esta guía se utiliza el IPT <em>test</em>, por lo que no aparecerán las organizaciones registradas. Puede revisar si su organización ya es un socio publicador en esta <a href="https://biodiversidad.co/comunidad/socios-publicadores/">lista</a>; si no lo es, lo invitamos a registrarla <a href="https://sibcolombia.net/registrate-como-publicador/">aquí</a>.
 </div>
-
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig7_meta_basico.png" width=800>
-
-<sub>*Figura 7. Sección metadatos básicos. A. Título, B. Selección de la organización publicadora, C. Selección de la licencia de los datos.*</sub>
 
 **"Licencia de los datos"**
 
-Para asegurar que sus datos sean abiertos, estos deben contar de manera explícita con una licencia que permita su reutilización. En este sentido, escoja una de las licencias [_Creative Commons_](https://co.creativecommons.net/){:target="_blank"} que regule hasta dónde quiere que lleguen sus datos (Fig. 7C). Puede usar la [guía interactiva de acceso abierto](https://biodiversidad.co/recursos/acceso-abierto) para realizar la elección (Fig. 8).
+Para asegurar que sus datos sean abiertos, estos deben contar de manera explícita con una licencia que permita su reutilización. En este sentido, escoja una de las licencias [_Creative Commons_](https://co.creativecommons.net/tipos-de-licencias/){:target="_blank"} que regule hasta dónde quiere que lleguen sus datos (Fig. 9C). Puede referirse a la [guía de acceso abierto](https://biodiversidad.co/recursos/acceso-abierto) para realizar la elección.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig8_meta_licencias.png" width=600>
+<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig7_meta_basico.png" width=800>
 
-<sub>_Figura 8. Herramienta interactiva para elegir una licencia, disponible en la guía de acceso abierto del SiB Colombia._</sub>
+<sub>_Figura 9. Sección metadatos básicos. A. Título, B. Selección de la organización publicadora, C. Selección de la licencia de los datos_.</sub>
 
 **"Descripción"**
 
-Describa brevemente los datos que se van a publicar. Este campo es equivalente a un resumen tipo informe o artículo científico. Por consiguiente, debe incorporar de manera sintética la información de las demás secciones de los metadatos, incluyendo el objetivo del proyecto o estudio, la cobertura temporal, geográfica y taxonómica (Fig. 7).
+Describa brevemente los datos que se van a publicar. Este campo es equivalente a un resumen tipo informe o artículo científico. Por consiguiente, debe incorporar de manera sintética la información de las demás secciones de los metadatos, incluyendo el objetivo del proyecto o estudio, la cobertura temporal, geográfica y taxonómica (Fig. 10).
+
+<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig7_meta_basico.png" width=800>
+
+<sub>_Figura 10. Vista del campo **"Descripción"** dentro de la sección metadatos básicos_.</sub>
+
+
+> Después de llenar todos los campos obligatorios de una sección (marcados con *) asegúrate de dar clic al botón <span class="tag is-warning is-light"><i>Guardar</i></span>. De esta forma garantizas que no se pierda la información diligenciada en la sección.
+>
+
+### 4.2. Contactos
+
+**"Contactos del Recurso"**
+
+En esta sección debes diligenciar la información de todas las personas que pueden responder dudas técnicas asociadas al recurso. Para esto, dé clic en <span class="tag is-warning is-light"><i>Añadir contacto del recurso</i></span> (Fig. 11), y se desplegará los campos que se pueden documentar. Como mínimo, son necesarios los campos <span class="tag is-light"><b>Nombre</b></span>, <span class="tag is-light"><b>Apellido</b></span>, <span class="tag is-light"><b>Organización</b></span> y <span class="tag is-light"><b>Correo Electrónico</b></span>.
+
+<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig7_meta_basico.png" width=800>
+
+<sub>_Figura 11. Vista general de la sección Contactos_.</sub>
 
 **"Creadores del Recurso"**
 
-En esta sección debe incluir a todas las personas que aportaron significativamente a la toma, manejo, digitalización, custodia y publicación de los datos (Fig. 9). A partir de esta información, se crea la citación del recurso que quedará visible a través de todos los portales de datos del SiB Colombia, GBIF y OBIS. Por lo tanto, es equivalente a la lista de autores de un libro o artículo científico. Además, puede añadir a tantas personas como sea necesario. Se recomienda documentar la mayor cantidad de información posible de cada autor (Fig. 9).
+En esta sección debe incluir a todas las personas que aportaron significativamente a la toma, manejo, digitalización, custodia y publicación de los datos (Fig. 11B). A partir de esta información, se crea la citación automática del recurso que quedará visible a través de todos los portales de datos del SiB Colombia, GBIF y OBIS. Por lo tanto, es equivalente a la lista de autores de un libro o artículo científico. Además, puede añadir a tantas personas como sea necesario. Se recomienda documentar la mayor cantidad de información posible de cada autor.
 
 <div class="notification is-info is-light">
-  <b>Tip:</b> los creadores del recurso deben ser personas, no entidades, ya que el EC-SiB se encarga de recopilar las autorías a nivel institucional por medio del campo <b>"Organización"</b>.
+  <b>Tip:</b> Desde el EC-SiB recomendamos que los creadores del recurso sean personas, no entidades, ya que el EC-SiB se encarga de recopilar las autorías a nivel institucional por medio del campo <b>"Organización"</b>.
 </div>
+
+**"Proveedores de los metadatos"**
+
+En esta sección se documentan las personas que aportaron con la documentación de los metadatos (Fig. 12). Tenga en cuenta que quienes aparezcan en esta sección también quedarán visibles en la citación.
+
+**"Partes asociadas"**
+
+Por defecto aparece la información de la cuenta que creó el conjunto de datos. En caso de que no sea relevante, puedes borrarlo desde <span class="tag is-warning is-light"><i>Eliminar parte asociada</i></span>. Para este ejercicio, y según el caso de ejemplo, la documentación de la sección **"Partes Asociadas"** no aplica. Sin embargo, lea las siguientes recomendaciones para futuras publicaciones:
+
+En esta sección, se documenta la información de las personas u organizaciones adicionales que se incluyeron en los metadatos básicos. También se pueden documentar por completo nuevamente si se quiere especificar su rol dentro de la publicación.
+
+<article class="message is-warning">
+  <div class="message-header">
+    <p>¡Precaución!</p>    
+  </div>
+  <div class="message-body">
+    Es indispensable que el elemento <b><i>"Rol"</i></b> esté documentado para todas las partes asocidas que se incluyan en esta sección.
+  </div>
+</article>
+
+Se recomienda que las partes (personas e instituciones) involucradas en la generación de los datos sean reconocidas en los metadatos, idealmente como **"Creadores del recurso"** (si se consideran autores del recurso), y en **"Partes asociadas"** (si estuvieron involucradas en la generación del recurso y cumplen alguno de los roles del campo **"Rol"**).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig9_meta_autor.png" width=600>
 
-<sub>_Figura 9. Creadores del recurso, sección para documentar los autores del recurso._</sub>
+<sub>_Figura 12. Vista de las partes **"Proveedores de los metadatos"** y **"Partes asociadas"** dentro de la sección Contactos_.</sub>
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Metadatos básicos](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#metadatos-b%C3%A1sicos){:target="_blank"}.
+Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT](https://ipt.gbif.org/manual/es/ipt/latest/gbif-metadata-profile#personas-y-organizaciones){:target="_blank"}.
+
+### 4.3. Agradecimientos
+Esta es una sección opcional. En caso de ser necesario, aquí puedes documentar la información de financiadores y otros contribuyentes del estudio.
 
 ### 4.2. Cobertura geográfica
 
@@ -203,6 +251,7 @@ Ingrese la **"Descripción"** de la cobertura geográfica, de acuerdo al área d
 <sub>_Figura 10. Sección cobertura geográfica. A. Selección de cobertura en mapa, B. Descripción_.</sub>
 
 Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Cobertura geográfica](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#cobertura-geogr%C3%A1fica){:target="_blank"}.
+
 
 ### 4.3. Cobertura taxonómica
 
@@ -352,6 +401,8 @@ Esta es una sección opcional. Generalmente, el publicador no debe documentar ni
 <sub>_Figura 17. Sección metadatos adicionales. A. Logo estandarizado del publicador, B. identificadores alternativos._</sub>
 
 Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Metadatos Adicionales](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#metadatos-adicionales){:target="_blank"}.
+
+<br>
 
 ## Paso 5 - Datos propios
 
