@@ -2,7 +2,7 @@
 box:
   title: ""
   # description: 
-  background: /assets/images/dataton-amazonia/banner-dataton-amazonia-principal.png
+  background: /assets/images/dataton-amazonia/banner-dataton-amazonia-final.png
   height: 41vh
   
 splitCTA:
@@ -23,7 +23,7 @@ bannerCTA:
   title: "¡Datos nuevos o antiguos, todos cuentan!"
   description: "Te ayudamos a publicarlos a través del SiB Colombia y GBIF, lo que facilitará su acceso libre y uso en la región y fuera de ella."
   overlayColor: "#253c34"
-  background: /assets/images/dataton-amazonia/banner-dataton-amazonia-principal.png
+  background: /assets/images/dataton-amazonia/banner-dataton-amazonia-final.png
   hasWhiteText: true
 
 videoPrincipal:
@@ -33,5 +33,5 @@ videoPrincipal:
 bannerLogo:
   title: ""
   # description: 
-  background: /assets/images/dataton-amazonia/banner-dataton-amazonia-principal.png
+  background: /assets/images/dataton-amazonia/banner-dataton-amazonia-final.png
   hasWhiteText: true
