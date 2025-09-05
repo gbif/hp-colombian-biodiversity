@@ -117,7 +117,7 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
 
 <table>
   <tr>
-   <td rowspan="5"><img src="/assets/images/dataton-amazonia/foto-circular-mono-arana-ateles-belzebut.png" width="" alt="Mono araña (Ateles belzebut)" title="Mono araña (Ateles belzebut)"></td>
+   <td rowspan="5" style="width: 35%;"><img src="/assets/images/dataton-amazonia/foto-circular-mono-arana-ateles-belzebut.png" width="" alt="Mono araña (Ateles belzebut)" title="Mono araña (Ateles belzebut)"></td>
    <td>Colecciones biológicas</td>
    <td>Inventarios</td>
   </tr>
