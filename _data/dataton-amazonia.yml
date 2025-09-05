@@ -21,9 +21,9 @@ banner:
   description: |      # required
               Te ayudamos a publicarlos a través del **SiB Colombia y GBIF**,
               lo que facilitará su acceso libre y uso en la región y fuera de ella.
-  background: /assets/images/minga/fondoSeparadorNarino.png
-  overlayColor: "#f3ffd4"
-  hasWhiteText: false
+  background: /assets/images/dataton-amazonia/mapa-colores.png
+  overlayColor: "#253c34"
+  hasWhiteText: true
 
 bannerTop:
   title: "¿Tienes datos sobre biodiversidad de la Amazonía colombiana?"
