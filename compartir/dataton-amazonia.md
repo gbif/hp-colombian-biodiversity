@@ -11,8 +11,8 @@ composition:
   data: dataton-amazonia.box  # property inside yaml file
 - type: markdown
   data: dataton-amazonia.videoPrincipal
-- type: floatingText
-  data: dataton-amazonia.bannerTop
+# - type: floatingText
+#  data: dataton-amazonia.bannerTop
 - type: split
   data: dataton-amazonia.splitCTA
 - type: floatingText
