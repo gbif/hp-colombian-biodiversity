@@ -9,15 +9,15 @@ toc: true
 composition:
 - type: heroBox
   data: dataton-amazonia.box  # property inside yaml file
-# - type: floatingText
-#  data: dataton-amazonia.bannerTop
 - type: split
   data: dataton-amazonia.splitCTA
+- type: floatingText
+  data: dataton-amazonia.bannerCTA
 - type: markdown
   data: dataton-amazonia.videoPrincipal
 - type: pageMarkdown # This will render the markdown in this file
 - type: floatingText
-  data: dataton-amazonia.banner
+  data: dataton-amazonia.bannerLogo
 ---
 
 <table>
