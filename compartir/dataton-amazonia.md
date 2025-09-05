@@ -127,7 +127,7 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
   </tr>
 </table>
 
-**Casi todos pueden ser estructurados para su publicación en tres tipos de conjuntos de datos**, con diferentes grados de complejidad: [registros biológicos, eventos de muestreo y listas de chequeo](https://biodiversidad.co/compartir/tipos-de-datos){:target="_blank"}.
+**Casi todos pueden ser estructurados para su publicación en tres tipos de conjuntos de datos**:
 <table>
   <tr>
    <td style="width: 33%;">
