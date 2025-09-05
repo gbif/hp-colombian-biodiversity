@@ -38,6 +38,24 @@ composition:
 
 Los anteriores, son solo algunas **cifras que puedes consultar y usar de manera libre de la plataforma del SiB Colombia, [Biodiversidad en Cifras](https://cifras.biodiversidad.co/)**, que desde septiembre de 2025 publicó una **nueva actualización** a partir de la cual impulsamos esta Datatón por la Amazonía en el marco del **proyecto Fondo para la Vida Amazonía**, con el objetivo de **captar datos e incentivar a antiguos y nuevos publicadores a contribuir al conocimiento, conservación y bienestar de la región**.
 
+<table>
+  <tr style="text-align: center;">
+   <td>
+     <img src="/assets/images/dataton-amazonia/logo-fondo-para-la-vida.jpeg" height="150" alt="Fondo para la Vida" title="Fondo para la Vida">
+   </td>
+   <td colspan="3">
+     <img src="/assets/images/dataton-amazonia/minibanner-monitoreo-amazonia-sib-colombia.png" height="150" alt="Monitoreo Amazonía y Sib Colombia" title="Monitoreo Amazonía y Sib Colombia">
+   </td>
+  </tr>
+  <tr>
+   <td>
+     <a href="https://www.minambiente.gov.co/fondo-para-la-vida" target="_blank">Fondo para la Vida</a>
+   </td>
+   <td colspan="3">
+     <a href="https://biodiversidad.co" target="_blank">SiB Colombia</a>
+   </td>
+</table>
+
 
 ## ¿Cuáles son los beneficios de publicar a través de esta Datatón por la Amazonía?
 
@@ -229,6 +247,7 @@ Y sigue fortaleciendo el reconocimiento y la gobernanza de este territorio.
 **Apoyan**
 
 <table>
+  <tr>
    <td>
      <img src="/assets/images/dataton-amazonia/logo-mads.jpg" width="" alt="Ministerio de Medio Ambiente y Desarrollo Sostenible" title="Ministerio de Medio Ambiente y Desarrollo Sostenible">
    </td>
@@ -256,11 +275,4 @@ Y sigue fortaleciendo el reconocimiento y la gobernanza de este territorio.
      <a href="https://www.sinchi.org.co/" target="_blank">Instituto Sinchi</a>
    </td>
   </tr>
-  <tr>
-   <td colspan="4">
-     <p style="text-align: center;"><img src="/assets/images/dataton-amazonia/logo-fondo-para-la-vida.jpeg" height="150" alt="Fondo para la Vida" title="Fondo para la Vida">
-       <img src="/assets/images/dataton-amazonia/minibanner-monitoreo-amazonia-sib-colombia.png" height="150" alt="Monitoreo Amazonía y Sib Colombia" title="Monitoreo Amazonía y Sib Colombia"></p>
-   </td>
-  </tr>
-  <tr>
 </table>
