@@ -55,6 +55,12 @@ Los anteriores, son solo algunas **cifras que puedes consultar y usar de manera 
      <a href="https://biodiversidad.co" target="_blank">SiB Colombia</a>
    </td>
   </tr>
+  <tr>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+  </tr>
 </table>
 
 
