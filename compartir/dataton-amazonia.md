@@ -20,17 +20,6 @@ composition:
     data: "dataton_amazonia.bannerLogo"
 ---
 
-<table>
-  <tr>
-   <td style="width: 35%;">
-     <img src="/assets/images/dataton-amazonia/foto-circular-moriche-mauritia-flexuosa.png" width="" alt="Moriche (Mauritia flexuosa)" title="Moriche (Mauritia flexuosa)">
-   </td>
-   <td style="width: 65%;">
-     <p>La Amazonía colombiana es clave para la conservación de especies como el jaguar (<em>Panthera onca</em>), la palma de moriche o canangucha (<em>Mauritia flexuosa</em>) y miles de especies de las que depende el bienestar de sus habitantes.</p>
-     <p>Existe una amplia diversidad de datos biológicos, como el número de especies únicas de un lugar (endémicas), las que están bajo amenaza, las que tienen más observaciones en una zona, entre otras, que pueden aumentar con tu aporte y ser valiosos para diversos procesos de la región.</p>
-   </td>
-  </tr>
-</table>
 
 ## ¿Cómo está la región frente a Colombia?
 
@@ -100,6 +89,19 @@ Además, una parte esencial de la misión de la red del SiB Colombia es promover
 </details>
     
 ___  
+
+
+<table>
+  <tr>
+   <td style="width: 35%;">
+     <img src="/assets/images/dataton-amazonia/foto-circular-moriche-mauritia-flexuosa.png" width="" alt="Moriche (Mauritia flexuosa)" title="Moriche (Mauritia flexuosa)">
+   </td>
+   <td style="width: 65%;">
+     <p>La Amazonía colombiana es clave para la conservación de especies como el jaguar (<em>Panthera onca</em>), la palma de moriche o canangucha (<em>Mauritia flexuosa</em>) y miles de especies de las que depende el bienestar de sus habitantes.</p>
+     <p>Existe una amplia diversidad de datos biológicos, como el número de especies únicas de un lugar (endémicas), las que están bajo amenaza, las que tienen más observaciones en una zona, entre otras, que pueden aumentar con tu aporte y ser valiosos para diversos procesos de la región.</p>
+   </td>
+  </tr>
+</table>
 
 
 ## ¿Quiénes pueden participar?
