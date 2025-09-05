@@ -47,9 +47,9 @@ La información almacenada en las bases de datos del SiB Colombia, tendrá únic
 Entidad coordinadora del **SiB Colombia**
 
 **Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt**
-Dirección: Calle 28 A No. 15-09
+Dirección: Calle 72 # 12 - 65 Piso 7
 Ciudad: Bogotá D.C
-Teléfono: +57 1 3202767
+Teléfono: + 57 3102158291, +57 3102158287
 
 ## Principios
 
@@ -97,15 +97,14 @@ En el tratamiento y protección de datos personales, el **SiB Colombia** tendrá
 Los titulares podrán realizar consultas, reclamos, peticiones, actualización y supresión de datos, por medio de uno de los siguientes canales:
 
 - Por medio de correo electrónico sib@humboldt.org.co
-- Por medio telefónico al número (57) (1) 3202767
-- Por medio de la página Web https://www.sibcolombia.net/
+- Por medio de la página Web https://biodiversidad.co/
  
 
 ## Procedimientos para la atención de solicitudes de titulares
 
 Los titulares podrán realizar solicitudes de consulta, reclamos, actualización y supresión de datos personales que repose de ellos en el **SiB Colombia**.
 
-Con respecto a la atención de estas solicitudes el S**iB Colombia** garantiza:
+Con respecto a la atención de estas solicitudes el **SiB Colombia** garantiza:
 
 - Las solicitudes podrán formularse por cualquiera de los canales de información descritos en esta Política.
 - En cualquier caso, independientemente del mecanismo implementado para la atención de solicitudes, las mismas serán atendidas en un término máximo de diez (10) días hábiles contados a partir de la fecha de su recibo. Cuando no fuere posible atender la solicitud dentro de dicho término, se informará al interesado antes del vencimiento de los 10 días, expresando los motivos de la demora y señalando la fecha en que se atenderá su consulta, la cual en ningún caso podrá superar los cinco (5) días hábiles siguientes al vencimiento del primer plazo.
