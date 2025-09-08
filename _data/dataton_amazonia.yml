@@ -13,10 +13,10 @@ splitCTA:
     ¡Llegó la hora de compartirlos, dar a conocer tu trabajo y la naturaleza de la región!
   background: /assets/images/dataton-amazonia/mapa-colores.png
   overlayColor: "#f3ffd4"
-  href: https://forms.gle/m61mpPA7fqxaMg5s9
+  href: https://docs.google.com/forms/d/e/1FAIpQLSfmX-YnTAWe7gBh6rE6tuUK6X3ikKURpsqQqNRAN00jRqEdgQ/viewform?usp=dialog
   cta:
     - text: Quiero publicar
-      href: https://forms.gle/m61mpPA7fqxaMg5s9
+      href: https://docs.google.com/forms/d/e/1FAIpQLSfmX-YnTAWe7gBh6rE6tuUK6X3ikKURpsqQqNRAN00jRqEdgQ/viewform?usp=dialog
       isPrimary: true
   
 bannerCTA:
