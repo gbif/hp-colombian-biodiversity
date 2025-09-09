@@ -23,9 +23,9 @@ Si es la primera vez que va a documentar metadatos utilizando la herramienta de 
 
 **Sobre la herramienta**
 
-El [IPT](https://www.gbif.org/es/ipt){:target="_blank"} (del inglés Integrated Publishing Toolkit) es un _software_ gratuito y de código abierto que se utiliza para publicar y compartir conjuntos de datos de biodiversidad a través del [SiB Colombia](https://biodiversidad.co), [GBIF](https://www.gbif.org/){:target="_blank"} y [OBIS](https://obis.org/){:target="_blank"}. Este _software_ permite integrar datos y metadatos en un mismo formato de archivo, conocido como _Darwin Core Archive_ (DwC-A). Una de las ventajas de esta herramienta, frente a otros mecanismos de publicación, es que provee una interfaz para documentar fácilmente los metadatos. Además, contempla la documentación de los autores del recurso, promoviendo así el adecuado reconocimiento a quienes publican datos sobre biodiversidad.
+El [IPT](https://www.gbif.org/es/ipt){:target="_blank"} (del inglés Integrated Publishing Toolkit) es un _software_ gratuito y de código abierto que se utiliza para publicar y compartir conjuntos de datos de biodiversidad a través del [SiB Colombia](https://biodiversidad.co){:target="_blank"}, [GBIF](https://www.gbif.org/){:target="_blank"} y [OBIS](https://obis.org/){:target="_blank"}. Este _software_ permite integrar datos y metadatos en un mismo formato de archivo, conocido como _Darwin Core Archive_ (DwC-A). Una de las ventajas de esta herramienta, frente a otros mecanismos de publicación, es que provee una interfaz para documentar fácilmente los metadatos. Además, contempla la documentación de los autores del recurso, promoviendo así el adecuado reconocimiento a quienes publican datos sobre biodiversidad.
 
-La instancia de publicación principal es el [IPT SiB](https://ipt.biodiversidad.co/sib/). Adicionalmente, los institutos del SINA administran su propio IPT.
+La instancia de publicación principal es el [IPT SiB](https://ipt.biodiversidad.co/sib/){:target="_blank"}. Adicionalmente, los institutos del SINA administran su propio IPT.
 
 **Convenciones**
 
@@ -38,11 +38,11 @@ La instancia de publicación principal es el [IPT SiB](https://ipt.biodiversidad
 
 **Enlace**
 <br>
-IPT Test: [https://ipt.biodiversidad.co/sib-test/](https://ipt.biodiversidad.co/sib-test/)
+IPT Test: [https://ipt.biodiversidad.co/sib-test/](https://ipt.biodiversidad.co/sib-test/){:target="_blank"}
 
 **Requerimientos** 
 
-Credenciales de ingreso al [IPT _test_](https://ipt.biodiversidad.co/sib-test/):
+Credenciales de ingreso al [IPT _test_](https://ipt.biodiversidad.co/sib-test/){:target="_blank"}:
 - Usuario: <span class="tag is-light"><b>Laboratorios_SiB@gmail.com</b></span>.
 - Contraseña: <span class="tag is-light"><b>FxKVSjOg</b></span>.
 
@@ -58,7 +58,7 @@ Esta guía provee un caso de ejemplo para realizar el ejercicio. Sin embargo, se
 
 ## Paso 1 - Ingreso al IPT
 
-Ingrese al  [IPT _test_](https://ipt.biodiversidad.co/sib-test/) y de clic en la opción <span class="tag is-warning is-light"><i>Iniciar Sesión</i></span> (Fig. 1).
+Ingrese al  [IPT _test_](https://ipt.biodiversidad.co/sib-test/){:target="_blank"} y de clic en la opción <span class="tag is-warning is-light"><i>Iniciar Sesión</i></span> (Fig. 1).
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig1_meta_ingreso.jpg" width=800>
 
@@ -170,7 +170,7 @@ Seleccione la organización principal que respalda la publicación de los datos 
 
 **"Licencia de los datos"**
 
-Para asegurar que sus datos sean abiertos, estos deben contar de manera explícita con una licencia que permita su reutilización. En este sentido, escoja una de las licencias [_Creative Commons_](https://co.creativecommons.net/tipos-de-licencias/){:target="_blank"} que regule hasta dónde quiere que lleguen sus datos (Fig. 9C). Puede referirse a la [guía de acceso abierto](https://biodiversidad.co/recursos/acceso-abierto) para realizar la elección.
+Para asegurar que sus datos sean abiertos, estos deben contar de manera explícita con una licencia que permita su reutilización. En este sentido, escoja una de las licencias [_Creative Commons_](https://co.creativecommons.net/tipos-de-licencias/){:target="_blank"} que regule hasta dónde quiere que lleguen sus datos (Fig. 9C). Puede referirse a la [guía de acceso abierto](https://biodiversidad.co/recursos/acceso-abierto){:target="_blank"} para realizar la elección.
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig7_meta_basico.png" width=800>
 
@@ -306,47 +306,48 @@ Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IP
 
 ### 4.8. Palabras clave
 
-El IPT crea unas palabras clave por defecto con base en el [tesauro de GBIF](http://rs.gbif.org/vocabulary/gbif/dataset_type.xml){:target="_blank"}{:target="_blank"}{:target="_blank"}. Es importante que **no** borre estos tesauros ni los modifique. En cambio, dé clic en <span class="tag is-warning is-light"><i>Añadir nuevo(a) palabras clave</i></span> para crear un nuevo campo y agregar palabras clave (Fig. 13).
+El IPT crea unas palabras clave por defecto con base en el [tesauro de GBIF](http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml){:target="_blank"}. Es importante que **no** borre estos tesauros ni los modifique. En cambio, dirígase a la parte inferior y dé clic en <span class="tag is-warning is-light"><i>Añadir palabras clave</i></span> para crear un nuevo campo y agregar palabras clave separadas por comas (Fig. 16).
 
-Si sus palabras clave provienen de un tesauro como [este](http://vocabularies.unesco.org/browser/thesaurus/es/page/mt2.70), indique el nombre del tesauro seguido por la URL en el campo **"Tesauro/Vocabulario"**. Si no esta usando un tesauro para seleccionar las palabras clave, documente el campo **"Tesauro/Vocabulario"** con <span class="tag is-light"><b>n/a</b></span> (No Aplica).
+Si sus palabras clave provienen de un tesauro como [este](https://vocabularies.unesco.org/browser/thesaurus/es/){:target="_blank"}, indique el nombre del tesauro seguido por la URL en el campo **"Tesauro/Vocabulario"**. Si no está usando un tesauro para seleccionar las palabras clave, documente el campo **"Tesauro/Vocabulario"** con <span class="tag is-light"><b>n/a</b></span> (No Aplica).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig13_metadatos_pclave.PNG" width=600>
 
-<sub>_Figura 13. Sección palabras clave._</sub>
+<sub>_Figura 16. Sección Palabras clave_.</sub>
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Palabras clave](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#palabras-clave).
+Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Palabras clave](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#palabras-clave){:target="_blank"}.
 
 
 ### 4.9. Datos del proyecto
 
 Documente la sección **"Datos del proyecto"**, teniendo en cuenta la información proporcionada en el caso de ejemplo.
 
-Los campos **"Identificador"** y **"Personas asociadas al proyecto"** no están disponibles en el caso de ejemplo. Sin embargo, tenga en cuenta las siguiente recomendaciones para futuras publicaciones:
-
+Los campos **"Identificador"** y **"Personas asociadas al proyecto"** no están disponibles en el caso de ejemplo. Sin embargo, tenga en cuenta las siguientes recomendaciones para futuras publicaciones:
 
 - En el campo **"Identificador"**, se documenta un código único como el número del contrato, la resolución, el convenio o acuerdo firmado entre las partes, entre otros. No documente subtítulos o textos libres en este campo. 
 
-- En el campo **"Personas Asociadas al Proyecto"**, se documentan las personas involucradas si estas no fueron mencionadas en los metadatos básicos o como partes asocidas. Si ingresa personas en este campo, debe añadir obligatoriamente el campo **"Rol"**. De lo contrario, se pueden generar inconvenientes al momento de publicar el recurso.
+- En el campo **"Personas Asociadas al Proyecto"**, se documentan las personas involucradas que no se hayan mencionado en la sección de **"Contactos"**. Si ingresa personas en este campo, se debe seleccionar obligatoriamente un valor en el campo **"Rol"**. De lo contrario, se pueden generar inconvenientes al momento de publicar el recurso.
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Datos del proyecto](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#datos-del-proyecto{:target="_blank"}).
+En caso de que tus datos estén asociados a más de un proyecto, puedes utilizar la opción <span class="tag is-warning is-light"><i>Añadir proyecto relacionado</i></span> para documentar más proyectos, y se puede especificar el personal involucrado en cada uno de ellos.
+
+Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Datos del proyecto](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#datos-del-proyecto){:target="_blank"}.
 
 ### 4.10. Métodos de muestreo
 
 Documente esta sección de acuerdo al apartado de **"Metodología"** en el caso de ejemplo.
 
-- El campo **"Área de estudio"** puede coincidir con el espacio documentado en la sección **"Datos del Proyecto"**.
-
-En el campo **"Metodología paso a paso"**, es conveniente redactar cada paso en un párrafo diferente para que la publicación sea más ordenada. Por consiguiente, haga clic en  <span class="tag is-warning is-light"><i>Añadir nuevo(a) paso metodológico</i></span> (Fig. 14).
+- El campo **"Área de Estudio"** puede coincidir con el espacio documentado en la sección **"Datos del Proyecto"**.
+- En el campo **"Descripción del muestreo"** va un párrafo general que resume todos los métodos utilizados para la toma de datos.
+- En el campo **"Metodología paso a paso"**, es conveniente redactar cada paso en un recuadro diferente para que la publicación sea más ordenada. Por consiguiente, haga clic en <span class="tag is-warning is-light"><i>Añadir paso metodológico</i></span> para añadir tantos recuadros como considere conveniente (Fig. 17).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig14_metadatos_metodpasos.PNG" width=600>
 
-<sub>_Figura 14. Metodología paso a paso de la sección métodos de muestreo._</sub>
+<sub>_Figura 17. Metodología paso a paso de la sección métodos de muestreo._</sub>
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Métodos de muestreo](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#m%C3%A9todos-de-muestreo).
+Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Métodos de muestreo](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#m%C3%A9todos-de-muestreo){:target="_blank"}.
 
-### 4.11 Referencias
+### 4.11. Referencias
 
-En el campo **"¿Cómo referenciar este recurso?"**, asegurese de que esté activada la opción <span class="tag is-warning is-light"><i>Generación automática</i></span>. De esta forma, dicha sección se diligenciará según lo documentado en los apartados de **"Creadores del Recurso"** y **"Proveedores de los Metadatos"**, compilados en la sección **"Metadatos Básicos"** (Fig. 15). 
+En el campo **"¿Cómo referenciar este recurso?"**, dé clic sobre la opción <span class="tag is-warning is-light"><i>Generación automática Desactivada - Activar</i></span>. De esta forma, dicha sección se diligenciará según lo documentado en los apartados de **"Creadores del Recurso"** y **"Proveedores de los Metadatos"**, compilados en la sección **"Contactos"**. Cuando se genere la citación, asegúrese de que todos los autores involucrados con la publicación estén correctamente referenciados (Fig. 18).
 
 El formato de la referencia utilizado en la generación automática se basa en el formato recomendado (referencia de _DataCite_) y satisface la [_Joint Declaration of Data Citation Principle_](https://www.force11.org/datacitationprinciples){:target="_blank"}. Este formato incluye un número de versión, el cual es particularmente importante para los conjuntos de datos que se actualizan continuamente.
 
@@ -354,31 +355,25 @@ El formato de la referencia utilizado en la generación automática se basa en e
   <b>Nota:</b> si está activada la referencia automática, la citación incluirá el DOI (previamente asignado a la publicación), lo cual facilitará el rastreo del historial de uso del conjunto de datos.
 </div>
 
-Cuando se genere la citación, asegúrese de que todos los autores involucrados con la publicación estén correctamente referenciados.
-
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig15_metadatos_referencia.PNG" width=600>
 
-<sub>*Figura 15. Sección Referencias.*</sub>
+<sub>_Figura 18. Sección Referencias_.</sub>
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Referencias](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#referencias){:target="_blank"}.
+Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Referencias](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#referencias){:target="_blank"}.
 
 ### 4.12. Datos de la colección
 
-Documente esta sección con base en la información sobre la colección de la portada e introducción del caso de ejemplo, solo en los siguientes casos:
+Esta sección solo se documenta para los conjuntos de datos que corresponden a colecciones biológicas, y no cuando alguna de las observaciones se haya depositado en una colección. Siguiendo el caso de ejemplo, puedes documentar esta sección con la información que está en la portada e introducción.
 
-1. El conjunto de datos corresponde a una colección biológica.
-2. Una o varias de las observaciones del conjunto de datos está asociada a un especímen que fue entregado y depositado en una colección biológica.
-
-Es recomendable documentar los campos de acuerdo al [Registro Nacional de Colecciones Biológicas](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones){:target="_blank"}. Puede añadir tantas coleciones como sea necesario (Fig. 16).
+Es recomendable documentar los campos de acuerdo al [Registro Nacional de Colecciones Biológicas](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones){:target="_blank"}. Puede añadir tantas coleciones como sea necesario (Fig. 19).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig16_meta_colecciones.png" width=600>
 
-<sub>*Figura 16. Sección datos de la colección documentados de acuerdo al Registro Nacional de Colecciones Biológicas.*</sub>
+<sub>_Figura 19. Sección datos de la colección documentados de acuerdo al Registro Nacional de Colecciones Biológicas_.</sub>
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Datos de la Colección](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#datos-de-la-colecci%C3%B3n){:target="_blank"}.
 
 ### 4.13. Enlaces externos
-Esta es una sección opcional. Puede incluir la URL de otro repositorio donde también se encuentren los datos publicados. Por ejemplo, [DRYAD](https://datadryad.org/stash){:target="_blank"}, [NCBI](https://www.ncbi.nlm.nih.gov/){:target="_blank"}{:target="_blank"}, [BOLD](https://boldsystems.org/), entre otros.
+Esta es una sección opcional. Puede incluir la URL de otro repositorio donde también se encuentren los datos publicados. Por ejemplo, [DRYAD](https://datadryad.org/stash){:target="_blank"}, [NCBI](https://www.ncbi.nlm.nih.gov/){:target="_blank"}{:target="_blank"}, [BOLD](https://boldsystems.org/){:target="_blank"}, entre otros.
 
 Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Enlaces Externos](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#enlaces-externos){:target="_blank"}.
 
