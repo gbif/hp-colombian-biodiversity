@@ -184,6 +184,7 @@ Describa brevemente los datos que se van a publicar. Este campo es equivalente a
 
 <sub>_Figura 10. Vista del campo **"Descripción"** dentro de la sección metadatos básicos_.</sub>
 
+Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Metadatos básicos](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#metadatos-b%C3%A1sicos){:target="_blank"}.
 
 > Después de llenar todos los campos obligatorios de una sección (marcados con *) asegúrate de dar clic al botón <span class="tag is-warning is-light"><i>Guardar</i></span>. De esta forma garantizas que no se pierda la información diligenciada en la sección.
 >
@@ -231,16 +232,17 @@ Se recomienda que las partes (personas e instituciones) involucradas en la gener
 
 <sub>_Figura 12. Vista de las partes **"Proveedores de los metadatos"** y **"Partes asociadas"** dentro de la sección Contactos_.</sub>
 
-Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT](https://ipt.gbif.org/manual/es/ipt/latest/gbif-metadata-profile#personas-y-organizaciones){:target="_blank"}.
+Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Contactos](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#contactos){:target="_blank"}.
 
 ### 4.3. Agradecimientos
+
 Esta es una sección opcional. En caso de ser necesario, aquí puedes documentar la información de financiadores y otros contribuyentes del estudio.
 
-### 4.2. Cobertura geográfica
+### 4.4. Cobertura geográfica
 
-En el mapa de esta sección, desactive el recuadro <span class="tag is-warning is-light"><i>Establecer cobertura global</i></span> para seleccionar el punto más cercano a la ubicación del los datos en el mapa. Use la cobertura global solo si sus datos cubren un amplio rango de países. Adicionalmente, ajuste los marcadores en el recuadro del mapa para que cubra de forma **aproximada** la región donde se tomaron los datos (Fig. 10A).
+En el mapa de esta sección, desactive el recuadro <span class="tag is-warning is-light"><i>Establecer cobertura global</i></span> para seleccionar el punto más cercano a la ubicación de los datos en el mapa. Use la cobertura global solo si sus datos cubren un amplio rango de países. Para seleccionar el área específica donde se tomaron los datos, puedes ajustar los marcadores en el recuadro del mapa para que cubra de forma **aproximada** la región deseada (Fig. 13A), o puedes documentar la latitud y longitud mínima y máxima en los recuadros correspondientes (Fig. 13B). El recuadro <span class="tag is-warning is-light"><i>Inferir automáticamente a partir de la fuente de datos</i></span> (Fig. 13C) sólo funciona si se ha cargado y mapeado el conjunto de datos.
 
-Ingrese la **"Descripción"** de la cobertura geográfica, de acuerdo al área de estudio del caso de ejemplo. Recuerde documentar solo lo que hace referencia a la ubicación geográfica de los datos (Fig. 10B).
+Ingrese la **"Descripción"** de la cobertura geográfica, de acuerdo al área de estudio del caso de ejemplo. Recuerde documentar solo lo que hace referencia a la ubicación geográfica de los datos (Fig. 13D).
 
 <div class="notification is-info is-light">
   <b>Nota:</b> si está haciendo el ejercicio con sus propios datos y cuenta con coordenadas, puede realizar un filtro en los elementos de latitud y longitud decimales para identificar la latitud y longitud mínima y máxima. De esta manera, el recuadro se ajustará con mayor exactitud a su cobertura geográfica. 
@@ -248,54 +250,61 @@ Ingrese la **"Descripción"** de la cobertura geográfica, de acuerdo al área d
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig10_metadatos_cgeografica.png" width=500>
 
-<sub>_Figura 10. Sección cobertura geográfica. A. Selección de cobertura en mapa, B. Descripción_.</sub>
+<sub>_Figura 13. Sección cobertura geográfica. A. Selección de cobertura en mapa, B. Recuadros de longitud y latitud mínima y máxima, C. Opción para inferir las coordenadas a partir de los datos, D. Descripción_.</sub>
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Cobertura geográfica](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#cobertura-geogr%C3%A1fica){:target="_blank"}.
+Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Cobertura geográfica](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#cobertura-geogr%C3%A1fica){:target="_blank"}.
 
+### 4.5. Cobertura taxonómica
 
-### 4.3. Cobertura taxonómica
-
-Agregue una nueva cobertura taxonómica con el botón <span class="tag is-warning is-light"><i>Añadir nuevo(a) cobertura taxonómica</i></span> y complete la descripción, teniendo en cuenta la sección **"Resultados"** del caso de ejemplo.
+Agregue una nueva cobertura taxonómica con el botón <span class="tag is-warning is-light"><i>Añadir cobertura taxonómica</i></span> y complete la descripción, teniendo en cuenta la sección **"Resultados"** del caso de ejemplo.
 
 Tenga en cuenta que la información mínima a documentar es:
 
 - Descripción textual de las categorias taxonómicas presentes en el conjunto de datos. 
 - Número de taxones o registros por categoría taxonómica.
 
->**Ejemplo:** los [Números de registros] pertenecen a [x] ordenes, [x] familias y [x] géneros. Un [x%] está identificado a nivel de especie, un [x%] género y un [x%] a familia.
+>**Ejemplo:** los [Números de registros] pertenecen a [x] órdenes, [x] familias y [x] géneros. Un [x%] está identificado a nivel de especie, un [x%] género y un [x%] a familia.
 >
 
-Para agregar varios taxones a la cobertura, haga clic en <span class="tag is-warning is-light"><i>Añadir varios taxa</i></span>. Luego, pegue ahí la lista de taxones, la cual puede ser de géneros, órdenes o clases que describan la cobertura taxonómica del recurso. No es recomendable que agregue listas de taxa a nivel de especies, así que intente agruparlas según su taxonomía superior. 
+Para agregar varios taxones a la cobertura, haga clic en <span class="tag is-warning is-light"><i>Añadir varios taxa</i></span>. Luego, pegue ahí la lista de taxones, la cual puede ser de géneros, órdenes o clases que describan la cobertura taxonómica del recurso. No es recomendable que agregue listas a nivel de especies, así que intente agruparlas según su taxonomía superior.
 
-Para este caso, agregue  los nombres de las especies descritas en los **"Resultados"** del caso de ejemplo (Fig. 11A) y haga clic en <span class="tag is-warning is-light"><i>Agregar</i></span>. 
+Para este caso, agregue los nombres de los géneros descritos en los **"Resultados"** del caso de ejemplo (Fig. 14A) y haga clic en <span class="tag is-warning is-light"><i>Agregar</i></span>.
 
-Cuando se haya añadido la lista de taxa, recuerde completar la **"Categoría"** con una de las opciones del desplegable y el nombre común, si está disponible (Fig. 11B).
+Cuando se haya añadido la lista de taxa, recuerde completar la **"Categoría"** con una de las opciones del desplegable, y si está disponible, documente el **"Nombre Común"** (Fig. 14B). En caso de querer añadir un taxón individualmente, puedes usar la opción <span class="tag is-warning is-light"><i>Añadir taxón</i></span>.
+
+En caso de haber mapeado los datos previamente, también puedes usar la opción <span class="tag is-warning is-light"><i>Inferir automáticamente a partir de la fuente de datos</i></span>, y se documentarán todos los taxones presentes en los datos.
 
 <div class="notification is-info is-light">
-  <b>Nota:</b> si hay varios grupos biológicos cubiertos en su conjunto de datos (como animales, plantas, bacterias, etc.), se recomienda añadir nuevas coberturas taxonómicas para cada grupo.
+  <b>Nota:</b> Si hay varios grupos biológicos cubiertos en su conjunto de datos (como animales, plantas, bacterias, etc.), se recomienda utilizar la opción <span class="tag is-warning is-light"><i>Añadir cobertura taxonómica</i></span> para cada grupo.
 </div>
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig11_metadatos_ctaxo.PNG" width=500>
 
-<sub>*Figura 11. Sección cobertura taxonómica. A. Añadir varios taxa, B. Documentación de la categoría y nombre común de cada taxa.*</sub>
+<sub>_Figura 14. Sección cobertura taxonómica. A. Lista de Taxa, B. Documentación de la categoría y nombre común de cada taxa_.</sub>
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Cobertura taxonómica](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#cobertura-taxon%C3%B3mica){:target="_blank"}.
+Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Cobertura taxonómica](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#cobertura-taxon%C3%B3mica){:target="_blank"}.
 
-### 4.4. Cobertura temporal
+### 4.6. Cobertura temporal
 
-Generalmente, los proyectos o publicaciones cubren más de una fecha. Por esta razón, se recomienda usar la opción <span class="tag is-warning is-light"><i>Rango de Fechas</i></span> en **""Tipo de Cobertura Temporal"**.
-Recuerde documentar el rango de fechas con el formato del estándar ISO 8601 (AAAA-MM-DD) o usando el botón de calendario (Fig. 12).
+Agregue una nueva cobertura taxonómica con el botón <span class="tag is-warning is-light"><i>Añadir cobertura temporal</i></span>. Generalmente, los proyectos o publicaciones cubren más de una fecha. Por esta razón, se recomienda usar la opción <span class="tag is-warning is-light"><i>Rango de Fechas</i></span> en **"Tipo de Cobertura Temporal"** (Fig. 15A). Puede documentar el rango de fechas manualmente en **"Fecha Inicial"** y **"Fecha Final"** o usando el botón de calendario (Fig. 15B). En caso de haber mapeado los datos previamente, esta sección también cuenta con la opción <span class="tag is-warning is-light"><i>Inferir automáticamente a partir de la fuente de datos</i></span> (Fig 15C).
 
 >El rango de fechas documentado en los metadatos debe ser coherente con el rango de fechas presentes en los datos. 
 >
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig12_metadatos_ctemporal.PNG" width=600>
 
-<sub>*Figura 12. Sección cobertura temporal.*</sub>
+<sub>_Figura 15. Sección cobertura temporal A. Selección de Tipo de Cobertura Temporal, B. Opción de calendario, C. Opción para inferir las fechas a partir de los datos_.</sub>
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Cobertura temporal](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#cobertura-temporal{:target="_blank"}).
+Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Cobertura temporal](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#cobertura-temporal){:target="_blank"}.
 
-### 4.5 Palabras clave
+### 4.7. Descripción adicional
+
+Esta es una sección opcional. Aquí puedes documentar información como el propósito del conjunto de datos, su contenido, su estructura, la posible interpretación y una descripción detallada del mismo. Esta sección es muy útil si planeas publicar un artículo de datos en el futuro.
+
+Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Descripción adicional](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#descripci%C3%B3n-adicional){:target="_blank"}.
+
+
+### 4.8. Palabras clave
 
 El IPT crea unas palabras clave por defecto con base en el [tesauro de GBIF](http://rs.gbif.org/vocabulary/gbif/dataset_type.xml){:target="_blank"}{:target="_blank"}{:target="_blank"}. Es importante que **no** borre estos tesauros ni los modifique. En cambio, dé clic en <span class="tag is-warning is-light"><i>Añadir nuevo(a) palabras clave</i></span> para crear un nuevo campo y agregar palabras clave (Fig. 13).
 
@@ -308,27 +317,7 @@ Si sus palabras clave provienen de un tesauro como [este](http://vocabularies.un
 Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Palabras clave](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#palabras-clave).
 
 
-### 4.6. Partes asociadas
-
-Para este ejercicio, y según el caso de ejemplo, la documentación de la sección **"Partes Asociadas"** no aplica. Sin embargo, lea las siguientes recomendaciones para futuras publicaciones:
-
-En esta sección, se documenta la información de las personas u organizaciones adicionales que se incluyeron en los metadatos básicos. También se pueden documentar por completo nuevamente si se quiere especificar su rol dentro de la publicación.
-
-<article class="message is-warning">
-  <div class="message-header">
-    <p>¡Precaución!</p>    
-  </div>
-  <div class="message-body">
-    Es indispensable que el elemento <b><i>"Rol"</i></b> esté documentado para todas las partes asocidas que se incluyan en esta sección.
-  </div>
-</article>
-
-Se recomienda que las partes (personas e instituciones) involucradas en la generación de los datos sean reconocidas en los metadatos, idealmente como "Creadores del recurso" en la sección de **"Metadatos básicos"** (si se consideran autores del recurso) y en **"Partes asociadas"** (si estuvieron involucradas en la generación del recurso y cumplen alguno de los roles del campo **"Rol"**).
-
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Partes asociadas](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#partes-asociadas){:target="_blank"}.
-
-
-### 4.7. Datos del proyecto
+### 4.9. Datos del proyecto
 
 Documente la sección **"Datos del proyecto"**, teniendo en cuenta la información proporcionada en el caso de ejemplo.
 
@@ -341,7 +330,7 @@ Los campos **"Identificador"** y **"Personas asociadas al proyecto"** no están 
 
 Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Datos del proyecto](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#datos-del-proyecto{:target="_blank"}).
 
-### 4.8. Métodos de muestreo
+### 4.10. Métodos de muestreo
 
 Documente esta sección de acuerdo al apartado de **"Metodología"** en el caso de ejemplo.
 
@@ -355,7 +344,7 @@ En el campo **"Metodología paso a paso"**, es conveniente redactar cada paso en
 
 Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Métodos de muestreo](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#m%C3%A9todos-de-muestreo).
 
-### 4.9 Referencias
+### 4.11 Referencias
 
 En el campo **"¿Cómo referenciar este recurso?"**, asegurese de que esté activada la opción <span class="tag is-warning is-light"><i>Generación automática</i></span>. De esta forma, dicha sección se diligenciará según lo documentado en los apartados de **"Creadores del Recurso"** y **"Proveedores de los Metadatos"**, compilados en la sección **"Metadatos Básicos"** (Fig. 15). 
 
@@ -373,7 +362,7 @@ Cuando se genere la citación, asegúrese de que todos los autores involucrados 
 
 Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Referencias](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#referencias){:target="_blank"}.
 
-### 4.10. Datos de la Colección
+### 4.12. Datos de la colección
 
 Documente esta sección con base en la información sobre la colección de la portada e introducción del caso de ejemplo, solo en los siguientes casos:
 
@@ -388,12 +377,12 @@ Es recomendable documentar los campos de acuerdo al [Registro Nacional de Colecc
 
 Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Datos de la Colección](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#datos-de-la-colecci%C3%B3n){:target="_blank"}.
 
-### 4.11 Enlaces Externos
+### 4.13. Enlaces externos
 Esta es una sección opcional. Puede incluir la URL de otro repositorio donde también se encuentren los datos publicados. Por ejemplo, [DRYAD](https://datadryad.org/stash){:target="_blank"}, [NCBI](https://www.ncbi.nlm.nih.gov/){:target="_blank"}{:target="_blank"}, [BOLD](https://boldsystems.org/), entre otros.
 
 Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Enlaces Externos](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#enlaces-externos){:target="_blank"}.
 
-### 4.12 Metadatos Adicionales
+### 4.14. Metadatos adicionales
 Esta es una sección opcional. Generalmente, el publicador no debe documentar ningún campo. El EC-SiB añadirá el logo de la organización publicadora principal (Fig. 17A) y el IPT completará automáticamente los **"Identificadores Alternativos"**, que incluyen la url del recurso en el IPT, el DOI y el ID del recurso en el SiB Colombia y GBIF, una vez que se publique el recurso (Fig. 17B).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig17_meta_adicionales.png" width=600>
