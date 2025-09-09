@@ -1,4 +1,4 @@
-url: "https://hp-colombian-biodiversity.gbif-uat.org" # the base hostname & protocol for your staging site, e.g. https://hp-example.gbif-uat.org
+url: "https://colombian-biodiversity.hp.gbif-uat.org" # the base hostname & protocol for your staging site, e.g. https://example.hp.gbif-uat.org
 
 useSharedLibrary: true # Use the new component library
 testSite: true #style the site to show that it is a test site

@@ -4,7 +4,7 @@
 
 # GBIF Hosted Portal: hp-colombian-biodiversity
 
-This Jekyll website, **[hp-colombian-biodiversity](https://hp-colombian-biodiversity.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
+This Jekyll website, **[hp-colombian-biodiversity](https://colombian-biodiversity.hp.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
 
 You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals)
 

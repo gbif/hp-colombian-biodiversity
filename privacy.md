@@ -16,4 +16,4 @@ privacy:
   helpdeskEmail: helpdesk@your-domain.org
 ```
 
-See also https://hp-base-theme.gbif-staging.org/privacy-policy-template
+See also https://theme.hp.gbif-staging.org/privacy-policy-template
