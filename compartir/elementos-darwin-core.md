@@ -1698,9 +1698,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre científico completo del género no aceptado al que pertenece el taxón. |
-| Comentarios | El elemento genericName solo debe usarse para combinaciones como se muestra a continuación:<br><br> Felis (para el scientificName "Felis concolor", con los valores correspondientes de "Puma concolor" en acceptNameUsage y "Puma" en genus). |
+| Comentarios | El elemento genericName solo debe usarse para combinaciones como se muestra a continuación:<br><br> Felis (para el scientificName "Felis concolor", con los valores correspondientes de "Puma concolor" en acceptedNameUsage y "Puma" en genus). |
 | Ejemplo | Felis |
-| Elementos relacionados | scientificName, acceptNameUsage, genus |
+| Elementos relacionados | scientificName, acceptedNameUsage, genus |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_ |
 
 <br>
