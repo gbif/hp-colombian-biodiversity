@@ -43,14 +43,14 @@ var siteConfig = {
     },
     highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince','publisherKey','elevation','year', 'basisOfRecord','datasetName','occurrenceIssue'],
     occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY', 'DATASETS'],
-    // availableCatalogues: ['OCCURRENCE', 'DATASET']
+    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION']
   },
   dataset: {
     availableCatalogues: ['DATASET', 'PUBLISHER'],
     rootFilter: {publishingCountry: 'CO'},
     highlightedFilters: ['q', 'anyPublisherKey', 'datasetType', 'license'],
     excludedFilters: ['publishingCountryCode'],
-    // availableCatalogues: ['OCCURRENCE', 'DATASET']
+    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION']
   },
   collection: {
     availableCatalogues: ['COLLECTION', 'INSTITUTION'],
