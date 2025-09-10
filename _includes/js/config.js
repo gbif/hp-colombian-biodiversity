@@ -13,7 +13,7 @@ var siteConfig = {
     }
   },
   
-  availableCatalogues: ['OCCURRENCE', 'COLLECTION', 'INSTITUTION', 'PUBLISHER', 'LITERATURE'], // también se puede 'DATASET' 
+  availableCatalogues: ['OCCURRENCE', 'DATASET', 'COLLECTION',  'PUBLISHER', 'INSTITUTION', 'LITERATURE'], // también se podría algo como 'SPECIES' pero no se tiene configuración 
     
   occurrence: {
      mapSettings: {
@@ -50,6 +50,7 @@ var siteConfig = {
     occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY', 'DATASETS'],
     availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION']
   },
+  
   dataset: {
     availableCatalogues: ['DATASET', 'PUBLISHER'],
     rootFilter: {publishingCountry: 'CO'},
@@ -57,6 +58,7 @@ var siteConfig = {
     excludedFilters: ['publishingCountryCode'],
     availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION']
   },
+  
   collection: {
     availableCatalogues: ['COLLECTION', 'INSTITUTION'],
     excludedFilters: ['countrySingleGrSciColl','country'],
@@ -66,12 +68,14 @@ var siteConfig = {
       active: true
     }
   },
+  
   publisher: {
     rootFilter: {
       country: 'CO'
     },
     excludedFilters: ['countrySingle'],
   },
+  
   institution: {
     availableCatalogues: ['COLLECTION', 'INSTITUTION'],
     excludedFilters: ['countrySingleGrSciColl'],
@@ -87,6 +91,24 @@ var siteConfig = {
       zoom: 5.654
     },
   },
+  
+  literature: {
+    rootFilter: {
+      predicate: {
+        type: 'or', predicates: [
+          {
+            type: 'in',
+            key: 'countriesOfResearcher',
+            value: 'CO'
+          },
+          {
+            type: 'in',
+            key: 'countriesOfCoverage',
+            value: 'CO'
+          }
+        ]
+      },
+      
   maps: {
     locale: 'es'
   }
