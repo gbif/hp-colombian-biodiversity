@@ -363,7 +363,7 @@ Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IP
 
 ### 4.12. Datos de la colección
 
-Esta sección solo se documenta para los conjuntos de datos que corresponden a colecciones biológicas, y no cuando alguna de las observaciones se haya depositado en una colección. Siguiendo el caso de ejemplo, puedes documentar esta sección con la información que está en la portada e introducción.
+Esta sección solo se documenta para los conjuntos de datos que corresponden a colecciones biológicas, y no cuando alguna de las observaciones se hayan depositado en una colección. Siguiendo el caso de ejemplo, puedes documentar esta sección con la información que está en la portada e introducción.
 
 Es recomendable documentar los campos de acuerdo al [Registro Nacional de Colecciones Biológicas](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones){:target="_blank"}. Puede añadir tantas coleciones como sea necesario (Fig. 19).
 
@@ -373,18 +373,22 @@ Es recomendable documentar los campos de acuerdo al [Registro Nacional de Colecc
 
 
 ### 4.13. Enlaces externos
+
 Esta es una sección opcional. Puede incluir la URL de otro repositorio donde también se encuentren los datos publicados. Por ejemplo, [DRYAD](https://datadryad.org/stash){:target="_blank"}, [NCBI](https://www.ncbi.nlm.nih.gov/){:target="_blank"}{:target="_blank"}, [BOLD](https://boldsystems.org/){:target="_blank"}, entre otros.
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Enlaces Externos](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#enlaces-externos){:target="_blank"}.
+Puede incluir varios repositorios en caso de ser necesario. Para esto, dé clic sobre la opción <span class="tag is-warning is-light"><i>Añadir enlace externo</i></span> y especifique **"Nombre"**, **"Conjunto de caracteres"** (por ejemplo <span class="tag is-light"><b>UTF-8</b></span>), la **"URL del archivo"** y el **"Formato del Archivo"** (por ejemplo <span class="tag is-light"><b>xlsx</b></span>).
+
+Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Enlaces externos](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#enlaces-externos){:target="_blank"}.
 
 ### 4.14. Metadatos adicionales
-Esta es una sección opcional. Generalmente, el publicador no debe documentar ningún campo. El EC-SiB añadirá el logo de la organización publicadora principal (Fig. 17A) y el IPT completará automáticamente los **"Identificadores Alternativos"**, que incluyen la url del recurso en el IPT, el DOI y el ID del recurso en el SiB Colombia y GBIF, una vez que se publique el recurso (Fig. 17B).
+
+Esta es una sección opcional. Generalmente, el publicador no debe documentar ningún campo. El EC-SiB añadirá el logo de la organización publicadora principal (Fig. 20A) y una vez que se publique el recurso, el IPT completará automáticamente los **"Identificadores alternativos"**, que incluyen la URL del recurso en el IPT, el DOI y el ID del recurso en el SiB Colombia y GBIF (Fig. 20B).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig17_meta_adicionales.png" width=600>
 
-<sub>_Figura 17. Sección metadatos adicionales. A. Logo estandarizado del publicador, B. identificadores alternativos._</sub>
+<sub>_Figura 20. Sección metadatos adicionales. A. Logo estandarizado del publicador, B. identificadores alternativos_.</sub>
 
-Puede ver más detalles acerca de esta sección en la [Guía de referencia rápida del IPT - Metadatos Adicionales](https://github.com/gbif/ipt/wiki/IPT2ManualNotes_ES.wiki#metadatos-adicionales){:target="_blank"}.
+puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Enlaces externos](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#metadatos-adicionales){:target="_blank"}.
 
 <br>
 
@@ -407,5 +411,5 @@ La licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/){:target="_blan
 
 **Citación sugerida**
 
-> Plata C., Ortíz R., Marentes E. (2021). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
+> Plata C., Ortíz R., Marentes E., Salinas P., Sánchez L., Murillo D. (2025). Laboratorio de datos, Ciclo de formación. Consultado a través del SiB Colombia. Disponible en [https://biodiversidad.co/formacion/laboratorios](https://biodiversidad.co/formacion/laboratorios).
 >
