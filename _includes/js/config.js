@@ -5,7 +5,7 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 var siteConfig = {
   routes: {
     alwaysUseHrefs: true,
-    enabledRoutes: ['occurrenceSearch', 'institutionKey', 'institutionSearch', 'publisherSearch', 'publisherKey', 'collectionKey', 'collectionSearch', 'datasetKey', 'datasetSearch', 'literatureSearch'],
+    enabledRoutes: ['occurrenceSearch', 'publisherSearch', 'publisherKey', 'collectionKey', 'collectionSearch', 'datasetKey', 'datasetSearch', 'literatureSearch'], // Se omite 'institutionKey', 'institutionSearch' porque no se llama
     occurrenceSearch: {
       url: ({basename}) => `${basename ? `/${basename}` : ''}/data`,
       isHref: true,
@@ -13,7 +13,7 @@ var siteConfig = {
     }
   },
   
-  availableCatalogues: ['OCCURRENCE', 'DATASET', 'COLLECTION', 'PUBLISHER', 'INSTITUTION', 'LITERATURE'], // también se podría algo como 'SPECIES' pero no se tiene configuración 
+  availableCatalogues: ['OCCURRENCE', 'DATASET', 'COLLECTION', 'PUBLISHER',  'LITERATURE'], // Se omite 'INSTITUTION'. También se podría algo como 'SPECIES' pero no se tiene configuración 
     
   occurrence: {
      mapSettings: {
@@ -46,22 +46,19 @@ var siteConfig = {
         }
       ]
     },
-    highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince','publisherKey','elevation','year', 'basisOfRecord','datasetName','occurrenceIssue'],
     occurrenceSearchTabs: ['TABLE', 'MAP', 'GALLERY', 'DATASETS'],
-    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION']
+    highlightedFilters: ['taxonKey', 'gadmGid', 'stateProvince','publisherKey','elevation','year', 'basisOfRecord','datasetName','occurrenceIssue']
+    
   },
   
   dataset: {
-    availableCatalogues: ['DATASET', 'PUBLISHER'],
     rootFilter: {publishingCountry: 'CO'},
     highlightedFilters: ['q', 'anyPublisherKey', 'datasetType', 'license'],
-    excludedFilters: ['publishingCountryCode'],
-    availableCatalogues: ['OCCURRENCE', 'DATASET', 'PUBLISHER', 'COLLECTION', 'INSTITUTION']
+    excludedFilters: ['publishingCountryCode'] // Se excluyen los filtros de país ya que todos son de CO
   },
   
   collection: {
-    availableCatalogues: ['COLLECTION', 'INSTITUTION'],
-    excludedFilters: ['countrySingleGrSciColl','country'],
+    excludedFilters: ['countrySingleGrSciColl','country'], 
     rootFilter: {
       displayOnNHCPortal: true,
       country: "CO",
@@ -76,21 +73,21 @@ var siteConfig = {
     excludedFilters: ['countrySingle'],
   },
   
-  institution: {
-    availableCatalogues: ['COLLECTION', 'INSTITUTION'],
-    excludedFilters: ['countrySingleGrSciColl'],
-    rootFilter: {
-      displayOnNHCPortal: true,
-      country: "CO",
-      active: true
-    },
-    mapSettings: {
-      enabled: true,
-      lat: 4.456122273408877,
-      lng: -73.58256164862134,
-      zoom: 5.654
-    },
-  },
+//  institution: {
+//    availableCatalogues: ['COLLECTION', 'INSTITUTION'],
+//    excludedFilters: ['countrySingleGrSciColl'],
+//    rootFilter: {
+//      displayOnNHCPortal: true,
+//      country: "CO",
+//     active: true
+//    },
+//    mapSettings: {
+//      enabled: true,
+//      lat: 4.456122273408877,
+//      lng: -73.58256164862134,
+//      zoom: 5.654
+//    },
+//  },
   
   literature: {
     rootFilter: {
