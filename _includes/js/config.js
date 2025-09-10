@@ -74,6 +74,13 @@ var siteConfig = {
       country: "CO",
       active: true
     },
+    mapSettings: {
+      enabled: true,
+      lat: 4.456122273408877,
+      lng: -73.58256164862134,
+      zoom: 5.654
+    },
+  },
   maps: {
     locale: 'es'
   }
