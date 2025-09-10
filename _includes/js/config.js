@@ -99,12 +99,12 @@ var siteConfig = {
           {
             type: 'in',
             key: 'countriesOfResearcher',
-            value: 'CO'
+            values: ['CO']
           },
           {
             type: 'in',
             key: 'countriesOfCoverage',
-            value: 'CO'
+            values: ['CO']
           }
         ]
       }
