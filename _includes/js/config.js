@@ -6,6 +6,11 @@ var siteConfig = {
   routes: {
     alwaysUseHrefs: true,
     enabledRoutes: ['occurrenceSearch', 'institutionKey', 'institutionSearch', 'publisherSearch', 'publisherKey', 'collectionKey', 'collectionSearch', 'datasetKey', 'datasetSearch', 'literatureSearch'],
+    occurrenceSearch: {
+      url: ({basename}) => `${basename ? `/${basename}` : ''}/data`,
+      isHref: true,
+      route: '/data' // the route you are currently using for occurrence search
+    }
   },
   occurrence: {
      mapSettings: {
