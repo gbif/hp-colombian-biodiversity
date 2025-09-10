@@ -13,7 +13,7 @@ var siteConfig = {
     }
   },
   
-  availableCatalogues: ['OCCURRENCE', 'DATASET', 'COLLECTION',  'PUBLISHER', 'INSTITUTION', 'LITERATURE'], // también se podría algo como 'SPECIES' pero no se tiene configuración 
+  availableCatalogues: ['OCCURRENCE', 'DATASET', 'COLLECTION', 'PUBLISHER', 'INSTITUTION', 'LITERATURE'], // también se podría algo como 'SPECIES' pero no se tiene configuración 
     
   occurrence: {
      mapSettings: {
@@ -107,7 +107,10 @@ var siteConfig = {
             value: 'CO'
           }
         ]
-      },
+      }
+    },
+    highlightedFilters: ['q', 'year']
+  },
       
   maps: {
     locale: 'es'
