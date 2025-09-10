@@ -12,6 +12,9 @@ var siteConfig = {
       route: '/data' // the route you are currently using for occurrence search
     }
   },
+  
+  availableCatalogues: ['OCCURRENCE', 'COLLECTION', 'INSTITUTION', 'PUBLISHER', 'LITERATURE'], // también se puede 'DATASET' 
+    
   occurrence: {
      mapSettings: {
       lat: 4.6482836,
