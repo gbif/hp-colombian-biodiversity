@@ -253,7 +253,7 @@ Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IP
 
 ### 4.5. Cobertura taxonómica
 
-Agregue una nueva cobertura taxonómica con el botón <span class="tag is-warning is-light"><i>Añadir cobertura taxonómica</i></span> y complete la descripción, teniendo en cuenta la sección **"Resultados"** del caso de ejemplo.
+Agregue una nueva cobertura taxonómica con el botón <span class="tag is-warning is-light"><i>Añadir cobertura taxonómica</i></span> y complete la descripción (Fig. 12A), teniendo en cuenta la sección **"Resultados"** del caso de ejemplo.
 
 Tenga en cuenta que la información mínima a documentar es:
 
@@ -265,11 +265,11 @@ Tenga en cuenta que la información mínima a documentar es:
 
 Para agregar varios taxones a la cobertura, haga clic en <span class="tag is-warning is-light"><i>Añadir varios taxa</i></span>. Luego, pegue ahí la lista de taxones, la cual puede ser de géneros, órdenes o clases que describan la cobertura taxonómica del recurso. No es recomendable que agregue listas a nivel de especies, así que intente agruparlas según su taxonomía superior.
 
-Para este caso, agregue los nombres de los géneros descritos en los **"Resultados"** del caso de ejemplo (Fig. 12A) y haga clic en <span class="tag is-warning is-light"><i>Agregar</i></span>.
+Para este caso, agregue los nombres de los géneros descritos en los **"Resultados"** del caso de ejemplo (Fig. 12B) y haga clic en <span class="tag is-warning is-light"><i>Agregar</i></span>.
 
-Cuando se haya añadido la lista de taxa, recuerde completar la **"Categoría"** con una de las opciones del desplegable, y si está disponible, documente el **"Nombre Común"** (Fig. 12B). En caso de querer añadir un taxón individualmente, puede usar la opción <span class="tag is-warning is-light"><i>Añadir taxón</i></span>.
+Cuando se haya añadido la lista de taxa, recuerde completar la **"Categoría"** con una de las opciones del desplegable, y si está disponible, documente el **"Nombre Común"** (Fig. 12C). En caso de querer añadir un taxón individualmente, puede usar la opción <span class="tag is-warning is-light"><i>Añadir taxón</i></span>.
 
-En caso de haber mapeado los datos previamente, también puede usar la opción <span class="tag is-warning is-light"><i>Inferir automáticamente a partir de la fuente de datos</i></span>, y se documentarán todos los taxones presentes en los datos.
+En caso de haber mapeado los datos previamente, también puede usar la opción <span class="tag is-warning is-light"><i>Inferir automáticamente a partir de la fuente de datos</i></span> (Fig. 12D), con la cual se documentarán todos los taxones presentes en los datos.
 
 <div class="notification is-info is-light">
   <b>Nota:</b> Si hay varios grupos biológicos cubiertos en su conjunto de datos (como animales, plantas, bacterias, etc.), se recomienda utilizar la opción <span class="tag is-warning is-light"><i>Añadir cobertura taxonómica</i></span> para cada grupo.
@@ -277,7 +277,7 @@ En caso de haber mapeado los datos previamente, también puede usar la opción <
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig11_metadatos_ctaxo.PNG" width=500>
 
-<sub>_Figura 12. Sección cobertura taxonómica. A. Lista de Taxa, B. Documentación de la categoría y nombre común de cada taxa_.</sub>
+<sub>_Figura 12. Sección cobertura taxonómica. A. Descripción, B. Lista de Taxa, C. Documentación de la categoría y nombre común de cada taxón, D. Opción para inferir los taxones a partir de los datos_.</sub>
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Cobertura taxonómica](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#cobertura-taxon%C3%B3mica){:target="_blank"}.
 
