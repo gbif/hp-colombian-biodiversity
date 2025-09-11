@@ -60,7 +60,7 @@ Esta guía provee un caso de ejemplo para realizar el ejercicio. Sin embargo, se
 
 Ingrese al  [IPT _test_](https://ipt.biodiversidad.co/sib-test/){:target="_blank"} y de clic en la opción <span class="tag is-warning is-light"><i>Iniciar Sesión</i></span> (Fig. 1).
 
-<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig1_meta_ingreso.jpg" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig1_meta_ingreso.jpg" width=600>
 
 <sub>_Figura 1. Página principal del IPT_.</sub>
 
@@ -85,17 +85,15 @@ Una vez que se haya autenticado en el IPT, podrá ver su información de usuario
 >El menú activo se mostrará con una línea azul en la parte inferior (Fig. 3B).
 >
 
-<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig3_meta_general.jpg" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig3_meta_general.jpg" width=600>
 
 <sub>_Figura 3. Página principal del IPT disponible para los usuarios que han iniciado sesión. A. Acrónimo del usuario activo, B. Menús disponiles_.</sub>
 
 ### 2.1. Explore el menú Gestión de recursos
 
-[Estaba en negrilla sencilla]: #
-
 Selecione el menú <span class="tag is-warning is-light"><i>Gestión de recursos</i></span> (Fig. 4). Aparecerá una tabla de resumen con todos los recursos que puede administrar con su usuario (Fig. 4A), la cual se puede filtrar por texto (Fig. 4B) y reorganizar de forma ascendente o desendente según los contenidos de cada columna (Fig. 4C). Para ingresar a los recursos bajo su administración, haga clic sobre el nombre del recurso en la tabla (Fig. 4). Por último, explore las opciones de la tabla mencionadas anteriormente.
 
-<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig4_meta_gestion.jpg" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig4_meta_gestion.jpg" width=600>
 
 <sub>_Figura 4. Menú de Gestión de recursos. A. Tabla de recursos adminsitrados, B. Filtro para búsqueda por texto de los recursos, C. Filtro de columna para reorganizar la tabla_.</sub>
 
@@ -105,7 +103,7 @@ Selecione el menú <span class="tag is-warning is-light"><i>Gestión de recursos
 
 Adicionalmente, en esta sección puedes crear un nuevo recurso. Para eso, en la parte superior dé clic a <span class="tag is-warning is-light"><i>Crear nuevo</i></span> (Fig. 5) y siga estos pasos:
 
-<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig5_meta_crear.jpg" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig5_meta_crear.jpg" width=600>
 
 <sub>_Figura 5. Menú para crear el nuevo recurso_.</sub>
 
@@ -125,7 +123,7 @@ Si posee un _Darwin Core Archive_ (DwC-A), puede seleccionar la casilla <span cl
 
 Finalmente, dé clic en la opción <span class="tag is-warning is-light"><i>Crear</i></span> (Fig. 6D). 
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig4_meta_crear.png" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig6_meta_crear.jpg" width=600>
 
 <sub>_Figura 6. Sección de creación del recurso. A. Nombre corto, B. Selección del tipo de datos, C. Carga de un DwC-A (opcional), D. Botón para crear el recurso_.</sub>
 
@@ -133,7 +131,7 @@ Después de crear el recurso, el IPT lo dirigirá a la **"Vista General"**, dond
 
 Puedes conocer más sobre las franjas de la **"Vista General"** del recurso en el [Manual del Usuario del IPT - Vista general](https://ipt.gbif.org/manual/es/ipt/latest/overview){:target="_blank"}.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig5_meta_vistageneral.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig7_meta_franja.jpg" width=600>
 
 <sub>_Figura 7. Franjas de la vista general del recurso_.</sub>
 
@@ -147,7 +145,7 @@ Desde la **"Vista General"** del recurso, ubique la franja **"Metadatos"** y hag
 Por ejemplo, si usted realizó un estudio filogenético y desea publicar los datos de las muestras de tejido que tomó en campo, describa solo las muestras y observaciones asociadas, no el estudio filogenético.
 >
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig6_meta_secciones.png" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig8_meta_documentacion.jpg" width=600>
 
 <sub>_Figura 8. Secciones de los metadatos_.</sub>
 
@@ -172,13 +170,13 @@ Seleccione la organización principal que respalda la publicación de los datos 
 
 Para asegurar que sus datos sean abiertos, estos deben contar de manera explícita con una licencia que permita su reutilización. En este sentido, escoja una de las licencias [_Creative Commons_](https://co.creativecommons.net/tipos-de-licencias/){:target="_blank"} que regule hasta dónde quiere que lleguen sus datos (Fig. 9C). Puede referirse a la [guía de acceso abierto](https://biodiversidad.co/recursos/acceso-abierto){:target="_blank"} para realizar la elección.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig7_meta_basico.png" width=800>
-
-<sub>_Figura 9. Sección metadatos básicos. A. Título, B. Selección de la organización publicadora, C. Selección de la licencia de los datos, D. Descripción_.</sub>
-
 **"Descripción"**
 
 Describa brevemente los datos que se van a publicar. Este campo es equivalente a un resumen tipo informe o artículo científico. Por consiguiente, debe incorporar de manera sintética la información de las demás secciones de los metadatos, incluyendo el objetivo del proyecto o estudio, la cobertura temporal, geográfica y taxonómica (Fig. 9D).
+
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig9_meta_info.jpg" width=600>
+
+<sub>_Figura 9. Sección metadatos básicos. A. Título, B. Selección de la organización publicadora, C. Selección de la licencia de los datos, D. Descripción_.</sub>
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Metadatos básicos](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#metadatos-b%C3%A1sicos){:target="_blank"}.
 
@@ -208,7 +206,7 @@ En esta sección debe incluir a todas las personas que aportaron significativame
 
 En esta sección se documentan las personas que aportaron con la documentación de los metadatos. Tenga en cuenta que quienes aparezcan en esta sección también quedarán visibles en la citación.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig7_meta_basico.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig10_meta_contactos.jpg" width=600>
 
 <sub>_Figura 10. Sección de Contactos. A. Opción para traer la información de un contacto a partir de otro recurso_.</sub>
 
@@ -245,7 +243,7 @@ Ingrese la **"Descripción"** de la cobertura geográfica, de acuerdo al área d
   <b>Nota:</b> si está haciendo el ejercicio con sus propios datos y cuenta con coordenadas, puede realizar un filtro en los elementos de latitud y longitud decimales para identificar la latitud y longitud mínima y máxima. De esta manera, el recuadro se ajustará con mayor exactitud a su cobertura geográfica. 
 </div>
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig10_metadatos_cgeografica.png" width=500>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig11_meta_geografica.jpg" width=600>
 
 <sub>_Figura 11. Sección cobertura geográfica. A. Selección de cobertura en mapa, B. Recuadros de longitud y latitud mínima y máxima, C. Opción para inferir las coordenadas a partir de los datos, D. Descripción_.</sub>
 
@@ -275,7 +273,7 @@ En caso de haber mapeado los datos previamente, también puede usar la opción <
   <b>Nota:</b> Si hay varios grupos biológicos cubiertos en su conjunto de datos (como animales, plantas, bacterias, etc.), se recomienda utilizar la opción <span class="tag is-warning is-light"><i>Añadir cobertura taxonómica</i></span> para cada grupo.
 </div>
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig11_metadatos_ctaxo.PNG" width=500>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig12_meta_taxonomia.jpg" width=600>
 
 <sub>_Figura 12. Sección cobertura taxonómica. A. Descripción, B. Lista de Taxa, C. Documentación de la categoría y nombre común de cada taxón, D. Opción para inferir los taxones a partir de los datos_.</sub>
 
@@ -283,12 +281,12 @@ Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IP
 
 ### 4.6. Cobertura temporal
 
-Agregue una nueva cobertura taxonómica con el botón <span class="tag is-warning is-light"><i>Añadir cobertura temporal</i></span>. Generalmente, los proyectos o publicaciones cubren más de una fecha. Por esta razón, se recomienda usar la opción <span class="tag is-warning is-light"><i>Rango de Fechas</i></span> en **"Tipo de Cobertura Temporal"** (Fig. 13A). Puede documentar el rango de fechas manualmente en **"Fecha Inicial"** y **"Fecha Final"** o usando el botón de calendario (Fig. 13B). En caso de haber mapeado los datos previamente, esta sección también cuenta con la opción <span class="tag is-warning is-light"><i>Inferir automáticamente a partir de la fuente de datos</i></span> (Fig 13C).
+Agregue una nueva cobertura temporal con el botón <span class="tag is-warning is-light"><i>Añadir cobertura temporal</i></span>. Generalmente, los proyectos o publicaciones cubren más de una fecha. Por esta razón, se recomienda usar la opción <span class="tag is-warning is-light"><i>Rango de Fechas</i></span> en **"Tipo de Cobertura Temporal"** (Fig. 13A). Puede documentar el rango de fechas manualmente en **"Fecha Inicial"** y **"Fecha Final"** o usando el botón de calendario (Fig. 13B). En caso de haber mapeado los datos previamente, esta sección también cuenta con la opción <span class="tag is-warning is-light"><i>Inferir automáticamente a partir de la fuente de datos</i></span> (Fig 13C).
 
 >El rango de fechas documentado en los metadatos debe ser coherente con el rango de fechas presentes en los datos. 
 >
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig12_metadatos_ctemporal.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig13_meta_fechas.jpg" width=600>
 
 <sub>_Figura 13. Sección cobertura temporal A. Selección de Tipo de Cobertura Temporal, B. Opción de calendario, C. Opción para inferir las fechas a partir de los datos_.</sub>
 
@@ -307,7 +305,7 @@ El IPT crea unas palabras clave por defecto con base en el [tesauro de GBIF](htt
 
 Si sus palabras clave provienen de un tesauro como [este](https://vocabularies.unesco.org/browser/thesaurus/es/){:target="_blank"}, indique el nombre del tesauro seguido por la URL en el campo **"Tesauro/Vocabulario"**. Si no está usando un tesauro para seleccionar las palabras clave, documente el campo **"Tesauro/Vocabulario"** con <span class="tag is-light"><b>n/a</b></span> (No Aplica).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig13_metadatos_pclave.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig14_meta_palabrasclave.jpg" width=600>
 
 <sub>_Figura 14. Sección Palabras clave_.</sub>
 
@@ -318,7 +316,7 @@ Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IP
 
 Documente la sección **"Datos del proyecto"**, teniendo en cuenta la información proporcionada en el caso de ejemplo.
 
-Los campos **"Identificador"** y **"Personas asociadas al proyecto"** no están disponibles en el caso de ejemplo. Sin embargo, tenga en cuenta las siguientes recomendaciones para futuras publicaciones:
+El caso de estudio no tiene información para documentar los campos **"Identificador"** y **"Personas asociadas al proyecto"**, sin embargo, tenga en cuenta las siguientes recomendaciones para futuras publicaciones:
 
 - En el campo **"Identificador"**, se documenta un código único como el número del contrato, la resolución, el convenio o acuerdo firmado entre las partes, entre otros. No documente subtítulos o textos libres en este campo. 
 
@@ -336,7 +334,7 @@ Documente esta sección de acuerdo al apartado de **"Metodología"** en el caso 
 - En el campo **"Descripción del muestreo"** va un párrafo general que resume todos los métodos utilizados para la toma de datos.
 - En el campo **"Metodología paso a paso"**, es conveniente redactar cada paso en un recuadro diferente para que la publicación sea más ordenada. Por consiguiente, haga clic en <span class="tag is-warning is-light"><i>Añadir paso metodológico</i></span> para añadir tantos recuadros como considere conveniente (Fig. 15).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig14_metadatos_metodpasos.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig15_meta_metodologia.jpg" width=600>
 
 <sub>_Figura 15. Metodología paso a paso de la sección métodos de muestreo._</sub>
 
@@ -352,7 +350,7 @@ El formato de la referencia que se utilizar en la generación automática se bas
   <b>Nota:</b> si está activada la referencia automática, la citación incluirá el DOI (previamente asignado a la publicación), lo cual facilitará el rastreo del historial de uso del conjunto de datos.
 </div>
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig15_metadatos_referencia.PNG" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig16_meta_referencia.jpg" width=600>
 
 <sub>_Figura 16. Sección Referencias_.</sub>
 
@@ -364,7 +362,7 @@ Esta sección solo se documenta para los conjuntos de datos que corresponden a c
 
 Es recomendable documentar los campos de acuerdo al [Registro Nacional de Colecciones Biológicas](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones){:target="_blank"}. Puede añadir tantas coleciones como sea necesario (Fig. 17).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig16_meta_colecciones.png" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig17_meta_coleccion.jpg" width=600>
 
 <sub>_Figura 17. Sección datos de la colección documentados de acuerdo al Registro Nacional de Colecciones Biológicas_.</sub>
 
@@ -381,7 +379,7 @@ Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IP
 
 Esta es una sección opcional. Generalmente, el publicador no debe documentar ningún campo. El EC-SiB añadirá el logo de la organización publicadora principal (Fig. 18A) y una vez que se publique el recurso, el IPT completará automáticamente los **"Identificadores alternativos"**, que incluyen la URL del recurso en el IPT, el DOI y el ID del recurso en el SiB Colombia y GBIF (Fig. 18B).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig17_meta_adicionales.png" width=600>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig18_meta_logo.jpg" width=600>
 
 <sub>_Figura 18. Sección metadatos adicionales. A. Logo estandarizado del publicador, B. identificadores alternativos_.</sub>
 
