@@ -30,7 +30,7 @@ composition:
    </td>
    <td style="width: 65%;">
      <p>Al iniciar esta campaña en septiembre de 2025, de las 80.346 especies observadas en Colombia, la Amazonía colombiana aporta 16.991, poco más de la quinta parte. De estas 454 especies son únicas de la región (endémicas).</p>
-     <p>150 de dichas especies se encuentran en algún categoría de amenaza, representando 8,2% del total de especies amenazadas del país.</p>
+     <p>150 de dichas especies se encuentran en alguna categoría de amenaza, representando 8,2% del total de especies amenazadas del país.</p>
      <p>Amazonas, Meta y Vaupés son los departamentos con más datos, aportando más de la mitad del total de la región (56,6%).</p>
    </td>
   </tr>
@@ -43,9 +43,9 @@ Los anteriores, son solo algunas **cifras que puedes consultar y usar de manera 
 
 Aunque actualmente en el SiB Colombia contamos con datos para todos los departamentos del país, incluidos los 8 de la región amazónica, **aumentar la representatividad de datos con el aporte de antiguos y nuevos publicadores a través de esta datatón, es una oportunidad para**:
 
-> **Aportar al Inventario nacional de la biodiversidad.**
+- **Aportar al Inventario nacional de la biodiversidad.**
     
-> **Facilitar el acceso y uso de datos a los habitantes de la región,** apoyando procesos de **investigación, educación y toma de decisiones**, por ejemplo, a través de plataformas que sintetizan el estado del conocimiento del territorio, como [**Biodiversidad en cifras**](https://cifras.biodiversidad.co){:target="_blank"}.
+- **Facilitar el acceso y uso de datos a los habitantes de la región,** apoyando procesos de **investigación, educación y toma de decisiones**, por ejemplo, a través de plataformas que sintetizan el estado del conocimiento del territorio, como [**Biodiversidad en cifras**](https://cifras.biodiversidad.co){:target="_blank"}.
     
 Además, una parte esencial de la misión de la red del SiB Colombia es promover una cultura en la que todas **las personas conozcan y se beneficien de publicar datos abiertos sobre biodiversidad**. Con ello, quienes participen en esta Datatón perciben una serie de beneficios adicionales.
 
@@ -61,9 +61,7 @@ Además, una parte esencial de la misión de la red del SiB Colombia es promover
    <li><strong>Incrementan el acceso libre y abierto a los datos sobre diversidad biológica de la Amazonía y del país</strong> y, por esta vía, amplían el acceso a esta información para cualquiera, dentro de las condiciones ofrecidas por los publicadores.</li>
    
    <li><strong>Promueven la visibilidad y reconocimiento de las personas y organizaciones</strong> que generan y hacen curaduría de datos o información sobre biodiversidad; <strong>ampliando el reconocimiento ante la comunidad académica</strong> al permitir a los autores el uso de los datos abiertos en nuevos procesos de investigación.</li>
-   
-   <li><strong>Pueden hacer monitoreo del uso de los datos</strong> a través de los servicios <strong>DOI</strong>.</li>
-   
+      
    <li><strong>Contribuyen al conocimiento global sobre la biodiversidad</strong> y, por tanto, a las soluciones que promueven su cuidado y uso sostenible, al hacer que tus datos sean accesibles a través del SiB Colombia y redes internacionales como <a href="https://geobon.org/" target="_blank"><strong>GBIF</strong></a>.</li>
    
    <li><strong>Facilitan nuevas oportunidades de colaboración</strong> entre publicadores y otros investigadores, <strong>a través de la integración de conjuntos de datos en todo el mundo</strong>, entre los propietarios de los datos y otros investigadores o actores.</li>
@@ -180,7 +178,7 @@ Adicionalmente se entregarán **credenciales para la administración de éstos y
 
 **Una vez publicados, se encargará de la respectiva divulgación de la publicación** y su importancia para el inventario nacional de la biodiversidad.
 
-El proceso considera un **acompañamiento** que da la posibilidad de tener una conversación entre el publicador y el equipo de trabajo del SiB Colombia para asegurar los mejores resultados.
+El proceso de publicación considera un **acompañamiento** que da la posibilidad de tener una conversación entre el publicador y la mesa de ayuda del SiB Colombia para asegurar los mejores resultados.
 
 
 ### Acciones del SiB Colombia
