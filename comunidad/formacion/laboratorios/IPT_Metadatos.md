@@ -182,19 +182,19 @@ Describa brevemente los datos que se van a publicar. Este campo es equivalente a
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Metadatos básicos](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#metadatos-b%C3%A1sicos){:target="_blank"}.
 
-> Después de llenar todos los campos obligatorios de una sección (marcados con *) asegúrate de dar clic al botón <span class="tag is-warning is-light"><i>Guardar</i></span>. De esta forma garantizas que no se pierda la información diligenciada en la sección.
+> Después de llenar todos los campos obligatorios de una sección (marcados con *) debe asegurarse de dar clic al botón <span class="tag is-warning is-light"><i>Guardar</i></span>. De esta se garantiza que no se pierda la información diligenciada en la sección.
 >
 
 ### 4.2. Contactos
 
-En esta sección se pueden documentar todos los actores involucrados en el conjunto de datos. Para esto se dispone se los apartados **"Contactos del recurso"**, **"Creadores del recurso"**, **"Proveedores de los metadatos"** y **"Partes asociadas"**. Para documentar cada una de las secciones, debe dar clic a la opción <span class="tag is-warning is-light"><i>Añadir...</i></span>, y se desplegará los campos que se pueden documentar. Como mínimo, son necesarios los campos <span class="tag is-light"><b>Nombre</b></span>, <span class="tag is-light"><b>Apellido</b></span>, <span class="tag is-light"><b>Organización</b></span>, <span class="tag is-light"><b>Posición</b></span> y <span class="tag is-light"><b>Correo Electrónico</b></span> (Fig. 10). 
+En esta sección se pueden documentar todos los actores involucrados en el conjunto de datos. Para esto se dispone de los apartados **"Contactos del recurso"**, **"Creadores del recurso"**, **"Proveedores de los metadatos"** y **"Partes asociadas"**. Para documentar cada una de las secciones, debe dar clic a la opción <span class="tag is-warning is-light"><i>Añadir...</i></span>, y se desplegarán los campos que se pueden documentar. Como mínimo, son necesarios los campos <span class="tag is-light"><b>Nombre</b></span>, <span class="tag is-light"><b>Apellido</b></span>, <span class="tag is-light"><b>Organización</b></span>, <span class="tag is-light"><b>Posición</b></span> y <span class="tag is-light"><b>Correo Electrónico</b></span> (Fig. 10). 
 
 > En caso de que quiera traer la información de una persona a partir de otro recurso publicado, puede usar la opción <span class="tag is-warning is-light"><i>Copiar desde otro recurso</i></span> (Fig. 10A), el cual abrirá una ventana para seleccionar el recurso desde el cual se traerá la información, la sección donde se documentó y la persona.
 > 
 
 **"Contactos del Recurso"**
 
-En esta sección debes diligenciar la información de todas las personas que pueden responder dudas técnicas asociadas al recurso.
+En esta sección se debe diligenciar la información de todas las personas que pueden responder dudas técnicas asociadas al recurso.
 
 **"Creadores del Recurso"**
 
@@ -214,7 +214,7 @@ En esta sección se documentan las personas que aportaron con la documentación 
 
 **"Partes asociadas"**
 
-Por defecto aparece la información de la cuenta que creó el conjunto de datos. En caso de que no sea relevante, puedes borrarlo desde <span class="tag is-warning is-light"><i>Eliminar parte asociada</i></span>. Para este ejercicio, y según el caso de ejemplo, la documentación de la sección **"Partes Asociadas"** no aplica. Sin embargo, lea las siguientes recomendaciones para futuras publicaciones:
+Por defecto aparece la información de la cuenta que creó el conjunto de datos. En caso de que no sea relevante, puede borrarlo desde <span class="tag is-warning is-light"><i>Eliminar parte asociada</i></span>. Para este ejercicio, y según el caso de ejemplo, la documentación de la sección **"Partes Asociadas"** no aplica. Sin embargo, lea las siguientes recomendaciones para futuras publicaciones:
 
 En esta sección, se documenta la información de las personas u organizaciones adicionales que se incluyeron en los metadatos básicos. También se pueden documentar por completo nuevamente si se quiere especificar su rol dentro de la publicación.
 
@@ -233,11 +233,11 @@ Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IP
 
 ### 4.3. Agradecimientos
 
-Esta es una sección opcional. En caso de ser necesario, aquí puedes documentar la información de financiadores y otros contribuyentes del estudio.
+Esta es una sección opcional. En caso de ser necesario, aquí puede documentar la información de financiadores y otros contribuyentes del estudio.
 
 ### 4.4. Cobertura geográfica
 
-En el mapa de esta sección, desactive el recuadro <span class="tag is-warning is-light"><i>Establecer cobertura global</i></span> para seleccionar el punto más cercano a la ubicación de los datos en el mapa. Use la cobertura global solo si sus datos cubren un amplio rango de países. Para seleccionar el área específica donde se tomaron los datos, puedes ajustar los marcadores en el recuadro del mapa para que cubra de forma **aproximada** la región deseada (Fig. 11A), o puedes documentar la latitud y longitud mínima y máxima en los recuadros correspondientes (Fig. 11B). El recuadro <span class="tag is-warning is-light"><i>Inferir automáticamente a partir de la fuente de datos</i></span> (Fig. 11C) sólo funciona si se ha cargado y mapeado el conjunto de datos.
+En el mapa de esta sección, desactive el recuadro <span class="tag is-warning is-light"><i>Establecer cobertura global</i></span> para seleccionar el punto más cercano a la ubicación de los datos en el mapa. Use la cobertura global solo si sus datos cubren un amplio rango de países. Para seleccionar el área específica donde se tomaron los datos, puede ajustar los marcadores en el recuadro del mapa para que cubra de forma **aproximada** la región deseada (Fig. 11A), o puede documentar la latitud y longitud mínima y máxima en los recuadros correspondientes (Fig. 11B). El recuadro <span class="tag is-warning is-light"><i>Inferir automáticamente a partir de la fuente de datos</i></span> (Fig. 11C) sólo funciona si se ha cargado y mapeado el conjunto de datos.
 
 Ingrese la **"Descripción"** de la cobertura geográfica, de acuerdo al área de estudio del caso de ejemplo. Recuerde documentar solo lo que hace referencia a la ubicación geográfica de los datos (Fig. 11D).
 
@@ -267,9 +267,9 @@ Para agregar varios taxones a la cobertura, haga clic en <span class="tag is-war
 
 Para este caso, agregue los nombres de los géneros descritos en los **"Resultados"** del caso de ejemplo (Fig. 12A) y haga clic en <span class="tag is-warning is-light"><i>Agregar</i></span>.
 
-Cuando se haya añadido la lista de taxa, recuerde completar la **"Categoría"** con una de las opciones del desplegable, y si está disponible, documente el **"Nombre Común"** (Fig. 12B). En caso de querer añadir un taxón individualmente, puedes usar la opción <span class="tag is-warning is-light"><i>Añadir taxón</i></span>.
+Cuando se haya añadido la lista de taxa, recuerde completar la **"Categoría"** con una de las opciones del desplegable, y si está disponible, documente el **"Nombre Común"** (Fig. 12B). En caso de querer añadir un taxón individualmente, puede usar la opción <span class="tag is-warning is-light"><i>Añadir taxón</i></span>.
 
-En caso de haber mapeado los datos previamente, también puedes usar la opción <span class="tag is-warning is-light"><i>Inferir automáticamente a partir de la fuente de datos</i></span>, y se documentarán todos los taxones presentes en los datos.
+En caso de haber mapeado los datos previamente, también puede usar la opción <span class="tag is-warning is-light"><i>Inferir automáticamente a partir de la fuente de datos</i></span>, y se documentarán todos los taxones presentes en los datos.
 
 <div class="notification is-info is-light">
   <b>Nota:</b> Si hay varios grupos biológicos cubiertos en su conjunto de datos (como animales, plantas, bacterias, etc.), se recomienda utilizar la opción <span class="tag is-warning is-light"><i>Añadir cobertura taxonómica</i></span> para cada grupo.
@@ -296,7 +296,7 @@ Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IP
 
 ### 4.7. Descripción adicional
 
-Esta es una sección opcional. Aquí puedes documentar información como el propósito del conjunto de datos, su contenido, su estructura, la posible interpretación y una descripción detallada del mismo. Esta sección es muy útil si planeas publicar un artículo de datos en el futuro.
+Esta es una sección opcional. Aquí puede documentar información como el propósito del conjunto de datos, su contenido, su estructura, la posible interpretación y una descripción detallada del mismo. Esta sección es muy útil si planea publicar un artículo de datos en el futuro.
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Descripción adicional](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#descripci%C3%B3n-adicional){:target="_blank"}.
 
@@ -324,7 +324,7 @@ Los campos **"Identificador"** y **"Personas asociadas al proyecto"** no están 
 
 - En el campo **"Personas Asociadas al Proyecto"**, se documentan las personas involucradas que no se hayan mencionado en la sección de **"Contactos"**. Si ingresa personas en este campo, se debe seleccionar obligatoriamente un valor en el campo **"Rol"**. De lo contrario, se pueden generar inconvenientes al momento de publicar el recurso.
 
-En caso de que tus datos estén asociados a más de un proyecto, puedes utilizar la opción <span class="tag is-warning is-light"><i>Añadir proyecto relacionado</i></span> para documentar más proyectos, y se puede especificar el personal involucrado en cada uno de ellos.
+En caso de que sus datos estén asociados a más de un proyecto, puede utilizar la opción <span class="tag is-warning is-light"><i>Añadir proyecto relacionado</i></span> para documentar más proyectos, y se puede especificar el personal involucrado en cada uno de ellos.
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Datos del proyecto](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#datos-del-proyecto){:target="_blank"}.
 
@@ -346,7 +346,7 @@ Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IP
 
 En el campo **"¿Cómo referenciar este recurso?"**, dé clic sobre la opción <span class="tag is-warning is-light"><i>Generación automática Desactivada - Activar</i></span>. De esta forma, dicha sección se diligenciará según lo documentado en los apartados de **"Creadores del Recurso"** y **"Proveedores de los Metadatos"**, compilados en la sección **"Contactos"**. Cuando se genere la citación, asegúrese de que todos los autores involucrados con la publicación estén correctamente referenciados (Fig. 16).
 
-El formato de la referencia utilizado en la generación automática se basa en el formato recomendado (referencia de _DataCite_) y satisface la [_Joint Declaration of Data Citation Principle_](https://www.force11.org/datacitationprinciples){:target="_blank"}. Este formato incluye un número de versión, el cual es particularmente importante para los conjuntos de datos que se actualizan continuamente.
+El formato de la referencia que se utilizar en la generación automática se basa en el formato recomendado (referencia de _DataCite_) y satisface la [_Joint Declaration of Data Citation Principle_](https://www.force11.org/datacitationprinciples){:target="_blank"}. Este formato incluye un número de versión, el cual es particularmente importante para los conjuntos de datos que se actualizan continuamente.
 
 <div class="notification is-info is-light">
   <b>Nota:</b> si está activada la referencia automática, la citación incluirá el DOI (previamente asignado a la publicación), lo cual facilitará el rastreo del historial de uso del conjunto de datos.
@@ -360,7 +360,7 @@ Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IP
 
 ### 4.12. Datos de la colección
 
-Esta sección solo se documenta para los conjuntos de datos que corresponden a colecciones biológicas, y no cuando alguna de las observaciones se hayan depositado en una colección. Siguiendo el caso de ejemplo, puedes documentar esta sección con la información que está en la portada e introducción.
+Esta sección solo se documenta para los conjuntos de datos que corresponden a colecciones biológicas, y no cuando alguna de las observaciones se hayan depositado en una colección. Siguiendo el caso de ejemplo, puede documentar esta sección con la información que está en la portada e introducción.
 
 Es recomendable documentar los campos de acuerdo al [Registro Nacional de Colecciones Biológicas](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones){:target="_blank"}. Puede añadir tantas coleciones como sea necesario (Fig. 17).
 
