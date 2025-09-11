@@ -85,7 +85,7 @@ Una vez que se haya autenticado en el IPT, podrá ver su información de usuario
 >El menú activo se mostrará con una línea azul en la parte inferior (Fig. 3B).
 >
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig2_meta_ingreso2.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig3_meta_general.jpg" width=800>
 
 <sub>_Figura 3. Página principal del IPT disponible para los usuarios que han iniciado sesión. A. Acrónimo del usuario activo, B. Menús disponiles_.</sub>
 
@@ -95,7 +95,7 @@ Una vez que se haya autenticado en el IPT, podrá ver su información de usuario
 
 Selecione el menú <span class="tag is-warning is-light"><i>Gestión de recursos</i></span> (Fig. 4). Aparecerá una tabla de resumen con todos los recursos que puede administrar con su usuario (Fig. 4A), la cual se puede filtrar por texto (Fig. 4B) y reorganizar de forma ascendente o desendente según los contenidos de cada columna (Fig. 4C). Para ingresar a los recursos bajo su administración, haga clic sobre el nombre del recurso en la tabla (Fig. 4). Por último, explore las opciones de la tabla mencionadas anteriormente.
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig3_meta_gestion.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig4_meta_gestion.jpg" width=800>
 
 <sub>_Figura 4. Menú de Gestión de recursos. A. Tabla de recursos adminsitrados, B. Filtro para búsqueda por texto de los recursos, C. Filtro de columna para reorganizar la tabla_.</sub>
 
@@ -105,7 +105,7 @@ Selecione el menú <span class="tag is-warning is-light"><i>Gestión de recursos
 
 Adicionalmente, en esta sección puedes crear un nuevo recurso. Para eso, en la parte superior dé clic a <span class="tag is-warning is-light"><i>Crear nuevo</i></span> (Fig. 5) y siga estos pasos:
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig3_meta_gestion.png" width=800>
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig5_meta_crear.jpg" width=800>
 
 <sub>_Figura 5. Menú para crear el nuevo recurso_.</sub>
 
@@ -174,15 +174,11 @@ Para asegurar que sus datos sean abiertos, estos deben contar de manera explíci
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig7_meta_basico.png" width=800>
 
-<sub>_Figura 9. Sección metadatos básicos. A. Título, B. Selección de la organización publicadora, C. Selección de la licencia de los datos_.</sub>
+<sub>_Figura 9. Sección metadatos básicos. A. Título, B. Selección de la organización publicadora, C. Selección de la licencia de los datos, D. Descripción_.</sub>
 
 **"Descripción"**
 
-Describa brevemente los datos que se van a publicar. Este campo es equivalente a un resumen tipo informe o artículo científico. Por consiguiente, debe incorporar de manera sintética la información de las demás secciones de los metadatos, incluyendo el objetivo del proyecto o estudio, la cobertura temporal, geográfica y taxonómica (Fig. 10).
-
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig7_meta_basico.png" width=800>
-
-<sub>_Figura 10. Vista del campo **"Descripción"** dentro de la sección metadatos básicos_.</sub>
+Describa brevemente los datos que se van a publicar. Este campo es equivalente a un resumen tipo informe o artículo científico. Por consiguiente, debe incorporar de manera sintética la información de las demás secciones de los metadatos, incluyendo el objetivo del proyecto o estudio, la cobertura temporal, geográfica y taxonómica (Fig. 9D).
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Metadatos básicos](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#metadatos-b%C3%A1sicos){:target="_blank"}.
 
@@ -191,17 +187,18 @@ Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IP
 
 ### 4.2. Contactos
 
+En esta sección se pueden documentar todos los actores involucrados en el conjunto de datos. Para esto se dispone se los apartados **"Contactos del recurso"**, **"Creadores del recurso"**, **"Proveedores de los metadatos"** y **"Partes asociadas"**. Para documentar cada una de las secciones, debe dar clic a la opción <span class="tag is-warning is-light"><i>Añadir...</i></span>, y se desplegará los campos que se pueden documentar. Como mínimo, son necesarios los campos <span class="tag is-light"><b>Nombre</b></span>, <span class="tag is-light"><b>Apellido</b></span>, <span class="tag is-light"><b>Organización</b></span>, <span class="tag is-light"><b>Posición</b></span> y <span class="tag is-light"><b>Correo Electrónico</b></span> (Fig. 10). 
+
+> En caso de que quiera traer la información de una persona a partir de otro recurso publicado, puede usar la opción <span class="tag is-warning is-light"><i>Copiar desde otro recurso</i></span> (Fig. 10A), el cual abrirá una ventana para seleccionar el recurso desde el cual se traerá la información, la sección donde se documentó y la persona.
+> 
+
 **"Contactos del Recurso"**
 
-En esta sección debes diligenciar la información de todas las personas que pueden responder dudas técnicas asociadas al recurso. Para esto, dé clic en <span class="tag is-warning is-light"><i>Añadir contacto del recurso</i></span> (Fig. 11), y se desplegará los campos que se pueden documentar. Como mínimo, son necesarios los campos <span class="tag is-light"><b>Nombre</b></span>, <span class="tag is-light"><b>Apellido</b></span>, <span class="tag is-light"><b>Organización</b></span> y <span class="tag is-light"><b>Correo Electrónico</b></span>.
-
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig7_meta_basico.png" width=800>
-
-<sub>_Figura 11. Vista general de la sección Contactos_.</sub>
+En esta sección debes diligenciar la información de todas las personas que pueden responder dudas técnicas asociadas al recurso.
 
 **"Creadores del Recurso"**
 
-En esta sección debe incluir a todas las personas que aportaron significativamente a la toma, manejo, digitalización, custodia y publicación de los datos (Fig. 11B). A partir de esta información, se crea la citación automática del recurso que quedará visible a través de todos los portales de datos del SiB Colombia, GBIF y OBIS. Por lo tanto, es equivalente a la lista de autores de un libro o artículo científico. Además, puede añadir a tantas personas como sea necesario. Se recomienda documentar la mayor cantidad de información posible de cada autor.
+En esta sección debe incluir a todas las personas que aportaron significativamente a la toma, manejo, digitalización, custodia y publicación de los datos. A partir de esta información, se crea la citación automática del recurso que quedará visible a través de todos los portales de datos del SiB Colombia, GBIF y OBIS. Por lo tanto, es equivalente a la lista de autores de un libro o artículo científico. Además, puede añadir a tantas personas como sea necesario. Se recomienda documentar la mayor cantidad de información posible de cada autor.
 
 <div class="notification is-info is-light">
   <b>Tip:</b> Desde el EC-SiB recomendamos que los creadores del recurso sean personas, no entidades, ya que el EC-SiB se encarga de recopilar las autorías a nivel institucional por medio del campo <b>"Organización"</b>.
@@ -209,7 +206,11 @@ En esta sección debe incluir a todas las personas que aportaron significativame
 
 **"Proveedores de los metadatos"**
 
-En esta sección se documentan las personas que aportaron con la documentación de los metadatos (Fig. 12). Tenga en cuenta que quienes aparezcan en esta sección también quedarán visibles en la citación.
+En esta sección se documentan las personas que aportaron con la documentación de los metadatos. Tenga en cuenta que quienes aparezcan en esta sección también quedarán visibles en la citación.
+
+<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig7_meta_basico.png" width=800>
+
+<sub>_Figura 10. Sección de Contactos. A. Opción para traer la información de un contacto a partir de otro recurso_.</sub>
 
 **"Partes asociadas"**
 
@@ -228,10 +229,6 @@ En esta sección, se documenta la información de las personas u organizaciones 
 
 Se recomienda que las partes (personas e instituciones) involucradas en la generación de los datos sean reconocidas en los metadatos, idealmente como **"Creadores del recurso"** (si se consideran autores del recurso), y en **"Partes asociadas"** (si estuvieron involucradas en la generación del recurso y cumplen alguno de los roles del campo **"Rol"**).
 
-<img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig9_meta_autor.png" width=600>
-
-<sub>_Figura 12. Vista de las partes **"Proveedores de los metadatos"** y **"Partes asociadas"** dentro de la sección Contactos_.</sub>
-
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Contactos](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#contactos){:target="_blank"}.
 
 ### 4.3. Agradecimientos
@@ -240,9 +237,9 @@ Esta es una sección opcional. En caso de ser necesario, aquí puedes documentar
 
 ### 4.4. Cobertura geográfica
 
-En el mapa de esta sección, desactive el recuadro <span class="tag is-warning is-light"><i>Establecer cobertura global</i></span> para seleccionar el punto más cercano a la ubicación de los datos en el mapa. Use la cobertura global solo si sus datos cubren un amplio rango de países. Para seleccionar el área específica donde se tomaron los datos, puedes ajustar los marcadores en el recuadro del mapa para que cubra de forma **aproximada** la región deseada (Fig. 13A), o puedes documentar la latitud y longitud mínima y máxima en los recuadros correspondientes (Fig. 13B). El recuadro <span class="tag is-warning is-light"><i>Inferir automáticamente a partir de la fuente de datos</i></span> (Fig. 13C) sólo funciona si se ha cargado y mapeado el conjunto de datos.
+En el mapa de esta sección, desactive el recuadro <span class="tag is-warning is-light"><i>Establecer cobertura global</i></span> para seleccionar el punto más cercano a la ubicación de los datos en el mapa. Use la cobertura global solo si sus datos cubren un amplio rango de países. Para seleccionar el área específica donde se tomaron los datos, puedes ajustar los marcadores en el recuadro del mapa para que cubra de forma **aproximada** la región deseada (Fig. 11A), o puedes documentar la latitud y longitud mínima y máxima en los recuadros correspondientes (Fig. 11B). El recuadro <span class="tag is-warning is-light"><i>Inferir automáticamente a partir de la fuente de datos</i></span> (Fig. 11C) sólo funciona si se ha cargado y mapeado el conjunto de datos.
 
-Ingrese la **"Descripción"** de la cobertura geográfica, de acuerdo al área de estudio del caso de ejemplo. Recuerde documentar solo lo que hace referencia a la ubicación geográfica de los datos (Fig. 13D).
+Ingrese la **"Descripción"** de la cobertura geográfica, de acuerdo al área de estudio del caso de ejemplo. Recuerde documentar solo lo que hace referencia a la ubicación geográfica de los datos (Fig. 11D).
 
 <div class="notification is-info is-light">
   <b>Nota:</b> si está haciendo el ejercicio con sus propios datos y cuenta con coordenadas, puede realizar un filtro en los elementos de latitud y longitud decimales para identificar la latitud y longitud mínima y máxima. De esta manera, el recuadro se ajustará con mayor exactitud a su cobertura geográfica. 
@@ -250,7 +247,7 @@ Ingrese la **"Descripción"** de la cobertura geográfica, de acuerdo al área d
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig10_metadatos_cgeografica.png" width=500>
 
-<sub>_Figura 13. Sección cobertura geográfica. A. Selección de cobertura en mapa, B. Recuadros de longitud y latitud mínima y máxima, C. Opción para inferir las coordenadas a partir de los datos, D. Descripción_.</sub>
+<sub>_Figura 11. Sección cobertura geográfica. A. Selección de cobertura en mapa, B. Recuadros de longitud y latitud mínima y máxima, C. Opción para inferir las coordenadas a partir de los datos, D. Descripción_.</sub>
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Cobertura geográfica](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#cobertura-geogr%C3%A1fica){:target="_blank"}.
 
@@ -268,9 +265,9 @@ Tenga en cuenta que la información mínima a documentar es:
 
 Para agregar varios taxones a la cobertura, haga clic en <span class="tag is-warning is-light"><i>Añadir varios taxa</i></span>. Luego, pegue ahí la lista de taxones, la cual puede ser de géneros, órdenes o clases que describan la cobertura taxonómica del recurso. No es recomendable que agregue listas a nivel de especies, así que intente agruparlas según su taxonomía superior.
 
-Para este caso, agregue los nombres de los géneros descritos en los **"Resultados"** del caso de ejemplo (Fig. 14A) y haga clic en <span class="tag is-warning is-light"><i>Agregar</i></span>.
+Para este caso, agregue los nombres de los géneros descritos en los **"Resultados"** del caso de ejemplo (Fig. 12A) y haga clic en <span class="tag is-warning is-light"><i>Agregar</i></span>.
 
-Cuando se haya añadido la lista de taxa, recuerde completar la **"Categoría"** con una de las opciones del desplegable, y si está disponible, documente el **"Nombre Común"** (Fig. 14B). En caso de querer añadir un taxón individualmente, puedes usar la opción <span class="tag is-warning is-light"><i>Añadir taxón</i></span>.
+Cuando se haya añadido la lista de taxa, recuerde completar la **"Categoría"** con una de las opciones del desplegable, y si está disponible, documente el **"Nombre Común"** (Fig. 12B). En caso de querer añadir un taxón individualmente, puedes usar la opción <span class="tag is-warning is-light"><i>Añadir taxón</i></span>.
 
 En caso de haber mapeado los datos previamente, también puedes usar la opción <span class="tag is-warning is-light"><i>Inferir automáticamente a partir de la fuente de datos</i></span>, y se documentarán todos los taxones presentes en los datos.
 
@@ -280,20 +277,20 @@ En caso de haber mapeado los datos previamente, también puedes usar la opción 
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig11_metadatos_ctaxo.PNG" width=500>
 
-<sub>_Figura 14. Sección cobertura taxonómica. A. Lista de Taxa, B. Documentación de la categoría y nombre común de cada taxa_.</sub>
+<sub>_Figura 12. Sección cobertura taxonómica. A. Lista de Taxa, B. Documentación de la categoría y nombre común de cada taxa_.</sub>
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Cobertura taxonómica](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#cobertura-taxon%C3%B3mica){:target="_blank"}.
 
 ### 4.6. Cobertura temporal
 
-Agregue una nueva cobertura taxonómica con el botón <span class="tag is-warning is-light"><i>Añadir cobertura temporal</i></span>. Generalmente, los proyectos o publicaciones cubren más de una fecha. Por esta razón, se recomienda usar la opción <span class="tag is-warning is-light"><i>Rango de Fechas</i></span> en **"Tipo de Cobertura Temporal"** (Fig. 15A). Puede documentar el rango de fechas manualmente en **"Fecha Inicial"** y **"Fecha Final"** o usando el botón de calendario (Fig. 15B). En caso de haber mapeado los datos previamente, esta sección también cuenta con la opción <span class="tag is-warning is-light"><i>Inferir automáticamente a partir de la fuente de datos</i></span> (Fig 15C).
+Agregue una nueva cobertura taxonómica con el botón <span class="tag is-warning is-light"><i>Añadir cobertura temporal</i></span>. Generalmente, los proyectos o publicaciones cubren más de una fecha. Por esta razón, se recomienda usar la opción <span class="tag is-warning is-light"><i>Rango de Fechas</i></span> en **"Tipo de Cobertura Temporal"** (Fig. 13A). Puede documentar el rango de fechas manualmente en **"Fecha Inicial"** y **"Fecha Final"** o usando el botón de calendario (Fig. 13B). En caso de haber mapeado los datos previamente, esta sección también cuenta con la opción <span class="tag is-warning is-light"><i>Inferir automáticamente a partir de la fuente de datos</i></span> (Fig 13C).
 
 >El rango de fechas documentado en los metadatos debe ser coherente con el rango de fechas presentes en los datos. 
 >
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig12_metadatos_ctemporal.PNG" width=600>
 
-<sub>_Figura 15. Sección cobertura temporal A. Selección de Tipo de Cobertura Temporal, B. Opción de calendario, C. Opción para inferir las fechas a partir de los datos_.</sub>
+<sub>_Figura 13. Sección cobertura temporal A. Selección de Tipo de Cobertura Temporal, B. Opción de calendario, C. Opción para inferir las fechas a partir de los datos_.</sub>
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Cobertura temporal](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#cobertura-temporal){:target="_blank"}.
 
@@ -306,13 +303,13 @@ Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IP
 
 ### 4.8. Palabras clave
 
-El IPT crea unas palabras clave por defecto con base en el [tesauro de GBIF](http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml){:target="_blank"}. Es importante que **no** borre estos tesauros ni los modifique. En cambio, dirígase a la parte inferior y dé clic en <span class="tag is-warning is-light"><i>Añadir palabras clave</i></span> para crear un nuevo campo y agregar palabras clave separadas por comas (Fig. 16).
+El IPT crea unas palabras clave por defecto con base en el [tesauro de GBIF](http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml){:target="_blank"}. Es importante que **no** borre estos tesauros ni los modifique. En cambio, dirígase a la parte inferior y dé clic en <span class="tag is-warning is-light"><i>Añadir palabras clave</i></span> para crear un nuevo campo y agregar palabras clave separadas por comas (Fig. 14).
 
 Si sus palabras clave provienen de un tesauro como [este](https://vocabularies.unesco.org/browser/thesaurus/es/){:target="_blank"}, indique el nombre del tesauro seguido por la URL en el campo **"Tesauro/Vocabulario"**. Si no está usando un tesauro para seleccionar las palabras clave, documente el campo **"Tesauro/Vocabulario"** con <span class="tag is-light"><b>n/a</b></span> (No Aplica).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig13_metadatos_pclave.PNG" width=600>
 
-<sub>_Figura 16. Sección Palabras clave_.</sub>
+<sub>_Figura 14. Sección Palabras clave_.</sub>
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Palabras clave](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#palabras-clave){:target="_blank"}.
 
@@ -337,17 +334,17 @@ Documente esta sección de acuerdo al apartado de **"Metodología"** en el caso 
 
 - El campo **"Área de Estudio"** puede coincidir con el espacio documentado en la sección **"Datos del Proyecto"**.
 - En el campo **"Descripción del muestreo"** va un párrafo general que resume todos los métodos utilizados para la toma de datos.
-- En el campo **"Metodología paso a paso"**, es conveniente redactar cada paso en un recuadro diferente para que la publicación sea más ordenada. Por consiguiente, haga clic en <span class="tag is-warning is-light"><i>Añadir paso metodológico</i></span> para añadir tantos recuadros como considere conveniente (Fig. 17).
+- En el campo **"Metodología paso a paso"**, es conveniente redactar cada paso en un recuadro diferente para que la publicación sea más ordenada. Por consiguiente, haga clic en <span class="tag is-warning is-light"><i>Añadir paso metodológico</i></span> para añadir tantos recuadros como considere conveniente (Fig. 15).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig14_metadatos_metodpasos.PNG" width=600>
 
-<sub>_Figura 17. Metodología paso a paso de la sección métodos de muestreo._</sub>
+<sub>_Figura 15. Metodología paso a paso de la sección métodos de muestreo._</sub>
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Métodos de muestreo](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#m%C3%A9todos-de-muestreo){:target="_blank"}.
 
 ### 4.11. Referencias
 
-En el campo **"¿Cómo referenciar este recurso?"**, dé clic sobre la opción <span class="tag is-warning is-light"><i>Generación automática Desactivada - Activar</i></span>. De esta forma, dicha sección se diligenciará según lo documentado en los apartados de **"Creadores del Recurso"** y **"Proveedores de los Metadatos"**, compilados en la sección **"Contactos"**. Cuando se genere la citación, asegúrese de que todos los autores involucrados con la publicación estén correctamente referenciados (Fig. 18).
+En el campo **"¿Cómo referenciar este recurso?"**, dé clic sobre la opción <span class="tag is-warning is-light"><i>Generación automática Desactivada - Activar</i></span>. De esta forma, dicha sección se diligenciará según lo documentado en los apartados de **"Creadores del Recurso"** y **"Proveedores de los Metadatos"**, compilados en la sección **"Contactos"**. Cuando se genere la citación, asegúrese de que todos los autores involucrados con la publicación estén correctamente referenciados (Fig. 16).
 
 El formato de la referencia utilizado en la generación automática se basa en el formato recomendado (referencia de _DataCite_) y satisface la [_Joint Declaration of Data Citation Principle_](https://www.force11.org/datacitationprinciples){:target="_blank"}. Este formato incluye un número de versión, el cual es particularmente importante para los conjuntos de datos que se actualizan continuamente.
 
@@ -357,7 +354,7 @@ El formato de la referencia utilizado en la generación automática se basa en e
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig15_metadatos_referencia.PNG" width=600>
 
-<sub>_Figura 18. Sección Referencias_.</sub>
+<sub>_Figura 16. Sección Referencias_.</sub>
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Referencias](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#referencias){:target="_blank"}.
 
@@ -365,11 +362,11 @@ Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IP
 
 Esta sección solo se documenta para los conjuntos de datos que corresponden a colecciones biológicas, y no cuando alguna de las observaciones se hayan depositado en una colección. Siguiendo el caso de ejemplo, puedes documentar esta sección con la información que está en la portada e introducción.
 
-Es recomendable documentar los campos de acuerdo al [Registro Nacional de Colecciones Biológicas](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones){:target="_blank"}. Puede añadir tantas coleciones como sea necesario (Fig. 19).
+Es recomendable documentar los campos de acuerdo al [Registro Nacional de Colecciones Biológicas](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones){:target="_blank"}. Puede añadir tantas coleciones como sea necesario (Fig. 17).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig16_meta_colecciones.png" width=600>
 
-<sub>_Figura 19. Sección datos de la colección documentados de acuerdo al Registro Nacional de Colecciones Biológicas_.</sub>
+<sub>_Figura 17. Sección datos de la colección documentados de acuerdo al Registro Nacional de Colecciones Biológicas_.</sub>
 
 
 ### 4.13. Enlaces externos
@@ -382,11 +379,11 @@ Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IP
 
 ### 4.14. Metadatos adicionales
 
-Esta es una sección opcional. Generalmente, el publicador no debe documentar ningún campo. El EC-SiB añadirá el logo de la organización publicadora principal (Fig. 20A) y una vez que se publique el recurso, el IPT completará automáticamente los **"Identificadores alternativos"**, que incluyen la URL del recurso en el IPT, el DOI y el ID del recurso en el SiB Colombia y GBIF (Fig. 20B).
+Esta es una sección opcional. Generalmente, el publicador no debe documentar ningún campo. El EC-SiB añadirá el logo de la organización publicadora principal (Fig. 18A) y una vez que se publique el recurso, el IPT completará automáticamente los **"Identificadores alternativos"**, que incluyen la URL del recurso en el IPT, el DOI y el ID del recurso en el SiB Colombia y GBIF (Fig. 18B).
 
 <img src="https://raw.githubusercontent.com/SIB-Colombia/Formacion/master/LAB/lab03/_images/Fig17_meta_adicionales.png" width=600>
 
-<sub>_Figura 20. Sección metadatos adicionales. A. Logo estandarizado del publicador, B. identificadores alternativos_.</sub>
+<sub>_Figura 18. Sección metadatos adicionales. A. Logo estandarizado del publicador, B. identificadores alternativos_.</sub>
 
 puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Enlaces externos](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#metadatos-adicionales){:target="_blank"}.
 
