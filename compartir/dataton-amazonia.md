@@ -29,7 +29,7 @@ composition:
      <img src="/assets/images/dataton-amazonia/figura-circular-especies-observadas-amazonia-vs-colombia.png" width="" alt="Número de especies observadas en la Amazonía Colombiana vs Colombia" title="Número de especies observadas en la Amazonía Colombiana vs Colombia">
    </td>
    <td style="width: 65%;">
-     <p>Al iniciar esta campaña en septiembre de 2025, de las 80.346 especies observadas en Colombia, la Amazonía colombiana aporta 16.991, poco más de la quinta parte. De estas 454 especies son únicas de la región (endémicas).</p>
+     <p>De las 80.346 especies observadas en Colombia, la Amazonía colombiana aporta 16.991, poco más de la quinta parte. De estas 454 especies son únicas de la región (endémicas).</p>
      <p>150 de dichas especies se encuentran en alguna categoría de amenaza, representando 8,2% del total de especies amenazadas del país.</p>
      <p>Amazonas, Meta y Vaupés son los departamentos con más datos, aportando más de la mitad del total de la región (56,6%).</p>
    </td>
