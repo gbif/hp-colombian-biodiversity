@@ -67,10 +67,7 @@ Ingrese al  [IPT _test_](https://ipt.biodiversidad.co/sib-test/){:target="_blank
 
 En la nueva vista, ingrese las credenciales que se encuentran en la sección de requerimientos y dé clic en la opción <span class="tag is-warning is-light"><i>Iniciar Sesión</i></span> (Fig. 2).
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig2_meta_ingreso.jpg" width=400>
-p>
-
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig2_meta_ingreso.jpg" width=400 style="display: block; margin: 0 auto">
 
 [Se redujo de 800 a 600 y luego 400]: #
 
@@ -86,7 +83,7 @@ Una vez que se haya autenticado en el IPT, podrá ver su información de usuario
 - <span class="tag is-warning is-light"><i>Gestión de recursos</i></span>: menú disponible solo para los usuarios registrados que han iniciado sesión.
 - <span class="tag is-warning is-light"><i>Acerca de</i></span>: menú para todos los usuarios, el cual presenta información general del IPT.
 
->El menú activo se mostrará con una línea azul en la parte inferior (Fig. 3B).
+> El menú activo se mostrará con una línea azul en la parte inferior (Fig. 3B).
 >
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig3_meta_general.jpg" width=800>
@@ -159,17 +156,17 @@ Por ejemplo, si usted realizó un estudio filogenético y desea publicar los dat
 Por ejemplo, si usted realizó un estudio filogenético y desea publicar los datos de las muestras de tejido que tomó en campo, describa solo las muestras y observaciones asociadas, no el estudio filogenético.
 </div>
 
+<div class="notification is-success">
+  Al documentar los metadatos, enfóquese en el conjunto de datos que va a publicar y no en el proyecto bajo el que fueron tomados.
+Por ejemplo, si usted realizó un estudio filogenético y desea publicar los datos de las muestras de tejido que tomó en campo, describa solo las muestras y observaciones asociadas, no el estudio filogenético.
+</div>
+
 <div class="notification is-link is-light">
   Al documentar los metadatos, enfóquese en el conjunto de datos que va a publicar y no en el proyecto bajo el que fueron tomados.
 Por ejemplo, si usted realizó un estudio filogenético y desea publicar los datos de las muestras de tejido que tomó en campo, describa solo las muestras y observaciones asociadas, no el estudio filogenético.
 </div>
 
 <div class="notification is-link">
-  Al documentar los metadatos, enfóquese en el conjunto de datos que va a publicar y no en el proyecto bajo el que fueron tomados.
-Por ejemplo, si usted realizó un estudio filogenético y desea publicar los datos de las muestras de tejido que tomó en campo, describa solo las muestras y observaciones asociadas, no el estudio filogenético.
-</div>
-
-<div class="notification is-success">
   Al documentar los metadatos, enfóquese en el conjunto de datos que va a publicar y no en el proyecto bajo el que fueron tomados.
 Por ejemplo, si usted realizó un estudio filogenético y desea publicar los datos de las muestras de tejido que tomó en campo, describa solo las muestras y observaciones asociadas, no el estudio filogenético.
 </div>
