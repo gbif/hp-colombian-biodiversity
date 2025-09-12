@@ -7,7 +7,7 @@ box:
   
 splitCTA:
   reverse: true
-  preTitle:   # optional
+  # preTitle:   # optional
   title: "¿Tienes datos sobre la biodiversidad de algún lugar de la Amazonía colombiana?"
   description: |      # required
     ¡Llegó la hora de compartirlos, dar a conocer tu trabajo y la naturaleza de la región!
