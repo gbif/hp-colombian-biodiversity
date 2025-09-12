@@ -126,7 +126,7 @@ Finalmente, dé clic en la opción <span class="tag is-warning is-light"><i>Crea
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig6_meta_crear.jpg" width=800>
 
-<sub>_Figura 6. Sección de creación del recurso. A. Nombre corto, B. Selección del tipo de datos, C. Carga de un DwC-A (opcional), D. Botón para crear el recurso_.</sub>
+<sub>_Figura 6. Sección de Creación del recurso. A. Nombre corto, B. Selección del tipo de datos, C. Carga de un DwC-A (opcional), D. Botón para crear el recurso_.</sub>
 
 Después de crear el recurso, el IPT lo dirigirá a la **"Vista General"**, donde encontrará 9 franjas para la administración del recurso (Fig. 7). Para este laboratorio, solo debe utilizar la franja **"Metadatos"**, ya que el Equipo Coordinador del SiB Colombia (EC-SiB) se encarga de configurar y administrar las demás franjas durante el proceso de publicación.
 
@@ -145,31 +145,6 @@ Desde la **"Vista General"** del recurso, ubique la franja **"Metadatos"** y dé
 > Al documentar los metadatos, enfóquese en el conjunto de datos que va a publicar y no en el proyecto bajo el que fueron tomados.
 Por ejemplo, si usted realizó un estudio filogenético y desea publicar los datos de las muestras de tejido que tomó en campo, describa solo las muestras y observaciones asociadas, no el estudio filogenético.
 >
-
-<div class="notification is-primary is-light">
-  Al documentar los metadatos, enfóquese en el conjunto de datos que va a publicar y no en el proyecto bajo el que fueron tomados.
-Por ejemplo, si usted realizó un estudio filogenético y desea publicar los datos de las muestras de tejido que tomó en campo, describa solo las muestras y observaciones asociadas, no el estudio filogenético.
-</div>
-
-<div class="notification is-success is-light">
-  Al documentar los metadatos, enfóquese en el conjunto de datos que va a publicar y no en el proyecto bajo el que fueron tomados.
-Por ejemplo, si usted realizó un estudio filogenético y desea publicar los datos de las muestras de tejido que tomó en campo, describa solo las muestras y observaciones asociadas, no el estudio filogenético.
-</div>
-
-<div class="notification is-success">
-  Al documentar los metadatos, enfóquese en el conjunto de datos que va a publicar y no en el proyecto bajo el que fueron tomados.
-Por ejemplo, si usted realizó un estudio filogenético y desea publicar los datos de las muestras de tejido que tomó en campo, describa solo las muestras y observaciones asociadas, no el estudio filogenético.
-</div>
-
-<div class="notification is-link is-light">
-  Al documentar los metadatos, enfóquese en el conjunto de datos que va a publicar y no en el proyecto bajo el que fueron tomados.
-Por ejemplo, si usted realizó un estudio filogenético y desea publicar los datos de las muestras de tejido que tomó en campo, describa solo las muestras y observaciones asociadas, no el estudio filogenético.
-</div>
-
-<div class="notification is-link">
-  Al documentar los metadatos, enfóquese en el conjunto de datos que va a publicar y no en el proyecto bajo el que fueron tomados.
-Por ejemplo, si usted realizó un estudio filogenético y desea publicar los datos de las muestras de tejido que tomó en campo, describa solo las muestras y observaciones asociadas, no el estudio filogenético.
-</div>
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig8_meta_documentacion.jpg" width=800>
 
@@ -202,7 +177,7 @@ Describa brevemente los datos que se van a publicar. Este campo es equivalente a
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig9_meta_info.jpg" width=800>
 
-<sub>_Figura 9. Sección metadatos básicos. A. Título, B. Selección de la organización publicadora, C. Selección de la licencia de los datos, D. Descripción_.</sub>
+<sub>_Figura 9. Sección de Metadatos básicos. A. Título, B. Selección de la organización publicadora, C. Selección de la licencia de los datos, D. Descripción_.</sub>
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Metadatos básicos](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#metadatos-b%C3%A1sicos){:target="_blank"}.
 
@@ -271,7 +246,7 @@ Ingrese la **"Descripción"** de la cobertura geográfica, de acuerdo al área d
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig11_meta_geografica.jpg" width=800>
 
-<sub>_Figura 11. Sección de cobertura geográfica. A. Selección de cobertura en el mapa, B. Recuadros de longitud y latitud mínima y máxima, C. Opción para inferir las coordenadas a partir de los datos, D. Descripción_.</sub>
+<sub>_Figura 11. Sección de Cobertura geográfica. A. Selección de cobertura en el mapa, B. Recuadros de longitud y latitud mínima y máxima, C. Opción para inferir las coordenadas a partir de los datos, D. Descripción_.</sub>
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Cobertura geográfica](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#cobertura-geogr%C3%A1fica){:target="_blank"}.
 
@@ -301,7 +276,7 @@ En caso de haber mapeado los datos previamente, también puede usar la opción <
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig12_meta_taxonomia.jpg" width=600>
 
-<sub>_Figura 12. Sección de cobertura taxonómica. A. Descripción, B. Lista de Taxa, C. Documentación de la categoría y nombre común de cada taxón, D. Opción para inferir los taxones a partir de los datos_.</sub>
+<sub>_Figura 12. Sección de Cobertura taxonómica. A. Descripción, B. Lista de Taxa, C. Documentación de la categoría y nombre común de cada taxón, D. Opción para inferir los taxones a partir de los datos_.</sub>
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Cobertura taxonómica](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#cobertura-taxon%C3%B3mica){:target="_blank"}.
 
@@ -314,7 +289,7 @@ Agregue una nueva cobertura temporal con el botón <span class="tag is-warning i
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig13_meta_fechas.jpg" width=700>
 
-<sub>_Figura 13. Sección de cobertura temporal A. Selección de Tipo de Cobertura Temporal, B. Opción de calendario, C. Opción para inferir las fechas a partir de los datos_.</sub>
+<sub>_Figura 13. Sección de Cobertura temporal A. Selección de Tipo de Cobertura Temporal, B. Opción de calendario, C. Opción para inferir las fechas a partir de los datos_.</sub>
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Cobertura temporal](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#cobertura-temporal){:target="_blank"}.
 
@@ -360,7 +335,7 @@ Documente esta sección de acuerdo al apartado de **"Metodología"** en el caso 
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig15_meta_metodologia.jpg" width=800>
 
-<sub>_Figura 15. Metodología paso a paso de la sección Métodos de muestreo._</sub>
+<sub>_Figura 15. Metodología paso a paso en la sección de Métodos de muestreo._</sub>
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Métodos de muestreo](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#m%C3%A9todos-de-muestreo){:target="_blank"}.
 
@@ -376,7 +351,7 @@ El formato de la referencia que se utiliza en la generación automática se basa
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig16_meta_referencia.jpg" width=800>
 
-<sub>_Figura 16. Sección Referencias_.</sub>
+<sub>_Figura 16. Sección de Referencias_.</sub>
 
 Puede ver más detalles acerca de esta sección en el [Manual del Usuario del IPT - Menú gestión de recursos - Referencias](https://ipt.gbif.org/manual/es/ipt/latest/manage-resources#referencias){:target="_blank"}.
 
