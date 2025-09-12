@@ -4,6 +4,7 @@ permalink: /dataton-amazonia/
 title: Datatón por la Amazonía
 description: Esta Datatón por la Amazonía busca incrementar la disponibilidad de datos sobre biodiversidad de la región.
 background: /assets/images/dataton-amazonia/banner-dataton-amazonia-central.png
+height: "41vh"
 toc: true
 composition:
   - type: heroBox
