@@ -11,7 +11,7 @@ splitCTA:
   title: "¿Tienes datos sobre la biodiversidad de algún lugar de la Amazonía colombiana?"
   description: |      # required
     ¡Llegó la hora de compartirlos, dar a conocer tu trabajo y la naturaleza de la región!
-  background: /assets/images/dataton-amazonia/mapa-colores.png
+  background: /assets/images/dataton-amazonia/mapa-colores-2.png
   overlayColor: "#f3ffd4"
   href: https://docs.google.com/forms/d/e/1FAIpQLSfmX-YnTAWe7gBh6rE6tuUK6X3ikKURpsqQqNRAN00jRqEdgQ/viewform?usp=dialog
   cta:
