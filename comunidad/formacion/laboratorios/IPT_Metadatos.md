@@ -59,13 +59,13 @@ Esta guía provee un caso de ejemplo para realizar el ejercicio. Sin embargo, se
 
 ## Paso 1 - Ingreso al IPT
 
-Ingrese al  [IPT _test_](https://ipt.biodiversidad.co/sib-test/){:target="_blank"} y de clic en la opción <span class="tag is-warning is-light"><i>Iniciar Sesión</i></span> (Fig. 1).
+Ingrese al  [IPT _test_](https://ipt.biodiversidad.co/sib-test/){:target="_blank"} y dé clic en la opción <span class="tag is-warning is-light"><i>Iniciar Sesión</i></span> (Fig. 1).
 
-<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig1_meta_ingreso.jpg" width=800 style="margin: 0 auto">
+<img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig1_meta_ingreso.jpg" width=800 style="display: block; margin: 0 auto">
 
 <sub>_Figura 1. Página principal del IPT_.</sub>
 
-En la nueva vista, ingrese las credenciales que se encuentran en la sección de requerimientos y de clic en la opción <span class="tag is-warning is-light"><i>Iniciar Sesión</i></span> (Fig. 2).
+En la nueva vista, ingrese las credenciales que se encuentran en la sección de requerimientos y dé clic en la opción <span class="tag is-warning is-light"><i>Iniciar Sesión</i></span> (Fig. 2).
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig2_meta_ingreso.jpg" width=400>
 
@@ -92,11 +92,11 @@ Una vez que se haya autenticado en el IPT, podrá ver su información de usuario
 
 ### 2.1. Explore el menú Gestión de recursos
 
-Selecione el menú <span class="tag is-warning is-light"><i>Gestión de recursos</i></span> (Fig. 4). Aparecerá una tabla de resumen con todos los recursos que puede administrar con su usuario (Fig. 4A), la cual se puede filtrar por texto (Fig. 4B) y reorganizar de forma ascendente o desendente según los contenidos de cada columna (Fig. 4C). Para ingresar a los recursos bajo su administración, haga clic sobre el nombre del recurso en la tabla (Fig. 4). Por último, explore las opciones de la tabla mencionadas anteriormente.
+Selecione el menú <span class="tag is-warning is-light"><i>Gestión de recursos</i></span>. Aparecerá una tabla de resumen con todos los recursos que puede administrar con su usuario (Fig. 4A), la cual se puede filtrar por texto (Fig. 4B) y reorganizar de forma ascendente o desendente según los contenidos de cada columna (Fig. 4C). Para ingresar a los recursos bajo su administración, haga clic sobre el nombre del recurso en la tabla (Fig. 4D). Por último, explore las opciones de la tabla mencionadas anteriormente.
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig4_meta_gestion.jpg" width=800>
 
-<sub>_Figura 4. Menú de Gestión de recursos. A. Tabla de recursos adminsitrados, B. Filtro para búsqueda por texto de los recursos, C. Filtro de columna para reorganizar la tabla_.</sub>
+<sub>_Figura 4. Menú de Gestión de recursos. A. Tabla de recursos adminsitrados, B. Filtro para búsqueda por texto de los recursos, C. Filtro de columna para reorganizar la tabla, D. Ingresar a un recurso_.</sub>
 
 <br>
 
@@ -118,7 +118,7 @@ En la lista desplegable de la sección **"Tipo"**, seleccione la opción que cor
 
 ### 3.3. Opción para importar un archivo *DwC-A*
 
-Si posee un _Darwin Core Archive_ (DwC-A), puede seleccionar la casilla <span class="tag is-warning is-light"><i>Importar desde archivo</i></span>, y se le habilitará una opción para buscar el archivo en formato DwC-A. Esta opción **no** permite archivos Excel ni de texto plano. Por consiguiente, dicha opción no se debe usar en este ejercicio (Fig. 6C).
+Si posee un _Darwin Core Archive_ (DwC-A), puede seleccionar la casilla <span class="tag is-warning is-light"><i>Importar desde archivo</i></span>, y se le habilitará una opción para buscar el archivo en formato DwC-A. Esta opción **no** permite archivos Excel ni de texto plano, por consiguiente, dicha opción no se debe usar en este ejercicio (Fig. 6C).
 
 ### 3.4. Creación del recurso
 
@@ -140,11 +140,21 @@ Puedes conocer más sobre las franjas de la **"Vista General"** del recurso en e
 
 ## Paso 4 - Documentación de los metadatos
 
-Desde la **"Vista General"** del recurso, ubique la franja **"Metadatos"** y haga clic en <span class="tag is-warning is-light"><i>Editar</i></span> (Fig. 7). Será dirigido al formulario de metadatos, que consta de 14 secciones (Fig. 8). A partir del informe del caso de ejemplo o de un informe o artículo propio, revise y documente cada una de las 14 secciones de metadatos.
+Desde la **"Vista General"** del recurso, ubique la franja **"Metadatos"** y dé clic en <span class="tag is-warning is-light"><i>Editar</i></span> (Fig. 7). Será dirigido al formulario de metadatos, que consta de 14 secciones (Fig. 8). A partir del informe del caso de ejemplo o de un informe o artículo propio, revise y documente cada una de las 14 secciones de metadatos.
 
 > Al documentar los metadatos, enfóquese en el conjunto de datos que va a publicar y no en el proyecto bajo el que fueron tomados.
 Por ejemplo, si usted realizó un estudio filogenético y desea publicar los datos de las muestras de tejido que tomó en campo, describa solo las muestras y observaciones asociadas, no el estudio filogenético.
 >
+
+<div class="notification is-success is-light">
+  Al documentar los metadatos, enfóquese en el conjunto de datos que va a publicar y no en el proyecto bajo el que fueron tomados.
+Por ejemplo, si usted realizó un estudio filogenético y desea publicar los datos de las muestras de tejido que tomó en campo, describa solo las muestras y observaciones asociadas, no el estudio filogenético.
+</div>
+
+<div class="notification is-dark is-light">
+  Al documentar los metadatos, enfóquese en el conjunto de datos que va a publicar y no en el proyecto bajo el que fueron tomados.
+Por ejemplo, si usted realizó un estudio filogenético y desea publicar los datos de las muestras de tejido que tomó en campo, describa solo las muestras y observaciones asociadas, no el estudio filogenético.
+</div>
 
 <img src="https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_MetadatosIPT/Fig8_meta_documentacion.jpg" width=800>
 
