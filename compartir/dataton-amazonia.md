@@ -9,10 +9,10 @@ toc: true
 composition:
   - type: heroBox
     data: "dataton_amazonia.box"
-  - type: split
-    data: "dataton_amazonia.splitCTA"
   - type: floatingText
     data: "dataton_amazonia.bannerCTA"
+  - type: split
+    data: "dataton_amazonia.splitCTA"
   - type: markdown
     data: "dataton_amazonia.videoPrincipal"
   - type: pageMarkdown
