@@ -28,7 +28,7 @@ composition:
   - type: stats
     data: home.stats
   - type: markdown
-    data: "dataton_amazonia.bannerDatatonAmazonia"
+    data: "home.bannerDatatonAmazonia"
   - type: split
     data: home.splitGruposdeInteres
   - type: features
