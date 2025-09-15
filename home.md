@@ -28,13 +28,11 @@ composition:
   - type: stats
     data: home.stats
   - type: markdown
-    data: "home.bannerDatatonAmazonia"
+    data: home.bannerDatatonAmazonia
   - type: split
     data: home.splitGruposdeInteres
   - type: features
     data: home.noticias
-  - type: floatingText
-    data: home.textoAlerta
   - type: split
     data: home.splitAlianzaSectorEmpresarial
   - type: split
