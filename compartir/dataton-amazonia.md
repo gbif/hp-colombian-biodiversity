@@ -16,8 +16,6 @@ composition:
   - type: markdown
     data: "dataton_amazonia.videoPrincipal"
   - type: pageMarkdown
-  - type: floatingText
-    data: "dataton_amazonia.bannerLogo"
 ---
 
 
