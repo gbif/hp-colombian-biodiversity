@@ -29,10 +29,10 @@ composition:
     data: home.stats
   - type: markdown
     data: home.bannerDatatonAmazonia
-  - type: split
-    data: home.splitGruposdeInteres
   - type: features
     data: home.noticias
+  - type: split
+    data: home.splitGruposdeInteres
   - type: split
     data: home.splitAlianzaSectorEmpresarial
   - type: split
