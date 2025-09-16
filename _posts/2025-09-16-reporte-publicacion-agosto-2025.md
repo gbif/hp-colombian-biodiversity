@@ -1,6 +1,6 @@
 ---
 preTitle: 16 de septiembre, 2025
-title: Mamíferos del Eje Cafetero, comunidades hidrobiológicas de Cesar y flora del Caribe entre los destacados de agosto
+title: Mamíferos del Eje Cafetero, vida acuática de Cesar y flora del Caribe entre los destacados de agosto
 description: _Este mes universidades, empresas, jardines botánicos y centros de investigación aportaron con registros biológicos, eventos de muestreo y conjunto de datos que fortalecen el conocimiento de nuestra biodiversidad._
 date: 2025-09-16
 categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
