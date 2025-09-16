@@ -99,7 +99,7 @@ noticias:
       background: assets/images/noticias_eventos/2025/2025-09-16-destacados-agosto-2025.png
       cta:
       - text: Ver más
-        href: /post/2025/reporte-publicacion-agosto-2025/
+        href: /post/2025/2025-09-16-reporte-publicacion-agosto-2025/
         isPrimary: false
         
     - preTitle: Datos abiertos
