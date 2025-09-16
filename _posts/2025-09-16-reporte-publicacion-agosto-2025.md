@@ -9,7 +9,7 @@ background: /assets/images/noticias_eventos/2025/2025-09-16-destacados-agosto-20
 
 
 
-### **Mamíferos del Eje Cafetero, biodiversidad acuática del Cesar y flora del Caribe entre los destacados de agosto**
+
 
 *Durante este mes, universidades, empresas, jardines botánicos y centros de investigación aportaron con registros biológicos, eventos de muestreo y conjunto de datos que fortalecen el conocimiento de nuestra biodiversidad.*
 
