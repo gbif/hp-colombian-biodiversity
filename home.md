@@ -27,12 +27,10 @@ composition:
   - type: heroImage # the block type
   - type: stats
     data: home.stats
-  - type: markdown
-    data: home.bannerDatatonAmazonia
-  - type: features
-    data: home.noticias
   - type: split
     data: home.splitGruposdeInteres
+  - type: features
+    data: home.noticias
   - type: split
     data: home.splitAlianzaSectorEmpresarial
   - type: split
