@@ -9,12 +9,12 @@ toc: true
 composition:
   - type: heroBox
     data: "dataton_amazonia.box"
-  - type: markdown
-    data: "dataton_amazonia.videoPrincipal"
   - type: split
     data: "dataton_amazonia.splitCTA"
   - type: floatingText
     data: "dataton_amazonia.bannerCTA"
+  - type: markdown
+    data: "dataton_amazonia.videoPrincipal"
   - type: pageMarkdown
 ---
 
