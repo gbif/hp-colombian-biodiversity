@@ -54,6 +54,7 @@ siteMeasurements:
   GA_ID: "UA-120994855-1" # Your Google analytics ID. Sometimes they start with UA-XXXXX-X other times with G-XXXXXXXX depending on how you set it up
   termsVersion: "2021-07-06" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
 
+graphqlEndpoint: "https://graphql.gbif.org/graphql" # for use with e.g. new stories from GBIF.org
 algae:
   rootLang: es
   # latestPostLimit: 2
@@ -81,22 +82,21 @@ algae:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
 exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - .LICENSE
   - .netlify.toml
   - .README.md
+  - widgetPages/disabled/
 
 permalink: pretty # will strip extensions like .html from urls
 

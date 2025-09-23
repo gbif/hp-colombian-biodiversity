@@ -3,6 +3,192 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 }});
 
 var siteConfig = {
+    "version": 3,
+    "pages": [
+        {
+            "id": "occurrenceSearch",
+            "path": "data"
+        },
+        {
+            "id": "publisherSearch"
+        },
+        {
+            "id": "publisherKey"
+        },
+        {
+            "id": "collectionKey"
+        },
+        {
+            "id": "collectionSearch"
+        },
+        {
+            "id": "datasetKey"
+        },
+        {
+            "id": "datasetSearch"
+        },
+        {
+            "id": "literatureSearch"
+        }
+    ],
+    "disableInlineTableFilterButtons": false,
+    "availableCatalogues": [
+        "OCCURRENCE",
+        "DATASET",
+        "COLLECTION",
+        "PUBLISHER",
+        "LITERATURE"
+    ],
+    "dataHeader": {
+        "enableApiPopup": false,
+        "enableInfoPopup": false
+    },
+    "theme": {
+        "primary": themeStyle.colors.primary,
+        "borderRadius": 3,
+        "stickyOffset": "0px"
+    },
+    "maps": {
+        "locale": "es",
+        "mapStyles": {
+            "defaultProjection": "MERCATOR",
+            "defaultMapStyle": "BRIGHT",
+            "options": {
+                "MERCATOR": [
+                    "BRIGHT",
+                    "NATURAL"
+                ]
+            }
+        }
+    },
+    "languages": [
+        {
+            "code": "es",
+            "localeCode": "es",
+            "label": "Español",
+            "default": true,
+            "textDirection": "ltr",
+            "cmsLocale": "es",
+            "vocabularyLocale": "es-ES",
+            "iso3LetterCode": "spa",
+            "gbifOrgLocalePrefix": "/es",
+            "grSciCollLocalePrefix": "/es",
+            "mapTileLocale": "es"
+        }
+    ],
+    "messages": {},
+    "occurrenceSearch": {
+        "scope": {
+            "type": "or",
+            "predicates": [
+                {
+                    "key": "publishingCountry",
+                    "type": "equals",
+                    "value": "CO"
+                },
+                {
+                    "type": "and",
+                    "predicates": [
+                        {
+                            "key": "country",
+                            "type": "equals",
+                            "value": "CO"
+                        },
+                        {
+                            "key": "notIssues",
+                            "type": "equals",
+                            "value": "COUNTRY_COORDINATE_MISMATCH"
+                        }
+                    ]
+                }
+            ]
+        },
+        "highlightedFilters": [
+            "taxonKey",
+            "gadmGid",
+            "stateProvince",
+            "publishingOrg",
+            "elevation",
+            "year",
+            "basisOfRecord",
+            "datasetName",
+            "issue"
+        ],
+        "tabs": [
+            "table",
+            "map",
+            "gallery",
+            "datasets",
+            "download"
+        ],
+        "mapSettings": {
+            "lat": 4.6482836,
+            "lng": -74.2482353,
+            "zoom": 4.5
+        }
+    },
+    "collectionSearch": {
+        "scope": {
+            "displayOnNHCPortal": true,
+            "country": "CO",
+            "active": true
+        },
+        "excludedFilters": [
+            "countrySingleGrSciColl",
+            "country"
+        ]
+    },
+    "institutionSearch": {},
+    "datasetSearch": {
+        "scope": {
+            "publishingCountry": "CO"
+        },
+        "highlightedFilters": [
+            "q",
+            "publishingOrg",
+            "type",
+            "license"
+        ],
+        "excludedFilters": [
+            "publishingCountry"
+        ]
+    },
+    "publisherSearch": {
+        "scope": {
+            "country": "CO"
+        },
+        "excludedFilters": [
+            "country"
+        ]
+    },
+    "literatureSearch": {
+        "scope": {
+            "type": "or",
+            "predicates": [
+                {
+                    "type": "in",
+                    "key": "countriesOfResearcher",
+                    "values": [
+                        "CO"
+                    ]
+                },
+                {
+                    "type": "in",
+                    "key": "countriesOfCoverage",
+                    "values": [
+                        "CO"
+                    ]
+                }
+            ]
+        },
+        "highlightedFilters": [
+            "q",
+            "year"
+        ]
+    }
+};
+
+var siteConfig_old = {
   routes: {
     alwaysUseHrefs: true,
     enabledRoutes: ['occurrenceSearch', 'publisherSearch', 'publisherKey', 'collectionKey', 'collectionSearch', 'datasetKey', 'datasetSearch', 'literatureSearch'], // Se omite 'institutionKey', 'institutionSearch' porque no se llama
