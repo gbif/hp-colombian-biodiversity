@@ -204,7 +204,7 @@ A continuación, se presenta un listado de estas empresas, que incluye el volume
 | ![Petroeléctrica de los Llanos](https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-pel.png) | ![Productos Alimenticios Doria S.A.S](https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-doria.png) | ![Promigas S.A E.S.P](https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-promigas.png) | ![PROMOTORA STONEVILLE SAS](https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-stoneville.png) | ![Puerto Bahia Colombia de Urabá S.A.](https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-PBCU.png) | ![Sepia Rov S.A.S](https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-sepia.png) | 
 | ![Servicios Ambientales MerGlen S.A.S.](https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-merglen.png) | ![Smurfit Kappa Cartón de Colombia](https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-smurfit.png) | ![Stratos Consultoría Geológica](https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-stratos.png) | ![Terrasos](https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-terrasos.png) | ![Veolia Colombia](https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-veolia.png) |  | 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vScY_Y13XaKRGz4Zkbbv2Da_lba-p4QdN9W6QNarJ7wfNZC4nmIW98jPz9t5LJ_r9H9PBwNbS3eGB77/pubhtml?gid=0&single=true" width="98%" height="1870" style="border:none;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vScY_Y13XaKRGz4Zkbbv2Da_lba-p4QdN9W6QNarJ7wfNZC4nmIW98jPz9t5LJ_r9H9PBwNbS3eGB77/pubhtml?gid=0&single=true" width="98%" height="1890" style="border:none;"></iframe>
 
 ## Cuáles organizaciones son coautoras
 
@@ -212,7 +212,7 @@ En el proceso de generación de datos sobre biodiversidad por parte de las empre
 
 Actualmente, la alianza trabaja para asegurar la visibilidad de todas las organizaciones coautoras en estos logros y aquí listamos aquellas que han participado bajo este rol en diversas publicaciones realizadas por las empresas en el marco de esta iniciativa.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxQdk0yIJ7AZ82rGl5WsH7ON6KM9yQ_KbEvAcN8Y5QOnOv7d4aYLKGmlh3N3dK5OnGsyp3_MQFsJ_E/pubhtml?gid=0&single=true" width="90%" height="900" style="border:none;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxQdk0yIJ7AZ82rGl5WsH7ON6KM9yQ_KbEvAcN8Y5QOnOv7d4aYLKGmlh3N3dK5OnGsyp3_MQFsJ_E/pubhtml?gid=0&single=true" width="90%" height="870" style="border:none;"></iframe>
 
 ## Cuál es el costo para las empresas
 
