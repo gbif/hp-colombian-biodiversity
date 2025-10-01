@@ -186,9 +186,9 @@ Esta fase puede desarrollarse con los siguientes pasos:
 
 ## Cuáles empresas ya publican datos
 
-Más de 30 empresas colombianas de diferentes sectores ya publican datos sobre biodiversidad a través del SiB Colombia y GBIF, aumentado significativamente la participación del sector empresarial en la contribución al conocimiento de la diversidad biológica del país. 
+Más de 60 empresas colombianas, de diversos sectores, ya contribuyen al conocimiento de la biodiversidad del país mediante la publicación de sus datos a través del SiB Colombia y GBIF. La participación del sector empresarial ha experimentado un aumento significativo.
 
-A continuación se presenta un inventario de aquellas empresas, junto con el volumen de datos y conjuntos de datos publicados a la fecha, así como un indicador de uso de los datos en publicaciones académicas. Actualmente la alianza se encuentra trabajando para que todas las organizaciones co-autoras también sean visibles en estos logros.
+A continuación, se presenta un listado de estas empresas, que incluye el volumen de datos y los conjuntos de datos publicados hasta la fecha, así como un indicador del uso de sus datos en publicaciones académicas.
 
 |:----:|:----:|:----:|:----:|:----:|:----:|
 | ![ACESCO Colombia SAS](https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-acesco.png) | ![AES COLOMBIA & CÍA S.C.A. E.S.P.](https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-aes.png) | ![Agropecuaria Aliar S.A.](https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-aliar.png) | ![Aguas de Bogotá S.A E.S.P](https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-ab.png) | ![Aïgos SAS](https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-aigos.png) | ![Anadarko Colombia Company](https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-anadarko.png) |
@@ -206,6 +206,13 @@ A continuación se presenta un inventario de aquellas empresas, junto con el vol
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vScY_Y13XaKRGz4Zkbbv2Da_lba-p4QdN9W6QNarJ7wfNZC4nmIW98jPz9t5LJ_r9H9PBwNbS3eGB77/pubhtml?gid=0&single=true" width="98%" height="1300" style="border:none;"></iframe>
 
+## Cuáles organizaciones son coautoras
+
+En el proceso de generación de datos sobre biodiversidad por parte de las empresas, la colaboración con otras organizaciones (empresas, consultoras, ONG, universidades) es fundamental. Su rol como coautoras en diferentes etapas del ciclo de vida de los datos no solo mejora la calidad de los conjuntos de datos, sino que también garantiza un reconocimiento equitativo a todas las partes involucradas.
+
+Actualmente, la alianza trabaja para asegurar la visibilidad de todas las organizaciones coautoras en estos logros y aquí listamos aquellas que han participado bajo este rol en diversas publicaciones realizadas por las empresas en el marco de esta iniciativa.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxQdk0yIJ7AZ82rGl5WsH7ON6KM9yQ_KbEvAcN8Y5QOnOv7d4aYLKGmlh3N3dK5OnGsyp3_MQFsJ_E/pubhtml?gid=0&single=true" width="98%" height="1300" style="border:none;"></iframe>
 
 ## Cuál es el costo para las empresas
 
