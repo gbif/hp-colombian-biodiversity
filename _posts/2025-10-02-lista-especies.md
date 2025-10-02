@@ -9,7 +9,6 @@ background:/assets/images/noticias_eventos/2025/2025-10-02-lista-especies-migrat
 
 ---
 
-
 El **18 de septiembre de 2025**, el Ministerio de Ambiente y Desarrollo Sostenible publicó la nueva [Lista de especies silvestres migratorias de la diversidad biológica continental y marino-costera de Colombia](https://ipt.biodiversidad.co/sib/resource?r=mads_especiesmigratorias){:target="_blank"}, un documento que reúne **837 especies** y que se convierte en un insumo clave para la conservación y manejo de la biodiversidad  del país.  Su elaboración fue posible gracias al trabajo conjunto de WWF Colombia, expertos y especialistas de la academia a nivel nacional e instituciones del Sistema Nacional Ambiental—SINA, quienes recopilaron, revisaron y depuraron la información actualizada disponibles con base en los lineamientos del [Plan Nacional de Especies Migratorias](https://www.minambiente.gov.co/wp-content/uploads/2021/10/Plan-Nacional-de-Especies-Migratorias.pdf){:target="_blank"} publicado en 2009.
 
 El SiB Colombia cumple un papel importante en este proceso, al actuar como puente para que esta y otras listas oficiales estén disponibles para su consulta, garantizando así el acceso abierto a información confiable y actualizada sobre la biodiversidad de nuestro país. De esta forma, la lista se consolida como una base esencial para la renovación de las estrategias de conservación y manejo vigentes.
