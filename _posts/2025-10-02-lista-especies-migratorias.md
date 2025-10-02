@@ -15,7 +15,9 @@ El SiB Colombia cumple un papel importante en este proceso, al actuar como puent
 
 En total, la actualización incluye **837 especies migratorias** para Colombia, distribuidas de la siguiente manera: **388** aves, **6** tortugas, **334** peces, **38** insectos, **42** murciélagos, **22** mamíferos marinos y **7** mamíferos de agua dulce. Este desglose evidencia la diversidad de grupos que dependen de la migración para sobrevivir y la importancia de contar con información precisa para orientar su conservación.
 
-&lt;img src="/assets/images/noticias_eventos/2025/2025-10-02-lista-especies-migratoria1.jpg" width=770> 
+<p align="center">
+  <img src="/assets/images/noticias_eventos/2025/2025-10-02-lista-especies-migratorias1.jpg" alt="Especies migratorias" width="600">
+</p>
 
 *Trichechus inunguis*, especie migratoria de Colombia.
 
