@@ -1,6 +1,6 @@
 ---
 preTitle: 02 de octubre, 2025
-title: “Una nueva mirada a las especies migratorias: actualización de la lista nacional”
+title: "Una nueva mirada a las especies migratorias: actualización de la lista nacional"
 description: "_Se actualizó la lista de especies silvestres migratorias de la diversidad biológica continental y marino-costera de Colombia, un insumo clave para la conservación de especies en el territorio nacional._"
 date: 2025-10-02
 categories: ["Especies migratorias","lista nacional",“Actualización”,"2025"]
