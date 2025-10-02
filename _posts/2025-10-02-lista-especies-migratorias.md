@@ -22,6 +22,10 @@ En total, la actualización incluye **837 especies migratorias** para Colombia, 
 *Trichechus inunguis*, especie migratoria de Colombia.
 Foto: [Catálogo de la Biodiversidad de Colombia (CBC)]( https://catalogo.biodiversidad.co/file/59ae25ff1582a31515e97082/summary){:target="_blank"}
 
+| Esta nueva lista de referencia se une a la **Lista de Especies Amenazadas de Colombia 2024**, que también está disponible a través del SiB Colombia.
+
+**Te puede interesar:**[ Lista de especies amenazadas en Colombia 2024](https://biodiversidad.co/post/2024/lista-especies-amenazadas-colombia/?utm_source=chatgpt.com){:target="_blank"}
+
 La migración no es un simple desplazamiento, es una estrategia de vida que muchas especies han perfeccionado para asegurar su supervivencia. Les permite aprovechar recursos en distintos lugares, escapar de condiciones adversas y garantizar la continuidad de sus poblaciones. Llevar a cabo esta estrategia implica recorrer largas distancias, atravesar fronteras y hábitats diversos, siguiendo rutas precisas que, generación tras generación, se convierten en auténticos **mapas biológicos**. En esencia, migrar significa sobrevivir y reproducirse en el lugar y momento adecuados.
 
 En Colombia, la migración de especies adquiere una relevancia especial. Cada año, ríos, mares, selvas y montañas se transforman en vías de tránsito para peces, aves, mamíferos, reptiles e incluso insectos que utilizan nuestro territorio como **corredor biológico**. Estos movimientos no solo son sorprendentes en términos de resistencia y orientación, sino que también cumplen un papel esencial en el funcionamiento de los ecosistemas: conectan regiones, favorecen el intercambio genético y regulan procesos naturales que sostienen la biodiversidad.
