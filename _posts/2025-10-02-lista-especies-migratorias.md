@@ -20,27 +20,28 @@ En total, la actualización incluye **837 especies migratorias** para Colombia, 
 </p>
 
 *Trichechus inunguis*, especie migratoria de Colombia.
-
 Foto: [Catálogo de la Biodiversidad de Colombia (CBC)]( https://catalogo.biodiversidad.co/file/59ae25ff1582a31515e97082/summary){:target="_blank"}
 
 La migración no es un simple desplazamiento, es una estrategia de vida que muchas especies han perfeccionado para asegurar su supervivencia. Les permite aprovechar recursos en distintos lugares, escapar de condiciones adversas y garantizar la continuidad de sus poblaciones. Llevar a cabo esta estrategia implica recorrer largas distancias, atravesar fronteras y hábitats diversos, siguiendo rutas precisas que, generación tras generación, se convierten en auténticos mapas biológicos. En esencia, migrar significa sobrevivir y reproducirse en el lugar y momento adecuados.
 
 En Colombia, la migración de especies adquiere una relevancia especial. Cada año, ríos, mares, selvas y montañas se transforman en vías de tránsito para peces, aves, mamíferos, reptiles e incluso insectos que utilizan nuestro territorio como corredor biológico. Estos movimientos no solo son sorprendentes en términos de resistencia y orientación, sino que también cumplen un papel esencial en el funcionamiento de los ecosistemas: conectan regiones, favorecen el intercambio genético y regulan procesos naturales que sostienen la biodiversidad.
 
-&lt;img src="/assets/images/noticias_eventos/2025/2025-10-02-lista-especies-migratoria2.jpg" width=770> 
+<p align="center">
+  <img src="/assets/images/noticias_eventos/2025/2025-10-02-lista-especies-migratoria2.jpg" alt="Especies migratorias" width="600">
+</p>
 
 *Danaus plexippus*, especie migratoria de Colombia.
-
 Foto: [iNaturalist](https://www.inaturalist.org/observations/318062934){:target="_blank"}
 
 Conocer qué especies migran y cómo lo  hacen es clave para entender la dinámica de nuestra biodiversidad. Su papel es irremplazable: muchas aves migratorias dispersan semillas que regeneran los bosques; los peces transportan nutrientes río arriba y río abajo, conectando ambientes acuáticos; y las especies marino-costeras mantienen el equilibrio de los océanos. Estos procesos, invisibles a primera vista, son la base de la estabilidad ecológica de la que dependemos los seres humanos.
 
 El valor de las migraciones va más allá de lo ecológico. Para muchas comunidades locales, representan también un medio de vida: la pesca de especies migratorias sostiene economías ribereñas y costeras, el turismo de naturaleza atrae observadores de aves y viajeros interesados en presenciar estos espectáculos biológicos y el aprovechamiento sostenible de algunos recursos se convierte en motor de desarrollo. Al mismo tiempo, muchas especies recorren rutas que atraviesan varios países, convirtiéndose en puentes vivos que conectan territorios y culturas. Su conservación, por lo tanto, exige esfuerzos colectivos y coordinados a escala nacional e internacional.
 
-&lt;img src="/assets/images/noticias_eventos/2025/2025-10-02-lista-especies-migratoria3.jpg" width=770> 
+<p align="center">
+  <img src="/assets/images/noticias_eventos/2025/2025-10-02-lista-especies-migratoria3.jpg" alt="Especies migratorias" width="600">
+</p> 
 
 *Buteo albigula*, especie migratoria de Colombia.
-
 Foto: [Catálogo de la Biodiversidad de Colombia (CBC)](https://catalogo.biodiversidad.co/file/56e7804983c45700544e405d/summary)
 
 En este contexto, contar con una lista de referencia actualizada es un hito clave. Más que un inventario, es una herramienta técnica que orienta decisiones de manejo, fortalece la actualización del Plan Nacional de Especies Migratorias y permite diseñar estrategias de conservación con mayor precisión y respaldo científico.
