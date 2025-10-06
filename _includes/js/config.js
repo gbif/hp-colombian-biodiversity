@@ -197,6 +197,11 @@ var siteConfig_old = {
       isHref: true,
       route: '/data' // the route you are currently using for occurrence search
     }
+    collectionSearch: {
+      url: ({basename}) => `${basename ? `/${basename}` : ''}/coleccion`,
+      isHref: true,
+      route: '/coleccion' // the route you are currently using for colection search
+    }
   },
   
   availableCatalogues: ['OCCURRENCE', 'DATASET', 'COLLECTION', 'PUBLISHER',  'LITERATURE'], // Se omite 'INSTITUTION'. También se podría algo como 'SPECIES' pero no se tiene configuración 
