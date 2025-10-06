@@ -12,7 +12,10 @@ toc: true
 
 ![](/acercade/imagenes/FooterAlianzaANDI.png)
 
+[![Registro cohorte de formación 2025](/acercade/imagenes/Banner_Cohorte_Formación.jpg)](https://forms.gle/5hk8whrCGn3nozzA8){:target="_blank"}
+
 [![Red Biodiversidad y desarrollo Colombia en GBIF](/assets/images/landing_page/banner_red_biodiversidad_desarrollo_colombia_gbif.png)](https://www.gbif.org/es/network/2ee1bff7-0b34-4fa3-9433-feaa7c6ee08b){:target="_blank"}
+
 
 Tras el primer año de la **alianza datos abiertos sobre biodiversidad desde el sector empresarial**, entre la ANDI y el SiB Colombia, los resultados superaron las expectativas. Actualmente hay más de 80 conjuntos de datos publicados, que exceden los 600.000 registros biológicos.
 
