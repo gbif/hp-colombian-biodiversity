@@ -39,7 +39,7 @@ Los anteriores, son solo algunas **cifras que puedes consultar y usar de manera 
 
 ## ¿Cuáles son los beneficios de publicar a través de esta Datatón por la Amazonía?
 
-Aunque actualmente en el SiB Colombia contamos con datos para todos los departamentos del país, incluidos los 8 de la región amazónica, **aumentar la representatividad de datos con el aporte de antiguos y nuevos publicadores a través de esta datatón, es una oportunidad para**:
+Aunque actualmente en el SiB Colombia contamos con datos para todos los departamentos del país, incluidos los de la región amazónica de acuerdo a la delimitación del Departamento Nacional de Planeación-DNP 2022-2026 (Amazonas, Caquetá, Cauca, Guainía, Guaviare, Meta, Putumayo, Vaupés. Aún así, **aumentar la representatividad de datos con el aporte de antiguos y nuevos publicadores a través de esta datatón, es una oportunidad para**:
 
 - **Aportar al Inventario nacional de la biodiversidad.**
     
@@ -106,7 +106,7 @@ ___
 
 1. **Ser una organización, red o iniciativa**. Las personas naturales que deseen participar, deben buscar el respaldo como publicador a través de sus organizaciones. Si la organización aún no es publicadora de datos, de igual manera, te invitamos a [registrarte en el formulario](https://docs.google.com/forms/d/e/1FAIpQLSfmX-YnTAWe7gBh6rE6tuUK6X3ikKURpsqQqNRAN00jRqEdgQ/viewform?usp=dialog){:target="_blank"} y te orientaremos en el proceso.
     
-2. **Tener digitalizados** **conjuntos de datos** sobre biodiversidad de las áreas priorizadas e idealmente estructurados siguiendo el estándar [Darwin Core](https://biodiversidad.co/elementos-darwin-core){:target="_blank"}.
+2. **Tener digitalizados** **conjuntos de datos** sobre biodiversidad de las áreas priorizadas e idealmente estructurados siguiendo el estándar [Darwin Core](https://biodiversidad.co/elementos-darwin-core){:target="_blank"}. Si los datos provienen de un proyecto de base comunitaria, el equipo del SiB Colombia puede ayudarte en dicho proceso.
     
 3. **Contar con los derechos, licencias o permisos requeridos** para la publicación y asegurar que ha realizado los esfuerzos necesarios para que estos sean válidos al momento de la recolección, creación y publicación a través del SiB Colombia.
     
@@ -141,7 +141,7 @@ Compartir a través del SiB Colombia **tantos datos como sea posible es valioso*
   </tr>
 </table>
 
-Casi todos pueden ser estructurados para su publicación en **tres tipos de conjuntos de datos**:
+La mayoría* pueden ser estructurados para su publicación en **tres tipos de conjuntos de datos**:
 
 <table style="text-align: center;">
   <tr>
@@ -167,10 +167,11 @@ Casi todos pueden ser estructurados para su publicación en **tres tipos de conj
    </td>
   </tr>
 </table>
+* Existen otro tipos de datos que están en proceso de implementación. 
 
 ## ¿Cuál es el proceso de publicación?
 
-Después de que el publicador envíe los datos al del SiB Colombia en nombre de una organización afiliada como socio publicador, **el Equipo Coordinador digitalizará los datos** y **realizará un proceso de validación y verificación de su estandarización para su publicación**.
+Después de que el publicador envíe los datos al del SiB Colombia en nombre de una organización afiliada como socio publicador, **el Equipo Coordinador** realizará un **proceso de validación y verificación de su estandarización para su publicación**.
 
 Adicionalmente se entregarán **credenciales para la administración de éstos y la documentación de los metadatos en línea** que permitan responder las **cinco preguntas esenciales: quién, qué, cómo, cuándo y dónde**.
 
@@ -190,6 +191,7 @@ El proceso de publicación considera un **acompañamiento** que da la posibilida
 
 ### Acciones del publicador
 
+* **Organizar los datos y digitalizarlos**.
 * **Documentar la información** de contexto sobre sus datos (metadatos).
 * **Responder dudas que surjan sobre los datos.**
 * **Revisar y ajustar los datos de acuerdo al reporte de calidad facilitado.**
