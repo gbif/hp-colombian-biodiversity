@@ -58,7 +58,7 @@ bannerMantenimientoCRSIB:
 # Banner Datatón Amazonía
 bannerDatatonAmazonia:
   markdownContent: | 
-      [![Datatón Amazonía](/assets/images/dataton-amazonia/banner-dataton-amazonia-home.png)](dataton-amazonia){:target="_blank"}
+      [![Datatón Amazonía](/assets/images/dataton-amazonia/banner-home-dataton-amazonia-final.png)](dataton-amazonia){:target="_blank"}
 
 # Banner problemas técnicos IPT
 bannerProblemasTecnicos:
