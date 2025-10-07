@@ -28,11 +28,13 @@ composition:
   - type: stats
     data: home.stats
   - type: split
-    data: home.splitGruposdeInteres
+    data: home.bannerDatatonAmazonia
   - type: features
     data: home.noticias
   - type: split
-    data: home.splitAlianzaSectorEmpresarial
+    data: home.splitGruposdeInteres
+  #- type: split
+  #  data: home.splitAlianzaSectorEmpresarial
   - type: split
     data: home.splitActividadPublicacion
   #- type: latestPosts
