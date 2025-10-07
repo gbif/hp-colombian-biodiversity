@@ -3,7 +3,7 @@ box:
   title: ""
   # description: 
   background: /assets/images/dataton-amazonia/banner-dataton-amazonia-final.png
-  height: 41vh
+  height: 45vh
   
 splitCTA:
   reverse: false
