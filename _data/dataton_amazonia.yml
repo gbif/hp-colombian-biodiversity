@@ -28,7 +28,7 @@ bannerCTA:
 
 videoPrincipal:
   markdownContent: |
-    <p align="center"><iframe width="100%" height="624" src="https://www.youtube.com/embed/zD8Kx9J5WTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    <p align="center"><iframe width="100%" height="624" src="https://www.youtube.com/embed/V2UESqfCjng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 bannerLogo:
   title: ""
