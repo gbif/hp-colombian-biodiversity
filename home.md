@@ -33,8 +33,6 @@ composition:
     data: home.noticias
   - type: split
     data: home.splitGruposdeInteres
-  #- type: split
-  #  data: home.splitAlianzaSectorEmpresarial
   - type: split
     data: home.splitActividadPublicacion
   #- type: latestPosts
