@@ -20,6 +20,7 @@ var siteConfig = {
         },
         {
             "id": "collectionSearch"
+            "path": "collecciones"
         },
         {
             "id": "datasetKey"
