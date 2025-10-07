@@ -27,7 +27,7 @@ composition:
   - type: heroImage # the block type
   - type: stats
     data: home.stats
-  - type: markdownContent
+  - type: markdown
     data: home.bannerDatatonAmazonia
   - type: features
     data: home.noticias
