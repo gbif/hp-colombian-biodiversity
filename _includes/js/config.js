@@ -19,7 +19,7 @@ var siteConfig = {
             "id": "collectionKey"
         },
         {
-            "id": "collectionSearch"
+            "id": "collectionSearch",
             "path": "collecciones"
         },
         {
