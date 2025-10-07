@@ -79,8 +79,8 @@ splitGruposdeInteres:
     Únete, crea y aporta a la gestión de datos sobre biodiversidad a través de la red colaborativa del SiB Colombia.
   # img required
   background: /assets/images/noticias_eventos/2025/collage-grupos-de-interes-y-de-trabajo.png
-  overlayColor: "#000033"
-  href: /comunidad/grupos
+  overlayColor: "#484F9A"
+  href: /comunidad/grupos-de-interes/grupos
   cta:
   - text: Explorar las posibilidades
     href: /comunidad/grupos-de-interes/grupos
