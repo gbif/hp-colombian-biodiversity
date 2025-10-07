@@ -196,7 +196,7 @@ var siteConfig_old = {
       url: ({basename}) => `${basename ? `/${basename}` : ''}/data`,
       isHref: true,
       route: '/data' // the route you are currently using for occurrence search
-    }
+    },
     collectionSearch: {
       url: ({basename}) => `${basename ? `/${basename}` : ''}/coleccion`,
       isHref: true,
