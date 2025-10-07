@@ -33,8 +33,10 @@
     href: /compartir/registro
   - text: Minga por la biodiversidad
     href: /minga
+  - text: Datatón Amazonía
+    href: /dataton-amazonia
   - text: Preguntas frecuentes
-    href: /compartir/faq   
+    href: /compartir/faq
     
 - text: Recursos
   menu: # Dropdown menu (one level deep only)
