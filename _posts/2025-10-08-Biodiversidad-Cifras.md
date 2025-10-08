@@ -12,7 +12,7 @@ background: /assets/images/noticias_eventos/2025/2025-10-08-Biodiversidad-Cifras
 ---
 Según el ranking global más reciente publicado por Butler, R. A. (2025) en Worldstats y Mongabay, Colombia ocupa el cuarto puesto a nivel mundial en biodiversidad con **80 346 especies**, después de Brasil, Indonesia y China, y el país es líder en varios grupos taxonómicos: primero en aves, orquídeas y mariposas; segundo en anfibios, peces de agua dulce, palmas y murciélagos; tercero en plantas; sexto en mamíferos y séptimo en reptiles. 
 
-El cambio de Colombia al cuarto puesto global se debe a ajustes metodológicos y actualizaciones de datos, no a una pérdida de biodiversidad. Este reconocimiento reafirma su riqueza natural y la importancia de seguir publicando y monitoreando información científica.
+El cambio de Colombia al cuarto puesto global se debe a ajustes metodológicos y actualizaciones de datos, no a una pérdida de biodiversidad. Este reconocimiento reafirma la riqueza natural del país y la importancia de fortalecer el monitoreo y la publicación de información científica.
 
 | Conócela [aquí]( https://cifras.biodiversidad.co/){:target="_blank"}[ ]( https://cifras.biodiversidad.co/)
 
