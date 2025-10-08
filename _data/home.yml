@@ -90,7 +90,18 @@ splitGruposdeInteres:
 # Noticias
 noticias:
   features:
-
+  
+    - preTitle: 8 de octubre, 2025
+      title: "Biodiversidad en cifras 2025: Colombia y su ventana a la Amazonía" 
+      description: |      # required
+       Colombia reafirma, una vez más, su lugar como uno de los países más biodiversos del planeta.
+      # img required
+      background: assets/images/noticias_eventos/2025/2025-10-08-Biodiversidad-Cifras.jpg
+      cta:
+      - text: Ver más
+        href: /post/2025/Biodiversidad-Cifras/
+        isPrimary: false
+        
     - preTitle: 2 de octubre, 2025
       title: "Una nueva mirada a las especies migratorias: actualización de la lista nacional" 
       description: |      # required
@@ -144,17 +155,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2025/actualizacion-plan-felinos/
-        isPrimary: false
-  
-    - preTitle: Datos abiertos
-      title: "Fauna y flora orinocense, microorganismos amazónicos, aves, peces e insectos se suman a los destacados de junio" 
-      description: |      # required
-       Reservas Naturales de la Sociedad Civil, empresas, corporaciones autónomas regionales, jardínes botánicos e institutos de investigación contribuyen este mes con conjuntos de datos, listas de chequeo y colecciones de nuestra biodiversidad.
-      # img required
-      background: assets/images/noticias_eventos/2025/2025-07-25-destacados-junio-2025.png
-      cta:
-      - text: Ver más
-        href: /post/2025/reporte-publicacion-junio-2025/
         isPrimary: false
         
         
