@@ -30,7 +30,7 @@ A corte de diciembre de 2024, el SiB Colombia cuenta con **80 346 especies regis
 
 
 <p align="center">
-  <img src="/assets/images/noticias_eventos/2025/2025-10-08-Biodiversidad-gráfica1.png" alt="Biodiversidad cifras" width="600">
+  <img src="/assets/images/noticias_eventos/2025/2025-10-08-Biodiversidad-gráfica2.png" alt="Biodiversidad cifras" width="600">
 </p>
 
 **Gráfico 1:** Porcentaje de incremento anual y número total de especies registradas en el SiB Colombia entre 2021 y 2024.
