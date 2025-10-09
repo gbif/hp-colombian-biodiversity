@@ -99,7 +99,7 @@ noticias:
       background: assets/images/noticias_eventos/2025/2025-10-08-Biodiversidad-Cifras.jpg
       cta:
       - text: Ver más
-        href: /post/2025/Biodiversidad-Cifras/
+        href: /post/2025/biodiversidad-cifras/
         isPrimary: false
         
     - preTitle: 2 de octubre, 2025
