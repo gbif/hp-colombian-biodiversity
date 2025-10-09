@@ -94,7 +94,7 @@ noticias:
     - preTitle: 8 de octubre, 2025
       title: "Biodiversidad en cifras 2025: Colombia y su ventana a la Amazonía" 
       description: |      # required
-       Colombia reafirma, una vez más, su lugar como uno de los países más biodiversos del planeta.
+       Colombia reafirma, una vez más, su lugar como uno de los países más biodiversos del planeta. Según el ranking global más reciente publicado por Butler, R. A. (2025) en Worldstats y Mongabay, Colombia ocupa el cuarto puesto a nivel mundial en biodiversidad con 80 346 especies.
       # img required
       background: assets/images/noticias_eventos/2025/2025-10-08-Biodiversidad-Cifras.jpg
       cta:
