@@ -91,6 +91,18 @@ splitGruposdeInteres:
 noticias:
   features:
   
+    
+    - preTitle: 28 de octubre, 2025
+      title: "Del Eje Cafetero a la Orinoquía: Septiembre trajo nuevas historias de biodiversidad" 
+      description: |      # required
+       Durante este mes, universidades, empresas y entidades gubernamentales aportaron con registros biológicos, eventos de muestreo y conjunto de datos que fortalecen el conocimiento de nuestra biodiversidad.
+      # img required
+      background: /assets/images/noticias_eventos/2025/2025-10-28-destacados_septiembre.png
+      cta:
+      - text: Ver más
+        href: /post/2025/reporte-publicacion-septiembre-2025/
+        isPrimary: false
+    
     - preTitle: 8 de octubre, 2025
       title: "Biodiversidad en cifras 2025: Colombia y su ventana a la Amazonía" 
       description: |      # required
