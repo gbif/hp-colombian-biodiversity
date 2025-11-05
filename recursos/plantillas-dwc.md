@@ -351,7 +351,7 @@ Use esta plantilla si sus datos:
 * No solo se documenta el registro biológico, sino también toda la información asociada del microorganismo para tener un completo conocimiento de la muestra.
 
 <details>
-    <summary markdown="span"><b><a href="https://drive.google.com/uc?id=1_W9dujbANfZr65al-HLpyGwy1EDx4HNU&authuser=2&export=download">Descargar última versión v1.0</a></b></summary>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?id=1LSjnL1LHAWykg4BRNYr4gCr4zzBWwhJI&authuser=2&export=download">Descargar última versión v1.0</a></b></summary>
     <p><i>Revisada y editada 2025-11</i></p>
     
 </details>
