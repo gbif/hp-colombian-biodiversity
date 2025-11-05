@@ -13,6 +13,7 @@ Para la publicación de datos sobre biodiversidad se han creado tres plantillas 
 
 Si su conjunto de datos cuenta con datos relacionados como rasgos funcionales, referencias bibliográficas, secuencias genéticas, imágenes, vídeo, sonidos, entre otros, y desea que hagan parte de la publicación, recuerde mencionarlo en el correo que envíes para inciar el [proceso de acompañamiento a la publicación](/compartir/guia-para-publicar) y se te apoyará en la estructuración y ajuste de estos datos adicionales, posiblemente con el uso de las [extensiones](https://biodiversidad.co/recursos/plantillas-dwc#extensiones) del estándar Darwin Core.
 
+<br>
 
 ## Cómo usar las plantillas
 
@@ -29,9 +30,9 @@ Si su conjunto de datos cuenta con datos relacionados como rasgos funcionales, r
 
 Para un ejemplo práctico sobre el uso de las plantillas consulte el laboratorio de estructuración y calidad: [https://biodiversidad.co/formacion/laboratorios/LabEstructuracionCalidad](https://biodiversidad.co/formacion/laboratorios/LabEstructuracionCalidad)				
 		
+<br>
 
 ## Plantillas
-
 
 ### Registros biológicos
 
@@ -274,7 +275,7 @@ Use esta plantilla si sus datos:
 
 </details>
 
-
+---
 
 ### Extensiones
 
@@ -334,3 +335,24 @@ Tambié puede consultar la [documentación oficial de las extensiones](https://r
     <p><i>Revisada y editada 2024-06</i></p>
     
 </details>
+
+---
+
+<br>
+
+## Plantillas temáticas
+
+### Datos microbiológicos
+
+Use esta plantilla si sus datos:
+
+* Provienen de protocolos estandarizados para recolectar la muestra y observar la biodiversidad de nuestro país.
+* Corresponden a muestreos realizados a lo largo del tiempo provenientes de muestras ambientales, biotecnológicas, agroindustriales, suelo-agrícolas entre otros.
+* No solo se documenta el registro biológico, sino también toda la información asociada del microorganismo para tener un completo conocimiento de la muestra.
+
+<details>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?id=1_W9dujbANfZr65al-HLpyGwy1EDx4HNU&authuser=2&export=download">Descargar última versión v1.0</a></b></summary>
+    <p><i>Revisada y editada 2025-11</i></p>
+    
+</details>
+
