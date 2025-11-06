@@ -91,7 +91,17 @@ splitGruposdeInteres:
 noticias:
   features:
   
-    
+    - preTitle: 6 de noviembre, 2025
+      title: "Reconocimiento a la innovación científica: Esteban Marentes gana el premio GBIF a Investigador Graduado 2025" 
+      description: |      # required
+       El reconocimiento destaca una investigación que combina datos abiertos e inteligencia artificial para revelar la diversidad oculta de escarabajos en Colombia y fortalecer la comprensión de su biodiversidad.
+      # img required
+      background: /assets/images/noticias_eventos/2025/2025-11-06-PremioGBIF.png
+      cta:
+      - text: Ver más
+        href: /post/2025/2025-11-06-premio-GBIF-2025/
+        isPrimary: false
+        
     - preTitle: 28 de octubre, 2025
       title: "Del Eje Cafetero a la Orinoquía: septiembre trajo nuevas historias de biodiversidad" 
       description: |      # required
