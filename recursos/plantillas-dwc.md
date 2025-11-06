@@ -342,13 +342,15 @@ Tambié puede consultar la [documentación oficial de las extensiones](https://r
 
 ## Plantillas temáticas
 
+En este espacio se encontrarán plantillas con versiones personalizadas del estándar Darwin Core, diseñadas para facilitar la documentación de datos biológicos derivados de contextos particulares. Cada plantilla incluye sus instrucciones y ejemplos para asegurar una correcta aplicación del estándar en cada ámbito de estudio.
+
 ### Datos microbiológicos
 
 Use esta plantilla si sus datos:
 
-* Provienen de protocolos estandarizados para recolectar la muestra y observar la biodiversidad de nuestro país.
-* Corresponden a muestreos realizados a lo largo del tiempo provenientes de muestras ambientales, biotecnológicas, agroindustriales, suelo-agrícolas entre otros.
-* No solo se documenta el registro biológico, sino también toda la información asociada del microorganismo para tener un completo conocimiento de la muestra.
+* Corresponden a datos de microorganismos: bacterias, hongos microscópicos, arqueas, protozoos, virus, entre otros.
+* Se desean registrar microorganismos provenientes o depositados en ceparios.
+* Se tomaron en muestras de microorganismos ambientales, biotecnológicas, agroindustriales, suelo-agrícolas, entre otras. Si tiene datos microbiológicos derivados de ADN ambiental (eDNA), lo invitamos a que se comunique con nosotros vía correo electrónico (sib@humboldt.org.co) para realizar el proceso de publicación.
 
 <details>
     <summary markdown="span"><b><a href="https://drive.google.com/uc?id=1LSjnL1LHAWykg4BRNYr4gCr4zzBWwhJI&authuser=2&export=download">Descargar última versión v1.0</a></b></summary>
