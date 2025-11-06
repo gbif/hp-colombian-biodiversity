@@ -100,7 +100,7 @@ noticias:
       background: /assets/images/noticias_eventos/2025/2025-11-06-PremioGBIF2.png
       cta:
       - text: Ver más
-        href: /post/2025/premio-gbif-2025/
+        href: /post/premio-gbif-2025/
         isPrimary: false
         
     - preTitle: 28 de octubre, 2025
