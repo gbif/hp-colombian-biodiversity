@@ -10,7 +10,7 @@ background: /assets/images/noticias_eventos/2025/datos_micro.jpg
 
 Buscando facilitar el registro y la publicación de datos microbiológicos, la Colección de Microorganismos de la Pontificia Universidad Javeriana (CMPUJ) junto al SiB Colombia, desarrollaron una plantilla temática que contiene los principales elementos del estándar Darwin Core y extensiones asociadas a microorganismos, para que los investigadores puedan ingresar sus datos microbiológicos y se pueda visibilizar la biodiversidad microbiana en Colombia.
 
-Encuentra aquí la nueva versión de la plantilla temáticahttps://biodiversidad.co/recursos/plantillas-dwc/#datos-microbiol%C3%B3gicos{:target="_blank"} 
+Encuentra aquí la nueva versión de la plantilla temática(https://biodiversidad.co/recursos/plantillas-dwc/#datos-microbiol%C3%B3gicos){:target="_blank"} 
 
 **Principales características de la plantilla de datos microbiológicos**
 
