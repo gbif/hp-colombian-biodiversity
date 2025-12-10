@@ -102,6 +102,17 @@ noticias:
       - text: Ver más
         href: /post/2025/plantilla-microorganismos/
         isPrimary: false
+
+    - preTitle: 18 de noviembre, 2025
+      title: "Páramos, bosques andinos y colecciones científicas: en octubre se fortaleció el conocimiento sobre la biodiversidad colombiana" 
+      description: |      # required
+       Durante este mes, fundaciones, empresas y universidades aportaron con registros biológicos, eventos de muestreo y conjunto de datos que fortalecen el conocimiento de nuestra biodiversidad.
+      # img required
+      background: /assets/images/noticias_eventos/2025/2025-11-18-destacados-octubre.jpg
+      cta:
+      - text: Ver más
+        href: /post/2025/destacados-octubre/
+        isPrimary: false
         
     - preTitle: 6 de noviembre, 2025
       title: "Reconocimiento a la innovación científica: Esteban Marentes gana el premio GBIF a Investigador Graduado 2025" 
@@ -178,17 +189,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2025/actualizacion-ipt-3-1/
-        isPrimary: false
-
-    - preTitle: Conservación
-      title: "El plan de conservación de felinos se actualiza con un enfoque colectivo" 
-      description: |      # required
-       Actores clave de la conservación en Colombia se unen para trabajar por el bienestar de los felinos en el marco de la hoja de ruta para la actualización del Programa Nacional de Conservación de los Felinos Silvestres en Colombia.
-      # img required
-      background: assets/images/noticias_eventos/2025/2025-08-05-actualizacion-plan-felinos.png
-      cta:
-      - text: Ver más
-        href: /post/2025/actualizacion-plan-felinos/
         isPrimary: false
         
         
