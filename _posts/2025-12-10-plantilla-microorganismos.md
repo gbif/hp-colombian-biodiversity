@@ -4,7 +4,7 @@ title: "Nueva plantilla temática para datos microbiológicos utilizando el est�
 description: "_Un trabajo conjunto entre la Colección de Microorganismos de la Pontificia Universidad Javeriana y el SiB Colombia._"
 date: 2025-12-10
 categories: ["Publicación", "Datos abiertos", "Darwin Core", "2025"]
-background: /assets/images/noticias_eventos/2025/Datos_micro.png
+background: /assets/images/noticias_eventos/2025/2025-12-10-Datos_micro.png
 ---
 
 
