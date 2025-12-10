@@ -15,6 +15,7 @@ Encuentra aquí [la nueva versión de la plantilla temática](https://biodiversi
 **Principales características de la plantilla de datos microbiológicos**
 
 Las principales características de esta nueva plantilla temática son la sugerencia de términos específicos para el registro y publicación de datos de microorganismos, que permitirán que se documente la información con una mayor precisión y consistencia. 
+
 Para conocer más sobre estos beneficios, en el archivo Excel encontrarán una hoja de instrucciones donde se explica en qué casos usar esta plantilla y cómo documentar cada elemento. Adicionalmente, se incluyó ejemplos particulares asociados a los datos de microorganismos, que ayudan a identificar en qué elementos se debe documentar cierta información y la forma correcta de hacerlo.
 La plantilla también incorpora algunos elementos provenientes de distintas extensiones que resultan relevantes para este tipo de datos, como método de preservación, préstamo de especímenes y tipo de permiso utilizado. 
 
