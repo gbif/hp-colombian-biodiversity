@@ -97,7 +97,7 @@ noticias:
       description: |      # required
        Un trabajo conjunto entre la Colección de Microorganismos de la Pontificia Universidad Javeriana y el SiB Colombia.
       # img required
-      background: /assets/images/noticias_eventos/2025/Datos_micro.png
+      background: /assets/images/noticias_eventos/2025/2025-12-10-Datos_micro.png
       cta:
       - text: Ver más
         href: /post/2025/plantilla-microorganismos/
