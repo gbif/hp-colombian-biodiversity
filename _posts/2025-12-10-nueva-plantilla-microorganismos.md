@@ -1,13 +1,11 @@
 ---
-preTitle:  10 de diciembre, 2025
-title: Nueva plantilla temática para datos microbiológicos utilizando el estándar Darwin Core y sus extensiones
-description: _Un trabajo conjunto entre la Colección de Microorganismos de la Pontificia Universidad Javeriana y el SiB Colombia._
+preTitle: "10 de diciembre, 2025"
+title: "Nueva plantilla temática para datos microbiológicos utilizando el estándar Darwin Core y sus extensiones"
+description: "_Un trabajo conjunto entre la Colección de Microorganismos de la Pontificia Universidad Javeriana y el SiB Colombia._"
 date: 2025-12-10
 categories: ["Publicación", "Datos abiertos", "Darwin Core", "2025"]
 background: /assets/images/noticias_eventos/2025/datos_micro.jpg
-—
-
-
+---
 
 
 Buscando facilitar el registro y la publicación de datos microbiológicos, la Colección de Microorganismos de la Pontificia Universidad Javeriana (CMPUJ) junto al SiB Colombia, desarrollaron una plantilla temática que contiene los principales elementos del estándar Darwin Core y extensiones asociadas a microorganismos, para que los investigadores puedan ingresar sus datos microbiológicos y se pueda visibilizar la biodiversidad microbiana en Colombia.
