@@ -92,6 +92,17 @@ noticias:
   features:
 
   
+    - preTitle: 10 de diciembre, 2025
+      title: "Nueva plantilla temática para datos microbiológicos utilizando el estándar Darwin Core y sus extensiones" 
+      description: |      # required
+       Un trabajo conjunto entre la Colección de Microorganismos de la Pontificia Universidad Javeriana y el SiB Colombia.
+      # img required
+      background: /assets/images/noticias_eventos/2025/Datos_micro.png
+      cta:
+      - text: Ver más
+        href: /post/2025/plantilla-microorganismos/
+        isPrimary: false
+        
     - preTitle: 6 de noviembre, 2025
       title: "Reconocimiento a la innovación científica: Esteban Marentes gana el premio GBIF a Investigador Graduado 2025" 
       description: |      # required
