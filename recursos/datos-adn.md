@@ -19,7 +19,7 @@ Los datos de ADN permiten registrar la presencia —incluso pasada— de organis
 
 Los datos de ADN pueden organizarse en cinco categorías principales de acuerdo a la guía de publicación de datos derivados de ADN, publicada por GBIF. Para definir en qué categoría se ubican tus datos, utiliza el siguiente **árbol de decisión** que guía el proceso:
 
-![Arbol de decisión](/recursos/images/arbol-de-decision-categorizacion-de-datos-derivados-de-adn.png "image_tooltip")
+![Arbol de decisión](/recursos/images/arbol-de-decision-para-categorizacion-de-datos-derivados-de-adn.png "image_tooltip")
 
 > Si tus datos son **marinos**, aplica esta estructura pero con las [recomendaciones respectivas](https://docs.gbif.org/publishing-dna-derived-data/es/#conjuntos-de-datos-marinos-y-el-sistema-de-informaci%C3%B3n-sobre-la-biodiversidad-oce%C3%A1nica-obis).
 
