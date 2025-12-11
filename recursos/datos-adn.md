@@ -105,7 +105,9 @@ En el Equipo Coordinador del SiB Colombia hemos compilado algunos materiales y r
 
 
 * 🎥 Tutoriales en nuestro canal de YouTube.
-* Busca datos con información genética con la extensión de ADN, usando como base: [https://biodiversidad.co/data/?dwcaExtension=http%3A%2F%2Frs.gbif.org%2Fterms%2F1.0%2FDNADerivedData](https://biodiversidad.co/data/?dwcaExtension=http%3A%2F%2Frs.gbif.org%2Fterms%2F1.0%2FDNADerivedData). Para usar filtros mira:; para descargarlos:  
+* Busca datos con información genética con la extensión de ADN, usando como base: [https://biodiversidad.co/data/?dwcaExtension=http%3A%2F%2Frs.gbif.org%2Fterms%2F1.0%2FDNADerivedData](https://biodiversidad.co/data/?dwcaExtension=http%3A%2F%2Frs.gbif.org%2Fterms%2F1.0%2FDNADerivedData).
+* Para usar filtros mira:[https://www.youtube.com/watch?v=80cM2HeCUCY](https://www.youtube.com/watch?v=80cM2HeCUCY)
+* Para descargarlos: [https://www.youtube.com/watch?v=2Ix8KHyO0Vc](https://www.youtube.com/watch?v=2Ix8KHyO0Vc) 
 
 ## Aclaraciones sobre licencias
 
