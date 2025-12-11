@@ -2,9 +2,9 @@
 layout: heroImage
 title: Datos de ADN
 description: Conoce sobre la importancia de esto datos, las categorías admitidas, los recursos y términos de publicación.
-background: https://live.staticflickr.com/3785/9659881785_3a805c4b65_b.jpg
+background: /recursos/images/dna-m-richter-pixabay.png
 imageLicense: |
-   Microscopia _Coccinella septempunctata_ Fotografía de: Dr. Jan Michels vía [Flickr](https://flic.kr/p/fHBqiX) 
+   M. Richter from Pixabay vía [Pixabay]([https://flic.kr/p/fHBqiX](https://pixabay.com/illustrations/dna-biology-science-genetics-8895881/)) 
 height: 41vh
 ---
 
