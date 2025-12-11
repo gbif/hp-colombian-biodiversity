@@ -27,8 +27,6 @@ Los datos de ADN pueden organizarse en cinco categorías principales de acuerdo 
 
 Conoce algunos detalles y ejemplos de cada una de las categorías de datos de ADN.
 
-### (desplegable por categoría)
-
 1 **Registros biológicos derivados de ADN**: datos donde el ADN o detección a través de PCR es la única evidencia de la presencia de un organismo o comunidad, como en estudios de metagenómica, metabarcoding y eDNA. Ejemplos:
 
 [Bacterias identificadas por medio de metabarcoding asociadas al proyecto piloto de investigación integral - PPII Platero, departamento de Santander](https://doi.org/10.15472/aiswoa) | Ecopetrol S.A.
