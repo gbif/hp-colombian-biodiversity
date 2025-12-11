@@ -63,9 +63,9 @@ Conoce algunos detalles y ejemplos de cada una de las categorías de datos de AD
 
 5 **Conjuntos de solo metadatos**: colecciones o estudios sin datos en línea (ej. no digitalizados). Publicada por medio del IPT bajo el estándar EML que ya utiliza el SiB Colombia, admite información general (autores, filiaciones, objetivos, DOIs, coberturas) que permite documentar información detallada de los métodos usados para la extracción, secuenciación y protocolos bioinformáticos usados en el procesamiento de los datos genéticos. Ejemplos:
 
-[Muestras de suelo de bosque nublado en Cundinamarca para su caracterización: diversidad taxonómica y ecológica mediante una aproximación metagenómica](https://doi.org/10.15472/sqbcic)
+[Muestras de suelo de bosque nublado en Cundinamarca para su caracterización: diversidad taxonómica y ecológica mediante una aproximación metagenómica](https://doi.org/10.15472/sqbcic) | Universidad de los Andes
 
-[New Zealand Terrestrial Biocomplexity Survey](https://doi.org/10.15468/xnzrhq)
+[New Zealand Terrestrial Biocomplexity Survey](https://doi.org/10.15468/xnzrhq) | SCAR - Microbial Antarctic Resource System
 
 ## Proceso para publicarlos
 
