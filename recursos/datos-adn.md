@@ -19,7 +19,7 @@ Los datos de ADN permiten registrar la presencia —incluso pasada— de organis
 
 Los datos de ADN pueden organizarse en cinco categorías principales de acuerdo a la guía de publicación de datos derivados de ADN, publicada por GBIF. Para definir en qué categoría se ubican tus datos, utiliza el siguiente **árbol de decisión** que guía el proceso:
 
-![Arbol de decisión](recursos/images/arbol-de-decision-para-la-categorizacion-de-datos-derivados-de-ADN.png.png "image_tooltip")
+![Arbol de decisión](/recursos/images/arbol-de-decision-para-la-categorizacion-de-datos-derivados-de-ADN.png.png "image_tooltip")
 
 > Si tus datos son **marinos**, aplica esta estructura pero con las [recomendaciones respectivas](https://docs.gbif.org/publishing-dna-derived-data/es/#conjuntos-de-datos-marinos-y-el-sistema-de-informaci%C3%B3n-sobre-la-biodiversidad-oce%C3%A1nica-obis).
 
@@ -49,7 +49,7 @@ Conoce algunos detalles y ejemplos de cada una de las categorías de datos de AD
 
 > Las colecciones de tejidos requieren una documentación más detallada que incluye preparación, amplificación, permisos, préstamos y métodos de preservación, lo que permite relacionar especímenes preservados o eVouchers con los resultados genéticos. Cada muestra se puede rastrear mediante el número de catálogo y el conjunto de datos asociado, garantizando trazabilidad total del origen de la información molecular, todo interconectado a través del estándar Darwin Core y sus extensiones.
 
-![Conjunto de datos - Tejidos registros biológicos](recursos/images/conjunto-de-datos-tejidos-registros-biológicos.png.png "image_tooltip")
+![Conjunto de datos - Tejidos registros biológicos](/recursos/images/conjunto-de-datos-tejidos-registros-biológicos.png.png "image_tooltip")
 
 **Esquema**: ideal de publicación para colecciones de tejidos con información molecular, en el que los especímenes preservados se asocian a resultados genéticos mediante el estándar Darwin Core y sus extensiones.
 
