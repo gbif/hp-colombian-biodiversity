@@ -29,7 +29,7 @@ Conoce algunos detalles y ejemplos de cada una de las categorías de datos de AD
 
 ### (desplegable por categoría)
 
-1. **Registros biológicos derivados de ADN**: datos donde el ADN o detección a través de PCR es la única evidencia de la presencia de un organismo o comunidad, como en estudios de metagenómica, metabarcoding y eDNA. Ejemplos:
+1 **Registros biológicos derivados de ADN**: datos donde el ADN o detección a través de PCR es la única evidencia de la presencia de un organismo o comunidad, como en estudios de metagenómica, metabarcoding y eDNA. Ejemplos:
 
 [Bacterias identificadas por medio de metabarcoding asociadas al proyecto piloto de investigación integral - PPII Platero, departamento de Santander](https://doi.org/10.15472/aiswoa) | Ecopetrol S.A.
 
@@ -37,7 +37,7 @@ Conoce algunos detalles y ejemplos de cada una de las categorías de datos de AD
 
 [Marine metagenomes from the bioGEOTRACES project](https://doi.org/10.15468/oifcho) | MGnify
 
-2. **Registros biológicos enriquecidos**: material genético asociado a una observación o espécimen. Incluye datos de códigos de barras (barcoding) y algunos casos de metabarcoding con referencia a especímenes o colecciones de tejidos, lo que garantiza trazabilidad completa del material biológico. Ejemplos:
+2 **Registros biológicos enriquecidos**: material genético asociado a una observación o espécimen. Incluye datos de códigos de barras (barcoding) y algunos casos de metabarcoding con referencia a especímenes o colecciones de tejidos, lo que garantiza trazabilidad completa del material biológico. Ejemplos:
 
 [Banco de tejidos de la Colección Biológica Grupo de Estudio Relación Parásito Hospedero](https://doi.org/10.15472/mbt7jq) | Universidad Nacional de Colombia
 
@@ -53,17 +53,17 @@ Conoce algunos detalles y ejemplos de cada una de las categorías de datos de AD
 
 **Esquema**: ideal de publicación para colecciones de tejidos con información molecular, en el que los especímenes preservados se asocian a resultados genéticos mediante el estándar Darwin Core y sus extensiones.
 
-3. **Detección de especies objetivo (qPCR/ddPCR)**: uso de ensayos moleculares específicos para confirmar la presencia o ausencia de una especie en muestras ambientales. El registro depende del resultado del análisis, no necesariamente de secuencias. Ejemplo:
+3 **Detección de especies objetivo (qPCR/ddPCR)**: uso de ensayos moleculares específicos para confirmar la presencia o ausencia de una especie en muestras ambientales. El registro depende del resultado del análisis, no necesariamente de secuencias. Ejemplo:
 
 [Location and transport of early life stages of Western Australian Dhufish Glaucosoma hebraicum](http://hdl.handle.net/102.100.100/97533) | Fisheries Research and Development Corporation
 
 > Para realizar la publicación de datos en esta categoría, se recomienda seguir la sección [2.2.2. mapeo de datos derivdados de ddPCR/qPCR](https://docs.gbif.org/publishing-dna-derived-data/es/#mapping-ddpcr-qpcr-data), que utiliza el core de registros biológicos y algunos elementos específicos de la extensión de datos derivados de ADN.
 
-4. **Referencia de nombres científicos**: nombres científicos derivados de ADN, provenientes de agrupamientos o denoising (modelos basados en corrección de errores), fuera de la taxonomía clásica (ej. Unidad taxonómicas operativas—OTU, Variantes de secuencia de amplicón—ASV, Barcode Index Numbers—BIN). Pueden generar librerías locales de referencia, pero tienen valor limitado si se publican como listas independientes. Ejemplo:
+4 **Referencia de nombres científicos**: nombres científicos derivados de ADN, provenientes de agrupamientos o denoising (modelos basados en corrección de errores), fuera de la taxonomía clásica (ej. Unidad taxonómicas operativas—OTU, Variantes de secuencia de amplicón—ASV, Barcode Index Numbers—BIN). Pueden generar librerías locales de referencia, pero tienen valor limitado si se publican como listas independientes. Ejemplo:
 
 [International Barcode of Life project (iBOL) Barcode Index Numbers (BINs)](https://doi.org/10.15468/wvfqoi) | The International Barcode of Life Consortium
 
-5. **Conjuntos de solo metadatos**: colecciones o estudios sin datos en línea (ej. no digitalizados). Publicada por medio del IPT bajo el estándar EML que ya utiliza el SiB Colombia, admite información general (autores, filiaciones, objetivos, DOIs, coberturas) que permite documentar información detallada de los métodos usados para la extracción, secuenciación y protocolos bioinformáticos usados en el procesamiento de los datos genéticos. Ejemplos:
+5 **Conjuntos de solo metadatos**: colecciones o estudios sin datos en línea (ej. no digitalizados). Publicada por medio del IPT bajo el estándar EML que ya utiliza el SiB Colombia, admite información general (autores, filiaciones, objetivos, DOIs, coberturas) que permite documentar información detallada de los métodos usados para la extracción, secuenciación y protocolos bioinformáticos usados en el procesamiento de los datos genéticos. Ejemplos:
 
 [Muestras de suelo de bosque nublado en Cundinamarca para su caracterización: diversidad taxonómica y ecológica mediante una aproximación metagenómica](https://doi.org/10.15472/sqbcic)
 
