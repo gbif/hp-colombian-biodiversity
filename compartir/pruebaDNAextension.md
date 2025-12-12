@@ -3863,6 +3863,92 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <br>
 <br>
 
+
+### Datos derivados de ADN
+
+| Índice |	|	|	|
+| ---|--- |--- |--- |
+| [**samp_name**<br> (Nombre de la muestra)](#samp_name) | [**project_name**<br> (Nombre del proyecto)](#project_name) | [**experimental_factor**<br> (Factor experimental)](#experimental_factor) | [**samp_taxon_id**<br> (ID del taxón de la muestra)](#samp_taxon_id) |
+| [**neg_cont_type**<br> (Tipo de control negativo)](#neg_cont_type) | [**pos_cont_type**<br> (Tipo de control positivo)](#pos_cont_type) | [**env_broad_scale**<br> (Contexto ambiental a gran escala)](#env_broad_scale) | [**env_local_scale**<br> (Contexto ambiental local)](#env_local_scale) |
+
+<br>
+<br>
+
+<a id="samp_name">**samp_name** (Nombre de la muestra)</a>
+
+| ---: | :--- |
+| Definición | El nombre de la muestra es el nombre que el investigador elige. Puede tener cualquier formato, pero se sugiere que sea conciso, único y uniforme en su laboratorio, además de lo más informativo posible. Cada nombre de muestra de un mismo remitente debe ser único.|
+| Ejemplo | ISDsoil1 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="project_name">**project_name** (Nombre del proyecto)</a>
+
+| ---: | :--- |
+| Definición | Nombre del proyecto en el que se desarrolló la secuenciación. |
+| Ejemplo | Metagenoma de suelo forestal |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="loanConditions">**loanConditions** (Condiciones del préstamo)</a>
+
+| ---: | :--- |
+| Definición | Condiciones bajo las cuales se puede prestar la muestra o espécimen. |
+| Ejemplo | Únicamente para instituciones no comerciales<br> Únicamente con permiso del proveedor del material |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="loanDate">**loanDate** (Fecha del préstamo)</a>
+
+| ---: | :--- |
+| Definición | La fecha en la que fue prestada la muestra o espécimen. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
+| Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="loanDestination">**loanDestination** (Destino del préstamo)</a>
+
+| ---: | :--- |
+| Definición | El nombre de la persona y/o organización a la que se le prestó la muestra o espécimen. |
+| Ejemplo | Pontificia Universidad Javeriana, Carlos Alberto Prieto López |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="loanIdentifier">**loanIdentifier** (Identificador del préstamo)</a>
+
+| ---: | :--- |
+| Definición | Un identificador asociado al préstamo realizado. |
+| Ejemplo | PRT020 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="disposition">**disposition** (Disposición)</a>
+
+| ---: | :--- |
+| Definición | El estado actual de un espécimen o muestra con respecto a la colección identificada en collectionCode o collectionID. Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | En colección<br> Perdido<br> Voucher en otra parte<br> Duplicado en otra parte<br> Consumido |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="receivedFrom">**receivedFrom** (Recibido de)</a>
+
+| ---: | :--- |
+| Definición | El nombre de la persona y/o organización de la que se recibió y autorizó el préstamo de la muestra o espécimen. |
+| Ejemplo | Universidad de los Andes, María Isabel Cárdenas Contreras |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+<br>
+
+
+
 ## Vocabularios Controlados
 
 | Índice |	|	|	|
