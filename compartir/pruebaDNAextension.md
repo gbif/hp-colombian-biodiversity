@@ -7,7 +7,7 @@ imageLicense: |
   Fotografía de: Carlos Bustamante Restrepo vía [Flickr](https://flic.kr/p/dFCsLr)
 height: 41vh
 toc: true
-permalink: /elementos-darwin-core
+permalink: /pruebaADN
 ---
 
 El estándar **Darwin Core (DwC)** permite la consolidación de datos sobre biodiversidad para compartir, usar y reusar la información de manera organizada, clara y completa.
