@@ -3871,6 +3871,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 | [**samp_name**<br> (Nombre de la muestra)](#samp_name) | [**project_name**<br> (Nombre del proyecto)](#project_name) | [**experimental_factor**<br> (Factor experimental)](#experimental_factor) | [**samp_taxon_id**<br> (ID del taxón de la muestra)](#samp_taxon_id) |
 | [**neg_cont_type**<br> (Tipo de control negativo)](#neg_cont_type) | [**pos_cont_type**<br> (Tipo de control positivo)](#pos_cont_type) | [**env_broad_scale**<br> (Contexto ambiental a gran escala)](#env_broad_scale) | [**env_local_scale**<br> (Contexto ambiental local)](#env_local_scale) |
 
+
 <br>
 <br>
 
@@ -3878,7 +3879,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 | ---: | :--- |
 | Definición | El nombre de la muestra es el nombre que el investigador elige. Puede tener cualquier formato, pero se sugiere que sea conciso, único y uniforme en su laboratorio, además de lo más informativo posible. Cada nombre de muestra de un mismo remitente debe ser único.|
-| Ejemplo | ISDsoil1 |
+| Ejemplo | ISDsoil1 | |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -3892,12 +3893,12 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 <br>
 
-<a id="loanConditions">**loanConditions** (Condiciones del préstamo)</a>
+<a id="pcr_primer_reference">**pcr_primer_reference** (Referencia de los primers de PCR )</a>
 
 | ---: | :--- |
-| Definición | Condiciones bajo las cuales se puede prestar la muestra o espécimen. |
-| Ejemplo | Únicamente para instituciones no comerciales<br> Únicamente con permiso del proveedor del material |
-| _(Obligatoriedad)_ | _(Opcional)_ |
+| Definición | Referencia de los primers de PCR que se utilizaron para amplificar la secuencia del gen, locus o subfragmento objetivo. Si el primer o cebador directo y el inverso tienen referencias diferentes, sepárelas con una barra vertical "|". |
+| Ejemplo | [https://doi.org/10.1186/1742-9994-10-34](https://doi.org/10.1186/1742-9994-10-34) |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
 
 <br>
 
@@ -3943,6 +3944,17 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 | Definición | El nombre de la persona y/o organización de la que se recibió y autorizó el préstamo de la muestra o espécimen. |
 | Ejemplo | Universidad de los Andes, María Isabel Cárdenas Contreras |
 | _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="disposition">**disposition** (Disposición)</a>
+
+| ---: | :--- |
+| Definición | El estado actual de un espécimen o muestra con respecto a la colección identificada en collectionCode o collectionID. Se recomienda el uso de un vocabulario controlado. |
+| Ejemplo | En colección<br> Perdido<br> Voucher en otra parte<br> Duplicado en otra parte<br> Consumido |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
 
 <br>
 <br>
