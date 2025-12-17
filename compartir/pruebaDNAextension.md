@@ -3893,66 +3893,57 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 <br>
 
-<a id="pcr_primer_reference">**pcr_primer_reference** (Referencia de los primers de PCR )</a>
+<a id="experimental_factor">**experimental_factor** (Factor experimental)</a>
 
 | ---: | :--- |
-| Definición | Referencia de los primers de PCR que se utilizaron para amplificar la secuencia del gen, locus o subfragmento objetivo. Si el primer o cebador directo y el inverso tienen referencias diferentes, sepárelas con una barra vertical "|". |
-| Ejemplo | [https://doi.org/10.1186/1742-9994-10-34](https://doi.org/10.1186/1742-9994-10-34) |
-| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
-
-<br>
-
-<a id="loanDate">**loanDate** (Fecha del préstamo)</a>
-
-| ---: | :--- |
-| Definición | La fecha en la que fue prestada la muestra o espécimen. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DD o para un intervalo de fechas: AAAA-MM-DD/AAAA-MM-DD). |
-| Ejemplo | 2010<br> 2010-01<br> 2010-01-17<br> 2009/2010<br> 2009-02/10<br> 2010-01-17/18<br> 2009-02/2010-01<br> 2009-08-08/2009-10-26 |
+| Definición | Los factores experimentales son los aspectos variables de un diseño experimental que permiten describir un experimento, o un conjunto de experimentos, con un nivel de detalle cada vez mayor. Este campo acepta términos de ontología de la Ontología de Factores Experimentales (EFO) y/o la Ontología para Investigaciones Biomédicas (OBI). Para consultar los términos de EFO (v 2.95), visite [https://purl.bioontology.org/ontology/EFO](https://purl.bioontology.org/ontology/EFO); para consultar los términos de OBI (v 2018-02-12), visite [http://purl.bioontology.org/ontology/OBI](http://purl.bioontology.org/ontology/OBI). |
+| Ejemplo | time series design [EFO:EFO_0001779] |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
 
-<a id="loanDestination">**loanDestination** (Destino del préstamo)</a>
+<a id="samp_taxon_id">**samp_taxon_id** (ID del taxón de la muestra)</a>
 
 | ---: | :--- |
-| Definición | El nombre de la persona y/o organización a la que se le prestó la muestra o espécimen. |
-| Ejemplo | Pontificia Universidad Javeriana, Carlos Alberto Prieto López |
+| Definición | Identificador taxonómico del NCBI de la muestra. Puede tratarse de una muestra de un solo taxón o de una mezcla de taxones. Utilice "metagenoma sintético" para comunidades simuladas/controles positivos, o "muestra en blanco" para controles negativos. |
+| Ejemplo | Metagenoma intestinal [NCBITaxon:749906] |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
 
-<a id="loanIdentifier">**loanIdentifier** (Identificador del préstamo)</a>
+<a id="neg_cont_type">**neg_cont_type** (Tipo de control negativo)</a>
 
 | ---: | :--- |
-| Definición | Un identificador asociado al préstamo realizado. |
-| Ejemplo | PRT020 |
+| Definición | La sustancia o el equipo utilizado como control negativo en una investigación. |
+| Ejemplo | Mezcla de reacción de PCR y agua de grado molecular |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
 
-<a id="disposition">**disposition** (Disposición)</a>
+<a id="loanIdentifier">**pos_cont_type** (Tipo de control positivo)</a>
 
 | ---: | :--- |
-| Definición | El estado actual de un espécimen o muestra con respecto a la colección identificada en collectionCode o collectionID. Se recomienda el uso de un vocabulario controlado. |
-| Ejemplo | En colección<br> Perdido<br> Voucher en otra parte<br> Duplicado en otra parte<br> Consumido |
+| Definición | La sustancia, mezcla, producto o aparato utilizado para verificar que un proceso que forma parte de una investigación arroja un resultado verdaderamente positivo. |
+| Ejemplo |   |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
 
-<a id="receivedFrom">**receivedFrom** (Recibido de)</a>
+<a id="env_broad_scale">**env_broad_scale** (Contexto ambiental a gran escala)</a>
 
 | ---: | :--- |
-| Definición | El nombre de la persona y/o organización de la que se recibió y autorizó el préstamo de la muestra o espécimen. |
-| Ejemplo | Universidad de los Andes, María Isabel Cárdenas Contreras |
-| _(Obligatoriedad)_ | _(Opcional)_ |
+| Definición | En este elemento, se reporta de cuál ecosistema mayoritario provienen los especímenes o muestras. Los sistemas identificados deben tener una granularidad espacial gruesa, para proveer información general del contexto medioambiental donde la muestra fue tomada (p. ej. ¿estaba en el desierto o en el bosque lluvioso?). Se recomienda utilizar subclases de [ENVO pertenecientes a la clase bioma](http://purl.obolibrary.org/obo/ENVO_00000428). Formato (un término): etiquetaTérmino [IDTérmino], Formato (varios términos): etiquetaTérmino [IDTérmino]|etiquetaTérmino [IDTérmino]|etiquetaTérmino [IDTérmino]. Si es necesario, solicite nuevos términos en el rastreador ENVO, disponible [aquí] (http://www.obofoundry.org/ontology/envo.html).  |
+| Ejemplo | forest biome [ENVO:01000174] <br>  oceanic epipelagic zone biome [ENVO:01000033] <br> tropical moist broadleaf forest biome [ENVO:01000228] |
+| _(Obligatoriedad)_ | _(Recomendado)_ |
 
 <br>
 
-<a id="disposition">**disposition** (Disposición)</a>
+<a id="env_local_scale">**env_local_scale** (Contexto ambiental local)</a>
 
 | ---: | :--- |
-| Definición | El estado actual de un espécimen o muestra con respecto a la colección identificada en collectionCode o collectionID. Se recomienda el uso de un vocabulario controlado. |
-| Ejemplo | En colección<br> Perdido<br> Voucher en otra parte<br> Duplicado en otra parte<br> Consumido |
-| _(Obligatoriedad)_ | _(Opcional)_ |
+| Definición | En este elemento, se reporta la entidad o entidades (separadas por una barra vertical “\|”) que están en cercanía a la localidad de los especímenes o muestras, y cree que tienen influencias causales significativas sobre la muestra o especímen. Por favor utilice términos que estén presentes en ENVO (https://purl.bioontology.org/ontology/ENVO) y tengan una granularidad espacial menor a la documentada en env_broad_scale. Formato (un término): EtiquetaTérmino [termID]; Formato (varios términos): EtiquetaTérmino [termID]|EtiquetaTérmino [termID]|EtiquetaTérmino [termID]. Si es necesario, solicite nuevos términos en el rastreador ENVO, identificado [aquí] (http://www.obofoundry.org/ontology/envo.html). |
+| Ejemplo | litter layer [ENVO:01000338] <br> canopy [ENVO:01001242]<br> pelagic isothermal surface [ENVO:01000080] |
+| _(Obligatoriedad)_ | _(Recomendado)_ |
 
 <br>
 
