@@ -92,11 +92,11 @@ noticias:
   features:
 
      - preTitle: 19 de diciembre, 2025
-      title: "Desde coleópteros hasta fitoplancton: noviembre avanzó en el conocimiento de la biodiversidad de Colombia" 
+      title: "Desde escarabajos hasta algas entre los destacados de noviembre" 
       description: |      # required
-       La publicación de datos sobre biodiversidad contribuye a llenar vacíos en el conocimiento de la biodiversidad de Colombia
+       Iniciativas, institutos de investigación y colecciones publicaron datos que contribuyen a llenar vacíos sobre el conocimiento de la biodiversidad de Colombia
       # img required
-      background: /assets/images/noticias_eventos/2025/2025-12-19-destacados-noviembre.png
+      background: /assets/images/noticias_eventos/2025/2025-12-19-destacados-noviembre-2.png
       cta:
       - text: Ver más
         href: /post/2025/destacados-noviembre/
@@ -156,8 +156,6 @@ noticias:
       - text: Ver más
         href: /post/2025/reporte-publicacion-septiembre-2025/
         isPrimary: false
-    
-    
         
         
 # Splits
