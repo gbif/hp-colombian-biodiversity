@@ -91,7 +91,7 @@ splitGruposdeInteres:
 noticias:
   features:
 
-     - preTitle: 19 de diciembre, 2025
+    - preTitle: 19 de diciembre, 2025
       title: "Desde escarabajos hasta algas entre los destacados de noviembre" 
       description: |      # required
        Iniciativas, institutos de investigación y colecciones publicaron datos que contribuyen a llenar vacíos sobre el conocimiento de la biodiversidad de Colombia
