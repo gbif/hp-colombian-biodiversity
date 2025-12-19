@@ -3870,7 +3870,15 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 | ---|--- |--- |--- |
 | [**samp_name**<br> (Nombre de la muestra)](#samp_name) | [**project_name**<br> (Nombre del proyecto)](#project_name) | [**experimental_factor**<br> (Factor experimental)](#experimental_factor) | [**samp_taxon_id**<br> (ID del taxón de la muestra)](#samp_taxon_id) |
 | [**neg_cont_type**<br> (Tipo de control negativo)](#neg_cont_type) | [**pos_cont_type**<br> (Tipo de control positivo)](#pos_cont_type) | [**env_broad_scale**<br> (Contexto ambiental a gran escala)](#env_broad_scale) | [**env_local_scale**<br> (Contexto ambiental local)](#env_local_scale) |
-
+| [**env_medium**<br> (Medio ambiente)](#env_medium) | [**subspecf_gen_lin**<br> (Linaje genético subespecífico)](#subspecf_gen_lin) | [**ploidy**<br> (Ploidía)](#ploidy) | [**num_replicons**<br> (Número de replicones)](#num_replicons) |
+| [**extrachrom_elements**<br> (Elementos extracromosómicos)](#extrachrom_elements) | [**estimated_size**<br> (Tamaño estimado)](#estimated_size) | [**ref_biomaterial**<br> (Ploidía)](#ref_biomaterial) | [**source_mat_id**<br> (Identificadores del material fuente)](#source_mat_id) |
+| [**pathogenicity**<br> (Patogenicidad)](#pathogenicity) | [**biotic_relationship**<br> (Relación biótica observada)](#biotic_relationship) | [**specific_host**<br> (Nombre científico del hospedero)](#specific_host) | [**host_spec_range**<br> (Especificidad o rango del hospedero)](#host_spec_range) |
+| [**host_disease_stat**<br> (Estado de la enfermedad del huésped)](#host_disease_stat) | [**trophic_level**<br> (Nivel trófico)](#trophic_level) | [**propagation**<br> (Propagación)](#propagation) | [**encoded_traits**<br> (Rasgos codificados)](#encoded_traits) |
+| [**rel_to_oxygen**<br> (Relación con el oxígeno)](#rel_to_oxygen) | [**isol_growth_condt**<br> (Condiciones de aislamiento y crecimiento)](#isol_growth_condt) | [**samp_collec_device**<br> (Dispositivo de recolección de muestras)](#samp_collec_device) | [**samp_collec_method**<br> (Método de recolección de muestras)](#samp_collec_method) |
+| [**samp_mat_process**<br> (Procesamiento de material de muestra)](#samp_mat_process) | [**size_frac**<br> (Fracción de tamaño seleccionada)](#size_frac) | [**samp_size**<br> (Cantidad o tamaño de la muestra recolectada)](#samp_size) | [**samp_vol_we_dna_ext**<br> (Volumen o masa de la muestra para la extracción de ADN)](#samp_vol_we_dna_ext) |
+| [**source_uvig**<br> (Fuente de UViGs)](#source_uvig) | [**virus_enrich_appr**<br> (Método de enriquecimiento de virus)](#virus_enrich_appr) | [**nucl_acid_ext**<br> (Extracción de ácidos nucleicos)](#nucl_acid_ext) | [**nucl_acid_amp**<br> (Amplificación de ácidos nucleicos)](#nucl_acid_amp) |
+| [**lib_screen**<br> (Estrategia de selección de librerías)](#lib_screen) | [**target_gene**<br> (Gen objetivo)](#target_gene) | [**target_subfragment**<br> (Subfragmento objetivo)](#target_subfragment) | [**pcr_primers**<br> (Primers de PCR)](#pcr_primers) |
+| [**mid**<br> (Identificadores multiplexados)](#mid) | [**adapters**<br> (Adaptadores)](#adapters) | [**pcr_cond**<br> (Condiciones de PCR)](#pcr_cond) | [**seq_meth**<br> (Método de secuenciación)](#seq_meth) |
 
 <br>
 <br>
@@ -3932,7 +3940,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="env_broad_scale">**env_broad_scale** (Contexto ambiental a gran escala)</a>
 
 | ---: | :--- |
-| Definición | En este elemento, se reporta de cuál ecosistema mayoritario provienen los especímenes o muestras. Los sistemas identificados deben tener una granularidad espacial gruesa, para proveer información general del contexto medioambiental donde la muestra fue tomada (p. ej. ¿estaba en el desierto o en el bosque lluvioso?). Se recomienda utilizar subclases de [ENVO pertenecientes a la clase bioma](http://purl.obolibrary.org/obo/ENVO_00000428). Formato (un término): etiquetaTérmino [IDTérmino], Formato (varios términos): etiquetaTérmino [IDTérmino]|etiquetaTérmino [IDTérmino]|etiquetaTérmino [IDTérmino]. Si es necesario, solicite nuevos términos en el rastreador ENVO, disponible [aquí] (http://www.obofoundry.org/ontology/envo.html).  |
+| Definición | En este elemento, se reporta de cuál ecosistema mayoritario provienen los especímenes o muestras. Los sistemas identificados deben tener una granularidad espacial gruesa, para proveer información general del contexto medioambiental donde la muestra fue tomada (p. ej. ¿estaba en el desierto o en el bosque lluvioso?). Se recomienda utilizar subclases de [ENVO pertenecientes a la clase bioma](http://purl.obolibrary.org/obo/ENVO_00000428). Formato (un término): etiquetaTérmino [IDTérmino], Formato (varios términos): etiquetaTérmino [IDTérmino]\|etiquetaTérmino [IDTérmino]\|etiquetaTérmino [IDTérmino]. Si es necesario, solicite nuevos términos en el rastreador ENVO, disponible [aquí](http://www.obofoundry.org/ontology/envo.html).  |
 | Ejemplo | forest biome [ENVO:01000174] <br>  oceanic epipelagic zone biome [ENVO:01000033] <br> tropical moist broadleaf forest biome [ENVO:01000228] |
 | _(Obligatoriedad)_ | _(Recomendado)_ |
 
@@ -3941,9 +3949,369 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="env_local_scale">**env_local_scale** (Contexto ambiental local)</a>
 
 | ---: | :--- |
-| Definición | En este elemento, se reporta la entidad o entidades (separadas por una barra vertical “\|”) que están en cercanía a la localidad de los especímenes o muestras, y cree que tienen influencias causales significativas sobre la muestra o especímen. Por favor utilice términos que estén presentes en ENVO (https://purl.bioontology.org/ontology/ENVO) y tengan una granularidad espacial menor a la documentada en env_broad_scale. Formato (un término): EtiquetaTérmino [termID]; Formato (varios términos): EtiquetaTérmino [termID]|EtiquetaTérmino [termID]|EtiquetaTérmino [termID]. Si es necesario, solicite nuevos términos en el rastreador ENVO, identificado [aquí] (http://www.obofoundry.org/ontology/envo.html). |
+| Definición | En este elemento, se reporta la entidad o entidades (separadas por una barra vertical “\|”) que están en cercanía a la localidad de los especímenes o muestras, y cree que tienen influencias causales significativas sobre la muestra o especímen. Por favor utilice términos que estén presentes en ENVO [https://purl.bioontology.org/ontology/ENVO](https://purl.bioontology.org/ontology/ENVO) y tengan una granularidad espacial menor a la documentada en env_broad_scale. Formato (un término): EtiquetaTérmino [termID]; Formato (varios términos): EtiquetaTérmino [termID]\|EtiquetaTérmino [termID]\|EtiquetaTérmino [termID]. Si es necesario, solicite nuevos términos en el rastreador ENVO, identificado [aquí](http://www.obofoundry.org/ontology/envo.html). |
 | Ejemplo | litter layer [ENVO:01000338] <br> canopy [ENVO:01001242]<br> pelagic isothermal surface [ENVO:01000080] |
 | _(Obligatoriedad)_ | _(Recomendado)_ |
+
+<br>
+
+<a id="env_medium">**env_medium** (Medio ambiente)</a>
+
+| ---: | :--- |
+| Definición | En este elemento, se reporta cuál material o materiales (separados por una barra vertical “\|”) estaban inmediatamente alrededor de los especímenes o muestras antes del muestreo, utilizando una o más subclases de ENVO pertenecientes a la clase material medioambiental: [https://purl.bioontology.org/ontology/ENVO](https://purl.bioontology.org/ontology/ENVO) Formato (un término): EtiquetaTérmino [termID]; Formato (varios términos): EtiquetaTérmino [termID]\|EtiquetaTérmino [termID]\|EtiquetaTérmino [termID]. Si es necesario, solicite nuevos términos en el rastreador ENVO, identificado [aquí](http://www.obofoundry.org/ontology/envo.html). |
+| Ejemplo | soil [ENVO:00001998]<br> wood [ENVO:00002040]<br> rock [ENVO:00001995] |
+| _(Obligatoriedad)_ | _(Recomendado)_ |
+
+<br>
+
+<a id="subspecf_gen_lin">**subspecf_gen_lin** (Linaje genético subespecífico)</a>
+
+| ---: | :--- |
+| Definición | Aquí se debería proporcionar información adicional sobre la singularidad genética del organismo secuenciado, registrando datos adicionales como serovar, serotipo, biotipo, ecotipo o cualquier esquema de tipificación genética relevante, como el plásmido del Grupo I. También puede contener información taxonómica alternativa. Debe incluir tanto el nombre del linaje como su rango, por ejemplo, biovar:abc123. |
+| Ejemplo |serovar:Newport <br>serotipo:O157:H7 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="ploidy">**ploidy** (Ploidía)</a>
+
+| ---: | :--- |
+| Definición | El nivel de ploidía del genoma (p. ej., alopoliploide, haploide, diploide, triploide, tetraploide). Tiene implicaciones para el estudio posterior de genes y regiones duplicados del genoma (y posiblemente para las dificultades en el ensamblaje). Para consultar la terminología, seleccione los términos que figuran en la clase ploidía (PATO:001374) de la Ontología de Calidad Fenotípica (PATO). Para acceder a un explorador de PATO (v 2018-03-27), visite [http://purl.bioontology.org/ontology/PATO](http://purl.bioontology.org/ontology/PATO). |
+| Ejemplo | allopolyploidy [PATO:0001379] <br> haploid [PATO:0001375] <br> diploid [PATO:0001394] <br> triploid [PATO:0001381] <br> tetraploid [PATO:0001382] |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="num_replicons">**num_replicons** (Número de replicones)</a>
+
+| ---: | :--- |
+| Definición | Informa el número de replicones en el genoma nuclear de eucariotas, en el genoma de una bacteria o arquea, o del número de segmentos en un virus segmentado. Siempre se aplica al recuento de cromosomas haploides de un eucariota. |
+| Ejemplo | 2<br> 23<br> 11<br> 1 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="extrachrom_elements">**extrachrom_elements** (Elementos extracromosómicos)</a>
+
+| ---: | :--- |
+| Definición |Si existen plásmidos con consecuencias fenotípicas significativas (p. ej., que determinen la virulencia o la resistencia a antibióticos), megaplásmidos u otros plásmidos (p. ej. _Borrelia_ tiene más de 15 plásmidos). |
+| Ejemplo | 5<br> 22<br> 2 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="estimated_size">**estimated_size** (Tamaño estimado)</a>
+
+| ---: | :--- |
+| Definición | Tamaño estimado del genoma antes de la secuenciación. De especial importancia en la secuenciación de genomas (eucariotas), que podrían permanecer en forma de borrador durante un período prolongado o indeterminado. |
+| Ejemplo | 300000 pb <br> 13.5 kb <br> 4.6 Mb <br> 20 Gb |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="ref_biomaterial">**ref_biomaterial** (Referencia para biomateriales)</a>
+
+| ---: | :--- |
+| Definición | Publicación primaria si el aislamiento se realizó antes de la publicación del genoma; de lo contrario, informe primario del genoma. |
+| Ejemplo |doi:10.1016/j.syapm.2018.01.009 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="source_mat_id">**source_mat_id** (Identificadores del material fuente)</a>
+
+| ---: | :--- |
+| Definición | Un identificador único asignado a una muestra de material (según la definición de [http://rs.tdwg.org/dwc/terms/materialSampleID](http://rs.tdwg.org/dwc/terms/materialSampleID) y no un registro digital específico de dicha muestra) utilizado para la extracción de ácidos nucleicos y su posterior secuenciación. El identificador puede referirse tanto al material original recolectado como a cualquiera de sus submuestras derivadas. Los calificadores INSDC /specimen_voucher, /bio_material o /culture_collection pueden o no compartir el mismo valor que el campo source_mat_id. Por ejemplo, tanto el calificador /specimen_voucher como source_mat_id pueden contener «UAM:Herps:14», haciendo referencia tanto a la muestra de referencia como al tejido muestreado con el mismo identificador. Sin embargo, el calificador /culture_collection puede referirse a un valor de un cultivo inicial (por ejemplo, ATCC:11775), mientras que source_mat_id se referiría a un identificador de algún cultivo derivado del cual se extrajeron los ácidos nucleicos (por ejemplo, xatc123 o ark:/2154/R2). |
+| Ejemplo | MPI012345 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="pathogenicity">**pathogenicity** (Patogenicidad)</a>
+
+| ---: | :--- |
+| Definición | Para qué organismo es patógena la entidad. |
+| Ejemplo | Humanos<br> Animales<br> Plantas<br> Hongos<br> Bacterias |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="biotic_relationship">**biotic_relationship** (Relación biótica observada)</a>
+
+| ---: | :--- |
+| Definición | Descripción de la(s) relación(es) entre el organismo estudiado y los demás organismos con los que se asocia. Por ejemplo, parásito de la especie X; mutualista de la especie Y. El organismo estudiado es el sujeto de la relación, y los demás organismos son el objeto. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/biotic_relationship.xml). |
+| Ejemplo | De vida libre <br> Mutualismo<br> Comensalismo<br> Simbiosis<br> Parasitismo |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="specific_host">**specific_host** (Nombre científico del hospedero)</a>
+
+| ---: | :--- |
+| Definición | Si hay un hospedero involucrado, proporcionar su nombre taxónomico o identificador taxonómico del NCBI (o ambiental si no se aisló realmente del hospedero sea muerto o vivo; es decir, un patógeno podría aislarse de una muestra tomada de una superficie de trabajo, etc.) e indique si se trata de un hospedador de laboratorio o natural. |
+| Ejemplo | NCBITaxon:9606<br> _Pitangus sulphuratus_<br> Efluente industrial |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="host_spec_range">**host_spec_range** (Especificidad o rango del hospedero)</a>
+
+| ---: | :--- |
+| Definición | El identificador taxonómico NCBI del hospedero específico, si se conoce. |
+| Ejemplo | 9606<br> 8553<br> 6785<br> 9776<br> 4577 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="host_disease_stat">**host_disease_stat** (Estado de la enfermedad del huésped)</a>
+
+| ---: | :--- |
+| Definición | Lista de enfermedades diagnosticadas en el hospedero; puede incluir varios diagnósticos. El valor de este campo depende del hospedero; para humanos, los términos deben seleccionarse de la [Ontología de Enfermedades Humanas (DO)](https://www.disease-ontology.org); para enfermedades de hospedero no humanos, se utiliza texto libre. |
+| Ejemplo | Muerto<br> Bartonelosis<br> Fiebre amarilla<br> Tuberculosis<br> Pericarditis |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="trophic_level">**trophic_level** (Nivel trófico)</a>
+
+| ---: | :--- |
+| Definición | Los niveles tróficos son la posición en una cadena alimentaria. Los microbios pueden ser productores de diversos tipos (por ejemplo, quimiolitótrofos). [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/trophic_level.xml). |
+| Ejemplo | Heterótrofo<br> Autótrofo<br> Quimiótrofo<br> Metilotrofo<br> Mixótrofo |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="propagation">**propagation** (Propagación)</a>
+
+| ---: | :--- |
+| Definición | Este campo es específico para diferentes taxones. Para fagos: lítica/lisogénica; para plásmidos: grupo de incompatibilidad; para eucariotas: sexual/asexual (Nota: existe la opinión generalizada de que la propagación de fagos debe denominarse obligatoriamente lítica o temperada; por lo tanto, también se incluye esa opción). |
+| Ejemplo | Lítica<br> Lisogénica<br> IncI1<br> Sexual<br> Asexual |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="encoded_traits">**encoded_traits** (Rasgos codificados)</a>
+
+| ---: | :--- |
+| Definición | Debe incluir características clave como la resistencia a antibióticos o los fenotipos de degradación de xenobióticos para plásmidos, y genes de conversión para fagos. |
+| Ejemplo | Beta-lactamasa clase A<br>  α-hemolisina<br> Proteínas efectoras del sistema de secreción tipo III <br> Sintetasa de péptidos no ribosómicos |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="rel_to_oxygen">**rel_to_oxygen** (Relación con el oxígeno)</a>
+
+| ---: | :--- |
+| Definición | ¿Este organismo es aerobio o anaerobio? Tenga en cuenta que aerobio y anaerobio son descriptores válidos para entornos microbianos. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/rel_to_oxygen.xml).  |
+| Ejemplo | Aerobio<br> Anaerobio<br> Facultativo<br> Microaerófilo<br> Microanaerobio |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="isol_growth_condt">**isol_growth_condt** (Condiciones de aislamiento y crecimiento)</a>
+
+| ---: | :--- |
+| Definición | Referencia de la publicación en forma de identificador PubMed (PMID), identificador de objeto digital (DOI) o URL para las especificaciones de aislamiento y condiciones de crecimiento del organismo/material. |
+| Ejemplo | doi: 10.1016/j.syapm.2018.01.009 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="samp_collec_device">**samp_collec_device** (Dispositivo de recolección de muestras)</a>
+
+| ---: | :--- |
+| Definición | Dispositivo utilizado para la toma de muestras ambientales. Este campo acepta los términos enumerados en la sección de dispositivo de muestreo ambiental " environmental sampling device" [https://bioportal.bioontology.org/ontologies/ENVO](https://bioportal.bioontology.org/ontologies/ENVO). También acepta los términos enumerados en la sección de dispositivo de recolección de muestras "specimen collection device" [http://purl.obolibrary.org/obo/GENEPIO_0002094](http://purl.obolibrary.org/obo/GENEPIO_0002094). |
+| Ejemplo | Muestreo ambiental con hisopo<br> Biopsia<br> Frasco Niskin<br> Núcleo de empuje |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="samp_collec_method">**samp_collec_method** (Método de recolección de muestras)</a>
+
+| ---: | :--- |
+| Definición | El método empleado para recoger la muestra. |
+| Ejemplo | Muestreo ambiental con hisopo<br> Biopsia<br> Frasco Niskin<br> Núcleo de empuje |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="samp_mat_process">**samp_mat_process** (Procesamiento de material de muestra)</a>
+
+| ---: | :--- |
+| Definición | Cualquier proceso aplicado a la muestra durante o después de extraerla del medio ambiente. Este elemento acepta [términos OBI (v 2018-02-12)](http://purl.bioontology.org/ontology/OBI). |
+| Ejemplo | Filtrado de agua de mar<br> Almacenamiento de muestras en etanol<br>|
+| _(Obligatoriedad)_ | _(Recomendado)_ |
+
+<br>
+
+<a id="size_frac">**size_frac** (Fracción de tamaño seleccionada)</a>
+
+| ---: | :--- |
+| Definición | El tamaño del poro de filtrado utilizado en la preparación de la muestra. |
+| Ejemplo | 0-0.22 micrometros |
+| _(Obligatoriedad)_ | _(Recomendado)_ |
+
+<br>
+
+<a id="samp_size">**samp_size** (Cantidad o tamaño de la muestra recolectada)</a>
+
+| ---: | :--- |
+| Definición | La cantidad o tamaño de la muestra (volumen, masa o área) que fue colectada. |
+| Ejemplo | 5 litros<br> 10 gramos<br> 1 centímetro cuadrado |
+| _(Obligatoriedad)_ | _(Recomendado)_ |
+
+<br>
+
+<a id="samp_vol_we_dna_ext">**samp_vol_we_dna_ext** (Volumen o masa de la muestra para la extracción de ADN)</a>
+
+| ---: | :--- |
+| Definición | Volumen (ml) o masa (g) de la muestra total recolectada y procesada para la extracción de ADN. Nota: la cantidad total de muestra recolectada debe ingresarse en el campo samp_size (MIXS:0000001). |
+| Ejemplo | 1500 mililitros |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="source_uvig">**source_uvig** (Fuente de UViGs)</a>
+
+| ---: | :--- |
+| Definición | Tipo de conjunto de datos del que se obtuvo el UViG (Genoma de virus no cultivado - Uncultivated Virus Genome). |
+| Ejemplo | Metagenoma de fracción viral (viroma) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="virus_enrich_appr">**virus_enrich_appr** (Método de enriquecimiento de virus)</a>
+
+| ---: | :--- |
+| Definición | Lista de métodos utilizados para enriquecer la muestra con virus, si los hay. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/virus_enrich_appr.xml). |
+| Ejemplo | Filtración + Precipitación con FeCl + Ultracentrifugación + ADNasa |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="nucl_acid_ext">**nucl_acid_ext** (Extracción de ácidos nucleicos)</a>
+
+| ---: | :--- |
+| Definición | Un enlace a una referencia bibliográfica, un recurso electrónico o un procedimiento operativo estándar (SOP) que describa la separación del material para recuperar la fracción de ácidos nucleicos de una muestra. |
+| Ejemplo |[https://mobio.com/media/wysiwyg/pdfs/protocols/12888.pdf](https://mobio.com/media/wysiwyg/pdfs/protocols/12888.pdf) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="nucl_acid_amp">**nucl_acid_amp** (Amplificación de ácidos nucleicos)</a>
+
+| ---: | :--- |
+| Definición | Un enlace a una referencia bibliográfica, recurso electrónico o procedimiento operativo estándar (SOP) que describa la amplificación enzimática (PCR, TMA, NASBA) de ácidos nucleicos específicos. |
+| Ejemplo | [https://phylogenomics.me/protocols/16s-pcr-protocol/](https://phylogenomics.me/protocols/16s-pcr-protocol/) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="lib_size">**lib_size** (Tamaño de la librería)</a>
+
+| ---: | :--- |
+| Definición |Número total de clones en la librería preparada para el proyecto. |
+| Ejemplo | 50 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="lib_reads_seqd">**lib_reads_seqd** (Lecturas de librería secuenciadas)</a>
+
+| ---: | :--- |
+| Definición | Número total de clones secuenciados de la librería. |
+| Ejemplo | 20 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="lib_layout">**lib_layout** (Diseño de la librería)</a>
+
+| ---: | :--- |
+| Definición | Especifica si se espera una configuración de lecturas individual, pareada o de otro tipo. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/lib_layout.xml).  |
+| Ejemplo | Pareada<br> individual<br> Vector<br> Otra |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="lib_vector">**lib_vector** (Vector de librería)</a>
+
+| ---: | :--- |
+| Definición | Tipo(s) de vector(es) de clonación utilizados en la construcción de librerías. |
+| Ejemplo | Bacteriófago P1 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="lib_screen">**lib_screen** (Estrategia de selección de librerías)</a>
+
+| ---: | :--- |
+| Definición | Métodos específicos de enriquecimiento o filtrado aplicados antes y/o después de la creación de librerías. |
+| Ejemplo | Enriquecido, filtrado, normalizado |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="target_gene">**target_gene** (Gen objetivo)</a>
+
+| ---: | :--- |
+| Definición | Nombre del gen o locus objetivo para estudios basados en marcadores. |
+| Ejemplo | 16S rRNA<br> 18S rRNA<br> ITS |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
+
+<br>
+
+<a id="target_subfragment">**target_subfragment** (Subfragmento objetivo)</a>
+
+| ---: | :--- |
+| Definición | Nombre del subfragmento de un gen o locus. Importante, por ejemplo para identificar regiones especiales en genes marcadores como la región hipervariable V6 del gen rRNA 16S. |
+| Ejemplo | V6<br> V9<br> ITS |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
+
+<br>
+
+<a id="pcr_primers">**pcr_primers** (Primers de PCR)</a>
+
+| ---: | :--- |
+| Definición | Primers o cebadores de PCR utilizados para amplificar la secuencia del gen, locus o subfragmento objetivo. Este campo debe incluir todos los primers empleados en una misma reacción de PCR si se utilizan varios primers directos o inversos. La secuencia de los primers debe indicarse en MAYÚSCULAS. |
+| Ejemplo | FWD:GTGCCAGCMGCCGCGGTAA;REV:GGACTACHVGGGTWTCTAAT |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="mid">**mid** (Identificadores multiplexados)</a>
+
+| ---: | :--- |
+| Definición | Los códigos de barras moleculares, denominados identificadores multiplexados (MID), se utilizan para etiquetar específicamente muestras únicas en una secuenciación. La secuencia debe indicarse en MAYÚSCULAS. |
+| Ejemplo | GTGAATAT |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="adapters">**adapters** (Adaptadores)</a>
+
+| ---: | :--- |
+| Definición | Los adaptadores proporcionan secuencias de priming o cebado tanto para la amplificación como para la secuenciación de los fragmentos de la librería de muestras. Ambos adaptadores deben indicarse en MAYÚSCULAS. |
+| Ejemplo | AATGATACGGCGACCACCGAGATCTACACGCT;CAAGCAGAAGACGGCATACGAGAT |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="pcr_cond">**pcr_cond** (Condiciones de PCR)</a>
+
+| ---: | :--- |
+| Definición | Descripción de las condiciones de reacción y componentes de la PCR siguiendo la estructura "desnaturalización inicial:94degC_1.5min; anillado=…" |
+| Ejemplo | desnaturalización inicial:94_3;anillado:50_1;elongación:72_1.5;elongación final:72_10;35 |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
+
+<br>
+
+<a id="seq_meth">**seq_meth** (Método de secuenciación)</a>
+
+| ---: | :--- |
+| Definición | El método o plataforma de secuenciación utilizada. Siempre que sea posible, el término deberá tomarse de la lista [OBI de secuenciadores de ADN](http://purl.obolibrary.org/obo/OBI_0400103). |
+| Ejemplo | Illumina HiSeq 1500<br> Oxford Nanopore PromethION<br> PacBio Sequel<br> Illumina MiniSeq<br> Oxford Nanopore MinION |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
 
 <br>
 
