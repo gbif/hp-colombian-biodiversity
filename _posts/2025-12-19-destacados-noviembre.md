@@ -4,7 +4,7 @@ title: "Desde escarabajos hasta algas entre los destacados de noviembre"
 description: "_Iniciativas, institutos de investigación y colecciones publicaron datos que contribuyen a llenar vacíos sobre el conocimiento de la biodiversidad de Colombia._"
 date: 2025-12-19
 categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
-background: /assets/images/noticias_eventos/2025/2025-12-19-destacados-noviembre.png
+background: /assets/images/noticias_eventos/2025/2025-12-19-destacados-noviembre2.png
 
 ---
 
