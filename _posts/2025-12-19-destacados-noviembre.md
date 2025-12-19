@@ -1,7 +1,7 @@
 ---
 preTitle: 19 de diciembre, 2025
-title: "Desde coleópteros hasta fitoplancton: noviembre avanzó en el conocimiento de la biodiversidad de Colombia"
-description: "_La publicación de datos sobre biodiversidad contribuye a llenar vacíos en el conocimiento de la biodiversidad de Colombia_"
+title: "Desde escarabajos hasta algas entre los destacados de noviembre"
+description: "_Iniciativas, institutos de investigación y colecciones publicaron datos que contribuyen a llenar vacíos sobre el conocimiento de la biodiversidad de Colombia._"
 date: 2025-12-19
 categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
 background: /assets/images/noticias_eventos/2025/2025-12-19-destacados-noviembre.png
@@ -12,7 +12,7 @@ background: /assets/images/noticias_eventos/2025/2025-12-19-destacados-noviembre
 
 Desde el SiB Colombia, el equipo coordinador [acompaña mensualmente la publicación voluntaria de conjuntos de datos, listas de especies o eventos de muestreo](https://biodiversidad.co/compartir/guia-para-publicar/){:target="_blank"}, por parte de los socios publicadores de la red, y presenta esta información en el reporte [Actividad de publicación](https://biodiversidad.co/comunidad/actividad-de-publicacion/){:target="_blank"}, disponible de forma permanente en nuestro sitio web. Cada mes, se destacan algunas de estas publicaciones por su valor en el fortalecimiento del conocimiento y la participación en la red. En esta ocasión, compartimos las correspondientes a noviembre de 2025.
 
-**Destacados por tipo de conjunto de datos**
+## **Destacados por tipo de conjunto de datos**
 
  
 
@@ -20,7 +20,7 @@ En noviembre, [Coleoptera de Colombia](https://sites.google.com/view/coleopcol){
 
  
 
-Consulta el recurso en [Listado de las especies de Cryptocephalinae (Coleoptera: Chrysomelidae) de Colombia](https://biodiversidad.co/dataset/5053e0f8-3f24-42cb-a742-72d2742ec812){:target="_blank"}
+| Consulta el recurso en [Listado de las especies de Cryptocephalinae (Coleoptera: Chrysomelidae) de Colombia](https://biodiversidad.co/dataset/5053e0f8-3f24-42cb-a742-72d2742ec812){:target="_blank"}
 
  
 
@@ -34,11 +34,11 @@ El [Instituto de Investigaciones Ambientales del Pacífico John Von Neumann - II
 
  
 
-Consulta el recurso en [Fitoplancton asociado a la quebrada Patía, municipio de Tumaco - Nariño. 2024](https://biodiversidad.co/data?datasetKey=ddd8b570-1e36-4fdd-82b8-d90357d7a92e){:target="_blank"}
+| Consulta el recurso en [Fitoplancton asociado a la quebrada Patía, municipio de Tumaco - Nariño. 2024](https://biodiversidad.co/data?datasetKey=ddd8b570-1e36-4fdd-82b8-d90357d7a92e){:target="_blank"}
 
  
 
-**Colecciones**
+## **Colecciones**
 
  
 
@@ -46,7 +46,7 @@ En noviembre se realizó la actualización de la [Colección de Moluscos del Mus
 
  
 
-Consulta la colección en [Colección de Moluscos del Museo de Historia Natural Marina de Colombia - Makuriwa](http://doi.org/10.15472/l7xmvd){:target="_blank"}
+| Consulta la colección en [Colección de Moluscos del Museo de Historia Natural Marina de Colombia - Makuriwa](http://doi.org/10.15472/l7xmvd){:target="_blank"}
 
  
 
@@ -54,7 +54,7 @@ La [Universidad Nacional de Colombia](https://unal.edu.co/){:target="_blank"} re
 
  
 
-Puedes consultar las colecciones en: [Banco de tejidos de la Colección Biológica Grupo de Estudio Relación Parásito Hospedero](http://doi.org/10.15472/mbt7jq) y [Colección Biológica Grupo de Estudio Relación Parásito Hospedero (UNAL:GERPH)](http://doi.org/10.15472/bmzrb5){:target="_blank"}
+| Puedes consultar las colecciones en: [Banco de tejidos de la Colección Biológica Grupo de Estudio Relación Parásito Hospedero](http://doi.org/10.15472/mbt7jq) y [Colección Biológica Grupo de Estudio Relación Parásito Hospedero (UNAL:GERPH)](http://doi.org/10.15472/bmzrb5){:target="_blank"}
 
  
 
@@ -62,7 +62,7 @@ La [Universidad del Tolima](https://ut.edu.co/){:target="_blank"} realizó la ac
 
  
 
-Consulta la colección en [Colección Zoológica de la Universidad del Tolima (CZUT) - Ornitología](http://doi.org/10.15472/0w6g9f){:target="_blank"}
+| Consulta la colección en [Colección Zoológica de la Universidad del Tolima (CZUT) - Ornitología](http://doi.org/10.15472/0w6g9f){:target="_blank"}
 
  
 
@@ -70,6 +70,10 @@ La Colección Taxonómica Central (CTC) del Museo Entomológico de la [Universid
 
  
 
-Puedes consultar la colección en: [Museo Entomológico Facultad de Agronomía](https://biodiversidad.co/collection/3445f630-14e3-4883-be30-8b7a482a4046/dashboard){:target="_blank"}
+| Puedes consultar la colección en: [Museo Entomológico Facultad de Agronomía](https://biodiversidad.co/collection/3445f630-14e3-4883-be30-8b7a482a4046/dashboard){:target="_blank"} 
+
+![Actividad de publicación](/assets/images/noticias_eventos/2025/banner-actividad-de-publicacion.png)
+
+Esta nota hace parte de una serie de noticias que cubren el reporte mensual de la actividad de publicación para visibilizar las acciones de los [socios publicadores](https://biodiversidad.co/comunidad/socios-publicadores/){:target="\_blank"} y sus esfuerzos por aportar al conocimiento de la biodiversidad del país. Para conocer los destacados en meses anteriores, te invitamos a acceder a la categoría de búsqueda, [Destacados SiB](https://biodiversidad.co/news/?category=Destacados+SiB){:target="\_blank"} en nuestras noticias.
 
 Las publicaciones realizadas en noviembre reflejan el avance en la generación de conocimiento sobre la biodiversidad colombiana, resultado del esfuerzo permanente de instituciones, universidades y demás socios publicadores que trabajan por documentar la biodiversidad del país. Desde el **SiB Colombia**, continuamos nuestro compromiso con el **acceso abierto** a la información sobre biodiversidad, entendiendo que estos datos son fundamentales para fortalecer los procesos de investigación, respaldar la toma de decisiones informadas y contribuir a la conservación de la diversidad biológica.
