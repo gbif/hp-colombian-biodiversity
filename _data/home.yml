@@ -91,7 +91,17 @@ splitGruposdeInteres:
 noticias:
   features:
 
-  
+     - preTitle: 19 de diciembre, 2025
+      title: "Desde coleópteros hasta fitoplancton: noviembre avanzó en el conocimiento de la biodiversidad de Colombia" 
+      description: |      # required
+       La publicación de datos sobre biodiversidad contribuye a llenar vacíos en el conocimiento de la biodiversidad de Colombia
+      # img required
+      background: /assets/images/noticias_eventos/2025/2025-12-19-destacados-noviembre.png
+      cta:
+      - text: Ver más
+        href: /post/2025/destacados-noviembre/
+        isPrimary: false
+        
     - preTitle: 15 de diciembre, 2025
       title: "La lista de especies exóticas declaradas como invasoras se actualiza con un enfoque preventivo" 
       description: |      # required
@@ -147,60 +157,7 @@ noticias:
         href: /post/2025/reporte-publicacion-septiembre-2025/
         isPrimary: false
     
-    - preTitle: 8 de octubre, 2025
-      title: "Biodiversidad en cifras 2025: Colombia y su ventana a la Amazonía" 
-      description: |      # required
-       Colombia reafirma, una vez más, su lugar como uno de los países más biodiversos del planeta. Según el ranking global más reciente publicado por Butler, R. A. (2025) en Worldstats y Mongabay, Colombia ocupa el cuarto puesto a nivel mundial en biodiversidad con 80 346 especies.
-      # img required
-      background: assets/images/noticias_eventos/2025/2025-10-08-Biodiversidad-Cifras.jpg
-      cta:
-      - text: Ver más
-        href: /post/2025/biodiversidad-cifras/
-        isPrimary: false
-        
-    - preTitle: 2 de octubre, 2025
-      title: "Una nueva mirada a las especies migratorias: actualización de la lista nacional" 
-      description: |      # required
-       Se actualizó la lista de especies silvestres migratorias de la diversidad biológica continental y marino-costera de Colombia, un insumo clave para la conservación de especies en el territorio nacional.
-      # img required
-      background: assets/images/noticias_eventos/2025/2025-10-02-lista-especies-migratorias.jpg
-      cta:
-      - text: Ver más
-        href: /post/2025/lista-especies-migratorias/
-        isPrimary: false
-
-    - preTitle: Datos abiertos
-      title: "Mamíferos del Eje Cafetero, vida acuática de Cesar y flora del Caribe entre los destacados de agosto" 
-      description: |      # required
-       Este mes universidades, empresas, jardines botánicos y centros de investigación aportaron con registros biológicos, eventos de muestreo y conjunto de datos que fortalecen el conocimiento de nuestra biodiversidad.
-      # img required
-      background: assets/images/noticias_eventos/2025/2025-09-16-destacados-agosto-2025.png
-      cta:
-      - text: Ver más
-        href: /post/2025/reporte-publicacion-agosto-2025/
-        isPrimary: false
-        
-    - preTitle: Datos abiertos
-      title: "Fauna y flora del Caribe, los Llanos orientales y el eje cafetero sobresalen en los destacados de julio" 
-      description: |      # required
-       Universidades, empresas, ONG y el Ministerio de Ambiente y Desarrollo Sostenible aportan este mes con registros biológicos, listas de chequeo y colecciones de nuestra biodiversidad.
-      # img required
-      background: assets/images/noticias_eventos/2025/2025-08-29-destacados-julio-2025.png
-      cta:
-      - text: Ver más
-        href: /post/2025/reporte-publicacion-julio-2025/
-        isPrimary: false
-
-    - preTitle: Plataforma
-      title: "Actualizaciones de la nueva versión del IPT" 
-      description: |      # required
-       Las herramientas de publicación (IPT), desarrolladas por el Sistema Global de Información sobre Biodiversidad (GBIF), fueron actualizadas en la infraestructura del SiB Colombia a una nueva versión con funcionalidades que facilitan la edición de metadatos y la publicación de conjuntos de datos.
-      # img required
-      background: /assets/images/noticias_eventos/2025/2025-08-11-actualizacion-ipt-3.1.png
-      cta:
-      - text: Ver más
-        href: /post/2025/actualizacion-ipt-3-1/
-        isPrimary: false
+    
         
         
 # Splits
