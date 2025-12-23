@@ -3914,10 +3914,10 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 <a id="project_name">**project_name** (Nombre del proyecto)</a>
 
-| ---: | :--- ||
-| Definición | Nombre del proyecto en el que se desarrolló la secuenciación. |  |
-| Ejemplo | Metagenoma de suelo forestal |  |
-| _(Obligatoriedad)_ | _(Opcional)_ |  |
+| ---: | :--- |  |  |
+| Definición | Nombre del proyecto en el que se desarrolló la secuenciación. |  |  |
+| Ejemplo | Metagenoma de suelo forestal |  |  |
+| _(Obligatoriedad)_ | _(Opcional)_ |  |  |
 
 <br>
 
@@ -4420,7 +4420,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 | ---: | :--- |
 | Definición | Lista de bases de datos utilizadas para la anotación de ORF (Marcos abiertos de lectura - Open Reading Frames), junto con el número de versión y la referencia al sitio web o publicación. |
-| Ejemplo | pVOGs;5;http://dmk-brain.ecn.uiowa.edu/pVOGs/ Grazziotin et al. 2017 doi:10.1093/nar/gkw975 |
+| Ejemplo | pVOGs;5;[http://dmk-brain.ecn.uiowa.edu/pVOGs/](http://dmk-brain.ecn.uiowa.edu/pVOGs/) Grazziotin et al. 2017 [doi:10.1093/nar/gkw975](doi:10.1093/nar/gkw975) |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -4771,8 +4771,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 | ---: | :--- |
 | Definición | La secuencia de ADN (ASV). La interpretación taxonómica de la secuencia depende de la tecnología y la librería de referencia disponible en el momento de la publicación. Por eso, el manejo taxonómico más objetivo es la secuencia que puede ser reinterpretada en el futuro. Preferiblemente, use MAYÚSCULAS. Utilice los caracteres clásicos de los nucleótidos del ADN. Las secuencias deben recortarse para secuencias de primers/cebadores y adaptadores, etc. |
-| Ejemplo | TCTATCCTCAATTATAGGTCATAATTCACCATCAGTAGATTTAGGAATTTTCTCTATTCAT<br>
-ATTGCAGGTGTATCATCAATTATAGGATCAATTAATTTTATTGTAACAATTTTAAATATACATACAAAAACTCATTCATTAAACTTTTTACCATTATTTTCATGATCAGTTCTAGTTACAGCAATTCTCCTTTTATTATCATTA |
+| Ejemplo | TCTATCCTCAATTATAGGTCATAATTCACCATCAGTAGATTTAGGAATTTTCTCTATTCAT<br> ATTGCAGGTGTATCATCAATTATAGGATCAATTAATTTTATTGTAACAATTTTAAATATA<br> CATACAAAAACTCATTCATTAAACTTTTTACCATTATTTTCATGATCAGTTCTAGTTACA<br> GCAATTCTCCTTTTATTATCATTA |
 | _(Obligatoriedad)_ | _(Obligatoria)_ |
 
 <br>
