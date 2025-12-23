@@ -4762,7 +4762,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 | ---: | :--- |
 | Definición | Referencia de los primers de PCR que se utilizaron para amplificar la secuencia del gen, locus o subfragmento objetivo. Si el primer o cebador directo e inverso tienen referencias diferentes, sepárelas con una barra vertical "\|". |
-| Ejemplo | https://doi.org/10.1186/1742-9994-10-34 |
+| Ejemplo | [https://doi.org/10.1186/1742-9994-10-34](https://doi.org/10.1186/1742-9994-10-34) |
 | _(Obligatoriedad)_ | _(Altamente recomendado)_ |
 
 <br>
@@ -4771,7 +4771,8 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 | ---: | :--- |
 | Definición | La secuencia de ADN (ASV). La interpretación taxonómica de la secuencia depende de la tecnología y la librería de referencia disponible en el momento de la publicación. Por eso, el manejo taxonómico más objetivo es la secuencia que puede ser reinterpretada en el futuro. Preferiblemente, use MAYÚSCULAS. Utilice los caracteres clásicos de los nucleótidos del ADN. Las secuencias deben recortarse para secuencias de primers/cebadores y adaptadores, etc. |
-| Ejemplo | TCTATCCTCAATTATAGGTCATAATTCACCATCAGTAGATTTAGGAATTTTCTCTATTCAT<br> ATTGCAGGTGTATCATCAATTATAGGATCAATTAATTTTATTGTAACAATTTTAAATATA<br> CATACAAAAACTCATTCATTAAACTTTTTACCATTATTTTCATGATCAGTTCTAGTTACA<br> GCAATTCTCCTTTTATTATCATTA |
+| Ejemplo | TCTATCCTCAATTATAGGTCATAATTCACCATCAGTAGATTTAGGAATTTTCTCTATTCATAT <br> TGCAGGTGTATCATCAATTATAGGATCAATTAATTTTATTGTAACAATTTTAAATATACATACA <br> AAAACTCATTCATTAAACTTTTTACCATTATTTTCATGATCAGTTCTAGTTACAGCAATTCTC<br>
+CTTTTATTATCATTA |
 | _(Obligatoriedad)_ | _(Obligatoria)_ |
 
 <br>
