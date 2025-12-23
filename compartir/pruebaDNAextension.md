@@ -3915,9 +3915,9 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="project_name">**project_name** (Nombre del proyecto)</a>
 
 | ---: | :--- ||
-| Definición | Nombre del proyecto en el que se desarrolló la secuenciación. ||
-| Ejemplo | Metagenoma de suelo forestal ||
-| _(Obligatoriedad)_ | _(Opcional)_ ||
+| Definición | Nombre del proyecto en el que se desarrolló la secuenciación. |  |
+| Ejemplo | Metagenoma de suelo forestal |  |
+| _(Obligatoriedad)_ | _(Opcional)_ |  |
 
 <br>
 
@@ -4771,7 +4771,8 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 | ---: | :--- |
 | Definición | La secuencia de ADN (ASV). La interpretación taxonómica de la secuencia depende de la tecnología y la librería de referencia disponible en el momento de la publicación. Por eso, el manejo taxonómico más objetivo es la secuencia que puede ser reinterpretada en el futuro. Preferiblemente, use MAYÚSCULAS. Utilice los caracteres clásicos de los nucleótidos del ADN. Las secuencias deben recortarse para secuencias de primers/cebadores y adaptadores, etc. |
-| Ejemplo | TCTATCCTCAATTATAGGTCATAATTCACCATCAGTAGATTTAGGAATTTTCTCTATTCATATTGCAGGTGTATCATCAATTATAGGATCAATTAATTTTATTGTAACAATTTTAAATATACATACAAAAACTCATTCATTAAACTTTTTACCATTATTTTCATGATCAGTTCTAGTTACAGCAATTCTCCTTTTATTATCATTA |
+| Ejemplo | TCTATCCTCAATTATAGGTCATAATTCACCATCAGTAGATTTAGGAATTTTCTCTATTCAT<br>
+ATTGCAGGTGTATCATCAATTATAGGATCAATTAATTTTATTGTAACAATTTTAAATATACATACAAAAACTCATTCATTAAACTTTTTACCATTATTTTCATGATCAGTTCTAGTTACAGCAATTCTCCTTTTATTATCATTA |
 | _(Obligatoriedad)_ | _(Obligatoria)_ |
 
 <br>
