@@ -3872,7 +3872,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 | [**samp_name**<br> (Nombre de la muestra)](#samp_name) | [**project_name**<br> (Nombre del proyecto)](#project_name) | [**experimental_factor**<br> (Factor experimental)](#experimental_factor) | [**samp_taxon_id**<br> (ID del taxón de la muestra)](#samp_taxon_id) |
 | [**neg_cont_type**<br> (Tipo de control negativo)](#neg_cont_type) | [**pos_cont_type**<br> (Tipo de control positivo)](#pos_cont_type) | [**env_broad_scale**<br> (Contexto ambiental a gran escala)](#env_broad_scale) | [**env_local_scale**<br> (Contexto ambiental local)](#env_local_scale) |
 | [**env_medium**<br> (Medio ambiente)](#env_medium) | [**subspecf_gen_lin**<br> (Linaje genético subespecífico)](#subspecf_gen_lin) | [**ploidy**<br> (Ploidía)](#ploidy) | [**num_replicons**<br> (Número de replicones)](#num_replicons) |
-| [**extrachrom_elements**<br> (Elementos extracromosómicos)](#extrachrom_elements) | [**estimated_size**<br> (Tamaño estimado)](#estimated_size) | [**ref_biomaterial**<br> (Ploidía)](#ref_biomaterial) | [**source_mat_id**<br> (Identificadores del material fuente)](#source_mat_id) |
+| [**extrachrom_elements**<br> (Elementos extracromosómicos)](#extrachrom_elements) | [**estimated_size**<br> (Tamaño estimado)](#estimated_size) | [**ref_biomaterial**<br> (Referencia para biomateriales)](#ref_biomaterial) | [**source_mat_id**<br> (Identificadores del material fuente)](#source_mat_id) |
 | [**pathogenicity**<br> (Patogenicidad)](#pathogenicity) | [**biotic_relationship**<br> (Relación biótica observada)](#biotic_relationship) | [**specific_host**<br> (Nombre científico del hospedero)](#specific_host) | [**host_spec_range**<br> (Especificidad o rango del hospedero)](#host_spec_range) |
 | [**host_disease_stat**<br> (Estado de la enfermedad del huésped)](#host_disease_stat) | [**trophic_level**<br> (Nivel trófico)](#trophic_level) | [**propagation**<br> (Propagación)](#propagation) | [**encoded_traits**<br> (Rasgos codificados)](#encoded_traits) |
 | [**rel_to_oxygen**<br> (Relación con el oxígeno)](#rel_to_oxygen) | [**isol_growth_condt**<br> (Condiciones de aislamiento y crecimiento)](#isol_growth_condt) | [**samp_collec_device**<br> (Dispositivo de recolección de muestras)](#samp_collec_device) | [**samp_collec_method**<br> (Método de recolección de muestras)](#samp_collec_method) |
@@ -4033,7 +4033,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 | ---: | :--- |
 | Definición | Publicación primaria si el aislamiento se realizó antes de la publicación del genoma; de lo contrario, informe primario del genoma. |
-| Ejemplo |doi:10.1016/j.syapm.2018.01.009 |
+| Ejemplo | [doi:10.1016/j.syapm.2018.01.009](doi:10.1016/j.syapm.2018.01.009) |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -4771,8 +4771,8 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 | ---: | :--- |
 | Definición | La secuencia de ADN (ASV). La interpretación taxonómica de la secuencia depende de la tecnología y la librería de referencia disponible en el momento de la publicación. Por eso, el manejo taxonómico más objetivo es la secuencia que puede ser reinterpretada en el futuro. Preferiblemente, use MAYÚSCULAS. Utilice los caracteres clásicos de los nucleótidos del ADN. Las secuencias deben recortarse para secuencias de primers/cebadores y adaptadores, etc. |
-| Ejemplo | TCTATCCTCAATTATAGGTCATAATTCACCATCAGTAGATTTAGGAATTTTCTCTATTCATAT <br> TGCAGGTGTATCATCAATTATAGGATCAATTAATTTTATTGTAACAATTTTAAATATACATACA <br> AAAACTCATTCATTAAACTTTTTACCATTATTTTCATGATCAGTTCTAGTTACAGCAATTCTC<br>
-CTTTTATTATCATTA |
+| Ejemplo | TCTATCCTCAATTATAGGTCATAATTCACCATCAGTAGATTTAGGAATTTTCTCTATTCAT<br> ATTGCAGGTGTATCATCAATTATAGGATCAATTAATTTTATTGTAACAATTTTAAATATACA<br> ATCAAAAACTCATTCATTAAACTTTTTACCATTATTTTCATGATCAGTTCTAGTTACAGCA<br>
+ATTCTCCTTTTATTATCATTA |
 | _(Obligatoriedad)_ | _(Obligatoria)_ |
 
 <br>
