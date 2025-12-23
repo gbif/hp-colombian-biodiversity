@@ -3914,10 +3914,10 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 <a id="project_name">**project_name** (Nombre del proyecto)</a>
 
-| ---: | :--- |
-| Definición | Nombre del proyecto en el que se desarrolló la secuenciación. |
-| Ejemplo | Metagenoma de suelo forestal |
-| _(Obligatoriedad)_ | _(Opcional)_ |
+| ---: | :--- ||
+| Definición | Nombre del proyecto en el que se desarrolló la secuenciación. ||
+| Ejemplo | Metagenoma de suelo forestal ||
+| _(Obligatoriedad)_ | _(Opcional)_ ||
 
 <br>
 
