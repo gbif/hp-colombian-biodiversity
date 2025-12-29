@@ -3873,7 +3873,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 | [**samp_taxon_id**<br> (ID del taxón de la muestra)](#samp_taxon_id) | [**neg_cont_type**<br> (Tipo de control negativo)](#neg_cont_type) | [**pos_cont_type**<br> (Tipo de control positivo)](#pos_cont_type) |
 | [**env_broad_scale**<br> (Contexto ambiental a gran escala)](#env_broad_scale) | [**env_local_scale**<br> (Contexto ambiental local)](#env_local_scale) | [**env_medium**<br> (Medio ambiente)](#env_medium) | 
 | [**subspecf_gen_lin**<br> (Linaje genético subespecífico)](#subspecf_gen_lin) | [**ploidy**<br> (Ploidía)](#ploidy) | [**num_replicons**<br> (Número de replicones)](#num_replicons) |
-| [**extrachrom_elements**<br> (Elementos extracromosómicos)](#extrachrom_elements) | [**estimated_size**<br> (Tamaño estimado)](#estimated_size) | [**ref_biomaterial**<br> (Referencia para biomateriales)](#ref_biomaterial) |
+| [**extrachrom_elements**<br> (Elementos extracromosómicos)](#extrachrom_elements) | [**estimated_size**<br> (Tamaño estimado)](#estimated_size_dna) | [**ref_biomaterial**<br> (Referencia para biomateriales)](#ref_biomaterial) |
 | [**source_mat_id**<br> (Identificadores del material fuente)](#source_mat_id) | [**pathogenicity**<br> (Patogenicidad)](#pathogenicity) | [**biotic_relationship**<br> (Relación biótica observada)](#biotic_relationship) | 
 | [**specific_host**<br> (Nombre científico del hospedero)](#specific_host) | [**host_spec_range**<br> (Especificidad o rango del hospedero)](#host_spec_range) | [**host_disease_stat**<br> (Estado de la enfermedad del huésped)](#host_disease_stat) |
 | [**trophic_level**<br> (Nivel trófico)](#trophic_level) | [**propagation**<br> (Propagación)](#propagation) | [**encoded_traits**<br> (Rasgos codificados)](#encoded_traits) |
@@ -3958,7 +3958,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 <br>
 
-<a id="loanIdentifier">**pos_cont_type** (Tipo de control positivo)</a>
+<a id="pos_cont_type">**pos_cont_type** (Tipo de control positivo)</a>
 
 | ---: | :--- |
 | Definición | La sustancia, mezcla, producto o aparato utilizado para verificar que un proceso que forma parte de una investigación arroja un resultado verdaderamente positivo. |
@@ -4030,7 +4030,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 <br>
 
-<a id="estimated_size">**estimated_size** (Tamaño estimado)</a>
+<a id="estimated_size_dna">**estimated_size** (Tamaño estimado)</a>
 
 | ---: | :--- |
 | Definición | Tamaño estimado del genoma antes de la secuenciación. De especial importancia en la secuenciación de genomas (eucariotas), que podrían permanecer en forma de borrador durante un período prolongado o indeterminado. |
