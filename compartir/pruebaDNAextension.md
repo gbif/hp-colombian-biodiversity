@@ -3083,7 +3083,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 | [**qualityRemarks**<br> (Comentarios sobre la calidad)](#qualityRemarks) | [**volume**<br> (Volumen)](#volume) | [**volumeUnit**<br> (Unidad del volumen)](#volumeUnit) |
 | [**weigh**<br> (Peso)](#weigh) | [**weighUnit**<br> (Unidad del peso)](#weighUnit) | [**methodDeterminationWeight**<br> (Método de determinación<br> del peso)](#methodDeterminationWeight) |
 | [**samp_size**<br> (Tamaño de la muestra)](#samp_size) | [**DNAMeltingPoint**<br> (Temperatura de<br> denaturación del ADN)](#DNAMeltingPoint) | [**sieving**<br> (Tamizado)](#sieving) |
-| [**DNADNAHybridization**<br> (Hibridación ADN-ADN)](#DNADNAHybridization) | [**estimated_size**<br> (Tamaño estimado)](#estimated_size) | [**pool_dna_extracts**<br> (Combinación de<br> extractos de ADN)](#pool_dna_extracts) |
+| [**DNADNAHybridization**<br> (Hibridación ADN-ADN)](#DNADNAHybridization) | [**estimated_size**<br> (Tamaño estimado del genoma)](#estimated_size) | [**pool_dna_extracts**<br> (Combinación de<br> extractos de ADN)](#pool_dna_extracts) |
 | [**sampleDesignation**<br> (Designación de la muestra)](#sampleDesignation) |  |  |
 
 <br>
@@ -3266,7 +3266,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 <br>
 
-<a id="estimated_size">**estimated_size** (Tamaño estimado)</a>
+<a id="estimated_size">**estimated_size** (Tamaño estimado del genoma)</a>
 
 | ---: | :--- |
 | Definición | El tamaño estimado del genoma antes de la secuenciación. |
@@ -3875,36 +3875,36 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 | [**subspecf_gen_lin**<br> (Linaje genético subespecífico)](#subspecf_gen_lin) | [**ploidy**<br> (Ploidía)](#ploidy) | [**num_replicons**<br> (Número de replicones)](#num_replicons) |
 | [**extrachrom_elements**<br> (Elementos extracromosómicos)](#extrachrom_elements) | [**estimated_size**<br> (Tamaño estimado)](#estimated_size_dna) | [**ref_biomaterial**<br> (Referencia para biomateriales)](#ref_biomaterial) |
 | [**source_mat_id**<br> (Identificadores del material fuente)](#source_mat_id) | [**pathogenicity**<br> (Patogenicidad)](#pathogenicity) | [**biotic_relationship**<br> (Relación biótica observada)](#biotic_relationship) | 
-| [**specific_host**<br> (Nombre científico del hospedero)](#specific_host) | [**host_spec_range**<br> (Especificidad o rango del hospedero)](#host_spec_range) | [**host_disease_stat**<br> (Estado de la enfermedad del huésped)](#host_disease_stat) |
+| [**specific_host**<br> (Nombre científico del hospedero)](#specific_host) | [**host_spec_range**<br> (Especificidad o rango del hospedero)](#host_spec_range) | [**host_disease_stat**<br> (Estado de enfermedad del hospedero)](#host_disease_stat) |
 | [**trophic_level**<br> (Nivel trófico)](#trophic_level) | [**propagation**<br> (Propagación)](#propagation) | [**encoded_traits**<br> (Rasgos codificados)](#encoded_traits) |
 | [**rel_to_oxygen**<br> (Relación con el oxígeno)](#rel_to_oxygen) | [**isol_growth_condt**<br> (Condiciones de aislamiento y crecimiento)](#isol_growth_condt) | [**samp_collec_device**<br> (Dispositivo de recolección de muestras)](#samp_collec_device) |
 |[**samp_collec_method**<br> (Método de recolección de muestras)](#samp_collec_method) | [**samp_mat_process**<br> (Procesamiento de material de muestra)](#samp_mat_process) | [**size_frac**<br> (Fracción de tamaño seleccionada)](#size_frac) | 
-| [**samp_size**<br> (Cantidad o tamaño de la muestra recolectada)](#samp_size) | [**samp_vol_we_dna_ext**<br> (Volumen o masa de la muestra para la extracción de ADN)](#samp_vol_we_dna_ext) | [**source_uvig**<br> (Fuente de UViGs)](#source_uvig) | 
+| [**samp_size**<br> (Cantidad o tamaño de la muestra recolectada)](#samp_size_dna) | [**samp_vol_we_dna_ext**<br> (Volumen o masa de la muestra para la extracción de ADN)](#samp_vol_we_dna_ext) | [**source_uvig**<br> (Fuente de UViGs)](#source_uvig) | 
 |[**virus_enrich_appr**<br> (Método de enriquecimiento de virus)](#virus_enrich_appr) | [**nucl_acid_ext**<br> (Extracción de ácidos nucleicos)](#nucl_acid_ext) | [**nucl_acid_amp**<br> (Amplificación de ácidos nucleicos)](#nucl_acid_amp) |
 | [**lib_screen**<br> (Estrategia de selección de librerías)](#lib_screen) | [**target_gene**<br> (Gen objetivo)](#target_gene) | [**target_subfragment**<br> (Subfragmento objetivo)](#target_subfragment) | 
 | [**pcr_primers**<br> (Primers de PCR)](#pcr_primers) | [**mid**<br> (Identificadores multiplexados)](#mid) | [**adapters**<br> (Adaptadores)](#adapters) | 
 | [**pcr_cond**<br> (Condiciones de PCR)](#pcr_cond) | [**seq_meth**<br> (Método de secuenciación)](#seq_meth) | [**seq_quality_check**<br> (Control de calidad de la secuencia)](#seq_quality_check) | 
 |[**chimera_check**<br> (Software de verificación de quimeras)](#chimera_check) | [**tax_ident**<br> (Marcador de identidad taxonómica)](#tax_ident) | [**assembly_qual**<br> (Calidad del ensamblaje)](#assembly_qual) |
-| [**assembly_name**<br> (Nombre del ensamblaje)](#assembly_name) | [**assembly_software**<br> (Software de ensamblaje)](#assembly_software) | [**annot**<br> (Anotación)](#annot) | 
+| [**assembly_name**<br> (Nombre del ensamblaje)](#assembly_name) | [**assembly_software**<br> (Software de ensamblaje)](#assembly_software) | [**annot**<br> (Software de anotación)](#annot) | 
 |[**number_contig**<br> (Número de contigs)](#number_contig) | [**feat_pred**<br> (Predicción de características)](#feat_pred) | [**ref_db**<br> (Bases de datos de referencia)](#ref_db) | 
 | [**sim_search_meth**<br> (Método de búsqueda de similitud)](#sim_search_meth) | [**tax_class**<br> (Clasificación taxonómica)](#tax_class) | [**_16s_recover**<br> (16S recuperado)](#_16s_recover) | 
 | [**_16s_recover_software**<br> (Software de recuperación de 16S)](#_16s_recover_software) | [**trnas**<br> (Número de ARNt estándar extraídos)](#trnas) | [**trna_ext_software**<br> (Software de extracción de ARNt)](#trna_ext_software) |
 | [**compl_score**<br> (Puntuación de completitud)](#compl_score) | [**compl_software**<br> (Software de completitud)](#compl_software) | [**compl_appr**<br> (Enfoque de completitud)](#compl_appr) |
 | [**contam_score**<br> (Puntuación de contaminación)](#contam_score) | [**contam_screen_input**<br> (Entrada de detección de contaminación)](#contam_screen_input) | [**contam_screen_param**<br> (Parámetros de detección de contaminación)](#contam_screen_param) |
-| [**decontam_software**<br> (Software de descontaminación)](#decontam_software) | [**sort_tech**<br> (Tecnología de clasificación)](#sort_tech) | [**single_cell_lysis_appr**<br> (Método de lisis de células individuales o partículas virales)](#single_cell_lysis_appr) | 
+| [**decontam_software**<br> (Software de descontaminación)](#decontam_software) | [**sort_tech**<br> (Método de clasificación)](#sort_tech) | [**single_cell_lysis_appr**<br> (Método de lisis de células individuales o partículas virales)](#single_cell_lysis_appr) | 
 | [**single_cell_lysis_prot**<br> (Protocolo del kit de lisis de células individuales o partículas virales)](#single_cell_lysis_prot) | [**wga_amp_appr**<br> (Método de amplificación WGA)](#wga_amp_appr) | [**wga_amp_kit**<br> (Kit de amplificación WGA)](#wga_amp_kit) |
 | [**bin_param**<br> (Parámetros de agrupamiento)](#bin_param) | [**bin_software**<br> (Software de agrupamiento)](#bin_software) | [**reassembly_bin**<br> (Reensamblaje post agrupamiento)](#reassembly_bin) | 
 | [**mag_cov_software**<br> (Software de cobertura MAG)](#mag_cov_software) | [**vir_ident_software**<br> (Software de identificación viral)](#vir_ident_software) | [**pred_genome_type**<br> (Tipo de genoma predicho)](#pred_genome_type) |
 | [**pred_genome_struc**<br> (Estructura genómica predicha)](#pred_genome_struc) | [**detec_type**<br> (Tipo de detección)](#detec_type) | [**otu_class_appr**<br> (Enfoque de clasificación de OTU)](#otu_class_appr) | 
 | [**otu_seq_comp_appr**<br> (Método de comparación de secuencias de OTU)](#otu_seq_comp_appr) | [**otu_db**<br> (base de datos de OTU)](#otu_db) | [**host_pred_appr**<br> (Enfoque de predicción del huésped)](#host_pred_appr) |
-| [**host_pred_est_acc**<br> (Precisión estimada de la predicción del huésped)](#host_pred_est_acc) | [**url**<br> (Recursos electrónicos relevantes)](#url) | [**sop**<br> (Procedimientos operativos estándar pertinentes)](#sop) | 
+| [**host_pred_est_acc**<br> (Precisión estimada de la predicción del huésped)](#host_pred_est_acc) | [**url**<br> (Recursos electrónicos relevantes)](#url) | [**sop**<br> (Procedimientos operativos estándar pertinentes)](#sop_dna) | 
 | [**pcr_primer_forward**<br> (Primer directo de PCR)](#pcr_primer_forward) | [**pcr_primer_reverse**<br> (Primer inverso de PCR)](#pcr_primer_reverse) | [**pcr_primer_name_forward**<br> (Nombre del primer directo de PCR)](#pcr_primer_name_forward) |
 |[**pcr_primer_name_reverse**<br> (Nombre del primer inverso de PCR)](#pcr_primer_name_reverse) | [**pcr_primer_reference**<br> (Referencia de los primers de PCR)](#pcr_primer_reference) | [**DNA_sequence**<br> (Secuencia de ADN)](#DNA_sequence) | 
 | [**concentration**<br> (Concentración)](#concentration) | [**concentrationUnit**<br> (Unidad de concentración)](#concentrationUnit) | [**methodDetermination<br> ConcentrationAndRatios**<br> (Método de determinación de concentración y proporciones)](#methodDeterminationConcentrationAndRatios) |
 | [**ratioOfAbsorbance260_230**<br> (Relación de absorbancia a 260 nm y 230 nm)](#ratioOfAbsorbance260_230) | [**ratioOfAbsorbance260_280**<br> (Relación de absorbancia a 260 nm y 280 nm)](#ratioOfAbsorbance260_280) | [**annealingTemp**<br> (Temperatura de anillamiento)](#annealingTemp) |
 | [**annealingTempUnit**<br> (Unidad de temperatura de anillamiento)](#annealingTempUnit) | [**probeReporter**<br> (Reportero de sonda)](#probeReporter) | [**probeQuencher**<br> (Supresor de sonda)](#probeQuencher) |
 | [**ampliconSize**<br> (Tamaño del amplicón)](#ampliconSize) | [**thresholdQuantificationCycle**<br> (Umbral del ciclo de cuantificación)](#thresholdQuantificationCycle) | [**baselineValue**<br> (Valor base)](#baselineValue) |
-| [**quantificationCycle**<br> (Ciclo de cuantificación)](#quantificationCycle) | [**automaticThreshold<br> QuantificationCycle**<br> (Umbral del ciclo de cuantificación automático)](#automaticThresholdQuantificationCycle) | [**automaticBaselineValue**<br> (Valor base automático)](#automaticBaselineValue) |
+| [**quantificationCycle**<br> (Ciclo de cuantificación)](#quantificationCycle) | [**automaticThreshold<br> QuantificationCycle**<br> (Umbral del ciclo de cuantificación automático)](#automaticThresholdQuantificationCycle) | [**automaticBaselineValue**<br> (Valor de línea base automático)](#automaticBaselineValue) |
 | [**contaminationAssessment**<br> (Evaluación de la contaminación)](#contaminationAssessment) | [**partitionVolume**<br> (Volumen de partición)](#partitionVolume) | [**partitionVolumeUnit**<br> (Unidad del volumen de partición)](#partitionVolumeUnit) |
 | [**estimatedNumberOfCopies**<br> (Número estimado de copias)](#estimatedNumberOfCopies) | [**amplificationReactionVolume**<br> (Unidad del volumen de reacción de amplificación)](#amplificationReactionVolume) | [**amplificationReactionVolumeUnit**<br> (Volumen de partición)](#amplificationReactionVolumeUnit) |
 | [**pcr_analysis_software**<br> (Software de análisis de PCR)](#pcr_analysis_software) | [**experimentalVariance**<br> (Varianza experimental)](#experimentalVariance) | [**pcr_primer_lod**<br> (Límite de detección para primers de PCR)](#pcr_primer_lod) |
@@ -3970,8 +3970,12 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="env_broad_scale">**env_broad_scale** (Contexto ambiental a gran escala)</a>
 
 | ---: | :--- |
-| Definición | En este elemento, se reporta de cuál ecosistema mayoritario provienen los especímenes o muestras. Los sistemas identificados deben tener una granularidad espacial gruesa, para proveer información general del contexto medioambiental donde la muestra fue tomada (p. ej. ¿estaba en el desierto o en el bosque lluvioso?). Se recomienda utilizar subclases de [ENVO pertenecientes a la clase bioma](http://purl.obolibrary.org/obo/ENVO_00000428). Formato (un término): etiquetaTérmino [IDTérmino], Formato (varios términos): etiquetaTérmino [IDTérmino]\|etiquetaTérmino [IDTérmino]\|etiquetaTérmino [IDTérmino]. Si es necesario, solicite nuevos términos en el rastreador ENVO, disponible [aquí](http://www.obofoundry.org/ontology/envo.html).  |
-| Ejemplo | forest biome [ENVO:01000174] <br>  oceanic epipelagic zone biome [ENVO:01000033] <br> tropical moist broadleaf forest biome [ENVO:01000228] |
+| Definición | En este elemento, se reporta de cuál ecosistema mayoritario provienen los especímenes o muestras. Los sistemas identificados deben tener una granularidad espacial gruesa, para proveer información general del contexto medioambiental donde la muestra fue tomada (p. ej. ¿estaba en el desierto o en el bosque lluvioso?). Se recomienda utilizar subclases de ENVO pertenecientes a la clase bioma: http://purl.obolibrary.org/obo/ENVO_00000428. 
+<br>
+<br> Formato (un término): etiquetaTérmino [IDTérmino].
+<br> Formato (varios términos): etiquetaTérmino [IDTérmino] \| etiquetaTérmino [IDTérmino] \| etiquetaTérmino [IDTérmino]. 
+<br> Si es necesario, solicite nuevos términos en el rastreador ENVO, disponible aquí: http://www.obofoundry.org/ontology/envo.html. |
+| Ejemplo | forest biome [ENVO:01000174]  (Anotación de una muestra de suelo de bosque de pino) <br>  oceanic epipelagic zone biome [ENVO:01000033] (Anotación de una muestra de agua de la zona fótica en medio del Océano Atlántico) <br> tropical moist broadleaf forest biome [ENVO:01000228] (Anotación de una muestra de la selva amazónica)|
 | _(Obligatoriedad)_ | _(Recomendado)_ |
 
 <br>
@@ -3979,8 +3983,13 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="env_local_scale">**env_local_scale** (Contexto ambiental local)</a>
 
 | ---: | :--- |
-| Definición | En este elemento, se reporta la entidad o entidades (separadas por una barra vertical “\|”) que están en cercanía a la localidad de los especímenes o muestras, y cree que tienen influencias causales significativas sobre la muestra o especímen. Por favor utilice términos que estén presentes en ENVO [https://purl.bioontology.org/ontology/ENVO](https://purl.bioontology.org/ontology/ENVO) y tengan una granularidad espacial menor a la documentada en env_broad_scale. Formato (un término): EtiquetaTérmino [termID]; Formato (varios términos): EtiquetaTérmino [termID]\|EtiquetaTérmino [termID]\|EtiquetaTérmino [termID]. Si es necesario, solicite nuevos términos en el rastreador ENVO, identificado [aquí](http://www.obofoundry.org/ontology/envo.html). |
-| Ejemplo | litter layer [ENVO:01000338] <br> canopy [ENVO:01001242]<br> pelagic isothermal surface [ENVO:01000080] |
+| Definición | En este elemento, se reporta la entidad o entidades (separadas por una barra vertical “\|”) que están en cercanía a la localidad de los especímenes o muestras, y cree que tienen influencias causales significativas sobre la muestra o especímen. Por favor utilice términos que estén presentes en ENVO [https://purl.bioontology.org/ontology/ENVO](https://purl.bioontology.org/ontology/ENVO) y tengan una granularidad espacial menor a la documentada en env_broad_scale. <br>
+<br>Formato (un término): EtiquetaTérmino [termID]
+<br>Formato (varios términos): EtiquetaTérmino [termID]\|EtiquetaTérmino [termID]\|EtiquetaTérmino [termID]. 
+<br>
+<br>Si es necesario, solicite nuevos términos en el rastreador ENVO, identificado [aquí](http://www.obofoundry.org/ontology/envo.html). |
+| Ejemplo | pelagic isothermal surface [ENVO:01000080]<br>
+canopy [ENVO:01001242] \| herb and fern layer [ENVO:01000337] \| litter layer [ENVO:01000338] \| understory [01000335] \| shrub layer [ENVO:01000336] (Anotación de una muestra agrupada tomada de varias capas de vegetación en un bosque) |
 | _(Obligatoriedad)_ | _(Recomendado)_ |
 
 <br>
@@ -4030,7 +4039,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 <br>
 
-<a id="estimated_size_dna">**estimated_size** (Tamaño estimado)</a>
+<a id="estimated_size">**estimated_size** (Tamaño estimado)</a>
 
 | ---: | :--- |
 | Definición | Tamaño estimado del genoma antes de la secuenciación. De especial importancia en la secuenciación de genomas (eucariotas), que podrían permanecer en forma de borrador durante un período prolongado o indeterminado. |
@@ -4075,10 +4084,10 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 <br>
 
-<a id="specific_host">**specific_host** (Nombre científico del hospedero)</a>
+<a id="specific_host">**specific_host** (Nombre del hospedero específico)</a>
 
 | ---: | :--- |
-| Definición | Si hay un hospedero involucrado, proporcionar su nombre taxónomico o identificador taxonómico del NCBI (o ambiental si no se aisló realmente del hospedero sea muerto o vivo; es decir, un patógeno podría aislarse de una muestra tomada de una superficie de trabajo, etc.) e indique si se trata de un hospedador de laboratorio o natural. |
+| Definición | Si hay un hospedero involucrado, proporcionar su nombre taxonómico o identificador taxonómico del NCBI (o ambiental si no se aisló realmente del hospedero sea muerto o vivo; es decir, un patógeno podría aislarse de una muestra tomada de una superficie de trabajo, etc.) e indique si se trata de un hospedador de laboratorio o natural. |
 | Ejemplo | NCBITaxon:9606<br> _Pitangus sulphuratus_<br> Efluente industrial |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
@@ -4093,7 +4102,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 <br>
 
-<a id="host_disease_stat">**host_disease_stat** (Estado de la enfermedad del huésped)</a>
+<a id="host_disease_stat">**host_disease_stat** (Estado de enfermedad del hospedero)</a>
 
 | ---: | :--- |
 | Definición | Lista de enfermedades diagnosticadas en el hospedero; puede incluir varios diagnósticos. El valor de este campo depende del hospedero; para humanos, los términos deben seleccionarse de la [Ontología de Enfermedades Humanas (DO)](https://www.disease-ontology.org); para enfermedades de hospedero no humanos, se utiliza texto libre. |
@@ -4151,7 +4160,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 | ---: | :--- |
 | Definición | Dispositivo utilizado para la toma de muestras ambientales. Este campo acepta los términos enumerados en la sección de dispositivo de muestreo ambiental " environmental sampling device" [https://bioportal.bioontology.org/ontologies/ENVO](https://bioportal.bioontology.org/ontologies/ENVO). También acepta los términos enumerados en la sección de dispositivo de recolección de muestras "specimen collection device" [http://purl.obolibrary.org/obo/GENEPIO_0002094](http://purl.obolibrary.org/obo/GENEPIO_0002094). |
-| Ejemplo | Muestreo ambiental con hisopo<br> Biopsia<br> Frasco Niskin<br> Núcleo de empuje |
+| Ejemplo |  Hisopo<br> Frasco Niskin<br> Núcleo de empuje |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -4160,7 +4169,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 | ---: | :--- |
 | Definición | El método empleado para recoger la muestra. |
-| Ejemplo | Muestreo ambiental con hisopo<br> Biopsia<br> Frasco Niskin<br> Núcleo de empuje |
+| Ejemplo | Muestreo ambiental <br> Biopsia |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -4183,7 +4192,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 <br>
 
-<a id="samp_size">**samp_size** (Cantidad o tamaño de la muestra recolectada)</a>
+<a id="samp_size_dna">**samp_size** (Cantidad o tamaño de la muestra recolectada)</a>
 
 | ---: | :--- |
 | Definición | La cantidad o tamaño de la muestra (volumen, masa o área) que fue colectada. |
@@ -4312,7 +4321,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="mid">**mid** (Identificadores multiplexados)</a>
 
 | ---: | :--- |
-| Definición | Los códigos de barras moleculares, denominados identificadores multiplexados (MID), se utilizan para etiquetar específicamente muestras únicas en una secuenciación. La secuencia debe indicarse en MAYÚSCULAS. |
+| Definición | Los códigos de barras moleculares, denominados identificadores multiplexados (MIDs), se utilizan para etiquetar específicamente muestras únicas en una secuenciación. La secuencia debe indicarse en MAYÚSCULAS. |
 | Ejemplo | GTGAATAT |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
@@ -4366,7 +4375,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="tax_ident">**tax_ident** (Marcador de identidad taxonómica)</a>
 
 | ---: | :--- |
-| Definición | El o los marcadores filogenéticos utilizados para asignar un nombre de organismo al SAG (genomas amplificados individualmente / single-amplified genomes) o MAGs (genomas ensamblados a partir de metagenomas / metagenome-assembled genomes). |
+| Definición | El o los marcadores filogenéticos utilizados para asignar un nombre de organismo al SAG (Single-amplified genome - Genoma amplificado individualmente) o MAGs (Metagenome-assembled genomes - Genomas ensamblados a partir de metagenomas). |
 | Ejemplo | Otro: gen rpoB |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
@@ -4399,10 +4408,10 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 <br>
 
-<a id="annot">**annot** (Anotación)</a>
+<a id="annot">**annot** (Software de anotación)</a>
 
 | ---: | :--- |
-| Definición | Herramienta utilizada para la anotación o para los casos en que la anotación fue proporcionada por una base de datos de organismos modelo o de una reunión comunitaria en lugar de por un remitente específico. |
+| Definición | Herramienta utilizada para la anotación o para los casos en que la anotación fue proporcionada por una base de datos de organismos modelo o de un trabajo colectivo en lugar de por un remitente específico. |
 | Ejemplo | prokka |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
@@ -4411,7 +4420,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="number_contig">**number_contig** (Número de contigs)</a>
 
 | ---: | :--- |
-| Definición | Número total de contigs en el ensamblaje limpio/sometido que conforma un genoma, SAG (Genomas amplificados individualmente - Single-amplified genomes), MAG (Genomas ensamblados a partir de metagenomas - Metagenome-assembled genomes) o UViG (Genoma de virus no cultivado - Uncultivated Virus Genome) determinado. |
+| Definición | Número total de contigs en el ensamblaje limpio/sometido que conforma un genoma, SAG (Single-amplified genome - Genoma amplificado individualmente), MAG (Metagenome-assembled genomes - Genoma ensamblado a partir de metagenomas) o UViG (Uncultivated Virus Genome - Genoma de virus no cultivado) determinado. |
 | Ejemplo | 40 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
@@ -4438,7 +4447,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="sim_search_meth">**sim_search_meth** (Método de búsqueda de similitud)</a>
 
 | ---: | :--- |
-| Definición | Herramienta utilizada para comparar los ORF (Marcos abiertos de lectura - Open Reading Frames) con la base de datos, junto con la versión y los puntos de corte utilizados. |
+| Definición | Herramienta utilizada para comparar los ORF (Open Reading Frames - Marcos abiertos de lectura) con la base de datos, junto con la versión y los puntos de corte empleados. |
 | Ejemplo | HMMER3;3.1b2;hmmsearch, corte a puntuación mínima de 50 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
@@ -4448,7 +4457,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 | ---: | :--- |
 | Definición | Método utilizado para la clasificación taxonómica, junto con la base de datos de referencia utilizada, el rango de clasificación y los umbrales utilizados para clasificar nuevos genomas. |
-| Ejemplo | vContact vContact2 (referencias de NCBI RefSeq v83, rango de clasificación género, parámetros predeterminados) |
+| Ejemplo | vConTACT vConTACT2 (referencias de NCBI RefSeq v83, rango de clasificación género, parámetros predeterminados) |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -4456,8 +4465,8 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="_16s_recover">**_16s_recover** (16S recuperado)</a>
 
 | ---: | :--- |
-| Definición | ¿Es posible recuperar un gen 16S del SAG (Genoma amplificado individualmente - Single-amplified genome) o MAG (Genoma ensamblado a partir de metagenoma - Metagenome-assembled genome) enviado? |
-| Ejemplo | Si<br> No |
+| Definición | ¿Es posible recuperar un gen 16S del SAG (Single-amplified genome - Genoma amplificado individualmente) o MAG (Metagenome-assembled genome - Genoma ensamblado a partir de metagenoma) enviado? |
+| Ejemplo | Sí<br> No |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -4474,7 +4483,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="trnas">**trnas** (Número de ARNt estándar extraídos)</a>
 
 | ---: | :--- |
-| Definición | El número total de ARNt (ARNs de transferencia) identificados a partir del SAG (Genoma amplificado individualmente - Single-amplified genome) o MAG (Genoma ensamblado a partir de metagenoma - Metagenome-assembled genome). |
+| Definición | El número total de ARNt (ARNs de transferencia) identificados a partir del SAG (Single-amplified genome - Genoma amplificado individualmente) o MAG (Metagenome-assembled genome - Genoma ensamblado a partir de metagenoma). |
 | Ejemplo | 18 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
@@ -4510,7 +4519,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="compl_appr">**compl_appr** (Enfoque de completitud)</a>
 
 | ---: | :--- |
-| Definición | El método utilizado para determinar la completitud de un SAG (Genoma amplificado individualmente - Single-amplified genome) o MAG (Genoma ensamblado a partir de metagenoma - Metagenome-assembled genome) suele emplear un conjunto de genes marcadores conservados o un genoma de referencia estrechamente relacionado. Para la integridad de UViG (Genoma de virus no cultivado - Uncultivated Virus Genome), se incluye el genoma o grupo de referencia utilizado y las características de los contigs que sugieren un genoma completo. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/compl_appr.xml).  |
+| Definición | El método utilizado para determinar la completitud de un SAG (Single-amplified genome - Genoma amplificado individualmente) o MAG (Metagenome-assembled genome - Genoma ensamblado a partir de metagenoma) suele emplear un conjunto de genes marcadores conservados o un genoma de referencia estrechamente relacionado. Para la integridad de UViG (Uncultivated Virus Genome - Genoma de virus no cultivado), se incluyen el genoma o grupo de referencia utilizado y las características de los contigs que sugieren un genoma completo. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/compl_appr.xml).  |
 | Ejemplo | Otro: longitud de UViG comparada con la longitud promedio de los genomas de referencia del género P22virus (NCBI RefSeq v83)<br> Basado en referencia <br> Genes marcadores |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
@@ -4519,7 +4528,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="contam_score">**contam_score** (Puntuación de contaminación)</a>
 
 | ---: | :--- |
-| Definición | La puntuación de contaminación se basa en la fracción de genes de copia única que se observan más de una vez en un genoma de consulta. Se aceptan las siguientes puntuaciones: Borrador de alta calidad: < 5 %, Borrador de calidad media: < 10 %, Borrador de baja calidad: > 10 %. La contaminación debe ser inferior al 5 % para que un SAG (Genoma amplificado individualmente - Single-amplified genome) o MAG (Genoma ensamblado a partir de metagenoma - Metagenome-assembled genome) pueda depositarse en cualquiera de las bases de datos públicas. |
+| Definición | La puntuación de contaminación se basa en la fracción de genes de copia única que se observan más de una vez en un genoma de consulta. Se aceptan las siguientes puntuaciones: Borrador de alta calidad: < 5 %, Borrador de calidad media: < 10 %, Borrador de baja calidad: > 10 %. La contaminación debe ser inferior al 5 % para que un SAG (Single-amplified genome - Genoma amplificado individualmente) o MAG (Metagenome-assembled genome - Genoma ensamblado a partir de metagenoma) pueda depositarse en cualquiera de las bases de datos públicas. |
 | Ejemplo | 1% |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
@@ -4538,7 +4547,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 | ---: | :--- |
 | Definición | Parámetros específicos utilizados en el software de descontaminación, como la base de datos de referencia, la cobertura y los k-mers. También se pueden usar combinaciones de estos parámetros, como k-mer y cobertura, o base de datos de referencia y k-mer. |
-| Ejemplo | k-mer <br> Cobertura<br> Base de datos de referencia |
+| Ejemplo | k-mer |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -4552,7 +4561,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 <br>
 
-<a id="sort_tech">**sort_tech** (Tecnología de clasificación)</a>
+<a id="sort_tech">**sort_tech** (Método de clasificación)</a>
 
 | ---: | :--- |
 | Definición | Método utilizado para clasificar/aislar células o partículas de interés. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/sort_tech.xml).  |
@@ -4582,7 +4591,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="wga_amp_appr">**wga_amp_appr** (Método de amplificación WGA)</a>
 
 | ---: | :--- |
-| Definición | Método utilizado para amplificar el ADN genómico en preparación para la secuenciación. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/wga_amp_appr.xml).<br> WGA: Amplificación del genoma completo - Whole Genome Amplification. |
+| Definición | Método utilizado para amplificar el ADN genómico en preparación para la secuenciación. WGA: Whole Genome Amplification - Amplificación del genoma completo. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/wga_amp_appr.xml). |
 | Ejemplo | Basado en mda<br> Basado en pcr |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
@@ -4619,7 +4628,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 | ---: | :--- |
 | Definición | ¿Se ha realizado un ensamblaje en un grupo genómico extraído de un ensamblaje metagenómico? |
-| Ejemplo | Si<br> No |
+| Ejemplo | Sí<br> No |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -4672,7 +4681,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="otu_class_appr">**otu_class_appr** (Enfoque de clasificación de OTU)</a>
 
 | ---: | :--- |
-| Definición | Valores de corte y agrupamiento utilizados al formar nuevos UViG en OTUs o ASVs a nivel de especie. Cabe destacar que los resultados de la agrupación estándar con un 95 % de ANI (Identidad de nucleótidos promedio - Average Nucleotide Identity) y un 85 % de AF (libre de alineamiento - Alignment-free) deben proporcionarse junto con las OTUs definidas a partir de otro conjunto de umbrales, incluso si estos últimos son los utilizados principalmente durante el análisis. |
+| Definición | Valores de corte y agrupamiento utilizados al formar nuevos UViG en OTUs o ASVs a nivel de especie. Cabe destacar que los resultados de la agrupación estándar con un 95 % de ANI (Average Nucleotide Identity - Identidad de nucleótidos promedio) y un 85 % de AF (Alignment-free - libre de alineamiento) deben proporcionarse junto con las OTUs definidas a partir de otro conjunto de umbrales, incluso si estos últimos son los utilizados principalmente durante el análisis. |
 | Ejemplo | dada2; 1.14.0; ASV <br> 95 % ANI; 85 % AF; clustering incremental voraz |
 | _(Obligatoriedad)_ | _(Altamente recomendado)_ |
 
@@ -4681,7 +4690,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="otu_seq_comp_appr">**otu_seq_comp_appr** (Método de comparación de secuencias de OTU)</a>
 
 | ---: | :--- |
-| Definición | La herramienta y los umbrales utilizado para asignar nombres a los OTUs o ASVs al nivel de especie "species-level". Documentar con la estructura software;versión;parámetros. |
+| Definición | La herramienta y los umbrales utilizados para asignar nombres a los OTUs o ASVs al nivel de especie "species-level". Documentar con la estructura software;versión;parámetros. |
 | Ejemplo | blastn;2.6.0+;e-value cutoff: 0.001 |
 | _(Obligatoriedad)_ | _(Altamente recomendado)_ |
 
@@ -4690,8 +4699,8 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="otu_db">**otu_db** (base de datos de OTU)</a>
 
 | ---: | :--- |
-| Definición | La base de datos de referencia (es decir, las secuencias que no fueron generadas como parte del estudio) utilizadas para asignar la taxonomía a los OTUs o ASVs. |
-| Ejemplo | Genbank nr;221, UNITE;8.2<br> NCBI Viral RefSeq;83 |
+| Definición | La base de datos de referencia (es decir, las secuencias que no fueron generadas como parte del estudio) utilizada para asignar la taxonomía a los OTUs o ASVs. Documentar con la estructura: base de datos;versión. |
+| Ejemplo | Genbank nr;221<br> UNITE;8.2<br> NCBI Viral RefSeq;83 |
 | _(Obligatoriedad)_ | _(Altamente recomendado)_ |
 
 <br>
@@ -4723,7 +4732,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 <br>
 
-<a id="sop">**sop** (Procedimientos operativos estándar pertinentes)</a>
+<a id="sop_dna">**sop** (Procedimientos operativos estándar pertinentes)</a>
 
 | ---: | :--- |
 | Definición | Los procedimientos operativos estándar utilizados en el montaje y/o anotación de los genomas, metagenomas o secuencias ambientales. Usar una referencia a un protocolo bien documentado, por ejemplo [protocols.io](https://www.protocols.io/). |
@@ -4735,7 +4744,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="pcr_primer_forward">**pcr_primer_forward** (Primer directo de PCR)</a>
 
 | ---: | :--- |
-| Definición | La secuencia del primer directo o forward utilizado para el proceso de amplificación del gen, locus o subfragmento objetivo. Si en una misma reacción de PCR hay varios primers directos o inversos, debe haber una fila completa para cada uno de ellos vinculado a la misma ocurrencia de DWC (Registro Biológico). La secuencia del primer debe indicarse en MAYÚSCULAS. |
+| Definición | La secuencia del primer directo o forward utilizado para el proceso de amplificación del gen, locus o subfragmento objetivo. Si en una misma reacción de PCR hay varios primers directos o inversos, debe haber una fila completa para cada uno de ellos, vinculada al mismo registro biológico. La secuencia del primer debe indicarse en MAYÚSCULAS. |
 | Ejemplo | GGACTACHVGGGTWTCTAAT |
 | _(Obligatoriedad)_ | _(Altamente recomendado)_ |
 
@@ -4744,7 +4753,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="pcr_primer_reverse">**pcr_primer_reverse** (Primer inverso de PCR)</a>
 
 | ---: | :--- |
-| Definición | La secuencia del primer inverso o reverse utilizado para el proceso de amplificación del gen, locus o subfragmento objetivo.  Si en una misma reacción de PCR hay varios primers directos o inversos, debe haber una fila completa para cada uno de ellos vinculado a la misma ocurrencia de DWC (Registro Biológico). La secuencia del primer debe indicarse en MAYÚSCULAS. |
+| Definición | La secuencia del primer inverso o reverse utilizado para el proceso de amplificación del gen, locus o subfragmento objetivo.  Si en una misma reacción de PCR hay varios primers directos o inversos, debe haber una fila completa para cada uno de ellos, vinculada al mismo registro biológico. La secuencia del primer debe indicarse en MAYÚSCULAS. |
 | Ejemplo | GGACTACHVGGGTWTCTAAT |
 | _(Obligatoriedad)_ | _(Altamente recomendado)_ |
 
@@ -4753,7 +4762,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="pcr_primer_name_forward">**pcr_primer_name_forward** (Nombre del primer directo de PCR)</a>
 
 | ---: | :--- |
-| Definición | El nombre del primer de PCR directo o forward utilizado para amplificar la secuencia del gen, locus o subfragmento objetivo. Si hay varios primers directos o inversos en una misma reacción de PCR, debe haber una fila completa para cada uno de ellos vinculado a la misma ocurrencia de DWC (Registro Biológico). |
+| Definición | El nombre del primer de PCR directo o forward utilizado para amplificar la secuencia del gen, locus o subfragmento objetivo. Si hay varios primers directos o inversos en una misma reacción de PCR, debe haber una fila completa para cada uno de ellos, vinculada al mismo registro biológico. |
 | Ejemplo | jgLCO1490 |
 | _(Obligatoriedad)_ | _(Altamente recomendado)_ |
 
@@ -4762,7 +4771,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="pcr_primer_name_reverse">**pcr_primer_name_reverse** (Nombre del primer inverso de PCR)</a>
 
 | ---: | :--- |
-| Definición | El nombre del primer de PCR inverso o reverse utilizado para amplificar la secuencia del gen, locus o subfragmento objetivo. Si hay varios cebadores directos o inversos en una misma reacción de PCR, debe haber una fila completa para cada uno de ellos vinculado a la misma ocurrencia de DWC (Registro Biológico). |
+| Definición | El nombre del primer de PCR inverso o reverse utilizado para amplificar la secuencia del gen, locus o subfragmento objetivo. Si hay varios primers directos o inversos en una misma reacción de PCR, debe haber una fila completa para cada uno de ellos, vinculada al mismo registro biológico. |
 | Ejemplo | jgHCO2198 |
 | _(Obligatoriedad)_ | _(Altamente recomendado)_ |
 
@@ -4792,6 +4801,7 @@ ATTCTCCTTTTATTATCATTA |
 | ---: | :--- |
 | Definición | Concentración del ADN (peso ng/volumen µl), ver [http://data.ggbn.org/schemas/ggbn/terms/concentration](http://data.ggbn.org/schemas/ggbn/terms/concentration). |
 | Ejemplo | 67.5 |
+| Elementos relacionados | concentrationUnit |
 | _(Obligatoriedad)_ | _(Recomendado)_ |
 
 <br>
@@ -4801,6 +4811,7 @@ ATTCTCCTTTTATTATCATTA |
 | ---: | :--- |
 | Definición |Unidad utilizada para la medida de concentración, ver [http://data.ggbn.org/schemas/ggbn/terms/concentrationUnit](http://data.ggbn.org/schemas/ggbn/terms/concentrationUnit) |
 | Ejemplo | ng/µl |
+| Elementos relacionados | concentration |
 | _(Obligatoriedad)_ | _(Recomendado)_ |
 
 <br>
@@ -4810,6 +4821,7 @@ ATTCTCCTTTTATTATCATTA |
 | ---: | :--- |
 | Definición | Descripción del método utilizado para medir la concentración, ver [http://data.ggbn.org/schemas/ggbn/terms/methodDeterminationConcentrationAndRatios](http://data.ggbn.org/schemas/ggbn/terms/methodDeterminationConcentrationAndRatios).  |
 | Ejemplo | Nanodrop<br> Qubit |
+| Elementos relacionados | concentration |
 | _(Obligatoriedad)_ | _(Recomendado)_ |
 
 <br>
@@ -4837,6 +4849,7 @@ ATTCTCCTTTTATTATCATTA |
 | ---: | :--- |
 | Definición | La temperatura de reacción durante la cual se realizó la fase de anillamiento de la PCR. |
 | Ejemplo | 60 |
+| Elementos relacionados | annealingTempUnit |
 | _(Obligatoriedad)_ | _(Obligatorio si se presentó fase de anillamiento)_ |
 
 <br>
@@ -4846,6 +4859,7 @@ ATTCTCCTTTTATTATCATTA |
 | ---: | :--- |
 | Definición | Unidad de medida de la temperatura de reacción durante la fase de anillamiento de la PCR. |
 | Ejemplo | Grados centígrados |
+| Elementos relacionados | annealingTemp |
 | _(Obligatoriedad)_ | _(Altamente recomendado)_ |
 
 <br>
@@ -4853,7 +4867,7 @@ ATTCTCCTTTTATTATCATTA |
 <a id="probeReporter">**probeReporter** (Reportero de sonda)</a>
 
 | ---: | :--- |
-| Definición | Tipo de fluoróforo (reportero) utilizado. La sonda se hibrida dentro del ADN objetivo amplificado. La actividad de la Polimerasa degrada la sonda que se hibrido a la plantilla,la sonda libera los fluoróforos y rompe las proximidades del quencher, permitiendo la fluorescencia del fluoróforo. |
+| Definición | Tipo de fluoróforo (reportero) utilizado. La sonda se hibrida dentro del ADN objetivo amplificado. La actividad de la polimerasa degrada la sonda que se hibridó con la plantilla, la sonda libera los fluoróforos y rompe las proximidades del quencher, permitiendo la fluorescencia del fluoróforo. |
 | Ejemplo | FAM |
 | _(Obligatoriedad)_ | _(Altamente recomendado para qPCR)_ |
 
@@ -4880,7 +4894,7 @@ ATTCTCCTTTTATTATCATTA |
 <a id="thresholdQuantificationCycle">**thresholdQuantificationCycle** (Umbral del ciclo de cuantificación)</a>
 
 | ---: | :--- |
-| Definición | Umbral para el cambio en fluorescencia entre señales de ciclos. |
+| Definición | Umbral de cambio en la fluorescencia entre señales de ciclos. |
 | Ejemplo |0.3 |
 | _(Obligatoriedad)_ | _(Altamente recomendado para qPCR)_ |
 
@@ -4899,7 +4913,7 @@ ATTCTCCTTTTATTATCATTA |
 
 | ---: | :--- |
 | Definición | El número de ciclos requerido para que la señal de fluorescencia cruce el valor de umbral para la línea base. Ciclo de cuantificación (Cq), umbral de ciclo (Ct), punto de cruce (Cp), y punto de partida (TOP) se refieren al mismo valor del instrumento de medida en tiempo real. Usar el umbral de ciclo (Cq), es preferible de acuerdo al estándar de datos [RDML (Real-Time PCR Data Markup Language)](http://www.rdml.org). |
-| Ejemplo | 37.94 |
+| Ejemplo | 37.9450950622558 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -4908,16 +4922,16 @@ ATTCTCCTTTTATTATCATTA |
 
 | ---: | :--- |
 | Definición | Especifica si el umbral fue fijado, ya sea por el instrumento o manualmente. |
-| Ejemplo | Si<br> No |
+| Ejemplo | Sí<br> No |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
 
-<a id="automaticBaselineValue">**automaticBaselineValue** (Valor base automático)</a>
+<a id="automaticBaselineValue">**automaticBaselineValue** (Valor de línea base automático)</a>
 
 | ---: | :--- |
 | Definición | Especifica si la línea base fue fijada, ya sea por el instrumento o manualmente. |
-| Ejemplo | Si<br> No |
+| Ejemplo | Sí<br> No |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -4926,7 +4940,7 @@ ATTCTCCTTTTATTATCATTA |
 
 | ---: | :--- |
 | Definición | Especifica si se realizó evaluación de contaminación para ADN o ARN. |
-| Ejemplo | Si<br> No |
+| Ejemplo | Sí<br> No |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -4936,6 +4950,7 @@ ATTCTCCTTTTATTATCATTA |
 | ---: | :--- |
 | Definición | Una estimación precisa del volumen de partición. La suma de las particiones multiplicada por el volumen de partición permitirá calcular el volumen total de la reacción. |
 | Ejemplo | 1 |
+| Elementos relacionados | partitionVolumeUnit |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -4945,6 +4960,7 @@ ATTCTCCTTTTATTATCATTA |
 | ---: | :--- |
 | Definición | Unidad utilizada para el volumen de la partición. |
 | Ejemplo | nl |
+| Elementos relacionados | partitionVolume |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -4963,6 +4979,7 @@ ATTCTCCTTTTATTATCATTA |
 | ---: | :--- |
 | Definición | Volumen de reacción de la PCR. |
 | Ejemplo | 22 |
+| Elementos relacionados | amplificationReactionVolumeUnit |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
@@ -4972,6 +4989,7 @@ ATTCTCCTTTTATTATCATTA |
 | ---: | :--- |
 | Definición | Unidad utilizada para el volumen de reacción de la PCR. Muchos de los instrumentos requieren la preparación de una cantidad inicial de muestra más grande que el volumen finalmente analizado. |
 | Ejemplo | µl |
+| Elementos relacionados | amplificationReactionVolume |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
