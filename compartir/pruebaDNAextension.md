@@ -3970,12 +3970,8 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="env_broad_scale">**env_broad_scale** (Contexto ambiental a gran escala)</a>
 
 | ---: | :--- |
-| Definición | En este elemento, se reporta de cuál ecosistema mayoritario provienen los especímenes o muestras. Los sistemas identificados deben tener una granularidad espacial gruesa, para proveer información general del contexto medioambiental donde la muestra fue tomada (p. ej. ¿estaba en el desierto o en el bosque lluvioso?). Se recomienda utilizar subclases de ENVO pertenecientes a la clase bioma: http://purl.obolibrary.org/obo/ENVO_00000428. 
-<br>
-<br> Formato (un término): etiquetaTérmino [IDTérmino].
-<br> Formato (varios términos): etiquetaTérmino [IDTérmino] \| etiquetaTérmino [IDTérmino] \| etiquetaTérmino [IDTérmino]. 
-<br> Si es necesario, solicite nuevos términos en el rastreador ENVO, disponible aquí: http://www.obofoundry.org/ontology/envo.html. |
-| Ejemplo | forest biome [ENVO:01000174]  (Anotación de una muestra de suelo de bosque de pino) <br>  oceanic epipelagic zone biome [ENVO:01000033] (Anotación de una muestra de agua de la zona fótica en medio del Océano Atlántico) <br> tropical moist broadleaf forest biome [ENVO:01000228] (Anotación de una muestra de la selva amazónica)|
+| Definición | En este elemento, se reporta de cuál ecosistema mayoritario provienen los especímenes o muestras. Los sistemas identificados deben tener una granularidad espacial gruesa, para proveer información general del contexto medioambiental donde la muestra fue tomada (p. ej. ¿estaba en el desierto o en el bosque lluvioso?). Se recomienda utilizar subclases de ENVO pertenecientes a la clase bioma: [http://purl.obolibrary.org/obo/ENVO_00000428](http://purl.obolibrary.org/obo/ENVO_00000428). <br> Formato (un término): etiquetaTérmino [IDTérmino]. <br> Formato (varios términos): etiquetaTérmino [IDTérmino] \| etiquetaTérmino [IDTérmino] \| etiquetaTérmino [IDTérmino]. <br> Si es necesario, solicite nuevos términos en el rastreador ENVO, disponible aquí: [http://www.obofoundry.org/ontology/envo.html](http://www.obofoundry.org/ontology/envo.html). |
+| Ejemplo | forest biome [ENVO:01000174]  (Anotación de una muestra de suelo de bosque de pino) <br> oceanic epipelagic zone biome [ENVO:01000033] (Anotación de una muestra de agua de la zona fótica en medio del Océano Atlántico) <br> tropical moist broadleaf forest biome [ENVO:01000228] (Anotación de una muestra de la selva amazónica)|
 | _(Obligatoriedad)_ | _(Recomendado)_ |
 
 <br>
