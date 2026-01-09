@@ -3979,13 +3979,8 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="env_local_scale">**env_local_scale** (Contexto ambiental local)</a>
 
 | ---: | :--- |
-| Definición | En este elemento, se reporta la entidad o entidades (separadas por una barra vertical “\|”) que están en cercanía a la localidad de los especímenes o muestras, y cree que tienen influencias causales significativas sobre la muestra o especímen. Por favor utilice términos que estén presentes en ENVO [https://purl.bioontology.org/ontology/ENVO](https://purl.bioontology.org/ontology/ENVO) y tengan una granularidad espacial menor a la documentada en env_broad_scale. <br>
-<br>Formato (un término): EtiquetaTérmino [termID]
-<br>Formato (varios términos): EtiquetaTérmino [termID]\|EtiquetaTérmino [termID]\|EtiquetaTérmino [termID]. 
-<br>
-<br>Si es necesario, solicite nuevos términos en el rastreador ENVO, identificado [aquí](http://www.obofoundry.org/ontology/envo.html). |
-| Ejemplo | pelagic isothermal surface [ENVO:01000080]<br>
-canopy [ENVO:01001242] \| herb and fern layer [ENVO:01000337] \| litter layer [ENVO:01000338] \| understory [01000335] \| shrub layer [ENVO:01000336] (Anotación de una muestra agrupada tomada de varias capas de vegetación en un bosque) |
+| Definición | En este elemento, se reporta la entidad o entidades (separadas por una barra vertical “\|”) que están en cercanía a la localidad de los especímenes o muestras, y cree que tienen influencias causales significativas sobre la muestra o especímen. Por favor utilice términos que estén presentes en ENVO [https://purl.bioontology.org/ontology/ENVO](https://purl.bioontology.org/ontology/ENVO) y tengan una granularidad espacial menor a la documentada en env_broad_scale. <br> <br>Formato (un término): EtiquetaTérmino [termID] <br> Formato (varios términos): EtiquetaTérmino [termID] \| EtiquetaTérmino [termID] \| EtiquetaTérmino [termID]. <br> <br>Si es necesario, solicite nuevos términos en el rastreador ENVO, identificado [aquí](http://www.obofoundry.org/ontology/envo.html). |
+| Ejemplo | pelagic isothermal surface [ENVO:01000080]<br> canopy [ENVO:01001242] \| herb and fern layer [ENVO:01000337] \| litter layer [ENVO:01000338] \| understory [01000335] \| shrub layer [ENVO:01000336] (Anotación de una muestra agrupada tomada de varias capas de vegetación en un bosque) |
 | _(Obligatoriedad)_ | _(Recomendado)_ |
 
 <br>
