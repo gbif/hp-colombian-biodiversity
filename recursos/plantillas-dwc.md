@@ -336,6 +336,12 @@ Tambié puede consultar la [documentación oficial de las extensiones](https://r
     
 </details>
 
+<details>
+    <summary markdown="span"><b><a href="https://drive.google.com/uc?export=download&id=1M4NGrvLypCkpkUYVNqyxsNQvOk6BMWc-">Datos derivados de ADN</a></b></summary>
+    <p><i>Revisada y editada 2024-06</i></p>
+    
+</details>
+
 ---
 
 <br>
