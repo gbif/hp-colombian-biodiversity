@@ -3863,6 +3863,1168 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <br>
 <br>
 
+
+### Datos derivados de ADN
+
+
+| Índice |	|	|
+| ---|--- |--- |
+| [**samp_name**<br> (Nombre de la muestra)](#samp_name) | [**project_name**<br> (Nombre del proyecto)](#project_name) | [**experimental_factor**<br> (Factor experimental)](#experimental_factor) |
+| [**samp_taxon_id**<br> (ID del taxón de la muestra)](#samp_taxon_id) | [**neg_cont_type**<br> (Tipo de control negativo)](#neg_cont_type) | [**pos_cont_type**<br> (Tipo de control positivo)](#pos_cont_type) |
+| [**env_broad_scale**<br> (Contexto ambiental a gran escala)](#env_broad_scale) | [**env_local_scale**<br> (Contexto ambiental local)](#env_local_scale) | [**env_medium**<br> (Medio ambiente)](#env_medium) | 
+| [**subspecf_gen_lin**<br> (Linaje genético subespecífico)](#subspecf_gen_lin) | [**ploidy**<br> (Ploidía)](#ploidy) | [**num_replicons**<br> (Número de replicones)](#num_replicons) |
+| [**extrachrom_elements**<br> (Elementos extracromosómicos)](#extrachrom_elements) | [**estimated_size**<br> (Tamaño estimado)](#estimated_size_dna) | [**ref_biomaterial**<br> (Referencia para biomateriales)](#ref_biomaterial) |
+| [**source_mat_id**<br> (Identificadores del material fuente)](#source_mat_id) | [**pathogenicity**<br> (Patogenicidad)](#pathogenicity) | [**biotic_relationship**<br> (Relación biótica observada)](#biotic_relationship) | 
+| [**specific_host**<br> (Nombre científico del hospedero)](#specific_host) | [**host_spec_range**<br> (Especificidad o rango del hospedero)](#host_spec_range) | [**host_disease_stat**<br> (Estado de enfermedad del hospedero)](#host_disease_stat) |
+| [**trophic_level**<br> (Nivel trófico)](#trophic_level) | [**propagation**<br> (Propagación)](#propagation) | [**encoded_traits**<br> (Rasgos codificados)](#encoded_traits) |
+| [**rel_to_oxygen**<br> (Relación con el oxígeno)](#rel_to_oxygen) | [**isol_growth_condt**<br> (Condiciones de aislamiento y crecimiento)](#isol_growth_condt) | [**samp_collec_device**<br> (Dispositivo de recolección de muestras)](#samp_collec_device) |
+|[**samp_collec_method**<br> (Método de recolección de muestras)](#samp_collec_method) | [**samp_mat_process**<br> (Procesamiento de material de muestra)](#samp_mat_process) | [**size_frac**<br> (Fracción de tamaño seleccionada)](#size_frac) | 
+| [**samp_size**<br> (Cantidad o tamaño de la muestra recolectada)](#samp_size_dna) | [**samp_vol_we_dna_ext**<br> (Volumen o masa de la muestra para la extracción de ADN)](#samp_vol_we_dna_ext) | [**source_uvig**<br> (Fuente de UViGs)](#source_uvig) | 
+|[**virus_enrich_appr**<br> (Método de enriquecimiento de virus)](#virus_enrich_appr) | [**nucl_acid_ext**<br> (Extracción de ácidos nucleicos)](#nucl_acid_ext) | [**nucl_acid_amp**<br> (Amplificación de ácidos nucleicos)](#nucl_acid_amp) |
+| [**lib_screen**<br> (Estrategia de selección de librerías)](#lib_screen) | [**target_gene**<br> (Gen objetivo)](#target_gene) | [**target_subfragment**<br> (Subfragmento objetivo)](#target_subfragment) | 
+| [**pcr_primers**<br> (Primers de PCR)](#pcr_primers) | [**mid**<br> (Identificadores multiplexados)](#mid) | [**adapters**<br> (Adaptadores)](#adapters) | 
+| [**pcr_cond**<br> (Condiciones de PCR)](#pcr_cond) | [**seq_meth**<br> (Método de secuenciación)](#seq_meth) | [**seq_quality_check**<br> (Control de calidad de la secuencia)](#seq_quality_check) | 
+|[**chimera_check**<br> (Software de verificación de quimeras)](#chimera_check) | [**tax_ident**<br> (Marcador de identidad taxonómica)](#tax_ident) | [**assembly_qual**<br> (Calidad del ensamblaje)](#assembly_qual) |
+| [**assembly_name**<br> (Nombre del ensamblaje)](#assembly_name) | [**assembly_software**<br> (Software de ensamblaje)](#assembly_software) | [**annot**<br> (Software de anotación)](#annot) | 
+|[**number_contig**<br> (Número de contigs)](#number_contig) | [**feat_pred**<br> (Predicción de características)](#feat_pred) | [**ref_db**<br> (Bases de datos de referencia)](#ref_db) | 
+| [**sim_search_meth**<br> (Método de búsqueda de similitud)](#sim_search_meth) | [**tax_class**<br> (Clasificación taxonómica)](#tax_class) | [**_16s_recover**<br> (16S recuperado)](#_16s_recover) | 
+| [**_16s_recover_software**<br> (Software de recuperación de 16S)](#_16s_recover_software) | [**trnas**<br> (Número de ARNt estándar extraídos)](#trnas) | [**trna_ext_software**<br> (Software de extracción de ARNt)](#trna_ext_software) |
+| [**compl_score**<br> (Puntuación de completitud)](#compl_score) | [**compl_software**<br> (Software de completitud)](#compl_software) | [**compl_appr**<br> (Enfoque de completitud)](#compl_appr) |
+| [**contam_score**<br> (Puntuación de contaminación)](#contam_score) | [**contam_screen_input**<br> (Entrada de detección de contaminación)](#contam_screen_input) | [**contam_screen_param**<br> (Parámetros de detección de contaminación)](#contam_screen_param) |
+| [**decontam_software**<br> (Software de descontaminación)](#decontam_software) | [**sort_tech**<br> (Método de clasificación)](#sort_tech) | [**single_cell_lysis_appr**<br> (Método de lisis de células individuales o partículas virales)](#single_cell_lysis_appr) | 
+| [**single_cell_lysis_prot**<br> (Protocolo del kit de lisis de células individuales o partículas virales)](#single_cell_lysis_prot) | [**wga_amp_appr**<br> (Método de amplificación WGA)](#wga_amp_appr) | [**wga_amp_kit**<br> (Kit de amplificación WGA)](#wga_amp_kit) |
+| [**bin_param**<br> (Parámetros de agrupamiento)](#bin_param) | [**bin_software**<br> (Software de agrupamiento)](#bin_software) | [**reassembly_bin**<br> (Reensamblaje post agrupamiento)](#reassembly_bin) | 
+| [**mag_cov_software**<br> (Software de cobertura MAG)](#mag_cov_software) | [**vir_ident_software**<br> (Software de identificación viral)](#vir_ident_software) | [**pred_genome_type**<br> (Tipo de genoma predicho)](#pred_genome_type) |
+| [**pred_genome_struc**<br> (Estructura genómica predicha)](#pred_genome_struc) | [**detec_type**<br> (Tipo de detección)](#detec_type) | [**otu_class_appr**<br> (Enfoque de clasificación de OTU)](#otu_class_appr) | 
+| [**otu_seq_comp_appr**<br> (Método de comparación de secuencias de OTU)](#otu_seq_comp_appr) | [**otu_db**<br> (base de datos de OTU)](#otu_db) | [**host_pred_appr**<br> (Enfoque de predicción del huésped)](#host_pred_appr) |
+| [**host_pred_est_acc**<br> (Precisión estimada de la predicción del huésped)](#host_pred_est_acc) | [**url**<br> (Recursos electrónicos relevantes)](#url) | [**sop**<br> (Procedimientos operativos estándar pertinentes)](#sop_dna) | 
+| [**pcr_primer_forward**<br> (Primer directo de PCR)](#pcr_primer_forward) | [**pcr_primer_reverse**<br> (Primer inverso de PCR)](#pcr_primer_reverse) | [**pcr_primer_name_forward**<br> (Nombre del primer directo de PCR)](#pcr_primer_name_forward) |
+|[**pcr_primer_name_reverse**<br> (Nombre del primer inverso de PCR)](#pcr_primer_name_reverse) | [**pcr_primer_reference**<br> (Referencia de los primers de PCR)](#pcr_primer_reference) | [**DNA_sequence**<br> (Secuencia de ADN)](#DNA_sequence) | 
+| [**concentration**<br> (Concentración)](#concentration) | [**concentrationUnit**<br> (Unidad de concentración)](#concentrationUnit) | [**methodDetermination<br> ConcentrationAndRatios**<br> (Método de determinación de concentración y proporciones)](#methodDeterminationConcentrationAndRatios) |
+| [**ratioOfAbsorbance260_230**<br> (Relación de absorbancia a 260 nm y 230 nm)](#ratioOfAbsorbance260_230) | [**ratioOfAbsorbance260_280**<br> (Relación de absorbancia a 260 nm y 280 nm)](#ratioOfAbsorbance260_280) | [**annealingTemp**<br> (Temperatura de anillamiento)](#annealingTemp) |
+| [**annealingTempUnit**<br> (Unidad de temperatura de anillamiento)](#annealingTempUnit) | [**probeReporter**<br> (Reportero de sonda)](#probeReporter) | [**probeQuencher**<br> (Supresor de sonda)](#probeQuencher) |
+| [**ampliconSize**<br> (Tamaño del amplicón)](#ampliconSize) | [**thresholdQuantificationCycle**<br> (Umbral del ciclo de cuantificación)](#thresholdQuantificationCycle) | [**baselineValue**<br> (Valor base)](#baselineValue) |
+| [**quantificationCycle**<br> (Ciclo de cuantificación)](#quantificationCycle) | [**automaticThreshold<br> QuantificationCycle**<br> (Umbral del ciclo de cuantificación automático)](#automaticThresholdQuantificationCycle) | [**automaticBaselineValue**<br> (Valor de línea base automático)](#automaticBaselineValue) |
+| [**contaminationAssessment**<br> (Evaluación de la contaminación)](#contaminationAssessment) | [**partitionVolume**<br> (Volumen de partición)](#partitionVolume) | [**partitionVolumeUnit**<br> (Unidad del volumen de partición)](#partitionVolumeUnit) |
+| [**estimatedNumberOfCopies**<br> (Número estimado de copias)](#estimatedNumberOfCopies) | [**amplificationReactionVolume**<br> (Unidad del volumen de reacción de amplificación)](#amplificationReactionVolume) | [**amplificationReactionVolumeUnit**<br> (Volumen de partición)](#amplificationReactionVolumeUnit) |
+| [**pcr_analysis_software**<br> (Software de análisis de PCR)](#pcr_analysis_software) | [**experimentalVariance**<br> (Varianza experimental)](#experimentalVariance) | [**pcr_primer_lod**<br> (Límite de detección para primers de PCR)](#pcr_primer_lod) |
+| [**pcr_primer_loq**<br> (Límite de cuantificación para primers de PCR)](#pcr_primer_loq) | | |
+
+<br>
+<br>
+
+<a id="samp_name">**samp_name** (Nombre de la muestra)</a>
+
+| ---: | :--- |
+| Definición | El nombre de la muestra es el nombre que el investigador elige. Puede tener cualquier formato, pero se sugiere que sea conciso, único y uniforme en su laboratorio, además de lo más informativo posible. Cada nombre de muestra de un mismo remitente debe ser único.|
+| Ejemplo | ISDsoil1 | |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="project_name">**project_name** (Nombre del proyecto)</a>
+
+| ---: | :--- |  |  |
+| Definición | Nombre del proyecto en el que se desarrolló la secuenciación. |  |  |
+| Ejemplo | Metagenoma de suelo forestal |  |  |
+| _(Obligatoriedad)_ | _(Opcional)_ |  |  |
+
+<br>
+
+<a id="experimental_factor">**experimental_factor** (Factor experimental)</a>
+
+| ---: | :--- |
+| Definición | Los factores experimentales son los aspectos variables de un diseño experimental que permiten describir un experimento, o un conjunto de experimentos, con un nivel de detalle cada vez mayor. Este campo acepta términos de ontología de la Ontología de Factores Experimentales (EFO) y/o la Ontología para Investigaciones Biomédicas (OBI). Para consultar los términos de EFO (v 2.95), visite [https://purl.bioontology.org/ontology/EFO](https://purl.bioontology.org/ontology/EFO); para consultar los términos de OBI (v 2018-02-12), visite [http://purl.bioontology.org/ontology/OBI](http://purl.bioontology.org/ontology/OBI). |
+| Ejemplo | time series design [EFO:EFO_0001779] |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="samp_taxon_id">**samp_taxon_id** (ID del taxón de la muestra)</a>
+
+| ---: | :--- |
+| Definición | Identificador taxonómico del NCBI de la muestra. Puede tratarse de una muestra de un solo taxón o de una mezcla de taxones. Utilice "metagenoma sintético" para comunidades simuladas/controles positivos, o "muestra en blanco" para controles negativos. |
+| Ejemplo | Metagenoma intestinal [NCBITaxon:749906] |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="neg_cont_type">**neg_cont_type** (Tipo de control negativo)</a>
+
+| ---: | :--- |
+| Definición | La sustancia o el equipo utilizado como control negativo en una investigación. |
+| Ejemplo | Mezcla de reacción de PCR y agua de grado molecular |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="pos_cont_type">**pos_cont_type** (Tipo de control positivo)</a>
+
+| ---: | :--- |
+| Definición | La sustancia, mezcla, producto o aparato utilizado para verificar que un proceso que forma parte de una investigación arroja un resultado verdaderamente positivo. |
+| Ejemplo |   |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="env_broad_scale">**env_broad_scale** (Contexto ambiental a gran escala)</a>
+
+| ---: | :--- |
+| Definición | En este elemento, se reporta de cuál ecosistema mayoritario provienen los especímenes o muestras. Los sistemas identificados deben tener una granularidad espacial gruesa, para proveer información general del contexto medioambiental donde la muestra fue tomada (p. ej. ¿estaba en el desierto o en el bosque lluvioso?). Se recomienda utilizar subclases de ENVO pertenecientes a la clase bioma: [http://purl.obolibrary.org/obo/ENVO_00000428](http://purl.obolibrary.org/obo/ENVO_00000428). <br> <br> Formato (un término): etiquetaTérmino [IDTérmino]. <br> Formato (varios términos): etiquetaTérmino [IDTérmino] \| etiquetaTérmino [IDTérmino] \| etiquetaTérmino [IDTérmino]. <br> <br> Si es necesario, solicite nuevos términos en el rastreador ENVO, disponible [aquí](http://www.obofoundry.org/ontology/envo.html). |
+| Ejemplo | forest biome [ENVO:01000174]  (Anotación de una muestra de suelo de bosque de pino) <br> oceanic epipelagic zone biome [ENVO:01000033] (Anotación de una muestra de agua de la zona fótica en medio del Océano Atlántico) <br> tropical moist broadleaf forest biome [ENVO:01000228] (Anotación de una muestra de la selva amazónica)|
+| _(Obligatoriedad)_ | _(Recomendado)_ |
+
+<br>
+
+<a id="env_local_scale">**env_local_scale** (Contexto ambiental local)</a>
+
+| ---: | :--- |
+| Definición | En este elemento, se reporta la entidad o entidades (separadas por una barra vertical “\|”) que están en cercanía a la localidad de los especímenes o muestras, y cree que tienen influencias causales significativas sobre la muestra o especímen. Por favor utilice términos que estén presentes en ENVO [https://purl.bioontology.org/ontology/ENVO](https://purl.bioontology.org/ontology/ENVO) y tengan una granularidad espacial menor a la documentada en env_broad_scale. <br> <br>Formato (un término): EtiquetaTérmino [termID] <br> Formato (varios términos): EtiquetaTérmino [termID] \| EtiquetaTérmino [termID] \| EtiquetaTérmino [termID]. <br> <br>Si es necesario, solicite nuevos términos en el rastreador ENVO, identificado [aquí](http://www.obofoundry.org/ontology/envo.html). |
+| Ejemplo | pelagic isothermal surface [ENVO:01000080]<br> canopy [ENVO:01001242] \| herb and fern layer [ENVO:01000337] \| litter layer [ENVO:01000338] \| understory [01000335] \| shrub layer [ENVO:01000336] (Anotación de una muestra agrupada tomada de varias capas de vegetación en un bosque) |
+| _(Obligatoriedad)_ | _(Recomendado)_ |
+
+<br>
+
+<a id="env_medium">**env_medium** (Medio ambiente)</a>
+
+| ---: | :--- |
+| Definición | En este elemento, se reporta cuál material o materiales (separados por una barra vertical “\|”) estaban inmediatamente alrededor de los especímenes o muestras antes del muestreo, utilizando una o más subclases de ENVO pertenecientes a la clase material medioambiental: [https://purl.bioontology.org/ontology/ENVO](https://purl.bioontology.org/ontology/ENVO) <br> <br> Formato (un término): EtiquetaTérmino [termID] <br> Formato (varios términos): EtiquetaTérmino [termID] \| EtiquetaTérmino [termID] \| EtiquetaTérmino [termID]. <br> <br> Si es necesario, solicite nuevos términos en el rastreador ENVO, identificado [aquí](http://www.obofoundry.org/ontology/envo.html). |
+| Ejemplo | soil [ENVO:00001998]<br> wood [ENVO:00002040]<br> rock [ENVO:00001995] |
+| _(Obligatoriedad)_ | _(Recomendado)_ |
+
+<br>
+
+<a id="subspecf_gen_lin">**subspecf_gen_lin** (Linaje genético subespecífico)</a>
+
+| ---: | :--- |
+| Definición | Aquí se debería proporcionar información adicional sobre la singularidad genética del organismo secuenciado, registrando datos adicionales como serovar, serotipo, biotipo, ecotipo o cualquier esquema de tipificación genética relevante, como el plásmido del Grupo I. También puede contener información taxonómica alternativa. Debe incluir tanto el nombre del linaje como su rango, por ejemplo, biovar:abc123. |
+| Ejemplo |serovar:Newport <br>serotipo:O157:H7 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="ploidy">**ploidy** (Ploidía)</a>
+
+| ---: | :--- |
+| Definición | El nivel de ploidía del genoma (p. ej., alopoliploide, haploide, diploide, triploide, tetraploide). Tiene implicaciones para el estudio posterior de genes y regiones duplicados del genoma (y posiblemente para las dificultades en el ensamblaje). Para consultar la terminología, seleccione los términos que figuran en la clase ploidía (PATO:001374) de la Ontología de Calidad Fenotípica (PATO). Para acceder a un explorador de PATO (v 2018-03-27), visite [http://purl.bioontology.org/ontology/PATO](http://purl.bioontology.org/ontology/PATO). |
+| Ejemplo | allopolyploidy [PATO:0001379] <br> haploid [PATO:0001375] <br> diploid [PATO:0001394] <br> triploid [PATO:0001381] <br> tetraploid [PATO:0001382] |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="num_replicons">**num_replicons** (Número de replicones)</a>
+
+| ---: | :--- |
+| Definición | Informa el número de replicones en el genoma nuclear de eucariotas, en el genoma de una bacteria o arquea, o del número de segmentos en un virus segmentado. Siempre se aplica al recuento de cromosomas haploides de un eucariota. |
+| Ejemplo | 2<br> 23<br> 11<br> 1 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="extrachrom_elements">**extrachrom_elements** (Elementos extracromosómicos)</a>
+
+| ---: | :--- |
+| Definición |Si existen plásmidos con consecuencias fenotípicas significativas (p. ej., que determinen la virulencia o la resistencia a antibióticos), megaplásmidos u otros plásmidos (p. ej. _Borrelia_ tiene más de 15 plásmidos). |
+| Ejemplo | 5<br> 22<br> 2 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="estimated_size">**estimated_size** (Tamaño estimado)</a>
+
+| ---: | :--- |
+| Definición | Tamaño estimado del genoma antes de la secuenciación. De especial importancia en la secuenciación de genomas (eucariotas), que podrían permanecer en forma de borrador durante un período prolongado o indeterminado. |
+| Ejemplo | 300000 pb <br> 13.5 kb <br> 4.6 Mb <br> 20 Gb |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="ref_biomaterial">**ref_biomaterial** (Referencia para biomateriales)</a>
+
+| ---: | :--- |
+| Definición | Publicación primaria si el aislamiento se realizó antes de la publicación del genoma; de lo contrario, informe primario del genoma. |
+| Ejemplo | [doi:10.1016/j.syapm.2018.01.009](doi:10.1016/j.syapm.2018.01.009) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="source_mat_id">**source_mat_id** (Identificadores del material fuente)</a>
+
+| ---: | :--- |
+| Definición | Un identificador único asignado a una muestra de material (según la definición de [http://rs.tdwg.org/dwc/terms/materialSampleID](http://rs.tdwg.org/dwc/terms/materialSampleID) y no un registro digital específico de dicha muestra) utilizado para la extracción de ácidos nucleicos y su posterior secuenciación. El identificador puede referirse tanto al material original recolectado como a cualquiera de sus submuestras derivadas. Los calificadores INSDC /specimen_voucher, /bio_material o /culture_collection pueden o no compartir el mismo valor que el campo source_mat_id. Por ejemplo, tanto el calificador /specimen_voucher como source_mat_id pueden contener «UAM:Herps:14», haciendo referencia tanto a la muestra de referencia como al tejido muestreado con el mismo identificador. Sin embargo, el calificador /culture_collection puede referirse a un valor de un cultivo inicial (por ejemplo, ATCC:11775), mientras que source_mat_id se referiría a un identificador de algún cultivo derivado del cual se extrajeron los ácidos nucleicos (por ejemplo, xatc123 o ark:/2154/R2). |
+| Ejemplo | MPI012345 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="pathogenicity">**pathogenicity** (Patogenicidad)</a>
+
+| ---: | :--- |
+| Definición | Para qué organismo es patógena la entidad. |
+| Ejemplo | Humanos<br> Animales<br> Plantas<br> Hongos<br> Bacterias |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="biotic_relationship">**biotic_relationship** (Relación biótica observada)</a>
+
+| ---: | :--- |
+| Definición | Descripción de la(s) relación(es) entre el organismo estudiado y los demás organismos con los que se asocia. Por ejemplo, parásito de la especie X; mutualista de la especie Y. El organismo estudiado es el sujeto de la relación, y los demás organismos son el objeto. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/biotic_relationship.xml). |
+| Ejemplo | De vida libre <br> Mutualismo<br> Comensalismo<br> Simbiosis<br> Parasitismo |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="specific_host">**specific_host** (Nombre del hospedero específico)</a>
+
+| ---: | :--- |
+| Definición | Si hay un hospedero involucrado, proporcionar su nombre taxonómico o identificador taxonómico del NCBI (o ambiental si no se aisló realmente del hospedero sea muerto o vivo; es decir, un patógeno podría aislarse de una muestra tomada de una superficie de trabajo, etc.) e indique si se trata de un hospedador de laboratorio o natural. |
+| Ejemplo | NCBITaxon:9606<br> _Pitangus sulphuratus_<br> Efluente industrial |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="host_spec_range">**host_spec_range** (Especificidad o rango del hospedero)</a>
+
+| ---: | :--- |
+| Definición | El identificador taxonómico NCBI del hospedero específico, si se conoce. |
+| Ejemplo | 9606<br> 8553<br> 6785<br> 9776<br> 4577 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="host_disease_stat">**host_disease_stat** (Estado de enfermedad del hospedero)</a>
+
+| ---: | :--- |
+| Definición | Lista de enfermedades diagnosticadas en el hospedero; puede incluir varios diagnósticos. El valor de este campo depende del hospedero; para humanos, los términos deben seleccionarse de la [Ontología de Enfermedades Humanas (DO)](https://www.disease-ontology.org); para enfermedades de hospedero no humanos, se utiliza texto libre. |
+| Ejemplo | Muerto<br> Bartonelosis<br> Fiebre amarilla<br> Tuberculosis<br> Pericarditis |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="trophic_level">**trophic_level** (Nivel trófico)</a>
+
+| ---: | :--- |
+| Definición | Los niveles tróficos son la posición en una cadena alimentaria. Los microbios pueden ser productores de diversos tipos (por ejemplo, quimiolitótrofos). [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/trophic_level.xml). |
+| Ejemplo | Heterótrofo<br> Autótrofo<br> Quimiótrofo<br> Metilotrofo<br> Mixótrofo |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="propagation">**propagation** (Propagación)</a>
+
+| ---: | :--- |
+| Definición | Este campo es específico para diferentes taxones. Para fagos: lítica/lisogénica; para plásmidos: grupo de incompatibilidad; para eucariotas: sexual/asexual (Nota: existe la opinión generalizada de que la propagación de fagos debe denominarse obligatoriamente lítica o temperada; por lo tanto, también se incluye esa opción). |
+| Ejemplo | Lítica<br> Lisogénica<br> IncI1<br> Sexual<br> Asexual |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="encoded_traits">**encoded_traits** (Rasgos codificados)</a>
+
+| ---: | :--- |
+| Definición | Debe incluir características clave como la resistencia a antibióticos o los fenotipos de degradación de xenobióticos para plásmidos, y genes de conversión para fagos. |
+| Ejemplo | Beta-lactamasa clase A<br>  α-hemolisina<br> Proteínas efectoras del sistema de secreción tipo III <br> Sintetasa de péptidos no ribosómicos |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="rel_to_oxygen">**rel_to_oxygen** (Relación con el oxígeno)</a>
+
+| ---: | :--- |
+| Definición | ¿Este organismo es aerobio o anaerobio? Tenga en cuenta que aerobio y anaerobio son descriptores válidos para entornos microbianos. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/rel_to_oxygen.xml).  |
+| Ejemplo | Aerobio<br> Anaerobio<br> Facultativo<br> Microaerófilo<br> Microanaerobio |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="isol_growth_condt">**isol_growth_condt** (Condiciones de aislamiento y crecimiento)</a>
+
+| ---: | :--- |
+| Definición | Referencia de la publicación en forma de identificador PubMed (PMID), identificador de objeto digital (DOI) o URL para las especificaciones de aislamiento y condiciones de crecimiento del organismo/material. |
+| Ejemplo | doi: 10.1016/j.syapm.2018.01.009 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="samp_collec_device">**samp_collec_device** (Dispositivo de recolección de muestras)</a>
+
+| ---: | :--- |
+| Definición | Dispositivo utilizado para la toma de muestras ambientales. Este campo acepta los términos enumerados en la sección de dispositivo de muestreo ambiental " environmental sampling device" [https://bioportal.bioontology.org/ontologies/ENVO](https://bioportal.bioontology.org/ontologies/ENVO). También acepta los términos enumerados en la sección de dispositivo de recolección de muestras "specimen collection device" [http://purl.obolibrary.org/obo/GENEPIO_0002094](http://purl.obolibrary.org/obo/GENEPIO_0002094). |
+| Ejemplo |  Hisopo<br> Frasco Niskin<br> Núcleo de empuje |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="samp_collec_method">**samp_collec_method** (Método de recolección de muestras)</a>
+
+| ---: | :--- |
+| Definición | El método empleado para recoger la muestra. |
+| Ejemplo | Muestreo ambiental <br> Biopsia |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="samp_mat_process">**samp_mat_process** (Procesamiento de material de muestra)</a>
+
+| ---: | :--- |
+| Definición | Cualquier proceso aplicado a la muestra durante o después de extraerla del medio ambiente. Este elemento acepta [términos OBI (v 2018-02-12)](http://purl.bioontology.org/ontology/OBI). |
+| Ejemplo | Filtrado de agua de mar<br> Almacenamiento de muestras en etanol<br>|
+| _(Obligatoriedad)_ | _(Recomendado)_ |
+
+<br>
+
+<a id="size_frac">**size_frac** (Fracción de tamaño seleccionada)</a>
+
+| ---: | :--- |
+| Definición | El tamaño del poro de filtrado utilizado en la preparación de la muestra. |
+| Ejemplo | 0-0.22 micrometros |
+| _(Obligatoriedad)_ | _(Recomendado)_ |
+
+<br>
+
+<a id="samp_size_dna">**samp_size** (Cantidad o tamaño de la muestra recolectada)</a>
+
+| ---: | :--- |
+| Definición | La cantidad o tamaño de la muestra (volumen, masa o área) que fue colectada. |
+| Ejemplo | 5 litros<br> 10 gramos<br> 1 centímetro cuadrado |
+| _(Obligatoriedad)_ | _(Recomendado)_ |
+
+<br>
+
+<a id="samp_vol_we_dna_ext">**samp_vol_we_dna_ext** (Volumen o masa de la muestra para la extracción de ADN)</a>
+
+| ---: | :--- |
+| Definición | Volumen (ml) o masa (g) de la muestra total recolectada y procesada para la extracción de ADN. Nota: la cantidad total de muestra recolectada debe ingresarse en el campo samp_size (MIXS:0000001). |
+| Ejemplo | 1500 mililitros |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="source_uvig">**source_uvig** (Fuente de UViGs)</a>
+
+| ---: | :--- |
+| Definición | Tipo de conjunto de datos del que se obtuvo el UViG (Genoma de virus no cultivado - Uncultivated Virus Genome). |
+| Ejemplo | Metagenoma de fracción viral (viroma) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="virus_enrich_appr">**virus_enrich_appr** (Método de enriquecimiento de virus)</a>
+
+| ---: | :--- |
+| Definición | Lista de métodos utilizados para enriquecer la muestra con virus, si los hay. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/virus_enrich_appr.xml). |
+| Ejemplo | Filtración + Precipitación con FeCl + Ultracentrifugación + ADNasa |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="nucl_acid_ext">**nucl_acid_ext** (Extracción de ácidos nucleicos)</a>
+
+| ---: | :--- |
+| Definición | Un enlace a una referencia bibliográfica, un recurso electrónico o un procedimiento operativo estándar (SOP) que describa la separación del material para recuperar la fracción de ácidos nucleicos de una muestra. |
+| Ejemplo |[https://mobio.com/media/wysiwyg/pdfs/protocols/12888.pdf](https://mobio.com/media/wysiwyg/pdfs/protocols/12888.pdf) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="nucl_acid_amp">**nucl_acid_amp** (Amplificación de ácidos nucleicos)</a>
+
+| ---: | :--- |
+| Definición | Un enlace a una referencia bibliográfica, recurso electrónico o procedimiento operativo estándar (SOP) que describa la amplificación enzimática (PCR, TMA, NASBA) de ácidos nucleicos específicos. |
+| Ejemplo | [https://phylogenomics.me/protocols/16s-pcr-protocol/](https://phylogenomics.me/protocols/16s-pcr-protocol/) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="lib_size">**lib_size** (Tamaño de la librería)</a>
+
+| ---: | :--- |
+| Definición |Número total de clones en la librería preparada para el proyecto. |
+| Ejemplo | 50 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="lib_reads_seqd">**lib_reads_seqd** (Lecturas de librería secuenciadas)</a>
+
+| ---: | :--- |
+| Definición | Número total de clones secuenciados de la librería. |
+| Ejemplo | 20 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="lib_layout">**lib_layout** (Diseño de la librería)</a>
+
+| ---: | :--- |
+| Definición | Especifica si se espera una configuración de lecturas individual, pareada o de otro tipo. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/lib_layout.xml).  |
+| Ejemplo | Pareada<br> individual<br> Vector<br> Otra |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="lib_vector">**lib_vector** (Vector de librería)</a>
+
+| ---: | :--- |
+| Definición | Tipo(s) de vector(es) de clonación utilizados en la construcción de librerías. |
+| Ejemplo | Bacteriófago P1 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="lib_screen">**lib_screen** (Estrategia de selección de librerías)</a>
+
+| ---: | :--- |
+| Definición | Métodos específicos de enriquecimiento o filtrado aplicados antes y/o después de la creación de librerías. |
+| Ejemplo | Enriquecido, filtrado, normalizado |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="target_gene">**target_gene** (Gen objetivo)</a>
+
+| ---: | :--- ||
+| Definición | Nombre del gen o locus objetivo para estudios basados en marcadores. ||
+| Ejemplo | 16S rRNA<br> 18S rRNA<br> ITS ||
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ ||
+
+<br>
+
+<a id="target_subfragment">**target_subfragment** (Subfragmento objetivo)</a>
+
+| ---: | :--- |
+| Definición | Nombre del subfragmento de un gen o locus. Importante, por ejemplo para identificar regiones especiales en genes marcadores como la región hipervariable V6 del gen rRNA 16S. |
+| Ejemplo | V6<br> V9<br> ITS |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
+
+<br>
+
+<a id="pcr_primers">**pcr_primers** (Primers de PCR)</a>
+
+| ---: | :--- |
+| Definición | Primers o cebadores de PCR utilizados para amplificar la secuencia del gen, locus o subfragmento objetivo. Este campo debe incluir todos los primers empleados en una misma reacción de PCR si se utilizan varios primers directos o inversos. La secuencia de los primers debe indicarse en MAYÚSCULAS. |
+| Ejemplo | FWD:GTGCCAGCMGCCGCGGTAA;REV:GGACTACHVGGGTWTCTAAT |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="mid">**mid** (Identificadores multiplexados)</a>
+
+| ---: | :--- |
+| Definición | Los códigos de barras moleculares, denominados identificadores multiplexados (MIDs), se utilizan para etiquetar específicamente muestras únicas en una secuenciación. La secuencia debe indicarse en MAYÚSCULAS. |
+| Ejemplo | GTGAATAT |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="adapters">**adapters** (Adaptadores)</a>
+
+| ---: | :--- |
+| Definición | Los adaptadores proporcionan secuencias de priming o cebado tanto para la amplificación como para la secuenciación de los fragmentos de la librería de muestras. Ambos adaptadores deben indicarse en MAYÚSCULAS. |
+| Ejemplo | AATGATACGGCGACCACCGAGATCTACACGCT;CAAGCAGAAGACGGCATACGAGAT |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="pcr_cond">**pcr_cond** (Condiciones de PCR)</a>
+
+| ---: | :--- |
+| Definición | Descripción de las condiciones de reacción y componentes de la PCR siguiendo la estructura "desnaturalización inicial:94degC_1.5min; anillado=…" |
+| Ejemplo | desnaturalización inicial:94_3; anillado:50_1;  elongación:72_1.5; elongación final:72_10;35 |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
+
+<br>
+
+<a id="seq_meth">**seq_meth** (Método de secuenciación)</a>
+
+| ---: | :--- |
+| Definición | El método o plataforma de secuenciación utilizada. Siempre que sea posible, el término deberá tomarse de la lista [OBI de secuenciadores de ADN](http://purl.obolibrary.org/obo/OBI_0400103). |
+| Ejemplo | Illumina HiSeq 1500<br> Oxford Nanopore PromethION<br> PacBio Sequel<br> Illumina MiniSeq<br> Oxford Nanopore MinION |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
+
+<br>
+
+<a id="seq_quality_check">**seq_quality_check** (Control de calidad de la secuencia)</a>
+
+| ---: | :--- |
+| Definición | Indique si la secuencia ha sido identificada por sistemas automáticos (ninguno) o si ha sido objeto de un procedimiento de edición manual (p. ej., mediante la inspección de los datos brutos o los cromatogramas). Esto se aplica únicamente a las secuencias que no se envían a SRA, ENA o DRA. |
+| Ejemplo | Ninguno |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="chimera_check">**chimera_check** (Software de verificación de quimeras)</a>
+
+| ---: | :--- |
+| Definición | Una secuencia quimérica, o quimera, es una secuencia compuesta por dos o más secuencias parentales filogenéticamente distintas. Las quimeras suelen ser artefactos de la PCR que se cree que ocurren cuando un amplicón terminado prematuramente se vuelve a unir a una hebra de ADN extraña y se copia completamente en los ciclos de PCR siguientes. El punto en el que la secuencia quimérica cambia de un parental al siguiente se denomina punto de ruptura o punto de conversión. Documentar con la estructura software;versión;parámetros |
+| Ejemplo | uchime;v4.1;parámetros predeterminados |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="tax_ident">**tax_ident** (Marcador de identidad taxonómica)</a>
+
+| ---: | :--- |
+| Definición | El o los marcadores filogenéticos utilizados para asignar un nombre de organismo al SAG (Single-amplified genome - Genoma amplificado individualmente) o MAGs (Metagenome-assembled genomes - Genomas ensamblados a partir de metagenomas). |
+| Ejemplo | Otro: gen rpoB |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="assembly_qual">**assembly_qual** (Calidad del ensamblaje)</a>
+
+| ---: | :--- |
+| Definición | La categoría de calidad del ensamblaje se basa en conjuntos de criterios específicos para cada categoría. Para MISAG/MIMAG; Finalizado: Secuencia única, validada y contigua por replicón, sin gaps ni ambigüedades, con una tasa de error de consenso equivalente a Q50 o mejor. Borrador de alta calidad: Múltiples fragmentos con gaps que abarcan regiones repetitivas. Presencia de los genes de ARNr 23S, 16S y 5S, y al menos 18 ARNt. Borrador de calidad media: Numerosos fragmentos con poca o ninguna revisión del ensamblaje, más allá del reporte de las estadísticas estándar. Borrador de baja calidad: Numerosos fragmentos con poca o ninguna revisión del ensamblaje, más allá del reporte de las estadísticas estándar. Las estadísticas del ensamblaje incluyen, entre otras, el tamaño total del ensamblaje, el número de contigs, N50/L50 de los contigs y la longitud máxima de los contigs. Para MIUVIG: Finalizado: Secuencia única, validada y contigua por replicón, sin gaps ni ambigüedades, con una revisión y edición manual exhaustiva para anotar las posibles funciones génicas y unidades transcripcionales. Borrador de genoma de alta calidad: Uno o varios fragmentos que representan ≥ 90 % de la secuencia esperada del genoma o replicón, o que se predice completo. Fragmento(s) de genoma: Uno o varios fragmentos que representan < 90 % de la secuencia esperada del genoma o replicón, o para los cuales no se pudo estimar el tamaño del genoma. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/assembly_qual.xml).  |
+| Ejemplo | Genoma finalizado<br> Borrador de genoma de alta calidad<br> Borrador de genoma de baja calidad<br> Fragmentos de genoma |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="assembly_name">**assembly_name** (Nombre del ensamblaje)</a>
+
+| ---: | :--- |
+| Definición | Nombre/versión del ensamblaje proporcionado por el remitente que se utiliza en los navegadores genómicos y en la comunidad. |
+| Ejemplo | HuRef, JCVI_ISG_i3_1.0 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="assembly_software">**assembly_software** (Software de ensamblaje)</a>
+
+| ---: | :--- |
+| Definición | Herramienta(s) utilizada(s) para el ensamblaje, incluyendo número de versión y parámetros. |
+| Ejemplo | metaSPAdes;3.11.0;kmer set 21,33,55,77,99,121, parámetros predeterminados en caso contrario |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="annot">**annot** (Software de anotación)</a>
+
+| ---: | :--- |
+| Definición | Herramienta utilizada para la anotación o para los casos en que la anotación fue proporcionada por una base de datos de organismos modelo o de un trabajo colectivo en lugar de por un remitente específico. |
+| Ejemplo | prokka |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="number_contig">**number_contig** (Número de contigs)</a>
+
+| ---: | :--- |
+| Definición | Número total de contigs en el ensamblaje limpio/sometido que conforma un genoma, SAG (Single-amplified genome - Genoma amplificado individualmente), MAG (Metagenome-assembled genomes - Genoma ensamblado a partir de metagenomas) o UViG (Uncultivated Virus Genome - Genoma de virus no cultivado) determinado. |
+| Ejemplo | 40 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="feat_pred">**feat_pred** (Predicción de características)</a>
+
+| ---: | :--- |
+| Definición | Método utilizado para predecir características de UViGs (Genoma de virus no cultivado - Uncultivated Virus Genome) como ORFs (Marcos abiertos de lectura - Open Reading Frames), sitio de integración, etc. Documentar con la estructura software;versión;parámetros. |
+| Ejemplo | Prodigal;2.6.3;parámetros predeterminados |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="ref_db">**ref_db** (Bases de datos de referencia)</a>
+
+| ---: | :--- |
+| Definición | Lista de bases de datos utilizadas para la anotación de ORF (Marcos abiertos de lectura - Open Reading Frames), junto con el número de versión y la referencia al sitio web o publicación. |
+| Ejemplo | pVOGs;5;[http://dmk-brain.ecn.uiowa.edu/pVOGs/](http://dmk-brain.ecn.uiowa.edu/pVOGs/) Grazziotin et al. 2017 [doi:10.1093/nar/gkw975](doi:10.1093/nar/gkw975) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="sim_search_meth">**sim_search_meth** (Método de búsqueda de similitud)</a>
+
+| ---: | :--- |
+| Definición | Herramienta utilizada para comparar los ORF (Open Reading Frames - Marcos abiertos de lectura) con la base de datos, junto con la versión y los puntos de corte empleados. |
+| Ejemplo | HMMER3;3.1b2;hmmsearch, corte a puntuación mínima de 50 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="tax_class">**tax_class** (Clasificación taxonómica)</a>
+
+| ---: | :--- |
+| Definición | Método utilizado para la clasificación taxonómica, junto con la base de datos de referencia utilizada, el rango de clasificación y los umbrales utilizados para clasificar nuevos genomas. |
+| Ejemplo | vConTACT vConTACT2 (referencias de NCBI RefSeq v83, rango de clasificación género, parámetros predeterminados) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="_16s_recover">**_16s_recover** (16S recuperado)</a>
+
+| ---: | :--- |
+| Definición | ¿Es posible recuperar un gen 16S del SAG (Single-amplified genome - Genoma amplificado individualmente) o MAG (Metagenome-assembled genome - Genoma ensamblado a partir de metagenoma) enviado? |
+| Ejemplo | Sí<br> No |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="_16s_recover_software">**_16s_recover_software** (Software de recuperación de 16S)</a>
+
+| ---: | :--- |
+| Definición | Herramientas utilizadas para la extracción del gen 16S a partir de ARNr. Documentar con la estructura software;versión;parámetros.  |
+| Ejemplo | rambl;v2;parámetros predeterminados |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="trnas">**trnas** (Número de ARNt estándar extraídos)</a>
+
+| ---: | :--- |
+| Definición | El número total de ARNt (ARNs de transferencia) identificados a partir del SAG (Single-amplified genome - Genoma amplificado individualmente) o MAG (Metagenome-assembled genome - Genoma ensamblado a partir de metagenoma). |
+| Ejemplo | 18 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="trna_ext_software">**trna_ext_software** (Software de extracción de ARNt)</a>
+
+| ---: | :--- |
+| Definición | Herramientas utilizadas para la identificación de ARNt (ARN de transferencia). Documentar con la estructura software;versión;parámetros. |
+| Ejemplo | infernal;v2;parámetros predeterminados |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="compl_score">**compl_score** (Puntuación de completitud)</a>
+
+| ---: | :--- |
+| Definición | La puntuación de completitud se basa normalmente en la fracción de marcadores encontrados en comparación con una base de datos o en el porcentaje de genoma encontrado en comparación con un genoma de referencia estrechamente relacionado. Los borradores de alta calidad (>90%), de calidad media (>50%) y de baja calidad (<50%) deberían tener las puntuaciones de completitud indicadas. Documentar con la estructura calidad; porcentaje de integridad. |
+| Ejemplo | med;60%<br> alt;97%<br> baj;35% |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="compl_software">**compl_software** (Software de completitud)</a>
+
+| ---: | :--- |
+| Definición | Herramientas utilizadas para la estimación de completitud, como checkm, anvi´o, busco. |
+| Ejemplo | checkm |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="compl_appr">**compl_appr** (Enfoque de completitud)</a>
+
+| ---: | :--- |
+| Definición | El método utilizado para determinar la completitud de un SAG (Single-amplified genome - Genoma amplificado individualmente) o MAG (Metagenome-assembled genome - Genoma ensamblado a partir de metagenoma) suele emplear un conjunto de genes marcadores conservados o un genoma de referencia estrechamente relacionado. Para la integridad de UViG (Uncultivated Virus Genome - Genoma de virus no cultivado), se incluyen el genoma o grupo de referencia utilizado y las características de los contigs que sugieren un genoma completo. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/compl_appr.xml).  |
+| Ejemplo | Otro: longitud de UViG comparada con la longitud promedio de los genomas de referencia del género P22virus (NCBI RefSeq v83)<br> Basado en referencia <br> Genes marcadores |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="contam_score">**contam_score** (Puntuación de contaminación)</a>
+
+| ---: | :--- |
+| Definición | La puntuación de contaminación se basa en la fracción de genes de copia única que se observan más de una vez en un genoma de consulta. Se aceptan las siguientes puntuaciones: Borrador de alta calidad: < 5 %, Borrador de calidad media: < 10 %, Borrador de baja calidad: > 10 %. La contaminación debe ser inferior al 5 % para que un SAG (Single-amplified genome - Genoma amplificado individualmente) o MAG (Metagenome-assembled genome - Genoma ensamblado a partir de metagenoma) pueda depositarse en cualquiera de las bases de datos públicas. |
+| Ejemplo | 1% |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="contam_screen_input">**contam_screen_input** (Entrada de detección de contaminación)</a>
+
+| ---: | :--- |
+| Definición | El tipo de datos de secuencia utilizados como entrada. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/contam_screen_input.xml).  |
+| Ejemplo | contigs<br> reads |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="contam_screen_param">**contam_screen_param** (Parámetros de detección de contaminación)</a>
+
+| ---: | :--- |
+| Definición | Parámetros específicos utilizados en el software de descontaminación, como la base de datos de referencia, la cobertura y los k-mers. También se pueden usar combinaciones de estos parámetros, como k-mer y cobertura, o base de datos de referencia y k-mer. |
+| Ejemplo | k-mer |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="decontam_software">**decontam_software** (Software de descontaminación)</a>
+
+| ---: | :--- |
+| Definición | Herramienta(s) utilizada(s) en la detección de contaminación. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/decontam_software.xml). |
+| Ejemplo | anvi´o<br> checkm/refinem<br> prodege<br> bbtools:decontaminate.sh |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="sort_tech">**sort_tech** (Método de clasificación)</a>
+
+| ---: | :--- |
+| Definición | Método utilizado para clasificar/aislar células o partículas de interés. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/sort_tech.xml).  |
+| Ejemplo | Manipulación óptica<br> Micromanipulación |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="single_cell_lysis_appr">**single_cell_lysis_appr** (Método de lisis de células individuales o partículas virales)</a>
+
+| ---: | :--- |
+| Definición | Método utilizado para liberar el ADN del interior de la(s) célula(s) o partícula(s). [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/single_cell_lysis_appr.xml).  |
+| Ejemplo | Enzimático<br> Químico<br> Físico<br> Combinación |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="single_cell_lysis_prot">**single_cell_lysis_prot** (Protocolo del kit de lisis de células individuales o partículas virales)</a>
+
+| ---: | :--- |
+| Definición | Nombre del kit o protocolo estándar utilizado para la lisis de células o partículas. |
+| Ejemplo | Kit de lisis de células individuales ambion |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="wga_amp_appr">**wga_amp_appr** (Método de amplificación WGA)</a>
+
+| ---: | :--- |
+| Definición | Método utilizado para amplificar el ADN genómico en preparación para la secuenciación. WGA: Whole Genome Amplification - Amplificación del genoma completo. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/wga_amp_appr.xml). |
+| Ejemplo | Basado en mda<br> Basado en pcr |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="wga_amp_kit">**wga_amp_kit** (Kit de amplificación WGA)</a>
+
+| ---: | :--- |
+| Definición | Kit utilizado para amplificar el ADN genómico en preparación para la secuenciación.<br>  WGA: Amplificación del genoma completo - Whole Genome Amplification. |
+| Ejemplo | qiagen repli-g |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="bin_param">**bin_param** (Parámetros de agrupamiento)</a>
+
+| ---: | :--- |
+| Definición | Los parámetros que se han aplicado durante la extracción de genomas a partir de conjuntos de datos metagenómicos. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/bin_param.xml). |
+| Ejemplo | Cobertura y k-mer<br> Búsqueda por homología |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="bin_software">**bin_software** (Software de agrupamiento)</a>
+
+| ---: | :--- |
+| Definición | Herramienta(s) utilizada(s) para la extracción de genomas a partir de conjuntos de datos metagenómicos. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/bin_software.xml).  |
+| Ejemplo | concoct y maxbin<br> metabat<br> maxbin<br> groupm<br> metawatt |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="reassembly_bin">**reassembly_bin** (Reensamblaje post agrupamiento)</a>
+
+| ---: | :--- |
+| Definición | ¿Se ha realizado un ensamblaje en un grupo genómico extraído de un ensamblaje metagenómico? |
+| Ejemplo | Sí<br> No |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="mag_cov_software">**mag_cov_software** (Software de cobertura MAG)</a>
+
+| ---: | :--- |
+| Definición | Herramienta(s) utilizada(s) para determinar la cobertura del genoma si esta se utiliza como parámetro de agrupamiento en la extracción de genomas a partir de conjuntos de datos metagenómicos. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/mag_cov_software.xml). |
+| Ejemplo | bbmap<br> bwa<br> bowtie |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="vir_ident_software">**vir_ident_software** (Software de identificación viral)</a>
+
+| ---: | :--- |
+| Definición | Herramienta(s) utilizada(s) para la identificación de UViG (Genoma de virus no cultivado - Uncultivated Virus Genome) como genoma viral, nombre del software o protocolo, incluyendo número de versión, parámetros y umbrales utilizados. Documentar con la estructura: nombre del software, versión y parámetros relevantes. |
+| Ejemplo | VirSorter; 1.0.4; Virome database, categoría 2 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="pred_genome_type">**pred_genome_type** (Tipo de genoma predicho)</a>
+
+| ---: | :--- |
+| Definición | Tipo de genoma previsto para el UViG (Genoma de virus no cultivado - Uncultivated Virus Genome). [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/pred_genome_type.xml). |
+| Ejemplo | ADN de doble cadena<br> ADN monocatenario<br> ARN |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="pred_genome_struc">**pred_genome_struc** (Estructura genómica predicha)</a>
+
+| ---: | :--- |
+| Definición | Estructura esperada del genoma viral. [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/pred_genome_struc.xml).  |
+| Ejemplo | No segmentada<br> Segmentada<br> Indeterminada |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="detec_type">**detec_type** (Tipo de detección)</a>
+
+| ---: | :--- |
+| Definición | Tipo de detección de UViG (Genoma de virus no cultivado - Uncultivated Virus Genome). [Vocabulario sugerido](https://rs.gbif.org/vocabulary/dna/detec_type.xml). |
+| Ejemplo | Secuencia independiente (UViG)<br> Provirus (UpViG) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="otu_class_appr">**otu_class_appr** (Enfoque de clasificación de OTU)</a>
+
+| ---: | :--- |
+| Definición | Valores de corte y agrupamiento utilizados al formar nuevos UViG en OTUs o ASVs a nivel de especie. Cabe destacar que los resultados de la agrupación estándar con un 95 % de ANI (Average Nucleotide Identity - Identidad de nucleótidos promedio) y un 85 % de AF (Alignment-free - libre de alineamiento) deben proporcionarse junto con las OTUs definidas a partir de otro conjunto de umbrales, incluso si estos últimos son los utilizados principalmente durante el análisis. |
+| Ejemplo | dada2; 1.14.0; ASV <br> 95 % ANI; 85 % AF; clustering incremental voraz |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
+
+<br>
+
+<a id="otu_seq_comp_appr">**otu_seq_comp_appr** (Método de comparación de secuencias de OTU)</a>
+
+| ---: | :--- |
+| Definición | La herramienta y los umbrales utilizados para asignar nombres a los OTUs o ASVs al nivel de especie "species-level". Documentar con la estructura software;versión;parámetros. |
+| Ejemplo | blastn;2.6.0+;e-value cutoff: 0.001 |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
+
+<br>
+
+<a id="otu_db">**otu_db** (base de datos de OTU)</a>
+
+| ---: | :--- |
+| Definición | La base de datos de referencia (es decir, las secuencias que no fueron generadas como parte del estudio) utilizada para asignar la taxonomía a los OTUs o ASVs. Documentar con la estructura: base de datos;versión. |
+| Ejemplo | Genbank nr;221<br> UNITE;8.2<br> NCBI Viral RefSeq;83 |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
+
+<br>
+
+<a id="host_pred_appr">**host_pred_appr** (Enfoque de predicción del huésped)</a>
+
+| ---: | :--- |
+| Definición | Herramienta o método utilizado para la predicción del huésped. |
+| Ejemplo | Coincidencia de espaciador CRISPR |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="host_pred_est_acc">**host_pred_est_acc** (Precisión estimada de la predicción del huésped)</a>
+
+| ---: | :--- |
+| Definición | Para cada herramienta o método utilizado para la predicción del huésped, deben incluirse las tasas estimadas de falsos positivos, ya sea calculadas de novo o a partir de la bibliografía. |
+| Ejemplo | Coincidencia del espaciador CRISPR: 0 o 1 desajustes, FDR estimado del 8% en el rango del género huésped (Edwards et al. 2016 doi:10.1093/femsre/fuv048) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="url">**url** (Recursos electrónicos relevantes)</a>
+
+| ---: | :--- |
+| Definición | Un recurso relacionado que se referencia, cita o asocia de alguna otra manera a la secuencia. |
+| Ejemplo |[ https://earthmicrobiome.ucsd.edu/]( https://earthmicrobiome.ucsd.edu/) |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="sop_dna">**sop** (Procedimientos operativos estándar pertinentes)</a>
+
+| ---: | :--- |
+| Definición | Los procedimientos operativos estándar utilizados en el montaje y/o anotación de los genomas, metagenomas o secuencias ambientales. Usar una referencia a un protocolo bien documentado, por ejemplo [protocols.io](https://www.protocols.io/). |
+| Ejemplo | [https://www.protocols.io/view/emp-its-illumina-amplicon-protocol-pa7dihn](https://www.protocols.io/view/emp-its-illumina-amplicon-protocol-pa7dihn) |
+| _(Obligatoriedad)_ | _(Recomendado)_ |
+
+<br>
+
+<a id="pcr_primer_forward">**pcr_primer_forward** (Primer directo de PCR)</a>
+
+| ---: | :--- |
+| Definición | La secuencia del primer directo o forward utilizado para el proceso de amplificación del gen, locus o subfragmento objetivo. Si en una misma reacción de PCR hay varios primers directos o inversos, debe haber una fila completa para cada uno de ellos, vinculada al mismo registro biológico. La secuencia del primer debe indicarse en MAYÚSCULAS. |
+| Ejemplo | GGACTACHVGGGTWTCTAAT |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
+
+<br>
+
+<a id="pcr_primer_reverse">**pcr_primer_reverse** (Primer inverso de PCR)</a>
+
+| ---: | :--- |
+| Definición | La secuencia del primer inverso o reverse utilizado para el proceso de amplificación del gen, locus o subfragmento objetivo.  Si en una misma reacción de PCR hay varios primers directos o inversos, debe haber una fila completa para cada uno de ellos, vinculada al mismo registro biológico. La secuencia del primer debe indicarse en MAYÚSCULAS. |
+| Ejemplo | GGACTACHVGGGTWTCTAAT |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
+
+<br>
+
+<a id="pcr_primer_name_forward">**pcr_primer_name_forward** (Nombre del primer directo de PCR)</a>
+
+| ---: | :--- |
+| Definición | El nombre del primer de PCR directo o forward utilizado para amplificar la secuencia del gen, locus o subfragmento objetivo. Si hay varios primers directos o inversos en una misma reacción de PCR, debe haber una fila completa para cada uno de ellos, vinculada al mismo registro biológico. |
+| Ejemplo | jgLCO1490 |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
+
+<br>
+
+<a id="pcr_primer_name_reverse">**pcr_primer_name_reverse** (Nombre del primer inverso de PCR)</a>
+
+| ---: | :--- |
+| Definición | El nombre del primer de PCR inverso o reverse utilizado para amplificar la secuencia del gen, locus o subfragmento objetivo. Si hay varios primers directos o inversos en una misma reacción de PCR, debe haber una fila completa para cada uno de ellos, vinculada al mismo registro biológico. |
+| Ejemplo | jgHCO2198 |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
+
+<br>
+
+<a id="pcr_primer_reference">**pcr_primer_reference** (Referencia de los primers de PCR)</a>
+
+| ---: | :--- |
+| Definición | Referencia de los primers de PCR que se utilizaron para amplificar la secuencia del gen, locus o subfragmento objetivo. Si el primer o cebador directo e inverso tienen referencias diferentes, sepárelas con una barra vertical "\|". |
+| Ejemplo | [https://doi.org/10.1186/1742-9994-10-34](https://doi.org/10.1186/1742-9994-10-34) |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
+
+<br>
+
+<a id="DNA_sequence">**DNA_sequence** (Secuencia de ADN)</a>
+
+| ---: | :--- |
+| Definición | La secuencia de ADN (ASV). La interpretación taxonómica de la secuencia depende de la tecnología y la librería de referencia disponible en el momento de la publicación. Por eso, el manejo taxonómico más objetivo es la secuencia que puede ser reinterpretada en el futuro. Preferiblemente, use MAYÚSCULAS. Utilice los caracteres clásicos de los nucleótidos del ADN. Las secuencias deben recortarse para secuencias de primers/cebadores y adaptadores, etc. |
+| Ejemplo | TCTATCCTCAATTATAGGTCATAATTCACCATCAGTAGATTTAGGAATTTTCTCTATTCAT<br> ATTGCAGGTGTATCATCAATTATAGGATCAATTAATTTTATTGTAACAATTTTAAATATACA<br> ATCAAAAACTCATTCATTAAACTTTTTACCATTATTTTCATGATCAGTTCTAGTTACAGCA<br>
+ATTCTCCTTTTATTATCATTA |
+| _(Obligatoriedad)_ | _(Obligatorio)_ |
+
+<br>
+
+<a id="concentration">**concentration** (Concentración)</a>
+
+| ---: | :--- |
+| Definición | Concentración del ADN (peso ng/volumen µl), ver [http://data.ggbn.org/schemas/ggbn/terms/concentration](http://data.ggbn.org/schemas/ggbn/terms/concentration). |
+| Ejemplo | 67.5 |
+| Elementos relacionados | concentrationUnit |
+| _(Obligatoriedad)_ | _(Recomendado)_ |
+
+<br>
+
+<a id="concentrationUnit">**concentrationUnit** (Unidad de concentración)</a>
+
+| ---: | :--- |
+| Definición |Unidad utilizada para la medida de concentración, ver [http://data.ggbn.org/schemas/ggbn/terms/concentrationUnit](http://data.ggbn.org/schemas/ggbn/terms/concentrationUnit) |
+| Ejemplo | ng/µl |
+| Elementos relacionados | concentration |
+| _(Obligatoriedad)_ | _(Recomendado)_ |
+
+<br>
+
+<a id="methodDeterminationConcentrationAndRatios">**methodDeterminationConcentrationAndRatios** (Método de determinación de concentración y proporciones)</a>
+
+| ---: | :--- |
+| Definición | Descripción del método utilizado para medir la concentración, ver [http://data.ggbn.org/schemas/ggbn/terms/methodDeterminationConcentrationAndRatios](http://data.ggbn.org/schemas/ggbn/terms/methodDeterminationConcentrationAndRatios).  |
+| Ejemplo | Nanodrop<br> Qubit |
+| Elementos relacionados | concentration |
+| _(Obligatoriedad)_ | _(Recomendado)_ |
+
+<br>
+
+<a id="ratioOfAbsorbance260_230">**ratioOfAbsorbance260_230** (Relación de absorbancia a 260 nm y 230 nm)</a>
+
+| ---: | :--- |
+| Definición | Relación de absorbancia a 260 nm y 230 nm para evaluar la pureza del ADN. (Generalmente una medida secundaria, indicando principalmente EDTA, carbohidratos, fenol) (solo para muestras de ADN). Ver [http://data.ggbn.org/schemas/ggbn/terms/ratioOfAbsorbance260_230](http://data.ggbn.org/schemas/ggbn/terms/ratioOfAbsorbance260_230).  |
+| Ejemplo | 1.89 |
+| _(Obligatoriedad)_ | _(Recomendado)_ |
+
+<br>
+
+<a id="ratioOfAbsorbance260_280">**ratioOfAbsorbance260_280** (Disposición)</a>
+
+| ---: | :--- |
+| Definición | Relación de absorbancia a 260 nm y 280 nm para evaluar la pureza del ADN (generalmente una medida secundaria, indicando principalmente EDTA, carbohidratos, fenol) (solo para muestras de ADN). Ver [http://data.ggbn.org/schemas/ggbn/terms/ratioOfAbsorbance260_280](http://data.ggbn.org/schemas/ggbn/terms/ratioOfAbsorbance260_280).  |
+| Ejemplo | 1.91 |
+| _(Obligatoriedad)_ | _(Recomendado)_ |
+
+<br>
+
+<a id="annealingTemp">**annealingTemp** (Temperatura de anillamiento)</a>
+
+| ---: | :--- |
+| Definición | La temperatura de reacción durante la cual se realizó la fase de anillamiento de la PCR. |
+| Ejemplo | 60 |
+| Elementos relacionados | annealingTempUnit |
+| _(Obligatoriedad)_ | _(Obligatorio si se presentó fase de anillamiento)_ |
+
+<br>
+
+<a id="annealingTempUnit">**annealingTempUnit** (Unidad de temperatura de anillamiento)</a>
+
+| ---: | :--- |
+| Definición | Unidad de medida de la temperatura de reacción durante la fase de anillamiento de la PCR. |
+| Ejemplo | Grados centígrados |
+| Elementos relacionados | annealingTemp |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
+
+<br>
+
+<a id="probeReporter">**probeReporter** (Reportero de sonda)</a>
+
+| ---: | :--- |
+| Definición | Tipo de fluoróforo (reportero) utilizado. La sonda se hibrida dentro del ADN objetivo amplificado. La actividad de la polimerasa degrada la sonda que se hibridó con la plantilla, la sonda libera los fluoróforos y rompe las proximidades del quencher, permitiendo la fluorescencia del fluoróforo. |
+| Ejemplo | FAM |
+| _(Obligatoriedad)_ | _(Altamente recomendado para qPCR)_ |
+
+<br>
+
+<a id="probeQuencher">**probeQuencher** (Supresor de sonda)</a>
+
+| ---: | :--- |
+| Definición | Tipo de supresor o quencher utilizado. La molécula de quencher disminuye la fluorescencia emitida por el fluoróforo cuando es excitada por la fuente de luz del ciclo, siempre y cuando el fluoróforo y el quencher estén cerca, el quencher inhibe cualquier secuencia de fluorescencia. |
+| Ejemplo | NFQ-MGB |
+| _(Obligatoriedad)_ | _(Altamente recomendado para qPCR)_ |
+
+<br>
+
+<a id="ampliconSize">**ampliconSize** (Tamaño del amplicón)</a>
+
+| ---: | :--- |
+| Definición | Longitud del amplicón en pares de bases. |
+| Ejemplo | 83 |
+| _(Obligatoriedad)_ | _(Altamente recomendado)_ |
+
+<br>
+
+<a id="thresholdQuantificationCycle">**thresholdQuantificationCycle** (Umbral del ciclo de cuantificación)</a>
+
+| ---: | :--- |
+| Definición | Umbral de cambio en la fluorescencia entre señales de ciclos. |
+| Ejemplo |0.3 |
+| _(Obligatoriedad)_ | _(Altamente recomendado para qPCR)_ |
+
+<br>
+
+<a id="baselineValue">**baselineValue** (Valor base)</a>
+
+| ---: | :--- |
+| Definición | El número de ciclos cuando la señal de fluorescencia del objetivo de amplificación está por debajo de la fluorescencia de fondo que no es originada por el objetivo real de amplificación. |
+| Ejemplo | 15 |
+| _(Obligatoriedad)_ | _(Altamente recomendado para qPCR)_ |
+
+<br>
+
+<a id="quantificationCycle">**quantificationCycle** (Ciclo de cuantificación)</a>
+
+| ---: | :--- |
+| Definición | El número de ciclos requerido para que la señal de fluorescencia cruce el valor de umbral para la línea base. Ciclo de cuantificación (Cq), umbral de ciclo (Ct), punto de cruce (Cp), y punto de partida (TOP) se refieren al mismo valor del instrumento de medida en tiempo real. Usar el umbral de ciclo (Cq), es preferible de acuerdo al estándar de datos [RDML (Real-Time PCR Data Markup Language)](http://www.rdml.org). |
+| Ejemplo | 37.9450950622558 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="automaticThresholdQuantificationCycle">**automaticThresholdQuantificationCycle** (Umbral del ciclo de cuantificación automático)</a>
+
+| ---: | :--- |
+| Definición | Especifica si el umbral fue fijado, ya sea por el instrumento o manualmente. |
+| Ejemplo | Sí<br> No |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="automaticBaselineValue">**automaticBaselineValue** (Valor de línea base automático)</a>
+
+| ---: | :--- |
+| Definición | Especifica si la línea base fue fijada, ya sea por el instrumento o manualmente. |
+| Ejemplo | Sí<br> No |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="contaminationAssessment">**contaminationAssessment** (Evaluación de la contaminación)</a>
+
+| ---: | :--- |
+| Definición | Especifica si se realizó evaluación de contaminación para ADN o ARN. |
+| Ejemplo | Sí<br> No |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="partitionVolume">**partitionVolume** (Volumen de partición)</a>
+
+| ---: | :--- |
+| Definición | Una estimación precisa del volumen de partición. La suma de las particiones multiplicada por el volumen de partición permitirá calcular el volumen total de la reacción. |
+| Ejemplo | 1 |
+| Elementos relacionados | partitionVolumeUnit |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="partitionVolumeUnit">**partitionVolumeUnit** (Unidad del volumen de partición)</a>
+
+| ---: | :--- |
+| Definición | Unidad utilizada para el volumen de la partición. |
+| Ejemplo | nl |
+| Elementos relacionados | partitionVolume |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="estimatedNumberOfCopies">**estimatedNumberOfCopies** (Número estimado de copias)</a>
+
+| ---: | :--- |
+| Definición | Número de moléculas objetivo por µl. El número de copias promedio por partición (?) puede ser calculado usando el número de particiones (n) y el número estimado de copias en el volumen total de todas las particiones (m) con la fórmula ?=m/n. |
+| Ejemplo | 10300 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="amplificationReactionVolume">**amplificationReactionVolume** (Volumen de reacción de amplificación)</a>
+
+| ---: | :--- |
+| Definición | Volumen de reacción de la PCR. |
+| Ejemplo | 22 |
+| Elementos relacionados | amplificationReactionVolumeUnit |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="amplificationReactionVolumeUnit">**amplificationReactionVolumeUnit** (Unidad del volumen de reacción de amplificación)</a>
+
+| ---: | :--- |
+| Definición | Unidad utilizada para el volumen de reacción de la PCR. Muchos de los instrumentos requieren la preparación de una cantidad inicial de muestra más grande que el volumen finalmente analizado. |
+| Ejemplo | µl |
+| Elementos relacionados | amplificationReactionVolume |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="pcr_analysis_software">**pcr_analysis_software** (Software de análisis de PCR)</a>
+
+| ---: | :--- |
+| Definición | El programa utilizado para analizar las ejecuciones de la d(d)PCR. |
+| Ejemplo | BIO-RAD QuantaSoft |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="experimentalVariance">**experimentalVariance** (Varianza experimental)</a>
+
+| ---: | :--- |
+| Definición | Se recomienda realizar multiples réplicas para evaluar la varianza total experimental. Cuando experimentos simples de dPCR son realizados, un estimador mínimo de la varianza debido solamente al error de conteo debe ser calculado a partir de la distribución binomial (o una equivalente). |
+| Ejemplo | 0.012 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="pcr_primer_lod">**pcr_primer_lod** (Límite de detección para primers de PCR)</a>
+
+| ---: | :--- |
+| Definición | La habilidad del ensayo para detectar el objetivo a bajos niveles. |
+| Ejemplo | 51 |
+| _(Obligatoriedad)_ | _(Recomendado para qPCR)_ |
+
+<br>
+
+<a id="pcr_primer_loq">**pcr_primer_loq** (Límite de cuantificación para primers de PCR)</a>
+
+| ---: | :--- |
+| Definición | La habilidad del ensayo para cuantificar el número de copias a bajos niveles. |
+| Ejemplo | 184 |
+| _(Obligatoriedad)_ | _(Altamente recomendado para qPCR)_ |
+
+<br>
+
+<br>
+<br>
+
+
 ## Vocabularios Controlados
 
 | Índice |	|	|	|
