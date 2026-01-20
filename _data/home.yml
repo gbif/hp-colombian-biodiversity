@@ -91,6 +91,17 @@ splitGruposdeInteres:
 noticias:
   features:
 
+    - preTitle: 20 de enero, 2026
+      title: "Entre colecciones y listas: libélulas, caballitos del diablo y hongos protagonizan los destacados de diciembre" 
+      description: |      # required
+       Durante diciembre de 2025, nuevas organizaciones se sumaron al SiB Colombia y se actualizaron algunas colecciones biológicas, ampliando el acceso a datos abiertos sobre la biodiversidad del país.
+      # img required
+      background: /assets/images/noticias_eventos/2026/2026-01-20-destacados-diciembre.png
+      cta:
+      - text: Ver más
+        href: /post/2026/destacados-diciembre/
+        isPrimary: false
+        
     - preTitle: 19 de diciembre, 2025
       title: "Desde escarabajos hasta algas entre los destacados de noviembre" 
       description: |      # required
