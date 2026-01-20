@@ -2,9 +2,9 @@
 preTitle: "20 de enero, 2026"
 title: "Entre colecciones y listas: libélulas, caballitos del diablo y hongos protagonizan los destacados de diciembre"
 description: "_Durante diciembre de 2025, nuevas organizaciones se sumaron al SiB Colombia y se actualizaron algunas colecciones biológicas, ampliando el acceso a datos abiertos sobre la biodiversidad del país._"
-date: 2025-11-18
+date: 2026-01-20
 categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
-background: /assets/images/noticias_eventos/2025/2025-11-18-destacados-octubre.jpg
+background: /assets/images/noticias_eventos/2025/2025-01-20-destacados-diciembre.png
 ---
 
 **La publicación de datos sobre biodiversidad contribuye a llenar vacíos en el conocimiento de la biodiversidad de Colombia, un esfuerzo que requiere la articulación entre las organizaciones titulares de los datos y los profesionales que los recolectan.**
