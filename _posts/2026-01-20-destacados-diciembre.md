@@ -4,26 +4,26 @@ title: "Entre colecciones y listas: libélulas, caballitos del diablo y hongos p
 description: "_Durante diciembre de 2025, nuevas organizaciones se sumaron al SiB Colombia y se actualizaron algunas colecciones biológicas, ampliando el acceso a datos abiertos sobre la biodiversidad del país._"
 date: 2026-01-20
 categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
-background: /assets/images/noticias_eventos/2026/2026-01-20-destacados-diciembre.png
+background: /assets/images/noticias_eventos/2026/2026-01-20-destacados_diciembre.png
 ---
 
 **La publicación de datos sobre biodiversidad contribuye a llenar vacíos en el conocimiento de la biodiversidad de Colombia, un esfuerzo que requiere la articulación entre las organizaciones titulares de los datos y los profesionales que los recolectan.**
 
 |Consulta la [guía para publicar datos en el SiB Colombia](https://biodiversidad.co/compartir/guia-para-publicar/){:target="_blank"}
 
-Desde el *SiB Colombia*, el equipo coordinador acompaña mensualmente la publicación voluntaria de conjuntos de datos, listas de especies o eventos de muestreo, por parte de los socios publicadores de la red, y presenta esta información en el reporte [Actividad de publicación](https://biodiversidad.co/comunidad/actividad-de-publicacion/){:target="_blank"}, disponible de forma permanente en nuestro sitio web. Cada mes, se destacan algunas de estas publicaciones por su valor en el fortalecimiento del conocimiento y la participación en la red. En esta ocasión, compartimos las correspondientes a octubre de 2025.
+Desde el **SiB Colombia**, el equipo coordinador acompaña mensualmente la publicación voluntaria de conjuntos de datos, listas de especies o eventos de muestreo, por parte de los socios publicadores de la red, y presenta esta información en el reporte [Actividad de publicación](https://biodiversidad.co/comunidad/actividad-de-publicacion/){:target="_blank"}, disponible de forma permanente en nuestro sitio web. Cada mes, se destacan algunas de estas publicaciones por su valor en el fortalecimiento del conocimiento y la participación en la red. En esta ocasión, compartimos las correspondientes a octubre de 2025.
 
 |Accede a los [reportes históricos de la actividad de publicación](https://biodiversidad.co/comunidad/actividad-de-publicacion/){:target="_blank"}
 
 ## Nuevos publicadores
 
-En diciembre de 2025, diversas entidades se integraron a la red del *SiB Colombia*, aportando información clave sobre fauna, flora, hongos y ecosistemas en distintos territorios del país.
+En diciembre de 2025, diversas entidades se integraron a la red del **SiB Colombia**, aportando información clave sobre fauna, flora, hongos y ecosistemas en distintos territorios del país.
 
 La Universidad del Rosario ([Colegio Mayor de Nuestra Señora del Rosario](https://urosario.edu.co/){:target="_blank"} se vinculó como nuevo publicador con registros biológicos de fauna provenientes del Bosque de Guáimaro, en el municipio de Becerril, Cesar. Este conjunto de datos aporta información relevante sobre la biodiversidad local de un ecosistema estratégico para la región, como lo es el bosque seco trópical.
 
 |Explora los [registros de fauna del Bosque de Guáimaro](https://biodiversidad.co/data?datasetKey=0ae21117-04b0-4010-8cb5-b7c8cfba38d4){:target="_blank"}.
 
-El Grupo Colombiano de Odonatología se unió también a la red del *SiB Colombia* con la publicación de la lista de referencia de libélulas y caballitos del diablo (Insecta: Odonata) de Colombia, un insumo clave para el conocimiento taxonómico de este grupo de insectos y para estudios asociados a ecosistemas acuáticos y terrestres.
+El Grupo Colombiano de Odonatología se unió también a la red del **SiB Colombia** con la publicación de la lista de referencia de libélulas y caballitos del diablo (Insecta: Odonata) de Colombia, un insumo clave para el conocimiento taxonómico de este grupo de insectos y para estudios asociados a ecosistemas acuáticos y terrestres.
 
 |Consulta la [lista de libélulas y caballitos del diablo de Colombia](https://biodiversidad.co/dataset/26733296-44fa-4839-8473-18dc1df704a5){:target="_blank"}.
 
@@ -31,7 +31,7 @@ La [Fundación Cataruben](https://cataruben.org/){:target="_blank"} compartió e
 
 |Conoce los [eventos de muestreo del proyecto CO2BIO P4](https://biodiversidad.co/data?datasetKey=fec16fa0-a849-4e75-b780-1f8b9e2f8328){:target="_blank"}.
 
-La [Corporación para la Investigación de la Corrosión](https://corrosioncic.com/) se sumó al *SiB Colombia* con registros biológicos sobre la biodiversidad fúngica del Caño Siete Machos, ubicado en el Parque Nacional Natural Sierra de La Macarena. Este aporte amplía la información disponible sobre hongos en uno de los territorios con mayor diversidad biológica del país.
+La [Corporación para la Investigación de la Corrosión](https://corrosioncic.com/) se sumó al **SiB Colombia** con registros biológicos sobre la biodiversidad fúngica del Caño Siete Machos, ubicado en el Parque Nacional Natural Sierra de La Macarena. Este aporte amplía la información disponible sobre hongos en uno de los territorios con mayor diversidad biológica del país.
 
 |Revisa los [registros de hongos del Caño Siete Machos](https://biodiversidad.co/data?datasetKey=239f2462-dbfb-4a47-a5f0-1b7b23b91221){:target="_blank"}.
 
@@ -55,9 +55,9 @@ Finalmente, la [Fundación Parque Jaime Duque](https://parquejaimeduque.com/){:t
 
 *Foto: Andrés Duarte*
 
-Además de la incorporación de nuevos publicadores, diciembre también estuvo marcado por avances en la publicación y *actualización de colecciones biológicas*.
+Además de la incorporación de nuevos publicadores, diciembre también estuvo marcado por avances en la publicación y **actualización de colecciones biológicas**.
 
-La Colección de Mamíferos (Mammalia) del Museo de Historia Natural de la Universidad de Caldas fue actualizada con la incorporación de *1655 nuevos registros*, fortaleciendo el acceso a información sobre la diversidad y distribución de mamíferos en Colombia.
+La Colección de Mamíferos (Mammalia) del Museo de Historia Natural de la Universidad de Caldas fue actualizada con la incorporación de **1655 nuevos registros**, fortaleciendo el acceso a información sobre la diversidad y distribución de mamíferos en Colombia.
 
 |Consulta la [colección actualizada de mamíferos](http://doi.org/10.15472/mnevig){:target="_blank"}.
 
@@ -67,4 +67,4 @@ Asimismo, la Corporación Universitaria Santa Rosa de Cabal publicó las colecci
 
 |Consulta la colección en: [Museo Entomológico Facultad de Agronomía](https://biodiversidad.co/collection/3445f630-14e3-4883-be30-8b7a482a4046/dashboard){:target="_blank"}
 
-Estos recursos publicados durante el *mes de diciembre de 2025* reflejan el trabajo continuo de instituciones, universidades, organizaciones y profesionales comprometidos con la publicación de *datos abiertos sobre la biodiversidad colombiana*. Desde el *SiB Colombia*, seguimos promoviendo el acceso a información confiable como base para la investigación científica, la toma de decisiones informadas y la conservación de la diversidad biológica del país.
+Estos recursos publicados durante el **mes de diciembre de 2025** reflejan el trabajo continuo de instituciones, universidades, organizaciones y profesionales comprometidos con la publicación de **datos abiertos sobre la biodiversidad colombiana**. Desde el **SiB Colombia**, seguimos promoviendo el acceso a información confiable como base para la investigación científica, la toma de decisiones informadas y la conservación de la diversidad biológica del país.
