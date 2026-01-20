@@ -4,7 +4,7 @@ title: "Entre colecciones y listas: libélulas, caballitos del diablo y hongos p
 description: "_Durante diciembre de 2025, nuevas organizaciones se sumaron al SiB Colombia y se actualizaron algunas colecciones biológicas, ampliando el acceso a datos abiertos sobre la biodiversidad del país._"
 date: 2026-01-20
 categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
-background: /assets/images/noticias_eventos/2025/2025-01-20-destacados-diciembre.png
+background: /assets/images/noticias_eventos/2026/2026-01-20-destacados-diciembre.png
 ---
 
 **La publicación de datos sobre biodiversidad contribuye a llenar vacíos en el conocimiento de la biodiversidad de Colombia, un esfuerzo que requiere la articulación entre las organizaciones titulares de los datos y los profesionales que los recolectan.**
@@ -15,7 +15,7 @@ Desde el *SiB Colombia*, el equipo coordinador acompaña mensualmente la publica
 
 |Accede a los [reportes históricos de la actividad de publicación](https://biodiversidad.co/comunidad/actividad-de-publicacion/){:target="_blank"}
 
-**Nuevos publicadores**
+## Nuevos publicadores
 
 En diciembre de 2025, diversas entidades se integraron a la red del *SiB Colombia*, aportando información clave sobre fauna, flora, hongos y ecosistemas en distintos territorios del país.
 
@@ -47,7 +47,7 @@ Finalmente, la [Fundación Parque Jaime Duque](https://parquejaimeduque.com/){:t
 
 |Consulta los [registros de fauna obtenidos mediante fototrampeo](https://biodiversidad.co/data?datasetKey=e5727620-4a2c-4499-8976-4bb63b99f834){:target="_blank"}.
 
-**Actualizaciones en olecciones biológicas**
+## Actualizaciones en colecciones biológicas
 
 <p align="center">
   <img src="/assets/images/noticias_eventos/2025/colecciones-bio.JPEG.jpg" alt="Destacados SiB" width="600">
