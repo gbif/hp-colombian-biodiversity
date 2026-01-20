@@ -96,10 +96,10 @@ noticias:
       description: |      # required
        Durante diciembre de 2025, nuevas organizaciones se sumaron al SiB Colombia y se actualizaron algunas colecciones biológicas, ampliando el acceso a datos abiertos sobre la biodiversidad del país.
       # img required
-      background: /assets/images/noticias_eventos/2026/2026-01-20-destacados-diciembre.png
+      background: /assets/images/noticias_eventos/2026/2026-01-20-destacados_diciembre.png
       cta:
       - text: Ver más
-        href: /post/2026/destacados-diciembre/
+        href: /post/2025/destacados-diciembre/
         isPrimary: false
         
     - preTitle: 19 de diciembre, 2025
