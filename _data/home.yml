@@ -99,7 +99,7 @@ noticias:
       background: /assets/images/noticias_eventos/2026/2026-01-20-destacados_diciembre.png
       cta:
       - text: Ver más
-        href: /post/2025/destacados-diciembre/
+        href: /post/2026/destacados-diciembre/
         isPrimary: false
         
     - preTitle: 19 de diciembre, 2025
