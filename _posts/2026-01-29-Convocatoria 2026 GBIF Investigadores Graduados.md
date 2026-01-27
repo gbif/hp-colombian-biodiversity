@@ -7,7 +7,6 @@ categories: ["Convocatorias", "Datos abiertos", "GBIF", "2026"]
 background: /assets/images/noticias_eventos/2026/2026-01-29-Convocatoria-2026-Premio-GBIF-Investigadores-Graduados.jpg
 imageLicense: |
   Ilustración de un Tarsero oriental _(Tarsius tarsier, (Erxleben, 1777))](https://www.gbif.org/es/species/4266949)_{:target="_blank"} en Beiträge zur näheren Kenntniss der Gattung Tarsius de Hermann Burmeister. G. Reimer (1846) bajo dominio público vía [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/page/15562091){:target="_blank"}.
-
 ---
 
 _1 de mayo de 2026 es la fecha límite para los estudiantes de posgrado en Colombia que quieran presentar su investigación, basada en datos sobre biodiversidad, a este estímulo internacional._
