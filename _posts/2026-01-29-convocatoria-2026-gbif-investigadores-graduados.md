@@ -4,8 +4,7 @@ title: "Convocatoria 2026 al Premio GBIF para Investigadores Graduados"
 description: "_Hasta el 1 de mayo estará abierta la convocatoria para postular candidaturas al Premio GBIF para Investigadores Graduados 2026._"
 date: 2026-01-29
 categories: ["Publicación", "Datos abiertos", "GBIF", "2026"]
-background: /assets/images/noticias_eventos/2026/2026-01-29-convocatoria-2026-premio-gbif-investigadores-graduados2.png
-  
+background: /assets/images/noticias_eventos/2026/2026-01-29-convocatoria-2026-premio-gbif-investigadores-graduados2.png 
 ---
 
 _1 de mayo de 2026 es la fecha límite para los estudiantes de posgrado en Colombia que quieran presentar su investigación, basada en datos sobre biodiversidad, a este estímulo internacional._
