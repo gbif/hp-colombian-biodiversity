@@ -3,10 +3,8 @@ preTitle: "29 de enero, 2026"
 title: "Convocatoria 2026 al Premio GBIF para Investigadores Graduados"
 description: "_Hasta el 1 de mayo estará abierta la convocatoria para postular candidaturas al Premio GBIF para Investigadores Graduados 2026._"
 date: 2026-01-29
-categories: ["Publicación", "Convocatorias", "Datos abiertos", "GBIF", "2026"]
+categories: ["Publicación", "Datos abiertos", "GBIF", "2026"]
 background: /assets/images/noticias_eventos/2026/2026-01-29-convocatoria-2026-premio-gbif-investigadores-graduados2.png
-imageLicense: |
-  Ilustración de un Tarsero oriental _(Tarsius tarsier, (Erxleben, 1777))](https://www.gbif.org/es/species/4266949)_{:target="_blank"} en Beiträge zur näheren Kenntniss der Gattung Tarsius de Hermann Burmeister. G. Reimer (1846) bajo dominio público vía [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/page/15562091){:target="_blank"}.
   
 ---
 
