@@ -7,18 +7,18 @@ categories: ["Publicación", "Datos abiertos", "GBIF", "2026"]
 background: /assets/images/noticias_eventos/2026/2026-01-28-convocatoria-2026-premio-gbif-investigadores-graduados2.png 
 ---
 
-_1 de mayo de 2026 es la fecha límite para los estudiantes de posgrado en Colombia que quieran presentar su investigación, basada en datos sobre biodiversidad, a este estímulo internacional._
+_El primero de mayo es la fecha límite para los estudiantes de posgrado en Colombia que quieran presentar su investigación, basada en datos sobre biodiversidad, a este estímulo internacional._
 
 El SiB Colombia, en nombre del Secretariado de GBIF y como nodo país, extiende la convocatoria a presentar candidaturas para el [Premio Investigadores Graduados 2026](https://www.gbif.org/es/news/2qFpkI7rwBNbMuSjn2rtae/convocatoria-de-nominaciones-para-el-premio-a-investigadores-graduados-de-gbif-2026){:target="_blank"}. Este programa anual destaca el trabajo excepcional de estudiantes de maestría y doctorado cuya investigación se basa en datos mediados por GBIF y demuestra **innovación y descubrimiento en informática de la biodiversidad** (por ejemplo, taxonomía, biogeografía, ecología).
 
-El programa de 2026 otorgará **dos premios de 5.000 euros** para reconocer el trabajo de dos investigadores que estén iniciando su carrera —preferiblemente, un estudiante de maestría y otro doctoral— y que reciban formalmente las nominaciones de los jefes de delegación y los administradores de nodo de los países participantes en GBIF. **En el caso de Colombia, a través del Equipo Coordinador del SiB Colombia**.
+El programa de 2026 otorgará **dos premios de 5000 euros** para reconocer el trabajo de dos investigadores que estén iniciando su carrera —preferiblemente, un estudiante de maestría y otro doctoral— y que reciban formalmente las nominaciones de los jefes de delegación y los administradores de nodo de los países participantes en GBIF. **En el caso de Colombia, a través del Equipo Coordinador del SiB Colombia**.
 
 ## Elegibilidad para Colombia
 
 Para ser un nominado al premio, los candidatos deben cumplir con lo siguiente:
 
 * Ser ciudadanos colombianos o de un país participante en GBIF.
-* Ser estudiante universitario y estar matriculado en un programa de postgrado de una universidad ubicada en Colombia.
+* Ser estudiante universitario y estar matriculados en un programa de maestria o doctorado de una universidad ubicada en Colombia.
 * Proporcionar una carta de apoyo que verifique su afiliación a un programa universitario de posgrado.
 
 Las nominaciones las realizará el Equipo Coordinador del SiB Colombia, como nodo GBIF.
@@ -26,9 +26,9 @@ Las nominaciones las realizará el Equipo Coordinador del SiB Colombia, como nod
 ## Proceso para presentarse y plazos
 
 * Los estudiantes colombianos que deseen ser nominados, deben presentar su candidatura al Equipo Coordinador del SiB Colombia **antes del 1 de mayo de 2026**, incluyendo los documentos de soporte y sus propuestas al correo electrónico [sib@humboldt.org.co](mailto:sib@humboldt.org.co){:target="_blank"}.
-* Las propuestas serán revisadas por un jurado organizado por el Equipo Coordinador del SiB Colombia que las priorizará a nivel nacional y **seleccionará máximo dos para enviarlas como nominados** al Secretariado de GBIF antes del 29 de mayo de 2026, fecha límite en que el Secretariado recibe las nominaciones por parte de los nodos. No se tendrán en cuenta las propuestas incompletas.
+* Las propuestas serán revisadas por un comité evaluador organizado por el Equipo Coordinador del SiB Colombia, que realizará la priorización a nivel nacional y seleccionará **hasta dos candidaturas** para ser enviadas al Secretariado de **GBIF** antes del 29 de mayo de 2026, fecha límite establecida para la recepción de nominaciones por parte de los nodos. No se tendrán en cuenta propuestas incompletas.
 * Un jurado organizado por el [Comité Científico de GBIF](https://www.gbif.org/es/contact-us/directory?group=scienceCommittee){:target="_blank"} seleccionará a **dos ganadores**, entre las nominaciones globales.
-* El Secretariado de GBIF anunciará a los ganadores **antes de la 33ª reunión de la Junta Directiva de GBIF (GB33)** en septiembre de 2026 en Oslo, Noruega..
+* El Secretariado de GBIF anunciará a los ganadores **antes de la 33ª reunión de la Junta Directiva de GBIF (GB33)** en septiembre de 2026 en Oslo, Noruega.
 
 [Presenta tu candidatura](mailto:sib@humboldt.org.co){:target="_blank" .button .is-primary}
 
