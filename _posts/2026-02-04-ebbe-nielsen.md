@@ -8,13 +8,13 @@ background: /assets/images/noticias_eventos/2026/2026-02-04-ebbe-nielsen.png
 imageLicense: |
   Foto: Ilustración de _[Ranularia trilineata (Reeve, 1844)](https://www.gbif.org/es/species/6488719)_{:target="_blank"} en Ein Beitrag zur Kentniss der Mollusken Japan’s mit besonderer Rücksicht auf die geographische Verbreitung derselben (Vol. 2) Lischke, Carl Emil. (1869). Disponible bajo dominio público a través de [Biodiversity Heritage Library](https://flic.kr/p/a8ZsnK){:target="_blank"}.
 ---
-_Esta convocatoria anual de GBIF entrega una bolsa de incentivos por 20.000 euros. En su edición 2026, el Reto Ebbe Nielsen [(https://www.gbif.org/es/news/3DyM3tK5wgYipqyaHwG2c2/abierto-el-plazo-de-presentacion-de-candidaturas-para-el-desafio-ebbe-nielsen-2026)]{:target="_blank"} busca reconocer herramientas innovadoras, tanto nuevas como ya existentes, que aprovechen los datos sobre biodiversidad de la red de GBIF para hacer avanzar la ciencia abierta en apoyo de la investigación y la toma de decisiones. **Recepción de propuestas hasta el 26 de junio de 2026**._
+_Esta convocatoria anual de GBIF entrega una bolsa de incentivos por 20.000 euros. En su edición 2026, el Reto Ebbe Nielsen[(https://www.gbif.org/es/news/3DyM3tK5wgYipqyaHwG2c2/abierto-el-plazo-de-presentacion-de-candidaturas-para-el-desafio-ebbe-nielsen-2026)]{:target="_blank"} busca reconocer herramientas innovadoras, tanto nuevas como ya existentes, que aprovechen los datos sobre biodiversidad de la red de GBIF para hacer avanzar la ciencia abierta en apoyo de la investigación y la toma de decisiones. **Recepción de propuestas hasta el 26 de junio de 2026**._
 
 Un jurado, conformado por expertos, evaluará las propuestas teniendo en cuenta cualidades como replicabilidad, apertura, relevancia y novedad. Los proyectos ganadores accederán a **una bolsa de premios por 20.000 euros**.
 
 **La recepción de propuestas cierra el 26 de junio de 2026**. Hasta esta fecha personas y equipos podrán preparar herramientas y técnicas que mejoren el acceso, usabilidad y calidad de los datos abiertos sobre biodiversidad para presentarlos en esta competencia anual de iniciativas abiertas.
 
-**Los ganadores se anunciarán después de la 33ª reunión de la Junta Directiva de GBIF en septiembre en Oslo, Noruega..
+_**Los ganadores se anunciarán después de la 33ª reunión de la Junta Directiva de GBIF en septiembre en Oslo, Noruega..**_
 
 
 ## ¿Qué se puede crear?: inspiración para las propuestas
@@ -35,14 +35,14 @@ Este reto **honra la memoria del doctor [Ebbe Schmidt Nielsen](https://en.wikipe
 
 El siguiente resumen no constituye un reemplazo al [Reglamento oficial de la convocatoria 2024](https://www.gbif.org/es/article/4KY2Ct5v60rocbbjEiwlRN/reglas-oficiales-desafio-ebbe-nielsen-2026-de-gbif){:target="_blank"}. Las preguntas y consultas pueden enviarse al correo [ENChallenge@gbif.org](mailto:ENChallenge@gbif.org).
 
-Inscripción
+**Inscripción**
 
 [Formulario de inscripción de la convocatoria 2026](https://www.survey-xact.dk/LinkCollector?key=RKQ7H7D8JP3P){:target="_blank" .button .is-primary}
 
 
 ### Fecha límite
 
-**26 de junio de 2026, 23:59 hora de verano de Europa Central (UTC+2)** (16:59 hora Colombia)
+**26 de junio de 2026,** 23:59 hora de verano de Europa Central (UTC+2) (16:59 hora Colombia)
 
 
 ### Elegibilidad
@@ -60,7 +60,7 @@ Enviar las propuestas completas y aceptar los términos de uso [aquí](https://w
 
 Completar el [formulario de inscripción](https://www.survey-xact.dk/LinkCollector?key=RKQ7H7D8JP3P){:target="_blank"}, que provee información acerca de la propuesta, incluyendo: 
 
-* Nombre/título de la propuesta
+* Nombre / título de la propuesta
 * Nombre y afiliaciones de los miembros del equipo
 * Resumen y justificación (máximo 1.000 palabras): El resumen debe describir su presentación, por qué es importante para las comunidades de GBIF y cómo pretende satisfacer sus necesidades.
 * Instrucciones de uso y requisitos técnicos relevantes (¿cómo funciona?)
@@ -72,7 +72,9 @@ Completar el [formulario de inscripción](https://www.survey-xact.dk/LinkCollect
 Un panel de jueces expertos en los campos científico, informático y tecnológico evaluará las propuestas en función de los siguientes criterios:
 
 **1.** Apertura y repetibilidad: ¿Los elementos constitutivos de la Propuesta, como el código y el contenido, son libremente disponibles y transparentes? ¿Tienen las licencias apropiadas?
+
 **2.** Aplicabilidad: ¿Tiene la Propuesta suficiente relevancia y alcance como para que las comunidades a las que apoya GBIF puedan utilizarla o construirla?
+
 **3.** Novedad: ¿Se ha desarrollado una parte importante de la propuesta específicamente para el Desafío? No se considerarán admisibles las presentaciones basadas en gran parte o en su totalidad en trabajos publicados anteriormente.
 
 Los miembros del jurado puntuarán los trabajos en cuatro categorías:
