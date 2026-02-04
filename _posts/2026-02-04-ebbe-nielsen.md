@@ -8,7 +8,7 @@ background: /assets/images/noticias_eventos/2026/2026-02-04-ebbe-nielsen.png
 imageLicense: |
   Foto: Ilustración de _[Ranularia trilineata (Reeve, 1844)](https://www.gbif.org/es/species/6488719)_{:target="_blank"} en Ein Beitrag zur Kentniss der Mollusken Japan’s mit besonderer Rücksicht auf die geographische Verbreitung derselben (Vol. 2) Lischke, Carl Emil. (1869). Disponible bajo dominio público a través de [Biodiversity Heritage Library](https://flic.kr/p/a8ZsnK){:target="_blank"}.
 ---
-_Esta convocatoria anual de GBIF entrega una bolsa de incentivos por 20.000 euros. En su edición 2026, el Reto Ebbe Nielsen[(https://www.gbif.org/es/news/3DyM3tK5wgYipqyaHwG2c2/abierto-el-plazo-de-presentacion-de-candidaturas-para-el-desafio-ebbe-nielsen-2026)]{:target="_blank"} busca reconocer herramientas innovadoras, tanto nuevas como ya existentes, que aprovechen los datos sobre biodiversidad de la red de GBIF para hacer avanzar la ciencia abierta en apoyo de la investigación y la toma de decisiones. **Recepción de propuestas hasta el 26 de junio de 2026**._
+_Esta convocatoria anual de GBIF entrega una bolsa de incentivos por 20.000 euros. En su edición 2026, [el Reto Ebbe Nielsen](https://www.gbif.org/es/news/3DyM3tK5wgYipqyaHwG2c2/abierto-el-plazo-de-presentacion-de-candidaturas-para-el-desafio-ebbe-nielsen-2026){:target="_blank"} busca reconocer herramientas innovadoras, tanto nuevas como ya existentes, que aprovechen los datos sobre biodiversidad de la red de GBIF para hacer avanzar la ciencia abierta en apoyo de la investigación y la toma de decisiones. **Recepción de propuestas hasta el 26 de junio de 2026**._
 
 Un jurado, conformado por expertos, evaluará las propuestas teniendo en cuenta cualidades como replicabilidad, apertura, relevancia y novedad. Los proyectos ganadores accederán a **una bolsa de premios por 20.000 euros**.
 
@@ -39,18 +39,15 @@ El siguiente resumen no constituye un reemplazo al [Reglamento oficial de la con
 
 [Formulario de inscripción de la convocatoria 2026](https://www.survey-xact.dk/LinkCollector?key=RKQ7H7D8JP3P){:target="_blank" .button .is-primary}
 
-
 ### Fecha límite
 
 **26 de junio de 2026,** 23:59 hora de verano de Europa Central (UTC+2) (16:59 hora Colombia)
-
 
 ### Elegibilidad
 
 El reto está abierto a personas, equipos de personas, organizaciones con sus funcionarios.
 
 Los siguientes perfiles no pueden participar del reto: miembros actuales del Secretariado de GBIF, personas que actualmente tengan contratos con el Secretariado de GBIF, miembros del Comité Ceintífico de GBIF y jefes de delegación ante GBIF.
-
 
 ### Requisitos de participación
 
