@@ -1,20 +1,24 @@
 ---
 preTitle: 04 de febrero, 2026
-title: "Reto Ebbe Nielsen 2026 busca herramientas innovadoras, tanto nuevas como ya existentes, que aprovechen los datos sobre biodiversidad de la red de GBIF"
-description: _Hasta el 26 de junio de 2026 está abierta la recepción de propuestas para el Reto Ebbe Nielsen de GBIF. Los proyectos de innovación con datos abiertos pueden participar por una bolsa de premios de 20.000 euros._
+title: "Reto Ebbe Nielsen 2026 nuevamente busca herramientas innovadoras que aprovechen los datos sobre biodiversidad de la red de GBIF"
+description: _Hasta el 26 de junio de 2026 está abierta la recepción de propuestas para el Reto Ebbe Nielsen de GBIF. Los proyectos innovadores con datos abiertos pueden participar por una bolsa de premios de 20.000 euros._
 date:  2026-02-04
 categories: ["GBIF", "Ebbe Nielsen", "Convocatorias", "2026"]
 background: /assets/images/noticias_eventos/2026/2026-02-04-ebbe-nielsen.png
 imageLicense: |
   Foto: Ilustración de _[Ranularia trilineata (Reeve, 1844)](https://www.gbif.org/es/species/6488719)_{:target="_blank"} en Ein Beitrag zur Kentniss der Mollusken Japan’s mit besonderer Rücksicht auf die geographische Verbreitung derselben (Vol. 2) Lischke, Carl Emil. (1869). Disponible bajo dominio público a través de [Biodiversity Heritage Library](https://flic.kr/p/a8ZsnK){:target="_blank"}.
 ---
-_Esta convocatoria anual de GBIF entrega una bolsa de incentivos por 20.000 euros. En su edición 2026, [el Reto Ebbe Nielsen](https://www.gbif.org/es/news/3DyM3tK5wgYipqyaHwG2c2/abierto-el-plazo-de-presentacion-de-candidaturas-para-el-desafio-ebbe-nielsen-2026){:target="_blank"} busca reconocer herramientas innovadoras, tanto nuevas como ya existentes, que aprovechen los datos sobre biodiversidad de la red de GBIF para hacer avanzar la ciencia abierta en apoyo de la investigación y la toma de decisiones. **Recepción de propuestas hasta el 26 de junio de 2026**._
 
-Un jurado, conformado por expertos, evaluará las propuestas teniendo en cuenta cualidades como replicabilidad, apertura, relevancia y novedad. Los proyectos ganadores accederán a **una bolsa de premios por 20.000 euros**.
+_Esta convocatoria anual de GBIF entrega una bolsa de incentivos por 20.000 euros. En su edición 2026, el [Reto Ebbe Nielsen](https://www.gbif.org/es/news/3DyM3tK5wgYipqyaHwG2c2/abierto-el-plazo-de-presentacion-de-candidaturas-para-el-desafio-ebbe-nielsen-2026){:target="_blank"} busca reconocer herramientas innovadoras, tanto nuevas como ya existentes, que aprovechen los datos sobre biodiversidad de la red de GBIF para hacer avanzar la ciencia abierta en apoyo de la investigación y la toma de decisiones. **Recepción de propuestas hasta el 26 de junio de 2026**._
+
+
+
+Un jurado conformado por expertos, evaluará las propuestas teniendo en cuenta cualidades como replicabilidad, apertura, relevancia y novedad. Los proyectos ganadores accederán a **una bolsa de premios por 20.000 euros**.
 
 **La recepción de propuestas cierra el 26 de junio de 2026**. Hasta esta fecha personas y equipos podrán preparar herramientas y técnicas que mejoren el acceso, usabilidad y calidad de los datos abiertos sobre biodiversidad para presentarlos en esta competencia anual de iniciativas abiertas.
 
-_**Los ganadores se anunciarán después de la 33ª reunión de la Junta Directiva de GBIF en septiembre en Oslo, Noruega..**_
+**Los ganadores se anunciarán después de la 33ª reunión de la Junta Directiva de GBIF en septiembre en Oslo, Noruega.**
+
 
 
 ## ¿Qué se puede crear?: inspiración para las propuestas
@@ -26,28 +30,37 @@ Se espera que las propuestas brinden **soluciones prácticas y pragmáticas para
 **Las propuestas deben beneficiar a múltiples grupos de interés**, incluidos los usuarios, publicadores y administradores de datos. Los interesados en participar pueden revisar la [estrategia de comunicaciones de GBIF](https://www.gbif.org/es/document/80926){:target="_blank"} (contenido en inglés) para ver cómo la organización caracteriza a sus audiencias.
 
 
+
 ## Historia del reto
 
 Este reto **honra la memoria del doctor [Ebbe Schmidt Nielsen](https://en.wikipedia.org/wiki/Ebbe_Nielsen)**{:target="_blank"}**,** líder inspirador en los campos de la biosistemática y la informática de la biodiversidad. También uno de los principales fundadores de GBIF, que falleció inesperadamente antes del establecimiento de la organización.
 
 
+
 ## Resumen
 
-El siguiente resumen no constituye un reemplazo al [Reglamento oficial de la convocatoria 2024](https://www.gbif.org/es/article/4KY2Ct5v60rocbbjEiwlRN/reglas-oficiales-desafio-ebbe-nielsen-2026-de-gbif){:target="_blank"}. Las preguntas y consultas pueden enviarse al correo [ENChallenge@gbif.org](mailto:ENChallenge@gbif.org).
+El siguiente resumen no constituye un reemplazo al [Reglamento oficial de la convocatoria 2026](https://www.gbif.org/es/article/4KY2Ct5v60rocbbjEiwlRN/reglas-oficiales-desafio-ebbe-nielsen-2026-de-gbif){:target="_blank"}. Las preguntas y consultas pueden enviarse al correo [ENChallenge@gbif.org](mailto:ENChallenge@gbif.org).
+
 
 **Inscripción**
 
 [Formulario de inscripción de la convocatoria 2026](https://www.survey-xact.dk/LinkCollector?key=RKQ7H7D8JP3P){:target="_blank" .button .is-primary}
 
+
+
 ### Fecha límite
 
 **26 de junio de 2026,** 23:59 hora de verano de Europa Central (UTC+2) (16:59 hora Colombia)
 
+
+
 ### Elegibilidad
 
-El reto está abierto a personas, equipos de personas, organizaciones con sus funcionarios.
+El reto está abierto a personas, equipos de personas u organizaciones con sus funcionarios.
 
 Los siguientes perfiles no pueden participar del reto: miembros actuales del Secretariado de GBIF, personas que actualmente tengan contratos con el Secretariado de GBIF, miembros del Comité Ceintífico de GBIF y jefes de delegación ante GBIF.
+
+
 
 ### Requisitos de participación
 
@@ -63,6 +76,8 @@ Completar el [formulario de inscripción](https://www.survey-xact.dk/LinkCollect
 * Instrucciones de uso y requisitos técnicos relevantes (¿cómo funciona?)
 * Enlace a un video de introducción o grabación de pantalla que demuestre o describa la presentación y sus resultados en formato relevante, por ejemplo, prototipo, demostración, video, diapositivas, etc.
 * Enlace(s) a la documentación fuente y de envío en cualquier sitio web o repositorio apropiado
+
+
 
 ### Criterios de evaluación
 
@@ -82,6 +97,7 @@ Los miembros del jurado puntuarán los trabajos en cuatro categorías:
 * **Calidad general del envío**
 
 Los participantes pueden preparar y documentar sus entradas en un repositorio o plataforma de su elección: [GitHub](https://github.com/){:target="_blank"}, [Jupyter Notebook](http://jupyter.org/){:target="_blank"}, [Dryad](https://www.datadryad.org/){:target="_blank"}, [FigShare](https://figshare.com/){:target="_blank"}, [Open Science Framework](https://osf.io/){:target="_blank"}, etc.
+
 
 
 ### Histórico de los ganadores del reto Ebbe Nielsen
