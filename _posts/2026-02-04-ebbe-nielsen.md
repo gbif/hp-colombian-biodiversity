@@ -1,8 +1,8 @@
 ---
-preTitle: 05 de febrero, 2026
+preTitle: 04 de febrero, 2026
 title: "Reto Ebbe Nielsen 2026 busca herramientas innovadoras, tanto nuevas como ya existentes, que aprovechen los datos sobre biodiversidad de la red de GBIF"
 description: _Hasta el 26 de junio de 2026 está abierta la recepción de propuestas para el Reto Ebbe Nielsen de GBIF. Los proyectos de innovación con datos abiertos pueden participar por una bolsa de premios de 20.000 euros._
-date:  2026-02-05
+date:  2026-02-04
 categories: ["GBIF", "Ebbe Nielsen", "Convocatorias", "2026"]
 background: /assets/images/noticias_eventos/2026/2026-02-04-ebbe-nielsen.png
 imageLicense: |
