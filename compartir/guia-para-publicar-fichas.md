@@ -42,7 +42,7 @@ Para la preparación de contenidos te recomendamos:
  <li>Seleccionar las fuentes de información (artículos científicos, revistas, libros, capítulos de libros, tesis, monografías, textos académicos, sitios web reconocidos, otros catálogos de especies, fotos, videos, mapas, etc.).</li>
  <li>Sintetizar y adaptar los textos para cada uno de los atributos definidos. Recuerda que cualquier información que se utilice debe estar debidamente citada y referenciada.</li>
  <li>Consolidar las referencias bibliográficas en un gestor bibliográfico. Ejemplo: Mendeley o Zotero.</li>
- </li>Realizar un proceso general de revisión y validación de la información sintetizada. Este proceso te ayudará a identificar y corregir potenciales vacíos en la información preparada.</li>
+ <li>Realizar un proceso general de revisión y validación de la información sintetizada. Este proceso te ayudará a identificar y corregir potenciales vacíos en la información preparada.</li>
 </ol>
 </blockquote>
 
