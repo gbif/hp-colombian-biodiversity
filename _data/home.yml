@@ -91,6 +91,16 @@ splitGruposdeInteres:
 noticias:
   features:
 
+    - preTitle: 13 de febrero, 2026
+      title: "Más datos abiertos sobre insectos: Los odonatos llegan al SiB Colombia" 
+      description: |      # required
+       El Grupo Colombiano de Odonatología publicó la lista de referencia de libélulas y caballitos del diablo.
+      # img required
+      background: /assets/images/noticias_eventos/2026/2026-02-13-entrevista-odonatos.png
+      cta:
+      - text: Ver más
+        href: /post/2026/publicacion-lista-odonatos/
+        isPrimary: false
     - preTitle: 28 de enero, 2026
       title: "Convocatoria 2026 al Premio GBIF para Investigadores Graduados" 
       description: |      # required
