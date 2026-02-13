@@ -16,7 +16,7 @@ Para resaltar la importancia de esta nueva contribución, el equipo coordinador 
 
 <iframe width="1013" height="400" src="https://www.youtube.com/embed/rmkgUBP51mA" title="Más datos abiertos sobre odonatos de Colombia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# La importancia de los insectos y el nacimiento del Grupo Colombiano de Odonatología
+## La importancia de los insectos y el nacimiento del Grupo Colombiano de Odonatología
 
 En todos sus años de dedicación como entomóloga —científica especializado en el estudio de los insectos—, Jenilee ha evidenciado el papel que cumplen las libélulas y caballitos del diablo en sus ecosistemas:
 
@@ -26,13 +26,13 @@ En adición a esto, la pasión compartida por el estudio de un grupo particular 
 
 _"El Grupo Colombiano de Odonatología es un equipo; es decir, somos investigadores de libélulas que llevamos años trabajando con libélulas. Nuestro grupo se creó recientemente para hacer el último checklist, el inventario de la diversidad de libélulas de Colombia. Ese inventario se publicó en el 2024 y es el insumo más importante de la lista publicada en el SiB Colombia. Somos, más o menos, entre 17 personas, investigadores de Colombia, de diferentes entidades e instituciones. Por ejemplo, la Universidad de Antioquia, la Universidad de los Andes, colegas que están haciendo posgrados en México y Argentina, pero todos colombianos. Ya llevamos varios años trabajando en ecología, taxonomía y conservación de libélulas. Creamos el grupo con la necesidad de trabajar juntos, por la necesidad de trabajar juntos en un grupo de organismos que no tenía muchos investigadores trabajando en el tema. Entonces, creamos ese grupo para trabajar en conjunto, hacernos preguntas científicas y trabajar en conservación de libélulas.”_
 
-# El proceso de construcción de la lista de libélulas y caballitos del diablo
+## El proceso de construcción de la lista de libélulas y caballitos del diablo
 
 La identificación de las especies que se pueden encontrar en un país implica un proceso asiduo de recopilación de fuentes e investigación, con el objetivo de asegurar la precisión y veracidad de los datos. En palabras de una de las encargadas de esta recopilación:
 
 _“El proceso de construcción de la lista se hizo a través de la compilación de información, tanto primaria como secundaria a través de literatura. Se revisó toda la literatura asociada y existente sobre las libélulas del país. Y también se revisaron ejemplares de las colecciones más importantes del país, como la de la Universidad de Antioquia, que es una de las más grandes, y la de la Universidad de los Andes, que también tiene una muy buena colección. Se revisaron colecciones también pequeñas, todas las que tenían información y registros de odonatos. Algo muy importante es que estuvimos todos los odonatólogos reconocidos en este momento trabajando en la lista. En la publicación compilamos la diversidad de especies, la endemicidad y la categoría de amenaza. Esto es una parte que también se complementa con el checklist, fue publicado en el 2024, donde se encuentra otra información, como la historia de la odonatología en Colombia, cómo están las las colecciones biológicas y también si las larvas de estas especies están escritas.”_
 
-# Los retos de hacer ciencia con comunidades locales
+## Los retos de hacer ciencia con comunidades locales
 
 El trabajo de un biólogo implica sortear una serie de desafíos por la complejidad que supone el estudio de la biodiversidad. Entre los retos más importantes, está la comunicación efectiva para el trabajo conjunto con las comunidades que conviven diariamente con las especies y tienen un amplio conocimiento de los procesos naturales que se llevan a cabo en sus ecosistemas. Jenilee comparte una de sus experiencias relacionadas:
 
@@ -42,6 +42,6 @@ _Fue una experiencia enriquecedora porque ese no era nuestro objetivo principal,
 
 En este escenario de cooperación y trabajo colaborativo, desde el **equipo coordinador del SiB Colombia**, invitamos a todas las entidades que recolectan datos sobre biodiversidad a seguir el ejemplo del **Grupo Colombiano de Odonatología** para unirse a la red del SiB Colombia como socios publicadores. De esta manera, continuaremos fortaleciendo las bases de datos existentes sobre nuestra biodiversidad y podremos aportar activamente a la construcción de herramientas fundamentales, como los planes de conservación, para garantizar la protección y bienestar de nuestro patrimonio natural.
 
-# Referencias
+## Referencias
 
 Stork, N. E. (2018). _How many species of insects and other terrestrial arthropods are there on Earth?. Annual review of entomology, 63_(2018), 31-45. Disponible en: [https://www.annualreviews.org/content/journals/10.1146/annurev-ento-020117-043348/?crawler=true](https://www.annualreviews.org/content/journals/10.1146/annurev-ento-020117-043348/?crawler=true){:target="\_blank"}
