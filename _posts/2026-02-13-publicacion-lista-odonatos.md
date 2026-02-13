@@ -14,7 +14,7 @@ Teniendo en cuenta la importancia de contar con **datos abiertos** de este grupo
 
 Para resaltar la importancia de esta nueva contribución, el equipo coordinador del SiB Colombia tuvo la oportunidad de entrevistar a **Jenilee Montes Fontalvo**, investigadora del Instituto Humboldt e integrante del Grupo Colombiano de Odonatología. A partir de sus amplios conocimientos en el estudio de odonatos y conservación de insectos, Jenilee comparte su experiencia en relación a la importancia ecológica de este grupo, el trabajo con comunidades, el proceso de investigación detrás de la construcción de una lista de especies y el trabajo con comunidades.
 
-<iframe width="1013" height="570" src="https://www.youtube.com/embed/rmkgUBP51mA" title="Más datos abiertos sobre odonatos de Colombia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1013" height="400" src="https://www.youtube.com/embed/rmkgUBP51mA" title="Más datos abiertos sobre odonatos de Colombia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # La importancia de los insectos y el nacimiento del Grupo Colombiano de Odonatología
 
