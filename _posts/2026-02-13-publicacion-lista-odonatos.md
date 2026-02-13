@@ -4,7 +4,7 @@ title: "Más datos abiertos sobre insectos: Los odonatos llegan al SiB Colombia"
 description: "_El Grupo Colombiano de Odonatología publicó la lista de referencia de libélulas y caballitos del diablo._"
 date: 2026-02-13
 categories: ["Lista de especies", "Odonatos", "Libélulas", "Caballitos del diablo", "Publicación", "Colombia", "2026"]
-background: /assets/images/noticias_eventos/2025/2025-12-15-especies-invasoras.jpg
+background: /assets/images/noticias_eventos/2026/2026-02-13-entrevista-odonatos.png
 
 ---
 
@@ -14,13 +14,13 @@ Teniendo en cuenta la importancia de contar con **datos abiertos** de este grupo
 
 Para resaltar la importancia de esta nueva contribución, el equipo coordinador del SiB Colombia tuvo la oportunidad de entrevistar a **Jenilee Montes Fontalvo**, investigadora del Instituto Humboldt e integrante del Grupo Colombiano de Odonatología. A partir de sus amplios conocimientos en el estudio de odonatos y conservación de insectos, Jenilee comparte su experiencia en relación a la importancia ecológica de este grupo, el trabajo con comunidades, el proceso de investigación detrás de la construcción de una lista de especies y el trabajo con comunidades.
 
-<iframe width="690" height="400" src="https://www.youtube.com/watch?v=rmkgUBP51mA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1013" height="570" src="https://www.youtube.com/embed/rmkgUBP51mA" title="Más datos abiertos sobre odonatos de Colombia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # La importancia de los insectos y el nacimiento del Grupo Colombiano de Odonatología
 
 En todos sus años de dedicación como entomóloga —científica especializado en el estudio de los insectos—, Jenilee ha evidenciado el papel que cumplen las libélulas y caballitos del diablo en sus ecosistemas:
 
-_“Los odonatos son el tecnicismo o el nombre técnico, científico, de las conocidas libélulas o caballitos del diablo. Las libélulas son insectos acuáticos, tienen su ciclo de vida en el agua. Son insectos depredadores, lo cual hace que tengan un rol ecológico de control poblacional de otros grupos de insectos; es decir, ellos comen otros grupos de insectos y mantienen su número de individuos estables. Tienen un ciclo de vida superextraño y superimportante, ya que pueden darnos pistas sobre el estado de conservación de los cuerpos de agua. Los insectos viven en diferentes tipos de cuerpos de agua como  charcas, ríos y cascadas. Dependiendo de las especies que se pueden observar en esos cuerpos de agua, es posible establecer una idea del estado de salud de estos ecosistemas.”_
+_"Los odonatos son el tecnicismo o el nombre técnico, científico, de las conocidas libélulas o caballitos del diablo. Las libélulas son insectos acuáticos, tienen su ciclo de vida en el agua. Son insectos depredadores, lo cual hace que tengan un rol ecológico de control poblacional de otros grupos de insectos; es decir, ellos comen otros grupos de insectos y mantienen su número de individuos estables. Tienen un ciclo de vida superextraño y superimportante, ya que pueden darnos pistas sobre el estado de conservación de los cuerpos de agua. Los insectos viven en diferentes tipos de cuerpos de agua como  charcas, ríos y cascadas. Dependiendo de las especies que se pueden observar en esos cuerpos de agua, es posible establecer una idea del estado de salud de estos ecosistemas."_
 
 En adición a esto, la pasión compartida por el estudio de un grupo particular de seres vivos es uno de los principales motivos por el que los científicos se unen para trabajar juntos con un objetivo en común. Este es el caso del nuevo integrante de la red de socios publicadores del SiB Colombia:
 
@@ -30,7 +30,7 @@ _"El Grupo Colombiano de Odonatología es un equipo; es decir, somos investigado
 
 La identificación de las especies que se pueden encontrar en un país implica un proceso asiduo de recopilación de fuentes e investigación, con el objetivo de asegurar la precisión y veracidad de los datos. En palabras de una de las encargadas de esta recopilación:
 
-_"“El proceso de construcción de la lista se hizo a través de la compilación de información, tanto primaria como secundaria a través de literatura. Se revisó toda la literatura asociada y existente sobre las libélulas del país. Y también se revisaron ejemplares de las colecciones más importantes del país, como la de la Universidad de Antioquia, que es una de las más grandes, y la de la Universidad de los Andes, que también tiene una muy buena colección. Se revisaron colecciones también pequeñas, todas las que tenían información y registros de odonatos. Algo muy importante es que estuvimos todos los odonatólogos reconocidos en este momento trabajando en la lista. En la publicación compilamos la diversidad de especies, la endemicidad y la categoría de amenaza. Esto es una parte que también se complementa con el checklist, fue publicado en el 2024, donde se encuentra otra información, como la historia de la odonatología en Colombia, cómo están las las colecciones biológicas y también si las larvas de estas especies están escritas.”_
+_“El proceso de construcción de la lista se hizo a través de la compilación de información, tanto primaria como secundaria a través de literatura. Se revisó toda la literatura asociada y existente sobre las libélulas del país. Y también se revisaron ejemplares de las colecciones más importantes del país, como la de la Universidad de Antioquia, que es una de las más grandes, y la de la Universidad de los Andes, que también tiene una muy buena colección. Se revisaron colecciones también pequeñas, todas las que tenían información y registros de odonatos. Algo muy importante es que estuvimos todos los odonatólogos reconocidos en este momento trabajando en la lista. En la publicación compilamos la diversidad de especies, la endemicidad y la categoría de amenaza. Esto es una parte que también se complementa con el checklist, fue publicado en el 2024, donde se encuentra otra información, como la historia de la odonatología en Colombia, cómo están las las colecciones biológicas y también si las larvas de estas especies están escritas.”_
 
 # Los retos de hacer ciencia con comunidades locales
 
