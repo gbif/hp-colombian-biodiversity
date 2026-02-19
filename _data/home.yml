@@ -91,6 +91,17 @@ splitGruposdeInteres:
 noticias:
   features:
 
+     - preTitle: 19 de febrero, 2026
+       title: "El 2026 arranca con fuerza: nuevos publicadores, nuevas especies y colecciones fortalecidas" 
+       description: |      # required
+       De una reserva en el Pacífico a los cultivos de Ocaña los datos que ampliaron el mapa este mes
+       # img required
+       background: /assets/images/noticias_eventos/2026/2026-02-19-destacados_enero.png
+       cta:
+       - text: Ver más
+         href: /post/2026/destacados-enero/
+         isPrimary: false
+        
     - preTitle: 13 de febrero, 2026
       title: "Más datos abiertos sobre insectos: Los odonatos llegan al SiB Colombia" 
       description: |      # required
@@ -101,6 +112,7 @@ noticias:
       - text: Ver más
         href: /post/2026/publicacion-lista-odonatos/
         isPrimary: false
+        
     - preTitle: 28 de enero, 2026
       title: "Convocatoria 2026 al Premio GBIF para Investigadores Graduados" 
       description: |      # required
@@ -144,28 +156,7 @@ noticias:
       - text: Ver más
         href: /post/2025/actualizacion-lista-invasoras/
         isPrimary: false
-        
-    - preTitle: 10 de diciembre, 2025
-      title: "Nueva plantilla temática para datos microbiológicos utilizando el estándar Darwin Core y sus extensiones" 
-      description: |      # required
-       Un trabajo conjunto entre la Colección de Microorganismos de la Pontificia Universidad Javeriana y el SiB Colombia.
-      # img required
-      background: /assets/images/noticias_eventos/2025/2025-12-10-Datos_micro.png
-      cta:
-      - text: Ver más
-        href: /post/2025/plantilla-microorganismos/
-        isPrimary: false
 
-    - preTitle: 18 de noviembre, 2025
-      title: "Páramos, bosques andinos y colecciones científicas: en octubre se fortaleció el conocimiento sobre la biodiversidad colombiana" 
-      description: |      # required
-       Durante este mes, fundaciones, empresas y universidades aportaron con registros biológicos, eventos de muestreo y conjunto de datos que fortalecen el conocimiento de nuestra biodiversidad.
-      # img required
-      background: /assets/images/noticias_eventos/2025/2025-11-18-destacados-octubre.jpg
-      cta:
-      - text: Ver más
-        href: /post/2025/destacados-octubre/
-        isPrimary: false
         
         
 # Splits
