@@ -55,6 +55,7 @@ Las colecciones biológicas son la memoria viva de la biodiversidad. Este mes, l
 *[Consulta la colección actualizada de artrópodos asociados al cultivo de palma de aceite ](http://doi.org/10.15472/ankmwf)*
 
 
+
 ---
 ![Actividad de publicación](/assets/images/noticias_eventos/2025/banner-actividad-de-publicacion.png) 
 
