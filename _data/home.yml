@@ -91,16 +91,16 @@ splitGruposdeInteres:
 noticias:
   features:
 
-     - preTitle: 19 de febrero, 2026
-       title: "El 2026 arranca con fuerza: nuevos publicadores, nuevas especies y colecciones fortalecidas" 
-       description: |      # required
+    - preTitle: 19 de febrero, 2026
+      title: "El 2026 arranca con fuerza: nuevos publicadores, nuevas especies y colecciones fortalecidas" 
+      description: |      # required
        De una reserva en el Pacífico a los cultivos de Ocaña los datos que ampliaron el mapa este mes
-       # img required
-       background: /assets/images/noticias_eventos/2026/2026-02-19-destacados_enero.png
-       cta:
-       - text: Ver más
-         href: /post/2026/destacados-enero/
-         isPrimary: false
+      # img required
+      background: /assets/images/noticias_eventos/2026/2026-02-19-destacados_enero.png
+      cta:
+      - text: Ver más
+        href: /post/2026/destacados-enero/
+        isPrimary: false
         
     - preTitle: 13 de febrero, 2026
       title: "Más datos abiertos sobre insectos: Los odonatos llegan al SiB Colombia" 
