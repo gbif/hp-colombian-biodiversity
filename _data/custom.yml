@@ -6,8 +6,8 @@ gacetero:
 reporte_actual:
   klass: iframe-box
   markdownContent: |
-   <iframe width="600" height="4413" src="https://lookerstudio.google.com/embed/reporting/df8d34b7-a736-4447-82e2-b1912b1e2ec4/page/Ge2V" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
-   
+   <iframe width="600" height="4413" src="https://lookerstudio.google.com/embed/reporting/14cd98b2-390a-4bce-9a07-1a428fb85b23/page/Ge2V" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>  
+
 markdown_reporte:
   markdownContent: |
     Consulta los restultados de la actividad de publicación del último mes y conoce las organizaciones activas, número de recursos actualizados, crecimiento de los diferentes tipos de datos compartidos a través del SiB Colombia y la citación de los mismos en publicaciones indexadas.  Conoce los reportes de publicación históricos [aquí](/comunidad/actividad-de-publicacion#2021)
