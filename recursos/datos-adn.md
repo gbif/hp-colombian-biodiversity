@@ -5,6 +5,7 @@ description: Conoce sobre la importancia de esto datos, las categorías admitida
 background: /recursos/images/dna-m-richter-pixabay.png
 imageLicense: |
    M. Richter from Pixabay vía [Pixabay]([https://flic.kr/p/fHBqiX](https://pixabay.com/illustrations/dna-biology-science-genetics-8895881/)) 
+toc: true
 height: 41vh
 ---
 
@@ -82,7 +83,7 @@ El **SiB Colombia** cuenta con un modelo de publicación que facilita compartir 
     * Sigue la guía de GBIF, especialmente la sección de [mapeo de datos](https://docs.gbif.org/publishing-dna-derived-data/es/).
 2. **Carga los datos en el IPT**
     * La herramienta *Integrated Publishing Toolkit (IPT)* es el repositorio oficial del SiB Colombia.
-    * Si tu organización aún no es publicador del SiB Colombia, escríbenos a [sib@humboldt.org.co](mailto:sib@humboldt.org.co) para iniciar el proceso de inscripción. Si ya hace, continúa con tus credenciales hacia el IPT señalado por el Equipo Coordinador en: [Herramienta de publicación - SiB Colombia](https://biodiversidad.co/recursos/ipt/)
+    * Si tu organización aún no es publicador del SiB Colombia, escríbenos a [sib@humboldt.org.co](mailto:sib@humboldt.org.co) para iniciar el proceso. Si tu organización ya es socia del SiB Colombia, continúa con tus credenciales hacia el IPT señalado por el Equipo Coordinador en: [Herramienta de publicación - SiB Colombia](https://biodiversidad.co/recursos/ipt/)
     * Documenta los **metadatos** que respondan: qué, cómo, cuándo, dónde y quién. Conoce el paso a paso en la [lista de tutoriales](https://www.youtube.com/watch?v=48biUad7aKk&list=PL_KzX3Rxxwb3FwwtGQPhbDgYYLN_b7hDv&index=6) en nuestro canal de Youtube.
 3. **Selecciona la licencia de uso**
     * Escoger licencia de atribución y uso, según la [guía de acceso abierto del SiB Colombia](https://biodiversidad.co/recursos/acceso-abierto/).
