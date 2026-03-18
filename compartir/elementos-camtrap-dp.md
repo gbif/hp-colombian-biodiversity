@@ -587,165 +587,94 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | Índice |	|	|	|
 | ---|--- |--- |--- |
-| [**basisOfRecord**<br> (Base del registro)](#vc_basisOfRecord) | [**type**<br> (Tipo)](#vc_type) | [**language**<br> (Idioma)](#vc_language) | [**establishmentMeans**<br> (Medios de establecimiento)](#vc_establishmentMeans) |
-| [**degreeOfEstablishment**<br> (Grado de establecimiento](#vc_degreeOfEstablishment) | [**pathway**<br> (Ruta de introducción)](#vc_pathway) | [**occurrenceStatus**<br> (Estado del registro biológico)](#vc_occurrenceStatus) | [**continent**<br> (Continente)](#vc_continent) |
-| [**countryCode**<br> (Código del país)](#vc_countryCode) | [**threatStatus**<br> (Estado de amenaza)](#vc_threatStatus) | [**appendixCITES**<br> (Apéndice CITES)](#vc_appendixCITES) | [**type**<br> (Tipo)](#vc_multimedia_type) |
-
+| [**featureType**<br> (Tipo de rasgo del paisaje)](#vc_featureType) | [**captureMethod**<br> (Método de captura)](#vc_captureMethod) | [**observationLevel**<br> (Nivel de la observación)](#vc_observationLevel) | [**observationType**<br> (Tipo de observación)](#vc_observationType) |
+| [**cameraSetupType**<br> (Tipo de acción en la instalación de la cámara)](#vc_cameraSetupType) | [**lifeStage**<br> (Etapa de desarrollo)](#vc_lifeStage) | [**sex**<br> (Sexo)](#vc_sex) | [**classificationMethod**<br> (Método de clasificación)](#vc_classificationMethod) |
 
 <br>
 <br>
 
-<a id="vc_basisOfRecord">**basisOfRecord** (Base del registro)</a>
+<a id="vc_featureType">**featureType** (Tipo de rasgo del paisaje)</a>
 
 |  Vocabulario |  Definición  |
 | ---|--- |
-| PreservedSpecimen | El organismo está preservado (muerto), vivió dentro de tiempos históricos y existe (o alguna vez existió) una parte física que podría ser evaluada nuevamente.<br><br> Exclusivo para uso de las colecciones biológicas, las cuales custodian la evidencia física del espécimen preservado.<br><br> Siempre va acompañado del elemento type documentado como “PhysicalObject”. |
-| LivingSpecimen | Existe un espécimen vivo (crece o metaboliza) disponible en una colección.<br><br> Exclusivo para uso de las colecciones biológicas vivas y zoológicos, las cuales custodian la evidencia física del espécimen. No aplica para partes dormantes de un espécimen preservado.<br><br> Siempre va acompañado del elemento type documentado como “PhysicalObject”. |
-| HumanObservation | Se emplea para observaciones directas de un organismo completo y colectas temporales (captura y liberación del espécimen in situ).<br><br> También se emplea este valor si el espécimen observado fue posteriormente colectado y depositado en una colección biológica, pero el conjunto de datos no corresponde a la publicación de la colección biológica. En dicho caso se deben documentar los elementos collectionID y collectionCode para informar en qué colección se depositó el espécimen, y el Número de Catálogo (catalogNumber) dentro de la colección (o número de catálogo provisional), si este ya fue asignado.<br><br> Por lo general va acompañado del elemento type documentado como “Event”; en caso de ser un registro sonoro detectado de forma directa por un humano, el elemento type se documenta como “Sound”. |
-| MachineObservation | Se emplea para cualquier tipo de observación indirecta de un organismo por medio de un equipo o medio digital (grabadora de sonido, cámara trampa, entre otros), donde la evidencia del registro puede ser evaluada nuevamente:<br><br> Según el caso, va acompañado del elemento type documentado como “StillImage”, “MovingImage” o “Sound”. |
-| MaterialSample | Se emplea cuando la evidencia del organismo es indirecta y corresponde solo a una parte de este, por ejemplo: sangre, tejido, pelo, heces, etc.<br><br> Siempre va acompañado del elemento type documentado como “PhysicalObject”. |
-| FossilSpecimen | Se emplea con organismos prehistóricos con evidencia fósil que soporta su existencia.<br><br> Siempre va acompañado del elemento type documentado como “PhysicalObject”. |
+| roadPaved | Carretera pavimentada |
+| roadDirt | Vía sin pavimentar |
+| trailHiking | Sendero de excursionismo |
+| trailGame | Sendero de fauna |
+| roadUnderpass | Paso de fauna subterráneo |
+| roadOverpass | Paso de fauna superior |
+| roadBridge | Puente de carretera |
+| culvert | Alcantarilla |
+| burrow | Madriguera |
+| nestSite | Sitio de anidación |
+| carcass | Cadáver |
+| waterSource | Fuente de agua |
+| fruitingTree | Árbol en fructificación |
 
 <br>
 
-<a id="vc_type">**type** (Tipo)</a>
+<a id="vc_captureMethod">**captureMethod** (Método de captura)</a>
 
 |  Vocabulario |  Definición  |
 | ---|--- |
-| PhysicalObject | Evidencia física que soporta el registro biológico.<br> Siempre complementa la base del registro (basisOfRecord): PreservedSpecimen, LivingSpecimen, MaterialSample y FossilSpecimen |
-| StillImage | Una fotografía.<br> Complementa la base del registro (basisOfRecord): MachineObservation |
-| MovingImage | Un video, puede incluir sonido.<br> Complementa la base del registro (basisOfRecord): MachineObservation |
-| Sound | Registro de audio.<br> Puede complementar la base del registro (basisOfRecord): MachineObservation y HumanObservation |
-| Event | Observación de los especímenes en campo.<br> Siempre complementa la base del registro (basisOfRecord): HumanObservation |
+| activityDetection | Detección de actividad |
+| timeLapse | Lapso temporal |
 
 <br>
 
-<a id="vc_language">**language** (Idioma)</a>
-
-| ---|
-| Utilizar el vocabulario controlado para el idioma en la norma ISO 639-1. Solamente se usan 2 letras en minúscula, consulte la información en la página oficial de ISO [http://www.loc.gov/standards/iso639-2/php/code_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php) |
-
-<br>
-
-<a id="vc_establishmentMeans">**establishmentMeans** (Medios de establecimiento)</a>
+<a id="vc_observationLevel">**observationLevel** (Nivel de la observación)</a>
 
 |  Vocabulario |  Definición  |
 | ---|--- |
-| native | Nativo |
-| nativeReintroduced | Nativo reintroducido |
-| introduced | Introducido |
-| introducedAssistedColonisation | Introducido con colonización asistida |
-| vagrant | Errante |
-| uncertain | Incierto |
+| media | Observación realizada a nivel de un archivo multimedia individual, donde cada foto o video es un solo registro independiente |
+| event | Observación realizada a nivel de evento de registro, donde se agrupan varios archivos multimedia en un solo registro. |
 
 <br>
 
-<a id="vc_degreeOfEstablishment">**degreeOfEstablishment** (Grado de establecimiento)</a>
+<a id="vc_observationType">**observationType** (Tipo de observación)</a>
 
 |  Vocabulario |  Definición  |
 | ---|--- |
-| native | Nativo |
-| captive | Cautivo |
-| cultivated | Cultivado |
-| released | Liberado |
-| failing | Fallido |
-| casual | Casual |
-| reproducing | Reproduciéndose |
-| established | Establecido |
-| colonising | Colonizando |
-| invasive | Invasor |
-| widespreadInvasive | Invasor ampliamente distribuido |
+| animal | Animal |
+| human | Humano |
+| vehicle | Vehículo |
+| blank | Blanco |
+| unknown | Desconocido |
+| unclassified | No clasificado |
 
 <br>
 
-<a id="vc_pathway">**pathway** (Ruta de introducción)</a>
-
-La lista completa de vocabularios controlados se encuentra disponible en [https://dwc.tdwg.org/pw/#4-vocabulary](https://dwc.tdwg.org/pw/#4-vocabulary){:target="_blank"}. Utilice la palabra en la columna llamada controlled value. Se presentan los vocabularios más comunes a continuación:
+<a id="vc_cameraSetupType">**cameraSetupType** (Tipo de acción en la instalación de la cámara)</a>
 
 |  Vocabulario |  Definición  |
 | ---|--- |
-| releasedForUse | Liberado |
-| otherEscape | Escape accidental |
-| transportContaminant | Contaminación en transporte |
-| transportStowaway | Polizón en transporte |
-| corridor | Corredor |
-| unaided | Sin ayuda |
+| setup | Instalación |
+| calibration | Calibración |
 
 <br>
 
-<a id="vc_occurrenceStatus">**occurrenceStatus** (Estado del registro biológico)</a>
-
-| Vocabulario |  Definición |  Uso  |
-| ---| ---|--- |
-| Presente | Existe al menos un registro bien documentado de la presencia del taxón en el área. | Extensión Distribución de la Especie |
-| Ausente | Existe evidencia para documentar la ausencia del taxón en el área. | Extensión Distribución de la Especie |
-| present | Se encontró evidencia de la presencia de un organismo en el momento y lugar del registro biológico  | Core Registros |
-| absent | No se encontró evidencia de la presencia de un organismo en el momento y lugar de la toma del registro biológico bajo un protocolo establecido específicamente para su detección  | Core Registros |
-
-<br>
-
-<a id="vc_continent">**continent** (Continente)</a>
-
-|  Vocabulario |
-| ---|
-| América del Sur |
-| América del Norte |
-| Europa |
-| África |
-| Asia |
-| Oceanía |
-| Antártida |
-
-<br>
-
-<a id="vc_countryCode">**countryCode** (Código del país)</a>
-
-| ---: | :--- |
-| Utilizar el vocabulario controlado de la norma ISO 3166-1-alfa-2 de códigos de países. Solamente se usan 2 letras en mayúscula, consulte la información en la página [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO){:target="_blank"} |
-
-<br>
-
-<a id="vc_threatStatus">**threatStatus** (Estado de amenaza)</a>
+<a id="vc_lifeStage">**lifeStage** (Etapa de desarrollo)</a>
 
 |  Vocabulario |  Definición  |
 | ---|--- |
-| EX | Especies extintas |
-| EW | Especies extintas en vida silvestre |
-| RE | Especies extintas regionalmente |
-| CR | Especies en peligro crítico |
-| EN | Especies en peligro |
-| VU | Especies en estado vulnerable |
-| NT | Especies casi amenazadas |
-| LC | Especies en estado de amenaza de menor preocupación |
-| DD | Especies con datos deficientes del estado de amenaza |
-| NA | Especies que no aplica el estado de amenaza |
-| NE | Especies no evaluadas en términos de estado de amenaza |
+| adult | Adulto |
+| subadult | Subadulto |
+| juvenile | Juvenil |
 
 <br>
 
-<a id="vc_appendixCITES">**appendixCITES** (Apéndice CITES)</a>
+<a id="vc_sex">**sex** (Sexo)</a>
 
 |  Vocabulario |  Definición  |
 | ---|--- |
-| I | Apéndice I que incluye todas las especies en peligro de extinción que están o pueden verse afectadas por el comercio. |
-| II | Apéndice II  que incluye las especies que aunque no están amenazadas pueden llegar a estarlo  de no reglamentar su comercio de manera estricta. |
-| III | Apéndice III que incluye las especies que sujetas a regulación dentro de cualquier jurisdicción con el propósito de prevenir o restringir la explotación, y que necesitan la cooperación de otras Partes en el control del comercio. |
+| female | Hembra |
+| male | Macho |
 
 <br>
 
-<a id="vc_multimedia_type">**type** (Tipo)</a>
+<a id="vc_classificationMethod">**classificationMethod** (Método de clasificación)</a>
 
 |  Vocabulario |  Definición  |
 | ---|--- |
-| Collection | Colección |
-| Dataset | Conjunto de datos |
-| Event | Evento |
-| Image | Imagen |
-| InteractiveResource | Recurso interactivo |
-| Service | Servicio |
-| Software | Programa |
-| Sound | Sonido |
-| Text | Texto |
-| PhysicalObject  | Objeto físico |
-| StillImage | Fotografía |
-| MovingImage | Video |
+| human | Humana |
+| machine | Máquina |
