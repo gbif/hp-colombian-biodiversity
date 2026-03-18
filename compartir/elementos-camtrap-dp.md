@@ -14,9 +14,9 @@ El estándar **Camtrap DP** permite la consolidación de datos sobre cámaras tr
 
 El modelo de datos conceptual del estándar es un esquema con tres tablas para los datos y un archivo .json para los metadatos. Las tablas de datos corresponden a:
 
-El **DwC** está compuesto por **categorías** que se utilizan para agrupar conjuntos de **elementos** de acuerdo a su naturaleza. Cada **elemento** a su vez, está compuesto por una definición, especificaciones y requerimientos. Los **elementos** pueden hacer parte de todos o algunos de los _core_.
- 
-Adicionalmente, existen **extensiones** que se pueden asociar principalmente al _core_. Las **extensiones** también están conformadas por **elementos** los cuales son usados para documentar información adicional y específica que no se relaciona dentro del _core_ (ej., descripción de las especies, rasgos funcionales, información genética, entre otros). Las **extensiones** pueden ser compatibles con todos o algunos de los _core_.
+- Deployments - Evento de muestreo: Tabla donde se documenta la información de las cámaras trampa, ubicación, modelo, etc.
+- Media - Archivo multimedia: Tabla donde se documenta la información de todos los archivos multimedia que se tomaron en el muestreo.
+- Observations - Observaciones: Tabla donde se documenta la información de los registros biológicos observados en el muestreo.
 
 En esta página se presenta una aplicación del **CamtrapDP** en español y enfocada a la necesidades de país, la cual contiene a mano derecha una tabla de contenido con las **categorías** del estándar, que llevan a su vez al listado de **elementos** que conforman cada **categoría**. Dentro del listado de **elementos** es posible dirigirse directamente al **elemento** de interés en donde se encontrará la siguiente información detallada:
 
