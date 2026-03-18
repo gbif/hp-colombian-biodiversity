@@ -51,6 +51,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Identificador único del Evento de muestreo. |
+| Obligatoriedad | Obligatorio |
 | Ejemplo | dep1 |
 
 <br>
@@ -90,7 +91,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 <a id="coordinateUncertainty">coordinateUncertainty (Incertidumbre de las coordenadas)</a>
 
 | ---: | :--- |
-| Definición | Distancia horizontal expresada en mestros desde la latitud y longitud dadas que describe el círculo más pequeño que contiene la ubicación del Evento de muestreo. Especialmente relevante cuando las coordenadas se redondean para proteger especies sensibles. |
+| Definición | Distancia horizontal expresada en metros desde la latitud y longitud dadas que describe el círculo más pequeño que contiene la ubicación del Evento de muestreo. Especialmente relevante cuando las coordenadas se redondean para proteger especies sensibles. |
 | Ejemplo | 100 |
 
 <br>
@@ -99,15 +100,15 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Fecha y hora en la que se inició el Evento de muestreo. Debe estar documentada en el esquema de codificación ISO 8601 con designador de zona horaria (AAAA-MM-DDThh:mm:ssZ o AAAA-MM-DDThh:mm:ss±hh:mm). |
-| Ejemplo | 2025-03-01T22:00:00Z |
+| Ejemplo | 2025-04-01T22:00:00Z<br>2025-04-01T22:00:00-05:00 |
 
 <br>
 
 <a id="deploymentEnd">deploymentEnd (Fin del Evento de muestreo)</a>
 
 | ---: | :--- |
-| Definición | Fecha y hora en la que finalizó el Evento de muestreo. Debe estar documentada en el esquema de codificación ISO 8601 (AAAA-MM-DDThh:mm:ssZ o AAAA-MM-DDThh:mm:ss±hh:mm). |
-| Ejemplo | 2025-04-01T22:00:00-05:00 |
+| Definición | Fecha y hora en la que finalizó el Evento de muestreo. Debe estar documentada en el esquema de codificación ISO 8601 con designador de zona horaria(AAAA-MM-DDThh:mm:ssZ o AAAA-MM-DDThh:mm:ss±hh:mm). |
+| Ejemplo | 2025-04-01T22:00:00Z<br>2025-04-01T22:00:00-05:00 |
 
 <br>
 
@@ -186,7 +187,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 <a id="timestampIssues">timestampIssues (Problemas con las fechas)</a>
 
 | ---: | :--- |
-| Definición | Verdadero (true) si se sabe que la fecha y hora en los recursos multimedia (timestamp) del Evento de muestreo tienen problemas imposibles de solucionar (ej. zona horaria desconocida, cambio am/pm). |
+| Definición | Verdadero (true) si se sabe que la fecha y hora en los recursos multimedia (timestamp) del Evento de muestreo tienen problemas imposibles de solucionar (ej. zona horaria desconocida, cambio am/pm). Falso (false) si no hay ningún recurso multimedia con problemas en el Evento de muestreo. |
 | Ejemplo | false |
 
 <br>
@@ -203,7 +204,8 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Tipo de rasgo del paisaje (si lo hay) asociado con el Evento de muestreo. |
-| Ejemplo | culvert |
+| [Vocabulario controlado](#vc_featureType) | culvert<br> roadPaved<br> fruitingTree |
+
 
 <br>
 
@@ -218,16 +220,16 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 <a id="deploymentGroups">deploymentGroups (Grupos de Eventos de muestreo)</a>
 
 | ---: | :--- |
-| Definición | Grupo(s) de Eventos de muestreo asociados con el registro. Los eventos pueden tener un contexto espacial (matrices, cuadrículas, clústeres), temporal (sesiones, temporadas, años) u otro contexto. Para valores múltiples se debe usar la estructurar como lista (en una fila continua y separada por una barra vertical “|”), preferiblemente organizados como pares clave:valor. |
-| Ejemplo | Temporada:Seca 2020 | Grilla:A1 |
+| Definición | Grupo(s) de Eventos de muestreo asociados con el registro. Los eventos pueden tener un contexto espacial (matrices, cuadrículas, clústeres), temporal (sesiones, temporadas, años) u otro contexto. Para valores múltiples se debe usar la estructura como lista (en una fila continua y separada por una barra vertical “\|”), preferiblemente organizados como pares clave:valor. |
+| Ejemplo | Temporada:Seca 2020 \| Grilla:A1 |
 
 <br>
 
 <a id="deploymentTags">deploymentTags (Etiquetas del Evento de muestreo)</a>
 
 | ---: | :--- |
-| Definición | Etiqueta(s) asociada(s) con el Evento de muestreo. Para valores múltiples se debe usar la estructurar como lista (en una fila continua y separada por una barra vertical “|”), opcionalmente organizados como pares clave:valor. |
-| Ejemplo | Límite de bosque | Cebo:comida |
+| Definición | Etiqueta(s) asociada(s) con el Evento de muestreo. Para valores múltiples se debe usar la estructura como lista (en una fila continua y separada por una barra vertical “\|”), opcionalmente organizados como pares clave:valor. |
+| Ejemplo | Límite de bosque \| Cebo:comida |
 
 <br>
 
@@ -272,7 +274,9 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Método utilizado para capturar el archivo multimedia. |
-| Ejemplo | activityDetection |
+| Obligatoriedad | Recomendado |
+| [Vocabulario controlado](#vc_captureMethod) | activityDetection<br> timeLapse |
+
 
 <br>
 
@@ -280,7 +284,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Fecha y hora en la que se tomó el archivo multimedia. Debe estar documentada en el esquema de codificación ISO 8601 con designador de zona horaria (AAAA-MM-DDThh:mm:ssZ o AAAA-MM-DDThh:mm:ss±hh:mm). |
-| Ejemplo | 2020-03-24T11:21:46Z |
+| Ejemplo | 2020-03-24T11:21:46Z<br>2020-03-24T06:21:46-05:00 |
 
 <br>
 
@@ -295,7 +299,9 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 <a id="filePublic">filePublic (Archivo multimedia público)</a>
 
 | ---: | :--- |
-| Definición | Falso (false) si el archivo multimedia no es accesible públicamente (ej. para proteger la privacidad de las personas). |
+| Definición | Verdadero (true) si el archivo multimedia se puede acceder públicamente. Falso (false) si no es accesible públicamente (ej. para proteger la privacidad de las personas). |
+| Elementos relacionados | timestamp, fileName |
+| Obligatoriedad | Recomendado |
 | Ejemplo | true |
 
 <br>
@@ -311,7 +317,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 <a id="fileMediatype">fileMediatype (Tipo de archivo multimedia)</a>
 
 | ---: | :--- |
-| Definición | Tipo de archivo multimedia. Expresado utilizando uno de los tipos IANA (Internet Assigned Numbers Authority). |
+| Definición | Tipo de archivo multimedia. Expresado utilizando uno de los tipos IANA (Internet Assigned Numbers Authority: [https://www.iana.org/assignments/media-types/media-types.xhtml](https://www.iana.org/assignments/media-types/media-types.xhtml){:target="_blank"}). |
 | Ejemplo | image/jpeg |
 
 <br>
@@ -319,7 +325,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 <a id="exifData">exifData (Datos EXIF)</a>
 
 | ---: | :--- |
-| Definición | Datos EXIF del archivo multimedia. Debe estar documentados como un objeto JSON válido. |
+| Definición | Datos EXIF del archivo multimedia. Deben estar documentados como un objeto JSON válido. |
 | Ejemplo | {"EXIF":{"ISO":200,"Make":"RECONYX"}} |
 
 <br>
@@ -464,7 +470,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 <a id="behavior">behavior (Comportamiento)</a>
 
 | ---: | :--- |
-| Definición | Comportamiento dominante del individuo(s) observado(s). Para valores múltiples se debe usar la estructurar como lista (en una fila continua y separada por una barra vertical “\|”). |
+| Definición | Comportamiento dominante del individuo(s) observado(s). Para valores múltiples se debe usar la estructura como lista (en una fila continua y separada por una barra vertical “\|”). |
 | Ejemplo | Vigilante |
 
 <br>
@@ -568,7 +574,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 <a id="observationTags">observationTags (Etiquetas de la observación)</a>
 
 | ---: | :--- |
-| Definición | Etiqueta(s) asociada(s) con la observación. Para valores múltiples se debe usar la estructurar como lista (en una fila continua y separada por una barra vertical “\|”). |
+| Definición | Etiqueta(s) asociada(s) con la observación. Para valores múltiples se debe usar la estructura como lista (en una fila continua y separada por una barra vertical “\|”). |
 | Ejemplo | DirecciónDeViaje:Izquierda |
 
 <br>
