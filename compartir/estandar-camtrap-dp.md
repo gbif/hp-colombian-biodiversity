@@ -37,15 +37,6 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 |  Índice  |	|	|	|
 | ---|--- |--- |--- |
-| [**basisOfRecord**<br> (Base del registro)](#basisOfRecord) | [**type**<br> (Tipo)](#type) | [**institutionCode**<br> (Código de la institución)](#institutionCode) | [**institutionID**<br> (ID de la institución)](#institutionID) |
-| [**collectionCode**<br> (Código de la colección)](#collectionCode) | [**collectionID**<br> (ID de la colección)](#collectionID) | [**datasetName**<br> (Nombre del conjunto de datos)](#datasetName) | [**datasetID**<br> (ID del conjunto de datos)](#datasetID) |
-| [**modified**<br> (Modificado)](#modified) | [**language**<br> (Idioma)](#language) | [**license**<br> (Licencia)](#license) | [**rightsHolder**<br> (Titular de los derechos)](#rightsHolder) |
-| [**accessRights**<br> (Derechos de acceso)](#accessRights) | [**bibliographicCitation**<br> (Citación bibliográfica)](#bibliographicCitation) | [**references**<br> (Referencias)](#references) | [**ownerInstitutionCode**<br> (Código de la institución propietaria)](#ownerInstitutionCode) |
-| [**informationWithheld**<br> (Información retenida)](#informationWithheld) | [**dataGeneralizations**<br> (Generalización de los datos)](#dataGeneralizations) | [**dynamicProperties**<br> (Propiedades dinámicas)](#dynamicProperties) | |
-
-
-|  Índice  |	|	|	|
-| ---|--- |--- |--- |
 | [**deploymentID**<br> (ID del Evento de muestreo)](#deploymentID) | [**locationID**<br> (ID de la ubicación)](#locationID) | [**locationName**<br> (Nombre de la ubicación)](#locationName) | [**latitude**<br> (Latitud)](#latitude) |
 | [**longitude**<br> (Longitud)](#longitude) | [**coordinateUncertainty**<br> (Incertidumbre de las coordenadas)](#coordinateUncertainty) | [**deploymentStart**<br> (Inicio del Evento de muestreo)](#deploymentStart) | [**deploymentEnd**<br> (Fin del Evento de muestreo)](#deploymentEnd) |
 | [**setupBy**<br> (Instalado por)](#setupBy) | [**cameraID**<br> (ID de la cámara)](#cameraID) | [**cameraModel**<br> (Modelo de la cámara)](#cameraModel) | [**cameraDelay**<br> (Demora de la cámara)](#cameraDelay) |
@@ -254,281 +245,98 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 |  Índice  |    |    |    |
 | ---|--- |--- |--- |
-| [**occurrenceID**<br> (ID del Registro biológico)](#occurrenceID) | [**catalogNumber**<br> (Número de catálogo)](#catalogNumber) | [**recordNumber**<br> (Número del registro)](#recordNumber) | [**recordedBy**<br> (Registrado por)](#recordedBy) |
-| [**recordedByID**<br> (ID del registrador)](#recordedByID) | [**individualCount**<br> (Número de individuos)](#individualCount) | [**organismQuantity**<br> (Cantidad del organismo)](#organismQuantity) | [**organismQuantityType**<br> (Tipo de cantidad del organismo)](#organismQuantityType) |
-| [**sex**<br> (Sexo)](#sex) | [**lifeStage**<br> (Etapa de desarrollo)](#lifeStage) | [**reproductiveCondition**<br> (Condición reproductiva)](#reproductiveCondition) | [**caste**<br> (Casta)](#caste) |
-| [**behavior**<br> (Comportamiento)](#behavior) | [**vitality**<br> (Estado de vitalidad)](#vitality) | [**establishmentMeans**<br> (Medios de establecimiento)](#establishmentMeans) | [**degreeOfEstablishment**<br> (Grado de establecimiento)](#degreeOfEstablishment) |
-| [**pathway**<br> (Ruta de introducción)](#pathway) | [**occurrenceStatus**<br> (Estado del registro biológico)](#occurrenceStatus) | [**preparations**<br> (Preparaciones)](#preparations) | [**disposition**<br> (Disposición)](#disposition) |
-| [**verbatimLabel**<br> (Etiqueta original)](#verbatimLabel) | [**otherCatalogNumbers**<br> (Otros números de catálogo)](#otherCatalogNumbers) | [**associatedMedia**<br> (Medios asociados)](#associatedMedia) | [**associatedOccurrences**<br> (Registros biológicos asociados)](#associatedOccurrences)
-| [**associatedReferences**<br> (Referencias asociadas)](#associatedReferences) | [**associatedSequences**<br> (Secuencias asociadas)](#associatedSequences) | [**associatedTaxa**<br> (Taxones asociados)](#associatedTaxa) | [**occurrenceRemarks**<br> (Comentarios del registro biológico)](#occurrenceRemarks) |
+| [**mediaID**<br> (ID del archivo multimedia)](#mediaID) | [**deploymentID**<br> (ID del Evento de muestreo)](#deploymentID_media) | [**captureMethod**<br> (Método de captura)](#captureMethod) | [**timestamp**<br> (Fecha y hora del archivo multimedia)](#timestamp) |
+| [**filePath**<br> (Ruta del archivo multimedia)](#filePath) | [**filePublic**<br> (Archivo multimedia público)](#filePublic) | [**fileName**<br> (Nombre del archivo multimedia)](#fileName) | [**fileMediatype**<br> (Tipo de archivo multimedia)](#fileMediatype) |
+| [**exifData**<br> (Datos EXIF)](#exifData) | [**favorite**<br> (Archivo multimedia destacado)](#favorite) | [**mediaComments**<br> (Comentarios del archivo multimedia)](#mediaComments) | |
 
 <br>
 <br>
 
-<a id="occurrenceID">**occurrenceID** (ID del Registro biológico)</a>
+<a id="mediaID">mediaID (ID del archivo multimedia)</a>
 
 | ---: | :--- |
-| Definición | Un identificador único del registro biológico (observación, ejemplar, fotografía, etc.).<br><br> En ausencia de un identificador único global persistente, se recomienda construir uno a partir de la combinación:<br><br> Cuando pertenece a una observación: [código corto de la institución]:[palabra(s) clave del recurso]:[número de campo/número consecutivo]<br> Cuando pertenece a una colección: [código corto de la institución]:[código de la colección]:[número de catálogo].<br> No debe contener espacios en blanco o caracteres especiales.<br><br> Si usted ya maneja en su conjunto de datos un identificador único por registros biológico, puede usarlo como identificador en el conjunto de datos. |
-| Ejemplo | Promigas:Compensacion-SanJuan:Fauna-00001<br> UCO:RESCATE_FAUNA_MULATOSII:1<br> UNIVALLE:CRM-UV:1974-001-1 |
-| Core _(Obligatoriedad)_ | Registros _(Obligatorio)_ |
+| Definición | Identificador único del archivo multimedia. |
+| Ejemplo | m1 |
 
 <br>
 
-<a id="catalogNumber">**catalogNumber** (Número de catálogo)</a>
+<a id="deploymentID_media">deploymentID (ID del Evento de muestreo)</a>
 
 | ---: | :--- |
-| Definición | Un identificador (preferiblemente único) asignado al espécimen, muestra o lote en la colección biológica. Puede repetirse en caso de que los especímenes están agrupados en la colección (Lote, Frasco, Caja, etc).<br><br> Debe documentarse de la misma forma que está en la etiqueta. |
-| Ejemplo | 00001<br> 1974-001-1<br> 1732a<br> ANDES-E0813<br> Lepid0784 |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
+| Definición | Identificador del Evento de muestreo a la que pertenece el archivo multimedia. Clave foránea al elemento deployments.deploymentID. |
+| Ejemplo | dep1 |
 
 <br>
 
-<a id="recordNumber">**recordNumber** (Número del registro)</a>
+<a id="captureMethod">captureMethod (Método de captura)</a>
 
 | ---: | :--- |
-| Definición | Un identificador dado al registro biológico en el momento en que fue registrado, sirve como un vínculo entre las anotaciones de campo y el registro biológico. No es el mismo catalogNumber, el cual es usualmente asignado una vez el espécimen ingresa a la colección. |
-| Ejemplo | OPP 7107<br>  JARM-0008<br>  AFT 143 |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
+| Definición | Método utilizado para capturar el archivo multimedia. |
+| Ejemplo | activityDetection |
 
 <br>
 
-<a id="recordedBy">**recordedBy** (Registrado por)</a>
+<a id="timestamp">timestamp (Fecha y hora del archivo multimedia)</a>
 
 | ---: | :--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los nombres de las personas (observadores o recolectores) responsables de realizar el registro.<br><br> El colector u observador principal, especialmente si está asociado al recordNumber tomado en campo, se debe listar en primer lugar. Se debe mantener el mismo formato del nombre a lo largo de todos los registros y se recomienda evitar el uso de solo iniciales ya que esto genera ambigüedades para reconocer a las personas que realizaron el registro, de ser posible siempre escriba nombres completos. Documente el nombre de las personas y evite documentar nombres de grupos u organizaciones. |
-| Ejemplo | Eduardo Amat García<br> Javier Maldonado Ocampo<br> Mónica Andrea Sánchez Torres \| Esteban Andrés Novoa López |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico |
+| Definición | Fecha y hora en la que se tomó el archivo multimedia. Debe estar documentada en el esquema de codificación ISO 8601 con designador de zona horaria (AAAA-MM-DDThh:mm:ssZ o AAAA-MM-DDThh:mm:ss±hh:mm). |
+| Ejemplo | 2020-03-24T11:21:46Z |
 
 <br>
 
-<a id="recordedByID">**recordedByID** (ID del registrador)</a>
+<a id="filePath">filePath (Ruta del archivo multimedia)</a>
 
 | ---: | :--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los ID de las personas (observadores o recolectores), grupos u organizaciones responsables de realizar el registro. Estos identificadores deben corresponder al ORCID, Wikidata u algún otro identificador único controlado. El orden en este elemento no indica una prioridad en la citación ni ningún otro tipo de relación jerárquica. |
-| Ejemplo | https://orcid.org/0000-0001-6215-3617 \| https://orcid.org/0000-0003-1691-239X<br> https://www.wikidata.org/entity/Q28913658 |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
+| Definición | URL o ruta relativa al archivo multimedia, para archivos alojados externamente o para archivos que son parte de un paquete de datos, respectivamente. |
+| Ejemplo | https://multimedia.agouti.eu/assets/6d65f3e4-4770-407b-b2bf-878983bf9872/file |
 
 <br>
 
-<a id="individualCount">**individualCount** (Número de individuos)</a>
+<a id="filePublic">filePublic (Archivo multimedia público)</a>
 
 | ---: | :--- |
-| Definición | Número de individuos presentes en el momento del registro biológico (observación, ejemplar, fotografía, etc.). Utilice este elemento si todos los conteos corresponden a individuos, de lo contrario utilice organismQuantity y organismQuanitityType. |
-| Ejemplo | 1<br> 25<br> 282 |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
+| Definición | Falso (false) si el archivo multimedia no es accesible públicamente (ej. para proteger la privacidad de las personas). |
+| Ejemplo | true |
 
 <br>
 
-<a id="organismQuantity">**organismQuantity** (Cantidad del organismo)</a>
+<a id="fileName">fileName (Nombre del archivo multimedia)</a>
 
 | ---: | :--- |
-| Definición | Valor que representa una cantidad colectada u observada del organismo, expresada en un sistema de medida estándar para el organismo como cepas, células, porcentaje de biomasa, etc. Documentar este elemento junto con el elemento organismQuantityType. |
-| Comentarios| El sistema de medida se debe documentar en el elemento organismQuantityType, como se muestra en el ejemplo a continuación:<br><br> Para el registro de cobertura de líquenes: organismQuantity: 30 / organismQuantityType: % de cobertura<br> Para la abundancia de fitoplancton: organismQuantity: 253 / organismQuantityType: Células por litro<br> Para comunidades vegetales: organismQuantity: r / organismQuantityType: Escala Braun-Blanquet |
-| Ejemplo | 30<br> 253<br> r |
-| Elementos relacionados | organismQuantityType |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico |
+| Definición | Nombre del archivo multimedia. Si se proporciona, debería permitir ordenar los archivos cronológicamente dentro de un Evento de muestreo usando el elemento timestamp (primero) y el elemento fileName (segundo). |
+| Ejemplo | IMG0001.jpg |
 
 <br>
 
-<a id="organismQuantityType">**organismQuantityType** (Tipo de cantidad del organismo)</a>
+<a id="fileMediatype">fileMediatype (Tipo de archivo multimedia)</a>
 
 | ---: | :--- |
-| Definición | Sistema de medida estándar asociado a la cantidad de organismos. Documentar este elemento junto con el elemento organismQuantity. |
-| Comentarios| La cantidad de organismos se debe documentar en el elemento organismQuantity, como se muestra a continuación:<br><br> Para el registro de cobertura de líquenes: organismQuantity: 30 / organismQuantityType: % de cobertura<br> Para la abundancia de fitoplancton: organismQuantity: 253 / organismQuantityType: Células por litro<br> Para comunidades vegetales: organismQuantity: r / organismQuantityType: Escala Braun-Blanquet |
-| Ejemplo | Porcentaje de cobertura<br> Células por litro<br> Escala Braun-Blanquet |
-| Elementos relacionados | organismQuantity |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico |
+| Definición | Tipo de archivo multimedia. Expresado utilizando uno de los tipos IANA (Internet Assigned Numbers Authority). |
+| Ejemplo | image/jpeg |
 
 <br>
 
-<a id="sex">**sex** (Sexo)</a>
+<a id="exifData">exifData (Datos EXIF)</a>
 
 | ---: | :--- |
-| Definición | El sexo de el(los) organismo(s) representado(s) en el registro. Si en un mismo registro cuenta con varios organismos de diferentes sexos, genere registros (filas) diferentes por cada sexo. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
-| Ejemplo | Hembra<br> Hermafrodita<br> Macho<br> Desconocido<br> Indeterminado<br> Ginandromorfo |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
+| Definición | Datos EXIF del archivo multimedia. Debe estar documentados como un objeto JSON válido. |
+| Ejemplo | {"EXIF":{"ISO":200,"Make":"RECONYX"}} |
 
 <br>
 
-<a id="lifeStage">**lifeStage** (Etapa de desarrollo)</a>
+<a id="favorite">favorite (Archivo multimedia destacado)</a>
 
 | ---: | :--- |
-| Definición | La etapa de vida de el(los) organismo(s) en el momento del registro. Si en un mismo registro cuenta con varios organismos en diferentes etapas de vida, genere registros (filas) diferentes por cada etapa de vida. Se recomienda el uso del vocabulario sugerido disponible para este elemento. |
-| Ejemplo | Huevo<br> Juvenil<br> Adulto<br> Cigoto<br> Embrión<br> Larva<br> Esporófito<br> Espora<br> Gametofito<br> Gameto<br> Pupa<br> Plántula<br> Floración<br> Fructificación |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
+| Definición | Verdadero (true) si el archivo multimedia se considera de interés (ej. una imagen ejemplar de un individuo). |
+| Ejemplo | true |
 
 <br>
 
-<a id="reproductiveCondition">**reproductiveCondition** (Condición reproductiva)</a>
+<a id="mediaComments">mediaComments (Comentarios del archivo multimedia)</a>
 
 | ---: | :--- |
-| Definición | Condición reproductiva de el(los) organismo(s) en el momento del registro. Se recomienda el uso de un vocabulario controlado. |
-| Ejemplo | No reproductiva<br> En gestación<br> Floración<br> Fructificación |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-
-<br>
-
-<a id="caste">**caste** (Casta)</a>
-
-| ---: | :--- |
-| Definición | La categorización de individuos para especies eusociales de algunos artrópodos. |
-| Comentarios | Se recomienda el uso de un vocabulario controlado para cada taxón específico. |
-| Ejemplo | Reina<br> Macho alado<br> Intercasta<br> Trabajador menor<br>  Soldado<br> Ergatoide |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_|
-
-<br>
-
-
-<a id="behavior">**behavior** (Comportamiento)</a>
-
-| ---: | :--- |
-| Definición | Descripción del comportamiento de el(los) organismo(s) en el momento del registro. Se recomienda el uso de un vocabulario controlado. |
-| Ejemplo | Posando<br> Alimentándose<br> Corriendo |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-
-<br>
-
-<a id="vitality">**vitality** (Estado de vitalidad)</a>
-
-| ---: | :--- |
-| Definición | Indicación de la vitalidad del organismo en el momento de la colecta u observación (vivo o muerto). |
-| Comentarios | Se requiere el uso de un vocabulario controlado. Usar este elemento en registros documentados como PreservedSpecimen, MaterialSample, o HumanObservation en el elemento basisOfRecord. |
-|  Ejemplo |  Vivo<br> Muerto<br> Grupo mixto<br> Incierto<br> No evaluado |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-
-<br>
-
-<a id="establishmentMeans">**establishmentMeans** (Medios de establecimiento)</a>
-
-| ---: | :--- |
-| Definición | Una afirmación que de cuenta si un organismo ha sido introducido a un lugar y tiempo determinado a través de actividad humana directa o indirecta. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos degreeOfEstablishment y pathway. |
-| Comentarios| Actualmente el estándar DwC no posee un elemento que permita documentar de manera adecuada la información de endemismos, este elemento es el más cercano para la documentación de esta información por lo cual se incluye el vocabulario 'Endémica'.|
-| Elementos relacionados | degreeOfEstablishment, pathway |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](#vc_establishmentMeans) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain<br> Endémica |
-
-<br>
-
-<a id="degreeOfEstablishment">**degreeOfEstablishment** (Grado de establecimiento)</a>
-
-| ---: | :--- |
-| Definición | El grado en cual el organismo sobrevive, se reproduce y expande su rango de distribución en un lugar y tiempo determinado. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos establishmentMeans y pathway. |
-| Elementos relacionados | establishmentMeans, pathway |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](#vc_degreeOfEstablishment) | native<br> cultivated<br> released<br> established<br> colonising<br> widespreadInvasive |
-
-<br>
-
-<a id="pathway">**pathway** (Ruta de introducción)</a>
-
-| ---: | :--- |
-| Definición | El proceso por el cual un organismo llegó a un lugar y tiempo determinado. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos establishmentMeans y degreeOfEstablishment. |
-| Elementos relacionados | establishmentMeans, degreeOfEstablishment |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](#vc_pathway) | releasedForUse<br> otherEscape<br> transportContaminant<br> transportStowaway<br> corridor<br> unaided |
-
-<br>
-
-<a id="occurrenceStatus">**occurrenceStatus** (Estado del registro biológico)</a>
-
-| ---: | :--- |
-| Definición | Estado que da cuenta de la presencia o ausencia de un taxón en una ubicación. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para registros marinos - Recomendado para la buena documentación de un registro biológico |
-|  [Vocabulario controlado](#vc_occurrenceStatus) | present<br> absent |
-
-<br>
-
-<a id="preparations">**preparations** (Preparaciones)</a>
-
-| ---: | :--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de las preparaciones y los métodos de conservación de un ejemplar o una muestra del ejemplar.<br><br> Adicionalmente, si el espécimen fue colectado bajo un permiso de recolección de especímenes o acceso a recursos genéticos, debe indicar si fue una colecta temporal o una colecta definitiva seguido por el tipo de preparación. |
-| Ejemplo | Colecta definitiva: Animal completo (ETOH)<br> Colecta definitiva: Preparación de muestra microbiológica<br> Colecta temporal: Extracción de ADN<br> Piel \| Cráneo \| Esqueleto<br> Animal completo (ETOH) \| Tejido (EDTA)<br> Fósil<br> Molde<br> Fotografía |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos |
-
-<br>
-
-<a id="disposition">**disposition** (Disposición)</a>
-
-| ---: | :--- |
-| Definición | El estado actual de un espécimen en relación a la colección identificada en collectionCode o collectionID. Se recomienda el uso de un vocabulario controlado. Si el espécimen fue colectado bajo un permiso de recolección de especímenes o acceso a recursos genéticos y fue entregado a una colección biológica se debe documentar "En colección", de lo contrario dejar vacío el elemento. |
-| Ejemplo | En colección<br> Extraviado<br> Ejemplar testigo<br> Duplicados en otro lugar |
-| Elementos relacionados| collectionCode, collectionID |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos |
-
-<br>
-
-<a id="verbatimLabel">**verbatimLabel** (Etiqueta original)</a>
-
-| ---: | :--- |
-| Definición | Texto que representa la información literal que está presente en la etiqueta, carácter por carácter. Libre de interpretación, traducción o transliteración. |
-| Comentarios | El contenido de este elemento no debe incluir ningún tipo de embellecimiento, prefijos, encabezados u otras adiciones al texto original. Las abreviaciones no deben ser extendidas y posibles errores de tipeo no deben ser corregidos. Las nuevas líneas presentes en la etiqueta se deben representar utilizando una barra vertical “ \| ”. La práctica recomendada es utilizar solamente caracteres en la codificación UTF-8 y poner el comentario "El elemento verbatimLabel es derivado de una transcripción humana" en el elemento occurrenceRemarks. |
-| Ejemplo | CARACTERIZACION DE LA FLORA DEL DEPARTAMENTO DEL CASANARE \| PIPER* \| Peperomia quadrangularis (J.V.Thmps.) A. Dietr. \| Det: M.P. Córdoba /sep 2011 \| Enredadera \| COLOMBIA: Dpto Casanare, Mpio Tauramena, Vda La Urama, Localidad La Mata de la Urama Lat: 5° 03’,19,2” N, Long: 72° 48’ 58,8” W . Altitud: 182 m s.n.m., 28 Enero 2011. \| Col: M .P.Córdoba, R. Ávila, L.Miranda y C. Pérez. \| No. Col.: M.P.Córdoba 6161 \| GOBERNACIÓN DEL CASANARE-WWF-FUNDACIÓN OMACHA \| 119 |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-
-<br>
-
-
-<a id="otherCatalogNumbers">**otherCatalogNumbers** (Otros números de catálogo)</a>
-
-| ---: | :--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de números de catálogos anteriores o alternos, u otros identificadores usados por personas para el mismo registro biológico, ya sea en el actual o cualquier otro conjunto de datos o colección. |
-| Ejemplo | CFMNH:Mammal:1234<br> NPS YELLO6778 \| MBG 33424 |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-
-<br>
-
-<a id="associatedMedia">**associatedMedia** (Medios asociados)</a>
-
-| ---: | :--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores (publicación, referencia bibliográfica, identificador único global, URI) de los medios asociados al registro biológico. Se recomienda usar la extensión Simple Multimedia o Audubon Media Description las cuales cuentan con más elementos para describir la información multimedia asociada. |
-| Ejemplo | https://sinchi.org.co/ciacol/ficha/24/Hypoclinemus%20mentalis<br> https://ia801004.us.archive.org/0/items/staphylococcusaureus.JPG \| https://ia903100.us.archive.org/33/items/CMPUJH012-macro.jpg |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-
-<br>
-
-<a id="associatedOccurrences">**associatedOccurrences** (Registros biológicos asociados)</a>
-
-| ---: | :--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores de otros registros biológicos y su relación con este registro. Aplica para relaciones con organismos de diferente grupo taxonómico y se recomiendo documentar junto a el elemento associatedTaxa. Se recomienda hacer uso de la extensión Resource Relationship para documentar en más detalle la relación entre los registros biológicos asociados. |
-| Ejemplo | http://arctos.database.museum/guid/MSB:Mamm:292063?seid=3175067 \| http://arctos.database.museum/guid/MSB:Mamm:292063?seid=3177393<br>  SELVA:Anillamiento:AA7330a |
-| Elementos relacionados| associatedTaxa |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-
-<br>
-
-<a id="associatedReferences">**associatedReferences** (Referencias asociadas)</a>
-
-| ---: | :--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores (publicación, referencia bibliográfica, identificador único global, URI) de la literatura asociada al registro biológico. Se recomienda hacer uso de la extensión Literature References la cual cuenta con más elementos para describir la información de referencias asociada. |
-| Ejemplo | http://www.sciencemag.org/cgi/content/abstract/322/5899/261<br> Christopher J. Conroy, Jennifer L. Neuwald. 2008. Phylogeographic study of the California vole, Microtus californicus Journal of Mammalogy, 89(3):755-767. |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-
-<br>
-
-<a id="associatedSequences">**associatedSequences** (Secuencias asociadas)</a>
-
-| ---: | :--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores (publicación, identificador único global, URI) de la información de la secuencia genética asociada al registro biológico. Se recomienda hacer uso de la extensión GGBN Amplification Extension la cual cuenta con más elementos para describir la información de secuencia genética asociada. |
-| Ejemplo | https://www.ncbi.nlm.nih.gov/nuccore/U34853.1<br>  https://www.boldsystems.org/index.php/Public_RecordView?processid=ABBAC141-12 |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-
-<br>
-
-<a id="associatedTaxa">**associatedTaxa** (Taxones asociados)</a>
-
-| ---: | :--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores o nombres de taxones y su asociación con el registro biológico. |
-| Ejemplo | Huésped: Quercus alba<br> Parásito: Apis mellifera |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-
-<br>
-
-<a id="occurrenceRemarks">**occurrenceRemarks** (Comentarios del registro biológico)</a>
-
-| ---: | :--- |
-| Definición | Comentarios o anotaciones sobre el registro biológico. Se recomienda que la longitud de la descripción no supere 20 palabras. |
-| Ejemplo | Muerto en la vía<br> Registrado en el campus de la Universidad |
-| Core _(Obligatoriedad)_ | Registros _(Recomendado)_ |
+| Definición | Comentarios o notas sobre el archivo multimedia. |
+| Ejemplo | Archivo corrupto |
 
 <br>
 <br>
@@ -537,67 +345,239 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | Índice |	|	|	|
 | ---|--- |--- |--- |
-| [**organismID**<br> (ID del organismo)](#organismID) | [**organismName**<br> (Nombre del organismo)](#organismName) | [**organismScope**<br> (Alcance del organismo)](#organismScope) | [**associatedOrganisms**<br> (Organismos asociados)](#associatedOrganisms) |
-| [**previousIdentifications**<br> (Identificaciones previas)](#previousIdentifications) | [**organismRemarks**<br> (Comentarios del organismo)](#organismRemarks) |  |  |
+| [**observationID**<br> (ID de la observación)](#observationID) | [**deploymentID**<br> (ID del Evento de muestreo)](#deploymentID_obs) | [**mediaID**<br> (ID del archivo multimedia)](#mediaID_obs) | [**eventID**<br> (ID del evento de registro)](#eventID) |
+| [**eventStart**<br> (Fecha y hora de inicio del evento)](#eventStart) | [**eventEnd**<br> (Fecha y hora de fin del evento)](#eventEnd) | [**observationLevel**<br> (Nivel de la observación)](#observationLevel) | [**observationType**<br> (Tipo de observación)](#observationType) |
+| [**cameraSetupType**<br> (Tipo de acción en la instalación de la cámara)](#cameraSetupType) | [**scientificName**<br> (Nombre científico)](#scientificName) | [**count**<br> (Número de individuos)](#count) | [**lifeStage**<br> (Etapa de desarrollo)](#lifeStage) |
+| [**sex**<br> (Sexo)](#sex) | [**behavior**<br> (Comportamiento)](#behavior) | [**individualID**<br> (ID del individuo)](#individualID) | [**individualPositionRadius**<br> (Radio de posición del individuo)](#individualPositionRadius) |
+| [**individualPositionAngle**<br> (Ángulo de posición del individuo)](#individualPositionAngle) | [**individualSpeed**<br> (Velocidad del individuo)](#individualSpeed) | [**bboxX**<br> (Coordenada X del Bbox)](#bboxX) | [**bboxY**<br> (Coordenada Y del Bbox)](#bboxY) |
+| [**bboxWidth**<br> (Ancho del Bbox)](#bboxWidth) | [**bboxHeight**<br> (Alto del Bbox)](#bboxHeight) | [**classificationMethod**<br> (Método de clasificación)](#classificationMethod) | [**classifiedBy**<br> (Clasificado por)](#classifiedBy) |
+| [**classificationTimestamp**<br> (Fecha y hora de clasificación)](#classificationTimestamp) | [**classificationProbability**<br> (Probabilidad de la clasificación)](#classificationProbability) | [**observationTags**<br> (Etiquetas de la observación)](#observationTags) | [**observationComments**<br> (Comentarios de la observación)](#observationComments) |
+
 
 <br>
 <br>
 
-<a id="organismID">**organismID** (ID del organismo)</a>
+<a id="observationID">observationID (ID de la observación)</a>
 
 | ---: | :--- |
-| Definición | Un identificador del organismo. Pretende facilitar el remuestreo del mismo individuo con fines generalmente de monitoreo. Aves anilladas, fotos de mamíferos acuáticos, árboles remuestreados, etc. |
-| Ejemplo | U.amer. 44<br> CC09477<br> Orca J 23 |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+| Definición | Identificador único de la observación. |
+| Ejemplo | obs1 |
 
 <br>
 
-<a id="organismName">**organismName** (Nombre del organismo)</a>
+<a id="deploymentID_obs">deploymentID (ID del Evento de muestreo)</a>
 
 | ---: | :--- |
-| Definición | El nombre textual dado a un organismo en un estudio o el nombre en la etiqueta asignada originalmente. |
-| Ejemplo | Huberta<br> Willy la Ballena Asesina<br> Cheeta |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+| Definición | Identificador del Evento de muestreo a la que pertenece la observación. Clave foránea al elemento deployments.deploymentID. |
+| Ejemplo | dep1 |
 
 <br>
 
-<a id="organismScope">**organismScope** (Alcance del organismo)</a>
+<a id="mediaID_obs">mediaID (ID del archivo multimedia)</a>
 
 | ---: | :--- |
-| Definición | Puede ser utilizado para indicar si la instancia del organismo representa un organismo discreto o un tipo particular de agregación. Se recomienda el uso de un vocabulario controlado. Este elemento no está destinado a ser utilizado para especificar una categoría taxonómica. |
-| Ejemplo | Organismo multicelular<br> Manada<br> Clon<br> Colonia |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+| Definición | Identificador del archivo multimedia que fue clasificado. Solo aplicable para observaciones a nivel de archivo multimedia (observationLevel = media). Clave foránea al elemento media.mediaID. |
+| Ejemplo | m1 |
 
 <br>
 
-<a id="associatedOrganisms">**associatedOrganisms** (Organismos asociados)</a>
+<a id="eventID">eventID (ID del evento de registro)</a>
 
 | ---: | :--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores de otros organismos y su relación con el organismo documentado. Aplica para relaciones con organismos del mismo grupo taxonómico. Se recomienda hacer uso la extensión Resource Relationship para documentar en más detalle la relación entre los organismos asociados. |
-| Ejemplo | Hermano de: FMNH:Mamífero:1234 \| Hermano de: FMNH:Mamífero:1235<br> Hijo de: MLS:sau:438 |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+| Definición | Identificador del evento al que pertenece la observación. Facilita la vinculación de observaciones a nivel de eventos y de observaciones a nivel de archivo multimedia con un identificador permanente. |
+| Ejemplo | sequence1 |
 
 <br>
 
-<a id="previousIdentifications">**previousIdentifications** (Identificaciones previas)</a>
+<a id="eventStart">eventStart (Fecha y hora de inicio del evento)</a>
 
 | ---: | :--- |
-| Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de asignaciones taxonómicas que se le han dado al organismo anteriormente. Puede contener la información de quién y cuándo realizó la identificación anterior. Se recomienda hacer uso de la extensión Identification [(https://tools.gbif.org/dwca-validator/extension.do?id=dwc:Identification#Identification)](https://tools.gbif.org/dwca-validator/extension.do?id=dwc:Identification#Identification){:target="_blank"}para el caso de colecciones biológicas. |
-| Ejemplo | Pinus abies<br> Anthus sp., identificado en campo por G. Iglesias \| Anthus correndera, Identificado por el experto C. Cicero 2009-02-12 basado en morfología<br> Leptolyngbya cf. polysiphoniae \| Leptolyngbya sp. |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+| Definición | Fecha y hora en la que inició el evento. Debe estar documentada en el esquema de codificación ISO 8601 con designador de zona horaria (AAAA-MM-DDThh:mm:ssZ o AAAA-MM-DDThh:mm:ss±hh:mm). |
+| Ejemplo | 2020-03-01T22:00:00Z |
 
 <br>
 
-<a id="organismRemarks">**organismRemarks** (Comentarios del organismo)</a>
+<a id="eventEnd">eventEnd (Fecha y hora de fin del evento)</a>
 
 | ---: | :--- |
-| Definición | Comentarios o anotaciones sobre el organismo registrado. Se recomienda que la longitud de la descripción no supere 20 palabras. |
-| Ejemplo | Uno de una camada de seis<br> Fruto inmaduro cubierto por un indumento rojizo |
-| Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
+| Definición | Fecha y hora en la que finalizó el evento. Debe estar documentada en el esquema de codificación ISO 8601 con designador de zona horaria (AAAA-MM-DDThh:mm:ssZ o AAAA-MM-DDThh:mm:ss±hh:mm). |
+| Ejemplo | 2020-04-01T22:00:00-05:00 |
 
 <br>
+
+<a id="observationLevel">observationLevel (Nivel de la observación)</a>
+
+| ---: | :--- |
+| Definición | Nivel al cual se clasificó la observación. Para observaciones a nivel de archivos multimedia documentar "media" y para observaciones a nivel de evento documentar (varios archivos multimedia agrupados en una misma observación) "event". |
+| Ejemplo | media |
+
 <br>
 
+<a id="observationType">observationType (Tipo de observación)</a>
+
+| ---: | :--- |
+| Definición | Tipo de la observación (animal, human, vehicle, blank, unknown, unclassified). |
+| Ejemplo | animal |
+
+<br>
+
+<a id="cameraSetupType">cameraSetupType (Tipo de acción en la instalación de la cámara)</a>
+
+| ---: | :--- |
+| Definición | Tipo de acción en la instalación de la cámara (si la hay) asociada con la observación. |
+| Ejemplo | calibration |
+
+<br>
+
+<a id="scientificName">scientificName (Nombre científico)</a>
+
+| ---: | :--- |
+| Definición | Nombre científico del individuo(s) observado(s). |
+| Ejemplo | Chloroceryle amazona |
+
+<br>
+
+<a id="count">count (Número de individuos)</a>
+
+| ---: | :--- |
+| Definición | Número de individuos observados (opcionalmente de una etapa de desarrollo, sexo y comportamiento). |
+| Ejemplo | 5 |
+
+<br>
+
+<a id="lifeStage">lifeStage (Etapa de desarrollo)</a>
+
+| ---: | :--- |
+| Definición | Etapa de desarrollo o estadio de vida del individuo(s) observado(s). |
+| Ejemplo | adult |
+
+<br>
+
+<a id="sex">sex (Sexo)</a>
+
+| ---: | :--- |
+| Definición | Sexo del individuo(s) observado(s). |
+| Ejemplo | female |
+
+<br>
+
+<a id="behavior">behavior (Comportamiento)</a>
+
+| ---: | :--- |
+| Definición | Comportamiento dominante del individuo(s) observado(s). Para valores múltiples se debe usar la estructurar como lista (en una fila continua y separada por una barra vertical “\|”). |
+| Ejemplo | Vigilante |
+
+<br>
+
+<a id="individualID">individualID (ID del individuo)</a>
+
+| ---: | :--- |
+| Definición | Identificador del individuo observado. |
+| Ejemplo | RD213 |
+
+<br>
+
+<a id="individualPositionRadius">individualPositionRadius (Radio de posición del individuo)</a>
+
+| ---: | :--- |
+| Definición | Distancia expresada en metros desde la cámara hasta el individuo observado. |
+| Ejemplo | 6.81 |
+
+<br>
+
+<a id="individualPositionAngle">individualPositionAngle (Ángulo de posición del individuo)</a>
+
+| ---: | :--- |
+| Definición | Distancia angular expresada en grados desde la línea central de visión de la cámara hasta el individuo observado. |
+| Ejemplo | -8.56 |
+
+<br>
+
+<a id="individualSpeed">individualSpeed (Velocidad del individuo)</a>
+
+| ---: | :--- |
+| Definición | Velocidad de movimiento promedio expresada en metros por segundo del individuo observado. |
+| Ejemplo | 1.75 |
+
+<br>
+
+<a id="bboxX">bboxX (Coordenada X del Bbox)</a>
+
+| ---: | :--- |
+| Definición | Posición horizontal de la esquina superior izquierda de un cuadro delimitador (bounding box) relativa al ancho del archivo multimedia. |
+| Ejemplo | 0.2 |
+
+<br>
+
+<a id="bboxY">bboxY (Coordenada Y del Bbox)</a>
+
+| ---: | :--- |
+| Definición | Posición vertical de la esquina superior izquierda de un cuadro delimitador (bounding box) relativa al alto del archivo multimedia. |
+| Ejemplo | 0.25 |
+
+<br>
+
+<a id="bboxWidth">bboxWidth (Ancho del Bbox)</a>
+
+| ---: | :--- |
+| Definición | Ancho del cuadro delimitador relativo al ancho del archivo multimedia. |
+| Ejemplo | 0.4 |
+
+<br>
+
+<a id="bboxHeight">bboxHeight (Alto del Bbox)</a>
+
+| ---: | :--- |
+| Definición | Alto del cuadro delimitador relativo al alto del archivo multimedia. |
+| Ejemplo | 0.5 |
+
+<br>
+
+<a id="classificationMethod">classificationMethod (Método de clasificación)</a>
+
+| ---: | :--- |
+| Definición | Método utilizado (más recientemente) para clasificar la observación. |
+| Ejemplo | human |
+
+<br>
+
+<a id="classifiedBy">classifiedBy (Clasificado por)</a>
+
+| ---: | :--- |
+| Definición | Nombre o identificador de la persona o algoritmo de IA que clasificó la observación. |
+| Ejemplo | MegaDetector V5 |
+
+<br>
+
+<a id="classificationTimestamp">classificationTimestamp (Fecha y hora de clasificación)</a>
+
+| ---: | :--- |
+| Definición | Fecha y hora de la clasificación más reciente. Debe estar documentada en el esquema de codificación ISO 8601 con designador de zona horaria (AAAA-MM-DDThh:mm:ssZ o AAAA-MM-DDThh:mm:ss±hh:mm). |
+| Ejemplo | 2020-08-22T10:25:19Z |
+
+<br>
+
+<a id="classificationProbability">classificationProbability (Probabilidad de la clasificación)</a>
+
+| ---: | :--- |
+| Definición | Grado de certeza de la clasificación más reciente (valor de 0 a 1). |
+| Ejemplo | 0.95 |
+
+<br>
+
+<a id="observationTags">observationTags (Etiquetas de la observación)</a>
+
+| ---: | :--- |
+| Definición | Etiqueta(s) asociada(s) con la observación. Para valores múltiples se debe usar la estructurar como lista (en una fila continua y separada por una barra vertical “\|”). |
+| Ejemplo | DirecciónDeViaje:Izquierda |
+
+<br>
+
+<a id="observationComments">observationComments (Comentarios de la observación)</a>
+
+| ---: | :--- |
+| Definición | Comentarios o notas sobre la observación. |
+| Ejemplo | Especie migratoria presente en Colombia durante el mes de junio |
 
 <br>
 <br>
