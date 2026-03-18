@@ -30,7 +30,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 - La documentación oficial y en inglés del estándar se puede consultar en: [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/){:target="_blank"}
 - La documentación oficial y en inglés de las extensiones: [https://rs.gbif.org/extensions.html](https://rs.gbif.org/extensions.html){:target="_blank"}
 
-*Fecha de última actualización: mayo de 2024.*
+*Fecha de última actualización: marzo de 2026.*
 
 ## Categorías DwC
 
@@ -2215,7 +2215,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 | ---: | :--- |
 | Definición | El tipo de recurso multimedia. Para este elemento se debe emplear el vocabulario controlado en inglés. |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
-| [Vocabulario controlado](#vc_type) | StillImage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event<br><br> (Para mas opciones, se puede consultar el vocabulario controlado completo en la siguiente URL: [https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://dublincore.org/documents/dcmi-type-vocabulary/](https://tools.gbif.org/dwca-validator/vocabulary.do?id=http://dublincore.org/documents/dcmi-type-vocabulary/){:target="_blank"}) |
+| [Vocabulario controlado](#vc_multimedia_type) | StillImage<br> MovingImage<br> Sound<br> PhysicalObject<br> Event<br><br> (Para mas opciones, se puede consultar el vocabulario controlado completo en la siguiente URL: [https://rs.gbif.org/vocabulary/dcterms/type.xml](https://rs.gbif.org/vocabulary/dcterms/type.xml){:target="_blank"}) |
 
 <br>
 
