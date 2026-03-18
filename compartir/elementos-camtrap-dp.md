@@ -21,9 +21,8 @@ Adicionalmente, existen **extensiones** que se pueden asociar principalmente al 
 En esta página se presenta una aplicación del **CamtrapDP** en español y enfocada a la necesidades de país, la cual contiene a mano derecha una tabla de contenido con las **categorías** del estándar, que llevan a su vez al listado de **elementos** que conforman cada **categoría**. Dentro del listado de **elementos** es posible dirigirse directamente al **elemento** de interés en donde se encontrará la siguiente información detallada:
 
 -    **Definición**: Texto que describe el alcance del **elemento**.
--    **Comentarios**:  Texto que complementa, a manera de anotación o aclaración, la información de la definición.
 -    **Ejemplo**: Ejemplos textuales que hacen referencia a cómo se puede documentar el **elemento**.
--    **Elementos relacionados**: **Elementos** del estándar **DwC** que tienen relación estrecha con el **elemento** que esta siendo descrito.
+-    **Elementos relacionados**: **Elementos** del estándar **CamtrapDP** que tienen relación estrecha con el **elemento** que esta siendo descrito.
 -    _**(Obligatoriedad)**_: Obligatoriedad del  **elemento** dentro del estándar (opcional, condicional, obligatorio).
 -    **Vocabulario controlado**: Opciones de textos preestablecidos que deben documentarse de manera obligatoria dentro del elemento. No se puede documentar información diferente a la relacionada en los vocabularios controlados. Adicionalmente, en este campo se puede hacer un redireccionamiento al listado y definiciones de los vocabularios controlados del **elemento**.
 
