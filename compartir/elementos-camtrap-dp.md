@@ -60,6 +60,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Identificador de la ubicación del Evento de muestreo. |
+| Obligatoriedad | Opcional |
 | Ejemplo | loc1 |
 
 <br>
@@ -68,6 +69,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Nombre asignado a la ubicación del Evento de muestreo. |
+| Obligatoriedad | Recomendado |
 | Ejemplo | Chingaza MRI 01 |
 
 <br>
@@ -76,6 +78,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Latitud de la ubicación del Evento de muestreo en grados decimales, utilizando el datum WGS84. |
+| Obligatoriedad | Obligatorio |
 | Ejemplo | 6.05486 |
 
 <br>
@@ -84,6 +87,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Longitud de la ubicación del Evento de muestreo en grados decimales, utilizando el datum WGS84. |
+| Obligatoriedad | Obligatorio |
 | Ejemplo | -75.05486 |
 
 <br>
@@ -92,6 +96,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Distancia horizontal expresada en metros desde la latitud y longitud dadas que describe el círculo más pequeño que contiene la ubicación del Evento de muestreo. Especialmente relevante cuando las coordenadas se redondean para proteger especies sensibles. |
+| Obligatoriedad | Recomendado |
 | Ejemplo | 100 |
 
 <br>
@@ -100,6 +105,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Fecha y hora en la que se inició el Evento de muestreo. Debe estar documentada en el esquema de codificación ISO 8601 con designador de zona horaria (AAAA-MM-DDThh:mm:ssZ o AAAA-MM-DDThh:mm:ss±hh:mm). |
+| Obligatoriedad | Obligatorio |
 | Ejemplo | 2025-04-01T22:00:00Z<br>2025-04-01T22:00:00-05:00 |
 
 <br>
@@ -108,6 +114,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Fecha y hora en la que finalizó el Evento de muestreo. Debe estar documentada en el esquema de codificación ISO 8601 con designador de zona horaria(AAAA-MM-DDThh:mm:ssZ o AAAA-MM-DDThh:mm:ss±hh:mm). |
+| Obligatoriedad | Obligatorio |
 | Ejemplo | 2025-04-01T22:00:00Z<br>2025-04-01T22:00:00-05:00 |
 
 <br>
@@ -116,6 +123,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Nombre o identificador de la persona u organización que instaló la cámara. |
+| Obligatoriedad | Recomendado |
 | Ejemplo | Ricardo Plata |
 
 <br>
@@ -124,6 +132,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Identificador de la cámara utilizada para el Evento de muestreo (ej. el número de serie del dispositivo). |
+| Obligatoriedad | Opcional |
 | Ejemplo | P800HG08192031 |
 
 <br>
@@ -132,6 +141,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Fabricante y modelo de la cámara. Debe estar documentado como fabricante-modelo. |
+| Obligatoriedad | Recomendado |
 | Ejemplo | Reconyx-PC800 |
 
 <br>
@@ -140,6 +150,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Duración predefinida después de una detección durante la cual se ignora cualquier actividad adicional. Expresada en segundos. |
+| Obligatoriedad | Opcional |
 | Ejemplo | 120 |
 
 <br>
@@ -148,6 +159,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Altura en metros a la que se colocó la cámara. No debe combinarse con cameraDepth. |
+| Obligatoriedad | Recomendado |
 | Ejemplo | 1.2 |
 
 <br>
@@ -156,6 +168,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Profundidad en metros a la que se colocó la cámara. No debe combinarse con cameraHeight. |
+| Obligatoriedad | Opcional |
 | Ejemplo | 4.8 |
 
 <br>
@@ -164,6 +177,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Ángulo expresado en grados en el que se colocó la cámara en el plano vertical. Con -90 mirando hacia abajo, 0 horizontal y 90 mirando hacia arriba. |
+| Obligatoriedad | Opcional |
 | Ejemplo | -90 |
 
 <br>
@@ -172,6 +186,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Ángulo en el que se colocó la cámara en el plano horizontal. Expresado en grados decimales en sentido horario desde el norte, con valores de 0 a 360: 0 = norte, 90 = este, 180 = sur, 270 = oeste. |
+| Obligatoriedad | Opcional |
 | Ejemplo | 225 |
 
 <br>
@@ -180,6 +195,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Distancia máxima expresada en metros a la cual la cámara puede detectar actividad de manera confiable. Típicamente medida haciendo que un humano se mueva frente a la cámara. |
+| Obligatoriedad | Recomendado |
 | Ejemplo | 9.5 |
 
 <br>
@@ -188,6 +204,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Verdadero (true) si se sabe que la fecha y hora en los recursos multimedia (timestamp) del Evento de muestreo tienen problemas imposibles de solucionar (ej. zona horaria desconocida, cambio am/pm). Falso (false) si no hay ningún recurso multimedia con problemas en el Evento de muestreo. |
+| Obligatoriedad | Recomendado |
 | Ejemplo | false |
 
 <br>
@@ -196,6 +213,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Verdadero (true) si se utilizó cebo o atrayente para el Evento de muestreo. Se puede proporcionar más información en las etiquetas o comentarios. |
+| Obligatoriedad | Opcional |
 | Ejemplo | true |
 
 <br>
@@ -204,6 +222,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Tipo de rasgo del paisaje (si lo hay) asociado con el Evento de muestreo. |
+| Obligatoriedad | Opcional |
 | [Vocabulario controlado](#vc_featureType) | culvert<br> roadPaved<br> fruitingTree |
 
 
@@ -213,6 +232,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Caracterización breve del hábitat presente en la ubicación del Evento de muestreo. |
+| Obligatoriedad | Opcional |
 | Ejemplo | Bosque húmedo tropical |
 
 <br>
@@ -221,6 +241,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Grupo(s) de Eventos de muestreo asociados con el registro. Los eventos pueden tener un contexto espacial (matrices, cuadrículas, clústeres), temporal (sesiones, temporadas, años) u otro contexto. Para valores múltiples se debe usar la estructura como lista (en una fila continua y separada por una barra vertical “\|”), preferiblemente organizados como pares clave:valor. |
+| Obligatoriedad | Opcional |
 | Ejemplo | Temporada:Seca 2020 \| Grilla:A1 |
 
 <br>
@@ -229,6 +250,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Etiqueta(s) asociada(s) con el Evento de muestreo. Para valores múltiples se debe usar la estructura como lista (en una fila continua y separada por una barra vertical “\|”), opcionalmente organizados como pares clave:valor. |
+| Obligatoriedad | Opcional |
 | Ejemplo | Límite de bosque \| Cebo:comida |
 
 <br>
@@ -238,6 +260,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Comentarios o notas sobre el Evento de muestreo. |
+| Obligatoriedad | Opcional |
 | Ejemplo | Después de las lluvias recientes, el río estuvo cercano a un estado de desbordamiento |
 
 <br>
@@ -258,6 +281,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Identificador único del archivo multimedia. |
+| Obligatoriedad | Obligatorio |
 | Ejemplo | m1 |
 
 <br>
@@ -266,6 +290,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Identificador del Evento de muestreo a la que pertenece el archivo multimedia. Clave foránea al elemento deployments.deploymentID. |
+| Obligatoriedad | Obligatorio |
 | Ejemplo | dep1 |
 
 <br>
@@ -284,6 +309,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Fecha y hora en la que se tomó el archivo multimedia. Debe estar documentada en el esquema de codificación ISO 8601 con designador de zona horaria (AAAA-MM-DDThh:mm:ssZ o AAAA-MM-DDThh:mm:ss±hh:mm). |
+| Obligatoriedad | Obligatorio |
 | Ejemplo | 2020-03-24T11:21:46Z<br>2020-03-24T06:21:46-05:00 |
 
 <br>
@@ -292,6 +318,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | URL o ruta relativa al archivo multimedia, para archivos alojados externamente o para archivos que son parte de un paquete de datos, respectivamente. |
+| Obligatoriedad | Obligatorio |
 | Ejemplo | https://multimedia.agouti.eu/assets/6d65f3e4-4770-407b-b2bf-878983bf9872/file |
 
 <br>
@@ -301,7 +328,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 | ---: | :--- |
 | Definición | Verdadero (true) si el archivo multimedia se puede acceder públicamente. Falso (false) si no es accesible públicamente (ej. para proteger la privacidad de las personas). |
 | Elementos relacionados | timestamp, fileName |
-| Obligatoriedad | Recomendado |
+| Obligatoriedad | Obligatorio |
 | Ejemplo | true |
 
 <br>
@@ -310,6 +337,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Nombre del archivo multimedia. Si se proporciona, debería permitir ordenar los archivos cronológicamente dentro de un Evento de muestreo usando el elemento timestamp (primero) y el elemento fileName (segundo). |
+| Obligatoriedad | Recomendado |
 | Ejemplo | IMG0001.jpg |
 
 <br>
@@ -318,6 +346,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Tipo de archivo multimedia. Expresado utilizando uno de los tipos IANA (Internet Assigned Numbers Authority: [https://www.iana.org/assignments/media-types/media-types.xhtml](https://www.iana.org/assignments/media-types/media-types.xhtml){:target="_blank"}). |
+| Obligatoriedad | Obligatorio |
 | Ejemplo | image/jpeg |
 
 <br>
@@ -326,6 +355,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Datos EXIF del archivo multimedia. Deben estar documentados como un objeto JSON válido. |
+| Obligatoriedad | Opcional |
 | Ejemplo | {"EXIF":{"ISO":200,"Make":"RECONYX"}} |
 
 <br>
@@ -334,6 +364,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Verdadero (true) si el archivo multimedia se considera de interés (ej. una imagen ejemplar de un individuo). |
+| Obligatoriedad | Opcional |
 | Ejemplo | true |
 
 <br>
@@ -342,6 +373,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Comentarios o notas sobre el archivo multimedia. |
+| Obligatoriedad | Opcional |
 | Ejemplo | Archivo corrupto |
 
 <br>
@@ -367,6 +399,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Identificador único de la observación. |
+| Obligatoriedad | Obligatorio |
 | Ejemplo | obs1 |
 
 <br>
@@ -374,7 +407,8 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 <a id="deploymentID_obs">deploymentID (ID del Evento de muestreo)</a>
 
 | ---: | :--- |
-| Definición | Identificador del Evento de muestreo a la que pertenece la observación. Clave foránea al elemento deployments.deploymentID. |
+| Definición | Identificador del Evento de muestreo al que pertenece la observación. Clave foránea al elemento deployments.deploymentID. |
+| Obligatoriedad | Obligatorio |
 | Ejemplo | dep1 |
 
 <br>
@@ -383,6 +417,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Identificador del archivo multimedia que fue clasificado. Solo aplicable para observaciones a nivel de archivo multimedia (observationLevel = media). Clave foránea al elemento media.mediaID. |
+| Obligatoriedad | Recomendado |
 | Ejemplo | m1 |
 
 <br>
@@ -391,6 +426,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Identificador del evento al que pertenece la observación. Facilita la vinculación de observaciones a nivel de eventos y de observaciones a nivel de archivo multimedia con un identificador permanente. |
+| Obligatoriedad | Recomendado |
 | Ejemplo | sequence1 |
 
 <br>
@@ -399,7 +435,8 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Fecha y hora en la que inició el evento. Debe estar documentada en el esquema de codificación ISO 8601 con designador de zona horaria (AAAA-MM-DDThh:mm:ssZ o AAAA-MM-DDThh:mm:ss±hh:mm). |
-| Ejemplo | 2020-03-01T22:00:00Z |
+| Obligatoriedad | Obligatorio |
+| Ejemplo | 2020-03-01T22:00:00Z<br>2020-03-01T17:00:00-05:00 |
 
 <br>
 
@@ -407,15 +444,18 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Fecha y hora en la que finalizó el evento. Debe estar documentada en el esquema de codificación ISO 8601 con designador de zona horaria (AAAA-MM-DDThh:mm:ssZ o AAAA-MM-DDThh:mm:ss±hh:mm). |
-| Ejemplo | 2020-04-01T22:00:00-05:00 |
+| Obligatoriedad | Obligatorio |
+| Ejemplo | 2020-04-01T22:00:00Z<br>2020-04-01T17:00:00-05:00 |
 
 <br>
 
 <a id="observationLevel">observationLevel (Nivel de la observación)</a>
 
 | ---: | :--- |
-| Definición | Nivel al cual se clasificó la observación. Para observaciones a nivel de archivos multimedia documentar "media" y para observaciones a nivel de evento documentar (varios archivos multimedia agrupados en una misma observación) "event". |
-| Ejemplo | media |
+| Definición | Nivel al cual se clasificó la observación. Para observaciones a nivel de archivos multimedia documentar "media" y para observaciones a nivel de evento (varios archivos multimedia agrupados en una misma observación) documentar "event". |
+| Obligatoriedad | Obligatorio |
+| [Vocabulario controlado](#vc_observationLevel) | media<br> event |
+
 
 <br>
 
@@ -423,7 +463,8 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Tipo de la observación (animal, human, vehicle, blank, unknown, unclassified). |
-| Ejemplo | animal |
+| Obligatoriedad | Obligatorio |
+| [Vocabulario controlado](#vc_observationType) | animal<br> unclassified |
 
 <br>
 
@@ -431,7 +472,9 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Tipo de acción en la instalación de la cámara (si la hay) asociada con la observación. |
-| Ejemplo | calibration |
+| Obligatoriedad | Recomendado |
+| [Vocabulario controlado](#vc_cameraSetupType) | setup<br> calibration |
+
 
 <br>
 
@@ -439,6 +482,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Nombre científico del individuo(s) observado(s). |
+| Obligatoriedad | Recomendado |
 | Ejemplo | Chloroceryle amazona |
 
 <br>
@@ -447,6 +491,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Número de individuos observados (opcionalmente de una etapa de desarrollo, sexo y comportamiento). |
+| Obligatoriedad | Recomendado |
 | Ejemplo | 5 |
 
 <br>
@@ -455,7 +500,8 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Etapa de desarrollo o estadio de vida del individuo(s) observado(s). |
-| Ejemplo | adult |
+| Obligatoriedad | Opcional |
+| [Vocabulario controlado](#vc_lifeStage) | adult<br> subadult<br> juvenile |
 
 <br>
 
@@ -463,7 +509,8 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Sexo del individuo(s) observado(s). |
-| Ejemplo | female |
+| Obligatoriedad | Opcional |
+| [Vocabulario controlado](#vc_sex) | female<br> male |
 
 <br>
 
@@ -471,6 +518,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Comportamiento dominante del individuo(s) observado(s). Para valores múltiples se debe usar la estructura como lista (en una fila continua y separada por una barra vertical “\|”). |
+| Obligatoriedad | Opcional |
 | Ejemplo | Vigilante |
 
 <br>
@@ -479,6 +527,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Identificador del individuo observado. |
+| Obligatoriedad | Opcional |
 | Ejemplo | RD213 |
 
 <br>
@@ -487,6 +536,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Distancia expresada en metros desde la cámara hasta el individuo observado. |
+| Obligatoriedad | Opcional |
 | Ejemplo | 6.81 |
 
 <br>
@@ -495,6 +545,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Distancia angular expresada en grados desde la línea central de visión de la cámara hasta el individuo observado. |
+| Obligatoriedad | Opcional |
 | Ejemplo | -8.56 |
 
 <br>
@@ -503,6 +554,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Velocidad de movimiento promedio expresada en metros por segundo del individuo observado. |
+| Obligatoriedad | Opcional |
 | Ejemplo | 1.75 |
 
 <br>
@@ -511,6 +563,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Posición horizontal de la esquina superior izquierda de un cuadro delimitador (bounding box) relativa al ancho del archivo multimedia. |
+| Obligatoriedad | Opcional |
 | Ejemplo | 0.2 |
 
 <br>
@@ -519,6 +572,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Posición vertical de la esquina superior izquierda de un cuadro delimitador (bounding box) relativa al alto del archivo multimedia. |
+| Obligatoriedad | Opcional |
 | Ejemplo | 0.25 |
 
 <br>
@@ -527,6 +581,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Ancho del cuadro delimitador relativo al ancho del archivo multimedia. |
+| Obligatoriedad | Opcional |
 | Ejemplo | 0.4 |
 
 <br>
@@ -535,6 +590,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Alto del cuadro delimitador relativo al alto del archivo multimedia. |
+| Obligatoriedad | Opcional |
 | Ejemplo | 0.5 |
 
 <br>
@@ -543,7 +599,8 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Método utilizado (más recientemente) para clasificar la observación. |
-| Ejemplo | human |
+| Obligatoriedad | Recomendado |
+| [Vocabulario controlado](#vc_classificationMethod) | human<br> machine |
 
 <br>
 
@@ -551,6 +608,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Nombre o identificador de la persona o algoritmo de IA que clasificó la observación. |
+| Obligatoriedad | Recomendado |
 | Ejemplo | MegaDetector V5 |
 
 <br>
@@ -559,7 +617,8 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Fecha y hora de la clasificación más reciente. Debe estar documentada en el esquema de codificación ISO 8601 con designador de zona horaria (AAAA-MM-DDThh:mm:ssZ o AAAA-MM-DDThh:mm:ss±hh:mm). |
-| Ejemplo | 2020-08-22T10:25:19Z |
+| Obligatoriedad | Recomendado |
+| Ejemplo | 2020-08-22T10:25:19Z<br>2020-08-22T05:25:19-05:00 |
 
 <br>
 
@@ -567,6 +626,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Grado de certeza de la clasificación más reciente (valor de 0 a 1). |
+| Obligatoriedad | Recomendado |
 | Ejemplo | 0.95 |
 
 <br>
@@ -575,6 +635,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Etiqueta(s) asociada(s) con la observación. Para valores múltiples se debe usar la estructura como lista (en una fila continua y separada por una barra vertical “\|”). |
+| Obligatoriedad | Opcional |
 | Ejemplo | DirecciónDeViaje:Izquierda |
 
 <br>
@@ -583,6 +644,7 @@ En esta página se presenta una aplicación del **CamtrapDP** en español y enfo
 
 | ---: | :--- |
 | Definición | Comentarios o notas sobre la observación. |
+| Obligatoriedad | Opcional |
 | Ejemplo | Especie migratoria presente en Colombia durante el mes de junio |
 
 <br>
