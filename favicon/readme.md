@@ -1,3 +1,3 @@
 # Cómo hacer el favicon
 
-Para hacer el favicon, debe dirigirse a una de las páginas
+Para hacer el favicon, debe dirigirse a una de las páginas descritas aquí: https://theme.hp.gbif-staging.org/favicon
