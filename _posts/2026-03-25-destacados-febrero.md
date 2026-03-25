@@ -34,7 +34,7 @@ El sur del Huila tiene ahora más datos abiertos sobre su fauna. **La Asociació
 
 *Listas de especies*
 
-Los jardines botánicos no solo conservan plantas: también albergan una diversidad de vida que muchas veces pasa desapercibida.[La Fundación Jardín Botánico Joaquín Antonio Uribe de Medellín] (https://www.botanicomedellin.org){:target="_blank"} publicó la lista de especies del proyecto Refugios urbanos para la Biodiversidad, con datos sobre el ensamblaje de artrópodos presente en sus instalaciones. Este aporte abre una ventana a la biodiversidad de los espacios verdes urbanos y su importancia como refugios para invertebrados en medio de la ciudad.
+Los jardines botánicos no solo conservan plantas: también albergan una diversidad de vida que muchas veces pasa desapercibida.[La Fundación Jardín Botánico Joaquín Antonio Uribe de Medellín](https://www.botanicomedellin.org){:target="_blank"} publicó la lista de especies del proyecto Refugios urbanos para la Biodiversidad, con datos sobre el ensamblaje de artrópodos presente en sus instalaciones. Este aporte abre una ventana a la biodiversidad de los espacios verdes urbanos y su importancia como refugios para invertebrados en medio de la ciudad.
 
 [Consulta la lista de artrópodos del Jardín Botánico de Medellín](https://biodiversidad.co/dataset/284d7d75-5478-4eb3-832f-aaf0e981eebc){:target="_blank"}
 
@@ -46,7 +46,7 @@ No toda la biodiversidad que interesa a la ciencia es nativa. [El Jardín Botán
 
 *Registros biológicos*
 
-La biodiversidad también salva vidas. [El Instituto Nacional de Salud] (https://www.ins.gov.co/Paginas/Inicio.aspx){:target="_blank"} actualizó su conjunto de registros biológicos asociados a la producción de antivenenos para el tratamiento de intoxicaciones causadas por animales venenosos: serpientes, arácnidos, insectos y animales acuáticos. Esta publicación es un recordatorio de que los datos sobre biodiversidad no solo tienen valor ecológico: en este caso, son parte esencial de un proceso que protege la salud de las personas en todo el territorio nacional.
+La biodiversidad también salva vidas. [El Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx){:target="_blank"} actualizó su conjunto de registros biológicos asociados a la producción de antivenenos para el tratamiento de intoxicaciones causadas por animales venenosos: serpientes, arácnidos, insectos y animales acuáticos. Esta publicación es un recordatorio de que los datos sobre biodiversidad no solo tienen valor ecológico: en este caso, son parte esencial de un proceso que protege la salud de las personas en todo el territorio nacional.
 
 [Ve el conjunto de datos del Instituto Nacional de Salud](https://biodiversidad.co/data?datasetKey=87913bc6-3730-4813-ad46-214d2b48dfb3){:target="_blank"}
 
