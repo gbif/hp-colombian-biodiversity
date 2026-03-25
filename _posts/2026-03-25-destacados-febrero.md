@@ -2,7 +2,7 @@
 preTitle: 25 de marzo, 2026
 title: "Cámaras trampa, jardines y antivenenos: los datos de febrero en el SiB Colombia"
 description: _Un grupo ecológico del Huila, dos jardines botánicos, el Instituto Nacional de Salud y una colección universitaria sumaron sus datos este mes._
-date: 2026-03-26
+date: 2026-03-25
 categories: ["Publicación", "Datos abiertos", "Febrero", "Destacados SiB", "2026"]
 background: /assets/images/noticias_eventos/2026/2026-03-25-destacados-febrero2026.jpg
 ---
