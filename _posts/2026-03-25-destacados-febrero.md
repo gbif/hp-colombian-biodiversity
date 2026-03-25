@@ -64,3 +64,9 @@ Las colecciones biológicas son la memoria viva de la biodiversidad. Este mes, l
 
 Febrero de 2026 confirma lo que el SiB Colombia viene construyendo mes a mes: una red de conocimiento que crece desde los territorios, con la participación de organizaciones comunitarias, jardines botánicos, instituciones de salud e investigación universitaria. Cada publicación es un aporte concreto a un inventario que Colombia necesita para conocer, gestionar y proteger su biodiversidad. Desde el equipo coordinador, seguimos acompañando ese proceso junto a quienes lo hacen posible.
 
+---
+![Actividad de publicación](/assets/images/noticias_eventos/2025/banner-actividad-de-publicacion.png) 
+
+Esta nota hace parte de una serie de noticias que cubren el reporte mensual de la actividad de publicación para visibilizar las acciones de los [socios publicadores](https://biodiversidad.co/comunidad/socios-publicadores/){:target="\_blank"} y sus esfuerzos por aportar al conocimiento de la biodiversidad del país. Para conocer los destacados en meses anteriores, te invitamos a acceder a la categoría de búsqueda, [Destacados SiB](https://biodiversidad.co/news/?category=Destacados+SiB){:target="\_blank"} en nuestras noticias.
+
+
