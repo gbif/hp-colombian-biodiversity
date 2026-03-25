@@ -34,7 +34,7 @@ El sur del Huila tiene ahora más datos abiertos sobre su fauna. **La Asociació
 
 *Listas de especies*
 
-Los jardines botánicos no solo conservan plantas: también albergan una diversidad de vida que muchas veces pasa desapercibida.[La Fundación Jardín Botánico Joaquín Antonio Uribe de Medellín](https://www.botanicomedellin.org){:target="_blank"} publicó la lista de especies del proyecto Refugios urbanos para la Biodiversidad, con datos sobre el ensamblaje de artrópodos presente en sus instalaciones. Este aporte abre una ventana a la biodiversidad de los espacios verdes urbanos y su importancia como refugios para invertebrados en medio de la ciudad.
+Los jardines botánicos no solo conservan plantas: también albergan una diversidad de vida que muchas veces pasa desapercibida. [La Fundación Jardín Botánico Joaquín Antonio Uribe de Medellín](https://www.botanicomedellin.org){:target="_blank"} publicó la lista de especies del proyecto Refugios urbanos para la Biodiversidad, con datos sobre el ensamblaje de artrópodos presente en sus instalaciones. Este aporte abre una ventana a la biodiversidad de los espacios verdes urbanos y su importancia como refugios para invertebrados en medio de la ciudad.
 
 [Consulta la lista de artrópodos del Jardín Botánico de Medellín](https://biodiversidad.co/dataset/284d7d75-5478-4eb3-832f-aaf0e981eebc){:target="_blank"}
 
