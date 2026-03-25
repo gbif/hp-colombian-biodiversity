@@ -1,6 +1,6 @@
 ---
 preTitle: 25 de marzo, 2026
-title: "Cámaras trampa, jardines y antivenenos: los datos de febrero en el SiB Colombia"
+title: "Cámaras trampa, jardines y antídotos: los datos de febrero en el SiB Colombia"
 description: _Un grupo ecológico del Huila, dos jardines botánicos, el Instituto Nacional de Salud y una colección universitaria sumaron sus datos este mes._
 date: 2026-03-25
 categories: ["Publicación", "Datos abiertos", "Febrero", "Destacados SiB", "2026"]
@@ -23,7 +23,7 @@ Desde el equipo coordinador del SiB Colombia acompañamos mes a mes este proceso
 
 ## **Nueva organización que se sumó como publicadora**
 
-El sur del Huila tiene ahora más datos abiertos sobre su fauna. **La Asociación Grupo Ecológico Reverdecer Laboyano (GERL)** se integra a la red del SiB Colombia con su primera publicación: registros biológicos obtenidos a través del monitoreo con cámaras trampa en la **Reserva Natural de la Sociedad Civil El Cedro**, en Pitalito. Este tipo de monitoreo permite documentar especies de difícil avistamiento, y el aporte de **GERL** es una muestra del papel que las organizaciones comunitarias pueden desempeñar en la generación de conocimiento sobre la biodiversidad del país.
+El sur del Huila tiene ahora más datos abiertos sobre su fauna. [La Asociación Grupo Ecológico Reverdecer Laboyano (GERL)](https://www.facebook.com/groups/179846415400770/){:target="_blank"} se integra a la red del SiB Colombia con su primera publicación: registros biológicos obtenidos a través del monitoreo con cámaras trampa en la **Reserva Natural de la Sociedad Civil El Cedro**, en Pitalito. Este tipo de monitoreo permite documentar especies de difícil avistamiento, y el aporte de **GERL** es una muestra del papel que las organizaciones comunitarias pueden desempeñar en la generación de conocimiento sobre la biodiversidad del país.
 
 [Explora los registros biológicos de GERL en la Reserva El Cedro](https://biodiversidad.co/dataset/171b1846-aa80-494f-a666-e59bf357e30d){:target="_blank"}
 
@@ -42,13 +42,13 @@ Los jardines botánicos no solo conservan plantas: también albergan una diversi
 
 No toda la biodiversidad que interesa a la ciencia es nativa. [El Jardín Botánico de Bogotá José Celestino Mutis](https://jbb.gov.co/){:target="_blank"} publicó un evento de muestreo orientado a evaluar la capacidad de reproducción vegetativa y sexual de *Ulex europaeus*, un arbusto exótico invasor presente en ecosistemas de bosque. Con **24 eventos** y **165 registros**, este conjunto de datos aporta información clave para entender el comportamiento de esta especie y apoyar decisiones de manejo en los territorios donde se ha establecido.
 
-[Consulta los eventos de muestreo del Jardín Botánico de Bogotá](https://biodiversidad.co/data?datasetKey=d93622cc-5286-47e4-bc6b-b9763288ae2a){:target="_blank"}
+[Consulta los eventos de muestreo del Jardín Botánico de Bogotá](https://biodiversidad.co/dataset/d93622cc-5286-47e4-bc6b-b9763288ae2a){:target="_blank"}
 
 *Registros biológicos*
 
 La biodiversidad también salva vidas. [El Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx){:target="_blank"} actualizó su conjunto de registros biológicos asociados a la producción de antivenenos para el tratamiento de intoxicaciones causadas por animales venenosos: serpientes, arácnidos, insectos y animales acuáticos. Esta publicación es un recordatorio de que los datos sobre biodiversidad no solo tienen valor ecológico: en este caso, son parte esencial de un proceso que protege la salud de las personas en todo el territorio nacional.
 
-[Ve el conjunto de datos del Instituto Nacional de Salud](https://biodiversidad.co/data?datasetKey=87913bc6-3730-4813-ad46-214d2b48dfb3){:target="_blank"}
+[Ve el conjunto de datos del Instituto Nacional de Salud](https://biodiversidad.co/dataset/87913bc6-3730-4813-ad46-214d2b48dfb3){:target="_blank"}
 
 ---
 
