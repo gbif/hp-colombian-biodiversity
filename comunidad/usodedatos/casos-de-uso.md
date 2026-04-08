@@ -18,7 +18,7 @@ composition:
   - data: usodatos.tarjetasUso
     type: features # the block type
   - data: casosdeuso.blank
-    type: features # the block type
+    type: blank
 
 ---
 
