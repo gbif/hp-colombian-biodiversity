@@ -1,0 +1,126 @@
+blank: 
+  klass: test
+  markdownContent: |
+    <style>
+      .year-filter {
+       margin: 10px 0;
+      }
+      /* Results counter */
+      #resultsCount{
+       background-color: green;
+       border-radius: 5px;
+       color: #fff;
+       padding: 5px;
+       font-size: 14px;
+      }
+      /* Chart */
+      #container {
+       height: 400px;
+       max-width: 900px;
+       margin: auto;
+      }
+      /* Table */
+      #table, #table input,
+      #table select {
+       width: 100%;
+       border-collapse: collapse;
+      }
+      #table th,
+      #table td {
+       padding: 8px;
+      }
+      #table th, #table tr:nth-child(even) {
+       background: #f5f5f5;
+      }
+      .table-count {
+       font-size: 0.9em;
+       color: #555;
+      }
+      /* Title + authors */
+      .title-cell {
+       display: flex;
+       flex-direction: column;
+      }
+      .authors {
+       color: #777;
+      }
+      /* Pagination */
+      .pagination-wrapper {
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+       margin-top: 15px;
+      }
+      .pagination {
+       margin-top: 15px;
+       text-align: center;
+      }
+      .pagination button {
+       margin: 0 5px;
+       padding: 5px 10px;
+       cursor: pointer;
+      }
+      .pagination button:disabled {
+       opacity: 0.5;
+       cursor: not-allowed;
+      }
+    </style>
+    
+    <!-- Selector de años -->
+    <h2 class="controls">
+     Uso de datos de Colombia desde
+     <select id="yearStart"></select>
+    
+    
+     <label>hasta</label>
+     <select id="yearEnd"></select>
+      <span id="resultsCount" class="results-count"></span>
+    </h2>
+    <p>Cambia el rango de años en los menús desplegables de arriba para cargar los temas y publicaciones que usaron datos compartidos por medio del SiB Colombia y GBIF, con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/">API literature</a>.</p>
+    
+    
+    <!-- Gráfica de temas-->
+    <figure class="highcharts-figure">
+     <div id="container"></div>
+    </figure>
+  
+    
+    <!-- Tabla con paginación -->
+    <div class="pagination-wrapper">
+     <strong>Publicaciones que usaron los datos <span class="rango_fechas_usos"></span></strong>
+     <div id="tableCount" class="table-count"></div>
+     <div id="pagination" class="pagination"></div>
+    </div>
+    
+    
+    <table id="table">
+     <thead>
+       <tr>
+         <th><input id="filterYear" placeholder="Año"></th>
+         <th><input id="filterTitle" placeholder="Publicación"></th>
+         <th><input id="filterTopics" placeholder="Tema"></th>
+    
+    
+         <th>
+           <select id="filterOpenAccess">
+             <option value="">Acceso abierto</option>
+             <option value="true">Sí</option>
+             <option value="false">No</option>
+           </select>
+         </th>
+    
+    
+         <th><input id="filterCountries" placeholder="Países de autores"></th>
+         <th><input id="filterType" placeholder="Tipo"></th>
+       </tr>
+     </thead>
+     <tbody></tbody>
+    </table>
+    
+    <!-- Highcharts -->
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+    <script src="https://code.highcharts.com/themes/adaptive.js"></script>
+    <script src="https://revistabioika.org/es/usos/usecases.js"></script>
