@@ -13,12 +13,12 @@ composition:
   - type: markdown
     data: "dataton_amazonia.videoPrincipal"
   - type: pageMarkdown
-  - data: casosdeuso.blank
-    type: stats
   - data: usodatos.stats2
     type: stats
   - data: usodatos.tarjetasUso
     type: features # the block type
+  - data: casosdeuso.blank
+    type: blank
 
 ---
 
