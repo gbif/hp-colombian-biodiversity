@@ -32,60 +32,56 @@ blank:
        cursor: not-allowed;
       }
     </style>
-    
-    <!-- Selector de años -->
-    <h3 class="feature-title">
-     Uso de datos de Colombia desde
-     <span class="select is-small"><select id="yearStart"></select></span>
-     <label>hasta</label>
-     <span class="select is-small"><select id="yearEnd"></select></span>
-      <span id="resultsCount" class="tag is-success"></span>
-    </h3>
-    <p>Cambia el rango de años en los menús desplegables de arriba para cargar los temas y publicaciones que usaron datos compartidos por medio del SiB Colombia y GBIF, con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/">API literature</a>.</p>
-    
-    
-    <!-- Gráfica de temas-->
-    <figure class="highcharts-figure">
-     <div id="container"></div>
-    </figure>
-    
-    
-    <!-- Tabla con paginación -->
-    <div class="pagination-wrapper">
-     <strong>Publicaciones que usaron los datos <span class="rango_fechas_usos"></span></strong>
-     <div id="tableCount" class="table-count"></div>
-     <div id="pagination" class="pagination"></div>
-    </div>
-    
-    
-    <table id="table">
-     <thead>
-       <tr>
-         <th><input id="filterYear" placeholder="Año"></th>
-         <th><input id="filterTitle" placeholder="Publicación"></th>
-         <th><input id="filterTopics" placeholder="Tema"></th>
-    
-    
-         <th>
-           <select id="filterOpenAccess">
-             <option value="">Acceso abierto</option>
-             <option value="true">Sí</option>
-             <option value="false">No</option>
-           </select>
-         </th>
-    
-    
-         <th><input id="filterCountries" placeholder="Países de autores"></th>
-         <th><input id="filterType" placeholder="Tipo"></th>
-       </tr>
-     </thead>
-     <tbody></tbody>
-    </table>
-    
-    <!-- Highcharts -->
-    <script src="https://code.highcharts.com/highcharts.js"></script>
-    <script src="https://code.highcharts.com/modules/exporting.js"></script>
-    <script src="https://code.highcharts.com/modules/export-data.js"></script>
-    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
-    <script src="https://code.highcharts.com/themes/adaptive.js"></script>
-    <script src="https://revistabioika.org/es/usos/usecases.js"></script>
+
+<!-- Selector de años -->
+<h3 class="feature-title">
+ Uso de datos de Colombia desde
+ <span class="select is-small"><select id="yearStart"></select></span>
+ <label>hasta</label>
+ <span class="select is-small"><select id="yearEnd"></select></span>
+  <span id="resultsCount" class="tag is-success"></span>
+</h3>
+<p>Cambia el rango de años en los menús desplegables de arriba para cargar los temas y publicaciones que usaron datos compartidos por medio del SiB Colombia y GBIF, con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/">API literature</a>.</p>
+
+
+<!-- Gráfica de temas-->
+<figure class="highcharts-figure">
+ <div id="container"></div>
+</figure>
+
+
+<!-- Tabla con paginación -->
+<div class="pagination-wrapper">
+ <strong>Publicaciones que usaron los datos <span class="rango_fechas_usos"></span></strong>
+ <div id="tableCount" class="table-count"></div>
+ <div id="pagination" class="pagination"></div>
+</div>
+
+
+<table id="table">
+ <thead>
+   <tr>
+     <th><input id="filterYear" class="input" placeholder="Año"></th>
+     <th><input id="filterTitle" class="input" placeholder="Publicación"></th>
+     <th><input id="filterTopics" class="input" placeholder="Tema"></th>
+     <th>
+       <select id="filterOpenAccess" class="select is-small">
+         <option value="">Acceso abierto</option>
+         <option value="true">Sí</option>
+         <option value="false">No</option>
+       </select>
+     </th>
+     <th><input id="filterCountries" class="input" placeholder="Países de autores"></th>
+     <th><input id="filterType" class="input" placeholder="Tipo"></th>
+   </tr>
+ </thead>
+ <tbody></tbody>
+</table>
+
+<!-- Highcharts -->
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/export-data.js"></script>
+<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+<script src="https://code.highcharts.com/themes/adaptive.js"></script>
+<script src="https://revistabioika.org/es/usos/usecases.js"></script>
