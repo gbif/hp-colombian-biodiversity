@@ -2,6 +2,11 @@ blank:
   klass: container
   markdownContent: |
     <style>
+      h3 .feature-title {
+          font-size: 1.5em;
+          font-weight: bold;
+          margin-bottom: 0.6666em;
+      }
       .year-filter {
        margin: 10px 0;
       }
