@@ -1,7 +1,6 @@
 blank: 
   klass: container
   markdownContent: |
-    <!-- Selector de años -->
     <h3>
      <span class="title is-4">Uso de datos de Colombia desde</span>
      <span class="select"><select id="use-year-start"></select></span>
@@ -44,8 +43,8 @@ blank:
      </thead>
      <tbody></tbody>
     </table>
-
-   <div id="use-pagination" class="pagination"></div>
+    
+     <div id="use-pagination" class="pagination"></div>
     
     <!-- Highcharts -->
     <script src="https://code.highcharts.com/highcharts.js"></script>
