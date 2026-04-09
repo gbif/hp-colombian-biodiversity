@@ -2,9 +2,10 @@ blank:
   klass: container
   markdownContent: |
     <style>
-      h3.feature-title {
-        font-size: 1.5em;
-        margin-bottom: 0.6666em;
+      h3 .feature-title {
+          font-size: 1.5em;
+          font-weight: bold;
+          margin-bottom: 0.6666em;
       }
       .year-filter {
        margin: 10px 0;
@@ -34,10 +35,10 @@ blank:
     </style>
 
     <!-- Selector de años -->
-    <h3 class="title">
-     Uso de datos de Colombia desde
+    <h3>
+     <span class="feature-title">Uso de datos de Colombia desde</span>
      <span class="select is-small"><select id="yearStart"></select></span>
-     <label>hasta</label>
+     <span class="feature-title">hasta</span>
      <span class="select is-small"><select id="yearEnd"></select></span>
       <span id="resultsCount" class="tag is-success"></span>
     </h3>
