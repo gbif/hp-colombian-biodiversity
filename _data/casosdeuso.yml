@@ -34,7 +34,7 @@ blank:
     </style>
 
     <!-- Selector de años -->
-    <h3 class="feature-title">
+    <h3 class="title">
      Uso de datos de Colombia desde
      <span class="select is-small"><select id="yearStart"></select></span>
      <label>hasta</label>
@@ -64,17 +64,15 @@ blank:
          <th><input id="filterYear" class="input" placeholder="Año"></th>
          <th><input id="filterTitle" class="input" placeholder="Publicación"></th>
          <th><input id="filterTopics" class="input" placeholder="Tema"></th>
-    
-    
          <th>
-           <select id="filterOpenAccess" class="select is-small">
+          <span class="select">
+            <select id="filterOpenAccess">
              <option value="">Acceso abierto</option>
              <option value="true">Sí</option>
              <option value="false">No</option>
            </select>
+          </span>
          </th>
-    
-    
          <th><input id="filterCountries" class="input" placeholder="Países de autores"></th>
          <th><input id="filterType" class="input" placeholder="Tipo"></th>
        </tr>
