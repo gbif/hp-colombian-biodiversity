@@ -36,10 +36,10 @@ blank:
     <!-- Selector de años -->
     <h3 class="feature-title">
      Uso de datos de Colombia desde
-     <select id="yearStart"></select>
+     <span class="select"><select id="yearStart"></select></span>
      <label>hasta</label>
-     <select id="yearEnd"></select>
-      <span id="resultsCount" class="results-count"></span>
+     <span class="select"></span><select id="yearEnd"></select></span>
+      <span id="resultsCount" class="tag is-success"></span>
     </h3>
     
     <p>Cambia el rango de años en los menús desplegables de arriba para cargar los temas y publicaciones que usaron datos compartidos por medio del SiB Colombia y GBIF, con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/">API literature</a>.</p>
