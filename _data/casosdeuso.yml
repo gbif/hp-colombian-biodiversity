@@ -1,70 +1,51 @@
 blank: 
   klass: container
   markdownContent: |
-    <style>
-      h3 .feature-title {
-          font-size: 1.5em;
-          font-weight: bold;
-          margin-bottom: 0.6666em;
-      }
-      .year-filter {
-       margin: 10px 0;
-      }
-      /* Pagination */
-      .pagination-wrapper {
-       display: flex;
-       justify-content: space-between;
-       align-items: center;
-       margin-top: 15px;
-      }
-    </style>
-
     <!-- Selector de años -->
     <h3>
-     <span class="feature-title">Uso de datos de Colombia desde</span>
-     <span class="select"><select id="yearStart"></select></span>
-     <span class="feature-title">hasta</span>
-     <span class="select"><select id="yearEnd"></select></span>
-      <span id="resultsCount" class="tag is-success"></span>
+     <span class="title is-4">Uso de datos de Colombia desde</span>
+     <span class="select"><select id="use-year-start"></select></span>
+     <span class="title is-4">hasta</span>
+     <span class="select"><select id="use-year-end"></select></span>
+      <span id="results-count" class="tag is-success"></span>
     </h3>
     <p>Cambia el rango de años en los menús desplegables de arriba para cargar los temas y publicaciones que usaron datos compartidos por medio del SiB Colombia y GBIF, con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/">API literature</a>.</p>
     
     
     <!-- Gráfica de temas-->
-    <figure class="highcharts-figure">
-     <div id="container"></div>
+    <figure>
+     <h3 id="use-chart-title" class="title is-5"></h3>
+     <div id="use-chart-topics"></div>
     </figure>
     
     
     <!-- Tabla con paginación -->
-    <div class="pagination-wrapper">
-     <strong>Publicaciones que usaron los datos <span class="rango_fechas_usos"></span></strong>
-     <div id="tableCount" class="table-count"></div>
-     <div id="pagination" class="pagination"></div>
-    </div>
+     <h3 class="title is-5">Publicaciones que usaron los datos <span class="use_date_range"></span></h3>
+     <div id="use-table-count" class="has-text-centered"></div>
     
-    
-    <table id="table">
+    <table id="use-table">
      <thead>
        <tr>
-         <th><input id="filterYear" class="input" placeholder="Año"></th>
-         <th><input id="filterTitle" class="input" placeholder="Publicación"></th>
-         <th><input id="filterTopics" class="input" placeholder="Tema"></th>
+         <th><input id="use-filter-year" class="input" placeholder="Año"></th>
+         <th><input id="use-filter-title" class="input" placeholder="Publicación"></th>
+         <th><input id="use-filter-topics" class="input" placeholder="Tema"></th>
          <th>
           <span class="select">
-            <select id="filterOpenAccess">
+            <select id="use-filter-openaccess">
              <option value="">Acceso abierto</option>
              <option value="true">Sí</option>
              <option value="false">No</option>
            </select>
           </span>
          </th>
-         <th><input id="filterCountries" class="input" placeholder="Países de autores"></th>
-         <th><input id="filterType" class="input" placeholder="Tipo"></th>
+         <th><input id="use-filter-countries" class="input" placeholder="Países de autores"></th>
+         <th><input id="use-filter-type" class="input" placeholder="Tipo"></th>
        </tr>
      </thead>
      <tbody></tbody>
     </table>
+
+   <div id="use-pagination" class="pagination"></div>
     
     <!-- Highcharts -->
     <script src="https://code.highcharts.com/highcharts.js"></script>
