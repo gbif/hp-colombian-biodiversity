@@ -10,12 +10,6 @@ blank:
       .year-filter {
        margin: 10px 0;
       }
-      /* Chart */
-      #container {
-       height: 400px;
-       max-width: 900px;
-       margin: auto;
-      }
       /* Pagination */
       .pagination-wrapper {
        display: flex;
