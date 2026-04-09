@@ -1,17 +1,13 @@
 blank: 
-  klass: test
+  klass: content
   markdownContent: |
     <style>
+      h3.feature-title {
+        font-size: 1.5em;
+        margin-bottom: 0.6666em;
+      }
       .year-filter {
        margin: 10px 0;
-      }
-      /* Results counter */
-      #resultsCount{
-       background-color: green;
-       border-radius: 5px;
-       color: #fff;
-       padding: 5px;
-       font-size: 14px;
       }
       /* Chart */
       #container {
@@ -19,41 +15,12 @@ blank:
        max-width: 900px;
        margin: auto;
       }
-      /* Table */
-      #table, #table input,
-      #table select {
-       width: 100%;
-       border-collapse: collapse;
-      }
-      #table th,
-      #table td {
-       padding: 8px;
-      }
-      #table th, #table tr:nth-child(even) {
-       background: #f5f5f5;
-      }
-      .table-count {
-       font-size: 0.9em;
-       color: #555;
-      }
-      /* Title + authors */
-      .title-cell {
-       display: flex;
-       flex-direction: column;
-      }
-      .authors {
-       color: #777;
-      }
       /* Pagination */
       .pagination-wrapper {
        display: flex;
        justify-content: space-between;
        align-items: center;
        margin-top: 15px;
-      }
-      .pagination {
-       margin-top: 15px;
-       text-align: center;
       }
       .pagination button {
        margin: 0 5px;
