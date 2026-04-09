@@ -17,15 +17,6 @@ blank:
        align-items: center;
        margin-top: 15px;
       }
-      .pagination button {
-       margin: 0 5px;
-       padding: 5px 10px;
-       cursor: pointer;
-      }
-      .pagination button:disabled {
-       opacity: 0.5;
-       cursor: not-allowed;
-      }
     </style>
 
     <!-- Selector de años -->
