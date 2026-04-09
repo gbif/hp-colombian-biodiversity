@@ -1,5 +1,5 @@
 blank: 
-  klass: content
+  klass: container
   markdownContent: |
     <style>
       h3.feature-title {
