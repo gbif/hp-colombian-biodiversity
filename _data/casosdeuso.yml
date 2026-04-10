@@ -11,7 +11,8 @@ blank:
         <span id="results-count" class="tag is-success"></span>
       </h3>
       <p>Cambia el rango de años en los menús desplegables de arriba para cargar los temas y publicaciones que usaron datos compartidos por medio del SiB Colombia y GBIF, con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/">API literature</a>.</p>
-      
+
+      <hr>
       
       <!-- Gráfica de temas-->
       <figure>
