@@ -11,7 +11,7 @@ blank:
         <span id="results-count" class="tag is-success"></span>
       </h3>
       <p>Cambia el rango de años en los menús desplegables de arriba para cargar los temas y publicaciones que usaron datos compartidos por medio del SiB Colombia y GBIF, con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/">API literature</a>.</p>
-
+    
       <hr>
       
       <!-- Gráfica de temas-->
@@ -28,9 +28,21 @@ blank:
       <table id="use-table">
        <thead>
          <tr>
-           <th><input id="use-filter-year" class="input" placeholder="Año"></th>
+           <th>
+            <span class="select">
+              <select id="use-filter-year">
+                <option value="">Año</option>
+              </select>
+            </span>
+          </th>
            <th><input id="use-filter-title" class="input" placeholder="Publicación"></th>
-           <th><input id="use-filter-topics" class="input" placeholder="Tema"></th>
+           <th>
+            <span class="select">
+              <select id="use-filter-topics">
+                <option value="">Tema</option>
+              </select>
+            </span>
+          </th>
            <th>
             <span class="select">
               <select id="use-filter-openaccess">
@@ -40,8 +52,20 @@ blank:
              </select>
             </span>
            </th>
-           <th><input id="use-filter-countries" class="input" placeholder="Países de autores"></th>
-           <th><input id="use-filter-type" class="input" placeholder="Tipo"></th>
+           <th>
+            <span class="select">
+              <select id="use-filter-countries">
+                <option value="">País/Autores</option>
+              </select>
+            </span>
+          </th>
+           <th>
+            <span class="select">
+              <select id="use-filter-type">
+                <option value="">Tipo</option>
+              </select>
+            </span>
+          </th>
          </tr>
        </thead>
        <tbody></tbody>
