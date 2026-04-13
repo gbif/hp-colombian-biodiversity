@@ -1,6 +1,6 @@
 videoPrincipal:
   markdownContent: |
-    <div class="video-container"><iframe src="https://youtu.be/embed/CVDJ6acigYM" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+    <div class="video-container"><iframe src="https://www.youtube.com/embed/CVDJ6acigYM" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 
 stats1:
   background: "#ffffff55"
