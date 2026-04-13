@@ -17,6 +17,8 @@ composition:
     type: stats
   - data: casosdeuso.tarjetasUso
     type: features # the block type
+  - type: floatingText
+    data: casosdeuso.bannerCTA
   - data: casosdeuso.blank
     type: blank
 
