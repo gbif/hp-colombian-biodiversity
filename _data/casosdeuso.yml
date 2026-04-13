@@ -2,6 +2,82 @@ videoPrincipal:
   markdownContent: |
     <div class="video-container"><iframe src="https://youtu.be/CVDJ6acigYM?si=YmXBIK5Qz0FkYF3j" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 
+stats1:
+  background: "#ffffff55"
+  features:
+      # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
+    - title: 1.358
+      description: autores
+      background: /comunidad/usodedatos/images/Consulta.png
+      #href: /data
+      # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
+    - title: 143
+      description: citaciones acumuladas
+      background: /comunidad/usodedatos/images/Citacion.png
+      #href: https://listas.biodiversidad.co/
+      # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
+    - title: 19.432
+      description: acceso abierto
+      background: /comunidad/usodedatos/images/Investigacion.png
+      #href: /data
+
+#cards
+tarjetasUso:
+  # title: Ejes de formación
+  # description: Ejes de formación:
+    
+  features:      
+     #preTitle: "Uso en cifras"  # optional
+    - title: Actualización de plan de conservación de felinos del MADS # required
+      description: |      # required
+       Los datos publicados en el SiB Colombia proporcionaron la base para construir el panorama general de conservación que orienta el planteamiento de las nuevas acciones del plan y su posterior implementación. 
+      background: /assets/images/noticias_eventos/2025/2025-08-05-actualizacion-plan-felinos.png
+      cta:
+      - text: Ver más
+        href:  https://biodiversidad.co/post/2025/actualizacion-plan-felinos/
+        isPrimary: true
+    
+     #preTitle: "Uso en cifras"  # optional
+    - title: Actualización del Plan de Manejo Distrito Regional de Manejo Integrado - Agrosavia y Cornare # required
+      description: |      # required
+       Uso de datos sobre aves, mamíferos, reptiles y sobre especies endémicas, amenazadas, migratorias publicados en el SiB Colombia.
+      background: /assets/images/noticias_eventos/2025/2025-10-02-lista-especies-migratorias.jpg
+      cta:
+      - text: Ver más
+        href:  https://biodiversidad.co/post/2025/lista-especies-migratorias/
+        isPrimary: true
+    
+     #preTitle: "Uso en cifras"  # optional
+    - title: Actualización de la lista de especies exóticas declaradas como invasoras con un enfoque preventivo # required
+      description: |      # required
+       Un hito que aportó a la síntesis oficial de cifras nacionales en plataformas como Biodiversidad en cifras y la lista usada en el diagnóstico del Plan Nacional de Prevención, Control y Manejo, resultado del MADS, que reúne información de especies con datos compartidos por medio del SiB Colombia.
+      background: /assets/images/noticias_eventos/2025/2025-12-15-especies-invasoras.jpg
+      cta:
+      - text: Ver más
+        href:  https://biodiversidad.co/post/2025/actualizacion-lista-invasoras/
+        isPrimary: true
+        
+      #preTitle:  Editorial # optional
+    - title: Informes Nacionales
+      description: |      # required
+       Informes y reportes de la biodiversidad a partir de los datos publicados a través del SiB Colombia.
+      # img required
+      background: /comunidad/usodedatos/images/Cifras_plantas2019.PNG
+      cta:
+      - text: Ver más
+        href: /comunidad/uso-de-datos/repositorio
+        isPrimary: true    
+    
+     #preTitle: "Uso en cifras"  # optional
+    - title: Postula tu caso
+      description: |      # required
+       ¿Quieres divulgar un caso de uso de datos abiertos sobre biodiversidad? Comparte algunos datos y entraremos en contacto para empezar a documentar y contar tu caso.
+      background: /assets/images/fondos_layout/BI21090_Villegas-Velez-Felipe.jpg
+      cta:
+      - text: Ver más
+        href:  
+        isPrimary: true
+        
 blank: 
   klass: container
   markdownContent: |
