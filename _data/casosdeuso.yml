@@ -76,17 +76,18 @@ tarjetasUso:
       cta:
       - text: Ver más
         href: /comunidad/uso-de-datos/repositorio
-        isPrimary: true    
-    
-     #preTitle: "Uso en cifras"  # optional
-    - title: Postula tu caso
-      description: |      # required
-       ¿Quieres divulgar un caso de uso de datos abiertos sobre biodiversidad? Comparte algunos datos y entraremos en contacto para empezar a documentar y contar tu caso.
-      background: /assets/images/fondos_layout/BI21090_Villegas-Velez-Felipe.jpg
-      cta:
-      - text: Ver más
-        href:  
-        isPrimary: true
+        isPrimary: true 
+  
+bannerCTA:
+  title: "¿Quieres divulgar un caso de uso de datos abiertos sobre biodiversidad?"
+  description: Comparte algunos datos y entraremos en contacto para empezar a documentar y contar tu caso.
+  overlayColor: "#253c34"
+  background: /assets/images/fondos_layout/BI21090_Villegas-Velez-Felipe.jpg
+  hasWhiteText: true
+  cta:
+    - text: Postula tu caso
+      href: 
+      isPrimary: true
         
 blank: 
   klass: container
