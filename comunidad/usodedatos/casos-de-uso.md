@@ -11,7 +11,7 @@ height: 41vh
 composition:
   - type: heroImage # the block type
   - type: markdown
-    data: dataton_amazonia.videoPrincipal
+    data: casosdeuso.videoPrincipal
   - type: pageMarkdown
   - data: usodatos.stats2
     type: stats
