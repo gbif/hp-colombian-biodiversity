@@ -13,9 +13,9 @@ composition:
   - type: markdown
     data: casosdeuso.videoPrincipal
   - type: pageMarkdown
-  - data: usodatos.stats2
+  - data: casosdeuso.stats1
     type: stats
-  - data: usodatos.tarjetasUso
+  - data: casosdeuso.tarjetasUso
     type: features # the block type
   - data: casosdeuso.blank
     type: blank
