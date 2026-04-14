@@ -112,7 +112,7 @@ bannerCTA:
   hasWhiteText: true
   cta:
     - text: Postula tu caso
-      href: mailto:sib@humboldt.org.co?subject=Postulación+de+caso+de+uso
+      href: 
       isPrimary: true
 
         
