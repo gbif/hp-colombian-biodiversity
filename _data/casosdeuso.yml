@@ -117,13 +117,13 @@ blank:
       <p clas="has-text-centered">Cambia el rango de años para cargar las cifras, temas y publicaciones que usaron datos compartidos por medio del SiB Colombia y GBIF, con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/">API literature</a>.</p>
       <hr>
         <!-- Selector de años -->
-        <p>
+        <div class="has-text-centered">
          <span class="title is-4">Desde</span>
          <span class="select"><select id="use-year-start"></select></span>
          <span class="title is-4">hasta</span>
          <span class="select"><select id="use-year-end"></select></span>
           <span id="results-count" class="tag is-success"></span>
-        </p>
+        </div>
       <hr>
       
         <section id="use-statistics">
