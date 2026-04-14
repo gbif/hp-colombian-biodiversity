@@ -102,7 +102,7 @@ tarjetasUso:
 bannerCTA:
   title: "¿Quieres divulgar un caso de uso de datos abiertos sobre biodiversidad?"
   description: Comparte algunos datos y entraremos en contacto para empezar a documentar y contar tu caso.
-  background: https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/assets/images/fondos_layout/CIM14423_Villegas-Velez-Felipe.jpg
+  background: https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/assets/images/fondos_layout/BI21127_Villegas-Velez-Felipe.jpg
   hasWhiteText: true
   cta:
     - text: Postula tu caso
@@ -112,24 +112,21 @@ bannerCTA:
 blank: 
   klass: container
   markdownContent: |
-    <hr>
+    <br>
     <div class="container">
-    
-      <h2 class="title is-4 has-text-centered">Uso de datos de Colombia en literatura</h2>
-      <p>Cambia el rango de años para cargar las cifras, temas y publicaciones que usaron datos compartidos por medio del SiB Colombia y GBIF, con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/">API literature</a>.</p>
-    
       <div class="box">
+      <h2 class="title is-4 has-text-centered">Uso de datos de Colombia en literatura</h2>
+      <p clas="has-text-centered">Cambia el rango de años para cargar las cifras, temas y publicaciones que usaron datos compartidos por medio del SiB Colombia y GBIF, con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/">API literature</a>.</p>
+      <hr>
         <!-- Selector de años -->
-        <h3>
+        <p>
          <span class="title is-4">Desde</span>
          <span class="select"><select id="use-year-start"></select></span>
          <span class="title is-4">hasta</span>
          <span class="select"><select id="use-year-end"></select></span>
           <span id="results-count" class="tag is-success"></span>
-        </h3>
-      
-        <hr>
-        
+        </p>
+      <hr>
       
         <section id="use-statistics">
           <div class="statistics-cards has--elements">
@@ -238,6 +235,8 @@ blank:
         </table>
         <div id="use-pagination" class="pagination"></div>
       </div>
+      
+      <br>
     
     </div>
         
