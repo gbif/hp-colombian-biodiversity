@@ -116,7 +116,7 @@ blank:
     <hr>
     <div class="container">
     
-      <h2 class="title is-4">Uso de datos de Colombia en literatura</h2>
+      <h2 class="title is-4 has-text-centered">Uso de datos de Colombia en literatura</h2>
       <p>Cambia el rango de años para cargar las cifras, temas y publicaciones que usaron datos compartidos por medio del SiB Colombia y GBIF, con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/">API literature</a>.</p>
     
       <div class="box">
