@@ -36,6 +36,71 @@ videoPrincipal:
      </blockquote>
      
     </details>
+    
+tarjetasUso:
+  title: Casos destacados
+  # description: Ejes de formación:
+  features:      
+    - preTitle: "Uso en plan"  # optional
+      title: Actualización de plan de conservación de felinos del MADS # required
+      description: |      # required
+        Los datos publicados en el SiB Colombia proporcionaron la base para construir el panorama general de conservación que orienta el planteamiento de las nuevas acciones del plan y su posterior implementación. 
+      background: /assets/images/noticias_eventos/2025/2025-08-05-actualizacion-plan-felinos.png
+      cta:
+      - text: Ver más
+        href:  https://biodiversidad.co/post/2025/actualizacion-plan-felinos/
+        isPrimary: true
+    
+    - preTitle: "Uso en plan"  # optional
+      title: Actualización del Plan de Manejo Distrito Regional de Manejo Integrado - Agrosavia y Cornare # required
+      description: |      # required
+        Uso de datos sobre aves, mamíferos, reptiles y sobre especies endémicas, amenazadas, migratorias publicados en el SiB Colombia.
+      background: /assets/images/noticias_eventos/2025/2025-10-02-lista-especies-migratorias.jpg
+      cta:
+      - text: Ver más
+        href:  https://biodiversidad.co/post/2025/lista-especies-migratorias/
+        isPrimary: true
+    
+    - preTitle: "Uso en lista"  # optional
+      title: Actualización de la lista de especies exóticas declaradas como invasoras con un enfoque preventivo # required
+      description: |      # required
+        Aportó a la síntesis oficial de cifras nacionales y la lista del diagnóstico del Plan Nacional de Prevención, Control y Manejo, resultado del MADS.
+      background: /assets/images/noticias_eventos/2025/2025-12-15-especies-invasoras.jpg
+      cta:
+      - text: Ver más
+        href:  https://biodiversidad.co/post/2025/actualizacion-lista-invasoras/
+        isPrimary: true
+    
+    - preTitle: "Uso en informe"  # optional
+      title: Actualización de la lista de especies exóticas declaradas como invasoras con un enfoque preventivo # required
+      description: |      # required
+        Este informe de la red global de datos abiertos, GBIF —de la que el SiB Colombia es nodo en el país—, recopiló una vez más el uso de datos publicados en Colombia a través de nuestra red.
+      background: https://images.ctfassets.net/uo17ejk9rkwj/3aB7K6CM2MnJ2KaCIOUAVy/2b71eda9edcb5bd851eddbb7159b4d8c/cover-shadow-n12.png
+      cta:
+      - text: Ver más
+        href: https://www.gbif.org/document/4yxe95hHk0LlGwxgpGZT9i/gbif-science-review-no-12
+        isPrimary: true
+    
+    - preTitle: "Uso en plan"  # optional
+      title: Actualización del Plan de Manejo Distrito Regional de Manejo Integrado - Agrosavia y Cornare # required
+      description: |      # required
+        Uso de datos sobre aves, mamíferos, reptiles y sobre especies endémicas, amenazadas, migratorias publicados en el SiB Colombia.
+      background: /assets/images/fondos_layout/BI21090_Villegas-Velez-Felipe.jpg
+      cta:
+      - text: Ver más
+        href: https://www.gbif.org/document/4yxe95hHk0LlGwxgpGZT9i/gbif-science-review-no-12
+        isPrimary: true
+        
+    - preTitle: "Uso editorial" # optional
+      title: Informes Nacionales
+      description: |      # required
+        Informes y reportes de la biodiversidad a partir de los datos publicados a través del SiB Colombia.
+      # img required
+      background: /comunidad/usodedatos/images/Cifras_plantas2019.PNG
+      cta:
+      - text: Ver más
+        href: /comunidad/uso-de-datos/repositorio
+        isPrimary: true 
   
 bannerCTA:
   title: "¿Quieres visibilizar un caso de uso de datos abiertos sobre biodiversidad?"
@@ -46,7 +111,6 @@ bannerCTA:
     - text: Postula tu caso
       href: 
       isPrimary: true
-
         
 blank: 
   klass: container
