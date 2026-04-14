@@ -33,7 +33,7 @@ composition:
    <p>Su aplicación como casos de uso debe cumplir con la siguiente lista de criterios:</p>
    <ol>
       <li>
-         <p>Aporta a la investigación, educación, formulación de políticas públicas, o al cálculo de indicadores nacionales del Plan de Acción de Biodiversidad (PAB), considerando al menos una de las siguientes opciones:</p>
+         <p><strong>Aporta a la investigación, educación, formulación de políticas públicas, o al cálculo de indicadores nacionales del Plan de Acción de Biodiversidad (PAB)</strong>, considerando al menos una de las siguientes opciones:</p>
          <ul>
             <li>1A. Aprovecha plataformas y herramientas del SiB para generar conocimiento.</li>
             <li>1B. Fortalece las capacidades locales, regionales o nacionales para la gestión y publicación de datos de biodiversidad, conectando datos con decisiones, territorios y problemas de interés público.</li>
@@ -43,10 +43,10 @@ composition:
          </ul>
       </li>
       <li>
-         <p>Reconoce o cita el uso de datos, cifras o información del SiB Colombia.</p>
+         <p><strong>Reconoce o cita el uso de datos, cifras o información</strong> del SiB Colombia.</p>
       </li>
       <li>
-         <p>La organización o persona que encabeza el caso de uso seleccionado para ser destacado editorialmente, declara al SiB Colombia que respeta los términos y condiciones de acceso y uso promovidas por la licencia bajo la cual los datos fueron publicados, dando acceso a la información asociada a cualquier persona.</p>
+         <p><strong>La organización o persona que encabeza el caso de uso seleccionado para ser destacado editorialmente, declara al SiB Colombia que respeta los términos y condiciones de acceso y uso promovidas por la licencia bajo la cual los datos fueron publicados</strong>, dando acceso a la información asociada a cualquier persona.</p>
       </li>
    </ol>
    
