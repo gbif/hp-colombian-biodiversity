@@ -16,7 +16,7 @@ composition:
   - type: pageMarkdown
   - data: casosdeuso.tarjetasUso
     type: features # the block type
-  - type: floatingText
+  - type: pageMarkdown
     data: casosdeuso.bannerCTA
   - data: casosdeuso.blank
     type: blank
