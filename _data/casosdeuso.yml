@@ -1,6 +1,6 @@
 videoPrincipal:
   markdownContent: |
-    <p class="video-container"><iframe src="https://www.youtube.com/embed/CVDJ6acigYM" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></p>
+    <div class="video-container"><iframe src="https://www.youtube.com/embed/CVDJ6acigYM" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
     <p>Los casos de uso son la aplicación práctica de datos abiertos sobre biodiversidad (registros biológicos, listas de especies, eventos de muestreo), información o cifras compartidas en las plataformas del SiB Colombia, para tomar decisiones, generar nuevo conocimiento, apoyar procesos de educación o crear productos de información.</p>
     <details>
         <summary markdown="span" style="padding: 20px;"><b>¿Qué tipos de casos de uso de datos contempla el SiB Colombia?</b></summary>
@@ -30,7 +30,6 @@ videoPrincipal:
      </blockquote>
     </details>
 
-#cards
 tarjetasUso:
   title: Casos destacados
   # description: Ejes de formación:
@@ -58,7 +57,7 @@ tarjetasUso:
     - preTitle: "Uso en lista"  # optional
       title: Actualización de la lista de especies exóticas declaradas como invasoras con un enfoque preventivo # required
       description: |      # required
-       Aportó a la síntesis oficial de cifras nacionales y la lista del diagnóstico del Plan Nacional de Prevención, Control y Manejo, resultado del MADS.
+        Aportó a la síntesis oficial de cifras nacionales y la lista del diagnóstico del Plan Nacional de Prevención, Control y Manejo, resultado del MADS.
       background: /assets/images/noticias_eventos/2025/2025-12-15-especies-invasoras.jpg
       cta:
       - text: Ver más
@@ -68,7 +67,7 @@ tarjetasUso:
     - preTitle: "Uso en informe"  # optional
       title: Actualización de la lista de especies exóticas declaradas como invasoras con un enfoque preventivo # required
       description: |      # required
-       Este informe de la red global de datos abiertos, GBIF —de la que el SiB Colombia es nodo en el país—, recopiló una vez más el uso de datos publicados en Colombia a través de nuestra red.
+        Este informe de la red global de datos abiertos, GBIF —de la que el SiB Colombia es nodo en el país—, recopiló una vez más el uso de datos publicados en Colombia a través de nuestra red.
       background: https://images.ctfassets.net/uo17ejk9rkwj/3aB7K6CM2MnJ2KaCIOUAVy/2b71eda9edcb5bd851eddbb7159b4d8c/cover-shadow-n12.png
       cta:
       - text: Ver más
@@ -78,7 +77,7 @@ tarjetasUso:
     - preTitle: "Uso en plan"  # optional
       title: Actualización del Plan de Manejo Distrito Regional de Manejo Integrado - Agrosavia y Cornare # required
       description: |      # required
-       Uso de datos sobre aves, mamíferos, reptiles y sobre especies endémicas, amenazadas, migratorias publicados en el SiB Colombia.
+        Uso de datos sobre aves, mamíferos, reptiles y sobre especies endémicas, amenazadas, migratorias publicados en el SiB Colombia.
       background: /assets/images/fondos_layout/BI21090_Villegas-Velez-Felipe.jpg
       cta:
       - text: Ver más
@@ -88,7 +87,7 @@ tarjetasUso:
     - preTitle: "Uso editorial" # optional
       title: Informes Nacionales
       description: |      # required
-       Informes y reportes de la biodiversidad a partir de los datos publicados a través del SiB Colombia.
+        Informes y reportes de la biodiversidad a partir de los datos publicados a través del SiB Colombia.
       # img required
       background: /comunidad/usodedatos/images/Cifras_plantas2019.PNG
       cta:
