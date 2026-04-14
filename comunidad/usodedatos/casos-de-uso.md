@@ -7,7 +7,7 @@ description: |
 background: https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/assets/images/fondos_layout/CIM14423_Villegas-Velez-Felipe.jpg
 imageLicense: |
   Fotografía de: Felipe Villegas
-height: 21vh
+height: 31vh
 toc: false
 composition:
   - type: heroBox # the block type
