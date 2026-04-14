@@ -12,6 +12,7 @@ videoPrincipal:
      <blockquote>
      
        Aunque el uso de datos, cifras e información puede ser muy amplio, para orientar selección de los casos destacados, se tipifican dos categorías según los objetivos asociados.
+       
        <ol>
           <li>
              <p><strong>Casos de uso estratégico y aplicado de los datos</strong>: soportan la toma de decisiones, generan conocimiento, aportan a políticas, indicadores o planificación, se traducen en acciones concretas de conservación o educación, y se subdividen en:</p>
@@ -37,6 +38,7 @@ videoPrincipal:
      
     </details>
 
+    
 tarjetasUso:
   title: Casos destacados
   # description: Ejes de formación:
@@ -101,6 +103,7 @@ tarjetasUso:
       - text: Ver más
         href: /comunidad/uso-de-datos/repositorio
         isPrimary: true 
+
   
 bannerCTA:
   title: "¿Quieres visibilizar un caso de uso de datos abiertos sobre biodiversidad?"
@@ -111,6 +114,7 @@ bannerCTA:
     - text: Postula tu caso
       href: mailto:sib@humboldt.org.co?subject=Postulación+de+caso+de+uso
       isPrimary: true
+
         
 blank: 
   klass: container
