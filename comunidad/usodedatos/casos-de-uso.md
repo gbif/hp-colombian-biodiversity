@@ -8,14 +8,14 @@ background: https://live.staticflickr.com/2132/1496964659_6d2bd87a42_b.jpg
 imageLicense: |
   _Acianthera casapensis_ Fotografía de: Quimbaya vía [Flickr](https://flic.kr/p/3hhkrv)
 height: 41vh
-toc: true
+toc: false
 composition:
   - type: heroBox # the block type
   - type: markdown
     data: casosdeuso.videoPrincipal
-  - type: pageMarkdown
   - data: casosdeuso.tarjetasUso
     type: features # the block type
+  - type: pageMarkdown
   - type: floatingText
     data: casosdeuso.bannerCTA
   - data: casosdeuso.blank
