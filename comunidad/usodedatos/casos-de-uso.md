@@ -26,7 +26,7 @@ composition:
 Los casos de uso son la aplicación práctica de datos abiertos (registros biológicos, listas de especies, eventos de muestreo), información o cifras sobre biodiversidad compartidas en las plataformas del SiB Colombia, usados(as) para tomar decisiones, generar nuevo conocimiento, apoyar procesos de educación o crear productos de información.
 
 <details>
-    <summary markdown="span" style="background-color:#afea53; padding: 20px;"><b>¿Qué tipos de casos de uso de datos existen?</b></summary>
+    <summary markdown="span" style="padding: 20px;"><b>¿Qué tipos de casos de uso de datos existen?</b></summary>
 
 <br>
 
@@ -63,7 +63,7 @@ Los casos de uso son la aplicación práctica de datos abiertos (registros biol�
 <hr>
 
 <details>
-    <summary markdown="span" style="background-color:#afea53; padding: 20px;"><b>¿Cuáles son los requisitos para definir un caso de uso?</b></summary>
+    <summary markdown="span" style="padding: 20px;"><b>¿Cuáles son los requisitos para definir un caso de uso?</b></summary>
 
 <br>
 
