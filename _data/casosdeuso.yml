@@ -1,7 +1,10 @@
 videoPrincipal:
   markdownContent: |
-    <div class="video-container"><iframe src="https://www.youtube.com/embed/CVDJ6acigYM" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
-    Los casos de uso son la aplicación práctica de datos abiertos sobre biodiversidad (registros biológicos, listas de especies, eventos de muestreo), información o cifras compartidas en las plataformas del SiB Colombia, usados para tomar decisiones, generar nuevo conocimiento, apoyar procesos de educación o crear productos de información.
+    <p class="video-container"><iframe src="https://www.youtube.com/embed/CVDJ6acigYM" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></p>
+    
+    <p>Los casos de uso son la aplicación práctica de datos abiertos sobre biodiversidad (registros biológicos, listas de especies, eventos de muestreo), información o cifras compartidas en las plataformas del SiB Colombia, usados para tomar decisiones, generar nuevo conocimiento, apoyar procesos de educación o crear productos de información.</p>
+
+    <hr>
     
     <details>
         <summary markdown="span" style="padding: 20px;"><b>¿Qué tipos de casos de uso de datos existen?</b></summary>
@@ -37,6 +40,8 @@ videoPrincipal:
      </blockquote>
     
     </details>
+
+    <hr>
 
 #cards
 tarjetasUso:
