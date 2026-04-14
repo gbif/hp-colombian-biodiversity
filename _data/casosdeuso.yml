@@ -1,5 +1,6 @@
 videoPrincipal:
   markdownContent: |
+  
     <div class="video-container"><iframe src="https://www.youtube.com/embed/CVDJ6acigYM" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
     
     <p>Los casos de uso son la aplicación práctica de datos abiertos sobre biodiversidad (registros biológicos, listas de especies, eventos de muestreo), información o cifras compartidas en las plataformas del SiB Colombia, usados para tomar decisiones, generar nuevo conocimiento, apoyar procesos de educación o crear productos de información.</p>
