@@ -13,17 +13,13 @@ composition:
   - type: markdown
     data: casosdeuso.videoPrincipal
   - type: pageMarkdown
-  - data: casosdeuso.stats1
-    type: stats
   - data: casosdeuso.tarjetasUso
     type: features # the block type
-  - type: floatingText
-    data: casosdeuso.bannerCTA
   - data: casosdeuso.blank
     type: blank
+  - type: floatingText
+    data: casosdeuso.bannerCTA
 
 ---
 
-Anualmente El Equipo Coordinador del SiB Colombia consolida las cifras sobre el uso de los datos. Durante el 2020 se consolidaron las siguientes cifras sobre descarga, consultas y citación a los datos publicados a través del SiB Colombia. 
-
-Las consultas recibidas por el SiB Colombia se pueden clasificar en 3 grupos de acuerdo a su uso, investigación, educación y toma de decisiones. Las siguientes cifras corresponden al porcentaje de consultas respecto al total de consultas(143) resueltas por el EC-SiB durante el 2020.
+Los casos de uso son la aplicación práctica de una investigación y sus datos abiertos, información o cifras publicadas en las plataformas del SiB Colombia,  usados(as) para tomar decisiones, generar nuevo conocimiento, apoyar procesos de educación o crear productos de información.
