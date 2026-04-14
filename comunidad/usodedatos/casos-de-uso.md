@@ -15,7 +15,7 @@ composition:
     data: casosdeuso.videoPrincipal
   - type: pageMarkdown
   - data: casosdeuso.tarjetasUso
-    type: latestPosts # the block type
+    type: features # the block type
   - type: floatingText
     data: casosdeuso.bannerCTA
   - data: casosdeuso.blank
