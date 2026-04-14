@@ -4,9 +4,9 @@ permalink: /comunidad/casos-de-uso
 title: Casos de uso
 description: |
    Conoce cómo se están usando los datos del SiB Colombia en procesos de investigación, educación, toma de decisiones y postúla tu caso para visualizarlo.
-background: https://live.staticflickr.com/2132/1496964659_6d2bd87a42_b.jpg
+background: https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/assets/images/fondos_layout/CIM14423_Villegas-Velez-Felipe.jpg
 imageLicense: |
-  _Acianthera casapensis_ Fotografía de: Quimbaya vía [Flickr](https://flic.kr/p/3hhkrv)
+  Fotografía de: Felipe Villegas
 height: 41vh
 toc: false
 composition:
