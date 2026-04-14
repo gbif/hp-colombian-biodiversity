@@ -23,47 +23,10 @@ composition:
 
 ---
 
-Los casos de uso son la aplicación práctica de datos abiertos sobre biodiversidad (registros biológicos, listas de especies, eventos de muestreo), información o cifras compartidas en las plataformas del SiB Colombia, usados para tomar decisiones, generar nuevo conocimiento, apoyar procesos de educación o crear productos de información.
-
-<details>
-    <summary markdown="span" style="padding: 20px;"><b>¿Qué tipos de casos de uso de datos existen?</b></summary>
-
-<br>
-
- <blockquote>
-   
-   <p>Aunque el uso de datos, cifras e información puede ser muy amplio, para orientar la concepción de estrategias de visibilización de los casos destacados, se tipifican dos categorías según los objetivos asociados.</p>
-   <ol>
-      <li>
-         <p>Casos de uso estratégico y aplicado de los datos (objetivos 2a y 2b): soportan la toma de decisiones, generan conocimiento, aportan a políticas, indicadores o planificación, se traducen en acciones concretas de conservación o educación.</p>
-         <p><strong>Tipos:</strong></p>
-         <ul>
-            <li>Educación y apropiación: aplicaciones en materiales de educación-pedagogía.</li>
-            <li>Investigación científica: publicaciones editoriales, modelos, análisis ecológicos y afines.</li>
-            <li>Política pública, planificación y gestión ambiental: planes de conservación, ordenamiento, PAB 2030, evaluaciones de impacto, informes de gestión, proyectos de monitoreo.</li>
-         </ul>
-         <p>👉 Ejemplo: uso de datos del SiB para actualizar el plan de conservación de felinos → evidencia para toma de decisiones (2a) + aporte a políticas (2b).</p>
-      </li>
-      <li>
-         <p>Casos de uso orientados al acceso, visibilidad y fortalecimiento de capacidades regionales (objetivos 2d y 3b): promueven el uso de las plataformas del SiB, visibilizan procesos de publicación y acceso a datos, fortalecen capacidades institucionales o comunitarias, generan confianza, apropiación o fortalecen redes.</p>
-         <p><strong>Tipos:</strong></p>
-         <ul>
-            <li>Articulación y colaboración: comunidades usando/interactuando con datos en procesos de acompañamiento o redes, alianzas entre actores a partir de proceso de gestión de datos.</li>
-            <li>Comunicación y periodismo de datos: historias basadas en flujos de datos y experiencias.</li>
-            <li>Innovación y tecnología: apps, sistemas de información, portales.</li>
-         </ul>
-         <p>👉 Ejemplo: historia de una autoridad ambiental que aprende a publicar datos y luego los usa en su gestión → uso de plataforma (2d) + fortalecimiento de capacidades (3b).</p>
-      </li>
-   </ol>
-   
- </blockquote>
-
-</details>
-
 <hr>
 
 <details>
-    <summary markdown="span" style="padding: 20px;"><b>¿Cuáles son los requisitos para definir un caso de uso?</b></summary>
+    <summary markdown="span" style="padding: 20px;"><b>¿Cuáles son los requisitos para seleccionar un caso destacado de uso?</b></summary>
 
 <br>
 
