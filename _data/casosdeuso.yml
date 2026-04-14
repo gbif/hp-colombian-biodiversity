@@ -88,7 +88,7 @@ tarjetasUso:
         href: https://www.gbif.org/document/4yxe95hHk0LlGwxgpGZT9i/gbif-science-review-no-12
         isPrimary: true
         
-    - preTitle: "Editorial" # optional
+    - preTitle: "Uso editorial" # optional
       title: Informes Nacionales
       description: |      # required
        Informes y reportes de la biodiversidad a partir de los datos publicados a través del SiB Colombia.
