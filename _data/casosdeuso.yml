@@ -49,7 +49,7 @@ tarjetasUso:
     - preTitle: "Uso en plan"  # optional
       title: Actualización del Plan de Manejo Distrito Regional de Manejo Integrado - Agrosavia y Cornare # required
       description: |      # required
-       Uso de datos sobre aves, mamíferos, reptiles y sobre especies endémicas, amenazadas, migratorias publicados en el SiB Colombia.
+        Uso de datos sobre aves, mamíferos, reptiles y sobre especies endémicas, amenazadas, migratorias publicados en el SiB Colombia.
       background: /assets/images/noticias_eventos/2025/2025-10-02-lista-especies-migratorias.jpg
       cta:
       - text: Ver más
