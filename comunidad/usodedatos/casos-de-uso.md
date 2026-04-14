@@ -24,7 +24,7 @@ composition:
 ---
 
 <details>
-    <summary markdown="span" style="background-color: #eee; padding: 20px;"><b>¿Cuáles son los requisitos para seleccionar un caso destacado de uso?</b></summary>
+    <summary markdown="span" style="padding: 20px;"><b>¿Cuáles son los requisitos para seleccionar un caso destacado de uso?</b></summary>
 
 <br>
 
