@@ -1,25 +1,7 @@
 videoPrincipal:
   markdownContent: |
     <div class="video-container"><iframe src="https://www.youtube.com/embed/CVDJ6acigYM" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
-
-stats1:
-  background: "#ffffff55"
-  features:
-      # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
-    - title: 1.358
-      description: autores
-      background: /comunidad/usodedatos/images/Consulta.png
-      #href: /data
-      # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
-    - title: 143
-      description: citaciones acumuladas
-      background: /comunidad/usodedatos/images/Citacion.png
-      #href: https://listas.biodiversidad.co/
-      # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
-    - title: 19.432
-      description: acceso abierto
-      background: /comunidad/usodedatos/images/Investigacion.png
-      #href: /data
+    
 
 #cards
 tarjetasUso:
@@ -92,77 +74,132 @@ bannerCTA:
 blank: 
   klass: container
   markdownContent: |
-    <div class="container box">
-      <!-- Selector de años -->
-      <h3>
-       <span class="title is-4">Uso de datos de Colombia desde</span>
-       <span class="select"><select id="use-year-start"></select></span>
-       <span class="title is-4">hasta</span>
-       <span class="select"><select id="use-year-end"></select></span>
-        <span id="results-count" class="tag is-success"></span>
-      </h3>
-      <p>Cambia el rango de años en los menús desplegables de arriba para cargar los temas y publicaciones que usaron datos compartidos por medio del SiB Colombia y GBIF, con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/">API literature</a>.</p>
+    <div class="container">
     
-      <hr>
+      <h2 class="title is-3">Uso de datos de Colombia en literatura</h2>
+    
+      <div class="box">
+        <!-- Selector de años -->
+        <h3>
+         <span class="title is-4">Desde</span>
+         <span class="select"><select id="use-year-start"></select></span>
+         <span class="title is-4">hasta</span>
+         <span class="select"><select id="use-year-end"></select></span>
+          <span id="results-count" class="tag is-success"></span>
+        </h3>
+        <p>Cambia el rango de años para cargar las cifras, temas y publicaciones que usaron datos compartidos por medio del SiB Colombia y GBIF, con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/">API literature</a>.</p>
       
-      <!-- Gráfica de temas-->
-      <figure>
-       <h3 id="use-chart-title" class="title is-5"></h3>
-       <div id="use-chart-topics"></div>
-      </figure>
+        <hr>
+        
       
-      
-      <!-- Tabla con paginación -->
-      <h3 class="title is-5">Publicaciones que usaron los datos <span class="use_date_range"></span></h3>
-      <div id="use-table-count"></div>
-      
-      <table id="use-table">
-       <thead>
-         <tr>
-           <th>
-            <span class="select">
-              <select id="use-filter-year">
-                <option value="">Año</option>
-              </select>
-            </span>
-          </th>
-           <th><input id="use-filter-title" class="input" placeholder="Publicación"></th>
-           <th>
-            <span class="select">
-              <select id="use-filter-topics">
-                <option value="">Tema</option>
-              </select>
-            </span>
-          </th>
-           <th>
-            <span class="select">
-              <select id="use-filter-openaccess">
-               <option value="">Acceso abierto</option>
-               <option value="true">Sí</option>
-               <option value="false">No</option>
-             </select>
-            </span>
-           </th>
-           <th>
-            <span class="select">
-              <select id="use-filter-countries">
-                <option value="">País/Autores</option>
-              </select>
-            </span>
-          </th>
-           <th>
-            <span class="select">
-              <select id="use-filter-type">
-                <option value="">Tipo</option>
-              </select>
-            </span>
-          </th>
-         </tr>
-       </thead>
-       <tbody></tbody>
-      </table>
-      
-       <div id="use-pagination" class="pagination"></div>
+        <section id="use-statistics">
+          <div class="statistics-cards has--elements">
+            <div class="statistic">
+              <div class="feature-img" style="">
+                  <img src="https://colombian-biodiversity.hp.gbif-staging.org/comunidad/usodedatos/images/Consulta.png" alt="">
+              </div>
+              <div class="feature-content ">
+                <div class="feature-text">
+                  <h3 class="feature-title">
+                    <p></p>
+                  </h3>
+                </div>
+                <div class="feature-description">
+                  <p>autores(as)</p>
+                </div>
+              </div>
+            </div>
+            <div class="statistic">
+              <div class="feature-img" style="">
+                  <img src="https://colombian-biodiversity.hp.gbif-staging.org/comunidad/usodedatos/images/Citacion.png" alt="">
+              </div>
+              <div class="feature-content ">
+                <div class="feature-text">
+                  <h3 class="feature-title">
+                    <p></p>
+                  </h3>
+                </div>
+                <div class="feature-description">
+                  <p>citaciones acumuladas</p>
+                </div>
+              </div>
+            </div>
+            <div class="statistic">
+              <div class="feature-img" style=""> 
+                  <img src="https://colombian-biodiversity.hp.gbif-staging.org/comunidad/usodedatos/images/Investigacion.png" alt="">
+              </div>
+              <div class="feature-content ">
+                <div class="feature-text">
+                  <h3 class="feature-title">
+                    <p></p>
+                  </h3>
+                </div>
+                <div class="feature-description">
+                  <p>acceso abierto</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        
+        
+        <!-- Gráfica de temas-->
+        <figure>
+         <h3 id="use-chart-title" class="title is-5"></h3>
+         <div id="use-chart-topics"></div>
+        </figure>
+        
+        <!-- Tabla con paginación -->
+        <h3 class="title is-5">Publicaciones que usaron los datos <span class="use_date_range"></span></h3>
+        <div id="use-table-count"></div>
+        <table id="use-table">
+         <thead>
+           <tr>
+             <th>
+              <span class="select">
+                <select id="use-filter-year">
+                  <option value="">Año</option>
+                </select>
+              </span>
+            </th>
+             <th><input id="use-filter-title" class="input" placeholder="Publicación"></th>
+             <th>
+              <span class="select">
+                <select id="use-filter-topics">
+                  <option value="">Tema</option>
+                </select>
+              </span>
+            </th>
+             <th>
+              <span class="select">
+                <select id="use-filter-openaccess">
+                 <option value="">Acceso abierto</option>
+                 <option value="true">Sí</option>
+                 <option value="false">No</option>
+               </select>
+              </span>
+             </th>
+             <th>
+              <span class="select">
+                <select id="use-filter-countries">
+                  <option value="">País/Autores</option>
+                </select>
+              </span>
+            </th>
+             <th>
+              <span class="select">
+                <select id="use-filter-type">
+                  <option value="">Tipo</option>
+                </select>
+              </span>
+            </th>
+           </tr>
+         </thead>
+         <tbody></tbody>
+        </table>
+        <div id="use-pagination" class="pagination"></div>
+      </div>
+    
     </div>
         
     <!-- Highcharts -->
