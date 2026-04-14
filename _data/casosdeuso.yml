@@ -1,73 +1,41 @@
 videoPrincipal:
   markdownContent: |
     <div class="video-container"><iframe src="https://www.youtube.com/embed/CVDJ6acigYM" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
-
+    <p>Los casos de uso son la aplicación práctica de datos abiertos sobre biodiversidad (registros biológicos, listas de especies, eventos de muestreo), información o cifras compartidas en las plataformas del SiB Colombia, para tomar decisiones, generar nuevo conocimiento, apoyar procesos de educación o crear productos de información.</p>
     
-tarjetasUso:
-  title: Casos destacados
-  # description: Ejes de formación:
-  features:      
-    - preTitle: "Uso en plan"  # optional
-      title: Actualización de plan de conservación de felinos del MADS # required
-      description: |      # required
-        Los datos publicados en el SiB Colombia proporcionaron la base para construir el panorama general de conservación que orienta el planteamiento de las nuevas acciones del plan y su posterior implementación. 
-      background: /assets/images/noticias_eventos/2025/2025-08-05-actualizacion-plan-felinos.png
-      cta:
-      - text: Ver más
-        href:  https://biodiversidad.co/post/2025/actualizacion-plan-felinos/
-        isPrimary: true
-    
-    - preTitle: "Uso en plan"  # optional
-      title: Actualización del Plan de Manejo Distrito Regional de Manejo Integrado - Agrosavia y Cornare # required
-      description: |      # required
-        Uso de datos sobre aves, mamíferos, reptiles y sobre especies endémicas, amenazadas, migratorias publicados en el SiB Colombia.
-      background: /assets/images/noticias_eventos/2025/2025-10-02-lista-especies-migratorias.jpg
-      cta:
-      - text: Ver más
-        href:  https://biodiversidad.co/post/2025/lista-especies-migratorias/
-        isPrimary: true
-    
-    - preTitle: "Uso en lista"  # optional
-      title: Actualización de la lista de especies exóticas declaradas como invasoras con un enfoque preventivo # required
-      description: |      # required
-        Aportó a la síntesis oficial de cifras nacionales y la lista del diagnóstico del Plan Nacional de Prevención, Control y Manejo, resultado del MADS.
-      background: /assets/images/noticias_eventos/2025/2025-12-15-especies-invasoras.jpg
-      cta:
-      - text: Ver más
-        href:  https://biodiversidad.co/post/2025/actualizacion-lista-invasoras/
-        isPrimary: true
-    
-    - preTitle: "Uso en informe"  # optional
-      title: Actualización de la lista de especies exóticas declaradas como invasoras con un enfoque preventivo # required
-      description: |      # required
-        Este informe de la red global de datos abiertos, GBIF —de la que el SiB Colombia es nodo en el país—, recopiló una vez más el uso de datos publicados en Colombia a través de nuestra red.
-      background: https://images.ctfassets.net/uo17ejk9rkwj/3aB7K6CM2MnJ2KaCIOUAVy/2b71eda9edcb5bd851eddbb7159b4d8c/cover-shadow-n12.png
-      cta:
-      - text: Ver más
-        href: https://www.gbif.org/document/4yxe95hHk0LlGwxgpGZT9i/gbif-science-review-no-12
-        isPrimary: true
-    
-    - preTitle: "Uso en plan"  # optional
-      title: Actualización del Plan de Manejo Distrito Regional de Manejo Integrado - Agrosavia y Cornare # required
-      description: |      # required
-        Uso de datos sobre aves, mamíferos, reptiles y sobre especies endémicas, amenazadas, migratorias publicados en el SiB Colombia.
-      background: /assets/images/fondos_layout/BI21090_Villegas-Velez-Felipe.jpg
-      cta:
-      - text: Ver más
-        href: https://www.gbif.org/document/4yxe95hHk0LlGwxgpGZT9i/gbif-science-review-no-12
-        isPrimary: true
+    <details>
+        <summary markdown="span" style="padding: 20px;"><b>¿Qué tipos de casos de uso de datos contempla el SiB Colombia?</b></summary>
         
-    - preTitle: "Uso editorial" # optional
-      title: Informes Nacionales
-      description: |      # required
-        Informes y reportes de la biodiversidad a partir de los datos publicados a través del SiB Colombia.
-      # img required
-      background: /comunidad/usodedatos/images/Cifras_plantas2019.PNG
-      cta:
-      - text: Ver más
-        href: /comunidad/uso-de-datos/repositorio
-        isPrimary: true 
-
+    <br>
+    
+     <blockquote>
+     
+       Aunque el uso de datos, cifras e información puede ser muy amplio, para orientar selección de los casos destacados, se tipifican dos categorías según los objetivos asociados.
+       
+       <ol>
+          <li>
+             <p><strong>Casos de uso estratégico y aplicado de los datos</strong>: soportan la toma de decisiones, generan conocimiento, aportan a políticas, indicadores o planificación, se traducen en acciones concretas de conservación o educación, y se subdividen en:</p>
+             <ul>
+                <li><strong>Educación y apropiación</strong>: aplicaciones en materiales de educación-pedagogía.</li>
+                <li><strong>Investigación científica</strong>: publicaciones editoriales, modelos, análisis ecológicos y afines.</li>
+                <li><strong>Política pública, planificación y gestión ambiental</strong>: planes de conservación, ordenamiento, PAB 2030, evaluaciones de impacto, informes de gestión, proyectos de monitoreo.</li>
+             </ul>
+             <p>👉 <strong>Ejemplo</strong>: uso de datos del SiB para actualizar el plan de conservación de felinos → evidencia para toma de decisiones + aporte a políticas.</p>
+          </li>
+          <li>
+             <p><strong>Casos de uso orientados al acceso, visibilidad y fortalecimiento de capacidades regionales</strong>: promueven el uso de las plataformas del SiB, visibilizan procesos de publicación y acceso a datos, fortalecen capacidades institucionales o comunitarias, generan confianza, apropiación o fortalecen redes, y se subdividen en:</p>
+             <ul>
+                <li><strong>Articulación y colaboración</strong>: comunidades usando/interactuando con datos en procesos de acompañamiento o redes, alianzas entre actores a partir de proceso de gestión de datos.</li>
+                <li><strong>Comunicación y periodismo de datos</strong>: historias basadas en flujos de datos y experiencias.</li>
+                <li><strong>Innovación y tecnología</strong>: apps, sistemas de información, portales.</li>
+             </ul>
+             <p>👉 <strong>Ejemplo</strong>: historia de una autoridad ambiental que aprende a publicar datos y luego los usa en su gestión → uso de plataforma (2d) + fortalecimiento de capacidades (3b).</p>
+          </li>
+       </ol>
+       
+     </blockquote>
+     
+    </details>
   
 bannerCTA:
   title: "¿Quieres visibilizar un caso de uso de datos abiertos sobre biodiversidad?"
