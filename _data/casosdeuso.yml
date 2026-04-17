@@ -1,109 +1,103 @@
 videoPrincipal:
   markdownContent: |
     <div class="video-container"><iframe src="https://www.youtube.com/embed/CVDJ6acigYM" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
-    
+
     <p>Los casos de uso son la aplicación práctica de datos abiertos sobre biodiversidad (registros biológicos, listas de especies, eventos de muestreo), información o cifras compartidas en las plataformas del SiB Colombia, para tomar decisiones, generar nuevo conocimiento, apoyar procesos de educación o crear productos de información.</p>
-    
+
     <details>
-        <summary markdown="span" style="padding: 20px;"><b>¿Qué tipos de casos de uso de datos contempla el SiB Colombia?</b></summary>
-        
-    <br>
-    
-    <blockquote>
-     
-       Aunque el uso de datos, cifras e información puede ser muy amplio, para orientar selección de los casos destacados, se tipifican dos categorías según los objetivos asociados.
-       
-       <ol>
+      <summary style="padding: 20px;"><b>¿Qué tipos de casos de uso de datos contempla el SiB Colombia?</b></summary>
+
+      <br>
+
+      <blockquote>
+        Aunque el uso de datos, cifras e información puede ser muy amplio, para orientar la selección de los casos destacados, se tipifican dos categorías según los objetivos asociados.
+
+        <ol>
           <li>
-             <p><strong>Casos de uso estratégico y aplicado de los datos</strong>: soportan la toma de decisiones, generan conocimiento, aportan a políticas, indicadores o planificación, se traducen en acciones concretas de conservación o educación, y se subdividen en:</p>
-             <ul>
-                <li><strong>Educación y apropiación</strong>: aplicaciones en materiales de educación-pedagogía.</li>
-                <li><strong>Investigación científica</strong>: publicaciones editoriales, modelos, análisis ecológicos y afines.</li>
-                <li><strong>Política pública, planificación y gestión ambiental</strong>: planes de conservación, ordenamiento, PAB 2030, evaluaciones de impacto, informes de gestión, proyectos de monitoreo.</li>
-             </ul>
-             <p>👉 <strong>Ejemplo</strong>: uso de datos del SiB para actualizar el plan de conservación de felinos → evidencia para toma de decisiones + aporte a políticas.</p>
+            <p><strong>Casos de uso estratégico y aplicado de los datos</strong>: soportan la toma de decisiones, generan conocimiento, aportan a políticas, indicadores o planificación, se traducen en acciones concretas de conservación o educación, y se subdividen en:</p>
+            <ul>
+              <li><strong>Educación y apropiación</strong>: aplicaciones en materiales de educación-pedagogía.</li>
+              <li><strong>Investigación científica</strong>: publicaciones editoriales, modelos, análisis ecológicos y afines.</li>
+              <li><strong>Política pública, planificación y gestión ambiental</strong>: planes de conservación, ordenamiento, PAB 2030, evaluaciones de impacto, informes de gestión, proyectos de monitoreo.</li>
+            </ul>
+            <p>👉 <strong>Ejemplo</strong>: uso de datos del SiB para actualizar el plan de conservación de felinos → evidencia para toma de decisiones + aporte a políticas.</p>
           </li>
           <li>
-             <p><strong>Casos de uso orientados al acceso, visibilidad y fortalecimiento de capacidades regionales</strong>: promueven el uso de las plataformas del SiB, visibilizan procesos de publicación y acceso a datos, fortalecen capacidades institucionales o comunitarias, generan confianza, apropiación o fortalecen redes, y se subdividen en:</p>
-             <ul>
-                <li><strong>Articulación y colaboración</strong>: comunidades usando/interactuando con datos en procesos de acompañamiento o redes, alianzas entre actores a partir de proceso de gestión de datos.</li>
-                <li><strong>Comunicación y periodismo de datos</strong>: historias basadas en flujos de datos y experiencias.</li>
-                <li><strong>Innovación y tecnología</strong>: apps, sistemas de información, portales.</li>
-             </ul>
-             <p>👉 <strong>Ejemplo</strong>: historia de una autoridad ambiental que aprende a publicar datos y luego los usa en su gestión → uso de plataforma (2d) + fortalecimiento de capacidades (3b).</p>
+            <p><strong>Casos de uso orientados al acceso, visibilidad y fortalecimiento de capacidades regionales</strong>: promueven el uso de las plataformas del SiB, visibilizan procesos de publicación y acceso a datos, fortalecen capacidades institucionales o comunitarias, generan confianza, apropiación o fortalecen redes, y se subdividen en:</p>
+            <ul>
+              <li><strong>Articulación y colaboración</strong>: comunidades usando/interactuando con datos en procesos de acompañamiento o redes, alianzas entre actores a partir de proceso de gestión de datos.</li>
+              <li><strong>Comunicación y periodismo de datos</strong>: historias basadas en flujos de datos y experiencias.</li>
+              <li><strong>Innovación y tecnología</strong>: apps, sistemas de información, portales.</li>
+            </ul>
+            <p>👉 <strong>Ejemplo</strong>: historia de una autoridad ambiental que aprende a publicar datos y luego los usa en su gestión → uso de plataforma + fortalecimiento de capacidades.</p>
           </li>
-       </ol>
-       
-     </blockquote>
-     
+        </ol>
+      </blockquote>
     </details>
-    
-    
+
 tarjetasUso:
   title: Casos destacados
-  # description: Ejes de formación:
-  features:      
-    - preTitle: "Uso en plan"  # optional
-      title: Actualización de plan de conservación de felinos del MADS # required
-      description: |      # required
-        Los datos publicados en el SiB Colombia proporcionaron la base para construir el panorama general de conservación que orienta el planteamiento de las nuevas acciones del plan y su posterior implementación. 
+  features:
+    - preTitle: "Uso en plan"
+      title: Actualización de plan de conservación de felinos del MADS
+      description: |
+        Los datos publicados en el SiB Colombia proporcionaron la base para construir el panorama general de conservación que orienta el planteamiento de las nuevas acciones del plan y su posterior implementación.
       background: /assets/images/noticias_eventos/2025/2025-08-05-actualizacion-plan-felinos.png
       cta:
         - text: Ver más
-          href:  https://biodiversidad.co/post/2025/actualizacion-plan-felinos/
+          href: https://biodiversidad.co/post/2025/actualizacion-plan-felinos/
           isPrimary: true
-    
-    - preTitle: "Uso en plan"  # optional
-      title: Actualización del Plan de Manejo Distrito Regional de Manejo Integrado - Agrosavia y Cornare # required
-      description: |      # required
-        Uso de datos sobre aves, mamíferos, reptiles y sobre especies endémicas, amenazadas, migratorias publicados en el SiB Colombia.
+
+    - preTitle: "Uso en plan"
+      title: Actualización del Plan de Manejo Distrito Regional de Manejo Integrado - Agrosavia y Cornare
+      description: |
+        Uso de datos sobre aves, mamíferos, reptiles y especies endémicas, amenazadas y migratorias publicados en el SiB Colombia.
       background: /assets/images/noticias_eventos/2025/2025-10-02-lista-especies-migratorias.jpg
       cta:
         - text: Ver más
-          href:  https://biodiversidad.co/post/2025/lista-especies-migratorias/
+          href: https://biodiversidad.co/post/2025/lista-especies-migratorias/
           isPrimary: true
-    
-    - preTitle: "Uso en lista"  # optional
-      title: Actualización de la lista de especies exóticas declaradas como invasoras con un enfoque preventivo # required
-      description: |      # required
+
+    - preTitle: "Uso en lista"
+      title: Actualización de la lista de especies exóticas declaradas como invasoras con un enfoque preventivo
+      description: |
         Aportó a la síntesis oficial de cifras nacionales y la lista del diagnóstico del Plan Nacional de Prevención, Control y Manejo, resultado del MADS.
       background: /assets/images/noticias_eventos/2025/2025-12-15-especies-invasoras.jpg
       cta:
         - text: Ver más
-          href:  https://biodiversidad.co/post/2025/actualizacion-lista-invasoras/
+          href: https://biodiversidad.co/post/2025/actualizacion-lista-invasoras/
           isPrimary: true
-    
-    - preTitle: "Uso en informe"  # optional
-      title: Actualización de la lista de especies exóticas declaradas como invasoras con un enfoque preventivo # required
-      description: |      # required
+
+    - preTitle: "Uso en informe"
+      title: Actualización de la lista de especies exóticas declaradas como invasoras con un enfoque preventivo
+      description: |
         Este informe de la red global de datos abiertos, GBIF —de la que el SiB Colombia es nodo en el país—, recopiló una vez más el uso de datos publicados en Colombia a través de nuestra red.
       background: https://images.ctfassets.net/uo17ejk9rkwj/3aB7K6CM2MnJ2KaCIOUAVy/2b71eda9edcb5bd851eddbb7159b4d8c/cover-shadow-n12.png
       cta:
         - text: Ver más
           href: https://www.gbif.org/document/4yxe95hHk0LlGwxgpGZT9i/gbif-science-review-no-12
           isPrimary: true
-    
-    - preTitle: "Uso en plan"  # optional
-      title: Actualización del Plan de Manejo Distrito Regional de Manejo Integrado - Agrosavia y Cornare # required
-      description: |      # required
-        Uso de datos sobre aves, mamíferos, reptiles y sobre especies endémicas, amenazadas, migratorias publicados en el SiB Colombia.
+
+    - preTitle: "Uso en plan"
+      title: Actualización del Plan de Manejo Distrito Regional de Manejo Integrado - Agrosavia y Cornare
+      description: |
+        Uso de datos sobre aves, mamíferos, reptiles y especies endémicas, amenazadas y migratorias publicados en el SiB Colombia.
       background: /assets/images/fondos_layout/BI21090_Villegas-Velez-Felipe.jpg
       cta:
         - text: Ver más
           href: https://www.gbif.org/document/4yxe95hHk0LlGwxgpGZT9i/gbif-science-review-no-12
           isPrimary: true
-        
-    - preTitle: "Uso editorial" # optional
+
+    - preTitle: "Uso editorial"
       title: Informes Nacionales
-      description: |      # required
+      description: |
         Informes y reportes de la biodiversidad a partir de los datos publicados a través del SiB Colombia.
-      # img required
       background: /comunidad/usodedatos/images/Cifras_plantas2019.PNG
       cta:
         - text: Ver más
           href: /comunidad/uso-de-datos/repositorio
-          isPrimary: true 
-  
+          isPrimary: true
+
 bannerCTA:
   title: "¿Quieres visibilizar un caso de uso de datos abiertos sobre biodiversidad?"
   description: Cuéntanos: ¿Qué datos compartidos a través del SiB Colombia usaste? ¿Cómo los usaste? ¿Para qué sirvieron? y entraremos en contacto para empezar a documentar y visibilizar tu caso.
@@ -111,69 +105,66 @@ bannerCTA:
   hasWhiteText: true
   cta:
     - text: Postula tu caso
-      href: mailto:sib@humboldt.org.co
+      href: ""
       isPrimary: true
-        
-blank: 
+
+blank:
   klass: container
   markdownContent: |
     <br>
     <div class="container">
       <div class="box">
-      <h2 class="title is-4 has-text-centered">Uso de datos de Colombia en literatura</h2>
-      <p class="has-text-centered">Cambia el rango de años para cargar las cifras, temas y publicaciones que usaron datos compartidos por medio del SiB Colombia y GBIF, con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/">API literature</a>.</p>
-      <hr>
-        <!-- Selector de años -->
+        <h2 class="title is-4 has-text-centered">Uso de datos de Colombia en literatura</h2>
+        <p class="has-text-centered">Cambia el rango de años para cargar las cifras, temas y publicaciones que usaron datos compartidos por medio del SiB Colombia y GBIF, con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/">API literature</a>.</p>
+        <hr>
+
         <div class="has-text-centered">
-         <span class="title is-4">Desde</span>
-         <span class="select"><select id="use-year-start"></select></span>
-         <span class="title is-4">hasta</span>
-         <span class="select"><select id="use-year-end"></select></span>
+          <span class="title is-4">Desde</span>
+          <span class="select"><select id="use-year-start"></select></span>
+          <span class="title is-4">hasta</span>
+          <span class="select"><select id="use-year-end"></select></span>
           <span id="results-count" class="tag is-success"></span>
         </div>
-      <hr>
-      
+
+        <hr>
+
         <section id="use-statistics">
           <div class="statistics-cards has--elements">
             <div class="statistic">
-              <div class="feature-img" style="">
-                  <img src="https://colombian-biodiversity.hp.gbif-staging.org/comunidad/usodedatos/images/Consulta.png" alt="">
+              <div class="feature-img">
+                <img src="https://colombian-biodiversity.hp.gbif-staging.org/comunidad/usodedatos/images/Consulta.png" alt="">
               </div>
-              <div class="feature-content ">
+              <div class="feature-content">
                 <div class="feature-text">
-                  <h3 class="feature-title">
-                    <p></p>
-                  </h3>
+                  <h3 class="feature-title"><p></p></h3>
                 </div>
                 <div class="feature-description">
                   <p>autores(as)</p>
                 </div>
               </div>
             </div>
+
             <div class="statistic">
-              <div class="feature-img" style="">
-                  <img src="https://colombian-biodiversity.hp.gbif-staging.org/comunidad/usodedatos/images/Citacion.png" alt="">
+              <div class="feature-img">
+                <img src="https://colombian-biodiversity.hp.gbif-staging.org/comunidad/usodedatos/images/Citacion.png" alt="">
               </div>
-              <div class="feature-content ">
+              <div class="feature-content">
                 <div class="feature-text">
-                  <h3 class="feature-title">
-                    <p></p>
-                  </h3>
+                  <h3 class="feature-title"><p></p></h3>
                 </div>
                 <div class="feature-description">
                   <p>citaciones acumuladas</p>
                 </div>
               </div>
             </div>
+
             <div class="statistic">
-              <div class="feature-img" style=""> 
-                  <img src="https://colombian-biodiversity.hp.gbif-staging.org/comunidad/usodedatos/images/Investigacion.png" alt="">
+              <div class="feature-img">
+                <img src="https://colombian-biodiversity.hp.gbif-staging.org/comunidad/usodedatos/images/Investigacion.png" alt="">
               </div>
-              <div class="feature-content ">
+              <div class="feature-content">
                 <div class="feature-text">
-                  <h3 class="feature-title">
-                    <p></p>
-                  </h3>
+                  <h3 class="feature-title"><p></p></h3>
                 </div>
                 <div class="feature-description">
                   <p>acceso abierto</p>
@@ -182,70 +173,67 @@ blank:
             </div>
           </div>
         </section>
-        
-        
-        <!-- Gráfica de temas-->
+
         <figure>
-         <h3 id="use-chart-title" class="title is-5"></h3>
-         <div id="use-chart-topics"></div>
+          <h3 id="use-chart-title" class="title is-5"></h3>
+          <div id="use-chart-topics"></div>
         </figure>
-        
-        <!-- Tabla con paginación -->
+
         <h3 class="title is-5">Publicaciones que usaron los datos <span class="use_date_range"></span></h3>
         <div id="use-table-count"></div>
+
         <table id="use-table">
-         <thead>
-           <tr>
-             <th>
-              <span class="select">
-                <select id="use-filter-year">
-                  <option value="">Año</option>
-                </select>
-              </span>
-            </th>
-             <th><input id="use-filter-title" class="input" placeholder="Publicación"></th>
-             <th>
-              <span class="select">
-                <select id="use-filter-topics">
-                  <option value="">Tema</option>
-                </select>
-              </span>
-            </th>
-             <th>
-              <span class="select">
-                <select id="use-filter-openaccess">
-                 <option value="">Acceso abierto</option>
-                 <option value="true">Sí</option>
-                 <option value="false">No</option>
-               </select>
-              </span>
-             </th>
-             <th>
-              <span class="select">
-                <select id="use-filter-countries">
-                  <option value="">País/Autores</option>
-                </select>
-              </span>
-            </th>
-             <th>
-              <span class="select">
-                <select id="use-filter-type">
-                  <option value="">Tipo</option>
-                </select>
-              </span>
-            </th>
-           </tr>
-         </thead>
-         <tbody></tbody>
+          <thead>
+            <tr>
+              <th>
+                <span class="select">
+                  <select id="use-filter-year">
+                    <option value="">Año</option>
+                  </select>
+                </span>
+              </th>
+              <th><input id="use-filter-title" class="input" placeholder="Publicación"></th>
+              <th>
+                <span class="select">
+                  <select id="use-filter-topics">
+                    <option value="">Tema</option>
+                  </select>
+                </span>
+              </th>
+              <th>
+                <span class="select">
+                  <select id="use-filter-openaccess">
+                    <option value="">Acceso abierto</option>
+                    <option value="true">Sí</option>
+                    <option value="false">No</option>
+                  </select>
+                </span>
+              </th>
+              <th>
+                <span class="select">
+                  <select id="use-filter-countries">
+                    <option value="">País/Autores</option>
+                  </select>
+                </span>
+              </th>
+              <th>
+                <span class="select">
+                  <select id="use-filter-type">
+                    <option value="">Tipo</option>
+                  </select>
+                </span>
+              </th>
+            </tr>
+          </thead>
+          <tbody></tbody>
         </table>
+
         <div id="use-pagination" class="pagination"></div>
       </div>
-      
+
       <br>
-    
     </div>
-        
-    <!-- Highcharts -->
+
     <script src="https://code.highcharts.com/highcharts.js"></script>
     <script src="https://code.highcharts.com/modules/exporting.js"></script>
     <script src="https://code.highcharts.com/modules/export-data.js"></script>
