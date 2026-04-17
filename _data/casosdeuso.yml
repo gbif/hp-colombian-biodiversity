@@ -83,7 +83,7 @@ tarjetasUso:
       background: /comunidad/usodedatos/images/Cifras_plantas2019.PNG
       cta:
         - text: Ver más
-          href: /comunidad/uso-de-datos/repositorio
+          href: "/comunidad/uso-de-datos/repositorio"
           isPrimary: true
 
 bannerCTA:
