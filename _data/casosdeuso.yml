@@ -88,7 +88,7 @@ tarjetasUso:
 
 bannerCTA:
   title: "¿Quieres visibilizar un caso de uso de datos abiertos sobre biodiversidad?"
-  description: Cuéntanos: ¿Qué datos compartidos a través del SiB Colombia usaste? ¿Cómo los usaste? ¿Para qué sirvieron? y entraremos en contacto para empezar a documentar y visibilizar tu caso.
+  description: "Cuéntanos: ¿Qué datos compartidos a través del SiB Colombia usaste? ¿Cómo los usaste? ¿Para qué sirvieron? y entraremos en contacto para empezar a documentar y visibilizar tu caso."
   background: https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/assets/images/fondos_layout/BI21127_Villegas-Velez-Felipe.jpg
   hasWhiteText: true
   cta:
