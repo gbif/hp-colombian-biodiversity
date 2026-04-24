@@ -96,10 +96,21 @@ noticias:
       description: |      # required
        Monitoreo comunitario, hongos comestibles y nuevos estándares: los destacados de marzo en el SiB Colombia.
       # img required
-      background: /assets/images/noticias_eventos/2026/2026-02-19-destacados_enero.png
+      background: /assets/images/noticias_eventos/2026/2026-04-23-destacados_marzo2026.jpg
       cta:
       - text: Ver más
-        href: /post/2026/destacados_marzo2026/
+        href: /post/2026/destacados-marzo/
+        isPrimary: false
+
+    - preTitle: 25 de marzo, 2026
+      title: "Cámaras trampa, jardines y antídotos: los datos de febrero en el SiB Colombia" 
+      description: |      # required
+       Un grupo ecológico del Huila, dos jardines botánicos, el Instituto Nacional de Salud y una colección universitaria sumaron sus datos este mes.
+      # img required
+      background: /assets/images/noticias_eventos/2026/2026-03-25-destacados-febrero2026.jpg
+      cta:
+      - text: Ver más
+        href: /post/2026/destacados-febrero/
         isPrimary: false
 
     - preTitle: 19 de febrero, 2026
@@ -145,30 +156,7 @@ noticias:
       - text: Ver más
         href: /post/2026/destacados-diciembre/
         isPrimary: false
-        
-    - preTitle: 19 de diciembre, 2025
-      title: "Desde escarabajos hasta algas entre los destacados de noviembre" 
-      description: |      # required
-       Iniciativas, institutos de investigación y colecciones publicaron datos que contribuyen a llenar vacíos sobre el conocimiento de la biodiversidad de Colombia
-      # img required
-      background: /assets/images/noticias_eventos/2025/2025-12-19-destacados-noviembre-2.png
-      cta:
-      - text: Ver más
-        href: /post/2025/destacados-noviembre/
-        isPrimary: false
-        
-    - preTitle: 15 de diciembre, 2025
-      title: "La lista de especies exóticas declaradas como invasoras se actualiza con un enfoque preventivo" 
-      description: |      # required
-       Expertos en conservación de la biodiversidad trabajan en conjunto para prevenir la llegada y el impacto de las especies exóticas en Colombia.
-      # img required
-      background: /assets/images/noticias_eventos/2025/2025-12-15-especies-invasoras.jpg
-      cta:
-      - text: Ver más
-        href: /post/2025/actualizacion-lista-invasoras/
-        isPrimary: false
-
-        
+          
         
 # Splits
 
