@@ -91,6 +91,17 @@ splitGruposdeInteres:
 noticias:
   features:
 
+    - preTitle: 23 de abril, 2026
+      title: "En marzo, una comunidad del Meta y una universidad de Medellín ampliaron el mapa de la biodiversidad colombiana" 
+      description: |      # required
+       Monitoreo comunitario, hongos comestibles y nuevos estándares: los destacados de marzo en el SiB Colombia.
+      # img required
+      background: /assets/images/noticias_eventos/2026/2026-02-19-destacados_enero.png
+      cta:
+      - text: Ver más
+        href: /post/2026/destacados_marzo2026/
+        isPrimary: false
+
     - preTitle: 19 de febrero, 2026
       title: "El 2026 arranca con fuerza: nuevos publicadores, nuevas especies y colecciones fortalecidas" 
       description: |      # required
