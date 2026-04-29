@@ -1,13 +1,13 @@
 ---
 preTitle: "28 de enero, 2026"
 title: "Convocatoria 2026 al Premio GBIF para Investigadores Graduados"
-description: "_Hasta el primero de mayo estará abierta la convocatoria para postular candidaturas al Premio GBIF para Investigadores Graduados 2026._"
+description: "_Hasta el once de mayo estará abierta la convocatoria para postular candidaturas al Premio GBIF para Investigadores Graduados 2026._"
 date: 2026-01-28
 categories: ["Publicación", "Datos abiertos", "GBIF", "2026"]
 background: /assets/images/noticias_eventos/2026/2026-01-28-convocatoria-2026-premio-gbif-investigadores-graduados2.png 
 ---
 
-_El primero de mayo es la fecha límite para los estudiantes de posgrado en Colombia que quieran presentar su investigación, basada en datos sobre biodiversidad, a este estímulo internacional._
+_El once de mayo es la fecha límite para los estudiantes de posgrado en Colombia que quieran presentar su investigación, basada en datos sobre biodiversidad, a este estímulo internacional._
 
 El SiB Colombia, en nombre del Secretariado de GBIF y como nodo país, extiende la convocatoria a presentar candidaturas para el [Premio Investigadores Graduados 2026](https://www.gbif.org/es/news/2qFpkI7rwBNbMuSjn2rtae/convocatoria-de-nominaciones-para-el-premio-a-investigadores-graduados-de-gbif-2026){:target="_blank"}. Este programa anual destaca el trabajo excepcional de estudiantes de maestría y doctorado cuya investigación se basa en datos mediados por GBIF y demuestra **innovación y descubrimiento en informática de la biodiversidad** (por ejemplo, taxonomía, biogeografía, ecología).
 
@@ -25,7 +25,7 @@ Las nominaciones las realizará el Equipo Coordinador del SiB Colombia, como nod
 
 ## Proceso para presentarse y plazos
 
-* Los estudiantes colombianos que deseen ser nominados, deben presentar su candidatura al Equipo Coordinador del SiB Colombia **antes del 1 de mayo de 2026**, incluyendo los documentos de soporte y sus propuestas al correo electrónico [sib@humboldt.org.co](mailto:sib@humboldt.org.co){:target="_blank"}.
+* Los estudiantes colombianos que deseen ser nominados, deben presentar su candidatura al Equipo Coordinador del SiB Colombia **antes del once de mayo de 2026**, incluyendo los documentos de soporte y sus propuestas al correo electrónico [sib@humboldt.org.co](mailto:sib@humboldt.org.co){:target="_blank"}.
 * Las propuestas serán revisadas por un comité evaluador organizado por el Equipo Coordinador del SiB Colombia, que realizará la priorización a nivel nacional y seleccionará **hasta dos candidaturas** para ser enviadas al Secretariado de **GBIF** antes del 29 de mayo de 2026, fecha límite establecida para la recepción de nominaciones por parte de los nodos. No se tendrán en cuenta propuestas incompletas.
 * Un jurado organizado por el [Comité Científico de GBIF](https://www.gbif.org/es/contact-us/directory?group=scienceCommittee){:target="_blank"} seleccionará a **dos ganadores**, entre las nominaciones globales.
 * El Secretariado de GBIF anunciará a los ganadores **antes de la 33ª reunión de la Junta Directiva de GBIF (GB33)** en septiembre de 2026 en Oslo, Noruega.
