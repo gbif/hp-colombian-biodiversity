@@ -30,7 +30,7 @@ Las nominaciones las realizará el Equipo Coordinador del SiB Colombia, como nod
 * Un jurado organizado por el [Comité Científico de GBIF](https://www.gbif.org/es/contact-us/directory?group=scienceCommittee){:target="_blank"} seleccionará a **dos ganadores**, entre las nominaciones globales.
 * El Secretariado de GBIF anunciará a los ganadores **antes de la 33ª reunión de la Junta Directiva de GBIF (GB33)** en septiembre de 2026 en Oslo, Noruega.
 
-[Presenta tu candidatura](mailto:sib@humboldt.org.co){:target="_blank" .button .is-primary}
+| Presenta tu candidatura enviando un correo a: sib@humboldt.org.co |
 
 ## Proceso de selección y criterios
 
