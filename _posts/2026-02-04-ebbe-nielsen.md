@@ -44,7 +44,7 @@ El siguiente resumen no constituye un reemplazo al [Reglamento oficial de la con
 
 **Inscripción**
 
-[Formulario de inscripción de la convocatoria 2026](https://www.survey-xact.dk/LinkCollector?key=RKQ7H7D8JP3P){:target="_blank" .button .is-primary}
+[Formulario de inscripción de la convocatoria 2026]([https://www.survey-xact.dk/LinkCollector?key=RKQ7H7D8JP3P](https://www.survey-xact.dk/servlet/com.pls.morpheus.web.pages.CoreRespondentCollectLinkAnonymous)){:target="_blank" .button .is-primary}
 
 
 
@@ -66,9 +66,9 @@ Los siguientes perfiles no pueden participar del reto: miembros actuales del Sec
 
 Los participantes deben:
 
-Enviar las propuestas completas y aceptar los términos de uso [aquí](https://www.survey-xact.dk/LinkCollector?key=RKQ7H7D8JP3P){:target="_blank"}.
+Enviar las propuestas completas y aceptar los términos de uso [aquí]([https://www.survey-xact.dk/LinkCollector?key=RKQ7H7D8JP3P](https://www.survey-xact.dk/servlet/com.pls.morpheus.web.pages.CoreRespondentCollectLinkAnonymous)){:target="_blank"}.
 
-Completar el [formulario de inscripción](https://www.survey-xact.dk/LinkCollector?key=RKQ7H7D8JP3P){:target="_blank"}, que provee información acerca de la propuesta, incluyendo: 
+Completar el [[formulario de inscripción](https://www.survey-xact.dk/LinkCollector?key=RKQ7H7D8JP3P](https://www.survey-xact.dk/servlet/com.pls.morpheus.web.pages.CoreRespondentCollectLinkAnonymous)){:target="_blank"}, que provee información acerca de la propuesta, incluyendo: 
 
 * Nombre / título de la propuesta
 * Nombre y afiliaciones de los miembros del equipo
