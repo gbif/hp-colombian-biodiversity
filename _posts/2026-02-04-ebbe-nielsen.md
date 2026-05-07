@@ -68,7 +68,7 @@ Los participantes deben:
 
 Enviar las propuestas completas y aceptar los términos de uso [aquí](https://www.survey-xact.dk/LinkCollector?key=YCAEZQR4SPC1){:target="_blank"}.
 
-Completar el [[formulario de inscripción](https://www.survey-xact.dk/LinkCollector?key=YCAEZQR4SPC1){:target="_blank"}, que provee información acerca de la propuesta, incluyendo: 
+Completar el [formulario de inscripción](https://www.survey-xact.dk/LinkCollector?key=YCAEZQR4SPC1){:target="_blank"}, que provee información acerca de la propuesta, incluyendo: 
 
 * Nombre / título de la propuesta
 * Nombre y afiliaciones de los miembros del equipo
