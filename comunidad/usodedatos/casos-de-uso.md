@@ -24,7 +24,7 @@ composition:
 ---
 
 <details>
-    <summary markdown="span" style="padding: 20px;"><h4 style="display: inline">¿Cuáles son los requisitos para postular y seleccionar un caso destacado de uso?</h4></summary>
+    <summary><h4>¿Cuáles son los requisitos para postular y seleccionar un caso destacado de uso?</h4></summary>
 
 <br>
 
