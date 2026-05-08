@@ -24,13 +24,13 @@ composition:
 ---
 
 <details>
-    <summary markdown="span" style="padding: 20px;"><b>¿Cuáles son los requisitos para postular y seleccionar un caso destacado de uso?</b></summary>
+    <summary markdown="span" style="padding: 20px;"><h4 class="display: inline">¿Cuáles son los requisitos para postular y seleccionar un caso destacado de uso?</b></summary>
 
 <br>
 
  <blockquote>
    
-   <h4 class="display: inline">Su aplicación como casos de uso debe cumplir con la siguiente lista de criterios:</h4>
+   <p>Su aplicación como casos de uso debe cumplir con la siguiente lista de criterios:</p>
    <ol>
       <li>
          <p><strong>Aporta a la investigación, educación, formulación de políticas públicas, o al cálculo de indicadores nacionales del <a href="https://www.minambiente.gov.co/wp-content/uploads/2025/03/Plan-Accion-Biodiversidad-Colombia-2030.pdf" target="_blank">Plan de Acción de Biodiversidad (PAB)</a></strong>, considerando al menos una de las siguientes opciones:</p>
