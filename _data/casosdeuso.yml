@@ -39,9 +39,9 @@ tarjetasUso:
           isPrimary: true
 
     - preTitle: "Uso en plan"
-      title: Actualización del Plan de Manejo Distrito Regional de Manejo Integrado - Agrosavia y Cornare
+      title: Actualización de la lista de especies silvestres migratorias de la diversidad biológica continental y marino-costera de Colombia
       description: |
-        Uso de datos sobre aves, mamíferos, reptiles y especies endémicas, amenazadas y migratorias publicados en el SiB Colombia.
+        El MADS, en colaboración con WWF Colombia y el SINA, actualizaron esta lista, teniendo en cuenta la compilación de datos publicados a través del SiB Colombia en  diferentes conjuntos de datos y que reunía 643 posibles especies migratorias.
       background: /assets/images/noticias_eventos/2025/2025-10-02-lista-especies-migratorias.jpg
       cta:
         - text: Ver más
