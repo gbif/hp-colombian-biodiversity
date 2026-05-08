@@ -28,7 +28,7 @@ videoPrincipal:
 tarjetasUso:
   title: Casos destacados
   features:
-    - preTitle: "Uso en plan"
+    - preTitle: "Uso en gestión ambiental"
       title: Actualización de plan de conservación de felinos del MADS
       description: |
         Los datos publicados en el SiB Colombia proporcionaron la base para construir el panorama general de conservación que orienta el planteamiento de las nuevas acciones del plan y su posterior implementación.
@@ -38,7 +38,7 @@ tarjetasUso:
           href: https://biodiversidad.co/post/2025/actualizacion-plan-felinos/
           isPrimary: true
 
-    - preTitle: "Uso en plan"
+    - preTitle: "Uso en gestión ambiental"
       title: Actualización de la lista de especies silvestres migratorias de la diversidad biológica continental y marino-costera de Colombia
       description: |
         El MADS, en colaboración con WWF Colombia y el SINA, actualizaron esta lista, teniendo en cuenta la compilación de datos publicados a través del SiB Colombia en  diferentes conjuntos de datos y que reunía 643 posibles especies migratorias.
@@ -48,7 +48,7 @@ tarjetasUso:
           href: https://biodiversidad.co/post/2025/lista-especies-migratorias/
           isPrimary: true
 
-    - preTitle: "Uso en lista"
+    - preTitle: "Uso en gestión ambiental"
       title: Actualización de la lista de especies exóticas declaradas como invasoras con un enfoque preventivo
       description: |
         Aportó a la síntesis oficial de cifras nacionales y la lista del diagnóstico del Plan Nacional de Prevención, Control y Manejo, resultado del MADS.
@@ -58,7 +58,7 @@ tarjetasUso:
           href: https://biodiversidad.co/post/2025/actualizacion-lista-invasoras/
           isPrimary: true
 
-    - preTitle: "Uso en informe"
+    - preTitle: "Uso en comunicación y periodismo de datos"
       title: Actualización de la lista de especies exóticas declaradas como invasoras con un enfoque preventivo
       description: |
         Este informe de la red global de datos abiertos, GBIF —de la que el SiB Colombia es nodo en el país—, recopiló una vez más el uso de datos publicados en Colombia a través de nuestra red.
@@ -68,7 +68,7 @@ tarjetasUso:
           href: https://www.gbif.org/document/4yxe95hHk0LlGwxgpGZT9i/gbif-science-review-no-12
           isPrimary: true
 
-    - preTitle: "Uso en plan"
+    - preTitle: "Uso en gestión ambiental"
       title: Actualización del Plan de Manejo Distrito Regional de Manejo Integrado - Agrosavia y Cornare
       description: |
         Uso de datos sobre aves, mamíferos, reptiles y especies endémicas, amenazadas y migratorias publicados en el SiB Colombia.
@@ -78,7 +78,7 @@ tarjetasUso:
           href: https://www.gbif.org/document/4yxe95hHk0LlGwxgpGZT9i/gbif-science-review-no-12
           isPrimary: true
 
-    - preTitle: "Uso editorial"
+    - preTitle: "Uso en comunicación y periodismo de datos"
       title: Informes Nacionales
       description: |
         Informes y reportes de la biodiversidad a partir de los datos publicados a través del SiB Colombia.
