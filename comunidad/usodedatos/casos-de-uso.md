@@ -42,7 +42,7 @@ composition:
          </ul>
       </li>
       <li>
-         <p><strong>Reconoce o cita el uso de conjuntos de datos o información compartida a través del SiB Colombia.</p>
+         <p><strong>Reconoce o cita el uso de conjuntos de datos o información</strong> compartida a través del SiB Colombia.</p>
       </li>
       <li>
          <p><strong>La organización o persona que encabeza el caso de uso</strong> postulado para ser destacado, declara al SiB Colombia que <strong>respeta los términos y condiciones de uso promovidas en la licencia bajo la cual los datos fueron publicados</strong>.</p>
