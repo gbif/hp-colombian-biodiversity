@@ -49,7 +49,7 @@ tarjetasUso:
         - text: Ver más
           href: https://biodiversidad.co/post/2025/actualizacion-plan-felinos/
           isPrimary: true
-          target: "_blank"
+          target: _blank
 
     - preTitle: "Uso en gestión ambiental"
       title: Actualización de la lista de especies silvestres migratorias de la diversidad biológica continental y marino-costera de Colombia
@@ -60,7 +60,7 @@ tarjetasUso:
         - text: Ver más
           href: https://biodiversidad.co/post/2025/lista-especies-migratorias/
           isPrimary: true
-          target: "_blank"
+          new_window: true
 
     - preTitle: "Uso en gestión ambiental"
       title: Actualización de la lista de especies exóticas declaradas como invasoras con un enfoque preventivo
@@ -115,7 +115,7 @@ bannerCTA:
     - text: Postula tu caso
       href: "mailto:sib@humboldt.org.co"
       isPrimary: true
-      target: "_blank"
+      new_window: true
 
 blank:
   klass: container
