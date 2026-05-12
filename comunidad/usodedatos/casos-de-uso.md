@@ -24,7 +24,7 @@ composition:
 ---
 
 <details>
-    <summary><h4 style="display:inline">¿Cuáles son los requisitos para postular y seleccionar un caso destacado de uso?</h4></summary>
+    <summary><h4 style="display:inline">¿Cuáles son los requisitos para postular un caso destacado de uso?</h4></summary>
 
 <br>
 
@@ -45,7 +45,7 @@ composition:
          <p><strong>Reconoce o cita el uso de conjuntos de datos o información compartida a través del SiB Colombia.</p>
       </li>
       <li>
-         <p><strong>La organización o persona que encabeza el caso de uso seleccionado para ser destacado, declara al SiB Colombia que respeta los términos y condiciones de acceso y uso promovidas por la licencia bajo la cual los datos fueron publicados.</p>
+         <p><strong>La organización o persona que encabeza el caso de uso</strong>strong> postulado para ser destacado, declara al SiB Colombia que <strong>respeta los términos y condiciones de uso promovidas en la licencia bajo la cual los datos fueron publicados</strong>strong>.</p>
       </li>
    </ol>
    
