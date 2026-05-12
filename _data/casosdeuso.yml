@@ -71,9 +71,9 @@ tarjetasUso:
           isPrimary: true
 
     - preTitle: "Uso en comunicación y periodismo de datos"
-      title: Actualización de la lista de especies exóticas declaradas como invasoras con un enfoque preventivo
+      title: GBIF Science Review no. 12
       description: |
-        Este informe de la red global de datos abiertos, GBIF —de la que el SiB Colombia es nodo en el país—, recopiló una vez más el uso de datos publicados en Colombia a través de nuestra red.
+        Este informe de la red global de datos abiertos, GBIF —de la que el SiB Colombia es nodo en el país—, destacó un artículo académico que usó datos compartidos a través del SiB Colombia.
       background: https://images.ctfassets.net/uo17ejk9rkwj/3aB7K6CM2MnJ2KaCIOUAVy/2b71eda9edcb5bd851eddbb7159b4d8c/cover-shadow-n12.png
       cta:
         - text: Ver más
