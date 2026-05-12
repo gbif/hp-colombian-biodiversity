@@ -49,7 +49,7 @@ tarjetasUso:
         - text: Ver más
           href: https://biodiversidad.co/post/2025/actualizacion-plan-felinos/
           isPrimary: true
-          new_window: true
+          target: "_blank"
 
     - preTitle: "Uso en gestión ambiental"
       title: Actualización de la lista de especies silvestres migratorias de la diversidad biológica continental y marino-costera de Colombia
@@ -60,7 +60,7 @@ tarjetasUso:
         - text: Ver más
           href: https://biodiversidad.co/post/2025/lista-especies-migratorias/
           isPrimary: true
-          new_window: true
+          target: "_blank"
 
     - preTitle: "Uso en gestión ambiental"
       title: Actualización de la lista de especies exóticas declaradas como invasoras con un enfoque preventivo
@@ -71,7 +71,7 @@ tarjetasUso:
         - text: Ver más
           href: https://biodiversidad.co/post/2025/actualizacion-lista-invasoras/
           isPrimary: true
-          new_window: true
+          target: "_blank"
 
     - preTitle: "Uso en comunicación y periodismo de datos"
       title: GBIF Science Review no. 12
@@ -82,7 +82,7 @@ tarjetasUso:
         - text: Ver más
           href: https://www.gbif.org/document/4yxe95hHk0LlGwxgpGZT9i/gbif-science-review-no-12
           isPrimary: true
-          new_window: true
+          target: "_blank"
 
     - preTitle: "Uso en gestión ambiental"
       title: Actualización del Plan de Manejo Distrito Regional de Manejo Integrado - Agrosavia y Cornare
@@ -93,7 +93,7 @@ tarjetasUso:
         - text: Ver más
           href: https://www.gbif.org/document/4yxe95hHk0LlGwxgpGZT9i/gbif-science-review-no-12
           isPrimary: true
-          new_window: true
+          target: "_blank"
 
     - preTitle: "Uso en comunicación y periodismo de datos"
       title: Informes Nacionales
@@ -104,7 +104,7 @@ tarjetasUso:
         - text: Ver más
           href: "/comunidad/uso-de-datos/repositorio"
           isPrimary: true
-          new_window: true
+          target: "_blank"
 
 bannerCTA:
   title: "¿Quieres visibilizar un caso de uso de datos abiertos sobre biodiversidad?"
@@ -115,7 +115,7 @@ bannerCTA:
     - text: Postula tu caso
       href: "mailto:sib@humboldt.org.co"
       isPrimary: true
-      new_window: true
+      target: "_blank"
 
 blank:
   klass: container
