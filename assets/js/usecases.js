@@ -285,7 +285,7 @@ function updateStatistics(data) {
     : 0;
 
   // 🎯 Actualizar DOM
-  updateStatCard("citaciones acumuladas", totalPublications.toLocaleString("es-CO"));
+  updateStatCard("publicaciones", totalPublications.toLocaleString("es-CO"));
   updateStatCard("autores(as)", totalAuthors.toLocaleString("es-CO"));
   updateStatCard("acceso abierto", openAccessPercent + " %");
 }
