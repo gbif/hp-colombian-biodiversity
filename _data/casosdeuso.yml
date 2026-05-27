@@ -73,6 +73,18 @@ tarjetasUso:
           isPrimary: true
           target: "_blank"
 
+listaCasos:
+  title:
+  description: | 
+    Conoce todos los casos de uso destacados en:
+  background: 
+  overlayColor: "#E4EEE0" #"#ffffffbb"
+  hasWhiteText: false
+  cta:
+  - text: Casos de uso
+    href: /news/?category=Casos+de+uso
+    isPrimary: true
+
 bannerCTA:
   title: "¿Quieres visibilizar un caso de uso de datos abiertos sobre biodiversidad?"
   description: "Cuéntanos: ¿Qué datos compartidos a través del SiB Colombia usaste? ¿Cómo los usaste? ¿Para qué sirvieron? y entraremos en contacto para empezar a documentar y visibilizar tu caso."
