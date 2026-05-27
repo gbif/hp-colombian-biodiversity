@@ -3,7 +3,7 @@ preTitle: 15 de diciembre, 2025
 title: "La lista de especies exóticas declaradas como invasoras se actualiza con un enfoque preventivo"
 description: "_Expertos en conservación de la biodiversidad trabajan en conjunto para prevenir la llegada y el impacto de las especies exóticas en Colombia._"
 date: 2025-12-15
-categories: ["Lista de especies", "Invasoras", "Exóticas", "Introducidas", "Actualización", "Colombia", "2025"]
+categories: ["Lista de especies", "Invasoras", "Exóticas", "Introducidas", "Actualización", "Colombia", "Caso de uso", "Gestión ambiental", "2025"]
 background: /assets/images/noticias_eventos/2025/2025-12-15-especies-invasoras.jpg
 
 ---
