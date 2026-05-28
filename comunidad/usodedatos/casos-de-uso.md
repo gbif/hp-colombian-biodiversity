@@ -20,6 +20,8 @@ composition:
     data: casosdeuso.bannerCTA
   - data: casosdeuso.blank
     type: blank
+  - data: casosdeuso.tarjetasOtrosUsos
+    type: features
 
 ---
 
