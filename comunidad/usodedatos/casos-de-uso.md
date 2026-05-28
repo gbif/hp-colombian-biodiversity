@@ -26,7 +26,7 @@ composition:
 ---
 
 <div style="text-align:center">
-   <a href="/news/?category=Casos+de+uso" class="button is-primary ">Ver todos los casos</a>
+   <a href="/news/?category=Caso+de+uso" class="button is-primary ">Ver todos los casos</a>
 </div>
 
 <details open>
