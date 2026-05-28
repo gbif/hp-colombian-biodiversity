@@ -25,6 +25,10 @@ composition:
 
 ---
 
+<div style="text-align:center">
+   <a href="/news/?category=Casos+de+uso" class="button is-primary ">Ver todos los casos</a>
+</div>
+
 <details open>
     <summary><h4 style="display:inline">¿Cuáles son los requisitos para postular un caso destacado de uso?</h4></summary>
 
