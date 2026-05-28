@@ -15,8 +15,6 @@ composition:
     data: casosdeuso.videoPrincipal
   - data: casosdeuso.tarjetasUso
     type: features # the block type
-  - data: casosdeuso.listaCasos
-    type: features
   - type: pageMarkdown
   - type: floatingText
     data: casosdeuso.bannerCTA
