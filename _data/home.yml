@@ -91,6 +91,17 @@ splitGruposdeInteres:
 noticias:
   features:
 
+    - preTitle: 29 de mayo, 2026
+      title: "Un resguardo indígena, empresas, asociaciones y universidades entre los destacados de abril." 
+      description: |      # required
+       Peces, aves, hongos, flora y macroinvertebrados: un vistazo a los datos que organizaciones de todo el país compartieron con el mundo en abril.
+      # img required
+      background: /assets/images/noticias_eventos/2026/2026-05-29-destacados-abril.jpg
+      cta:
+      - text: Ver más
+        href: /post/2026/destacados-abril/
+        isPrimary: false
+        
     - preTitle: 23 de abril, 2026
       title: "En marzo, una comunidad del Meta y una universidad de Medellín ampliaron el mapa de la biodiversidad colombiana" 
       description: |      # required
@@ -144,17 +155,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2026/convocatoria-2026-gbif-investigadores-graduados/
-        isPrimary: false
-
-    - preTitle: 20 de enero, 2026
-      title: "Entre colecciones y listas: libélulas, caballitos del diablo y hongos protagonizan los destacados de diciembre" 
-      description: |      # required
-       Durante diciembre de 2025, nuevas organizaciones se sumaron al SiB Colombia y se actualizaron algunas colecciones biológicas, ampliando el acceso a datos abiertos sobre la biodiversidad del país.
-      # img required
-      background: /assets/images/noticias_eventos/2026/2026-01-20-destacados_diciembre.png
-      cta:
-      - text: Ver más
-        href: /post/2026/destacados-diciembre/
         isPrimary: false
           
         
