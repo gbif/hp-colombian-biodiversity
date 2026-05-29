@@ -11,8 +11,6 @@ background: /assets/images/noticias_eventos/2026/2026-05-29-destacados-abril.jpg
 
 **Un resguardo indígena, empresas, asociaciones y universidades entre los destacados de abril.**
 
-*Descripción: Peces, aves, hongos, flora y macroinvertebrados: un vistazo a los datos que organizaciones de todo el país compartieron con el mundo en abril. *
-
 Desde el equipo coordinador del SiB Colombia acompañamos mes a mes este proceso, destacando los aportes más relevantes por su impacto en el conocimiento, la gestión y la conservación de la biodiversidad. Estos son los avances de abril de 2026.
 
 
