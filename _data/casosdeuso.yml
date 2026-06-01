@@ -80,12 +80,12 @@ tarjetasOtrosUsos:
 
 bannerCTA:
   title: "¿Quieres visibilizar un caso de uso de datos abiertos sobre biodiversidad?"
-  description: "Cuéntanos: ¿Qué datos compartidos a través del SiB Colombia usaste? ¿Cómo los usaste? ¿Para qué sirvieron? y entraremos en contacto para empezar a documentar y visibilizar tu caso."
+  description: 
   background: https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/refs/heads/master/assets/images/fondos_layout/BI21127_Villegas-Velez-Felipe.jpg
   hasWhiteText: true
   cta:
     - text: Postula tu caso
-      href: "mailto:sib@humboldt.org.co"
+      href: "https://docs.google.com/forms/d/e/1FAIpQLScCEbERKe2Ossi7SqhuoFU6c-J6QCNYKa02gRblS4Q-zq3D0g/viewform?usp=dialog"
       isPrimary: true
       new_window: true
 
