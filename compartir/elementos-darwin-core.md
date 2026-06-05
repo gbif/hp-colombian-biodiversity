@@ -2892,9 +2892,10 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 | ---|--- |--- |--- |
 | [**typeStatus**<br> (Tipo nomenclatural)](#tipos_typeStatus) | [**typeDesignationType**<br> (Tipo de designación del tipo)](#typeDesignationType) | [**typeDesignatedBy**<br> (Tipo designado por)](#typeDesignatedBy) | [**scientificName**<br> (Nombre científico)](#tipos_scientificName) |
 | [**taxonRank**<br> (Categoría del taxón)](#tipos_taxonRank) | [**bibliographicCitation**<br> (Citación bibliográfica)](#tipos_bibliographicCitation) | [**occurrenceID**<br> (ID del registro biológico)](#tipos_occurrenceID) | [**institutionCode**<br> (Código de la institución)](#tipos_institutionCode) |
-| [**collectionCode**<br> (Código de la colección)](#tipos_collectionCode) | [**catalogNumber**<br> (Número de catálogo)](#tipos_catalogNumber) | [**locality**<br> (Localidad)](#tipos_locality) | [**sex**<br> (Sexo)](#tipos_sex) |
-| [**recordedBy**<br> (Registrado por)](#tipos_recordedBy) | [**source**<br> (Fuente)](#tipos_source) | [**verbatimEventDate**<br> (Fecha original del evento)](#tipos_verbatimEventDate) | [**verbatimLabel**<br> (Etiqueta original)](#tipo_verbatimLabel) |
-| [**verbatimLongitude**<br> (Longitud original)](#tipos_verbatimLongitude) | [**verbatimLatitude**<br> (Latitud original)](#tipos_verbatimLatitude) | [**datasetID**<br> (ID del conjunto de datos)](#tipos_datasetID) |  |
+| [**institutionID**<br> (ID de la colección)](#tipos_institutionID) | [**collectionCode**<br> (Código de la colección)](#tipos_collectionCode) | [**collectionID**<br> (ID de la colección)](#tipos_collectionID) | [**catalogNumber**<br> (Número de catálogo)](#tipos_catalogNumber) | 
+| [**locality**<br> (Localidad)](#tipos_locality) | [**sex**<br> (Sexo)](#tipos_sex) | [**recordedBy**<br> (Registrado por)](#tipos_recordedBy) | [**source**<br> (Fuente)](#tipos_source) |
+| [**verbatimEventDate**<br> (Fecha original del evento)](#tipos_verbatimEventDate) | [**verbatimLabel**<br> (Etiqueta original)](#tipo_verbatimLabel) |[**verbatimLongitude**<br> (Longitud original)](#tipos_verbatimLongitude) | [**verbatimLatitude**<br> (Latitud original)](#tipos_verbatimLatitude) |
+| [**datasetID**<br> (ID del conjunto de datos)](#tipos_datasetID) |  |
 
 <br>
 <br>
@@ -2972,11 +2973,29 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 <br>
 
+<a id="tipos_institutionID">**institutionID** (ID de la institución)</a>
+
+| ---: | :--- |
+| Definición | Un identificador, preferiblemente el NIT, de la institución registrada en el elemento institutionCode. |
+| Ejemplo | 586.697.465-1<br> 890.105.528-3<br> 860.030.197-0 |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
 <a id="tipos_collectionCode">**collectionCode** (Código de la colección)</a>
 
 | ---: | :--- |
 | Definición | El nombre, acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el organismo. Aunque es válido el uso del acrónimo que implemente la colección internamente se recomienda hacer uso del acrónimo registrado en:<br><br> - GBIF Registry of Scientific Collections [(https://www.gbif.org/grscicoll/collection/search)](https://www.gbif.org/grscicoll/collection/search){:target="_blank"}<br> - Registro Único Nacional de Colecciones Biológicas-RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones){:target="_blank"}. |
 | Ejemplo | COL<br> ANDES<br> FMB |
+| _(Obligatoriedad)_ | _(Opcional)_ |
+
+<br>
+
+<a id="tipos_collectionID">**collectionID** (ID de la colección)</a>
+
+| ---: | :--- |
+| Definición | Un identificador de la colección registrada en el elemento collectionCode. Se recomienda hacer uso de los identificadores registrados en:<br><br> - GBIF Registry of Scientific Collections [(https://www.gbif.org/grscicoll/collection/search)](https://www.gbif.org/grscicoll/collection/search){:target="_blank"}<br> - Registro Único Nacional de Colecciones Biológicas-RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones){:target="_blank"} |
+| Ejemplo | [https://www.gbif.org/grscicoll/collection/0d0e813e-dc60-4357-82b1-810d0af640a5](https://www.gbif.org/grscicoll/collection/0d0e813e-dc60-4357-82b1-810d0af640a5){:target="_blank"} <br> RNC:250 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 
 <br>
