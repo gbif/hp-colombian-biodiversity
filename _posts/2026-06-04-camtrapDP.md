@@ -29,6 +29,13 @@ Para lograrlo, CamtrapDP organiza la información en cuatro componentes principa
 
 Esta estructura permite que cualquier investigador, técnico o gestor de datos pueda entender y reutilizar la información, independientemente del proyecto o la institución que la generó.
 
+<video controls width="100%">
+  <source src="/assets/2026-04-06-camara-trampa2.mp4" type="video/mp4">
+</video>
+
+_Video de Cámara Trampa por Mauricio Vela_ 
+
+
 ## **¿Por qué era necesario traducirlo?**
 
 Hasta ahora, el uso de **CamtrapDP** en **América Latina** enfrentaba una barrera importante: toda su documentación estaba en inglés. Eso limitaba su adopción por parte de equipos de investigación, corporaciones ambientales, ONG y entidades públicas que trabajan con cámaras trampa con diversos actores que no hablan inglés en Colombia y en la región.
@@ -40,13 +47,6 @@ Esta es la primera traducción oficial de **CamtrapDP** a otro idioma diferente 
 La documentación traducida y adaptada está disponible en:
 
 [Elementos CamtrapDP](http://biodiversidad.co/elementos-camtrap-dp){:target="_blank"}  
-
-
-<video controls width="100%">
-  <source src="/assets/2026-04-06-camara-trampa2.mp4" type="video/mp4">
-</video>
-
-_Video de Cámara Trampa por Mauricio Vela_ 
 
 
 ## **¿Quiénes participaron en este proceso?**
