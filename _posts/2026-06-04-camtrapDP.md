@@ -16,16 +16,16 @@ Para resolver ese problema existe **CamtrapDP<sup>C</sup>** (Camera Trap Data Pa
 
 ## **¿Qué es CamtrapDP y para qué sirve?**
 
-CamtrapDP es un estándar desarrollado colaborativamente por organizaciones e investigadores especializados en monitoreo con cámaras trampa a nivel global. Su documentación oficial, en inglés, está disponible en *[camtrap-dp.tdwg.org](http://camtrap-dp.tdwg.org){:target="_blank"} *Lo que hace especial a este **estándar**, es que fue diseñado específicamente para capturar las relaciones complejas que se generan en un estudio de fototrampeo: no sólo el nombre de la especie observada, sino también qué cámara la registró, en qué condiciones, en qué fecha y en qué archivo multimedia quedó guardada esa evidencia.
+CamtrapDP es un estándar desarrollado colaborativamente por organizaciones e investigadores especializados en monitoreo con cámaras trampa a nivel global. Su documentación oficial, en inglés, está disponible en **[camtrap-dp.tdwg.org](http://camtrap-dp.tdwg.org){:target="_blank"}** Lo que hace especial a este **estándar**, es que fue diseñado específicamente para capturar las relaciones complejas que se generan en un estudio de fototrampeo: no sólo el nombre de la especie observada, sino también qué cámara la registró, en qué condiciones, en qué fecha y en qué archivo multimedia quedó guardada esa evidencia.
 
 Para lograrlo, CamtrapDP organiza la información en cuatro componentes principales:
 
 
 
-1. Un archivo de metadatos<sup>E</sup> (*datapackage.json*) que describe el conjunto de datos en su totalidad, con información como: quién lo generó, dónde, cuándo y con qué propósito.
-2. Una tabla de despliegues<sup>F</sup> (*deployments*) con la información de cada cámara: su ubicación geográfica, las fechas en que estuvo activa y su configuración.
-3. Una tabla de archivos multimedia (*media*) que registra cada imagen, video o audio capturado durante los despliegues.
-4. Una tabla de observaciones (*observations*) donde se documentan las especies identificadas, el número de individuos y cualquier anotación derivada de la revisión de los archivos.
+* **1.** Un archivo de metadatos<sup>E</sup> (*datapackage.json*) que describe el conjunto de datos en su totalidad, con información como: quién lo generó, dónde, cuándo y con qué propósito.
+* **2.** Una tabla de despliegues<sup>F</sup> (*deployments*) con la información de cada cámara: su ubicación geográfica, las fechas en que estuvo activa y su configuración.
+* **3.** Una tabla de archivos multimedia (*media*) que registra cada imagen, video o audio capturado durante los despliegues.
+* **4.** Una tabla de observaciones (*observations*) donde se documentan las especies identificadas, el número de individuos y cualquier anotación derivada de la revisión de los archivos.
 
 Esta estructura permite que cualquier investigador, técnico o gestor de datos pueda entender y reutilizar la información, independientemente del proyecto o la institución que la generó.
 
@@ -59,18 +59,15 @@ En paralelo, en el marco de un proyecto de fortalecimiento de capacidades financ
 
 ## **Colombia ya publica datos bajo este estándar**
 
-Cuatro conjuntos de datos colombianos han sido publicados a través del **SiB Colombia** utilizando CamtrapDP, lo que convierte al país en uno de los primeros en la región en adoptar este **estándar **de forma activa:
+Cuatro conjuntos de datos colombianos han sido publicados a través del **SiB Colombia** utilizando CamtrapDP, lo que convierte al país en uno de los primeros en la región en adoptar este **estándar** de forma activa:
 
 
 * **1.** [Monitoreo de mamíferos medianos y grandes en el área de influencia Forest First Colombia](https://ipt.biodiversidad.co/sib/resource?r=panthera_camtrap-v2){:target="_blank"} \
  Fundación Panthera Colombia · 2024
-
 * **2.**   [Monitoreo de biodiversidad con cámaras trampa en la Estructura Ecológica Principal de Santiago de Cali](https://ipt.biodiversidad.co/sib/resource?r=dagma-otus_fototrampeo){:target="_blank"} \
  Departamento Administrativo de Gestión del Medio Ambiente (DAGMA) · 2025 \
-
 * **3.**  [Monitoreo pasivo de fauna silvestre con cámaras trampa en el Piedemonte Casanare — Proyecto FIBRAS](https://ipt.biodiversidad.co/sib/resource?r=fototrampeo_casanare_2021){:target="_blank"} \
  Ecopetrol S.A. · 2025
-
 * **4.**  [Monitoreo de pasos de fauna con cámaras trampa en el municipio de Envigado (Antioquia)](https://ipt.biodiversidad.co/sib/resource?r=alcaldiaenvigado_pasos_fauna){:target="_blank"} \
  Alcaldía de Envigado · 2026
 
