@@ -12,7 +12,7 @@ background: /assets/images/noticias_eventos/2026/2026-06-04-camara-trampa.jpg
 
 Las **cámaras trampa**<sup>A</sup> se han convertido en una de las herramientas más usadas para monitorear la fauna silvestre en Colombia. Aliadas a la técnica de **fototrampeo**,  vienen facilitando el registro de jaguares en el **Amazonas**, dantas en los páramos o aves que recorren partes bajas de los bosques andinos —como los Paujil—, de manera poco invasiva, ya que funcionan con sensores que evitan la presencia constante de seres humanos. Sin embargo, los datos que producen (imágenes, vídeos y anotaciones) han sido históricamente difíciles de organizar, compartir y comparar entre proyectos.
 
-Para resolver ese problema existe **CamtrapDP<sup>C</sup>** (Camera Trap Data Package), un **estándar<sup>B</sup>** internacional que define cómo estructurar y compartir datos sobre fototrampeo de manera ordenada, completa y reutilizable. Y ahora, gracias al trabajo del** SiB Colombia**, este estándar **está disponible por primera vez en español**, con documentación adaptada a la realidad de los proyectos y territorios del país.
+Para resolver ese problema existe **CamtrapDP<sup>C</sup>** (Camera Trap Data Package), un **estándar<sup>B</sup>** internacional que define cómo estructurar y compartir datos sobre fototrampeo de manera ordenada, completa y reutilizable. Y ahora, gracias al trabajo del **SiB Colombia**, este estándar **está disponible por primera vez en español**, con documentación adaptada a la realidad de los proyectos y territorios del país.
 
 **¿Qué es CamtrapDP y para qué sirve?**
 
@@ -41,9 +41,13 @@ La documentación traducida y adaptada está disponible en:
 
 [Elementos CamtrapDP](http://biodiversidad.co/elementos-camtrap-dp){:target="_blank"}  
 
+
 <video controls width="100%">
   <source src="/assets/2026-04-06-camara-trampa2.mp4" type="video/mp4">
 </video>
+
+_Video de Cámara Trampa por Mauricio Vela_ 
+
 
 **¿Quiénes participaron en este proceso?**
 
