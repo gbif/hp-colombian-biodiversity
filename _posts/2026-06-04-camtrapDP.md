@@ -22,8 +22,8 @@ Para lograrlo, CamtrapDP organiza la información en cuatro componentes principa
 
 
 
-* **1.** Un archivo de metadatos<sup>E</sup> (*datapackage.json*) que describe el conjunto de datos en su totalidad, con información como: quién lo generó, dónde, cuándo y con qué propósito.
-* **2.** Una tabla de despliegues<sup>F</sup> (*deployments*) con la información de cada cámara: su ubicación geográfica, las fechas en que estuvo activa y su configuración.
+* **1.** Un archivo de metadatos<sup>D</sup> (*datapackage.json*) que describe el conjunto de datos en su totalidad, con información como: quién lo generó, dónde, cuándo y con qué propósito.
+* **2.** Una tabla de despliegues<sup>E</sup> (*deployments*) con la información de cada cámara: su ubicación geográfica, las fechas en que estuvo activa y su configuración.
 * **3.** Una tabla de archivos multimedia (*media*) que registra cada imagen, video o audio capturado durante los despliegues.
 * **4.** Una tabla de observaciones (*observations*) donde se documentan las especies identificadas, el número de individuos y cualquier anotación derivada de la revisión de los archivos.
 
@@ -55,7 +55,7 @@ La traducción y adaptación de las definiciones y ejemplos del modelo **Camtrap
 
 Un reconocimiento especial merecen también los socios publicadores que fueron pioneros en estructurar y compartir sus datos bajo **CamtrapDP** en el SiB Colombia: la [Fundación Panthera Colombia](https://panthera.org/colombia){:target="_blank"}, el [DAGMA](https://web1.cali.gov.co/dagma/){:target="_blank"} y el [Instituto Humboldt](https://www.humboldt.org.co/){:target="_blank"}, entre otros, cuya experiencia práctica contribuyó a validar y mejorar la documentación.
 
-En paralelo, en el marco de un proyecto de fortalecimiento de capacidades financiado por [GBIF](https://www.gbif.org/es/)<sup>H</sup>{:target="_blank"} y liderado en consorcio por **Uruguay, México, Costa Rica y Colombia**, se trabajó en la traducción de la [guía oficial de cámaras trampa al español](https://docs.gbif.org/camera-trap-guide/es/){:target="_blank"}. Este esfuerzo regional refuerza el compromiso de los nodos latinoamericanos de GBIF con la democratización del acceso a herramientas y estándares internacionales de biodiversidad.
+En paralelo, en el marco de un proyecto de fortalecimiento de capacidades financiado por [GBIF](https://www.gbif.org/es/)<sup>F</sup>{:target="_blank"} y liderado en consorcio por **Uruguay, México, Costa Rica y Colombia**, se trabajó en la traducción de la [guía oficial de cámaras trampa al español](https://docs.gbif.org/camera-trap-guide/es/){:target="_blank"}. Este esfuerzo regional refuerza el compromiso de los nodos latinoamericanos de GBIF con la democratización del acceso a herramientas y estándares internacionales de biodiversidad.
 
 ## **Colombia ya publica datos bajo este estándar**
 
@@ -85,9 +85,9 @@ La sección de **CamtrapDP** en biodiversidad.co se encuentra en su primera vers
 
 
 
-1. **Cámara trampa**: dispositivo fotográfico o de video que se activa automáticamente cuando detecta movimiento o calor. Se usa para registrar animales silvestres sin presencia humana con la técnica de fototrampeo.
-2. **Estándar de datos:** conjunto de reglas y definiciones acordadas internacionalmente que indican cómo debe organizarse y describirse la información, para que pueda ser entendida y usada por cualquier persona o sistema.
-3. **CamtrapDP** (Camera Trap Data Package): estándar internacional para organizar y compartir datos provenientes de estudios con cámaras trampa. Define una estructura de archivos que conecta la información de las cámaras, los archivos multimedia y las observaciones de especies.
-4. **Metadatos:** información que describe un conjunto de datos: quién lo generó, cuándo, dónde, con qué propósito y bajo qué condiciones. Son la “etiqueta” que explica qué hay dentro del paquete de datos.
-5. **Despliegue:** período en el que una cámara trampa está instalada y activa en un punto específico del territorio. Incluye información sobre su ubicación, fechas de operación y configuración técnica.
-6. **GBIF** (Global Biodiversity Information Facility): red global que centraliza y publica datos de biodiversidad de todo el mundo en acceso abierto. El SiB Colombia es el nodo oficial de Colombia en esta red.
+A. **Cámara trampa**: dispositivo fotográfico o de video que se activa automáticamente cuando detecta movimiento o calor. Se usa para registrar animales silvestres sin presencia humana con la técnica de fototrampeo.
+B. **Estándar de datos:** conjunto de reglas y definiciones acordadas internacionalmente que indican cómo debe organizarse y describirse la información, para que pueda ser entendida y usada por cualquier persona o sistema.
+C. **CamtrapDP** (Camera Trap Data Package): estándar internacional para organizar y compartir datos provenientes de estudios con cámaras trampa. Define una estructura de archivos que conecta la información de las cámaras, los archivos multimedia y las observaciones de especies.
+D. **Metadatos:** información que describe un conjunto de datos: quién lo generó, cuándo, dónde, con qué propósito y bajo qué condiciones. Son la “etiqueta” que explica qué hay dentro del paquete de datos.
+E. **Despliegue:** período en el que una cámara trampa está instalada y activa en un punto específico del territorio. Incluye información sobre su ubicación, fechas de operación y configuración técnica.
+F. **GBIF** (Global Biodiversity Information Facility): red global que centraliza y publica datos de biodiversidad de todo el mundo en acceso abierto. El SiB Colombia es el nodo oficial de Colombia en esta red.
