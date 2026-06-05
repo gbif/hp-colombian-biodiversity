@@ -14,7 +14,7 @@ Las **cámaras trampa**<sup>A</sup> se han convertido en una de las herramientas
 
 Para resolver ese problema existe **CamtrapDP<sup>C</sup>** (Camera Trap Data Package), un **estándar<sup>B</sup>** internacional que define cómo estructurar y compartir datos sobre fototrampeo de manera ordenada, completa y reutilizable. Y ahora, gracias al trabajo del **SiB Colombia**, este estándar **está disponible por primera vez en español**, con documentación adaptada a la realidad de los proyectos y territorios del país.
 
-**¿Qué es CamtrapDP y para qué sirve?**
+## **¿Qué es CamtrapDP y para qué sirve?**
 
 CamtrapDP es un estándar desarrollado colaborativamente por organizaciones e investigadores especializados en monitoreo con cámaras trampa a nivel global. Su documentación oficial, en inglés, está disponible en *[camtrap-dp.tdwg.org](http://camtrap-dp.tdwg.org){:target="_blank"} *Lo que hace especial a este **estándar**, es que fue diseñado específicamente para capturar las relaciones complejas que se generan en un estudio de fototrampeo: no sólo el nombre de la especie observada, sino también qué cámara la registró, en qué condiciones, en qué fecha y en qué archivo multimedia quedó guardada esa evidencia.
 
@@ -29,7 +29,7 @@ Para lograrlo, CamtrapDP organiza la información en cuatro componentes principa
 
 Esta estructura permite que cualquier investigador, técnico o gestor de datos pueda entender y reutilizar la información, independientemente del proyecto o la institución que la generó.
 
-**¿Por qué era necesario traducirlo?**
+## **¿Por qué era necesario traducirlo?**
 
 Hasta ahora, el uso de **CamtrapDP** en **América Latina** enfrentaba una barrera importante: toda su documentación estaba en inglés. Eso limitaba su adopción por parte de equipos de investigación, corporaciones ambientales, ONG y entidades públicas que trabajan con cámaras trampa con diversos actores que no hablan inglés en Colombia y en la región.
 
@@ -49,7 +49,7 @@ La documentación traducida y adaptada está disponible en:
 _Video de Cámara Trampa por Mauricio Vela_ 
 
 
-**¿Quiénes participaron en este proceso?**
+## **¿Quiénes participaron en este proceso?**
 
 La traducción y adaptación de las definiciones y ejemplos del modelo **CamtrapDP** fue liderada por el equipo del **SiB Colombia**. Para ello, se contó con la revisión y retroalimentación de Angélica Díaz —investigadora del **Instituto de Investigación de Recursos Biológicos Alexander von Humboldt**  (I. Humboldt)— y miembro de la red **OTUS**, una comunidad especializada en fototrampeo que ha sido clave en la prueba y adopción de este estándar en el país.
 
@@ -57,7 +57,7 @@ Un reconocimiento especial merecen también los socios publicadores que fueron p
 
 En paralelo, en el marco de un proyecto de fortalecimiento de capacidades financiado por [GBIF](https://www.gbif.org/es/)<sup>H</sup>{:target="_blank"} y liderado en consorcio por **Uruguay, México, Costa Rica y Colombia**, se trabajó en la traducción de la [guía oficial de cámaras trampa al español](https://docs.gbif.org/camera-trap-guide/es/){:target="_blank"}. Este esfuerzo regional refuerza el compromiso de los nodos latinoamericanos de GBIF con la democratización del acceso a herramientas y estándares internacionales de biodiversidad.
 
-**Colombia ya publica datos bajo este estándar**
+## **Colombia ya publica datos bajo este estándar**
 
 Cuatro conjuntos de datos colombianos han sido publicados a través del **SiB Colombia** utilizando CamtrapDP, lo que convierte al país en uno de los primeros en la región en adoptar este **estándar **de forma activa:
 
@@ -76,7 +76,7 @@ Cuatro conjuntos de datos colombianos han sido publicados a través del **SiB Co
 
  
 
-**Una documentación viva, construida con la comunidad**
+## **Una documentación viva, construida con la comunidad**
 
 La sección de **CamtrapDP** en biodiversidad.co se encuentra en su primera versión y continuará creciendo. El **SiB Colombia** espera recibir aportes de la comunidad de investigadores, técnicos y gestores de datos para fortalecer la documentación, resolver dudas frecuentes y consolidar su uso en proyectos de monitoreo y conservación de la biodiversidad.
 
