@@ -62,16 +62,16 @@ En paralelo, en el marco de un proyecto de fortalecimiento de capacidades financ
 Cuatro conjuntos de datos colombianos han sido publicados a través del **SiB Colombia** utilizando CamtrapDP, lo que convierte al país en uno de los primeros en la región en adoptar este **estándar **de forma activa:
 
 
-#### 1.   [Monitoreo de mamíferos medianos y grandes en el área de influencia Forest First Colombia](https://ipt.biodiversidad.co/sib/resource?r=panthera_camtrap-v2){:target="_blank"} \
+* **1.** [Monitoreo de mamíferos medianos y grandes en el área de influencia Forest First Colombia](https://ipt.biodiversidad.co/sib/resource?r=panthera_camtrap-v2){:target="_blank"} \
  Fundación Panthera Colombia · 2024
 
-#### 2.   [Monitoreo de biodiversidad con cámaras trampa en la Estructura Ecológica Principal de Santiago de Cali](https://ipt.biodiversidad.co/sib/resource?r=dagma-otus_fototrampeo){:target="_blank"} \
+* **2.**   [Monitoreo de biodiversidad con cámaras trampa en la Estructura Ecológica Principal de Santiago de Cali](https://ipt.biodiversidad.co/sib/resource?r=dagma-otus_fototrampeo){:target="_blank"} \
  Departamento Administrativo de Gestión del Medio Ambiente (DAGMA) · 2025 \
 
-#### 3.   [Monitoreo pasivo de fauna silvestre con cámaras trampa en el Piedemonte Casanare — Proyecto FIBRAS](https://ipt.biodiversidad.co/sib/resource?r=fototrampeo_casanare_2021){:target="_blank"} \
+* **3.**  [Monitoreo pasivo de fauna silvestre con cámaras trampa en el Piedemonte Casanare — Proyecto FIBRAS](https://ipt.biodiversidad.co/sib/resource?r=fototrampeo_casanare_2021){:target="_blank"} \
  Ecopetrol S.A. · 2025
 
-#### 4.   [Monitoreo de pasos de fauna con cámaras trampa en el municipio de Envigado (Antioquia)](https://ipt.biodiversidad.co/sib/resource?r=alcaldiaenvigado_pasos_fauna){:target="_blank"} \
+* **4.**  [Monitoreo de pasos de fauna con cámaras trampa en el municipio de Envigado (Antioquia)](https://ipt.biodiversidad.co/sib/resource?r=alcaldiaenvigado_pasos_fauna){:target="_blank"} \
  Alcaldía de Envigado · 2026
 
  
