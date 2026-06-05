@@ -1,5 +1,5 @@
 ---
-preTitle: 05 de junio, 2026
+preTitle: 04 de junio, 2026
 title: "Datos de cámaras trampa al alcance de todxs: el SiB Colombia traduce CamtrapDP al español"
 description: "_Por primera vez, el estándar internacional para compartir datos de fototrampeo está disponible en español, con ejemplos adaptados al contexto colombiano._"
 date: 2026-06-04
@@ -41,7 +41,9 @@ La documentación traducida y adaptada está disponible en:
 
 [Elementos CamtrapDP](http://biodiversidad.co/elementos-camtrap-dp){:target="_blank"}  
 
- 
+<video controls width="100%">
+  <source src="/assets/2026-04-06-camara-trampa2.mp4" type="video/mp4">
+</video>
 
 **¿Quiénes participaron en este proceso?**
 
