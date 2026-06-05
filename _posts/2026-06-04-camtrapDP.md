@@ -31,7 +31,7 @@ Esta estructura permite que cualquier investigador, técnico o gestor de datos p
 
 **¿Por qué era necesario traducirlo?**
 
-Hasta ahora, el uso de **CamtrapDP **en **América Latina** enfrentaba una barrera importante: toda su documentación estaba en inglés. Eso limitaba su adopción por parte de equipos de investigación, corporaciones ambientales, ONG y entidades públicas que trabajan con cámaras trampa con diversos actores que no hablan inglés en Colombia y en la región.
+Hasta ahora, el uso de **CamtrapDP** en **América Latina** enfrentaba una barrera importante: toda su documentación estaba en inglés. Eso limitaba su adopción por parte de equipos de investigación, corporaciones ambientales, ONG y entidades públicas que trabajan con cámaras trampa con diversos actores que no hablan inglés en Colombia y en la región.
 
 El **SiB Colombia** realizó la traducción completa de los elementos del **estándar** al español y los adaptó con ejemplos de proyectos colombianos, para que la documentación no solo sea comprensible, sino también cercana a la realidad de quienes la van a usar.
 
@@ -51,9 +51,9 @@ _Video de Cámara Trampa por Mauricio Vela_
 
 **¿Quiénes participaron en este proceso?**
 
-La traducción y adaptación de las definiciones y ejemplos del modelo **CamtrapDP** fue liderada por el equipo del **SiB Colombia**. Para ello, se contó con la revisión y retroalimentación de Angélica Díaz —investigadora del **Instituto de Investigación de Recursos Biológicos Alexander von Humboldt** (I. Humboldt)— y miembro de la red **OTUS**, una comunidad especializada en fototrampeo que ha sido clave en la prueba y adopción de este estándar en el país.
+La traducción y adaptación de las definiciones y ejemplos del modelo **CamtrapDP** fue liderada por el equipo del **SiB Colombia**. Para ello, se contó con la revisión y retroalimentación de Angélica Díaz —investigadora del **Instituto de Investigación de Recursos Biológicos Alexander von Humboldt**  (I. Humboldt)— y miembro de la red **OTUS**, una comunidad especializada en fototrampeo que ha sido clave en la prueba y adopción de este estándar en el país.
 
-Un reconocimiento especial merecen también los socios publicadores que fueron pioneros en estructurar y compartir sus datos bajo **CamtrapDP** en el SiB Colombia: la [Fundación Panthera Colombia](https://panthera.org/colombia),{:target="_blank"} el [DAGMA](https://web1.cali.gov.co/dagma/){:target="_blank"} y el [Instituto Humboldt](https://www.humboldt.org.co/){:target="_blank"}, entre otros, cuya experiencia práctica contribuyó a validar y mejorar la documentación.
+Un reconocimiento especial merecen también los socios publicadores que fueron pioneros en estructurar y compartir sus datos bajo **CamtrapDP** en el SiB Colombia: la [Fundación Panthera Colombia](https://panthera.org/colombia){:target="_blank"}, el [DAGMA](https://web1.cali.gov.co/dagma/){:target="_blank"} y el [Instituto Humboldt](https://www.humboldt.org.co/){:target="_blank"}, entre otros, cuya experiencia práctica contribuyó a validar y mejorar la documentación.
 
 En paralelo, en el marco de un proyecto de fortalecimiento de capacidades financiado por [GBIF](https://www.gbif.org/es/)<sup>H</sup>{:target="_blank"} y liderado en consorcio por **Uruguay, México, Costa Rica y Colombia**, se trabajó en la traducción de la [guía oficial de cámaras trampa al español](https://docs.gbif.org/camera-trap-guide/es/){:target="_blank"}. Este esfuerzo regional refuerza el compromiso de los nodos latinoamericanos de GBIF con la democratización del acceso a herramientas y estándares internacionales de biodiversidad.
 
