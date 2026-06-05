@@ -85,9 +85,9 @@ La sección de **CamtrapDP** en biodiversidad.co se encuentra en su primera vers
 
 
 
-A. **Cámara trampa**: dispositivo fotográfico o de video que se activa automáticamente cuando detecta movimiento o calor. Se usa para registrar animales silvestres sin presencia humana con la técnica de fototrampeo.
-B. **Estándar de datos:** conjunto de reglas y definiciones acordadas internacionalmente que indican cómo debe organizarse y describirse la información, para que pueda ser entendida y usada por cualquier persona o sistema.
-C. **CamtrapDP** (Camera Trap Data Package): estándar internacional para organizar y compartir datos provenientes de estudios con cámaras trampa. Define una estructura de archivos que conecta la información de las cámaras, los archivos multimedia y las observaciones de especies.
-D. **Metadatos:** información que describe un conjunto de datos: quién lo generó, cuándo, dónde, con qué propósito y bajo qué condiciones. Son la “etiqueta” que explica qué hay dentro del paquete de datos.
-E. **Despliegue:** período en el que una cámara trampa está instalada y activa en un punto específico del territorio. Incluye información sobre su ubicación, fechas de operación y configuración técnica.
-F. **GBIF** (Global Biodiversity Information Facility): red global que centraliza y publica datos de biodiversidad de todo el mundo en acceso abierto. El SiB Colombia es el nodo oficial de Colombia en esta red.
+* A. **Cámara trampa**: dispositivo fotográfico o de video que se activa automáticamente cuando detecta movimiento o calor. Se usa para registrar animales silvestres sin presencia humana con la técnica de fototrampeo.
+* B. **Estándar de datos:** conjunto de reglas y definiciones acordadas internacionalmente que indican cómo debe organizarse y describirse la información, para que pueda ser entendida y usada por cualquier persona o sistema.
+* C. **CamtrapDP** (Camera Trap Data Package): estándar internacional para organizar y compartir datos provenientes de estudios con cámaras trampa. Define una estructura de archivos que conecta la información de las cámaras, los archivos multimedia y las observaciones de especies.
+* D. **Metadatos:** información que describe un conjunto de datos: quién lo generó, cuándo, dónde, con qué propósito y bajo qué condiciones. Son la “etiqueta” que explica qué hay dentro del paquete de datos.
+* E. **Despliegue:** período en el que una cámara trampa está instalada y activa en un punto específico del territorio. Incluye información sobre su ubicación, fechas de operación y configuración técnica.
+* F. **GBIF** (Global Biodiversity Information Facility): red global que centraliza y publica datos de biodiversidad de todo el mundo en acceso abierto. El SiB Colombia es el nodo oficial de Colombia en esta red.
