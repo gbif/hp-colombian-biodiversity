@@ -96,7 +96,7 @@ blank:
     <div class="container">
       <div class="box">
         <h2 class="title is-4 has-text-centered">Uso de datos de Colombia en literatura</h2>
-        <p class="has-text-centered">Cambia el rango de años para cargar las cifras, temas y publicaciones que usaron datos compartidos por medio del SiB Colombia y GBIF, con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/">API literature</a>.</p>
+        <p class="has-text-centered">Cambia el rango de años para visualizar cifras, temas e información sobre publicaciones que usaron datos compartidos por medio del SiB Colombia e incluyen al menos un autor(a) del país. Esta herramienta busca literatura indexada por GBIF con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/" target="_blank">API literature</a>, incluidos artículos revisados por pares que citan descargas y conjuntos de datos guardados en su infraestructura.</p>
         <hr>
 
         <div class="has-text-centered">
