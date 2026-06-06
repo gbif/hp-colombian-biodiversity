@@ -325,7 +325,7 @@ let translations = {
 };
 async function loadTranslations() {
   try {
-    const response = await fetch("./usecases.json");
+    const response = await fetch("usecases.json");
     translations = await response.json();
   } catch (error) {
     console.error("Error cargando traducciones:", error);
