@@ -96,7 +96,7 @@ blank:
     <div class="container">
       <div class="box">
         <h2 class="title is-4 has-text-centered">Uso de datos de Colombia en literatura</h2>
-        <p class="has-text-centered">Cambia el rango de años para visualizar cifras, temas e información sobre publicaciones que usaron datos compartidos por medio del SiB Colombia e incluyen al menos un autor(a) del país. Esta herramienta busca literatura indexada por GBIF con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/" target="_blank">API literature</a>, incluidos artículos revisados por pares que citan descargas y conjuntos de datos guardados en su infraestructura.</p>
+        <p class="has-text-centered">Cambia el rango de años para visualizar cifras, temas e información sobre publicaciones que usaron datos compartidos por medio del SiB Colombia e incluyen al menos un autor(a) del país. Esta herramienta busca literatura indexada por GBIF con su <a href="https://techdocs.gbif.org/en/openapi/v1/literature#/" target="_blank">API literature</a>, incluidos artículos revisados por pares que citan descargas y conjuntos de datos salvaguardados en esta red.</p>
         <hr>
 
         <div class="has-text-centered">
@@ -220,4 +220,4 @@ blank:
     <script src="https://code.highcharts.com/modules/export-data.js"></script>
     <script src="https://code.highcharts.com/modules/accessibility.js"></script>
     <script src="https://code.highcharts.com/themes/adaptive.js"></script>
-    <script src="/assets/js/usecases.js?v=1.0.0"></script>
+    <script src="/assets/js/usecases.js?v=1.0.1"></script>
