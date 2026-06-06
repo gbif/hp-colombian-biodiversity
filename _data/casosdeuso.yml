@@ -220,4 +220,4 @@ blank:
     <script src="https://code.highcharts.com/modules/export-data.js"></script>
     <script src="https://code.highcharts.com/modules/accessibility.js"></script>
     <script src="https://code.highcharts.com/themes/adaptive.js"></script>
-    <script src="/assets/js/usecases.js?v=1.0.2"></script>
+    <script src="/assets/js/usecases.js?v=1.0.3"></script>
