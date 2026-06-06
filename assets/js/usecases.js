@@ -42,7 +42,7 @@ function renderChart(topicsByYear) {
       text: ''
    },
    xAxis: {
-     categories: topics.map(t => t.replace(/_/g, " ")),
+     categories: topics.map(translateTopic),
      title: { text: 'Temas' }
    },
    yAxis: {
@@ -59,6 +59,15 @@ function renderChart(topicsByYear) {
  user_chart_title.innerHTML = `Temas en los que se usaron datos ${state.yearStart}–${state.yearEnd}`;
 }
 
+// ====== AUTHOR COUNTRIES TO EMOJI FLAGS ======
+function translateCountry(code) {
+  if (!code) return "";
+  const key = String(code).toUpperCase();
+  return (
+    translations.countries?.[key] ||
+    key
+  );
+}
 
 // ====== TABLE ======
 function initTable(data) {
@@ -93,15 +102,29 @@ function initTable(data) {
        ${titleHTML}
        ${authorsHTML}
      </td>
-     <td>${(item.topics || []).join(", ").replace(/_/g, " ")}</td>
+     <td>${(item.countriesOfResearcher || []).map(translateCountry).join(", ")}</td>
      <td>${item.openAccess ? "Sí" : "No"}</td>
-     <td>${(item.countriesOfResearcher || []).join(", ")}</td>
-     <td>${item.literatureType || ""}</td>
+     <td>${(item.countriesOfResearcher || []).map(translateCountry).join(", ")}</td>
+     <td>${translateLiteratureType(item.literatureType || "")}</td>
    `;
    tbody.appendChild(tr);
  });
 }
 
+// ====== TABLE FILL SELECT FILTER ======
+function fillSelect(id, values, placeholder, formatter = v => v) {
+  const select = document.getElementById(id);
+  if (!select) return;
+
+  select.innerHTML = `<option value="">${placeholder}</option>`;
+
+  values.forEach(value => {
+    const option = document.createElement("option");
+    option.value = String(value).toLowerCase();
+    option.textContent = formatter(value);
+    select.appendChild(option);
+  });
+}
 
 // ====== TABLE BUILD FILTERS ======
 function buildDynamicFilters() {
@@ -116,25 +139,10 @@ function buildDynamicFilters() {
    if (item.literatureType) types.add(item.literatureType);
  });
  fillSelect("use-filter-year", [...years].sort((a, b) => b - a), "Año");
- fillSelect("use-filter-topics", [...topics].sort(), "Tema");
- fillSelect("use-filter-countries", [...countries].sort(), "País");
- fillSelect("use-filter-type", [...types].sort(), "Tipo");
+ fillSelect("use-filter-topics", [...topics].sort((a, b) => translateTopic(a).localeCompare(translateTopic(b), "es")),"Tema",translateTopic);
+ fillSelect("use-filter-countries", [...countries].sort((a, b) => translateCountry(a).localeCompare(translateCountry(b), "es")),"Países de autores", translateCountry);
+ fillSelect("use-filter-type", [...types].sort((a, b) => translateLiteratureType(a).localeCompare(translateLiteratureType(b), "es")),"Tipo",translateLiteratureType);
 }
-
-
-// ====== TABLE FILL SELECT FILTER ======
-function fillSelect(id, values, placeholder) {
-  const select = document.getElementById(id);
-  if (!select) return;
-  select.innerHTML = `<option value="">${placeholder}</option>`;
-  values.forEach(value => {
-    const option = document.createElement("option");
-    option.value = String(value).toLowerCase(); // 🔑 clave
-    option.textContent = value;
-    select.appendChild(option);
-  });
-}
-
 
 // ====== TABLE FILTERS ======
 function initFilters() {
@@ -251,7 +259,7 @@ function formatAuthors(authors, max = 1) {
  const full = list.join(", ");
  const short =
    list.length > max
-     ? `${list.slice(0, max).join(", ")} et al.`
+     ? `${list.slice(0, max).join(", ")} <i>et al</i>.`
      : full;
  return { short, full };
 }
@@ -310,6 +318,38 @@ function updateStatCard(labelText, value) {
 const year_current = new Date().getFullYear();
 const year_previous = year_current - 1;
 const year_min = 2012;
+// ====== TOPIC TRANSLATIONS ======
+let translations = {
+  topics: {},
+  literatureTypes: {}
+};
+async function loadTranslations() {
+  try {
+    const response = await fetch("./usecases.json");
+    translations = await response.json();
+  } catch (error) {
+    console.error("Error cargando traducciones:", error);
+    translations = {
+      topics: {},
+      literatureTypes: {}
+    };
+  }
+}
+
+function translateTopic(topic) {
+  return (
+    translations.topics?.[topic] ||
+    topic.replace(/_/g, " ")
+  );
+}
+
+function translateLiteratureType(type) {
+  return (
+    translations.literatureTypes?.[type] ||
+    type.replace(/_/g, " ")
+  );
+}
+
 const state = {
  yearStart: year_previous,
  yearEnd: year_current
@@ -366,6 +406,7 @@ async function fetchData(year) {
 
 // ====== INIT ======
 async function init() {
+ await loadTranslations();
  const chart_title = document.getElementById("use-chart-title");
  const chart_topics = document.getElementById("use-chart-topics");
  const tbody = document.querySelector("#use-table tbody");
