@@ -45,13 +45,13 @@ tarjetasOtrosUsos:
   title: Otros usos
   features:
     - preTitle: "Uso en comunicación y periodismo de datos"
-      title: GBIF Science Review no. 12
+      title: GBIF Science Review
       description: |
-        Este informe de la red global de datos abiertos, GBIF —de la que el SiB Colombia es nodo en el país—, destacó un artículo académico que usó datos compartidos a través del SiB Colombia.
+        Este informe de la red global de datos abiertos, GBIF —de la que el SiB Colombia es nodo en el país—, destaca artículos académicos que usan datos compartidos a través diversos nodos de esta red, incluído el SiB Colombia.
       background: https://images.ctfassets.net/uo17ejk9rkwj/3aB7K6CM2MnJ2KaCIOUAVy/2b71eda9edcb5bd851eddbb7159b4d8c/cover-shadow-n12.png
       cta:
         - text: Ver más
-          href: https://www.gbif.org/document/4yxe95hHk0LlGwxgpGZT9i/gbif-science-review-no-12
+          href: https://www.gbif.org/science-review
           isPrimary: true
           target: "_blank"
 
