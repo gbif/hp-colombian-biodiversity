@@ -55,17 +55,6 @@ tarjetasOtrosUsos:
           isPrimary: true
           target: "_blank"
 
-    - preTitle: "Uso en gestión ambiental"
-      title: Actualización del Plan de Manejo Distrito Regional de Manejo Integrado - Agrosavia y Cornare
-      description: |
-        Uso de datos sobre aves, mamíferos, reptiles y especies endémicas, amenazadas y migratorias publicados en el SiB Colombia.
-      background: /assets/images/fondos_layout/BI21090_Villegas-Velez-Felipe.jpg
-      cta:
-        - text: Ver más
-          href: https://www.gbif.org/document/4yxe95hHk0LlGwxgpGZT9i/gbif-science-review-no-12
-          isPrimary: true
-          target: "_blank"
-
     - preTitle: "Uso en comunicación y periodismo de datos"
       title: Informes Nacionales
       description: |
