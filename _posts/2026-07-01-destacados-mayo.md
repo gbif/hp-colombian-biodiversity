@@ -33,7 +33,6 @@ ___________________________________________________________________________
 
 Mayo dejó claro que el conocimiento de la biodiversidad colombiana crece desde muchos frentes a la vez: comunidades que instalan cámaras trampa en sus territorios, consultoras que documentan ríos afectados por la minería e institutos que exploran desde el fondo del mar hasta los páramos. Cada conjunto de datos publicado es una pieza más del mapa de la vida en Colombia.
 
-![Actividad de publicación](/assets/images/noticias_eventos/2025/banner-actividad-de-publicacion.png) 
 
 | La publicación de datos sobre biodiversidad es un proceso voluntario que depende del compromiso de organizaciones, investigadores y ciudadanos dispuestos a compartir lo que descubren. Cada conjunto de datos publicado es un paso más hacia un conocimiento más completo, accesible y útil para todos.
 
