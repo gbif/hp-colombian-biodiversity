@@ -1,11 +1,10 @@
 ---
 preTitle: 01 de julio, 2026
-title: "Cámaras trampa, hongos de altura y polillas nocturnas: un vistazo a los datos que organizaciones de todo el país compartieron con el mundo en mayo."
-description: "_Una corporación forestal, una consultora ambiental y tres institutos de investigación entre los destacados de mayo_"
+title: "Cámaras trampa, hongos de altura y polillas nocturnas: un vistazo a los datos que organizaciones de todo el país compartieron con el mundo en mayo"
+description: "_Una corporación forestal, una consultora ambiental y tres institutos de investigación entre los destacados de mayo._"
 date: 2026-07-01
 categories: ["Publicación", "Datos abiertos", "Mayo", "Destacados SiB", "2026"]
 background: /assets/images/noticias_eventos/2026/2026-07-01-destacados_mayo2026.jpg
-
 
 ---
 Desde el equipo coordinador del **SiB Colombia** acompañamos mes a mes este proceso, destacando los aportes más relevantes por su impacto en el conocimiento, la gestión y la conservación de la biodiversidad. Estos son los avances de **mayo de 2026.**
