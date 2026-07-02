@@ -28,7 +28,6 @@ En el Quindío, se publicó el[ listado de polillas (Lepidoptera)](https://biodi
 
 Finalmente, el Instituto de **Investigación de Recursos Biológicos Alexander von Humboldt** publicó[ registros de hongos detectados mediante secuenciación](https://biodiversidad.co/dataset/f1e77584-cb80-465a-b6e3-e3bb83463432){:target="_blank"}, a lo largo de un gradiente altitudinal que va desde páramos y altitudes medias hasta tierras bajas y el nivel del mar, en dos transectos de muestreo en diferentes zonas de Colombia.
 
----
 ___________________________________________________________________________
 
 Mayo dejó claro que el conocimiento de la biodiversidad colombiana crece desde muchos frentes a la vez: comunidades que instalan cámaras trampa en sus territorios, consultoras que documentan ríos afectados por la minería e institutos que exploran desde el fondo del mar hasta los páramos. Cada conjunto de datos publicado es una pieza más del mapa de la vida en Colombia.
