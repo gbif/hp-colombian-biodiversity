@@ -22,6 +22,7 @@ Y en el Caribe colombiano, el **Servicio Nacional de Aprendizaje (SENA)** debut�
 ## **Destacados por tipo de conjunto de datos**
 
 Junio también trajo actualizaciones importantes de publicadores que ya hacen parte de la red, desde monitoreos comunitarios en los Llanos hasta la gestión ambiental de la capital del país.
+
 En Casanare y Vichada, la **Fundación Cataruben** publicó los[ eventos de muestreo](https://biodiversidad.co/data?datasetKey=ac1718d1-6dfe-44f1-bf27-ec26fd950989){:target="_blank"} de un monitoreo comunitario realizado en el marco del proyecto CO2BIO P2, una iniciativa de soluciones basadas en la naturaleza que busca conservar coberturas vegetales con alto potencial de captura de carbono.
 
 **Parques Nacionales Naturales de Colombia**, por su parte, publicó una década de información pesquera:[ registros de pesca comercial, artesanal y presión pesquera](https://biodiversidad.co/data?datasetKey=509edbc9-e006-4f49-a3f8-d8cb7b6080d8){:target="_blank"} monitoreados entre 2007 y 2017 en el Parque Nacional Natural Los Katíos.
