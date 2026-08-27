@@ -16,7 +16,7 @@ Bosques de galería en Cumaribo (Vichada) y monitoreo comunitario en La Macarena
 
 Desde el equipo coordinador del SiB Colombia acompañamos mes a mes este proceso, destacando los aportes más relevantes por su impacto en el conocimiento, la gestión y la conservación de la biodiversidad. Estos son los avances de julio de 2026.
 
-| Nuevos publicadores
+## **Nuevos publicadores**
 
 Dos nuevas organizaciones territoriales se sumaron a la red de publicadores del SiB Colombia, ambas desde la Orinoquia colombiana, con datos que documentan tanto la flora de sus bosques como la fauna que habita su territorio. 
 
@@ -24,7 +24,7 @@ La **Asociación de Cabildos y Autoridades Tradicionales Indígenas de la Selva 
 
 La **Junta de Acción Comunal Vereda Esperanza** se une como nuevo socio publicador con tres conjuntos de datos:[ (1) un monitoreo comunitario por fototrampeo, (2) un monitoreo de datos acústicos pasivos y (3) un conteo de aves](https://biodiversidad.co/data?datasetKey=0f6ec036-4c3c-4708-9e07-499082a14b40&datasetKey=85c23085-aaea-4b3e-a0d2-0a10820f7f45&datasetKey=d430639b-08a2-4dc5-a71d-d828ef3994ef){:target="_blank"}, todos tomados en la vereda La Esperanza, La Macarena (Meta).
 
-| Destacados por tipo de conjunto de datos
+## **Destacados por tipo de conjunto de datos**
 
 Julio también trajo aportes importantes de publicadores que ya hacen parte de la red, desde la caracterización de fauna marina en el Caribe hasta nuevos registros de biodiversidad terrestre en el centro del país.
 
@@ -34,7 +34,7 @@ La **[Universidad de Sucre](https://unisucre.edu.co/)**{:target="_blank"} fortal
 
 La **Fundación Parque Jaime Duque** publicó los[ registros de mamíferos terrestres (pequeños y medianos) y de aves](https://biodiversidad.co/data?datasetKey=96a26351-89dd-429a-a373-3f16999b0c4d){:target="_blank"} obtenidos a través de cámaras trampa instaladas en la Reserva Natural de la Sociedad Civil de sus predios.
 
-| Colecciones biológicas
+## **Colecciones biológicas**
 
 Se actualizó la Colección de Anfibios y Reptiles de la **[Universidad del Quindío](https://www.uniquindio.edu.co/){:target="_blank"}** **(ARUQ)**, agregando los registros de[ 1262 especímenes](https://doi.org/10.15472/mkjjgu){:target="_blank"}, y se publicó la Colección del Serpentario de la **[Universidad de Antioquia](https://www.udea.edu.co/wps/portal/udea/web/inicio){:target="_blank"}** **(SUA)**, con[ 659 registros asociados](https://doi.org/10.15472/sgdlmm){:target="_blank"}.
 
