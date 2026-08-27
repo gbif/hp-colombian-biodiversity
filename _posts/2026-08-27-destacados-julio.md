@@ -1,7 +1,7 @@
 ---
 preTitle: 27 de agosto, 2026
 title: "Comunidades del Vichada y el Meta se suman como nuevas publicadoras: así fue julio en el SiB Colombia"
-description: "__Bosques de galería en Cumaribo y monitoreo comunitario en La Macarena marcan el ingreso de dos organizaciones territoriales a la red del SiB Colombia en julio. _"
+description: "_Bosques de galería en Cumaribo y monitoreo comunitario en La Macarena marcan el ingreso de dos organizaciones territoriales a la red del SiB Colombia en julio._"
 date: 2026-08-27
 categories: ["Publicación", "Datos abiertos", "Junio", "Destacados SiB", "2026"]
 background: /assets/images/noticias_eventos/2026/2026-08-27-destacados_julio2026.png
@@ -36,7 +36,7 @@ La **Fundación Parque Jaime Duque** publicó los[ registros de mamíferos terre
 
 | Colecciones biológicas
 
-Se actualizó la Colección de Anfibios y Reptiles de la **[Universidad del Quindío](https://www.uniquindio.edu.co/)**{:target="_blank"}** (ARUQ)**, agregando los registros de[ 1262 especímenes](https://doi.org/10.15472/mkjjgu){:target="_blank"}, y se publicó la Colección del Serpentario de la **[Universidad de Antioquia](https://www.udea.edu.co/wps/portal/udea/web/inicio)**{:target="_blank"}** (SUA)**, con[ 659 registros asociados](https://doi.org/10.15472/sgdlmm){:target="_blank"}.
+Se actualizó la Colección de Anfibios y Reptiles de la **[Universidad del Quindío](https://www.uniquindio.edu.co/){:target="_blank"}** **(ARUQ)**, agregando los registros de[ 1262 especímenes](https://doi.org/10.15472/mkjjgu){:target="_blank"}, y se publicó la Colección del Serpentario de la **[Universidad de Antioquia](https://www.udea.edu.co/wps/portal/udea/web/inicio){:target="_blank"}** **(SUA)**, con[ 659 registros asociados](https://doi.org/10.15472/sgdlmm){:target="_blank"}.
 
 En este mes se confirma una vez más que el conocimiento de la biodiversidad colombiana crece desde muchos frentes a la vez: pueblos indígenas y comunidades campesinas que documentan la flora y fauna de su territorio, institutos de investigación que profundizan en la diversidad marina y continental, universidades que amplían el conocimiento de hongos y colecciones de referencia, y fundaciones que aportan desde sus reservas naturales. Cada conjunto de datos publicado es una pieza más del mapa de la vida en Colombia.
 
