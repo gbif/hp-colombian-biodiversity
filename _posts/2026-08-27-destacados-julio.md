@@ -40,6 +40,10 @@ Se actualizó la Colección de Anfibios y Reptiles de la **[Universidad del Quin
 
 En este mes se confirma una vez más que el conocimiento de la biodiversidad colombiana crece desde muchos frentes a la vez: pueblos indígenas y comunidades campesinas que documentan la flora y fauna de su territorio, institutos de investigación que profundizan en la diversidad marina y continental, universidades que amplían el conocimiento de hongos y colecciones de referencia, y fundaciones que aportan desde sus reservas naturales. Cada conjunto de datos publicado es una pieza más del mapa de la vida en Colombia.
 
+___________
+
+![Actividad de publicación](/assets/images/noticias_eventos/2025/banner-actividad-de-publicacion.png) 
+
 La publicación de datos sobre biodiversidad es un proceso voluntario que depende del compromiso de organizaciones, investigadores y ciudadanos dispuestos a compartir lo que descubren. Cada conjunto de datos publicado es un paso más hacia un conocimiento más completo, accesible y útil para todos y todas.
 
 | *[Consulta la guía para publicar datos en el SiB Colombia](https://biodiversidad.co/compartir/guia-para-publicar/.){:target="_blank"}.*
