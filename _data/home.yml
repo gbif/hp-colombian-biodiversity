@@ -91,6 +91,29 @@ splitGruposdeInteres:
 noticias:
   features:
 
+    - preTitle: 27 de agosto, 2026
+      title: "Comunidades del Vichada y el Meta se suman como nuevas publicadoras: así fue julio en el SiB Colombia" 
+      description: |      # required
+       Bosques de galería en Cumaribo y monitoreo comunitario en La Macarena marcan el ingreso de dos organizaciones territoriales a la red del SiB Colombia en julio.
+      # img required
+      background: /assets/images/noticias_eventos/2026/2026-08-27-destacados_julio2026.png
+      cta:
+      - text: Ver más
+        href: /post/2026/destacados-julio/
+        isPrimary: false
+        
+    - preTitle: 17 de julio, 2026
+      title: "Tres nuevos publicadores y una autoridad ambiental que suma miles de registros: así fue junio en el SiB Colombia" 
+      description: |      # required
+       Primates en el Putumayo, aves en el Cesar y fauna en el Valle: tres organizaciones se suman a la red, mientras la CAR, Bogotá y dos colecciones biológicas amplían sus datos.
+      # img required
+      background: /assets/images/noticias_eventos/2026/2026-07-17-destacados_junio.jpg 
+      cta:
+      - text: Ver más
+        href: /post/2026/destacados-junio/
+        isPrimary: false
+        
+
     - preTitle: 01 de julio, 2026
       title: "Cámaras trampa, hongos de altura y polillas nocturnas: un vistazo a los datos que organizaciones de todo el país compartieron con el mundo en mayo." 
       description: |      # required
@@ -134,29 +157,7 @@ noticias:
       - text: Ver más
         href: /post/2026/destacados-febrero/
         isPrimary: false
-
-    - preTitle: 19 de febrero, 2026
-      title: "El 2026 arranca con fuerza: nuevos publicadores, nuevas especies y colecciones fortalecidas" 
-      description: |      # required
-       De una reserva en el Pacífico a los cultivos de Ocaña los datos que ampliaron el mapa este mes
-      # img required
-      background: /assets/images/noticias_eventos/2026/2026-02-19-destacados_enero.png
-      cta:
-      - text: Ver más
-        href: /post/2026/destacados-enero/
-        isPrimary: false
-        
-    - preTitle: 13 de febrero, 2026
-      title: "Más datos abiertos sobre insectos: Los odonatos llegan al SiB Colombia" 
-      description: |      # required
-       El Grupo Colombiano de Odonatología publicó la lista de referencia de libélulas y caballitos del diablo.
-      # img required
-      background: /assets/images/noticias_eventos/2026/2026-02-13-entrevista-odonatos.png
-      cta:
-      - text: Ver más
-        href: /post/2026/publicacion-lista-odonatos/
-        isPrimary: false
-              
+           
         
 # Splits
 
