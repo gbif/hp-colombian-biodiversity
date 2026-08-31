@@ -97,10 +97,7 @@ El SiB Colombia está atento para ayudarte a asegurar que tus conjuntos de datos
 
 Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, referencias bibliográficas, secuencias genéticas, imágenes, vídeo, sonidos, entre otros, y deseas que hagan parte de la publicación, recuerda estandarizar los datos utilizando las plantillas y los elementos del estándar disponibles en la página web, además de mencionarlo en el correo, el Equipo Coordinador te apoyará en los ajustes de estos datos adicionales o a estructurarlos en caso de ser necesario.
 
-Recuerda que los acompañamientos en el SiB Colombia se atienden en orden de llegada. Los tiempos de respuesta pueden variar dependiendo de la demanda o la complejidad de los datos.
-
-<div class="notification is-warning is-light">El SiB Colombia realiza la validación de calidad en un máximo de 6 semanas hábiles, a partir de la entrega de los datos por parte de la organización. Este periodo puede variar durante el año dependiendo del volumen de solicitudes. Te recomendamos tener  en cuenta estos tiempos para solicitar el proceso de acompañamiento y compartirnos sus datos.</div>
-
+<div class="notification is-warning is-light">Recuerda que los acompañamientos del SiB Colombia se atienden en orden de llegada. La validación de calidad puede tardar hasta 6 semanas hábiles a partir de la entrega de los datos, dependiendo del volumen de solicitudes y la complejidad de los datos. Te recomendamos tener estos tiempos en cuenta al solicitar el acompañamiento.</div>
 
 <details>
     <summary markdown="span"><b> Conoce el modelo de correo electrónico recomendado</b></summary>
