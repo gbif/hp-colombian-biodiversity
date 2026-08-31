@@ -95,9 +95,12 @@ Esto beneficia el proceso de publicación y disminuye las iteraciones de revisi�
 
 El SiB Colombia está atento para ayudarte a asegurar que tus conjuntos de datos cuenten con la mayor calidad posible antes de ser publicados. Para ello, después de finalizar la preparación de tu conjunto de datos y realizar las correcciones de calidad, debes ponerte en contacto con el Equipo Coordinador a través del correo electrónico [sib@humboldt.org.co](https://biodiversidad.co/compartir/guia-para-publicar/) solicitando un acompañamiento para la publicación.
 
-Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, referencias bibliográficas, secuencias genéticas, imágenes, vídeo, sonidos, entre otros, y deseas que hagan parte de la publicación, recuerda estandarizar los datos utilizando las plantillas y los elementos del estándar disponibles en la página web, además de mencionarlo en el correo, el Equipo Coordinador te apoyará en la los ajustes de estos datos adicionales o a estructurarlos en caso de ser necesario.
+Si tu conjunto de datos cuenta con datos relacionados como rasgos funcionales, referencias bibliográficas, secuencias genéticas, imágenes, vídeo, sonidos, entre otros, y deseas que hagan parte de la publicación, recuerda estandarizar los datos utilizando las plantillas y los elementos del estándar disponibles en la página web, además de mencionarlo en el correo, el Equipo Coordinador te apoyará en los ajustes de estos datos adicionales o a estructurarlos en caso de ser necesario.
 
 Recuerda que los acompañamientos en el SiB Colombia se atienden en orden de llegada. Los tiempos de respuesta pueden variar dependiendo de la demanda o la complejidad de los datos.
+
+<div class="notification is-warning is-light">El SiB Colombia realiza la validación de calidad en un máximo de 6 semanas hábiles, a partir de la entrega de los datos por parte de la organización. Este periodo puede variar durante el año dependiendo del volumen de solicitudes. Te recomendamos tener  en cuenta estos tiempos para solicitar el proceso de acompañamiento y compartirnos sus datos.</div>
+
 
 <details>
     <summary markdown="span"><b> Conoce el modelo de correo electrónico recomendado</b></summary>
