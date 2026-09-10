@@ -16,7 +16,7 @@ toc: true
 |           | Nombre Completo    | Email                      | Cargo                                | Organización                      |
 |-----------|---------------------|----------------------------|--------------------------------------|-----------------------------------|
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/gruposdeinteres/images/DiegoLizcano_Foto.jpg"></figure>| Diego Lizcano       | dj.lizcano@gmail.com  | Analista de Datos | WCS                             |
-|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/gruposdeinteres/images/LainPardo.jpeg"></figure>| Laín Pardo      | lepardo@wwf.org.co      | Especialista en Biodiversidad               | WWF |
+|<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/gruposdeinteres/images/LainPardo_Foto.jpeg"></figure>| Laín Pardo      | lepardo@wwf.org.co      | Especialista en Biodiversidad               | WWF |
 |<figure class="image is-128x128"><img class="is-rounded" src="/comunidad/gruposdeinteres/images/AngelicaDiaz_Foto.png"></figure>| Angélica Díaz-Pulido       | adiaz@humboldt.org.co   | Investigadora              | IAvH - Centro Estudios Socioecológicos y Cambio Global |
 
 
