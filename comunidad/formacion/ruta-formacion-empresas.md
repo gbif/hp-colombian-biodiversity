@@ -49,12 +49,14 @@ También, cualquier persona que desee conocer los conceptos generales de la gest
 
 Cursos virtuales autogestionados, basados en videos, lecturas y ejercicios, con al menos una sesión sincrónica de acompañamiento y solución de dificultades.
 
-<!--## Tutores
+<!--
+## Tutores
 
 | <figure class="image is-96x96"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_DairoEscobar.jpg"></figure> | <figure class="image is-96x96"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_JeimmyDiaz.jpg"></figure> | <figure class="image is-96x96"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_CamilaPlata.jpg"></figure> |
 | Dairo Escobar | Jeimmy Díaz | Camila Plata |
 | <figure class="image is-96x96"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_RicardoOrtiz.jpg"></figure> | <figure class="image is-96x96"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_EstebanMarentes.jpg"></figure> |  |
-| Ricardo Ortiz | Esteban Marentes |  |-->
+| Ricardo Ortiz | Esteban Marentes |  |
+-->
 
 ## Certificación
 
@@ -62,7 +64,8 @@ Las personas que completen y aprueben los cursos de la ruta de formación podrá
 
 **Nota**: Cada uno de los cinco cursos otorga su correspondiente certificado al finalizar y aprobar los contenidos.
 
-<!--## Calendario
+<!--
+## Calendario
 
 - **Inscripciones**: 30 de noviembre de 2022 al 31 de enero de 2023
 - **Inicio de actividades**: 6 de febrero de 2023
@@ -70,7 +73,8 @@ Las personas que completen y aprueben los cursos de la ruta de formación podrá
 
 ## Acceso
 
-Los contenidos de los cinco cursos que completan la ruta de formación están disponibles en el nuevo Campus virtual del SiB Colombia, disponible en [**aprende.biodiversidad.co**](https://aprende.biodiversidad.co){:target="_blank"}.-->
+Los contenidos de los cinco cursos que completan la ruta de formación están disponibles en el nuevo Campus virtual del SiB Colombia, disponible en [**aprende.biodiversidad.co**](https://aprende.biodiversidad.co){:target="_blank"}.
+-->
 
 ## Programa
 
