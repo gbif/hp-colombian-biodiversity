@@ -19,29 +19,25 @@ La ruta está compuesta por **cinco cursos enfocados entorno las acciones de pub
 
 El [lanzamiento del programa](https://biodiversidad.co/post/2022/nueva-ruta-formacion-empresarial/){:target="_blank"} tuvo lugar el 30 de noviembre de 2022, contó con la participación de directivos del CNAB, GeoPark y el SiB Colombia, así como representantes de la academia. Durante el evento, el reconocido investigador de la Universidad de los Andes y doctor en Ciencias Biológicas, Juan Armando Sánchez, impartió la **_masterclass_ [“Posibilidades de los datos abiertos para los ecosistemas científicos y enfrentar la crisis climática”](https://youtu.be/8SceS_l9ckk?t=2430){:target="_blank"}**.
 
-
 ## Inscripciones
 
-![Gestión corporativa para la naturaleza](/comunidad/formacion/images/Banner-inicio-actividades.png)
+<!--![Gestión corporativa para la naturaleza](/comunidad/formacion/images/Banner-inicio-actividades.png)-->
 
 **Instrucciones**
 
-- Ingresa a [aprende.biodiversidad.co](https://aprende.biodiversidad.co){:target="_blank"}
-- Haz clic en el enlace "[Regístrate aquí](#none)".
-- Completa el formulario con tus datos.
-- Recibirás las credenciales de acceso al campus virtual a vuelta de correo electrónico, éstas **se habilitarán a partir del 6 de febrero de 2023**.
+- Ingresa al "[formulario de registro](https://forms.gle/yStvWSnta9FQCRuP6){:target="_blank"}" y complétalo con tus datos.
+- Recibirás las credenciales de acceso al campus virtual como respuesta al correo electrónico registrado (esta respuesta puede demorar algunos días). Las credenciales se **habilitarán en el momento en que las recibas**.
+- Ingresa a [aprende.biodiversidad.co](https://aprende.biodiversidad.co){:target="_blank"} e **inicia sesión** con tus credenciales para acceder a los cursos.
 
-**Nota**: recuerda que los cursos inician el 6 de febrero de 2023.
-
+<!--**Nota**: recuerda que los cursos inician el 6 de febrero de 2023.-->
 
 ## Objetivos
 
-Conocer los elementos básicos que le permiten al Sistema de información sobre biodiversidad de Colombia consolidar un modelo de publicación aplicable al sector empresarial. 
+ ✓ Conocer los elementos básicos que le permiten al Sistema de información sobre biodiversidad de Colombia consolidar un modelo de publicación aplicable al sector empresarial. 
 
-Conocer y aplicar el estándar internacional Darwin Core y sus extensiones para estructurar y solucionar problemas de estructuración datos sobre biodiversidad.
+ ✓ Conocer y aplicar el estándar internacional Darwin Core y sus extensiones para estructurar y solucionar problemas de estructuración datos sobre biodiversidad.
 
-Aprender a reportar datos a través del SiB Colombia y reconocer las diferencias con modelos de reporte y publicación.
-
+ ✓ Aprender a reportar datos a través del SiB Colombia y reconocer las diferencias con modelos de reporte y publicación.
 
 ## Dirigido a
 
@@ -49,25 +45,24 @@ Organizaciones del sector productivo y su cadena de valor: proveedores, consulto
 
 También, cualquier persona que desee conocer los conceptos generales de la gestión y la publicación de datos sobre biodiversidad y, además, entender el rol de los sistemas de información en el proceso.
 
-
 ## Metodología
 
 Cursos virtuales autogestionados, basados en videos, lecturas y ejercicios, con al menos una sesión sincrónica de acompañamiento y solución de dificultades.
 
-
-## Tutores
+<!--## Tutores
 
 | <figure class="image is-96x96"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_DairoEscobar.jpg"></figure> | <figure class="image is-96x96"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_JeimmyDiaz.jpg"></figure> | <figure class="image is-96x96"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_CamilaPlata.jpg"></figure> |
 | Dairo Escobar | Jeimmy Díaz | Camila Plata |
 | <figure class="image is-96x96"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_RicardoOrtiz.jpg"></figure> | <figure class="image is-96x96"><img class="is-rounded" src="/acercade/imagenes/equipocoordinador/EC-SiB_EstebanMarentes.jpg"></figure> |  |
-| Ricardo Ortiz | Esteban Marentes |  |
+| Ricardo Ortiz | Esteban Marentes |  |-->
 
 ## Certificación
 
-Las personas que completen y aprueben los cinco cursos, recibirán a vuelta de correo un documento de certificación de conocimientos y participación de la ruta de formación.
+Las personas que completen y aprueben los cursos de la ruta de formación podrán visualizar y descargar un documento de certificación de conocimientos y participación.
 
+**Nota**: Cada uno de los cinco cursos otorga su correspondiente certificado al finalizar y aprobar los contenidos.
 
-## Calendario
+<!--## Calendario
 
 - **Inscripciones**: 30 de noviembre de 2022 al 31 de enero de 2023
 - **Inicio de actividades**: 6 de febrero de 2023
@@ -75,8 +70,7 @@ Las personas que completen y aprueben los cinco cursos, recibirán a vuelta de c
 
 ## Acceso
 
-Los contenidos de los cinco cursos que completan la ruta de formación están disponibles en el nuevo Campus virtual del SiB Colombia, disponible en [**aprende.biodiversidad.co**](https://aprende.biodiversidad.co){:target="_blank"}.
-
+Los contenidos de los cinco cursos que completan la ruta de formación están disponibles en el nuevo Campus virtual del SiB Colombia, disponible en [**aprende.biodiversidad.co**](https://aprende.biodiversidad.co){:target="_blank"}.-->
 
 ## Programa
 
@@ -90,10 +84,6 @@ Los contenidos de los cinco cursos que completan la ruta de formación están di
   **Objetivo**
   
   Conocer los elementos básicos que le permiten al Sistema de información sobre biodiversidad de Colombia consolidar un modelo de publicación aplicable al sector empresarial.
-  
-  **Prerrequisitos**
-  
-  Ninguno.
   
   **Tiempo estimado de dedicación**
   
@@ -119,10 +109,6 @@ Los contenidos de los cinco cursos que completan la ruta de formación están di
   
   Conocer y aplicar el estándar internacional Darwin Core y sus extensiones para estructurar datos sobre biodiversidad.
   
-  **Prerrequisitos**
-  
-  Curso “Empresa y biodiversidad: fundamentos para publicar datos con valor” o ciclos de formación previos del SiB Colombia.
-  
   **Tiempo estimado de dedicación**
   
   4 horas.
@@ -145,10 +131,6 @@ Se profundiza en el conocimiento del estándar internacional Darwin Core, median
   **Objetivo**
   
   Aplicar el estándar internacional Darwin Core y sus extensiones para la estructuración de datos sobre biodiversidad.
-  
-  **Prerrequisitos**
-  
-  Cursos “Empresa y biodiversidad: fundamentos para publicar datos con valor”, “Aprendiendo un nuevo idioma: introducción al estándar Darwin Core” o ciclos de formación previos del SiB Colombia.
   
   **Tiempo estimado de dedicación**
   
@@ -175,10 +157,6 @@ Las bases de datos geográficas (GDB) combinan información del medio abiótico,
   
   Solucionar problemas de estructuración de datos sobre biodiversidad aplicando el estándar internacional Darwin Core y sus extensiones.
   
-  **Prerrequisitos**
-  
-  Cursos “Empresa y biodiversidad: fundamentos para publicar datos con valor”, “Aprendiendo un nuevo idioma: introducción al estándar Darwin Core”, “Manos a la obra: cómo usar el estándar Darwin Core” o ciclos de formación previos del SiB Colombia.
-  
   **Tiempo estimado de dedicación**
   
   5-6 horas.
@@ -203,10 +181,6 @@ Las bases de datos geográficas (GDB) combinan información del medio abiótico,
   
   Realizar, de manera autónoma, el proceso de reporte de datos a través del SiB Colombia y reconocer las diferencias con el modelo de publicación.
   
-  **Prerrequisitos**
-  
-  Cursos “Empresa y biodiversidad: fundamentos para publicar datos con valor”, “Aprendiendo un nuevo idioma: introducción al estándar Darwin Core”, “Manos a la obra: cómo usar el estándar Darwin Core” o ciclos de formación previos del SiB Colombia.
-  
   **Tiempo estimado de dedicación**
   
   4-5 horas.
@@ -226,19 +200,15 @@ Las bases de datos geográficas (GDB) combinan información del medio abiótico,
 
 **¿Cualquier persona se puede inscribir?**
   
-  Sí. Aunque el programa está dirigido a personas involucradas, de manera directa o indirecta, en el manejo, la gestión, o la recolección de datos sobre biodiversidad en relación con el sector empresarial; también lo puede tomar cualquier persona que desee conocer los conceptos generales de la gestión y la publicación de datos sobre biodiversidad y, además, entender el rol de los sistemas de información en el proceso.
+  Sí. Aunque la ruta de formación está dirigida a personas involucradas, de manera directa o indirecta, en el manejo, la gestión, o la recolección de datos sobre biodiversidad en relación con el sector empresarial; también lo puede tomar cualquier persona que desee conocer los conceptos generales de la gestión y la publicación de datos sobre biodiversidad y, además, entender el rol de los sistemas de información en el proceso.
   
 **¿Es gratis?**
   
-  Sí. El programa no tiene ningún costo. Es virtual autogestionado, lo que requerirá inversión de tiempo y un equipo de cómputo con conexión a internet.
+  Sí. Los cursos no tiene ningún costo. Es virtual autogestionado, lo que requerirá inversión de tiempo y un equipo de cómputo con conexión a internet.
   
-**¿Cuándo inicia?**
+**¿Puedo inscribirme en cualquier momento y desarrollar los cursos a mi ritmo?**
   
-  El 6 de febrero de 2023.
-  
-**¿Si me inscribo puedo iniciar en otra fecha después del 6 de febrero?**
-  
-  Sí. Al ser virtual autogestionado, los inscritos podrán tomar las lecciones de acuerdo al tiempo que dispongan para ello. Es importante anotar que algunos de los cursos tendrán sesiones sincrónicas de acompañamiento y resolución de dudas.
+  Sí, las inscripciones están abiertas de manera permanemte. Además, al ser cursos virtuales autogestionados, los inscritos podrán tomar las lecciones de acuerdo al tiempo que dispongan para ello.
   
 **¿Debo tomar todos los cinco cursos?**
   
@@ -250,9 +220,9 @@ Las bases de datos geográficas (GDB) combinan información del medio abiótico,
   
 **¿Al finalizar los cursos puedo obtener una certificación?**
   
-  Sí. La certificación de conocimientos y participación se enviará vía correo electrónico.
+  Sí. Los usuarios podrán acceder a la certificación de conocimientos y participación al finalizar cada curso.
   
 **¿Puedo manejar mis horarios para tomar los cursos en mi tiempo libre?**
   
-  Sí. Todo el programa es virtual autogestionado, cada persona decide el mejor momento para tomar las lecciones. Es importante anotar que algunos de los cursos tendrán sesiones sincrónicas de acompañamiento y resolución de dudas.
+  Sí. Todo el programa es virtual autogestionado, cada persona decide el mejor momento para tomar las lecciones.
   
