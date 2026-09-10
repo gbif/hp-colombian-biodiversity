@@ -59,5 +59,6 @@ Los grupos de trabajo se formarán de acuerdo con las características y necesid
 
 [Monitoreo de poblaciones](/comunidad/grupos-de-interes/monitoreo-de-biodiversidad/monitoreo-de-poblaciones){: .button .is-primary}
 [Monitoreo participativo](/comunidad/grupos-de-interes/monitoreo-de-biodiversidad/monitoreo-participativo){: .button .is-primary}
+[Fototrampeo](/comunidad/grupos-de-interes/monitoreo-de-biodiversidad/fototrampeo){: .button .is-primary}
 
 | Conoce los demás  [Grupos de interés](/comunidad/grupos/participar-grupos-de-interes){: .button} |
