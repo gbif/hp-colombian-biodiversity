@@ -176,7 +176,7 @@ A su izquierda aparecerá la ventana con el nombre de la columna y el facet que 
 <sup>_Figura 9. Vista del <span class="tag is-warning is-light"><i>Text facet</i></span> y las diferentes formas de documentación del elemento <span class="tag is-success is-light"><i>individualCount</i></span>._</sup>
 
 Aunque parece que los datos no tienen errores, este procedimiento evidencia que el programa ha detectado espacios extra. Por tal motivo, el _facet_ muestra cuatro opciones diferentes para el valor **"1"**.
-Corrija las inconsistencias desde el menú de la columna <span class="tag is-success is-light"><i>individualCount</i></span>, siguiendo la ruta <span class="tag is-warning is-light><b><i>Edit Cells > Common transforms > Trim leading and trailing whitespace</i></b></span>. Posteriormente, verá un mensaje de notificación que indicará en cuántas celdas se eliminaron espacios (Fig. 10).
+Corrija las inconsistencias desde el menú de la columna <span class="tag is-success is-light"><i>individualCount</i></span>, siguiendo la ruta <span class="tag is-warning is-light"><b><i>Edit Cells > Common transforms > Trim leading and trailing whitespace</i></b></span>. Posteriormente, verá un mensaje de notificación que indicará en cuántas celdas se eliminaron espacios (Fig. 10).
 
 ![Figura 10. Transformación de la columna para eliminar dobles espacios y espacios al final del texto](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_OpenRefine/Fig10_OR_trimSpaces.png)
 
