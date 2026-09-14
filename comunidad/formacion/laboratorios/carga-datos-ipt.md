@@ -70,8 +70,8 @@ Al finalizar, guardar los cambios para conservar las modificaciones que se reali
 
 Ingresar a la herramienta de publicación [IPT de pruebas](https://ipt.biodiversidad.co/sib-test/){:target="_blank"}. En la parte superior derecha, hacer clic en <span class="tag is-warning is-light"><i>Iniciar Sesión</i></span> y diligenciar las siguientes credenciales (Fig. 2):
 
-- **Usuario**: <span class="tag is-light"><b>laboratorio_formacion@gmail.com</b></span>
-- **Contraseña**: <span class="tag is-light"><b>S64i6E8SD</b></span>
+- **Usuario**: <span class="tag is-light"><b>Laboratorios_SiB@gmail.com</b></span>
+- **Contraseña**: <span class="tag is-light"><b>FxKVSjOg</b></span>
 
 ![Figura 2. Inicio de sesión en el IPT test (Ambiente de pruebas) con las credenciales proporcionadas para el desarrollo de la guía.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig2_C5Carga_Ingresar.png)
 <sup>_Figura 2. Inicio de sesión en el IPT test (Ambiente de pruebas) con las credenciales proporcionadas para el desarrollo de la guía._</sup>
@@ -82,12 +82,12 @@ Ingresar a la herramienta de publicación [IPT de pruebas](https://ipt.biodivers
 
 ### 2.2. Creación del recurso en el IPT
 
-Una vez dentro del IPT, seleccionar la opción <span class="tag is-warning is-light"><i>Gestión de recursos en el menú</i></span>. Aquí aparecerán dos secciones: una tabla con todos los conjuntos de datos que se pueden administrar con el usuario (Fig. 3A) y un formulario para crear nuevos recursos (Fig. 3B).
+Una vez dentro del IPT, seleccionar la opción <span class="tag is-warning is-light"><i>Gestión de recursos</i></span>. Aquí aparecerán dos secciones: una parte con la opción <span class="tag is-warning is-light"><i>Crear nuevo</i></span> (Fig. 3A) y una tabla con todos los conjuntos de datos que se pueden administrar con el usuario (Fig. 3B).
 
 ![Figura 3. Detalle de la vista de Gestión de recursos dentro del IPT.](https://raw.githubusercontent.com/gbif/hp-colombian-biodiversity/master/comunidad/formacion/laboratorios/Repositorio_Imagenes/Lab_carga-datos-ipt/Fig3_C5Carga_Gestion.png)
-<sup>_Figura 3. Detalle de la vista de Gestión de recursos dentro del IPT: A. Sección que lista los recursos que pueden ser administrados por el usuario. B. Sección para la creación de un nuevo recurso._</sup>
+<sup>_Figura 3. Detalle de la vista de Gestión de recursos dentro del IPT: A. Sección para la creación de un nuevo recurso. B. Sección que lista los recursos que pueden ser administrados por el usuario._</sup>
 
-Posteriormente, ir a <span class="tag is-warning is-light"><i>Crear nuevo recurso</i></span> y documentar las opciones con base en estos parámetros:
+Posteriormente, para crear un recurso, ir a <span class="tag is-warning is-light"><i>Crear nuevo</i></span> y documentar las opciones con base en estos parámetros:
 
 - **Nombre corto**: asignar el nombre corto del nuevo recurso, el cual será parte de la URL del mismo dentro del IPT (Fig. 4). Para ello, escribir el nombre corto <span class="tag is-light"><b>abc_monitoreo-albania</b></span> antecedido de su nombre y apellido, así:
 <span class="tag is-light"><b>[Nombre]-[Apellido]abc_monitoreo-albania</b></span> (Fig. 4).
@@ -121,13 +121,13 @@ Se abordará el proceso de carga de datos a partir de las plantillas de publicac
 
 ### 3.1 Carga de la plantilla de registros en el IPT 
 
-En la vista general del recurso de la sección “**Conjunto de Datos**”, se encuentran las opciones para la carga de los datos en una lista desplegable:
+En la vista general del recurso en la sección “**Conjunto de Datos**”, se encuentra la opción <span class="tag is-warning is-light"><i>Agregar</i></span>, al darle clic se abrirá una ventana emergente con las siguientes opciones:
 
-- <span class="tag is-warning is-light"><i>Base de datos</i></span>: conecta una base de datos directamente al IPT. Esta opción requiere un mayor conocimiento técnico. Para conectar una base de datos, se debe consultar la información del [manual del IPT](https://ipt.gbif.org/manual/es/ipt/2.5/manage-resources#base-de-datos-como-conjunto-de-datos){:target="_blank"}.
 - <span class="tag is-warning is-light"><i>Archivo</i></span>: subir un archivo directamente desde el ordenador. Esta es la opción más frecuente para la carga de datos.
 - <span class="tag is-warning is-light"><i>URL</i></span>: llamar los datos de texto directamente desde una URL. Para conectar los datos desde una URL, se debe consultar la información en el [manual del IPT](https://ipt.gbif.org/manual/es/ipt/2.5/manage-resources#url-como-conjunto-de-datos){:target="_blank"}.
+- <span class="tag is-warning is-light"><i>SQL</i></span>: conecta una base de datos directamente al IPT. Esta opción requiere un mayor conocimiento técnico. Para conectar una base de datos, se debe consultar la información del [manual del IPT](https://ipt.gbif.org/manual/es/ipt/2.5/manage-resources#base-de-datos-como-conjunto-de-datos){:target="_blank"}.
 
-Seleccionar la opción <span class="tag is-warning is-light"><i>Archivo</i></span> (Fig. 6) y hacer clic en <span class="tag is-warning is-light"><i>Examinar</i></span> para seleccionar el archivo a cargar (Fig. 6). En la nueva ventana, elegir la plantilla que se editó en el paso 1 <FONT FACE="monospace"><b>«Datos_estandarizados_Excel.xlsx»</b></FONT> y hacer clic en <span class="tag is-warning is-light"><i>Abrir</i></span>.
+Seleccionar la opción <span class="tag is-warning is-light"><i>Archivo</i></span> (Fig. 6) y hacer clic en <span class="tag is-warning is-light"><i>Seleccionar archivos</i></span> para elegir el archivo a cargar (Fig. 6). En la nueva ventana, elegir la plantilla que se editó en el paso 1 <FONT FACE="monospace"><b>«Datos_estandarizados_Excel.xlsx»</b></FONT> y hacer clic en <span class="tag is-warning is-light"><i>Cargar</i></span>.
 
 Para completar el proceso de carga, hacer clic en el botón <span class="tag is-warning is-light"><i>Agregar</i></span> que aparece al seleccionar el archivo (Fig. 6).
 
