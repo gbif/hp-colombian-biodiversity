@@ -16,6 +16,8 @@ En los últimos 20 años, los métodos moleculares han demostrado un enorme pote
 La aplicación de métodos moleculares no se limita a los organismos invisibles; también son útiles para especies que se pueden observar, como algunos peces; sin embargo, registrarlos con métodos tradicionales puede ser costoso, invasivo y demandante. El ADN ambiental permite detectarlos de forma no invasiva y con menor esfuerzo<sup>2</sup>.
 Los datos de ADN permiten registrar la presencia —incluso pasada— de organismos, sin necesidad de contar siempre con muestras físicas. Su publicación bajo licencias de acceso abierto permite realizar estudios sobre organismos, que sean visibles o no, aportan información clave sobre la biodiversidad y sus posibilidades de conservación.
 
+![Arbol de decisión](/assets/images/noticias_eventos/2026/cover-temporal-adn-vladimir.jpg "image_tooltip")
+
 ## Categorías de datos
 
 Los datos de ADN pueden organizarse en cinco categorías principales de acuerdo a la guía de publicación de datos derivados de ADN, publicada por GBIF. Para definir en qué categoría se ubican tus datos, utiliza el siguiente **árbol de decisión** que guía el proceso:
