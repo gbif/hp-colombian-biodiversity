@@ -11,11 +11,13 @@ toc: true
 
 # Postúlate para hacer tu pasantía o práctica laboral con el SiB Colombia
 
-El 2 de mayo lanzamos la **convocatoria para postulaciones a pasantías o prácticas laborales con el SiB Colombia durante el segundo semestre de 2025**. Esta es una oportunidad para que profesionales en formación, de diferentes áreas del conocimiento, hagan parte de un equipo de trabajo que les permitirá experimentar retos que encontrarán en su vida laboral, en un ambiente seguro, orientado al aprendizaje y la retroalimentación constructiva.
+<!--El 2 de mayo lanzamos la **convocatoria para postulaciones a pasantías o prácticas laborales con el SiB Colombia durante el segundo semestre de 2025**. Esta es una oportunidad para que profesionales en formación, de diferentes áreas del conocimiento, hagan parte de un equipo de trabajo que les permitirá experimentar retos que encontrarán en su vida laboral, en un ambiente seguro, orientado al aprendizaje y la retroalimentación constructiva.-->
 
-| Las pasantías se desarrollarán en **modalidad virtual con eventuales sesiones de trabajo presenciales en la ciudad de Bogotá**. Estudiantes de pregrado de todo el país y todas las universidades pueden aplicar. |
+El **programa de pasantías del SiB Colombia** es una oportunidad para que profesionales en formación, de diferentes áreas del conocimiento, hagan parte de un equipo de trabajo que les permitirá experimentar retos que encontrarán en su vida laboral, en un ambiente seguro, orientado al aprendizaje y la retroalimentación constructiva.
 
-## Calendario de la convocatoria 2025-2
+| Las pasantías se desarrollan en **modalidad virtual con eventuales sesiones de trabajo presenciales en la ciudad de Bogotá**. Estudiantes de pregrado de todo el país y todas las universidades pueden aplicar. |
+
+<!--## Calendario de la convocatoria 2025-2
 La recepción de postulaciones estará **abierta hasta el 20 de mayo del 2025**. El inicio de la pasantía será en julio de 2025, con finalización en diciembre del mismo año.
 
 | **Etapa** | **Fecha** |
@@ -25,6 +27,7 @@ La recepción de postulaciones estará **abierta hasta el 20 de mayo del 2025**.
 | Prueba técnica | del 24 al 26 de mayo |
 | Invitación a entrevista | del 3 al 6 de junio |
 | Ejecución de la pasantía | julio a diciembre |
+-->
 
 ### Etapas del proceso de selección
 
@@ -35,7 +38,7 @@ La recepción de postulaciones estará **abierta hasta el 20 de mayo del 2025**.
 - **Entrevista**: Los candidatos que obtengan los puntajes más altos de la prueba técnica serán convocados a una entrevista para definir el candidato que será vinculado como pasante. El resultado se informa una semana después de realizada.
 La vinculación como pasante se logra mediante los méritos y los resultados obtenidos en la prueba técnica y demás etapas del proceso.
 
-## Cupos y perfiles disponibles
+<!--## Cupos y perfiles disponibles
 
 Para la presente convocatoria 2025-2, se han abierto tres (3) vacantes. Los dos (2) perfiles que buscamos para el área de **Administración de Contenidos** son ideales para estudiantes de biología, ecología, ingeniería ambiental, ingeniería forestal y afines. El perfil para el área de **Productos y Servicios** es ideal para estudiantes de comunicación social, periodismo, producción audiovisual o diseño gráfico.
 Los detalles de los perfiles se pueden consultar a continuación:
@@ -108,13 +111,17 @@ ___
 </details>
 
 ___
+-->
 
-[Postúlate a la pasantía](https://docs.google.com/forms/d/e/1FAIpQLSeR1667Dx0UxEb9S-ZoxOLLdJL3YTHTzlf6fDekrFY3JnO9RA/viewform?usp=sharing){:target="_blank"  .button .is-primary}
+<!--[Postúlate a la pasantía](https://docs.google.com/forms/d/e/1FAIpQLSeR1667Dx0UxEb9S-ZoxOLLdJL3YTHTzlf6fDekrFY3JnO9RA/viewform?usp=sharing){:target="_blank"  .button .is-primary}
 
 **Recursos útiles para aplicar**:
 
 * [Recomendaciones para elaborar de una hoja de vida](https://leo.uniandes.edu.co/hoja-de-vida/){:target="_blank"}
 * [Recomendaciones para escribir una carta de intención](https://leo.uniandes.edu.co/cartas-de-presentacion-y-motivacion/){:target="_blank"}
+-->
 
-¿Dudas o preguntas sobre la convocatoria? Escribe a [sib@humboldt.org.co](mailto:sib@humboldt.org.co?subject=Pasantías 2025-2){:target="_blank"} con el asunto: “Pasantías 2025-2”.
+| Actualmente, la cohorte de **pasantías 2026-II** se encuentra **en curso** y **no** tenemos convocatorias activas. Te invitamos a revisar constantemente esta página y nuestras **redes sociales** para enterarte de los próximos lanzamientos. |
+
+¿Dudas o preguntas sobre las convocatorias? Escribe a [sib@humboldt.org.co](mailto:sib@humboldt.org.co?subject=Pasantías 2026-2){:target="_blank"} con el asunto: “Pasantías 2026-2”.
 
