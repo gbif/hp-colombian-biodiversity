@@ -38,13 +38,13 @@ El grupo de trabajo en fototrampeo surge como articulador de la red colombiana d
 <br>
 ✓ Miembros de los grupos de monitoreo comunitario que apoyan las corporaciones regionales
 <br>
-✓ Personas o iniciativas con experiencia en toma de datos de fototrampeo.
+✓ Personas o iniciativas con experiencia en toma de datos de fototrampeo
 
 # Estrategia y metodología
 
-- Lanzar la convocatoria de nuevos participantes para el grupo de trabajo.
-- Uso de formatos de Google para enviar encuestas y capturar datos relacionados.
-- Planeación y gestión de eventos como el congreso colombiano de mastozoología, el simposio de fototrampeo y, eventualmente, los cursos de fototrampeo que se organizan desde la Red Colombiana de Fototrampeo y la Sociedad Colombiana de Mastozoología. 
+- Lanzamiento de la convocatoria de nuevos participantes para el grupo de trabajo
+- Uso de formatos de Google para enviar encuestas y capturar datos relacionados
+- Planeación y gestión de eventos como el congreso colombiano de mastozoología, el simposio de fototrampeo y, eventualmente, los cursos de fototrampeo que se organizan desde la Red Colombiana de Fototrampeo y la Sociedad Colombiana de Mastozoología
 
 **Enlaces de interés**:
 
