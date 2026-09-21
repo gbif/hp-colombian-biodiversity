@@ -149,7 +149,7 @@ ___
 <ol>
   <li>Elaborar la propuesta siguiendo la plantilla <strong><a href="http://docs.google.com/document/d/1MDZMQMUZHoRDzZl-VYJB1woqEERo5Q1lpvF6PYhZWDY/edit" target="_blank">Propuesta de intención grupo de trabajo</a></strong>.</li>
   <li>Enviar la propuesta al EC-SiB a través del correo <strong><a href="mailto:sib@humboldt.org.co" target="_blank">sib@humboldt.org.co</a></strong>.</li>
-  <li>El EC-SiB se contactará para acompañar el proceso.</li>.
+  <li>El EC-SiB se contactará para acompañar el proceso.</li>
 </ol>
     <strong>Criterios de revisión</strong><br>
      <br>
