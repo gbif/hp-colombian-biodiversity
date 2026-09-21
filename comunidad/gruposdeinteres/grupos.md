@@ -141,7 +141,7 @@ ___
 
 ___
 
-<details id="como-crear-un-gt-sib">
+<details>
     <summary markdown="span"><b>¿Cómo crear un GT-SiB?</b></summary>
 <br>
 
@@ -149,9 +149,9 @@ ___
 <ol>
   <li>Elaborar la propuesta siguiendo la plantilla <strong><a href="http://docs.google.com/document/d/1MDZMQMUZHoRDzZl-VYJB1woqEERo5Q1lpvF6PYhZWDY/edit" target="_blank">Propuesta de intención grupo de trabajo</a></strong>.</li>
   <li>Enviar la propuesta al EC-SiB a través del correo <strong><a href="mailto:sib@humboldt.org.co" target="_blank">sib@humboldt.org.co</a></strong>.</li>
-  <li>El EC-SiB se contactará para acompañar el proceso.
+  <li>El EC-SiB se contactará para acompañar el proceso</li>.
+</ol>
 <br>
-     <br>
     <strong>Criterios de revisión</strong><br>
      <br>
     <p>El <strong>Equipo coordinador (EC-SiB)</strong> evaluarán la propuesta con base en los siguientes criterios:</p>
@@ -163,17 +163,20 @@ ___
       <p>- <strong>Factibilidad</strong> dentro del periodo de 12-24 meses.</p>
       <p>- <strong>Valor agregado</strong> en relación con otros esfuerzos de la comunidad.</p>
     </blockquote>
-    <strong>Evaluación</strong><br>
+    <strong>Evaluación</strong>
+    <br>
     <blockquote>
       <p>- El EC-SiB revisará la propuesta en un periodo de <strong>al menos cuatro semanas</strong> y compartirá sus comentarios con los co-líderes.</p>
       <p>- Si hay comentarios significativos, se espera que el grupo de trabajo envíe nuevamente la propuesta ajustada a partir de los comentarios de la revisión.</p>
       <p>- Una vez aprobada la propuesta, el EC-SiB se pondrá en contacto con los líderes del grupo para coordinar el inicio de actividades.</p>
+     </blockquote>
 
 </details>
 
+
 ___
 
-<details id="como-unirse-a-un-gt-sib">
+<details>
     <summary markdown="span"><b>¿Cómo unirse a un GT-SiB?</b></summary>
 <br>
 
