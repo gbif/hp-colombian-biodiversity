@@ -28,7 +28,7 @@ composition:
   - type: stats
     data: home.stats
   - type: markdown
-    data: home.bannerDatatonAmazonia
+    data: home.bannerActualizacionDatos
   - type: features
     data: home.noticias
   - type: split
