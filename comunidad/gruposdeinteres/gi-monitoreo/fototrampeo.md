@@ -11,7 +11,7 @@ toc: true
 ---
 
 
-## Co-líderes
+# Co-líderes
 
 |           | Nombre Completo    | Email                      | Cargo                                | Organización                      |
 |-----------|---------------------|----------------------------|--------------------------------------|-----------------------------------|
@@ -52,7 +52,7 @@ El grupo de trabajo en fototrampeo surge como articulador de la red colombiana d
 * [Camtrap DP](https://camtrap-dp.tdwg.org/){:target="_blank"}
 * [Guía de GBIF para la gestión y publicación de datos de cámatas trampa](https://docs.gbif-test.org/camera-trap-guide/en/best-practices-for-managing-and-publishing-camera-trap-data.en.pdf){:target="_blank"}
 * [Wildlife Insights](https://www.wildlifeinsights.org/){:target="_blank"}
-* [Phoroextractor](https://dlizcano.github.io/photoextractor/){:target="_blank"}
+* [Photoextractor](https://dlizcano.github.io/photoextractor/){:target="_blank"}
 <br>
 
 | Conoce más sobre los [Grupos de interés y trabajo](/comunidad/grupos-de-interes/grupos){: .button .is-primary} |
