@@ -60,6 +60,11 @@ bannerDatatonAmazonia:
   markdownContent: | 
       [![Datatón Amazonía](/assets/images/dataton-amazonia/banner-home-dataton-amazonia-final.png)](dataton-amazonia){:target="_blank"}
 
+# Banner Actualización de datos
+bannerActualizacionDatos:
+  markdownContent: | 
+      [![Actualización de datos](/assets/images/Banner_actualizacion_datos.png)](https://forms.gle/e5xoM6mBteUhsAP98){:target="_blank"}
+
 # Banner problemas técnicos IPT
 bannerProblemasTecnicos:
   markdownContent: | 
