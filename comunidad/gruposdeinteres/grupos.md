@@ -154,7 +154,7 @@ ___
      <br>
     <strong>Criterios de revisión</strong><br>
      <br>
-    <p>El <strong>Equipo coordinador (EC-SiB)</strong> y el <strong>Comité técnico (CT-SiB)</strong> evaluarán la propuesta con base en los siguientes criterios:</p>
+    <p>El <strong>Equipo coordinador (EC-SiB)</strong> evaluarán la propuesta con base en los siguientes criterios:</p>
     <blockquote>
       <p>- Alineación con la <strong>visión y misión</strong> del SiB Colombia.</p>
       <p>- Participación de <strong>2 a 4 co-líderes</strong> responsables.</p>
@@ -165,16 +165,8 @@ ___
     </blockquote>
     <strong>Evaluación</strong><br>
     <blockquote>
-      <p>- El CT-SiB revisa la propuesta en un periodo de <strong>al menos cuatro semanas</strong>.</p>
-      <p>- Si hay comentarios significativos, se espera que el grupo de trabajo envíe nuevamente la propuesta ajustada, basado en los comentarios hechos durante la revisión.</p>
-    </blockquote>
-    <strong>Decisión final del CT-SiB</strong><br>
-    <blockquote>
-      <p>- <strong>Reconocido y respaldado</strong>: El grupo es aprobado y puede iniciar actividades.</p>
-      <p>- <strong>Reconocido con ajustes</strong>: Se solicita modificar algunos aspectos antes de la aprobación final.</p>
-      <p>- <strong>Pertinente pero no respaldado actualmente</strong>: La propuesta necesita madurar antes de su aprobación.</p>
-      <p>- <strong>No respaldado</strong>: La idea no se ajusta a los criterios del SiB Colombia.</p>
-    </blockquote>
+      <p>- El EC-SiB revisará la propuesta en un periodo de <strong>al menos cuatro semanas</strong> y compartirá sus comentarios con los colíderes.</p>
+      <p>- Si hay comentarios significativos, se espera que el grupo de trabajo envíe nuevamente la propuesta ajustada con base en los comentarios de la revisión.</p>
   </li>
 </ol>
 <p>Una vez aprobada la propuesta, el EC-SiB se pondrá en contacto con los líderes del grupo para coordinar el inicio de actividades.</p>
@@ -184,10 +176,10 @@ ___
 ___
 
 <details>
-    <summary markdown="span"><b>¿Cómo unirse a un GI-SiB?</b></summary>
+    <summary markdown="span"><b>¿Cómo unirse a un GT-SiB?</b></summary>
 <br>
 
-Puedes consultar la lista de GT-SIB activos y algunas ideas de nuevos grupos. Para unirte, contacta directamente a uno de los líderes en la página del grupo.
+Puedes consultar la lista de GT-SIB activos y algunas ideas de nuevos grupos. Para unirte, revisa la página del CT y contacta directamente a uno de los co-líderes.
 
 </details>
 
