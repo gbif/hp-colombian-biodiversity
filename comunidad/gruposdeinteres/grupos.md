@@ -151,8 +151,8 @@ ___
   <li>Enviar la propuesta al EC-SiB a través del correo <strong><a href="mailto:sib@humboldt.org.co" target="_blank">sib@humboldt.org.co</a></strong>.</li>
   <li>El EC-SiB se contactará para acompañar el proceso.</li>
 </ol>
+ <br>
     <strong>Criterios de revisión</strong><br>
-     <br>
     <p>El <strong>Equipo coordinador (EC-SiB)</strong> evaluarán la propuesta con base en los siguientes criterios:</p>
     <blockquote>
       <p>- Alineación con la <strong>visión y misión</strong> del SiB Colombia.</p>
