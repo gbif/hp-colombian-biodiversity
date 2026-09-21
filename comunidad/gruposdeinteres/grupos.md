@@ -152,7 +152,8 @@ ___
   <li>El EC-SiB se contactará para acompañar el proceso.</li>
 </ol>
  <br>
-    <strong>Criterios de revisión</strong><br>
+    <strong>Criterios de revisión</strong>
+    <br>
     <p>El <strong>Equipo coordinador (EC-SiB)</strong> evaluarán la propuesta con base en los siguientes criterios:</p>
     <blockquote>
       <p>- Alineación con la <strong>visión y misión</strong> del SiB Colombia</p>
