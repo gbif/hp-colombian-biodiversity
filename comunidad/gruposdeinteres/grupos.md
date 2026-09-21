@@ -173,11 +173,11 @@ ___
 
 ___
 
-<details>
+<details id="como-unirse-a-un-gt-sib">
     <summary markdown="span"><b>¿Cómo unirse a un GT-SiB?</b></summary>
 <br>
 
-Puedes consultar la lista de GT-SIB activos y algunas ideas de nuevos grupos. Para unirte, revisa la página del CT y contacta directamente a uno de los co-líderes.
+Puedes consultar la lista de GT-SIB activos y algunas ideas de nuevos grupos. Para unirte, revisa la página del CT y contacta directamente a uno de los <strong>co-líderes</strong>.
 
 </details>
 
