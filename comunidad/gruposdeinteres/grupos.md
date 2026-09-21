@@ -166,7 +166,7 @@ ___
     <strong>Evaluación</strong><br>
     <blockquote>
       <p>- El EC-SiB revisará la propuesta en un periodo de <strong>al menos cuatro semanas</strong> y compartirá sus comentarios con los co-líderes.</p>
-      <p>- Si hay comentarios significativos, se espera que el grupo de trabajo envíe nuevamente la propuesta ajustada con base en los comentarios de la revisión.
+      <p>- Si hay comentarios significativos, se espera que el grupo de trabajo envíe nuevamente la propuesta ajustada a partir de los comentarios de la revisión.</p>
       <p>- Una vez aprobada la propuesta, el EC-SiB se pondrá en contacto con los líderes del grupo para coordinar el inicio de actividades.</p>
 
 </details>
