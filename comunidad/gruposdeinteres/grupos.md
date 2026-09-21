@@ -155,12 +155,12 @@ ___
     <strong>Criterios de revisión</strong><br>
     <p>El <strong>Equipo coordinador (EC-SiB)</strong> evaluarán la propuesta con base en los siguientes criterios:</p>
     <blockquote>
-      <p>- Alineación con la <strong>visión y misión</strong> del SiB Colombia.</p>
-      <p>- Participación de <strong>2 a 4 co-líderes</strong> responsables.</p>
-      <p>- Resultados <strong>concretos y medibles</strong>.</p>
-      <p>- <strong>Impacto en la publicación</strong>, acceso o uso de datos sobre biodiversidad.</p>
-      <p>- <strong>Factibilidad</strong> dentro del periodo de 12-24 meses.</p>
-      <p>- <strong>Valor agregado</strong> en relación con otros esfuerzos de la comunidad.</p>
+      <p>- Alineación con la <strong>visión y misión</strong> del SiB Colombia</p>
+      <p>- Participación de <strong>2 a 4 co-líderes</strong> responsables</p>
+      <p>- Resultados <strong>concretos y medibles</strong></p>
+      <p>- <strong>Impacto en la publicación</strong>, acceso o uso de datos sobre biodiversidad</p>
+      <p>- <strong>Factibilidad</strong> dentro del periodo de 12-24 meses</p>
+      <p>- <strong>Valor agregado</strong> en relación con otros esfuerzos de la comunidad</p>
     </blockquote>
     <strong>Evaluación</strong>
     <br>
