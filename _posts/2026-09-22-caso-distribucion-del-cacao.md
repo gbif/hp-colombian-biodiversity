@@ -54,12 +54,14 @@ El valor de los datos abiertos está precisamente en esta posibilidad de **compa
 
 | Agradecemos especialmente a los profesores Matheus Colli-Silva y James Edward Richardson por su tiempo y disposición para documentar y visibilizar este caso. |
 
-**Perfil de autores**
+Escrito por: **David González**
 
-1. *Matheus Colli-Silva · *Miembro de la facultad en la Universidade Federal de Pernambuco, Recife, Brasil · Royal Botanic Gardens, Kew, Richmond, Surrey, Reino Unido;
-2. *James Edward Richardson  ·* University College Cork, Cork, Irlanda * · *Sección de Diversidad Tropical, Royal Botanic Garden Edinburgh, Edimburgo, Reino Unido;
-3. *Antonio Figueira · *Centro de Energía Nuclear en la Agricultura, Universidade de São Paulo, Piracicaba, Brasil.
-4. *José Rubens Pirani · *Departamento de Botánica, Instituto de Biociencias, Universidade de São Paulo, São Paulo, Brasil.
+**Perfil de autores del artículo base**
+
+1. **Matheus Colli-Silva** · Miembro de la facultad en la Universidade Federal de Pernambuco, Recife, Brasil · Royal Botanic Gardens, Kew, Richmond, Surrey, Reino Unido;
+2. **James Edward Richardson**  · University College Cork, Cork, Irlanda * · *Sección de Diversidad Tropical, Royal Botanic Garden Edinburgh, Edimburgo, Reino Unido;
+3. **Antonio Figueira** · Centro de Energía Nuclear en la Agricultura, Universidade de São Paulo, Piracicaba, Brasil.
+4. **José Rubens Pirani** · Departamento de Botánica, Instituto de Biociencias, Universidade de São Paulo, São Paulo, Brasil.
 
 ## Referencias
 
