@@ -13,6 +13,9 @@ background: /assets/images/noticias_eventos/2026/2026-09-22-portada-caso-distrib
 
 | Este caso hace parte de una serie que muestra el valor de compartir y usar datos abiertos e información sobre biodiversidad a través de redes como el SiB Colombia y GBIF. |
 
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/pxITMXo9Jmw?si=lRRPkRvvujcK3sjO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+
 Para muchos, cuando nos hablan de cacao, pensamos inmediatamente en una taza de chocolate caliente. O tal vez en una barra de chocolate 🍫. Pero estos, y otros muchos productos derivados del cacao, no llegan por arte de magia a los supermercados, tiendas o a la misma mesa. Vienen de una planta nativa de nuestro continente americano. Pero, ¿de qué parte es realmente nativa esta planta que nos ha dado tanta alegría a través del chocolate? ¿Cuál ha sido su historia y cómo fue que pasó a ser parte tan intrínseca de nuestra cultura?
 
 La distribución de una especie no siempre es resultado de procesos naturales. En el caso del cacao (*Theobroma cacao*), su presencia actual podría guardar las huellas de su particular origen y expansión por América y el planeta, en una larga historia de interacción con diversas comunidades humanas.
@@ -49,7 +52,7 @@ El valor de los datos abiertos está precisamente en esta posibilidad de **compa
 
 **El recorrido de estos datos —desde un espécimen preservado hasta un registro abierto y, posteriormente, hasta una investigación científica— muestra el valor de compartir información sobre biodiversidad.** A través del **SiB Colombia y GBIF**, estos datos pueden trascender el contexto en el que fueron generados y contribuir a nuevas investigaciones, procesos educativos, de conservación o toma de decisiones que fortalezcan la gobernanza y la promoción de políticas públicas en torno a nuestra de la biodiversidad de la que hacemos parte.
 
-*| Agradecemos especialmente a los profesores Matheus Colli-Silva y James Edward Richardson por su tiempo y disposición para documentar y visibilizar este caso. |*
+| Agradecemos especialmente a los profesores Matheus Colli-Silva y James Edward Richardson por su tiempo y disposición para documentar y visibilizar este caso. |
 
 **Perfil de autores**
 
