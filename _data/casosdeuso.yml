@@ -16,7 +16,7 @@ tarjetasUso:
       cta:
       - text: Ver más
         href: /post/2026/caso-distribucion-del-cacao/
-        isPrimary: false
+        isPrimary: true
         
     - preTitle: "Uso en gestión ambiental"
       title: Actualización de plan de conservación de felinos del MADS
