@@ -40,17 +40,6 @@ tarjetasUso:
           isPrimary: true
           new_window: true
 
-    - preTitle: "Uso en gestión ambiental"
-      title: Actualización de la lista de especies exóticas declaradas como invasoras con un enfoque preventivo
-      description: |
-        Aportó a la síntesis oficial de cifras nacionales y la lista del diagnóstico del Plan Nacional de Prevención, Control y Manejo, resultado del MADS.
-      background: /assets/images/noticias_eventos/2025/2025-12-15-especies-invasoras.jpg
-      cta:
-        - text: Ver más
-          href: https://biodiversidad.co/post/2025/actualizacion-lista-invasoras/
-          isPrimary: true
-          target: "_blank"
-
 
 tarjetasOtrosUsos:
   title: Otros usos
