@@ -13,7 +13,7 @@ background: /assets/images/noticias_eventos/2026/2026-09-22-portada-caso-distrib
 
 | Este caso hace parte de una serie que muestra el valor de compartir y usar datos abiertos e información sobre biodiversidad a través de redes como el SiB Colombia y GBIF. |
 
-Para muchos, cuando nos hablan de cacao, pensamos inmediatamente en una taza de chocolate caliente. O tal vez en una barra de chocolate 🍫. Pero estos, y otros muchos productos derivados del cacao, no llegan por arte de magia a los supermercados, tiendas o a la misma mesa. Vienen de una planta que ha estado en nuestro continente americano desde hace décadas. Pero, ¿es esa planta, que nos ha dado tanta alegría a través del chocolate, nativa de este continente? ¿Cuál ha sido su historia y cómo fue que pasó a ser parte tan intrínseca de nuestra cultura?
+Para muchos, cuando nos hablan de cacao, pensamos inmediatamente en una taza de chocolate caliente. O tal vez en una barra de chocolate 🍫. Pero estos, y otros muchos productos derivados del cacao, no llegan por arte de magia a los supermercados, tiendas o a la misma mesa. Vienen de una planta nativa de nuestro continente americano. Pero, ¿de qué parte es realmente nativa esta planta que nos ha dado tanta alegría a través del chocolate? ¿Cuál ha sido su historia y cómo fue que pasó a ser parte tan intrínseca de nuestra cultura?
 
 La distribución de una especie no siempre es resultado de procesos naturales. En el caso del cacao (*Theobroma cacao*), su presencia actual podría guardar las huellas de su particular origen y expansión por América y el planeta, en una larga historia de interacción con diversas comunidades humanas.
 
