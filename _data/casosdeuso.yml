@@ -7,6 +7,17 @@ videoPrincipal:
 tarjetasUso:
   title: Casos destacados
   features:
+    - preTitle: 22 de septiembre, 2026
+      title: "Redescubriendo la distribución del cacao con el uso de datos abiertos sobre biodiversidad" 
+      description: |      # required
+       En este nuevo caso, se evidencia cómo actividades humanas previas a la colonización pudieron haber influido en la distribución del cacao en América y el resto del mundo.
+      # img required
+      background: /assets/images/noticias_eventos/2026/2026-09-22-portada-caso-distribucion-de-cacao.png
+      cta:
+      - text: Ver más
+        href: /post/2026/caso-distribucion-del-cacao/
+        isPrimary: false
+        
     - preTitle: "Uso en gestión ambiental"
       title: Actualización de plan de conservación de felinos del MADS
       description: |
