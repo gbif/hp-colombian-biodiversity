@@ -96,6 +96,17 @@ splitGruposdeInteres:
 noticias:
   features:
 
+    - preTitle: 22 de septiembre, 2026
+      title: "Redescubriendo la distribución del cacao con el uso de datos abiertos sobre biodiversidad" 
+      description: |      # required
+       En este nuevo caso, se evidencia cómo actividades humanas previas a la colonización pudieron haber influido en la distribución del cacao en América y el resto del mundo.
+      # img required
+      background: /assets/images/noticias_eventos/2026/2026-09-22-portada-caso-distribucion-de-cacao.png
+      cta:
+      - text: Ver más
+        href: /post/2026/caso-distribucion-del-cacao/
+        isPrimary: false
+
     - preTitle: 27 de agosto, 2026
       title: "Comunidades del Vichada y el Meta se suman como nuevas publicadoras: así fue julio en el SiB Colombia" 
       description: |      # required
@@ -118,7 +129,6 @@ noticias:
         href: /post/2026/destacados-junio/
         isPrimary: false
         
-
     - preTitle: 01 de julio, 2026
       title: "Cámaras trampa, hongos de altura y polillas nocturnas: un vistazo a los datos que organizaciones de todo el país compartieron con el mundo en mayo." 
       description: |      # required
@@ -150,17 +160,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2026/destacados-marzo/
-        isPrimary: false
-
-    - preTitle: 25 de marzo, 2026
-      title: "Cámaras trampa, jardines y antídotos: los datos de febrero en el SiB Colombia" 
-      description: |      # required
-       Un grupo ecológico del Huila, dos jardines botánicos, el Instituto Nacional de Salud y una colección universitaria sumaron sus datos este mes.
-      # img required
-      background: /assets/images/noticias_eventos/2026/2026-03-25-destacados-febrero2026.jpg
-      cta:
-      - text: Ver más
-        href: /post/2026/destacados-febrero/
         isPrimary: false
            
         
