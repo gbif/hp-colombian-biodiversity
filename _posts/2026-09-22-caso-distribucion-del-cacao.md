@@ -2,7 +2,7 @@
 preTitle: 22 de septiembre, 2026
 title: "Redescubriendo la distribución del cacao con el uso de datos abiertos sobre biodiversidad"
 description: "_En este nuevo caso, se evidencia cómo actividades humanas previas a la colonización pudieron haber influido en la distribución del cacao en América y el resto del mundo._"
-date: 2026-08-27
+date: 2026-09-22
 categories: ["Caso de uso", "Datos abiertos", “Distribución de especies”, “Cacao”, “Matheus Colli-Silva”, "Internacional", "2026"]
 background: /assets/images/noticias_eventos/2026/2026-09-22-portada-caso-distribucion-de-cacao.png
 
@@ -10,7 +10,6 @@ background: /assets/images/noticias_eventos/2026/2026-09-22-portada-caso-distrib
 
 
 ---
-
 | Este caso hace parte de una serie que muestra el valor de compartir y usar datos abiertos e información sobre biodiversidad a través de redes como el SiB Colombia y GBIF. |
 
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/w0dOQiHGGbs?si=dmWkgxSVyNswMZg_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
