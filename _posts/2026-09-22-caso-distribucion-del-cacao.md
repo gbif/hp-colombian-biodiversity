@@ -56,7 +56,7 @@ El valor de los datos abiertos está precisamente en esta posibilidad de **compa
 
 Nota escrita por: **David González**
 
-Revisada por: **Helena Olaya**, **Sebastián Lozano**, **Ricardo Ortíz**
+Revisada por: **Helena Olaya**, **Sebastián Lozano**, **Verónica Castellanos**, **Ricardo Ortíz**
 
 ## Autores
 
