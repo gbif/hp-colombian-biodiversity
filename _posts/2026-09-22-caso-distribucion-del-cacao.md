@@ -36,7 +36,7 @@ En este caso, los datos de biodiversidad se integraron con datos derivados de se
 
 El caso del cacao también muestra por qué es importante documentar y compartir información sobre la biodiversidad con la mayor calidad y contexto posibles. Los datos de colecciones biológicas no son solamente registros de especies: pueden convertirse en evidencia para estudiar cambios en la distribución, reconstruir historias de territorios y comprender las relaciones de larga duración entre las sociedades humanas y los ecosistemas.
 
-*| Este es uno de los muchos caminos que pueden recorrer los datos abiertos: compartirlos para encontrarlos, usarlos y generar nuevas preguntas. | *
+| Este es uno de los muchos caminos que pueden recorrer los datos abiertos: compartirlos para encontrarlos, usarlos y generar nuevas preguntas. |
 
 ![Frutos de cacao](/assets/images/noticias_eventos/2026/2026-09-18-cacao-frutos.png "Frutos de cacao")
 📷R Chu R - Wikimedia Commons (CC-BY-3.0); Isai Symens - Wikimedia Commons (CC BY-SA 4.0) 
