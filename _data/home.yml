@@ -63,7 +63,7 @@ bannerDatatonAmazonia:
 # Banner Actualización de datos
 bannerActualizacionDatos:
   markdownContent: | 
-      [![Actualización de datos](/assets/images/Banner_actualizacion_datos.png)](https://forms.gle/e5xoM6mBteUhsAP98){:target="_blank"}
+      [![Actualización de datos](/assets/images/landing_page/banner_actualizacion_datos.png)](https://forms.gle/e5xoM6mBteUhsAP98){:target="_blank"}
 
 # Banner problemas técnicos IPT
 bannerProblemasTecnicos:
