@@ -54,11 +54,11 @@ El valor de los datos abiertos está precisamente en esta posibilidad de **compa
 
 | Agradecemos especialmente a los profesores Matheus Colli-Silva y James Edward Richardson por su tiempo y disposición para documentar y visibilizar este caso. |
 
-Escrito por: **David González**
+Nota escrita por: **David González**
 
-Revisado por: **Helena Olaya**, **Sebastián Lozano**, **Ricardo Ortíz**
+Revisada por: **Helena Olaya**, **Sebastián Lozano**, **Ricardo Ortíz**
 
-**Perfil de autores del artículo base**
+## Autores
 
 1. **Matheus Colli-Silva** · Miembro de la facultad en la Universidade Federal de Pernambuco, Recife, Brasil · Royal Botanic Gardens, Kew, Richmond, Surrey, Reino Unido;
 2. **James Edward Richardson**  · University College Cork, Cork, Irlanda * · *Sección de Diversidad Tropical, Royal Botanic Garden Edinburgh, Edimburgo, Reino Unido;
