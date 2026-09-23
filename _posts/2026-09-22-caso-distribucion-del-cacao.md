@@ -13,7 +13,7 @@ background: /assets/images/noticias_eventos/2026/2026-09-22-portada-caso-distrib
 
 | Este caso hace parte de una serie que muestra el valor de compartir y usar datos abiertos e información sobre biodiversidad a través de redes como el SiB Colombia y GBIF. |
 
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/pxITMXo9Jmw?si=lRRPkRvvujcK3sjO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/wGMbk_3wiew?si=_pY8aYGjZJfAJCQO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 
 Para muchos, cuando nos hablan de cacao, pensamos inmediatamente en una taza de chocolate caliente. O tal vez en una barra de chocolate 🍫. Pero estos, y otros muchos productos derivados del cacao, no llegan por arte de magia a los supermercados, tiendas o a la misma mesa. Vienen de una planta nativa de nuestro continente americano. Pero, ¿de qué parte es realmente nativa esta planta que nos ha dado tanta alegría a través del chocolate? ¿Cuál ha sido su historia y cómo fue que pasó a ser parte tan intrínseca de nuestra cultura?
