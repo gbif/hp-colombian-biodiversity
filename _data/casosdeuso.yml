@@ -15,7 +15,7 @@ tarjetasUso:
       background: /assets/images/noticias_eventos/2026/2026-09-22-portada-caso-distribucion-de-cacao.png
       cta:
       - text: Ver más
-        href: /post/2026/caso-distribucion-del-cacao/
+        href: https://biodiversidad.co/post/2026/caso-distribucion-del-cacao/
         isPrimary: true
         
     - preTitle: "Uso en gestión ambiental"
