@@ -55,6 +55,7 @@ El valor de los datos abiertos está precisamente en esta posibilidad de **compa
 | Agradecemos especialmente a los profesores Matheus Colli-Silva y James Edward Richardson por su tiempo y disposición para documentar y visibilizar este caso. |
 
 Escrito por: **David González**
+
 Revisado por: **Helena Olaya**, **Sebastián Lozano**, **Ricardo Ortíz**
 
 **Perfil de autores del artículo base**
