@@ -1,10 +1,10 @@
 ---
-preTitle: 25 de julio, 2025
-title: Fauna y flora orinocense, microorganismos amazónicos, aves, peces e insectos entre los destacados de junio
-description: _Reservas Naturales de la Sociedad Civil, empresas, corporaciones autónomas regionales, jardínes botánicos e institutos de investigación contribuyen este mes con conjuntos de datos, listas de chequeo y colecciones de nuestra biodiversidad._
-date: 2025-07-25
-categories: ["Publicación", "Datos abiertos", "Destacados SiB", "2025"]
-background: /assets/images/noticias_eventos/2025/2025-07-25-destacados-junio-2025.png
+preTitle: 25 de septiembre, 2026
+title: "Del páramo a la Amazonía: en agosto se amplió el mapa de la biodiversidad"
+description: "__Un resguardo y dos fundaciones entre los destacados de agosto con el oso andino en Las Hermosas, diversos grupos taxonómicos en Nariño y peces nativos en el Cauca. _"
+date: 2026-08-25
+categories: ["Publicación", "Datos abiertos", "Agosto", "Destacados SiB", "2026"]
+background: assets/images/noticias_eventos/2026/2026-09-14-destacados-agosto.png
 
 
 
