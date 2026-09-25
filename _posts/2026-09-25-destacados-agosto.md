@@ -2,7 +2,7 @@
 preTitle: 25 de septiembre, 2026
 title: "Del páramo a la Amazonía: en agosto se amplió el mapa de la biodiversidad"
 description: _Un resguardo y dos fundaciones entre los destacados de agosto con el oso andino en Las Hermosas, diversos grupos taxonómicos en Nariño y peces nativos en el Cauca._
-date: 2026-08-25
+date: 2026-09-25
 categories: ["Publicación", "Datos abiertos", "Agosto", "Destacados SiB", "2026"]
 background: assets/images/noticias_eventos/2026/2026-09-14-destacados-agosto.png
 
@@ -45,4 +45,4 @@ Proteger lo que no se conoce es imposible. Con cada registro aportado desde los 
 
 [![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf3WbfYDqRyAK3MGNDDIkGv88P3maELQvea1QghEoxFh3Doubut435dlkSzteAjgWuBZ0U1aZmwla4EXUx-lXjMQP4oeqvJ1lrOpBKMhDWij9wQZtdhx9DdzqXLBrWX5DvoAECB6w?key=wlMkOEzCVlzZ9u_lLvX2XQ)](https://biodiversidad.co/comunidad/actividad-de-publicacion/)
 
-Esta nota hace parte de una serie que cubre el reporte mensual de la actividad de publicación, para visibilizar las acciones de los socios publicadores y sus esfuerzos por aportar al conocimiento de la biodiversidad del país. Para conocer los destacados de meses anteriores, te invitamos a ingresar a la categoría de búsqueda [Destacados SiB en nuestras noticias](https://biodiversidad.co/news/){:target="_blank"} y a[cceder a los reportes históricos de la actividad de publicación](https://biodiversidad.co/comunidad/actividad-de-publicacion/). 
+Esta nota hace parte de una serie que cubre el reporte mensual de la actividad de publicación, para visibilizar las acciones de los socios publicadores y sus esfuerzos por aportar al conocimiento de la biodiversidad del país. Para conocer los destacados de meses anteriores, te invitamos a ingresar a la categoría de búsqueda [Destacados SiB en nuestras noticias](https://biodiversidad.co/news/){:target="_blank"} y [acceder a los reportes históricos de la actividad de publicación](https://biodiversidad.co/comunidad/actividad-de-publicacion/){:target="_blank"}. 
