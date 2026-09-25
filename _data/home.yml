@@ -95,6 +95,17 @@ splitGruposdeInteres:
 # Noticias
 noticias:
   features:
+        
+    - preTitle: 25 de septiembre, 2026
+      title: "Del páramo a la Amazonía: en agosto se amplió el mapa de la biodiversidad" 
+      description: |      # required
+       Un resguardo y dos fundaciones entre los destacados de agosto con el oso andino en Las Hermosas, diversos grupos taxonómicos en Nariño y peces nativos en el Cauca.
+      # img required
+      background: /assets/images/noticias_eventos/2026/2026-09-14-destacados-agosto.png
+      cta:
+      - text: Ver más
+        href: /post/2026/destacados-agosto/
+        isPrimary: false
 
     - preTitle: 22 de septiembre, 2026
       title: "Redescubriendo la distribución del cacao con el uso de datos abiertos sobre biodiversidad" 
@@ -149,17 +160,6 @@ noticias:
       cta:
       - text: Ver más
         href: /post/2026/destacados-abril/
-        isPrimary: false
-        
-    - preTitle: 23 de abril, 2026
-      title: "En marzo, una comunidad del Meta y una universidad de Medellín ampliaron el mapa de la biodiversidad colombiana" 
-      description: |      # required
-       Monitoreo comunitario, hongos comestibles y nuevos estándares: los destacados de marzo en el SiB Colombia.
-      # img required
-      background: /assets/images/noticias_eventos/2026/2026-04-23-destacados_marzo2026.jpg
-      cta:
-      - text: Ver más
-        href: /post/2026/destacados-marzo/
         isPrimary: false
            
         
