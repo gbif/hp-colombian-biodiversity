@@ -1,7 +1,7 @@
 ---
 preTitle: 25 de septiembre, 2026
 title: "Del páramo a la Amazonía: en agosto se amplió el mapa de la biodiversidad"
-description: "__Un resguardo y dos fundaciones entre los destacados de agosto con el oso andino en Las Hermosas, diversos grupos taxonómicos en Nariño y peces nativos en el Cauca. _"
+description: _Un resguardo y dos fundaciones entre los destacados de agosto con el oso andino en Las Hermosas, diversos grupos taxonómicos en Nariño y peces nativos en el Cauca._
 date: 2026-08-25
 categories: ["Publicación", "Datos abiertos", "Agosto", "Destacados SiB", "2026"]
 background: assets/images/noticias_eventos/2026/2026-09-14-destacados-agosto.png
@@ -32,17 +32,17 @@ La [Fundación Suyusama](https://biodiversidad.co/publisher/3a478aeb-7bef-4e3c-a
 
 Los datos aportados por la **Fundación Suyusama** en el Corredor Andino Amazónico fortalecen el conocimiento de los ecosistemas altoandinos. Esta información es relevante para los estudios que buscan la declaratoria y el adecuado manejo de esta zona como Área Protegida. De este aporte integral, destacamos dos grupos por su valor para la caracterización ecológica del área:
 
-**| Artrópodos:** Esta[ lista de especies de la artropofauna](https://biodiversidad.co/dataset/fae661e0-d005-4eaf-a743-b3c2be48d96b?utm_source=gemini){:target="_blank"}  reúne 91 taxones pertenecientes a 18 órdenes y 71 familias. Entre los grupos registrados se encuentran familias reconocidas por su sensibilidad ecológica y su importancia funcional, lo que arroja luces sobre el estado de conservación de estos ecosistemas. |
+| **Artrópodos:** Esta[ lista de especies de la artropofauna](https://biodiversidad.co/dataset/fae661e0-d005-4eaf-a743-b3c2be48d96b?utm_source=gemini){:target="_blank"}  reúne 91 taxones pertenecientes a 18 órdenes y 71 familias. Entre los grupos registrados se encuentran familias reconocidas por su sensibilidad ecológica y su importancia funcional, lo que arroja luces sobre el estado de conservación de estos ecosistemas. |
 
-**| Epífitas vasculares:** La[ caracterización florística de epífitas vasculares](https://biodiversidad.co/dataset/b4707bed-206e-4fda-8dff-db6459668913?utm_source=gemini){:target="_blank"} contribuye a establecer una línea de referencia sobre la diversidad del área, documentando la presencia de especies endémicas y amenazadas como el frailejón (*Espeletia pycnophylla*) y el *Ilex uniflora*. |
+| **Epífitas vasculares:** La[ caracterización florística de epífitas vasculares](https://biodiversidad.co/dataset/b4707bed-206e-4fda-8dff-db6459668913?utm_source=gemini){:target="_blank"} contribuye a establecer una línea de referencia sobre la diversidad del área, documentando la presencia de especies endémicas y amenazadas como el frailejón (*Espeletia pycnophylla*) y el *Ilex uniflora*. |
 
 
 ## Registros biológicos
 
 Las aguas frías de alta montaña también tienen novedades. La **Fundación Universitaria de Popayán** publicó[ nuevos registros de peces nativos de arroyos altoandinos](https://ipt.biodiversidad.co/sib/resource?r=fup_peces_arroyos_montanos&utm_source=gemini){:target="_blank"} en el departamento del Cauca. Estos datos se obtuvieron en una investigación que evalúa cómo la invasión de la trucha arcoíris (*Oncorhynchus mykiss*) afecta a las comunidades dulceacuícolas locales, y los registros documentan especies de los géneros *Atroblepus*, *Chaetostoma*, *Brycon* y *Trichomycterus* en la quebrada La Palma (Jambaló) y el río Los Robles, aportando evidencia clave para orientar estrategias de conservación participativa en territorios indígenas. 
 
-Proteger lo que no se conoce es imposible. Con cada registro aportado desde los páramos del Valle del Cauca, los arroyos caucanos o los corredores andino-amazónicos en Nariño, seguimos apoyando la divulgación para respaldar las decisiones de conservación en los territorios. .[Consulta la guía para publicar datos en el SiB Colombia](https://biodiversidad.co/compartir/guia-para-publicar/){:target="_blank"} y se parte de nuestra red.
+Proteger lo que no se conoce es imposible. Con cada registro aportado desde los páramos del Valle del Cauca, los arroyos caucanos o los corredores andino-amazónicos en Nariño, seguimos apoyando la divulgación para respaldar las decisiones de conservación en los territorios. [Consulta la guía para publicar datos en el SiB Colombia](https://biodiversidad.co/compartir/guia-para-publicar/){:target="_blank"} y se parte de nuestra red.
 
 [![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf3WbfYDqRyAK3MGNDDIkGv88P3maELQvea1QghEoxFh3Doubut435dlkSzteAjgWuBZ0U1aZmwla4EXUx-lXjMQP4oeqvJ1lrOpBKMhDWij9wQZtdhx9DdzqXLBrWX5DvoAECB6w?key=wlMkOEzCVlzZ9u_lLvX2XQ)](https://biodiversidad.co/comunidad/actividad-de-publicacion/)
 
-Esta nota hace parte de una serie que cubre el reporte mensual de la actividad de publicación, para visibilizar las acciones de los socios publicadores y sus esfuerzos por aportar al conocimiento de la biodiversidad del país. Para conocer los destacados de meses anteriores, te invitamos a ingresar a la categoría de búsqueda [Destacados SiB en nuestras noticias](https://biodiversidad.co/news/)*{:target="_blank"} y a[cceder a los reportes históricos de la actividad de publicación](https://biodiversidad.co/comunidad/actividad-de-publicacion/)*. 
+Esta nota hace parte de una serie que cubre el reporte mensual de la actividad de publicación, para visibilizar las acciones de los socios publicadores y sus esfuerzos por aportar al conocimiento de la biodiversidad del país. Para conocer los destacados de meses anteriores, te invitamos a ingresar a la categoría de búsqueda [Destacados SiB en nuestras noticias](https://biodiversidad.co/news/){:target="_blank"} y a[cceder a los reportes históricos de la actividad de publicación](https://biodiversidad.co/comunidad/actividad-de-publicacion/)*. 
