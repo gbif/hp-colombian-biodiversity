@@ -30,7 +30,7 @@ Los resultados apoyan la hipótesis de que algunas poblaciones de cacao que actu
 
 ## **De los registros a nuevas preguntas sobre la biodiversidad**
 
-Los registros de especímenes preservados son una fuente fundamental para conocer dónde y cuándo se han observado las especies. Cuando estos datos son digitalizados, estandarizados y publicados mediante redes como el **SiB Colombia y GBIF**, pueden ser descubiertos y usados por investigadores de diferentes disciplinas y países,** bajo los términos y el reconocimiento de quienes los comparten**.
+Los registros de especímenes preservados son una fuente fundamental para conocer dónde y cuándo se han observado las especies. Cuando estos datos son digitalizados, estandarizados y publicados mediante redes como el **SiB Colombia y GBIF**, pueden ser descubiertos y usados por investigadores de diferentes disciplinas y países, **bajo los términos y el reconocimiento de quienes los comparten**.
 
 En este caso, los datos de biodiversidad se integraron con datos derivados de sensores remotos, información histórica sobre el paisaje y evidencia biogeográfica. La combinación de estas fuentes permitió explorar una pregunta que difícilmente podría abordarse a partir de una sola fuente de información: **¿hasta qué punto la distribución actual del cacao refleja procesos naturales y cuál es la historia de las relaciones entre las personas y esta especie?**
 
