@@ -13,7 +13,7 @@ background: assets/images/noticias_eventos/2026/2026-09-14-destacados-agosto.png
 
 La publicación de datos sobre biodiversidad es un proceso voluntario que depende del compromiso de organizaciones, investigadores y ciudadanos dispuestos a compartir lo que saben. Cada conjunto de datos publicado es un paso más hacia un conocimiento más completo, accesible y útil para todos.
 
-Desde el equipo coordinador del SiB Colombia acompañamos mes a mes este proceso, destacando los aportes más relevantes por su impacto en el conocimiento, la gestión y la conservación de la biodiversidad. Estas son las novedades de agosto de 2026 
+Desde el equipo coordinador del SiB Colombia acompañamos mes a mes este proceso, destacando los aportes más relevantes por su impacto en el conocimiento, la gestión y la conservación de la biodiversidad. Estas son las novedades de agosto de 2026:
 
 
 # Nuevas organizaciones publicadoras
