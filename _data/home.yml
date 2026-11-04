@@ -96,6 +96,16 @@ splitGruposdeInteres:
 noticias:
   features:
         
+    - preTitle: 4 de noviembre, 2026
+      title: "Mamíferos, anfibios, aves y reptiles dan vida a los destacados de septiembre" 
+      description: |      # required
+       Asociaciones, fundaciones, iniciativas comunitarias y de investigación, y una empresa entre los destacados de septiembre con registros desde el Caribe hasta la Amazonía.
+      # img required
+      background: /assets/images/noticias_eventos/2026/2026-11-04-destacados-septiembre.png
+      cta:
+      - text: Ver más
+        href: /post/2026/destacados-septiembre/
+        isPrimary: false
     - preTitle: 25 de septiembre, 2026
       title: "Del páramo a la Amazonía: en agosto se amplió el mapa de la biodiversidad" 
       description: |      # required
