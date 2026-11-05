@@ -31,7 +31,7 @@ En ecosistemas de bosque altoandino y páramo de Boyacá, Caldas, Cauca, Quindí
 
 ## Listas de chequeo
 
-Con un impacto a escala nacional, [**Coleoptera de Colombia**](https://www.gbif.org/publisher/2c39be5c-c11e-46d0-bcb4-552f2072d19f){:target="_blank"} publicó una lista de chequeo de la familia Mauroniscidae (Coleoptera: Cleroidea), que documenta dos especies de escarabajos pertenecientes a **dos géneros**, una de ellas considerada endémica de Colombia. El listado reúne información taxonómica y referencias históricas de especies reportadas para el departamento del Cauca, cuyos especímenes se encuentran depositados en el Museo de Historia Natural de Londres. Esta publicación contribuye a la ampliación de los listados de referencia taxonómicos nacionales. [Consulta los registros aquí](https://biodiversidad.co/dataset/179fce90-df32-480b-852c-427ea1a56a4e){:target="_blank"}.
+Con un impacto a escala nacional, [**Coleoptera de Colombia**](https://www.gbif.org/publisher/2c39be5c-c11e-46d0-bcb4-552f2072d19f){:target="_blank"} publicó una lista de chequeo de la familia Mauroniscidae (Coleoptera: Cleroidea), que documenta dos especies de escarabajos pertenecientes a **dos géneros**, una de ellas considerada endémica de Colombia. El listado reúne información taxonómica y referencias históricas de especies reportadas para el departamento del Cauca, cuyos especímenes se encuentran depositados en el Museo de Historia Natural de Londres. Esta publicación contribuye a la ampliación de los listados de referencia taxonómicos nacionales. [Consulta la nueva lista aquí](https://biodiversidad.co/dataset/179fce90-df32-480b-852c-427ea1a56a4e){:target="_blank"}.
 
 ## Registros biológicos
 
