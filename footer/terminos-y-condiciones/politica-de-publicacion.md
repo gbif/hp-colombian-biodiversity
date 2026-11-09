@@ -78,8 +78,8 @@ Los publicadores de datos deben elegir, según el tipo de datos e información, 
 | Licencias| Registros biológicos | Eventos de muestreo | Listas de especies | Registros biológicos CR-SiB | Fichas de especies | Cifras e indicadores  |
 | ------ | ------ | ------ | ------ | ------ |------ | ------ | ------  |
 | CC0	 |✓ | ✓	 | ✓  | ✓ | ✓  |  	 |
-| CC BY|	✓	 | ✓ | 	✓ | ✓ | 	✓	 |
-| CC BY-NC |	✓ | 	✓	 | ✓ | 	✓	 | 	 |
+| CC BY|	✓	 | ✓ | 	✓ | ✓ | 	✓	 |  |
+| CC BY-NC	 |✓ | ✓	 | ✓  | ✓ | ✓  |  	 |
 | CC BY-SA |	 | 	 | 		 |  | 	✓ | 	✓  |
 | CC BY-SA-NC |	 | 	 |  |  | 			✓	  |
 
