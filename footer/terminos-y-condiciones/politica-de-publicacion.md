@@ -75,12 +75,12 @@ Cuando una organización se registra como publicadora en el SiB Colombia, acepta
 Los publicadores de datos deben elegir, según el tipo de datos e información, entre unas opciones preestablecidas de licencias y herramientas *Creative Commons*, que determinará la forma como los comparten y las condiciones que imponen a los usuarios que los reutilicen.
 
 
-| Licencias| Registros biológicos | Eventos de muestreo | Listas de especies | Registros biológicos CR-SiB | Fichas de especies | Cifras e indicadores  |
-| ------ | ------ | ------ | ------ | ------ |------ | ------ | ------  |
-| CC0	 |✓ | ✓	 | ✓  | ✓ | ✓  |  	 |
-| CC BY|	✓	 | ✓ | 	✓ | ✓ | 	✓	 |  |
-| CC BY-NC	 |✓ | ✓	 | ✓  | ✓ | ✓  |  	 |
-| CC BY-SA |	 | 	 | 		 |  | 	✓ | 	✓  |
-| CC BY-SA-NC |	 | 	 |  |  | 			✓	  |
+| Licencias | Registros biológicos | Eventos de muestreo | Listas de especies | Registros biológicos CR-SiB | Fichas de especies | Cifras e indicadores |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| CC0 | ✓ | ✓ | ✓ | ✓ | ✓ | |
+| CC BY | ✓ | ✓ | ✓ | ✓ | ✓ | |
+| CC BY-NC | ✓ | ✓ | ✓ | ✓ | ✓ | |
+| CC BY-SA | | | | | ✓ | ✓ |
+| CC BY-SA-NC | | | | | ✓ | |
 
 Para más información consulta la [guía de acceso abierto](/recursos/acceso-abierto/).
