@@ -13,6 +13,10 @@ La publicación de datos sobre biodiversidad es un proceso voluntario que depend
 
 Desde el equipo coordinador del SiB Colombia acompañamos mes a mes este proceso, destacando los aportes más relevantes por su impacto en el conocimiento, la gestión y la conservación de la biodiversidad. Estas son las novedades de **septiembre** de 2026:
 
+Nota escrita por: **David González**.
+
+Revisada por: **Helena Olaya** y **Sebastián Lozano**.
+
 # Nuevas organizaciones publicadoras
 
 En septiembre, se incorporaron a la red de publicadores tres nuevas organizaciones que contribuyen a cerrar el conocimiento de la biodiversidad de las regiones Caribe, Andina y la Amazonía.
