@@ -95,17 +95,17 @@ splitGruposdeInteres:
 # Noticias
 noticias:
   features:
-        
     - preTitle: 23 de noviembre, 2026
       title: "La biodiversidad costera y la ciencia participativa protagonizan los destacados de octubre" 
       description: |      # required
        Desde las montañas del Caribe hasta los ríos del Pacífico, comunidades locales, institutos de investigación y empresas contribuyen al SiB Colombia con datos de microorganismos, plantas y animales.
       # img required
-      background: assets/images/noticias_eventos/2026/2026-11-23-destacados-octubre.png
+      background: /assets/images/noticias_eventos/2026/2026-11-23-destacados-octubre.png
       cta:
       - text: Ver más
         href: /post/2026/destacados-octubre/
         isPrimary: false
+        
     - preTitle: 4 de noviembre, 2026
       title: "Mamíferos, anfibios, aves y reptiles dan vida a los destacados de septiembre" 
       description: |      # required
@@ -116,6 +116,7 @@ noticias:
       - text: Ver más
         href: /post/2026/destacados-septiembre/
         isPrimary: false
+        
     - preTitle: 25 de septiembre, 2026
       title: "Del páramo a la Amazonía: en agosto se amplió el mapa de la biodiversidad" 
       description: |      # required
