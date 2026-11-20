@@ -99,7 +99,7 @@ noticias:
     - preTitle: 23 de noviembre, 2026
       title: "La biodiversidad costera y la ciencia participativa protagonizan los destacados de octubre" 
       description: |      # required
-       En octubre, comunidades locales, institutos de investigación y empresas contribuyen al SiB Colombia con datos de microorganismos, plantas y animales.
+       Desde las montañas del Caribe hasta los ríos del Pacífico, comunidades locales, institutos de investigación y empresas contribuyen al SiB Colombia con datos de microorganismos, plantas y animales.
       # img required
       background: assets/images/noticias_eventos/2026/2026-11-23-destacados-octubre.png
       cta:
